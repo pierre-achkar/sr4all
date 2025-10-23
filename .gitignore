@@ -223,3 +223,9 @@ data/
 
 # images dir
 images/
+
+# logs dir
+logs/
+
+# jobs dir
+jobs/
