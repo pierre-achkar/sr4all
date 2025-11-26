@@ -5,9 +5,7 @@ import re
 import logging
 from tqdm import tqdm
 
-# =========================
 # Config
-# =========================
 PHRASES = [
     "systematic review",
     "systematic literature review",
@@ -20,11 +18,8 @@ LOG_FILE = "../../logs/retrieval/oax_fetch_studies.log"
 MAILTO = "pieer.achkar@imw.fraunhofer.de"
 SHARD_SIZE = 10_000            # save progress every N items
 
-# =========================
 # Logging
-# =========================
 _LOGGER = None
-
 
 def _get_logger():
     global _LOGGER
@@ -90,9 +85,7 @@ def _merge_shards(shard_paths):
             merged.extend(json.load(f))
     return merged
 
-# =========================
 # Core fetch
-# =========================
 def fetch_openalex_full(or_query: str, work_type: str, per_page: int = 200, max_results=None):
     base_url = "https://api.openalex.org/works"
     cursor = "*"
@@ -156,12 +149,8 @@ def fetch_openalex_full(or_query: str, work_type: str, per_page: int = 200, max_
 
     return total_count or 0, pulled, shard_paths
 
-# =========================
 # Run
-# =========================
 if __name__ == "__main__":
-    # IMPORTANT: quote phrases to match the UI exactly
-    # "foo"|"bar" inside the same field is an OR of exact phrases
     or_query = "|".join([f'"{p}"' for p in PHRASES])
 
     total_found, pulled, shard_paths = fetch_openalex_full(
