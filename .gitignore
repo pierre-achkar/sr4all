@@ -229,3 +229,11 @@ logs/
 
 # jobs dir
 jobs/
+
+my_env/
+
+.overlay/
+
+models/
+
+ckpts/
