@@ -109,28 +109,28 @@ class FactChecker:
 # -----------------------------------------------------------------------------
 # TEST HARNESS
 # -----------------------------------------------------------------------------
-if __name__ == "__main__":
-    # Prevent OOM during test
-    os.environ["VLLM_GPU_MEMORY_UTILIZATION"] = "0.7"
+# if __name__ == "__main__":
+#     # Prevent OOM during test
+#     os.environ["VLLM_GPU_MEMORY_UTILIZATION"] = "0.7"
     
-    print("Testing FactChecker Module...")
+#     print("Testing FactChecker Module...")
     
-    checker = FactChecker()
+#     checker = FactChecker()
     
-    test_pairs = [
-        # Case 1: Supported
-        ("We identified 2500 records from PubMed.", 2500),
+#     test_pairs = [
+#         # Case 1: Supported
+#         ("We identified 2500 records from PubMed.", 2500),
         
-        # Case 2: Contradicted (Hallucination)
-        ("We identified 2500 records from PubMed.", 50),
+#         # Case 2: Contradicted (Hallucination)
+#         ("We identified 2500 records from PubMed.", 50),
         
-        # Case 3: List Support
-        ("The search included Medline, Embase and Scopus.", ["Medline", "Embase"]),
-    ]
+#         # Case 3: List Support
+#         ("The search included Medline, Embase and Scopus.", ["Medline", "Embase"]),
+#     ]
     
-    results = checker.verify_batch(test_pairs)
+#     results = checker.verify_batch(test_pairs)
     
-    for (src, val), res in zip(test_pairs, results):
-        print(f"\nSource: {src}")
-        print(f"Value:  {val}")
-        print(f"Result: {res['status']} ({res['support_probability']:.4f})")
+#     for (src, val), res in zip(test_pairs, results):
+#         print(f"\nSource: {src}")
+#         print(f"Value:  {val}")
+#         print(f"Result: {res['status']} ({res['support_probability']:.4f})")

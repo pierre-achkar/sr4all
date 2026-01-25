@@ -39,7 +39,7 @@ If information is missing, ambiguous or only partially specified, return the app
     - snowballing: Whether citation chasing, reference checking, or backward/forward snowballing is mentioned (e.g., true or false).
     - keywords_used: Keywords reported by the authors (e.g., ["keyword1", "keyword2"]).
     - exact_boolean_queries:
-        boolean_query_string: Exact Boolean query as written (e.g., "(X OR Y) AND Z").
+        - boolean_query_string: Exact Boolean query as written (e.g., "(X OR Y) AND Z").
         - database_source: Database where the query was used (e.g., "PubMed").
         - verbatim_source: Exact text span supporting this query (e.g., "The following search was conducted in PubMed: (X OR Y) AND Z").
     - databases_used: Databases searched (e.g., ["PubMed", "Scopus"]).

@@ -29,8 +29,8 @@ from extraction.verifier import AlignmentVerifier
 # CONFIGURATION
 # -----------------------------------------------------------------------------
 CONFIG = {
-    "input_file": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/raw_candidates.jsonl"),
-    "output_file": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/aligned_candidates.jsonl"),
+    "input_file": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1_old/repaired_raw_candidates.jsonl"),
+    "output_file": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1_old/aligned_repaired_candidates.jsonl"),
     
     # Verification Settings
     "threshold": 70,       # Low threshold for noisy OCR 
@@ -46,7 +46,7 @@ logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s | %(levelname)s | %(message)s",
     handlers=[
-        logging.FileHandler(CONFIG["output_file"].parent / "job_b_alignment.log"),
+        logging.FileHandler(CONFIG["output_file"].parent / "job_b_alignment_repaired_0.log"),
         logging.StreamHandler()
     ]
 )

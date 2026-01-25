@@ -32,7 +32,7 @@ from extraction.inference_engine_batch import QwenInference
 # -----------------------------------------------------------------------------
 CONFIG = {
     # Manifest
-    "input_parquet": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/clean_corpus.parquet"),
+    "input_parquet": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/unprocessed_part2.parquet"),
     
     # Output
     "output_dir": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1"),
@@ -51,7 +51,7 @@ logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s | %(levelname)s | %(message)s",
     handlers=[
-        logging.FileHandler(CONFIG["output_dir"] / "job_a_extraction.log"),
+        logging.FileHandler(CONFIG["output_dir"] / "job_a_extraction_2.log"),
         logging.StreamHandler()
     ]
 )
@@ -61,7 +61,7 @@ logger = logging.getLogger("JobA")
 # MAIN EXECUTION
 # -----------------------------------------------------------------------------
 def main():
-    output_file = CONFIG["output_dir"] / "raw_candidates.jsonl"
+    output_file = CONFIG["output_dir"] / "raw_candidates_2.jsonl"
     
     # 1. Load Manifest
     logger.info(f"Loading manifest from {CONFIG['input_parquet']}...")

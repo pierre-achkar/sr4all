@@ -28,8 +28,8 @@ from extraction.fact_checker import FactChecker
 # CONFIGURATION
 # -----------------------------------------------------------------------------
 CONFIG = {
-    "input_file": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/aligned_candidates.jsonl"),
-    "output_file": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/fact_checked_corpus.jsonl"),
+    "input_file": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1_old/aligned_repaired_candidates.jsonl"),
+    "output_file": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1_old/fact_checked_repaired_corpus_0.jsonl"),
     
     # Batch size for the FactChecker (Chunking)
     "batch_size": 128,  
@@ -44,7 +44,7 @@ logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s | %(levelname)s | %(message)s",
     handlers=[
-        logging.FileHandler(CONFIG["output_file"].parent / "job_e_factcheck.log"),
+        logging.FileHandler(CONFIG["output_file"].parent / "job_e_factcheck_repaired_0.log"),
         logging.StreamHandler()
     ]
 )
