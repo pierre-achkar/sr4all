@@ -177,7 +177,7 @@ def main():
             _save_chunk(batch_output, output_file)
 
     duration = time.perf_counter() - start_time
-    logger.info(f"Job A Complete. Processed {total_remaining} docs in {duration:.2f}s.")
+    logger.info(f"Extraction Complete. Processed {total_remaining} docs in {duration:.2f}s.")
 
 # -----------------------------------------------------------------------------
 # HELPERS

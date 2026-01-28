@@ -172,7 +172,7 @@ def main():
     if buffer:
         _save_chunk(buffer, CONFIG["output_file"])
         
-    logger.info("Job E Complete.")
+    logger.info("Fact-Checking Complete.")
 
 def _save_chunk(data, path):
     with open(path, "a") as f:

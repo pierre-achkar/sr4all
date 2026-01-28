@@ -168,7 +168,7 @@ def main():
         _save_chunk(buffer, output_path)
         
     duration = time.perf_counter() - start_time
-    logger.info(f"Job B Complete. Verified {len(to_process)} docs in {duration:.2f}s.")
+    logger.info(f"Alignment Complete. Verified {len(to_process)} docs in {duration:.2f}s.")
 
 def _save_chunk(data: List[Dict], filepath: Path):
     with open(filepath, "a", encoding="utf-8") as f:
