@@ -29,9 +29,9 @@ from extraction.verifier import AlignmentVerifier
 # CONFIGURATION
 # -----------------------------------------------------------------------------
 CONFIG = {
-    "input_file": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/raw/raw_candidates_0.jsonl"),
-    "output_file": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/raw_aligned/aligned_raw_candidates_0.jsonl"),
-    "log_file": Path("/home/fhg/pie65738/projects/sr4all/logs/extraction/raw_alignment_0.log"),
+    "input_file": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/repaired/repaired_raw_candidates_0.jsonl"),
+    "output_file": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/repaired_aligned/aligned_repaired_candidates_0.jsonl"),
+    "log_file": Path("/home/fhg/pie65738/projects/sr4all/logs/extraction/repaired_alignment_0.log"),
     
     # Verification Settings
     "threshold": 70,       # Low threshold for noisy OCR 

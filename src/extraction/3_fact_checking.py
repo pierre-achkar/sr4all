@@ -28,9 +28,9 @@ from extraction.fact_checker import FactChecker
 # CONFIGURATION
 # -----------------------------------------------------------------------------
 CONFIG = {
-    "input_file": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/raw_aligned/aligned_raw_candidates_0.jsonl"),
-    "output_file": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/raw_fact_checked/raw_fact_checked_corpus_0.jsonl"),
-    "log_file": Path("/home/fhg/pie65738/projects/sr4all/logs/extraction/raw_factcheck_0.log"),
+    "input_file": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/repaired_aligned/aligned_repaired_candidates_0.jsonl"),
+    "output_file": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/repaired_fact_checked/repaired_fact_checked_corpus_0.jsonl"),
+    "log_file": Path("/home/fhg/pie65738/projects/sr4all/logs/extraction/repaired_factcheck_0.log"),
     
     # Batch size for the FactChecker (Chunking)
     "batch_size": 128,  

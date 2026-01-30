@@ -18,6 +18,7 @@ from pathlib import Path
 from typing import List, Dict, Any
 from tqdm import tqdm
 
+
 # Ensure imports
 SCRIPT_DIR = Path(__file__).resolve().parent
 SRC_DIR = SCRIPT_DIR.parent
@@ -32,10 +33,12 @@ from extraction.repair_prompt import REPAIR_SYSTEM_PROMPT, get_repair_user_promp
 # -----------------------------------------------------------------------------
 CONFIG = {
     # Input: The output from Job E (which contains nulls where data failed)
-    "input_file": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1_old/fact_checked_corpus.jsonl"),
+    "input_file": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/raw_fact_checked/raw_fact_checked_corpus_2.jsonl"),
     
     # Output: This becomes the input for Job B (Alignment)
-    "output_file": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1_old/repaired_raw_candidates.jsonl"),
+    "output_file": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/repaired/repaired_raw_candidates_2.jsonl"),
+
+    "log_file": Path("/home/fhg/pie65738/projects/sr4all/logs/extraction/repair_job_2.log"),
     
     "model_path": "Qwen/Qwen3-32B",
     
