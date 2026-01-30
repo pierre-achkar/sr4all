@@ -14,12 +14,24 @@ Tasks:
 
 import json
 from pathlib import Path
+import logging
 
 # -----------------------------------------------------------------------------
 # CONFIGURATION
 # -----------------------------------------------------------------------------
-INPUT_FILE = Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1_old/fact_checked_repaired_corpus_0.jsonl")
-OUTPUT_FILE = Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1_old/sr4all_final_v1.jsonl")
+INPUT_FILE = Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/repaired_fact_checked/repaired_fact_checked_corpus_0.jsonl")
+OUTPUT_FILE = Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/final/sr4all_final_0.jsonl")
+LOGGING_FILE = Path("/home/fhg/pie65738/projects/sr4all/logs/extraction/final_dataset_flattener_0.log")
+
+# Setup Logging
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s | %(levelname)s | %(message)s",
+    handlers=[
+        logging.FileHandler(LOGGING_FILE),
+        logging.StreamHandler()
+    ]
+)
 
 # -----------------------------------------------------------------------------
 # HELPER: VALIDATION LOGIC
@@ -74,17 +86,47 @@ def check_completeness(data):
     # 3. Final Verdict
     return has_objective and has_search and has_criteria
 
+def _strip_verbatim_sources(extraction: dict) -> dict:
+    """
+    Returns a copy of extraction with only the main values (no verbatim_source).
+    Evidence objects become their `value`, and boolean query items drop verbatim_source.
+    """
+    if not extraction:
+        return {}
+
+    cleaned = {}
+    for key, value in extraction.items():
+        # Evidence object -> keep only value
+        if isinstance(value, dict) and "value" in value:
+            cleaned[key] = value.get("value")
+            continue
+
+        # Boolean queries list -> remove verbatim_source per item
+        if key == "exact_boolean_queries" and isinstance(value, list):
+            cleaned[key] = [
+                {
+                    "boolean_query_string": item.get("boolean_query_string"),
+                    "database_source": item.get("database_source"),
+                }
+                for item in value
+                if isinstance(item, dict)
+            ]
+            continue
+
+        cleaned[key] = value
+
+    return cleaned
+
 # -----------------------------------------------------------------------------
 # MAIN EXECUTION
 # -----------------------------------------------------------------------------
 def main():
     if not INPUT_FILE.exists():
-        print(f"Error: Input file not found at {INPUT_FILE}")
+        logging.error(f"Error: Input file not found at {INPUT_FILE}")
         return
 
-    print(f"Reading from: {INPUT_FILE.name}")
-    print(f"Writing to:   {OUTPUT_FILE.name}")
-
+    logging.info(f"Reading from: {INPUT_FILE.name}")
+    logging.info(f"Writing to:   {OUTPUT_FILE.name}")
     total_read = 0
     total_saved = 0
     
@@ -101,30 +143,30 @@ def main():
                     continue # Skip incomplete docs
 
                 # --- FLATTEN STEP ---
-                # 1. Start with metadata
+                # 1. Keep only doc_id + extracted values (no verbatim_source)
                 final_record = {
-                    "doc_id": record.get("doc_id"),
-                    "file_path": record.get("file_path")
+                    "file_path": record.get("file_path"),
+                    "doc_id": record.get("doc_id")
                 }
                 
-                # 2. Hoist extracted fields
+                # 2. Hoist cleaned extracted fields
                 if extraction:
-                    final_record.update(extraction)
+                    final_record.update(_strip_verbatim_sources(extraction))
                 
                 # 3. Save (Clean, no extra stats)
                 fout.write(json.dumps(final_record) + "\n")
                 total_saved += 1
 
             except Exception as e:
-                print(f"Skipping error line: {e}")
+                logging.error(f"Skipping error line: {e}")
 
-    print("-" * 40)
-    print(f"PROCESSING COMPLETE")
-    print(f"Total Read:     {total_read}")
-    print(f"Filtered Out:   {total_read - total_saved}")
-    print(f"Final Dataset:  {total_saved} documents")
-    print(f"Saved to:       {OUTPUT_FILE}")
-    print("-" * 40)
+    logging.info("-" * 40)
+    logging.info(f"PROCESSING COMPLETE")
+    logging.info(f"Total Read:     {total_read}")
+    logging.info(f"Filtered Out:   {total_read - total_saved}")
+    logging.info(f"Final Dataset:  {total_saved} documents")
+    logging.info(f"Saved to:       {OUTPUT_FILE}")
+    logging.info("-" * 40)
 
 if __name__ == "__main__":
     main()
