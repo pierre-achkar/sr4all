@@ -21,6 +21,8 @@ from pathlib import Path
 from typing import List, Dict, Tuple, Optional, Any
 from transformers import AutoTokenizer, AutoConfig
 
+os.environ["VLLM_USE_V1"] = "0"
+
 # 1. Native vLLM Imports
 from vllm import LLM, SamplingParams
 
