@@ -8,15 +8,29 @@ to calculate the Recovery Rate (Recall Gain).
 import json
 from pathlib import Path
 from collections import defaultdict
+import logging
 
 # -----------------------------------------------------------------------------
 # CONFIGURATION
 # -----------------------------------------------------------------------------
 # 1. Baseline: The output of Job E (Clean but sparse)
-BASELINE_FILE = Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1_old/fact_checked_corpus.jsonl")
+BASELINE_FILE = Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/raw_fact_checked/raw_fact_checked_corpus_0.jsonl")
 
 # 2. Repaired: The output of Job C (Inference results)
-REPAIRED_FILE = Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1_old/fact_checked_repaired_corpus_0.jsonl") 
+REPAIRED_FILE = Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/repaired_fact_checked/repaired_fact_checked_corpus_0.jsonl") 
+
+LOG_FILE = Path("/home/fhg/pie65738/projects/sr4all/logs/extraction/repair_impact_analysis_0.log")
+
+# setup logging to a file
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s | %(levelname)s | %(message)s",
+    handlers=[
+        logging.FileHandler(LOG_FILE),
+        logging.StreamHandler()
+    ]
+)
+logger = logging.getLogger("RepairImpactAnalyzer")
 
 def load_corpus(path: Path):
     """Loads corpus into a dict {doc_id: extraction_data}"""
@@ -61,18 +75,17 @@ def is_present(field_data):
     return False
 
 def main():
-    print(f"Loading Baseline: {BASELINE_FILE.name}...")
+    logger.info(f"Loading Baseline: {BASELINE_FILE.name}...")
     baseline = load_corpus(BASELINE_FILE)
-    print(f"Loaded {len(baseline)} baseline docs.")
+    logger.info(f"Loaded {len(baseline)} baseline docs.")
     
-    print(f"Loading Repaired: {REPAIRED_FILE.name}...")
+    logger.info(f"Loading Repaired: {REPAIRED_FILE.name}...")
     repaired = load_corpus(REPAIRED_FILE)
-    print(f"Loaded {len(repaired)} repaired docs.")
+    logger.info(f"Loaded {len(repaired)} repaired docs.")
 
     # Overlapping docs only
     common_ids = set(baseline.keys()) & set(repaired.keys())
-    print(f"Comparing {len(common_ids)} common documents...\n")
-
+    logger.info(f"Comparing {len(common_ids)} common documents...\n")
     stats = defaultdict(lambda: {"missing_before": 0, "recovered": 0, "regressed": 0})
     total_recovered = 0
     total_missing_before = 0
@@ -102,20 +115,19 @@ def main():
             elif was_present and not is_present_now:
                 stats[key]["regressed"] += 1
 
-    # --- PRINT REPORT ---
-    print(f"{'FIELD':<25} | {'MISSING (Base)':<15} | {'RECOVERED':<10} | {'GAIN %':<10}")
-    print("-" * 70)
+    # --- REPORT ---
+    logger.info(f"{'FIELD':<25} | {'MISSING (Base)':<15} | {'RECOVERED':<10} | {'GAIN %':<10}")
+    logger.info("-" * 70)
     
     for key, metrics in sorted(stats.items()):
         missing = metrics["missing_before"]
         recov = metrics["recovered"]
         gain = (recov / missing * 100) if missing > 0 else 0.0
         
-        print(f"{key:<25} | {missing:<15} | {recov:<10} | {gain:.1f}%")
+        logger.info(f"{key:<25} | {missing:<15} | {recov:<10} | {gain:.1f}%")
     
-    print("-" * 70)
+    logger.info("-" * 70)
     grand_gain = (total_recovered / total_missing_before * 100) if total_missing_before > 0 else 0.0
-    print(f"{'TOTAL':<25} | {total_missing_before:<15} | {total_recovered:<10} | {grand_gain:.1f}%")
-
+    logger.info(f"{'TOTAL':<25} | {total_missing_before:<15} | {total_recovered:<10} | {grand_gain:.1f}%")
 if __name__ == "__main__":
     main()
