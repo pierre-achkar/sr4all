@@ -17,11 +17,23 @@ Definition of Complete Document:
 import json
 from pathlib import Path
 from collections import Counter
+import logging
 
 # -----------------------------------------------------------------------------
 # CONFIGURATION
 # -----------------------------------------------------------------------------
-INPUT_FILE = Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1_old/fact_checked_repaired_corpus_0.jsonl")
+INPUT_FILE = Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/repaired_fact_checked/repaired_fact_checked_corpus_0.jsonl")
+
+# setup logging to a file
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s | %(levelname)s | %(message)s",
+    handlers=[
+        logging.FileHandler(Path("/home/fhg/pie65738/projects/sr4all/logs/extraction/completeness_check_0.log")),
+        logging.StreamHandler()
+    ]
+)
+logger = logging.getLogger("CompletenessChecker")
 
 def is_filled(field_data):
     """
@@ -58,10 +70,10 @@ def is_filled(field_data):
 
 def main():
     if not INPUT_FILE.exists():
-        print(f"Error: Input file not found at {INPUT_FILE}")
+        logger.error(f"Input file not found at {INPUT_FILE}")
         return
 
-    print(f"Scanning: {INPUT_FILE.name}...")
+    logger.info(f"Scanning: {INPUT_FILE.name}...")
     
     total_docs = 0
     stats = Counter()
@@ -121,28 +133,27 @@ def main():
                 pass
 
     # --- REPORT ---
-    print("\n" + "="*60)
-    print(f"COMPLETENESS REPORT (N={total_docs})")
-    print("="*60)
+    logger.info("\n" + "="*60)
+    logger.info(f"COMPLETENESS REPORT (N={total_docs})")
+    logger.info("="*60)
     
-    print(f"\n{'INDIVIDUAL FIELD':<35} | {'COUNT':<10} | {'%':<6}")
-    print("-" * 60)
+    logger.info(f"\n{'INDIVIDUAL FIELD':<35} | {'COUNT':<10} | {'%':<6}")
+    logger.info("-" * 60)
     
     for k, v in sorted(stats.items()):
         pct = (v / total_docs) * 100
-        print(f"{k:<35} | {v:<10} | {pct:.1f}%")
+        logger.info(f"{k:<35} | {v:<10} | {pct:.1f}%")
     
-    print("-" * 60)
-    print(f"\n{'LOGIC GROUP':<35} | {'COUNT':<10} | {'%':<6}")
-    print("-" * 60)
+    logger.info("-" * 60)
+    logger.info(f"\n{'LOGIC GROUP':<35} | {'COUNT':<10} | {'%':<6}")
+    logger.info("-" * 60)
     
-    print(f"1. Objective (Value present)        | {has_objective:<10} | {(has_objective/total_docs)*100:.1f}%")
-    print(f"2. Search (Queries OR Keywords)     | {has_search:<10} | {(has_search/total_docs)*100:.1f}%")
-    print(f"3. Criteria (Inclusion OR Exclusion)| {has_criteria:<10} | {(has_criteria/total_docs)*100:.1f}%")
+    logger.info(f"1. Objective (Value present)        | {has_objective:<10} | {(has_objective/total_docs)*100:.1f}%")
+    logger.info(f"2. Search (Queries OR Keywords)     | {has_search:<10} | {(has_search/total_docs)*100:.1f}%")
+    logger.info(f"3. Criteria (Inclusion OR Exclusion)| {has_criteria:<10} | {(has_criteria/total_docs)*100:.1f}%")
     
-    print("="*60)
-    print(f"✅ FULLY COMPLETE DOCS (1+2+3)      | {fully_complete:<10} | {(fully_complete/total_docs)*100:.1f}%")
-    print("="*60)
-
+    logger.info("="*60)
+    logger.info(f"✅ FULLY COMPLETE DOCS (1+2+3)      | {fully_complete:<10} | {(fully_complete/total_docs)*100:.1f}%")
+    logger.info("="*60)
 if __name__ == "__main__":
     main()
