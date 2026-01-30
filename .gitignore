@@ -237,3 +237,5 @@ my_env/
 models/
 
 ckpts/
+
+.github/
