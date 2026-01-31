@@ -22,14 +22,14 @@ import logging
 # -----------------------------------------------------------------------------
 # CONFIGURATION
 # -----------------------------------------------------------------------------
-INPUT_FILE = Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/repaired_fact_checked/repaired_fact_checked_corpus_0.jsonl")
+INPUT_FILE = Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/repaired_fact_checked/repaired_fact_checked_corpus_all.jsonl")
 
 # setup logging to a file
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s | %(levelname)s | %(message)s",
     handlers=[
-        logging.FileHandler(Path("/home/fhg/pie65738/projects/sr4all/logs/extraction/completeness_check_0.log")),
+        logging.FileHandler(Path("/home/fhg/pie65738/projects/sr4all/logs/final_ds/completeness_check_all.log")),
         logging.StreamHandler()
     ]
 )
@@ -84,6 +84,14 @@ def main():
     has_criteria = 0
     fully_complete = 0
 
+    # Search Strategy Breakdown
+    search_bool_only = 0
+    search_keywords_only = 0
+    search_both = 0
+    search_bool_any = 0
+    search_keywords_any = 0
+    search_none = 0
+
     with open(INPUT_FILE, "r") as f:
         for line in f:
             try:
@@ -119,6 +127,20 @@ def main():
                 search_group_ok = bool_ok or key_ok
                 if search_group_ok:
                     has_search += 1
+
+                if bool_ok and key_ok:
+                    search_both += 1
+                elif bool_ok and not key_ok:
+                    search_bool_only += 1
+                elif key_ok and not bool_ok:
+                    search_keywords_only += 1
+                else:
+                    search_none += 1
+
+                if bool_ok:
+                    search_bool_any += 1
+                if key_ok:
+                    search_keywords_any += 1
                 
                 # Group C: Criteria (Inclusion OR Exclusion)
                 criteria_group_ok = inc_ok or exc_ok
@@ -151,6 +173,16 @@ def main():
     logger.info(f"1. Objective (Value present)        | {has_objective:<10} | {(has_objective/total_docs)*100:.1f}%")
     logger.info(f"2. Search (Queries OR Keywords)     | {has_search:<10} | {(has_search/total_docs)*100:.1f}%")
     logger.info(f"3. Criteria (Inclusion OR Exclusion)| {has_criteria:<10} | {(has_criteria/total_docs)*100:.1f}%")
+
+    logger.info("-" * 60)
+    logger.info("SEARCH STRATEGY SPLITS (for downstream datasets)")
+    logger.info("-" * 60)
+    logger.info(f"Has Boolean Queries (any)            | {search_bool_any:<10} | {(search_bool_any/total_docs)*100:.1f}%")
+    logger.info(f"Has Keywords (any)                   | {search_keywords_any:<10} | {(search_keywords_any/total_docs)*100:.1f}%")
+    logger.info(f"Boolean ONLY                         | {search_bool_only:<10} | {(search_bool_only/total_docs)*100:.1f}%")
+    logger.info(f"Keywords ONLY (no boolean)           | {search_keywords_only:<10} | {(search_keywords_only/total_docs)*100:.1f}%")
+    logger.info(f"Boolean + Keywords                   | {search_both:<10} | {(search_both/total_docs)*100:.1f}%")
+    logger.info(f"No Boolean + No Keywords             | {search_none:<10} | {(search_none/total_docs)*100:.1f}%")
     
     logger.info("="*60)
     logger.info(f"✅ FULLY COMPLETE DOCS (1+2+3)      | {fully_complete:<10} | {(fully_complete/total_docs)*100:.1f}%")
