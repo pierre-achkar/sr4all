@@ -19,9 +19,9 @@ import logging
 # -----------------------------------------------------------------------------
 # CONFIGURATION
 # -----------------------------------------------------------------------------
-INPUT_FILE = Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/repaired_fact_checked/repaired_fact_checked_corpus_0.jsonl")
-OUTPUT_FILE = Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/final/sr4all_final_0.jsonl")
-LOGGING_FILE = Path("/home/fhg/pie65738/projects/sr4all/logs/extraction/final_dataset_flattener_0.log")
+INPUT_FILE = Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/repaired_fact_checked/repaired_fact_checked_corpus_all.jsonl")
+OUTPUT_FILE = Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/intermediate/sr4all_intermediate_all.jsonl")
+LOGGING_FILE = Path("/home/fhg/pie65738/projects/sr4all/logs/final_ds/intermediate_dataset_flattener_all.log")
 
 # Setup Logging
 logging.basicConfig(

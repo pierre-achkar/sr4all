@@ -16,12 +16,11 @@ from typing import Dict, Any, Optional
 # -----------------------------------------------------------------------------
 # CONFIGURATION
 # -----------------------------------------------------------------------------
-OAX_JSON = Path("/home/fhg/pie65738/projects/sr4all/data/filtered/oax_sr_slim.json")
-EXTRACTION_JSONL = Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/intermediate/sr4all_final_0.jsonl")
-OUTPUT_JSONL = Path("/home/fhg/pie65738/projects/sr4all/data/final/sr4all_final_joined_0.jsonl")
-LOG_FILE = Path("/home/fhg/pie65738/projects/sr4all/logs/final_ds/final_dataset_join_0.log")
-UNMATCHED_EXTRACTION_IDS = Path("/home/fhg/pie65738/projects/sr4all/data/final/unmatched_extraction_ids_0.txt")
-
+OAX_JSONL = Path("/home/fhg/pie65738/projects/sr4all/data/filtered/oax_sr_slim_abstract_coverage.jsonl")
+EXTRACTION_JSONL = Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/intermediate/sr4all_intermediate_all_corrected.jsonl")
+OUTPUT_JSONL = Path("/home/fhg/pie65738/projects/sr4all/data/final/sr4all_full.jsonl")
+LOG_FILE = Path("/home/fhg/pie65738/projects/sr4all/logs/final_ds/sr4all_full.log")
+UNMATCHED_EXTRACTION_IDS = Path("/home/fhg/pie65738/projects/sr4all/data/final/unmatched_extraction_ids_all.txt")
 # Setup Logging
 OUTPUT_JSONL.parent.mkdir(parents=True, exist_ok=True)
 LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
@@ -53,16 +52,16 @@ def normalize_openalex_id(openalex_id: Optional[str]) -> Optional[str]:
 # MAIN EXECUTION
 # -----------------------------------------------------------------------------
 def main() -> None:
-    if not OAX_JSON.exists():
-        logger.error(f"Input file not found: {OAX_JSON}")
+    if not OAX_JSONL.exists():
+        logger.error(f"Input file not found: {OAX_JSONL}")
         return
     if not EXTRACTION_JSONL.exists():
         logger.error(f"Input file not found: {EXTRACTION_JSONL}")
         return
 
     logger.info("Loading OpenAlex slim records...")
-    with open(OAX_JSON, "r", encoding="utf-8") as f:
-        oax_records = json.load(f)
+    with open(OAX_JSONL, "r", encoding="utf-8") as f:
+        oax_records = [json.loads(line) for line in f]
 
     oax_by_id: Dict[str, Dict[str, Any]] = {}
     for rec in oax_records:

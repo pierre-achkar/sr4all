@@ -25,9 +25,9 @@ from extraction.schema import ReviewExtraction
 # CONFIGURATION
 # -----------------------------------------------------------------------------
 CONFIG = {
-    "input_file": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/final/sr4all_final_0_n.jsonl"),
-    "output_file": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/final/sr4all_final_0_n_c.jsonl"),
-    "log_file": Path("/home/fhg/pie65738/projects/sr4all/logs/extraction/final_fields_check.log"),
+    "input_file": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/intermediate/sr4all_intermediate_all.jsonl"),
+    "output_file": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/intermediate/sr4all_intermediate_all_corrected.jsonl"),
+    "log_file": Path("/home/fhg/pie65738/projects/sr4all/logs/final_ds/repair_fields_all.log"),
 }
 
 # Setup Logging
@@ -70,13 +70,21 @@ def main():
 
             total_records += 1
 
-            # Ensure required fields exist 
+            # Ensure required fields exist and order by schema
+            ordered_record: Dict = {}
             for field in required_fields:
                 if field not in record:
-                    record[field] = None
+                    ordered_record[field] = None
                     field_add_counts[field] += 1
+                else:
+                    ordered_record[field] = record[field]
 
-            fout.write(json.dumps(record) + "\n")
+            # Preserve any extra fields after schema fields (if present)
+            for k, v in record.items():
+                if k not in ordered_record:
+                    ordered_record[k] = v
+
+            fout.write(json.dumps(ordered_record) + "\n")
 
     # Log summary
     logger.info("-" * 60)
