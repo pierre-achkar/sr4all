@@ -18,6 +18,7 @@ import json
 from pathlib import Path
 from collections import Counter
 import logging
+import re
 
 # -----------------------------------------------------------------------------
 # CONFIGURATION
@@ -29,7 +30,10 @@ logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s | %(levelname)s | %(message)s",
     handlers=[
-        logging.FileHandler(Path("/home/fhg/pie65738/projects/sr4all/logs/final_ds/completeness_check_all.log")),
+        logging.FileHandler(
+            Path("/home/fhg/pie65738/projects/sr4all/logs/final_ds/completeness_check_all.log"),
+            mode="w"
+        ),
         logging.StreamHandler()
     ]
 )
@@ -68,6 +72,13 @@ def is_filled(field_data):
 
     return False
 
+_PLACEHOLDER_ONLY_RE = re.compile(r"^(?:#?\d+|AND|OR|NOT|\(|\)|\s)+$", re.IGNORECASE)
+
+def is_placeholder_only(query: str) -> bool:
+    if not query or not isinstance(query, str):
+        return False
+    return _PLACEHOLDER_ONLY_RE.fullmatch(query.strip()) is not None
+
 def main():
     if not INPUT_FILE.exists():
         logger.error(f"Input file not found at {INPUT_FILE}")
@@ -92,6 +103,10 @@ def main():
     search_keywords_any = 0
     search_none = 0
 
+    # Placeholder-only query stats
+    placeholder_only_queries = 0
+    placeholder_only_docs = 0
+
     with open(INPUT_FILE, "r") as f:
         for line in f:
             try:
@@ -109,6 +124,16 @@ def main():
                 key_ok = is_filled(data.get("keywords_used"))
                 inc_ok = is_filled(data.get("inclusion_criteria"))
                 exc_ok = is_filled(data.get("exclusion_criteria"))
+
+                # Placeholder-only checks inside boolean queries
+                placeholder_in_doc = False
+                for q in data.get("exact_boolean_queries") or []:
+                    q_str = (q or {}).get("boolean_query_string")
+                    if is_placeholder_only(q_str):
+                        placeholder_only_queries += 1
+                        placeholder_in_doc = True
+                if placeholder_in_doc:
+                    placeholder_only_docs += 1
 
                 # 2. Update Stats for individual fields
                 if obj_ok: stats["objective"] += 1
@@ -187,5 +212,10 @@ def main():
     logger.info("="*60)
     logger.info(f"✅ FULLY COMPLETE DOCS (1+2+3)      | {fully_complete:<10} | {(fully_complete/total_docs)*100:.1f}%")
     logger.info("="*60)
+
+    logger.info("PLACEHOLDER-ONLY QUERY STATS")
+    logger.info("-" * 60)
+    logger.info(f"Placeholder-only queries (count)   | {placeholder_only_queries:<10}")
+    logger.info(f"Docs with any placeholder-only     | {placeholder_only_docs:<10} | {(placeholder_only_docs/total_docs)*100:.1f}%")
 if __name__ == "__main__":
     main()

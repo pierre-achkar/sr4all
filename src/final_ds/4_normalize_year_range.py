@@ -15,7 +15,7 @@ CONFIG = {
 
 CONFIG["log_file"].parent.mkdir(parents=True, exist_ok=True)
 logging.basicConfig(
-    filename=str(CONFIG["log_file"]),
+    filename=str(CONFIG["log_file"]), filemode="w",
     level=logging.INFO,
     format="%(asctime)s | %(levelname)s | %(message)s",
 )

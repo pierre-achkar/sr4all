@@ -15,6 +15,7 @@ Tasks:
 import json
 from pathlib import Path
 import logging
+import re
 
 # -----------------------------------------------------------------------------
 # CONFIGURATION
@@ -28,7 +29,7 @@ logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s | %(levelname)s | %(message)s",
     handlers=[
-        logging.FileHandler(LOGGING_FILE),
+        logging.FileHandler(LOGGING_FILE, mode="w"),
         logging.StreamHandler()
     ]
 )
@@ -64,6 +65,26 @@ def is_filled(field_data):
         return True
 
     return False
+
+_PLACEHOLDER_ONLY_RE = re.compile(r"^(?:#?\d+|AND|OR|NOT|\(|\)|\s)+$", re.IGNORECASE)
+
+def is_placeholder_only(query: str) -> bool:
+    if not query or not isinstance(query, str):
+        return False
+    return _PLACEHOLDER_ONLY_RE.fullmatch(query.strip()) is not None
+
+def has_only_placeholder_queries(field_data) -> bool:
+    if not isinstance(field_data, list) or not field_data:
+        return False
+    queries = []
+    for item in field_data:
+        if isinstance(item, dict):
+            q = item.get("boolean_query_string")
+            if q is not None:
+                queries.append(q)
+    if not queries:
+        return False
+    return all(is_placeholder_only(q) for q in queries)
 
 def check_completeness(data):
     """
@@ -129,16 +150,36 @@ def main():
     logging.info(f"Writing to:   {OUTPUT_FILE.name}")
     total_read = 0
     total_saved = 0
+    total_placeholder_only = 0
+    total_placeholder_only_dropped = 0
+    total_placeholder_only_kept_keywords = 0
     
     with open(INPUT_FILE, "r") as fin, open(OUTPUT_FILE, "w") as fout:
         for line in fin:
             try:
                 record = json.loads(line)
+                if not isinstance(record, dict):
+                    logging.error("Skipping error line: record is not a dict")
+                    continue
                 total_read += 1
                 
                 extraction = record.get("extraction", {})
+                if extraction is None:
+                    extraction = {}
+                if not isinstance(extraction, dict):
+                    logging.error("Skipping error line: extraction is not a dict")
+                    continue
+                exact_queries = extraction.get("exact_boolean_queries")
                 
                 # --- FILTER STEP ---
+                placeholder_only = has_only_placeholder_queries(exact_queries)
+                if placeholder_only:
+                    total_placeholder_only += 1
+                    if is_filled(extraction.get("keywords_used")):
+                        total_placeholder_only_kept_keywords += 1
+                    else:
+                        total_placeholder_only_dropped += 1
+                        continue
                 if not check_completeness(extraction):
                     continue # Skip incomplete docs
 
@@ -164,6 +205,9 @@ def main():
     logging.info(f"PROCESSING COMPLETE")
     logging.info(f"Total Read:     {total_read}")
     logging.info(f"Filtered Out:   {total_read - total_saved}")
+    logging.info(f"Placeholder-only total: {total_placeholder_only}")
+    logging.info(f"Placeholder-only dropped (no keywords): {total_placeholder_only_dropped}")
+    logging.info(f"Placeholder-only kept (has keywords): {total_placeholder_only_kept_keywords}")
     logging.info(f"Final Dataset:  {total_saved} documents")
     logging.info(f"Saved to:       {OUTPUT_FILE}")
     logging.info("-" * 40)
