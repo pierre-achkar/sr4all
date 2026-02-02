@@ -1,11 +1,10 @@
 """
-Split final dataset into 3 cohorts by search strategy:
-- boolean_only
-- keywords_only
-- both
+Split final dataset into 2 cohorts by search strategy:
+- has_boolean (has any exact_boolean_queries, regardless of keywords)
+- keywords_only (no exact_boolean_queries but has keywords)
 
 Input:  sr4all_full_normalized_year_range.jsonl
-Output: three JSONL files + logging stats
+Output: two JSONL files + logging stats
 """
 
 import json
@@ -53,18 +52,29 @@ def is_filled(field_data: Any) -> bool:
         val = field_data.get("value")
         if val is None:
             return False
-        if isinstance(val, list) and len(val) == 0:
-            return False
+        if isinstance(val, list):
+            if len(val) == 0:
+                return False
+            # Filter out empty/whitespace strings in lists
+            if all(isinstance(v, str) for v in val):
+                return any(v.strip() for v in val)
         return True
 
     # Case 2: List of objects (exact_boolean_queries)
     if isinstance(field_data, list):
         if not field_data:
             return False
-        first_item = field_data[0]
-        if isinstance(first_item, dict):
-            if first_item.get("boolean_query_string") is None:
-                return False
+        # List of dicts (exact_boolean_queries)
+        if all(isinstance(item, dict) for item in field_data):
+            # Require at least one non-empty boolean_query_string
+            for item in field_data:
+                bqs = item.get("boolean_query_string")
+                if isinstance(bqs, str) and bqs.strip():
+                    return True
+            return False
+        # List of strings (keywords)
+        if all(isinstance(item, str) for item in field_data):
+            return any(item.strip() for item in field_data)
         return True
 
     return False
@@ -85,15 +95,14 @@ def main():
 
     CONFIG["output_dir"].mkdir(parents=True, exist_ok=True)
 
-    out_both = CONFIG["output_dir"] / "sr4all_full_normalized_year_range_search_both.jsonl"
-    out_boolean_only = CONFIG["output_dir"] / "sr4all_full_normalized_year_range_search_boolean_only.jsonl"
+    out_has_boolean = CONFIG["output_dir"] / "sr4all_full_normalized_year_range_search_has_boolean.jsonl"
     out_keywords_only = CONFIG["output_dir"] / "sr4all_full_normalized_year_range_search_keywords_only.jsonl"
 
     counts = {
         "total": 0,
-        "both": 0,
-        "boolean_only": 0,
+        "has_boolean": 0,
         "keywords_only": 0,
+        "has_boolean_and_keywords": 0,
         "neither": 0,
         "missing_extraction": 0,
     }
@@ -102,8 +111,7 @@ def main():
     logger.info(f"Writing outputs to: {CONFIG['output_dir']}")
 
     with open(input_path, "r", encoding="utf-8") as fin, \
-        open(out_both, "w", encoding="utf-8") as fb, \
-        open(out_boolean_only, "w", encoding="utf-8") as fbo, \
+        open(out_has_boolean, "w", encoding="utf-8") as fbo, \
         open(out_keywords_only, "w", encoding="utf-8") as fko:
 
         for line in fin:
@@ -130,13 +138,12 @@ def main():
             has_boolean = is_filled(data.get("exact_boolean_queries"))
             has_keywords = is_filled(data.get("keywords_used"))
 
-            if has_boolean and has_keywords:
-                counts["both"] += 1
-                write_jsonl_line(fb, rec)
-            elif has_boolean and not has_keywords:
-                counts["boolean_only"] += 1
+            if has_boolean:
+                counts["has_boolean"] += 1
+                if has_keywords:
+                    counts["has_boolean_and_keywords"] += 1
                 write_jsonl_line(fbo, rec)
-            elif has_keywords and not has_boolean:
+            elif has_keywords:
                 counts["keywords_only"] += 1
                 write_jsonl_line(fko, rec)
             else:
@@ -144,17 +151,16 @@ def main():
 
     logger.info("Split complete.")
     logger.info(
-        "Totals | total=%d both=%d boolean_only=%d keywords_only=%d neither=%d missing_extraction=%d",
+        "Totals | total=%d has_boolean=%d has_boolean_and_keywords=%d keywords_only=%d neither=%d missing_extraction=%d",
         counts["total"],
-        counts["both"],
-        counts["boolean_only"],
+        counts["has_boolean"],
+        counts["has_boolean_and_keywords"],
         counts["keywords_only"],
         counts["neither"],
         counts["missing_extraction"],
     )
 
-    logger.info(f"Output: {out_both}")
-    logger.info(f"Output: {out_boolean_only}")
+    logger.info(f"Output: {out_has_boolean}")
     logger.info(f"Output: {out_keywords_only}")
 
 
