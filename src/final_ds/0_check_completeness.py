@@ -86,7 +86,11 @@ def main():
 
     logger.info(f"Scanning: {INPUT_FILE.name}...")
     
+    total_records = 0
     total_docs = 0
+    total_docs_with_null_extraction = 0
+    total_docs_all_null_fields = 0
+    total_docs_all_fields_filled = 0
     stats = Counter()
     
     # Logic Group Counters
@@ -94,6 +98,11 @@ def main():
     has_search = 0
     has_criteria = 0
     fully_complete = 0
+
+    # Essentials (Objective + Strategy + Eligibility)
+    essentials_complete = 0
+    has_strategy = 0
+    has_eligibility = 0
 
     # Search Strategy Breakdown
     search_bool_only = 0
@@ -107,23 +116,52 @@ def main():
     placeholder_only_queries = 0
     placeholder_only_docs = 0
 
+    fields_to_check = [
+        "objective",
+        "research_questions",
+        "n_studies_initial",
+        "n_studies_final",
+        "year_range",
+        "snowballing",
+        "keywords_used",
+        "exact_boolean_queries",
+        "databases_used",
+        "inclusion_criteria",
+        "exclusion_criteria",
+    ]
+
     with open(INPUT_FILE, "r") as f:
         for line in f:
             try:
                 rec = json.loads(line)
+                total_records += 1
                 data = rec.get("extraction", {})
                 
                 # If extraction is null, skip
-                if not data: continue
+                if not data:
+                    total_docs_with_null_extraction += 1
+                    continue
 
                 total_docs += 1
                 
                 # 1. Check Individual Fields using helper
                 obj_ok = is_filled(data.get("objective"))
+                rq_ok = is_filled(data.get("research_questions"))
+                n_init_ok = is_filled(data.get("n_studies_initial"))
+                n_final_ok = is_filled(data.get("n_studies_final"))
+                year_ok = is_filled(data.get("year_range"))
+                snow_ok = is_filled(data.get("snowballing"))
                 bool_ok = is_filled(data.get("exact_boolean_queries"))
                 key_ok = is_filled(data.get("keywords_used"))
                 inc_ok = is_filled(data.get("inclusion_criteria"))
                 exc_ok = is_filled(data.get("exclusion_criteria"))
+
+                # All-null / all-filled checks across all fields
+                per_field_filled = [is_filled(data.get(k)) for k in fields_to_check]
+                if not any(per_field_filled):
+                    total_docs_all_null_fields += 1
+                if all(per_field_filled):
+                    total_docs_all_fields_filled += 1
 
                 # Placeholder-only checks inside boolean queries
                 placeholder_in_doc = False
@@ -137,6 +175,11 @@ def main():
 
                 # 2. Update Stats for individual fields
                 if obj_ok: stats["objective"] += 1
+                if rq_ok: stats["research_questions"] += 1
+                if n_init_ok: stats["n_studies_initial"] += 1
+                if n_final_ok: stats["n_studies_final"] += 1
+                if year_ok: stats["year_range"] += 1
+                if snow_ok: stats["snowballing"] += 1
                 if bool_ok: stats["exact_boolean_queries"] += 1
                 if key_ok: stats["keywords_used"] += 1
                 if inc_ok: stats["inclusion_criteria"] += 1
@@ -172,6 +215,18 @@ def main():
                 if criteria_group_ok:
                     has_criteria += 1
 
+                # Essentials: Objective + Strategy + Eligibility
+                strategy_ok = search_group_ok
+                eligibility_ok = criteria_group_ok
+
+                if strategy_ok:
+                    has_strategy += 1
+                if eligibility_ok:
+                    has_eligibility += 1
+
+                if obj_ok and strategy_ok and eligibility_ok:
+                    essentials_complete += 1
+
                 # 4. Full Completeness (A + B + C)
                 if obj_ok and search_group_ok and criteria_group_ok:
                     fully_complete += 1
@@ -181,41 +236,27 @@ def main():
 
     # --- REPORT ---
     logger.info("\n" + "="*60)
-    logger.info(f"COMPLETENESS REPORT (N={total_docs})")
+    logger.info(f"COMPLETENESS REPORT (records={total_records}, docs_with_extraction={total_docs})")
     logger.info("="*60)
+
+    logger.info(f"Docs with ALL fields null/empty      | {total_docs_all_null_fields:<10} | {(total_docs_all_null_fields/max(total_docs,1))*100:.1f}%")
+    logger.info(f"Docs with ALL fields filled         | {total_docs_all_fields_filled:<10} | {(total_docs_all_fields_filled/max(total_docs,1))*100:.1f}%")
     
-    logger.info(f"\n{'INDIVIDUAL FIELD':<35} | {'COUNT':<10} | {'%':<6}")
+    logger.info(f"\n{'PER-FIELD COMPLETENESS':<35} | {'COUNT':<10} | {'%':<6}")
     logger.info("-" * 60)
     
     for k, v in sorted(stats.items()):
-        pct = (v / total_docs) * 100
+        pct = (v / max(total_docs, 1)) * 100
         logger.info(f"{k:<35} | {v:<10} | {pct:.1f}%")
     
-    logger.info("-" * 60)
-    logger.info(f"\n{'LOGIC GROUP':<35} | {'COUNT':<10} | {'%':<6}")
-    logger.info("-" * 60)
-    
-    logger.info(f"1. Objective (Value present)        | {has_objective:<10} | {(has_objective/total_docs)*100:.1f}%")
-    logger.info(f"2. Search (Queries OR Keywords)     | {has_search:<10} | {(has_search/total_docs)*100:.1f}%")
-    logger.info(f"3. Criteria (Inclusion OR Exclusion)| {has_criteria:<10} | {(has_criteria/total_docs)*100:.1f}%")
-
-    logger.info("-" * 60)
-    logger.info("SEARCH STRATEGY SPLITS (for downstream datasets)")
-    logger.info("-" * 60)
-    logger.info(f"Has Boolean Queries (any)            | {search_bool_any:<10} | {(search_bool_any/total_docs)*100:.1f}%")
-    logger.info(f"Has Keywords (any)                   | {search_keywords_any:<10} | {(search_keywords_any/total_docs)*100:.1f}%")
-    logger.info(f"Boolean ONLY                         | {search_bool_only:<10} | {(search_bool_only/total_docs)*100:.1f}%")
-    logger.info(f"Keywords ONLY (no boolean)           | {search_keywords_only:<10} | {(search_keywords_only/total_docs)*100:.1f}%")
-    logger.info(f"Boolean + Keywords                   | {search_both:<10} | {(search_both/total_docs)*100:.1f}%")
-    logger.info(f"No Boolean + No Keywords             | {search_none:<10} | {(search_none/total_docs)*100:.1f}%")
-    
     logger.info("="*60)
-    logger.info(f"✅ FULLY COMPLETE DOCS (1+2+3)      | {fully_complete:<10} | {(fully_complete/total_docs)*100:.1f}%")
-    logger.info("="*60)
-
-    logger.info("PLACEHOLDER-ONLY QUERY STATS")
+    logger.info("ESSENTIALS COMPLETENESS (Objective + Strategy + Eligibility)")
     logger.info("-" * 60)
-    logger.info(f"Placeholder-only queries (count)   | {placeholder_only_queries:<10}")
-    logger.info(f"Docs with any placeholder-only     | {placeholder_only_docs:<10} | {(placeholder_only_docs/total_docs)*100:.1f}%")
+    logger.info(f"Objective                            | {has_objective:<10} | {(has_objective/max(total_docs,1))*100:.1f}%")
+    logger.info(f"Strategy (Queries OR Keywords)       | {has_strategy:<10} | {(has_strategy/max(total_docs,1))*100:.1f}%")
+    logger.info(f"Eligibility (Inclusion OR Exclusion) | {has_eligibility:<10} | {(has_eligibility/max(total_docs,1))*100:.1f}%")
+    logger.info(f"Essentials complete (all 3)          | {essentials_complete:<10} | {(essentials_complete/max(total_docs,1))*100:.1f}%")
+
+    logger.info("="*60)
 if __name__ == "__main__":
     main()
