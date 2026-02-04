@@ -1,4 +1,4 @@
-"""Check OAX transform output coverage and error-free status."""
+"""Check OAX transform output coverage and normalized-query completeness."""
 
 import json
 import logging
@@ -13,7 +13,7 @@ CONFIG = {
         "/home/fhg/pie65738/projects/sr4all/data/final/sr4all_full_normalized_year_range_search_boolean_only.jsonl"
     ),
     "output_jsonl": Path(
-        "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/repaired/sr4all_full_normalized_year_range_search_boolean_only_oax.jsonl"
+        "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/sr4all_full_normalized_year_range_search_boolean_only_oax_mapping_repaired.jsonl"
     ),
     "log_file": Path(
         "/home/fhg/pie65738/projects/sr4all/logs/oax/check_oax_output_boolean_only.log"
@@ -23,6 +23,9 @@ CONFIG = {
     ),
     "error_ids_out": Path(
         "/home/fhg/pie65738/projects/sr4all/logs/oax/oax_error_ids_boolean_only.txt"
+    ),
+    "error_ids_by_type_out": Path(
+        "/home/fhg/pie65738/projects/sr4all/logs/oax/oax_error_ids_by_type_boolean_only.json"
     ),
 }
 
@@ -52,17 +55,20 @@ def iter_jsonl(path: Path) -> Iterable[Dict]:
 
 
 def get_record_id(rec: Dict) -> Optional[str]:
-    return rec.get("id") or rec.get("doc_id")
+    return rec.get("id") or rec.get("doc_id") or rec.get("rec_id")
 
 
 def has_oax_error(rec: Dict) -> bool:
-    if rec.get("oax_transform_error"):
-        return True
+    return bool(rec.get("oax_transform_error"))
+
+
+def has_any_normalized_query(rec: Dict) -> bool:
     items = rec.get("oax_boolean_queries")
-    if isinstance(items, list):
-        for item in items:
-            if isinstance(item, dict) and item.get("error"):
-                return True
+    if not isinstance(items, list) or len(items) == 0:
+        return False
+    for item in items:
+        if isinstance(item, str) and item.strip():
+            return True
     return False
 
 
@@ -88,6 +94,10 @@ def main() -> None:
     output_ids: Set[str] = set()
     error_ids: Set[str] = set()
     error_type_counts: Dict[str, int] = {}
+    error_ids_by_type: Dict[str, Set[str]] = {}
+    no_normalized_ids: Set[str] = set()
+    no_normalized_with_expected: Set[str] = set()
+    no_normalized_with_zero_expected: Set[str] = set()
     for rec in iter_jsonl(output_path):
         rec_id = get_record_id(rec)
         if rec_id:
@@ -98,18 +108,22 @@ def main() -> None:
             err = rec.get("oax_transform_error")
             if isinstance(err, str) and err:
                 error_type_counts[err] = error_type_counts.get(err, 0) + 1
-            items = rec.get("oax_boolean_queries")
-            if isinstance(items, list):
-                for item in items:
-                    if isinstance(item, dict) and item.get("error"):
-                        item_err = item.get("error")
-                        if isinstance(item_err, str) and item_err:
-                            error_type_counts[item_err] = error_type_counts.get(item_err, 0) + 1
+                if rec_id:
+                    error_ids_by_type.setdefault(err, set()).add(rec_id)
+        if not has_any_normalized_query(rec):
+            if rec_id:
+                no_normalized_ids.add(rec_id)
+                expected_len = rec.get("oax_expected_len")
+                if isinstance(expected_len, int) and expected_len > 0:
+                    no_normalized_with_expected.add(rec_id)
+                else:
+                    no_normalized_with_zero_expected.add(rec_id)
 
     missing_ids = sorted(input_ids - output_ids)
 
     CONFIG["missing_ids_out"].parent.mkdir(parents=True, exist_ok=True)
     CONFIG["error_ids_out"].parent.mkdir(parents=True, exist_ok=True)
+    CONFIG["error_ids_by_type_out"].parent.mkdir(parents=True, exist_ok=True)
 
     with CONFIG["missing_ids_out"].open("w", encoding="utf-8") as f:
         for rec_id in missing_ids:
@@ -119,14 +133,22 @@ def main() -> None:
         for rec_id in sorted(error_ids):
             f.write(f"{rec_id}\n")
 
+    with CONFIG["error_ids_by_type_out"].open("w", encoding="utf-8") as f:
+        payload = {k: sorted(v) for k, v in sorted(error_ids_by_type.items())}
+        json.dump(payload, f, ensure_ascii=False, indent=2)
+
     summary_lines = [
         "=== OAX Output Check ===",
         f"Input records:  {len(input_ids)}",
         f"Output records: {len(output_ids)}",
         f"Missing records: {len(missing_ids)}",
         f"Error records: {len(error_ids)}",
+        f"No normalized queries: {len(no_normalized_ids)}",
+        f"  - With expected_len > 0: {len(no_normalized_with_expected)}",
+        f"  - With expected_len == 0: {len(no_normalized_with_zero_expected)}",
         f"Missing IDs saved to: {CONFIG['missing_ids_out']}",
         f"Error IDs saved to:   {CONFIG['error_ids_out']}",
+        f"Error IDs by type:    {CONFIG['error_ids_by_type_out']}",
     ]
     if error_type_counts:
         summary_lines.append("Error types (count):")

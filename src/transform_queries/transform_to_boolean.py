@@ -15,9 +15,9 @@ if str(SRC_DIR) not in sys.path:
     sys.path.insert(0, str(SRC_DIR))
 
 # --- UPDATED IMPORTS ---
-from oax import schemas  # The new Pydantic models
-from oax.prompts import TransformerToSimplePrompts  # The prompt class
-from oax.inference_engine import QwenInference
+from transform_queries import schemas  # The new Pydantic models
+from transform_queries.prompts import TransformerToSimplePrompts  # The prompt class
+from transform_queries.inference_engine import QwenInference
 
 # ========================
 # Config
@@ -25,16 +25,16 @@ from oax.inference_engine import QwenInference
 CONFIG = {
     # Update these paths to your actual file locations
     "input_jsonl": Path(
-        "/home/fhg/pie65738/projects/sr4all/data/final/sr4all_full_normalized_year_range_search_keywords_only.jsonl"
+        "/home/fhg/pie65738/projects/sr4all/data/final/with_boolean/null_subsets/sr4all_full_normalized_keywords_only_null_repair_subset_2.jsonl"
     ),
     "mapping_output_jsonl": Path(
-        "/home/fhg/pie65738/projects/sr4all/data/final/with_boolean/sr4all_full_normalized_keywords_only_mapping.jsonl"
+        "/home/fhg/pie65738/projects/sr4all/data/final/with_boolean/repaired/sr4all_full_normalized_keywords_only_repaired_mapping_2.jsonl"
     ),
     "trace_output_jsonl": Path(
-        "/home/fhg/pie65738/projects/sr4all/data/final/with_boolean/sr4all_full_normalized_keywords_only_trace.jsonl"
+        "/home/fhg/pie65738/projects/sr4all/data/final/with_boolean/traces/sr4all_full_normalized_keywords_only_repaired_trace_2.jsonl"
     ),
     "log_file": Path(
-        "/home/fhg/pie65738/projects/sr4all/logs/oax/transform_to_boolean_keywords_only.log"
+        "/home/fhg/pie65738/projects/sr4all/logs/oax/transform_to_boolean_keywords_only_repaired_2.log"
     ),
     "model_path": "Qwen/Qwen3-32B",
     "tensor_parallel": 2,
