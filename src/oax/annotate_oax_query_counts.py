@@ -1,3 +1,4 @@
+"""Annotate OpenAlex query URLs with result counts asynchronously."""
 import asyncio
 import aiohttp
 import json
@@ -18,11 +19,20 @@ def _get_tqdm():
         return _noop
 
 # ---------------- CONFIGURATION ----------------
-INPUT_FILE = "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/sr4all_full_normalized_keywords_only_oax_with_year_range_oax.jsonl"
-OUTPUT_FILE = "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/sr4all_full_normalized_keywords_only_oax_with_year_range_oax_with_counts.jsonl"
+def _load_dotenv():
+    try:
+        module = importlib.import_module("dotenv")
+        module.load_dotenv()
+    except Exception:
+        return
+
+_load_dotenv()
+INPUT_FILE = "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/sr4all_full_normalized_boolean_with_year_range_oax.jsonl"
+OUTPUT_FILE = "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/sr4all_full_normalized_boolean_with_year_range_oax_with_counts.jsonl"
 LOG_FILE = "/home/fhg/pie65738/projects/sr4all/logs/oax/query_count_annotate.log"
 
-EMAIL = "pieer.achkar@imw.fraunhofer.de"  # REQUIRED for polite pool
+EMAIL = "pierre.achkar@uni-leipzig.de"  # REQUIRED for polite pool
+API_KEY = os.getenv("OPENALEX_API_KEY")
 MAX_CONCURRENT_REQUESTS = 10
 REQUEST_TIMEOUT = aiohttp.ClientTimeout(total=60)
 MAX_RETRIES = 4
@@ -71,6 +81,10 @@ def _prepare_oax_url(url: str) -> str:
     # Add mailto (as per OpenAlex requirements)
     if EMAIL:
         query["mailto"] = [EMAIL]
+
+    # Add API key if provided
+    if API_KEY:
+        query["api_key"] = [API_KEY]
 
     new_query = urlencode(query, doseq=True)
     return urlunparse(parsed._replace(query=new_query))
@@ -170,13 +184,29 @@ async def main():
 
     total_lines = _count_lines(INPUT_FILE)
 
+    resume_lines = 0
+    if os.path.exists(OUTPUT_FILE):
+        resume_lines = _count_lines(OUTPUT_FILE)
+        if resume_lines > 0:
+            logger.info("Resuming from %d already written records.", resume_lines)
+
     tqdm = _get_tqdm()
 
     async with aiohttp.ClientSession(headers=headers, timeout=REQUEST_TIMEOUT) as session:
         with open(INPUT_FILE, "r", encoding="utf-8") as f_in, open(
-            OUTPUT_FILE, "w", encoding="utf-8"
+            OUTPUT_FILE, "a", encoding="utf-8"
         ) as f_out:
-            for line in tqdm(f_in, total=total_lines, desc="Annotating records", unit="rec"):
+            if resume_lines:
+                for _ in range(resume_lines):
+                    next(f_in, None)
+
+            for line in tqdm(
+                f_in,
+                total=total_lines,
+                initial=resume_lines,
+                desc="Annotating records",
+                unit="rec",
+            ):
                 if not line.strip():
                     continue
 
