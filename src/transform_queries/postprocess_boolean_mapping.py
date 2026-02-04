@@ -8,9 +8,9 @@ from typing import Dict, List, Optional, Tuple, Any  # Added Any here
 # Config
 # ========================
 CONFIG = {
-    "input_jsonl": Path("/home/fhg/pie65738/projects/sr4all/data/final/with_boolean/sr4all_full_normalized_keywords_only_mapping.jsonl"),
-    "output_jsonl": Path("/home/fhg/pie65738/projects/sr4all/data/final/with_boolean/sr4all_full_normalized_keywords_only_mapping_fixed.jsonl"),
-    "log_file": Path("/home/fhg/pie65738/projects/sr4all/logs/oax/postprocess_boolean_mapping_keywords_only.log"),
+    "input_jsonl": Path("/home/fhg/pie65738/projects/sr4all/data/final/with_boolean/repaired/sr4all_full_normalized_boolean_repaired_mapping_2.jsonl"),
+    "output_jsonl": Path("/home/fhg/pie65738/projects/sr4all/data/final/with_boolean/repaired_fixed/sr4all_full_normalized_boolean_repaired_fixed_mapping_2.jsonl"),
+    "log_file": Path("/home/fhg/pie65738/projects/sr4all/logs/oax/postprocess_boolean_mapping_repaired_2.log"),
 }
 
 # ========================

@@ -9,7 +9,7 @@ SRC_DIR = SCRIPT_DIR.parent
 if str(SRC_DIR) not in sys.path:
   sys.path.insert(0, str(SRC_DIR))
 
-from oax import schemas
+from transform_queries import schemas
 
 
 class TransformerToSimplePrompts:
