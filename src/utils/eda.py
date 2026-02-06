@@ -13,6 +13,8 @@ import seaborn as sns
 INPUT_JSONL = "data/final/sr4all_full_normalized_year_range.jsonl"
 OUTPUT_DIR  = "data/final/eda"
 LOG_FILE    = "logs/utils/eda.log"
+FIELD_DIST_JSON = os.path.join(OUTPUT_DIR, "field_distributions.json")
+FIELD_VALUE_COUNTS = os.path.join(OUTPUT_DIR, "fields_value_counts.json")
 
 # Plot settings
 TOP_N = 15
@@ -113,6 +115,41 @@ def main():
                 continue
     logging.info(f"Loaded {len(records)} records")
 
+    # Compute and save field distributions (presence / missing counts)
+    def compute_field_distributions(recs):
+        total = len(recs)
+        keys = set()
+        for r in recs:
+            if isinstance(r, dict):
+                keys.update(r.keys())
+
+        stats = {}
+        for k in sorted(keys):
+            present = 0
+            for r in recs:
+                v = r.get(k) if isinstance(r, dict) else None
+                if v not in (None, "", [], {}, False):
+                    present += 1
+            missing = total - present
+            pct = (present / total) if total else 0.0
+            stats[k] = {
+                "present": present,
+                "missing": missing,
+                "total": total,
+                "pct_present": round(pct, 4)
+            }
+        return stats
+
+    logging.info("Computing field distributions...")
+    field_stats = compute_field_distributions(records)
+    try:
+        with open(FIELD_DIST_JSON, "w", encoding="utf-8") as fo:
+            json.dump(field_stats, fo, ensure_ascii=False, indent=2)
+        logging.info(f"Wrote field distributions to: {FIELD_DIST_JSON}")
+        print(f"Saved field distributions JSON to: {FIELD_DIST_JSON}")
+    except Exception as e:
+        logging.error(f"Failed to write field distributions: {e}")
+
     # 1. Extraction
     rows = [extract_row(r) for r in tqdm(records, desc="Extracting Metadata", unit="rec")]
     df = pd.DataFrame(rows)
@@ -124,6 +161,16 @@ def main():
     # A. Top Fields
     top_fields = df["field"].fillna("Unknown").value_counts().head(TOP_N)
     plot_barh(top_fields, f"Top {TOP_N} Fields", "fields_top15.png", palette="rocket")
+
+    # Save full distribution of `field` values to JSON
+    try:
+        full_counts = df["field"].fillna("Unknown").value_counts().to_dict()
+        with open(FIELD_VALUE_COUNTS, "w", encoding="utf-8") as fo:
+            json.dump(full_counts, fo, ensure_ascii=False, indent=2)
+        logging.info(f"Wrote full field value counts to: {FIELD_VALUE_COUNTS}")
+        print(f"Saved full 'field' value counts to: {FIELD_VALUE_COUNTS}")
+    except Exception as e:
+        logging.error(f"Failed to write field value counts: {e}")
 
     # B. Top Subfields
     top_subfields = df["subfield"].fillna("Unknown").value_counts().head(TOP_N)
