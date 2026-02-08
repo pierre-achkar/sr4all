@@ -1,3 +1,6 @@
+"""
+Fetch OpenAlex query IDs asynchronously with rate limiting and retries.
+"""
 import asyncio
 import json
 import logging
@@ -21,10 +24,10 @@ _load_dotenv()
 
 # ---------------- CONFIGURATION ----------------
 CONFIG = {
-    "INPUT_FILE": "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/oax_count_buckets/bucket_5k_50k.jsonl",
-    "OUTPUT_FILE": "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/oax_count_buckets/bucket_5k_50k_with_ids.jsonl",
+    "INPUT_FILE": "/data/final/with_oax/oax_count_buckets/bucket_5k_50k.jsonl",
+    "OUTPUT_FILE": "/data/final/with_oax/oax_count_buckets/bucket_5k_50k_with_ids.jsonl",
     "LOG_FILE": "logs/query_id_fetch.log",
-    "EMAIL": "piero.achkar.17@gmail.com",
+    "EMAIL": os.getenv("OPENALEX_EMAIL_2", ""),
     "API_KEY": os.getenv("OPENALEX_API_KEY_2"),
     "MAX_CONCURRENT_REQUESTS": 4, 
     "REQUEST_TIMEOUT": aiohttp.ClientTimeout(total=120),

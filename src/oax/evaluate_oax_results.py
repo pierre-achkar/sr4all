@@ -1,5 +1,6 @@
-"""Evaluate retrieval vs. relevant referenced works by id match."""
-
+"""
+Evaluate retrieval vs. relevant referenced works by id match.
+"""
 import json
 from pathlib import Path
 from typing import Dict, Iterable, List, Optional, Set, Tuple
@@ -9,19 +10,19 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
 DEFAULT_RELEVANT = Path(
-    "/home/fhg/pie65738/projects/sr4all/data/final/sr4all_full_normalized_year_range_search_has_boolean.jsonl"
+    "/data/final/sr4all_full_normalized_year_range_search_has_boolean.jsonl"
 )
 DEFAULT_RETRIEVED = Path(
-    "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/oax_count_buckets/bucket_1_5k_with_ids_flattened.jsonl"
+    "/data/final/with_oax/oax_count_buckets/bucket_1_5k_with_ids_flattened.jsonl"
 )
 DEFAULT_OUTPUT = Path(
-    "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/res/bucket_1_5k_retrieval_eval.jsonl"
+    "/data/final/with_oax/res/bucket_1_5k_retrieval_eval.jsonl"
 )
 DEFAULT_SUMMARY = Path(
-    "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/res/bucket_1_5k_retrieval_eval_summary.json"
+    "/data/final/with_oax/res/bucket_1_5k_retrieval_eval_summary.json"
 )
 DEFAULT_PLOT = Path(
-    "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/res/bucket_1_5k_retrieval_eval_recall_hist.png"
+    "/data/final/with_oax/res/bucket_1_5k_retrieval_eval_recall_hist.png"
 )
 
 

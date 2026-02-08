@@ -1,3 +1,6 @@
+"""
+Download OpenAlex Works data from S3 bucket to local directory.
+"""
 import boto3
 from botocore import UNSIGNED
 from botocore.config import Config
@@ -9,7 +12,7 @@ import os
 BUCKET_NAME = "openalex"
 PREFIX = "data/works/"
 # Ensure this matches where you want the files
-LOCAL_DIR = Path("/home/fhg/pie65738/projects/sr4all/data/raw_openalex/works")
+LOCAL_DIR = Path("/data/raw_openalex/works")
 MAX_THREADS = 8 
 
 # Setup S3 client (Anonymous/Public Access)

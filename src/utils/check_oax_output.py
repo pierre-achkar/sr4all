@@ -1,4 +1,6 @@
-"""Check OAX transform output coverage and normalized-query completeness."""
+"""
+Check OAX transform output coverage and normalized-query completeness.
+"""
 
 import json
 import logging
@@ -10,22 +12,22 @@ from typing import Dict, Iterable, Optional, Set
 # ========================
 CONFIG = {
     "input_jsonl": Path(
-        "/home/fhg/pie65738/projects/sr4all/data/final/sr4all_full_normalized_year_range_search_boolean_only.jsonl"
+        "/data/final/sr4all_full_normalized_year_range_search_boolean_only.jsonl"
     ),
     "output_jsonl": Path(
-        "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/sr4all_full_normalized_year_range_search_boolean_only_oax_mapping_repaired.jsonl"
+        "/data/final/with_oax/sr4all_full_normalized_year_range_search_boolean_only_oax_mapping_repaired.jsonl"
     ),
     "log_file": Path(
-        "/home/fhg/pie65738/projects/sr4all/logs/oax/check_oax_output_boolean_only.log"
+        "/logs/oax/check_oax_output_boolean_only.log"
     ),
     "missing_ids_out": Path(
-        "/home/fhg/pie65738/projects/sr4all/logs/oax/missing_oax_ids_boolean_only.txt"
+        "/logs/oax/missing_oax_ids_boolean_only.txt"
     ),
     "error_ids_out": Path(
-        "/home/fhg/pie65738/projects/sr4all/logs/oax/oax_error_ids_boolean_only.txt"
+        "/logs/oax/oax_error_ids_boolean_only.txt"
     ),
     "error_ids_by_type_out": Path(
-        "/home/fhg/pie65738/projects/sr4all/logs/oax/oax_error_ids_by_type_boolean_only.json"
+        "/logs/oax/oax_error_ids_by_type_boolean_only.json"
     ),
 }
 

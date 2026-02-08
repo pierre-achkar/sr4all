@@ -1,4 +1,6 @@
-"""Clean up oax_boolean_queries by removing redundant nulls while preserving single-null cases."""
+"""
+Clean up oax_boolean_queries by removing redundant nulls while preserving single-null cases.
+"""
 
 import json
 import logging
@@ -10,13 +12,13 @@ from typing import Dict, Iterable, List, Optional
 # ========================
 CONFIG = {
     "input_jsonl": Path(
-        "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/sr4all_full_normalized_year_range_search_keywords_only_oax_mapping_repaired_v2.jsonl"
+        "/data/final/with_oax/sr4all_full_normalized_year_range_search_keywords_only_oax_mapping_repaired_v2.jsonl"
     ),
     "output_jsonl": Path(
-        "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/sr4all_full_normalized_year_range_search_keywords_only_oax_mapping_repaired_v2_clean.jsonl"
+        "/data/final/with_oax/sr4all_full_normalized_year_range_search_keywords_only_oax_mapping_repaired_v2_clean.jsonl"
     ),
     "log_file": Path(
-        "/home/fhg/pie65738/projects/sr4all/logs/oax/cleanup_oax_queries_keywords_only.log"
+        "/logs/oax/cleanup_oax_queries_keywords_only.log"
     ),
 }
 

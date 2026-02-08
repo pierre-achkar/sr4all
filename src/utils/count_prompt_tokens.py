@@ -1,4 +1,6 @@
-"""Count prompt token lengths for OpenAlex query normalization inputs."""
+"""
+Count prompt token lengths for OpenAlex query normalization inputs.
+"""
 
 import json
 import logging

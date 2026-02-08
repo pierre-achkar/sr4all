@@ -1,4 +1,6 @@
-"""Annotate OpenAlex query URLs with result counts asynchronously."""
+"""
+Annotate OpenAlex query URLs with result counts asynchronously.
+"""
 import asyncio
 import aiohttp
 import json
@@ -27,11 +29,11 @@ def _load_dotenv():
         return
 
 _load_dotenv()
-INPUT_FILE = "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/sr4all_full_normalized_boolean_with_year_range_oax.jsonl"
-OUTPUT_FILE = "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/sr4all_full_normalized_boolean_with_year_range_oax_with_counts.jsonl"
-LOG_FILE = "/home/fhg/pie65738/projects/sr4all/logs/oax/query_count_annotate.log"
+INPUT_FILE = "/data/final/with_oax/sr4all_full_normalized_boolean_with_year_range_oax.jsonl"
+OUTPUT_FILE = "/data/final/with_oax/sr4all_full_normalized_boolean_with_year_range_oax_with_counts.jsonl"
+LOG_FILE = "/logs/oax/query_count_annotate.log"
 
-EMAIL = "pierre.achkar@uni-leipzig.de"  # REQUIRED for polite pool
+EMAIL = "ex@example.com"  
 API_KEY = os.getenv("OPENALEX_API_KEY")
 MAX_CONCURRENT_REQUESTS = 10
 REQUEST_TIMEOUT = aiohttp.ClientTimeout(total=60)

@@ -1,4 +1,6 @@
-"""Debug OpenAlex query failures with HTTP error details + local heuristics."""
+"""
+Debug OpenAlex query failures with HTTP error details + local heuristics.
+"""
 
 import json
 import logging
@@ -17,18 +19,18 @@ from tqdm import tqdm
 # ========================
 CONFIG = {
     "input_jsonl": Path(
-        "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/sr4all_full_normalized_boolean_with_year_range_oax_with_counts.jsonl"
+        "/data/final/with_oax/sr4all_full_normalized_boolean_with_year_range_oax_with_counts.jsonl"
     ),
     "output_jsonl": Path(
-        "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/debug_errors/debug_oax_query_failures.jsonl"
+        "/data/final/with_oax/debug_errors/debug_oax_query_failures.jsonl"
     ),
     "summary_out": Path(
-        "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/debug_errors/debug_oax_query_failures_summary.json"
+        "/data/final/with_oax/debug_errors/debug_oax_query_failures_summary.json"
     ),
     "log_file": Path(
-        "/home/fhg/pie65738/projects/sr4all/logs/oax/debug_oax_query_failures.log"
+        "/logs/oax/debug_oax_query_failures.log"
     ),
-    "mailto": "piero.achkar.17@gmail.com",
+    "mailto": "example@example.com",
     "api_key_env": "OPENALEX_API_KEY_2",
     "timeout_seconds": 60,
     "max_records": None,  # set to int for sampling

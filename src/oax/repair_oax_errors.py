@@ -1,4 +1,6 @@
-"""Repair OAX transform errors by re-sending failed records to the LLM and patching mapping output."""
+"""
+Repair OAX transform errors by re-sending failed records to the LLM and patching mapping output.
+"""
 
 import json
 import logging
@@ -22,25 +24,25 @@ from oax.io_llm import LLMInput, LLMQueryItem
 # ========================
 CONFIG = {
     "input_jsonl": Path(
-        "/home/fhg/pie65738/projects/sr4all/data/final/sr4all_full_normalized_year_range_search_boolean_only.jsonl"
+        "/data/final/sr4all_full_normalized_year_range_search_boolean_only.jsonl"
     ),
     "mapping_output_jsonl": Path(
-        "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/sr4all_full_normalized_year_range_search_boolean_only_oax_mapping.jsonl"
+        "/data/final/with_oax/sr4all_full_normalized_year_range_search_boolean_only_oax_mapping.jsonl"
     ),
     "repaired_output_jsonl": Path(
-        "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/sr4all_full_normalized_year_range_search_boolean_only_oax_mapping_repaired.jsonl"
+        "/data/final/with_oax/sr4all_full_normalized_year_range_search_boolean_only_oax_mapping_repaired.jsonl"
     ),
     "error_ids_by_type_json": Path(
-        "/home/fhg/pie65738/projects/sr4all/logs/oax/oax_error_ids_by_type_boolean_only.json"
+        "/logs/oax/oax_error_ids_by_type_boolean_only.json"
     ),
     "log_file": Path(
-        "/home/fhg/pie65738/projects/sr4all/logs/oax/repair_oax_errors_boolean_only.log"
+        "/logs/oax/repair_oax_errors_boolean_only.log"
     ),
     "repaired_ids_out": Path(
-        "/home/fhg/pie65738/projects/sr4all/logs/oax/repair_oax_repaired_ids_boolean_only.txt"
+        "/logs/oax/repair_oax_repaired_ids_boolean_only.txt"
     ),
     "still_error_ids_out": Path(
-        "/home/fhg/pie65738/projects/sr4all/logs/oax/repair_oax_still_error_ids_boolean_only.txt"
+        "/logs/oax/repair_oax_still_error_ids_boolean_only.txt"
     ),
     "model_path": "Qwen/Qwen3-32B",
     "tensor_parallel": 2,

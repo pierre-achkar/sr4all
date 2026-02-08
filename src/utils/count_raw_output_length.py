@@ -1,4 +1,6 @@
-"""Count raw output lengths from OAX trace JSONL."""
+"""
+Count raw output lengths from OAX trace JSONL.
+"""
 
 import json
 import logging
@@ -21,10 +23,10 @@ if str(SRC_DIR) not in sys.path:
 # ========================
 CONFIG = {
     "input_jsonl": Path(
-        "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/sr4all_full_normalized_year_range_search_both_oax_trace.jsonl"
+        "/data/final/with_oax/sr4all_full_normalized_year_range_search_both_oax_trace.jsonl"
     ),
     "log_file": Path(
-        "/home/fhg/pie65738/projects/sr4all/logs/oax/raw_output_length_count_both.log"
+        "/logs/oax/raw_output_length_count_both.log"
     ),
     "model_path": "Qwen/Qwen3-32B",
     "sample_size": 0,  # 0 = process all, otherwise limit to N records
