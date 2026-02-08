@@ -1,11 +1,9 @@
 """
-Job B: Batch Alignment (CPU).
-
-This script takes the raw extractions from Job A and verifies them against the source text.
-It uses Multiprocessing to parallelize the expensive fuzzy matching operations.
-
-Input:  raw_candidates.jsonl (from Job A)
-Output: aligned_candidates.jsonl
+Job B: Alignment and Verification of Extracted Candidates
+- Reads raw extractions from Job A
+- Loads the original text files based on file paths
+- Uses a custom AlignmentVerifier to check if the extracted information matches the text
+- Saves the aligned and verified candidates to a new JSONL file for Job C to process
 """
 
 import sys
@@ -29,9 +27,9 @@ from extraction.verifier import AlignmentVerifier
 # CONFIGURATION
 # -----------------------------------------------------------------------------
 CONFIG = {
-    "input_file": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/repaired/repaired_raw_candidates_0.jsonl"),
-    "output_file": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/repaired_aligned/aligned_repaired_candidates_0.jsonl"),
-    "log_file": Path("/home/fhg/pie65738/projects/sr4all/logs/extraction/repaired_alignment_0.log"),
+    "input_file": Path("/data/sr4all/extraction_v1/repaired/repaired_raw_candidates_0.jsonl"),
+    "output_file": Path("/data/sr4all/extraction_v1/repaired_aligned/aligned_repaired_candidates_0.jsonl"),
+    "log_file": Path("/logs/extraction/repaired_alignment_0.log"),
     
     # Verification Settings
     "threshold": 70,       # Low threshold for noisy OCR 

@@ -14,12 +14,12 @@ import logging
 # CONFIGURATION
 # -----------------------------------------------------------------------------
 # 1. Baseline: The output of Job E (Clean but sparse)
-BASELINE_FILE = Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/raw_fact_checked/raw_fact_checked_corpus_all.jsonl")
+BASELINE_FILE = Path("/data/sr4all/extraction_v1/raw_fact_checked/raw_fact_checked_corpus_all.jsonl")
 
 # 2. Repaired: The output of Job C (Inference results)
-REPAIRED_FILE = Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/repaired_fact_checked/repaired_fact_checked_corpus_all.jsonl") 
+REPAIRED_FILE = Path("/data/sr4all/extraction_v1/repaired_fact_checked/repaired_fact_checked_corpus_all.jsonl") 
 
-LOG_FILE = Path("/home/fhg/pie65738/projects/sr4all/logs/extraction/repair_impact_analysis_all.log")
+LOG_FILE = Path("/logs/extraction/repair_impact_analysis_all.log")
 
 # setup logging to a file
 logging.basicConfig(

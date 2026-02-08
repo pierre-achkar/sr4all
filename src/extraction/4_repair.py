@@ -1,14 +1,9 @@
 """
-Job C: Targeted Repair Agent (Inference Only).
-
-1. Scans 'fact_checked_corpus.jsonl' for missing fields.
-2. Generates a FOCUSED prompt for those fields.
-3. Runs Qwen (Temp=0.1) to re-extract missing data.
-4. Patches the 'extraction' JSON with new guesses.
-5. Saves to 'repaired_raw_candidates.jsonl'.
-
-NOTE: This script does NOT verify data. You must run Job B and Job E 
-      on the output file to validate the repairs.
+Job D: Repairing Failed Extractions
+- Reads the fact-checked corpus from Job C (which contains nulls where data failed)
+- Uses a Qwen3-32B model to attempt to repair missing fields based on the original text and the context of the missing information
+- Handles various failure modes (simple nulls, evidence nodes with null values, and "ghost objects" in boolean queries)
+- Saves the repaired corpus to a new JSONL file for Job B to process again (alignment and verification)
 """
 import os
 import sys
@@ -33,12 +28,12 @@ from extraction.repair_prompt import REPAIR_SYSTEM_PROMPT, get_repair_user_promp
 # -----------------------------------------------------------------------------
 CONFIG = {
     # Input: The output from Job E (which contains nulls where data failed)
-    "input_file": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/raw_fact_checked/raw_fact_checked_corpus_2.jsonl"),
+    "input_file": Path("/data/sr4all/extraction_v1/raw_fact_checked/raw_fact_checked_corpus_2.jsonl"),
     
     # Output: This becomes the input for Job B (Alignment)
-    "output_file": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/repaired/repaired_raw_candidates_2.jsonl"),
+    "output_file": Path("/data/sr4all/extraction_v1/repaired/repaired_raw_candidates_2.jsonl"),
 
-    "log_file": Path("/home/fhg/pie65738/projects/sr4all/logs/extraction/repair_job_2.log"),
+    "log_file": Path("/logs/extraction/repair_job_2.log"),
     
     "model_path": "Qwen/Qwen3-32B",
     

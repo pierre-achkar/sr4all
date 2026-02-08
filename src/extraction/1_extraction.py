@@ -1,13 +1,8 @@
 """
-Job A: Batch Extraction (GPU - High Performance).
-
-Input:  Clean Corpus Parquet (Manifest with file_paths).
-Output: raw_candidates.jsonl
-
-Optimizations:
-- Reads files in parallel chunks (IO bound).
-- Sends batches to vLLM (Compute bound).
-- Saves incrementally.
+Job A: Extraction of Candidate Information from Raw Texts
+- Reads raw text files based on a manifest (Parquet)
+- Uses a Qwen3-32B model on H100s to extract structured information
+- Saves raw extractions to JSONL for Job B to process
 """
 
 import sys
@@ -32,10 +27,10 @@ from extraction.inference_engine_batch import QwenInference
 # -----------------------------------------------------------------------------
 CONFIG = {
     # Manifest
-    "input_parquet": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/unprocessed_part2.parquet"),
+    "input_parquet": Path("/data/sr4all/unprocessed_part2.parquet"),
     
     # Output
-    "output_dir": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1"),
+    "output_dir": Path("/data/sr4all/extraction_v1"),
     
     # Model
     "model_path": "Qwen/Qwen3-32B", 

@@ -1,11 +1,9 @@
 """
-Job E: Batch Fact-Checking (GPU).
-
-Input:  aligned_candidates.jsonl (Output of Job B)
-Output: fact_checked_corpus.jsonl
-
-This script uses Bespoke-MiniCheck-7B to verify that the 'value' is supported 
-by the 'verbatim_source'. If MiniCheck says "Unsupported" (FAIL), we nuke the value.
+Job C: Fact-Checking and Hallucination Mitigation
+- Reads aligned candidates from Job B
+- Uses a FactChecker module (based on a smaller, efficient model) to verify each candidate
+- If a candidate fails fact-checking, it is "nuked" (value and source set to null) in the JSON structure
+- Saves the fact-checked corpus to a new JSONL file for downstream use (e.g., training, analysis)
 """
 
 import sys
@@ -28,9 +26,9 @@ from extraction.fact_checker import FactChecker
 # CONFIGURATION
 # -----------------------------------------------------------------------------
 CONFIG = {
-    "input_file": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/repaired_aligned/aligned_repaired_candidates_0.jsonl"),
-    "output_file": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/repaired_fact_checked/repaired_fact_checked_corpus_0.jsonl"),
-    "log_file": Path("/home/fhg/pie65738/projects/sr4all/logs/extraction/repaired_factcheck_0.log"),
+    "input_file": Path("/data/sr4all/extraction_v1/repaired_aligned/aligned_repaired_candidates_0.jsonl"),
+    "output_file": Path("/data/sr4all/extraction_v1/repaired_fact_checked/repaired_fact_checked_corpus_0.jsonl"),
+    "log_file": Path("/logs/extraction/repaired_factcheck_0.log"),
     
     # Batch size for the FactChecker (Chunking)
     "batch_size": 128,  
