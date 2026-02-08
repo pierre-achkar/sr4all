@@ -1,3 +1,8 @@
+"""
+Post-processes the repaired boolean mapping to fix common syntax issues and filter out meaningless queries.
+This is a final cleanup step to improve the quality of the repaired boolean queries before merging them back
+into the main dataset.
+"""
 import json
 import logging
 import re
@@ -8,9 +13,9 @@ from typing import Dict, List, Optional, Tuple, Any  # Added Any here
 # Config
 # ========================
 CONFIG = {
-    "input_jsonl": Path("/home/fhg/pie65738/projects/sr4all/data/final/with_boolean/repaired/sr4all_full_normalized_boolean_repaired_mapping_2.jsonl"),
-    "output_jsonl": Path("/home/fhg/pie65738/projects/sr4all/data/final/with_boolean/repaired_fixed/sr4all_full_normalized_boolean_repaired_fixed_mapping_2.jsonl"),
-    "log_file": Path("/home/fhg/pie65738/projects/sr4all/logs/oax/postprocess_boolean_mapping_repaired_2.log"),
+    "input_jsonl": Path("/data/final/with_boolean/repaired/sr4all_full_normalized_boolean_repaired_mapping_2.jsonl"),
+    "output_jsonl": Path("/data/final/with_boolean/repaired_fixed/sr4all_full_normalized_boolean_repaired_fixed_mapping_2.jsonl"),
+    "log_file": Path("/logs/oax/postprocess_boolean_mapping_repaired_2.log"),
 }
 
 # ========================

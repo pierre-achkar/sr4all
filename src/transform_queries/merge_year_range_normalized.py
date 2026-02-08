@@ -1,4 +1,6 @@
-"""Merge year_range_normalized into a target JSONL by id mapping."""
+"""
+Merge year_range_normalized into a target JSONL by id mapping.
+"""
 
 import json
 import logging
@@ -10,16 +12,16 @@ from typing import Dict, Iterable, Optional
 # ========================
 CONFIG = {
     "year_range_jsonl": Path(
-        "/home/fhg/pie65738/projects/sr4all/data/final/sr4all_full_normalized_year_range_search_keywords_only.jsonl"
+        "/data/final/sr4all_full_normalized_year_range_search_keywords_only.jsonl"
     ),
     "input_jsonl": Path(
-        "/home/fhg/pie65738/projects/sr4all/data/final/with_boolean/final/sr4all_full_normalized_keywords_only_mapping_merged_2.jsonl"
+        "/data/final/with_boolean/final/sr4all_full_normalized_keywords_only_mapping_merged_2.jsonl"
     ),
     "output_jsonl": Path(
-        "/home/fhg/pie65738/projects/sr4all/data/final/with_boolean/final/sr4all_full_normalized_keywords_only_mapping_merged_2_with_year_range.jsonl"
+        "/data/final/with_boolean/final/sr4all_full_normalized_keywords_only_mapping_merged_2_with_year_range.jsonl"
     ),
     "log_file": Path(
-        "/home/fhg/pie65738/projects/sr4all/logs/final_ds/merge_year_range_normalized.log"
+        "/logs/final_ds/merge_year_range_normalized.log"
     ),
 }
 

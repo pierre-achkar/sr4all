@@ -1,5 +1,5 @@
 """
-Boolean fidelity evaluation for the *boolean split* only.
+Boolean fidelity evaluation for the boolean split only.
 
 What it measures (purely automatic, no retrieval):
 1) Term fidelity: overlap between original and normalised term sets
@@ -8,13 +8,6 @@ What it measures (purely automatic, no retrieval):
 2) Operator fidelity: edit-similarity of operator streams (AND/OR/NOT)
 3) Structure fidelity: edit-similarity of "skeleton" strings (terms -> t, keep () and ops)
 4) Parentheses well-formedness (balanced) + max depth diff
-
-Important:
-- Reports metrics on:
-  (A) all matched pairs
-  (B) only pairs where normalised query is non-null/non-empty (the executable set)
-- Optionally repairs ORIGINAL parentheses (balance-only) before structure comparison
-  to avoid penalising normalisation for ill-formed reported strings.
 """
 
 import json
@@ -29,10 +22,10 @@ from tqdm import tqdm
 # Config
 # ========================
 CONFIG = {
-    "original_boolean_jsonl": Path("/home/fhg/pie65738/projects/sr4all/data/final/sr4all_full_normalized_year_range_search_has_boolean.jsonl"),
-    "normalized_boolean_jsonl": Path("/home/fhg/pie65738/projects/sr4all/data/final/with_boolean/final/sr4all_full_normalized_boolean_mapping_merged_2_with_year_range.jsonl"),
-    "out_aggregate_json": Path("/home/fhg/pie65738/projects/sr4all/data/final/with_boolean/boolean_fidelity_aggregate.json"),
-    "out_per_record_jsonl": Path("/home/fhg/pie65738/projects/sr4all/data/final/with_boolean/boolean_fidelity_per_record.jsonl"),
+    "original_boolean_jsonl": Path("/data/final/sr4all_full_normalized_year_range_search_has_boolean.jsonl"),
+    "normalized_boolean_jsonl": Path("/data/final/with_boolean/final/sr4all_full_normalized_boolean_mapping_merged_2_with_year_range.jsonl"),
+    "out_aggregate_json": Path("/data/final/with_boolean/boolean_fidelity_aggregate.json"),
+    "out_per_record_jsonl": Path("/data/final/with_boolean/boolean_fidelity_per_record.jsonl"),
     # Canonicalisation toggles
     "strip_fields": True,
     "strip_metadata": True,      # years / filters

@@ -1,4 +1,6 @@
-"""Normalize extracted Boolean queries into Lucene-compatible query strings using Qwen (vLLM)."""
+"""
+Normalize extracted Boolean queries into Lucene-compatible query strings using Qwen (vLLM).
+"""
 
 import json
 import logging
@@ -25,16 +27,16 @@ from transform_queries.inference_engine import QwenInference
 CONFIG = {
     # Update these paths to your actual file locations
     "input_jsonl": Path(
-        "/home/fhg/pie65738/projects/sr4all/data/final/with_boolean/null_subsets/sr4all_full_normalized_keywords_only_null_repair_subset_2.jsonl"
+        "/data/final/with_boolean/null_subsets/sr4all_full_normalized_keywords_only_null_repair_subset_2.jsonl"
     ),
     "mapping_output_jsonl": Path(
-        "/home/fhg/pie65738/projects/sr4all/data/final/with_boolean/repaired/sr4all_full_normalized_keywords_only_repaired_mapping_2.jsonl"
+        "/data/final/with_boolean/repaired/sr4all_full_normalized_keywords_only_repaired_mapping_2.jsonl"
     ),
     "trace_output_jsonl": Path(
-        "/home/fhg/pie65738/projects/sr4all/data/final/with_boolean/traces/sr4all_full_normalized_keywords_only_repaired_trace_2.jsonl"
+        "/data/final/with_boolean/traces/sr4all_full_normalized_keywords_only_repaired_trace_2.jsonl"
     ),
     "log_file": Path(
-        "/home/fhg/pie65738/projects/sr4all/logs/oax/transform_to_boolean_keywords_only_repaired_2.log"
+        "/logs/oax/transform_to_boolean_keywords_only_repaired_2.log"
     ),
     "model_path": "Qwen/Qwen3-32B",
     "tensor_parallel": 2,

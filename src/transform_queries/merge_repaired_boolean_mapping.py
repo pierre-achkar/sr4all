@@ -1,4 +1,6 @@
-"""Merge repaired boolean mappings back into the fixed mapping file."""
+"""
+Merge repaired boolean mappings back into the fixed mapping file.
+"""
 
 import json
 import logging
@@ -10,16 +12,16 @@ from typing import Dict, Iterable
 # ========================
 CONFIG = {
     "base_mapping_jsonl": Path(
-        "/home/fhg/pie65738/projects/sr4all/data/final/with_boolean/merged/sr4all_full_normalized_keywords_only_mapping_merged_1.jsonl"
+        "/data/final/with_boolean/merged/sr4all_full_normalized_keywords_only_mapping_merged_1.jsonl"
     ),
     "repaired_mapping_jsonl": Path(
-        "/home/fhg/pie65738/projects/sr4all/data/final/with_boolean/repaired_fixed/sr4all_full_normalized_keywords_only_repaired_fixed_mapping_2.jsonl"
+        "/data/final/with_boolean/repaired_fixed/sr4all_full_normalized_keywords_only_repaired_fixed_mapping_2.jsonl"
     ),
     "output_jsonl": Path(
-        "/home/fhg/pie65738/projects/sr4all/data/final/with_boolean/merged/sr4all_full_normalized_keywords_only_mapping_merged_2.jsonl"
+        "/data/final/with_boolean/merged/sr4all_full_normalized_keywords_only_mapping_merged_2.jsonl"
     ),
     "log_file": Path(
-        "/home/fhg/pie65738/projects/sr4all/logs/oax/merge_repaired_keywords_only_mapping.log"
+        "/logs/oax/merge_repaired_keywords_only_mapping.log"
     ),
 }
 

@@ -1,4 +1,6 @@
-"""Merge OAX mapping outputs back into the final split datasets by id."""
+"""
+Merge OAX mapping outputs back into the final split datasets by id.
+"""
 
 import json
 import logging
@@ -10,16 +12,16 @@ from typing import Dict, Iterable, Optional
 # ========================
 CONFIG = {
     "input_jsonl": Path(
-        "/home/fhg/pie65738/projects/sr4all/data/final/sr4all_full_normalized_year_range_search_keywords_only.jsonl"
+        "/data/final/sr4all_full_normalized_year_range_search_keywords_only.jsonl"
     ),
     "mapping_jsonl": Path(
-        "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/sr4all_full_normalized_year_range_search_keywords_only_oax_mapping_repaired_v2.jsonl"
+        "/data/final/with_oax/sr4all_full_normalized_year_range_search_keywords_only_oax_mapping_repaired_v2.jsonl"
     ),
     "output_jsonl": Path(
-        "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/sr4all_full_normalized_year_range_search_keywords_only_with_oax.jsonl"
+        "/data/final/with_oax/sr4all_full_normalized_year_range_search_keywords_only_with_oax.jsonl"
     ),
     "log_file": Path(
-        "/home/fhg/pie65738/projects/sr4all/logs/oax/merge_oax_queries_keywords_only.log"
+        "/logs/oax/merge_oax_queries_keywords_only.log"
     ),
 }
 

@@ -1,12 +1,19 @@
+"""
+Transforms the boolean queries in the dataset into OpenAlex API query URLs.
+This involves cleaning the boolean queries according to OpenAlex's syntax requirements,
+and then constructing the appropriate API URLs with search and filter parameters.
+The script also logs any transformations made to the queries, especially around wildcard handling,
+to ensure transparency in how the original boolean queries are being modified for OpenAlex compatibility.
+"""
 import json
 import urllib.parse
 import re
 import logging
 
 # Configuration parameters directly in code
-INPUT_FILE = "/home/fhg/pie65738/projects/sr4all/data/final/with_boolean/final/sr4all_full_normalized_boolean_mapping_merged_2_with_year_range.jsonl"
-OUTPUT_FILE = "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/sr4all_full_normalized_boolean_with_year_range_oax.jsonl"
-LOG_FILE = "/home/fhg/pie65738/projects/sr4all/logs/oax/query_transform.log"
+INPUT_FILE = "/data/final/with_boolean/final/sr4all_full_normalized_boolean_mapping_merged_2_with_year_range.jsonl"
+OUTPUT_FILE = "/data/final/with_oax/sr4all_full_normalized_boolean_with_year_range_oax.jsonl"
+LOG_FILE = "/logs/oax/query_transform.log"
 
 # Setup logging with mode 'w' to overwrite each session
 logging.basicConfig(
