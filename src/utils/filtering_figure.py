@@ -1,3 +1,8 @@
+"""
+This script generates a bar plot to visualize the number of documents at each stage of the SR4All corpus construction and filtering process. 
+It uses the Seaborn library to create a visually appealing barchart, with custom styling and annotations to highlight the document counts at each step. 
+"""
+
 import seaborn as sns
 import matplotlib.pyplot as plt
 

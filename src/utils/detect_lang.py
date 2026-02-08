@@ -1,3 +1,10 @@
+"""
+This script uses FastText to detect the language of the text in the markdown files. It is
+designed to be noise-resistant by aggressively stripping HTML tags, LaTeX artifacts, URLs, 
+and markdown syntax before classification. It checks both the head (abstract) and middle (body) 
+of the document to catch cases where the abstract might be in English but the body is not. 
+Files that are classified as non-English with high confidence are moved to a separate "rejected" directory for manual review.
+"""
 import shutil
 import logging
 import math
@@ -11,9 +18,9 @@ from huggingface_hub import hf_hub_download
 # 1. CONFIGURATION
 # -----------------------------------------------------------------------------
 CONFIG = {
-    "input_dir": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/md"),
-    "rejected_dir": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/rejected/non_english"),
-    "log_file": Path("/home/fhg/pie65738/projects/sr4all/logs/extraction/language_filter_fasttext.log"),
+    "input_dir": Path("/data/sr4all/md"),
+    "rejected_dir": Path("/data/sr4all/rejected/non_english"),
+    "log_file": Path("/logs/extraction/language_filter_fasttext.log"),
     "min_probability": 0.85,
     "sample_size": 4000
 }

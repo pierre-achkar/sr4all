@@ -1,3 +1,9 @@
+"""
+This script reads the token count data from a Parquet file, 
+generates boxplots to visualize the distribution of token counts across documents, 
+and prints out key statistics about the distribution. 
+It highlights the presence of extreme outliers and documents that exceed critical context window limits.
+"""
 import pandas as pd
 import matplotlib.pyplot as plt
 import logging
@@ -7,8 +13,8 @@ from pathlib import Path
 # 1. CONFIGURATION
 # -----------------------------------------------------------------------------
 class Config:
-    INPUT_PARQUET = Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/token_counts.parquet")
-    OUTPUT_PLOT = Path("/home/fhg/pie65738/projects/sr4all/plots/token_distribution_boxplot.png")
+    INPUT_PARQUET = Path("/data/sr4all/token_counts.parquet")
+    OUTPUT_PLOT = Path("/plots/token_distribution_boxplot.png")
     
     # Analysis Thresholds
     CONTEXT_LIMIT_1 = 28000  # Qwen Original Limit for 32k models

@@ -1,3 +1,10 @@
+"""
+This script filters the SR4All dataset based on token counts. It reads a Parquet file
+containing file paths and their corresponding token counts, identifies files that exceed a specified token threshold (e.g., 121k tokens), 
+and moves those files to a separate "rejected" directory for isolation. 
+The remaining valid files are saved in a new Parquet file sorted by token count to optimize VLLM throughput during training. 
+Detailed logging is maintained throughout the process to track moved files, missing files, and any errors encountered.
+"""
 import shutil
 import pandas as pd
 import logging
@@ -9,18 +16,18 @@ from tqdm import tqdm
 # -----------------------------------------------------------------------------
 class Config:
     # INPUTS
-    INPUT_PARQUET = Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/token_counts.parquet")
+    INPUT_PARQUET = Path("/data/sr4all/token_counts.parquet")
     
     # OUTPUTS
-    CLEAN_PARQUET = Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/clean_corpus.parquet")
-    REJECTED_DIR = Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/rejected_over_121k")
+    CLEAN_PARQUET = Path("/data/sr4all/clean_corpus.parquet")
+    REJECTED_DIR = Path("/data/sr4all/rejected_over_121k")
     
     # THRESHOLDS
     # 131k (Model) - 10k (Output Buffer) = 121k Max Input
     MAX_TOKENS = 121000 
     
     # LOGGING
-    LOG_FILE = Path("/home/fhg/pie65738/projects/sr4all/logs/filtering.log")
+    LOG_FILE = Path("/logs/filtering.log")
 
 # Setup Logging
 Config.LOG_FILE.parent.mkdir(parents=True, exist_ok=True)

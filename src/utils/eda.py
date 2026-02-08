@@ -1,3 +1,7 @@
+"""
+This script performs exploratory data analysis (EDA) on the SR4All dataset. 
+It loads the normalized JSONL data, computes distributions of fields and their values, and generates various plots to visualize the data characteristics.
+"""
 import json
 import os
 import logging

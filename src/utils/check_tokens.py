@@ -1,3 +1,8 @@
+"""
+This script checks the number of records in the original splits, after normalization and postprocessing, and
+after OAX query generation. It also checks how many records have null boolean_queries after postprocessing, 
+and summarizes OAX query errors.
+"""
 import sys
 import json
 import logging
@@ -12,12 +17,12 @@ from prompts import SYSTEM_PROMPT, USER_TEMPLATE_RAW
 # 1. CONFIGURATION
 # -----------------------------------------------------------------------------
 class Config:
-    INPUT_DIR = Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/md")
-    OUTPUT_STATS = Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/token_stats.json")
-    OUTPUT_PARQUET = Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/token_counts.parquet") 
+    INPUT_DIR = Path("/data/sr4all/md")
+    OUTPUT_STATS = Path("/data/sr4all/token_stats.json")
+    OUTPUT_PARQUET = Path("/data/sr4all/token_counts.parquet") 
     MODEL_PATH = "Qwen/Qwen3-32B" 
     MAX_FILES_TO_CHECK = None 
-    LOG_FILE = Path("/home/fhg/pie65738/projects/sr4all/logs/extraction/token_check.log")
+    LOG_FILE = Path("/logs/extraction/token_check.log")
 
 # Setup Logging
 Config.LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
