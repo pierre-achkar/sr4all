@@ -23,7 +23,7 @@ import re
 # -----------------------------------------------------------------------------
 # CONFIGURATION
 # -----------------------------------------------------------------------------
-INPUT_FILE = Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/repaired_fact_checked/repaired_fact_checked_corpus_all.jsonl")
+INPUT_FILE = Path("/data/sr4all/extraction_v1/repaired_fact_checked/repaired_fact_checked_corpus_all.jsonl")
 
 # setup logging to a file
 logging.basicConfig(
@@ -31,7 +31,7 @@ logging.basicConfig(
     format="%(asctime)s | %(levelname)s | %(message)s",
     handlers=[
         logging.FileHandler(
-            Path("/home/fhg/pie65738/projects/sr4all/logs/final_ds/completeness_check_all.log"),
+            Path("/logs/final_ds/completeness_check_all.log"),
             mode="w"
         ),
         logging.StreamHandler()

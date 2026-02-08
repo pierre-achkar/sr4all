@@ -13,12 +13,12 @@ from typing import List
 # -----------------------------------------------------------------------------
 CONFIG = {
     "input_files": [
-        Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/repaired_fact_checked/repaired_fact_checked_corpus_0.jsonl"),
-        Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/repaired_fact_checked/repaired_fact_checked_corpus_1.jsonl"),
-        Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/repaired_fact_checked/repaired_fact_checked_corpus_2.jsonl"),
+        Path("/data/sr4all/extraction_v1/repaired_fact_checked/repaired_fact_checked_corpus_0.jsonl"),
+        Path("/data/sr4all/extraction_v1/repaired_fact_checked/repaired_fact_checked_corpus_1.jsonl"),
+        Path("/data/sr4all/extraction_v1/repaired_fact_checked/repaired_fact_checked_corpus_2.jsonl"),
     ],
-    "output_file": Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/repaired_fact_checked/repaired_fact_checked_corpus_all.jsonl"),
-    "log_file": Path("/home/fhg/pie65738/projects/sr4all/logs/utils/concat_jsonl.log"),
+    "output_file": Path("/data/sr4all/extraction_v1/repaired_fact_checked/repaired_fact_checked_corpus_all.jsonl"),
+    "log_file": Path("/logs/utils/concat_jsonl.log"),
 }
 
 # Setup Logging

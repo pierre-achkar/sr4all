@@ -16,11 +16,11 @@ from typing import Dict, Any, Optional
 # -----------------------------------------------------------------------------
 # CONFIGURATION
 # -----------------------------------------------------------------------------
-OAX_JSONL = Path("/home/fhg/pie65738/projects/sr4all/data/filtered/oax_sr_slim_abstract_coverage.jsonl")
-EXTRACTION_JSONL = Path("/home/fhg/pie65738/projects/sr4all/data/sr4all/extraction_v1/intermediate/sr4all_intermediate_all_corrected.jsonl")
-OUTPUT_JSONL = Path("/home/fhg/pie65738/projects/sr4all/data/final/sr4all_full.jsonl")
-LOG_FILE = Path("/home/fhg/pie65738/projects/sr4all/logs/final_ds/sr4all_full.log")
-UNMATCHED_EXTRACTION_IDS = Path("/home/fhg/pie65738/projects/sr4all/data/final/unmatched_extraction_ids_all.txt")
+OAX_JSONL = Path("/data/filtered/oax_sr_slim_abstract_coverage.jsonl")
+EXTRACTION_JSONL = Path("/data/sr4all/extraction_v1/intermediate/sr4all_intermediate_all_corrected.jsonl")
+OUTPUT_JSONL = Path("/data/final/sr4all_full.jsonl")
+LOG_FILE = Path("/logs/final_ds/sr4all_full.log")
+UNMATCHED_EXTRACTION_IDS = Path("/data/final/unmatched_extraction_ids_all.txt")
 # Setup Logging
 OUTPUT_JSONL.parent.mkdir(parents=True, exist_ok=True)
 LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
