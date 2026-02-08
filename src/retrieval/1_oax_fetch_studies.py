@@ -1,3 +1,10 @@
+"""
+Fetching Systematic Review Studies from OpenAlex
+- Uses the OpenAlex API to search for works with "systematic review" in the title or abstract
+- Handles pagination and rate limits to retrieve all relevant studies
+- Saves the raw results to JSON files for downstream processing (deduplication, filtering, etc.)
+- Logs progress and any issues encountered during fetching
+"""
 import requests
 import json
 import os
@@ -13,9 +20,9 @@ PHRASES = [
 WORK_TYPE = "review"
 PER_PAGE = 200                 # OpenAlex max
 MAX_RESULTS = None             # <-- test cap; set to None to fetch ALL
-OUTPUT_PREFIX = "../../data/raw/oax_sr_full"
-LOG_FILE = "../../logs/retrieval/oax_fetch_studies.log"
-MAILTO = "pieer.achkar@imw.fraunhofer.de"
+OUTPUT_PREFIX = "/data/raw/oax_sr_full"
+LOG_FILE = "/logs/retrieval/oax_fetch_studies.log"
+MAILTO = "email@example.com"
 SHARD_SIZE = 10_000            # save progress every N items
 
 # Logging

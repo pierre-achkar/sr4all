@@ -1,3 +1,11 @@
+"""
+Filtering Downloaded PDFs Against OpenAlex Metadata
+- Reads the filtered OpenAlex records (which contain metadata and expected PDF URLs)
+- Scans the local filesystem for downloaded PDFs and validates them (size check)
+- Cross-references the valid PDFs with the OpenAlex metadata to ensure we only keep records for which we have a valid PDF
+- Saves the filtered metadata records to a new JSON file for downstream processing (alignment, extraction, etc.)
+- Logs progress and any issues encountered during filtering
+"""
 import json
 import logging
 import os
@@ -8,10 +16,10 @@ from tqdm import tqdm
 # =========================
 # CONFIG 
 # =========================
-INPUT_JSON        = "../../data/filtered/oax_sr_refs_title_doi_pdf_filtered.json"
-PDFS_ROOT         = "../../data/filtered/pdfs"
-OUTPUT_JSON       = "../../data/filtered/oax_sr_refs_title_doi_pdf_downloaded_filtered.json"
-LOG_FILE          = "../../logs/retrieval/oax_filter_downloaded.log"
+INPUT_JSON        = "/data/filtered/oax_sr_refs_title_doi_pdf_filtered.json"
+PDFS_ROOT         = "/data/filtered/pdfs"
+OUTPUT_JSON       = "/data/filtered/oax_sr_refs_title_doi_pdf_downloaded_filtered.json"
+LOG_FILE          = "/logs/retrieval/oax_filter_downloaded.log"
 
 # Minimum bytes to consider a PDF valid (avoids empty 0kb files)
 MIN_PDF_BYTES = 1024

@@ -1,3 +1,11 @@
+"""
+Checks Abstract Coverage in OpenAlex Records
+- Reads slimmed OpenAlex records
+- Checks if each record has an abstract using OpenAlex API
+- Caches results in SQLite to avoid redundant API calls
+- Saves results with abstract coverage info to JSONL
+- Logs progress and any issues encountered during checking
+"""
 import json
 import logging
 import requests
@@ -15,13 +23,13 @@ from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_excep
 @dataclass
 class Config:
     # PATHS
-    input_file: str = "/home/fhg/pie65738/projects/sr4all/data/filtered/oax_sr_slim.json"
-    output_file: str = "/home/fhg/pie65738/projects/sr4all/data/filtered/oax_sr_slim_abstract_coverage.jsonl"
-    cache_db: str = "/home/fhg/pie65738/projects/sr4all/data/filtered/cache_refs.db" 
+    input_file: str = "/data/filtered/oax_sr_slim.json"
+    output_file: str = "/data/filtered/oax_sr_slim_abstract_coverage.jsonl"
+    cache_db: str = "/data/filtered/cache_refs.db" 
     log_file: str = "logs/retreival/abstract_coverage.log"
 
     # API
-    email: str = "pierre.achkar@imw.fraunhofer.de"
+    email: str = "email@example.com"
     base_url: str = "https://api.openalex.org/works"
     batch_size: int = 50
 

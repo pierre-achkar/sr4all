@@ -1,3 +1,12 @@
+"""
+Slimming OpenAlex Records for Systematic Reviews
+- Takes the filtered OpenAlex records that have valid PDFs
+- Extracts only the essential fields needed for LLM processing and alignment
+- Reconstructs the abstract text from the inverted index and cleans it up
+- Simplifies the authorship information to just names and affiliations
+- Saves the slimmed records to a new JSON file for downstream processing (alignment, extraction, etc.)
+- Logs progress and any issues encountered during slimming
+"""
 import json
 import logging
 import os
@@ -8,9 +17,9 @@ from tqdm import tqdm
 # =========================
 # CONFIG
 # =========================
-INPUT_JSON  = "../../data/filtered/oax_sr_refs_title_doi_pdf_downloaded_filtered.json"
-OUTPUT_JSON = "../../data/filtered/oax_sr_slim.json"
-LOG_FILE    = "../../logs/retrieval/oax_slim.log"
+INPUT_JSON  = "/data/filtered/oax_sr_refs_title_doi_pdf_downloaded_filtered.json"
+OUTPUT_JSON = "/data/filtered/oax_sr_slim.json"
+LOG_FILE    = "/logs/retrieval/oax_slim.log"
 
 # =========================
 # Setup

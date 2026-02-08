@@ -1,3 +1,10 @@
+"""
+Filtering Systematic Review Studies by References, Title, DOI, and PDF Availability
+- Filters studies based on strict inclusion and exclusion phrases in titles
+- Checks for presence of references, DOI, and PDF availability
+- Samples a subset for manual verification
+- Logs progress and any issues encountered during filtering
+"""
 import json
 import logging
 import os
@@ -6,10 +13,10 @@ import random
 import csv
 
 # Config 
-INPUT_JSON  = "../../data/raw/oax_sr_full.json"
-OUTPUT_JSON = "../../data/filtered/oax_sr_refs_title_doi_pdf_filtered.json"
-SAMPLE_CSV  = "../../data/filtered/oax_sr_verification_sample.csv" 
-LOG_FILE    = "../../logs/retrieval/oax_filter_refs_title_doi_pdf.log"
+INPUT_JSON  = "/data/raw/oax_sr_full.json"
+OUTPUT_JSON = "/data/filtered/oax_sr_refs_title_doi_pdf_filtered.json"
+SAMPLE_CSV  = "/data/filtered/oax_sr_verification_sample.csv" 
+LOG_FILE    = "/logs/retrieval/oax_filter_refs_title_doi_pdf.log"
 
 # STRICT INCLUSION PHRASES
 # Must contain one of these to be considered
