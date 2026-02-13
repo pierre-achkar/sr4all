@@ -1,6 +1,7 @@
 """
 Fetch OpenAlex query IDs asynchronously with rate limiting and retries.
 """
+
 import asyncio
 import json
 import logging
@@ -13,6 +14,7 @@ import importlib
 import aiohttp
 from tqdm import tqdm
 
+
 def _load_dotenv():
     try:
         module = importlib.import_module("dotenv")
@@ -20,16 +22,17 @@ def _load_dotenv():
     except Exception:
         return
 
+
 _load_dotenv()
 
 # ---------------- CONFIGURATION ----------------
 CONFIG = {
-    "INPUT_FILE": "/data/final/with_oax/oax_count_buckets/bucket_5k_50k.jsonl",
-    "OUTPUT_FILE": "/data/final/with_oax/oax_count_buckets/bucket_5k_50k_with_ids.jsonl",
-    "LOG_FILE": "logs/query_id_fetch.log",
+    "INPUT_FILE": "./data/final_old/with_oax/oax_count_buckets/bucket_5k_50k.jsonl",
+    "OUTPUT_FILE": "./data/final_old/with_oax/oax_count_buckets/bucket_5k_50k_with_ids.jsonl",
+    "LOG_FILE": "./logs/query_id_fetch.log",
     "EMAIL": os.getenv("OPENALEX_EMAIL_2", ""),
     "API_KEY": os.getenv("OPENALEX_API_KEY_2"),
-    "MAX_CONCURRENT_REQUESTS": 4, 
+    "MAX_CONCURRENT_REQUESTS": 4,
     "REQUEST_TIMEOUT": aiohttp.ClientTimeout(total=120),
     "MAX_RETRIES": 5,
     "BACKOFF_BASE": 2.0,
@@ -50,6 +53,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger("oax_query_ids")
 
+
 class RateLimiter:
     def __init__(self, min_interval_seconds: float):
         self._min_interval = min_interval_seconds
@@ -64,17 +68,21 @@ class RateLimiter:
                 await asyncio.sleep(self._min_interval - elapsed)
             self._last_request_ts = time.monotonic()
 
+
 def _prepare_oax_url(base_url: str, cursor: str) -> str:
     parsed = urlparse(base_url)
     query = parse_qs(parsed.query)
-    query.update({
-        "per-page": [str(CONFIG["PER_PAGE"])],
-        "select": [CONFIG["SELECT_FIELDS"]],
-        "cursor": [cursor],
-        "mailto": [CONFIG["EMAIL"]] if CONFIG["EMAIL"] else [],
-        "api_key": [CONFIG["API_KEY"]] if CONFIG["API_KEY"] else [],
-    })
+    query.update(
+        {
+            "per-page": [str(CONFIG["PER_PAGE"])],
+            "select": [CONFIG["SELECT_FIELDS"]],
+            "cursor": [cursor],
+            "mailto": [CONFIG["EMAIL"]] if CONFIG["EMAIL"] else [],
+            "api_key": [CONFIG["API_KEY"]] if CONFIG["API_KEY"] else [],
+        }
+    )
     return urlunparse(parsed._replace(query=urlencode(query, doseq=True)))
+
 
 async def fetch_with_retry(session, url, rate_limiter, semaphore, record_id):
     for attempt in range(CONFIG["MAX_RETRIES"]):
@@ -86,18 +94,23 @@ async def fetch_with_retry(session, url, rate_limiter, semaphore, record_id):
                     if resp.status == 429:
                         wait = int(resp.headers.get("Retry-After", 5))
                         actual_wait = wait + random.uniform(0.5, 2.0)
-                        logger.warning(f"ID: {record_id} | 429 Limit hit. Sleeping {actual_wait:.2f}s")
+                        logger.warning(
+                            f"ID: {record_id} | 429 Limit hit. Sleeping {actual_wait:.2f}s"
+                        )
                         await asyncio.sleep(actual_wait)
                         continue
-                    
+
                     resp.raise_for_status()
                     return await resp.json()
 
             except Exception as e:
                 wait_time = (CONFIG["BACKOFF_BASE"] ** attempt) + random.uniform(0, 1)
-                logger.error(f"ID: {record_id} | Attempt {attempt+1} failed: {e}. Retrying in {wait_time:.2f}s")
+                logger.error(
+                    f"ID: {record_id} | Attempt {attempt+1} failed: {e}. Retrying in {wait_time:.2f}s"
+                )
                 await asyncio.sleep(wait_time)
     return None
+
 
 async def fetch_worker(
     queue,
@@ -118,23 +131,27 @@ async def fetch_worker(
 
         record_idx, url_idx, base_url, record_id = item
         all_ids, error, cursor = [], None, "*"
-        
+
         logger.info(f"START: Fetching results for ID: {record_id} (Idx: {record_idx})")
 
         try:
             while True:
                 target_url = _prepare_oax_url(base_url, cursor)
-                data = await fetch_with_retry(session, target_url, rate_limiter, semaphore, record_id)
-                
+                data = await fetch_with_retry(
+                    session, target_url, rate_limiter, semaphore, record_id
+                )
+
                 if data is None:
-                    logger.error(f"DISCARD: Failed all retries for ID: {record_id}. Clearing results.")
+                    logger.error(
+                        f"DISCARD: Failed all retries for ID: {record_id}. Clearing results."
+                    )
                     error = "max_retries_exceeded"
-                    all_ids = [] 
+                    all_ids = []
                     break
 
                 results = data.get("results", [])
                 all_ids.extend([r.get("id") for r in results if r.get("id")])
-                
+
                 next_cursor = data.get("meta", {}).get("next_cursor")
                 if not next_cursor or not results:
                     break
@@ -157,6 +174,7 @@ async def fetch_worker(
                     await completed_queue.put(record_idx)
         queue.task_done()
 
+
 async def main():
     semaphore = asyncio.Semaphore(CONFIG["MAX_CONCURRENT_REQUESTS"])
     queue = asyncio.Queue()
@@ -171,7 +189,7 @@ async def main():
     pending_lock = asyncio.Lock()
     done_event = asyncio.Event()
     input_done = {"value": False}
-    
+
     if not os.path.exists(CONFIG["INPUT_FILE"]):
         print(f"Error: {CONFIG['INPUT_FILE']} not found.")
         return
@@ -196,7 +214,9 @@ async def main():
 
     resume_lines = len(processed_ids)
 
-    pbar = tqdm(total=total_records, initial=resume_lines, desc="Processing OpenAlex Records")
+    pbar = tqdm(
+        total=total_records, initial=resume_lines, desc="Processing OpenAlex Records"
+    )
 
     async def writer_task(f_out):
         while True:
@@ -230,22 +250,28 @@ async def main():
             completed_queue.task_done()
 
     async with aiohttp.ClientSession(timeout=CONFIG["REQUEST_TIMEOUT"]) as session:
-        workers = [asyncio.create_task(fetch_worker(
-            queue,
-            session,
-            semaphore,
-            results_map,
-            rate_limiter,
-            expected_counts,
-            completed_queue,
-            completed_set,
-            completed_lock,
-        ))
-                   for _ in range(CONFIG["MAX_CONCURRENT_REQUESTS"])]
+        workers = [
+            asyncio.create_task(
+                fetch_worker(
+                    queue,
+                    session,
+                    semaphore,
+                    results_map,
+                    rate_limiter,
+                    expected_counts,
+                    completed_queue,
+                    completed_set,
+                    completed_lock,
+                )
+            )
+            for _ in range(CONFIG["MAX_CONCURRENT_REQUESTS"])
+        ]
 
-        with open(CONFIG["INPUT_FILE"], "r") as f_in, open(CONFIG["OUTPUT_FILE"], "a") as f_out:
+        with open(CONFIG["INPUT_FILE"], "r") as f_in, open(
+            CONFIG["OUTPUT_FILE"], "a"
+        ) as f_out:
             writer = asyncio.create_task(writer_task(f_out))
-            
+
             for record_idx, line in enumerate(f_in, start=resume_lines):
                 last_record_idx = record_idx
                 if not line.strip():
@@ -294,6 +320,7 @@ async def main():
         await asyncio.gather(*workers)
         pbar.close()
         logger.info("Completed successfully")
+
 
 if __name__ == "__main__":
     asyncio.run(main())

@@ -4,6 +4,7 @@ Split JSONL records into buckets based on oax_query_counts.
 Buckets are defined by count edges. Each record is assigned a score using
 SCORE_STRATEGY and written to the corresponding bucket file.
 """
+
 from __future__ import annotations
 
 import json
@@ -11,8 +12,10 @@ from pathlib import Path
 from typing import Iterable, List
 
 # ---------------- CONFIGURATION ----------------
-INPUT_FILE = Path("/data/final/with_oax/sr4all_full_normalized_boolean_with_year_range_oax_with_counts.jsonl")
-OUTPUT_DIR = Path("/data/final/with_oax/oax_count_buckets")
+INPUT_FILE = Path(
+    "./data/final/with_oax/sr4all_full_normalized_boolean_with_year_range_oax_with_counts.jsonl"
+)
+OUTPUT_DIR = Path("./data/final/with_oax/oax_count_buckets")
 
 # Bucket edges (8 buckets):
 # 0
@@ -94,7 +97,9 @@ def main() -> None:
         "b7_20m_plus": OUTPUT_DIR / "bucket_20m_plus.jsonl",
     }
 
-    handles = {label: path.open("w", encoding="utf-8") for label, path in output_paths.items()}
+    handles = {
+        label: path.open("w", encoding="utf-8") for label, path in output_paths.items()
+    }
 
     counts_written = {label: 0 for label in output_paths}
 

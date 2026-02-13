@@ -1,6 +1,7 @@
 """
 Annotate OpenAlex query URLs with result counts asynchronously.
 """
+
 import asyncio
 import aiohttp
 import json
@@ -10,15 +11,19 @@ import importlib
 import os
 from typing import Dict, List, Tuple, Optional
 from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
+
+
 def _get_tqdm():
     try:
         module = importlib.import_module("tqdm")
         return module.tqdm
     except Exception:  # pragma: no cover
+
         def _noop(iterable, **kwargs):
             return iterable
 
         return _noop
+
 
 # ---------------- CONFIGURATION ----------------
 def _load_dotenv():
@@ -28,12 +33,15 @@ def _load_dotenv():
     except Exception:
         return
 
-_load_dotenv()
-INPUT_FILE = "/data/final/with_oax/sr4all_full_normalized_boolean_with_year_range_oax.jsonl"
-OUTPUT_FILE = "/data/final/with_oax/sr4all_full_normalized_boolean_with_year_range_oax_with_counts.jsonl"
-LOG_FILE = "/logs/oax/query_count_annotate.log"
 
-EMAIL = "ex@example.com"  
+_load_dotenv()
+INPUT_FILE = (
+    "./data/final_old/with_oax/sr4all_full_normalized_boolean_with_year_range_oax.jsonl"
+)
+OUTPUT_FILE = "./data/final_old/with_oax/sr4all_full_normalized_boolean_with_year_range_oax_with_counts.jsonl"
+LOG_FILE = "./logs/oax/query_count_annotate.log"
+
+EMAIL = "ex@example.com"
 API_KEY = os.getenv("OPENALEX_API_KEY")
 MAX_CONCURRENT_REQUESTS = 10
 REQUEST_TIMEOUT = aiohttp.ClientTimeout(total=60)
@@ -115,7 +123,9 @@ async def _fetch_count(
                             sleep_s = int(retry_after)
                         else:
                             sleep_s = BACKOFF_BASE_SECONDS * (attempt + 1)
-                        logger.warning("Rate limit hit. Sleeping %.1fs: %s", sleep_s, url)
+                        logger.warning(
+                            "Rate limit hit. Sleeping %.1fs: %s", sleep_s, url
+                        )
                         await asyncio.sleep(sleep_s)
                         continue
 
@@ -124,7 +134,13 @@ async def _fetch_count(
                     return int(data.get("meta", {}).get("count", 0)), None
             except Exception as exc:
                 sleep_s = BACKOFF_BASE_SECONDS * (attempt + 1)
-                logger.warning("Error fetching %s (attempt %d/%d): %s", url, attempt + 1, MAX_RETRIES, exc)
+                logger.warning(
+                    "Error fetching %s (attempt %d/%d): %s",
+                    url,
+                    attempt + 1,
+                    MAX_RETRIES,
+                    exc,
+                )
                 await asyncio.sleep(sleep_s)
 
     logger.error("Failed after retries: %s", url)
@@ -155,7 +171,14 @@ async def _count_queries_for_record(
             counts[idx] = cache[url]
             errors[idx] = None
             continue
-        tasks.append((idx, asyncio.create_task(_fetch_count(session, url, semaphore, rate_limiter))))
+        tasks.append(
+            (
+                idx,
+                asyncio.create_task(
+                    _fetch_count(session, url, semaphore, rate_limiter)
+                ),
+            )
+        )
 
     if tasks:
         results = await asyncio.gather(*[t for _, t in tasks])
@@ -194,7 +217,9 @@ async def main():
 
     tqdm = _get_tqdm()
 
-    async with aiohttp.ClientSession(headers=headers, timeout=REQUEST_TIMEOUT) as session:
+    async with aiohttp.ClientSession(
+        headers=headers, timeout=REQUEST_TIMEOUT
+    ) as session:
         with open(INPUT_FILE, "r", encoding="utf-8") as f_in, open(
             OUTPUT_FILE, "a", encoding="utf-8"
         ) as f_out:
@@ -222,7 +247,9 @@ async def main():
                 if not isinstance(urls, list):
                     urls = []
 
-                counts, errors = await _count_queries_for_record(session, semaphore, rate_limiter, urls, cache)
+                counts, errors = await _count_queries_for_record(
+                    session, semaphore, rate_limiter, urls, cache
+                )
                 record["oax_query_counts"] = counts
                 record["oax_query_errors"] = errors
 

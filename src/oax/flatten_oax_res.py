@@ -1,17 +1,17 @@
 """
 Flatten oax_query_ids (list of lists) into unique list per record.
 """
+
 import argparse
 import json
 from pathlib import Path
 from typing import Dict, Iterable, List, Optional, Sequence
 
-
 DEFAULT_INPUT = Path(
-    "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/oax_count_buckets/bucket_5k_50k_with_ids.jsonl"
+    "./data/final_old/with_oax/oax_count_buckets/bucket_1_250k_with_ids.jsonl"
 )
 DEFAULT_OUTPUT = Path(
-    "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/oax_count_buckets/bucket_5k_50k_with_ids_flattened.jsonl"
+    "./data/final_old/with_oax/oax_count_buckets/bucket_1_250k_with_ids_flattened.jsonl"
 )
 
 

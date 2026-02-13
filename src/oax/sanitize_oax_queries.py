@@ -13,14 +13,12 @@ from typing import Dict, Iterable, List, Optional
 # ========================
 CONFIG = {
     "input_jsonl": Path(
-        "/data/final/with_oax/sr4all_full_normalized_year_range_search_keywords_only_oax_mapping_repaired_v2.jsonl"
+        "./data/final_old/with_oax/sr4all_full_normalized_year_range_search_keywords_only_oax_mapping_repaired_v2.jsonl"
     ),
     "output_jsonl": Path(
-        "/data/final/with_oax/sr4all_full_normalized_year_range_search_keywords_only_oax_mapping_repaired_v2_sanitized.jsonl"
+        "./data/final_old/with_oax/sr4all_full_normalized_year_range_search_keywords_only_oax_mapping_repaired_v2_sanitized.jsonl"
     ),
-    "log_file": Path(
-        "/logs/oax/sanitize_oax_queries_keywords_only.log"
-    ),
+    "log_file": Path("./logs/oax/sanitize_oax_queries_keywords_only.log"),
 }
 
 # ========================
@@ -36,15 +34,15 @@ logging.basicConfig(
 logger = logging.getLogger("oax_sanitize")
 
 SMART_QUOTES = {
-    "“": "\"",
-    "”": "\"",
-    "„": "\"",
-    "‟": "\"",
-    "’": "\"",
-    "‘": "\"",
-    "‚": "\"",
-    "‹": "\"",
-    "›": "\"",
+    "“": '"',
+    "”": '"',
+    "„": '"',
+    "‟": '"',
+    "’": '"',
+    "‘": '"',
+    "‚": '"',
+    "‹": '"',
+    "›": '"',
 }
 
 
@@ -79,7 +77,9 @@ def ensure_search_prefix(query: str) -> str:
 
 
 def uppercase_operators(query: str) -> str:
-    return re.sub(r"\b(and|or|not)\b", lambda m: m.group(1).upper(), query, flags=re.IGNORECASE)
+    return re.sub(
+        r"\b(and|or|not)\b", lambda m: m.group(1).upper(), query, flags=re.IGNORECASE
+    )
 
 
 def quote_phrases(query: str) -> str:
@@ -97,8 +97,8 @@ def quote_phrases(query: str) -> str:
             out.append(token)
             continue
         # If token contains spaces and no quotes, wrap in quotes
-        if " " in token and "\"" not in token:
-            token = f"\"{token}\""
+        if " " in token and '"' not in token:
+            token = f'"{token}"'
         out.append(token)
     return " ".join(out).replace("( ", "(").replace(" )", ")")
 
@@ -149,7 +149,9 @@ def main() -> None:
                     changed += 1
             fout.write(json.dumps(rec, ensure_ascii=False) + "\n")
 
-    logger.info("Sanitize complete | total=%d changed=%d output=%s", total, changed, output_path)
+    logger.info(
+        "Sanitize complete | total=%d changed=%d output=%s", total, changed, output_path
+    )
     print(f"Sanitize complete | total={total} changed={changed} output={output_path}")
 
 

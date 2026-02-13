@@ -24,25 +24,21 @@ from oax.io_llm import LLMInput, LLMQueryItem
 # ========================
 CONFIG = {
     "input_jsonl": Path(
-        "/data/final/sr4all_full_normalized_year_range_search_boolean_only.jsonl"
+        "./data/final_old/sr4all_full_normalized_year_range_search_boolean_only.jsonl"
     ),
     "mapping_output_jsonl": Path(
-        "/data/final/with_oax/sr4all_full_normalized_year_range_search_boolean_only_oax_mapping.jsonl"
+        "./data/final_old/with_oax/sr4all_full_normalized_year_range_search_boolean_only_oax_mapping.jsonl"
     ),
     "repaired_output_jsonl": Path(
-        "/data/final/with_oax/sr4all_full_normalized_year_range_search_boolean_only_oax_mapping_repaired.jsonl"
+        "./data/final_old/with_oax/sr4all_full_normalized_year_range_search_boolean_only_oax_mapping_repaired.jsonl"
     ),
     "error_ids_by_type_json": Path(
-        "/logs/oax/oax_error_ids_by_type_boolean_only.json"
+        "./logs/oax/oax_error_ids_by_type_boolean_only.json"
     ),
-    "log_file": Path(
-        "/logs/oax/repair_oax_errors_boolean_only.log"
-    ),
-    "repaired_ids_out": Path(
-        "/logs/oax/repair_oax_repaired_ids_boolean_only.txt"
-    ),
+    "log_file": Path("./logs/oax/repair_oax_errors_boolean_only.log"),
+    "repaired_ids_out": Path("./logs/oax/repair_oax_repaired_ids_boolean_only.txt"),
     "still_error_ids_out": Path(
-        "/logs/oax/repair_oax_still_error_ids_boolean_only.txt"
+        "./logs/oax/repair_oax_still_error_ids_boolean_only.txt"
     ),
     "model_path": "Qwen/Qwen3-32B",
     "tensor_parallel": 2,
@@ -113,7 +109,9 @@ def normalize_outputs(outputs, prompts_meta: List[Tuple[str, int]]):
 
     min_count = min(output_count, meta_count)
 
-    for output, (rec_id, expected_len) in zip(outputs[:min_count], prompts_meta[:min_count]):
+    for output, (rec_id, expected_len) in zip(
+        outputs[:min_count], prompts_meta[:min_count]
+    ):
         raw = output.get("raw")
         parsed = output.get("parsed")
         err = output.get("error")
@@ -225,9 +223,13 @@ def build_llm_input(queries: List[Dict], keywords: List[str]):
         q_str = (q or {}).get("boolean_query_string")
         db_src = (q or {}).get("database_source")
         if not q_str:
-            llm_items.append(LLMQueryItem(boolean_query_string="", database_source=db_src))
+            llm_items.append(
+                LLMQueryItem(boolean_query_string="", database_source=db_src)
+            )
         else:
-            llm_items.append(LLMQueryItem(boolean_query_string=q_str, database_source=db_src))
+            llm_items.append(
+                LLMQueryItem(boolean_query_string=q_str, database_source=db_src)
+            )
 
     if len(queries) == 0 and len(keywords) > 0:
         llm_input = LLMInput(queries=[], keywords=keywords)
@@ -326,7 +328,9 @@ def main() -> None:
     still_error: Set[str] = set()
     batch_size = CONFIG["batch_size"]
 
-    for i in tqdm(range(0, len(repair_records), batch_size), desc="Repairing", unit="rec"):
+    for i in tqdm(
+        range(0, len(repair_records), batch_size), desc="Repairing", unit="rec"
+    ):
         batch = repair_records[i : i + batch_size]
         batch_inputs: List[LLMInput] = []
         batch_meta: List[Tuple[str, int]] = []

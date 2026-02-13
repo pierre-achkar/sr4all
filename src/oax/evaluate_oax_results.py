@@ -1,28 +1,30 @@
 """
 Evaluate retrieval vs. relevant referenced works by id match.
 """
+
 import json
 from pathlib import Path
 from typing import Dict, Iterable, List, Optional, Set, Tuple
 
 import matplotlib
+
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
 DEFAULT_RELEVANT = Path(
-    "/home/fhg/pie65738/projects/sr4all/data/final/sr4all_full_normalized_year_range_search_has_boolean.jsonl"
+    "./data/final_old/sr4all_full_normalized_year_range_search_has_boolean.jsonl"
 )
 DEFAULT_RETRIEVED = Path(
-    "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/oax_count_buckets/bucket_5k_50k_with_ids_flattened.jsonl"
+    "./data/final_old/with_oax/oax_count_buckets/bucket_1_250k_with_ids_flattened.jsonl"
 )
 DEFAULT_OUTPUT = Path(
-    "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/res/bucket_5k_50k_retrieval_eval.jsonl"
+    "./data/final_old/with_oax/res/bucket_1_250k_retrieval_eval.jsonl"
 )
 DEFAULT_SUMMARY = Path(
-    "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/res/bucket_5k_50k_retrieval_eval_summary.json"
+    "./data/final_old/with_oax/res/bucket_1_250k_retrieval_eval_summary.json"
 )
 DEFAULT_PLOT = Path(
-    "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/res/bucket_5k_50k_retrieval_eval_recall_hist.png"
+    "./data/final_old/with_oax/res/bucket_1_250k_retrieval_eval_recall_hist.png"
 )
 
 
@@ -180,7 +182,9 @@ def main() -> None:
     if recall_values:
         plot_path.parent.mkdir(parents=True, exist_ok=True)
         plt.figure(figsize=(8, 5))
-        plt.hist(recall_values, bins=30, range=(0, 1), color="#4C78A8", edgecolor="white")
+        plt.hist(
+            recall_values, bins=30, range=(0, 1), color="#4C78A8", edgecolor="white"
+        )
         plt.title("Recall Distribution")
         plt.xlabel("Recall")
         plt.ylabel("Count")

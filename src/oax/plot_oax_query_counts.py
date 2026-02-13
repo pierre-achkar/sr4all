@@ -4,6 +4,7 @@ Plot distribution of OpenAlex query counts.
 Reads JSONL with an `oax_query_counts` list per record and plots a histogram
 (useful for deciding bucket thresholds).
 """
+
 from __future__ import annotations
 
 import json
@@ -12,8 +13,10 @@ from pathlib import Path
 from typing import Iterable, List
 
 # ---------------- CONFIGURATION ----------------
-INPUT_FILE = Path("/data/final/with_oax/sr4all_full_normalized_boolean_with_year_range_oax_with_counts.jsonl")
-OUTPUT_FILE = Path("/data/final/with_oax/plots/oax_query_counts_hist.png")
+INPUT_FILE = Path(
+    "./data/final_old/with_oax/sr4all_full_normalized_boolean_with_year_range_oax_with_counts.jsonl"
+)
+OUTPUT_FILE = Path("./data/final_old/with_oax/plots/oax_query_counts_hist.png")
 
 # Comma-separated bin edges as a string, or None to auto-generate log bins.
 # Example: "0,1,2,5,10,20,50,100,200,500,1000"
