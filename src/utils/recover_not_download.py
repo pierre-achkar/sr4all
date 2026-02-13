@@ -1,7 +1,7 @@
 import json
 
-download_manifest_path = "/home/fhg/pie65738/projects/sr4all/data/rw_ds/filtered/pdf_download_manifest.jsonl"
-full_data = "/home/fhg/pie65738/projects/sr4all/data/raw/oax_sr_full.json"
+download_manifest_path = "./data/rw_ds/filtered/pdf_download_manifest.jsonl"
+full_data = "./data/raw/oax_sr_full.json"
 
 # read download manifest
 with open(download_manifest_path, "r") as f:
@@ -24,10 +24,12 @@ print(f"Number of items not downloaded: {len(not_downloaded_ids)}")
 not_downloaded_data = [item for item in full_data if item["id"] in not_downloaded_ids]
 
 print(f"Number of items in full data: {len(full_data)}")
-print(f"Number of matching items in full data that were not downloaded: {len(not_downloaded_data)}")
+print(
+    f"Number of matching items in full data that were not downloaded: {len(not_downloaded_data)}"
+)
 
 # save not downloaded data
-output_path = "/home/fhg/pie65738/projects/sr4all/data/filtered/no_ft_subset/not_downloaded_data.jsonl"
+output_path = "./data/filtered/no_ft_subset/not_downloaded_data.jsonl"
 with open(output_path, "w") as f:
     for item in not_downloaded_data:
         f.write(json.dumps(item) + "\n")

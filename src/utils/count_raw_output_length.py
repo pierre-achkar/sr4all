@@ -23,11 +23,9 @@ if str(SRC_DIR) not in sys.path:
 # ========================
 CONFIG = {
     "input_jsonl": Path(
-        "/data/final/with_oax/sr4all_full_normalized_year_range_search_both_oax_trace.jsonl"
+        "./data/final/with_oax/sr4all_full_normalized_year_range_search_both_oax_trace.jsonl"
     ),
-    "log_file": Path(
-        "/logs/oax/raw_output_length_count_both.log"
-    ),
+    "log_file": Path("./logs/oax/raw_output_length_count_both.log"),
     "model_path": "Qwen/Qwen3-32B",
     "sample_size": 0,  # 0 = process all, otherwise limit to N records
 }
@@ -79,7 +77,9 @@ def main():
         return
 
     logger.info("Loading tokenizer for %s...", CONFIG["model_path"])
-    tokenizer = AutoTokenizer.from_pretrained(CONFIG["model_path"], trust_remote_code=True)
+    tokenizer = AutoTokenizer.from_pretrained(
+        CONFIG["model_path"], trust_remote_code=True
+    )
 
     token_counts: List[int] = []
     char_counts: List[int] = []

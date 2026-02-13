@@ -26,11 +26,9 @@ from oax.prompts import TransformerToOAXPrompts
 # ========================
 CONFIG = {
     "input_jsonl": Path(
-        "/home/fhg/pie65738/projects/sr4all/data/final/sr4all_full_normalized_year_range_search_keywords_only.jsonl"
+        "./data/final/sr4all_full_normalized_year_range_search_keywords_only.jsonl"
     ),
-    "log_file": Path(
-        "/home/fhg/pie65738/projects/sr4all/logs/oax/prompt_length_count_keywords_only.log"
-    ),
+    "log_file": Path("./logs/oax/prompt_length_count_keywords_only.log"),
     "model_path": "Qwen/Qwen3-32B",
     "enable_thinking": False,
     "sample_size": 0,  # 0 = process all, otherwise limit to N records
@@ -70,9 +68,13 @@ def build_llm_input(queries: List[Dict], keywords: List[str]) -> Tuple[LLMInput,
         q_str = (q or {}).get("boolean_query_string")
         db_src = (q or {}).get("database_source")
         if not q_str:
-            llm_items.append(LLMQueryItem(boolean_query_string="", database_source=db_src))
+            llm_items.append(
+                LLMQueryItem(boolean_query_string="", database_source=db_src)
+            )
         else:
-            llm_items.append(LLMQueryItem(boolean_query_string=q_str, database_source=db_src))
+            llm_items.append(
+                LLMQueryItem(boolean_query_string=q_str, database_source=db_src)
+            )
 
     if len(queries) == 0 and len(keywords) > 0:
         llm_input = LLMInput(queries=[], keywords=keywords)
@@ -106,7 +108,9 @@ def main():
         return
 
     logger.info("Loading tokenizer for %s...", CONFIG["model_path"])
-    tokenizer = AutoTokenizer.from_pretrained(CONFIG["model_path"], trust_remote_code=True)
+    tokenizer = AutoTokenizer.from_pretrained(
+        CONFIG["model_path"], trust_remote_code=True
+    )
 
     counts: List[int] = []
     processed = 0

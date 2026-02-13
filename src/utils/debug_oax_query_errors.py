@@ -19,17 +19,15 @@ from tqdm import tqdm
 # ========================
 CONFIG = {
     "input_jsonl": Path(
-        "/data/final/with_oax/sr4all_full_normalized_boolean_with_year_range_oax_with_counts.jsonl"
+        "./data/final/with_oax/sr4all_full_normalized_boolean_with_year_range_oax_with_counts.jsonl"
     ),
     "output_jsonl": Path(
-        "/data/final/with_oax/debug_errors/debug_oax_query_failures.jsonl"
+        "./data/final/with_oax/debug_errors/debug_oax_query_failures.jsonl"
     ),
     "summary_out": Path(
-        "/data/final/with_oax/debug_errors/debug_oax_query_failures_summary.json"
+        "./data/final/with_oax/debug_errors/debug_oax_query_failures_summary.json"
     ),
-    "log_file": Path(
-        "/logs/oax/debug_oax_query_failures.log"
-    ),
+    "log_file": Path("./logs/oax/debug_oax_query_failures.log"),
     "mailto": "example@example.com",
     "api_key_env": "OPENALEX_API_KEY_2",
     "timeout_seconds": 60,
@@ -110,7 +108,7 @@ def _heuristic_flags(search: str) -> List[str]:
     flags: List[str] = []
     if not search:
         return ["missing_search"]
-    if search.count("\"") % 2 != 0:
+    if search.count('"') % 2 != 0:
         flags.append("unbalanced_quotes")
     if search.count("(") != search.count(")"):
         flags.append("unbalanced_parens")
@@ -249,8 +247,12 @@ def main() -> None:
                             "http_status": result.status,
                             "http_error": result.error,
                             "http_message": result.message,
-                            "oax_query_count": counts[idx] if idx < len(counts) else None,
-                            "oax_query_error": errors[idx] if idx < len(errors) else None,
+                            "oax_query_count": (
+                                counts[idx] if idx < len(counts) else None
+                            ),
+                            "oax_query_error": (
+                                errors[idx] if idx < len(errors) else None
+                            ),
                         },
                         ensure_ascii=False,
                     )

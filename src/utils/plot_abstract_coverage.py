@@ -9,7 +9,9 @@ from statistics import mean, median
 
 def extract_coverage(obj):
     """Return coverage ratio if present, else None."""
-    if "abstract_coverage" in obj and isinstance(obj["abstract_coverage"], (int, float)):
+    if "abstract_coverage" in obj and isinstance(
+        obj["abstract_coverage"], (int, float)
+    ):
         return float(obj["abstract_coverage"])
     rac = obj.get("references_abstract_coverage")
     if isinstance(rac, dict):
@@ -20,15 +22,17 @@ def extract_coverage(obj):
 
 
 def parse_args():
-    p = argparse.ArgumentParser(description="Plot distribution of abstract coverage ratio.")
+    p = argparse.ArgumentParser(
+        description="Plot distribution of abstract coverage ratio."
+    )
     p.add_argument(
         "--input",
-        default="/home/fhg/pie65738/projects/sr4all/data/final/sr4all_full.jsonl",
+        default="./data/final/sr4all_full.jsonl",
         help="Path to JSONL file",
     )
     p.add_argument(
         "--output",
-        default="/home/fhg/pie65738/projects/sr4all/data/final/abstract_coverage_hist.png",
+        default="./data/final/abstract_coverage_hist.png",
         help="Path to output PNG",
     )
     p.add_argument("--bins", type=int, default=50, help="Number of histogram bins")

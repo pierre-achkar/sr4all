@@ -12,14 +12,12 @@ from typing import Dict, Iterable, List, Optional
 # ========================
 CONFIG = {
     "input_jsonl": Path(
-        "/data/final/with_oax/sr4all_full_normalized_year_range_search_keywords_only_oax_mapping_repaired_v2.jsonl"
+        "./data/final/with_oax/sr4all_full_normalized_year_range_search_keywords_only_oax_mapping_repaired_v2.jsonl"
     ),
     "output_jsonl": Path(
-        "/data/final/with_oax/sr4all_full_normalized_year_range_search_keywords_only_oax_mapping_repaired_v2_clean.jsonl"
+        "./data/final/with_oax/sr4all_full_normalized_year_range_search_keywords_only_oax_mapping_repaired_v2_clean.jsonl"
     ),
-    "log_file": Path(
-        "/logs/oax/cleanup_oax_queries_keywords_only.log"
-    ),
+    "log_file": Path("./logs/oax/cleanup_oax_queries_keywords_only.log"),
 }
 
 # ========================
@@ -83,7 +81,9 @@ def main() -> None:
                     changed += 1
             fout.write(json.dumps(rec, ensure_ascii=False) + "\n")
 
-    logger.info("Cleanup complete | total=%d changed=%d output=%s", total, changed, output_path)
+    logger.info(
+        "Cleanup complete | total=%d changed=%d output=%s", total, changed, output_path
+    )
     print(f"Cleanup complete | total={total} changed={changed} output={output_path}")
 
 

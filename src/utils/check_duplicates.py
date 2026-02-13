@@ -24,5 +24,7 @@ with open(output_path, "w", encoding="utf-8") as fout:
         except Exception as e:
             print(f"Line {line_num}: JSON decode error: {e}")
 
-print(f"Deduplication complete. {duplicates} duplicate rows dropped. Output: {output_path}")
+print(
+    f"Deduplication complete. {duplicates} duplicate rows dropped. Output: {output_path}"
+)
 print(f"Total unique IDs: {len(ids)}")

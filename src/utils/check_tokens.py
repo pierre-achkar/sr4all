@@ -1,28 +1,31 @@
 """
 This script checks the number of records in the original splits, after normalization and postprocessing, and
-after OAX query generation. It also checks how many records have null boolean_queries after postprocessing, 
+after OAX query generation. It also checks how many records have null boolean_queries after postprocessing,
 and summarizes OAX query errors.
 """
+
 import sys
 import json
 import logging
 import numpy as np
-import pandas as pd  
+import pandas as pd
 from pathlib import Path
 from tqdm import tqdm
 from transformers import AutoTokenizer
 from prompts import SYSTEM_PROMPT, USER_TEMPLATE_RAW
 
+
 # -----------------------------------------------------------------------------
 # 1. CONFIGURATION
 # -----------------------------------------------------------------------------
 class Config:
-    INPUT_DIR = Path("/data/sr4all/md")
-    OUTPUT_STATS = Path("/data/sr4all/token_stats.json")
-    OUTPUT_PARQUET = Path("/data/sr4all/token_counts.parquet") 
-    MODEL_PATH = "Qwen/Qwen3-32B" 
-    MAX_FILES_TO_CHECK = None 
-    LOG_FILE = Path("/logs/extraction/token_check.log")
+    INPUT_DIR = Path("./data/sr4all/md")
+    OUTPUT_STATS = Path("./data/sr4all/token_stats.json")
+    OUTPUT_PARQUET = Path("./data/sr4all/token_counts.parquet")
+    MODEL_PATH = "Qwen/Qwen3-32B"
+    MAX_FILES_TO_CHECK = None
+    LOG_FILE = Path("./logs/extraction/token_check.log")
+
 
 # Setup Logging
 Config.LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
@@ -30,9 +33,10 @@ logging.basicConfig(
     filename=Config.LOG_FILE,
     level=logging.INFO,
     format="%(asctime)s | %(levelname)s | %(message)s",
-    filemode="w"
+    filemode="w",
 )
 logger = logging.getLogger("TokenChecker")
+
 
 # -----------------------------------------------------------------------------
 # 2. MAIN LOGIC
@@ -44,12 +48,16 @@ def main():
 
     # Sanity Check
     if "{TEXT}" not in USER_TEMPLATE_RAW:
-        print("CRITICAL ERROR: '{TEXT}' placeholder missing from USER_TEMPLATE_RAW in prompts.py")
+        print(
+            "CRITICAL ERROR: '{TEXT}' placeholder missing from USER_TEMPLATE_RAW in prompts.py"
+        )
         sys.exit(1)
 
     print(f"Loading Tokenizer: {Config.MODEL_PATH}...")
     try:
-        tokenizer = AutoTokenizer.from_pretrained(Config.MODEL_PATH, trust_remote_code=True)
+        tokenizer = AutoTokenizer.from_pretrained(
+            Config.MODEL_PATH, trust_remote_code=True
+        )
     except Exception as e:
         print(f"CRITICAL ERROR: Could not load tokenizer. {e}")
         return
@@ -59,30 +67,32 @@ def main():
     total_files = len(all_files)
     print(f"Found {total_files} files.")
 
-    data_records = [] # <--- Store tuples (id, tokens)
+    data_records = []  # <--- Store tuples (id, tokens)
 
     print("\nStarting Tokenization...")
     for md_file in tqdm(all_files, unit="doc"):
         try:
             content = md_file.read_text(encoding="utf-8", errors="replace")
             user_content = USER_TEMPLATE_RAW.replace("{TEXT}", content)
-            
+
             messages = [
                 {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": user_content}
+                {"role": "user", "content": user_content},
             ]
             full_text = tokenizer.apply_chat_template(messages, tokenize=False)
-            
+
             tokens = tokenizer.encode(full_text, add_special_tokens=False)
             count = len(tokens)
-            
+
             # Store Data
-            data_records.append({
-                "doc_id": md_file.stem,       # e.g., "W10005962"
-                "file_path": str(md_file),    # Keep full path for loading later
-                "token_count": count
-            })
-            
+            data_records.append(
+                {
+                    "doc_id": md_file.stem,  # e.g., "W10005962"
+                    "file_path": str(md_file),  # Keep full path for loading later
+                    "token_count": count,
+                }
+            )
+
         except Exception as e:
             logger.error(f"Failed to process {md_file.name}: {e}")
 
@@ -94,7 +104,7 @@ def main():
     # 3. SAVE PARQUET & STATS
     # -----------------------------------------------------------------------------
     df = pd.DataFrame(data_records)
-    
+
     # Save detailed parquet
     df.to_parquet(Config.OUTPUT_PARQUET, index=False)
     print(f"\nSaved per-document counts to: {Config.OUTPUT_PARQUET}")
@@ -109,21 +119,22 @@ def main():
         "median": int(np.median(counts_arr)),
         "p90": int(np.percentile(counts_arr, 90)),
         "p95": int(np.percentile(counts_arr, 95)),
-        "p99": int(np.percentile(counts_arr, 99))
+        "p99": int(np.percentile(counts_arr, 99)),
     }
 
-    print("\n" + "="*40)
+    print("\n" + "=" * 40)
     print(f"RESULTS ({len(counts_arr)} docs)")
-    print("="*40)
+    print("=" * 40)
     print(f" Mean:   {stats['mean']}")
     print(f" Median: {stats['median']}")
     print(f" P95:    {stats['p95']}")
     print(f" P99:    {stats['p99']}")
     print(f" Max:    {stats['max']}")
-    print("="*40)
+    print("=" * 40)
 
     with open(Config.OUTPUT_STATS, "w") as f:
         json.dump(stats, f, indent=2)
+
 
 if __name__ == "__main__":
     main()

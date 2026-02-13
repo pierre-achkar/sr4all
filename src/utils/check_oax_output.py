@@ -12,23 +12,15 @@ from typing import Dict, Iterable, Optional, Set
 # ========================
 CONFIG = {
     "input_jsonl": Path(
-        "/data/final/sr4all_full_normalized_year_range_search_boolean_only.jsonl"
+        "./data/final/sr4all_full_normalized_year_range_search_boolean_only.jsonl"
     ),
     "output_jsonl": Path(
-        "/data/final/with_oax/sr4all_full_normalized_year_range_search_boolean_only_oax_mapping_repaired.jsonl"
+        "./data/final/with_oax/sr4all_full_normalized_year_range_search_boolean_only_oax_mapping_repaired.jsonl"
     ),
-    "log_file": Path(
-        "/logs/oax/check_oax_output_boolean_only.log"
-    ),
-    "missing_ids_out": Path(
-        "/logs/oax/missing_oax_ids_boolean_only.txt"
-    ),
-    "error_ids_out": Path(
-        "/logs/oax/oax_error_ids_boolean_only.txt"
-    ),
-    "error_ids_by_type_out": Path(
-        "/logs/oax/oax_error_ids_by_type_boolean_only.json"
-    ),
+    "log_file": Path("./logs/oax/check_oax_output_boolean_only.log"),
+    "missing_ids_out": Path("./logs/oax/missing_oax_ids_boolean_only.txt"),
+    "error_ids_out": Path("./logs/oax/oax_error_ids_boolean_only.txt"),
+    "error_ids_by_type_out": Path("./logs/oax/oax_error_ids_by_type_boolean_only.json"),
 }
 
 # ========================

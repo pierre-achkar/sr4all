@@ -1,9 +1,11 @@
 """
-This script checks the number of records in the original splits, after normalization and postprocessing, 
-and after OAX query generation. It also checks how many records have null boolean_queries after postprocessing, 
+This script checks the number of records in the original splits, after normalization and postprocessing,
+and after OAX query generation. It also checks how many records have null boolean_queries after postprocessing,
 and summarizes OAX query errors.
 """
+
 import json
+
 
 # read both files
 def read_jsonl(path: str):
@@ -15,8 +17,8 @@ def read_jsonl(path: str):
 
 
 # Original Split
-PATH_1 = "/data/final/sr4all_full_normalized_year_range_search_has_boolean.jsonl"
-PATH_2 = "/data/final/sr4all_full_normalized_year_range_search_keywords_only.jsonl"
+PATH_1 = "./data/final/sr4all_full_normalized_year_range_search_has_boolean.jsonl"
+PATH_2 = "./data/final/sr4all_full_normalized_year_range_search_keywords_only.jsonl"
 
 print("\nOriginal Splits:")
 records_3 = read_jsonl(PATH_1)
@@ -27,8 +29,8 @@ print(f"Records in Keywords Only: {len(records_4)}")
 
 
 # After norm, postprocessing
-PATH_3 = "/data/final/with_boolean/final/sr4all_full_normalized_boolean_mapping_merged_2_with_year_range.jsonl"
-PATH_4 = "/data/final/with_boolean/final/sr4all_full_normalized_keywords_only_mapping_merged_2_with_year_range.jsonl"
+PATH_3 = "./data/final/with_boolean/final/sr4all_full_normalized_boolean_mapping_merged_2_with_year_range.jsonl"
+PATH_4 = "./data/final/with_boolean/final/sr4all_full_normalized_keywords_only_mapping_merged_2_with_year_range.jsonl"
 
 # hwo many records in each file
 records_3 = read_jsonl(PATH_3)
@@ -45,8 +47,8 @@ print(f"Records with null boolean_queries in Boolean : {null_count_1}")
 print(f"Records with null boolean_queries in Keywords Only: {null_count_2}")
 
 # OAX query counts
-PATH_5 = "/data/final/with_oax/sr4all_full_normalized_boolean_with_year_range_oax_with_counts.jsonl"
-PATH_6= "/data/final/with_oax/sr4all_full_normalized_keywords_only_oax_with_year_range_oax_with_counts.jsonl"
+PATH_5 = "./data/final/with_oax/sr4all_full_normalized_boolean_with_year_range_oax_with_counts.jsonl"
+PATH_6 = "./data/final/with_oax/sr4all_full_normalized_keywords_only_oax_with_year_range_oax_with_counts.jsonl"
 
 print("\nOAX Confor:")
 records_5 = read_jsonl(PATH_5)
@@ -54,6 +56,7 @@ records_6 = read_jsonl(PATH_6)
 
 print(f"Records in Boolean : {len(records_5)}")
 print(f"Records in Keywords Only: {len(records_6)}")
+
 
 def summarize_oax_errors(records):
     total = len(records)
@@ -88,6 +91,7 @@ def summarize_oax_errors(records):
         "error_items": error_items,
     }
 
+
 def get_failed_oax_records(records):
     failed_ids = []
     for r in records:
@@ -96,6 +100,7 @@ def get_failed_oax_records(records):
             rec_id = r.get("id") or r.get("doc_id") or r.get("rec_id")
             failed_ids.append(rec_id)
     return failed_ids
+
 
 summary_1 = summarize_oax_errors(records_5)
 summary_2 = summarize_oax_errors(records_6)
@@ -112,8 +117,8 @@ print("Raw failed OAX records (Boolean):", len(failed_ids_1))
 print("Raw failed OAX records (Keywords Only):", len(failed_ids_2))
 
 # Write failed IDs to text files (one ID per line)
-FAILED_IDS_1 = "/data/final/with_oax/debug_errors/failed_oax_ids_boolean.txt"
-FAILED_IDS_2 = "/data/final/with_oax/debug_errors/failed_oax_ids_keywords_only.txt"
+FAILED_IDS_1 = "./data/final/with_oax/debug_errors/failed_oax_ids_boolean.txt"
+FAILED_IDS_2 = "./data/final/with_oax/debug_errors/failed_oax_ids_keywords_only.txt"
 
 with open(FAILED_IDS_1, "w", encoding="utf-8") as f:
     for rid in failed_ids_1:

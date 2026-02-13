@@ -1,7 +1,8 @@
 """
-This script performs exploratory data analysis (EDA) on the SR4All dataset. 
+This script performs exploratory data analysis (EDA) on the SR4All dataset.
 It loads the normalized JSONL data, computes distributions of fields and their values, and generates various plots to visualize the data characteristics.
 """
+
 import json
 import os
 import logging
@@ -14,9 +15,9 @@ import seaborn as sns
 # =========================
 # CONFIG
 # =========================
-INPUT_JSONL = "/home/fhg/pie65738/projects/sr4all/data/final/sr4all_full.jsonl"
-OUTPUT_DIR  = "/home/fhg/pie65738/projects/sr4all/data/eda"
-LOG_FILE    = "logs/utils/eda.log"
+INPUT_JSONL = "./data/final/sr4all_full.jsonl"
+OUTPUT_DIR = "./data/eda"
+LOG_FILE = "logs/utils/eda.log"
 FIELD_DIST_JSON = os.path.join(OUTPUT_DIR, "field_distributions.json")
 FIELD_VALUE_COUNTS = os.path.join(OUTPUT_DIR, "fields_value_counts.json")
 
@@ -42,9 +43,10 @@ logging.basicConfig(
 
 # Seaborn Aesthetic Setup
 sns.set_theme(style="whitegrid", context="paper", font_scale=1.2)
-# palette = sns.color_palette("viridis", as_cmap=False) 
+# palette = sns.color_palette("viridis", as_cmap=False)
 
 tqdm.pandas()
+
 
 # =========================
 # Helpers
@@ -56,23 +58,31 @@ def extract_row(rec: Dict[str, Any]) -> Dict[str, Any]:
         "subfield": rec.get("subfield"),
     }
 
+
 # =========================
 # Plotting Functions
 # =========================
-def plot_hist(series: pd.Series, title: str, filename: str, xlabel: str, log_scale=False, color="teal"):
+def plot_hist(
+    series: pd.Series,
+    title: str,
+    filename: str,
+    xlabel: str,
+    log_scale=False,
+    color="teal",
+):
     """Generates a clean Seaborn histogram."""
     plt.figure(figsize=(8, 5))
-    
+
     # 99th percentile clipping for better visualization of the mass
     cap = series.quantile(0.99)
     data = series.clip(upper=cap)
-    
+
     sns.histplot(data, bins=50, kde=True, color=color, edgecolor="w", linewidth=0.5)
-    
+
     plt.title(title, fontweight="bold", pad=15)
     plt.xlabel(xlabel)
     plt.ylabel("Frequency")
-    
+
     if log_scale:
         plt.yscale("log")
         plt.ylabel("Frequency (Log Scale)")
@@ -82,28 +92,39 @@ def plot_hist(series: pd.Series, title: str, filename: str, xlabel: str, log_sca
     plt.savefig(os.path.join(PLOT_DIR, filename), dpi=300)
     plt.close()
 
+
 def plot_barh(series: pd.Series, title: str, filename: str, palette="viridis"):
     """Generates a horizontal bar chart with value annotations."""
     plt.figure(figsize=(10, 8))
-    
+
     # Create plot
-    ax = sns.barplot(x=series.values, y=series.index, hue=series.index, palette=palette, legend=False)
-    
+    ax = sns.barplot(
+        x=series.values, y=series.index, hue=series.index, palette=palette, legend=False
+    )
+
     # Styling
     plt.title(title, fontweight="bold", pad=15)
     plt.xlabel("Count")
-    plt.ylabel("") # Index labels are self-explanatory
-    
+    plt.ylabel("")  # Index labels are self-explanatory
+
     # Annotate bars with counts
     for i, p in enumerate(ax.patches):
         width = p.get_width()
-        ax.text(width + (width * 0.01), p.get_y() + p.get_height() / 2, 
-                f'{int(width)}', ha='left', va='center', fontsize=10, color="#333333")
-    
+        ax.text(
+            width + (width * 0.01),
+            p.get_y() + p.get_height() / 2,
+            f"{int(width)}",
+            ha="left",
+            va="center",
+            fontsize=10,
+            color="#333333",
+        )
+
     sns.despine(left=True, bottom=False)
     plt.tight_layout()
     plt.savefig(os.path.join(PLOT_DIR, filename), dpi=300)
     plt.close()
+
 
 # =========================
 # Main
@@ -140,7 +161,7 @@ def main():
                 "present": present,
                 "missing": missing,
                 "total": total,
-                "pct_present": round(pct, 4)
+                "pct_present": round(pct, 4),
             }
         return stats
 
@@ -155,7 +176,9 @@ def main():
         logging.error(f"Failed to write field distributions: {e}")
 
     # 1. Extraction
-    rows = [extract_row(r) for r in tqdm(records, desc="Extracting Metadata", unit="rec")]
+    rows = [
+        extract_row(r) for r in tqdm(records, desc="Extracting Metadata", unit="rec")
+    ]
     df = pd.DataFrame(rows)
     # =========================
     # 2. Visualization
@@ -178,11 +201,14 @@ def main():
 
     # B. Top Subfields
     top_subfields = df["subfield"].fillna("Unknown").value_counts().head(TOP_N)
-    plot_barh(top_subfields, f"Top {TOP_N} Subfields", "subfields_top15.png", palette="mako")
+    plot_barh(
+        top_subfields, f"Top {TOP_N} Subfields", "subfields_top15.png", palette="mako"
+    )
 
     print(f"\n✅ Done. Outputs in {OUTPUT_DIR}")
     print(f"   - plots/fields_top15.png")
     print(f"   - plots/subfields_top15.png")
+
 
 if __name__ == "__main__":
     main()
