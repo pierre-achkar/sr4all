@@ -109,22 +109,23 @@ Return only the following JSON structure:
 
 # Modular definitions to insert dynamically
 FIELD_INSTRUCTIONS = {
-    "objective": "objective: The primary aim of the systematic review (e.g., \"to evaluate the effectiveness of X on Y\").",
-    "research_questions": "research_questions: Explicitly stated research questions (e.g., \"What is the impact of X on Y?\").",
+    "objective": 'objective: The primary aim of the systematic review (e.g., "to evaluate the effectiveness of X on Y").',
+    "research_questions": 'research_questions: Explicitly stated research questions (e.g., "What is the impact of X on Y?").',
     "n_studies_initial": "n_studies_initial: Number of studies initially identified (e.g., 1234).",
     "n_studies_final": "n_studies_final: Number of studies included after screening (e.g., 56).",
-    "year_range": "year_range: Temporal search window (e.g., \"2001–2022\").",
+    "year_range": 'year_range: Temporal search window (e.g., "2001–2022").',
     "snowballing": "snowballing: Whether citation chasing, reference checking, or backward/forward snowballing is mentioned (e.g., true or false)",
-    "keywords_used": "keywords_used: Keywords reported by the authors (e.g., [\"keyword1\", \"keyword2\"]).",
-    "databases_used": "databases_used: Databases searched (e.g., [\"PubMed\", \"Scopus\"]).",
-    "inclusion_criteria": "inclusion_criteria: Inclusion rules (e.g., [\"studies published after 2000\", \"randomized controlled trials\"]).",
-    "exclusion_criteria": "exclusion_criteria: Exclusion rules (e.g., [\"non-English studies\", \"case reports\"]).",
+    "keywords_used": 'keywords_used: Keywords reported by the authors (e.g., ["keyword1", "keyword2"]).',
+    "databases_used": 'databases_used: Databases searched (e.g., ["PubMed", "Scopus"]).',
+    "inclusion_criteria": 'inclusion_criteria: Inclusion rules (e.g., ["studies published after 2000", "randomized controlled trials"]).',
+    "exclusion_criteria": 'exclusion_criteria: Exclusion rules (e.g., ["non-English studies", "case reports"]).',
     "exact_boolean_queries": """exact_boolean_queries: A list of search query objects. 
     Each object must have:
       - 'boolean_query_string': Exact Boolean query as written (e.g., "(X OR Y) AND Z").
       - 'database_source': Database where the query was used (e.g., "PubMed").
-      - 'verbatim_source': Exact text span supporting this query (e.g., "The following search was conducted in PubMed: (X OR Y) AND Z")."""
+      - 'verbatim_source': Exact text span supporting this query (e.g., "The following search was conducted in PubMed: (X OR Y) AND Z").""",
 }
+
 
 # -----------------------------------------------------------------------------
 # 3. FACTORY FUNCTION
@@ -138,7 +139,7 @@ def get_repair_user_prompt(doc_text: str, missing_keys: List[str]) -> str:
     for key in missing_keys:
         if key in FIELD_INSTRUCTIONS:
             specific_instrs.append(f"- {FIELD_INSTRUCTIONS[key]}")
-    
+
     # Fallback (Safety net)
     if not specific_instrs:
         specific_instrs = ["- Review the text for the missing fields."]
@@ -157,7 +158,9 @@ def get_repair_user_prompt(doc_text: str, missing_keys: List[str]) -> str:
     """
     return user_prompt
 
+
 # -----------------------------------------------------------------------------
+
 
 def main():
     print("Running Test Repair Prompt Generation...")
@@ -166,17 +169,18 @@ def main():
     # Load Test Record
     with open(FILE_PATH, "r") as f:
         import json
+
         TEST_RECORD = json.load(f)
-    
+
     # 1. Detect Missing Keys
     data = TEST_RECORD["extraction"]
     missing = []
-    
+
     for k, v in data.items():
         # Case A: Simple Null
         if v is None:
             missing.append(k)
-        
+
         # Case B: Evidence Node Null
         elif isinstance(v, dict) and "value" in v and v["value"] is None:
             missing.append(k)
@@ -190,7 +194,10 @@ def main():
             else:
                 # Check ghost object
                 first_item = v[0]
-                if isinstance(first_item, dict) and first_item.get("boolean_query_string") is None:
+                if (
+                    isinstance(first_item, dict)
+                    and first_item.get("boolean_query_string") is None
+                ):
                     missing.append(k)
 
     print(f"\n[Detection Result] Found {len(missing)} missing keys:")
@@ -199,31 +206,36 @@ def main():
     # 2. Generate Prompt
     # We use a fake text since we don't have the file
     fake_doc_text = "FAKE DOCUMENT TEXT CONTENT: This is a study about IER..."
-    
+
     prompt = get_repair_user_prompt(fake_doc_text, missing)
-    
-    print("\n" + "="*80)
+
+    print("\n" + "=" * 80)
     print("GENERATED PROMPT")
-    print("="*80)
+    print("=" * 80)
     print(prompt)
-    print("="*80)
+    print("=" * 80)
 
     # Validation
     expected_missing = [
-        "research_questions", 
-        "n_studies_initial", 
-        "year_range", 
-        "keywords_used", 
-        "exact_boolean_queries", # Should be caught by Case C
-        "inclusion_criteria", 
-        "exclusion_criteria"
+        "research_questions",
+        "n_studies_initial",
+        "year_range",
+        "keywords_used",
+        "exact_boolean_queries",  # Should be caught by Case C
+        "inclusion_criteria",
+        "exclusion_criteria",
     ]
-    
+
     # snowballing is False (not None), so it should NOT be missing
     # objective and n_studies_final have values, so NOT missing
-    
-    assert set(missing) == set(expected_missing), f"Mismatch! Expected {expected_missing}, got {missing}"
-    print("\n✅ TEST PASSED: Detection logic correctly identified all missing fields (including the complex list).")
+
+    assert set(missing) == set(
+        expected_missing
+    ), f"Mismatch! Expected {expected_missing}, got {missing}"
+    print(
+        "\n✅ TEST PASSED: Detection logic correctly identified all missing fields (including the complex list)."
+    )
+
 
 if __name__ == "__main__":
     main()

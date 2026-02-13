@@ -1,8 +1,8 @@
 import json
 
-ft_split_path = "/home/fhg/pie65738/projects/sr4all/data/final/sr4all_ft.jsonl"
-no_ft_split_path = "/home/fhg/pie65738/projects/sr4all/data/final/sr4all_no_ft.jsonl"
-output_path = "/home/fhg/pie65738/projects/sr4all/data/final/sr4all_merged.jsonl"
+ft_split_path = "./data/final/sr4all_ft.jsonl"
+no_ft_split_path = "./data/final/sr4all_no_ft.jsonl"
+output_path = "./data/final/sr4all_merged.jsonl"
 
 # load ft split
 with open(ft_split_path, "r") as f:

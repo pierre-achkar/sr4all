@@ -25,9 +25,9 @@ from extraction.schema import ReviewExtraction
 # CONFIGURATION
 # -----------------------------------------------------------------------------
 CONFIG = {
-    "input_file": Path("/data/sr4all/extraction_v1/intermediate/sr4all_intermediate_all.jsonl"),
-    "output_file": Path("/data/sr4all/extraction_v1/intermediate/sr4all_intermediate_all_corrected.jsonl"),
-    "log_file": Path("/logs/final_ds/repair_fields_all.log"),
+    "input_file": Path("./data/sr4all/extraction_v1/intermediate/sr4all_intermediate_all.jsonl"),
+    "output_file": Path("./data/sr4all/extraction_v1/intermediate/sr4all_intermediate_all_corrected.jsonl"),
+    "log_file": Path("./logs/final_ds/repair_fields_all.log"),
 }
 
 # Setup Logging

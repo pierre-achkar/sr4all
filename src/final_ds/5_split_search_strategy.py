@@ -16,9 +16,9 @@ from typing import Any, Dict
 # CONFIGURATION
 # -----------------------------------------------------------------------------
 CONFIG = {
-    "input_file": Path("/data/final/sr4all_full_normalized_year_range.jsonl"),
-    "output_dir": Path("/data/final"),
-    "log_file": Path("/logs/final_ds/split_search_strategy.log"),
+    "input_file": Path("./data/final/sr4all_full_normalized_year_range.jsonl"),
+    "output_dir": Path("./data/final"),
+    "log_file": Path("./logs/final_ds/split_search_strategy.log"),
 }
 
 # -----------------------------------------------------------------------------

@@ -7,9 +7,9 @@ from pathlib import Path
 from typing import Dict, Optional, Tuple
 
 CONFIG = {
-    "input_jsonl": Path("/sr4all/data/final/sr4all_full.jsonl"),
-    "output_jsonl": Path("/sr4all/data/final/sr4all_full_normalized_year_range.jsonl"),
-    "log_file": Path("/sr4all/logs/final_ds/normalize_year_range.log"),
+    "input_jsonl": Path("./sr4all/data/final/sr4all_full.jsonl"),
+    "output_jsonl": Path("./sr4all/data/final/sr4all_full_normalized_year_range.jsonl"),
+    "log_file": Path("./sr4all/logs/final_ds/normalize_year_range.log"),
     "overwrite": False,  # if True, overwrite year_range.value (or year_range if string)
 }
 
