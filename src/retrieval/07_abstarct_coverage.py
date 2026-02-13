@@ -11,27 +11,91 @@ import logging
 import requests
 import sqlite3
 import time
+import os
+import importlib
+from collections import deque
+from concurrent.futures import ThreadPoolExecutor, wait, FIRST_COMPLETED
+from threading import Lock
 from dataclasses import dataclass
 from typing import List, Dict, Set, Any
 from pathlib import Path
 from tqdm import tqdm
 from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception
 
+_DOTENV_LOADED: Path | None = None
+_THROTTLE_LOCK = Lock()
+_THROTTLE_UNTIL = 0.0
+
+
+def _load_dotenv() -> Path | None:
+    try:
+        module = importlib.import_module("dotenv")
+        env_path = Path(__file__).resolve().parents[1] / ".env"
+        if env_path.exists():
+            module.load_dotenv(dotenv_path=env_path)
+            return env_path
+    except Exception:
+        return None
+    return None
+
+
+def _get_rate_headers(resp: requests.Response) -> dict:
+    return {
+        "Retry-After": resp.headers.get("Retry-After"),
+        "X-RateLimit-Limit": resp.headers.get("X-RateLimit-Limit"),
+        "X-RateLimit-Remaining": resp.headers.get("X-RateLimit-Remaining"),
+        "X-RateLimit-Reset": resp.headers.get("X-RateLimit-Reset"),
+    }
+
+
+def _apply_global_throttle(seconds: float) -> None:
+    global _THROTTLE_UNTIL
+    if seconds <= 0:
+        return
+    now = time.time()
+    with _THROTTLE_LOCK:
+        _THROTTLE_UNTIL = max(_THROTTLE_UNTIL, now + seconds)
+
+
+def _sleep_if_throttled() -> None:
+    with _THROTTLE_LOCK:
+        until = _THROTTLE_UNTIL
+    now = time.time()
+    if until > now:
+        time.sleep(until - now)
+
+
+def _parse_retry_after(resp: requests.Response) -> float | None:
+    retry_after = resp.headers.get("Retry-After")
+    if not retry_after:
+        return None
+    try:
+        return float(retry_after)
+    except ValueError:
+        return None
+
+
 # ==========================================
 # 1. Configuration
 # ==========================================
+_DOTENV_LOADED = _load_dotenv()
+
+
 @dataclass
 class Config:
     # PATHS
-    input_file: str = "/data/filtered/oax_sr_slim.json"
-    output_file: str = "/data/filtered/oax_sr_slim_abstract_coverage.jsonl"
-    cache_db: str = "/data/filtered/cache_refs.db" 
-    log_file: str = "logs/retreival/abstract_coverage.log"
+    input_file: str = "./data/filtered/no_ft_subset/oax_sr_slim_no_ft.jsonl"
+    output_file: str = "./data/filtered/no_ft_subset/oax_sr_slim_no_ft_abstract_coverage.jsonl"
+    cache_db: str = "./data/filtered/no_ft_subset/cache_refs.db" 
+    log_file: str = "./logs/retrieval/abstract_coverage_no_ft.log"
 
     # API
-    email: str = "email@example.com"
+    email: str = os.getenv("OPENALEX_EMAIL_4", "pieer.achkar@imw.fraunhofer.de")
+    api_key: str = os.getenv("OPENALEX_API_KEY_4", "")
     base_url: str = "https://api.openalex.org/works"
     batch_size: int = 50
+    max_workers: int = 4
+    max_in_flight: int = 8
 
 # ==========================================
 # 2. Database (Cache) Manager
@@ -96,6 +160,7 @@ def is_retryable(ex):
 
 @retry(stop=stop_after_attempt(5), wait=wait_exponential(multiplier=1, min=2, max=10), retry=retry_if_exception(is_retryable))
 def fetch_batch(ids: List[str], config: Config) -> Dict[str, bool]:
+    _sleep_if_throttled()
     clean_ids = [clean_id(i) for i in ids]
     id_str = "|".join(clean_ids)
     
@@ -104,9 +169,25 @@ def fetch_batch(ids: List[str], config: Config) -> Dict[str, bool]:
         "select": "id,abstract_inverted_index",
         "per_page": config.batch_size
     }
+    if config.api_key:
+        params["api_key"] = config.api_key
     
     resp = requests.get(config.base_url, params=params, headers={"User-Agent": f"mailto:{config.email}"})
-    resp.raise_for_status()
+    if resp.status_code != 200:
+        headers = _get_rate_headers(resp)
+        logging.warning(
+            "OpenAlex status=%s batch=%d headers=%s",
+            resp.status_code,
+            len(ids),
+            headers,
+        )
+        if resp.status_code == 429:
+            wait_s = _parse_retry_after(resp)
+            if wait_s is None:
+                wait_s = 10.0
+            _apply_global_throttle(wait_s)
+            time.sleep(wait_s)
+        resp.raise_for_status()
     
     results = resp.json().get('results', [])
     
@@ -140,18 +221,17 @@ def main():
     
     print(f"--- Starting Coverage Audit ---")
     print(f"Cache DB: {conf.cache_db}")
+    if _DOTENV_LOADED:
+        logger.info("Loaded .env from %s", _DOTENV_LOADED)
+    else:
+        logger.info("No .env loaded (expected at src/.env)")
+    logger.info("OpenAlex API key present: %s", bool(conf.api_key))
     
     # 1. LOAD DATA
     print("Loading input data...")
     input_path = Path(conf.input_file)
     with open(input_path, 'r', encoding='utf-8') as f:
-        # Detect if list or jsonl
-        first_char = f.read(1)
-        f.seek(0)
-        if first_char == '[':
-            data = json.load(f)
-        else:
-            data = [json.loads(line) for line in f]
+        data = [json.loads(line) for line in f]
 
     # 2. IDENTIFY UNIQUE REFS
     all_refs = set()
@@ -172,17 +252,29 @@ def main():
     # 4. FETCH MISSING (If any)
     if to_fetch:
         chunks = [to_fetch[i:i + conf.batch_size] for i in range(0, len(to_fetch), conf.batch_size)]
-        
-        for batch in tqdm(chunks, desc="Fetching from OpenAlex"):
-            try:
-                results = fetch_batch(batch, conf)
-                db.save_batch(results)
-            except Exception as e:
-                logger.error(f"Batch failed: {e}")
-                # Save as False to prevent infinite retry loops on broken batches
-                # Robustness choice: treat network errors here as "no abstract" for now
-                fallback = {uid: False for uid in batch}
-                db.save_batch(fallback)
+        pending = deque(chunks)
+        in_flight: dict = {}
+
+        pbar = tqdm(total=len(chunks), desc="Fetching from OpenAlex", unit="batch")
+        with ThreadPoolExecutor(max_workers=conf.max_workers) as ex:
+            while pending or in_flight:
+                while pending and len(in_flight) < conf.max_in_flight:
+                    batch = pending.popleft()
+                    fut = ex.submit(fetch_batch, batch, conf)
+                    in_flight[fut] = batch
+
+                done, _ = wait(in_flight.keys(), timeout=0.1, return_when=FIRST_COMPLETED)
+                for fut in done:
+                    batch = in_flight.pop(fut)
+                    try:
+                        results = fut.result()
+                        db.save_batch(results)
+                    except Exception as e:
+                        logger.error(f"Batch failed: {e}")
+                        fallback = {uid: False for uid in batch}
+                        db.save_batch(fallback)
+                    pbar.update(1)
+        pbar.close()
 
     # 5. CALCULATE SCORES
     print("Loading cache to memory for scoring...")

@@ -14,8 +14,8 @@ import seaborn as sns
 # =========================
 # CONFIG
 # =========================
-INPUT_JSONL = "data/final/sr4all_full_normalized_year_range.jsonl"
-OUTPUT_DIR  = "data/final/eda"
+INPUT_JSONL = "/home/fhg/pie65738/projects/sr4all/data/final/sr4all_full.jsonl"
+OUTPUT_DIR  = "/home/fhg/pie65738/projects/sr4all/data/eda"
 LOG_FILE    = "logs/utils/eda.log"
 FIELD_DIST_JSON = os.path.join(OUTPUT_DIR, "field_distributions.json")
 FIELD_VALUE_COUNTS = os.path.join(OUTPUT_DIR, "fields_value_counts.json")

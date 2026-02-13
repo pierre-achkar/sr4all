@@ -10,19 +10,19 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
 DEFAULT_RELEVANT = Path(
-    "/data/final/sr4all_full_normalized_year_range_search_has_boolean.jsonl"
+    "/home/fhg/pie65738/projects/sr4all/data/final/sr4all_full_normalized_year_range_search_has_boolean.jsonl"
 )
 DEFAULT_RETRIEVED = Path(
-    "/data/final/with_oax/oax_count_buckets/bucket_1_5k_with_ids_flattened.jsonl"
+    "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/oax_count_buckets/bucket_5k_50k_with_ids_flattened.jsonl"
 )
 DEFAULT_OUTPUT = Path(
-    "/data/final/with_oax/res/bucket_1_5k_retrieval_eval.jsonl"
+    "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/res/bucket_5k_50k_retrieval_eval.jsonl"
 )
 DEFAULT_SUMMARY = Path(
-    "/data/final/with_oax/res/bucket_1_5k_retrieval_eval_summary.json"
+    "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/res/bucket_5k_50k_retrieval_eval_summary.json"
 )
 DEFAULT_PLOT = Path(
-    "/data/final/with_oax/res/bucket_1_5k_retrieval_eval_recall_hist.png"
+    "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/res/bucket_5k_50k_retrieval_eval_recall_hist.png"
 )
 
 

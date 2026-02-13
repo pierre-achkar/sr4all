@@ -14,9 +14,10 @@ import csv
 
 # Config 
 INPUT_JSON  = "./data/raw/oax_sr_full.json"
-OUTPUT_JSON = "./data/filtered/ft_subset/oax_sr_refs_title_doi_pdf_filtered.json"
-SAMPLE_CSV  = "./data/filtered/ft_subset/oax_sr_verification_sample.csv" 
-LOG_FILE    = "./logs/retrieval/oax_filter_refs_title_doi_pdf.log"
+# Output is the subset that DO NOT have PDFs
+OUTPUT_JSON = "./data/filtered/no_ft_subset/oax_sr_refs_title_doi_no_pdf_filtered.json"
+SAMPLE_CSV  = "./data/filtered/no_ft_subset/oax_sr_verification_sample_no_pdf.csv" 
+LOG_FILE    = "./logs/retrieval/oax_filter_refs_title_doi_no_pdf.log"
 
 # STRICT INCLUSION PHRASES
 # Must contain one of these to be considered
@@ -148,14 +149,15 @@ stats = {
     "drop_not_english": 0,
     "drop_no_refs_list": 0,
     "drop_title_strict": 0,
-    "drop_is_update": 0,  
+    "drop_is_update": 0,
     "drop_no_doi": 0,
-    "drop_no_pdf": 0
+    # count items we skip because they HAVE a PDF (we want those without PDFs)
+    "drop_has_pdf": 0,
 }
 
 filtered_records = []
 
-logging.info("Starting strict filtering (excluding Updates)...")
+logging.info("Starting strict filtering (selecting records WITHOUT PDFs, excluding Updates)...")
 
 for rec in stream_json_list(INPUT_JSON):
     stats["total"] += 1
@@ -193,22 +195,23 @@ for rec in stream_json_list(INPUT_JSON):
         stats["drop_no_doi"] += 1
         continue
 
-    # 4. PDF
-    if not has_pdf(rec):
-        stats["drop_no_pdf"] += 1
+    # 4. PDF — we want records WITHOUT PDF. Skip those that HAVE a PDF.
+    if has_pdf(rec):
+        stats["drop_has_pdf"] += 1
         continue
 
+    # record has no PDF -> keep
     filtered_records.append(rec)
     stats["kept"] += 1
 
 # --- Summary ---
 summary = (
-    f"SUMMARY | Total: {stats['total']} | Kept: {stats['kept']} | "
+    f"SUMMARY | Total: {stats['total']} | Kept (no PDF): {stats['kept']} | "
     f"Drops: EmptyRefList({stats['drop_no_refs_list']}), "
     f"NotEnglish({stats['drop_not_english']}), "
     f"IsUpdate({stats['drop_is_update']}), "
     f"NotStrictTitle({stats['drop_title_strict']}), "
-    f"NoDOI({stats['drop_no_doi']}), NoPDF({stats['drop_no_pdf']})"
+    f"NoDOI({stats['drop_no_doi']}), HasPDFSkipped({stats['drop_has_pdf']})"
 )
 
 print(summary)

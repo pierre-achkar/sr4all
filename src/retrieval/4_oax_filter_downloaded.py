@@ -16,10 +16,10 @@ from tqdm import tqdm
 # =========================
 # CONFIG 
 # =========================
-INPUT_JSON        = "/data/filtered/oax_sr_refs_title_doi_pdf_filtered.json"
-PDFS_ROOT         = "/data/filtered/pdfs"
-OUTPUT_JSON       = "/data/filtered/oax_sr_refs_title_doi_pdf_downloaded_filtered.json"
-LOG_FILE          = "/logs/retrieval/oax_filter_downloaded.log"
+INPUT_JSON        = "./data/filtered/ft_subset/oax_sr_refs_title_doi_pdf_filtered.json"
+PDFS_ROOT         = "./data/filtered/ft_subset/pdfs"
+OUTPUT_JSON       = "./data/filtered/ft_subset/oax_sr_refs_title_doi_pdf_downloaded_filtered.json"
+LOG_FILE          = "./logs/retrieval/oax_filter_downloaded.log"
 
 # Minimum bytes to consider a PDF valid (avoids empty 0kb files)
 MIN_PDF_BYTES = 1024

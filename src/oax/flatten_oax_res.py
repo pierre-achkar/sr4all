@@ -8,10 +8,10 @@ from typing import Dict, Iterable, List, Optional, Sequence
 
 
 DEFAULT_INPUT = Path(
-    "/data/final/with_oax/oax_count_buckets/bucket_1_5k_with_ids.jsonl"
+    "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/oax_count_buckets/bucket_5k_50k_with_ids.jsonl"
 )
 DEFAULT_OUTPUT = Path(
-    "/data/final/with_oax/oax_count_buckets/bucket_1_5k_with_ids_flattened.jsonl"
+    "/home/fhg/pie65738/projects/sr4all/data/final/with_oax/oax_count_buckets/bucket_5k_50k_with_ids_flattened.jsonl"
 )
 
 

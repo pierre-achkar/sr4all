@@ -20,8 +20,8 @@ PHRASES = [
 WORK_TYPE = "review"
 PER_PAGE = 200                 # OpenAlex max
 MAX_RESULTS = None             # <-- test cap; set to None to fetch ALL
-OUTPUT_PREFIX = "/data/raw/oax_sr_full"
-LOG_FILE = "/logs/retrieval/oax_fetch_studies.log"
+OUTPUT_PREFIX = "./data/raw/oax_sr_full"
+LOG_FILE = "./logs/retrieval/oax_fetch_studies.log"
 MAILTO = "email@example.com"
 SHARD_SIZE = 10_000            # save progress every N items
 

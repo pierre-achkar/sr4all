@@ -22,10 +22,10 @@ from urllib3.util.retry import Retry
 from tqdm import tqdm
 
 # CONFIG
-INPUT_JSON       = "/data/filtered/oax_sr_refs_title_doi_pdf_filtered.json"
-OUTPUT_DIR       = "/data/filtered/pdfs"
-LOG_FILE         = "/logs/retrieval/pdf_download.log"
-MANIFEST_JSONL   = "/data/filtered/pdf_download_manifest.jsonl"
+INPUT_JSON       = "./data/filtered/ft_subset/oax_sr_refs_title_doi_pdf_filtered.json"
+OUTPUT_DIR       = "./data/filtered/ft_subset/pdfs"
+LOG_FILE         = "./logs/retrieval/pdf_download.log"
+MANIFEST_JSONL   = "./data/filtered/ft_subset/pdf_download_manifest.jsonl"
 
 REQUEST_TIMEOUT  = (10, 60)
 MAX_RETRIES      = 3

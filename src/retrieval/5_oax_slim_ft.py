@@ -17,9 +17,9 @@ from tqdm import tqdm
 # =========================
 # CONFIG
 # =========================
-INPUT_JSON  = "/data/filtered/oax_sr_refs_title_doi_pdf_downloaded_filtered.json"
-OUTPUT_JSON = "/data/filtered/oax_sr_slim.json"
-LOG_FILE    = "/logs/retrieval/oax_slim.log"
+INPUT_JSON  = "./data/filtered/ft_subset/oax_sr_refs_title_doi_pdf_downloaded_filtered.json"
+OUTPUT_JSON = "./data/filtered/ft_subset/oax_sr_slim.json"
+LOG_FILE    = "./logs/retrieval/oax_slim_ft.log"
 
 # =========================
 # Setup
