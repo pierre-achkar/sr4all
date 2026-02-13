@@ -5,6 +5,7 @@ Fetch OpenAlex works by DOI list.
 - Writes results to JSONL (one record per line)
 - Writes placeholder records for missing DOIs
 """
+
 from __future__ import annotations
 
 import importlib
@@ -21,7 +22,7 @@ import requests
 from tqdm import tqdm
 
 _DOTENV_LOADED: Path | None = None
-    
+
 
 def _load_dotenv() -> Path | None:
     try:
@@ -41,10 +42,10 @@ def _load_dotenv() -> Path | None:
 _DOTENV_LOADED = _load_dotenv()
 
 Config = {
-    "input_path": "/home/fhg/pie65738/projects/sr4all/data/rw_ds/raw/unmatched_refs_sr4all.parquet",
+    "input_path": "./data/rw_ds/raw/unmatched_refs_sr4all.parquet",
     "doi_col": "doi",
-    "output_jsonl": "/home/fhg/pie65738/projects/sr4all/data/rw_ds/raw/unmatched_refs_id_doi_openalex.jsonl",
-    "log_file": "/home/fhg/pie65738/projects/sr4all/logs/add_data/fetch_oax_doi.log",
+    "output_jsonl": "./data/rw_ds/raw/unmatched_refs_id_doi_openalex.jsonl",
+    "log_file": "./logs/add_data/fetch_oax_doi.log",
     "EMAIL": os.getenv("OPENALEX_EMAIL_5", ""),
     "API_KEY": os.getenv("OPENALEX_API_KEY_5"),
     "resume": True,
@@ -70,7 +71,6 @@ def normalize_doi(doi: str | None) -> str | None:
     s = _DOI_RE_PREFIX.sub("", s)
     s = _DOI_RE_URL.sub("", s)
     return s or None
-
 
 
 def _get_logger() -> logging.Logger:
@@ -153,7 +153,9 @@ def fetch_batch(
                 time.sleep(retry_after)
                 continue
         except requests.RequestException:
-            logger.warning("OpenAlex batch request failed (attempt=%d size=%d)", attempt, len(dois))
+            logger.warning(
+                "OpenAlex batch request failed (attempt=%d size=%d)", attempt, len(dois)
+            )
 
         if attempt < retries:
             backoff = backoff_base * (2 ** (attempt - 1))
@@ -279,7 +281,9 @@ def main() -> None:
     open_mode = "a" if Config.get("resume", True) else "w"
     batch_size = max(1, int(Config.get("batch_size", 50)))
     batches = _chunked(pending, batch_size)
-    with requests.Session() as session, output_path.open(open_mode, encoding="utf-8") as out_f:
+    with requests.Session() as session, output_path.open(
+        open_mode, encoding="utf-8"
+    ) as out_f:
         for batch in tqdm(batches, desc="Fetching OpenAlex", unit="batch"):
             results = fetch_batch(
                 batch,
@@ -298,7 +302,11 @@ def main() -> None:
                     fetched += 1
                 else:
                     out_f.write(
-                        json.dumps({"requested_doi": d, "status": "not_found"}, ensure_ascii=False) + "\n"
+                        json.dumps(
+                            {"requested_doi": d, "status": "not_found"},
+                            ensure_ascii=False,
+                        )
+                        + "\n"
                     )
                     missing += 1
                 written += 1
@@ -311,9 +319,15 @@ def main() -> None:
                 if since_last_save >= 50:
                     try:
                         save_done_ids(checkpoint_path, already)
-                        logger.info("Saved checkpoint %s (%d processed)", checkpoint_path, len(already))
+                        logger.info(
+                            "Saved checkpoint %s (%d processed)",
+                            checkpoint_path,
+                            len(already),
+                        )
                     except Exception:
-                        logger.exception("Failed to write checkpoint %s", checkpoint_path)
+                        logger.exception(
+                            "Failed to write checkpoint %s", checkpoint_path
+                        )
                     since_last_save = 0
 
             out_f.flush()
@@ -323,7 +337,11 @@ def main() -> None:
         if since_last_save > 0:
             try:
                 save_done_ids(checkpoint_path, already)
-                logger.info("Saved final checkpoint %s (%d processed)", checkpoint_path, len(already))
+                logger.info(
+                    "Saved final checkpoint %s (%d processed)",
+                    checkpoint_path,
+                    len(already),
+                )
             except Exception:
                 logger.exception("Failed to write final checkpoint %s", checkpoint_path)
 

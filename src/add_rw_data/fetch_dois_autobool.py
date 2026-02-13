@@ -7,12 +7,11 @@ import pandas as pd
 import requests
 from tqdm import tqdm
 
-
 # Configuration: edit these values instead of using command-line args
 Config = {
-    "input": "/home/fhg/pie65738/projects/sr4all/data/rw_ds/autobool/train-00000-of-00001.parquet",
-    "output": "/home/fhg/pie65738/projects/sr4all/data/rw_ds/autobool/train-00000-of-00001_with_dois.parquet",
-    "checkpoint": "/home/fhg/pie65738/projects/sr4all/data/rw_ds/autobool/train-00000-of-00001_doi_checkpoint.parquet",
+    "input": "./data/rw_ds/autobool/train-00000-of-00001.parquet",
+    "output": "./data/rw_ds/autobool/train-00000-of-00001_with_dois.parquet",
+    "checkpoint": "./data/rw_ds/autobool/train-00000-of-00001_doi_checkpoint.parquet",
     "pmid_col": "pmid",
     "title_col": "title",
     "sleep": 0.34,
@@ -24,7 +23,11 @@ Config = {
 
 
 def fetch_doi(
-    pmid: str, session: requests.Session, timeout: float, retries: int, backoff_base: float
+    pmid: str,
+    session: requests.Session,
+    timeout: float,
+    retries: int,
+    backoff_base: float,
 ) -> str | None:
     url = "https://api.ncbi.nlm.nih.gov/lit/ctxp/v1/pubmed/"
     params = {"format": "csl", "id": pmid}
@@ -67,7 +70,9 @@ def main() -> None:
             doi_map = dict(zip(chk["pmid"].astype(str), chk["doi"]))
 
     with requests.Session() as session:
-        for idx, pmid in enumerate(tqdm(pmids, desc="Fetching DOIs", unit="pmid"), start=1):
+        for idx, pmid in enumerate(
+            tqdm(pmids, desc="Fetching DOIs", unit="pmid"), start=1
+        ):
             if pmid in doi_map:
                 continue
             doi_map[pmid] = fetch_doi(
@@ -79,9 +84,9 @@ def main() -> None:
             )
             time.sleep(Config["sleep"])
             if Config["save_every"] and idx % Config["save_every"] == 0:
-                pd.DataFrame({"pmid": list(doi_map.keys()), "doi": list(doi_map.values())}).to_parquet(
-                    checkpoint_path, index=False
-                )
+                pd.DataFrame(
+                    {"pmid": list(doi_map.keys()), "doi": list(doi_map.values())}
+                ).to_parquet(checkpoint_path, index=False)
 
     df_out = pd.DataFrame(
         {

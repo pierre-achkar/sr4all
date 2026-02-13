@@ -2,27 +2,28 @@
 Split OpenAlex JSONL records into with-PDF and no-PDF subsets,
 after dropping records without a non-empty referenced_works list.
 """
+
 from __future__ import annotations
 
 import json
 import logging
 from pathlib import Path
 
-
 # =========================
 # Config
 # =========================
 Config = {
-    "input_jsonl": "/home/fhg/pie65738/projects/sr4all/data/rw_ds/raw/unmatched_refs_id_doi_openalex.jsonl",
-    "output_with_pdf": "/home/fhg/pie65738/projects/sr4all/data/rw_ds/filtered/unmatched_refs_id_doi_openalex_with_refs_has_pdf.jsonl",
-    "output_no_pdf": "/home/fhg/pie65738/projects/sr4all/data/rw_ds/filtered/unmatched_refs_id_doi_openalex_with_refs_no_pdf.jsonl",
-    "log_file": "/home/fhg/pie65738/projects/sr4all/logs/add_data/split_on_ft.log",
+    "input_jsonl": "./data/rw_ds/raw/unmatched_refs_id_doi_openalex.jsonl",
+    "output_with_pdf": "./data/rw_ds/filtered/unmatched_refs_id_doi_openalex_with_refs_has_pdf.jsonl",
+    "output_no_pdf": "./data/rw_ds/filtered/unmatched_refs_id_doi_openalex_with_refs_no_pdf.jsonl",
+    "log_file": "./logs/add_data/split_on_ft.log",
 }
 
 
 # =========================
 # Helpers
 # =========================
+
 
 def has_references(rec: dict) -> bool:
     """Check if the actual list of references exists and is not empty."""
@@ -42,7 +43,7 @@ def has_pdf(rec: dict) -> bool:
     if _ok(boa.get("pdf_url")):
         return True
 
-    for loc in (rec.get("locations") or []):
+    for loc in rec.get("locations") or []:
         if _ok(loc.get("pdf_url")):
             return True
     return False
@@ -63,6 +64,7 @@ def _get_logger(log_path: Path) -> logging.Logger:
 # =========================
 # Main
 # =========================
+
 
 def main() -> None:
     input_path = Path(Config["input_jsonl"])
@@ -89,9 +91,9 @@ def main() -> None:
     logger.info("Output (with pdf): %s", out_with_pdf)
     logger.info("Output (no pdf): %s", out_no_pdf)
 
-    with input_path.open("r", encoding="utf-8") as fin, \
-        out_with_pdf.open("w", encoding="utf-8") as fout_pdf, \
-        out_no_pdf.open("w", encoding="utf-8") as fout_nopdf:
+    with input_path.open("r", encoding="utf-8") as fin, out_with_pdf.open(
+        "w", encoding="utf-8"
+    ) as fout_pdf, out_no_pdf.open("w", encoding="utf-8") as fout_nopdf:
 
         for line in fin:
             stats["total_lines"] += 1

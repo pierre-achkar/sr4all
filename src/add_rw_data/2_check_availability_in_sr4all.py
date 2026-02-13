@@ -4,12 +4,13 @@ import pandas as pd
 import logging
 
 # Config: edit paths as needed
-sr4all_jsonl = "/home/fhg/pie65738/projects/sr4all/data/final/sr4all_merged.jsonl"
-refs_df = "/home/fhg/pie65738/projects/sr4all/data/rw_ds/raw/refs_id_doi.parquet"
-log_file = "/home/fhg/pie65738/projects/sr4all/logs/add_data/check_availability_in_sr4all.log"
+sr4all_jsonl = "./data/final/sr4all_merged.jsonl"
+refs_df = "./data/rw_ds/raw/refs_id_doi.parquet"
+log_file = "./logs/add_data/check_availability_in_sr4all.log"
 # output parquet paths
-matches_parquet = "/home/fhg/pie65738/projects/sr4all/data/rw_ds/raw/matched_refs_sr4all.parquet"
-non_matches_parquet = "/home/fhg/pie65738/projects/sr4all/data/rw_ds/raw/unmatched_refs_sr4all.parquet"
+matches_parquet = "./data/rw_ds/raw/matched_refs_sr4all.parquet"
+non_matches_parquet = "./data/rw_ds/raw/unmatched_refs_sr4all.parquet"
+
 
 # check how many refs in refs_df are present in sr4all_jsonl based on doi matching, and log the results
 def main():
@@ -72,7 +73,9 @@ def main():
             available_refs += 1
             entry = {"doi": csv_doi, "source": csv_source, "openalex_id": sr4all_id}
             matches.append(entry)
-            logger.info(f"Matched: CSV source='{csv_source}', CSV DOI='{csv_doi}', SR4All id='{sr4all_id}'")
+            logger.info(
+                f"Matched: CSV source='{csv_source}', CSV DOI='{csv_doi}', SR4All id='{sr4all_id}'"
+            )
         else:
             entry = {"doi": csv_doi, "source": csv_source}
             non_matches.append(entry)
@@ -99,6 +102,7 @@ def main():
     logger.info(f"Total refs: {total_refs}")
     logger.info(f"Available in SR4All: {available_refs}")
     logger.info(f"Availability percentage: {available_refs / total_refs:.2%}")
-    
+
+
 if __name__ == "__main__":
     main()

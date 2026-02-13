@@ -7,6 +7,7 @@ Slimming OpenAlex Records for Systematic Reviews
 - Saves the slimmed records to a new JSON file for downstream processing (alignment, extraction, etc.)
 - Logs progress and any issues encountered during slimming
 """
+
 import json
 import logging
 import os
@@ -17,9 +18,11 @@ from tqdm import tqdm
 # =========================
 # CONFIG
 # =========================
-INPUT_JSON  = "./data/rw_ds/filtered/unmatched_refs_id_doi_openalex_with_refs_no_pdf.jsonl"
+INPUT_JSON = (
+    "./data/rw_ds/filtered/unmatched_refs_id_doi_openalex_with_refs_no_pdf.jsonl"
+)
 OUTPUT_JSON = "./data/rw_ds/intermediate/oax_rw_slim_no_ft.json.jsonl"
-LOG_FILE    = "./logs/add_rw_data/6_slim_version_no_ft.log"
+LOG_FILE = "./logs/add_rw_data/6_slim_version_no_ft.log"
 
 # =========================
 # Setup
@@ -29,8 +32,9 @@ os.makedirs(os.path.dirname(LOG_FILE), exist_ok=True)
 logging.basicConfig(
     filename=LOG_FILE,
     level=logging.INFO,
-    format="%(asctime)s - %(levelname)s - %(message)s"
+    format="%(asctime)s - %(levelname)s - %(message)s",
 )
+
 
 def reconstruct_abstract(inverted_index: Optional[Dict[str, List[int]]]) -> str:
     """
@@ -38,75 +42,82 @@ def reconstruct_abstract(inverted_index: Optional[Dict[str, List[int]]]) -> str:
     """
     if not inverted_index:
         return ""
-    
+
     # 1. Find max index
     max_index = 0
     for positions in inverted_index.values():
         if positions:
             max_index = max(max_index, max(positions))
-            
+
     # 2. Rebuild text
     text_list = [""] * (max_index + 1)
     for word, positions in inverted_index.items():
         for pos in positions:
             text_list[pos] = word
-            
+
     raw_text = " ".join(text_list)
 
-    # 3. Clean up leading "Abstract" 
+    # 3. Clean up leading "Abstract"
     # ^ = start of string, \s+ = one or more spaces
     # flags=re.IGNORECASE handles "Abstract", "abstract", "ABSTRACT"
     clean_text = re.sub(r"^Abstract\s+", "", raw_text, flags=re.IGNORECASE)
 
     return clean_text.strip()
 
+
 def simplify_authors(authorships: List[Dict]) -> List[Dict[str, Any]]:
     """
     Returns a list of authors where affiliations are just a simple list of strings.
     """
     simple_authors = []
-    
+
     for auth in authorships:
         a_profile = auth.get("author") or {}
-        
+
         # EXTRACT: Simple list of institution names (Strings only)
         inst_names = []
         for inst in auth.get("institutions", []):
             if inst.get("display_name"):
                 inst_names.append(inst.get("display_name"))
-        
+
         # Fallback: If no structured institutions, check raw string
         if not inst_names:
             raw_affs = auth.get("raw_affiliation_strings") or []
             inst_names = raw_affs
 
-        simple_authors.append({
-            "id": a_profile.get("id"),
-            "name": a_profile.get("display_name"),
-            "affiliations": inst_names 
-        })
-        
+        simple_authors.append(
+            {
+                "id": a_profile.get("id"),
+                "name": a_profile.get("display_name"),
+                "affiliations": inst_names,
+            }
+        )
+
     return simple_authors
+
 
 def extract_pdf_link(rec: Dict) -> Optional[str]:
     """Tries to find the best direct PDF link."""
     pl = rec.get("primary_location") or {}
-    if pl.get("pdf_url"): return pl.get("pdf_url")
+    if pl.get("pdf_url"):
+        return pl.get("pdf_url")
     boa = rec.get("best_oa_location") or {}
-    if boa.get("pdf_url"): return boa.get("pdf_url")
+    if boa.get("pdf_url"):
+        return boa.get("pdf_url")
     return None
+
 
 def process_record(rec: Dict[str, Any]) -> Dict[str, Any]:
     """Maps raw OpenAlex record to Slim Schema."""
-    
+
     # 1. Topics processing
     primary_topic = rec.get("primary_topic") or {}
     all_topics = [t.get("display_name") for t in rec.get("topics", [])]
-    
+
     # 2. Field/Subfield
     field = primary_topic.get("field", {}).get("display_name")
     subfield = primary_topic.get("subfield", {}).get("display_name")
-    
+
     # 3. Keywords/Concepts (Top 15 merged)
     keywords = [k.get("display_name") for k in rec.get("keywords", [])]
     concepts = [c.get("display_name") for c in rec.get("concepts", [])]
@@ -128,52 +139,50 @@ def process_record(rec: Dict[str, Any]) -> Dict[str, Any]:
         "type": rec.get("type"),
         "source": source,
         "cited_by_count": rec.get("cited_by_count"),
-        
         # --- GROUND TRUTH ---
         "referenced_works_count": rec.get("referenced_works_count"),
-        "referenced_works": rec.get("referenced_works", []), 
+        "referenced_works": rec.get("referenced_works", []),
         # --------------------
-
-        #"pdf_url": extract_pdf_link(rec),
+        # "pdf_url": extract_pdf_link(rec),
         "language": rec.get("language"),
-        
         # Taxonomy
         "field": field,
         "subfield": subfield,
         "topics": all_topics,
         "keywords": combined_tags,
-        
         # People (Simple affiliations list)
-        "authors": simplify_authors(rec.get("authorships", []))
+        "authors": simplify_authors(rec.get("authorships", [])),
     }
+
 
 # =========================
 # Main
 # =========================
 def main():
     print(f"Reading from: {INPUT_JSON}")
-    
+
     data = []
     with open(INPUT_JSON, "r", encoding="utf-8") as f:
         for line in f:
             line = line.strip()
             if line:
                 data.append(json.loads(line))
-        
+
     slim_data = []
-    
+
     for rec in tqdm(data, desc="Slimming Records"):
         try:
             slim_rec = process_record(rec)
             slim_data.append(slim_rec)
         except Exception as e:
             logging.error(f"Error processing {rec.get('id')}: {e}")
-            
+
     print(f"Saving {len(slim_data)} records to: {OUTPUT_JSON}")
-    
+
     with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
         for rec in slim_data:
             f.write(json.dumps(rec, ensure_ascii=False) + "\n")
+
 
 if __name__ == "__main__":
     main()

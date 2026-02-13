@@ -7,6 +7,7 @@ PDF Downloading with Robust Error Handling and Manifest Logging
 - Maintains a manifest JSONL file that logs the status of each download attempt (success, failure reason, etc.)
 - Logs progress and any issues encountered during downloading
 """
+
 import json
 import logging
 import os
@@ -24,21 +25,23 @@ from urllib3.util.retry import Retry
 from tqdm import tqdm
 
 # CONFIG
-INPUT_JSON       = "./data/rw_ds/filtered/unmatched_refs_id_doi_openalex_with_refs_has_pdf.jsonl"
-OUTPUT_DIR       = "./data/rw_ds/filtered/pdfs"
-LOG_FILE         = "./logs/add_data/pdf_download.log"
-MANIFEST_JSONL   = "./data/rw_ds/filtered/pdf_download_manifest.jsonl"
+INPUT_JSON = (
+    "./data/rw_ds/filtered/unmatched_refs_id_doi_openalex_with_refs_has_pdf.jsonl"
+)
+OUTPUT_DIR = "./data/rw_ds/filtered/pdfs"
+LOG_FILE = "./logs/add_data/pdf_download.log"
+MANIFEST_JSONL = "./data/rw_ds/filtered/pdf_download_manifest.jsonl"
 
-REQUEST_TIMEOUT  = (10, 60)
-MAX_RETRIES      = 3
-BACKOFF_FACTOR   = 1.0
-CHUNK_BYTES      = 1_048_576
-SKIP_IF_EXISTS   = True
+REQUEST_TIMEOUT = (10, 60)
+MAX_RETRIES = 3
+BACKOFF_FACTOR = 1.0
+CHUNK_BYTES = 1_048_576
+SKIP_IF_EXISTS = True
 
 # MAX_WORKERS: How many PDFs to download at once. Lowered to reduce blocking.
-MAX_WORKERS      = 4
+MAX_WORKERS = 4
 # Small per-request delay to reduce rate-limiting risk
-REQUEST_DELAY    = 0.25
+REQUEST_DELAY = 0.25
 # Known paywalled or strict hosts — treat 403 from these as paywalled
 PAYWALLED_HOSTS = ["cochranelibrary.com"]
 
@@ -58,6 +61,7 @@ logging.basicConfig(
 # Lock for writing to the manifest safely from multiple threads
 MANIFEST_LOCK = threading.Lock()
 
+
 # Helpers
 def get_session() -> requests.Session:
     sess = requests.Session()
@@ -68,47 +72,67 @@ def get_session() -> requests.Session:
         allowed_methods=["GET", "HEAD"],
         raise_on_status=False,
     )
-    adapter = HTTPAdapter(max_retries=retry, pool_connections=MAX_WORKERS, pool_maxsize=MAX_WORKERS*2)
+    adapter = HTTPAdapter(
+        max_retries=retry, pool_connections=MAX_WORKERS, pool_maxsize=MAX_WORKERS * 2
+    )
     sess.mount("http://", adapter)
     sess.mount("https://", adapter)
-    sess.headers.update({
-        "User-Agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-            "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        )
-    })
+    sess.headers.update(
+        {
+            "User-Agent": (
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+            )
+        }
+    )
     return sess
+
 
 # Create a global session to reuse TCP connections
 SESSION = get_session()
 
+
 def extract_work_id(openalex_id: str) -> Optional[str]:
-    if not isinstance(openalex_id, str): return None
+    if not isinstance(openalex_id, str):
+        return None
     m = re.search(r"/([A-Z]\d+)$", openalex_id.strip())
     return m.group(1) if m else None
 
+
 def choose_pdf_url(rec: Dict[str, Any]) -> Optional[str]:
-    def _ok(url): return isinstance(url, str) and url.strip() != ""
-    pl = (rec.get("primary_location") or {})
-    boa = (rec.get("best_oa_location") or {})
-    if _ok(pl.get("pdf_url")): return pl.get("pdf_url").strip()
-    if _ok(boa.get("pdf_url")): return boa.get("pdf_url").strip()
-    for loc in (rec.get("locations") or []):
-        if _ok(loc.get("pdf_url")): return loc.get("pdf_url").strip()
+    def _ok(url):
+        return isinstance(url, str) and url.strip() != ""
+
+    pl = rec.get("primary_location") or {}
+    boa = rec.get("best_oa_location") or {}
+    if _ok(pl.get("pdf_url")):
+        return pl.get("pdf_url").strip()
+    if _ok(boa.get("pdf_url")):
+        return boa.get("pdf_url").strip()
+    for loc in rec.get("locations") or []:
+        if _ok(loc.get("pdf_url")):
+            return loc.get("pdf_url").strip()
     return None
+
 
 def looks_like_pdf(resp: requests.Response, url: str) -> bool:
     ct = (resp.headers.get("Content-Type") or "").lower()
-    if "pdf" in ct: return True
-    if url.lower().endswith(".pdf"): return True
+    if "pdf" in ct:
+        return True
+    if url.lower().endswith(".pdf"):
+        return True
     return False
+
 
 def shard_path_for_work(work_id: str) -> str:
     p1 = work_id[:3] if len(work_id) >= 3 else work_id
     p2 = work_id[:6] if len(work_id) >= 6 else work_id
     return os.path.join(OUTPUT_DIR, p1, p2, f"{work_id}.pdf")
 
-def write_manifest_threadsafe(openalex_id, work_id, pdf_url, local_path, status, details: dict | None = None):
+
+def write_manifest_threadsafe(
+    openalex_id, work_id, pdf_url, local_path, status, details: dict | None = None
+):
     """Writes to JSONL using a lock to prevent garbled lines."""
     rec = {
         "id": openalex_id,
@@ -126,9 +150,10 @@ def write_manifest_threadsafe(openalex_id, work_id, pdf_url, local_path, status,
         with open(MANIFEST_JSONL, "a", encoding="utf-8") as mf:
             mf.write(line)
 
+
 def process_record(rec: Dict[str, Any]):
     """
-    Worker function for a single record. 
+    Worker function for a single record.
     Returns: (status_code_string, openalex_id)
     """
     openalex_id = rec.get("id") or ""
@@ -139,11 +164,11 @@ def process_record(rec: Dict[str, Any]):
         write_manifest_threadsafe(openalex_id, work_id, pdf_url, None, "failed_no_url")
         return "failed", openalex_id
     dst = shard_path_for_work(work_id)
-    
+
     # 1. Check Existing
     if SKIP_IF_EXISTS and os.path.exists(dst) and os.path.getsize(dst) > 1024:
-        # We don't write "skipped" to manifest every time to save disk space 
-        # unless you really need to audit every run. 
+        # We don't write "skipped" to manifest every time to save disk space
+        # unless you really need to audit every run.
         # write_manifest_threadsafe(openalex_id, work_id, pdf_url, dst, "skipped")
         return "skipped", openalex_id
 
@@ -152,28 +177,58 @@ def process_record(rec: Dict[str, Any]):
     # 2. Download with improved handling
     try:
         # initial attempt
-        resp = SESSION.get(pdf_url, stream=True, timeout=REQUEST_TIMEOUT, allow_redirects=True)
+        resp = SESSION.get(
+            pdf_url, stream=True, timeout=REQUEST_TIMEOUT, allow_redirects=True
+        )
         # If 403, try one more time with PDF-specific accept header and referer
         if resp.status_code == 403:
             host = urllib.parse.urlparse(pdf_url).netloc or ""
             alt_headers = {"Accept": "application/pdf", "Referer": rec.get("id", "")}
             time.sleep(0.1)
-            resp2 = SESSION.get(pdf_url, stream=True, timeout=REQUEST_TIMEOUT, allow_redirects=True, headers=alt_headers)
+            resp2 = SESSION.get(
+                pdf_url,
+                stream=True,
+                timeout=REQUEST_TIMEOUT,
+                allow_redirects=True,
+                headers=alt_headers,
+            )
             if resp2.status_code == 200:
                 resp = resp2
             else:
                 logging.warning("Failed %s: %s", resp2.status_code, pdf_url)
-                details = {"http_status": resp2.status_code, "content_type": resp2.headers.get("Content-Type")}
+                details = {
+                    "http_status": resp2.status_code,
+                    "content_type": resp2.headers.get("Content-Type"),
+                }
                 if any(h in host for h in PAYWALLED_HOSTS):
-                    write_manifest_threadsafe(openalex_id, work_id, pdf_url, None, "failed_paywalled", details=details)
+                    write_manifest_threadsafe(
+                        openalex_id,
+                        work_id,
+                        pdf_url,
+                        None,
+                        "failed_paywalled",
+                        details=details,
+                    )
                 else:
-                    write_manifest_threadsafe(openalex_id, work_id, pdf_url, None, "failed_http", details=details)
+                    write_manifest_threadsafe(
+                        openalex_id,
+                        work_id,
+                        pdf_url,
+                        None,
+                        "failed_http",
+                        details=details,
+                    )
                 return "failed", openalex_id
 
         if resp.status_code != 200:
             logging.warning("Failed %s: %s", resp.status_code, pdf_url)
-            details = {"http_status": resp.status_code, "content_type": resp.headers.get("Content-Type")}
-            write_manifest_threadsafe(openalex_id, work_id, pdf_url, None, "failed_http", details=details)
+            details = {
+                "http_status": resp.status_code,
+                "content_type": resp.headers.get("Content-Type"),
+            }
+            write_manifest_threadsafe(
+                openalex_id, work_id, pdf_url, None, "failed_http", details=details
+            )
             return "failed", openalex_id
 
         # PDF Validation (Content-Type and Magic Bytes)
@@ -187,11 +242,22 @@ def process_record(rec: Dict[str, Any]):
         except StopIteration:
             first_chunk = b""
 
-        if "pdf" not in ct and not is_pdf_header and not first_chunk.startswith(b"%PDF"):
+        if (
+            "pdf" not in ct
+            and not is_pdf_header
+            and not first_chunk.startswith(b"%PDF")
+        ):
             # capture snippet for debugging
             snippet = first_chunk[:64].hex() if first_chunk else ""
             logging.warning("Not a PDF (content-type=%s): %s", ct, pdf_url)
-            write_manifest_threadsafe(openalex_id, work_id, pdf_url, None, "failed_not_pdf", details={"content_type": ct, "snippet": snippet})
+            write_manifest_threadsafe(
+                openalex_id,
+                work_id,
+                pdf_url,
+                None,
+                "failed_not_pdf",
+                details={"content_type": ct, "snippet": snippet},
+            )
             return "failed", openalex_id
 
         # Atomic Write
@@ -199,7 +265,8 @@ def process_record(rec: Dict[str, Any]):
         with open(tmp_path, "wb") as f:
             f.write(first_chunk)
             for chunk in resp.iter_content(chunk_size=CHUNK_BYTES):
-                if chunk: f.write(chunk)
+                if chunk:
+                    f.write(chunk)
 
         os.replace(tmp_path, dst)
 
@@ -207,18 +274,40 @@ def process_record(rec: Dict[str, Any]):
         final_size = os.path.getsize(dst)
         if final_size < 1024:
             os.remove(dst)
-            write_manifest_threadsafe(openalex_id, work_id, pdf_url, None, "failed_too_small", details={"final_size": final_size})
+            write_manifest_threadsafe(
+                openalex_id,
+                work_id,
+                pdf_url,
+                None,
+                "failed_too_small",
+                details={"final_size": final_size},
+            )
             return "failed", openalex_id
 
-        write_manifest_threadsafe(openalex_id, work_id, pdf_url, dst, "downloaded", details={"content_type": ct, "final_size": os.path.getsize(dst)})
+        write_manifest_threadsafe(
+            openalex_id,
+            work_id,
+            pdf_url,
+            dst,
+            "downloaded",
+            details={"content_type": ct, "final_size": os.path.getsize(dst)},
+        )
         # small polite delay
         time.sleep(REQUEST_DELAY)
         return "downloaded", openalex_id
 
     except Exception as e:
         logging.exception("Error downloading %s: %s", pdf_url, e)
-        write_manifest_threadsafe(openalex_id, work_id, pdf_url, None, "failed_exception", details={"error": str(e)})
+        write_manifest_threadsafe(
+            openalex_id,
+            work_id,
+            pdf_url,
+            None,
+            "failed_exception",
+            details={"error": str(e)},
+        )
         return "failed", openalex_id
+
 
 # Main
 def main():
@@ -257,18 +346,24 @@ def main():
                 records.append(obj)
 
     total = len(records)
-    logging.info("Loaded %d records. Starting threads (Workers=%d)...", total, MAX_WORKERS)
+    logging.info(
+        "Loaded %d records. Starting threads (Workers=%d)...", total, MAX_WORKERS
+    )
 
     # Stats
     stats = {"downloaded": 0, "skipped": 0, "failed": 0}
-    
+
     # ThreadPool Execution
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         # Submit all tasks
-        future_to_id = {executor.submit(process_record, r): r.get("id") for r in records}
-        
+        future_to_id = {
+            executor.submit(process_record, r): r.get("id") for r in records
+        }
+
         # Process as they complete
-        for future in tqdm(as_completed(future_to_id), total=total, desc="Processing PDFs", unit="pdf"):
+        for future in tqdm(
+            as_completed(future_to_id), total=total, desc="Processing PDFs", unit="pdf"
+        ):
             try:
                 result, _ = future.result()
                 stats[result] += 1
@@ -279,6 +374,7 @@ def main():
     summary = f"SUMMARY | Total: {total} | Downloaded: {stats['downloaded']} | Skipped: {stats['skipped']} | Failed: {stats['failed']}"
     print("\n" + summary)
     logging.info(summary)
+
 
 if __name__ == "__main__":
     main()
