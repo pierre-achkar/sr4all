@@ -1,5 +1,7 @@
 # Webis-SR4ALL-26
 
+The final dataset is released on Zenodo under: https://doi.org/10.5281/zenodo.18431942
+
 This repository builds the Webis-SR4All dataset from OpenAlex + PDFs + structured extraction.
 
 Use the pipeline in the following order:
