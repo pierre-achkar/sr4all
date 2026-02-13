@@ -25,8 +25,12 @@ from extraction.schema import ReviewExtraction
 # CONFIGURATION
 # -----------------------------------------------------------------------------
 CONFIG = {
-    "input_file": Path("./data/sr4all/extraction_v1/intermediate/sr4all_intermediate_all.jsonl"),
-    "output_file": Path("./data/sr4all/extraction_v1/intermediate/sr4all_intermediate_all_corrected.jsonl"),
+    "input_file": Path(
+        "./data/sr4all/extraction_v1/intermediate/sr4all_intermediate_all.jsonl"
+    ),
+    "output_file": Path(
+        "./data/sr4all/extraction_v1/intermediate/sr4all_intermediate_all_corrected.jsonl"
+    ),
     "log_file": Path("./logs/final_ds/repair_fields_all.log"),
 }
 
@@ -37,8 +41,8 @@ logging.basicConfig(
     format="%(asctime)s | %(levelname)s | %(message)s",
     handlers=[
         logging.FileHandler(CONFIG["log_file"], mode="w"),
-        logging.StreamHandler()
-    ]
+        logging.StreamHandler(),
+    ],
 )
 logger = logging.getLogger("FinalFieldsCheck")
 
@@ -57,7 +61,9 @@ def main():
     total_records = 0
     field_add_counts: Dict[str, int] = {k: 0 for k in required_fields}
 
-    with open(input_path, "r", encoding="utf-8") as fin, open(output_path, "w", encoding="utf-8") as fout:
+    with open(input_path, "r", encoding="utf-8") as fin, open(
+        output_path, "w", encoding="utf-8"
+    ) as fout:
         for line in fin:
             line = line.strip()
             if not line:

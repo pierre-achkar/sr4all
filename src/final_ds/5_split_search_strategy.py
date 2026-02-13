@@ -39,6 +39,7 @@ logger = logging.getLogger("SplitSearchStrategy")
 # HELPERS
 # -----------------------------------------------------------------------------
 
+
 def is_filled(field_data: Any) -> bool:
     """
     Checks if a field has valid content.
@@ -83,9 +84,11 @@ def is_filled(field_data: Any) -> bool:
 def write_jsonl_line(fp, record: Dict[str, Any]):
     fp.write(json.dumps(record, ensure_ascii=False) + "\n")
 
+
 # -----------------------------------------------------------------------------
 # MAIN
 # -----------------------------------------------------------------------------
+
 
 def main():
     input_path = CONFIG["input_file"]
@@ -95,8 +98,14 @@ def main():
 
     CONFIG["output_dir"].mkdir(parents=True, exist_ok=True)
 
-    out_has_boolean = CONFIG["output_dir"] / "sr4all_full_normalized_year_range_search_has_boolean.jsonl"
-    out_keywords_only = CONFIG["output_dir"] / "sr4all_full_normalized_year_range_search_keywords_only.jsonl"
+    out_has_boolean = (
+        CONFIG["output_dir"]
+        / "sr4all_full_normalized_year_range_search_has_boolean.jsonl"
+    )
+    out_keywords_only = (
+        CONFIG["output_dir"]
+        / "sr4all_full_normalized_year_range_search_keywords_only.jsonl"
+    )
 
     counts = {
         "total": 0,
@@ -110,9 +119,9 @@ def main():
     logger.info(f"Reading: {input_path}")
     logger.info(f"Writing outputs to: {CONFIG['output_dir']}")
 
-    with open(input_path, "r", encoding="utf-8") as fin, \
-        open(out_has_boolean, "w", encoding="utf-8") as fbo, \
-        open(out_keywords_only, "w", encoding="utf-8") as fko:
+    with open(input_path, "r", encoding="utf-8") as fin, open(
+        out_has_boolean, "w", encoding="utf-8"
+    ) as fbo, open(out_keywords_only, "w", encoding="utf-8") as fko:
 
         for line in fin:
             line = line.strip()

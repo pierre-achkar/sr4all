@@ -17,7 +17,9 @@ from typing import Dict, Any, Optional
 # CONFIGURATION
 # -----------------------------------------------------------------------------
 OAX_JSONL = Path("./data/filtered/oax_sr_slim_abstract_coverage.jsonl")
-EXTRACTION_JSONL = Path("./data/sr4all/extraction_v1/intermediate/sr4all_intermediate_all_corrected.jsonl")
+EXTRACTION_JSONL = Path(
+    "./data/sr4all/extraction_v1/intermediate/sr4all_intermediate_all_corrected.jsonl"
+)
 OUTPUT_JSONL = Path("./data/final/sr4all_full.jsonl")
 LOG_FILE = Path("./logs/final_ds/sr4all_full.log")
 UNMATCHED_EXTRACTION_IDS = Path("./data/final/unmatched_extraction_ids_all.txt")
@@ -27,12 +29,10 @@ LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s | %(levelname)s | %(message)s",
-    handlers=[
-        logging.FileHandler(LOG_FILE, mode="w"),
-        logging.StreamHandler()
-    ]
+    handlers=[logging.FileHandler(LOG_FILE, mode="w"), logging.StreamHandler()],
 )
 logger = logging.getLogger("FinalJoiner")
+
 
 # -----------------------------------------------------------------------------
 # HELPERS
@@ -47,6 +47,7 @@ def normalize_openalex_id(openalex_id: Optional[str]) -> Optional[str]:
     if "/" in openalex_id:
         return openalex_id.rsplit("/", 1)[-1]
     return openalex_id
+
 
 # -----------------------------------------------------------------------------
 # MAIN EXECUTION
@@ -78,7 +79,9 @@ def main() -> None:
     missing_doc_id = 0
     unmatched_extraction_ids = []
 
-    with open(EXTRACTION_JSONL, "r", encoding="utf-8") as fin, open(OUTPUT_JSONL, "w", encoding="utf-8") as fout:
+    with open(EXTRACTION_JSONL, "r", encoding="utf-8") as fin, open(
+        OUTPUT_JSONL, "w", encoding="utf-8"
+    ) as fout:
         for line in fin:
             try:
                 extraction_rec = json.loads(line)
@@ -123,6 +126,7 @@ def main() -> None:
     logger.info(f"Unmatched IDs file:      {UNMATCHED_EXTRACTION_IDS}")
     logger.info(f"Output file:             {OUTPUT_JSONL}")
     logger.info("-" * 40)
+
 
 if __name__ == "__main__":
     main()
