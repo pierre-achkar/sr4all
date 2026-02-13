@@ -27,24 +27,22 @@ from transform_queries.inference_engine import QwenInference
 CONFIG = {
     # Update these paths to your actual file locations
     "input_jsonl": Path(
-        "/data/final/with_boolean/null_subsets/sr4all_full_normalized_keywords_only_null_repair_subset_2.jsonl"
+        "./data/final/with_boolean/null_subsets/sr4all_full_normalized_keywords_only_null_repair_subset_2.jsonl"
     ),
     "mapping_output_jsonl": Path(
-        "/data/final/with_boolean/repaired/sr4all_full_normalized_keywords_only_repaired_mapping_2.jsonl"
+        "./data/final/with_boolean/repaired/sr4all_full_normalized_keywords_only_repaired_mapping_2.jsonl"
     ),
     "trace_output_jsonl": Path(
-        "/data/final/with_boolean/traces/sr4all_full_normalized_keywords_only_repaired_trace_2.jsonl"
+        "./data/final/with_boolean/traces/sr4all_full_normalized_keywords_only_repaired_trace_2.jsonl"
     ),
-    "log_file": Path(
-        "/logs/oax/transform_to_boolean_keywords_only_repaired_2.log"
-    ),
+    "log_file": Path("./logs/oax/transform_to_boolean_keywords_only_repaired_2.log"),
     "model_path": "Qwen/Qwen3-32B",
     "tensor_parallel": 2,
     "batch_size": 200,
     "save_every": 10,
     "skip_done": True,
     "sample_size": 0,  # 0 = process all
-    "structured_outputs": True, 
+    "structured_outputs": True,
     "enable_thinking": False,
 }
 
@@ -83,41 +81,45 @@ def normalize_outputs(outputs, prompts_meta: List[Dict]) -> List[Dict]:
     The new schema returns a list of result objects with IDs.
     """
     results: List[Dict] = []
-    
+
     # Safety check for batch size mismatch
     min_count = min(len(outputs), len(prompts_meta))
-    
+
     for output, meta in zip(outputs[:min_count], prompts_meta[:min_count]):
         rec_id = meta["rec_id"]
         expected_len = meta["expected_len"]
-        
+
         raw = output.get("raw")
-        parsed = output.get("parsed") 
+        parsed = output.get("parsed")
         err = output.get("error")
 
         if err:
-            results.append({
-                "rec_id": rec_id,
-                "expected_len": expected_len,
-                "boolean_results": None,
-                "error": err,
-                "raw": raw,
-                "parsed": parsed
-            })
+            results.append(
+                {
+                    "rec_id": rec_id,
+                    "expected_len": expected_len,
+                    "boolean_results": None,
+                    "error": err,
+                    "raw": raw,
+                    "parsed": parsed,
+                }
+            )
             continue
 
         # Parse the 'results' list from the LLM output
         llm_results = parsed.get("results") if parsed else None
-        
+
         if not isinstance(llm_results, list):
-            results.append({
-                "rec_id": rec_id,
-                "expected_len": expected_len,
-                "lucene_results": None,
-                "error": "INVALID_JSON_STRUCTURE",
-                "raw": raw,
-                "parsed": parsed
-            })
+            results.append(
+                {
+                    "rec_id": rec_id,
+                    "expected_len": expected_len,
+                    "lucene_results": None,
+                    "error": "INVALID_JSON_STRUCTURE",
+                    "raw": raw,
+                    "parsed": parsed,
+                }
+            )
             continue
 
         # Map back to ordered list based on IDs (q_0, q_1, etc.)
@@ -143,21 +145,26 @@ def normalize_outputs(outputs, prompts_meta: List[Dict]) -> List[Dict]:
                     raise ValueError("Unrecognized ID format")
                 if 0 <= idx < expected_len:
                     if q_status == "skipped" or q_bool is None:
-                        ordered_queries[idx] = None # Explicitly None for skipped/invalid
-                        if q_err: processing_errors.append(f"Idx {idx}: {q_err}")
+                        ordered_queries[idx] = (
+                            None  # Explicitly None for skipped/invalid
+                        )
+                        if q_err:
+                            processing_errors.append(f"Idx {idx}: {q_err}")
                     else:
                         ordered_queries[idx] = q_bool
             except (IndexError, ValueError, AttributeError):
                 processing_errors.append(f"Bad ID: {q_id}")
 
-        results.append({
-            "rec_id": rec_id,
-            "expected_len": expected_len,
-            "boolean_results": ordered_queries,
-            "error": "; ".join(processing_errors) if processing_errors else None,
-            "raw": raw,
-            "parsed": parsed
-        })
+        results.append(
+            {
+                "rec_id": rec_id,
+                "expected_len": expected_len,
+                "boolean_results": ordered_queries,
+                "error": "; ".join(processing_errors) if processing_errors else None,
+                "raw": raw,
+                "parsed": parsed,
+            }
+        )
 
     return results
 
@@ -198,27 +205,29 @@ def main():
     batch_records: List[Dict] = []
     batch_count = 0
 
-    def build_llm_input(queries: List[Dict], keywords: List[str]) -> Tuple[schemas.TransformationInput, int]:
+    def build_llm_input(
+        queries: List[Dict], keywords: List[str]
+    ) -> Tuple[schemas.TransformationInput, int]:
         """
         Constructs the Pydantic input object.
         Generates stable IDs (q_0, q_1) for mapping back later.
         """
         query_items = []
         has_nonempty_query = False
-        
+
         # 1. Handle explicit Boolean Queries
         for idx, q in enumerate(queries):
             raw_text = (q or {}).get("boolean_query_string")
             if not isinstance(raw_text, str):
                 if raw_text is not None:
-                    logger.warning("Non-string boolean_query_string at idx %d: %r", idx, raw_text)
+                    logger.warning(
+                        "Non-string boolean_query_string at idx %d: %r", idx, raw_text
+                    )
                 raw_text = ""
             if raw_text.strip():
                 has_nonempty_query = True
             # We treat empty strings as valid entries to maintain index alignment
-            query_items.append(
-                schemas.RawQueryItem(id=f"q_{idx}", raw_string=raw_text)
-            )
+            query_items.append(schemas.RawQueryItem(id=f"q_{idx}", raw_string=raw_text))
 
         # If all queries are empty, treat as no-queries
         if not has_nonempty_query:
@@ -227,22 +236,18 @@ def main():
         # 2. Construct the Input Object
         # Case A: Only Keywords (Keyword Mode)
         if not query_items and keywords:
-            llm_input = schemas.TransformationInput(
-                queries=[], 
-                keywords=keywords
-            )
-            expected_len = 1 # Keywords produce exactly 1 combined query
-            
+            llm_input = schemas.TransformationInput(queries=[], keywords=keywords)
+            expected_len = 1  # Keywords produce exactly 1 combined query
+
         # Case B: Queries exist (Query Mode)
         else:
             llm_input = schemas.TransformationInput(
                 queries=query_items,
-                keywords=keywords if keywords else None # Optional context
+                keywords=keywords if keywords else None,  # Optional context
             )
             expected_len = len(query_items)
 
         return llm_input, expected_len
-
 
     def flush_buffers():
         nonlocal mapping_buffer, trace_buffer
@@ -259,41 +264,44 @@ def main():
 
     def process_batch(batch: List[Dict]):
         nonlocal batch_count
-        if not batch: return 0
+        if not batch:
+            return 0
 
         batch_count += 1
         logger.info("Processing batch %d (n=%d)", batch_count, len(batch))
 
-        prompts_to_generate = [] # List of (sys, user) tuples
-        batch_meta = [] # Metadata to track requests
-        
+        prompts_to_generate = []  # List of (sys, user) tuples
+        batch_meta = []  # Metadata to track requests
+
         # 1. Build Prompts
         for rec in batch:
             queries = rec.get("_queries", [])
             keywords = rec.get("_keywords", [])
             rec_id = rec["_rec_id"]
-            
+
             # Create Pydantic Object
             llm_input_obj, expected_len = build_llm_input(queries, keywords)
-            
+
             # RENDER PROMPT (Explicitly calling our new class)
             sys_prompt, user_prompt = TransformerToSimplePrompts.render(llm_input_obj)
-            
+
             prompts_to_generate.append((sys_prompt, user_prompt))
-            
-            batch_meta.append({
-                "rec_id": rec_id,
-                "expected_len": expected_len,
-                "queries": queries,
-                "keywords": keywords,
-                "input_obj": llm_input_obj.model_dump() # Save for trace
-            })
+
+            batch_meta.append(
+                {
+                    "rec_id": rec_id,
+                    "expected_len": expected_len,
+                    "queries": queries,
+                    "keywords": keywords,
+                    "input_obj": llm_input_obj.model_dump(),  # Save for trace
+                }
+            )
 
         # 2. Inference
         try:
             # Assumes engine.generate_batch accepts list of (sys, user)
             # If your engine expects objects, revert to passing llm_input_obj
-            outputs = engine.generate_batch(prompts_to_generate) 
+            outputs = engine.generate_batch(prompts_to_generate)
         except Exception as e:
             logger.error(f"Inference failed: {e}")
             # Handle catastrophic batch failure if needed
@@ -306,27 +314,33 @@ def main():
         for i, res in enumerate(normalized_results):
             rec_id = res["rec_id"]
             meta = batch_meta[i]
-            
+
             # Trace Log (Full Debug Info)
-            trace_buffer.append({
-                "rec_id": rec_id,
-                "input_prompt": meta["input_obj"],
-                "raw_output": res["raw"],
-                "parsed_output": res["parsed"],
-                "error": res["error"]
-            })
-            
+            trace_buffer.append(
+                {
+                    "rec_id": rec_id,
+                    "input_prompt": meta["input_obj"],
+                    "raw_output": res["raw"],
+                    "parsed_output": res["parsed"],
+                    "error": res["error"],
+                }
+            )
+
             # Mapping Log (Clean Result)
-            mapping_buffer.append({
-                "id": rec_id,
-                "boolean_queries": res["boolean_results"], # List of strings or None
-                "boolean_error": res["error"],
-                "keywords_only": (not meta["queries"]) and bool(meta["keywords"])
-            })
+            mapping_buffer.append(
+                {
+                    "id": rec_id,
+                    "boolean_queries": res[
+                        "boolean_results"
+                    ],  # List of strings or None
+                    "boolean_error": res["error"],
+                    "keywords_only": (not meta["queries"]) and bool(meta["keywords"]),
+                }
+            )
 
         if len(mapping_buffer) >= CONFIG["save_every"]:
             flush_buffers()
-        
+
         return len(batch)
 
     # --- MAIN LOOP ---
@@ -344,11 +358,15 @@ def main():
         with tqdm(total=total_records, desc="Normalizing", unit="rec") as pbar:
             for record in iter_jsonl(input_path):
                 # Sampling Check
-                if CONFIG["sample_size"] > 0 and processed_count >= CONFIG["sample_size"]:
+                if (
+                    CONFIG["sample_size"] > 0
+                    and processed_count >= CONFIG["sample_size"]
+                ):
                     break
 
                 rec_id = get_record_id(record)
-                if not rec_id: continue
+                if not rec_id:
+                    continue
 
                 # Skip Done
                 if CONFIG["skip_done"] and rec_id in completed_ids:
@@ -357,22 +375,30 @@ def main():
                 # Prepare Data
                 queries = record.get("exact_boolean_queries") or []
                 keywords = record.get("keywords_used") or []
-                if not isinstance(queries, list): queries = []
-                if not isinstance(keywords, list): keywords = []
+                if not isinstance(queries, list):
+                    queries = []
+                if not isinstance(keywords, list):
+                    keywords = []
 
                 # Skip Empty (Edge Case)
                 if not queries and not keywords:
                     # Log empty record
-                    mapping_buffer.append({
-                        "id": rec_id, "boolean_queries": [], "boolean_error": "NO_INPUT_DATA"
-                    })
+                    mapping_buffer.append(
+                        {
+                            "id": rec_id,
+                            "boolean_queries": [],
+                            "boolean_error": "NO_INPUT_DATA",
+                        }
+                    )
                     continue
 
-                batch_records.append({
-                    "_rec_id": rec_id,
-                    "_queries": queries,
-                    "_keywords": keywords,
-                })
+                batch_records.append(
+                    {
+                        "_rec_id": rec_id,
+                        "_queries": queries,
+                        "_keywords": keywords,
+                    }
+                )
 
                 if len(batch_records) >= CONFIG["batch_size"]:
                     n = process_batch(batch_records)
@@ -390,6 +416,7 @@ def main():
         flush_buffers()
 
     logger.info("Done. Saved to %s", mapping_output_path)
+
 
 if __name__ == "__main__":
     main()

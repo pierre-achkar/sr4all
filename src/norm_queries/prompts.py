@@ -7,7 +7,7 @@ from pathlib import Path
 SCRIPT_DIR = Path(__file__).resolve().parent
 SRC_DIR = SCRIPT_DIR.parent
 if str(SRC_DIR) not in sys.path:
-  sys.path.insert(0, str(SRC_DIR))
+    sys.path.insert(0, str(SRC_DIR))
 
 from transform_queries import schemas
 
@@ -22,8 +22,7 @@ class TransformerToSimplePrompts:
         "You ONLY respond with the requested JSON object and nothing else."
     )
 
-    USER_TEMPLATE = dedent(
-        """
+    USER_TEMPLATE = dedent("""
         # Context
         {%- if queries%}
         You will receive one or more Boolean search strings written by experts targeting specific bibliographic databases
@@ -203,16 +202,16 @@ class TransformerToSimplePrompts:
 
         # Output
         Provide the JSON object as specified above.
-        """
-    ).strip()
+        """).strip()
 
     @staticmethod
     def render(data: schemas.TransformationInput) -> tuple[str, str]:
         t = Template(TransformerToSimplePrompts.USER_TEMPLATE)
         return TransformerToSimplePrompts.SYSTEM, t.render(**data.model_dump())
 
+
 if __name__ == "__main__":
-    
+
     # # 1. Test only with queries
     # test_data = schemas.TransformationInput(
     #     queries=[
@@ -231,17 +230,10 @@ if __name__ == "__main__":
 
     # 2. Test only with keywords
     test_data = schemas.TransformationInput(
-        queries=[],
-        keywords=[
-            "Forecast",
-            "Predict*",
-            "Energy",
-            "Power",
-            "electricity"
-        ]
+        queries=[], keywords=["Forecast", "Predict*", "Energy", "Power", "electricity"]
     )
     system_prompt, user_prompt = TransformerToSimplePrompts.render(test_data)
     print("\n\n=== SYSTEM PROMPT ===")
     print(system_prompt)
     print("\n=== USER PROMPT ===")
-    print(user_prompt)  
+    print(user_prompt)

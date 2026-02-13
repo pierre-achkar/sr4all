@@ -22,13 +22,21 @@ from tqdm import tqdm
 # Config
 # ========================
 CONFIG = {
-    "original_boolean_jsonl": Path("/data/final/sr4all_full_normalized_year_range_search_has_boolean.jsonl"),
-    "normalized_boolean_jsonl": Path("/data/final/with_boolean/final/sr4all_full_normalized_boolean_mapping_merged_2_with_year_range.jsonl"),
-    "out_aggregate_json": Path("/data/final/with_boolean/boolean_fidelity_aggregate.json"),
-    "out_per_record_jsonl": Path("/data/final/with_boolean/boolean_fidelity_per_record.jsonl"),
+    "original_boolean_jsonl": Path(
+        "./data/final/sr4all_full_normalized_year_range_search_has_boolean.jsonl"
+    ),
+    "normalized_boolean_jsonl": Path(
+        "./data/final/with_boolean/final/sr4all_full_normalized_boolean_mapping_merged_2_with_year_range.jsonl"
+    ),
+    "out_aggregate_json": Path(
+        "./data/final/with_boolean/boolean_fidelity_aggregate.json"
+    ),
+    "out_per_record_jsonl": Path(
+        "./data/final/with_boolean/boolean_fidelity_per_record.jsonl"
+    ),
     # Canonicalisation toggles
     "strip_fields": True,
-    "strip_metadata": True,      # years / filters
+    "strip_metadata": True,  # years / filters
     "repair_original_parentheses": True,  # balance-only repair for original before structure metrics
     "min_term_len": 2,
 }
@@ -41,6 +49,7 @@ logging.basicConfig(
     format="%(asctime)s | %(levelname)s | %(message)s",
 )
 logger = logging.getLogger("boolean_fidelity")
+
 
 # ========================
 # IO
@@ -56,6 +65,7 @@ def iter_jsonl(path: Path):
             except json.JSONDecodeError:
                 continue
 
+
 def load_map_by_id(path: Path) -> Dict[str, Dict]:
     out = {}
     for rec in iter_jsonl(path):
@@ -64,14 +74,21 @@ def load_map_by_id(path: Path) -> Dict[str, Dict]:
             out[rid] = rec
     return out
 
+
 # ========================
 # Canonicalisation (same as before, kept compact)
 # ========================
 _BOOL_WORDS = {"AND", "OR", "NOT"}
 
 SMART_QUOTES = {
-    "“": '"', "”": '"', "„": '"', "‟": '"',
-    "’": "'", "‘": "'", "‚": "'", "‛": "'",
+    "“": '"',
+    "”": '"',
+    "„": '"',
+    "‟": '"',
+    "’": "'",
+    "‘": "'",
+    "‚": "'",
+    "‛": "'",
 }
 
 _FIELD_PREFIX_PATTERNS = [
@@ -93,19 +110,25 @@ _YEAR_RE = re.compile(r"\b(19\d{2}|20\d{2})\b")
 
 TOKEN_RE = re.compile(r'("([^"\\]*(?:\\.[^"\\]*)*)")|([()])|([^\s()]+)')
 
+
 def normalize_quotes(text: str) -> str:
     for k, v in SMART_QUOTES.items():
         text = text.replace(k, v)
     return text
 
+
 def strip_pubmed_tags(text: str) -> str:
     return _PUBMED_TAG_RE.sub("", text)
+
 
 def strip_field_scoping(text: str) -> str:
     for pat in _FIELD_PREFIX_PATTERNS:
         text = re.sub(pat, "(", text, flags=re.IGNORECASE)
-    text = re.sub(r"\b(TI|AB|TS|TITLE|ABS|KEY|AUTHKEY|AU)\s*:\s*", "", text, flags=re.IGNORECASE)
+    text = re.sub(
+        r"\b(TI|AB|TS|TITLE|ABS|KEY|AUTHKEY|AU)\s*:\s*", "", text, flags=re.IGNORECASE
+    )
     return text
+
 
 def strip_metadata(text: str) -> str:
     text = re.sub(r"\bLIMIT-TO\s*\([^)]*\)", " ", text, flags=re.IGNORECASE)
@@ -114,10 +137,14 @@ def strip_metadata(text: str) -> str:
     text = _YEAR_RE.sub(" ", text)
     return text
 
+
 def normalize_bool_ops(text: str) -> str:
-    text = re.sub(r"\b(and|or|not)\b", lambda m: m.group(1).upper(), text, flags=re.IGNORECASE)
+    text = re.sub(
+        r"\b(and|or|not)\b", lambda m: m.group(1).upper(), text, flags=re.IGNORECASE
+    )
     text = re.sub(r"\b(NEAR|W)\s*/\s*\d+\b", "AND", text, flags=re.IGNORECASE)
     return text
+
 
 def canonicalize(text: str) -> str:
     if not isinstance(text, str):
@@ -132,6 +159,7 @@ def canonicalize(text: str) -> str:
     text = text.replace("$", " ")
     text = re.sub(r"\s+", " ", text).strip()
     return text
+
 
 def tokenize(text: str) -> List[Dict[str, str]]:
     toks = []
@@ -149,11 +177,13 @@ def tokenize(text: str) -> List[Dict[str, str]]:
                 toks.append({"type": "TERM", "val": word})
     return toks
 
+
 def clean_term(t: str) -> str:
     t = t.strip().lower()
     t = t.replace("–", "-")
-    t = re.sub(r'^[^\w\*\?]+|[^\w\*\?]+$', "", t)  # keep * and ?
+    t = re.sub(r"^[^\w\*\?]+|[^\w\*\?]+$", "", t)  # keep * and ?
     return t
+
 
 def terms_set(text: str) -> List[str]:
     out = []
@@ -163,6 +193,7 @@ def terms_set(text: str) -> List[str]:
             if len(ct) >= CONFIG["min_term_len"]:
                 out.append(ct)
     return out
+
 
 def terms_unigrams(text: str) -> List[str]:
     """More forgiving view: phrases contribute their unigrams too."""
@@ -183,8 +214,10 @@ def terms_unigrams(text: str) -> List[str]:
                         out.append(w)
     return out
 
+
 def ops_stream(text: str) -> List[str]:
     return [t["val"] for t in tokenize(text) if t["type"] == "OP"]
+
 
 def skeleton_tokens(text: str) -> List[str]:
     out = []
@@ -194,6 +227,7 @@ def skeleton_tokens(text: str) -> List[str]:
         else:
             out.append(t["val"])
     return out
+
 
 def paren_stats(text: str) -> Dict[str, Any]:
     depth = 0
@@ -213,6 +247,7 @@ def paren_stats(text: str) -> Dict[str, Any]:
         balanced = False
     return {"balanced": balanced, "max_depth": max_depth}
 
+
 def _tokenize_preserve_quotes(text: str) -> List[Dict[str, str]]:
     """Tokenize but keep quoted phrases with quotes intact."""
     toks = []
@@ -225,6 +260,7 @@ def _tokenize_preserve_quotes(text: str) -> List[Dict[str, str]]:
         elif word:
             toks.append({"type": "TERM", "val": word})
     return toks
+
 
 def balance_parentheses_only(text: str) -> str:
     """Balance parentheses without changing token order. Removes extra ')' and appends missing ')'."""
@@ -249,10 +285,13 @@ def balance_parentheses_only(text: str) -> str:
         out.extend([")"] * depth)
     return " ".join(out)
 
+
 # ========================
 # Metrics
 # ========================
-def prf(orig_terms: List[str], norm_terms: List[str]) -> Tuple[float, float, float, int, int]:
+def prf(
+    orig_terms: List[str], norm_terms: List[str]
+) -> Tuple[float, float, float, int, int]:
     so, sn = set(orig_terms), set(norm_terms)
     if not so and not sn:
         return 1.0, 1.0, 1.0, 0, 0
@@ -263,6 +302,7 @@ def prf(orig_terms: List[str], norm_terms: List[str]) -> Tuple[float, float, flo
     added = len(sn - so)
     dropped = len(so - sn)
     return prec, rec, f1, added, dropped
+
 
 def levenshtein(a: List[str], b: List[str]) -> int:
     n, m = len(a), len(b)
@@ -281,6 +321,7 @@ def levenshtein(a: List[str], b: List[str]) -> int:
             prev = cur
     return dp[m]
 
+
 def edit_sim(a: List[str], b: List[str]) -> float:
     if not a and not b:
         return 1.0
@@ -289,16 +330,20 @@ def edit_sim(a: List[str], b: List[str]) -> float:
         return 1.0
     return 1.0 - (levenshtein(a, b) / denom)
 
+
 def summarize(xs: List[float]) -> Dict[str, float]:
     if not xs:
         return {"mean": 0.0, "median": 0.0, "p25": 0.0, "p75": 0.0}
     xs = sorted(xs)
     n = len(xs)
+
     def pct(p: float) -> float:
         i = int(round((n - 1) * p))
         return xs[i]
-    median = xs[n // 2] if n % 2 == 1 else 0.5 * (xs[n//2 - 1] + xs[n//2])
-    return {"mean": sum(xs)/n, "median": median, "p25": pct(0.25), "p75": pct(0.75)}
+
+    median = xs[n // 2] if n % 2 == 1 else 0.5 * (xs[n // 2 - 1] + xs[n // 2])
+    return {"mean": sum(xs) / n, "median": median, "p25": pct(0.25), "p75": pct(0.75)}
+
 
 # ========================
 # Extract query strings
@@ -317,6 +362,7 @@ def original_boolean_string(rec: Dict[str, Any]) -> str:
         return ""
     return parts[0] if len(parts) == 1 else "(" + ") OR (".join(parts) + ")"
 
+
 def normalized_boolean_string(rec: Dict[str, Any]) -> str:
     bqs = rec.get("boolean_queries")
     if not isinstance(bqs, list) or not bqs:
@@ -325,6 +371,7 @@ def normalized_boolean_string(rec: Dict[str, Any]) -> str:
     if not clean:
         return ""
     return clean[0] if len(clean) == 1 else "(" + ") OR (".join(clean) + ")"
+
 
 # ========================
 # Main
@@ -367,12 +414,19 @@ def compute_for_population(pairs: List[Tuple[str, str, str]]) -> Dict[str, Any]:
         o_par = paren_stats(o_can)
         n_par = paren_stats(n_can)
 
-        precs.append(prec); recs.append(rec); f1s.append(f1)
-        precs_u.append(prec_u); recs_u.append(rec_u); f1s_u.append(f1_u)
-        op_sims.append(op_sim); skel_sims.append(sk_sim)
-        orig_bal += int(o_par["balanced"]); norm_bal += int(n_par["balanced"])
+        precs.append(prec)
+        recs.append(rec)
+        f1s.append(f1)
+        precs_u.append(prec_u)
+        recs_u.append(rec_u)
+        f1s_u.append(f1_u)
+        op_sims.append(op_sim)
+        skel_sims.append(sk_sim)
+        orig_bal += int(o_par["balanced"])
+        norm_bal += int(n_par["balanced"])
         depth_diffs.append(n_par["max_depth"] - o_par["max_depth"])
-        added_counts.append(added); dropped_counts.append(dropped)
+        added_counts.append(added)
+        dropped_counts.append(dropped)
 
     return {
         "term_precision": summarize(precs),
@@ -394,13 +448,22 @@ def compute_for_population(pairs: List[Tuple[str, str, str]]) -> Dict[str, Any]:
         },
         "added_terms": {
             "mean": (sum(added_counts) / len(added_counts)) if added_counts else 0.0,
-            "median": sorted(added_counts)[len(added_counts)//2] if added_counts else 0,
+            "median": (
+                sorted(added_counts)[len(added_counts) // 2] if added_counts else 0
+            ),
         },
         "dropped_terms": {
-            "mean": (sum(dropped_counts) / len(dropped_counts)) if dropped_counts else 0.0,
-            "median": sorted(dropped_counts)[len(dropped_counts)//2] if dropped_counts else 0,
+            "mean": (
+                (sum(dropped_counts) / len(dropped_counts)) if dropped_counts else 0.0
+            ),
+            "median": (
+                sorted(dropped_counts)[len(dropped_counts) // 2]
+                if dropped_counts
+                else 0
+            ),
         },
     }
+
 
 def main():
     orig = load_map_by_id(CONFIG["original_boolean_jsonl"])
@@ -455,24 +518,32 @@ def main():
             n_skel = skeleton_tokens(n_can)
             sk_sim = edit_sim(o_skel, n_skel)
 
-            fout.write(json.dumps({
-                "id": rid,
-                "orig_raw": o_raw,
-                "norm_raw": n_raw,
-                "term_precision": round(prec, 4),
-                "term_recall": round(rec, 4),
-                "term_f1": round(f1, 4),
-                "term_precision_unigram_view": round(prec_u, 4),
-                "term_recall_unigram_view": round(rec_u, 4),
-                "term_f1_unigram_view": round(f1_u, 4),
-                "added_terms": added,
-                "dropped_terms": dropped,
-                "operator_seq_similarity": round(op_sim, 4),
-                "skeleton_similarity": round(sk_sim, 4),
-                "orig_paren_balanced_raw": paren_stats(o_can)["balanced"],
-                "orig_paren_balanced_repaired": paren_stats(o_can_rep)["balanced"],
-                "norm_paren_balanced": paren_stats(n_can)["balanced"],
-            }, ensure_ascii=False) + "\n")
+            fout.write(
+                json.dumps(
+                    {
+                        "id": rid,
+                        "orig_raw": o_raw,
+                        "norm_raw": n_raw,
+                        "term_precision": round(prec, 4),
+                        "term_recall": round(rec, 4),
+                        "term_f1": round(f1, 4),
+                        "term_precision_unigram_view": round(prec_u, 4),
+                        "term_recall_unigram_view": round(rec_u, 4),
+                        "term_f1_unigram_view": round(f1_u, 4),
+                        "added_terms": added,
+                        "dropped_terms": dropped,
+                        "operator_seq_similarity": round(op_sim, 4),
+                        "skeleton_similarity": round(sk_sim, 4),
+                        "orig_paren_balanced_raw": paren_stats(o_can)["balanced"],
+                        "orig_paren_balanced_repaired": paren_stats(o_can_rep)[
+                            "balanced"
+                        ],
+                        "norm_paren_balanced": paren_stats(n_can)["balanced"],
+                    },
+                    ensure_ascii=False,
+                )
+                + "\n"
+            )
 
     agg = {
         "counts": {
@@ -503,6 +574,7 @@ def main():
     logger.info("Executable-only: %d", len(executable_pairs))
     logger.info("Wrote per-record: %s", per_path)
     logger.info("Wrote aggregate: %s", out_path)
+
 
 if __name__ == "__main__":
     main()

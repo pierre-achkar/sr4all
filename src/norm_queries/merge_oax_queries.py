@@ -12,17 +12,15 @@ from typing import Dict, Iterable, Optional
 # ========================
 CONFIG = {
     "input_jsonl": Path(
-        "/data/final/sr4all_full_normalized_year_range_search_keywords_only.jsonl"
+        "./data/final/sr4all_full_normalized_year_range_search_keywords_only.jsonl"
     ),
     "mapping_jsonl": Path(
-        "/data/final/with_oax/sr4all_full_normalized_year_range_search_keywords_only_oax_mapping_repaired_v2.jsonl"
+        "./data/final/with_oax/sr4all_full_normalized_year_range_search_keywords_only_oax_mapping_repaired_v2.jsonl"
     ),
     "output_jsonl": Path(
-        "/data/final/with_oax/sr4all_full_normalized_year_range_search_keywords_only_with_oax.jsonl"
+        "./data/final/with_oax/sr4all_full_normalized_year_range_search_keywords_only_with_oax.jsonl"
     ),
-    "log_file": Path(
-        "/logs/oax/merge_oax_queries_keywords_only.log"
-    ),
+    "log_file": Path("./logs/oax/merge_oax_queries_keywords_only.log"),
 }
 
 # ========================

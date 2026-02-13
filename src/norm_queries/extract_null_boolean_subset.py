@@ -12,17 +12,15 @@ from typing import Dict, Iterable, Set
 # ========================
 CONFIG = {
     "mapping_jsonl": Path(
-        "/data/final/with_boolean/merged/sr4all_full_normalized_boolean_mapping_merged_1.jsonl"
+        "./data/final/with_boolean/merged/sr4all_full_normalized_boolean_mapping_merged_1.jsonl"
     ),
     "source_jsonl": Path(
-        "/data/final/sr4all_full_normalized_year_range_search_has_boolean.jsonl"
+        "./data/final/sr4all_full_normalized_year_range_search_has_boolean.jsonl"
     ),
     "output_jsonl": Path(
-        "/data/final/with_boolean/null_subsets/sr4all_full_normalized_boolean_null_repair_subset_2.jsonl"
+        "./data/final/with_boolean/null_subsets/sr4all_full_normalized_boolean_null_repair_subset_2.jsonl"
     ),
-    "log_file": Path(
-        "/logs/oax/extract_null_boolean_subset.log"
-    ),
+    "log_file": Path("./logs/oax/extract_null_boolean_subset.log"),
 }
 
 # ========================

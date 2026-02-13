@@ -12,17 +12,15 @@ from typing import Dict, Iterable
 # ========================
 CONFIG = {
     "base_mapping_jsonl": Path(
-        "/data/final/with_boolean/merged/sr4all_full_normalized_keywords_only_mapping_merged_1.jsonl"
+        "./data/final/with_boolean/merged/sr4all_full_normalized_keywords_only_mapping_merged_1.jsonl"
     ),
     "repaired_mapping_jsonl": Path(
-        "/data/final/with_boolean/repaired_fixed/sr4all_full_normalized_keywords_only_repaired_fixed_mapping_2.jsonl"
+        "./data/final/with_boolean/repaired_fixed/sr4all_full_normalized_keywords_only_repaired_fixed_mapping_2.jsonl"
     ),
     "output_jsonl": Path(
-        "/data/final/with_boolean/merged/sr4all_full_normalized_keywords_only_mapping_merged_2.jsonl"
+        "./data/final/with_boolean/merged/sr4all_full_normalized_keywords_only_mapping_merged_2.jsonl"
     ),
-    "log_file": Path(
-        "/logs/oax/merge_repaired_keywords_only_mapping.log"
-    ),
+    "log_file": Path("./logs/oax/merge_repaired_keywords_only_mapping.log"),
 }
 
 # ========================
@@ -93,7 +91,9 @@ def main() -> None:
                 new_rec = repaired[rec_id]
                 rec["boolean_queries"] = new_rec.get("boolean_queries")
                 rec["boolean_error"] = new_rec.get("boolean_error")
-                rec["keywords_only"] = new_rec.get("keywords_only", rec.get("keywords_only"))
+                rec["keywords_only"] = new_rec.get(
+                    "keywords_only", rec.get("keywords_only")
+                )
                 replaced += 1
             else:
                 kept += 1
