@@ -1,73 +1,174 @@
 # Webis-SR4ALL-26
 
-This project provides a full pipeline for extracting, verifying, and normalizing systematic review methodology from OpenAlex and associated PDFs. Below are step-by-step instructions for each major stage:
+This repository builds the Webis-SR4All dataset from OpenAlex + PDFs + structured extraction.
 
----
+Use the pipeline in the following order:
+1. `retrieval`
+2. `ocrc` (PaddleOCR)
+3. `add_rw_data`
+4. `extraction`
+5. `final_ds`
+6. `norm_queries`
+7. `oax`
 
-## 1. Retrieval (src/retrieval)
+## Before You Run
 
-**Purpose:** Fetch systematic review records from OpenAlex, filter for valid PDFs, and slim metadata for downstream processing.
+- Run from repo root.
+- Install dependencies from `requirements.txt`.
+- Most scripts use hard-coded paths in `CONFIG` (or module constants). Update those paths first.
+- Some scripts use absolute-style paths like `/data/...` and `/logs/...`; adapt them to your environment.
 
-**Steps:**
-- Run `1_oax_fetch_studies.py` to download SR records from OpenAlex.
-- Run `2_oax_filter.py` to filter records for valid titles, DOIs, and PDF links.
-- Run `3_pdf_download.py` to download PDFs and log results in `pdf_download_manifest.jsonl`.
-- Run `4_oax_filter_downloaded.py` to filter for successfully downloaded PDFs.
-- Run `5_oax_slim.py` to slim records for extraction.
+## 1) Retrieval (`src/retrieval`)
 
-**Outputs:**
-- Filtered OpenAlex records and PDFs in `data/filtered/`.
+Goal: build the core OpenAlex SR corpus and full-text subset.
 
----
+Run in order:
 
-## 2. OCR (src/ocr)
+```bash
+python src/retrieval/1_oax_fetch_studies.py
+python src/retrieval/2_oax_filter_refs_title_doi_pdf.py
+python src/retrieval/3_pdf_download.py
+python src/retrieval/4_oax_filter_downloaded.py
+python src/retrieval/5_oax_slim_ft.py
+```
 
-**Purpose:** Parse downloaded PDFs into plain text for extraction.
+Optional branches:
 
-**Steps:**
-- Use scripts in `src/ocr` to convert PDFs in `data/filtered/pdfs/` to text files.
-- Ensure output text files are referenced in the extraction manifest.
+```bash
+python src/retrieval/3_oax_filter_refs_title_doi_no_pdf.py
+python src/retrieval/6_oax_slim_no_ft.py
+python src/retrieval/07_abstarct_coverage.py
+python src/retrieval/8_oax_filter_refs_title_doi.py
+```
 
----
+Primary outputs:
+- `data/raw/oax_sr_full.json`
+- `data/filtered/ft_subset/pdfs/...`
+- `data/filtered/ft_subset/oax_sr_slim.json`
 
-## 3. Extraction (src/extraction)
+## 2) OCRC (`src/ocr`)
 
-**Purpose:** Extract structured methodology from SR texts using LLMs, verify evidence, fact-check, and repair missing fields.
+Goal: convert retrieved PDFs to Markdown using PaddleOCR for downstream extraction.
 
-**Steps:**
-- Run `1_extraction.py` to extract candidate information from raw texts (requires manifest).
-- Run `2_alignment.py` to verify extracted evidence against source text.
-- Run `3_fact_checking.py` to fact-check and null unsupported fields.
-- Run `4_repair.py` to repair missing or null fields using LLMs.
+Notes:
+- This stage runs right after retrieval.
+- Use PaddleOCR-based OCR processing over PDFs in `data/filtered/ft_subset/pdfs/...`.
 
-**Outputs:**
-- Structured extractions in JSONL format in `data/extraction_v1/`.
+## 3) Add RW Data (`src/add_rw_data`)
 
----
+Goal: add external benchmark datasets and identify what is missing.
 
-## 4. Query Normalization (src/norm_queries)
+Run in order:
 
-**Purpose:** Normalize extracted boolean queries and keywords for OpenAlex API compatibility.
+```bash
+python src/add_rw_data/1_creat_ref_table.py
+python src/add_rw_data/2_check_availability_in_sr4all.py
+python src/add_rw_data/3_fetch_oax_doi.py
+python src/add_rw_data/4_split_on_ft.py
+python src/add_rw_data/5_pdf_download.py
+python src/add_rw_data/6_slim_version.py
+```
 
-**Steps:**
-- Use scripts in `src/norm_queries` to convert extracted queries into OpenAlex-compatible query strings.
-- Output normalized queries for downstream OpenAlex retrieval.
+Notes:
+- Step 2 expects `data/final/sr4all_merged.jsonl`.
+- `sr4all_merged.jsonl` is typically produced after final split merge (`src/final_ds/merge_splits.py`) if you maintain Full-Text / no-Full-Text splits.
 
----
+## 4) Extraction (`src/extraction`)
 
-## 5. OpenAlex Querying (src/oax)
+Goal: extract structured methodological fields from document text.
 
-**Purpose:** Execute normalized queries against OpenAlex and collect retrieval statistics.
+Processing flow:
 
-**Steps:**
-- Use scripts in `src/oax` to run normalized queries and fetch results from OpenAlex.
-- Analyze retrieval statistics and output for final dataset construction.
+```bash
+python src/extraction/1_extraction.py
+python src/extraction/2_alignment.py
+python src/extraction/3_fact_checking.py
+python src/extraction/4_repair.py
+```
 
----
+Then re-run alignment/fact-checking on repaired outputs as configured.
 
-## Notes
-- All scripts use relative paths in their CONFIG dicts; update these for new runs. 
-- Intermediate and final outputs are stored in `data/filtered/`, `data/final/`, and `data/raw/`.
-- For detailed schema and prompt conventions, see `src/extraction/schema.py` and `src/extraction/prompts.py`.
+Important:
+- Inputs are manifest/text-path driven (see `1_extraction.py` config).
+- Ensure `doc_id` in extraction aligns with OpenAlex IDs used in retrieval outputs.
 
----
+## 5) Final Dataset Build (`src/final_ds`)
+
+Goal: flatten, validate, join with OpenAlex metadata, normalize year range, and split by search strategy.
+
+Run in order:
+
+```bash
+python src/final_ds/concat_jsonl.py
+python src/final_ds/0_check_completeness.py
+python src/final_ds/1_intermediate_ds.py
+python src/final_ds/2_repair_final_fields.py
+python src/final_ds/3_join_final_ds.py
+python src/final_ds/4_normalize_year_range.py
+python src/final_ds/5_split_search_strategy.py
+```
+
+Key outputs:
+- `data/final/sr4all_full.jsonl`
+- `data/final/sr4all_full_normalized_year_range.jsonl`
+- `data/final/sr4all_full_normalized_year_range_search_has_boolean.jsonl`
+- `data/final/sr4all_full_normalized_year_range_search_keywords_only.jsonl`
+
+## 6) Query Normalization (`src/norm_queries`)
+
+Goal: normalize search strings and prepare OpenAlex-ready query mappings.
+
+Common flow:
+
+```bash
+python src/norm_queries/transform_to_boolean.py
+python src/norm_queries/postprocess_boolean_mapping.py
+python src/norm_queries/merge_repaired_boolean_mapping.py
+python src/norm_queries/merge_year_range_normalized.py
+python src/norm_queries/transform_to_oax.py
+```
+
+Optional merge back into final split dataset:
+
+```bash
+python src/norm_queries/merge_oax_queries.py
+```
+
+## 7) OpenAlex Query Execution & Evaluation (`src/oax`)
+
+Goal: run/repair OAX queries, annotate counts, fetch IDs, and evaluate retrieval.
+
+Typical sequence:
+
+```bash
+python src/oax/repair_oax_errors.py
+python src/oax/sanitize_oax_queries.py
+python src/oax/annotate_oax_query_counts.py
+python src/oax/split_oax_query_counts_buckets.py
+python src/oax/fetch_oax_query_ids.py
+python src/oax/flatten_oax_res.py
+python src/oax/evaluate_oax_results.py
+```
+
+## Reconstruction Checklist
+
+You have successfully reconstructed the dataset when you have all of these:
+
+1. Core joined dataset: `data/final/sr4all_full.jsonl`
+2. Year-normalized dataset: `data/final/sr4all_full_normalized_year_range.jsonl`
+3. Search-strategy splits:
+   - `data/final/sr4all_full_normalized_year_range_search_has_boolean.jsonl`
+   - `data/final/sr4all_full_normalized_year_range_search_keywords_only.jsonl`
+4. Optional merged release (if you use FT/no-FT split): `data/final/sr4all_merged.jsonl`
+5. Optional OAX-enriched/eval artifacts in `data/final/with_oax/`
+
+## Practical Tips
+
+- Check each stage log folder before moving to next stage:
+  - `logs/retrieval/`
+  - `logs/add_data/`
+  - `logs/extraction/`
+  - `logs/final_ds/`
+  - `logs/oax/`
+- Many scripts are resumable; keep output files and manifests intact between runs.
+- If you run on shards, keep shard IDs consistent across extraction -> final concat.
