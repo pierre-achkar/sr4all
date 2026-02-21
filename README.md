@@ -1,12 +1,25 @@
 # Webis-SR4ALL-26
 
+## Project for the Paper
+
+**A Large-Scale, Cross-Disciplinary Corpus of Systematic Reviews**  
+Pierre Achkar (Leipzig University; Fraunhofer ISI)  
+Tim Gollub (Bauhaus-Universität Weimar)  
+Arno Simons (TU Berlin)  
+Harrisen Scells (University of Tübingen)  
+Martin Potthast (Kassel University; hessian.AI; ScaDS.AI)
+
+---
+
+**License:** MIT
+
 The final dataset is released on Zenodo under: https://doi.org/10.5281/zenodo.18431942
 
-This repository builds the Webis-SR4All dataset from OpenAlex + PDFs + structured extraction.
+This repository reconstructs the Webis-SR4All dataset from OpenAlex metadata, PDFs, and structured extraction.
 
-Use the pipeline in the following order:
+Run the pipeline in the following order:
 1. `retrieval`
-2. `ocrc` (PaddleOCR)
+2. `ocr` (PaddleOCR)
 3. `add_rw_data`
 4. `extraction`
 5. `final_ds`
@@ -17,8 +30,8 @@ Use the pipeline in the following order:
 
 - Run from repo root.
 - Install dependencies from `requirements.txt`.
-- Most scripts use hard-coded paths in `CONFIG` (or module constants). Update those paths first.
-- Some scripts use absolute-style paths like `/data/...` and `/logs/...`; adapt them to your environment.
+- Most scripts use hard-coded paths in `CONFIG` objects or module constants. Update these paths first.
+- Some scripts assume absolute-style paths such as `/data/...` and `/logs/...`; adapt them to your environment.
 
 ## 1) Retrieval (`src/retrieval`)
 
@@ -48,7 +61,7 @@ Primary outputs:
 - `data/filtered/ft_subset/pdfs/...`
 - `data/filtered/ft_subset/oax_sr_slim.json`
 
-## 2) OCRC (`src/ocr`)
+## 2) OCR (`src/ocr`)
 
 Goal: convert retrieved PDFs to Markdown using PaddleOCR for downstream extraction.
 
@@ -73,7 +86,7 @@ python src/add_rw_data/6_slim_version.py
 
 Notes:
 - Step 2 expects `data/final/sr4all_merged.jsonl`.
-- `sr4all_merged.jsonl` is typically produced after final split merge (`src/final_ds/merge_splits.py`) if you maintain Full-Text / no-Full-Text splits.
+- `sr4all_merged.jsonl` is typically produced after final split merge (`src/final_ds/merge_splits.py`) if you maintain full-text/no-full-text splits.
 
 ## 4) Extraction (`src/extraction`)
 
@@ -166,11 +179,11 @@ You have successfully reconstructed the dataset when you have all of these:
 
 ## Practical Tips
 
-- Check each stage log folder before moving to next stage:
+- Check each stage log folder before moving to the next stage:
   - `logs/retrieval/`
   - `logs/add_data/`
   - `logs/extraction/`
   - `logs/final_ds/`
   - `logs/oax/`
 - Many scripts are resumable; keep output files and manifests intact between runs.
-- If you run on shards, keep shard IDs consistent across extraction -> final concat.
+- If you run on shards, keep shard IDs consistent across extraction to final concat.
