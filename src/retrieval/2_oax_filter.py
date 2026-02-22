@@ -14,10 +14,10 @@ import random
 import csv
 
 # Config 
-INPUT_JSON  = "./data/raw/oax_sr_full.json"
-OUTPUT_JSON = "./data/filtered/oax_sr_title_english_refs.jsonl"
-EMPTY_REFS_JSON = "./data/filtered/oax_sr_title_english_empty_refs.jsonl"
-SAMPLE_CSV  = "./data/filtered/oax_sr_verification_sample.csv" 
+INPUT_JSON  = "./data/retrieval/oax_sr_full.json"
+OUTPUT_JSON = "./data/retrieval/filtered/oax_sr_title_english_refs.jsonl"
+EMPTY_REFS_JSON = "./data/retrieval/filtered/oax_sr_title_english_empty_refs.jsonl"
+SAMPLE_CSV  = "./data/retrieval/filtered/oax_sr_verification_sample.csv" 
 LOG_FILE    = "./logs/retrieval/2_oax_filter.log"
 
 # STRICT INCLUSION PHRASES

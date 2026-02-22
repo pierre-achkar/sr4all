@@ -42,9 +42,9 @@ def _load_dotenv() -> Path | None:
 _DOTENV_LOADED = _load_dotenv()
 
 Config = {
-    "input_path": "./data/benchmark_data/raw.parquet",
+    "input_path": "./data/retrieval/benchmark_data/raw.parquet",
     "doi_col": "doi",
-    "output_jsonl": "./data/benchmark_data/oax_benchmark_data.jsonl",
+    "output_jsonl": "./data/retrieval/benchmark_data/oax_benchmark_data.jsonl",
     "log_file": "./logs/retrieval/3_oax_fetch_benchmark_studies.log",
     "resume": True,
     "sleep": 0.2,
