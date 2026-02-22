@@ -1,7 +1,8 @@
 """
-Filtering Systematic Review Studies by References, Title, DOI, and PDF Availability
+Filtering Systematic Review Studies by References List and Title Patterns (Excluding Updates) and is English Only
 - Filters studies based on strict inclusion and exclusion phrases in titles
-- Checks for presence of references, DOI, and PDF availability
+- Checks for presence of references
+- Ensures the study is in English 
 - Samples a subset for manual verification
 - Logs progress and any issues encountered during filtering
 """
@@ -14,9 +15,10 @@ import csv
 
 # Config 
 INPUT_JSON  = "./data/raw/oax_sr_full.json"
-OUTPUT_JSON = "./data/filtered/ft_subset/oax_sr_refs_title_doi_pdf_filtered.json"
-SAMPLE_CSV  = "./data/filtered/ft_subset/oax_sr_verification_sample.csv" 
-LOG_FILE    = "./logs/retrieval/oax_filter_refs_title_doi_pdf.log"
+OUTPUT_JSON = "./data/filtered/oax_sr_title_english_refs.jsonl"
+EMPTY_REFS_JSON = "./data/filtered/oax_sr_title_english_empty_refs.jsonl"
+SAMPLE_CSV  = "./data/filtered/oax_sr_verification_sample.csv" 
+LOG_FILE    = "./logs/retrieval/2_oax_filter.log"
 
 # STRICT INCLUSION PHRASES
 # Must contain one of these to be considered
@@ -24,13 +26,14 @@ STRICT_PHRASES = [
     "systematic review of",
     "systematic review in",
     "systematic review on",
-    "systematic review:",
     "systematic literature review of",
     "systematic literature review in",
     "systematic literature review on",
     "systematic literature review:",
     "a systematic review",
     "a systematic literature review",
+    "systematic review and meta-analysis",
+    "systematic literature review and meta-analysis"
 ]
 
 # EXCLUSION PHRASES
@@ -95,6 +98,14 @@ def title_is_strict_sr(title: str) -> bool:
 
     return True
 
+def matched_strict_phrase(title: str) -> str:
+    """Return the first matched strict phrase in normalized title, else empty string."""
+    t = norm_title(title)
+    for p in STRICT_PHRASES:
+        if p in t:
+            return p
+    return ""
+
 def extract_doi(rec: dict) -> str:
     doi = (rec.get("doi") or "").strip()
     if not doi:
@@ -123,17 +134,13 @@ def has_references(rec: dict) -> bool:
 
 def is_in_english(rec: dict) -> bool:
     """
-    Returns True if:
-    1. Language is explicitly English ('en').
-    2. Language is MISSING/NULL (we trust the English title match).
-    
-    Returns False if:
-    1. Language is explicitly NOT English (e.g., 'fr', 'es', 'de').
+    Returns True only if language is explicitly English.
+    Returns False for missing or non-English language values.
     """
     lang = rec.get("language")
     
     if not lang:
-        return True
+        return False
     
     lang = lang.strip().lower()
     if lang in ["en", "eng", "english"]:
@@ -148,14 +155,15 @@ stats = {
     "drop_not_english": 0,
     "drop_no_refs_list": 0,
     "drop_title_strict": 0,
-    "drop_is_update": 0,  
-    "drop_no_doi": 0,
-    "drop_no_pdf": 0
+    "drop_is_update": 0,
+    "title_matched_total": 0
 }
 
 filtered_records = []
+empty_refs_records = []
+title_match_counts = {p: 0 for p in STRICT_PHRASES}
 
-logging.info("Starting strict filtering (excluding Updates)...")
+logging.info("Starting strict filtering ...")
 
 for rec in stream_json_list(INPUT_JSON):
     stats["total"] += 1
@@ -165,12 +173,7 @@ for rec in stream_json_list(INPUT_JSON):
         stats["drop_not_english"] += 1
         continue
     
-    # 1. Check Refs List
-    if not has_references(rec):
-        stats["drop_no_refs_list"] += 1
-        continue
-
-    # 2. Check Title (Inclusion + Exclusion)
+    # 1. Check Title (Inclusion + Exclusion)
     t_main = rec.get("title")
     t_disp = rec.get("display_name")
     
@@ -178,25 +181,36 @@ for rec in stream_json_list(INPUT_JSON):
     title_to_check = t_disp if t_disp else t_main
     t_norm = norm_title(title_to_check)
 
-    # A. Check if it is an update 
+    # A. Check if it is an update
     if is_excluded_update(t_norm):
         stats["drop_is_update"] += 1
         continue
-        
+
     # B. Check if it is a Strict SR
-    if not any(p in t_norm for p in STRICT_PHRASES):
+    if not title_is_strict_sr(title_to_check):
         stats["drop_title_strict"] += 1
         continue
 
-    # 3. DOI
-    if not extract_doi(rec):
-        stats["drop_no_doi"] += 1
+    matched_phrase = matched_strict_phrase(title_to_check)
+    if matched_phrase:
+        title_match_counts[matched_phrase] += 1
+        stats["title_matched_total"] += 1
+
+    # 2. Check Refs List (after English + title match)
+    if not has_references(rec):
+        stats["drop_no_refs_list"] += 1
+        empty_refs_records.append(rec)
         continue
 
-    # 4. PDF
-    if not has_pdf(rec):
-        stats["drop_no_pdf"] += 1
-        continue
+    # # 3. DOI
+    # if not extract_doi(rec):
+    #     stats["drop_no_doi"] += 1
+    #     continue
+
+    # # 4. PDF
+    # if not has_pdf(rec):
+    #     stats["drop_no_pdf"] += 1
+    #     continue
 
     filtered_records.append(rec)
     stats["kept"] += 1
@@ -208,17 +222,28 @@ summary = (
     f"NotEnglish({stats['drop_not_english']}), "
     f"IsUpdate({stats['drop_is_update']}), "
     f"NotStrictTitle({stats['drop_title_strict']}), "
-    f"NoDOI({stats['drop_no_doi']}), NoPDF({stats['drop_no_pdf']})"
+    #f"NoDOI({stats['drop_no_doi']}), NoPDF({stats['drop_no_pdf']})"
 )
 
 print(summary)
 logging.info(summary)
+logging.info(f"TitleMatchedTotal(English+StrictTitle): {stats['title_matched_total']}")
+for phrase, count in title_match_counts.items():
+    logging.info(f"TitleMatch | phrase='{phrase}' | count={count}")
 
 # --- Save JSON ---
 with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
-    json.dump(filtered_records, f, ensure_ascii=False, indent=2)
+    for rec in filtered_records:
+        f.write(json.dumps(rec, ensure_ascii=False) + "\n")
 
-logging.info(f"Saved filtered JSON -> {OUTPUT_JSON}")
+logging.info(f"Saved filtered JSONL -> {OUTPUT_JSON}" f"| count={len(filtered_records)}")
+
+# --- Save English + StrictTitle + EmptyRefs JSONL ---
+with open(EMPTY_REFS_JSON, "w", encoding="utf-8") as f:
+    for rec in empty_refs_records:
+        f.write(json.dumps(rec, ensure_ascii=False) + "\n")
+
+logging.info(f"Saved empty refs JSONL -> {EMPTY_REFS_JSON} | count={len(empty_refs_records)}")
 
 # Generate Verification Sample 
 # Extracts 150 random records to CSV for manual checking
