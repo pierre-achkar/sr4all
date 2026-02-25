@@ -2,6 +2,7 @@
 Fetch OpenAlex works by DOI list.
 - Reads CSV with a 'doi' column
 - Queries OpenAlex for each DOI
+- Drops studies with empty reference lists
 - Writes results to JSONL (one record per line)
 - Writes placeholder records for missing DOIs
 """
@@ -70,6 +71,12 @@ def normalize_doi(doi: str | None) -> str | None:
     s = _DOI_RE_PREFIX.sub("", s)
     s = _DOI_RE_URL.sub("", s)
     return s or None
+
+
+def has_references(rec: dict) -> bool:
+    """Check if the actual list of references exists and is not empty."""
+    refs = rec.get("referenced_works")
+    return isinstance(refs, list) and len(refs) > 0
 
 
 def _get_logger() -> logging.Logger:
@@ -310,6 +317,7 @@ def main() -> None:
 
     fetched = 0
     missing = 0
+    dropped_empty_refs = 0
     written = 0
     # track newly processed count since last checkpoint write
     since_last_save = 0
@@ -336,10 +344,14 @@ def main() -> None:
             for d in batch:
                 rec = results.get(d)
                 if rec:
-                    rec.setdefault("requested_doi", d)
-                    out_f.write(json.dumps(rec, ensure_ascii=False) + "\n")
-                    written += 1
                     fetched += 1
+
+                    if not has_references(rec):
+                        dropped_empty_refs += 1
+                    else:
+                        rec.setdefault("requested_doi", d)
+                        out_f.write(json.dumps(rec, ensure_ascii=False) + "\n")
+                        written += 1
                 else:
                     missing += 1
 
@@ -379,10 +391,12 @@ def main() -> None:
 
     logger.info("Fetched: %d", fetched)
     logger.info("Missing: %d", missing)
+    logger.info("Dropped empty referenced_works: %d", dropped_empty_refs)
     logger.info("Wrote JSONL records: %d", written)
 
     print(f"Fetched: {fetched}")
     print(f"Missing: {missing}")
+    print(f"Dropped empty referenced_works: {dropped_empty_refs}")
     print(f"Wrote JSONL records: {written} to {output_path}")
 
 
