@@ -233,6 +233,7 @@ jobs/
 my_env/
 
 .overlay/
+.overlay-vllm/
 
 models/
 
@@ -244,3 +245,7 @@ jdk-21.0.10/
 
 data_old/
 logs_old/
+
+rag4report/
+AGENTS.md
+.factcheck_venv
