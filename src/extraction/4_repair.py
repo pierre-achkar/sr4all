@@ -1,12 +1,11 @@
 """
 Job D: Repairing Failed Extractions
 - Reads the fact-checked corpus from Job C (which contains nulls where data failed)
-- Uses a Qwen3-32B model to attempt to repair missing fields based on the original text and the context of the missing information
+- Uses a Qwen3.5-27B model to attempt to repair missing fields based on the original text and the context of the missing information
 - Handles various failure modes (simple nulls, evidence nodes with null values, and "ghost objects" in boolean queries)
 - Saves the repaired corpus to a new JSONL file for Job B to process again (alignment and verification)
 """
 
-import os
 import sys
 import json
 import logging
@@ -36,7 +35,8 @@ CONFIG = {
         "/data/sr4all/extraction_v1/repaired/repaired_raw_candidates_2.jsonl"
     ),
     "log_file": Path("/logs/extraction/repair_job_2.log"),
-    "model_path": "Qwen/Qwen3-32B",
+    "model_path": "Qwen/Qwen3.5-27B",
+    "tensor_parallel": 2,
     # Repair Settings
     "batch_size": 20,
     "temperature": 0.1,  # Lower temp for more precise extraction
@@ -141,7 +141,9 @@ def main():
 
     # 2. INITIALIZE ENGINE
     logger.info(f"Initializing Qwen (Temp={CONFIG['temperature']})...")
-    engine = QwenInference(CONFIG["model_path"])
+    engine = QwenInference(
+        CONFIG["model_path"], tensor_parallel=CONFIG["tensor_parallel"]
+    )
     engine.sampling_params.temperature = CONFIG["temperature"]
 
     # 3. REPAIR LOOP
@@ -166,17 +168,9 @@ def main():
 
                 # Dynamic Prompt Construction
                 user_content = get_repair_user_prompt(text, rec["missing_keys"])
-                msgs = [
-                    {"role": "system", "content": REPAIR_SYSTEM_PROMPT},
-                    {"role": "user", "content": user_content},
-                ]
-
-                # Apply Chat Template manually (bypassing generate_batch default)
-                full_prompt = engine.tokenizer.apply_chat_template(
-                    msgs,
-                    tokenize=False,
-                    add_generation_prompt=True,
-                    enable_thinking=False,
+                full_prompt = engine.build_prompt(
+                    system_prompt=REPAIR_SYSTEM_PROMPT,
+                    user_prompt=user_content,
                 )
 
                 prompts.append(full_prompt)
@@ -189,42 +183,43 @@ def main():
         if not prompts:
             continue
 
-        # --- B. Run Inference ---
-        # Direct LLM call to use our custom prompts
-        outputs = engine.llm.generate(prompts, engine.sampling_params, use_tqdm=False)
+        # --- B. Run schema-constrained inference ---
+        results = engine.generate_prompt_batch(prompts)
 
         # --- C. Patch & Save ---
-        for j, output in enumerate(outputs):
+        for j, result in enumerate(results):
             rec_idx = valid_batch_indices[j]
             record = batch[rec_idx]
+            record["repair_attempted"] = True
+            record["repair_token_metadata"] = result.get("token_metadata")
 
-            try:
-                generated_json = json.loads(output.outputs[0].text)
+            if result.get("error"):
+                record["repair_error"] = result["error"]
+                logger.warning(f"Repair failed for {record['doc_id']}: {result['error']}")
+                _save_record(record, CONFIG["output_file"])
+                continue
 
-                # Patch only the requested missing fields
-                for key in record["missing_keys"]:
-                    new_item = generated_json.get(key)
+            generated_json = result["parsed"] or {}
+            if not isinstance(record.get("extraction"), dict):
+                record["extraction"] = {}
 
-                    # Only overwrite if we actually got a value (not null)
-                    # We rely on Job B/E to verify correctness later
-                    has_data = False
-                    if isinstance(new_item, dict) and new_item.get("value") is not None:
+            # Patch only the requested missing fields.
+            for key in record["missing_keys"]:
+                new_item = generated_json.get(key)
+
+                # Only overwrite if we actually got a value (not null).
+                # Job B/E still verify evidence alignment and factual support.
+                has_data = False
+                if isinstance(new_item, dict) and new_item.get("value") is not None:
+                    has_data = True
+                elif isinstance(new_item, list) and len(new_item) > 0:
+                    if isinstance(new_item[0], dict) and new_item[0].get(
+                        "boolean_query_string"
+                    ):
                         has_data = True
-                    elif isinstance(new_item, list) and len(new_item) > 0:
-                        if isinstance(new_item[0], dict) and new_item[0].get(
-                            "boolean_query_string"
-                        ):
-                            has_data = True
 
-                    if has_data:
-                        record["extraction"][key] = new_item
-
-                # Add metadata about the repair attempt
-                record["repair_attempted"] = True
-
-            except json.JSONDecodeError:
-                logger.warning(f"Repair JSON Parse Fail for {record['doc_id']}")
-                # Save original without changes
+                if has_data:
+                    record["extraction"][key] = new_item
 
             _save_record(record, CONFIG["output_file"])
 

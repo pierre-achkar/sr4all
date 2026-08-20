@@ -35,6 +35,7 @@ OUTPUT_FIELDS = [
     "cited_by_count",
     "referenced_works_count",
     "referenced_works",
+    "is_oa",
     "pdf_url",
     "language",
     "field",
@@ -279,6 +280,9 @@ def process_record(rec: Dict[str, Any]) -> Dict[str, Any]:
     source = _clean_str((((rec.get("primary_location") or {}).get("source") or {}).get("display_name")))
     doi = _clean_str(rec.get("doi"))
     abstract = reconstruct_abstract(rec.get("abstract_inverted_index"))
+    oa_obj = rec.get("open_access") or {}
+    raw_is_oa = oa_obj.get("is_oa")
+    is_oa = raw_is_oa if isinstance(raw_is_oa, bool) else None
     pdf_url = extract_pdf_link(rec)
     language = _clean_str(rec.get("language"))
 
@@ -308,6 +312,7 @@ def process_record(rec: Dict[str, Any]) -> Dict[str, Any]:
         "cited_by_count": cited_by_count,
         "referenced_works_count": referenced_works_count,
         "referenced_works": referenced_works,
+        "is_oa": is_oa,
         "pdf_url": pdf_url,
         "language": language,
         "field": field,

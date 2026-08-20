@@ -33,7 +33,7 @@ except Exception:
 INPUT_JSON       = "./data/retrieval/merged/oax_merged_dedup.jsonl"
 OUTPUT_DIR       = "./data/retrieval/merged/pdfs"
 LOG_FILE         = "./logs/retrieval/5_download_pdfs.log"
-MANIFEST_JSONL   = "./data/retrieval/merged/pdf_download_manifest.jsonl"
+MANIFEST_JSONL   = "./logs/retrieval/5_pdf_download_manifest.jsonl"
 
 REQUEST_TIMEOUT  = (10, 60)
 MAX_RETRIES      = 3
@@ -52,6 +52,10 @@ PLAYWRIGHT_HEADLESS = os.getenv("PDF_PLAYWRIGHT_HEADLESS", "1") == "1"
 PLAYWRIGHT_MAX_RECORDS = int(os.getenv("PDF_PLAYWRIGHT_MAX_RECORDS", "0"))  # 0 => all
 PLAYWRIGHT_NAV_TIMEOUT_MS = int(os.getenv("PDF_PLAYWRIGHT_NAV_TIMEOUT_MS", "30000"))
 PLAYWRIGHT_REQ_TIMEOUT_MS = int(os.getenv("PDF_PLAYWRIGHT_REQ_TIMEOUT_MS", "60000"))
+PLAYWRIGHT_MAX_CANDIDATES = int(os.getenv("PDF_PLAYWRIGHT_MAX_CANDIDATES", "10"))  # 0 => all
+PLAYWRIGHT_MAX_LANDING_PAGES = int(os.getenv("PDF_PLAYWRIGHT_MAX_LANDING_PAGES", "1"))  # 0 => skip landing fetches
+PLAYWRIGHT_CONTEXT_RECYCLE_EVERY = int(os.getenv("PDF_PLAYWRIGHT_CONTEXT_RECYCLE_EVERY", "400"))  # 0 => never
+PLAYWRIGHT_SKIP_DOI_RESOLVER = os.getenv("PDF_PLAYWRIGHT_SKIP_DOI_RESOLVER", "1") == "1"
 
 _PMCID_RE = re.compile(r"(https?://pmc\.ncbi\.nlm\.nih\.gov/articles/PMC\d+)", re.IGNORECASE)
 _CITATION_PDF_RE = re.compile(
@@ -383,6 +387,21 @@ def _origin(url: str) -> Optional[str]:
         return f"{p.scheme}://{p.netloc}/"
     return None
 
+def _is_doi_resolver_url(url: str) -> bool:
+    p = urlparse(url)
+    host = (p.netloc or "").lower()
+    return host in {"doi.org", "dx.doi.org"}
+
+def _dispose_playwright_response(resp: Any) -> None:
+    if resp is None:
+        return
+    dispose = getattr(resp, "dispose", None)
+    if callable(dispose):
+        try:
+            dispose()
+        except Exception:
+            pass
+
 def _headers_for(pdf_url: str, referer: Optional[str]) -> Dict[str, str]:
     headers: Dict[str, str] = {}
     if referer:
@@ -453,6 +472,20 @@ def shard_path_for_work(work_id: str) -> str:
         shard = f"W{work_id[1]}"
     return os.path.join(OUTPUT_DIR, shard, f"{work_id}.pdf")
 
+def count_valid_pdfs_on_disk() -> int:
+    total = 0
+    for root, _, files in os.walk(OUTPUT_DIR):
+        for name in files:
+            if not name.lower().endswith(".pdf"):
+                continue
+            path = os.path.join(root, name)
+            try:
+                if os.path.getsize(path) >= MIN_PDF_BYTES:
+                    total += 1
+            except OSError:
+                continue
+    return total
+
 def stream_jsonl(path: str) -> Generator[Dict[str, Any], None, None]:
     with open(path, "r", encoding="utf-8") as f:
         for i, line in enumerate(f, start=1):
@@ -509,6 +542,102 @@ def request_pdf_response(
         return resp
     return resp
 
+def attempt_playwright_candidates(
+    *,
+    rec: Dict[str, Any],
+    context: Any,
+    openalex_id: str,
+    work_id: str,
+    dst: str,
+    candidates: list[str],
+    referer: Optional[str],
+    attempted: set[str],
+    http_statuses: list[str],
+    saw_identity_mismatch: bool,
+) -> tuple[Optional[tuple[str, str]], bool, list[str]]:
+    discovered: list[str] = []
+    candidate_limit = PLAYWRIGHT_MAX_CANDIDATES if PLAYWRIGHT_MAX_CANDIDATES > 0 else None
+
+    for candidate in candidates:
+        if candidate_limit is not None and len(attempted) >= candidate_limit:
+            break
+        if not candidate or candidate in attempted:
+            continue
+        attempted.add(candidate)
+
+        if PLAYWRIGHT_SKIP_DOI_RESOLVER and _is_doi_resolver_url(candidate):
+            http_statuses.append(f"SKIP_DOI@{candidate}")
+            continue
+
+        headers = _headers_for(candidate, referer)
+        for attempt in range(HTTP_202_RETRIES + 1):
+            resp = None
+            try:
+                resp = context.request.get(candidate, headers=headers, timeout=PLAYWRIGHT_REQ_TIMEOUT_MS)
+                status = resp.status
+
+                if status == 202 and attempt < HTTP_202_RETRIES:
+                    time.sleep(HTTP_202_WAIT_S * (attempt + 1))
+                    continue
+
+                if status != 200:
+                    http_statuses.append(f"{status}@{candidate}")
+                    break
+
+                body = resp.body()
+                first_chunk = body[:5]
+                resp_headers = resp.headers or {}
+                ctype = resp_headers.get("content-type", "")
+                resp_url = getattr(resp, "url", "") or candidate
+                if not looks_like_pdf_payload(ctype, candidate, first_chunk):
+                    try:
+                        txt = body[:300_000].decode("utf-8", errors="ignore")
+                    except Exception:
+                        txt = ""
+                    if txt:
+                        new_candidates = candidate_pdf_urls_from_landing_html(txt, resp_url)
+                        if candidate_limit is not None:
+                            remaining = max(0, candidate_limit - len(attempted) - len(discovered))
+                            if remaining > 0:
+                                discovered.extend(new_candidates[:remaining])
+                        else:
+                            discovered.extend(new_candidates)
+                    break
+
+                tmp_path = dst + ".part"
+                with open(tmp_path, "wb") as f:
+                    f.write(body)
+
+                if os.path.getsize(tmp_path) < MIN_PDF_BYTES:
+                    os.remove(tmp_path)
+                    write_manifest_threadsafe(openalex_id, work_id, candidate, None, "failed_too_small_playwright")
+                    return ("failed_too_small", openalex_id), saw_identity_mismatch, discovered
+
+                ok_identity, identity_reason = verify_pdf_identity(
+                    rec=rec,
+                    path=tmp_path,
+                    source_url=candidate,
+                    final_url=resp_url,
+                    content_type=resp_headers.get("content-type", ""),
+                    content_disposition=resp_headers.get("content-disposition", ""),
+                )
+                if not ok_identity:
+                    os.remove(tmp_path)
+                    write_manifest_threadsafe(openalex_id, work_id, candidate, None, identity_reason + "_playwright")
+                    saw_identity_mismatch = True
+                    break
+
+                os.replace(tmp_path, dst)
+                write_manifest_threadsafe(openalex_id, work_id, candidate, dst, "downloaded_playwright")
+                return ("downloaded_browser", openalex_id), saw_identity_mismatch, discovered
+            except Exception:
+                http_statuses.append(f"EXC@{candidate}")
+                break
+            finally:
+                _dispose_playwright_response(resp)
+
+    return None, saw_identity_mismatch, discovered
+
 def process_record_playwright(rec: Dict[str, Any], context: Any) -> tuple[str, str]:
     """
     Browser fallback for records that failed with 401/403 in requests path.
@@ -532,95 +661,86 @@ def process_record_playwright(rec: Dict[str, Any], context: Any) -> tuple[str, s
     os.makedirs(os.path.dirname(dst), exist_ok=True)
 
     referer: Optional[str] = None
-    discovered: list[str] = []
     http_statuses: list[str] = []
     saw_identity_mismatch = False
+    attempted: set[str] = set()
 
-    page = None
-    try:
-        page = context.new_page()
-        for landing in landing_urls[:3]:
-            try:
-                resp = page.goto(landing, wait_until="domcontentloaded", timeout=PLAYWRIGHT_NAV_TIMEOUT_MS)
-                if resp and resp.status:
-                    if page.url:
-                        referer = page.url
-                html = page.content()
-                discovered.extend(candidate_pdf_urls_from_landing_html(html, page.url or landing))
-                time.sleep(random.uniform(0.1, 0.3))
-            except Exception:
-                continue
-    finally:
-        if page is not None:
-            try:
-                page.close()
-            except Exception:
-                pass
-
-    candidates: list[str] = []
+    direct_candidates: list[str] = []
     for u in pdf_urls:
-        candidates.extend(build_pdf_candidates(u))
-    candidates.extend(discovered)
-    candidates = _dedupe_keep_order(candidates)
+        direct_candidates.extend(build_pdf_candidates(u))
+    direct_candidates = _dedupe_keep_order(direct_candidates)
 
-    for candidate in candidates:
-        headers = _headers_for(candidate, referer)
-        for attempt in range(HTTP_202_RETRIES + 1):
-            try:
-                resp = context.request.get(candidate, headers=headers, timeout=PLAYWRIGHT_REQ_TIMEOUT_MS)
-            except Exception:
-                http_statuses.append(f"EXC@{candidate}")
-                break
+    result, saw_identity_mismatch, discovered = attempt_playwright_candidates(
+        rec=rec,
+        context=context,
+        openalex_id=openalex_id,
+        work_id=work_id,
+        dst=dst,
+        candidates=direct_candidates,
+        referer=referer,
+        attempted=attempted,
+        http_statuses=http_statuses,
+        saw_identity_mismatch=saw_identity_mismatch,
+    )
+    if result:
+        return result
 
-            status = resp.status
-            if status == 202 and attempt < HTTP_202_RETRIES:
-                time.sleep(HTTP_202_WAIT_S * (attempt + 1))
-                continue
+    discovered = _dedupe_keep_order(discovered)
+    if discovered:
+        result, saw_identity_mismatch, _ = attempt_playwright_candidates(
+            rec=rec,
+            context=context,
+            openalex_id=openalex_id,
+            work_id=work_id,
+            dst=dst,
+            candidates=discovered,
+            referer=referer,
+            attempted=attempted,
+            http_statuses=http_statuses,
+            saw_identity_mismatch=saw_identity_mismatch,
+        )
+        if result:
+            return result
 
-            if status != 200:
-                http_statuses.append(f"{status}@{candidate}")
-                break
-
-            body = resp.body()
-            first_chunk = body[:5]
-            ctype = (resp.headers or {}).get("content-type", "")
-            if not looks_like_pdf_payload(ctype, candidate, first_chunk):
+    if PLAYWRIGHT_MAX_LANDING_PAGES != 0:
+        page = None
+        landing_discovered: list[str] = []
+        try:
+            page = context.new_page()
+            max_landings = PLAYWRIGHT_MAX_LANDING_PAGES if PLAYWRIGHT_MAX_LANDING_PAGES > 0 else len(landing_urls)
+            for landing in landing_urls[:max_landings]:
                 try:
-                    txt = body[:300_000].decode("utf-8", errors="ignore")
+                    nav_resp = page.goto(landing, wait_until="domcontentloaded", timeout=PLAYWRIGHT_NAV_TIMEOUT_MS)
+                    if nav_resp and nav_resp.status and page.url:
+                        referer = page.url
+                    html = page.content()
+                    landing_discovered.extend(candidate_pdf_urls_from_landing_html(html, page.url or landing))
+                    time.sleep(random.uniform(0.1, 0.3))
                 except Exception:
-                    txt = ""
-                if txt:
-                    new_candidates = candidate_pdf_urls_from_landing_html(txt, candidate)
-                    if new_candidates:
-                        candidates = _dedupe_keep_order(candidates + new_candidates)
-                break
+                    continue
+        finally:
+            if page is not None:
+                try:
+                    page.close()
+                except Exception:
+                    pass
 
-            tmp_path = dst + ".part"
-            with open(tmp_path, "wb") as f:
-                f.write(body)
-
-            if os.path.getsize(tmp_path) < MIN_PDF_BYTES:
-                os.remove(tmp_path)
-                write_manifest_threadsafe(openalex_id, work_id, candidate, None, "failed_too_small_playwright")
-                return "failed_too_small", openalex_id
-
-            ok_identity, identity_reason = verify_pdf_identity(
+        landing_discovered = _dedupe_keep_order(landing_discovered)
+        if landing_discovered:
+            result, saw_identity_mismatch, _ = attempt_playwright_candidates(
                 rec=rec,
-                path=tmp_path,
-                source_url=candidate,
-                final_url=getattr(resp, "url", "") or candidate,
-                content_type=(resp.headers or {}).get("content-type", ""),
-                content_disposition=(resp.headers or {}).get("content-disposition", ""),
+                context=context,
+                openalex_id=openalex_id,
+                work_id=work_id,
+                dst=dst,
+                candidates=landing_discovered,
+                referer=referer,
+                attempted=attempted,
+                http_statuses=http_statuses,
+                saw_identity_mismatch=saw_identity_mismatch,
             )
-            if not ok_identity:
-                os.remove(tmp_path)
-                write_manifest_threadsafe(openalex_id, work_id, candidate, None, identity_reason + "_playwright")
-                saw_identity_mismatch = True
-                continue
-
-            os.replace(tmp_path, dst)
-            write_manifest_threadsafe(openalex_id, work_id, candidate, dst, "downloaded_playwright")
-            return "downloaded_browser", openalex_id
+            if result:
+                return result
 
     if http_statuses:
         logging.warning("Playwright failed HTTP attempts for %s | %s", openalex_id, "; ".join(http_statuses[:4]))
@@ -644,10 +764,8 @@ def run_playwright_fallback(records: list[Dict[str, Any]]) -> list[tuple[str, st
         )
         return []
 
-    results: list[tuple[str, str]] = []
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=PLAYWRIGHT_HEADLESS)
-        context = browser.new_context(
+    def _new_context(browser: Any) -> Any:
+        return browser.new_context(
             user_agent=(
                 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                 "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -655,15 +773,36 @@ def run_playwright_fallback(records: list[Dict[str, Any]]) -> list[tuple[str, st
             locale="en-US",
             extra_http_headers={"Accept-Language": "en-US,en;q=0.9"},
         )
+
+    results: list[tuple[str, str]] = []
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=PLAYWRIGHT_HEADLESS)
+        context = None
+        processed_in_context = 0
         try:
             for rec in tqdm(records, desc="Playwright fallback", unit="pdf"):
+                if context is None or (
+                    PLAYWRIGHT_CONTEXT_RECYCLE_EVERY > 0
+                    and processed_in_context >= PLAYWRIGHT_CONTEXT_RECYCLE_EVERY
+                ):
+                    if context is not None:
+                        try:
+                            context.close()
+                        except Exception:
+                            pass
+                    context = _new_context(browser)
+                    processed_in_context = 0
+
                 status, openalex_id = process_record_playwright(rec, context)
                 results.append((openalex_id, status))
+                processed_in_context += 1
         finally:
-            try:
-                context.close()
-            finally:
-                browser.close()
+            if context is not None:
+                try:
+                    context.close()
+                except Exception:
+                    pass
+            browser.close()
 
     return results
 
@@ -912,10 +1051,12 @@ def main():
             stats["failed_nonfunctional_403"] += unresolved
 
     nonfunctional_total = stats["failed_nonfunctional"] + stats["failed_nonfunctional_403"]
+    total_valid_pdfs_on_disk = count_valid_pdfs_on_disk()
 
     summary_lines = [
         f"Total records: {total}",
         f"Has PDF link: {has_pdf_link}",
+        f"Total valid PDFs currently on disk: {total_valid_pdfs_on_disk}",
         f"Downloaded: {stats['downloaded']}",
         f"Downloaded via browser fallback: {stats['downloaded_browser']}",
         f"Non-functional links: {nonfunctional_total}",

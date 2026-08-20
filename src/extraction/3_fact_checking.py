@@ -9,9 +9,8 @@ Job C: Fact-Checking and Hallucination Mitigation
 import sys
 import json
 import logging
-import os
 from pathlib import Path
-from typing import List, Dict, Any, Tuple
+from typing import List, Dict, Any
 from tqdm import tqdm
 
 # Ensure we can import src
@@ -27,14 +26,16 @@ from extraction.fact_checker import FactChecker
 # -----------------------------------------------------------------------------
 CONFIG = {
     "input_file": Path(
-        "/data/sr4all/extraction_v1/repaired_aligned/aligned_repaired_candidates_0.jsonl"
+        "/data/sr4all/extraction_v1/raw_aligned/aligned_raw_candidates_2.jsonl"
     ),
     "output_file": Path(
-        "/data/sr4all/extraction_v1/repaired_fact_checked/repaired_fact_checked_corpus_0.jsonl"
+        "/data/sr4all/extraction_v1/raw_fact_checked/raw_fact_checked_corpus_2.jsonl"
     ),
-    "log_file": Path("/logs/extraction/repaired_factcheck_0.log"),
+    "log_file": Path("/logs/extraction/raw_factcheck_2.log"),
     # Batch size for the FactChecker (Chunking)
     "batch_size": 128,
+    # Number of records to collect before one MiniCheck pass.
+    "record_batch_size": 50,
     # Save progress to disk every N documents
     "save_interval": 50,
 }
@@ -93,75 +94,12 @@ def main():
     # 3. Processing Loop
     buffer = []
 
-    for record in tqdm(to_process):
-        data = record.get("extraction", {})
-
-        # Skip empty records
-        if not data:
-            buffer.append(record)
-            continue
-
-        # A. Collect verifyable pairs for this doc
-        # We recursively find every node that has BOTH 'verbatim_source' and 'value'
-        pairs_to_check = []  # List of (source, value)
-        field_map = []  # Metadata to map results back to JSON: (path_list, None)
-
-        def recurse_collect(item, path):
-            if isinstance(item, dict):
-                # Is this an Evidence Node? (Job B ensures we only have valid sources here)
-                if "verbatim_source" in item and "value" in item:
-                    val = item["value"]
-                    src = item["verbatim_source"]
-
-                    # Only verify if we have data (non-null)
-                    if val is not None and src is not None:
-                        pairs_to_check.append((src, val))
-                        field_map.append((path, None))
-
-                # Recurse deeper
-                for k, v in item.items():
-                    if k != "verbatim_source":  # Don't recurse into strings
-                        recurse_collect(v, path + [k])
-
-            elif isinstance(item, list):
-                for i, sub in enumerate(item):
-                    recurse_collect(sub, path + [i])
-
-        recurse_collect(data, [])
-
-        # B. Run Inference (If there is anything to check)
-        if pairs_to_check:
-            # This calls the module we just tested
-            results = checker.verify_batch(pairs_to_check)
-
-            # C. Apply Results (The "Fact Check Nuke")
-            hallucination_count = 0
-
-            for (path, _), res in zip(field_map, results):
-                if res["status"] != "PASS":
-                    # HALLUCINATION DETECTED by MiniCheck
-                    hallucination_count += 1
-
-                    # Navigate to the item in the dict and Nuke it
-                    target = data
-                    # Traverse to parent
-                    for p in path[:-1]:
-                        target = target[p]
-
-                    # Nuke the specific field
-                    last_key = path[-1]
-                    if isinstance(target, dict) and last_key in target:
-                        target[last_key]["value"] = None
-                        target[last_key]["verbatim_source"] = None
-
-            # Record stats
-            record["fact_check_stats"] = {
-                "checked": len(pairs_to_check),
-                "failed": hallucination_count,
-            }
-
-        # Save result (whether we modified it or not)
-        buffer.append(record)
+    for i in tqdm(
+        range(0, len(to_process), CONFIG["record_batch_size"]), desc="Fact-checking"
+    ):
+        record_batch = to_process[i : i + CONFIG["record_batch_size"]]
+        _fact_check_record_batch(record_batch, checker)
+        buffer.extend(record_batch)
 
         # Incremental Save
         if len(buffer) >= CONFIG["save_interval"]:
@@ -173,6 +111,131 @@ def main():
         _save_chunk(buffer, CONFIG["output_file"])
 
     logger.info("Fact-Checking Complete.")
+
+
+def _fact_check_record_batch(records: List[Dict[str, Any]], checker: FactChecker):
+    pairs_to_check = []
+    field_map = []
+
+    for record_idx, record in enumerate(records):
+        data = record.get("extraction", {})
+        if not data:
+            continue
+        _collect_pairs(data, [], record_idx, pairs_to_check, field_map)
+
+    if not pairs_to_check:
+        return
+
+    results = checker.verify_batch(pairs_to_check)
+    record_stats = {
+        idx: {"checked": 0, "failed": 0}
+        for idx, record in enumerate(records)
+        if record.get("extraction")
+    }
+    failed_list_items = {}
+    passed_list_items = {}
+
+    for metadata, result in zip(field_map, results):
+        record_idx = metadata["record_idx"]
+        path = metadata["path"]
+        path_key = (record_idx, tuple(path))
+
+        record_stats[record_idx]["checked"] += 1
+
+        if metadata["kind"] == "list_item":
+            if result["status"] == "PASS":
+                passed_list_items.setdefault(path_key, set()).add(metadata["index"])
+            else:
+                failed_list_items.setdefault(path_key, set()).add(metadata["index"])
+                record_stats[record_idx]["failed"] += 1
+            continue
+
+        if result["status"] != "PASS":
+            record_stats[record_idx]["failed"] += 1
+            _null_evidence_node(records[record_idx]["extraction"], path)
+
+    for record_idx, path_tuple in failed_list_items:
+        _prune_failed_list_items(
+            records[record_idx]["extraction"],
+            list(path_tuple),
+            passed_list_items.get((record_idx, path_tuple), set()),
+        )
+
+    for record_idx, stats in record_stats.items():
+        if stats["checked"] > 0:
+            records[record_idx]["fact_check_stats"] = stats
+
+
+def _collect_pairs(
+    item: Any,
+    path: List[Any],
+    record_idx: int,
+    pairs_to_check: List,
+    field_map: List[Dict[str, Any]],
+):
+    if isinstance(item, dict):
+        if "verbatim_source" in item and "value" in item:
+            val = item["value"]
+            src = item["verbatim_source"]
+
+            if val is not None and src is not None:
+                if isinstance(val, list):
+                    for item_idx, item_value in enumerate(val):
+                        pairs_to_check.append((src, item_value))
+                        field_map.append(
+                            {
+                                "record_idx": record_idx,
+                                "path": path,
+                                "kind": "list_item",
+                                "index": item_idx,
+                            }
+                        )
+                else:
+                    pairs_to_check.append((src, val))
+                    field_map.append(
+                        {"record_idx": record_idx, "path": path, "kind": "field"}
+                    )
+
+        for k, v in item.items():
+            if k != "verbatim_source":
+                _collect_pairs(v, path + [k], record_idx, pairs_to_check, field_map)
+
+    elif isinstance(item, list):
+        for i, sub in enumerate(item):
+            _collect_pairs(sub, path + [i], record_idx, pairs_to_check, field_map)
+
+
+def _null_evidence_node(data: Dict[str, Any], path: List[Any]):
+    target = data
+    for p in path[:-1]:
+        target = target[p]
+
+    last_key = path[-1]
+    if isinstance(target, dict) and last_key in target:
+        target[last_key]["value"] = None
+        target[last_key]["verbatim_source"] = None
+
+
+def _prune_failed_list_items(data: Dict[str, Any], path: List[Any], passed_indices: set):
+    target = data
+    for p in path[:-1]:
+        target = target[p]
+
+    last_key = path[-1]
+    if not isinstance(target, dict) or last_key not in target:
+        return
+
+    node = target[last_key]
+    if not isinstance(node, dict) or not isinstance(node.get("value"), list):
+        return
+
+    node["value"] = [
+        item for item_idx, item in enumerate(node["value"]) if item_idx in passed_indices
+    ]
+
+    if not node["value"]:
+        node["value"] = None
+        node["verbatim_source"] = None
 
 
 def _save_chunk(data, path):

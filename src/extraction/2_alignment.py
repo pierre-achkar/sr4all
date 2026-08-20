@@ -22,20 +22,21 @@ if str(SRC_DIR) not in sys.path:
     sys.path.insert(0, str(SRC_DIR))
 
 from extraction.verifier import AlignmentVerifier
+from extraction.schema import ReviewExtraction
 
 # -----------------------------------------------------------------------------
 # CONFIGURATION
 # -----------------------------------------------------------------------------
 CONFIG = {
     "input_file": Path(
-        "/data/sr4all/extraction_v1/repaired/repaired_raw_candidates_0.jsonl"
+        "/data/sr4all/extraction_v1/raw_candidates_2.jsonl"
     ),
     "output_file": Path(
-        "/data/sr4all/extraction_v1/repaired_aligned/aligned_repaired_candidates_0.jsonl"
+        "/data/sr4all/extraction_v1/raw_aligned/aligned_raw_candidates_2.jsonl"
     ),
-    "log_file": Path("/logs/extraction/repaired_alignment_0.log"),
+    "log_file": Path("/logs/extraction/raw_alignment_2.log"),
     # Verification Settings
-    "threshold": 70,  # Low threshold for noisy OCR
+    "threshold": 65,  # Relaxed threshold for noisy OCR/layout artifacts
     "min_quote_len": 5,  # Ignore quotes shorter than this (exact match only)
     # Execution
     "processes": max(1, multiprocessing.cpu_count() - 2),  # Leave 2 cores for system
@@ -65,6 +66,16 @@ def process_single_record(record: Dict) -> Dict:
     # Skip if extraction failed previously
     if not data or record.get("error"):
         record["verification"] = {"status": "SKIPPED", "reason": "No extraction data"}
+        return record
+
+    try:
+        data = ReviewExtraction.model_validate(data).model_dump(mode="json")
+    except Exception as e:
+        record["verification"] = {
+            "status": "SCHEMA_FAIL",
+            "reason": str(e),
+        }
+        record["extraction"] = None
         return record
 
     try:

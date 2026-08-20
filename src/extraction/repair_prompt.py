@@ -31,6 +31,7 @@ Re-read the provided text specifically looking for these missing details.
 Extract the information stated explicitly in the text to a fixed JSON schema. 
 Precision and verifiability are more important than completeness. AVOID inferring, normalising or paraphrasing content beyond what is clearly stated in the text.
 Each extracted field MUST be accompanied by a verbatim source span copied directly from the text. The verbatim source should be long enough to clearly justify the extracted value.
+For list-valued fields, use one shared verbatim_source that contains every extracted item. If items appear across adjacent sentences, bullets, table rows, or a short paragraph, cite the whole supporting block verbatim. If only some list items are supported by one contiguous block, extract only those supported items.
 If information is missing, ambiguous or only partially specified, return the appropriate empty or null value, as defined below.
 
 # INSTRUCTIONS

@@ -1,7 +1,7 @@
 """
 Job A: Extraction of Candidate Information from Raw Texts
 - Reads raw text files based on a manifest (Parquet)
-- Uses a Qwen3-32B model on H100s to extract structured information
+- Uses a Qwen3.6-27B model to extract structured information
 - Saves raw extractions to JSONL for Job B to process
 """
 
@@ -31,7 +31,7 @@ CONFIG = {
     # Output
     "output_dir": Path("/data/sr4all/extraction_v1"),
     # Model
-    "model_path": "Qwen/Qwen3-32B",
+    "model_path": "Qwen/Qwen3.6-27B",
     "tensor_parallel": 2,
     # Performance Settings
     "batch_size": 50,  # Number of docs to process in one GPU call
@@ -161,12 +161,13 @@ def main():
                     "file_path": record.get("file_path"),
                     "extraction": result["parsed"],  # Dict or None
                     "raw_output": result["raw"],  # String
+                    "token_metadata": result.get("token_metadata"),
                     "timestamp": time.time(),
                 }
 
                 if result["error"]:
                     entry["error"] = result["error"]
-                    logger.warning(f"Doc {doc_id} failed generation: {result['error']}")
+                    logger.warning(f"Doc {doc_id} failed extraction: {result['error']}")
 
                 success_results.append(entry)
 
