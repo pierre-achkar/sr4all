@@ -24,7 +24,7 @@ import re
 # CONFIGURATION
 # -----------------------------------------------------------------------------
 INPUT_FILE = Path(
-    "./data/final_ds/oax_slim_with_extraction.jsonl"
+    "./data/final_ds/sr4all_final.jsonl"
 )
 LOG_FILE = Path("./logs/final_ds/completeness_check_all.log")
 LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
@@ -51,8 +51,10 @@ def is_filled(field_data):
     if field_data is None:
         return False
 
-    # Case 1: Evidence Object {"value": ...} (Standard fields)
+    # Evidence object {"value": ...} (standard extraction fields).
     if isinstance(field_data, dict):
+        if "value" not in field_data:
+            return bool(field_data)
         val = field_data.get("value")
         if val is None:
             return False
@@ -60,17 +62,10 @@ def is_filled(field_data):
             return False
         return True
 
-    # Case 2: List of Objects (Exact Boolean Queries)
+    # Lists are filled when they contain at least one meaningful item.
     if isinstance(field_data, list):
         if not field_data:
             return False  # Empty list []
-
-        # Check for ghost object: [{"boolean_query_string": null, ...}]
-        first_item = field_data[0]
-        if isinstance(first_item, dict):
-            # It is ONLY valid if the query string is NOT null
-            if first_item.get("boolean_query_string") is None:
-                return False
 
         return True
 
@@ -101,7 +96,9 @@ def main():
     total_docs_with_null_extraction = 0
     total_docs_all_null_fields = 0
     total_docs_all_fields_filled = 0
-    stats = Counter()
+    field_counts = Counter()
+    field_names = set()
+    invalid_records = 0
 
     # Logic Group Counters
     has_objective = 0
@@ -126,7 +123,7 @@ def main():
     placeholder_only_queries = 0
     placeholder_only_docs = 0
 
-    fields_to_check = [
+    extraction_fields = [
         "objective",
         "research_questions",
         "n_studies_initial",
@@ -139,18 +136,37 @@ def main():
         "inclusion_criteria",
         "exclusion_criteria",
     ]
+    extraction_presence_fields = [
+        field for field in extraction_fields if field != "year_range"
+    ]
 
     with open(INPUT_FILE, "r") as f:
         for line in f:
             try:
                 rec = json.loads(line)
                 total_records += 1
+                field_names.update(rec)
+                for field_name, field_value in rec.items():
+                    field_filled = is_filled(field_value)
+                    if field_name == "exact_boolean_queries" and isinstance(
+                        field_value, list
+                    ):
+                        field_filled = any(
+                            isinstance(item, dict)
+                            and item.get("boolean_query_string") is not None
+                            for item in field_value
+                        )
+                    if field_filled:
+                        field_counts[field_name] += 1
+
                 data = rec.get("extraction")
                 if not isinstance(data, dict):
-                    data = {key: rec.get(key) for key in fields_to_check}
+                    data = {key: rec.get(key) for key in extraction_fields}
 
                 # If extraction is null, skip
-                if not any(is_filled(data.get(key)) for key in fields_to_check):
+                if not any(
+                    is_filled(data.get(key)) for key in extraction_presence_fields
+                ):
                     total_docs_with_null_extraction += 1
                     continue
 
@@ -163,13 +179,20 @@ def main():
                 n_final_ok = is_filled(data.get("n_studies_final"))
                 year_ok = is_filled(data.get("year_range"))
                 snow_ok = is_filled(data.get("snowballing"))
-                bool_ok = is_filled(data.get("exact_boolean_queries"))
+                bool_ok = is_filled(data.get("exact_boolean_queries")) and not (
+                    isinstance(data.get("exact_boolean_queries"), list)
+                    and all(
+                        isinstance(item, dict)
+                        and item.get("boolean_query_string") is None
+                        for item in data["exact_boolean_queries"]
+                    )
+                )
                 key_ok = is_filled(data.get("keywords_used"))
                 inc_ok = is_filled(data.get("inclusion_criteria"))
                 exc_ok = is_filled(data.get("exclusion_criteria"))
 
                 # All-null / all-filled checks across all fields
-                per_field_filled = [is_filled(data.get(k)) for k in fields_to_check]
+                per_field_filled = [is_filled(data.get(k)) for k in extraction_fields]
                 if not any(per_field_filled):
                     total_docs_all_null_fields += 1
                 if all(per_field_filled):
@@ -185,29 +208,7 @@ def main():
                 if placeholder_in_doc:
                     placeholder_only_docs += 1
 
-                # 2. Update Stats for individual fields
-                if obj_ok:
-                    stats["objective"] += 1
-                if rq_ok:
-                    stats["research_questions"] += 1
-                if n_init_ok:
-                    stats["n_studies_initial"] += 1
-                if n_final_ok:
-                    stats["n_studies_final"] += 1
-                if year_ok:
-                    stats["year_range"] += 1
-                if snow_ok:
-                    stats["snowballing"] += 1
-                if bool_ok:
-                    stats["exact_boolean_queries"] += 1
-                if key_ok:
-                    stats["keywords_used"] += 1
-                if inc_ok:
-                    stats["inclusion_criteria"] += 1
-                if exc_ok:
-                    stats["exclusion_criteria"] += 1
-
-                # 3. Check Logic Groups
+                # Check logic groups.
 
                 # Group A: Objective
                 if obj_ok:
@@ -249,17 +250,18 @@ def main():
                 if obj_ok and strategy_ok and eligibility_ok:
                     essentials_complete += 1
 
-                # 4. Full Completeness (A + B + C)
+                # Full completeness (A + B + C).
                 if obj_ok and search_group_ok and criteria_group_ok:
                     fully_complete += 1
 
             except Exception as e:
-                pass
+                invalid_records += 1
+                logger.warning("Skipping invalid record: %s", e)
 
     # --- REPORT ---
     logger.info("\n" + "=" * 60)
     logger.info(
-        f"COMPLETENESS REPORT (records={total_records}, docs_with_extraction={total_docs})"
+        f"COMPLETENESS REPORT (records={total_records}, docs_with_extraction={total_docs}, invalid={invalid_records})"
     )
     logger.info("=" * 60)
 
@@ -270,12 +272,23 @@ def main():
         f"Docs with ALL fields filled         | {total_docs_all_fields_filled:<10} | {(total_docs_all_fields_filled/max(total_docs,1))*100:.1f}%"
     )
 
-    logger.info(f"\n{'PER-FIELD COMPLETENESS':<35} | {'COUNT':<10} | {'%':<6}")
-    logger.info("-" * 60)
+    pipeline_field_names = set(extraction_fields)
+    raw_field_names = field_names - pipeline_field_names
 
-    for k, v in sorted(stats.items()):
-        pct = (v / max(total_docs, 1)) * 100
-        logger.info(f"{k:<35} | {v:<10} | {pct:.1f}%")
+    for section_name, section_fields in (
+        ("RAW OPENALEX FIELDS", raw_field_names),
+        ("PIPELINE-EXTRACTED FIELDS", pipeline_field_names & field_names),
+    ):
+        logger.info(f"\n{section_name:<35} | {'COUNT':<10} | {'%':<6}")
+        logger.info("-" * 60)
+        for field_name in sorted(section_fields):
+            count = field_counts[field_name]
+            pct = (count / max(total_records, 1)) * 100
+            logger.info(f"{field_name:<35} | {count:<10} | {pct:.1f}%")
+
+    logger.info(
+        "Percentages above use all records as the denominator; essentials use documents with extraction."
+    )
 
     logger.info("=" * 60)
     logger.info("ESSENTIALS COMPLETENESS (Objective + Strategy + Eligibility)")
