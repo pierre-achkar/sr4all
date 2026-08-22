@@ -24,8 +24,10 @@ import re
 # CONFIGURATION
 # -----------------------------------------------------------------------------
 INPUT_FILE = Path(
-    "./data/sr4all/extraction_v1/repaired_fact_checked/repaired_fact_checked_corpus_all.jsonl"
+    "./data/final_ds/oax_slim_with_extraction.jsonl"
 )
+LOG_FILE = Path("./logs/final_ds/completeness_check_all.log")
+LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
 
 # setup logging to a file
 logging.basicConfig(
@@ -33,7 +35,7 @@ logging.basicConfig(
     format="%(asctime)s | %(levelname)s | %(message)s",
     handlers=[
         logging.FileHandler(
-            Path("./logs/final_ds/completeness_check_all.log"), mode="w"
+            LOG_FILE, mode="w"
         ),
         logging.StreamHandler(),
     ],
@@ -72,7 +74,10 @@ def is_filled(field_data):
 
         return True
 
-    return False
+    if isinstance(field_data, str):
+        return bool(field_data.strip())
+
+    return True
 
 
 _PLACEHOLDER_ONLY_RE = re.compile(r"^(?:#?\d+|AND|OR|NOT|\(|\)|\s)+$", re.IGNORECASE)
@@ -140,10 +145,12 @@ def main():
             try:
                 rec = json.loads(line)
                 total_records += 1
-                data = rec.get("extraction", {})
+                data = rec.get("extraction")
+                if not isinstance(data, dict):
+                    data = {key: rec.get(key) for key in fields_to_check}
 
                 # If extraction is null, skip
-                if not data:
+                if not any(is_filled(data.get(key)) for key in fields_to_check):
                     total_docs_with_null_extraction += 1
                     continue
 
