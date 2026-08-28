@@ -53,6 +53,7 @@ def main() -> None:
     markdown_ids = markdown_work_ids(args.markdown_dir)
     full_text_entries = len(markdown_ids)
     field_counts: Counter[str] = Counter()
+    primary_field_counts: Counter[str] = Counter()
     total_entries = 0
     malformed_lines = 0
     unidentifiable_entries = 0
@@ -75,6 +76,9 @@ def main() -> None:
             field_counts.update(
                 key for key, value in record.items() if is_populated(value)
             )
+            primary_field = record.get("field")
+            if is_populated(primary_field):
+                primary_field_counts[str(primary_field).strip()] += 1
             record_id = work_id(str(record.get("id", "")))
             if record_id is None:
                 unidentifiable_entries += 1
@@ -123,6 +127,21 @@ def main() -> None:
     lines.extend(
         f"| `{field}` | {count:,} | {percentage(count, total_entries)} |"
         for field, count in sorted(field_counts.items())
+    )
+    lines.extend(
+        [
+            "",
+            "## Primary Field Distribution",
+            "",
+            "Percentages use records with a populated `field` value as the denominator.",
+            "",
+            "| Primary field | Entries | Percentage |",
+            "| --- | ---: | ---: |",
+        ]
+    )
+    lines.extend(
+        f"| {field} | {count:,} | {percentage(count, field_counts['field'])} |"
+        for field, count in sorted(primary_field_counts.items())
     )
     lines.extend(
         [
