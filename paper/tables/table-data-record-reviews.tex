@@ -1,0 +1,35 @@
+\begin{table}[t]
+\centering
+\small
+\sffamily
+\renewcommand{\arraystretch}{1.15}
+\caption{Data record overview for review records in \webisSRCorpus. \textit{Key(s)} denotes the top-level JSON keys in the released file, \textit{Description} summarizes their content, and \textit{Role} indicates how the fields support reuse.}
+\label{tab:data-record-reviews}
+
+\begin{tabular}{@{}p{1.9cm}p{4.4cm}p{6.1cm}p{2.0cm}@{}}
+\toprule
+\textbf{\textsf{Group}} & \textbf{\textsf{Key(s)}} & \textbf{\textsf{Description}} & \textbf{\textsf{Role}} \\
+\midrule
+Identifiers & \texttt{id}, \texttt{doi} & OpenAlex work identifier and DOI for the review record. & Primary linkage \\
+
+Metadata & \texttt{title}, \texttt{abstract}, \texttt{year}, \texttt{type}, \texttt{source}, \texttt{language} & Core bibliographic metadata for each review. & Discovery and filtering \\
+
+Subject labels & \texttt{field}, \texttt{subfield}, \texttt{topics}, \texttt{keywords} & OpenAlex field assignments and topical annotations. & Domain analysis \\
+
+Authorship & \texttt{authors} & Author identifiers, names, and affiliation strings, where available. & Provenance \\
+
+Citation context & \parbox[t]{4.4cm}{\texttt{cited\_by\_count}, \texttt{referenced\_works\_count}, \texttt{referenced\_works}, \texttt{references\_abstract\_}\\\texttt{coverage}} & Citation counts, resolved OpenAlex reference list, and summary information about abstract coverage among referenced works. & Retrieval and screening evaluation \\
+
+Access & \texttt{pdf\_url} & Source PDF link when OpenAlex provides one. & Full-text access \\
+
+Review aims & \texttt{objective}, \texttt{research\_questions} & Extracted statements of the review objective and explicit research questions. & Method analysis \\
+
+Search strategy & \parbox[t]{4.4cm}{\texttt{keywords\_used}, \texttt{exact\_boolean\_queries}, \texttt{databases\_used}, \texttt{snowballing}} & Extracted search terms, normalized Boolean queries, named databases, and citation-chasing indicator. & Retrieval studies \\
+
+Eligibility and flow & \parbox[t]{4.4cm}{\texttt{inclusion\_criteria}, \texttt{exclusion\_criteria}, \texttt{n\_studies\_initial}, \texttt{n\_studies\_final}} & Extracted eligibility criteria and study-count information from the review workflow. & Screening studies \\
+
+Temporal scope & \parbox[t]{4.4cm}{\texttt{year\_range}, \texttt{year\_range\_normalized}, \\\texttt{year\_range\_normalization\_rule}} & Reported search-year restrictions, their normalized form, and the applied normalization rule. & Query reconstruction \\
+\bottomrule
+\end{tabular}
+
+\end{table}

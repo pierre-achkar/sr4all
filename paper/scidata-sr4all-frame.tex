@@ -1,0 +1,56 @@
+% =====================================================================
+% scidata-sr4all-frame.tex  —  root document (compile this one)
+% Scientific Data (Data Descriptor) — no journal template by design.
+% =====================================================================
+\documentclass[11pt]{article}
+
+% --- Encoding & fonts (Computer Modern, as Sci Data recommends) ---
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+% --- Core ---
+\usepackage{graphicx}
+\graphicspath{{figures/}}
+\usepackage{booktabs}
+\usepackage{siunitx}        % numeric columns in the overview table
+\usepackage{amsmath}
+\usepackage{fontawesome5}   % \faLink
+\usepackage{url}
+\usepackage{microtype}
+
+
+% --- Tables ---
+\usepackage{threeparttable}
+\usepackage{rotating}       % sidewaystable for the wide overview table
+
+% --- Links: hyperref gives \href for EXTERNAL urls only.
+%     Do NOT use \cref/\autoref/\ref for internal links — Sci Data
+%     strips and re-creates all internal links at typesetting. ---
+\usepackage[hidelinks]{hyperref}
+\hypersetup{colorlinks=false, pdfborder={0 0 0}}
+
+% --- References: numerical, sequential by appearance ---
+\usepackage[numbers,sort&compress]{natbib}
+
+% --- Page ---
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\newcommand{\webisSRCorpus}{\texttt{SR4ALL}}
+
+\begin{document}
+
+\input{scidata--sr4all-pre}     % title, authors, abstract
+
+\input{scidata--sr4all-part1}   % Background and Summary
+\input{scidata--sr4all-part2}   % Methods
+\input{scidata--sr4all-part3}   % Data Records
+\input{scidata--sr4all-part4}   % Technical Validation
+\input{scidata--sr4all-part5}   % Usage Notes (optional)
+\input{scidata--sr4all-part6}   % Data Availability + Code Availability
+\input{scidata--sr4all-part7}   % Author Contributions / Competing Interests / Funding / Acknowledgements
+
+\bibliographystyle{unsrtnat}    % numbered by order of appearance
+\bibliography{scidata--sr4all-lit}
+
+\end{document}

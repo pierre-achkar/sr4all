@@ -1,0 +1,52 @@
+% ---------------------------------------------------------------
+% Title
+% Sci Data rules: <=110 chars, no colons/parentheses, no acronyms or
+% brand names, no advertising words (novel, first, large-scale, AI-ready...).
+% Capitalise only first word + proper nouns.
+% ---------------------------------------------------------------
+\title{A cross-disciplinary corpus of systematic reviews}
+
+% --- Alternatives (each breaks a rule, kept for reference) ---
+% \title{Webis-SR4ALL-26: A Large-Scale Multi-Domain Corpus ...}   % colon + acronym + "Large-Scale"
+% \title{A Large-Scale Corpus of Systematic Reviews in All Sciences} % "Large-Scale"
+% \title{A Large-Scale, Cross-Disciplinary Corpus of Systematic Reviews} % "Large-Scale"
+
+% ---------------------------------------------------------------
+% Authors & affiliations
+% Superscripts map to the numbered list below.
+% 1 Leipzig University   2 Fraunhofer ISI   3 Bauhaus-Universität Weimar
+% 4 TU Berlin   5 University of Tübingen
+% 6 Kassel University   7 hessian.AI   8 ScaDS.AI
+% ---------------------------------------------------------------
+\author{
+  Pierre Achkar\textsuperscript{1,2},
+  Tim Gollub\textsuperscript{3},
+  Arno Simons\textsuperscript{4},
+  Harrisen Scells\textsuperscript{5},
+  and Martin Potthast\textsuperscript{6,7,8}
+  \\[6pt]
+  \small
+  \textsuperscript{1}Leipzig University, Germany \quad
+  \textsuperscript{2}Fraunhofer ISI, Germany \quad
+  \textsuperscript{3}Bauhaus-Universität Weimar, Germany \\
+  \small
+  \textsuperscript{4}TU Berlin, Germany \quad
+  \textsuperscript{5}University of Tübingen, Germany \quad
+  \textsuperscript{6}Kassel University, Germany \\
+  \small
+  \textsuperscript{7}hessian.AI, Germany \quad
+  \textsuperscript{8}ScaDS.AI, Germany \\[4pt]
+  \small Corresponding author: Pierre Achkar (\texttt{pierre.achkar@uni-leipzig.de})
+}
+
+\date{}
+\maketitle
+
+% ---------------------------------------------------------------
+% Abstract
+% Sci Data rules: <=170 words, no sub-headings, no novelty/impact claims,
+% no claims of new scientific findings, no download URLs.
+% ---------------------------------------------------------------
+\begin{abstract}
+Systematic reviews synthesise evidence across scientific fields, yet resources for studying how they are retrieved and screened have been limited in scale or restricted largely to biomedicine. This corpus contains 301,871 systematic reviews spanning the scientific fields covered by OpenAlex. A multi-stage pre-processing pipeline links each review to resolved OpenAlex metadata and reference lists and, where explicitly reported, extracts structured method artifacts relevant to retrieval and screening. These artifacts include reported search strategies, normalised into executable approximations, and reported inclusion and exclusion criteria. The corpus supports cross-domain benchmarking of retrieval and screening components against review reference lists, the development and evaluation of extraction methods for review artifacts, and comparative analyses of systematic review practices across disciplines and time. The dataset is released together with the pre-processing pipeline and the code used for extraction validation and a retrieval demonstration.
+\end{abstract}

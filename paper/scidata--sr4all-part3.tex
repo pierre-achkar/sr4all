@@ -1,0 +1,18 @@
+\section*{Data Records}
+%%% https://www.nature.com/sdata/submission-guidelines
+% - explain what the dataset contains, including the repository where the dataset is hosted, an overview of the data files and their formats, and any folder structure. 
+% - Each external dataset should be cited using our data citation format. 
+% - define any column headings, variable names, or other fields/metadata if you believe these would not be understood to users (e.g. terms like "gender" or "year" may not need explanation, but any bespoke terms may do). 
+% - do not include summary statistics in this section, but see the description below if you wish to include these.
+
+The \webisSRCorpus{} corpus is archived at Zenodo (\href{https://doi.org/10.5281/zenodo.18431942}{\texttt{10.5281/zenodo.18431942}}). The current release contains one JSON Lines file, \texttt{sr4all\_full.jsonl}. Each line corresponds to one JSON-encoded systematic review record, so the corpus can be processed sequentially without loading the full archive into memory. Full-text PDFs are not redistributed as part of the archive.
+
+The released record type is the review record. Each record is anchored by the OpenAlex work identifier stored in \texttt{id}. Where available, the record also includes the work DOI in \texttt{doi}. These identifiers link the released records back to the underlying scholarly work and its citation context. Table~\ref{tab:data-record-reviews} provides a compact overview of the fields included in the released review records.
+
+The review records combine three data layers within the same JSON object. First, a bibliographic metadata layer is available for all records. Second, a citation layer provides the resolved OpenAlex reference list and related citation counts. Third, records with accessible full texts and successful extraction contain an additional methodological layer derived from the extraction pipeline.
+
+The bibliographic metadata layer and the citation layer are present for all 301,871~review records. The citation layer is attached directly to the same review-level identifier rather than stored in a separate file. As a result, users do not need to join multiple internal record types to reconstruct a review entry. The outgoing references listed for a review are represented by OpenAlex identifiers, which link the review to the cited works in the OpenAlex graph.
+
+The methodological layer is available only for the subset of reviews with accessible full texts and successful verified extraction. This layer stores review aims, search-related information, eligibility criteria, study counts, and normalized temporal restrictions. These fields are attached to the same review record as the metadata and references, so the presence of extracted information can be checked directly within a single JSON object. Missing methodological values remain \texttt{null} or are omitted when no verified value could be retained.
+
+\input{tables/table-data-record-reviews}

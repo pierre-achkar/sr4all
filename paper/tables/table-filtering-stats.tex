@@ -1,0 +1,21 @@
+\begin{table}[t]
+\centering
+\sffamily
+\renewcommand{\arraystretch}{1}
+\caption{Statistics of the metadata-layer construction process.}
+\begin{tabular*}{\columnwidth}{@{\extracolsep{\fill}}lrr}
+\toprule
+\textbf{Construction Pipeline} & \textbf{Remaining} & $\Delta$ \\
+\midrule
+OpenAlex title search & 485{,}446 & -- \\
+1. Deduplication & 465{,}103 & -4.2\% \\
+2. Title heuristic & 293{,}523 & -36.9\% \\
+3. Not English & 287{,}061 & -2.2\% \\
+4. No DOI & 283{,}560 & -1.2\% \\
+5. Is Update & 280{,}886 & -0.9\% \\
+\midrule
++ Benchmark integration & 301{,}871 & +7.5\% \\
+\bottomrule
+\end{tabular*}
+\label{tab:sr4all-metadata-filtering}
+\end{table}
