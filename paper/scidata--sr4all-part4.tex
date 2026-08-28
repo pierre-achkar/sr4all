@@ -5,15 +5,15 @@
 The automated extraction pipeline includes two internal verification stages, evidence-span alignment and LLM-based factual verification, that discard unsupported extractions before inclusion in the final corpus (see Methods). To assess the quality of the extracted fields independently of these automated checks, we conduct a manual expert validation on a stratified sample of the corpus.
 
 \subsection*{Sampling design}
-The validation population comprises the 72,678 reviews with parsed full texts, i.e.\ all documents on which the extraction pipeline was executed. The unit of validation is the document: for each sampled review, all extracted methodological fields are assessed against the source PDF. Results are reported per field type.
+The validation population comprises the 108,079 reviews processed by the extraction pipeline. Of these, 107,611 contain at least one non-empty extracted field in the final corpus. The unit of validation is the document: for each sampled review, all extracted methodological fields are assessed against the source PDF. Results are reported per field type.
 
 The sample size is determined using the standard formula for estimating a proportion~\cite{cochran:1977}. At a 95\% confidence level ($z = 1.96$) and a margin of error of $\pm 5$ percentage points ($e = 0.05$), and using the conservative assumption $p = 0.5$, which maximizes the required sample size independently of the true extraction quality, the base sample size is
 \[
 n_0 = \frac{z^2 \, p(1-p)}{e^2} = \frac{1.96^2 \times 0.5 \times 0.5}{0.05^2} \approx 385.
 \]
-Applying the finite population correction for $N = 72{,}678$,
+Applying the finite population correction for $N = 108{,}079$,
 \[
-n = \frac{n_0}{1 + \frac{n_0 - 1}{N}} \approx 383,
+n = \frac{n_0}{1 + \frac{n_0 - 1}{N}} \approx 384,
 \]
 which we round up to 385 documents. Because the correction is negligible at this population size, the sample size is effectively independent of $N$.
 
