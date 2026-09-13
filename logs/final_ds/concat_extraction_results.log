@@ -1,0 +1,2 @@
+2026-08-22 09:18:11,234 | INFO | Merging 108079 JSON files from data/extraction/repaired_fact_checked
+2026-08-22 09:21:20,439 | INFO | Done. Merged 108079 entries into data/extraction/repaired_fact_checked/repaired_fact_checked_merged.jsonl

@@ -1,0 +1,8 @@
+2026-06-19 12:05:38,719 - INFO - PDF inventory started | input=./data/retrieval/merged/oax_slim.jsonl | pdf_dir=./data/retrieval/merged/pdfs
+2026-06-19 12:05:38,722 - INFO - Total slim JSONL entries: 334893
+2026-06-19 12:05:38,724 - INFO - Entries with valid OpenAlex work ID: 334893
+2026-06-19 12:05:38,725 - INFO - Entries missing valid OpenAlex work ID: 0
+2026-06-19 12:05:38,726 - INFO - Entries with downloaded PDF: 88644
+2026-06-19 12:05:38,727 - INFO - Entries missing downloaded PDF: 246249
+2026-06-19 12:05:38,728 - INFO - Valid PDFs found on disk: 88650
+2026-06-19 12:05:38,729 - INFO - Downloaded PDF coverage: 26.47%

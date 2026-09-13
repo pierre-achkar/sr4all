@@ -1,0 +1,87 @@
+2026-08-08 16:39:00,604 | INFO | Selected 54084 of 108167 inputs (shard 1/2).
+2026-08-08 16:39:04,600 | INFO | 54084 to repair, 0 already done, under /home/fhg/pie65738/projects/sr4all/data/extraction/fact_checked
+2026-08-08 16:39:35,704 | INFO | Loading tokenizer and config for Qwen/Qwen3.6-27B...
+2026-08-08 16:39:36,528 | INFO | No rope scaling. max_model_len=262144 (native 262144).
+2026-08-08 16:41:16,156 | INFO | Engine ready (StructuredOutputs). prompt_overhead=2388 max_doc_tokens=243372 fingerprint=274cd90339b5
+2026-08-08 16:41:16,157 | INFO | Repair prompt hash: 68ae13122db0
+2026-08-08 17:24:05,370 | WARNING | W1/W1542707062: JSON_PARSE_ERROR: Unterminated string starting at: line 29 column 26 (char 2127); deferred
+2026-08-08 18:19:33,298 | WARNING | W1/W1728736679: JSON_PARSE_ERROR: Unterminated string starting at: line 443 column 31 (char 49097); deferred
+2026-08-08 19:34:08,833 | WARNING | W1/W1898013468: JSON_PARSE_ERROR: Unterminated string starting at: line 21 column 24 (char 1003); deferred
+2026-08-08 20:22:27,938 | WARNING | W1/W1956340193: JSON_PARSE_ERROR: Unterminated string starting at: line 16 column 26 (char 575); deferred
+2026-08-08 23:10:02,618 | WARNING | W2/W200435910: JSON_PARSE_ERROR: Unterminated string starting at: line 16 column 26 (char 388); deferred
+2026-08-09 00:52:54,298 | WARNING | W2/W2028997235: JSON_PARSE_ERROR: Expecting ',' delimiter: line 10312 column 1 (char 43914); deferred
+2026-08-09 09:30:13,349 | WARNING | W2/W2131178862: JSON_PARSE_ERROR: Unterminated string starting at: line 20 column 26 (char 743); deferred
+2026-08-09 11:24:33,559 | WARNING | W2/W2148324198: JSON_PARSE_ERROR: Unterminated string starting at: line 42 column 26 (char 3175); deferred
+2026-08-09 14:53:53,639 | WARNING | W2/W2229313429: JSON_PARSE_ERROR: Unterminated string starting at: line 12 column 26 (char 387); deferred
+2026-08-09 16:54:36,843 | WARNING | W2/W2320913727: JSON_PARSE_ERROR: Unterminated string starting at: line 23 column 26 (char 1535); deferred
+2026-08-09 17:51:03,015 | WARNING | W2/W2339818439: JSON_PARSE_ERROR: Unterminated string starting at: line 16 column 26 (char 526); deferred
+2026-08-10 00:20:33,946 | WARNING | W2/W2577728922: JSON_PARSE_ERROR: Unterminated string starting at: line 59 column 26 (char 2313); deferred
+2026-08-10 03:42:52,232 | WARNING | W2/W2616033665: JSON_PARSE_ERROR: Unterminated string starting at: line 12 column 26 (char 293); deferred
+2026-08-10 07:25:45,369 | WARNING | W2/W2757470023: JSON_PARSE_ERROR: Unterminated string starting at: line 8 column 26 (char 140); deferred
+2026-08-10 09:53:58,201 | WARNING | W2/W2780266880: JSON_PARSE_ERROR: Unterminated string starting at: line 28 column 26 (char 711); deferred
+2026-08-10 12:37:10,361 | WARNING | W2/W2799507200: JSON_PARSE_ERROR: Unterminated string starting at: line 55 column 26 (char 2537); deferred
+2026-08-10 16:23:24,879 | WARNING | W2/W2887060049: JSON_PARSE_ERROR: Unterminated string starting at: line 20 column 26 (char 667); deferred
+2026-08-10 21:54:24,943 | WARNING | W2/W2913872037: JSON_PARSE_ERROR: Unterminated string starting at: line 20 column 26 (char 493); deferred
+2026-08-10 22:36:30,700 | WARNING | W2/W2916547244: JSON_PARSE_ERROR: Unterminated string starting at: line 57 column 7 (char 61087); deferred
+2026-08-10 23:00:16,945 | WARNING | W2/W2917996871: JSON_PARSE_ERROR: Unterminated string starting at: line 12 column 26 (char 382); deferred
+2026-08-11 03:20:46,364 | WARNING | W2/W2953631133: JSON_PARSE_ERROR: Unterminated string starting at: line 12 column 26 (char 513); deferred
+2026-08-11 05:40:17,384 | WARNING | W2/W2969051968: JSON_PARSE_ERROR: Unterminated string starting at: line 24 column 26 (char 518); deferred
+2026-08-11 09:58:24,012 | WARNING | W2/W2990977189: JSON_PARSE_ERROR: Unterminated string starting at: line 11 column 24 (char 244); deferred
+2026-08-11 12:47:05,330 | WARNING | W3/W3005721967: JSON_PARSE_ERROR: Unterminated string starting at: line 7 column 24 (char 124); deferred
+2026-08-11 15:07:09,684 | WARNING | W3/W3017268399: JSON_PARSE_ERROR: Unterminated string starting at: line 3 column 24 (char 51); deferred
+2026-08-11 16:04:25,769 | WARNING | W3/W3022982008: JSON_PARSE_ERROR: Unterminated string starting at: line 2716 column 7 (char 49339); deferred
+2026-08-11 19:24:41,247 | WARNING | W3/W3042103749: JSON_PARSE_ERROR: Unterminated string starting at: line 173 column 26 (char 62970); deferred
+2026-08-11 21:46:46,080 | WARNING | W3/W3082288237: JSON_PARSE_ERROR: Unterminated string starting at: line 20 column 26 (char 365); deferred
+2026-08-12 03:28:12,682 | WARNING | W3/W3115985147: JSON_PARSE_ERROR: Unterminated string starting at: line 68 column 26 (char 3982); deferred
+2026-08-12 12:25:39,987 | WARNING | W3/W3164214140: JSON_PARSE_ERROR: Unterminated string starting at: line 24 column 31 (char 1045); deferred
+2026-08-12 18:47:31,559 | WARNING | W3/W3198354414: JSON_PARSE_ERROR: Expecting ',' delimiter: line 12 column 18507 (char 18802); deferred
+2026-08-13 02:36:57,218 | WARNING | W4/W4206462308: JSON_PARSE_ERROR: Unterminated string starting at: line 1113 column 31 (char 53482); deferred
+2026-08-13 10:30:01,331 | WARNING | W4/W4226287603: JSON_PARSE_ERROR: Unterminated string starting at: line 444 column 26 (char 53938); deferred
+2026-08-13 13:58:09,577 | WARNING | W4/W4281955794: JSON_PARSE_ERROR: Expecting ',' delimiter: line 20 column 16250 (char 17234); deferred
+2026-08-13 19:08:52,907 | WARNING | W4/W4289936909: JSON_PARSE_ERROR: Unterminated string starting at: line 39 column 26 (char 879); deferred
+2026-08-13 19:38:44,201 | WARNING | W4/W4290989688: JSON_PARSE_ERROR: Unterminated string starting at: line 12 column 26 (char 336); deferred
+2026-08-14 00:20:13,442 | WARNING | W4/W4302288086: JSON_PARSE_ERROR: Expecting ',' delimiter: line 12 column 16954 (char 17218); deferred
+2026-08-14 03:13:13,956 | WARNING | W4/W4308680771: JSON_PARSE_ERROR: Expecting ',' delimiter: line 14339 column 1 (char 135821); deferred
+2026-08-14 09:10:17,560 | WARNING | W4/W4316466030: JSON_PARSE_ERROR: Expecting ',' delimiter: line 23 column 16519 (char 16910); deferred
+2026-08-14 21:14:14,903 | WARNING | W4/W4379142132: JSON_PARSE_ERROR: Unterminated string starting at: line 114 column 7 (char 48486); deferred
+2026-08-15 07:48:22,889 | WARNING | W4/W4386998277: JSON_PARSE_ERROR: Unterminated string starting at: line 15 column 24 (char 312); deferred
+2026-08-15 09:44:25,434 | WARNING | W4/W4387564472: JSON_PARSE_ERROR: Unterminated string starting at: line 119 column 26 (char 45418); deferred
+2026-08-15 11:08:13,905 | WARNING | W4/W4387998555: JSON_PARSE_ERROR: Unterminated string starting at: line 74 column 26 (char 16848); deferred
+2026-08-15 17:36:48,344 | WARNING | W4/W4390510516: JSON_PARSE_ERROR: Unterminated string starting at: line 1538 column 26 (char 52923); deferred
+2026-08-15 20:20:29,080 | WARNING | W4/W4391288370: JSON_PARSE_ERROR: Expecting ',' delimiter: line 21 column 16784 (char 17940); deferred
+2026-08-15 21:22:26,234 | WARNING | W4/W4391542122: JSON_PARSE_ERROR: Unterminated string starting at: line 7 column 24 (char 124); deferred
+2026-08-16 02:15:55,615 | WARNING | W4/W4393167367: JSON_PARSE_ERROR: Unterminated string starting at: line 12 column 26 (char 350); deferred
+2026-08-16 03:17:28,661 | WARNING | W4/W4393871666: JSON_PARSE_ERROR: Unterminated string starting at: line 8 column 26 (char 140); deferred
+2026-08-16 07:37:40,381 | WARNING | W4/W4396877246: JSON_PARSE_ERROR: Unterminated string starting at: line 23 column 26 (char 1731); deferred
+2026-08-17 02:11:38,244 | WARNING | W4/W4405387409: JSON_PARSE_ERROR: Expecting ',' delimiter: line 15028 column 10 (char 145849); deferred
+2026-08-17 05:10:57,170 | WARNING | W4/W4406482697: JSON_PARSE_ERROR: Unterminated string starting at: line 44 column 26 (char 48252); deferred
+2026-08-17 08:52:32,192 | WARNING | W4/W4408157076: JSON_PARSE_ERROR: Unterminated string starting at: line 3 column 24 (char 46); deferred
+2026-08-17 09:53:53,686 | WARNING | W4/W4408567703: JSON_PARSE_ERROR: Unterminated string starting at: line 28 column 26 (char 578); deferred
+2026-08-17 18:08:55,101 | WARNING | W4/W4411783819: JSON_PARSE_ERROR: Expecting ',' delimiter: line 16351 column 1 (char 139108); deferred
+2026-08-18 02:50:58,904 | WARNING | W4/W4415516986: JSON_PARSE_ERROR: Expecting value: line 2644 column 1 (char 54694); deferred
+2026-08-18 05:13:23,095 | INFO | Repair complete in 822726.9s
+2026-08-18 05:13:23,100 | INFO | Summary:
+{
+  "documents_total": 54084,
+  "skipped_existing": 0,
+  "too_long": 135,
+  "repaired_documents": 33766,
+  "repaired_fields": 49365,
+  "field_repaired:snowballing": 19375,
+  "no_new_data": 19667,
+  "field_repaired:research_questions": 2487,
+  "field_repaired:exact_boolean_queries": 9704,
+  "field_repaired:objective": 1074,
+  "field_repaired:year_range": 1914,
+  "field_repaired:keywords_used": 3120,
+  "field_repaired:n_studies_initial": 4115,
+  "field_repaired:n_studies_final": 1795,
+  "field_repaired:exclusion_criteria": 3268,
+  "passthrough_clean": 461,
+  "field_repaired:databases_used": 800,
+  "field_repaired:inclusion_criteria": 1713,
+  "deferred_generation_error": 55,
+  "elapsed_seconds": 822726.94,
+  "repair_prompt_hash": "68ae13122db0",
+  "max_repair_rounds": 1
+}

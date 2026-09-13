@@ -1,0 +1,12 @@
+2026-02-23 09:30:27,417 - INFO - Starting merge+dedup pipeline
+2026-02-23 09:30:27,418 - INFO - Input filtered path: ./data/retrieval/filtered/oax_sr_title_english_refs.jsonl
+2026-02-23 09:30:27,418 - INFO - Input benchmark path: ./data/retrieval/benchmark_data/oax_benchmark_data.jsonl
+2026-02-23 09:33:22,795 - INFO - Total before merge | filtered=325114
+2026-02-23 09:33:22,799 - INFO - Total before merge | benchmark=65588
+2026-02-23 09:33:22,808 - INFO - Total after concatenation (before dedup)=390702
+2026-02-23 09:33:23,471 - INFO - Dedup stage=doi | input=390702 | duplicates=48691 | missing_key=3167 | output=342011
+2026-02-23 09:33:23,977 - INFO - Dedup stage=openalex | input=342011 | duplicates=0 | missing_key=0 | output=342011
+2026-02-23 09:33:26,348 - INFO - Dedup stage=normalized_title | input=342011 | duplicates=7118 | missing_key=0 | output=334893
+2026-02-23 09:34:39,397 - INFO - Duplicate summary | doi=48691 | openalex=0 | normalized_title=7118
+2026-02-23 09:34:39,397 - INFO - Final total clean records=334893
+2026-02-23 09:34:39,397 - INFO - Output written to ./data/retrieval/merged/oax_merged_dedup.jsonl

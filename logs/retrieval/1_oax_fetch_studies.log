@@ -1,0 +1,54 @@
+2026-02-22 10:51:51,800 INFO Using 5 OpenAlex API key(s) in rotation
+2026-02-22 10:51:55,145 INFO OpenAlex meta.count=433200 for query '"systematic review"|"systematic literature review"'
+2026-02-22 10:54:03,993 INFO Saved shard 000 with 10000 works to ./data/raw/oax_sr_full.part000.json
+2026-02-22 10:56:17,358 INFO Saved shard 001 with 10000 works to ./data/raw/oax_sr_full.part001.json
+2026-02-22 10:58:27,880 INFO Saved shard 002 with 10000 works to ./data/raw/oax_sr_full.part002.json
+2026-02-22 11:00:33,838 INFO Saved shard 003 with 10000 works to ./data/raw/oax_sr_full.part003.json
+2026-02-22 11:02:41,161 INFO Saved shard 004 with 10000 works to ./data/raw/oax_sr_full.part004.json
+2026-02-22 11:04:47,447 INFO Saved shard 005 with 10000 works to ./data/raw/oax_sr_full.part005.json
+2026-02-22 11:06:59,123 INFO Saved shard 006 with 10000 works to ./data/raw/oax_sr_full.part006.json
+2026-02-22 11:09:10,065 INFO Saved shard 007 with 10000 works to ./data/raw/oax_sr_full.part007.json
+2026-02-22 11:11:16,014 INFO Saved shard 008 with 10000 works to ./data/raw/oax_sr_full.part008.json
+2026-02-22 11:13:22,965 INFO Saved shard 009 with 10000 works to ./data/raw/oax_sr_full.part009.json
+2026-02-22 11:15:26,313 INFO Saved shard 010 with 10000 works to ./data/raw/oax_sr_full.part010.json
+2026-02-22 11:17:32,208 INFO Saved shard 011 with 10000 works to ./data/raw/oax_sr_full.part011.json
+2026-02-22 11:19:36,361 INFO Saved shard 012 with 10000 works to ./data/raw/oax_sr_full.part012.json
+2026-02-22 11:21:43,791 INFO Saved shard 013 with 10000 works to ./data/raw/oax_sr_full.part013.json
+2026-02-22 11:23:51,930 INFO Saved shard 014 with 10000 works to ./data/raw/oax_sr_full.part014.json
+2026-02-22 11:25:56,477 INFO Saved shard 015 with 10000 works to ./data/raw/oax_sr_full.part015.json
+2026-02-22 11:28:01,160 INFO Saved shard 016 with 10000 works to ./data/raw/oax_sr_full.part016.json
+2026-02-22 11:30:02,581 INFO Saved shard 017 with 10000 works to ./data/raw/oax_sr_full.part017.json
+2026-02-22 11:32:05,417 INFO Saved shard 018 with 10000 works to ./data/raw/oax_sr_full.part018.json
+2026-02-22 11:34:08,462 INFO Saved shard 019 with 10000 works to ./data/raw/oax_sr_full.part019.json
+2026-02-22 11:36:10,496 INFO Saved shard 020 with 10000 works to ./data/raw/oax_sr_full.part020.json
+2026-02-22 11:38:10,531 INFO Saved shard 021 with 10000 works to ./data/raw/oax_sr_full.part021.json
+2026-02-22 11:40:11,338 INFO Saved shard 022 with 10000 works to ./data/raw/oax_sr_full.part022.json
+2026-02-22 11:42:12,388 INFO Saved shard 023 with 10000 works to ./data/raw/oax_sr_full.part023.json
+2026-02-22 11:44:14,111 INFO Saved shard 024 with 10000 works to ./data/raw/oax_sr_full.part024.json
+2026-02-22 11:46:13,403 INFO Saved shard 025 with 10000 works to ./data/raw/oax_sr_full.part025.json
+2026-02-22 11:48:11,490 INFO Saved shard 026 with 10000 works to ./data/raw/oax_sr_full.part026.json
+2026-02-22 11:50:06,136 INFO Saved shard 027 with 10000 works to ./data/raw/oax_sr_full.part027.json
+2026-02-22 11:52:03,379 INFO Saved shard 028 with 10000 works to ./data/raw/oax_sr_full.part028.json
+2026-02-22 11:53:55,959 INFO Saved shard 029 with 10000 works to ./data/raw/oax_sr_full.part029.json
+2026-02-22 11:55:48,843 INFO Saved shard 030 with 10000 works to ./data/raw/oax_sr_full.part030.json
+2026-02-22 11:57:43,242 INFO Saved shard 031 with 10000 works to ./data/raw/oax_sr_full.part031.json
+2026-02-22 11:59:35,712 INFO Saved shard 032 with 10000 works to ./data/raw/oax_sr_full.part032.json
+2026-02-22 12:01:17,595 INFO Saved shard 033 with 10000 works to ./data/raw/oax_sr_full.part033.json
+2026-02-22 12:02:53,682 INFO Saved shard 034 with 10000 works to ./data/raw/oax_sr_full.part034.json
+2026-02-22 12:04:31,372 INFO Saved shard 035 with 10000 works to ./data/raw/oax_sr_full.part035.json
+2026-02-22 12:06:09,023 INFO Saved shard 036 with 10000 works to ./data/raw/oax_sr_full.part036.json
+2026-02-22 12:07:47,412 INFO Saved shard 037 with 10000 works to ./data/raw/oax_sr_full.part037.json
+2026-02-22 12:09:26,947 INFO Saved shard 038 with 10000 works to ./data/raw/oax_sr_full.part038.json
+2026-02-22 12:11:06,812 INFO Saved shard 039 with 10000 works to ./data/raw/oax_sr_full.part039.json
+2026-02-22 12:12:49,581 INFO Saved shard 040 with 10000 works to ./data/raw/oax_sr_full.part040.json
+2026-02-22 12:14:31,504 INFO Saved shard 041 with 10000 works to ./data/raw/oax_sr_full.part041.json
+2026-02-22 12:16:11,220 INFO Saved shard 042 with 10000 works to ./data/raw/oax_sr_full.part042.json
+2026-02-22 12:16:41,384 INFO Saved shard 043 with 3200 works to ./data/raw/oax_sr_full.part043.json
+2026-02-22 12:16:41,458 INFO Run summary: meta.count=433200 pulled=433200 shards=44
+2026-02-22 12:28:31,540 INFO Found by OpenAlex (meta.count): 433200
+2026-02-22 12:28:31,543 INFO Downloaded works (before dedupe): 433200
+2026-02-22 12:28:31,543 INFO Deduplication results: input=433200 output=433092 removed_total=108
+2026-02-22 12:28:31,543 INFO Duplicates filtered by DOI: 108
+2026-02-22 12:28:31,543 INFO Duplicates filtered by OpenAlex ID: 0
+2026-02-22 12:28:31,543 INFO Duplicates filtered by normalized title: 0
+2026-02-22 12:28:31,544 INFO Saved merged JSON list to: ./data/raw/oax_sr_full.json

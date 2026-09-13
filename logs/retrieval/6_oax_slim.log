@@ -1,0 +1,21 @@
+2026-02-28 10:21:03,818 - INFO - Starting slimming from ./data/retrieval/merged/oax_merged_dedup.jsonl
+2026-02-28 10:23:07,877 - INFO - Slimming finished | total_records=334893 | output=./data/retrieval/merged/oax_slim.jsonl
+2026-02-28 10:23:07,879 - INFO - Field coverage | field=id | filled=334893 | missing=0 | pct=100.00
+2026-02-28 10:23:07,879 - INFO - Field coverage | field=title | filled=334893 | missing=0 | pct=100.00
+2026-02-28 10:23:07,879 - INFO - Field coverage | field=doi | filled=331824 | missing=3069 | pct=99.08
+2026-02-28 10:23:07,879 - INFO - Field coverage | field=abstract | filled=232628 | missing=102265 | pct=69.46
+2026-02-28 10:23:07,879 - INFO - Field coverage | field=year | filled=334891 | missing=2 | pct=100.00
+2026-02-28 10:23:07,879 - INFO - Field coverage | field=type | filled=334893 | missing=0 | pct=100.00
+2026-02-28 10:23:07,879 - INFO - Field coverage | field=source | filled=327151 | missing=7742 | pct=97.69
+2026-02-28 10:23:07,879 - INFO - Field coverage | field=cited_by_count | filled=334893 | missing=0 | pct=100.00
+2026-02-28 10:23:07,879 - INFO - Field coverage | field=referenced_works_count | filled=334893 | missing=0 | pct=100.00
+2026-02-28 10:23:07,879 - INFO - Field coverage | field=referenced_works | filled=334893 | missing=0 | pct=100.00
+2026-02-28 10:23:07,879 - INFO - Field coverage | field=is_oa | filled=334893 | missing=0 | pct=100.00
+2026-02-28 10:23:07,879 - INFO - Field coverage | field=pdf_url | filled=222368 | missing=112525 | pct=66.40
+2026-02-28 10:23:07,879 - INFO - Field coverage | field=language | filled=334893 | missing=0 | pct=100.00
+2026-02-28 10:23:07,879 - INFO - Field coverage | field=field | filled=331479 | missing=3414 | pct=98.98
+2026-02-28 10:23:07,879 - INFO - Field coverage | field=subfield | filled=331479 | missing=3414 | pct=98.98
+2026-02-28 10:23:07,879 - INFO - Field coverage | field=topics | filled=331479 | missing=3414 | pct=98.98
+2026-02-28 10:23:07,879 - INFO - Field coverage | field=keywords | filled=326629 | missing=8264 | pct=97.53
+2026-02-28 10:23:07,879 - INFO - Field coverage | field=concepts | filled=326629 | missing=8264 | pct=97.53
+2026-02-28 10:23:07,879 - INFO - Field coverage | field=authors | filled=334350 | missing=543 | pct=99.84

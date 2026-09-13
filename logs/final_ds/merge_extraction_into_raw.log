@@ -1,0 +1,9 @@
+2026-08-22 10:45:08,285 | INFO | MERGE COMPLETE
+2026-08-22 10:45:08,285 | INFO | Extraction records:       108079
+2026-08-22 10:45:08,285 | INFO | Unique extraction IDs:    108079
+2026-08-22 10:45:08,285 | INFO | Duplicate extraction IDs: 0
+2026-08-22 10:45:08,285 | INFO | OpenAlex records:         334893
+2026-08-22 10:45:08,285 | INFO | Matched records:          108079
+2026-08-22 10:45:08,285 | INFO | Unmatched OpenAlex:       226814
+2026-08-22 10:45:08,285 | INFO | Output:                   data/final_ds/oax_slim_with_extraction.jsonl
+2026-08-22 10:45:08,285 | INFO | Five-row sample:          data/final_ds/oax_slim_with_extraction_sample_5.jsonl

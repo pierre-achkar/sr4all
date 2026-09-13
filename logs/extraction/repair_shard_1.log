@@ -1,0 +1,65 @@
+2026-08-08 16:39:00,649 | INFO | Selected 54083 of 108167 inputs (shard 2/2).
+2026-08-08 16:39:03,825 | INFO | 54083 to repair, 0 already done, under /home/fhg/pie65738/projects/sr4all/data/extraction/fact_checked
+2026-08-08 16:39:35,704 | INFO | Loading tokenizer and config for Qwen/Qwen3.6-27B...
+2026-08-08 16:39:36,517 | INFO | No rope scaling. max_model_len=262144 (native 262144).
+2026-08-08 16:41:17,568 | INFO | Engine ready (StructuredOutputs). prompt_overhead=2388 max_doc_tokens=243372 fingerprint=274cd90339b5
+2026-08-08 16:41:17,568 | INFO | Repair prompt hash: 68ae13122db0
+2026-08-08 18:22:27,508 | WARNING | W1/W1818177119: JSON_PARSE_ERROR: Unterminated string starting at: line 28 column 26 (char 504); deferred
+2026-08-08 19:45:38,756 | WARNING | W1/W1964544207: JSON_PARSE_ERROR: Unterminated string starting at: line 20 column 26 (char 586); deferred
+2026-08-08 21:07:33,345 | WARNING | W1/W1980008668: JSON_PARSE_ERROR: Unterminated string starting at: line 26 column 26 (char 3655); deferred
+2026-08-08 22:52:34,720 | WARNING | W2/W2009683697: JSON_PARSE_ERROR: Unterminated string starting at: line 28 column 26 (char 504); deferred
+2026-08-09 00:12:53,608 | WARNING | W2/W2028029127: JSON_PARSE_ERROR: Unterminated string starting at: line 302 column 24 (char 12984); deferred
+2026-08-09 05:16:09,553 | WARNING | W2/W2096379724: JSON_PARSE_ERROR: Unterminated string starting at: line 24 column 26 (char 694); deferred
+2026-08-09 06:50:32,070 | WARNING | W2/W2106879636: JSON_PARSE_ERROR: Unterminated string starting at: line 19 column 26 (char 1053); deferred
+2026-08-09 10:18:46,837 | WARNING | W2/W2136331471: JSON_PARSE_ERROR: Unterminated string starting at: line 12 column 26 (char 210); deferred
+2026-08-09 12:18:10,959 | WARNING | W2/W2154570293: JSON_PARSE_ERROR: Unterminated string starting at: line 25 column 26 (char 1061); deferred
+2026-08-09 12:39:07,171 | WARNING | W2/W2155330885: JSON_PARSE_ERROR: Unterminated string starting at: line 12 column 26 (char 461); deferred
+2026-08-09 14:14:29,746 | WARNING | W2/W2167923959: JSON_PARSE_ERROR: Unterminated string starting at: line 28 column 26 (char 619); deferred
+2026-08-09 18:55:18,849 | WARNING | W2/W2340245259: JSON_PARSE_ERROR: Unterminated string starting at: line 24 column 26 (char 507); deferred
+2026-08-09 19:57:16,342 | WARNING | W2/W2399175161: JSON_PARSE_ERROR: Unterminated string starting at: line 111 column 26 (char 2798); deferred
+2026-08-10 00:32:09,453 | WARNING | W2/W2551063919: JSON_PARSE_ERROR: Unterminated string starting at: line 54 column 26 (char 1286); deferred
+2026-08-10 06:18:59,214 | WARNING | W2/W2625748658: JSON_PARSE_ERROR: Unterminated string starting at: line 20 column 26 (char 891); deferred
+2026-08-10 07:55:33,842 | WARNING | W2/W2741412919: JSON_PARSE_ERROR: Unterminated string starting at: line 12 column 26 (char 384); deferred
+2026-08-10 10:53:06,157 | WARNING | W2/W2767030821: JSON_PARSE_ERROR: Unterminated string starting at: line 141 column 31 (char 58710); deferred
+2026-08-10 17:46:53,547 | WARNING | W2/W2807648942: JSON_PARSE_ERROR: Unterminated string starting at: line 45 column 31 (char 53303); deferred
+2026-08-11 01:03:43,652 | WARNING | W2/W2912775138: JSON_PARSE_ERROR: Unterminated string starting at: line 28 column 26 (char 858); deferred
+2026-08-11 03:36:02,391 | WARNING | W2/W2928490003: JSON_PARSE_ERROR: Unterminated string starting at: line 533 column 24 (char 22663); deferred
+2026-08-11 08:07:21,915 | WARNING | W2/W2960673536: JSON_PARSE_ERROR: Unterminated string starting at: line 12 column 26 (char 309); deferred
+2026-08-11 19:54:20,550 | WARNING | W3/W3028072138: JSON_PARSE_ERROR: Expecting ',' delimiter: line 42 column 15859 (char 18103); deferred
+2026-08-11 21:05:10,826 | WARNING | W3/W3034070092: JSON_PARSE_ERROR: Unterminated string starting at: line 11 column 24 (char 254); deferred
+2026-08-12 02:00:13,306 | WARNING | W3/W3087128437: JSON_PARSE_ERROR: Unterminated string starting at: line 3 column 24 (char 51); deferred
+2026-08-12 15:42:21,598 | WARNING | W3/W3166599028: JSON_PARSE_ERROR: Unterminated string starting at: line 15 column 24 (char 466); deferred
+2026-08-13 04:14:08,494 | WARNING | W4/W4205877800: JSON_PARSE_ERROR: Unterminated string starting at: line 78 column 24 (char 11195); deferred
+2026-08-13 13:02:03,298 | WARNING | W4/W4233220529: JSON_PARSE_ERROR: Unterminated string starting at: line 8 column 26 (char 140); deferred
+2026-08-14 07:52:18,591 | WARNING | W4/W4311425381: JSON_PARSE_ERROR: Expecting ',' delimiter: line 459807 column 1 (char 467159); deferred
+2026-08-15 03:47:02,353 | WARNING | W4/W4384338741: JSON_PARSE_ERROR: Unterminated string starting at: line 12 column 26 (char 315); deferred
+2026-08-15 08:50:52,830 | WARNING | W4/W4386565590: JSON_PARSE_ERROR: Unterminated string starting at: line 107 column 26 (char 45068); deferred
+2026-08-16 01:22:46,216 | WARNING | W4/W4392546844: JSON_PARSE_ERROR: Unterminated string starting at: line 155 column 26 (char 50801); deferred
+2026-08-16 23:25:49,434 | WARNING | W4/W4403749870: JSON_PARSE_ERROR: Unterminated string starting at: line 11 column 24 (char 281); deferred
+2026-08-17 07:22:16,381 | WARNING | W4/W4407114061: JSON_PARSE_ERROR: Unterminated string starting at: line 12 column 26 (char 309); deferred
+2026-08-18 04:50:55,927 | INFO | Repair complete in 821378.4s
+2026-08-18 04:50:55,930 | INFO | Summary:
+{
+  "documents_total": 54083,
+  "skipped_existing": 0,
+  "repaired_documents": 33755,
+  "repaired_fields": 49706,
+  "field_repaired:snowballing": 19220,
+  "field_repaired:exact_boolean_queries": 10069,
+  "field_repaired:n_studies_initial": 4060,
+  "field_repaired:n_studies_final": 1841,
+  "field_repaired:exclusion_criteria": 3346,
+  "field_repaired:year_range": 1990,
+  "field_repaired:keywords_used": 3189,
+  "no_new_data": 19743,
+  "field_repaired:research_questions": 2380,
+  "too_long": 138,
+  "field_repaired:objective": 1043,
+  "field_repaired:inclusion_criteria": 1838,
+  "passthrough_clean": 414,
+  "field_repaired:databases_used": 730,
+  "deferred_generation_error": 33,
+  "elapsed_seconds": 821378.36,
+  "repair_prompt_hash": "68ae13122db0",
+  "max_repair_rounds": 1
+}

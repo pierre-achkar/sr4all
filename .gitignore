@@ -56,7 +56,6 @@ cover/
 *.pot
 
 # Django stuff:
-*.log
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
@@ -224,8 +223,6 @@ data/
 # images dir
 images/
 
-# logs dir
-logs/
 
 # jobs dir
 jobs/
@@ -249,3 +246,5 @@ logs_old/
 rag4report/
 AGENTS.md
 .factcheck_venv
+*.jsonl
+*.json

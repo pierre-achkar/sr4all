@@ -1,0 +1,16 @@
+2026-02-22 13:27:29,919 - INFO - Starting strict filtering ...
+2026-02-22 13:31:44,357 - INFO - SUMMARY | Total: 433092 | Kept: 325114 | Drops: EmptyRefList(83272), NotEnglish(2923), IsUpdate(2631), NotStrictTitle(19152), 
+2026-02-22 13:31:44,361 - INFO - TitleMatchedTotal(English+StrictTitle): 408386
+2026-02-22 13:31:44,361 - INFO - TitleMatch | phrase='systematic review of' | count=70234
+2026-02-22 13:31:44,361 - INFO - TitleMatch | phrase='systematic review in' | count=727
+2026-02-22 13:31:44,362 - INFO - TitleMatch | phrase='systematic review on' | count=6692
+2026-02-22 13:31:44,362 - INFO - TitleMatch | phrase='systematic literature review of' | count=863
+2026-02-22 13:31:44,362 - INFO - TitleMatch | phrase='systematic literature review in' | count=64
+2026-02-22 13:31:44,362 - INFO - TitleMatch | phrase='systematic literature review on' | count=215
+2026-02-22 13:31:44,362 - INFO - TitleMatch | phrase='systematic literature review:' | count=26
+2026-02-22 13:31:44,362 - INFO - TitleMatch | phrase='a systematic review' | count=314365
+2026-02-22 13:31:44,363 - INFO - TitleMatch | phrase='a systematic literature review' | count=5226
+2026-02-22 13:31:44,363 - INFO - TitleMatch | phrase='systematic review and meta-analysis' | count=9865
+2026-02-22 13:31:44,363 - INFO - TitleMatch | phrase='systematic literature review and meta-analysis' | count=109
+2026-02-22 13:33:01,217 - INFO - Saved filtered JSONL -> ./data/filtered/oax_sr_title_english_refs.jsonl| count=325114
+2026-02-22 13:33:13,457 - INFO - Saved empty refs JSONL -> ./data/filtered/oax_sr_title_english_empty_refs.jsonl | count=83272

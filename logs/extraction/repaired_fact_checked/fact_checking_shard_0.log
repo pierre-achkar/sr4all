@@ -1,0 +1,49 @@
+2026-08-19 09:50:42,420 | INFO | Selected 54040 of 108079 inputs (shard 1/2).
+2026-08-19 09:50:46,339 | INFO | 54040 to check, 0 already done, under /home/fhg/pie65738/projects/sr4all/data/extraction/repaired_aligned
+2026-08-19 09:51:06,306 | INFO | Using CUDA device 0: NVIDIA H100 80GB HBM3
+2026-08-19 09:51:06,306 | INFO | Initializing FactChecker with Bespoke-MiniCheck-7B...
+2026-08-19 09:51:12,101 | INFO | Reminder: Please set the CUDA device before initializing the LLMCheck object.
+2026-08-19 09:51:12,103 | INFO | Using bfloat16 for LLM initialization.
+2026-08-19 09:51:12,464 | WARNING | Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-08-19 09:51:48,778 | INFO | MiniCheck loaded.
+2026-08-19 10:29:34,148 | INFO | Complete in 2265.4s
+2026-08-19 10:29:34,149 | INFO | Summary:
+{
+  "documents": {
+    "written": 54040
+  },
+  "claims_by_field": {
+    "database_source:fail": 48079,
+    "database_source:pass": 15367,
+    "databases_used:fail": 2126,
+    "databases_used:pass": 216914,
+    "exclusion_criteria:fail": 3683,
+    "exclusion_criteria:pass": 172876,
+    "inclusion_criteria:fail": 2169,
+    "inclusion_criteria:pass": 217219,
+    "keywords_used:fail": 25889,
+    "keywords_used:pass": 364706,
+    "n_studies_final:fail": 1073,
+    "n_studies_final:pass": 46421,
+    "n_studies_initial:fail": 2242,
+    "n_studies_initial:pass": 42854,
+    "objective:fail": 459,
+    "objective:pass": 50153,
+    "research_questions:fail": 1097,
+    "research_questions:pass": 16726,
+    "snowballing:fail": 18403,
+    "snowballing:pass": 12108,
+    "year_range:fail": 1085,
+    "year_range:pass": 29633
+  },
+  "thresholds": {
+    "VERIFIED": 0.35,
+    "NOISY": 0.2,
+    "UNKNOWN": 0.3
+  },
+  "checker": {
+    "model_name": "Bespoke-MiniCheck-7B",
+    "chunk_size": 128,
+    "enable_prefix_caching": true
+  }
+}

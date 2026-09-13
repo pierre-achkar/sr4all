@@ -1,0 +1,14 @@
+Documents compared: 108079
+FIELD | BASELINE_FILLED | BASELINE_PCT | REPAIRED_FILLED | REPAIRED_PCT | ABS_CHANGE | PCT_POINT_CHANGE
+------------------------------------------------------------------------------------------------------------------------
+objective | 99060 | 91.7% | 100203 | 92.7% | 1143 | 1.1 percentage points
+research_questions | 13959 | 12.9% | 17686 | 16.4% | 3727 | 3.4 percentage points
+n_studies_initial | 82268 | 76.1% | 85852 | 79.4% | 3584 | 3.3 percentage points
+n_studies_final | 91334 | 84.5% | 92733 | 85.8% | 1399 | 1.3 percentage points
+year_range | 57552 | 53.2% | 59253 | 54.8% | 1701 | 1.6 percentage points
+snowballing | 68900 | 63.7% | 70434 | 65.2% | 1534 | 1.4 percentage points
+keywords_used | 74842 | 69.2% | 79141 | 73.2% | 4299 | 4.0 percentage points
+exact_boolean_queries | 14971 | 13.9% | 18586 | 17.2% | 3615 | 3.3 percentage points
+databases_used | 98556 | 91.2% | 98980 | 91.6% | 424 | 0.4 percentage points
+inclusion_criteria | 94427 | 87.4% | 96527 | 89.3% | 2100 | 1.9 percentage points
+exclusion_criteria | 76043 | 70.4% | 79529 | 73.6% | 3486 | 3.2 percentage points

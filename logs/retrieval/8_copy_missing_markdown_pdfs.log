@@ -1,0 +1,8 @@
+2026-06-19 14:16:06,918 - INFO - Starting missing-markdown PDF copy | pdf_dir=./data/retrieval/merged/pdfs | parsed_md_dir=/storage/remote/DevStorage/sr4all | missing_pdf_dir=/storage/remote/DevStorage/sr4all_missing_pdfs
+2026-06-19 14:26:07,989 - INFO - Total valid downloaded PDFs: 88650
+2026-06-19 14:26:07,993 - INFO - Already parsed to markdown: 43348
+2026-06-19 14:26:07,993 - INFO - Still to parse: 45302
+2026-06-19 14:26:07,993 - INFO - Copied to missing folder in this run: 45302
+2026-06-19 14:26:07,993 - INFO - Already present in missing folder: 0
+2026-06-19 14:26:07,994 - INFO - Parsed coverage: 48.90%
+2026-06-19 14:26:07,994 - INFO - Missing coverage: 51.10%
