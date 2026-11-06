@@ -3,7 +3,7 @@
 \small
 \sffamily
 \renewcommand{\arraystretch}{1.15}
-\caption{Data record overview for review records in \webisSRCorpus. \textit{Key(s)} denotes the top-level JSON keys in the released file, and \textit{Description} summarizes their content.}
+\caption{Complete top-level schema for review records in \webisSRCorpus. \textit{Key(s)} denotes the top-level JSON keys in the released file, and \textit{Description} summarizes their content.}
 \label{tab:data-record-reviews}
 
 \begin{tabular}{@{}p{1.9cm}p{4.8cm}p{7.7cm}@{}}
@@ -16,20 +16,20 @@ Identifiers &
 OpenAlex work identifier and DOI for the review record. \\
 
 Metadata &
-\texttt{title}, \texttt{abstract}, \texttt{year}, \texttt{type}, \texttt{source}, \texttt{language} &
-Core bibliographic metadata for each review. \\
+\texttt{title}, \texttt{abstract}, \texttt{year}, \texttt{type}, \texttt{source}, \texttt{language}, \texttt{is\_oa} &
+Core bibliographic and open-access metadata for each review. \\
 
 Subject labels &
-\texttt{field}, \texttt{subfield}, \texttt{topics}, \texttt{keywords} &
-OpenAlex field assignments and topical annotations. \\
+\texttt{field}, \texttt{subfield}, \texttt{topics}, \texttt{concepts}, \texttt{keywords} &
+OpenAlex field assignments, concepts, and topical annotations. \\
 
 Authorship &
 \texttt{authors} &
 Author identifiers, names, and affiliation strings, where available. \\
 
-Citation data &
-\parbox[t]{4.8cm}{\texttt{cited\_by\_count}, \texttt{referenced\_works\_count}, \texttt{referenced\_works}, \texttt{references\_abstract\_}\\\texttt{coverage}} &
-Citation counts, resolved OpenAlex reference list, and summary information about abstract coverage among referenced works. \\
+Reference and citation data &
+\parbox[t]{4.8cm}{\texttt{cited\_by\_count}, \texttt{referenced\_works\_count}, \texttt{referenced\_works}} &
+Citation counts and the resolved OpenAlex reference list. \\
 
 Access &
 \texttt{pdf\_url} &
@@ -41,15 +41,15 @@ Extracted statements of the review objective and explicit research questions. \\
 
 Search strategy &
 \parbox[t]{4.8cm}{\texttt{keywords\_used}, \texttt{exact\_boolean\_queries}, \texttt{databases\_used}, \texttt{snowballing}} &
-Extracted search terms, normalized Boolean queries, named databases, and citation-chasing indicator. \\
+Extracted search terms and reported Boolean queries, named databases, and citation-chasing indicator. \\
 
 Eligibility and flow &
 \parbox[t]{4.8cm}{\texttt{inclusion\_criteria}, \texttt{exclusion\_criteria}, \texttt{n\_studies\_initial}, \texttt{n\_studies\_final}} &
 Extracted eligibility criteria and study-count information from the review workflow. \\
 
 Temporal scope &
-\parbox[t]{4.8cm}{\texttt{year\_range}, \texttt{year\_range\_normalized}, \\\texttt{year\_range\_normalization\_rule}} &
-Reported search-year restrictions, their normalized form, and the applied normalization rule. \\
+\texttt{year\_range} &
+Normalized temporal search restriction, represented as a year or year range when available. \\
 
 \bottomrule
 \end{tabular}

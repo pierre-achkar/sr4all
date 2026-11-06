@@ -248,3 +248,4 @@ AGENTS.md
 .factcheck_venv
 *.jsonl
 *.json
+paper/
