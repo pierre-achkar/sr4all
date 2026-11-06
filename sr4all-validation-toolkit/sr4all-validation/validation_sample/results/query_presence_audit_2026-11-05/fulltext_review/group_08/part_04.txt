@@ -1,0 +1,245 @@
+ 0.24–
+0.85)) but included only Japanese patients and the smal-
+lest overall number of patients.
+Ischemic stroke Nine SRs reported on ischemic stroke
+[28, 31, 47, 48, 50– 54]. They included seven different
+studies. All SRs found a small advantage for NOACs
+with one reaching statistical significance: Miller et al.
+[50] who reported an RR 0.87 (95% CI 0.77– 0.99) in
+favour of NOACs.
+Haemorrhagic stroke NOACs demonstrated a substan-
+tial advantage in reducing the risk of haemorrhagic
+strokes compared to warfarin across all nine SRs with
+seven underlying studies that examined this outcome
+[28, 31, 47, 48, 50, 52– 54, 64]. The strongest pooled ef-
+fect was reported by Sardar et al. [64] with an OR 0.37
+(95% CI 0.19– 0.72), and the smallest for the NOAC low
+dose subgroup by Jia et al. [54] (RR 0.33 (0.23– 0.46)).
+Mortality All the reviews showed a small benefit for
+NOACs compared to warfarin regarding mortality [28,
+29, 31, 47– 54, 64]. The effect estimates were highly con-
+sistent with a minimum RR of 0.874 (99% CI 0.803–
+0.974) [53] and a maximum RR of 0.91 (95% CI 0.85–
+0.96) [48] (see Fig. 3 and Table 2).
+Safety outcomes
+Safety outcomes were addressed by all included SRs ex-
+cept Adam et al. [31] who reported no safety outcomes
+for the subgroup of AF patients.
+Major bleeding Fourteen SRs reported on major bleed-
+ing and addressed 12 single studies [28– 30, 33, 47, 48,
+50– 54, 64– 66]. There was a high heterogeneity for this
+outcome but the pooled effect estimates consistently
+favoured NOACs across all eight studies and were statisti-
+cally significant in four studies [29, 51, 54, 66] (see Fig. 4).
+Intracranial bleeding A significant advantage for
+NOACs compared to warfarin was reported by all eight
+of nine reviews that reported on intracranial bleedings
+[28, 47, 49– 51, 54, 64– 66]. Seven single studies were in-
+cluded on this outcome in the SRs. All of these SRs
+The Author(s)BMC Geriatrics2017, 17(Suppl 1):223 Page 83 of 157
+
+[W2767010212 PDF PAGE 12]
+reported a pooled effect estimate (OR or RR) of less than
+0.5 in favour of NOACs. The effect was strongest in the
+two subgroups for low dose NOACs (see Fig. 5) [54, 66].
+Gastrointestinal bleeding Ten SRs reported on gastro-
+intestinal bleeding adressing 11 single studies [28, 33, 47,
+50, 51, 53, 54, 64– 66]. All of these reported an increased
+risk for patients on NOACs compared to warfarin with
+except of one, though the effect estimates were quite
+variable and statistically significant in only three cases
+[28, 47, 54]. Senoo et al. reported a lower risk for
+NOACs for gastrointestinal bleeding but inlcuded only
+japanese patients. Jia et al. [54] reported only for high
+dose NOACs an increased risk for gastrointestinal
+bleeding.
+Myocardial infarction Six SRs reported on myocardial
+infarction and included six studies [28, 47, 50– 52, 54].
+Only Jia et al. [54] reported a higher risk for myocardial
+infarction when comparing low dose of NOACs to war-
+farin (RR 1.25 (1.04– 1.50)). All other treatment effect
+estimates were close to a value of 1.0, inlcuding the
+comparison of high dose of NOACs vs. warfarin.
+Individual NOACs vs warfarin
+Additionally, nine of the included SRs compared a single
+NOAC with VKA [26, 32, 35, 40, 42, 46, 67– 69]. Two re-
+views exclusively included the comparison between dabi-
+gatran and VKA [35, 67]. Sharma et al. [26] performed a
+SR analysing patients aged 75 years or older and pre-
+sented subgroup results for patients with AF. Six SRs
+performed a network meta-analysis (NMA) [40, 42, 43,
+46, 67, 68] and four showed subgroup results for each
+NOAC [26, 32, 43, 69].
+Stroke/SE
+In the SRs presenting data on single NOACs, dabigatran
+was more effective for stroke prevention than VKA [35,
+67]. This effect was also present in subgroup data for
+older patients≥75 years [26, 32]. Sharma et al. [26]
+showed results for dabigatran 110 and 150 mg twice a
+day (BID) separately and the effect was only significant
+Fig. 2Stroke/SE: Found effects favouring NOACs compared to warfarin
+The Author(s)BMC Geriatrics2017, 17(Suppl 1):223 Page 84 of 157
+
+[W2767010212 PDF PAGE 13]
+Table 2Summary of study findings NOACs vs. VKA
+N
+studies
+Effect-
+model
+Effect
+measure
+Stroke/SE Ischemic stroke Haemorrhagic
+stroke
+Mortality Major bleeding Intracranial
+bleeding
+Gastrointestinal
+bleeding
+Myocardial
+infarction
+Adam et al. 2012
+[31]
+3 REM RR Not stated 0.89 (0.78 – 1.02) 0.48 (0.36 – 0.62) 0.8 (0.82 – 0.96) Not stated Not stated Not stated Not stated
+Baker et al.2012
+[53]
+4 REM RR 0.797 (99% CI 0.695 – 0.914) 0.880 (99% CI
+0.742– 1.044)
+0.445 (99% CI
+0.269– 0.768)
+RR: 0.874 (99% CI
+0.803– 0.974)
+0.878 (99% CI
+0.664– 1.160)
+Not stated 1.254 (99% CI
+0.827– 1.901)
+Not stated
+Briceno et al. [29] 5 REM OR 0.84 (0.72 – 0.97) subgroup
+>75 years: 0.77 (0.68– 0.87)
+Not stated Not stated 0.89 (0.84 – 0.94) 0.794 (0.647 –
+0.973)
+Not stated Not stated Not stated
+Capodanno et al.
+2013 [47]
+3 REM OR 0.82 (0.74 – 0.91) 0.93 (0.82 – 1.05) 0.44 (0.30 – 0.66) 0.88 (0.82 – 0.95) 0.85 (0.69 – 1.05) 0.46 (0.38 – 0.55) 1.68 (1.03 – 2.72) 0.99 (0.71 – 1.38)
+Dogliotti et al.
+2013 [48]
+5 REM RR 0.82 (0.69 – 0.98) 0.87 (0.72 – 1.06) 0.49 (0.35 – 0.70) 0.91 (0.85 – 0.96) 0.84 (0.70 – 1.00) Not stated Not stated Not stated
+Holster et al. 2013
+[33]
+8 REM OR Not stated Not stated Not stated Not stated 0.93 (0.75 – 1.16) Not stated 1.21 (0.91 – 1.61) Not stated
+Jia et al. [54] 5 REM RR 0.86 (0.75 – 0.99)
+high dose 0.80 (0.71– 0.91)
+low dose 1.03 (0.84– 1.27)
+high dose 0.93
+(0.84– 1.03)
+low dose 1.13(1.14– 1.49)
+high dose 0.50
+(0.41– 0.62)
+low dose 0.33(0.23– 0.46)
+high dose 0.90
+(0.85– 0.95)
+low dose 0.89(0.83– 0.96)
+0.78 (0.64– 0.94)
+high dose 0.86(0.74– 0.99)
+low dose 0.63(0.38– 1.04)
+high dose 0.48
+(0.41– 0.56)
+low dose 0.31(0.24– 0.41)
+high dose 1.24
+(1.10– 1.39)
+low dose 0.52(0.19– 1.00)
+high dose 0.97
+(0.85– 1.11)
+low dose 1.25(1.04– 1.50)
+Lega et al. [30] 3 REM RR >75 years: 0.77 (0.67 – 0.89)
+<75 years: 0.83 (0.71– 0.96)
+Not stated Not stated Not stated >75 years: 0.90
+(0.82– 1.00)
+<75 years: 0.73(0.65– 0.81)
+Not stated Not stated Not stated
+Liew et al. 2014
+[49]
+4 REM RR Not stated Not stated Not stated 0.89 (0.85 – 0.94) Not stated 0.42 (0.34 – 0.53) Not stated Not stated
+Miller et al. 2012
+[50]
+3 REM RR 0.78 (0.67 – 0.92) 0.87 (0.77 – 0.99) 0.45 (0.31 – 0.68) 0.88 (0.82 – 0.95) 0.88 (0.71 – 1.09) 0.49 (0.36 – 0.66) 1.25 (0.91 – 1.72) 0.96 (0.73 – 1.26)
+Providência et al.
+2014 [51]
+7 REM RR 0.84 (0.74 – 0.95) 0.97 (0.83 – 1.14) Not stated 0.90 (0.86 – 0.95) 0.79 (0.67 – 0.93) 0.49 (0.37 – 0.63) 1.07 (0.86 – 1.34) 1.01 (0.83 – 1.24)
+Rong et al. 2015
+[66]
+4 REM RR Not stated Not stated Not stated Not stated 0.77 (0.63 – 0.95)
+high dose: 0.86(0.73– 1.01)
+low dose: 0.63(0.38– 1.04)
+0.42 (0.34– 0.52)
+high dose: 0.48(0.39– 0.59)
+low dose: 0.31(0.24– 0.41)
+1.10 (0.86– 1.41)
+high dose: 1.25(0.99– 1.57)
+low dose: 0.87(0.54– 1.40)
+Not stated
+Ruff et al. 2014
+[28]
+4 REM RR 0.81 (0.73 – 0.91) 0.92 (0.83 – 1.02) 0.49 (0.38 – 0.64) 0.90 (0.85 – 0.95) 0.86 (0.73 – 1.00) 0.48 (0.39 – 0.59) 1.25 (1.,01 – 1.55) 0.97 (0.78 – 1.20)
+Sardar et al. 2013
+[64]
+3 REM OR 0.85 (0.74 – 0.99) Not stated 0.37 (0.19 – 0.72) 0.90 (0.79 – 1.02) 0.84 (0.69 –
+1.03) 0.42 (0.25 – 0.70) 1.17 (0.76 – 1.80) Not stated
+Senoo et al. [65] 3 REM RR 0.45 (0.24 – 0.85) Not stated Not stated Not stated 0.66 (0.29 – 1.47) 0.46 (0.18 – 1.16) 0.52 (0.25 – 1.08) Not stated
+3 FEM OR 0.92 (0.83 – 1.02) 0.93 (0.83 – 1.05) 0.43 (0.34 – 0.55) 0.90 (0.84 – 0.96) Not stated Not stated 1.03 (0.89 – 1.20)
+The Author(s)BMC Geriatrics2017, 17(Suppl 1):223 Page 85 of 157
+
+[W2767010212 PDF PAGE 14]
+Table 2Summary of study findings NOACs vs. VKA(Continued)
+Testa et al. 2012
+[52]
+EC 0.98 (0.91–
+1.07)
+NOACs vs. warfarin or ASA or VKA vs. NOACs/PAI (not included in analysis)
+Chatterje et al.
+2013 [63]
+6 REM OR Not stated Not stated Not stated Not stated Not stated OR 0.49 (0.36 –
+0.65)
+Not stated Not stated
+Sardar et al.
+2014 [32]
+4 REM OR 0.65 (0.48 – 0.87) Not stated Not stated Not stated 0.82 (0.58 – 1.16) Not stated Not stated Not stated
+Agarwal et al.
+2012
+8 FEM RR 1.44 (1.18 – 1.78) Not stated Not stated Not stated Not stated Not stated Not stated Not stated
+95% Confidence intervals are provided unless otherwise reported
+FEM fixed effect model,OR odds ratio, REM random effect model,RR relative risk
+The Author(s)BMC Geriatrics2017, 17(Suppl 1):223 Page 86 of 157
+
+[W2767010212 PDF PAGE 15]
+for higher doses of dabigatran. Sharma et al. [26] found
+a better effect in reducing stroke for apixaban compared
+to VKA in the subgroup of participants with AF. Rivar-
+oxaban was as effective as warfarin regarding this out-
+come. Except for apixaban these results were based on
+one study for each drug only [26].
+Schneeweiss et al. [69] performed a subgroup ana-
+lysis for patients with CHADS2 score ≥ 3 with similar
+results with a significant reduction of stroke for dabi-
+gatran 150 mg BID and apixaban, but not for dabiga-
+tran 110 mg BID and rivaroxaban. Roskell et al. [67]
+reviewed the data from the RE-LY trial and showed
+significantly fewer ischemic stroke events with dabiga-
+tran 150 mg twice a day (RR 0.76, 95% CI 0.58– 0.97)
+and fewer intracranial haemorrhage events (RR 0.52,
+95% CI 0.32– 0.84). Systemic embolism, mortality, ex-
+tracranial haemorrhage and acute myocardial infarc-
+tion did not significantly differ between the two
+treatment groups. Two NMA showed non-inferiority
+to warfarin for all single NOACs in the prevention of
+stroke [40, 42]. Two NMA showed an advantage for
+dabigatran [68] and two for apixaban [46, 68]. Three
+NMA [40, 67, 68] reported about ischemic stroke and
+only dabigatran 150 mg BID was superior to warfarin
+in one NMA [68]. Lin et al. [43] was the only NMA
+also including non-rando mized trials but reported
+only an advantage for dabigatran 150 mg.
+Mortality
+Only edoxaban 30 mg showed a significant advantage
+compared to warfarin regarding mortality [26]. In the in-
+direct comparisons, significant differences were found in
+two NMAs for apixaban which was as

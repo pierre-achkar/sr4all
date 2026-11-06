@@ -1,0 +1,180 @@
+Yaroslava Zemlyanska 1, Dimple Butani 2, Suchin Virabhak 3, 
+David Bruce Matchar 3,4, Thittaya Prapinvanich 5 and 
+Yot Teerawattananon 1,2
+1 Saw Swee Hock School of Public Health, National University of Singapore, Singapore, Singapore, 
+2 Health Intervention and Technology Assessment Program (HITAP), Ministry of Public Health, Bangkok, 
+Thailand, 3 Precision Health Research, Singapore (PRECISE), Singapore, Singapore, 4 Duke-NUS Medical 
+School, Singapore, Singapore, 5 Yale-NUS College, Singapore, Singapore
+Objective: This study aimed to quantify heterogeneity in the value for money of 
+precision medicine (PM) by application types across contexts and conditions and 
+to quantify sources of heterogeneity to areas of particular promises or concerns 
+as the field of PM moves forward.
+Methods: A systemic search was performed in Embase, Medline, EconLit, and CRD 
+databases for studies published between 2011 and 2021 on cost-effectiveness 
+analysis (CEA) of PM interventions. Based on a willingness-to-pay threshold of 
+one-time GDP per capita of each study country, the net monetary benefit (NMB) 
+of PM was pooled using random-effects meta-analyses. Sources of heterogeneity 
+and study biases were examined using random-effects meta-regressions, 
+jackknife sensitivity analysis, and the biases in economic studies checklist.
+Results: Among the 275 unique CEAs of PM, publicly sponsored studies found 
+neither genetic testing nor gene therapy cost-effective in general, which 
+was contradictory to studies funded by commercial entities and early stage 
+evaluations. Evidence of PM being cost-effective was concentrated in a genetic 
+test for screening, diagnosis, or as companion diagnostics (pooled NMBs, 
+$48,152, $8,869, $5,693, p  <  0.001), in the form of multigene panel testing (pooled 
+NMBs  =  $31,026, p  <  0.001), which only applied to a few disease areas such as 
+cancer and high-income countries. Incremental effectiveness was an essential 
+value driver for varied genetic tests but not gene therapy.
+Conclusion: Precision medicine’s value for money across application types and 
+contexts was difficult to conclude from published studies, which might be subject 
+to systematic bias. The conducting and reporting of CEA of PM should be locally 
+based and standardized for meaningful comparisons.
+KEYWORDS
+precision medicine, medical genetics, economic evaluation, value for money, systematic 
+review, meta-analysis, cost effectiveness
+OPEN ACCESS
+EDITED BY
+Yingying Xu,  
+Beihang University, China
+REVIEWED BY
+Mario Dioguardi,  
+University of Foggia, Italy  
+Theo Vos,  
+University of Washington, United States
+*CORRESPONDENCE
+Wenjia Chen  
+ wenjiach@nus.edu.sg
+RECEIVED 26 January 2023
+ACCEPTED 04 October 2023
+PUBLISHED 24 November 2023
+CITATION
+Chen W, Wong NCB, Wang Y, Zemlyanska Y, 
+Butani D, Virabhak S, Matchar DB, 
+Prapinvanich T and Teerawattananon Y (2023) 
+Mapping the value for money of precision 
+medicine: a systematic literature review and 
+meta-analysis.
+Front. Public Health 11:1151504.
+doi: 10.3389/fpubh.2023.1151504
+COPYRIGHT
+© 2023 Chen, Wong, Wang, Zemlyanska, 
+Butani, Virabhak, Matchar, Prapinvanich and 
+Teerawattananon. This is an open-access 
+article distributed under the terms of the 
+Creative Commons Attribution License (CC BY). 
+The use, distribution or reproduction in other 
+forums is permitted, provided the original 
+author(s) and the copyright owner(s) are 
+credited and that the original publication in this 
+journal is cited, in accordance with accepted 
+academic practice. No use, distribution or 
+reproduction is permitted which does not 
+comply with these terms.
+TYPE Systematic Review
+PUBLISHED 24 November 2023
+DOI 10.3389/fpubh.2023.1151504
+
+[W4389030918 PDF PAGE 2]
+Chen et al. 10.3389/fpubh.2023.1151504
+Frontiers in Public Health 02 frontiersin.org
+Introduction
+Precision medicine (PM) is a novel medical approach that tailors 
+intervention decisions based on expression profiling of individual 
+phenotypes and genotypes or directly corrects pathogenic gene 
+mutations (1, 2). The rapid evolvement of PM technology ( 3, 4) has 
+led to global efforts of introducing PM into the existing healthcare 
+settings to transform healthcare ( 5–8). However, the clinical 
+adoption rate of PM remains low ( 9–13), and due to the lack of 
+knowledge about PM’s value for money, the incentives among key 
+stakeholders are poorly aligned to catalyze its development and 
+adoption (9, 12, 14).
+Cost-effectiveness analysis (CEA) provides a systemic 
+framework to inform such decisions which, over a relevant time 
+horizon of expected PM benefits and within the context of societal 
+willingness-to-pay thresholds (WTP) for such benefits, assesses the 
+cost of an intervention relative to the expected health gains in 
+standard terms, such as quality-adjusted life year (QALY) ( 15). 
+CEAs are commonly used to inform public and private sectors’ 
+reimbursement decisions, clinical guidelines, benefit designs, and 
+price negotiations (16) (“conventional CEA ”), and help in decisions 
+regarding product profile development and research priorities at an 
+early clinical cycle (“early CEA ”) (17). To guide research, practice, 
+and policy related to PM, it is valuable to have a detailed 
+understanding of the CEA literature, focusing on how a reported 
+value is related to contexts and conditions of PM interventions, as 
+well as specifications and potential biases of CEAs. Previous reports 
+have described the general relationship between various 
+characteristics of PMs studied and estimated cost-effectiveness ( 18, 
+19). However, previous reports have not formally assessed this 
+literature using meta-analytic approaches.
+This study aimed to quantify heterogeneity in the value for money 
+of PM by pooling the net monetary benefits (NMBs) across the types 
+of PM application [(1) screening for genetic conditions that predispose 
+to disease, (2) early diagnosis, (3) prediction of disease progression, 
+(4) companion diagnostic for targeting drug selection, and (5) gene 
+therapy for established condition], as well as other contexts related to 
+PM technology, disease domain, clinical stage, country capacity, and 
+funder types. A secondary objective was to quantify sources of 
+heterogeneity in PM’s value for money in the areas of particular 
+promise or concern as the field of PM moves forward.
+Methods
+The review was reported following the Preferred Reporting 
+Items  for Systematic Reviews and Meta-Analyses guidelines ( 20), 
+and the protocol was recently published (PROSPERO: 2021 
+CRD42021272956) (21).
+Search strategy and study selection
+We conducted the systematic search and study selection using 
+the Covidence platform ®. Embase, MEDLINE Ovid, EconLit, CRD, 
+and Web of Science databases were searched to identify relevant 
+studies published between January 1, 2011 and July 8, 2021, limited 
+to studies published in or translated into English. In addition, 
+we searched gray literature from reimbursement dossiers of several 
+HTA agencies. Appendix 1  presents the details of the search 
+strategies and search results for each database. To satisfy the 
+inclusion criteria, the study had to be original research of cost-
+effectiveness pertaining to human subjects, reporting costs and 
+either LYs, QALYs, disability-adjusted life years (DALYs), or 
+incremental cost-effectiveness ratios (ICERs), and the intervention 
+of interest had to conform to the working definition of PM ( 2). 
+Selected studies with overlapped contents were excluded by five 
+independent reviewers.
+Data extraction
+Data were independently extracted by five reviewers which 
+included characteristics of study (author’s name, publication year, 
+geographic region, country-income level, type of funders, and conflict 
+of interest), study population (target population, cascade testing, age, 
+sex, disease areas, and associated prevalence and mortality rates), PM 
+intervention (intervention type, profiling method, developmental 
+stage, clinical pathways, test accuracy, uptake, and treatment 
+compliance), comparators, outcomes (economic and effectiveness 
+parameters, surrogate outcome, data source, and willingness-to-pay 
+thresholds), and modeling (study perspective, time horizon, model 
+type, discount rates, measures of dispersion, and uncertainty). 
+Meanwhile, the risk of bias in the CEAs was assessed using the 
+modified economic evaluations bias (ECOBIAS) checklist (22), which 
+assesses sources of heterogeneity and bias in the overall structure and 
+model of economic evaluations.
+Data harmonization and statistical analysis
+The statistical analysis was performed using Stata MP version 
+17. The primary outcome was the net monetary benefit (NMB), 
+which measures the difference between a monetized equivalent of 
+incremental effectiveness (i.e., multiplied by a WTP threshold) 
+and the incremental cost of new technology. Based on the central 
+limit theorem, NBM is distributed normally and thus commonly 
+used for quantitative analysis of CEAs ( 19, 23, 24). Although the 
+standard practice typically uses nationally specific WTP 
+thresholds, to enable global comparison that involves low- and 
+middle-income countries (LMICs), we  followed the 
+recommendation of the World Health Organization (WHO) and 
+World Bank (25) that defined the WTP threshold as the one-time 
+national gross domestic product (GDP) per capita  as of the study 
+year. To standardize costing data, all NMBs were first inflated to 
+the 2020 currency of that study country and then converted to 
+2020 USD ($) according to the consumer price index and exchange 
+rate from the World Bank ( 26).
+Following the latest guideline for data harmonization in meta-
+analyses of CEAs (27), we prepared NMB data, with details and the 
+published protocol described in Appendix 2 ( 21). Through data 
+harmonization, the NMB and its variance were consistently calculated 
+by comparing PM to a conventional intervention strategy. Based on 
+the COMER methodology ( 28), we  performed a random

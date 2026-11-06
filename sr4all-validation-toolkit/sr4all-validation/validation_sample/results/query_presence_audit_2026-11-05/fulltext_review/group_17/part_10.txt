@@ -1,0 +1,189 @@
+d cautiously.
+Keywords:Pain, Palliative care, Chinese adults with cancer, Meta-analysis
+Background
+Pain is one of the most common and distressing symp-
+toms in cancer patients, either because of the disease it-
+self or the related treatments. The prevalence rate of
+pain was 50.7% in all cancer stages, and 66.4% in ad-
+vanced stage; moderate to severe pain was reported by
+38.0% of all patients, and by 51.9% in advanced stage [ 1].
+Cancer pain could impair patients ’ quality of life [ 2] and
+was associated with numerous psychosocial distresses
+[3]. Unfortunately, approximately 33% of untreated can-
+cer pain have been amply documented [ 4], and thus pain
+control remains a core issue in cancer patient care.
+Contrary to traditional oncologic care, advanced can-
+cer patients received the treatment with palliative intent
+and the main emphasis placed on palliative care (PC) in
+some settings [ 5]. Considered as an interdisciplinary
+care, PC focuses on symptom control and provides psy-
+chosocial and other support (e.g., decision making) in
+order to improve quality of life for persons with serious
+illness [ 6]. Although pain control plays a central role in
+managing patients ’ distress under the process of PC, not
+© The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License ( http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+* Correspondence: ylyang@cmu.edu.cn
+†Xin-Xin Zhao and Meng Cui contributed equally to this work as first authors
+3Department of Social Medicine, School of Public Health, China Medical
+University, No.77 Puhe Road, Shenyang North New Area, Shenyang, Liaoning
+110122, People ’s Republic of China
+Full list of author information is available at the end of the article
+Zhao et al. BMC Palliative Care           (2019) 18:69 
+https://doi.org/10.1186/s12904-019-0456-z
+
+[W2966226515 PDF PAGE 2]
+much is generally known regarding the effects of PC on
+cancer pain.
+Due to multi-factorial etiology of cancer pain, the re-
+lated treatment should be based upon the bio-psycho-
+social approach [ 7]. Compared to the traditional pain-
+control methods, PC considers not only biomedical fac-
+tors but also patients ’ psychosocial and spiritual distress
+[6]. However, relatively few studies have been carried out
+to explore the effects of PC on cancer pain. The ran-
+domized controlled trials (RCTs) of PC paid more atten-
+tion to the evaluation of quality of life, symptom burden
+and psychological distress [ 8– 10], and systematic reviews
+mainly focused on the prevalence rate and severity of
+cancer pain [ 1, 11]. To the best of our knowledge, few
+meta-analysis of RCTs have evaluated the effects of PC
+on cancer pain.
+Among Chinese cancer patients, conducting such
+meta-analysis is vitally important for the following rea-
+sons. The first reason is attributed to the large number
+of Chinese cancer patients. The latest data revealed that
+the numbers of new cases and deaths were 4.292 million
+and 2.814 million, which accounted for 21.8 and 26.9%
+of global cancer population, respectively [ 12]; second,
+the development of PC originated in Western countries
+is in the initial stage in China, it is of importance to ex-
+plore whether PC could effectively alleviate cancer pain;
+third, several RCTs of PC on cancer pain have been pub-
+lished in Chinese journals, but there has not been a
+comprehensive meta-analysis to review these literatures
+and assess the effects of PC; finally, Chinese researchers
+paid more attention to traditional Chinese medicine
+[13– 15] rather than PC for reducing cancer pain, which
+could neglect the importance of PC to some extent.
+The aim of this meta-analysis was to perform a sys-
+tematic review and evaluate the effect of PC on reducing
+cancer pain reported by RCTs in an attempt to obtain
+accurate profile of cancer pain under PC in China.
+Methods
+Literature search
+A systematic search was conducted to identify published
+literatures about the effect of PC on cancer pain in
+China. The CNKI (China National Knowledge Infra-
+structure), Wanfang, Vip and CBM (Chinese Biomedical
+Literature Database), which are the four most compre-
+hensive Chinese academic databases, were searched from
+their inception until July 2019. The search was con-
+structed and performed by a professional medical librar-
+ian. In order to expand searches, Medline/PubMed, Web
+of Science (SCIE) and CINAHL (EBSCO) were also
+searched from their inception until July 2019 without
+language restrictions. Search strategies for domestic and
+international databases were shown in Additional file 1.
+The reference lists of relevant articles obtained were also
+screened. Additionally, the search keywords used for
+Google and Google Scholar search were: cancer, China
+and randomized controlled trials, in combination with
+palliative care, hospice care or terminal care. The
+screening of the abstracts/titles and full-text articles
+were performed twice by two authors (XXZ and MC) in-
+dependently to reduce reviewer bias.
+Inclusion and exclusion criteria
+We included all studies in which: (1) subjects age ≥
+18 years; (2) RCTs; (3) subjects were diagnosed with
+cancer; (4) pain was evaluated by well-validated mea-
+sures. We excluded studies in which: (1) PC was not
+described in details, which could not provide valuable
+leads for further research to conduct PC; (2) studies
+focused on the separate components of PC, such as
+psychosocial support, pain control or spiritual care;
+(3) studies did not provide the post-test score of can-
+cer pain. Eligibility judgment and data extraction were
+recorded and carried out independently by two au-
+thors (YHG and XXZ) in a st andardized manner. Any
+disagreements were resolved by discussion and the in-
+volvement of another author (YLY).
+Quality assessment
+The modified Jadad scale for assessing quality of RCTs
+was adopted in this study [ 16], which has been used in
+our previous meta-analysis [ 17]. The modified Jadad
+scale is an eight-item scale designed to assess
+randomization, blinding, withdrawals/dropouts, inclu-
+sion/exclusion criteria, adverse effects, and statistical
+analysis. In this meta-analysis, blinding (2 points) and
+adverse effects (1 point) were excluded due to the char-
+acteristics and effects of PC. Thus, the score for each
+study ranged from 0 (lowest quality) to 5 (highest qual-
+ity). We defined three categories: the study was consid-
+ered to have high quality (low risk of bias) if it scored 4
+points or above, studies that scored 1 point or below
+were categorized as having low quality (high risk of
+bias), studies that scored 2 or 3 points were considered
+as having medium quality (moderate risk of bias). Any
+disagreements with authors (XXZ and MC) were re-
+solved by discussion and the involvement of another au-
+thor (YLY).
+Data extraction
+We used the Endnote to do the screening, and employed
+the Excel to do the data extraction, which is a standard-
+ized data abstraction form designed to capture and code
+all relevant study-level information required for analysis.
+For the included studies, two authors independently ex-
+tracted data (YHG and MC). Disagreements were
+resolved by discussion and the involvement of another
+author (YLY). Extracted data included author name, year
+Zhao et al. BMC Palliative Care           (2019) 18:69 Page 2 of 10
+
+[W2966226515 PDF PAGE 3]
+of publication, age range and mean age, simple size, as-
+sessment instruments, cancer type, pharmacological/
+non-pharmacological strategies, care time, settings and
+the values of mean and standard deviation (SD) in ex-
+perimental-control group.
+Pain control in PC mainly included both pharmaco-
+logical and non-pharmacological strategies. Analgesic
+and adjuvant drugs are the most commonly used
+pharmacological strategies, which were endorsed and
+promoted by World Health Organization (WHO) in the
+now-famous ‘analgesic ladder ’ for managing cancer pain
+properly. Non-pharmacological strategies included sev-
+eral bio-psycho-social approaches, such as music ther-
+apy, psychological interventions (e.g., relaxation),
+traditional Chinese medicine (e.g., herbal, acupuncture,
+moxibustion, massage) and others. Data could not be ex-
+tracted when psychological interventions mainly focused
+on psychological distress rather than cancer pain.
+Meta-analysis
+Assessment of overall effect size
+We computed the effect size of standardized mean dif-
+ference (SMD) for each study by subtracting the average
+post-test score of the control group from that of the ex-
+perimental group and dividing the result by the pooled
+SDs of the experimental-control group. Means and SDs
+of cancer pain were used for computation of SMD
+(Cohen’s d). A SMD of 1 indicates a relatively stronger
+improvement in experimental group by one standard de-
+viation larger than the mean of control group. According
+to the expected heterogeneity across studies, the pooled
+random-effect estimates of SMD and 95% confidence in-
+tervals (CI) were used as the summary measure of effect
+size. Cohen ’s criteria were used to interpret the magni-
+tude of SMD [ 18]: a value of 0.20 – 0.50 corresponds to
+small effect sizes, 0.50 – 0.80 to medium and a value over
+0.80 to large effect sizes, which is also employed and
+supported by other studies [ 19– 21]. A two-tailed P value
+of < 0.05 was considered to be significant. Overall effects
+and other statistical analyses were analyzed using the
+statistical software Stata 11.0.
+Assessment of heterogeneity
+Heterogeneity was evaluated with the Q statistic and I 2
+statistic. The Q statistic is used to assess whether differ-
+ences 

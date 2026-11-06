@@ -1,0 +1,157 @@
+thods, summarized the results of 
+different testing methods, and further evaluated the best options for 
+syphilis screening. The main reason is that rapid testing can effectively 
+integrate testing and treatment, improve treatment compliance among 
+positive pregnant women, and effectively reduce the occurrence of 
+adverse pregnancy outcomes, especially in regions with limited 
+resources. In 2004, the WHO put forward the urgent need for new 
+POC diagnostic tests for bacterial sexually transmitted infections and 
+formulated standards to highlight that POC testing should 
+be  affordable, have reliable sensitivity and specificity, simple to 
+operate, require no training, quick, no need for refrigeration supply 
+chain, and no additional laboratory equipment (40, 41). Most of the 
+available syphilis POC tests detect antibodies against the syphilis 
+pathogen Treponema pallidum (TP) and can be used as a screening 
+test. Most studies included showed that POC tests were cost-effective 
+and would improve both maternal and infant outcomes compared to 
+the traditional tests (28, 29). The study in Tanzania found that the high 
+cost of the POC test might limit its cost-effectiveness value (25).
+Although repeated screening is recommended for high-risk 
+pregnant women (42–44), the evidence for economic evaluation is still 
+inadequate. The results of the articles included in this study show that 
+syphilis repeat screening in the third trimester of pregnancy might not 
+be cost-effective, but the areas implementing that intervention were 
+restricted to developed countries, such as the United Kingdom and the 
+United States (32, 34, 35). The conclusions remain heterogeneous. 
+Albright et  al. ( 32) found that it was unlikely that the universal 
+repeated screening for syphilis in the third trimester of pregnancy has 
+cost-effectiveness value in the environment with low syphilis 
+prevalence in the United States. In contrast, this study did not use 
+quality-adjusted life years as a measure of health outcomes, which 
+could underestimate the impact of CS on health quality. However, 
+Hersh et al. (34) showed that repeated syphilis screening on third-
+trimester pregnant women in the United  States may have cost-
+effectiveness value. In Hersh’s study, the incidence of maternal syphilis 
+was 0.00419%, while the probability of syphilis infection during 
+pregnancy was 0.012% (34). The higher incidence of syphilis infection 
+during pregnancy makes repeated screening during pregnancy more 
+cost-effective. However, the optimal interval between the first and 
+second tests is not considered, and it is unclear whether the cost-
+effectiveness deteriorates when the interval is shortened. Therefore, 
+the optimal time interval needs to be well-evaluated.
+Testing coverage for HIV is often higher than for syphilis, and the 
+integration of syphilis and HIV testing may improve the coverage of 
+syphilis testing (15, 45, 46). The genital ulcer disease caused by syphilis 
+infection can increase the risk of horizontal transmission of HIV 
+among the maternal population, making the infection rate of syphilis-
+infected maternal HIV higher than that in the general maternal 
+population (47–49). Syphilis infection during pregnancy can cause 
+pathological changes in the placenta, destroying the normal function 
+of the maternal-fetal circulatory system, thus affecting the growth and 
+development of the fetus and promoting the MTCT of HIV (50, 51). 
+The combined screening of syphilis and HIV for pregnant women can 
+not only significantly improve the coverage of screening but the results 
+of the overall cost-effectiveness studies included in this study showed 
+that the integrated screening was cost-effective and also cost-saving 
+(17–19, 27).
+The evaluation results of most of the studies included are 
+conservative, and the effects of screening interventions on high-risk 
+behaviors in mothers are not considered in the models, which may 
+underestimate the cost-effectiveness of screening. Some studies have 
+shown that the transmission rate of people who do not know their 
+infection is higher than those who know their conditions ( 52, 53). 
+Thus, maternal screening may reduce the risk of sexual transmission, 
+as well as the potential impact of encouraging positive maternal 
+partners to be tested, but these effects have not been considered. In 
+addition, most studies aimed to assess the health effects on infants and 
+do not include the health effects on mothers after pregnancy, and the 
+health output of maternal syphilis screening may be underestimated. 
+It is also important to assess the negative benefits, such as the 
+psychological burden on the mother, as these may significantly affect 
+the quality of life and thus the ultimate cost-effectiveness of screening. 
+Most studies have been conducted under the following assumptions: 
+(1) syphilis prevalence is the same among women who accept 
+screening and those who refuse, (2) the side effects of antiviral 
+
+[W4393042487 PDF PAGE 12]
+Zhang et al. 10.3389/fpubh.2024.1268653
+Frontiers in Public Health 12 frontiersin.org
+treatment are ignored, (3) the costs do not cover indirect medical 
+costs, and (4) syphilis screening results do not significantly affect 
+pregnant women’s reproductive choices.
+The cost-effectiveness analysis studies generally discount future 
+costs and health outcomes. Most of the studies included in this study 
+used discount rates ranging from 3 to 5%. One study used a discount 
+rate of 5% for costs and 3% for health outcomes (36). However, the 
+best discount rates and whether to use different discount rates for 
+costs and health outcomes remain controversial.
+Sensitivity analysis allows for a more accurate assessment of the 
+reliability of cost-effectiveness analysis results and minimizes the 
+uncertainty caused by the lack of accurate data on the key 
+parameters. All included studies used sensitivity analysis to evaluate 
+the stability of reported results, including one-dimensional 
+sensitivity analysis and probability sensitivity analysis. These studies 
+mainly focused on the impact of changes in the prevalence, 
+sensitivity, and specificity of syphilis testing, as well as the cost and 
+screening acceptance rate on the cost-effectiveness of screening. 
+However, it is increasingly difficult to accurately predict health 
+outcomes and lifetime costs as screening costs, therapeutic 
+regimens, and treatment costs are constantly changing. There was 
+also heterogeneity in the research perspectives of the included 
+studies, with some studies only considering costs incurred in the 
+healthcare perspective and not including indirect costs due to time 
+costs, which may also have an impact on the results, and others 
+were analyzed from the whole society perspective.
+This study also has some limitations. First, the literature included 
+in the study is mainly concentrated in a small number of countries, 
+mainly in Africa, which may lead to an overestimation of the actual 
+infection rate. Second, only three studies have evaluated related issues 
+in developed countries, which may also lead to limitations in 
+extrapolating our findings to developed countries. Third, most of the 
+studies included in this study focus on more specific local situations, 
+potentially creating limitations in generalizability. Finally, this study 
+included only the literature published in English, which may have had 
+a language bias effect on the results, leading to the miss of some other 
+potentially important studies.
+Conclusion
+Overall, this study presented a systematic review of published 
+evidence on the cost-effectiveness of syphilis screening in pregnancy 
+to provide a scientific basis for the development of appropriate 
+syphilis screening strategies. The cost-effectiveness of syphilis 
+screening in pregnancy compared with no screening has been 
+widely established. In resource-limited areas with high syphilis 
+incidence, rapid testing has the best cost-effectiveness value. In 
+developing countries with better health resources, screening 
+strategies based on more accurate serological tests are preferable. 
+Repeat syphilis screening strategies in the third trimester are less 
+likely to be  cost-effective in developed countries, where the 
+incidence of syphilis is low. While implementing the screening, it is 
+even important to improve compliance with maternal screening and 
+positive maternal treatment rates. Indeed, those with poor 
+adherence were more likely to be at high risk. Furthermore, syphilis 
+screening in combination with HIV screening should be advocated 
+and promoted. To effectively prevent MTCT of syphilis and 
+eliminate CS, in addition to adopting the strategy of syphilis 
+screening and treatment during pregnancy and childbirth, we also 
+need to strengthen education and supervision, pay attention to the 
+shame and fear of syphilis on pregnant women and their families, 
+and improve the compliance of syphilis screening and treatment for 
+pregnant women. In addition, strengthening international 
+cooperation to comprehensively improve and enhance the 
+availability of quality medical care is also the key to achieving the 
+goal of eliminating CS.
+Data availability statement
+The original contributions presented in the study are included in 
+the article/supplementary material, further inquiries can be directed 
+to the corresponding author.
+Author contributions
+MZ: Conceptualization, Data curation, Formal analysis, Funding 
+acquisition, Writing – original draft, Writing – review & editing. HZ: 
+Data curation, Writing – review & editing. XH: Data curation, Writing 
+– review & editing. HQ: Methodology, Writing – review & editing. JX: 
+Methodology, Writing – review & editing. FX: Writing – review & 
+editing. CS: Writing – review & editing. JH: Writing – review & 
+editing. YC: Writing – review & editing. MH: Conceptualization, 
+Funding acquisition, Writing – review & editing.
+Funding
+The author(s) declare financial support was received for the 

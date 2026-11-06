@@ -1,0 +1,187 @@
+rate variability in ovarian cancer survivors. Mediterr. J. Clin. Psychol.2022, 10. [CrossRef]
+87. Pruneti, C.; Guidotti, S. Cognition, Behavior, Sexuality, and Autonomic Responses of Women with Hypothalamic Amenorrhea.
+Brain Sci.2022, 12, 1448. [CrossRef] [PubMed]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+END REVIEW W4319018769
+
+
+REVIEW W4319654023
+TITLE: What Do We Mean When We Talk about Trust in Social Media? A Systematic Review
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4319654023 PDF PAGE 1]
+What Do We Mean When We Talk about Trust in Social Media?
+A Systematic Review
+Yixuan Zhang
+Georgia Institute of Technology
+Atlanta, GA, USA
+yixuan@gatech.edu
+Joseph D Gaggiano
+Georgia Institute of Technology
+Atlanta, GA, USA
+jgaggiano@gatech.edu
+Nutchanon Yongsatianchot
+Northeastern University
+Boston, MA, USA
+yongsatianchot.n@northeastern.edu
+Nurul M Suhaimi
+Universiti Malaysia Pahang
+Pahang, Malaysia
+nmsuhaimi@ump.edu.my
+Miso Kim
+Northeastern University
+Boston, MA, USA
+m.kim@northeastern.edu
+Yifan Sun
+William & Mary
+Williamsburg, VA, USA
+ysun25@wm.edu
+Jacqueline Griffin
+Northeastern University
+Boston, MA, USA
+ja.griffin@northeastern.edu
+Andrea G Parker
+Georgia Institute of Technology
+Atlanta, GA, USA
+andrea@cc.gatech.edu
+ABSTRACT
+Do people trust social media? If so, why, in what contexts, and
+how does that trust impact their lives? Researchers, companies,
+and journalists alike have increasingly investigated these questions,
+which are fundamental to understanding social media interactions
+and their implications for society. However, trust in social media
+is a complex concept, and there is conflicting evidence about the
+antecedents and implications of trusting social media content, users,
+and platforms. More problematic is that we lack basic agreement as
+to what trust means in the context of social media. Addressing these
+challenges, we conducted a systematic review to identify themes
+and challenges in this field. Through our analysis of 70 papers,
+we contribute a synthesis of how trust in social media is defined,
+conceptualized, and measured, a summary of trust antecedents in
+social media, an understanding of how trust in social media impacts
+behaviors and attitudes, and directions for future work.
+CCS CONCEPTS
+• Human-centered computing → Human computer interac-
+tion (HCI); Collaborative and social computing .
+KEYWORDS
+systematic review, social media, trust
+ACM Reference Format:
+Yixuan Zhang, Joseph D Gaggiano, Nutchanon Yongsatianchot, Nurul M
+Suhaimi, Miso Kim, Yifan Sun, Jacqueline Griffin, and Andrea G Parker. 2023.
+What Do We Mean When We Talk about Trust in Social Media? A Systematic
+Review. In Proceedings of the 2023 CHI Conference on Human Factors in
+Permission to make digital or hard copies of part or all of this work for personal or
+classroom use is granted without fee provided that copies are not made or distributed
+for profit or commercial advantage and that copies bear this notice and the full citation
+on the first page. Copyrights for third-party components of this work must be honored.
+For all other uses, contact the owner/author(s).
+CHI ’23, April 23–28, 2023, Hamburg, Germany
+© 2023 Copyright held by the owner/author(s).
+ACM ISBN 978-1-4503-9421-5/23/04.
+https://doi.org/10.1145/3544548.3581019
+Computing Systems (CHI ’23), April 23–28, 2023, Hamburg, Germany. ACM,
+New York, NY, USA, 22 pages. https://doi.org/10.1145/3544548.3581019
+1 INTRODUCTION & BACKGROUND
+Social media 1 has become an essential part of people’s daily rou-
+tines. As of 2022, around 4.48 billion people use social media world-
+wide; more than double the 2.07 billion people who used these
+platforms in 2015 [22]. A 2020 study showed that the average adult
+spent 180 minutes a day on social media, compared to 90 minutes
+in 2012 [41]. This large increase in social media use is particularly
+consequential because it influences people’s attitudes, decision-
+making, and behaviors [ 5, 25, 118]. A growing body of research
+has characterized how engagement on social media platforms, such
+as Facebook and Twitter, impacts health behaviors [39, 111] and
+political engagement [11], and how it influences attitudes towards
+societal issues, such as climate change [113] and vaccine safety [47].
+Given the centrality of social media in people’s daily life and the
+fact that our attitudes and behaviors are shaped by it, people have
+to decide which social media platforms, information, and users they
+can and should trust, with the understanding that not all trustees
+(i.e., who or what is being trusted) are credible online.
+As such, trust in social media, and a lack thereof, have become
+key topics of focus for researchers, businesses, and journalists alike.
+Over the past two decades, we have seen an increasing number
+of news articles [12, 100], reports (e.g., Twitter Investigation Re-
+port [ 105]), and scholarly publications investigating how, why,
+and with what implications people do or do not trust social me-
+dia [45, 84, 88, 99, 117]. As this body of work has grown, several
+challenges have simultaneously arisen. First, defining the concept
+of trust, characterizing how it is formed, and demonstrating how it
+impacts people is a complex endeavor. This complexity is evidenced
+by the lack of consensus on the meaning of “trust” in the context of
+social media”, the conflicting results from prior research regarding
+who and what strengthens trust in social media, and the diverse
+1In this paper, we define social media as any Internet-based platform that allows the
+creation and exchange of content, usually using either mobile or web-based technolo-
+gies [71], such as Facebook and Twitter, etc.
+arXiv:2302.03671v1  [cs.SI]  7 Feb 2023
+
+[W4319654023 PDF PAGE 2]
+CHI ’23, April 23–28, 2023, Hamburg, Germany Zhang et al.
+impacts of trust on people’s behaviors and attitudes [16, 39, 118].
+Beyond trust in social media, trust is an important concept that
+has been studied in HCI and other fields focused on information
+and technology. Prior reviews have systematically studied trust
+in several contexts, such as health information websites [57], mo-
+bile commerce [90], and artificial intelligence (AI)-enabled systems,
+including chatbots, robots, automated vehicles, and nonembod-
+ied algorithms[3, 52]. Yet, we see that the antecedents of trust
+uncovered in these reviews vary across contexts. For example, a
+systematic review focused on mobile commerce [90] identified a
+set of factors that influence users’ trust, including service quality
+and perceived ease of use of the platform. On the other hand, in a
+review focused on trust in AI [52], the authors summarized a set of
+AI-related antecedents of trust, which included the level of automa-
+tion used in the AI system and model performance. These existing
+reviews support the fact that trust is highly contextualized. As such,
+trust in social media is worthy of discussion and research in its own
+right. Despite a large body of work focused on trust in social media,
+we lack a synthesized understanding of the learnings, challenges,
+open questions, and implications for future work across this body
+of research. Such a synthesis is essential to support rigorous and
+impactful research moving forward.
+To address these challenges, we conducted a systematic review
+of prior research focused on trust in social media. Our work aimed
+to address four open research questions.
+First, trust is multifaceted and is a notoriously complex and nu-
+anced concept [ 64], and the understanding of trust also largely
+depends on the domain of study [38, 103] 2. Moreover, the terms
+“distrust” and “mistrust”—two highly-related concepts to trust—add
+another layer of complexity to the understanding of trust. The ar-
+gument is whether or not trust and distrust should be considered as
+one concept with two extremes or as two distinct concepts [16, 38].
+Therefore, there is a need for conceptual clarity in the context of
+trust in social media, to help focus, guide, and support compar-
+isons between future work. Accordingly, our first research question
+is: RQ1. How has existing work conceptualized and defined
+trust concepts (that include the concepts of trust, distrust,
+and mistrust) in social media?
+Second, a topic closely related to the definitions of trust is the
+measurements of it. “Good” measurements should capture and align
+with the definition of what is being measured in order to produce
+rigorous research [38, 51]. Accordingly, our next research question
+is: RQ2. How are trust conceptsin social media measured em-
+pirically?
+Third, prior research in HCI and other fields has sought to de-
+termine the antecedents of trust —that is, factors that can influence
+trust [38, 96]. However, there is a lack of a synthesized understand-
+ing regarding these antecedents of trust in social media. Specifically,
+it is unclear the extent to which the antecedents of trust identified
+in other contexts can be applied to social media, and what other
+unique antecedents may exist in this context. This lack of under-
+standing constrains our ability to examine how to address the issues
+of trust surrounding social media (e.g., how to create interventions
+for social media that combat misinformation). Therefore, our third
+2Scholars such as Blomqvist [6] and Gefen et al. [29] have complied a list of diverse
+meanings of trust across the fields of social psychology, philosophy, economics, law,
+and marketing.
+research question is: RQ3. What are the antecedents of trust
+concepts in social media?
+Lastly, it is also crucial to understand how trust in social media
+impacts people—the consequences of trust in social media. Exist-
+ing work has explored several ways in which trust in social

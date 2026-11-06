@@ -1,0 +1,181 @@
+):13–9.
+ 94. Zarcone MC, et al. Cellular response of mucociliary differenti-
+ated primary bronchial epithelial cells to diesel exhaust. Am J 
+Physiol Lung Cell Mol Physiol. 2016;311(1):L111–23.
+ 95. Vaughan A, et al. Primary human bronchial epithelial cell 
+responses to diesel and biodiesel emissions at an air-liquid inter-
+face. Toxicol In Vitro. 2019;57:67–75.
+ 96. Upadhyay S, et al. Establishment of repeated in vitro exposure 
+system for evaluating pulmonary toxicity of representative cri-
+teria air pollutants using advanced bronchial mucosa models. 
+Toxics. 2022. https:// doi. org/ 10. 3390/ toxic s1006 0277.
+ 97. Knebel JW, Ritter D, Aufderheide M. Exposure of human lung 
+cells to native diesel motor exhaust–development of an optimized 
+in vitro test strategy. Toxicol In Vitro. 2002;16(2):185–92.
+ 98. Yu T, et al. The use of a 0.20 mum particulate matter filter 
+decreases cytotoxicity in lung epithelial cells following air-liq-
+uid interface exposure to motorcycle exhaust. Environ Pollut. 
+2017;227:287–95.
+ 99. Cervena T, et al. Ordinary gasoline emissions induce a toxic 
+response in bronchial cells grown at air-liquid interface. Int J 
+Mol Sci. 2020. https:// doi. org/ 10. 3390/ ijms2 20100 79.
+ 100. Rossner P Jr, et al. The biological effects of complete gaso-
+line engine emissions exposure in a 3D human airway model 
+(MucilAir(TM)) and in human bronchial epithelial cells (BEAS-
+2B). Int J Mol Sci. 2019. https:// doi. org/ 10. 3390/ ijms2 02257 10.
+ 101. Rossner P, et al. Markers of lipid oxidation and inflammation in 
+bronchial cells exposed to complete gasoline emissions and their 
+organic extracts. Chemosphere. 2021;281: 130833.
+ 102. Bisig C, Petri-Fink A, Rothen-Rutishauser B. A realistic in vitro 
+exposure revealed seasonal differences in (pro-)inflammatory 
+effects from ambient air in Fribourg, Switzerland. Inhal Toxicol. 
+2018;30(1):40–8.
+ 103. Aufderheide M, Mohr U. Cultex–a new system and technique 
+for the cultivation and exposure of cells at the air/liquid inter -
+face. Exp Toxicol Pathol. 1999. https:// doi. org/ 10. 1016/ S0940- 
+2993(99) 80121-3.
+ 104. World Health Organization. WHO global air quality guidelines: 
+particulate matter (PM2.5 and PM10), ozone, nitrogen dioxide, 
+sulfur dioxide and carbon monoxide. Geneva: World Health 
+Organization; 2021. p. 290.
+ 105. Pfaller W, et al. Novel advanced in vitro methods for long-term 
+toxicity testing: the report and recommendations of ECVAM 
+workshop 45. European Centre for the Validation of Alternative 
+Methods. Altern Lab Anim. 2001;29(4):393–426. https:// doi. org/ 
+10. 1177/ 02611 92901 02900 407.
+ 106. O’Brien J, et al. Investigation of the Alamar blue (resazurin) 
+fluorescent dye for the assessment of mammalian cell cytotoxic-
+ity. Eur J Biochem. 2000;267(17):5421–6.
+ 107. Repetto G, del Peso A, Zurita JL. Neutral red uptake assay 
+for the estimation of cell viability/cytotoxicity. Nat Protoc. 
+2008;3(7):1125–31.
+ 108. van Meerloo J, Kaspers GJL, Cloos J. Cell Sensitivity Assays: 
+The MTT Assay. In: Cree IA, editor. Cancer Cell Culture: Meth-
+ods and Protocols. Humana Press; 2011. p. 237–45.
+ 109. Korzeniewski C, Callewaert DM. An enzyme-release assay for 
+natural cytotoxicity. J Immunol Methods. 1983;64(3):313–20.
+ 110. Turner J, et  al. A toxicology suite adapted for comparing 
+parallel toxicity responses of model human lung cells to die-
+sel exhaust particles and their extracts. Aerosol Sci Technol. 
+2015;49(8):599–610.
+ 111. Liu C, et al. Cytokines: from clinical significance to quantifica-
+tion. Adv Sci (Weinh). 2021;8(15):e2004433.
+ 112. Leng SX, et al. ELISA and multiplex technologies for cytokine 
+measurement in inflammation and aging research. J Gerontol A 
+Biol Sci Med Sci. 2008;63(8):879–84.
+ 113. Williams GM. Methods for evaluating chemical genotoxicity. 
+Annu Rev Pharmacol Toxicol. 1989;29(1):189–211.
+ 114. Phillips DH, Arlt VM. Genotoxicity: damage to DNA and its 
+consequences. EXS. 2009;99:87–110.
+ 115. Thakur J, et al. Genotoxicity and adverse human health out-
+comes among people living near highly polluted waste water 
+drains in Punjab. India World J Pharm Res. 2014;4(1):895–908.
+ 116. Kapeleka JA, Sauli E, Ndakidemi PA. Pesticide exposure and 
+genotoxic effects as measured by DNA damage and human 
+monitoring biomarkers. Int J Environ Res Public Health. 
+2021;31(7):805–22.
+ 117. Crebelli R, Caiola S. Genetic effects of air pollutants: insights 
+from human biomonitoring studies. Indian J Med Res. 
+2009;130(5):501–3.
+ 118. Abou Chakra OR, et al. Genotoxicity of organic extracts of 
+urban airborne particulate matter: an assessment within a per -
+sonal exposure study. Chemosphere. 2007;66(7):1375–81.
+ 119. Olive PL, Banath JP. The comet assay: a method to measure 
+DNA damage in individual cells. Nat Protoc. 2006;1(1):23–9.
+ 120. D'Costa A, Praveen Kumar MK, Shyama SK. Genotoxicity 
+assays, in Advances in Biological Science Research, S.N. 
+Meena and M.M. Naik, Editors. Academic Press. 2019. p. 
+291–301.
+ 121. Sies H. Oxidative stress: oxidants and antioxidants. Exp Physiol. 
+1997;82(2):291–5.
+ 122. Pizzino G, et al. Oxidative Stress: Harms and Benefits for Human 
+Health. Oxid Med Cell Longev. 2017;2017:8416763.
+ 123. Birben E, et al. Oxidative stress and antioxidant defense. World 
+Allergy Organ J. 2012;5(1):9–19.
+ 124. Guerrero C, et al. Impact of plasma oxidative stress markers on 
+post-race recovery in ultramarathon runners: a sex and age per -
+spective overview. Antioxidants. 2021. https:// doi. org/ 10. 3390/ 
+antio x1003 0355.
+ 125. Lushchak VI, Storey KB. Oxidative stress concept updated: 
+Definitions, classifications, and regulatory pathways implicated. 
+EXCLI J. 2021;20:956–67.
+ 126. Rahman I, Kode A, Biswas SK. Assay for quantitative deter -
+mination of glutathione and glutathione disulfide levels using 
+enzymatic recycling method. Nat Protoc. 2006;1(6):3159–65.
+ 127. Biswas SK, Rahman I. Environmental toxicity, redox signaling 
+and lung inflammation: the role of glutathione. Mol Aspects 
+Med. 2009;30(1–2):60–76.
+ 128. Baldelli S, et al. Glutathione and nitric oxide: key team players 
+in use and disuse of skeletal muscle. Nutrients. 2019. https:// doi. 
+org/ 10. 3390/ nu111 02318.
+ 129. Pompella A, Corti A. Editorial: The changing faces of glu-
+tathione, a cellular protagonist. Front Pharmacol. 2015;6:98.
+ 130. Fu H, et al. PM2.5 exposure induces inflammatory response in 
+macrophages via the TLR4/COX-2/NF-κB pathway. Inflamma-
+tion. 2020;43(5):1948–58.
+ 131. Lodovici M, Bigagli E. Oxidative Stress and Air Pollution Expo-
+sure. J Toxicol. 2011;2011(1):487074.
+ 132. Valko M, Morris H, Cronin MT. Metals, toxicity and oxidative 
+stress. Curr Med Chem. 2005;12(10):1161–208. https:// doi. org/ 
+10. 2174/ 09298 67053 764635.
+
+[W4412727192 PDF PAGE 39]
+Current Environmental Health Reports           (2025) 12:26  
+ Page 39 of 40    26 
+ 133. Peng B, et al. A systematic review of polycyclic aromatic 
+hydrocarbon derivatives: occurrences, levels, biotransforma-
+tion, exposure biomarkers, and toxicity. Environ Sci Technol. 
+2023;57(41):15314–35.
+ 134. Aghasafari P, George U, Pidaparti R. A review of inflammatory 
+mechanism in airway diseases. Inflamm Res. 2019;68(1):59–74.
+ 135. Vidrio E, Jung H, Anastasio C. Generation of Hydroxyl Radicals 
+from Dissolved Transition Metals in Surrogate Lung Fluid Solu-
+tions. Atmos Environ. 2008;42(18):4369–79.
+ 136. Rahman I, Biswas SK, Kode A. Oxidant and antioxidant bal -
+ance in the airways and airway diseases. Eur J Pharmacol. 
+2006;533(1–3):222–39.
+ 137. Halliwell, B. and J.M.C. Gutteridge, Free Radicals in Biology 
+and Medicine. Clarendon Press; 1989.
+ 138. Halliwell B, Aruoma OI. DNA damage by oxygen-derived spe -
+cies. Its mechanism and measurement in mammalian systems. 
+FEBS Lett. 1991;281(1–2):9–19.
+ 139. Reed GA. Co-oxidation of xenobiotics: lipid peroxyl deriv -
+atives as mediators of metabolism. Chem Phys Lipids. 
+1987;44(2–4):127–48.
+ 140. Ryter SW, Tyrrell RM. Singlet molecular oxygen ((1)O2): a 
+possible effector of eukaryotic gene expression. Free Radic 
+Biol Med. 1998;24(9):1520–34.
+ 141. Matsuo M, et al. Diesel exhaust particle-induced cell death of 
+cultured normal human bronchial epithelial cells. Biol Pharm 
+Bull. 2003;26(4):438–47.
+ 142. Baulig A, et al. Biological effects of atmospheric particles 
+on human bronchial epithelial cells. Comparison with diesel 
+exhaust particles. Toxicol In Vitro. 2003;17(5–6):567–73.
+ 143. Baulig A, et al. Involvement of reactive oxygen species in the 
+metabolic pathways triggered by diesel exhaust particles in 
+human airway epithelial cells. Am J Physiol Lung Cell Mol 
+Physiol. 2003;285(3):L671–9.
+ 144. Aryal A, et al. Inhalation of particulate matter containing envi-
+ronmentally persistent free radicals induces endothelial dys-
+function mediated via AhR activation at the air-blood interface. 
+Toxicol Sci. 2024;199(2):246–60.
+ 145. Xiao GG, et al. Use of proteomics to demonstrate a hierarchical 
+oxidative stress response to diesel exhaust particle chemicals in 
+a macrophage cell line. J Biol Chem. 2003;278(50):50781–90.
+ 146. Li N, et al. Induction of heme oxygenase-1 expression in 
+macrophages by diesel exhaust particle chemicals and qui-
+nones via the antioxidant-responsive element. J Immunol. 
+2000;165(6):3393–401.
+ 147. Li YJ, et al. Airway inflammatory responses to oxidative stress 
+induced by low-dose diesel exhaust particle exposure differ 
+between mouse strains. Exp Lung Res. 2007;33(5):227–44.
+ 148. Hatch GE, et al. Progress in assessing air pollutant risks from 
+in vitro exposures: matching ozone dose and effect in human 
+airway cells. Toxicol Sci. 2014;141(1):198–205.
+ 149. Sandstrom T. Respiratory effects of air pollutants: experimental 
+studies in humans. Eur Respir J. 1995;8(6):976–95.
+ 150. Ballinger CA, et al. Antioxidant-mediated augmentation of 
+ozone-induced membrane oxidation. Free Radic Biol Med. 
+2005;38(4):515–26.
+ 151. Connor LM, et al. Interfacial phospholipids inhibit ozone-reac-
+tive absorption-mediated cytot

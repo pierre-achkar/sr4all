@@ -1,0 +1,109 @@
+s, G. R. (2018). Personalized student assessment based on learning ana-
+lytics and recommender systems. In 3rd International conference of the portuguese society for engineering education 
+(CISPEE 2018). https:// doi. org/ 10. 1109/ CISPEE. 2018. 85934 93
+Gonçalves, A. L., Alves, G. R., Carlos, L. M., Da Silva, J. B., & Alves, D. M. (2018). Learning analytics and recommender systems 
+toward remote experimentation. CEUR Workshop Proceedings, 2188, 26–37.
+Govaerts, S., Verbert, K., Duval, E., & Pardo, A. (2012). The student activity meter for awareness and self-reflection. CHI ’12, 
+Austin, Texas, 869–884. https:// doi. org/ 10. 1145/ 22127 76. 22128 60
+Green, J., Wyllie, A., & Jackson, D. (2014). Virtual worlds: A new frontier for nurse education? Collegian, 21(2), 135–141. 
+https:// doi. org/ 10. 1016/j. colegn. 2013. 11. 004
+Griol, D., Molina, J. M., & Callejas, Z. (2014). An approach to develop intelligent learning environments by means of 
+immersive virtual worlds. Journal of Ambient Intelligence and Smart Environments, 6(2), 237–255. https:// doi. org/ 10. 
+3233/ AIS- 140255
+Hantoobi, S., Wahdan, A., Al-Emran, M., & Shaalan, K. (2021). A review of learning analytics studies. In M. Al-Emran & K. 
+Shaalan (Eds.), Recent advances in technology acceptance models and theories (pp. 119–134). Cham: Springer Inter-
+national Publishing. https:// doi. org/ 10. 1007/ 978-3- 030- 64987-6_8
+Hauze, S., & Frazee, J. (2019). Virtual immersive teaching and learning: How immersive technology is shaping the way 
+students learn. EdMedia+ Innovate Learning, (pp. 1445–1450).
+Heikkinen, S., Saqr, M., Malmberg, J., & Tedre, M. (2022). Supporting self-regulated learning with learning analytics 
+interventions – a systematic literature review. Education and Information Technologies. https:// doi. org/ 10. 1007/ 
+s10639- 022- 11281-4
+Hossain, Z., Bumbacher, E., Brauneis, A., Diaz, M., Saltarelli, A., Blikstein, P ., & Riedel-Kruse, I. H. (2018). Design guidelines and 
+empirical case study for scaling authentic inquiry-based science learning via open online courses and interactive 
+biology cloud labs. International Journal of Artificial Intelligence in Education, 28(4), 478–507. https:// doi. org/ 10. 
+1007/ s40593- 017- 0150-3
+Hossain, Z., Bumbacher, E. W., Chung, A. M., Kim, H., Litton, C., Walter, A. D., Pradhan, S. N., Jona, K., Blikstein, P ., & Riedel-
+Kruse, I. H. (2016). Interactive and scalable biology cloud experimentation for scientific inquiry and education. 
+Nature Biotechnology, 34(12), 1293–1298. https:// doi. org/ 10. 1038/ nbt. 3747
+
+[W4323662854 PDF PAGE 18]
+Page 18 of 20Elmoazen et al. Smart Learning Environments           (2023) 10:23 
+Howell, J. A., Roberts, L. D., Seaman, K., & Gibson, D. C. (2018). Are we on our way to becoming a “Helicopter University”? 
+Academics’ views on learning analytics. Technology, Knowledge and Learning, 23(1), 1–20. https:// doi. org/ 10. 1007/ 
+s10758- 017- 9329-9
+Ifenthaler, D., & Yau, J. Y. K. (2020). Utilising learning analytics to support study success in higher education: a system-
+atic review. Educational technology research and development: ETR & D, 0123456789. https:// doi. org/ 10. 1007/ 
+s11423- 020- 09788-z
+Ifenthaler, D. (2017). Are higher education institutions prepared for learning analytics? TechTrends, 61(4), 366–371. https:// 
+doi. org/ 10. 1007/ s11528- 016- 0154-0
+Izatt, E., Scholberg, K., & Kopper, R. (2014). Neutrino-KAVE: An immersive visualization and fitting tool for neutrino physics 
+education. Proceedings - IEEE Virtual Reality. https:// doi. org/ 10. 1109/ VR. 2014. 68020 62
+Jona, K., & Vondracek, M. (2013). A remote radioactivity experiment. Physics Teacher, 51(1), 25–27. https:// doi. org/ 10. 
+1119/1. 47720 33
+Jones, N. (2018). Simulated labs are booming. Nature, 562(7725), S5–S7. https:// doi. org/ 10. 1038/ d41586- 018- 06831-1
+Kaliisa, R., Rienties, B., Mørch, A. I., & Kluge, A. (2022). Social learning analytics in computer-supported collaborative learn-
+ing environments: A systematic review of empirical studies. Computers and Education Open, 3, 100073. https:// doi. 
+org/ 10. 1016/j. caeo. 2022. 100073
+Khalil, M., & Ebner, M. (2017). Clustering patterns of engagement in Massive Open Online Courses (MOOCs): The use of 
+learning analytics to reveal student categories. Journal of Computing in Higher Education, 29(1), 114–132. https:// 
+doi. org/ 10. 1007/ s12528- 016- 9126-9
+King, D. A., Arnaiz, I. A., Gordon-Thomson, C., Randal, N., & Herkes, S. M. (2016). Evaluation and use of an online data acqui-
+sition and content platform for physiology practicals and tutorials. International Journal of Innovation in Science and 
+Mathematics Education, 24(5), 24–34.
+Kitchenham, B., & Charters, S. (2007). Guidelines for performing Systematic Literature Reviews in Software Engineering.
+Kleven, N. F., & Prasolova-Førland, E. (2014). Virtual University hospital as an arena for medical training and health educa-
+tion. 106.
+Kumpulainen, M., & Seppänen, M. (2022). Combining web of science and scopus datasets in citation-based literature 
+study. Scientometrics, 127(10), 5613–5631. https:// doi. org/ 10. 1007/ s11192- 022- 04475-7
+Kwong, T., Wong, E., & Yue, K. (2017). Bringing abstract academic integrity and ethical concepts into real-life situations. 
+Technology, Knowledge and Learning, 22(3), 353–368. https:// doi. org/ 10. 1007/ s10758- 017- 9315-2
+Liu, R., Stamper, J. C., & Davenport, J. (2018). A novel method for the in-depth multimodal analysis of student learning 
+trajectories in intelligent tutoring systems. Journal of Learning Analytics. https:// doi. org/ 10. 18608/ jla. 2018. 51.4
+Lynch, T., & Ghergulescu, I. (2017). Review of Virtual Labs As the Emerging Technologies for Teaching Stem Subjects. In: 
+INTED2017 Proceedings, 1, 6082–6091. https:// doi. org/ 10. 21125/ inted. 2017. 1422
+Manchikanti, P ., Kumar, B. R., & Singh, V. K. (2017). Role of Virtual Biology Laboratories in Online and Remote Learning. In 
+Proceedings - IEEE 8th International Conference on Technology for Education, T4E 2016, (pp. 136–139). https:// doi. org/ 
+10. 1109/ T4E. 2016. 035
+Manske, S., & Hoppe, H. U. (2016). The concept cloud: Supporting collaborative knowledge construction based on 
+semantic extraction from learner-generated artefacts. In 16th international conference on advanced learning tech-
+nologies (ICALT 2016), 302–306. https:// doi. org/ 10. 1109/ ICALT. 2016. 123
+Metcalf, S. J., Kamarainen, A. M., Grotzer, T. A., & Dede, C. J. (2017). Changes in student experimentation strategies within an 
+inquiry-based immersive virtual environment (Annual Meeting of the American Educational Research Association 
+(AERA)).
+Mikroyannidis, A., Gomez-Goiri, A., Domingue, J., Tranoris, C., Pareit, D., Vanhie-Van Gerwen, J., & Marquez Barja, J. M. 
+(2015). Deploying learning analytics for awareness and reflection in online scientific experimentation. CEUR Work-
+shop Proceedings, 1465, 105–111.
+Nyland, R., Davies, R. S., Chapman, J., & Allen, G. (2017). Transaction-level learning analytics in online authentic assess-
+ments. Journal of Computing in Higher Education, 29(2), 201–217. https:// doi. org/ 10. 1007/ s12528- 016- 9122-0
+Okoli, C. (2015). A guide to conducting a standalone systematic literature review. Communications of the Association for 
+Information Systems, 37(1), 879–910.
+Page, M. J., McKenzie, J. E., Bossuyt, P . M., Boutron, I., Hoffmann, T. C., Mulrow, C. D., Shamseer, L., Tetzlaff, J. M., Akl, E. A., 
+Brennan, S. E., Chou, R., Glanville, J., Grimshaw, J. M., Hróbjartsson, A., Lalu, M. M., Li, T., Loder, E. W., Mayo-Wilson, 
+E., McDonald, S., & Moher, D. (2021). The PRISMA 2020 statement: an updated guideline for reporting systematic 
+reviews. Systematic Reviews, 10(1), 89. https:// doi. org/ 10. 1186/ s13643- 021- 01626-4
+Papamitsiou, Z., & Economides, A. A. (2014). Learning analytics and educational data mining in practice: A systematic 
+literature review of empirical evidence. Journal of Educational Technology & Society, 17(4), 49–64.
+Potkonjak, V., Gardner, M., Callaghan, V., Mattila, P ., Guetl, C., Petrović, V. M., & Jovanović, K. (2016). Virtual laboratories for 
+education in science, technology, and engineering: A review. Computers and Education, 95, 309–327. https:// doi. 
+org/ 10. 1016/j. compe du. 2016. 02. 002
+Qvist, P ., Kangasniemi, T., Palomäki, S., Seppänen, J., Joensuu, P ., Natri, O., Närhi, M., Palomäki, E., Tiitu, H., Nordström, K., 
+Palomaki, S., Seppanen, J., Joensuu, P ., Natri, O., Narhi, M., Palomaki, E., Tiitu, H., Nordstrom, K., Palomäki, S., & Nord-
+ström, K. (2015). Design of virtual learning environments: learning analytics and identification of affordances and 
+barriers. International Journal of Engineering Pedagogy (IJEP), 5(4), 64. https:// doi. org/ 10. 3991/ ijep. v5i4. 4962
+Rahman, F., Mim, M. S., Baishakhi, F. B., Hasan, M., & Morol, M. K. (2022). A systematic review on interactive virtual reality 
+laboratory. In ACM international conference proceeding series, (pp. 491–500). https:// doi. org/ 10. 1145/ 35429 54. 35430 
+25
+Ramadahan, M. F., & Irwanto. (2018). Using virtual labs to enhance students’ thinking abilities, skills, and scientific atti-
+tudes. In International conference on educational research and innovation (ICERI 2017), Iceri, (pp. 494–499).
+Reeves, S. M., & Crippen, K. J. (2021). Virtual laboratories in undergraduate science and engineering courses: A sys-
+tematic review, 2009–2019. Journal of Science Education and Technology, 30(1), 16–30. https:// doi. org/ 10. 1007/ 
+S10956- 020- 09866-0
+
+[W4323662854 PDF PAGE 19]
+Page 19 of 20
+Elmoazen et al. Smart Learning Environments           (2023) 10:23 
+ 
+Reilly, J. M., & Dede, C. (2019b). Differences in student trajectories via filtered time series analysis in an immersive virtual 
+world. In Proceedings of the 9th International Conference on Learning Analytics & Knowledge (LAK 2019b), (pp. 
+130–134). https:// doi. org/ 10. 1145/ 33037 72. 33038 32
+Reilly, J. M., & Dede, C. (2019a). Di

@@ -1,0 +1,377 @@
+dRxiv preprint 
+
+[W4388124584 PDF PAGE 11]
+HOUSING INSECURITY AND MENTAL HEALTH AMONG RENTERS 10 
+ 
+Evaluations with Nonrandomized Designs) st atement (Des Jarlais et al., 2004). The 263 
+assessment was carried out by the first author. 264 
+Evidence Synthesis 265 
+Study Selection 266 
+The study selection process is illustrated in the PRISMA flow diagram (Fig 1). The 267 
+initial search yielded a total of 1,198 potentially eligible titles (after removal of duplicates). 268 
+Following title and abstract screening, 74 full-te xt studies were assessed for eligibility 269 
+(despite multiple attempts to contact the aut hors, two reports could not be retrieved). Of 270 
+these, 19 studies met the inclusion criteria. Based on the initial results, a subsequent step 271 
+involved identifying 49 additional reports thr ough backward and forward citation tracking. 272 
+This process resulted in the inclusion of three studies. A detailed overview of the reasons for 273 
+exclusion is provided in S3 Appendix. The most common reason for exclusion was that 274 
+studies did not specifically analyze the associat ion of housing insecurity and mental health 275 
+among renters but rather addressed housing inse curity more broadly (e.g., statistical 276 
+analyses were not separated by tenant subgroups). Overall, a total of 22 studies were 277 
+included in the evidence synthesis. The interrate r reliability of the study selection process 278 
+was κ  = 1, indicating almost perfect agreement (Cohen, 1960; Landis & Koch, 1977). 279 
+Fig 1. PRISMA 2020 flow diagram. 280 
+Study Characteristics 281 
+Characteristics of the included studies are di splayed in Table 1 (housing affordability) 282 
+and Table 2 (housing instability). Eleven of the studies were from the U.S., six from 283 
+Australia, three from the UK, and one each from the Netherlands, South Korea, and Spain. 284 
+Fourteen studies were longitudinal studies, five were cross-sectional studies, and three were 285 
+quasi-experimental studies without actively manipulated interventions. The majority of the 286 
+studies were secondary analyses. With the exception of one study, all were published within 287 
+the last decade, mostly in 2020 or later. 288 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprint this version posted November 1, 2023. ; https://doi.org/10.1101/2023.11.01.23297773doi: medRxiv preprint 
+
+[W4388124584 PDF PAGE 12]
+HOUSING INSECURITY AND MENTAL HEALTH AMONG RENTERS 11 
+ 
+The selected studies addressed a wide range of research questions, with only a few 289 
+of them focusing exclusively on the population of  interest. Eight out of 22 studies examined 290 
+housing insecurity broadly, including not only rent ers but also other housing tenures such as 291 
+homeowners, while analyzing renters separately in at least one analysis. Six studies 292 
+identified their (sub-)samples as private renter s (Baker, Lester, et al., 2020; Bentley et al., 293 
+2016; A. Li et al., 2022; Mason et al., 2013; R eeves et al., 2016; ViforJ et al., 2022) and two 294 
+as public renters (Baker, Lester, et al., 2020; Prentice & Scutella, 2020). Moreover, a 295 
+number of studies examined specific popula tion groups, such as low-income renter 296 
+households (for more details see Table 1 and Table 2. It is important to note that four studies 297 
+with longitudinal data only measured tenure status at  one time point; therefore, it is possible 298 
+that changes in tenure status occurred over time (Pevalin, 2009; Prentice & Scutella, 2020; 299 
+J. Tsai et al., 2021; ViforJ et al., 2022). 300 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprint this version posted November 1, 2023. ; https://doi.org/10.1101/2023.11.01.23297773doi: medRxiv preprint 
+
+[W4388124584 PDF PAGE 13]
+HOUSING INSECURITY AND MENTAL HEALTH AMONG RENTERS 12 
+ 
+Table 1 301 
+Summary characteristics of the included studies regarding housing affordability and mental health (ordered alphabetically according to author’s name) 302 
+Study Country Study 
+Design 
+Data Source 
+& Years of 
+Collection 
+Main 
+Objective of 
+Study 
+Study 
+Population 
+(Analytical 
+Sample) 
+Predictor 
+Operationalization & 
+Measurement 
+Housing Insecurity 
+Outcome 
+Operationalization & 
+Measurement 
+Mental Health 
+Main Findings 
+Arundel et 
+al. (2022) 
+The 
+Nether-
+lands 
+Longitudina
+l (Panel 
+study) 
+Longitudinal 
+Internet 
+Studies for 
+the Social 
+Sciences 
+(LISS Panel) 
+2008-2019 
+Examining the 
+link between 
+housing 
+unaffordability 
+and mental 
+health and 
+how this is 
+differentiated 
+across age 
+cohorts and 
+tenure 
+Renters not 
+living in parental 
+home (complete 
+case analysis) 
+Age 25-65 years 
+NRenters = N/Aa 
+Housing affordability 
+stress (HAS) 
+‘30/40’ measureb 
+Mental health and well-
+being 
+MHI-5 from the SF-36 
+Renters with HAS consistently showed 
+lower mental health scores compared to 
+renters without HAS, with significant 
+differences observed at a 90 % CI, except 
+for the years 2009 & 2012. The divergence 
+in mental health between those with and 
+without HAS was particularly pronounced 
+among renters in the 35-44 age cohort.  
+Baker et al. 
+(2020) 
+Australia Longitudina
+l (Panel 
+study) 
+Household, 
+Income and 
+Labour 
+Dynamics in 
+Australia 
+(HILDA) 
+2002-2016 
+Examining the 
+mental health 
+effects of 
+(prolonged and 
+intermittent) 
+patterns of 
+exposure to 
+housing 
+affordability 
+problems 
+Private renters & 
+public renters 
+who took part in 
+the survey for 
+five consecutive 
+waves (complete 
+case analysis) 
+Age ≥  15 years 
+NPrivate = 1,401c 
+NPublic = 9,694 
+Housing affordability 
+stress pattern 
+Pattern of exposure to 
+HAS over time: 
+prolonged vs. 
+intermittent 
+affordability problems 
+vs. unexposed to 
+housing affordability 
+Mental health and well-
+being 
+MCS from the SF-36 
+Both the intermittent and the prolonged 
+exposure group had lower mental health 
+scores compared to renters unexposed to 
+HAS, with the prolonged group showing the 
+lowest average scores. 
+For private renters, the group mean 
+differences between prolonged vs. 
+unexposed and between prolonged vs. 
+intermittent HAS were not significant. For 
+public renters, the group mean differences 
+were all significant (p < .01)d. 
+Bentley et 
+al. (2016) 
+[Part a] 
+Australia Longitudina
+l (Panel 
+study) 
+HILDA 
+2001-2008 
+Examining 
+whether the 
+mental health 
+of people in 
+different tenure 
+types was 
+differentially 
+affected by 
+unaffordable 
+housing 
+Low-income 
+private renters 
+Age 25-64 years 
+NRenters = N/Ae 
+(3,036 
+observations) 
+Housing cost burden 
+Rent payments 
+exceeded 30 % of 
+gross household 
+income (equivalent to 
+‘30/40’ measure) 
+Mental health and well-
+being 
+MCS from the SF-36 
+Private renters whose housing became 
+unaffordable experienced a small but 
+significant decline in mental health (mean 
+change = −0.45; 95 % CI: −0.81, −0.09; 
+p = .014). 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprint this version posted November 1, 2023. ; https://doi.org/10.1101/2023.11.01.23297773doi: medRxiv preprint 
+
+[W4388124584 PDF PAGE 14]
+HOUSING INSECURITY AND MENTAL HEALTH AMONG RENTERS 13 
+ 
+Study Country Study 
+Design 
+Data Source 
+& Years of 
+Collection 
+Main 
+Objective of 
+Study 
+Study 
+Population 
+(Analytical 
+Sample) 
+Predictor 
+Operationalization & 
+Measurement 
+Housing Insecurity 
+Outcome 
+Operationalization & 
+Measurement 
+Mental Health 
+Main Findings 
+Bentley et 
+al. (2016) 
+[Part b] 
+UK Longitudina
+l (Panel 
+study) 
+British 
+Household 
+Panel 
+Survey 
+(BHPS) 
+2001-2008 
+See [Part a] Low-income 
+private renters 
+Age 25-64 years 
+NRenters = N/Af 
+(2,373 
+observations) 
+Housing cost burden 
+See [Part a] 
+Mental health and well-
+being  
+GHQ-12 
+ 
+ 
+Private renters whose housing became 
+unaffordable experienced no significant 
+change in mental health (mean 
+change = 0.30; 95 % CI: −0.67, 1.26; 
+p = .749). 
+Chambers 
+et al. (2015) 
+[Part a] 
+U.S. Cross-
+sectional 
+Affordable 
+Housing as 
+an Obesity 
+Mediating 
+Environment 
+(AHOME) 
+2011-2012 
+Investigating 
+whether the 
+type of 
+housing 
+assistance and 
+the conditions 
+of the home 
+and 
+neighborhood 
+are associated 
+with mental 
+health 
+outcomes of 
+residents 
+Low-income 
+Latin American 
+renters living in 
+the Bronx, 
+eligible for rental 
+assistance 
+(complete case 
+analysis) 
+Age ≥  18 years 
+N = 371 
+Receiving housing 
+assistance 
+Unassisted vs. public 
+housing residents vs. 
+Section 8 voucher 
+Symptoms of depression 
+CES-D 10 
+ 
+Hostile affect 
+Items of the Hostile 
+Affect Subscale from the 
+CMHS 
+Receipt of housing assistance was not 
+significantly associated with depressive 
+symptomology (OR = 0.857; 95 % CI: 0.48, 
+1.53; p-value N/A) or hostility (OR = 1.738; 
+95 % CI: 0.8, 3.76; p-value N/A).  
+Elliott et al. 
+(2021) 
+U.S. Longitudina
+l (Cohort 
+study) 
+Fragile 
+Families & 
+Child Well-
+being Study 
+(FFCWS) 
+1998-2017 
+Analyzing the 
+relationship 
+between 
+housing cost 
+burden and 
+mental health 
+outcomes 
+reported by a 
+sample of rent-
+burdened 
+primary 
+caregiver 
+mothers 
+Mothers/female 
+caregivers from 
+low-income 
+rental 
+households 
+(complete case 
+analysis) 
+Age N/A 
+N = 399 
+Housing cost burden 
+Monthly rent as a 
+proportion of income 
+(< 31 % not burdened, 
+31-49 % burdened, 
+> 50 % severely 
+burdened) 
+Symptoms of depression 
+Items from the CIDI-SF 
+Mothers/female caregivers from low-income 
+rental households who experienced rent 
+burden (OR = 1.7, p = .004) or severe rent 
+burden (OR = 1.5, p = .005) were 
+significantly more likely to r

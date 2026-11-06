@@ -1,0 +1,169 @@
+clusion and exclusion criteria as a way of
+tackling these issues (
+Rozental et al., 2017 ). Nevertheless, this
+means that the results should be explored in additional conte xt,
+particularly since the clinical trials included in the curre nt study
+do not have to be representative of how ICBT is conducted in
+other settings. Third, the patients receiving treatment canbe
+seen as characteristic of most examples of ICBT (
+Titov et al.,
+2010), but are nonetheless more often women, in their late
+thirties, and having a higher education level. However, com pared
+to treatment face-to-face, this is not particularly uncommo n
+either ( Vessey and Howard, 1993 ), probably reﬂecting a greater
+tendency to seek help for mental health problems among this
+group. Still, it does limit the generalizability of the results,
+particularly in terms of ﬁnding predictors of non-response.
+Future research should thus include patients with a more
+heterogeneous sociodemographic background and who have
+not only been self-recruited to clinical trials. This problem
+is also relevant regarding the diagnoses that were analyzed.
+Albeit including a broad spectrum of conditions, some were
+over-represented, e.g., social anxiety disorder, while others were
+less represented or even lacking completely, e.g., post-traum atic
+stress disorder and obsessive-compulsive disorder. Depress ion
+and other (erectile dysfunction, relationship problems, an d
+gambling disorder) were also re-categorized to balance out their
+proportions, which risks losing valuable information as to wh ere
+the diﬀerence lies. Thus, it is probably premature to suggest th at
+anxiety disorders constitute a predictor for non-response be fore
+a more comprehensive investigation has been made. Fourth,
+the implementation of the RCI as a way of determining non-
+response is not without criticism and should be seen as a major
+limitation. It is presently unclear whether it is the best way
+to identify those patients who do not respond in treatment,
+even if there exist a statistical rationale for its use. Furthermore,
+although the current study followed the recommendations by
+Edwards et al. (1978) on establishing valid test-retest reliabilities
+from the literature to calculate the RCI, most estimates rel ied
+on relatively short time periods, e.g., 2–4 weeks. This might
+be more relevant for assessing deterioration or improvement,
+but not for non-response which may need to take into account
+longer time frames to determine the natural ﬂuctuation of a
+diagnosis. It could also be argued that the application of a cutoﬀ
+or diagnostic criterion is more clinically relevant. Howeve r, those
+thresholds might be more useful in relation to response than n on-
+response, i.e., deﬁning when a patient goes from a clinical to a
+non-clinical population (
+Jacobson and Truax, 1991 ). Predeﬁned
+numbers, such as being above a certain score, also tend to be
+arbitrary (
+Taylor et al., 2012 ). Still, the use of the RCI to assess
+non-response needs to be validated by other means. This can
+for instance be performed by checking if a non-responding
+patient still fulﬁlls diagnostic criteria or a clinician-rating remains
+unchanged, e.g., the Clinical Global Impressions Scale (
+Busner
+and Targum, 2007 ). Non-response should also be explored in a
+direct comparison to deterioration and improvement in future
+systematic reviews. This is due to the fact that non-response
+is a quite heterogenous category that could include both those
+patients who fare worse and achieve some positive results, even
+though they are, statistically speaking, seen as non-responders.
+Lastly, the idea of non-response representing a negative eﬀect
+is not clear and warrants further debate. Both
+Dimidjian and
+Hollon (2010) and Linden (2013) argued that it might prolong
+an ongoing condition and prevent the patient from seeking a
+more helpful treatment, but that it is also important to consider
+the normal ﬂuctuations of many diagnoses. In most cases, lack
+of improvement would probably be regarded as a failure, at
+least by a clinician. On the other hand, with regard to more
+serious conditions, lack of improvement may not necessarilybe
+equated with something detrimental for the patient, but rath er
+a perfectly reasonable result, i.e., remaining at a certain l evel
+of functioning in chronic pain. Also, as discussed by
+Linden
+(2013), non-response does not have to be linked to treatment,
+but rather other circumstances that occur simultaneously. In
+sum, regarding non-response as a negative eﬀect clearly needs
+a discussion that considers not only the approach to classifying
+patients as non-responders, but also a broader theoretical and
+philosophical perspective of treatment outcome.
+CONCLUSIONS
+Among 2,118 patients in 29 clinical trials receiving treatment,
+567 (26.8%) were identiﬁed as non-responders in ICBT when
+applying a RCI ofz = 1.96. This is somewhat in line with
+other investigations in the scientiﬁc literature, althoug h the lack
+of consensus on how to deﬁne non-response make it diﬃcult
+to compare the results. Meanwhile, possible predictors were
+explored using variables set a priori, indicating that patients with
+higher symptom severity on the primary outcome measure at
+baseline, having an anxiety disorder, and being of male gender
+could potentially have higher odds of not responding in ICBT.
+Frontiers in Psychology | www.frontiersin.org 12 March 2019 | Volume 10 | Article 589
+
+[W2928191556 PDF PAGE 13]
+Rozental et al. Non-response in Internet-Based CBT
+However, additional research is required to replicate the ﬁnd ings
+and to determine how to best classify non-response in treatme nt.
+DATA AVAILABILITY
+The data that support the ﬁndings of this study are available from
+the corresponding author, [PC], upon reasonable request.
+AUTHOR CONTRIBUTIONS
+All the authors contributed in the process of completing the
+current study and writing the ﬁnal manuscript. AR conducted the
+aggregation of raw scores into a single data matrix and complet ed
+the statistical analysis with input from GA and PC. AR drafted t he
+ﬁrst version of the text, while GA and PC provided feedback and
+reviewed and revised it.
+ACKNOWLEDGMENTS
+The authors would like to thank all the researchers,
+clinicians, and administrative staﬀ who over the years
+have been involved in the clinical trials that were
+included in the individual patient data meta-analysis.
+All have been of tremendous support while collecting
+the data and clarifying those issues that arose during the
+coding process.
+REFERENCES
+∗Almlöv, J., Carlbring, P., Kallqvist, K., Paxling, B., Cuijpers, P., an d Andersson, G.
+(2011). Therapist eﬀects in guided internet-delivered CBT for an xiety disorders.
+Behav. Cogn. Psychother. 39, 311–322. doi: 10.1017/S135246581000069X
+American Psychiatric Association. (2013). Diagnostic and Statistical Manual of
+Mental Disorders (DSM-5) . Arlington, V A: American Psychiatric Association.
+American Psychiatric Association. (2000). Diagnostic and Statistical
+Manual of Mental Disorders (DSM-IV-TR) . Washington, DC: American
+Psychiatric Association.
+∗Andersson, E., Walen, C., Hallberg, J., Paxling, B., Dahlin, M., A lmlov, J.,
+et al. (2011). A randomized controlled trial of guided internet-deliv ered
+cognitive behavioral therapy for erectile dysfunction. J. Sex. Med. 8, 2800–2809.
+doi: 10.1111/j.1743-6109.2011.02391.x
+Andersson, G. (2016). Internet-delivered psychological treatmen ts. Annu. Rev.
+Clin. Psychol. 12, 157–179. doi: 10.1146/annurev-clinpsy-021815-093006
+Andersson, G. (2018). Internet interventions: past, present an d future. Internet
+Inter. 12, 181–188. doi: 10.1016/j.invent.2018.03.008
+∗Andersson, G., Carlbring, P., Holmstrom, A., Sparthan, E., Furmark, T., Ni lsson-
+Ihrfelt, E., et al. (2006). Internet-based self-help with therapis t feedback and in
+vivo group exposure for social phobia: a randomized controlled trial. J. Consult.
+Clin. Psychol. 74, 677–686. doi: 10.1037/0022-006x.74.4.677
+Andersson, G., Cuijpers, P., Carlbring, P., Riper, H., and Hedman, E.
+(2014). Guided internet-based vs. face-to-face cognitive b ehavior therapy for
+psychiatric and somatic disorders: a systematic review and meta-an alysis.
+World Psychiatry 13, 288–295. doi: 10.1002/wps.20151
+∗Andersson, G., Hesser, H., Veilord, A., Svedling, L., Andersson, F., Sleman,
+O., et al. (2013a). Randomised controlled non-inferiority trial wit h 3-
+year follow-up of internet-delivered versus face-to-face group c ognitive
+behavioural therapy for depression. J. Aﬀect Disord. 151, 986–994.
+doi: 10.1016/j.jad.2013.08.022
+∗Andersson, G., Paxling, B., Roch-Norlund, P., Östman, G., Norgre n, A., Almlov,
+J., et al. (2012). Internet-based psychodynamic versus cogniti ve behavioral
+guided self-help for generalized anxiety disorder: a randomized co ntrolled trial.
+Psychother. Psychosom. 81, 344–355. doi: 10.1159/000339371
+Andersson, G., Rozental, A., Shafran, R., and Carlbring, P. (2018 ). Long-term
+eﬀects of internet-supported cognitive behavior therapy . Expert Rev. Neurother.
+18, 21–28. doi: 10.1080/14737175.2018.1400381
+Andersson, G., Titov, N., Dear, B. F., Rozental, A., and Carlbrin g, P.
+(2019). Internet-delivered psychological treatments: from innova tion to
+implementation. World Psychiatry 18, 20–28. doi: 10.1002/wps.20610
+∗Andersson, G., Waara, J., Jonsson, U., Malmaeus, F., Carlbring, P., and Ost, L. G.
+(2009). Internet-based self-help versus one-session exposure i n the treatment of
+spider phobia: a randomized controlled trial. Cogn. Behav. Ther. 38, 114–120.
+doi: 10.1080/16506070902931326
+∗Andersson, G., Waara, J., Jonsson, U., Malmaeus, F., Carlbring, P., and Öst, L.
+G. (2013b). Internet-based exposure treatment versus one-sessi on exposure
+treatment of snake phobia: a randomized controlled trial. Cogn. Behav. Ther.
+42, 284–291. doi: 10.1080/16506073.2013.844202
+Arrindell, W. A. (1993). The fear of fear concept: Stability, retest
+artifact and predictive power. Behav. Res. Ther. 31, 139–148.
+doi: 10.1016/0005-7967(93)90065-3
+Bauer, S., Lambert, M. 

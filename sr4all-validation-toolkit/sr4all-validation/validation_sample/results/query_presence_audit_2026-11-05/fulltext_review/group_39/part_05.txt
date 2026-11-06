@@ -1,0 +1,133 @@
+
+groups if more than one CU cohort was reported. Additionally, if study participants were
+grouped by Aβ status, CU participants were those who were Aβ-, and MCI participants
+were Aβ + (in accordance with NIA-AA diagnostic guidelines) [17]. If the same cohort was
+studied in more than one study and the inclusion criteria were met, the study with the
+lower number of participants was excluded as a duplicate.
+If all criteria were met but there was no plasma/serum tau concentration reported in
+mean ± SD or mean ± SEM, authors were contacted and asked to supply this information.
+Data for t-tau and p-tau plasma or serum concentrations were extracted from cross-sectional
+studies or at baseline in longitudinal studies. A quality assessment was carried out using a
+checklist that has been used in a previous systematic review for AD diagnostic biomark-
+ers [7] (Supplementary Materials Table S3), with elements from the Quality Assessment of
+Diagnostic Accuracy Studies (QUADAS) tool, Standards for Reporting Diagnostic Accuracy
+(STARD), and A Measurement Tool to Assess Systematic Reviews (AMSTAR) [18–20].
+2.3. Data Analysis
+Plasma and serum analyses for each biomarker were meta-analyzed together. Meta-
+analyses were carried out based on the ratio of the means (RoM) of the disease cohort
+divided by the control cohort (i.e., AD/CU or MCI/CU) in order to determine the effect
+size. This method is useful for comparing biomarker concentrations obtained from different
+assays, which can vary substantially between laboratories and assays [21]. If the resulting
+ratio is above 1, the biomarker concentrations are greater in the disease cohort than in the
+control cohort, and if the ratio is below 1, the levels in the control cohort are higher. This
+method has been used in a previous AD biomarker systematic review [7] and was carried
+out as described by [22]. The 95% conﬁdence interval (CI) was calculated for each ratio
+following the delta method. The overall effect and its 95% CI followed random-effects meta-
+analysis methods, as described previously [22,23] (Supplementary Figure S1B). Finally, the
+weight of each study was determined by the inverse of the variance to help identify studies
+with stronger results, i.e., larger sample size and/or smaller variance (Supplementary
+Figure S1B).
+Meta-analysis forest plots were created using Excel 16.0. For studies with more than
+one study arm (e.g., derivation and validation cohorts), each arm was treated as a separate
+study but labeled accordingly. Tests for heterogeneity between studies involved the chi-
+squared statistic, Q [22], which was used to calculate I2 (where I2 = 100% × (Q − df)/Q;
+where df is degrees of freedom), a measure of inconsistency which represents the percentage
+of the chi-squared statistic not explained by the variance within the studies [24]. Due to
+
+[W4366393059 PDF PAGE 4]
+Cells 2023, 12, 1184 4 of 16
+high heterogeneity and in an attempt to limit this, sub-group analysis was also performed
+as per above for each technology.
+3. Results
+3.1. Study Inclusion
+The database search returned 1933 results, and a further 10 studies were identiﬁed
+through cross-referencing. After excluding studies that did not match the study type (i.e.,
+systematic reviews, conference proceedings, etc.), did not involve human subjects, were not
+published in English, or were published prior to 2012, 488 studies remained. The abstracts
+for these 488 studies were screened against the criteria described in Methods. From this,
+312 studies were excluded, and 176 remained for full-text assessment for eligibility. A
+further 128 studies were excluded for various reasons, as indicated in the ﬂow diagram
+(Figure 1). This left 48 studies eligible for inclusion in data synthesis for this meta-analysis.
+Cells 2023, 12, x FOR PEER REVIEW  4 of 17 
+ 
+ 
+identify studies with stronger results, i.e., larger sample size and/or smaller variance (Sup-
+plementary Figure S1B).  
+Meta-analysis forest plots were created using Excel 16.0. For studies with more than 
+one study arm (e.g., derivation and validation cohorts), each arm was treated as a separate 
+study but labeled accordingly. Tests for heterogeneity between studies involved the chi-
+squared statistic, Q [22], which was used to calculate I2 (where I2 = 100% × (Q − df)/Q; 
+where df is degrees of freedom), a measure of inconsistency which represents the percent-
+age of the chi-squared statistic not explained by the variance within the studies [24]. Due 
+to high heterogeneity and in an attempt to limit this, sub-group analysis was also per-
+formed as per above for each technology. 
+3. Results 
+3.1. Study Inclusion  
+The database search returned 1933 results, and a further 10 studies were identiﬁed 
+through cross-referencing. After excluding studies that did not match the study type (i.e., 
+systematic reviews, conference proceedings, etc.), did not involve human subjects, were 
+not published in English, or were published prior to 2012, 488 studies remained. The ab-
+stracts for these 488 studies were screened against the criteria described in Methods. From 
+this, 312 studies were excluded, and 176 remained for full-text assessment for eligibility. 
+A further 128 studies were excluded for various reasons, as indicated in the ﬂow diagram 
+(Figure 1). This left 48 studies eligible for inclusion in data synthesis for this meta-analysis.  
+ 
+Figure 1. Study inclusion ﬂow diagram. 
+Of the 48 included studies, there were data on both plasma/serum t-tau and p-tau181 
+in 11 studies, a total of 21 cohorts from which p-tau181 concentrations were collected, and 
+a total of 42 cohorts collecting t-tau concentrations. A total of 41 studies reported data for 
+t-tau in AD patients vs. CU, 25 studies reported data on t-tau in MCI vs. CU, 20 studies 
+included data on p-tau181 in AD vs. CU, 12 studies included data on p-tau181 in MCI vs. 
+CU, 3 studies included p-tau217 data in AD vs. CU, 2 included p-tau217 in MCI vs. CU, 
+and 1 included p-tau231 in AD vs. CU as well as MCI vs. CU. 
+Figure 1. Study inclusion ﬂow diagram.
+Of the 48 included studies, there were data on both plasma/serum t-tau and p-tau181
+in 11 studies, a total of 21 cohorts from which p-tau181 concentrations were collected, and
+a total of 42 cohorts collecting t-tau concentrations. A total of 41 studies reported data for
+t-tau in AD patients vs. CU, 25 studies reported data on t-tau in MCI vs. CU, 20 studies
+included data on p-tau181 in AD vs. CU, 12 studies included data on p-tau181 in MCI vs.
+CU, 3 studies included p-tau217 data in AD vs. CU, 2 included p-tau217 in MCI vs. CU,
+and 1 included p-tau231 in AD vs. CU as well as MCI vs. CU.
+3.2. Systematic Review and Quality Assessment
+Data from a total of 15,713 study participants: CU = 10,340, MCI = 2363, AD = 2880
+were collected from the 48 included studies. The studies included in the data synthesis
+were mainly longitudinal, where blood samples were taken at baseline, and cross-sectional
+studies, where patient groups were compared at an individual time point.
+
+[W4366393059 PDF PAGE 5]
+Cells 2023, 12, 1184 5 of 16
+Data were reported in mean (SD) pg/mL for all the cohorts except for 6 cohorts
+from 3 different studies, where data were reported in median (IQR) pg/mL or arbitrary
+units (AU). For t-tau, the concentrations reported in all studies ranged from a mean (SD)
+of 0.32 (0.32) pg/mL to 530 (193.6) pg/mL in the AD group, from 0.31 (0.16) pg/mL to
+729.8 (225.6) pg/mL in the MCI group, and from 1.6 (0.9) pg/mL to 819.5 (294.4) pg/mL
+in the CU group. For p-tau181, the concentrations reported ranged from a mean of
+0.17 (0.17) pg/mL to 150 (57.7) pg/mL in the AD group, from 2.9 (1) to 22.8 (9.9) in the MCI
+group, and from 0.04 (0.08) pg/mL to 107 (57.8) pg/mL in the CU group. For p-tau217, the
+concentrations reported ranged from a mean of 0.32 (0.17) pg/mL to 7.75 (5.34) pg/mL in
+the AD group, from 0.31 (0.16) to 4.56 (3.11) in the MCI group, and from 0.07 (0.03) pg/mL
+to 1.79 (1.95) pg/mL in the CU group. In the only eligible study for ptau231, reported
+concentrations were 29.22 (8.20) pg/mL in the AD group, 19.45 (7.10) pg/mL in the MCI
+group, and 14.94 (4.10) pg/mL in the CU group. The biomarker data extracted from the
+studies, as well as the assays used in each study, have been summarised in the Supplemen-
+tary Materials (Table S1). The studies used a variety of assay formats, but the type of assay
+could be broadly divided into 5 categories: Single Molecule Array (SIMOA: 14 studies t-tau,
+14 studies p-tau181, 2 studies p-tau217, 1 study p-tau231), immunomagnetic reduction
+(IMR: 15 studies t-tau, 4 studies p-tau181), electrochemiluminescence (ECL: inclusive of
+Elecsys-ECL and MSD-ECL: 3 studies t-tau, 2 studies p-tau217), enzyme-linked immunosor-
+bent assay (ELISA: 9 studies t-tau, 2 studies p-tau181), and liquid chromatography–mass
+spectrometry (LC–MS: 1 study t-tau, 1 study p-tau181, 1 study p-tau217). There was a total
+of 30 distinct assays from all cohorts. Data for all cohorts were obtained using commercial
+assays except in 9 studies, 6 of which employed ELISA and 3 which employed “homebrew”
+SIMOA. Despite using commercial assays, several studies implemented variations to the
+quantiﬁcation of plasma/serum biomarkers, such as using antibodies outside the commer-
+cial kit or calibrating a commercial assay with antibodies from a different commercial assay.
+A table summarising details for all included studies is presented in the supplementary
+Appendix (Table S2).
+The most common diagnostic criteria used in studies were those developed by the
+NIA-AA [25]. Others included the Diagnostic and Statistical Manual of Mental Disor-
+ders (DSM-IV) [26], the International Classiﬁcation of Diseases (ICD10), Petersen criteria
+for MCI [ 27], and the National Institute of Neurological and Communicative Diseases
+and Stroke/Alzheimer’s Disease and Related Disorders Association criteria (NINCDS-
+ADRDA) [28]. The quality of all studies was assessed as high with low bias using the
+modiﬁed QU

@@ -1,0 +1,164 @@
+. Benefit to cost of vaccina-
+tion against mycoplasma hyopneumoniae in pig herds under Belgian market 
+conditions from 1996 to 2000. Livest Prod Sci. 2003;83(1):85–93.
+84. Stipkovits L, Laky Z, Abonyi T, Siugzdaite J, Szabo I. Reduction of economic 
+losses caused by mycoplasmal Pneumonia of pigs by vaccination with respi -
+sure and by Tiamutin treatment. Acta Vet Hung. 2003;51(3):259–71.
+85. Holyoake PK, Callinan APL. How effective is Mycoplasma hyopneumoniae 
+vaccination in pigs less than three weeks of age? J Swine Health Prod. 
+2006;14(4):189–95.
+86. Schaefer N, Morrison R. Effect on total pigs weaned of herd closure for 
+elimination of porcine reproductive and respiratory syndrome virus. J Swine 
+Health Prod. 2006;15(3).
+87. Rapp-Gabrielson VJ, Hoover T, Sornsen S, Kesl L, Taylor L, Jolie R et al. Effects 
+of Mycoplasma hyopneumoniae vaccination in pigs co-infected with M hyo -
+pneumoniae and porcine circovirus type 2. J Swine Health Prod. 2007;16(1).
+88. Stygar AH, Niemi JK, Oliviero C, Laurila T, Heinonen M. Economic value of 
+mitigating Actinobacillus pleuropneumoniae Infections in pig fattening 
+herds. Agric Syst. 2016;144:113–21.
+89. Kaalberg L, Geurts V, Jolie R. A field efficacy and safety trial in the Netherlands 
+in pigs vaccinated at 3 weeks of age with a ready-to-use porcine circovirus 
+type 2 and Mycoplasma hyopneumoniae combined vaccine. Porcine Health 
+Manag. 2017;3(23):23.
+90. Duivon D, Correge I, Hemonic A, Rigaut M, Roudaut D, Jolie R. Field evalu-
+ation of piglet vaccination with a Mycoplasma hyopneumoniae bacterin 
+as compared to a ready-to-use product including porcine circovirus 2 and 
+M. Hyopneumoniae in a conventional French farrow-to-finish farm. Porcine 
+Health Manag. 2018;4(4):4.
+91. Thomann B, Rushton J, Schuepbach-Regula G, Nathues H. Modeling Eco -
+nomic effects of Vaccination against Porcine Reproductive and Respiratory 
+Syndrome: impact of Vaccination Effectiveness, Vaccine Price, and Vaccination 
+Coverage. Front Vet Sci. 2020;7:500.
+92. Abella G, Pages-Bernaus A, Estany J, Pena RN, Fraile L, Pla-Aragones LM. Using 
+PRRSV-Resilient sows improve performance in endemic infected farms with 
+recurrent outbreaks. Anim (Basel). 2021;11(3):1–16.
+93. Quezada-Fraide EA, Peñuelas-Rivas CG, Moysén-Albarrán FS, Trujillo-Ortega 
+ME, Martínez-Castañeda FE. Productive performance and costs of swine 
+farms with different PRRS virus vaccination protocols. Revista Mexicana De 
+Ciencias Pecuarias. 2021;12(1):205–16.
+94. Jerlström J, Huang W, Ehlorsson C-J, Eriksson I, Reneby A, Comin A. Stochastic 
+partial budget analysis of strategies to reduce the prevalence of lung lesions 
+in finishing pigs at slaughter. 2022.
+95. Dijkhuizen A, Morris R, Huirne R. Animal health economics: principles and 
+applications. Post Graduate Foundation in Veterinary Science. 1997:25–39.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.
+
+END REVIEW W4387696559
+
+
+REVIEW W4387764535
+TITLE: Molecular mechanisms of action of negative pressure wound therapy: a systematic review
+SOURCE_NOTES: [{"annotator": "pierre", "field": "keywords_used", "comment": "The PDF says the search used pre-specified keywords and refers to Supplementary File 1, but does not list the search terms in the PDF; the front-page publication keywords are not the search strategy."}]
+EXTRACTION_ERROR: None
+
+[W4387764535 PDF PAGE 1]
+Expert Reviews in Molecular
+Medicine
+cambridge.org/erm
+Review
+Cite this article:Ravindhran B, Schafer N,
+Howitt A, Carradice D, Smith G, Chetter I
+(2023). Molecular mechanisms of action of
+negative pressure wound therapy: a systematic
+review.Expert Reviews in Molecular Medicine
+25,e 2 9 ,1–10. https://doi.org/10.1017/
+erm.2023.24
+Received: 15 March 2023
+Revised: 29 July 2023
+Accepted: 20 September 2023
+Keywords:
+biomarkers; molecular mechanisms; negative-
+pressure wound therapy; wound care; wound
+healing
+Corresponding author:
+Bharadhwaj Ravindhran;
+Email:bharadhwaj.ravindhran@nhs.net
+© The Author(s), 2023. Published by
+Cambridge University Press. This is an Open
+Access article, distributed under the terms of
+the Creative Commons Attribution licence
+(http://creativecommons.org/licenses/by/4.0/),
+which permits unrestricted re-use, distribution
+and reproduction, provided the original article
+is properly cited.
+Molecular mechanisms of action of negative
+pressure wound therapy: a systematic review
+Bharadhwaj Ravindhran1,2
+ , Nicole Schafer1, Annabel Howitt1,
+Daniel Carradice1, George Smith1 and Ian Chetter1
+1Academic Vascular Surgical Unit, Hull Royal Infirmary, Hull, UK and2Department of Health Sciences, University of
+York, York, UK
+Abstract
+Negative pressure wound therapy (NPWT) has significantly advanced wound care and con-
+tinues to find new applications. Its effects at a molecular level however, remain a subject of
+debate. The aim of this systematic review is to summarize the current evidence regarding
+the molecular mechanisms of action of NPWT. Medline, Embase, EBSCO databases and clin-
+ical trial registries were searched from inception to January 2023. Clinical studies, animal
+models or in-vitro studies that quantitatively or semi-quantitatively evaluated the influence
+of NPWT on growth factors, cytokine or gene-expression in the circulation or wound-bed
+were included. Risk of Bias assessment was performed using the RoBANS tool for non-ran-
+domized studies, the COCHRANE’s Risk of Bias 2(ROB-2) tool for randomized clinical stud-
+ies, OHAT tool for in-vitro studies or the SYRCLE tool for animal model studies. A
+descriptive summary was collated and the aggregated data is presented as a narrative synthesis.
+This review included 19 clinical studies, 11 animal studies and 3 in-vitro studies. The effects of
+NPWT on 43 biomarkers and 17 gene expressions were studied across included studies.
+NPWT stimulates modulation of numerous local and circulating cytokines and growth factor
+expressions to promote an anti-inflammatory profile. This is most likely achieved by down-
+regulation of TNFα, upregulation of VEGF, TGF-β and fibronectin.
+Introduction
+Open surgical wounds or surgical wounds healing by secondary intention are a common and
+complex problem. These wounds frequently take a long time to heal, require regular dressing
+changes and present a significant morbidity to the patient and a significant financial burden to
+healthcare systems. They may need many modalities of treatment, are susceptible to secondary
+infection, and may also require prolonged hospitalization and/or further operations (Ref.1).
+The requirement to manage exudate and avoid repeated wound dressing changes has led to
+a significant increase in the use of newer modalities of wound management such as negative
+pressure wound therapy (NPWT) (Ref.2).
+NPWT is currently used widely in many aspects of wound care and has been strongly pro-
+moted for use on complex wounds (Refs3, 4). NPWT involves the application of an airtight
+wound dressing through which a negative pressure is applied, often with any wound and tissue
+fluid drawn away from the area being collected into a canister. The amount of pressure applied
+using the therapy can vary and there is no universally agreed protocol for its use (Ref.5). A
+number of surgical and non-surgical specialties prescribe NPWT leading to its widespread
+implementation in both primary/community care and in tertiary care (Refs6, 7).
+NPWT is postulated to facilitate wound healing via several primary and secondary mechan-
+isms. The proposed primary mechanisms of action include macro-deformation or wound
+shrinkage, micro-deformation at the foam-wound interface, fluid removal whilst maintaining
+a moist environment and stabilization of the wound environment. The proposed secondary
+mechanisms include alteration of the mechanotransduction pathways and alteration of the
+wound healing microenvironment including cellular proliferation, differentiation, cell migra-
+tion, angiogenesis and neurogenesis. Many theories have been proposed to support these pri-
+mary and secondary mechanisms at a molecular level and the aim of this systematic review is
+to summarize the currently available evidence regarding the molecular mechanisms of action
+of NPWT (Refs8, 9, 10, 11, 12, 13, 14, 15).
+Methods
+Search strategy
+Medline, Embase and Elton Bryson Stephens Company (EBSCO) databases, and Clinical trial
+registries were searched from inception to January 2023 using pre-specified key words
+(Supplementary file 1). Article screening and extraction was performed by two authors (BR
+and NS) using the Rayyan online screening and data tool (Ref.16). The reference lists of
+the retrieved articles and similar review articles in the field were also searched to identify add-
+itional papers. Studies that examined the mechanism of action of NPWT in patients or in
+https://doi.org/10.1017/erm.2023.24 Published online by Cambridge University Press
+
+[W4387764535 PDF PAGE 2]
+animal models in preclinical studies or in-vitro studies were
+included. We included studies that evaluated the effect of any
+form of NPWT on open surgical wounds including diabetic
+foot ulcers, pressure ulcers, surgical site infections (SSI), traumatic
+wounds and post-operative wounds. Studies which focussed on
+the effects of NPWT on primarily closed wounds or stoma cre-
+ation were excluded. Case reports, non-English papers, editor-
+ials/commentaries, reviews, letters and papers with limited data
+on methodology were excluded. The study was registered in the
+PROSPERO database (CRD42022303088) and was performed
+according to Preferred Reporting Items for Systematic Reviews
+and Meta Analyses (PRISMA) guidelines (Ref.17).
+Data extraction
+The key details regarding the method and results were recorded
+on a bespoke data extraction sheet. Data extraction was conducted
+by two independent reviewers (BR and NS). Discrepancies were
+resolved by discussion amongst the authors and a tie-breaking
+vote from the authors not involved in the screening 

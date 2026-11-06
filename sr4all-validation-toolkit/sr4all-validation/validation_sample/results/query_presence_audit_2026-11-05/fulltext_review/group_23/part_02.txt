@@ -1,0 +1,352 @@
+w
+risk; yellow = unknown risk; red
+= high risk; n.a, is not applicable
+343J Cancer Surviv  (2022) 16:338–352
+1 3
+
+[W3137098375 PDF PAGE 7]
+comparisons between FS and other ALVSD parameters
+were found in these studies.
+Risk factors
+Five out of six studies that reported multivariable risk factor
+analyses on either dichotomous or continuous outcomes
+(Table 2) agreed on the incremental risk of ALVSD with
+increasing cumulative anthracycline dose [ 17, 18, 20–22].
+For abnormal LVEF and FS, the risk ratios increased with
+higher dose categories. However, in the study assessing
+GLS, the risk ratios showed a more stable elevation through-
+out dose categories, compared to LVEF [ 18]. Furthermore,
+GLS as a continuous outcome variable was not associated
+with anthracycline dose [ 13]. Either radiation exposure or
+dose to the heart region were identified as risk factors by three
+out of four studies that assessed radiotherapy, and across all
+systolic function parameters [ 17, 18, 20]. Younger age at di-
+agnosis and shorter follow-up duration were associated with
+abnormal FS in one of the three studies that analysed these
+variables [20]. Only one study found a sex association with,
+discrepantly, more males with an LVEF < 50%, but more
+females with abnormal GLS (sex-specific normative values).
+The same study analysed traditional cardiovascular risk fac-
+tors and found hypertension associated with an abnormal
+LVEF and all components of the metabolic syndrome and
+attained age to be associated with an abnormal GLS [ 18].
+Discussion
+This systematic review shows a high variation in the preva-
+lence of ALVSD in long-term CCS, also when including con-
+temporary echocardiographic measurements such as myocar-
+dial strain. The heterogeneity in cardiotoxic exposure and time
+since diagnosis, within and between cohorts, as well as het-
+erogeneous measurement methods and cut-off values for ab-
+normality, prevented pooling of data. This makes large cohort
+studies and pooling of individual patient data the most appro-
+priate ways to study the epidemiology of ALVSD in long-
+term CCS. The prevalence of abnormal GLS is higher com-
+pared to abnormal LVEF, and both are increased in studies
+with longer periods of follow-up. The reviewed studies add
+data to the conclusions from our previous review on the
+Fig. 3 Prevalence of asymptomatic left ventricular systolic dysfunction in
+childhood cancer survivors. Pre valence is depicted for different
+echocardiographic parameters and cut-off points in the included studies.
+*Mean ± SD. Closed symbols depict the original cut-offs from the stud-
+ies, open symbols were extracted from additional data provided by
+authors. Symbol size depicts sample size. Continuous values are median
+[range]. ANT = anthracycline, CI = confidence interval, FS = fractional
+shortening, GLS = global longitudinal strain, RT = radiotherapy on the
+heart region
+344 J Cancer Surviv  (2022) 16:338–352
+1 3
+
+[W3137098375 PDF PAGE 8]
+Table 2 Reported risk factors for asymptomatic l eft ventricular systolic dysfunction
+1st Author, year Population Outcome defini tion; (% abnormal) Tested risk factors
+(reference category)
+Tested categories (effect size; 95% confidence interval) Model
+comments
+Slieker, 2019 [13] n = 546
+Last
+anthracycline
+dose + ≥ 3
+years.
+Attained age <
+18 years
+No stem cell
+transplant,
+congenital
+heart disease
+or familial
+cardiomyop-
+athy
+GLS Z-score (continuous) Attained age, years β −0.086; −0.140– −0.031 Includes 14%
+survivors
+3-5 years
+since
+diagnosis
+Age at diagnosis, years n.m. a
+Female sex n.m.a
+B o d ys u r f a c ea r e ap e r0 . 1
+m2 increment
+β −0.065; −0.118– −0.013
+Years since last
+anthracycline dose
+n.m.a
+Heart RT exposure n.m. a
+Anthracycline dose per 50
+mg/m2 increment
+n.m.a
+Dexrazoxane therapy n.m. a
+Christiansen, 2016 [17] n = 231
+Acute
+lymphoblas-
+tic
+leukaemia/-
+lymphoma,
+diagnosis + ≥
+5y e a r s ,
+attained age
+≥ 18 years
+GLS
+> − 18.3% (female)
+> − 17.2% (male)
+(32%)
+Age at diagnosis OR 0.96; 0.90 –1.03 23% had no
+anthracycline
+exposure
+Attained age OR 1.02; 0.98 –1.06
+Heart RT exposure OR 5.2; 2.2 –12
+Anthracycline dose (<
+300 mg/m2)
+>300 (OR 4.8; 1.7 –14)
+Armstrong, 2015 [18] n = 1807
+any cancer,
+anthracycline
+or Heart RT,
+diagnosis + ≥
+10 years,
+attained age
+≥ 18 years
+3D LVEF < 50%
+(5.8%)
+Ethnicity (non-Hispanic
+white)
+Other (RR 1.53; 0.93 –2.52) 17% had no
+anthracycline
+exposureFemale sex RR 0.54; 0.36 –0.83
+Age at diagnosis ( ≥ 15
+years)
+0–4( R R0 . 6 6 ;0 . 3 5–1.27), 5–9( R R0 . 6 7 ;0 . 3 6–1.25), 10–14 (RR 1.02;
+0.59–1.76)
+Attained age (18–30
+years)
+31–40 (RR 1.38; 0.81 – −2.35), > 40 (RR 0.98; 0.52 –1.84)
+Heart RT dose (0 Gy) 1-19 (RR 1.24; 0.70 –2.22), 20–29 (RR 1.86; 1.00 –3.45), ≥ 30 (RR
+7.99; 3.88–16.48)
+Anthracycline dose (0
+mg/m2)
+1–100 (RR 1.74; 0.66 –4.61), 101-200 (RR 2.80; 1.24 –6.31), 201-300
+(RR 3.80; 1.59 –9.10), 301-400
+(RR 4.76; 2.16 – 10.50), > 400 (RR 7.71; 3.04 – 19.57)
+Metabolic syndrome (≥ 3
+of the following)
+RR 1.07; 0.74 –1.53
+Waist circumference >
+102 (male) > 88 cm
+(female)
+RR 1.34; 0.99-1.82
+Triglycerides > 150 mg/dl RR 1.01; 0.70 –1.44
+HDL < 40 (male) < 50
+mg/dl (female)
+RR 1.01; 0.74 –1.38
+Blood pressure ≥ 130/
+and/or /85 mmHg or
+treated
+RR 1.44; 1.22 –1.70
+RR 1.02; 0.75 –1.39
+345J Cancer Surviv  (2022) 16:338–352
+1 3
+
+[W3137098375 PDF PAGE 9]
+Table 2 (continued)
+1st Author, year Population Outcome defini tion; (% abnormal) Tested risk factors
+(reference category)
+Tested categories (effect size; 95% confidence interval) Model
+comments
+Fasting glucose > 100
+mg/dl or diabetes treat-
+ment
+GLS > age/sex norm
+(31.8%)
+Ethnicity (non-Hispanic
+white)
+Other (RR 1.22; 1.03 –1.46)
+Female sex RR 1.55; 1.34 –1.79
+Age at diagnosis ( ≥ 15
+years)
+0–4 (RR 1.02; 0.82–1.27), 5–9 (RR 0.92; 0.74 – 1.15), 10–14 (RR 1.02;
+0.83–1.24)
+Attained age (18–30
+years)
+31–40 (RR 1.25; 1.05 –1.48), > 40 (RR 1.49; 1.20 –1.85)
+Heart RT dose (0 Gy) 1–19 (RR 1.38; 1.14 –1.66), 20–29 (RR 1.65; 1.31 – 2.08), ≥ 30 (RR
+2.39; 1.79–3.18)
+Anthracycline dose (0
+mg/m2)
+1–100 (RR 1.38; 1.05 –1.82),1 0 1–200 (RR 1.16; 0.89 –1.50), 201–300
+(RR 1.06; 0.78–1.45), 301–400 (RR 1.72; 1.31 –2.26), > 400 (RR
+1.73; 1.19–2.50)
+Metabolic syndrome (≥ 3
+of the following)
+RR 1.94; 1.66 –2.28
+Waist circumference >
+102 (male) > 88 cm
+(female)
+RR 1.73; 1.48 –2.01
+Triglycerides > 150 mg/dl RR 1.65; 1.40 –1.95
+HDL < 40 (male) < 50
+mg/dl (female)
+RR 1.40; 1.23 –1.59
+Blood pressure ≥
+130/and/or /85 mmHg
+or treated
+RR 1.48; 1.33 –1.65
+Fasting glucose > 100
+mg/dl or diabetes treat-
+ment
+RR 1.37; 1.19 –1.59
+GCS > age/sex norm
+(23.1%)
+Ethnicity (non-Hispanic
+white)
+Other (RR 0.84; 0.64 –1.09)
+Female sex RR 1.01; 0.84 –1.21
+Age at diagnosis ( ≥ 15
+years)
+0–4( R R1 . 2 4 ;0 . 9 2–1.67), 5–9( R R1 . 0 1 ;0 . 7 4–1.38), 10–14 (RR 1.11;
+0.84–1.48)
+Attained age (18–30
+years)
+31–40 (RR 0.85; 0.69 –1.06), > 40 (RR 0.98; 0.73 –1.33)
+Heart RT dose (0 Gy) 1 –19 (RR 0.86; 0.66 –1.11), 20–29 (RR 1.14; 0.83 –1.57), ≥ 30 (RR
+1.64; 1.05–2.56)
+Anthracycline dose (0
+mg/m2)
+1–100 (RR 0.99; 0.66 –1.48), 101–200 (RR 1.24; 0.86 –1.79), 201–300
+(RR 1.36; 0.90 – 2.04), 301–400 (RR 1.61; 1.08 –2.40), > 400 (RR
+1.34; 0.78–2.31)
+Metabolic syndrome (≥ 3
+of the following)
+RR 1.02; 0.84 –1.24
+Waist circumference >
+102 (male) > 88 cm
+(female)
+RR 1.10; 0.92 –1.32
+Triglycerides > 150 mg/dl RR 1.01; 0.82 –1.13
+HDL < 40 (male) < 50
+mg/dl (female)
+RR 0.92; 0.78 –1.08
+346 J Cancer Surviv  (2022) 16:338–352
+1 3
+
+[W3137098375 PDF PAGE 10]
+Table 2 (continued)
+1st Author, year Population Outcome defini tion; (% abnormal) Tested risk factors
+(reference category)
+Tested categories (effect size; 95% confidence interval) Model
+comments
+Blood pressure ≥ 130/
+and/or /85 mmHg or
+treated
+RR 1.04; 0.92 –1.18
+Fasting glucose > 100
+mg/dl or diabetes treat-
+ment
+RR 1.06; 0.89 –1.25
+van der Pal, 2010 [ 20] n = 525
+any cancer,
+anthracyclin-
+e/RT/high
+dose
+cyclo-/-
+ifosfamide,
+diagnosis +
+≥5y e a r s ,
+attained age
+≥ 18 years
+FS
+(continuous)
+Male sex β 0.77 (−0.27–1.80) 31% had no
+anthracycline
+exposure
+Age at diagnosis (>15
+years)
+0–5( β −3.55; −5.80– −1.30) > 5 –10 (β −1.95; −4.03–0.12), > 10 –15
+(β −1.32; −3.21–0.58)b
+Time since diagnosis
+(5-10 years)
+10–15 (β 0.41; −1.25–2.08), 15–20 (β 1.71; −0.07–3.50), 20–25 (β
+2.07; −0.08–4.22), > 25 years ( β 4.86; 2.28–7.43)b
+Vincristine exposure β −1.30; −2.88–0.27
+Anthracycline dose
+(0–150 mg/m2)
+151–300 (β −1.93; −3.71−− 0.15), 301–450 (β −4.24; -6.32−− 2.16), >
+450
+(β −5.38; −7.98−− 2.79)b
+Cyclophosphamide (≤ 10
+g/m2)
+No (β 0.38; -1.13–1.90), >10 ( β -0.85; -2.91–1.22)
+Ifosfamide (≤ 10 g/m2)N o ( β 0.54; −2.89–3.96), > 10 ( β 0.66; −3.06–4.39)
+RT exposure (none) Thorax (β − 3.67; − 5.54 − − 1.79), Abdomen (β − 3.54; -5.87−−
+1.20), Spine
+(β −− 0.79; − 2.92–1.24), total body ( β − 0.53; − 4.01–2.94)
+FS < 30%
+(27%)
+Male sex OR 0.73; 0.47 –1.13
+Age at diagnosis (> 15
+years)
+0–5( O R2 . 9 4 ;1 . 0 8–8.02), > 5–10 (OR 1.64; 0.67– 4.01), > 10–15 (OR
+1.45; 0.64–3.28)b
+Time since diagnosis
+(5–10 years)
+10–15 (OR 0.80; 0.41–1.54), 15–20 (OR 0.40; 0.18–0.86), 20–25 (OR
+0.48; 0.19–1.23), > 25 (OR 0.11; 0.03 –0.42)b
+Vincristine exposure OR 1.47; 0.71 –3.05
+Anthracycline dose
+(0–150 mg/m2)
+151–300 (OR 3.98; 1.58 –10.01), 301–450 (OR 7.77; 2.85 –21.22), >
+450 (OR 10.58; 3.35 –33.40)b
+Cyclophosphamide (≤ 10
+g/m2)
+No (OR 1.01; 0.52 –1.99), > 10 (OR 1.01; 0.45 –2.26)
+Ifosfamide (≤ 10 g/m2)N o ( O R 1 . 2 5 ; 0 . 2 3 –6.67), > 10 (OR 1.50; 0.26 –8.82)
+RT exposure (none) Thorax (OR 3.49; 1.60 –7.61), Abdomen (OR 2.66; 1.00 –7.05), Spine
+(OR 0.64; 0.23–1.74), total body (OR 0.53; 0.10 –2.87)
+Hudson, 2007 [21] n = 278
+various cancers,
+no congenital
+heart
+disease/congestive heart
+failure/chronic illness/trisomy21/-
+anaemia
+FS
+(continuous)
+Age at diagnosis < 5 years (mean
+35%), ≥ 5
+years (mean
+32%)
+22% had no
+anthracycline exposure
+Diagnosis group Leukaemia
+(mean 36%),
+Sarcoma
+(mean 32%),
+Lymphoma
+(mean 33%),
+Embryonal
+(mean 34%)
+QTc time Normal (mean
+34%),
+347J Cancer Surviv  (2022) 16:338–352
+1 3
+
+[W3137098375 PDF PAGE 11]
+Table 2 (continued)
+1st Author, year Population Outco

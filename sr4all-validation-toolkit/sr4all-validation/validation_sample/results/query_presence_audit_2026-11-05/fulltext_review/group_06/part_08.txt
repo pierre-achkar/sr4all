@@ -1,0 +1,146 @@
+ the Mind), and exposure and outcome 
+measurement. This diversity reflects different approaches to improving children’s 
+psychosocial outcomes, such as supporting parents or helping teachers to manage classroom 
+behaviour. Each approach points to different conceptualisations of where psychosocial 
+problems arise and for how, where and whom to intervene (e.g. teachers, psychologists, 
+community nurses or social workers).  
+ 
+Language and cognitive outcomes:  The relatively small number of studies in this outcome 
+domain (n=28) produced a wide range of effects. Three reasonably-sized cluster RCTs 
+provide the best estimate of the effect of non-cognitive skills on language and cognitive 
+outcomes.24,50 They found small effects of ~0.1-0.2 SD.  The larger effect sizes (>0.3 SD) are 
+from a well-designed regression discontinuity study (0.44SD),59 a non-randomised 
+intervention (0.55-0.73 SD)60 and a small, low quality randomised trial.61  However, all these 
+studies were small (ranging from N = 12 to 64) and reported effects that attenuated over time 
+or were inconsistent at different ages. The observational studies provide little evidence that 
+the effects are likely to be bigger than ~0.1-0.2 SD, with five of seven longitudinal studies 
+showing few differences and cross-sectional studies reporting mixed effects (-0.38 to 0.56 
+SD).  The longitudinal studies were dominated by non-cognitive skills measured using the 
+HTKS and the WJ Picture Vocabulary as the outcome, and despite the popularity of these 
+measurement tools, the results indicate no effects on vocabulary outcomes. Thus, non-
+cognitive abilities appear to have small effects on cognitive and language outcomes (≤0.2 
+SD).  
+ 22 
+not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+The copyright holder for this preprint (which wasthis version posted March 10, 2017. ; https://doi.org/10.1101/115691doi: bioRxiv preprint 
+
+[W2595724917 PDF PAGE 23]
+ 
+ 
+ 
+Physical health outcomes: We cannot draw reliable conclusions for the effect of non-
+cognitive abilities on health as there were only eight studies of highly diverse outcomes with 
+results spanning null to small effects. 
+ 
+Limitations of this review 
+While the compilation of 375 publications was systematic and replicable, our assessment of 
+the quality of the evidence is based on our judgement of the potential for bias. We a priori 
+created criteria for bias based on well-established procedures including quality appraisal tools, 
+evidence hierarchies, directed acyclic graphs and content knowledge about potential sources 
+of confounding and selection bias.  While this involves an element of subjective judgement, 
+we are confident that any other reasonable assessment of the quality of evidence would not 
+change the overall conclusions of the review presented here.  
+ 
+It is possible that some relevant articles were not included in this review, even though we 
+undertook an extensive search that included multiple databases, numerous search terms, 
+contacting authors of potentially-relevant papers, and hand searching reference lists of 
+published papers. Studies of systematic review methods have shown that the most difficult to 
+find articles are often smaller, are poorer quality and the results are unlikely to unduly 
+influence the findings in an already large systematic review.62  
+ 
+The value of a systematic review  
+While there have been reviews of some aspects of non-cognitive skills,2,3,13,14,47,63 none have 
+been systematic in covering the entire literature, or included screening for evidence quality. It 
+has long been recognised in health and medical research that non-systematic reviews of 
+ 23 
+not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+The copyright holder for this preprint (which wasthis version posted March 10, 2017. ; https://doi.org/10.1101/115691doi: bioRxiv preprint 
+
+[W2595724917 PDF PAGE 24]
+ 
+ 
+research enable the selective use of evidence to support a particular argument.62 For evidence 
+consumers, who are often not evidence-quality specialists, competing claims about effects of 
+non-cognitive abilities based on particular studies are hard to reconcile without the safety net 
+of a systematic review. We have paid particular attention in this review to issues of quality of 
+the primary evidence. There is little point in summarising evidence that includes obviously 
+flawed studies that can only distort the overall results and reduce the value of the systematic 
+nature of the review.64 
+ 
+This review covers the entire inter-disciplinary research field on the development of non-
+cognitive skills.  The scope of the review should minimise ‘cherry picking’ of results to 
+bolster a particular concept, theory or intervention. This is necessary to advance knowledge 
+given the multidisciplinary nature of this field and is central for informing interventions to 
+boost life chances for disadvantaged children. In health sciences, major advances have been 
+made by coming to agreement and attempting, where possible, to harmonise methods for 
+measuring exposures, outcomes, synthesising and reporting of outcomes. This work includes 
+collaborative efforts such as the EQUATOR network (http://www.equator-network.org/). 
+Such efforts are needed to reduce waste in research,64,65 and improve reproducibility of 
+scientific findings.66,67  
+ 
+Implications for future research 
+What are the active ingredients of non-cognitive skills? 
+Research that has examined non-cognitive skills in childhood has spanned many disciplines 
+and research traditions, leading to a large number of constructs and tasks being investigated 
+that are sometimes similar in their definition and operationalisation.68,69,70 In 1927, Kelley 
+labelled this the “jangle” fallacy71 (pg. 64) where constructs are given different names but in fact 
+ 24 
+not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+The copyright holder for this preprint (which wasthis version posted March 10, 2017. ; https://doi.org/10.1101/115691doi: bioRxiv preprint 
+
+[W2595724917 PDF PAGE 25]
+ 
+ 
+are virtually identical. This idea has been recently raised in regard to the concept of “grit” 
+which apparently closely overlaps with perseverance.72 It is not uncommon for the same 
+objective tasks to be used as measures of different conceptualisations of non-cognitive 
+abilities. For example the Continuous Performance Task (aka “Go/No Go” task) is used in 
+executive functioning research as a measure of sustained attention and inhibitory control, but 
+it is also used as a measure of effortful control.69 Similarly, the “Head-Toes-Knees-Shoulders 
+Task” has been used to measure both behavioural self-regulation73 and executive 
+functioning74. The interventions we reviewed attempted to influence many different facets of 
+non-cognitive skills. Policy makers and researchers ideally need to know what the ‘active 
+ingredients’ are, in order to enhance children’s non-cognitive skills, and ultimately, the 
+relative effectiveness of different interventions. There are no strong scientific reasons to 
+favour a specific skill over another, but nevertheless it remains important to better understand 
+what the active ingredient(s) underlying non-cognitive skills might be, if we want to support 
+their development.  
+ 
+Mechanisms of action 
+Theoretically, we might expect that interventions involving both parents and teachers might 
+have larger effects on children’s outcomes. However, a recent meta-analysis of early 
+childhood education programs found little evidence that those with parenting involvement 
+produced larger effects, unless it involved a high dose of home visits.75 Of the academic 
+outcomes reviewed here, over half (55%) involved only preschool teachers.  In our review, 
+there is little evidence to decide which mode of delivery is best and we can find no evidence 
+of attempts at purposive testing of which way to intervene (e.g. teacher, student, parent or 
+various combinations). Purposive testing of delivery mode has been usefully deployed in the 
+design of an RCT in regard to the nurse home visiting literature showing better effects using 
+ 25 
+not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+The copyright holder for this preprint (which wasthis version posted March 10, 2017. ; https://doi.org/10.1101/115691doi: bioRxiv preprint 
+
+[W2595724917 PDF PAGE 26]
+ 
+ 
+trained nurses compared to para-professionals.76 Interventions that trained children in more 
+specific skills such as executive function, generally showed small effects (e.g., Tools of the 
+Mind).50 Other studies imply that non-specific interventions seem to generate better 
+generalised outcomes,30 which may suggest that more holistic programs including multi-
+dimensional content, may better support overall child development and broad-based benefits.  
+ 
+Head-to-Head Comparisons of Interventions 
+Comparative effectiveness research has been widely promoted in health and medical science 
+as an important contribution to knowing which treatments are the most effective77,78. The 
+potential for interventions on non-cognitive skills to influence outcomes may be enhanced by 
+similar approaches. We could find almost no evidence of these sorts of purposeful 
+comparative studies in this field. Exceptions were: Barnett et al.,50 and Blair and Raver79 who 
+examined effects of Tools of the Mind intervention in cluster RCTs and both found small 
+effects of  ~0.1 SD for vocabulary. This exception highlights the potential value of these 
+comparisons. 
+ 
+Evidence Quality 
+Follow-up 
+There is a paucity of literature with long-term follow-up. Studies typically began at age 4, 
+with median follow-up of one year or less, and with almost no studies with follow-up beyond 
+age 10, there is very little evidence addressing

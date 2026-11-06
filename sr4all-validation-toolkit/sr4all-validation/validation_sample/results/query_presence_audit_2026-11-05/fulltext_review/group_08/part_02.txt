@@ -1,0 +1,250 @@
+ SRs that used
+mixed treatment comparisons including a comparison of
+Records identified through database 
+searching
+n = 2220
+Additional records identified through 
+other sources 
+n=1251
+Records after duplicates removed
+n = 3357
+Records screened
+n = 3357
+Records excluded
+n = 3116
+Full-text articles assessed 
+for eligibility
+n = 241
+Full-text articles excluded, 
+with reasons
+n = 203
+Wrong population: n=93
+Wrong intervention: n=20
+Wrong outcome: n=12
+Wrong study type: n=77
+Language: n=1Publications included in 
+qualitative synthesis
+n=38
+Included IdentificationEligibility Screening
+Fig. 1Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) flow diagram
+The Author(s)BMC Geriatrics2017, 17(Suppl 1):223 Page 77 of 157
+
+[W2767010212 PDF PAGE 6]
+Table 1Characteristics of included systematic reviews
+Source Type of
+study
+Includes
+AF-studiesN
+AF-
+patientsN
+Mean age in
+years
+Intervention Comparator mean Follow-Up in
+years
+Relevant outcomes
+AS IS HS M MB IB GB MI
+Adam et al. 2012 [31] MA 3 50,578 >70 NOACs (dabigatran, apixaban,
+rivaroxaban)
+Warfarin ≈ 2X X X
+Agarwal et al. 2012 [27] MA 8 32,053 70 – 81.5
+subgroup ≥75
+Warfarin Other thrombophylaxis (Aspirin,
+Aspirin + clopidogrel, Ximelagatran,Dabigatran, Rivaroxaban,Apixaban, Indraparinux)
+1.74
+a X
+Aguilar et al. 2005 [34] CR + MA 5 2313 69 Warfarin Placebo/control 1.5 X X X X X X
+Aguilar et al. 2007 [44] MA 8 9598 71 Warfarin, acenocumarol PAI (ASA, ASA +
+clopidogrel, triflusal)
+1.9 X X X X X X
+Andersen et al. 2008 [37] MA 15 16,058 63.3 – 81.5 warfarin Placebo, antiplatelets, low
+dose warfarin, low-dosewarfarin + aspirin
+1.7 X
+Assiri et al. 2013 [42] MTM 21 80,906 71 Pair-wise comparison of
+aspirin, aspirin + clopidogrel,warfarin, apixaban, dabigatran,edoxaban, rivaroxabanand placebo
+1.85
+a XX X X
+Baker et al. 2012 [53] MA 4 44,733 69 – 73 NOACs (dabigatran,
+apixaban, rivaroxaban)
+Warfarin indirect
+comparison of NOACs
+1.8– 2.0 X X X X X X
+Briceno 2015 [29] MA 7 73,978 70 – 74 NOACs (dabigatran,
+rivaroxaban, apixaban,edoxaban)DEVICE (Watchmanleft atrial occlusion device)
+Warfarin 1 – 2.8 X X X
+Cameron et al. 2014 [46] MTM 16 82,314 62 – 83 VKA NOACs
+ASA
+12 weeks −3.5 years X X
+Capodanno et al. 2013 [47] MA 3 50,578 71.3 NOACs (dabigatran,
+apixaban, rivaroxaban)
+Warfarin 1.9 X X X X X X X X
+Chatterje et al. 2013 [63] MA, MTM 6 57,491 69.3 – 73 NOACs (dabigatran,
+apixaban, rivaroxaban)
+Warfarin, ASA 0.23 – 2.0 X
+Coleman et al. 2012 [35] MA 16 42,983 69.5 Pair-wise comparisons of
+warfarin (adjusted + low dose),PAI, ximelagatran,dabigatran, placebo/control
+2X
+Cooper et al. 2006 [41] MTM 19 17,833 68.3 Pair-wise comparison of
+warfarin (adjusted + low dose),ASA, indobufen,ximelagtran, placebo/control
+1.8 X X
+Dogliotti et al. 2013 [48] MA 5 51,895 71.4 NOACs (dabigatran, apixaban,
+rivaroxaban, ximelagatran)
+Warfarin 1.75 X X X X X
+Dogliotti et al. 2014 [40] MTM 20 79,808 68.2 Pair-wise comparison of ASA,
+ASA plus clopidogrel, VKA,dabigatran,rivaroxaban, apixabanor placebo/control
+>1 X X X X
+The Author(s)BMC Geriatrics2017, 17(Suppl 1):223 Page 78 of 157
+
+[W2767010212 PDF PAGE 7]
+Table 1Characteristics of included systematic reviews(Continued)
+Harenberg et al. 2012 [70] MTM 3 50,578 70 – 73 NOACs (dabigatran,
+apixaban, rivaroxaban)
+Warfarin 1.88 X X X X X
+Hart et al. 1999 [4] MA 6 9874 70 Adjusted-dose warfarin, PAI Other Antithrombotic
+regimens placeboASA
+Mean FU 1.7 y1.7ears,
+ranged from 1.2 to 2.3
+XX X X X
+Hart et al. 2007 [39] MA 29 28,044 71 Adjusted-dose warfarin, PAI
+Placebo/No Treatment
+1.5 X X X X X
+Holster 2013 [33] MA 8 151,578 65 – 73 NOACs (apixaban,
+edoxaban, rivaroxaban, dabigatran)
+Warfarin 12 weeks – 2 years X X
+Jia 2014 [54] MA 5 72,961 70 – 73 NOACs (apixaban, edoxaban,
+rivaroxaban, dabigatran)
+Warfarin 1.6 – 2.8 X X X X X X X X
+Lega 2014 [30] MA 3 50,578 70 – 73 NOACs (apixaban,
+rivaroxaban, dabigatran)
+Warfarin 1.8 – 2X X
+Liew et al. 2014 [49] MA 4 71,683 no mean NOACs (dabigatran,
+apixaban, rivaroxaban, edoxaban)
+Warfarin 1.8 – 2.8 X X
+Lin 2015 [43] MTM 49 897,748 71 Warfarin ASA, dabigatran, rivaroxaban,
+apixaban, edoxaban,no treatment
+12 weeks −3.6 years X X X X X X
+Lip et al. 2006 [36] MA 13 14,423 68.4 Adjusted-dose warfarin ASA
+fixed low-dose warfarin,placebo, ximelagatran
+2.13 X X X
+Miller et al. 2012 [50] MA 3 44,563 71.5 NOACs (dabigatran, apixaban,
+rivaroxaban)
+Warfarin 1.91 X X X X X X X X
+Providência et al. 2014 [51] MA 7 80,290 71.3 NOACs (dabigatran, apixaban,
+rivaroxaban, ximelagatran,edoxaban)
+Warfarin 1.96 X X X X X X X
+Rong 2015 [66] MA 4 71,683 70 – 73 NOACs (apixaban,
+edoxaban, rivaroxaban,dabigatran)
+Warfarin 1.8 – 2.8 X X X
+Roskell et al. 2010 [67] MTM 26 not stated 71.2 dabigatran Indirect comparison:
+Placebo, ASA, ASA +clopidgrel, adj. Dose VKA
+1.87 X X X X X X
+Ruff et al. 2014 [87] MA 4 71,683 71.4 NOACs (dabigatran,
+apixaban, rivaroxaban,
+edoxaban)
+Warfarin 2 X X X X X X X X
+Sardar et al. 2013 [64] MA 3 50,578 70.6 NOACs (dabigatran,
+apixaban, rivaroxaban)
+Warfarin 1.88 X X X X X X -
+Sardar et al. 2014 [
+32] MA 4 11,562 subgroup for ≥75 NOACs (dabigatran, apixaban,
+rivaroxaban)
+Warfarin, ASA 1.1 – 2.0 X X
+Schneeweiss et al. 2012 [69] MTM 3 44,535 70 – 73 NOACs (dabigatran,
+apixaban, rivaroxaban)
+Warfarin 1.8 – 2.0 X X
+Segal et al. 2000 [38] MA 11 8690 66 – 80 VKA ASA
+ASA + low dose warfarinplacebo
+0.3– 2.6 X X X
+Senoo 2015 [65] MA 3 1940 70 – 73 NOAC (rivaroxaban,
+apixaban, dabigatran)
+Warfarin 1.3 – 2.0 X X X X
+The Author(s)BMC Geriatrics2017, 17(Suppl 1):223 Page 79 of 157
+
+[W2767010212 PDF PAGE 8]
+Table 1Characteristics of included systematic reviews(Continued)
+Sharma et al. 2015 [26]
+(Subgroup >75 with AF)
+MA 5 27,622 >75 Single NOACs (dabigatran,
+apixaban, rivaroxaban,edoxaban)
+Warfarin 1.75 X X
+Taylor et al. 2001 [45] 5 3298 73 Warfarin PAI 2.35 X X X X
+Testa et al. 2012 [52] MA 3 50,578 71.5 NOACs (dabigatran, apixaban,
+rivaroxaban)
+Warfarin >1 X X X X X X
+Verdecchia et al. 2015 [68] MTM 4 71,683 71.5 Indirect comparison
+(dabigatran, apixaban,
+rivaroxaban, edoxaban)
+Dose-adjusted warfarin 2.15 X X X X X X X
+AS All stroke, CR Cochrane Review, GB Gastrointestinal Bleeding, HS Haemorrhagic Stroke, IB Intracranial Bleeding, IS Ischemic stroke, M Mortality, MA Meta-analysis, MB Major Bleeding, MI Myocardial infarction, MA
+Meta-analysis, NMA network meta-analysis
+a Calculated by the review team
+The Author(s)BMC Geriatrics2017, 17(Suppl 1):223 Page 80 of 157
+
+[W2767010212 PDF PAGE 9]
+warfarin vs. placebo [40– 42] The NMA by Lin et al. [43]
+compared warfarin to no treatment and included also
+non-randomised trials. For a better comparability, results
+of the meta-analysis for RCTs only are described. The re-
+sults are shown in Table S3 (Additional file 4) of the Add-
+itional files.
+Effectiveness outcomes
+Stroke/SE Three out of seven SRs reported on stroke/sys-
+temic embolism as an outcome and one only on systemic
+embolism [37]. All reported an advantage for VKA com-
+pared to placebo. Aguilar et al. [34] and Segal et al. [38]
+included the same subset of studies and found a large re-
+duction in stroke events associated with warfarin com-
+pared to placebo, with an OR of 0.39 (95% CI 0.26– 0.59)
+and an OR of 0.30 (95% CI 0.19– 0.48). Hart et al. [4] in-
+cluded additionally the EAFT study and reported a relative
+risk reduction (RRR) for all stroke events of 62% (48– 72%)
+for warfarin and a RRR of 64% (95% CI 49%– 74%). Hart et
+al. [39] added 13 RCTs in an update, but no additional
+comparisons of warfarin vs. placebo were included. An-
+dersen et al. reported on SE only and the direction of ef-
+fect favoured warfarin [37]. The NMAs supported these
+results and reported fewer stroke events with warfarin
+than with placebo [40, 42, 43].
+Ischemic stroke Four SRs investigated ischemic stroke
+and three included the same subset of five studies. All
+produced similar effect estimates in favour of warfarin.
+Aguilar et al. [34] calculated an OR of 0.34 (95% CI
+0.23– 0.52), similarly to Lip et al. [36] who included one
+study more in their SR (RR 0.33, 95% CI 0.24 – 0.45).
+Hart et al. [4] reported an RRR of 65% (95% CI 52%–
+74%) associated with warfarin, and Hart et al. [39] an
+RRR of 67% (95% CI 54%– 77%).
+Three NMAs reported on ischemic strokes and found
+likewise a reduced risk of ischemic strokes for VKA vs.
+placebo/no treatment [40, 41, 43] lin.
+Haemorrhagic stroke No SR reported on this outcome.
+Mortality The inlcuded SRs found a substantial effect in
+favour of warfarin, including an OR of 0.69 (95% CI
+0.50– 0.94) [34] and an RR of 0.69 (95% CI 0.53– 0.89)
+[36]). In Hart et al. [4], warfarin was associated with a
+significant RRR of 26% (95% CI 4%– 43%) for mortality, a
+result repeated in the review update in 2007 based on
+the same set of studies [39]., Segal et al. [38] found a
+point estimate of effect that was similar to the other SRs
+(OR 0.62, 95% CI 0.38– 1.02). Two of the NMAs also
+found VKA (mostly warfarin) to be associated with re-
+duced risk of mortality (RR 0.60, 95% CI 0.43– 0.77 [40]
+and RR 0.67, 95% CI 0.50– 0.89) [42]).
+Safety outcomes
+Major bleeding Six SRs reported on major bleeding but
+differed in the definition of this outcome. Aguilar et al.
+[34], Hart et al. [4] and Hart et al. [39] considered extra-
+cranial major bleeding only, while Lip et al. [36], Ander-
+sen et al. [37] and Segal et al. [38] examined all major
+bleeding. Aguilar et al. [34] found no difference between
+warfarin and placebo while Segal et al. found a higher
+risk for warfarin [38]. In the reviews by Andersen et al.
+[37] and Lip et al. [36] warfarin was associated with a
+considerably increased risk of bleeding (OR 3.01, 95% CI
+1.31– 6.92; and RR 0.45, 95% CI 0.25– 0.82, respectively)
+[37]. Hart et al. [4] likewise found an association be-
+tween VKA and a higher risk of extra-cranial bleeding
+(RR 2.4, 95% CI 1.2– 4.6). However, in the update using
+the same set of studies a RRR of−66% (95% CI -235 to
+18%) was reported [39] (de facto a risk increase of 66%).
+The NMA by Dogliotti et al. [40] used the trial-
+specific definition of the included stud

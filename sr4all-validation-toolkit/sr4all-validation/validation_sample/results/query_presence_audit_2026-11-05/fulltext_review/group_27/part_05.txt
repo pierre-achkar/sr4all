@@ -1,0 +1,121 @@
+ton C, Roche G, Roquelaure Y, Legrand E, Penneau‑Fontbonne D, 
+Dubus V, et al. Management of low back pain in primary care prior to 
+multidisciplinary functional restoration: a retrospective study of 72 
+patients. Ann Readapt Med Phys. 2008;51(8):650–656–6‑662.
+ 33. Jensen OK, Stengaard‑Pedersen K, Jensen C, Nielsen CV. Prediction model 
+for unsuccessful return to work after hospital‑based intervention in low 
+back pain patients. BMC Musculoskelet Disord. 2013;14:140.
+ 34. Jensen OK, Nielsen CV, Stengaard‑Pedersen K. One‑year prognosis in sick‑
+listed low back pain patients with and without radiculopathy. Prognostic 
+factors influencing pain and disability. Spine J. 2010;10(8):659–75.
+ 35. Graves JM, Fulton‑Kehoe D, Jarvik JG, Franklin GM. Impact of an advanced 
+imaging utilization review program on downstream health care utiliza‑
+tion and costs for low back pain. Med Care. 2018;56(6):520–8.
+ 36. Savych B, Neumark D, Lea R. Do opioids help injured workers recover 
+and get back to work? The impact of opioid prescriptions on duration of 
+temporary disability. Ind Relat. 2019;58(4):549–90.
+ 37. Webster BS, Cifuentes M. Relationship of early magnetic resonance 
+imaging for work‑related acute low back pain with disability and medical 
+utilization outcomes. J Occup Environ Med. 2010;52(9):900–7.
+ 38. Cabana MD, Rand CS, Powe NR, Wu AW, Wilson MH, Abboud PA, et al. 
+Why don’t physicians follow clinical practice guidelines? A framework for 
+improvement. JAMA. 1999;282(15):1458–65.
+ 39. Little P , Dorward M, Warner G, Stephens K, Senior J, Moore M. Importance 
+of patient pressure and perceived pressure and perceived medical need 
+for investigations, referral, and prescribing in primary care: nested obser‑
+vational study. BMJ. 2004;328(7437):444.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub‑
+lished maps and institutional affiliations.
+
+END REVIEW W3215943560
+
+
+REVIEW W4210837925
+TITLE: Systematic review and meta-analysis of cognitive impairment in myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4210837925 PDF PAGE 1]
+1
+Vol.:(0123456789)Scientific Reports |         (2022) 12:2157  | https://doi.org/10.1038/s41598-021-04764-w
+www.nature.com/scientificreports
+Systematic review 
+and meta‑analysis of cognitive 
+impairment in myalgic 
+encephalomyelitis/chronic fatigue 
+syndrome (ME/CFS)
+Mehdi Aoun Sebaiti1,2,3, Mathieu Hainselin3, Yannick Gounden3, Carmen Adella Sirbu4,5, 
+Slobodan Sekulic5,6, Lorenzo Lorusso5,7, Luis Nacul5,8 & François Jérôme Authier 2,5,9*
+Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) is commonly associated with cognitive 
+complaints. To bring out the neuropsychological symptomatology inherent to ME/CFS, we conducted 
+a systematic review according to PRISMA and MOOSE guidelines of the literature through the analysis 
+of 764 studies published between 1988 and 2019 by using PubMed Central website and Clarivate 
+analytics platform. We performed a meta‑analysis to delineate an idea of the neuropsychological 
+profile inherent in ME/CFS. The clinical picture typically affects visuo‑spatial immediate memory 
+(g = − 0.55, p = 0.007), reading speed (g = − 0.82, p = 0.0001) and graphics gesture (g = − 0.59, p = 0.0001). 
+Analysis also revealed difficulties in several processes inherent in episodic verbal memory (storage, 
+retrieval, recognition) and visual memory (recovery) and a low efficiency in attentional abilities. 
+Executive functions seemed to be little or not affected and instrumental functions appeared 
+constantly preserved. With regard to the complexity and heterogeneity of the cognitive phenotype, 
+it turns out that determining a sound clinical picture of ME/CFS cognitive profile must go through a 
+neuropsychological examination allowing a complete evaluation integrating the notion of agreement 
+between the choice and the number of tests and the complexity intrinsic to the pathology.
+Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) is a chronic disease defined by a severe and 
+unexplained fatigue lasting for at least 6 months, involving central nervous system and immune system disor -
+ders, and resulting in a substantial reduction in occupational or leisure  activities1. In healthy subjects, fatigue is 
+usually proportional to effort or duration with a quick recovery and will recur to the same extent with the same 
+effort or duration. In ME/CFS, the pathological threshold of fatigability is usually reached with minimal physical 
+or mental exertion, with reduced ability to undertake the same activity within the same or several days. Other 
+characteristic symptoms include self-reported memory and attention problems, tender lymph nodes, muscle pain, 
+multi-joint pain, sore throat, headaches, un-refreshing sleep and post-exertional malaise. These clinical features 
+are used for diagnostic criteria. Up to 20 case definitions have been  proposed2 and those from Centers for Disease 
+Control and Prevention (CDC)3 are the most commonly  used4. The 2011 International Consensus  Criteria5 are 
+more detailed and therefore more complex to use in clinical practice. Compared to CDC criteria, they include 
+three substantial changes: (1) The waiting period of 6 months before the diagnosis is no longer necessary; this 
+is important because early diagnoses can help to better understand the early stages of the syndrome and quickly 
+set up an appropriate care (which could reduce the severity and impact of disorders); (2) The post-exertional 
+malaise is an necessary element in this classification; it is defined as an unusual intolerance to exercise with a 
+OPEN
+1Neurology Department, Henri Mondor University Hospital, APHP , Créteil, France. 2INSERM U955-Team Relaix, 
+Faculty of Health, Paris Est-Creteil University, Créteil, France. 3CRP-CPO, UR UPJV 7273, Université de Picardie 
+Jules Verne, Amiens, France. 4Central Military Emergency University Hospital, Titu Maiorescu University, Bucharest, 
+Romania. 5European Network On ME/CFS (EUROMENE), London, UK. 6Department of Neurology, Faculty of 
+Medicine Novi Sad, University of Novio Sad, Novio Sad, Serbia. 7Neurology and Stroke Unit, Neuroscience Dept 
+- ASST- Lecco, Merate Hospital, Merate, LC, Italy. 8Faculty of Infectious and Tropical Diseases, London School of 
+Hygiene and Tropical Medicine, London, UK. 9Neuromuscular Reference Center, Henri Mondor University Hospital, 
+APHP , 51, Av. du Maréchal de Lattre de Tassigny, 94000 Créteil, France. *email: authier@u-pec.fr
+
+[W4210837925 PDF PAGE 2]
+2
+Vol:.(1234567890)Scientific Reports |         (2022) 12:2157  | https://doi.org/10.1038/s41598-021-04764-w
+www.nature.com/scientificreports/
+recovery time higher than normal, characterized by: (a) a marked and rapid physical and/or cognitive fatigability 
+at the least effort, (b) an exacerbation of symptoms after effort, (c) immediate or delayed post exercise exhaus -
+tion, (d) extended recovery period (24 h or more), (v) low threshold of physical and mental fatigability leading 
+to substantial decrease in activity; (3) The identification of three groups of symptoms associated with chronic 
+fatigue: (a) Indicators of an impairment of the nervous system: cognitive disorders, pain, sleep disturbances, 
+sensory, perceptual and/or motor disturbances; (b) indicators of impairment of the immune, gastrointestinal 
+and genitourinary systems: flu-like syndrome, increased susceptibility to infections, digestive disorders, urinary 
+urgency, nocturia, hypersensitivity to food, drugs, odors or chemical substances; and (c) indicators of impairment 
+of energy production/distribution systems: cardiovascular disorders, breathing difficulties, thermal deregulation, 
+intolerance to extreme temperatures. These criteria allow precise case definition and fine stratification of patients. 
+Recently, the Institute of Medicine (IOM)6 proposed to rename ME/CFS as systemic exertion intolerance disease 
+(SEID) that describes the central elements of the disease. The report focuses on the adverse effect that physical, 
+cognitive or emotional exertion can have on patients with this condition and acknowledges that this is a complex 
+and severe disorder for which specific causes are not yet highlighted. For present study, we will retain the ME/
+CFS denomination, which is more frequently used. Cognitive manifestations are one of the most frequent and 
+disabling symptoms associated with ME/CFS7, 89% of patients reporting memory and concentration  problems8. 
+From the 1980’s, cognitive complaints have led clinicians to perform formal neurocognitive assessment tests in 
+ME/CFS patients. First results indicated that cognitive impairment mostly affects concentration and attention 
+with a neuropsychological pattern suggesting an organic deficit, rather than cognitive dysfunction secondary to 
+a mood  disorder9. Subsequently, various studies provided additional evidences supporting that ME/CFS actually 
+associates with cognitive deficits and, taken together, these researches allow to delineate a cognitive phenotype 
+for ME/CFS  patients10–54. Frequently observed features include ideomotor slowing  down11,12,15,17,21,30,40,42,44–47, 
+increased reaction  time12,13,15,24,31–37,39,41,54 and attention  deficit18,31,40. Regarding short-term memory, the visual 
+modality was described as less  efficient29,33, compared to the verbal  one15,21,24,52,54. For long term memory, epi-
+sodic memory impairment was commonly reported but its nature seems more difficult to determine. Indeed, 
+the episodic memory processes encompasses three stages namely encoding, storage and  retrieval55 to which 
+are added the phases of recognition and consolidation of the memory  trace56. While some studies reported the 
+presence of deficit in consolidation (deferred recall deficit) 40, others rightly raised uncertainties regarding the 
+integrity of encoding  phase46. Difficulties concerning executive functions have also been described,

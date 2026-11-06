@@ -1,0 +1,573 @@
+eprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 84]
+84 
+ 
+autism 
+polygenic score 
+had less optimal 
+scores in senses 
+and other 
+observations 
+during infancy 
+(e.g., with 
+GWAS pT , 
+.043, b = .003, 
+95% CI = .003, 
+.084, p = .02) 
+Takahashi 
+(2020)44 
+Autistic traits, 
+early 
+neurodevelopme
+nt 
+This study 
+included 876 
+Hamamatsu 
+Birth Cohort for 
+Mothers and 
+Children (HBC 
+Study) 
+participants 
+born between 
+December 2007 
+and June 2011. 
+Polygenic score 
+analyses were 
+performed on 
+726 participants 
+(51.4% boys). 
+All participants 
+were born in 
+Japan and most 
+(99.1%) were of  
+PRSice . 
+Different p-
+values ranging 
+from 5 × 10−8 
+to greater than 
+.99, of which 
+best fit was 
+selected 
+Neurodevelop
+mental 
+progress at 18 
+months 
+(Mullen Scales 
+of Early 
+Learning 
+(MSEL)), 
+autistic traits at 
+age 6 (Autism 
+Diagnostic 
+Observation 
+Schedule 
+(ADOS-2) total 
+scores, social 
+affect and 
+restricted 
+repetitive 
+behavior 
+4 PCs The autism 
+polygenic score 
+was associated 
+with autistic 
+traits measured 
+by total scores 
+on the ADOS-2 
+(R2 = 0.024; β, 
+0.71; SE, 0.25; 
+corrected P = 
+.03) and social 
+affect (R2 = 
+0.027; β, 0.63; 
+SE, 0.22; 
+corrected P = 
+.03) but not 
+restricted 
+repetitive 
+behavior (R2 = 
+0.023; β, 0.19; 
+Bonferroni 
+correction for 8 
+independent 
+tests 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 85]
+85 
+ 
+Japanese 
+descent. 
+SE, 0.07; 
+corrected P = 
+.06). The 
+association of 
+autism 
+polygenic score 
+with infant 
+neurodevelopme
+nt was most 
+significant for 
+gross motor 
+skills (R2 = 
+0.015; β, −1.25; 
+SE, 0.39; 
+corrected P = 
+.01) and 
+receptive 
+language skills 
+(R2 = 0.014; β, 
+−1.19; SE, 
+0.39; corrected 
+P = .02) 
+measured by 
+the MSEL, but 
+not with fine 
+motor skills, 
+expressive 
+language 
+development 
+and visual 
+reception (p >= 
+.22) 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 86]
+86 
+ 
+Yap (2021)31 Autistic traits, 
+cognition and 
+executive 
+function, other 
+2,477 AAB 
+participants that 
+fell into four 
+groups: 1) child 
+participants 
+(aged 2–
+17 years) 
+diagnosed with 
+autism or 
+queried for the 
+condition, with 
+some multiply-
+affected 
+families; 2) 
+parents of 
+children with 
+autism; 3) 
+siblings of 
+diagnosed 
+children who 
+did not 
+themselves meet 
+autism criteria; 
+and 4) unrelated 
+children without 
+an autism 
+diagnosis and 
+with no known 
+first-degree 
+relatives with an 
+autism 
+diagnosis. 
+SbayesR. 
+Bayesian 
+approach, no 
+threshold 
+needed 
+Autism group: 
+parent- or 
+caregiver-
+reported ADOS-
+2, ADOS-G, 
+Developmental, 
+Dimensional 
+and Diagnostic 
+Interview, 
+Vineland 
+Adaptive 
+Behavior Scale, 
+SSP-2. Parent: 
+Communication 
+Checklist-Adult. 
+Siblings/unrelat
+ed: Social 
+Responsiveness 
+Scale. Cognitive 
+function in all 
+groups: MSEL 
+or WISC-IV 
+WASI. Sleep 
+problems 
+Autism/siblings/
+unrelated group: 
+Children’s Sleep 
+Habits 
+age, sex and 20 
+PCs 
+The autism 
+polygenic score 
+was not 
+associated with 
+autism-related 
+phenotypes. A 
+nominal 
+association 
+with MSEL 
+non-verbal 
+development 
+(r=-0.11,  
+p=7.4e−3 in the 
+autism group 
+alone) and a 
+marginal 
+association with 
+parental WASI 
+matrix 
+reasoning 
+(r=0.07, 
+p=5.5e−2) is 
+reported. 
+Bonferroni 
+correction: p ≤ 
+0.05/50 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 87]
+87 
+ 
+Participants 
+were Australian 
+and 
+predominantly 
+of European 
+ancestry. 
+Emotion recognition 
+Qin (2020)58 Specific 
+psychiatric 
+classifications, b
+rain measures, 
+Emotion 
+recognition 
+Total sample of 
+345 participants. 
+Patients with 
+schizophrenia (n 
+= 121) mean age 
+at scan = 24.24 
+SD = 9.03), 36 
+male. Healthy 
+controls (n = 
+224) mean age 
+at scan = 34.71 
+(SD = 12.69), 
+83 male. Of 
+these, 116 with 
+schizophrenia 
+and 212 controls 
+were taken into 
+analyses. 
+Participants 
+were Chinese. 
+PRSice. 103 PT 
+(ranging from 0 
+to 0.5 with 
+increments of 
+0.005, plus 
+10−5 , 10−4 , 
+and 10−3 
+MRI. Facial 
+emotion 
+recognition 
+(Chinese Facial 
+Affective 
+Picture 
+System). 
+Schizophrenia 
+diagnosis 
+Age, sex, 
+education, 
+disease status, 
+and the first four 
+components 
+Positive 
+correlation 
+between autism 
+polygenic score 
+and amplitude 
+of low 
+frequency 
+fluctuation 
+(ALFF) in left 
+amygdala in the 
+total sample of 
+schizophrenia 
+cases and 
+controls (r = 
+0.2122, 
+Puncorrected = 
+0.0002483, 
+Pcorrected = 
+0.022). 
+Negative 
+correlation of 
+autism 
+polygenic score 
+with negative 
+emotion 
+Bonferroni 
+correction 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 88]
+88 
+ 
+recognition (r = 
+−0.2288, 
+Puncorrected = 
+0.000149, 
+Pcorrected = 
+0.0006). No 
+associations 
+with other 
+brain regions 
+nor types of 
+emotion 
+recognition 
+were found. No 
+significant 
+associations 
+were observed 
+between the 
+autism 
+polygenic score 
+and 
+schizophrenia at 
+different p value 
+thresholds (p ≥ 
+.368)  
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 89]
+89 
+ 
+Reed (2021)41 Autistic traits, 
+emotion 
+recognition 
+ALSPAC 
+includes a total 
+of 14901 
+participants, of 
+which about 
+50% is female. 
+Detailed 
+information 
+about the  
+participants that 
+were included in 
+this study 
+specifically was 
+not reported. All 
+participants 
+were British. 
+Genetic ancestry 
+was restricted to 
+European.  
+Plink. Thirteen 
+different 
+polygenic scores 
+based on p-
+values 0.5, 0.4, 
+0.3, 0.2, 0.1, 
+0.05, 0.01, 
+1x10-3, 1x10-4, 
+1x10-5, 1x10-6, 
+1x10-7, 5x10-8 
+Emotion 
+recognition at 
+age 8 assessed 
+DANVA and at 
+age 24 using 
+ERT. Social 
+autistic traits 
+assessed using 
+m the Social and 
+Communication 
+Disorders 
+Checklist 
+(SCDC) 
+child’s sex and 
+the first 10 PCs 
+The autism 
+polygenic score 
+was 
+significantly 
+positively 
+associated with 
+social autistic 
+traits at age 8 
+(SCDC; (b = 
+0.05; 95% CI: 
+0.01 to 0.08; p = 
+.01), but not 
+with emotion 
+recognition at 
+age 8 
+(DANVA) and 
+age 24 (ERT). 
+After correction 
+for multiple 
+testing no 
+results remain 
+significant 
+0.004 (0.05/13) 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 90]
+90 
+ 
+Waddington 
+(2021)80 
+ Emotion 
+recognition 
+552 
+NeuroIMAGE 
+and BAO 
+participants, of 
+which there 
+were 74 ADHD 
+participants, 60 
+unaffected 
+siblings of 
+ADHD, 85 
+autism 
+participants, 60 
+autism + ADHD 
+participants, 117 
+unaffected 
+siblings of 
+autism and 
+autism + 
+ADHD, and 156 
+controls (41 
+from 
+NeuroIMAGE 
+and 115 from 
+BOA). 
+Participants age 
+ranged from 7 to 
+18 years. Of the 
+included 
+NeuroIMAGE 
+participants, the 
+average IQ was 
+100 ranging 
+PRSice. 5 × 
+10−8, 10−6, .05, 
+and 1 
+Factors of 
+emotion 
+recognition: 
+Emotion 
+recognition was 
+assessed 
+through speed 
+and accuracy 
+performance in 
+the Facial 
+Expressions 
+Identification 
+and Affective 
+Prosody Tasks 
+from the 
+Amsterdam 
+Neuropsycholog
+ical Test (ANT) 
+through 
+confirmatory 
+factor analysis.  
+ 
+Emotion 
+recognition 
+classes/profiles 
+identified based 
+on participants' 
+performance on 
+these four 
+factors 
+ Age, gender, IQ 
+and 4 PCs 
+Factors: there 
+was no effect of 
+the autism 
+polygenic score 
+on the 
+overarching 
+combined 
+emotion 
+recognition 
+factor model at 
+any of the p-
+value thresholds 
+tested. One 
+association with 
+a specific factor 
+was reported: 
+speed of visual 
+emotion 
+recognition 
+factor (Factor 1) 
+at the pT = .05 
+threshold 
+(F[1,499.24] = 
+4.17, p = .042, d 
+= .17), but there 
+were no effects 
+on any other 
+GWAS 
+threshold and 
+other individual 
+factors.  
+ 
+ FDR 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 91]
+91 
+ 
+from 70 to 139, 
+with 51.4% 
+being male.Tthe 
+BOA sample 
+had an average 
+IQ of 103, 
+ranging from 70 
+to 155, and 
+59.7% were 
+male. 
+Participants 
+were Dutch. 
+Genetic ancestry 
+was restricted to 
+European. 
+Classes: Autism 
+polygenic score 
+was associated 
+with emotion 
+recognitio

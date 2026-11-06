@@ -1,0 +1,237 @@
+ach in all studies. Not all studies reported the details of the TKA procedure. Of those that 
+reported, 5 used a tourniquet, and one did not; 4 used the patellar component in the prosthesis, while 2 did not. 
+The skin temperature of the anterior knee region was measured before TKA and from the first day to 5 years 
+after the procedure. Skin temperature was measured using a surface infrared thermometer or a thermal imag -
+ing system (Table 1). Average skin temperature over the knee region was reported as absolute temperature (°C) 
+of operated and non-operated knees or as the difference between the knees. The position of the patients at the 
+time of temperature measurement varied between studies. In some, the knee temperature was measured when 
+the patients were  sitting12,18, some  supine13,15,17, and, in one study, while standing 16. The acclimatization time 
+varied between 3 and 20 min with some studies not reporting this important  feature10,13,14,19,23. Regarding the 
+measurement area, two groups that used thermal imaging measured the average temperature of the knee area 
+surrounding the surgical scar including the  patella15,16; while groups that used a thermometer mostly did not 
+include the patella as part of the  measurement12. By overall appraisal, three studies were graded as having good 
+thermal  methodology12,16,18, while all others were graded as ‘Fair’ (Table 2).
+Figures 3 and 4 present the results of the meta-analysis as 8 separate Forest Plots-one for each time point. 
+These results are also summarized in Table 3 together with the statistics for heterogeneity and publication bias 
+(‘file drawer bias’). In view of the high heterogeneity score in all variables  (I2 > 75%, p < 0.001), we applied the 
+random-effect model for the analysis. Publication bias was not detected in any of the time points (p  > 0.05 by 
+Egger’s test).
+Figure 1.  Thermal Imaging Following Total Knee Arthroplasty (TKA). Left: operated right knee 2wks post 
+TKA; Right: thermal image showing elliptical area of measurement around the patella of the operated (R) and 
+unoperated (L) knees. See temperature scale in the margin. Note increased skin temperature (red and white) of 
+the operated knee. These images were from a clinical study (#0251-20-HMO) the PI of which was LK. Informed 
+consent was obtained from the patients as required.
+
+[W4367055501 PDF PAGE 3]
+3
+Vol.:(0123456789)Scientific Reports |         (2023) 13:6810  | https://doi.org/10.1038/s41598-023-33556-7
+www.nature.com/scientificreports/
+Figure 5 is an integrative bar graph of results from all time points with accompanying statistics. In uncom -
+plicated knee recovery, ΔST was highest during the first 2-weeks post-surgery reaching a pooled mean of over 
+2.8 °C. The ΔST continued to be significantly higher than pre-TKA levels at 4–6 weeks (p < 0.0001). At 3-months 
+post-TKA, ΔST was 1.4 °C and then gradually decreased to 0.9 °C and 0.6 °C at 6 and 12-months post-surgery 
+respectively which were similar to pre-surgical levels (p > 0.95, pre-TKA vs. 6 and 12 months).
+Discussion
+We reviewed and analyzed the quantitative profile of temporal changes in skin temperature after TKA in patients 
+with uncomplicated recovery. There is a prominent increase in ΔST in the first 2 weeks post-TKA that gradu-
+ally resolves by 6 months reaching near pre-surgical values at 1-year post-surgery when clinical recovery was 
+considered satisfactory and to occur without complication.
+Iden/g415ﬁca /g415onScr eenin gIncluded
+Records screened
+(n=243 )
+Full-text ar/g415cles assessed for 
+eligibility (n=13)
+Studies included in review  
+(n = 10)
+Records excluded 
+(n=230 )
+Full-text ar/g415cles excluded with  
+reasons (n=11):  
+No new informa/g415on (3 )
+Other interven/g415on (2)
+Follow up < 1 day  ( 2)
+Wrong popula/g415on (3)
+Wrong outcome (1 )
+Records iden/g415ﬁed from 
+databases (n=349): 
+PubMed (n=138)
+EMBASE (n=211 )
+Reports sought for  r etrieval
+(n = 13 )
+Reports not retrieved
+(n = 0 )
+Full-text ar/g415cles assessed for 
+eligibility (n=11)
+Records iden/g415ﬁed from:
+Cita/g415on  s earch (n=12)
+Reports sought for  r etrieval
+(n = 12)
+Reports not retrieved
+(n = 1 )
+Full-text ar/g415cles excluded with  
+reasons (n=3): 
+No new informa/g415on (1 )
+Wrong popula/g415on (1)
+Wrong outcome (1 )
+Records removed before 
+screening:
+Duplicate removed  
+(n=106)
+Figure 2.  PRISMA Flow Chart. Preferred Reporting Items for Systematic Review and Meta-Analysis (PRISMA) 
+flow diagram showing the identification, screening, eligibility and inclusion process.
+Table 1.  Characteristics of Studies Included in the Meta-Analysis. *Data from RCT control group; M:F , 
+Male:Female counts; Age, mean [year old]; NR, not reported; d, day; w, week; m, month; y, year.
+Author (Y ear)
+Country (study 
+period) Sample size M:F Age (range) Underlying condition Tourniquet Patellar component Follow-Ups
+Mehra10 UK (NR) 19 M:F 7:13 Age 72 (44–85) 18 KOA, 1 RA Ye s Ye s 1w, 6w, 3m
+Haidar12 UK (2001–2004) 32 M:F 10:22 Age 70 (59–85) KOA Ye s Ye s 1w, 6w, 3m, 6 m, 1y, 2y
+Martinez23 France (NR) 20 M:F 1:19 Age 69 KOA NR NR 1d, 4d, 1m, 4m
+Martin13 France (NR) 18* M:F 4:14 Age 70 KOA NR NR 1d, 4d, 1w, 1m, 3 m
+Honsawek14 Thailand (2007–2008) 49 M:F 9:40 Age 68 (50–78) KOA Ye s Ye s 2w, 6w, 3m, 6 m
+Romano15 Italy (2008) 40 M:F 28:12 Age 64 (53–78)
+32 Primary KOA; 4 
+traumatic KOA, 4 
+osteonecrosis
+NR Ye s 1d, 3d, 1w, 1m, 6w, 3m, 
+6 m, 1y
+Mumingjiang16 China (2012–2013) 21 M:F 5:16 Age 58 (25–72)
+15 Primary KOA; 3 
+post-traumatic KOA, 2 
+RA, 1 osteochondritis 
+dissecans
+Ye s NR 1d, 7d, 1m, 3m, 6m
+van  Hove17 Netherlands 
+(2006–2007) 50* M:F 13:37 Age 68 44 Primary KOA; 2 RA; 
+4 KOA + other No No 6w, 6m, 1y, 5y
+Zeng18 China (2012–2014) 39 M:F 4:35 Age 67 KOA NR NR 1d, 3d, 5d, 1w, 2w, 1m, 
+3m, 6 m, 1y
+Xu19 China (2016–2017) 30* M:F NR Age 64 KOA Ye s No 1d, 3d, 1w, 2w, 6w
+
+[W4367055501 PDF PAGE 4]
+4
+Vol:.(1234567890)Scientific Reports |         (2023) 13:6810  | https://doi.org/10.1038/s41598-023-33556-7
+www.nature.com/scientificreports/
+The average ΔST prior to surgery (0.4 ± 0.1 °C) was very close to the threshold of minimal clinical important 
+difference in symmetrical limbs (0.5 °C 24). This initial significant ΔST can be explained by the underlying knee 
+osteoarthritis characterizing the majority of patients that arrive for TKA. Previous studies report that osteoar -
+thritis causes elevated ST compared to the unaffected knee (0.1–0.6 °C) 8,25,26. However, patients with bilateral 
+osteoarthritis, or other bilateral pathologies such as rheumatoid arthritis, may not show this  difference27. The 
+increased skin temperature in the early weeks following TKA was expected due to the acute inflammation 
+that normally accompanies surgical procedures. However, at 6 months, clinically significant differences in skin 
+Table 2.  Appraisal of Thermal Methodology.
+Author (year) Thermometry method Thermal resolution Patient position Skin exposure time
+Region of interest 
+(ROI) Appraisal Comments
+Mehra10 Thermometer 0.1 °C No data No data
+Upper border of the 
+patella—one inch on 
+either side of the surgi-
+cal wound. Average of 
+the 2 readings
+Fair
+Description of thermal 
+resolution was adequate, 
+and ROI detailed; 
+however, there was no 
+description of patient 
+position or exposure 
+time
+Haidar12 Thermometer 0.2 °C Sitting (according to 
+Fig. 2)  ≥ 15 min
+Anterior knee divided 
+into 9 regions, with the 
+patella in the center. 
+The supero-medial 
+region was used for 
+measurements
+Good
+Martinez23 Thermometer No data No data No data* Middle of patella Fair
+Device resolution could 
+not be discerned. There 
+was no description of 
+patient position. *Other 
+measurements required 
+long exposure times, 
+and it can be assumed 
+that it was greater than 
+5 min
+Martin13 Thermometer No data Supine No data Middle of patella. Aver-
+age of 2 readings Fair
+Device resolution could 
+not be discerned. Skin 
+exposure time was not 
+available
+Honsawek14 Thermometer No data No data No data
+Anterior knee divided 
+into 4 regions that 
+diagonally border with 
+the patella (supero-
+lateral, supero-medial, 
+infero-lateral, and 
+infero-medial). Average 
+of 2 readings
+Fair
+There was no descrip-
+tion of the device, 
+patient position, or 
+exposure time. The 
+authors noted that 
+measurements were 
+taken at the same time 
+of day, and each patient 
+was measured with 
+the same thermometer 
+throughout the study
+Romano15 Thermal imaging 0.1 °C Supine 3 min
+Anterior aspect. 
+Elliptical area: major 
+axis = 10 cm proximal 
+and distal to the 
+surgical wound; minor 
+axis = approximately 
+12 cm in length cross-
+ing the midline of the 
+major axis
+Fair
+At least 5 min were 
+required to allow suf-
+ficient skin acclimati-
+zation
+Mumingjiang16 Thermal imaging 0.5 °C Standing, legs slightly 
+apart  ≥ 10 min
+Anterior aspect. 
+Rectangular area 
+(15 cm × 10 cm) based 
+on the surgical site
+Good
+van  Hove17 Thermometer 1 °C Supine 4–5 min Anterior aspect Fair
+The device resolution 
+was low, and accli-
+matization time was 
+borderline
+Zeng18 Thermometer: 0.2 °C Seated 15 to 20 min
+Anterior aspect divided 
+into patella and 4 
+regions (i.e. supero-
+lateral, supero-medial, 
+infero-lateral and 
+infero-rmedial border 
+of the patella). Average 
+of all regions
+Good
+Xu19 Thermometer 0.2 °C No data No data See Zeng Fair
+There was sufficiently 
+detailed measurement 
+methodology, but the 
+position and exposure 
+time were not reported
+
+[W4367055501 PDF PAGE 5]
+5
+Vol.:(0123456789)Scientific Reports |         (2023) 13:6810  | https://doi.org/10.1038/s41598-023-33556-7
+www.nature.com/scientificreports/
+Figure 3.  Meta-Analysis Forest Plots of ΔST Before TKA and at Early Follow Ups. This panel presents Forest 
+plots of the mean temperature differences between the operated and non-operated knees (ΔST) before and up to 
+2 weeks post TKA using the random-effect model. Articles in each Forest plot are listed by year of publication. 
+The mean, standard error and p-value of each study, and the pooled mean difference, are presented. Note that 

@@ -1,0 +1,142 @@
+ 
+Overall, four reasonably-sized, cluster RCTs (i.e. average n>200) suggested small effects 
+(~0.1-0.3 SD) on language. However, one RCT inconsistently reported effects of 0.15 and 
+ 17 
+not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+The copyright holder for this preprint (which wasthis version posted March 10, 2017. ; https://doi.org/10.1101/115691doi: bioRxiv preprint 
+
+[W2595724917 PDF PAGE 18]
+ 
+ 
+0.25 SD on the same language outcome, using the same sample at age five,44,45 and an effect 
+of 0.10 at age 6 in a different publication.46 Effects from quasi-experimental studies ranged 
+from null to 0.7 SD.  The studies with multiple follow-ups showed early gains in intelligence 
+attenuated with age. Seven of the nine individual RCTs suggested small or no effects on 
+language and intelligence. Two small (n=66, 25) convenience sample RCTs showed larger 
+effects on intelligence (0.4 and 0.6 SD respectively). Figures S10 to S16 show the evidence 
+from EQIs was consistent with effects of null to 0.1 SD for IQ and 0.1-0.2 SD for vocabulary. 
+ 
+Observational: A twin study combining MZ and DZ twins (n=237 pairs) showed phenotypic 
+correlations between executive function (predominantly attention) and intelligence at age 12 
+ranging from 0.1-0.4, with stronger associations for teacher and parent report versus objective 
+assessments.  A smaller study combining MZ and DZ twins (n=56 pairs), showed mother-
+reported attention (measured with 1 question) was associated with 0.13 SD increase in IQ.  
+There were 12 longitudinal and 6 cross-sectional publications that ranged in effect size from -
+0.38 (a cross-sectional convenience sample n=77 examining attention) to 0.56 SD (a cross-
+sectional convenience-sample n=80 examining executive function).  On average, exposure 
+was measured at age 3.9 years. The median duration of follow up for the longitudinal studies 
+was 0.6 years and the longest follow up was 6.6 years. Exposures included attention, 
+executive function, self-regulation, effortful control and temperament assessed via parent- and 
+teacher-report questionnaires such as the Child Behavior Questionnaire, and objective tests 
+such as the Continuous Performance Task and the HTKS task.  There were no longitudinal 
+studies of the effects of attention on language and cognitive outcomes. There were five 
+convenience sample studies of executive function, one cross-sectional and four with short-
+term follow up ranging from one to 18 months where effects ranged from 0.06 to 0.33 SD. 
+There were too few studies to examine effortful control and temperament. Six of the seven 
+ 18 
+not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+The copyright holder for this preprint (which wasthis version posted March 10, 2017. ; https://doi.org/10.1101/115691doi: bioRxiv preprint 
+
+[W2595724917 PDF PAGE 19]
+ 
+ 
+publications on effects of self-regulation used the HTKS task and showed small effects on 
+vocabulary. Figures S10 to S18 show effects from observational studies was consistent with 
+that from EQIs with effects of null to 0.1 SD for IQ and 0.1 to 0.2 SD for vocabulary. 
+ 
+Health Outcomes 
+There were two small RCTs, one quasi-experimental intervention, and nine observational 
+studies that ranged in size from 117 to >26,000. The results of health studies are presented in 
+Supplementary Table S5 and in forest plots in Supplementary Figures S17 and S18. The most 
+common outcomes were Body Mass Index (BMI calculated as weight in kilograms/ height in 
+metres squared) and injuries. An RCT suggested that an intervention based on mindfulness 
+with a 3-month follow up showed a 0.56 SD improvement in teacher-rated health and 
+physical development. Another RCT involving preschool and home visits started in the early 
+1960s showed no effect on teenage parenthood. It is difficult to interpret the effect of the 
+quasi-experimental intervention because of an inadequate description of the control group and 
+the outcome. Of the observational studies, the average age at exposure was 4.9 years, and 
+duration of follow up in longitudinal studies ranged from 1.5 to 35 years. Observational 
+studies showed little evidence for associations with injury, diet and cardiovascular risk 
+factors, with some evidence that better inhibitory control was associated with lower BMI, but 
+the effect was small.  
+ 
+Assessment of Publication Bias 
+The funnel plots in Figures S19-S22 depict effect sizes according to the standard error of the 
+effect size for all publications and outcome categories. All these plots had asymmetric 
+distributions with Egger regression coefficients P-values all less than < 0.01except for health 
+outcomes but there were only 6 studies able to be included.  
+ 19 
+not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+The copyright holder for this preprint (which wasthis version posted March 10, 2017. ; https://doi.org/10.1101/115691doi: bioRxiv preprint 
+
+[W2595724917 PDF PAGE 20]
+ 
+ 
+ 
+DISCUSSION 
+We reviewed 375 studies and provided interpretation of 142 (38%) better quality studies 
+comprising RCTs, quasi-experimental, fixed effects (including twin studies), longitudinal and 
+some cross-sectional designs. Overall, there is evidence supporting a role for non-cognitive 
+skills in better academic achievement, psychosocial, and language and cognitive outcomes, 
+but as shown in Figure 2, effects are likely to be modest and of the order ~0.2 SD. Our 
+conclusions are broadly consistent with a recent meta-analysis of observational studies of over 
+14,000 children47 that showed a mean effect size of 0.27 for inhibitory control on academic 
+achievement. However, this meta-analysis did not exclude poor quality studies, and did not 
+explore potential for small study bias. We urge some caution in interpreting our results from 
+the published literature, given analysis of funnel plots clearly demonstrate asymmetry of 
+effect size and study size that may raise the potential of small study bias48 and/or that larger 
+scale studies are unable to deliver as intensive interventions as small studies. This may mean 
+the meta-analysed effects reported here are over-estimates that may include a null effect. 
+ 
+Main findings 
+Academic achievement outcomes:  Intervention studies focussed on children’s non-cognitive 
+skills at around 4 years of age with median follow-up under one year. These studies were 
+generally consistent with 0.2-0.5 SD short-term effects on academic achievement. However, 
+larger, higher quality RCTs showed smaller effects from 0-0.4 SD.24,49-51  These larger higher-
+quality RCTs spanned child-focussed interventions on specific domains of non-cognitive 
+skills (e.g. Tools of the Mind), to more teacher-focussed curricula (e.g. Chicago School 
+Readiness), to more multi-dimensional content interventions that included parent, child and 
+teacher (e.g. PATHS). One higher quality observational publication10 examined six different 
+ 20 
+not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+The copyright holder for this preprint (which wasthis version posted March 10, 2017. ; https://doi.org/10.1101/115691doi: bioRxiv preprint 
+
+[W2595724917 PDF PAGE 21]
+ 
+ 
+cohorts with longer follow-up of 5.5 years and reported weaker effects (0-0.2 SD) than 
+intervention studies. Overall, there was insufficient evidence upon which to base a conclusion 
+about the relative effectiveness of these different modes and mechanisms of intervention on 
+non-cognitive skills.  Even within the same study, effect sizes differed according to which 
+aspects of academic achievement were measured. For example, one study showed an effect on 
+numeracy but not literacy.50 Similarly, another RCT showed that effects on literacy depended 
+on the component of literacy that was measured44,45 and effects on some outcomes faded after 
+one year.46   
+ 
+Psychosocial outcomes: For psychosocial outcomes, the evidence from RCTs was dominated 
+by studies of externalising problems, with fewer RCTs on social skills and internalising 
+problems. Average age at the time of intervention was around 4 years with median follow up 
+time under one year. Of the higher quality RCTs examining externalising outcomes, 
+publications reported strong,52 weak53 and null effects in the largest of the RCTs42.  These 
+variable effects could be due to differences in the focus of intervention, mode of delivery 
+(parent, teacher or both), or problems with implementation fidelity in larger trials. Similarly 
+inconsistent results were reported for EQIs with social skills outcomes. The heterogeneity of 
+effects is mirrored in the twin, longitudinal and cross-sectional studies. A good example of 
+this is the inconsistent results reported in five publications that all used the same data 
+source.54-58 Across these five publications, interpretation of the effects of self-regulatory 
+abilities depended on how the exposure (attention, delayed gratification, and inhibitory 
+control) and outcome (social skills, withdrawal, and aggression) was measured. The different 
+measures of attention had different associations with the same social skills outcome. 
+Inhibitory control was associated with social skills and aggression, but not social withdrawal, 
+whereas the effects of delayed gratification on social skills depended on whether the 
+ 21 
+not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+The copyright holder for this preprint (which wasthis version posted March 10, 2017. ; https://doi.org/10.1101/115691doi: bioRxiv preprint 
+
+[W2595724917 PDF PAGE 22]
+ 
+ 
+outcomes were directly observed or from maternal report. 
+ 
+The psychosocial outcome studies are the most diverse in interventions (ranging from martial 
+arts, to Motivational Interviewing and Tools of

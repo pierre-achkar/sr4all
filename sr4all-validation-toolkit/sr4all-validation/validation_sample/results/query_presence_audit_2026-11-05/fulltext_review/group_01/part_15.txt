@@ -1,0 +1,175 @@
+ or sclerema or schlero-
+derma or en coup de sabre or morphea or dermatosclerosis) and (anti-TNF
+or mhr 24 or Orencia or Ctla4 immunoglobulin or Ctla4Ig or Ctla4 Ig or
+Bms 188667 or Abatacept or Rituxin or Mabthera or Idec C2b8 or ritux-
+imab or Rituxan or Anakinra or Kineret or Trudexa or Monoclonal
+Antibody D2e7 or Humira or adalimumab or Tnr001 or Tnr 001 or Enbrel
+or etanercept or remicaide or Revellex or avakine or infliximab or immune
+serum or antisera or immune sera or biologic(s) therapy or biologic(s) inter-
+vention or biological product or biologic agent(s) or biologic(s) or tnfalpha
+or tnf or cachectin or tumour necrosis factor(s) or tumor necrosis factor(s)].
+The search was limited to human studies but not limited to the English lan-
+guage. The results of the 2 independent searches were compared to ensure
+completeness.
+Study selection. Titles and abstracts were screened to identify studies that
+evaluated the use of biologic agents in SSc. Using the US National
+Institutes of Health definition, biologic agents were defined as substances
+that are made from a living organism or its products and are used in the pre-
+vention, diagnosis, or treatment of cancer and other diseases. Biologic
+agents may include antibodies, interleukins, and vaccines. Eligible studies
+were required to report joint count (tender or swollen joint count), Health
+Assessment Questionnaire Disability Index (HAQ-DI) score, skin score
+(using any measure of scleroderma skin assessment), and adverse events as
+outcomes. Studies were ineligible if they were animal studies, review arti-
+cles, included individuals < 16 years old, or did not report any of the out-
+come measures of interest. The reference list of selected articles was
+hand-searched for relevant publications.
+Data abstraction. Two reviewers independently abstracted the following
+data onto standardized forms: study design (observational study or ran-
+domized trial), sample size, treatment(s), tender joint count, swollen joint
+count, HAQ-DI score, skin score, method of skin assessment, and adverse
+events. The reviewers were blinded to the names of study authors, institu-
+tions, and journals when performing data abstraction. All disagreements
+were resolved by consensus.
+RESULTS
+Search results. The search identified 1413 citations; how -
+ever, screening of titles and abstracts resulted in the exclu-
+sion of 1390 citations, leaving 23 articles for full review.
+Citations were excluded because they were review articles,
+involved patients with rheumatic diseases other than SSc,
+were animal studies, or did not describe use of a biologic
+agent. Of the 23 citations selected, 5 were cohort stud-
+ies26,27,28,29,48 reporting on the use of anti-TNF therapy for
+treatment in SSc, and 18 studies described the use of other
+biologic agents in SSc. These included the evaluation of
+antithymocyte globulin (ATG) 30,31,32 , imatinib mesy-
+late33,34,35, interferon-g (IFN-g)36, IFN-a 37, recombinant
+human relaxin 38, delipidated, deglycolipidated Mycobac -
+terium vaccae (PV AC)39, recombinant human anti-trans-
+forming growth factor-ß1 (TGF-ß1) antibody 40, type I col-
+lagen41, and rituximab42,43,44,45,46,47.
+Anti-TNF therapy in SSc. Three observational studies eval-
+uated infliximab27,28,48 and 3 observational studies evaluat-
+ed etanercept26,29. No randomized trials evaluating the use
+of anti-TNF therapy in SSc were identified (Table 1).
+Lam, et al report a retrospective cohort study of etaner-
+cept 25 mg twice weekly or 50 mg once weekly in 18
+women with SSc26. The primary outcome was a significant
+decrease in synovitis on examination and complete resolu-
+tion of joint pain. The mean age was 44 years (range 25–71
+yrs) with a mean duration of therapy of 30 months (range
+2–66 mo). Fifteen (83%) of 18 patients treated with etaner-
+cept had a significant decrease in signs of inflammation or
+synovitis and resolution of joint symptoms. The mean
+HAQ-DI score decreased from 1.08 ± 0.70 to 0.74 ± 0.56 
+(p = 0.13). The mean Rodnan skin score decreased from
+6.63 ± 6.35 to 3.94 ± 2.38 (p = 0.12). There were no oppor-
+tunistic infections, anaphylaxis, hospitalizations, or deaths
+attributed to etanercept therapy. One patient developed a
+lupus-like reaction and another had a significant decline in
+lung function.
+290 The Journal of Rheumatology 2011; 38:2; doi:10.3899/jrheum.100361
+Personal non-commercial use only. The Journal of Rheumatology Copyright © 2011. All rights reserved.
+ www.jrheum.orgDownloaded on February 22, 2026 from 
+
+[W2063785079 PDF PAGE 3]
+Denton, et al report an observational study of infliximab
+5 mg/kg given at Weeks 0, 2, 6, 14, and 22 in 16 patients
+with diffuse SSc 28. Patients were included who had an
+increase of > 10% in skin score or an increase of 4 skin score
+units over a maximum 3-month period. Mean disease dura-
+tion was 25.7 months (SD 19). The median baseline 17-site
+modified Rodnan skin score (MRSS) was 26. There was no
+significant change at 26 weeks (median MRSS 22, range
+6–48). The median HAQ-DI score decreased from 1.63
+(range 0–3) to 1.5 (range 0–2.63) at 26 weeks, and was
+reported as not statistically significant (p value not given).
+Seven (44%) of 16 subjects developed infusion reactions.
+Anti-infliximab antibodies developed in 5 patients and were
+associated with suspected infusion reactions.
+Bosello, et al27 report 4 patients with SSc who were treat-
+ed with infliximab 3 mg/kg administered at Weeks 0, 2, 6,
+and 14 with methotrexate (MTX), followed by etanercept 25
+mg subcutaneously (SC) twice weekly without concomitant
+MTX. Infliximab was switched to etanercept to minimize
+patients’ time away from work. Individual baseline MRSS
+of 35, 12, 16, and 8 improved at 6 months with MRSS of 16,
+7, 7, and 3, respectively. Baseline HAQ-DI scores of 1.575,
+2.5, 2.25, and 1.75 improved at 6 months with HAQ-DI
+scores of 0.375, 1.5, 1.75, and 1.375, respectively. No
+adverse effects were reported with either infliximab or
+ etanercept.
+Ellman, et al report use of etanercept 25 mg SC twice
+weekly for 6 months in 9 patients with diffuse SSc 29. Four
+of the patients had a 44% improvement in the Rodnan skin
+score and 5 remained unchanged. The HAQ-DI score
+improved from 1.8 to 1.57. One patient discontinued thera-
+py after 4 weeks because of new digital ischemia, while 3
+patients with digital ulcers noted improvement.
+Marie, et al 48 report the case of a 44-year-old woman
+with diffuse SSc and erosive, anti-CCP-positive polyarthri-
+tis treated with 2 doses of infliximab (3 mg/kg). One month
+after the second infusion she developed Actinomyces meyeri
+pneumonia. The effects of infliximab on joint count, HAQ,
+or skin score were not reported.
+Other biologic agents in SSc. Three studies report use of
+A TG30,31,32 and 3 report use of imatinib mesylate33,34,35 in SSc
+(Table 2). Five observational studies 42,43,44,45,47 and 1 ran-
+domized trial46 report the use of rituximab in SSc (Table 3).
+Grassegger, et al36 report a multicenter trial of recombi-
+nant IFN-g 100 µg SC thrice weekly for 12 months in 44
+patients. Of them, 27 patients were randomized to treatment
+291Phumethum, et al: Biologics for SSc
+Personal non-commercial use only. The Journal of Rheumatology Copyright © 2011. All rights reserved.
+Table 1. Summary of studies evaluating anti-TNF agents in systemic sclerosis.
+Study Characteristics Lam 26 Denton28 Bosello27 Ellman29 Marie48
+Anti-TNF agent Etanercept Infliximab Infliximab, Etanercept Infliximab
+Etanercept
+Study design Observational Observational Observational Observational Observational
+Sample size, n 18 16 4 10, 1 1
+discontinued
+after 4 wks
+Country USA UK Italy USA France
+Study/treatment Mean 30 mo 26 wks 6 mo 6 mo 2 wks
+duration (range 2–66 mo)
+Other MTX 9/18 None MTX with Not specified Pred
+immunosuppressive HCQ 5/18 infliximab
+medication Pred 9/18
+Minocycline 2/18
+Outcome
+Skin score Improved, not No effect d Improved, not 4/9 (44%) NR
+significanta significant** improvement;
+5/9 unchanged
+HAQ-DI Improved, not Improved, not Improved, not Improved from NR
+significantb significant* significant † 1.8 to 1.57†† NR
+Joint count Improved c NR NR NR NR
+Adverse events Lupus-like reaction Infusion reactions, Not specified n = 1 digital A. meyeri
+1/18, lung function 44% ischemia pneumonia
+decline 1/18
+a Mean Rodnan skin score (MRSS) decreased from 6.63 ± 6.35 to 3.94 ± 2.38 (p = 0.12). b Mean HAQ-DI score
+decreased from 1.08 ± 0.70 to 0.74 ± 0.56 (p = 0.13). c 15/18 (83%) patients treated with etanercept had a sig-
+nificant decrease in signs of inflammation/synovitis and resolution of joint symptoms. d No significant change
+in median (range) baseline MRSS 26 (11–45) and Week 26 MRSS 22 (6–48). * Nonsignificant improvement in
+median (range) baseline, HAQ-DI 1.63 (0–3), and Week 26, 1.5 (0–2.63) (p value not given). ** Baseline mean
+MRSS 17.75, 6-month MRSS 8.25 (p = 0.22). † Baseline mean HAQ-DI 2.02, 6-month HAQ-DI 1.25 (p = 0.09).
+†† p value not given. TNF-a: tumor necrosis factor-a; MTX: methotrexate; HCQ: hydroxychloroquine; Pred:
+prednisone; NR: not reported; HAQ-DI: Health Assessment Questionnaire-Disability Index.
+ www.jrheum.orgDownloaded on February 22, 2026 from 
+
+[W2063785079 PDF PAGE 4]
+and 17 patients randomized to the control groups. Mean fol-
+lowup was 7–17 months. Skin scores tended to improve in
+the treatment group (p > 0.05; Table 4).
+Black, et al37 report a randomized trial of IFN-a 13.5 x
+106 units in divided doses in 35 patients with diffuse SSc.
+Because of a withdrawal of 13 patients, an interim analysis
+was performed. Three deaths and the lack of benefit in the
+treatment arm resulted in termination of further recruitment.
+A greater improvement in the placebo group skin score was
+observed (Table 4).
+Seibold, et al38 report a randomized trial of recombinant
+relaxin 25 µg/kg/day, 100 µg/kg/day, or placebo for 24
+weeks by SC infusion in 72 patients with diffuse SSc.
+Patients who received 25 µg/kg of relaxin per day had lower
+skin scores than those who received placebo (mean change,
+–

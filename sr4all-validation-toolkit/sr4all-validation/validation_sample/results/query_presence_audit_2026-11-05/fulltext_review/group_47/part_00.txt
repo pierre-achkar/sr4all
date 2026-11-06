@@ -1,0 +1,211 @@
+
+
+REVIEW W4389729337
+TITLE: The Impact of Occupational Exposures on the Risk of Idiopathic Pulmonary Fibrosis: A Systematic Review and Meta-Analysis
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4389729337 PDF PAGE 1]
+ORIGINAL RESEARCH
+The Impact of Occupational Exposures on the Risk of Idiopathic
+Pulmonary Fibrosis
+A Systematic Review and Meta-Analysis
+Sheiphali A. Gandhi1, Bohyung Min2, Jane C. Fazio3, Kerri A. Johannson2, Craig Steinmaus4, Carl J. Reynolds5,
+and Kristin J. Cummings6
+1Division of Occupational, Environmental, and Climate Medicine, Department of Medicine, University of California, San Francisco, San
+Francisco, California;2Department of Medicine, University of Calgary, Calgary, Alberta, Canada;3Division of Pulmonary, Critical Care,
+and Sleep Medicine, Department of Medicine, University of California, Los Angeles, Los Angeles, California;4School of Public Health,
+University of California, Berkeley, Berkeley, California;5Faculty of Medicine, National Heart and Lung Institute, Imperial College of
+London, London, United Kingdom; and6Occupational Health Branch, California Department of Public Health, Richmond, California
+ORCID IDs: 0000-0003-3156-7619 (S.A.G.); 0000-0001-7875-4361 (B.M.); 0000-0002-3406-4542 (J.C.F.); 0000-0003-1205-5511 (K.A.J.);
+0000-0002-7415-258X (C.J.R.); 0000-0002-5422-9199 (K.J.C.).
+Abstract
+Rationale: Idiopathic pulmonary fibrosis (IPF) is a progressive
+fibrotic pulmonary disorder of unknown etiology that is
+characterized by a usual interstitial pneumonia pattern. Previous
+meta-analyses have reported associations between occupational
+exposures and IPF, but higher-quality studies have been
+published in recent years, doubling the number of studied
+patients.
+Objectives: To provide a contemporary and comprehensive
+assessment of the relationship between occupational exposures
+and IPF.
+Methods: We searched PubMed, Embase, and Web of Science
+through July 2023 to identify all publications on occupational
+exposure and IPF. We conducted a meta-analysis of the
+occupational burden, odds ratio (OR), and population
+attributable fraction (PAF) of exposures. Five exposure categories
+were analyzed: vapors, gas, dust, and fumes (VGDF); metal dust;
+wood dust; silica dust; and agricultural dust. A comprehensive
+bias assessment was performed. The study protocol was
+registered in the International Prospective Register of Systematic
+Reviews (identifier CRD42021267808).
+Results: Our search identified 23,942 publications. Sixteen
+publications contained relative risks needed to calculate pooled
+ORs and PAFs, and 12 additional publications reported an
+occupational burden within a case series. The proportion of cases
+with occupational exposures to VGDF was 44% (95% confidence
+interval [CI], 36– 53%), with a range of 8– 17% within more
+specific exposure categories. The pooled OR was increased for
+VGDF at 1.8 (95% CI, 1.3– 2.4), with a pooled PAF of 21% (95%
+CI, 15– 28%). ORs and PAFs, respectively, were found to be 1.6
+and 7% for metal dust, 1.6 and 3% for wood dust, 1.8 and 14%
+for agricultural dust, and 1.8 and 4% for silica dust. The pooled
+ORs and PAFs within specific exposure categories ranged from
+1.6 to 1.8 and from 4% to 14%, respectively. We identified some
+publication bias, but it was not sufficient to diminish the
+association between occupational exposures and IPF based on
+sensitivity analysis and bias assessment.
+Conclusions: Our findings indicate that 21% of IPF cases
+(or approximately one in five) could be prevented by removal
+of occupational exposure (alongside a pooled OR of 1.8).
+Additionally, 44% of patients with IPF report occupational
+exposure to VGDF. This meta-analysis suggests that a
+considerable number of cases of IPF are attributable to inhaled
+occupational exposures and warrant increased consideration in
+the clinical care of patients and future prevention efforts.
+Keywords: occupational lung disease; occupational exposures;
+pulmonary medicine; environmental exposures
+(Received in original form May 2, 2023; accepted in ﬁnal form December 13, 2023)
+Supported by National Institute of Health National Research Service Award/National Cancer Institute grant 1F32CA265103-01 (S.A.G.). The
+ﬁndings and conclusions in this article are those of the authors and do not necessarily represent the views or opinions of the California
+Department of Public Health or the California Health and Human Services Agency.
+Ann Am Thorac Soc Vol 21, No 3, pp 486–498, Mar 2024
+Copyright © 2024 by the American Thoracic Society
+DOI: 10.1513/AnnalsATS.202305-402OC
+Internet address: www:atsjournals:org
+486 AnnalsATS Volume 21 Number 3 | March 2024
+
+[W4389729337 PDF PAGE 2]
+Idiopathic pulmonaryﬁbrosis (IPF) is a
+chronic, progressiveﬁbrotic disorder
+typically affecting adults older than age
+50 years and is associated with a poor
+prognosis. Its incidence ranges from three to
+nine cases per 100,000 annually in North
+America and Europe (1). The hallmark of
+IPF is a radiological or pathological usual
+interstitial pneumonia (UIP) pattern with
+known causes of UIP excluded (e.g., collagen
+vascular disease, drug-induced pneumonitis,
+radiationﬁbrosis, or occupational exposures)
+through a focused history or additional
+diagnostic testing (2, 3).
+Although IPF is considered a disease of
+unknown etiology, proﬁbrotic risk factors
+have been described, including genetic
+factors (4), cigarette smoking (5), viral
+infections (6), occupational exposures (7),
+and gastroesophageal reﬂux disease (8). In
+particular, the association with occupational
+exposures warrants further investigation,
+given the number of studies informing
+potential relationships (2). Additionally,
+occupational exposures remain a highly
+preventable and modiﬁable inhalational
+hazard if associated with IPF.
+Retrospective case-control and cohort
+studies have found associations between
+speciﬁc occupational exposures and the risk
+of developing IPF. A previous systematic
+review of IPF and occupational exposures
+published in 2017 identiﬁed 11 studies that
+reported associations between occupational
+exposures and IPF (7, 9– 12). This review
+included 1,229 cases of IPF, with only limited
+analysis of bias, confounding, susceptibility,
+and study quality (7). This present study was
+undertaken in light of new studies with large
+numbers of patients to evaluate whether their
+ﬁndings have continued to demonstrate an
+association between occupational exposures
+and IPF.
+The primary objective of the present
+study was to provide a contemporaneous and
+comprehensive assessment of relationships
+between occupational exposures and IPF to
+qualitatively characterize associations
+between occupational exposures and the risk
+of diagnosis. This meta-analysis intends to
+improve upon previous work with an
+additional 5 years of research, during which a
+large number of studies have been published,
+using updated diagnostic deﬁnitions relevant
+to contemporary practice while integrating
+an analysis with intensive evaluation for bias
+and quality assessment.
+Methods
+Data Sources and Searches
+We performed a systematic review and
+meta-analysis according to a predetermined
+protocol per the Preferred Reporting Items
+for Systematic Reviews and Meta-Analysis
+guidelines (13, 14). We registered the study
+protocol to the International Prospective
+Register of Systematic Reviews on September 8,
+2021 (identiﬁer CRD42021267808).
+The screening process and results are
+shown in Figure 1. We conducted an initial
+systematic electronic literature review using
+PubMed, Embase, and Web of Science on
+July 15, 2023. Searches were designed with
+the goal of identifying all publications that
+reported on occupational exposure in
+patients diagnosed with IPF. Search criteria
+are provided in the data supplement. We
+examined bibliographies to search for
+additional studies. No language or regional
+restrictions were applied. We excluded
+duplicates. We contacted authors for raw
+data or preprint papers for studies that had
+been published only as abstracts. If adequate
+data for analysis were available, abstracts
+were included.
+Study Selection
+Two reviewers (S.A.G., B.M., and/or J.C.F.)
+independently screened all citations for
+eligibility using a sequential review of titles,
+abstracts, and full publications. At each stage,
+lists were compared, and disagreements were
+resolved through consensus (S.A.G., B.M.,
+and/or J.C.F.). Per protocol, studies were
+included if the study population comprised
+adults (>18 years old) diagnosed with IPF
+(or equivalent criteria) based on consistent
+clinical, radiographic, or pathologicﬁndings.
+The diagnosis was established according
+to the authors of the parent studies. Case-
+control, cohort, case-series, and cross-
+sectional studies were included, but studies
+with study populations of fewer than 10 were
+excluded. We included studies reporting
+prevalence or risk (odds ratio [OR], relative
+risk) of a diagnosis of IPF based on speciﬁc
+occupations or occupational exposures.
+In the event of multiple publications with
+overlapping recruitment periods at a single
+center, we included the study with the more
+detailed description of occupational exposure
+to prevent patients from being counted
+twice. Conference abstracts were included
+for pooled population attributable fraction
+(PAF) and OR calculation if the parent
+study authors provided raw data and
+methodological information for OR and PAF
+calculations and quality assessment.
+Data Extraction and
+Quality Assessment
+A standardized, prepiloted form was used to
+extract data from the included studies to
+assess study quality and evidence synthesis.
+Two review authors (S.A.G., B.M., and/or
+J.C.F.) extracted data independently, and
+discrepancies were identiﬁed and resolved
+through discussion (S.A.G., B.M., and/or
+J.C.F). Two authors (S.A.G., B.M., and/or
+J.C.F.) extracted data on study design,
+participant inclusion and exclusion criteria,
+sex, age, method of diagnosis, types of
+exposures, and effect measures (ORs, risk
+ratios, and standard errors). Aggregate
+participant data was used. 

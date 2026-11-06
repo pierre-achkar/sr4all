@@ -1,0 +1,182 @@
+hort-term and mid-term (in 5  years) outcomes 
+of VSARR were reported to be comparable in both TAV 
+Fig. 7 Forest plots of reintervention events of patients in BAV and TAV cohort in different follow-up periods. a Forest plots of short-term 
+reintervention events of patients in BAV and TAV cohort. b Forest plots of mid-term reintervention events of patients in BAV and TAV cohort. c Forest 
+plots of long-term reintervention events of patients in BAV and TAV cohort
+
+[W4382988694 PDF PAGE 9]
+Page 9 of 13
+Zuo et al. Journal of Cardiothoracic Surgery          (2023) 18:206 
+ 
+and BAV groups [30]. However, given the long-term 
+results of VSARR, it was unclear whether the valve dura -
+bility was still comparable in the BAV and TAV groups. 
+In our study, we found a significantly higher incidence 
+of reintervention in the BAV group (P < 0.00001). Fur -
+ther review of the included studies revealed that most of 
+the reoperations were performed due to recurrent aortic 
+regurgitation and other reasons, including aortic steno -
+sis and endocarditis. More importantly, cusp prolapse 
+was mostly responsible for recurrent aortic regurgita -
+tion. Many factors might increase the risk of reopera -
+tion, including large aortoventricular diameter, use of a 
+pericardial patch, and less effective height. Dr. Schafers 
+first described the concept of effective height in 2007 and 
+the application of aortic annuloplasty in 2009; following 
+these reports, valve durability after the remodeling pro -
+cedure was significantly improved [32, 33]. Especially in 
+patients with BAV, annuloplasty is a substantial element 
+of repair due to the inherent annulus enlargement (annu-
+lar ectasia) [34]. As mentioned above, cusp plasty was 
+performed considerably more often in the BAV group, 
+which indicated a higher rate of morphological alteration 
+of BAV cusps at the time of operation.
+Regarding progressive aortic stenosis, the post-oper -
+ative mean gradient of BAV was reported to be slightly 
+higher than that of TAV [14]. Vallabhajosyula et  al. 
+reported that one patient had a post-operative dis -
+charge peak gradient of > 20  mm Hg and was free from 
+any reported effects of aortic stenosis [35]. Therefore, 
+although patients with BAV have a slightly higher trans -
+valvular gradient, it is unlikely to have any clinical rel -
+evance and relation to the development of severe aortic 
+stenosis.
+Freedom from aortic reintervention is always an essen -
+tial factor in the valve-sparing procedure. In our analy -
+ses, we found that most reinterventions occurred in the 
+first 3 years, and a significantly higher incidence of rein -
+terventions was noted in the BAV group. Although all 
+short-term, mid-term, and long-term outcomes showed 
+significant differences between the BAV and TAV groups, 
+Fig. 8 Forest plots of reintervention events of patients in BAV and TAV cohort in different follow-up periods. a Forest plots of reintervention events 
+between 3 and 5 years follow-up of patients in BAV and TAV cohort. b Forest plots of reintervention events over 5 years of patients in BAV and TAV 
+cohort
+
+[W4382988694 PDF PAGE 10]
+Page 10 of 13Zuo et al. Journal of Cardiothoracic Surgery          (2023) 18:206 
+the difference was no longer significant after excluding 
+these reinterventions that occurred in the first 3  years. 
+Which means, the long-term reintervention rate (5 years 
+or more), TAV group showed a slight but no statistically 
+advantage. According to the present data, we infer, if the 
+population size was larger, the advantage in TAV group 
+Fig. 9 Forest plots of secondary endpoints of patients in BAV and TAV cohort in different follow-up periods. a Forest plots of aortic cross-clamping 
+time of patients in BAV and TAV cohort. b Forest plots of total CPB time of patients in BAV and TAV cohort
+Fig. 10 The funnel plot for included studies. The funnel plot was symmetrical which meant no significant publication bias. Compared long-term 
+reintervention events of patients in BAV and TAV cohort
+
+[W4382988694 PDF PAGE 11]
+Page 11 of 13
+Zuo et al. Journal of Cardiothoracic Surgery          (2023) 18:206 
+ 
+was greater. And we carefully interpreted that patients 
+with BAV who underwent VSARR might go through both 
+short-term and long-term risk periods.
+Many studies showed comparable findings between 
+VSARR and Bentall procedure with a bioprosthesis 
+[29, 36]. Dr. Kalra et al. reported an equivalent 10-year 
+reintervention incidence in patients with BAV who 
+Fig. 11 Summary of study characteristics
+Fig. 12 Summary of study characteristics
+
+[W4382988694 PDF PAGE 12]
+Page 12 of 13Zuo et al. Journal of Cardiothoracic Surgery          (2023) 18:206 
+underwent VSARR or Bentall procedure. More recently, 
+a large cohort study compared the 10-year freedom 
+from aortic reintervention between the VSARR group 
+and the bioprosthetic Bentall group and showed similar 
+results between both the groups. In the present study, 
+we found a higher aortic reintervention rate of 7.6% in 
+patients with BAV, which is still comparable to those 
+with bioprosthetic Bentall procedure (10.6%) [37].
+Limitation
+The present meta-analysis has some limitations. First, 
+single-arm observational studies that reported data 
+only for BAV or TAV outcomes without any compari -
+son were excluded. Second, even though we followed 
+the ROBSIN-I guidelines to evaluate the risk of bias in 
+the included studies, there were several possible con -
+founding factors. Third, not all the studies included in 
+the analysis had the same variables used for propensity 
+matching or for Cox hazard grouping. Fourth, regard -
+ing the long-term mortality rate, because of the limita -
+tion of the original texts and other content included, 
+the results obtained were exactly the all-cause mortality 
+rate after the initial VSARR. Because it was impossible 
+to extract and determine whether the cause of death in 
+long-term mortality patients in each article was related 
+to the heart or aorta, subsequent cohort studies with 
+larger sample size and a longer follow-up time may be 
+required to confirm this aspect. Fifth, limited observa -
+tional data were available in both BAV and TAV groups 
+to determine outcomes that are predicted with a high 
+degree of sensitivity and specificity.
+Conclusion
+VSARR for treating the dilated aortic root is an attrac -
+tive surgical approach for patients with either TAV or 
+BAV. The safety and short-to mid-term effectiveness of 
+VSARR were fully established by many well-designed 
+studies. Regarding long-term results, the present data 
+showed less valve durability in patients with BAV than 
+in patients with TAV. However, the optimally selected 
+patients with BAV (requiring less cusp plasty and post-
+operative high effective height) may still gain maximal 
+benefits from VSARR.
+Author contributions
+Yiding Zuo and Ruixi Tan: Article arrangement, Data extract, Formal analysis 
+and Writing-Original Draft. Chaoyi Qin: Conceptualization, Writing-Review and 
+Editing, Supervision and Funding acquisition.
+Funding
+The present study was financially supported by the National Natural Science 
+Foundation of China (Grant No. 81900311) and Science and Technology 
+Agency Foundation of Sichuan province (Grant 2022YFS0364).
+Availability of data and materials
+All data generated or analyzed during this study are included in this published 
+article and its supplementary information files.
+Declarations
+Ethics approval and consent to participate
+Not Applicable.
+Competing interests
+The authors declare that the research was conducted in the absence of any 
+commercial or financial relationships that could be construed as a potential 
+conflict of interest.
+Author details
+1 Department of Anesthesia, West China Hospital, Sichuan University, 
+Chengdu 610041, China. 2 Department of Cardiovascular Surgery and Cardio-
+vascular Surgery Research Laboratory, West China Hospital, Sichuan University, 
+37th Guoxue Road, Chengdu 610041, China. 
+Received: 22 November 2022   Accepted: 29 June 2023
+References
+ 1. David TE. Aortic root aneurysms: remodeling or composite replacement? 
+Ann Thorac Surg. 1997;64:1564–8.
+ 2. Mokashi SA, Rosinski BF, Desai MY, Griffin BP , Hammer DF, Kalahasti V, 
+Johnston DR, Rajeswaran J, Roselli EE, Blackstone EH, Svensson LG. Aortic 
+root replacement with bicuspid valve reimplantation: Are outcomes and 
+valve durability comparable to those of tricuspid valve reimplantation? J 
+Thorac Cardiovasc Surg. 2022;163:51–63.
+ 3. David TE, David CM, Feindel CM, Manlhiot C. Reimplantation of the aortic 
+valve at 20 years. J Thorac Cardiovasc Surg. 2017;153:232–8.
+ 4. Klotz S, Stock S, Sievers HH, Diwoky M, Petersen M, Stierle U, Richardt D. 
+Survival and reoperation pattern after 20 years of experience with aortic 
+valve-sparing root replacement in patients with tricuspid and bicuspid 
+valves. J Thorac Cardiovasc Surg. 2018;155:1403–11.
+ 5. Zhou Z, Liang M, Huang S, Wu Z. Reimplantation versus remodeling in 
+valve-sparing surgery for aortic root aneurysms: a meta-analysis. J Thorac 
+Dis. 2020;12:4742–53.
+ 6. Schafers HJ, Raddatz A, Schmied W, Takahashi H, Miura Y, Kunihara 
+T, Aicher D. Reexamining remodeling. J Thorac Cardiovasc Surg. 
+2015;149:S30–6.
+ 7. David TE, David CM, Ouzounian M, Feindel CM, Lafreniere-Roula M. A 
+progress report on reimplantation of the aortic valve. J Thorac Cardiovasc 
+Surg. 2021;161:890–9.
+ 8. Moher D, Cook DJ, Eastwood S, Olkin I, Rennie D, Stroup DF. Improv-
+ing the quality of reports of meta-analyses of randomised controlled 
+trials: the QUOROM statement. Qual Report Meta Anal Lancet. 
+1999;354:1896–900.
+ 9. D. Moher, A. Liberati, J. Tetzlaff, D.G. Altman, P . Group. Preferred reporting 
+items for systematic reviews and meta-analyses: the PRISMA statement. 
+PLoS Med. 2009;6:e1000097.
+ 10. Sterne JA, Hernan MA, Reeves BC, Savovic J, Berkman ND, Viswanathan 
+M, Henry D, Altman DG, Ansari MT, Boutron I, Carpenter JR, Chan AW, 
+Churchill R, Deeks JJ, Hrobjartsson A, Kirkham J, Juni P , Loke YK, Pigott 
+TD, 

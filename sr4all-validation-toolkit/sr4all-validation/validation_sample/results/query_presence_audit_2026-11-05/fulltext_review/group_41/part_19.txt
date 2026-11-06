@@ -1,0 +1,169 @@
+9 ) .
+The meta-analysis also revealed that the incidence of
+grade ≥3 pneumonitis was 8% (95% CI: 6% – 10%, I2 = 52%)
+(Figure 5). Based on data from 13 studies, the proportion of
+patients discontinuing durvalumab due to pneumonitis was 17%
+(95% CI: 12%– 23%, I2 = 83%) (Figure 6).
+Other adverse events
+The pooled proportion of patients experiencing endocrine adverse
+events was 11% (95% CI: 7%– 18%, I2 =8 6 . 7 % )(Figure 7). Meta-analysis
+showed that the incidence of cutaneous adverse events was 8% (95% CI:
+3%– 17%, I2 =9 1 % )(Figure 8) whereas the pooled proportion of
+musculoskeletal and gastrointestinal adverse events was 5% (95% CI:
+3%– 6%, I2 =1 1 % )(Figure 9) and 6% (95% CI: 3%– 12%, I2 = 85.7%)
+(Figure 10), respectively.
+Discussion
+Real-world studies are an integral part of the evidence on the efﬁcacy
+and safety of new anticancer drugs. They are highly valuable as
+complementing RCTs due to their high external validity (Blonde et al.,
+FIGURE 6
+Meta-analysis of number of patients discontinuing durvalumab due to pneumonitis.
+FIGURE 7
+Meta-analysis of endocrine adverse events.
+Frontiers in Pharmacology frontiersin.org11
+Zhang et al. 10.3389/fphar.2023.1103927
+
+[W4380047383 PDF PAGE 12]
+2018). Since the PACIFIC trial (Antonia et al., 2017), several authors have
+reported real-life data of treating unresectable stage III NSCLC with
+durvalumab after CRT. Our study presents the most updated compiled
+evidence on the subject.
+An important advantage of real-life studies compared to their baseline
+RCTs is their broader inclusion criteria. This is apparent when the baseline
+characteristics of the patients in the PACIFIC trial (Antonia et al., 2017)
+and the included real-world studiesare compared. Firstly, most lung
+cancer patients are elderly with a median age of 70 years (Bray et al., 2018).
+However, such patients are frequently excluded from RCTs. In the
+PACIFIC trial (Antonia et al., 2017), the median age of patients was
+64 years while in most of the real-world included studies the median age
+w a sh i g h e rt h a n6 4 .I nt h es t u d i e so fSankar et al. (2022), Tsukita et al.
+(2021) Nishimura et al. (2022),a n dLeClair et al. (2022), the median age
+the highest, at 69, 70, 69.5, and 69.8 years, respectively. This age range is
+much more reﬂective of the actual age of NSCLC patients in actual clinical
+practice. Secondly, in the PACIFIC trial (Antonia et al., 2017) only patients
+with ECOG PS of 0– 1 were eligible for inclusion, which is consistent with
+clinical trials for other ICIs (Dall’Olio et al., 2020). Individuals with
+ECOG >2 represent a fragile set of patients who have a poor survival
+rate and are more prone to complications (Albain et al., 1991). While the
+US Food and Drug Administration and European Medicines Agency have
+approved the use of ICIs in this cohort, evidence for such patients is usually
+extrapolated from RCTs. It can be noted that many of the real-world
+studies in this review included patients with ECOG>2. Thirdly, only
+patients undergoing cCRT were included in the PACIFIC trial (Antonia
+et al., 2017) .W h i l ec C R Ta c h i e v e sb e t t e rs u r v i v a la sc o m p a r e dt os C R T ,
+sCRT is still used in elderly cohorts and in patients with large tumor
+volumes (Xiao and Hong, 2021). Lastly, the time from CRT to durvalumab
+was set as<42 days in the PACIFIC trial (Antonia et al., 2017). This
+duration was exceeded in many studies, included in our review.
+Despite these differences in baseline characteristics, our real-
+world analysis demonstrated that the 1-year OS and PFS were in
+line with the PACIFIC trial (Antonia et al., 2017). In fact, the OS and
+PFS in our analysis were only marginally higher (our review vs.
+PACIFIC; OS: 85% vs. 83.1% and PFS: 60% vs. 55.9%) (Antonia et al.,
+FIGURE 8
+Meta-analysis of cutaneous adverse events.
+FIGURE 9
+Meta-analysis of musculoskeletal adverse events.
+Frontiers in Pharmacology frontiersin.org12
+Zhang et al. 10.3389/fphar.2023.1103927
+
+[W4380047383 PDF PAGE 13]
+2017; Antonia et al., 2018). In comparison, the previous real-world
+review ofWang et al. (2022), which included onlyﬁve studies in the
+survival analysis, reported a 1-year OS (379 patients) and PFS
+(330 patients) of 90% and 62%, respectively. In the current review,
+the OS and PFS analysis included 14 and 15 studies with 1969 and
+1,379 patients, respectively, potentially providing better estimate of
+the real-world data of the actual survival rates. The higher survival
+rates in real-world studies could be due to the heterogeneity in the use
+of Response Evaluation Criteria for Solid Tumors amongst different
+centers leading to overestimation of treatment efﬁcacy (Wang et al.,
+2022). Secondly, patient follow-up and screening may not be as
+rigorous in clinical practice as compared to clinical trials which
+too could raise the survivalﬁgures.
+The results of our meta-regression analysis showed that an
+increased proportion of patients with an ECOG score of 0 had
+better PFS. ECOG represents the ability of patients to care for
+themselves and a physical ability in terms of walking, working,
+or time spent conﬁned to a bed or chair during waking hours
+(Dall’Olio et al., 2020 ). A lower score indicates a healthier
+patient which may have in ﬂuenced the PFS rates. However,
+we noted that median age did not in ﬂuence OS and PFS.
+Treatment of older cancer patients is challenging as the
+clinician needs to balance between toxicities of combined
+multiple treatments and a potential curative effect.
+Furthermore, due to poor ECOG status and multiple
+comorbidities such patients are frequently undertreated
+(Socinski et al., 2021 ). In line with our results, Lau et al.
+(2021) have reported that elderly patients receiving
+consolidation durvalumab after CRT for stage III NSCLC
+have similar overall responserates, OS, and PFS as compared
+to their younger counterparts. Post-hoc analysis of the PACIFIC
+trial also suggests similar ef ﬁcacy of durvalumab in elderly
+patients ( Socinski et al., 2021 ). However, these results must
+be interpreted with caution due to the selection bias in real-
+world studies and the small sample size of elderly patients
+in RCTs.
+We reported that median time from CRT to durvalumab did
+not inﬂuence the survival rates. Unlike the PACIFIC trial (Antonia
+et al., 2017) that only included patients receiving durvalumab
+within 42 days, real-world studies included patients beyond this
+time range. Indeed, patients in the PACIFIC trial (Antonia et al.,
+2017) were healthier (as demonstrated by their age and ECOG
+status) and could recover quickly from the adverse events of CRT.
+The prolonged time of durvalumab initiation in the real world
+points out to the heterogeneous population requiring longer time
+to recover from the toxicities of CRT. Additionally, logistic delays
+may occur in the real-world setting due to off-protocol systemic
+treatment planning and administration. In the PACIFIC trial
+(Antonia et al., 2018 ), OS was reduced in patients initiating
+durvalumab after 14 days. However, Desilets et al. (2021) have
+found no impact of durvalumab timing on OS in a real-world
+setting. Further studies are needed to assess the association of the
+time lag between CRT and durvalumab with the survival rates.
+The association between PD-L1 expression and survival with
+ICI is unclear. Some studies suggest that higher PD-L1
+expression results in better treatment outcomes with ICIs
+(Herbst et al., 2014 ; Rizvi et al., 2015 ), while others suggest
+otherwise (Brody et al., 2017). Due to heterogeneity of reporting
+in the included studies, we used two moderators for the meta-
+regression analysis, namely, the proportion of patients with PD-
+L1<1% and ≥50%. However, we noted no relationship between
+PD-L1 expression and survival. Similarly, the PACIFIC trial
+investigators noted no difference in OS and PFS in different
+subgroups based on PD-L1 status, although the trial was not
+initially designed to interpret such difference ( Antonia et al.,
+2018). Similar results were reported by the real-world studies of
+Ofﬁn et al. (2020) , Desilets et al. (2021) and Faehling et al.
+(2020) . However, Jazieh et al. (2021)demonstrated that patients
+with >50% PD-L1 expression had signiﬁcantly longer PFS and
+OS than those with lower PD-L1 expression. This variability in
+the results may be due to the variability in testing for PD-L1
+status and the sample size. Future RCTs stratifying patients
+based on PD-L1 expression are needed for stronger evidence.
+The rates of endocrinal, cutaneous, and musculoskeletal toxicities in
+o u ra n a l y s i sw e r e1 1 % ,8 % ,a n d5 % ,r espectively, while in the PACIFIC
+trial (Antonia et al., 2017) they were 11%, 7%, and 5%, respectively. The
+FIGURE 10
+Meta-analysis of gastrointestinal adverse events.
+Frontiers in Pharmacology frontiersin.org13
+Zhang et al. 10.3389/fphar.2023.1103927
+
+[W4380047383 PDF PAGE 14]
+incidence of all-grade pneumonitis was slightly lower in our analysis as
+compared to the PACIFIC trial (Antonia et al., 2017) (27% vs. 33.9%).
+However, we reported higher incidence of grade≥3 pneumonitis (8% vs.
+4%) and more frequent discontinuation of therapy due to pneumonitis
+(17% vs. 4.8%) compared to the PACIFIC trial data. A higher incidence of
+severe pneumonitis and more frequent rate of therapy discontinuation in
+real-world studies could be due to baseline differences in the study
+population.Sankar et al. (2022)in their retrospective analysis of the
+US veterans cohort noted a higher proportion of smokers and baseline
+lung disease in the veteran’s cohort as compared to the PACIFIC trial
+(Antonia et al., 2017). Both these factors are associated with severe disease
+(Nishino et al., 2016). We noted higher rates of pneumonitis in Asian
+population as compared to Western studies, suggesting a role of ethnicity
+in the incidence of pneumonitis. Furthermore, studies with a higher
+proportion of elderly patients had increased pneumonitis rates. Similar
+results were reported by the previous review (Wang et al., 2022). We
+sh

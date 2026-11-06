@@ -1,0 +1,217 @@
+lisations)
+10 17.5 range 0 – 84 15 5.58 range
+0– 32
+NA (decrease) NA NA
+Patient engagement
+(positive nonverbal)
+10 38.6 range 9 – 65 15 41.87 range
+1– 152
+NA (increase) NA NA
+Patient engagement
+(negative nonverbal)
+10 11.6 range 0 – 21 15 5.72 range
+0– 36
+NA (decrease) NA NA
+Weber et al. [ 38]
+(2009)
+Patient engagement
+(therapeutic
+progress-GES)
+76 NA NA 76 NA NA NA (increase, β = 2.01) 0.04 ↑
+Behaviour-Neuropsychiatric
+symptoms (NPI)
+76 NA NA 76 NA NA NA (decrease, β = −4.21) <
+0.001
+↑
+Cheong et al. [ 39]
+(2016)
+Mood (pleasure and
+general alertness-OERS)
+25 0.68 NA 25 3.12 NA NA (increase) 0.01 ↑
+Mood (anger, anxiety
+and sadness-OERS)
+25 0.48 NA 25 0.32 NA NA (decrease) 0.05 ↑
+Patient engagement
+(Constructive &
+passive-MPES)
+25 6.26 NA 25 8.0 NA NA (increase) 0.01 ↑
+Patient engagement
+(self- and non-
+engagement-MPES)
+25 1.04 NA 25 0.72 NA NA (decrease) 0.01 ↑
+Daykin et al. [ 40]
+(2017)
+Mood (happiness-
+ArtsObs)
+20 NA NA 20 NA NA NA (increase) NA NA
+Patient engagement
+(relaxation, distraction,
+engagement-ArtsObs)
+20 NA NA 20 NA NA NA (positive impact) NA NA
+Behaviour (agitation-
+ArtsObs)
+20 NA NA 20 NA NA NA (decrease) NA NA
+Windle et al. [ 41]
+(2018)
+Quality of life (DEMQOL
+self-report, 3 months)
+15 91.5 14 13 92.5 10.7 0.08 ( −0.67 to 0.82) 1.0 ( −8.80 to 10.80) 0.84 ↔
+Quality of life (DEMQOL
+self-report, 6 months)
+15 91.5 14 12 90.3 14.6 − 0.08 ( − 0.84 to
+0.68)
+−1.20 ( − 12.58 to
+10.18)
+0.83 ↔
+Quality of life (DEMQOL
+proxy, 3 months)
+19 86.7 12.6 9 96.3 10.2 0.78 ( − 0.04 to 1.60) 9.60 ( − 0.31 to 19.51) 0.06 ↔
+Quality of life (DEMQOL
+proxy, 6 months)
+19 86.7 12.6 4 85.5 15.6 −0.09 ( −1.17 to 0.99) − 1.20 ( − 16.15 to
+13.75)
+0.87 ↔
+Patient engagement
+(communication*,
+3 months)
+19 12.9 9.5 15 19.3 10 0.64 ( −0.05 to 1.34) 6.40 ( −0.44 to 13.24) 0.07 ↔
+Patient engagement
+(communication*,
+6 months)
+19 12.9 9.5 9 20.7 10.9 0.76 ( −0.06 to 1.58) 7.80 ( −0.48 to 16.08) 0.06 ↔
+Wellbeing domains
+(GCCWBOT, 2 weeks)
+Interest 18 52.5 28.9 20 50.5 18.8 −0.08 ( −0.72 to 0.56) −2.0 ( −17.88 to 13.88) 0.80 ↔
+Attention 18 67.5 21 20 71.9 16.5 0.23 ( −0.41 to 0.87) 4.4 ( −7.96 to 16.76) 0.48 ↔
+Pleasure 18 26 22.2 20 25.9 14.0 −0.01 ( −0.64 to 0.63) −0.10 ( −12.18 to 11.98) 0.99 ↔
+Lourida et al. BMC Geriatrics          (2020) 20:131 Page 8 of 14
+
+[W3015988056 PDF PAGE 9]
+[37– 39, 41] provided evidence regarding the effect of
+activity-based interventions on patient engagement (Table
+3). In the TAP-H intervention [ 37], patients showed in-
+creased positive gestures but decreased positive state-
+ments compared to baseline behaviors. A decrease in
+negative statements and nonverbal behaviors was also ob-
+served (e.g. repetitive statements, verbal aggression, motoric
+or facial disturbances). Increa sed constructive and passive
+engagement (e.g. motor or verbal behaviors in response to
+the activity), and decreased self- or non-engagement (e.g.
+purposeless behavior involving engagement with self, star-
+ing into space) was also observed during music sessions
+compared to sessions without music in the study evaluating
+a creative music therapy intervention [ 39]. A third study
+assessing the impact of a psychotherapeutic day hospital
+program [ 38] using a time-series design found that the
+intervention was associated with better clinical progress in
+group therapy across the different time points ( β =2 . 0 1 ,
+p = 0.04). There was a lack of evidence for a positive impact
+of the visual arts program [ 41] on communication mea-
+sured by a scale covering a range of behaviors related to en-
+gagement such as conversation, awareness, pleasure, humor
+and responsiveness. Patients’ communication actually dete-
+riorated between baseline and the 3-month and 6-month
+time points, with study authors reporting significantly more
+difficulties in communication [ 41]. Calculated effect sizes
+also indicate a detrimental effect on communication (3
+months: d = 0.64; CI: − 0.05 to 1.34, p =0 . 0 7 ;6m o n t h s :d =
+0.76; CI: − 0.06 to 1.58, p = 0.06) but the wide confidence
+intervals suggest imprecision of the effect estimate possibly
+due to the low number of participants (baseline n = 19, 3-
+month time point n = 15, 6-month time point n =9 ) .
+Mood Mood and emotional states of Plwd were assessed
+in three studies. The authors of the creative music ther-
+apy study [ 39] reported significantly higher frequency of
+positive mood ratings (general alertness and pleasure;
+p = 0.01) and lower observations of negative mood states
+(anxiety, anger, sadness; p = 0.04) during music sessions
+compared to sessions without music. However, only a
+small number of participants were observed ( n = 25) and
+the study did not provide additional details about rea-
+sons for admission or other conditions the patients may
+had been exposed to while on the unit. Gitlin et al. [ 37]
+assessed the same emotional states in 15 Plwd compar-
+ing observations during a baseline standardized activity
+to the TAP-H intervention sessions. There were insuffi-
+cient data to calculate effect sizes as authors only com-
+pared average percentage of time participants engaged in
+behaviors: patients showed increased pleasure, and de-
+creased alertness and negative mood states in interven-
+tion sessions compared to baseline. In the third study
+[40], observational data indicated that participants ’ hap-
+piness scores increased by the end of each participatory
+music-making session, and the impact on engagement,
+Table 3 Results for effectiveness of activity-based interventions to improve experience of care outcomes for Plwd in hospital
+(Continued)
+Study Outcome (tool) Comparison group
+(or pre-intervention)
+Intervention group
+(or post-intervention)
+Effect size
+d (95% CI)
+Mean difference
+(95% CI)
+p Significant
+change
+N Mean SD N Mean SD
+Normalcy 18 46.1 20.2 20 41.5 15.3 −0.25 ( −0.89 to 0.39) −4.60 ( −16.32 to 7.12) 0.43 ↔
+Self-esteem 18 29.2 5.5 20 27.9 6.4 −0.21 ( −0.85 to 0.43) −1.30 ( −5.25 to 2.65) 0.51 ↔
+Disengagement 18 19.8 25.0 20 19.0 24.0 −0.03 ( −0.67 to 0.60) −0.80 ( −16.93 to 15.33) 0.92 ↔
+Sadness 18 2.1 6.4 20 2.1 7.0 0.0 ( −0.64 to 0.64) 0.0 ( −4.43 to 4.43) 1.00 ↔
+Negative affect 18 2.8 5.0 20 1.3 2.9 −0.36 ( −1.01 to 0.28) −1.50 ( −4.16 to 1.16) 0.26 ↔
+Wellbeing domains
+(GCCWBOT, 3 months)
+Interest 18 52.5 28.9 12 47.9 18.3 −0.18 ( −0.91 to 0.55) −4.6 ( −23.89 to 14.69) 0.63 ↔
+Attention 18 67.5 21 12 69.5 20.4 0.09 ( −0.64 to 0.82) 2.00 ( −13.85 to 17.85) 0.80 ↔
+Pleasure 18 26 22.2 12 25.5 18.9 −0.02 ( −0.75 to 0.71) −0.50 ( −16.51 to 15.51) 0.95 ↔
+Normalcy 18 46.1 20.2 12 44.3 13.8 −0.10 ( −0.83 to 0.63) −1.80 ( −15.51 to 11.91) 0.79 ↔
+Self-esteem 18 29.2 5.5 12 30 5.3 0.14 ( −0.59 to 0.87) 0.80 ( −3.34 to 4.94) 0.70 ↔
+Disengagement 18 19.8 25.0 12 15.9 16 −0.17 ( −0.90 to 0.56) −3.90 ( −20.63 to 12.83) 0.64 ↔
+Sadness 18 2.1 6.4 12 0.4 1.3 −0.33 ( −1.06 to 0.41) −1.70 ( −5.56 to 2.16) 0.37 ↔
+Negative affect 18 2.8 5.0 12 1.7 2.6 −0.25 ( −0.99 to 0.48) −1.10 ( −4.32 to 2.12) 0.49 ↔
+AARS Apparent Affect Rating Scale, BPSD Behavioural and psychological symptoms of dementia, CI Confidence interval, d: Cohen ’s d, DEMQOL Dementia Quality of
+Life, DQoL Dementia Quality of Life instrument, GCCWBOT Greater Cincinnati Chapter Well-Being Observation Tool, GES Group Evaluation Scale, MPES Menorah
+Park Engagement Scale, NRS-R Neurobehavioral Rating Scale-Revised, NA Indicates relevant data was not reported or calculable, OERS The Lawton Observed
+Emotion Rating Scale, SD Standard deviation, p-value: for the mean difference between groups/pre-post
+*: higher scores indicating more communication difficulties, ↑: statistically significant difference for outcome in this comparison and direction of effect beneficial
+for intervention group or post-test, ↓: statistically significant difference for outcome in this comparison and direction of effect not beneficial for intervention group
+or post-test, ↔: no statistically significant difference for outcome in this comparison
+Lourida et al. BMC Geriatrics          (2020) 20:131 Page 9 of 14
+
+[W3015988056 PDF PAGE 10]
+distraction and relaxation was also consistently positive
+(statistical comparisons not reported).
+Wellbeing and quality of life The impact of the visual
+arts program [ 41] was assessed on eight domains of well-
+being using an observation tool compared to an unstruc-
+tured social activity not involving art. The study was
+conducted across three settings one of which was NHS
+hospital wards providing care to 23 Plwd. Although
+some of the assessed domain scores improved at the 2-
+week and 3-month time points compared to the baseline
+activity scores (e.g. attention, sadness, disengagement,
+negative affect), overall there was a lack of evidence to
+support a beneficial effect of the program on wellbeing.
+Quality of life was also assessed in the same program
+[41] along with a second study trialing the effectiveness
+of individualized social activities [ 36] in older people
+with cognitive impairment. Neither of the interventions
+were found to be effective at improving proxy- [ 41]o r
+self-reported [ 36, 41] quality of life. The wide confidence
+intervals suggest imprecision of the effect estimates pos-
+sible due to the small sample size (see Table 3).
+Behavior Behavioral outcomes were assessed in three
+studies (see Table 3). The RCT examining the effectiveness
+of individualized social activities [ 36] showed lower scores
+on a scale measuring BPSD but there was no significant dif-
+ference between groups post-intervention ( d = − 0.45; 95%
+CI: − 0.99 to 0.11, p = 0.11). However, a psychotherapeutic
+day hospital program [38] including music, movement, psy-
+chodynamic and sociotherapy was associated with a statisti-
+cally significant reduction in neuropsychiatric symptoms
+across time points from admission to discharge (linear re-
+gression β = − 4.21, p < 0.001), particularly anxiety and ap-
+athy. Observational data at the start and the end of the
+participatory music-making intervention [ 40] indicated
+consistently positive effects with reduced agitation of partic-
+ipants, al

@@ -1,0 +1,133 @@
+ 
+Melbourne, Victoria, Australia
+3 Department of Paediatrics, 
+The University of Melbourne, 
+Melbourne, Victoria, Australia
+4 The Royal Children’s Hospital, 
+Melbourne, Victoria, Australia
+5 London School of Hygiene 
+and Tropical Medicine, 
+London, UK
+Correspondence to:
+Rita Reyburn 
+Murdoch Children Research 
+Institute  
+Royal Children’s Hospital, 50 
+Flemington Rd, Parkville, Victoria 
+Australia 
+rita.reyburn@gmail.com
+Background A systematic review in 2019 found reductions in antimicrobial resis -
+tance (AMR) of pneumococcal vaccine serotypes following pneumococcal conjugate 
+vaccine (PCV) introduction. However, few low- or middle-income countries were in-
+cluded as not many had introduced higher valent PCVs (PCV10 or PCV13). The aim 
+of our review is to describe AMR rates in these samples following the introduction 
+of PCV10 or PCV13.
+Methods We conducted a systematic literature review of published papers that com-
+pared AMR for invasive pneumococcal disease (IPD), otitis media (OM) and naso -
+pharyngeal carriage (NPC) samples following introduction of PCV10 or PCV13 to 
+the pre-PCV period. Included studies published from July 2017 to August 2020 had a 
+post-licensure observational study design and reported on our defined outcomes: IPD, 
+OM, NPC and other (sputum or mixed invasive and non-invasive pneumococcal) iso-
+lates from people of all ages. Rates of AMR in the pre- and post-period were extracted.
+Results Data were extracted from 31 studies. Among IPD isolates, penicillin AMR 
+rates following PCV10 or PCV13 introduction declined in 32% (n = 9/29) of included 
+studies, increased in 34% (n = 10/29) and showed no change in 34% (n = 10/29). Ceph-
+alosporins AMR declined in 32% (n = 6/19) of studies, increased in 21% (n = 4/19) and 
+showed no change in 47% (n = 9/19). Macrolides AMR declined in 33% (n = 4/12) of 
+studies, increased in 50% (n = 6/12), and showed no change in 17% (n = 2/12). AMR to 
+other antibiotics (including multidrug resistance) declined in 23% (n = 9/39) of stud-
+ies, increased in 41% (n = 16/39) and showed no change in AMR in 36% (n = 14/39). 
+There were no obvious differences between AMR; in setting which used PCV10 vs 
+PCV13, according to time since PCV introduction or by World Bank income status 
+of the respective country. The only study including OM isolates found no change 
+in penicillin resistance. There were few studies on AMR in NPC (four studies), OM 
+(one study) or other isolates (five studies). The results followed similar patterns to 
+IPD isolates.
+Conclusions We observed considerable heterogeneity in the findings between and 
+within studies, e.g. no evidence of reduction in amoxicillin AMR with an increase in 
+macrolides AMR. Reasons for such diverse findings include the period covered by 
+different studies and variation in other pressures towards AMR.
+
+[W4321164441 PDF PAGE 2]
+Reyburn et al. 
+RESEARCH THEME 1: PREVENTION AND 
+MANAGEMENT OF PNEUMONIA AND DIARRHOEA  
+IN CHILDREN – EVIDENCE SYNTHESIS
+2023  •  Vol. 13  •  05001  2  www.jogh.org •  doi: 10.7189/jogh.13.05001
+Antimicrobials have been central to the treatment of infection for more than 80 years but their increasing 
+use has stimulated selection of antimicrobial resistance (AMR) strains among common bacterial pathogens 
+[1]. As new antimicrobial agents are introduced, the degree and diversity of resistance in pathogens has 
+also increased [2].
+The cost of AMR to human life is difficult to accurately measure, but it has been estimated that in 2015 in 
+the European Union, at least 700 000 people each year became infected with antimicrobial resistant bacte-
+ria, and at least 33 000 died as a direct result of these infections [3].
+Streptococcus pneumoniae is among the commonest human infections for which antimicrobials are pre -
+scribed and to which resistance continues to rise. However, resistance patterns have been modified during 
+the last two decades by many factors, including the introduction of 7-valent pneumococcal conjugate vac-
+cine (PCV7), which covers the most common pneumococcal serotypes causing invasive disease [ 4,5]. The 
+use of the first generation PCV7 in children in the United States, containing serotypes 4, 6B, 9V, 14, 18C, 
+19F and 23F, led to a reduction in pneumococcal disease due to these AMR serotypes, particularly those re-
+sistant to penicillin and/or erythromycin [5]. Subsequently, non-PCV7 serotypes with higher levels of AMR 
+emerged (e.g. serotypes 19A and 7F), and this limited the overall benefit of PCV7 in reducing the burden of 
+pneumococcal disease [6]. The next generation higher valency vaccines, 10-valent PCV (PCV10, Synf lorix) 
+and 13-valent PCV (PCV13, Prevnar13®), have now been introduced with the latter containing six new 
+serotypes in addition to those in PCV7 (1, 3, 5, 6A, 7F, and 19A).
+A previous systematic review reported on the effect of PCV10 or PCV13 implementation in routine infant 
+immunisation schedules on AMR invasive pneumococcal disease (IPD), otitis media (OM), and nasopha -
+ryngeal carriage (NPC) in children and adults using literature published between 2008 and 2017. Results 
+showed that in countries with relatively high prior pneumococcal AMR, PCV13 childhood vaccination pro-
+grams have reduced AMR IPD, OM, and NPC in children and IPD in adults [7]. The effectiveness of PCV13 
+against serotype 19A was likely an important contributing factor. This published review used studied pub-
+lished up to one June 2017 and included few studies from low- and middle-income countries (LMICs) using 
+higher valency PCVs as national introduction of PCV10 and PCV13 occurred more recently. A more recent 
+systematic review included data on paediatric isolates from 104 countries, and demonstrated reduction 
+in proportions of pneumococci showing non-susceptibility to penicillin 11.5% (95% confidence interval 
+(CI) = 8.6-14.4), sulfamethoxazole-trimethoprim 9.7% (95% CI = 4.3-15.2), and third-generation cephalospo-
+rins 7.5% (95% CI = 3.1-11.9), over the 10 years after implementation of any PCV product [8]. This review 
+did not include data on isolates from adults.
+The aim of this systematic literature review is to describe the impact of PCV10 or PCV13 as part of the na-
+tional immunisation program on AMR rates in IPD, OM, and NPC samples from people of all ages.
+METHODS
+This study was conducted following the Preferred Reporting Items for Systematic Reviews and Meta-Anal-
+yses (PRISMA) statement. The protocol is available upon request from the authors.
+Literature search
+A systematic literature review was performed to identify data from published studies on the impact of 
+PCV10/13 on AMR rates in IPD, OM and NPC samples taken from children and adults compared to a pre-
+PCV period. The literature used in this review was obtained through electronic searches of MEDLINE (Ovid), 
+Embase (Ovid) and Cochrane Library databases using Medical Subject Headings (MeSH), thesaurus terms 
+and keywords. Details of the search terms and keywords are presented in Table S1 in the Online Supple-
+mentary Document. PubMed was additionally searched, using keywords only, to source any electronic pub-
+lications as well as items not indexed in Medline. There was no restriction regarding languages included in 
+the search terms; however, we did not specifically search non-English languages.
+Inclusion and exclusion criteria
+We included studies carried out in countries which have introduced PCV10/13 into their routine national 
+immunisation schedule. The review focused on the two commercially available vaccines, PCV10 (Synflex) 
+and PCV13 (Prevenar 13®), and considered any immunisation schedule: two primary doses plus a boost -
+er (2 + 1) or three primary doses with or without a booster (3 + 1 or 3 + 0), with or without catch-up. PCV13 
+
+[W4321164441 PDF PAGE 3]
+PCV impact on pneumococcal antimicrobial resistance
+RESEARCH THEME 1: PREVENTION AND 
+MANAGEMENT OF PNEUMONIA AND DIARRHOEA  
+IN CHILDREN – EVIDENCE SYNTHESIS
+www.jogh.org •  doi: 10.7189/jogh.13.05001 3 2023  •  Vol. 13  •  05001
+or PCV10 uptake in the recommended immunisation population of at least 70% during the reported study 
+period was required for inclusion. Observational studies, including before-after and interrupted time series, 
+were targeted. The outcomes of interest were: AMR rates in IPD, OM and NPC. No restrictions were applied 
+to the antibiotics that were assessed in the studies or the guidelines and criteria that were used to define an-
+tibiotic resistance or non-susceptibility. Reference lists of identified reviews were screened for publications 
+meeting the inclusion criteria that had not been found in the electronic search. Studies published between 
+July 2017 and August 2020 were included. The following exclusion criteria were applied: randomised con-
+trolled trials were excluded as the aim was to evaluate the impact of PCV13 and PCV10 in national immu-
+nisation programs. In addition, case-control studies, cross-sectional studies, case series and case reports as 
+well as studies that only reported data before or after PCV introduction but not for both periods were also 
+excluded. To allow sufficient time for vaccine impact, we excluded studies which assessed AMR rates less 
+than one year post-PCV10/13 introduction, as well as studies which that only compared PCV13 or PCV10 
+to PCV7 rather than to the pre-PCV period. We excluded studies in which only the number of cases, and 
+not rates, were presented since these do not allow a standard comparison with other studies.
+Study selection
+Citations were screened by two independent reviewers in a two-step approach. First, two independent re -
+viewers screened the titles and abstracts for their relevance based on the inclusion/exclusion criteria. For 
+publications which were unclear from the title/abstract whether they met these criteria were included for 
+full-text reading. Second, full-text articles were reviewed independently by two reviewers. Reasons for ex -
+cluding studies were recorded.

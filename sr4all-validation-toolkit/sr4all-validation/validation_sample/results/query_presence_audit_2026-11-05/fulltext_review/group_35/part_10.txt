@@ -1,0 +1,189 @@
+tates consist of
+phrases, such as “rely on/depend on” , “take risks” , or “be vulnerable” .
+These conceptualizations and behavioral states create definitions,
+such as “willingness to depend on” , “willingness to take risks” , or
+“willingness to be vulnerable” . Another component within each trust
+definition is the trustee, which emphasizes what or whom is being
+trusted (encoded as
+ in Figure 3). Most papers did not name a
+specific trustee, instead opting to use the phrase “another party”
+as a general term to describe the trustee. Lastly, attributes that de-
+scribe the characteristics of the trustee were also often provided
+within each definition (labeled as
+ in Figure 3). These attributes,
+in tandem with the trustee, create phrases, such as “information
+on social media is accurate, complete, fair, and timely” and “another
+party that has reliability and integrity” .
+3.2.2 Tailored Terms & Definitions in The Context of Social Media.
+In our corpus, 13 papers provided tailored terms and definitions of
+trust in the context of social media, as shown in Table 4. Overall, the
+conceptualizations among these tailored definitions were almost
+equally distributed between framing trust as a willingness, belief,
+feeling, and perception. The trustees included in each definition
+help specify whom or what is being trusted.
+Summary: Less than half of the papers in our corpus explicitly
+defined trust, and very few studies provided tailored definitions of
+trust in the context of social media, making the concept of trust
+ambiguous. Among the papers that did define it, trust has been most
+commonly conceptualized as willingness, with some conceptual-
+izations framing trust as a belief, feeling, confidence, expectation,
+perception, or decision.
+
+[W4319654023 PDF PAGE 7]
+What Do We Mean When We Talk about Trust in Social Media? A Systematic Review CHI ’23, April 23–28, 2023, Hamburg, Germany
+Table 3: Number of studies (and associated percentages %) that reported specific demographic characteristics of participants.
+Characteristics Options Number Percentage (%)
+of studies of studies*
+Sex or Gender Female & Male 56 80%
+Women & Men & Others 5 7%
+Not reported (neither sex nor gender) 9 13%
+Race African-American 13 19%
+American Indian 5 7%
+Asian 8 11%
+White 13 19%
+Other 1 1%
+Not reported 53 76%
+Ethnicity Latino/Hispanic 9 13%
+Not reported 61 87%
+Education High school or less 18 26%
+Associate degree 3 4%
+Vocational degree 4 6%
+Diploma degree 6 9%
+Some college 10 14%
+Bachelor degree 22 31%
+Graduate degree 19 27%
+Other 1 1%
+Not reported 26 37%
+Geo-location North America 23 33%
+Asia 19 27%
+Europe 12 17%
+South America 2 3%
+Australia 1 1%
+Multiple locations 5 7%
+Not specified 8 11%
+Age Under 18 years old 9 13%
+Between 18 and 60 years old 55 79%
+Above 60 years old 19 27%
+Not reported 15 21%
+Income level** Reported 17 24%
+Not reported 53 76%
+Political ideology** Reported 6 9%
+Not reported 64 91%
+*Total percentage may be more than 100% as many papers reported multiple characteristics options of each category.
+**Low-level categorizations of income & political affiliation were not included due to the inconsistency of reporting across countries and across papers.
+3.3 Measurements of Trust
+Our results show that all but seven papers included detailed mea-
+surements of trust that they utilized in their studies, reflecting a
+high level of transparency in the research. Below, we present results
+on how well existing studies map their definitions to their measure-
+ments (to ensure construct validity), a low-level categorization of
+trustee(s) in the context of social media when measuring trust, and
+the dimensions of trust.
+3.3.1 Construct Validity: Mapping Definitions to Measurements.
+Our results showed that overall, only 47% of the studies mapped the
+definitions and/or conceptualizations of trust to the measurements.
+For example, as described in subsection 3.2, “willingness” has been
+used the most often in our corpus to conceptualize trust. As such,
+measurements of trust in these specific papers intuitively should,
+at least in part, include a measurement of participants’ willing-
+ness [92]. However, surprisingly, none of the studies in our corpus
+specifically measured “willingness”. Instead of mapping trust mea-
+surements directly to the definitions specified, papers in our corpus
+
+[W4319654023 PDF PAGE 8]
+CHI ’23, April 23–28, 2023, Hamburg, Germany Zhang et al.
+Table 4: Tailored terms and definitions of trust conceptsin the context of social media (terms are sorted in alphabetical order):
+Similar to the color coding and dimensions described in Figure 3, text in orange suggests the conceptualization of trust (e.g.,
+being conceptualized as “willingness”, “perception”, “belief”, and “expectation”), text in green represents the behavioral
+states (wherever applicable) following the conceptualization of trust, text in violet-red indicates the trustee , and text in blue
+shows the attributes of the trustee (wherever applicable).
+Trust terms Tailored definitions
+“Information trust” Belief in the online information provided by an organization that is beneficial to an
+individual [56].
+“Media trust” The perception that the information is accurate, complete, fair, and timely [55].
+“Mistrust in news” Skeptical of the news source and defers the judgment [78].
+“Online trust” The extent to which one feels secure and comfortable about relying on the information
+on social media [13].
+“Platform trust” A psychological state in which a person has favorable views of others’ at-
+tributes [30].
+“SNS trust” (Social media) users’ willingness to rely on others in whom they have confi-
+dence [81].
+“Source trust” The extent to which the person providing the information is deemed honest or
+credible [80].
+“Trustworthiness” Perceived believability of information [109].
+“Trust in SNSs” Consumer’s willingness to trust the SNSs [50]
+“Trust” One’s willingness to depend on Facebook [70].
+An implicit belief that reflects online users’ confidence in the information plat-
+form [16].
+The extent to which you feel secure and comfortable relying on the information [13].
+The belief in others and in their posted articles on the Facebook website [115].
+tended to ask general questions when measuring trust, such as “how
+much trust do you have on social media”. Similar issues are seen
+across the rest of the trust conceptualizations, as well. This mis-
+alignment of definitions to measurements diminishes the construct
+validity of trust (i.e., the extent to which the measure accurately
+assesses what it’s supposed to [7]).
+3.3.2 Trustee: The Party or The Object to be Trusted. The measure-
+ments of trust across our surveyed papers focused on the following
+trustees in the context of social media: 1) information from social
+media, 2) social media users/groups (like Facebook groups), 3) social
+media platforms, and in some cases, a combination of two or more.
+Most measurements of trust specifically focused on a single
+trustee, except for eight studies that integrated multiple trustee
+measurements into one variable. Specifically, while these studies
+appear to use multiple survey questions to measure a single trustee,
+these questions in fact ask aboutmore than one trustee. For example,
+in a set of questions intended to measure trust in a social media
+platform, some of these questions ask about the platform while
+others ask about users or information. Such scenarios introduce
+conceptual and empirical challenges. Specifically, these measures
+introduce threats to construct validity in that they are not precisely
+measuring the type of trust the research is setting out to assess.
+Indeed, individuals may have differing levels of trust in the platform
+versus users and information on social media. As such, a measure
+that sets out to evaluate platform trust but that asks about infor-
+mation and user trust as well is likely to yield a muddled and even
+inaccurate characterization of a respondent’s level of trust towards
+the social media platform. We will further discuss the issue of inte-
+grating the measurement of multiple trustees into one variable in
+section 4.
+3.3.3 Dimensions of Trust in Relation to the Trustee. Trust is a
+multi-dimensional and complex construct [64], indicating that trust
+might be better understood through multiple dimensions. However,
+our results show that most of the studies adopted single-item mea-
+surements (e.g., asking “how much do you trust information from
+social media” ), whereas far fewer used multi-item measurements.
+Broken down by trustee, 67% of studies that focused on trust in
+information from social media, 88% of studies that focused on trust
+in social media users, and 84% of studies that focused on trust in
+social media platforms adopted single-item measurements when
+evaluating trust.
+For studies that adopted multi-item measurements, we visualize
+the dimensions of trust relative to the three main trustees, as shown
+in Figure 4. We can see that there are a large variety of dimensions
+used to measure trust, ranging from integrity to usefulness. A few
+of these dimensions were directly borrowed from early trust lit-
+erature, such as integrity (e.g., making good faith agreement) and
+benevolence (e.g., caring and being motivated to act in one’s interest
+rather than acting opportunistically) [43].
+On the other hand, in the context of social media, the dimen-
+sions used to measure trust have expanded, broadening in attempts
+to better characterize trust. Relatedly, the frequency of each trust
+dimension differs among trustees. For example, reliability and accu-
+racy were often used when describing information, while integrity
+and trustworthiness were often used when describing social media
+
+[W4319654023 PDF PAGE 9]
+What Do We Mean When We Talk about Trust in Social Media? A Systematic Review CHI ’23, April 23–28, 2023, Hamburg, Germany
+DIMENSIONS OF TRUST
+Reliability
+Trustworthiness
+Benevolence
+Credibility
+Predictability
+Confidence
+Integrity
+Information on social media
+TRUSTEE
+Social media users
+Soc

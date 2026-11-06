@@ -1,0 +1,223 @@
+a systematic review of the smartphone apps 
+focused on GORD, available on major digital platforms, 
+with particular emphasis on their recorded evidence base 
+(EB) and the extent of MPI in their constitution, classify it 
+as per the NICE Evidence Standards Framework (21) and 
+analyse what is lacking in quality standards compared to the 
+NHS validated apps and apply a scoring system, the Silberg 
+score to these apps (22). 
+We present the following article in accordance with the 
+PRISMA reporting checklist (available at http://dx.doi.
+org/10.21037/mhealth-20-126).
+Methods
+Smartphone applications focusing on Gastroesophageal 
+reflux disease were identified by searching the four 
+largest digital platforms (Apple App Store, Google Play, 
+BlackBerry World, Windows Phone). A wide array of 
+search terms were used to include all possible applications 
+available to download with British English and American 
+English spellings. Search terms used were heartburn, 
+dyspepsia, acid reflux, gastric reflux, acidity, indigestion, 
+regurgitation, fundoplication, anti-reflux, antireflux surgery, 
+anti-acid, GORD, GERD, gastro-oesophageal reflux, 
+gastro-oesophageal reflux, antacid, water brash, gastritis, 
+duodenitis, oesophagitis, esophagitis.
+App data was collected from the description detailed 
+by the developer in the app store and from the developer 
+website, and classified according to various variables: 
+(I) Platform, (II) year of release and last updated date, 
+(III) developer and Name of the Application, (IV) App 
+accessibility, (V) commercial interests (if any), (VI) App 
+functionality and App store Category, (VII) documentation 
+
+[W3157282810 PDF PAGE 3]
+mHealth, 2021 Page 3 of 9
+© mHealth. All rights reserved. mHealth 2021;7:56 | http://dx.doi.org/10.21037/mhealth-20-126
+of MPI, (VIII) documentation of EB, (IX) potential safety 
+concerns, (X) number and length of written reviews, and (XI) 
+Number and score of star rating reviews.
+The relevant applications available on Google Play 
+and Apple App store
+®
+ were listed for inclusion. The study 
+sample consisted of applications that were intended for 
+the general public including patients, families and carers, 
+and healthcare professionals. Only English language 
+applications specifically related to GORD were included in 
+the study sample. Therefore apps that integrated GORD 
+as a small component among a vast range of topics were 
+excluded as their primary focus was not GORD. Both free 
+apps and paid apps were included. Foreign language apps, 
+apps related to peptic ulcer and ulcer diet and apps targeted 
+at alkaline diet were excluded.
+Data collection and analysis
+Details from app store descriptions were extracted from 
+the app marketplaces - Google Play, Apple App Store and 
+Windows Phone Store, from 01 December 2019 to 31 
+December 2019. Information was collected on the following 
+variables: app name, platform (Apple App Store, Google 
+Play or Windows), developer affiliation, cost, date of last 
+update, and interactive features. 
+All the data were collected online and in the public 
+domain, and was recorded on a Microsoft Excel spreadsheet 
+for collation and analysis by two separate authors L V and 
+AM. Apps were analysed according to their purpose into 
+the following categories. This was in keeping with a similar 
+study by Mobasheri et al. , which also classified apps in 
+breast surgery according to these tools (12):
+(I) Education & Information tools: general  
+information and tools to raise public recognition 
+of GORD symptoms; includes descriptions, causes 
+and treatment options.
+(II) Dietary tools: tools to attract the general public by 
+providing recipes and lists of food to either include 
+or exclude in their daily diet plan.
+(III) Patient diary tools: Logbook, calendar and 
+notepad for the patients to track medication usage, 
+symptoms, to schedule appointments etc. to be 
+used as their personal health record.
+(IV) Audiovisual tools: chiefly aimed at medical 
+professionals, giving video lectures and animated 
+videos.
+(V) Social networking tools: Providing the users with 
+interactive features option to communicate with 
+each other and share their experiences, access 
+to peer assistance, includes information/photo 
+sharing.
+(VI) Self-assessment tools: information to assist in 
+the identification of GORD symptoms, and 
+information and practical tools to deal with the 
+medical, behavioural, or emotional aspects of 
+GORD.
+The classification system that we adapted is not 
+standardized. We modified the existing categories in android 
+and apple stores to aptly describe the various mHealth 
+apps categories. However, we recognized the importance 
+of adding a standardized classification to analyze to obtain 
+results that are not arbitrary, hence we added the Evidence 
+Standards Framework for Digital Health T echnologies 
+(DHT s) (21) developed by NICE between June 2018 and 
+February 2019 in collaboration with NHS England, Public 
+Health England and MedCity. 
+It has been mentioned that the framework was designed 
+for DHT s that are commissioned in the UK health and 
+care system and it is less relevant to the DHT s that are 
+downloaded or purchased directly by users from app stores. 
+However, analyzing the applications based on the tier 
+system was necessary to truly ascertain the quality of the 
+mHealth applications available in mobile app stores.
+The following are the tier classifications
+(I) Tier 1: DHT s with potential system benefits but no 
+direct user benefits.
+(II) Tier 2: DHT s which help users to understand 
+healthy living and illnesses but are unlikely to have 
+measurable user outcomes.
+(III) Tier 3a: DHT s for preventing and managing 
+diseases. They may be used alongside treatment 
+and will likely have measurable user benefits.
+(IV) Tier 3b: DHT s with measurable user benefits, 
+including tools used for treatment and diagnosis, 
+as well as those influencing clinical management 
+through active monitoring or calculation. It is 
+possible DHT s in this tier will qualify as medical 
+devices.
+The evidence tiers are cumulative and it is clearly stated 
+that the DHT must meet all the standards in the previous 
+tier(s), as well as its own tier. This limited our classification 
+to a great extent, for example, some applications exclusively 
+provided tracking tools but no information or a 2-way 
+communication between the user and the professional, 
+which meant that we could not assign such apps Tier 3a but 
+only Tier 2. However, since sending the data is optional and 
+
+[W3157282810 PDF PAGE 4]
+mHealth, 2021Page 4 of 9
+© mHealth. All rights reserved. mHealth 2021;7:56 | http://dx.doi.org/10.21037/mhealth-20-126
+to enhance our study results, we have assigned Tier 3a to 
+the applications that provide symptom tracking functions. 
+Furthermore, no application could be classified as Tier 1, 
+since they are applications to improve system efficiency and 
+do not have any direct and measurable individual patient 
+outcomes.
+The established six categories were applied to all  
+73 apps in the study and classified according to their 
+primary function and tier classification. A few apps included 
+more than one function, and all the functions that the app 
+provided were included in the spreadsheet. Any differences 
+in the groupings of the apps into one of the six categories 
+were resolved by the two researchers until an agreement 
+was achieved.
+Silberg score
+The Silberg scoring system was applied to all the identified 
+apps and a score of 9 maximum could be achieved. The 
+score is a validated tool for looking at the quality of 
+healthcare information digitally. No peer-reviewed scoring 
+systems exist especially for mHealth apps but a modified 
+Silberg score has been used for bariatric surgery and 
+depression mHealth apps.
+Results
+The assorted keywords were used for the initial search 
+in Google Play, iOS App Store and Windows store 
+individually, and an initial 110 potential apps were identified 
+(Google Play =63; Apple Appstore =19; Windows store = 
+1; Blackberry world =0). Out of these, 13 alkaline diet apps 
+and 14 foreign language apps were removed. Five apps were 
+identified as duplicate versions with the same name and 
+developer in 2 or more platforms. The five duplicates were 
+removed from the less popular app market, hence 5 apps 
+were excluded from the Apple App Store. The remaining 
+78 apps were individually downloaded for further screening, 
+and 5 apps were found to be obsolete, which were excluded. 
+A total of 73 apps met all the inclusion criteria and were 
+included in our final study sample (Google Play =59; Apple 
+Appstore =13; Windows store =1; Figure 1).
+mHealth Apps identified through 
+database searching 
+Android 63 
+Apple 19 
+Windows 1 
+Blackberry 0
+(n=110)
+Foreign language apps 
+excluded
+ (n=14)
+Applications after search  
+(n=110)
+mHealth Apps screened  
+for exclusion  
+(n=110)
+mHealth Apps after all 
+exclusions
+Android 59 
+Apple 13 
+Windows 1 
+Blackberry 0 
+(n=73)
+Total mHealth Apps 
+included in data synthesis
+ (n=73)
+Common Apps =5 
+Obsolete Apps =5 
+Not applicable
+not within search terms 
+(alkaline diet) =13
+Total duplicates (n=23)
+Included Eligibility Screening Identification
+Figure 1 PRISMA flow chart (n=number of applications).
+
+[W3157282810 PDF PAGE 5]
+mHealth, 2021 Page 5 of 9
+© mHealth. All rights reserved. mHealth 2021;7:56 | http://dx.doi.org/10.21037/mhealth-20-126
+App availability
+Of all the available applications, most were free to download 
+(79.45%, 58/73), five apps offered In-App purchases (6.84%, 
+5/73) and ten (13.69%, 10/73) required payment ( Figure 2). 
+The Google Play store had 56 apps available free of charge 
+and three had costs ranging from £0.99 to £4.59, while 
+Apple app store provided 6 apps for free and seven apps 
+required payment (£1.99–£4.99).
+Date of last update
+Out of the 73 apps in the study group, the earliest releases 
+were in the year 2013. T wo apps were released that year, 
+and thereafter a general increment every following year, 
+exc

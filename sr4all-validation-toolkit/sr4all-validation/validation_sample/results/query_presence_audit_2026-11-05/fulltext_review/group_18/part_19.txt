@@ -1,0 +1,326 @@
+amination of heterogeneity source
+The subgroup analysis and meta-regression were used
+to investigate source of heterogeneity. Subgroup ana-
+lysis was performed based on research year, country,
+type of research design, type of comparison group,
+type of reflexology, and age group of research partici-
+pants; however, results of the subgroup analysis indi-
+cated that the source of heterogeneity was not resulted
+from the above factors. In order to perform the meta-
+regression, duration of int ervention sessions and the
+research publication years were considered as moder-
+ating variables. Meta-regres sion results indicated that
+Table 2 Characteristics of included studies
+Author
+(Publication
+year)
+Country Design
+of Study
+Sample
+Size
+/Group
+Type of
+Intervention
+Intervention
+Time
+Schedule
+Population (Mean
+or age range)
+Outcomes Measures Instrument
+Oleson
+(1993)
+USA RCT 35
+EG:18
+CG:17
+EG: Foot, hand
+and ear
+reflexology; CG:
+Placebo
+reflexology
+30 min Females with
+Premenstrual
+symptoms (Mean
+age: EG:37.2; CG:
+32.7)
+Total PMS; Somatic
+symbtoms; Psychological
+symbtoms
+PMS scale (made
+by researcher)
+Kim (2002) South
+Korea
+Quasi
+expermental
+desin
+40
+EG:20
+CG:20
+EG: Foot
+reflexology; CG:
+no treatment
+60 min Female college
+student (range:
+21– 33 years)
+Total PMS and
+dysmenorrhea
+Keele VAS and
+opening records
+Kim (2004) South
+Korea
+RCT 48
+EG:24
+CG:24
+EG: Self foot
+reflexology; CG:
+no treatment
+35 min High school girls
+(range: U)
+Total PMS; Behavioral
+symbtoms; Psychological
+symbtoms; Dysmenorrhea
+MDQ; VAS
+Lee (2011) South
+Korea
+Quasi
+expermental
+desin
+61
+EG:37
+CG:24
+EG: Aroma-foot-
+reflexology; CG:
+no treatment
+60 min Female college
+student (Mean
+age: EG:19.3;
+CG19.4)
+Total PMS and
+dysmenorrhea; Lower
+abdominalskin temperature
+PMS scale (made
+by researcher);
+VAS; Portable
+digital skin
+thermometer
+Abdollahi
+Fard (2013)
+Iran Single blind
+RCT
+90
+EG:45
+CG:45
+EG: Foot
+reflexology; CG:
+Placebo
+reflexology
+30 min Female college
+student (Mean
+age: EG:20.8; CG:
+20.5)
+Total PMS; Somatic
+symbtoms; Psychological
+symbtoms
+Daily record scale
+Baghdassari
+(2015)
+Iran RCT 40
+EG:20
+CG:20
+EG: Foot
+reflexology; CG:
+no treatment
+60 min Females with
+Premenstrual
+symptoms
+(Range: 31 – 45)
+Total PMS PMS scale
+Nalini (2015) India Quasi
+experimental
+30
+EG:15
+CG:15
+EG: Foot, hand
+reflexology; CG:
+no treatment
+40 min Female college
+student (Range:
+17– 20)
+Total PMS; Somatic
+symbtoms; Psychological
+symbtoms; Emotional
+symptoms; Physiological
+symptoms
+PMS scale
+Prema
+(2017)
+India RCT 30
+EG:15
+CG:15
+EG: Foot
+reflexology; CG:
+no treatment
+20 min Adolescent girls
+(Mean age: EG:U;
+CG:U)
+Total PMS; Psychological
+symbtoms
+VAS
+Shafaie
+(2018)
+Iran Double blind
+RCT
+101
+EG:52
+CG:49
+EG: Foot
+reflexology; CG:
+Placebo
+reflexology
+30 min Female college
+student (Mean
+age: EG:22.3; CG:
+21.46)
+Total PMS; Somatic
+symbtoms; Behavioral
+symptoms: Psychological
+symbtoms
+Daily record scale
+EG: Experimental group; CG: Control group; PMS: Premenstrual syndrome; RCT: Randomized controlled trial; MDQ: Menstural Distress Questionnaire; VAS: Visual
+analogue scale; U: unclear
+Hasanpour et al. BioPsychoSocial Medicine           (2019) 13:25 Page 5 of 12
+
+[W2981719872 PDF PAGE 6]
+duration of intervention sessions ( β = − 0.1124, 95% CI
+− 0.142 to − 0.084, p < 0.001) had a significant impact
+on severity of PMS (Fig. 3); however, publication year
+did not report any significant impact ( β = 0.022, 95%
+CI − 0.007 to − 0.051, p = 0.129).
+Publication Bias
+The Funnel Plot visually showed the probability of publi-
+cation bias (Fig. 4), and then the bias was examined
+based on tests by Begg and Egger; and the publication
+bias was reported in both tests (Begg ’s test, P = 0.013;
+Egger’s test, P = 0.001).
+Therefore, the trim and fill method was used; accord-
+ingly, 1 study was allocated and the effect size was −
+2.365 that was changed by 0.335 compared to the
+observed effect size ( − 2.718), and in generally had no ef-
+fect on significance of effect size.
+Sensitivity analysis
+The robustness of the primary results from 9 studies was
+supported by the sensitivity analysis; and an estimation of
+robustness of overall effect size was obtained by removing
+any study from the meta-analysis. In other words, the sen-
+sitivity analysis indicated that the exclusion of results of
+each study from the general analysis did not have any sig-
+nificant effect on overall results (Fig. 5).
+Effect of reflexology on somatic symptoms of PMS
+Four studies investigated somatic symptoms of PMS as
+outcomes of study [ 11, 12, 18, 23]. These studies
+Fig. 2 Effect of reflexology on overall score of PMS
+Fig. 3 Meta-regression of intervention duration on SMD in the studies investigating the effect of reflexology on total score of PMS
+Hasanpour et al. BioPsychoSocial Medicine           (2019) 13:25 Page 6 of 12
+
+[W2981719872 PDF PAGE 7]
+included a total of 256 samples. The age range of partici-
+pants was mostly from 17 to 38 years. The duration of
+each session of reflexology treatment was 32.5 min on
+average in papers.
+Results of the meta-analysis indicated that the reflex-
+ology could significantly affect somatic symptoms of PMS
+based on the random effects model. (SMD = − 1.142, 95%
+CI: − 1.481 to − 0.803); (Fig. 6). Furthermore, no signifi-
+cant heterogeneity was reported (I 2 =3 2 . 9 4 % ,P = 0215).
+Publication Bias
+The funnel plot visually showed that there was no publi-
+cation bias (Fig. 7). However, Egger and Begg tests also
+indicated that there was no publication bias (Begg ’s test,
+P = 0.497; Egger ’s test, P = 0.704).
+Sensitivity analysis
+The sensitivity analysis indicated that the exclusion of
+any included study in the meta-analysis would not
+change overall effect size (Fig. 8).
+Effect of reflexology on psychological symptoms of PMS
+Six studies investigated psychological symptoms of
+PMS as an outcome [ 11, 12, 18, 20, 23, 24]; so that,
+they measured psychological symptoms of PMS in
+addition to examining the impact of reflexology on
+overall score of PMS. The studies included a total of
+Fig. 4 Funnel plot for publication bias in the studies investigating the effect of reflexology on total score of PMS
+Fig. 5 Sensitivity analysis for studies investigating the effect of reflexology on total score of PMS
+Hasanpour et al. BioPsychoSocial Medicine           (2019) 13:25 Page 7 of 12
+
+[W2981719872 PDF PAGE 8]
+334 participants in the age group of 17 to 38 years.
+The mean intervention time was 30.84 per session in
+the studies.
+According to meta-analysis result and based on the
+random effects model, the reflexology could signifi-
+cantly decrease psychological symptoms of PMS in the
+intervention group compared with the control group
+(SMD = − 1.380, 95% CI: − 2.082 to − 0.677); however,
+a study (SMD = − 0.494, 95% CI: − 1.220 to 0.233) by
+Prema et al. did not report any significant result
+(Fig. 9). The results indicated that the heterogeneity
+was significant (I 2 = 87.05%, P < 0.001).
+Heterogeneity source
+It seems that duration of intervention is the source of
+heterogeneity in different studies as the meta-regression
+results indicate a significant effect of duration of inter-
+vention on psychological symptoms of PMS ( β = − 0.119,
+95% CI − 0.175 to − 0.065, p < 0.001) (Fig. 10).
+Publication Bias
+Funnel plot and Begg and Egger test did not report any
+publication bias (Fig. 11). (Begg ’s test, P = 0.189; Egger ’s
+test, P = 0.287).
+Fig. 6 Effect of reflexology on somatic symptoms of PMS
+Fig. 7 Funnel plot for publication bias in the studies investigating the effect of reflexology on somatic symptoms of PMS
+Hasanpour et al. BioPsychoSocial Medicine           (2019) 13:25 Page 8 of 12
+
+[W2981719872 PDF PAGE 9]
+Sensitivity test
+Results of the sensitivity test indicated that the exclusion
+of each study did not affect the significance of overall ef-
+fect size (Fig. 12).
+Discussion
+Summary of evidence
+The present systematic review and meta-analysis study
+indicated that the reflexology as an intervention could
+decrease the severity of PMS symptoms in women. In
+this regard, we analyzed 9 studies that measured the im-
+pact of reflexology on the overall score of PMS. Meta-
+analysis results for overall score of PMS indicated that
+the reflexology could effectively relieve overall symptoms
+of PMS; however, effect sizes of various studies were
+heterogeneous. The duration of reflexology in each
+intervention session could explain the heterogeneity; in
+other words, the increased duration of using a reflex-
+ology intervention in each session enhanced its effect on
+the overall score of PMS. Lee and Baghdasar introduced
+60 min as the standard time for reflexology with the
+greatest effect on overall score of PMS [ 21, 22]. It should
+be noted that none of 9 reported studies reported any
+side effect for the reflexology intervention.
+The present study also indicated that the reflexology
+could decrease the severity of somatic symptoms of
+PMS. In this regard, a meta-analysis was performed on
+four studies with homogeneous effect sizes. There was
+no systematic review and meta-analysis study on the ef-
+fect of reflexology on somatic symptoms of PMS; how-
+ever, the effect of reflexology was investigated on some
+somatic symptoms in other demographic groups. In this
+regard, Lee et al. (2011) examined the impact of reflex-
+ology on pain, fatigue and sleep in various groups of
+nurses, students, elderly patients and patients. Their re-
+sults indicated that the reflexology as an effective inter-
+vention could relieve fatigue and improve sleep quality,
+but its effect on pain was not significant in some popula-
+tion groups [ 25]. Despite the fact that the reflexology
+dates back to Traditional Chinese Medicine (TCM), con-
+ventional sciences have also presented its effectiveness
+mechanism, so that reflexology induces a sense of
+Fig. 8 Sensitivity analysis for studies investigating the effect of reflexology on somatic symptoms of PMS
+Fig. 9 Effect of reflexology on psychological symptoms of PMS
+Hasanpour et al. BioPsychoSocial Medicine           (2019) 13:25 Page 9 of 12
+
+[W29817

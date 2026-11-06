@@ -1,0 +1,153 @@
+. The used pathway information
+exploits the signaling knowledge stored in public databases.
+Three signaling pathways are related to the bionetwork.
+Pancreatic adenocarcinoma signaling indicates the highly
+linked molecules and PC signaling pathways. Bioinformatics
+analysis was performed to identify the key molecules and
+signaling pathways relevant to TL and PC. Further study with
+bioinformatics will hopefully delineate the enriched pathways of
+TL for PC.
+Note that the reported actions of TL were only observed
+in preclinical studies. TL has a major hurdle to overcome in
+its clinical use because it lacks water solubility. To rectify this
+weakness, a prodrug called Minnelide was developed (
+Chugh
+et al., 2012 ). Because of the available documentation ( Banerjee
+et al., 2014, 2016; Nomura et al., 2015; Modi et al., 2016 )
+discussing the biochemistry, eﬀects and minimal toxicity of
+Minnelide, it is currently undergoing clinical trials. A phase II,
+open label trial of Minnelide TM is recruiting in patients with
+refractory PC (ClinicalTrials.gov Identiﬁer: NCT03117920) n ow.
+The sample size is 35, and the estimated study completion date is
+February 2019.
+Finally, as illustrated in Table 1, the results of negative
+preclinical studies are less likely to be published. These
+preclinical studies may have a bias toward an overestimationof
+favorable outcome. Randomization and blinding, the qualit y of
+preclinical studies, is typically reduced in comparison to clini cal
+trials.
+FIGURE 2 | The most signiﬁcantly relevant pathways and highly linked mo lecules (identiﬁed molecules from 17 preclinical studies wh ich to explore the potential
+mechanisms of TLs for pancreatic cancer) relevant to the mer ged bionetwork. In the network, molecules are represented as nodes, and the biological relationship
+between two nodes is represented as a line. Red nodes and gree n nodes represent up- and down-regulated molecules, respec tively. Yellow symbols represent three
+signaling pathways related to the merged bionetwork. One pa thway on the right side of the bionetwork “Pancreatic Adenoc arcinoma Signaling” indicates the highly
+linked molecules and pancreatic cancer signaling pathways . Solid lines between molecules show a direct physical relat ionship between molecules, whereas dash lines
+show indirect functional relationships.
+Frontiers in Pharmacology | www.frontiersin.org 7 August 2017 | Volume 8 | Article 490
+
+[W2748573035 PDF PAGE 8]
+Zhang et al. Triptolide for Pancreatic Cancer
+CONCLUSION
+In conclusion, based on preclinical evidence, TL ’s anti-pancreatic
+cancer proﬁle has been shown in diﬀerent experimental models
+and under diﬀerent experimental conditions. The underlying
+mechanisms were summarized, with special emphasis on
+the apoptosis, autophagy, angiogenesis and related molecular
+pathways. In terms of treatment allocation methods reporting,
+randomization and blinding, improved study quality will
+accelerate needed progress toward more clinical investigations.
+AUTHOR CONTRIBUTIONS
+Designers and writers: CZ and AL; Searchers and data extractors:
+CZ and XH; Studies appraisers; CZ, XH and all authors;
+Analyzers: CZ, XH, and LL.
+ACKNOWLEDGMENTS
+The study was supported by the National Natural Science
+Foundation of China (No. 81503449, 81673773).
+REFERENCES
+Banerjee, S., Modi, S., McGinn, O., Zhao, X., Dudeja, V., Ramakrishnan, S., et al.
+(2016). Impaired synthesis of stromal components in response to Minne lide
+improves vascular function, drug delivery and survival in pancreatic cancer.
+Clin. Cancer Res. 22, 415–425. doi: 10.1158/1078-0432.CCR-15-1155
+Banerjee, S., Nomura, A., Sangwan, V., Chugh, R., Dudeja, V., V ickers, S. M.,
+et al. (2014). CD133 + tumor initiating cells (TIC) in a syngenic murine model
+of pancreatic cancer respond to Minnelide. Clin. Cancer Res. 20, 2388–2399.
+doi: 10.1158/1078-0432.CCR-13-2947
+Banerjee, S., Sangwan, V., McGinn, O., Chugh, R., Dudeja, V. , Vickers, S. M.,
+et al. (2013). Triptolide-induced cell death in pancreatic cancer i s mediated
+by O-GlcNAc modiﬁcation of transcription factor Sp1. J. Biol. Chem. 288,
+33927–33938. doi: 10.1074/jbc.M113.500983
+Borja-Cacho, D., Yokoyama, Y., Chugh, R. K., Mujumdar, N. R., D udeja, V.,
+Clawson, K. A., et al. (2010). TRAIL and triptolide: an eﬀective co mbination
+that induces apoptosis in pancreatic cancer cells. J. Gastrointestinal Surg. 14,
+252–260. doi: 10.1007/s11605-009-1065-6
+Chen, Z., Sangwan, V., Banerjee, S., Mackenzie, T., Dudeja, V., Li, X., et al. (2013).
+miR-204 mediated loss of Myeloid cell leukemia-1 results in pancreatic c ancer
+cell death. Mol. Cancer 12:105. doi: 10.1186/1476-4598-12-105
+Chugh, R., Sangwan, V., Patil, S. P., Dudeja, V., Dawra, R. K., B anerjee,
+S., et al. (2012). A preclinical evaluation of minnelide as a therapeut ic
+agent against pancreatic cancer. Sci. Transl. Med. 4:156ra139.
+doi: 10.1126/scitranslmed.3004334
+Di, M. M., Di, C. R., Macchini, M., Nobili, E., Vecchiarelli, S., B randi, G., et al.
+(2010). Metastatic pancreatic cancer: is gemcitabine still the best standard
+treatment? (Review). Oncol. Rep. 23, 1183–1192. doi: 10.3892/or_00000749
+Ding, X., Zhou, X., Jiang, B., Zhao, Q., and Zhou, G. (2015). Tript olide suppresses
+proliferation, hypoxia-inducible factor-1 α and c-Myc expression in pancreatic
+cancer cells. Mol. Med. Rep. 12, 4508–4513. doi: 10.3892/mmr.2015.3960
+Dudeja, V., Mujumdar, N., Phillips, P., Chugh, R., Borjacacho, D ., Dawra,
+R. K., et al. (2009). Heat shock protein 70 inhibits apoptosis in can cer
+cells through simultaneous and independent mechanisms. Gastroenterology
+136:1772. doi: 10.1053/j.gastro.2009.01.070
+Kupchan, S. M., Court, W. A. Jr., Dailey, R. G., Gilmore, C. J., and Brya n,
+R. F. (1972). Triptolide and tripdiolide, novel antileukemic diterpen oid
+triepoxides from Tripterygium wilfordii. J. Am. Chem. Soc. 94, 7194–7195.
+doi: 10.1021/ja00775a078
+Li, X. J., Jiang, Z. Z., and Zhang, L. Y. (2014). Triptolide: progress on
+research in pharmacodynamics and toxicology. J. Ethnopharmacol. 155, 67–79.
+doi: 10.1016/j.jep.2014.06.006
+Liu, Y., and Cui, Y. F. (2013). Synergism of cytotoxicity eﬀe cts of triptolide and
+artesunate combination treatment in pancreatic cancer cell lines. Asian Paciﬁc
+J. Cancer Prevent. Apjcp 14, 5243–5248. doi: 10.7314/APJCP.2013.14.9.5243
+Lv, Q. W., Zhang, W., Shi, Q., Zheng, W. J., Li, X., Chen, H.,
+et al. (2015). Comparison of Tripterygium wilfordii Hook F with
+methotrexate in the treatment of active rheumatoid arthritis (TRIFRA):
+a randomised, controlled clinical trial. Ann. Rheum. Dis. 74, 1078–1086.
+doi: 10.1136/annrheumdis-2013-204807
+Ma, J. X., Sun, Y. L., Wang, Y. Q., Wu, H. Y., Jin, J., and Yu, X. F. (2 013).
+Triptolide induces apoptosis and inhibits the growth and angiogen esis of
+human pancreatic cancer cells by downregulating COX-2 and VEGF. Oncol.
+Res. 20, 359–368. doi: 10.3727/096504013X13657689382932
+Mackenzie, T. N., Mujumdar, N., Banerjee, S., Sangwan, V., Sa rver, A., Vickers,
+S., et al. (2013). Triptolide induces the expression of miR-142-3p: a negative
+regulator of heat shock protein 70 and pancreatic cancer cell proliferat ion. Mol.
+Cancer Ther. 12, 1266–1275. doi: 10.1158/1535-7163.MCT-12-1231
+Manuel, H. (2010). Pancreatic cancer. New Engl. J. Med. 362, 1605–1617.
+doi: 10.1056/NEJMra0901557
+Manzo, S. G., Zhou, Z. L., Wang, Y. Q., Marinello, J., He, J. X., Li, Y . C., et al.
+(2012). Natural product triptolide mediates cancer cell death by trig gering
+CDK7-dependent degradation of RNA polymerase II. Cancer Res. 72, 5363–
+5373. doi: 10.1158/0008-5472.CAN-12-1006
+Michalski, C. W., Weitz, J., and Büchler, M. W. (2007). Surgery i nsight: surgical
+management of pancreatic cancer. Nat. Clin. Practice Oncol. 4, 526–535.
+doi: 10.1038/ncponc0925
+Modi, S., Kir, D., Giri, B., Majumder, K., Arora, N., Dudeja, V., e t al. (2016).
+Minnelide overcomes oxaliplatin resistance by downregulating the D NA
+repair pathway in pancreatic cancer. J. Gastrointestinal Surg. 20, 13–24.
+doi: 10.1007/s11605-015-3000-3
+Mujumdar, N., Banerjee, S., Chen, Z., Sangwan, V., Chugh, R., Dudeja, V., et al.
+(2014). Triptolide activates unfolded protein response leading to ch ronic ER
+stress in pancreatic cancer cells. Am. J. Physiol. Gastrointestinal Liver Physiol.
+306, G1011–G1020. doi: 10.1152/ajpgi.00466.2013
+Mujumdar, N., Mackenzie, T. N., Dudeja, V., Chugh, R., Antono ﬀ, M. B.,
+Borja–Cacho, D., et al. (2010). Triptolide induces cell death in pa ncreatic cancer
+cells by apoptotic and autophagic pathways. Gastroenterology 139, 598–608.
+doi: 10.1053/j.gastro.2010.04.046
+Nomura, A., McGinn, O., Dudeja, V., Sangwan, V., Saluja, A. K., a nd Banerjee, S.
+(2015). Minnelide eﬀectively eliminates CD133 + side population in pancreatic
+cancer. Mol. Cancer 14:200. doi: 10.1186/s12943-015-0470-6
+Pan, X. D., Chen, X. C., Zhu, Y. G., Chen, L. M., Zhang, J., Huang, T . W., et al.
+(2010). Tripchlorolide protects neuronal cells from microglia-mediated be ta-
+amyloid neurotoxicity through inhibiting NF-kappaB and JNK signa ling. Glia
+57, 1227–1238. doi: 10.1002/glia.20844
+Phillips, P. A., Dudeja, V., McCarroll, J. A., Borja-Cacho, D., Dawra , R.
+K., Grizzle, W. E., et al. (2007). Triptolide induces pancreatic canc er cell
+death via inhibition of heat shock protein 70. Cancer Res. 67, 9407–9416.
+doi: 10.1158/0008-5472.CAN-07-1077
+Qiao, Z., Min, H. E., Mu, H. E., Weijing, L. I., Wang, X., Wang, Y., et al.
+(2016). Synergistic antitumor activity of gemcitabine combin ed with triptolide
+in pancreatic cancer cells. Oncol. Lett. 11, 3527–3533. doi: 10.3892/ol.2016.4379
+Rivera, F., López-Tarruella, S., Vega-Villegas, M. E., and Salcedo, M . (2009).
+Treatment of advanced pancreatic cancer: from gemcitabine single a gent
+to combinations and targeted therapy. Cancer Treat. Rev. 35, 335–339.
+doi: 10.1016/j.ctrv.2008.11.007
+Titov, D. V., Gilman, B., He, Q. L., Bhat, S., Low, W. K., Dang, Y., et al. (2011). XPB,
+a subunit of TFIIH, is a target of the natural product triptolide. Nat. Chem. Biol.
+7, 182–188. doi: 10.1038/nchembio.52

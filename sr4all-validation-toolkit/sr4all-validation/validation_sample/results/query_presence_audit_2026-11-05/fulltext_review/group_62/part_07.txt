@@ -1,0 +1,314 @@
+uenced indirectly via the lysosome-
+related proteins of Cluster 2, highlighting a multi- target, 
+multi-layer interaction pattern that could be exploited for 
+therapeutic intervention in neurodegenerative disorders.
+Figure 4 illustrates the mechanisms underlying disease 
+treatment through natural bioactive compounds and 
+their impacts on crucial biological pathways involved in 
+inflammation, oxidative stress, and autophagy. Recent 
+studies have emphasized phytochemicals such as magno -
+lol, salidroside, and trehalose in treating chronic inflam -
+mation and oxidative stress diseases. Phytochemicals 
+help cells eliminate damaged proteins and minimize the 
+accumulation of toxic elements, thereby ameliorating 
+aging-related disorders and tissue damage.
+Traditional medicinal herbs containing active com -
+pounds commonly exhibit the capability to reduce Aβ, 
+a critical component in the progression of AD. Addi -
+tionally, many natural compounds demonstrate effec -
+tiveness in modulating Beclin-1, TFEB, and p62, key 
+regulators in autophagy, as well as reducing inflam -
+mation markers—iNOS, IL-6, IL-1β, TNF-α, and ROS. 
+However, the capacity to regulate lysosomes through 
+Cathepsin and LC3II is inconsistent and not univer -
+sally exhibited. Only a few compounds (resveratrol and 
+oleoylethanolamide) have shown the ability to influ -
+ence lysosomal quantity, autophagosomes, or lysosomal 
+
+[W4413867217 PDF PAGE 27]
+Page 27 of 42
+Yuan et al. Chinese Medicine          (2025) 20:138 
+ 
+integrity, although existing research remains limited. 
+Compounds recently attracting less attention regarding 
+their potential roles in treating AD through lysosomal 
+pathways include trichosanthin A and amentoflavone, 
+suggesting further research to elucidate their therapeu -
+tic potential.
+Several phytochemicals have also demonstrated 
+remarkable potential in regulating biological factors 
+related to oxidative stress and inflammation, aiding in 
+modulating inflammatory markers and reducing cellular 
+damage through signaling pathways—NFκB, Nrf2, and 
+AMPK. On the other hand, certain less-known com -
+pounds, including zerumbone, gastrodin, and crocin, 
+have shown promising preliminary effects. However, 
+scientific evidence regarding their direct influence on 
+lysosomal mechanisms remains limited in AD treatment 
+(e.g., LAMP2A, LIMP2, MCOLN1). Most research has 
+focused on autophagy, overlooking substances capable of 
+directly improving lysosomal functions and components 
+that do not directly interact with lysosomes.
+Magnolol, a natural neolignan derived from Magno -
+lia officinalis—Houpo, substantially reduces Aβ accu -
+mulation and toxicity by activating the nuclear receptor 
+PPAR-γ. Magnolol promotes microglial phagocytosis 
+and Aβ degradation by enhancing ApoE expression via 
+the PPAR-γ and LXR (Liver X Receptor) pathways, thus 
+facilitating efficient lysosomal clearance [64]. Trehalose, 
+a naturally occurring disaccharide, activates autophagy 
+without mTOR suppression by accumulating in lys -
+osomes, causing brief membrane permeabilisation that 
+releases  Ca2⁺, triggers calcineurin, dephosphorylates 
+TFEB, and up-regulates BECN1, p62, and LC3; the leak 
+closes within hours via lysophagy, keeping stress low. In 
+AD mouse models, systemic or intracerebral trehalose 
+lowers Aβ production, reduces plaque load, and restores 
+learning and memory in APP/PS1 and APP23 strains. By 
+speeding clearance of misfolded Aβ and tau while spar -
+ing mTOR signalling, trehalose provides a direct meta -
+bolic route to disease-modifying therapy [148]. Trehalose 
+exerts neuroprotective effects by markedly elevating pro -
+granulin expression. It is essential for maintaining lyso -
+somal stability and efficiency, sustaining their degradative 
+capacity, and reducing neuronal damage caused by cellu -
+lar waste [149].
+In addition to the aforementioned potential com -
+pounds, there are other multi-target compounds that 
+modulate pathways related to lysosome–autophagy, 
+anti-inflammatory, and antioxidant activities (Table  5). 
+Pterostilbene supports neuronal autophagy; when 3-MA 
+blocks autophagy, pterostilbene reactivates LC3-depend -
+ent clearance, raising Aβ endocytosis from ≈ 15% to 
+34–75% of control. mRFP-GFP-LC3 imaging shows more 
+red LC3 puncta, marking stronger autophagic flux. The 
+compound does not increase surface TLR4 but drives 
+LC3-associated endocytosis, directing Aβ to lysosomes 
+faster and lowering amyloid burden and neuroinflamma -
+tion in APP/PS1 mouse brain [150]. Pterostilbene also 
+exhibits anti-inflammatory properties through mediat -
+ing Triad3A-dependent ubiquitination and degradation 
+of TLR4, subsequently inhibiting neuroinflammation 
+pathways and significantly mitigating cognitive impair -
+ment [150, 151]. Chlorogenic acid, a common phenolic 
+compound, positively modulates lysosomal activity by 
+significantly upregulating the expression and activity 
+of cathepsin D, similar to that of resveratrol, effectively 
+increasing lysosomal digestion of Aβ, thereby reduc -
+ing amyloid accumulation [133, 152]. Docosahexaenoic 
+acid-acylated astaxanthin monoester significantly pro -
+motes autophagosome-lysosome fusion, thereby restor -
+ing lysosomal degradation capacity, effectively reducing 
+the accumulation of Aβ in neuronal cells [153, 154]. Asta-
+xanthin targets the SIRT1/PGC-1α signaling pathway, 
+effectively mitigating neuronal senescence and apopto -
+sis caused by oxidative stress. Astaxanthin reduces neu -
+ronal apoptosis by enhancing mitochondrial function 
+and reducing ROS [154]. Hesperidin enhances neuronal 
+survival and cognitive functions by inhibiting inflamma -
+tion, oxidative stress, and apoptosis by reducing TLR4, 
+HMGB1, and NF-κB signaling pathways [155]. Fisetin 
+facilitates the degradation of phosphorylated tau through 
+activation of autophagic pathways regulated by TFEB and 
+Nrf2, promoting clearance of tau aggregates and enhanc -
+ing autophagic lysosomal functions for neuronal health 
+[156]. Fisetin activates autophagy by boosting LC3-II 
+and Beclin-1 and driving the AMPK–SIRT1 pathway; at 
+the same time, it cuts Aβ and phosphorylated tau, raises 
+neprilysin to clear amyloid, and restores synaptic proteins 
+(SNAP-25, PSD-95, p-CREB, and p-CaMKII), leaving you 
+with less toxic build-up, lower inflammation, and steadier 
+neurotransmission [157]. Cannabidiol enhances micro -
+glial phagocytosis of Aβ by activating the TRPV2 chan -
+nel and promoting autophagy via the PDK1/Akt pathway, 
+simultaneously attenuating neuroinflammation and 
+improving mitochondrial function [158]. Lastly, parthe -
+nolide suppresses microglial-mediated neuroinflamma -
+tion by modulating MAPK/TRIM31/NLRP3 pathways, 
+significantly enhancing phagocytosis and reducing 
+inflammatory cytokines, contributing to improved cogni-
+tive outcomes [159].
+Limitation
+Critical data assessment reveals strengths, using in vitro 
+and in  vivo models with dose–response validation. 
+However, limitations include species variability, cell line 
+inconsistencies, methodological gaps, and the lack of lys -
+osomal pH measurement. Most studies infer dysfunction 
+
+[W4413867217 PDF PAGE 28]
+Page 28 of 42Yuan et al. Chinese Medicine          (2025) 20:138 
+Table 4 Antioxidant and anti‑inflammatory pharmacologically active compounds
+Group Compounds Structure Species Activities Mechanism Models Dose Behavioral 
+experiment 
+results
+Refs
+Coenzyme Alpha‑lipoic acid Brassica oleracea 
+– Gan Lan
+Inhibit Tau hyperphos‑
+phorylation and ame‑
+liorate neuroinflamma‑
+tion, oxidative stress, 
+and ferroptosis
+Reducing ROS 
+and increasing 
+Gpx4 and SOD1. 
+Lowered TNF‑α, 
+IL‑1β, and GFAP . Via 
+the calpain1, GSK3β 
+(Glycogen Synthase 
+Kinase‑3β), CDK5, 
+and MAPK pathways. 
+Inhibiting excessive 
+calpain1 activation
+P301S Tau transgenic 
+mice
+3 mg/kg 
+and 10 mg/kg 
+(10 weeks)
+Improved 
+memory 
+and spatial 
+learning 
+(reduced 
+latency to find 
+the hidden 
+platform 
+and increased 
+time spent 
+in the target 
+quadrant)
+Enhanced 
+memory forma‑
+tion (better 
+exploration 
+of the novel 
+object)
+Improved 
+exploration, 
+suggesting 
+potential anti‑
+anxiety effects
+[189–192]
+Flavonoid Baicalein Scutellaria bai-
+calensis (Radix) 
+– Huang Qin
+Reduces intracel‑
+lular Aβ42, protected 
+from Aβ42‑induced 
+oxidative damage, 
+exhibits anti‑inflamma‑
+tory properties
+Lowers Aβ42‑
+induced reactive‑
+oxygen species, con‑
+sistent with known 
+antioxidant/Nrf2‑
+activating capacity, 
+inhibits the activa‑
+tion of poly (ADP‑
+ribose) polymer‑
+ase‑1, inhibits BACE1 
+in a non‑competitive 
+manner
+Saccharomyces cerevi‑
+siae BY4743 Δahp1
+J20 transgenic mice
+1–50 µM
+80 mg/kg/day 
+(6 months)
+Improved loco‑
+motor function 
+(reducing 
+hyperactivity)
+Enhanced 
+spatial memory 
+(an increased 
+frequency 
+of quadrant 
+crossings)
+Restored cere‑
+bral blood flow 
+to normal levels 
+in the brain
+[63, 193–195]
+
+[W4413867217 PDF PAGE 29]
+Page 29 of 42
+Yuan et al. Chinese Medicine          (2025) 20:138 
+ 
+Table 4 (continued)
+Group Compounds Structure Species Activities Mechanism Models Dose Behavioral 
+experiment 
+results
+Refs
+Phenolic diter‑
+pene
+Carnosic acid Rosmarinus 
+officinalis – Mi 
+Die Xiang
+Induction of phospho‑
+rylated tau accumula‑
+tion
+Reactivates 
+IRS‑1 → Akt, sup‑
+presses GSK3β acti‑
+vation, cuts ApoE & 
+p‑tau, and reinstates 
+Akt/CREB/ERK‑driven 
+synaptic plasticity
+APPPS1 transgenic 
+mice
+1 μM
+5—20 mg/kg 
+(10 weeks)
+Enhanced 
+exploration, 
+recognition, 
+and spatial 
+working 
+memory 
+(restored loco‑
+motor activity 
+and centre 
+exploration, 
+elevated 
+novel‑object 
+preference 
+with a higher 
+discrimina‑
+tion index, 
+and increased 
+spontaneous‑
+alternation 
+percentage)
+[145, 196]
+Carotenoid Crocin Crocus sativus – 
+Xi Hong Hua
+Reduces oxidative 
+stress
+Regulating ROS, SOD, 
+and GSH‑Px levels 
+increases p‑Akt,p‑
+mTOR
+HT22 cells
+BALB/c
+Wistar
+0.5 µM to 2 µM 
+(3 h)
+5 mg/kg 
+to 20 mg/kg 
+(4 weeks)
+Intra‑hip‑
+pocampal: 
+150, 300, 
+and 600 nmol/
+side
+Intra‑perito‑
+neal: 30 mg/kg 
+(20 days)
+Improved 
+memory 
+(reduced 
+escape time 
+to the hidden 
+pla

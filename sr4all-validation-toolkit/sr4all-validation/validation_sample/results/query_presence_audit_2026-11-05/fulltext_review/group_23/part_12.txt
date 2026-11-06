@@ -1,0 +1,236 @@
+ long term conditions such as diabetes, hypertension, 
+obesity, mental health issues and
+ 
+asthma (8,16-19). Buijink 
+et al. , 2013, discovered that most mHealth apps that were 
+targeting healthcare professionals lacked clear references, 
+updated policies and contemporary
+ 
+information (23). The 
+study went further in recommending standardisation and 
+regulation to prevent adverse events resulting in a patient 
+safety issue. Moreover, studies that have not been limited to 
+mHealth Apps for health professionals, have also found lack 
+of MPI or a good EB and called for regulation in a systematic 
+review of mHealth apps in musculoskeletal disorders and 
+rheumatoid arthritis by Najm et al., 2019 (24). Reviews of 
+hernia surgery apps and Breast surgery apps also showed 
+similar findings and made similar recommendations (12,13). 
+The authors present here a review of GORD mHealth 
+applications from an analytical perspective and scoring 
+using the Silberg score which we believe is the first study to 
+be done using this methodology. The authors have found 
+there to be a wide heterogeneity in the calibre and quality of 
+mHealth apps related to GORD. In addition, there appears 
+to be a great deficiency in the use of an EB in their creation 
+or the consultation of medical professionals in the content. 
+In addition, rating the apps is variable, often reliant on user 
+experience with a blunt 5-star system and subjective written 
+reviews of varying quality. When the Silberg scoring criteria 
+were applied, the mean score was 3.26. Lack of universal 
+and accepted accreditation is also a wider issue in healthcare 
+technology.
+Limitations of our study included potential reviewer 
+error when documenting the app features, functionality 
+and scoring. The authors tried to minimise this by using a 
+two-author scoring system. The number of downloads was 
+not accessible, thus the impact of each app on patients was 
+unclear. Excluding apps that were too broad and may have 
+included GORD as a part of their content is also a limitation, 
+but the authors cannot be clear on the impact of this. 
+Further research in terms of systematic review of mHealth 
+apps in general, as well as prospective and randomised trials, 
+are needed to assess their impact. A specific scoring system 
+to measure quality as well as regulating the development 
+process to allow scientific rigour and ensure patient safety 
+are needed. Stricter regulation should also come with an 
+accreditation or certification process that is not voluntary.
+Acknowledgments
+Funding: This research did not receive any specific grant 
+from funding agencies in the public, commercial, or not-
+for-profit sectors.
+Footnote
+Reporting Checklist:  The authors have completed the 
+PRISMA reporting checklist. Available at http://dx.doi.
+org/10.21037/mhealth-20-126
+Conflicts of Interest:  All authors have completed the ICMJE 
+uniform disclosure form (available at http://dx.doi.
+org/10.21037/m health-20-126 ). The authors have no 
+conflicts of interest to declare.
+Ethical Statement: The authors are accountable for all aspects 
+of the work in ensuring that questions related to the accuracy 
+or integrity of any part of the work are appropriately 
+investigated and resolved. Ethical approval was not required. 
+All data was gathered from the public domain. 
+Open Access Statement:  This is an Open Access article 
+distributed in accordance with the Creative Commons 
+Attribution-NonCommercial-NoDerivs 4.0 International 
+License (CC BY-NC-ND 4.0), which permits the non-
+commercial replication and distribution of the article with 
+the strict proviso that no changes or edits are made and the 
+original work is properly cited (including links to both the 
+formal publication through the relevant DOI and the license). 
+See: https://creativecommons.org/licenses/by-nc-nd/4.0/.
+Table 4  Number of comments and average word count in the 
+recorded six applications
+Comments Average words
+App 1 57 13
+App 2 3 17
+App 3 35 20
+App 4 4 7
+App 5 6 5
+App 6 5 29
+Mean 18 15
+
+[W3157282810 PDF PAGE 9]
+mHealth, 2021 Page 9 of 9
+© mHealth. All rights reserved. mHealth 2021;7:56 | http://dx.doi.org/10.21037/mhealth-20-126
+References
+1. "Radio T elephone System". US Patent number 3,906,166; 
+Filing date: 17 October 1973; Issue date: September 1975; 
+Assignee Motorola.
+2. Cell Phone Development - Motorola Solutions USA - 
+Motorola Solutions [Internet]. Motorolasolutions.com. 
+Available online: https://www.motorolasolutions.com/en_
+us/about/company-overview/history/explore-motorola-
+heritage/cell-phone-development.html
+3. Number of smartphone users worldwide from 2016 to 
+2021(in billions) [Internet]. Statista 2020. Available online: 
+https://www.statista.com/statistics/330695/number-of-
+smartphone-users-worldwide/
+4. Number of mobile phone users worldwide 2015-2020 
+[Internet]. Statista 2016. Available online: https://www.
+statista.com/statistics/274774/forecast-of-mobile-phone-
+users-worldwide/
+5. Mobile app usage - Statistics & Facts [Internet]. Statista 
+2019. Available online: https://www.statista.com/
+topics/1002/mobile-app-usage/
+6. The Growing Value of Digital Health [Internet]. Iqvia 
+2017. Available online: https://www.iqvia.com/insights/
+the-iqvia-institute/reports/the-growing-value-of-digital-
+health
+7. Jeon E, Park HA, Min YH, et al. Analysis of the information 
+quality of korean obesity-management smartphone 
+applications. Healthc Inform Res 2014;20:23-9. 
+8. Oh B, Yi GH, Han MK, et al. Importance of Active 
+Participation in Obesity Management Through Mobile 
+Health Care Programs: Substudy of a Randomized 
+Controlled T rial. JMIR Mhealth Uhealth 2018;6:e2. 
+9. Stevens DJ, Jackson JA, Howes N, et al. Obesity surgery 
+smartphone apps: a review. Obes Surg 2014;24:32-6. 
+10. O'Neill S, Brady RR. Colorectal smartphone apps: 
+opportunities and risks. Colorectal Dis 2012;14:e530-4. 
+11. Carter T , O'Neill S, Johns N, et al. Contemporary 
+vascular smartphone medical applications. Ann Vasc Surg 
+2013;27:804-9. 
+12. Mobasheri MH, Johnston M, King D, et al. Smartphone 
+breast applications-what's the evidence? Breast 
+2014;23:683-9. 
+13. Connor K, Brady RR, de Beaux A, et al. Contemporary 
+hernia smartphone applications (apps). Hernia 
+2014;18:557-61. 
+14. Xiao Q, Wang Y, Sun L, et al. Current Status and 
+Quality Assessment of Cardiovascular Diseases Related 
+Smartphone Apps in China. Stud Health T echnol Inform 
+2016;225:1030-1. 
+15. Abboudi H, Amin K. Smartphone applications for the 
+urology trainee. BJU Int 2011;108:1371-3. 
+16. Hartz J, Yingling L, Powell-Wiley TM. Use of Mobile 
+Health T echnology in the Prevention and Management of 
+Diabetes Mellitus. Curr Cardiol Rep 2016;18:130. 
+17. Morawski K, Ghazinouri R, Krumme A, et al. Association 
+of a Smartphone Application With Medication 
+Adherence and Blood Pressure Control: The MedISAFE-
+BP Randomized Clinical T rial. JAMA Intern Med 
+2018;178:802-9. 
+18. Niendam TA, T ully LM, Iosif AM, et al. Enhancing early 
+psychosis treatment using smartphone technology: A 
+longitudinal feasibility and validity study. J Psychiatr Res 
+2018;96:239-46. 
+19. Cook KA, Modena BD, Simon RA. Improvement in 
+Asthma Control Using a Minimally Burdensome and 
+Proactive Smartphone Application. J Allergy Clin 
+Immunol Pract 2016;4:730-7.e1.
+20. Gastro-oesophageal reflux disease and dyspepsia in adults: 
+investigation and management Guidance [Internet]. NICE 
+2014. Available online: https://www.nice.org.uk/guidance/
+cg184/documents/dyspepsiagord-final-scope2
+21. Evidence standards framework for digital health 
+technologies [Internet]. NICE 2019. Available online: 
+https://www.nice.org.uk/about/what-we-do/our-
+programmes/evidence-standards-framework-for-digital-
+health-technologies
+22. Zhang MW, Ho RC, Hawa R, et al. Analysis of the 
+Information Quality of Bariatric Surgery Smartphone 
+Applications Using the Silberg Scale. Obes Surg 
+2016;26:163-8. 
+23. Buijink AW, Visser BJ, Marshall L. Medical apps for 
+smartphones: lack of evidence undermines quality and 
+safety. Evid Based Med 2013;18:90-2. 
+24. Najm A, Gossec L, Weill C, et al. Mobile Health Apps 
+for Self-Management of Rheumatic and Musculoskeletal 
+Diseases: Systematic Literature Review. JMIR Mhealth 
+Uhealth 2019;7:e14730. 
+doi: 10.21037/mhealth-20-126
+Cite this article as: Venugopal LS, Musbahi A, Shanmugam V , 
+Gopinath B. A systematic review of smartphone apps for gastro-
+oesophageal reflux disease: the need for regulation and medical 
+professional involvement. mHealth 2021;7:56.
+
+END REVIEW W3157282810
+
+
+REVIEW W3157824834
+TITLE: Performance of 18F-DCFPyL PET/CT Imaging in Early Detection of Biochemically Recurrent Prostate Cancer: A Systematic Review and Meta-Analysis
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W3157824834 PDF PAGE 1]
+SYSTEMATIC REVIEW
+published: 26 April 2021
+doi: 10.3389/fonc.2021.649171
+Frontiers in Oncology | www.frontiersin.org 1 April 2021 | Volume 11 | Article 649171
+Edited by:
+Constantinos Zamboglou,
+University of Freiburg Medical
+Center, Germany
+Reviewed by:
+Marco M. E. Vogel,
+Technical University of
+Munich, Germany
+Maria Picchio,
+San Raffaele Hospital (IRCCS), Italy
+Nina-Sophie Hegemann,
+Ludwig Maximilian University of
+Munich, Germany
+*Correspondence:
+Yuhua Huang
+sdfyyhyh@163.com
+Zhixin Ling
+lzx986084954@126.com
+Specialty section:
+This article was submitted to
+Cancer Imaging and Image-directed
+Interventions,
+a section of the journal
+Frontiers in Oncology
+Received: 04 January 2021
+Accepted: 18 February 2021
+Published: 26 April 2021
+Citation:
+Sun J, Lin Y, Wei X, Ouyang J,
+Huang Y and Ling Z (2021)
+Performance of 18F-DCFPyL PET/CT
+Imaging in Early Detection of
+Biochemically Recurrent Prostate
+Cancer: A Systematic Review and
+Meta-Analysis.
+Front. Oncol. 11:649171.
+doi: 10.3389/fonc.2021.649171
+Performance of 18F-DCFPyL PET/CT
+Imaging in Early Detection of
+Biochemically Recurrent Prostate
+Cancer: A Systematic Review and
+Meta-Analysis
+Jiale Sun, Yuxin Lin, Xuedong Wei, Jun Ouyang, Yuhua Huang* and Zhixin Ling*
+Department of Urolo

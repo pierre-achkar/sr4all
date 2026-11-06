@@ -1,0 +1,186 @@
+
+tlefields of Iraq and Afghanistan [1], however, difficult 
+anatomical locations such as the neck, truncal and ilio-
+junctional regions continue to represent challenges for 
+prompt bleeding control. Truncal and junctional hemor-
+rhage are often described within the trauma literature as 
+non-survivable injuries contributing for almost 90% of cat-
+astrophic hemorrhage fatalities in the prehospital phase, in 
+contrast to a 10% fatality rate in extremity injuries [2–4]. 
+B. L. S. Borger van der Burg and Thijs T. C. F. van Dongen 
+contributed equally to this manuscript; shared first author.
+Electronic supplementary material The online version of this 
+article (https ://doi.org/10.1007/s0006 8-018-0959-y) contains 
+supplementary material, which is available to authorized users.
+ * Thijs T. C. F. van Dongen 
+ ttcfvandongen@alrijne.nl
+Extended author information available on the last page of the article
+
+[W2804296463 PDF PAGE 2]
+536 B. L. S. Borger van der Burg et al.
+1 3
+Bleeding from other non-compressible sites not related to 
+trauma, such as the gastrointestinal tract, the post-partum 
+uterus, a ruptured abdominal aortic aneurysm (rAAA), 
+and traumatic disruption of thoracic, abdominal, or pelvic 
+viscera can also represent similar challenges for prompt 
+direct bleeding control and have traditionally been char-
+acterized as potentially non-survivable sources of hemor -
+rhage. rAAA represents a classic source of non-traumatic 
+major hemorrhage and has been associated with reported 
+in-hospital mortality rates occurring in 30% of patients 
+treated with EVAR and 42% of the patients undergoing 
+open repair [5]. According to the Dutch Surgical Aneu-
+rysm Audit (DSAA) the number of patients that were 
+treated in the Netherlands for a ruptured aortic aneurysm 
+in 2013 was 293, with an in-hospital mortality of 35.3% 
+[6]. It has also been demonstrated that approximately 25% 
+of rAAAs undergo complete circulatory collapse before or 
+during the procedure. The natural history of this uncon-
+trolled hemorrhage has been shown to be cardiovascular 
+collapse with consequent cerebral and myocardial hypop-
+erfusion, ultimately leading to death [7, 8].
+Endovascular balloon occlusion of the aorta is a tech-
+nique where a compliant balloon is advanced into the aorta 
+and then inflated, thereby obstructing flow into the distal 
+circulation. This has the effect of increasing cardiac after-
+load and proximal aortic pressure, resulting in an increase 
+in myocardial and cerebral perfusion [9]. This technique 
+was first described by Hughes in 1954 when an intra-aortic 
+balloon catheter tamponade was utilized in two moribund 
+Korean War casualties with uncontrolled intra-abdominal 
+hemorrhage [10].
+In 1964, Heimbecker reported the first use of an aortic 
+tampon for emergency control of a ruptured abdominal aneu-
+rysm [11].
+Recent champions of the endovascular resuscitation and 
+trauma management (EVTM) concept have re-introduced 
+the concept of using resuscitative endovascular balloon 
+occlusion of the aorta (REBOA) to modern clinical practice 
+[12]. Two recent systematic analysis by these investigators 
+have helped to consolidate a disparate evidence base [13, 
+14]. However, a clear mortality benefit has yet to be dem-
+onstrated and consequently, the REBOA concept is still not 
+fully embedded as the standard of care in most hospitals.
+Furthermore, the pioneering use of this hemorrhage con-
+trol adjunct in the prehospital phase, despite early promis-
+ing results [15, 16], has not been widely adopted. Recent 
+terrorist threats in western countries have contributed to 
+an increased awareness of the value for bleeding control in 
+the earliest phases after injury, suggesting that the potential 
+utilization of this REBOA in this setting warrants exami-
+nation [17]. To date, however, a complete analysis of all 
+international published literature has not been conducted. In 
+particular, there is a need for an examination of focusing on 
+differences between the main indications; trauma and non-
+trauma related major hemorrhage (including rAAA).
+The primary aim of this systematic review was to exam-
+ine the use of REBOA and the mortality and morbidity asso-
+ciated with REBOA in patients with hemodynamic instabil-
+ity due to major exsanguination from both traumatic and 
+non-traumatic sources. The secondary aim was to provide an 
+evidence-based rationale for optimal utilization of REBOA 
+in the in-hospital phase and, ultimately contribute to the 
+discussion of the potential for this technology to be more 
+aggressively employed as an on-scene adjunct for control of 
+major hemorrhage in both trauma and non-trauma settings.
+Methods
+The protocol for objectives, literature search strategies, 
+inclusion and exclusion criteria, outcome measurements, 
+and methods of statistical analysis was prepared a priori, 
+according to the Preferred Reporting Items for Systematic 
+Reviews and of Observational Studies in Epidemiology rec-
+ommendations for study reporting and is described in this 
+section [18, 19].
+Search strategy and selection criteria
+The MEDLINE, Cochrane, EMBASE, Web of Science and 
+Central and Emcare databases were searched for relevant 
+articles published from January 1900 to September 2017, 
+using the Ovid medical search engine. The keywords used 
+in the search were composed of combinations of “aortic bal-
+loon occlusion”, “aortic balloon tamponade”, “REBOA”, 
+“Resuscitative Endovascular Balloon Occlusion” in com-
+bination with hemorrhage control, hemorrhage, resuscita-
+tion, shock, ruptured abdominal, thoracic aorta, endovas-
+cular repair, open repair. The search was limited to original 
+studies on human subjects (abstracts), published in English 
+language journals.
+Inclusion and exclusion criteria, data extraction 
+and outcomes of interest
+Three reviewers (B.B.B., T.D. and R.H.) independently 
+screened the abstracts for suitability. Publications were 
+excluded where non-ruptured aortic aneurysms were 
+reported or ineligible study types (e.g., letters and reviews) 
+were identified. Following abstract screening, the remain-
+ing publications were subjected to a full-text assessment. 
+The full-text assessment consisted of two reviewers inde-
+pendently assessing the publication to determine suitability 
+for inclusion. Level I–V evidence was considered, and par-
+ticular attention was paid to the reporting of hemodynamic 
+performance, balloon type, balloon deployment technique, 
+
+[W2804296463 PDF PAGE 3]
+537
+A systematic review and meta-analysis of the use of resuscitative endovascular balloon occlusion…
+1 3
+complications, and mortality. During the full-text assess-
+ment, articles were excluded if little or no clinical data were 
+reported on the subject of balloon occlusion. Where articles 
+undergoing full-text review identified additional relevant 
+studies that had not been previously identified, the additional 
+relevant studies were also reviewed and included if eligible. 
+If disagreement was encountered at any stage of the publica-
+tion inclusion/exclusion process, the senior reviewer (RH) 
+and a fourth independent reviewer (P.H.J) arbitrated a final 
+decision.
+Quality assessment
+Studies were rated for the level of evidence provided accord-
+ing to criteria by the Centre for Evidence Based Medicine in 
+Oxford. The risk of bias was assessed for each study using 
+the Cochrane Collaboration’s tool for assessing the risk of 
+bias. This tool assesses six domains (selection, performance, 
+detection, attrition, reporting, and other) and rates the risk 
+of bias in each as “high”, “low”, or “unclear” [14]. The key 
+characteristics of the eligible studies in terms of study type, 
+clinical setting, aortic zone of occlusion, mortality, and mor-
+bidity were extracted as described earlier and summarized 
+in a tabular format. These studies are the best evidence of 
+mortality and morbidity associated with REBOA published 
+up to 2017.
+Statistical analysis
+The categorical variables were analyzed by their absolute 
+and relative frequencies in percentages. For the trauma 
+cohort, we performed a meta-analysis to calculate the effect 
+on systolic blood pressure and mortality. Only studies were 
+REBOA was used as a primary means to control blood loss 
+and contained an adequate control group, were used in the 
+meta-analysis. The association between two categorical vari-
+ables was calculated by applying the Pearson Chi-square test 
+or I2  test. We used with fixed effect and used Χ2 /I2  for hetero-
+geneity. The software package SPSS (24.0, IBM Corpora-
+tion, Armonk, New York), was used for statistical analysis 
+to achieve a combined outcome. In all cases, p < 0.05 (two-
+sided) was considered statistically significant.
+Results
+A total of 440 unique studies were identified and underwent 
+abstract screening (Fig. 1), 107 of these studies were deemed 
+appropriate for and underwent full-text review. Of these, 30 
+studies reported little or no clinical data, leaving 77 studies 
+for inclusion following full-text review. Reference review 
+of these studies identified an additional 53 eligible stud-
+ies, which were not identified during the key word search. 
+These studies were predominantly older in publication date 
+but were still eligible for inclusion. Therefore, after final 
+quantitative synthesis, 89 articles were selected, including 
+28 case reports [11, 20–46], 25 case series [10, 47–71], 
+and 36 (retrospective) cohort studies [12, 72–105]. Also 
+8 reviews were identified but not included in calculations, 
+due to concern for double counting of unique cases [5, 13, 
+14, 106–110]. Most studies were deemed to be at high risk 
+of bias. In total, 1482 patients treated with REBOA were 
+included in analysis (Table 1).
+Indications, hemodynamic instability and mortality
+REBOA has been used for the management of hemorrhage 
+grouped in three major clinical indications: (1) traumatic 
+abdominopelvic hemorrhage (18 studies), (2) hemorrhage 
+arising from rAAA (50 studies) and, (3) miscellaneous 

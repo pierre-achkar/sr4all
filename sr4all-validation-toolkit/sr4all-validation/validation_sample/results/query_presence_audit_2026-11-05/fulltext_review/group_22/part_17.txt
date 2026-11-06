@@ -1,0 +1,154 @@
+preprint 
+
+[W3135880610 PDF PAGE 5]
+ 
+ 
+(4) Case reports, case series, letters, review articles, and experimental studies will be excluded. 
+2. Participant characteristics 
+(1) All patients histologically confirmed as having CRC and also had been undergone  surgery 
+without preoperative treatment will be included. 
+(2) Patients with sporadic CRC will be included, and patients with hereditary CRC (Lynch 
+syndrome or non-polyposis colon cancer) will be excluded. 
+(3) Studies with any age groups, sexes, and races will be included. 
+(4) All stages of cancer will be included. 
+3. Exposure 
+(5) Only studies evaluated PD -1 or PD -L1 expression by immunohistochemistry (IHC) will be 
+included. 
+(6) Studies with any cut-off values of PD-1 or PD-L1 expression will be included. 
+4. Outcome 
+(7) Studies that showed an association between expression of PD-1 or PD-L1 and prognosis (i.e., 
+OS, PFS, DFS, RFS) will be included. 
+(8) Studies that presented a hazard ratio (HR) with its  confidence interval (CI) or adequate data 
+to assess survival parameters will be included. 
+2.2 Search strategy 
+Electronic databases such as PubMed/MEDLINE, Scopus, Embase, and Web of Science (WoS) will 
+be searched between 1 January 1990 and 31 March 2021 (Th e search time interval was extended) . 
+The search syntax has been combined of MeSH terms, E mtree terms, and free text words of  
+“programmed cell death 1 ”, “programmed cell death ligand 1 ”, “colorectal” and “cancer” and their 
+ . CC-BY-ND 4.0 International licenseIt is made available under a 
+perpetuity. 
+ is the author/funder, who has granted medRxiv a license to display the preprint in(which was not certified by peer review)preprint 
+The copyright holder for thisthis version posted March 11, 2021. ; https://doi.org/10.1101/2021.03.09.21253153doi: medRxiv preprint 
+
+[W3135880610 PDF PAGE 6]
+ 
+ 
+equivalents. The syntax will be developed in PubMed and adopted for other databases.  
+Other resources 
+Google Scholar will be searched to find additional relevant studies; furthermore,  gray literature , 
+including conference papers and the thesis, will be searched. ProQuest database will also be searched 
+for the relevant thesis. Moreover, key journals and also reference lists of included researches will be 
+manually searched for relevant references. 
+2.3 Data collection and analysis 
+All the records from all databases will be imported to the EndNote X 8 software, and duplicated 
+researches will be removed from the library. 
+Study selection 
+Two reviewers independently will screen all the records attained from the search strategy through 
+titles and abstracts for choosing eligible studies. Afterward, the y will independently assess the full 
+text of selected articles at the p revious step, according to the eligibility criteria to include relevant 
+studies. The reviewers will discuss to resolve the d isagreements, and when it is not attained , a third 
+reviewer will act as a referee. 
+Data extraction 
+The required data will be independently extracted from original articles by t wo reviewers. 
+Discrepancies will be resolved by consensus, and when it is not achieved, a third reviewer will act as 
+a referee and decide which data should be entered. The required data for extraction from the included 
+studies, are listed below: 
+ . CC-BY-ND 4.0 International licenseIt is made available under a 
+perpetuity. 
+ is the author/funder, who has granted medRxiv a license to display the preprint in(which was not certified by peer review)preprint 
+The copyright holder for thisthis version posted March 11, 2021. ; https://doi.org/10.1101/2021.03.09.21253153doi: medRxiv preprint 
+
+[W3135880610 PDF PAGE 7]
+ 
+ 
+1. Study characteristics:  First author’s name, year of publication, the country which study was 
+performed, sample size, and follow-up duration. 
+2. participants characteristics: Age, gender, stage of cancer, tumor location (right colon, left colon 
+and rectum), microsatellite stability status, differentiation grade ( poorly differentiated/  
+undifferentiated or moderately/  well-differentiated), vascular invasion status, lymphatic invasion 
+status, and type of postoperative treatment (chemotherapy or chemoradiotherapy). 
+3. Exposure details: Tissue sampling (tissue microarray or whole section), type of antibody used for 
+IHC (monoclonal or polyclonal antibody), cut-off values (for PD-1 and PD-L1 expression), type of 
+cells which express PD-1/PD-L1 (tumor-infiltrating immune cells or tumor cells), the measurement 
+method of mismatch repair deficiency (dMMR) (i.e., IHC, PCR, etc.). 
+4. Outcome measures: Outcome parameters (OS, PFS, DFS, and RFS), the HRs and their 95% CIs 
+of outcome parameters, the risk ratio (RR) of the relationship between PD -1/PD-L1 expression and 
+clinicopathological characteristics and its 95% CI. 
+Dealing with data in special conditions 
+In the case of missing necessary data, we will  send the email three times in two weeks to  the 
+corresponding authors of the eligible studies for explaining the aim of the review and requesting their 
+data. If we do  not receive any response, we will try to extract the data from survival curves with 
+WebPlotDigitizer version 4.2 (25); and when it is not possible, we will exclude the study. If one study 
+has multiple publications, we will use the complete version of it. 
+Risk of bias assessment 
+Two assessors will assess the r isk of bias independently, according to the  Newcastle-Ottawa Scale 
+(NOS) for cohort studies, which has three domains: selection (4 items), comparability (1 item) , and 
+ . CC-BY-ND 4.0 International licenseIt is made available under a 
+perpetuity. 
+ is the author/funder, who has granted medRxiv a license to display the preprint in(which was not certified by peer review)preprint 
+The copyright holder for thisthis version posted March 11, 2021. ; https://doi.org/10.1101/2021.03.09.21253153doi: medRxiv preprint 
+
+[W3135880610 PDF PAGE 8]
+ 
+ 
+outcome (3 items). Questions that receive a star will calculate in the final score (26, 27). Conflicts 
+between the assessors will be resolved by consensus, and if it is not possible, a third assessor will act 
+as an arbitrator. 
+2.4 Statistical analysis and data synthesis 
+All analyses will be performed on the aggregated data extracted from primary studies using Stata 
+software version 13 (StataCorp LP, College Station, Tx, USA). The meta -analysis will be used to 
+assess the prognostic significance of PD -1/PD-L1 expression in patients with CRC. If there is a 
+sufficient number of primary studies, meta -analysis will be conducted, and if it is not applicable, 
+meta-synthesis may be applied.  According to the study conditions, either the random effect model 
+(REM) or fixed effect model (FEM) will be used. Time -to-event (survival) data will be analyzed 
+using the HR measure with its 95% CI . Besides, the RR measure with its 95% CI , will be used to 
+analyze dichotomous data. Moreover, forest plots will be utilized to present the data from the meta-
+analyses. A P-value  0.05 will be considered as statistical significance. 
+Assessment of heterogeneity 
+Statistical heterogeneity will be assessed by  Cochran’s Q ( 2) test with related P-value, and the I 2 
+statistic as recommended by the Cochrane Handbook for Systematic Reviews of Interventions (28). 
+The I2 statistic will be interpreted by the following guide (29): 
+• “0% to 40%: not important; 
+• 30% to 60%: moderate heterogeneity; 
+• 50% to 90%: substantial heterogeneity; 
+• 75% to 100%: considerable heterogeneity.” 
+ . CC-BY-ND 4.0 International licenseIt is made available under a 
+perpetuity. 
+ is the author/funder, who has granted medRxiv a license to display the preprint in(which was not certified by peer review)preprint 
+The copyright holder for thisthis version posted March 11, 2021. ; https://doi.org/10.1101/2021.03.09.21253153doi: medRxiv preprint 
+
+[W3135880610 PDF PAGE 9]
+ 
+ 
+In the case of considerable heterogeneity (I 2 > 75%), either subgroup analysis or meta -
+regression will be conducted. Likely sources of heterogeneity would be tissue sampling, follow -up 
+period, PD-1/PD-L1 cut-off point, country, and quality of studies. 
+Assessment of publication bias 
+Publication bias w ill be assessed by “funnel plot” , “Begg’s statistical test” and “Egger’s statistical 
+test and graph” (30, 31). If the above methods show evidence of publication bias, the “Trim and Fill 
+method”(32, 33)  will be used to correct the effect.  A P  0.05 will be defined as statistical 
+significance.  
+Sensitivity analysis 
+Sensitivity analysis will be performed by One -study remove (leave -one-out) method. If one of the 
+combinations shows different results from others, the characteristics of that study will be accurately 
+assessed. 
+Results 
+This is an on-going study, and according to the meta-analysis of the aggregated data from the relevant 
+primary studies, the association between PD-1/PD-L1 expression and prognostic parameters (such as 
+OS and DFS) will be reported.  
+Discussion 
+PD-1 and PD-L1 are two immune checkpoint molecules that regulate immune responses. According 
+to the role of these molecules in suppressing the immune system, several studies have been performed 
+to evaluate the prognostic significance of these markers in va rious types of cancers (10, 11, 34) . 
+However, there is controversy on the prognostic role of PD-1 and PD-L1 in patients with CRC (12-
+15). In the current systematic review and meta -analysis, we will  comprehensively search the 
+ . CC-BY-ND 4.0 International licenseIt is made available under a 
+perpetuity. 
+ is the author/funder, who has granted medRxiv a license to display the preprint in(which was not certified by peer review)preprint 
+The copyright holder for thisthis version posted March 11, 2021. ; https://doi.org/10.1101/2021.03.09.21253153doi: medRxiv preprint 
+
+[W3135880610 PDF PAGE 10]
+ 
+ 
+databases and pool the aggregated data to evaluate the prognostic impact of PD-1 and PD-L1 in CRC. 
+The results of this 

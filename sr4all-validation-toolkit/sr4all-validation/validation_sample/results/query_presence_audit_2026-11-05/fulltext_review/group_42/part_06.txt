@@ -1,0 +1,186 @@
+ participants with a high level of adherence in 
+the intervention group were compared with the control 
+group, suggesting a failure in the implementation of 
+the intervention; and a high level of risk of bias was also 
+found in Kaminsky et al’s study because of a lack of details 
+on the randomisation process.38
+Effects of the intervention
+Primary outcome: change in number of steps per day
+The number of steps before and after intervention 
+was calculated in 11 of the included studies (884 
+patients)34 38–43 45–47 51  (figure 2). The use of a wearable 
+physical activity monitoring device significantly increased 
+the number of daily steps compared with the control 
+groups (SMD 0.85; 95% CI (0.42; 1.27); p<0.01; I2 =86%; 
+mean difference (MD) 1534; 95% CI (843; 2225); p<0,01; 
+I2 =85%). The effect of using a wearable physical activity 
+monitoring device on daily steps was greater when the 
+duration of the intervention was <3 months (SMD 1.0; 
+95% CI (0.18; 1.82); p<0.01; MD 1636; 95% CI (474; 
+2797); p<0.01) compared with ≥3 months (SMD 0.71; 
+95% CI (0.27; 1.16); p<0.01; MD 1410; 95% CI (600; 
+2220); p<0.01); but no significant interaction was found 
+between the subgroups (p=0.55). The funnel plot was 
+symmetrical, arguing for a lack of publication bias (online 
+supplemental figure 3).
+Secondary outcomes: distance walked during the 6-MWT and 
+V̇O2peak
+Six-minute walk test
+The walking distance covered in the 6- MWT was reported 
+in five studies40 41 44 50 52 (253 patients) (figure 3). The posi-
+tive effect of wearable device intervention on improve-
+ment in 6- MWT performance was small (SMD 0.34; 95% 
+CI (−0.11; 0.80); I2 =65%; p=0.02). The funnel plot was 
+symmetrical, arguing for a lack of publication bias (online 
+supplemental figure 4).
+A sensitivity analysis excluding the study by McDermott 
+et al,50 which included patients with peripheral arterial 
+disease with an initial walking distance <500 m, showed 
+a moderate positive effect of wearable devices on 6- MWT 
+performance (SMD 0.51; 95% CI (0.03; 0.99); I2 =50%; 
+p=0.11) (online supplemental figure 5).
+Figure 2 Forest plot of daily steps outcome. SD, standardised difference; SMD, standardised mean difference.
+
+[W4383874798 PDF PAGE 7]
+7
+Heizmann A- N, et al. BMJ Open 2023;13:e069966. doi:10.1136/bmjopen-2022-069966
+Open access
+Change in V̇O2peak
+Three studies reported V̇O2 peak results48 49 51 (226 patients, 
+figure 4). The forest plots showed a moderate effect with 
+the use of wearable monitoring devices (SMD 0.54; 95% 
+CI (0.03; 1.03); I2=65%; p=0.06) (figure 4).
+DISCUSSION
+The objective of this meta- analysis was to quantify the 
+effectiveness of wearable physical activity devices in 
+increasing daily walking activity and improving physical 
+abilities in patients with CVD (coronary artery disease, 
+valve replacement, stroke, peripheral arterial disease, 
+hypertension). Results suggest that the use of wearable 
+devices helped such patients increase their daily step 
+counts (SMD 0.85; 95% CI (0.42; 1.27); p<0.01; I 2=86%) 
+and therefore their daily physical activity. This suggests 
+that the use of wearable physical activity monitoring 
+devices with feedback may help cardiovascular patients to 
+increase their daily walking, overcoming common phys-
+ical activity practice barriers such as inappropriate sched-
+uling of proposed physical activity, lack of time and lack 
+of infrastructures to practise. These results are consis-
+tent with a previous systematic review and meta- analysis: 
+in patients with chronic CVD using a wearable device 
+measuring physical activity, the number of daily steps 
+significantly increased by 1300 steps/day27 and by 1656 in 
+patients with cardiometabolic diseases (obesity, diabetes 
+mellitus and CVD).30
+A recent meta- analysis of three RCTs of supposedly 
+healthy subjects and patients (any human population of 
+any age) using a pedometer or accelerometer also showed 
+a significant increase in daily steps (n=211, +2587 steps/
+day (95% CI: 916 to 5257); I 2=74.6% and p=0.002).53 An 
+umbrella review showed an increase of 1800 steps/day and 
+an increase of 40 min of walking per day in clinical and 
+non- clinical populations.29 Along with those results and 
+the average increase in steps per day, it seems that wear -
+able physical activity monitoring device- based interven-
+tion has a positive impact on daily walking. This supports 
+our meta- analysis result as we found a mean increase of 
+1534 steps/day in the intervention group.
+A systematic review including more than 30 000 non- 
+diseased adults reported that an increase of 1000 steps/
+day reduced all- cause mortality by 6%–36% and reduced 
+CVD morbidity and mortality by 5%–21%.28 This suggests 
+that the use of wearable physical activity monitoring 
+devices to help increase daily walking activity may help 
+indirectly reduce CVD morbidity and mortality.
+Wearable physical activity monitoring devices propose 
+a wide range of BCTs that are typically used in clinical 
+behavioural intervention such as goal setting, self- 
+monitoring and feedback. 23 54 55  As implementing an 
+intervention with BCTs without wearable physical activity 
+monitoring device requires BCTs formed staff and an 
+individual patient follow- up, wearable physical activity 
+monitoring device seems to be a device by which inter -
+vention using BCTs may be translated into widespread use 
+and facilitate the implementation of such programmes.54 
+In the present meta- analysis, interventions were not solely 
+based on the use of a wearable physical activity device 
+and sometimes also included other BCTs. The use of 
+BCTs such as coaching or encouragement is simplified 
+with the use of wearable physical activity monitoring 
+devices as they provide concrete data on physical activity. 
+These data can be used to set goals in coaching, or to 
+encourage the users through feedback on their activity 
+and on what they have already achieved. In addition, 
+several BCTs are included in wearable physical activity 
+monitoring device and provide guidance and support 
+for physical activity through self- monitoring, goal setting 
+Figure 3 Forest plot of 6- minute walk test outcome. SD, standardised difference; SMD, standardised mean difference.
+Figure 4 Forest plot of peak oxygen uptake outcome. SD, standardised difference; SMD, standardised mean difference.
+
+[W4383874798 PDF PAGE 8]
+8
+Heizmann A- N, et al. BMJ Open 2023;13:e069966. doi:10.1136/bmjopen-2022-069966
+Open access 
+and feedback.55 56 Self- monitoring allows for more accu-
+rate coaching as physical activity metrics are objective 
+and allows for personalised and adapted goal setting. 
+Feedback on physical activity throughout the day allows 
+for appropriate coaching and encouragement based on 
+current physical activity. Self- monitoring through wear -
+able devices appears to be a crucial component of BCTs 
+that promote an increase in physical activity,57 58 but it is 
+still unclear whether using wearable devices alone is suffi-
+cient to elicit long- term behaviour change or if it depends 
+on a particular combination of BCTs with wearable 
+devices.15 59 However, there are limited available data on 
+the additional benefits of other BCTs to self- monitoring 
+through wearable devices. According to a recent meta- 
+analysis, multicomponent interventions that combine 
+self- monitoring through wearable devices with other BCTs 
+provide additional benefits beyond self- monitoring.60 
+Therefore, it is possible that other components, such as 
+encouragement and personalised coaching, may explain 
+some part of the heterogeneity observed along with the 
+interventions through wearable devices.
+The positive impact of wearable physical activity moni-
+toring devices may be stronger when the intervention 
+length is <3 months61 due to the novelty effect: the use 
+of a physical activity monitoring device changes patients’ 
+routines; at the beginning they adhere strongly to it 
+and seek feedback more often, then after the novelty 
+effect has worn off, this effect may also depend on the 
+initial patient’s motivation.61 It is possible that after a 
+certain time of intervention, patients will no longer 
+increase their physical activity62 : they have reached a 
+plateau in increasing their physical activity and so both 
+self- monitoring and coaching no longer help them to 
+increase it. Yet, this does not mean that the combina-
+tion of coaching, encouragement and self- monitoring 
+could not work to help maintain and/or persist in phys-
+ical activity. A review of fitness technology for increasing 
+physical activity stated that interventions supported with 
+additional motivational techniques appeared to be more 
+effective in facilitating long- term changes in behaviour.15 
+Nevertheless, the literature on this subject is limited, and 
+it is difficult to determine which combination of BCTs 
+and self- monitoring is essential to long- lasting change in 
+physical activity.
+A moderate effect was found on V̇O2 peak , but only three 
+studies in the meta- analysis provided this measure. This 
+result is in line with Hannan et al63 who showed that wear-
+able activity monitoring devices with exercise prescrip-
+tion or advice significantly improved V̇O2peak  compared 
+with interventions not using wearable devices. This is an 
+interesting finding for the impact of wearable devices 
+on cardiorespiratory fitness, as one study showed that a 
+1 mL/kg/min higher V̇O2 peak  was associated with a 9% 
+reduction in the relative risk of all- cause mortality.64 
+Yet, the SMD CI ranged from no effect (0.03) to large 
+effect (1.03), making it difficult to draw a conclusion and 
+affects our certainty of the evidence. Further information 
+would be needed to conclude on wearable device impact 
+on cardiorespiratory fitness. This wide variation may be 
+explained by the limited number of studies included 
+in the meta- analysis of maximal oxygen consumption, 
+intervention variety and variable adherence to interven-
+tions. The positive effect on V̇O2pe

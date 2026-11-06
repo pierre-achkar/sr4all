@@ -1,0 +1,195 @@
+osphorylation, especially at bio -
+marker sites, renders tau resistant to degradation by lyso-
+somal proteases and correlates with lysosomal protease 
+levels in cerebrospinal fluid [31]. Excessive phosphoryl -
+ation of Aβ and tau binds to the subunits of v-ATPase, 
+leading to a decline in endolysosomal activity [32].
+The lysosomes, an acidic compartment containing 
+many hydrolases, contain about 60 enzymes that help 
+to break down various biological molecules [23, 33–37], 
+working most effectively at an acidic pH range of 4.5 to 
+5 [36]. Enzymes like cathepsins B, D, and L break down 
+damaged proteins, and v-ATPases maintain acidity by 
+pumping protons into the lysosomal lumen [35, 38, 39]. 
+In AD, impaired v-ATPase activity raises lysosomal pH, 
+suppressing cathepsin function and reducing Aβ clear -
+ance [1, 38, 40–42].
+Neuroinflammation further exacerbates lysoso -
+mal impairment, activated microglia and astrocytes 
+release interleukin-1β (IL-1β) and IL-6, forming a sus -
+tained inflammatory environment [43, 44]. Microglia 
+also show impaired phagocytic capacity and prolonged 
+activation, while astrocytes hinder Aβ clearance and 
+modulate microglial phenotype via IL-3 [43, 45–52]. 
+Meanwhile, oxidative stress generates reactive aldehydes 
+like 4-hydroxynonenal and malondialdehyde, destabiliz -
+ing lysosomal membranes, disrupting pH homeostasis, 
+and inhibiting cathepsin activity [53–55]. Mitochondrial 
+
+[W4413867217 PDF PAGE 4]
+Page 4 of 42Yuan et al. Chinese Medicine          (2025) 20:138 
+Fig. 1 Prisma Flow Chart
+
+[W4413867217 PDF PAGE 5]
+Page 5 of 42
+Yuan et al. Chinese Medicine          (2025) 20:138 
+ 
+dysfunction exacerbates this process, compromising 
+ATP-dependent lysosomal acidification and fusion [53, 
+56].
+The accumulation of pathological proteins, chronic 
+inflammation, and oxidative damage mutually reinforce 
+each other, driving lysosomal failure [57–59]. Some phy -
+tochemicals—magnolol, berberine, and ginsenosides 
+have demonstrated potential to restore lysosomal acidi -
+fication, enhance autophagic clearance, and modulate 
+cathepsin activity, providing promising avenues for alle -
+viating AD-related lysosomal dysfunction.
+Phytochemicals from traditional Chinese medicine 
+targeting lysosomal dysfunction in AD
+Recent pharmacological studies have identified numerous 
+bioactive compounds derived from traditional Chinese 
+medicinal (TCM) herbs that exhibit therapeutic poten -
+tial for AD by targeting lysosomal dysfunction [60–62]. 
+The phytochemicals often act on multiple targets, includ-
+ing restoration of lysosomal acidification, enhancement 
+of autophagic flux, regulation of cathepsin activity, and 
+promotion of Aβ clearance. Baicalein from Scutellaria 
+baicalensis (Huang Qin), naringenin from Citrus reticu -
+lata (Chen Pi), ginsenosides from Panax ginseng (Ren 
+Shen), ligustilide from Angelica sinensis (Dang Gui), and 
+magnolol from Magnolia officinalis (Hou Po) have dem -
+onstrated antioxidant, anti-inflammatory, and lysosome-
+enhancing activities in various in  vitro and in  vivo AD 
+models [63–67], underscoring the value of TCM-derived 
+phytochemicals as modulators of lysosomal function in 
+AD, highlighting their promise as multitarget agents in 
+developing novel therapeutics.
+Phytochemical modulation of microglial phagocytosis 
+to enhance lysosomal clearance in AD
+In AD, microglial phagocytosis serves as a key lysosome-
+dependent mechanism for the clearance of Aβ and main -
+taining neuronal homeostasis [68, 69]. Phagocytosis 
+involves internalizing extracellular cargo through recep -
+tor-mediated or receptor-independent pathways as a spe-
+cialized form of endocytosis [70]. The accumulation of 
+Aβ in the brain elicits a localized immune response that 
+recruits microglia and astrocytes to sites of plaque for -
+mation, where they attempt to phagocytose aggregated 
+Aβ [68]. However, progressive Aβ deposition disrupts 
+endocytic trafficking and impairs phagocytic signaling, 
+particularly in astrocytes, leading to reduced clearance 
+capacity for Aβ oligomers and exacerbating plaque bur -
+den [70].
+Caveolin-mediated and clathrin-mediated endocytosis 
+are critical routes for Aβ internalization [71], in caveo -
+lin-mediated endocytosis, caveolae enhance the capture 
+of extracellular Aβ peptides, bypassing lysosomal deg -
+radation of the delivered cargo, thereby increasing the 
+efficiency of the intracellular cargo transport mecha -
+nism [72]. Increased expression of caveolin-1 potentially 
+reduces Aβ; caveolin-1 is also diminished in AD patients; 
+it is affected by elevated blood glucose levels, which 
+Fig. 2 Pathological processes in Alzheimer Disease
+
+[W4413867217 PDF PAGE 6]
+Page 6 of 42Yuan et al. Chinese Medicine          (2025) 20:138 
+disrupt amyloid metabolism and increase tau phospho -
+rylation [71].
+In clathrin-mediated endocytosis (CME), the main 
+route for APP incorporation into clathrin-coated vesicles 
+at the plasma membrane, and PICALM, a Phosphati -
+dylinositol-binding clathrin assembly key protein, reduc -
+ing PICALM expression diminishes APP internalization 
+and lowers Aβ production [71], and abnormal cleavage 
+of PICALM is also associated with neurofibrillary tan -
+gles, co-localizing with abnormally structured tau and 
+increased tau phosphorylation (p-tau), contributing to 
+AD intracellular dysfunction [71, 73]. CD36 (Cluster of 
+Differentiation 36) mediates the innate host response 
+to Aβ; when Aβ binds to the receptors triggers cellu -
+lar reactions [74, 75]. Clathrin, adaptins, and dynamin 
+are involved in the endocytosis process and prepare it 
+for subsequent transport to lysosomes; it is triggered by 
+clathrin interaction with the Adaptor protein complex 2, 
+which binds clathrin to the plasma membrane and recog-
+nizes specific cargo molecules [76].
+Additionally, Aβ accumulation alters receptor expres -
+sion, triggering a receptor expressed on myeloid cells 
+2, disrupting microglial activation and phagocytic 
+efficiency [71, 77]. Metabolic changes—specifically 
+increased glycolysis and reduced mitochondrial oxida -
+tive phosphorylation—impair microglial phagocytosis, 
+resulting in poor Aβ clearance and accidental removal 
+of healthy synapses, which worsens neurodegeneration. 
+Disturbances can influence the pathological phagocyto -
+sis process in metabolic pathways and dysregulation of 
+"find-me" and "eat-me" signaling on neurons [68]. Acti -
+vated PPARγ (peroxisome proliferator-activated receptor 
+gamma) translocates to the microglial nucleus, upregu -
+lating Mertk, a key phagocytic receptor. Elevated Mertk 
+enhances microglia’s recognition of phosphatidylser -
+ine “eat-me” signals on myelin debris or apoptotic cells, 
+resulting in more efficient phagocytosis [78]. The study 
+in 2021 by Alexandra Grubman also highlighted that the 
+TREM2 receptor plays a vital role in the phagocytic pro -
+cess [77, 79]. Furthermore, the study demonstrated that 
+XO4 + microglia (using labelling with methoxy-XO4, 
+XO4 +) have a more substantial capacity for endocytosis 
+of Aβ and synaptic proteins, which impact neuroinflam -
+mation and synapse loss in AD [79].
+Phytochemicals have been extensively studied for 
+their potential in alleviating AD through enhancing 
+phagocytosis, particularly lysosome-mediated mecha -
+nisms in microglial cells – curcumin and cyanidin-3-O-
+glucoside have shown significant promise, as shown in 
+Table 1. Some compounds act directly on key molecu -
+lar targets involved in phagocytosis, potently enhanc -
+ing microglial Aβ clearance. Curcumin modulates 
+innate immune gene expression, particularly increas -
+ing TREM2 while decreasing CD33 expression, thus 
+enhancing microglial phagocytosis and reducing pro-
+inflammatory phenotypes [80]. Cyanidin-3-O-gluco -
+side regulates microglial polarization from M1 to M2 
+via PPARγ activation, increasing phagocytic activity 
+through TREM2 modulation [81, 82].
+Other phytochemicals indirectly improve phagocytic 
+efficiency by modulating inflammatory pathways and 
+shifting microglia toward an anti-inflammatory M2 
+phenotype. Eugenol, the primary component extracted 
+from Syzygium aromaticum, has improved cognitive 
+function by significantly reducing Aβ deposition and 
+enhancing microglial phagocytic activity. Eugenol’s 
+mechanism involves suppressing inflammation and 
+stimulating phagocytosis, which enhances lysosomal 
+activity, subsequently mitigating neuronal damage [83]. 
+Gastrodin, the principal active compound from Gas -
+trodia elata, alleviates neuroinflammation and micro -
+glial activation by modulating the TLR4/TRAF6/NF-κB 
+signaling pathway. Gastrodin’s action includes shift -
+ing microglial polarization from a pro-inflammatory 
+(M1) to an anti-inflammatory (M2) phenotype, directly 
+enhancing phagocytic activity and effectively facilitat -
+ing lysosomal Aβ clearance [84]. Zerumbone effectively 
+decreases Aβ deposition by modulating MAPK signal -
+ing pathways and enhancing microglial phagocytosis, 
+reducing inflammation, and promoting the conversion 
+of microglia from the M1 phenotype to the M2 pheno -
+type [85, 86]. Additionally, gossypetin improves spatial 
+memory by augmenting microglial phagocytic activ -
+ity against Aβ, promoting the M2 phenotype, which 
+is crucial for neuroprotection [87]. Further notable 
+phytochemicals include cycloastragenol, extracted 
+from Astragalus, which targets PDE4B to promote 
+microglial phagocytic activity, reduce senescence-
+associated impairments, and alleviate Aβ deposition, 
+potentially through PDE4B/CREB/BDNF signaling 
+[88]. In contrast, a smaller group of compounds influ -
+ences Aβ clearance through mechanisms that exhibit 
+an inhibitory effect on this process. Trichostatin A, a 
+histone deacetylase inhibitor, upregulates the expres -
+sion of albumin in the brain, which helps reduce Aβ 
+aggregation and promotes Aβ degradation [86]. Epi -
+gallocatechin Gallate (EGCG) suppresses inflamma -
+tory signaling and reduces microglial phagocytosis 
+[89]. Phytochemicals, particularly curcumin and c

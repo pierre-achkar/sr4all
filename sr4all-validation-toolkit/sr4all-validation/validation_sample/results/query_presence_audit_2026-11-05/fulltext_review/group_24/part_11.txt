@@ -1,0 +1,492 @@
+2) 26:429–441
+
+[W3165552992 PDF PAGE 4]
+1 3
+Sensitivity analyses and publication bias
+Sensitivity analyses displayed that, for all comparisons 
+between patients with good and poor sleep quality, as well 
+as the pooled results of differences between depression 
+level and sleep quality in patients with SLE, the omission 
+of any study made no significant difference, indicating the 
+stability of our meta-analysis (figures not shown). As the 
+number of studies included in this meta-analysis was 9, 
+less than 10, funnel plots and the Egger’s test were not 
+conducted to assess publication bias.
+Discussion
+This systematic review and meta-analysis of 9 studies 
+involving 514 patients with SLE is the first to explore the 
+relationship between depression and sleep quality.
+In this meta-analysis, a moderate correlation of sleep 
+quality with depression was found (pooled r 
+=
+ 
+0.580). Com-
+pared to good sleepers, patients with SLE and poor sleep 
+quality had higher levels of depression, corroborated by past 
+studies [25, 27–29]. This study also found that there was 
+correlation between depression and subjective sleep quality, 
+Fig. 1  Flo w-chart illustrating the article search process
+432 Sleep and Breathing (2022) 26:429–441
+
+[W3165552992 PDF PAGE 5]
+1 3
+Table 1  Summar y of study characteristics
+Study Country Design Aim Diagnostic criteria 
+of SLE
+Patient Sample size
+(%Female)
+Age (years) Disease 
+Duration (years)
+Disease activity Corticos-
+teroidsuse (%)
+Cumulative disease damage
+Cervilla O et al. 
+(2020)
+Spain CS To analyze sleep 
+quality in FM and SLE and explored its relationship with other clinical and psychologi-cal manifesta-tions
+1982 and 1997 
+ACR
+ 
+Outpatient 19 (100%) 40.21
+ 
+±
+ 
+10.25 14.90
+ 
+±
+ 
+7.90 SLEDAI2.83
+ 
+±
+ 
+3.13
+55.55% NA
+Chandrasekhara 
+PK et al. (2009)
+India CS To analyze sleep 
+complaints in SLE patients and to determine its prevalence and associations
+1997 ACR
+ Outpatient 50(90%) 26
+ 
+±
+ 
+9 2.83
+ 
+±
+ 
+2.42 SLAM-R4.2
+ 
+±
+ 
+2.7
+92% SLICCDI
+0.94
+ 
+±
+ 
+1.2
+Costa Da et al. 
+(2005)
+Canada CS To characterize 
+sleep complaints in women with SLE and to iden-tify correlates of sleep quality
+1997 ACR
+ Outpatient 100 (100%) 45.19
+ 
+±
+ 
+14.12 13.14
+ 
+±
+ 
+9.43 SLAM-R5.56
+ 
+±
+ 
+3.52
+26% SLICCDI
+1.69
+ 
+±
+ 
+1.81
+Kasitanon N et al. 
+(2013)
+Thailand CO To determine 
+the prevalence and associated factors of sleep disturbance in SLE, and the correlation between changes in clinical parameters and sleep quality over time
+1997 ACR
+ Outpatient 56 (100%) 37.49
+ 
+±
+ 
+12.27 8.60
+ 
+±
+ 
+7.28 SLEDAI-2 K4.23
+ 
+±
+ 
+4.77
+PGA2.25
+ 
+±
+ 
+1.25
+100% SLICCDI 
+0.25
+ 
+±
+ 
+0.54
+433Sleep and Breathing (2022) 26:429–441
+
+[W3165552992 PDF PAGE 6]
+1 3
+Table 1  (continued)
+Study Country Design Aim Diagnostic criteria 
+of SLE
+Patient Sample size
+(%Female)
+Age (years) Disease 
+Duration (years)
+Disease activity Corticos-
+teroidsuse (%)
+Cumulative disease damage
+Kotb HA et al. 
+(2013)
+Egypt CS To assess the 
+prevalence of sleep distur-bance in female SLE patients and to evaluate the correlation between sleep disturbance and some disease parameters
+1982 ACR
+ Outpatient 
+and in
+pa-
+tient
+30 (100%) 26.17
+ 
+±
+ 
+6.75 4.12
+ 
+±
+ 
+2.46 SLEDAI12.17
+ 
+±
+ 
+5.41
+100% SLICCDI 
+0.97
+ 
+±
+ 
+0.93
+Mirbagher L et al. 
+(2016)
+Iran CS To determine 
+sleep quality and its associated factors in SLE patients, and to evaluate the effects of sleep quality distur-bance on various dimensions of quality of life
+1982 and 1997 
+ACR
+ 
+Outpatient 77 (100%) 36.5
+ 
+±
+ 
+10.1 8.3
+ 
+±
+ 
+3.8 SLEDAI-2 K3.1
+ 
+±
+ 
+3.6
+77.9% SLICCDI 
+0.49
+ 
+±
+ 
+0.88
+Moraleda V et al. 
+(2017)
+Spain CS To analyze 
+sleep quality (subjective and objective) of SLE patients and its possible relationships with the main manifestations of the disease
+1982 and 1997 
+ACR
+ 
+Outpatient 21 (100%) 38.33(11.39) 13.91(8.23) NA 85.7% NA
+Moon SJ e
+t al. 
+(2018)
+Korea CS To identify 
+whether HR-QoL deter-minants in middle-aged female SLE patients differed according to the presence or absence of FM
+1997 ACR
+ NA 41 (100%) 42.13
+ 
+±
+ 
+10.76 6.49
+ 
+±
+ 
+7.11 SELENA-SLE-
+DAI
+6
+ 
+±
+ 
+3.07
+100% SLICCDI
+0.35
+ 
+±
+ 
+0.77
+434 Sleep and Breathing (2022) 26:429–441
+
+[W3165552992 PDF PAGE 7]
+1 3
+Table 1  (continued)
+Study Country Design Aim Diagnostic criteria 
+of SLE
+Patient Sample size
+(%Female)
+Age (years) Disease 
+Duration (years)
+Disease activity Corticos-
+teroidsuse (%)
+Cumulative disease damage
+Tench CM et al. 
+(2000)
+UK CO To assess the 
+prevalence and associations of fatigue in SLE
+1982 and 1997 
+ACR
+ 
+Outpatient 120 (100%) 38.35
+ 
+±
+ 
+9.75 3.57
+ 
+±
+ 
+4.22 ECLAM 
+3.76
+ 
+±
+ 
+5.25
+SLAM 5.65
+ 
+±
+ 
+3.75
+51% SLICCDI
+0.35
+ 
+±
+ 
+0.75
+Values were number (percentage), mean
+ ±
+ s
+tandard deviation, percentage, or median (standard deviation)
+CS, cross-sectional; CO , cohort; FM, fibromyalgia; SLE, systemic lupus erythematosus; HR-QoL, health-related quality of life; ACR
+ , Amer
+ican College of Rheumatology; NA , not available; 
+SLEDAI, Systemic Lupus Erythematosus Disease Activity Index; SLAM-R, systemic lupus activity measure revised; SLEDAI-2 K, Systemic Lupus Erythematosus Disease Activity Index-2000; PGA, Physician’s Global Assessment; SELENA-SLEDAI, Safety of Estrogens in Lupus Erythematosus National Assessment version of the Systemic Lupus Erythematosus Disease Activity 
+Index; ECLAM, European Consensus Lupus Activity Measure; SLAM, systemic lupus activity measure; SLICCDI, Systemic Lupus International Collaborating Clinics/American College of 
+Rheumatology Damage Index
+Table
+ 
+2
+  Measur
+ement, cut-points, prevalence, score and r of depression and poor sleep quality and quality of the included studies
+* P  <  0.05, **P < 0.01, ***P <  0.001. ‡a: P earson correlation coefficient. †Values were number, percentage, mean  ±  s tandard deviation, or median (standard deviation)
+HADS-D, Hospital Anxiety and Depression Scale-Depression; CES-D, Center for Epidemiological Studies Depression scale; HAM-D, Hamilton rating scale for depression; PHQ-9, the nine-
+item Patient Health Questionnaire; NA, not available; PSQI, Pittsburgh Sleep Quality Index; M-NOS, Modified Newcastle–Ottawa Scale
+Depression Poor sleep quality (PSQI) ra Depression Score (number of patients in each 
+group)
+Quality(M-NOS)
+Study Measurement Cut-point Prevalence Score Cut-point Prevalence PSQI score Good sleep qual-
+ity (PSQI
+ 
+<
+ 
+6)
+Poor sleep quality (PSQI
+ 
+≥
+ 
+6)
+Cervilla O et al. (2020) HADS-D NA NA 4.28
+ 
+±
+ 
+4.81  
+≥
+ 
+6 NA 8.08
+ 
+±
+ 
+4.00 0.549* NA NA 2
+Chandrasekhara PK et al. 
+(2009)
+CES-D  
+≥
+ 
+16 70% 21
+ 
+±
+ 
+11  
+≥
+ 
+6 62% 6.4
+ 
+±
+ 
+3.8 0.675*** 12.26 ± 9.26 (19) 26.26  ±  8.26 (31) 3
+Costa Da et al. (2005) CES-D  
+≥
+ 
+16 29% 13.02
+ 
+±
+ 
+11.35  
+≥
+ 
+6 56% 6.98
+ 
+±
+ 
+4.03 0.560*** NA NA 3
+Kasitanon N et al. (2013) HAM-D  
+≥
+ 
+7 NA 15.75
+ 
+±
+ 
+11.80  
+≥
+ 
+6 55.36% 7.86
+ 
+±
+ 
+5.42 0.707*** 9.64 ± 8.74 (25) 20.68  ±  11.75 (31) 2
+Kotb HA et al. (2013) CES-D  
+≥
+ 
+16 73.3% 20.80
+ 
+±
+ 
+6.98  
+≥
+ 
+6 76.7% 8.47
+ 
+±
+ 
+3.53 0.698*** 12.14 ± 2.27 (7) 23.43  ±  5.64 (23) 3
+Mirbagher L et al. (2016) HADS-D  
+≥
+ 
+8 46.1% NA  
+≥
+ 
+6 57.1% 7.06
+ 
+±
+ 
+0.46 NA 5.4
+ 
+±
+ 
+3.8 (33) 8.0
+ 
+±
+ 
+4.0 (44) 3
+Moraleda V et al. (2017) HADS-D NA NA 5.05(3.68) NA NA 8.62(3.13) 0.204 NA NA 2
+Moon SJ et al. (2018) PHQ-9  
+≥
+ 
+10 46.3% 9.42
+ 
+±
+ 
+7.68  
+>
+ 
+5 85.4% 9.06
+ 
+±
+ 
+5.38 0.644** NA NA 3
+Tench CM et al. (2000) HADS-D  
+≥
+ 
+8 37% 6.00
+ 
+±
+ 
+4.50  
+≥
+ 
+6 59% 8.00
+ 
+±
+ 
+4.50 0.416*** NA NA 4
+435Sleep and Breathing (2022) 26:429–441
+
+[W3165552992 PDF PAGE 8]
+1 3
+sleep latency, sleep disturbances, and daytime dysfunction,  
+four dimensions of the PSQI. There were no significant cor-
+relations with the other three dimensions-sleep duration, 
+habitual sleep efficiency, and use of sleeping medication. 
+The underlying mechanisms of sleep disorders in patients 
+with SLE are yet unclear [4]. Previous studies have focused 
+on possible neural mechanisms and found that sleep depriva-
+tion influences brain systems that are involved in emotion, 
+such as the amygdala [32], and the anterior cingulate cortex 
+are thought to be a region where genes that control circadian 
+rhythms are dysregulated in depression [33] and where neu-
+rons increase their activity during sleep and disengagement 
+from tasks [34]. Cheng et al. [35] found that both poor sleep 
+quality and depressive problems are significantly positively 
+correlated with functional connectivities involving the lat-
+eral orbitofrontal cortex, the dorsolateral prefrontal cortex, 
+the cingulate cortex, and the precuneus; and the functional 
+connectivity links between the brain areas identified played 
+a significant role in the association of depressive problems 
+with poor sleep quality, while the associations of sleep 
+quality with depressive problems mediated by these links 
+were less significant. These findings provides a neural basis 
+for understanding how depression is associated with poor 
+sleep quality, and this in turn has implications for treatment 
+because of the brain areas identified.
+Subgroup analysis demonstrated a positive correlation 
+between depression and sleep quality in SLE patients with 
+regard to corticosteroids use, measurement of depres-
+sion, diagnostic criteria of SLE, and region; and the four 
+variables might be the source of heterogeneity. Compared 
+with less than 100% use of corticosteroids, SLE patients 
+with 100% corticosteroids use had a stronger relationship 
+between depression and sleep quality. Previous studies 
+reported that corticosteroids can contribute to sleep diffi-
+culties and some psychiatric symptoms [26, 28]. It could be 
+the side effects of corticosteroids, such as night sweating 
+which affects or aggravates SLE patients’ sleep disorders, 
+and centripetal obesity that leads to body image concerns. 
+The strength of the correlation between depression and 
+sleep quality varied among different measurement tools of 
+depression, with HAM-D being the high relationship and 
+HADS-D being the low correlation, which was consistent 
+Fig. 2  Me ta-analysis of the correlation between depression and sleep quality (N  =  

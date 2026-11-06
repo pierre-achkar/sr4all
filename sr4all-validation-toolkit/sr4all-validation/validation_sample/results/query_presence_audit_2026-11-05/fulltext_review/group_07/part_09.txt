@@ -1,0 +1,215 @@
+billings and increased to 2.0% in 2008. In 2011, a
+gradual decrease in incentive payments to 1.0% was con-
+tinued with another decrease to 0.5%. The introduction
+of a penalty payment of 1.5% in case reporting criteria is
+not met is planned for 2015 [44] (Table 3).
+ProvenCare® is an alternative P4P approach for
+selected operations, which was founded by Geisinger
+Health Care (Danville, Pennsylvania). The “90-day
+warranty,” a key feature, guarantees cost coverage for
+the surgery as well as for follow-up treatments within
+90 days [45]. The program started in 2006 with elective
+bypass surgery (a coronary artery bypass graft, called
+ProvenCare® CABG) and expanded its portfolio with
+total hip replacement, percutaneous coronary interven-
+tion (PCI), perinatal treatment, and bariatric surgery
+[46]. In June 2006, Geisinger Health Care began testing
+its P4P approach for cataract surgery [47] (Table 1).
+Table 3 systematic comparison of incentive elements according to van Herck et al
+Incentive
+structure
+Incentive size Relation between
+Incentive structure and
+quality achievements
+Frequency of
+incentive
+payment
+Duration of
+incentive
+payments
+Relative weights for
+quality indicators
+Form of incentive
+structure
+MedEncentive Bonus
+Penalty
+10% (bonus)
+n.a. (penalty)
+Absolute Reward n.a. Since 2004 n.a. Fixed amounts
+Kaiser Permanente
+Northern California
+Bonus n.a. Absolute Reward n.a. Since 1999 No relative weights Fixed amounts
+Physician Quality
+Reporting System
+(PQRS)
+Bonus
+Penalty
++0.5%-to +2.0%
+(bonus)
+−1.5% (penalty)
+Absolute Reward n.a. Since 2006 Yearly adjustment of
+indicators and amount
+of payments
+(Fixed amounts)
+ProvenCare Bundled
+payments
+n.a. Absolute Reward n.a. Since 2006 n.a. Fixed amounts
+Herbst and Emmert BMC Health Services Research  (2017) 17:385 Page 6 of 11
+
+[W2623285599 PDF PAGE 7]
+Regarding the definition of the quality of health service
+according to Campbell et al. [48], the cost effectiveness
+as well as equity and timeliness were followed by the
+P4P approach. The target group was restricted to cata-
+ract patients [46]. Program implementation occurred in
+six stages. In the first phase ( Engage Champion ), a dis-
+cussion of the entire program occurs in detail. The sec-
+ond phase ( Compile Evidence ) includes literature review
+and guidelines, which leads to the definition of best
+practices ( Establish Best Practices ). In the following
+phase, Establish Components/Redesign , the redesign of
+existing processes and workflows occurs before the beta
+testing phase begins, in which the data collection for the
+final modification occurs ( Go Live Beta ). The final phase
+of the process engagement represents the completion of
+the redesign, which leads to the full deployment phase
+[47]. Forty pre- and post-operative quality indicators
+measured the process and outcome quality. However, no
+detailed information regarding risk adjustments was
+available [45] (Table 2).
+Concerning the incentive elements, ProvenCare used
+performance-based bundled payments, including hos-
+pital and physician payments, which was the striking in-
+centive element of this approach. The program acts as a
+warranty because potential follow-up treatments within
+90 days after surgery are covered [45, 49]. No detailed
+information concerning the size and frequency of the in-
+centive payments was available (Table 3).
+The effect of pay-for-performance on the quality of care:
+the empirical evidence
+With regard to the empirical evidence of the identified
+P4P approaches, papers on two different approaches
+were identified during the systematic search procedure .
+Lester et al. evaluated, by means of a longitudinal ana-
+lysis, the effects of removing financial incentives on the
+performance level of four clinical quality indicators in 35
+outpatient facilities of Kaiser Permanente Northern Cali-
+fornia. In addition to screening for diabetic retinopathy,
+the assessment of the patient level of glycemic control
+(HbA1c <8%), control of hypertension (systolic blood
+pressure < 140 mmHg), and screening for cervical can-
+cer were enrolled. Besides gaining empirical insights into
+the effects of removing financial incentives on perform-
+ance levels, the authors were motivated to conduct this
+study because of the political decision to remove eight
+quality indicators from the Quality and Outcome Frame-
+work in April 2011. The authors expected that removing
+the financial incentives would lead to a significant de-
+crease in performance levels. Overall, 2,523,659 adult pa-
+tients were included in the analyses. Following the
+removal of financial incentives 5 years after implementa-
+tion, changes in the rates of screening for diabetic retin-
+opathy were analyzed over a total period of 9 years
+(1999 to 2007). Hierarchical regression models were
+used to estimate the effect of removing the financial in-
+centive on the annual change in the screening rate. For
+the five consecutive years with financial incentives, the
+screening rate rose from 84.9 to 88.1%. Following the in-
+centive removal, the screening rate decreased to 80.5%
+after 4years. In year-to-year changes at the facility level,
+removing financial incentives led to an average decline
+of 3% per year. [36] Applying the Critical Appraisal Skills
+Programme (CASP) checklists, a score of 71.4% was
+calculated (Table 1).
+In a second paper, Parke examined whether global
+health care expenditures might decrease by establishing
+MedEncentive. Empirical data were collected within the
+framework of a pilot study, established in the city of
+Duncan in August 2004. A retrospective cost analysis,
+which compares global expenditures of implementation
+relative to the baseline year, was conducted. The results
+show a global cost reduction of approximately 11.5%,
+from $2,316,929 (baseline year) to $2,049,780 (imple-
+mentation year). With regard to the disease category of
+the nervous system and sensory organs (ICD-9: 320-389)
+and covering ophthalmologic diseases as well, the total
+expenditures decreased from $94,476 (baseline year) to
+$77,715 (implementation year). This finding corresponds
+to a cost reduction of $16,761 (17.7%) [26]. The study
+score was determined to be 45.8% (Table 1).
+Discussion
+The aim of this study was to provide an overview of the
+existing pay-for-performance approaches in ophthalmol-
+ogy and their empirical evaluations. A general compari-
+son according to key characteristics showed that the
+four identified P4P approaches were implemented in the
+USA between 1999 and 2004. With regard to the under-
+lying quality measurements and objectives of the finan-
+cial incentives, differences between the four approaches
+were identified.
+A systematic characterization and comparison of the
+quality and incentive aspects was conducted according
+to van Herck et al. [34] With regard to the quality di-
+mensions, three approaches measured the process and
+outcome quality, whereas the approach of Kaiser Permanente
+measured solely the process quality (Table 2). In their
+review, Van Herck et al. concluded that the improve-
+ment rates of the assessed studies were higher for the
+process measurements than for the outcome measure-
+ments [13]. With regard to efficiency, Emmert et al.
+did not draw this conclusion, although the implemen-
+tation of the outcome measures into practice appear
+to be more difficult than implementing the process
+measurements [11]. Campell et al. [48] mentioned
+that the P4P approaches should focus simultaneously
+on several quality dimensions. With regard to the
+Herbst and Emmert BMC Health Services Research  (2017) 17:385 Page 7 of 11
+
+[W2623285599 PDF PAGE 8]
+number of quality targets and indicators, the corre-
+sponding values of the identified approaches ranged
+between 1 (Kaiser Permanente) and 40 (ProvenCare).
+While too few indicators might lead to a dispropor-
+tionate focus on rewarded behavior, too many indica-
+tors might result in an unintended complexity,
+whereby the stimulation of desired behaviors might
+fail to appear [50].
+With regard to the incentive elements of the P4P ap-
+proaches, the incentive size ranged from +10% to −1.5%.
+The financial incentives were implemented as bonus and
+penalty payments (MedEncentive, PQRS), bonus pay-
+ments (Kaiser Permanente) and performance-based bun-
+dled payments (ProvenCare), which were predominantly
+paid as individual incentives. In his review, Eijkenaar
+found several papers that examined the pros and cons of
+individual versus group incentives. The performance
+measurements on the individual physician-level fre-
+quently failed because of small patient panels [51, 52] or
+less variation in quality measures compared to facility-
+level measurements, which might lead to inaccurate
+remuneration [53]. Group-level-based performance pay-
+ments might force undesirable behavior of single group
+members, such as “free riding ” [50, 54]. In their review,
+Frølich et al. compared, among others, group vs. individ-
+ual recipients. Among the studies targeting individual re-
+cipients, the quality of five measurements increased,
+whereas two measurements showed a decreased quality.
+With group recipients, the quality of one measurement
+increased whereas two measurements showed opposite
+effects [55].
+The main criticism of the identified P4P approaches
+was managing the incentive elements and their effect on
+the quality of care. In the context of PQRS, participating
+physicians were rewarded for data reporting and not for
+achievements of certain quality requirements. Therefore,
+the influence of financial incentives on the quality of
+medical care appeared to be questionable. Federman
+and Keyhani supported this suspicion in a survey of
+PQRS participants. Overall, 50.1% of the responding
+physicians were of the opinion that the PQRS program
+had no effect on the quality of care; 36.1% answered that
+it had a small effect, and 13.8% assessed the effect as
+moderate or large [56]. With regard to ProvenCare, the
+separation of payments for interdisciplinary treatments
+(e.g., diabetes) and the con siderable administrative
+effor

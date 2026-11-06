@@ -1,0 +1,742 @@
+sunate. Int J Infect 
+Dis. 2020;99:437–40. https://
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+1016/j.
+ 
+ijid.
+ 
+2020.
+ 
+08.
+ 
+032.
+ 4
+2. Gr
+oup TWREAfC-TW. Association between administration of 
+systemic corticosteroids and mortality among critically ill patients 
+with COVID-19: a meta-analysis. JAMA. 2020;324(13):1330–41; 
+https://
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+1001/
+ 
+jama.
+ 
+2020.
+ 
+17023
+ 4
+3. O
+rganization WH. Corticosteroids for COVID-19: living guid-
+ance, 2 September 2020: Geneva, Switzerland; 2020 [Available 
+from: https://
+ 
+apps.
+ 
+who.
+ 
+int/
+ 
+iris/
+ 
+handle/
+ 
+10665/
+ 
+334125] Accessed 
+30 Aug 2021.
+ 4
+4 Lam 
+S, Lombardi A, Ouanounou A. COVID-19: A review of 
+the proposed pharmacological treatments. Eur J Pharmacol. 
+2020;886:173451. https://
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+1016/j.
+ 
+ejphar.
+ 
+2020.
+ 
+173451.
+ 4
+5 A
+bbasifard M, Khorramdelazad H. The bio-mission of interleu-
+kin-6 in the pathogenesis of COVID-19: A brief look at potential 
+therapeutic tactics. Life Sci. 2020;257:118097. https://
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+1016/j.
+ 
+lfs.
+ 
+2020.
+ 
+118097.
+ 4
+6. FD
+A. Fact sheet for health care providers Emergency Use Authori-
+zation (EUA) of Bamlanivimab: Food and Drug Administration; 
+2021 [Available from: https://
+ 
+www.
+ 
+fda.
+ 
+gov/
+ 
+media/
+ 
+143603/
+ 
+downl 
+oad
+] Accessed 30 Aug 2021.
+ 4
+7. Gr
+oup RC. Tocilizumab in patients admitted to hospital with 
+COVID-19 (RECOVERY): a randomised, controlled, open-label, 
+platform trial. Lancet. 2021;397(10285):1637–45. https://
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+1016/
+ 
+S0140-
+ 
+6736(21)
+ 
+00676-0.
+ 4
+8. Salama C, Han J, Y
+au L, Reiss WG, Kramer B, Neidhart JD, et al. 
+Tocilizumab in Patients Hospitalized with Covid-19 Pneumo-
+nia. N Engl J Med. 2021;384(1):20–30. https://
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+1056/ 
+NEJMo
+ 
+a2030
+ 
+340.
+ 4
+9. I
+nvestigators R-C, Gordon AC, Mouncey PR, Al-Beidh F, 
+Rowan KM, Nichol AD, et al. Interleukin-6 receptor antago-
+nists in critically ill patients with Covid-19. N Engl J Med. 
+2021;384(16):1491–502. https://
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+1056/
+ 
+NEJMo
+ 
+a2100 
+433
+.
+ 5 0. R osas IO, Bräu N, Waters M, Go RC, Hunter BD, Bhagani S, 
+et al. Tocilizumab in hospitalized patients with severe Covid-19 
+pneumonia. N Engl J Med. 2021;384(16):1503–16. https://
+ 
+doi. 
+or
+g/
+ 
+10.
+ 
+1056/
+ 
+NEJMo
+ 
+a2028
+ 
+700.
+ 5
+1. Sal
+varani C, Dolci G, Massari M, Merlo DF, Cavuto S, Savoldi 
+L, et al. Effect of Tocilizumab vs Standard care on clinical wors-
+ening in patients hospitalized with COVID-19 pneumonia: a 
+randomized clinical trial. JAMA Intern Med. 2021;181(1):24–
+31. https://
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+1001/
+ 
+jamai
+ 
+ntern
+ 
+med.
+ 
+2020.
+ 
+6615.
+ 5
+2. S
+tone JH, Frigault MJ, Serling-Boyd NJ, Fernandes AD, Harvey 
+L, Foulkes AS, et al. Efficacy of tocilizumab in patients hospi-
+talized with Covid-19. N Engl J Med. 2020;383(24):2333–44. 
+https://
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+1056/
+ 
+NEJMo
+ 
+a2028
+ 
+836.
+ 5
+3. Her
+mine O, Mariette X, Tharaux P-L, Resche-Rigon M, 
+Porcher R, Ravaud P, et al. Effect of tocilizumab vs usual care 
+in adults hospitalized with COVID-19 and moderate or severe 
+pneumonia: a randomized clinical trial. JAMA Intern Med. 
+2021;181(1):32–40. https://
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+1001/
+ 
+jamai
+ 
+ntern
+ 
+med. 
+2020.
+ 
+6820.
+ 5
+4. Chen P
+, Nirula A, Heller B, Gottlieb RL, Boscia J, Morris J, et al. 
+SARS-CoV-2 neutralizing antibody LY-CoV555 in outpatients 
+with Covid-19. N Engl J Med. 2021;384(3):229–37. https:// d
+oi. 
+or
+g/
+ 
+10.
+ 
+1056/
+ 
+NEJMo
+ 
+a2029
+ 
+849.
+ 5
+5. W
+einreich DM, Sivapalasingam S, Norton T, Ali S, Gao H, Bhore 
+R, et al. REGN-COV2, a neutralizing antibody cocktail, in outpa-
+tients with Covid-19. N Engl J Med. 2021;384(3):238–51. https:// 
+doi.
+ 
+org/
+ 
+10.
+ 
+1056/
+ 
+NEJMo
+ 
+a2035
+ 
+002.
+ 5
+6. W
+olf J, Abzug MJ, Wattier RL, Sue PK, Vora SB, Zachariah P, 
+et al. Initial Guidance on Use of Monoclonal Antibody Therapy 
+for Treatment of COVID-19 in Children and Adolescents. J Pedi-
+atric Infect Dis Soc. 2021:629–34. https://
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+1093/
+ 
+jpids/ 
+piaa1
+ 
+75
+ 5
+7. Meffr
+e E, Iwasaki A. Interferon deficiency can lead to severe 
+COVID. Nature. 2020;587(7834):374–6. https://
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+1038/ 
+d41586-
+ 
+020-
+ 
+03070-1.
+ 58.
+ Sc
+hoggins JW, Wilson SJ, Panis M, Murphy MY, Jones CT, Bie-
+niasz P, et al. A diverse range of gene products are effectors of the 
+type I interferon antiviral response. Nature. 2011;472(7344):481–
+5. https://
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+1038/
+ 
+natur e09907
+.
+ 5
+9 R
+ahmani H, Davoudi-Monfared E, Nourian A, Khalili H, Hajiza-
+deh N, Jalalabadi NZ, et al. Interferon β-1b in treatment of severe 
+COVID-19: A randomized clinical trial. Int Immunopharmacol. 
+2020;88:106903. https://
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+1016/j.
+ 
+intimp.
+ 
+2020.
+ 
+106903.
+ 60.
+ Da
+voudi-Monfared E, Rahmani H, Khalili H, Hajiabdolbaghi M, 
+Salehi M, Abbasian L, et al. A randomized clinical trial of the effi-
+cacy and safety of Interferon β-1a in treatment of severe COVID-
+19. Antimicrob Agents Chemother. 2020;64(9):e01061-e1120. 
+https://
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+1128/
+ 
+AAC.
+ 
+01061-
+ 
+20.
+ 6
+1. M
+onk PD, Marsden RJ, Tear VJ, Brookes J, Batten TN, 
+Mankowski M, et al. Safety and efficacy of inhaled nebulised 
+interferon beta-1a (SNG001) for treatment of SARS-CoV-2 
+infection: a randomised, double-blind, placebo-controlled, phase 
+2 trial. Lancet Respir Med. 2021;9(2):196–206. https://
+ 
+doi.
+ 
+org/ 
+10.
+ 
+1016/
+ 
+S2213-
+ 
+2600(20)
+ 
+30511-7.
+ 6
+2. Cal
+y L, Druce JD, Catton MG, Jans DA, Wagstaff KM. The FDA-
+approved drug ivermectin inhibits the replication of SARS-CoV-2 
+in vitro. Antiviral Res. 2020;178: 104787. https://
+ 
+doi.
+ 
+org/
+ 
+10. 
+1016/j.
+ 
+antiv
+ 
+iral.
+ 
+2020.
+ 
+104787.
+ 6
+3. Ló
+pez-Medina E, López P, Hurtado IC, Dávalos DM, Ramirez 
+O, Martínez E, et al. Effect of ivermectin on time to resolution 
+of symptoms among adults with mild COVID-19: a randomized 
+clinical trial. JAMA. 2021;325(14):1426–35. https://
+ 
+doi.
+ 
+org/
+ 
+10. 
+1001/
+ 
+jama.
+ 
+2021.
+ 
+3071.
+ 6
+4 C
+hachar AZK, Khan KA, Asif M, Tanveer K, Khaqan A, Basri R. 
+Effectiveness of ivermectin in SARS-CoV-2/COVID-19 patients. 
+Int J Sci. 2020;9(09):31–5. https://
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+18483/
+ 
+ijSci.
+ 
+2378.
+465DARU Journal of Pharmaceutical Sciences (2021) 29:449–467
+
+[W3211900438 PDF PAGE 18]
+1 3
+ 65. Cho wdhury ATMM, Shahbaz M, Karim MR, Islam J, Guo 
+D, He S. A randomized trial of ivermectin-doxycycline and 
+hydroxychloroquine-azithromycin therapy on COVID19 
+patients. Research Square. 2021. https://
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+21203/
+ 
+rs.3. 
+rs-
+ 
+38896/
+ 
+v1
+ 66.
+ Hashim HA
+, Maulood MF, Rasheed AM, Fatak DF, Kabah KK, 
+Abdulamir AS. Controlled randomized clinical trial on using 
+Ivermectin with Doxycycline for treating COVID-19 patients in 
+Baghdad, Iraq. medRxiv. 2020:2020.10.26.20219345; https://
+ 
+doi.
+ 
+or
+g/
+ 
+10.
+ 
+1101/
+ 
+2020.
+ 
+10.
+ 
+26.
+ 
+20219
+ 
+345
+ 6
+7. Mor
+teza Shakhsi N, Nematollah G, Peyman N, Abbas A, Leila Z, 
+Amir J, et al. Ivermectin as an adjunct treatment for hospitalized 
+adult COVID-19 patients: a randomized multi-center clinical trial. 
+Research Square. 2021. https://
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+21203/
+ 
+rs.3.
+ 
+rs-
+ 
+109670/ 
+v1
+ 6
+8. O
+kumuş N, Demirtürk N, Çetinkaya RA, Güner R, Avcı İY, Orhan 
+S, et al. Evaluation of the effectiveness and safety of adding iver-
+mectin to treatment in severe COVID-19 patients. BMC Infect Dis. 
+2021;21(1):411. https://
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+1186/
+ 
+s12879-
+ 
+021-
+ 
+06104-9.
+ 6
+9. Ar
+ef ZF, Bazeed S, Hassan MH, Hassan AS, Rashad A, Has-
+san RG, et al. Clinical, biochemical and molecular evaluations of 
+ivermectin mucoadhesive nanosuspension nasal spray in reducing 
+upper respiratory symptoms of mild COVID-19. Int J Nanomed. 
+2021;16:4063–72. https://
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+2147/
+ 
+ijn.
+ 
+s3130
+ 
+93.
+ 7
+0. A
+bd-Elsalam S, Noor RA, Badawi R, Khalaf M, Esmail ES, Soli-
+man S, et al. Clinical study evaluating the efficacy of ivermectin 
+in COVID-19 treatment: a randomized controlled study. J Med 
+Virol. 2021;93(10):5833–8. https://
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+1002/
+ 
+jmv.
+ 
+27122.
+ 7
+1. Ahmed S, K
+arim MM, Ross AG, Hossain MS, Clemens JD, Sum-
+iya MK, et al. A five-day course of ivermectin for the treatment 
+of COVID-19 may reduce the duration of illness. Int J Infect Dis. 
+2021;103:214–6. https://
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+1016/j.
+ 
+ijid.
+ 
+2020.
+ 
+11.
+ 
+191.
+ 72.
+ Bec
+ker RC. COVID-19 update: Covid-19-associated coagulopa-
+thy. J Thromb Thrombolysis. 2020;50(1):54–67. https:// d
+oi.
+ o
+rg/ 
+10.
+ 
+1007/
+ 
+s11239-
+ 
+020-
+ 
+02134-3.
+ 7
+3. Connors JM, Le
+vy JH. COVID-19 and its implications for throm-
+bosis and anticoagulation. Blood. 2020;135(23):2033–40. https://
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+1182/
+ 
+blood.
+ 
+20200
+ 
+06000.
+ 74.
+ N
+adkarni GN, Lala A, Bagiella E, Chang HL, Moreno PR, Puja-
+das E, et al. Anticoagulation, bleeding, mortality, and pathology 
+in hospitalized patients with COVID-19. J Am Coll Cardiol. 
+2020;76(16):1815–26. https://
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+1016/j.
+ 
+jacc.
+ 
+2020.
+ 
+08.
+ 
+041.
+ 7
+5. Lopes RD, de Bar
+ros ESPGM, Furtado RHM, Macedo AVS, 
+Bronhara B, Damiani LP, et al. Therapeutic versus prophy-
+lactic anticoagulation for patients admitted to hospital with 
+COVID-19 and elevated D-dimer concentration (ACTION): 
+an open-label, multicentre, randomised, controlled trial. Lan-
+cet. 2021;397(10291):2253–63. https://
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+1016/
+ 
+s0140- 
+6736(21)
+ 
+01203-4.
+ 7
+6. T
+abatabaei-Malazy O, Abdollahi M, Larijani B. Beneficial effects 
+of anti-oxidative herbal medicines in diabetic patients infected 
+with COVID-19: a hypothesis. Diabetes Metab Syndr Obes. 
+2020;13:3113–6. https://
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+2147/
+ 
+DMSO.
+ 
+S2648
+ 
+24.
+ 77.
+ Ang L, Song E, Lee HW
+, Lee MS. Herbal medicine for the treat-
+ment of coronavirus disease 2019 (COVID-19): a systematic 
+review and meta-analysis of randomized controlled trials. J Clin 
+Med. 2020;9(5):1583. https://
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+3390/
+ 
+jcm90
+ 
+51583.
+ 7
+8. Mur
+ck H. Symptomatic protective action of glycyrrhizin (licorice) 
+in COVID-19 infection? Front Immunol. 2020;11:1239. https:// 
+doi.
+ 
+org/
+ 
+10.
+ 
+3389/
+ 
+fimmu.

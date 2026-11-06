@@ -1,0 +1,158 @@
+. This study found that perceived critical mass
+was positively related to users’ trust in the social media platform,
+WeChat [34].
+Familiarity. Familiarity, in the context of our corpus, refers to
+the knowledge and recognition of the trustee. Similar to social me-
+dia use, there is mixed evidence that familiarity with the trustee
+(e.g., an information source) influences people’s trust. Two studies
+suggest that knowledge of and familiarity with a source, including
+social media contacts known personally, were essential trust an-
+tecedents [19, 25]. However, indicators of trust are not necessarily
+antecedents, as familiarity with a platform is necessary but not
+sufficient for trust [24]. This is because reputable but unfamiliar
+sources are likely to receive unnecessarily low trust scores from
+participants, as people were unacquainted and thus suspicious of
+these sources [24]. Additionally, one study found that participants
+did not necessarily find information about COVID-19 to be more
+trustworthy if the post came from a familiar source, such as a friend
+or family member [104].
+Prior experiences & attitudes. People’s prior experiences with
+and attitudes towards the trustee influence their perceptions of that
+trustee and have been shown to be essential antecedents of trust in
+information found on social media [5, 31, 32, 40, 122]. For example,
+Baxter et al. found that participants drew on personal experiences
+when determining the reliability of information found on social
+media [5]. Similarly, Glasdam et al. ’s qualitative study found that in-
+dividuals’ personal experiences influenced how people differentiate
+between COVID-19 misinformation and factual information [32].
+Prior experiences and attitudes have also been shown to influ-
+ence people’s trust in the social media platforms themselves. For
+example, Kumar et al. found that prior positive experiences on
+Facebook were positively related to trust in the platform [59]. Like-
+wise, two studies found that user satisfaction with a social media
+platform was associated with increased trust in it [33, 34]. Further-
+more, prior experiences are also highly related to an individual’s
+perceptual bias (i.e., assumptions made when assessing the degree
+of bias that information has on social media). One study found that
+participants perceived political news from social media as more
+biased than political news from other platforms, such as radio or
+TV, contributing to lower levels of trust in social media [55].
+Perceived benefits. Higher levels of perceived benefits, such
+as perceived entertainment benefits and/or social support from
+social media, help increase trust in social media platforms. For ex-
+ample, one study found that individuals who believed that they
+received practical and social benefits from a social media platform
+had increased trust towards that platform [ 50]. This same study
+also suggested that perceived entertainment benefits (e.g., brows-
+ing social media for fun or relaxation) did not influence trust in
+social media platforms [50], and perceived entertainment was not
+a predictor of trust in information on social media. These findings
+indicate that social media users were unlikely to miscategorize
+entertaining content with credible and/or trustworthy content on
+social media. Additionally, Ma et al. found that general perceived
+social support from a group on social media was associated with
+trust in that group [69].
+Risk factors. Work has explored several nuances that exist
+between risk factors and trust, including the impact that perceived
+risks, risk-taking attitudes, and privacy-related risks have on trust.
+For example, risk-taking attitudes, such as sharing thoughts with
+group members on social media, were found to increase trust in
+those Facebook groups [69]. Furthermore, encountering perceived
+risks on a social media platform, such as coming across a seemingly
+fraudulent account, significantly reduced users’ trust in acquiring
+information from that platform in general [74]. Finally, Malik et al.
+found that privacy awareness, or the cognizance and understanding
+
+[W4319654023 PDF PAGE 12]
+CHI ’23, April 23–28, 2023, Hamburg, Germany Zhang et al.
+of various aspects of privacy on social media, positively influenced
+users’ trust in Facebook [70].
+Homophily. There is mixed evidence regarding the influence
+of homophily, defined as how similar an individual is to others
+in the group, on trust in social media users/groups. Specifically,
+Ma et al. [ 69] found that homophily was not predictive of trust
+in Facebook groups. Yet, Leonhardt et al. [61] suggested that ho-
+mophily was positively related to trust in other Facebook users.
+One potential explanation for the discrepancy in results from these
+two studies may be the differences in measurements. Major dif-
+ferences exist between the measurements of the two studies, as
+one study [69] assesses group-based trust (by asking to what extent
+participants agree with the statement that “other members of this
+group are honest”). In contrast, the other [61] assesses individual-
+based trust (by asking if an individual participant has confidence in
+a particular person on social media). In a different context, Pentina
+et al. [79] found that Twitter users who believed their personality
+traits aligned with Twitter’s online brand personality were more
+likely to trust Twitter in general. This is because trust is cultivated
+among members who believed their own identities aligned with
+the specific social media brand’s identity, according to Pentina et
+al. [79].
+Social ties. Social ties are the (perceived) strength of social re-
+lationships within an individual’s social networks [ 44] and can
+be categorized into either strong or weak ties [35]. Three studies
+in our corpus suggested that social ties were a significant trust
+antecedent [ 34, 34, 109], whereas one study in our corpus dis-
+agreed [26]. Wang et al. found that participants’ trust towards
+information on social media is directly correlated with the social
+ties between the participant and the profile that posted the infor-
+mation [109]. Likewise, Gong et al. found that social ties among
+members of WeChat played an important role in trust in the WeChat
+platform in general [33, 34].
+3.4.3 Trustee-related Antecedents. Another type of antecedent of
+trust has to do with the attributes and characteristics of the trustee;
+an antecedent category we named trustee-related antecedents .
+Transparency. One trustee-related antecedent of trust revolves
+around the transparency of the trustee (e.g., information). In this
+context, transparency is defined as the disclosure of source materi-
+als during information production. In general, our findings suggest
+that transparency is associated with higher trust in a trustee. In a
+number of studies, transparency has involved presenting informa-
+tion alongside the URL of the original source, which significantly
+increased people’s trust in that information [5, 13, 24, 25, 40, 109].
+Social credibility. The popularity behind a piece of information
+on social media, often measured by the number of likes, comments,
+and shares the post has, is also known as social credibility . Unfor-
+tunately, using source credibility as a way to assess the validity of
+information online can often lead to the dissemination of unverified
+information [101]. According to a few studies in our corpus, this is
+because social credibility increases individuals’ trust in information
+found on social media [4, 109]. The authors explained that perceived
+social credibility decreases users’ verification behaviors online, as
+information shared by others in one’s network is more likely to be
+perceived as credible and, thus, less likely to be personally verified.
+Content & writing style. Additionally, the content and writing
+styles of information online are commonly-examined factors that
+influence trust. This can include the specific topics that are writ-
+ten about (e.g., informational vs. entertaining information; health
+vs. political topics) [17, 31, 56, 77, 122] and how these topics are
+introduced and discussed (e.g., wording) [25, 40, 56, 95]. Further-
+more, the level of detail of the content also influences people’s trust
+in information. For example, in the context of e-commerce, Sari
+et al. [89] found that Facebook pages containing detailed product
+information significantly increased users’ trust in that page. And
+yet, another study found that the level of detail of an advertisement
+on Facebook was not directly correlated with participants’ trust
+in the Facebook platform as a whole [ 23]. The study found that
+Facebook advertisements with a medium level of detail led to more
+trust in the platform than advertisements with a high level of detail
+(the assessment of levels of detail was determined by participants),
+especially if the detailed advertisement was highly personalized
+based on users’ online activities (e.g., the websites they visited).
+Visual & emotional appeal. Multi-media and visual compo-
+nents embedded into information online can also increase users’
+trust in that information. This is because these components often in-
+voke positive emotional sentiments among users, which contributes
+to increased trust in that information [13, 40, 56]. According to the
+authors, this increase in trust can be attributed to gratification the-
+ory, as visually- and emotionally-appealing stimuli better satisfy
+users’ media needs, leading to more trust [56].
+Contextual factors. Contextual factors, including the relevancy
+of information[13], the timeliness of information [13, 14, 46], and
+the perceived usefulness of information, positively influence trust
+in information from social media. However, one study focused on
+COVID-19 information behaviors on social media found that the
+timeliness of information had no significant effect on information
+trust [104].
+Social group attributes. Our review also shows how group
+factors can influence people’s trust in online groups. For example,
+Ma et al. [69]

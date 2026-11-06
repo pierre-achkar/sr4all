@@ -1,0 +1,321 @@
+ follow-up, 
+including study design, level of evidence, surgical infor -
+mation, and etiology, are summarized in Table 2. Twenty-
+five studies declared the gender of patients, and mean 
+postoperative follow-up was 38.6 months.
+Subscapularis repair was studied in four articles [14, 
+19, 29, 48]. Sixteen studies included intraoperative 
+Table 1 Definitions of problems, complications, reoperations, revisions
+PE polyethylene insert; ORIF open reduction internal fixation
+Definition Examples
+Problems Intraoperative or postoperative event that was not likely to affect 
+the patient’s final outcome
+Radiographic scapular notching, hematomas, glenoid or humeral 
+nonprogressive radiolucent lines, heterotopic ossification, 
+scapular spurs, chronic pain and/or stiffness, intraoperative 
+dislocations, intraoperative cement extravasation, or other 
+radiographic findings of the humerus or the eventual glenoid 
+graft
+Complications Any intraoperative or postoperative event that was likely to have 
+a negative influence on the patient’s final outcome
+Fractures, infections, dislocations, nerve palsies, aseptic loosening 
+of humeral or glenoid components, prosthetic component 
+disassociations, or glenoid graft failures
+Reinterventions
+ Reoperations Intervention requiring any return to the operating room for any 
+reason relating to the shoulder, without replacing humeral/
+glenoid components
+PE insert exchanges, ORIF, debridement, arthroscopy, tendon 
+transfers
+ Revisions Surgeries with total or partial exchange or removal of the com-
+ponents
+Stem exchanges, glenoid baseplate/glenosphere exchanges, 
+humeral spacers
+
+[W3178467609 PDF PAGE 4]
+Page 4 of 14Ascione et al. J Orthop Traumatol           (2021) 22:27 
+stem cementation data; of 1508 cases, 398 stems were 
+cemented (26.4%), and six studies reported press-fit 
+stems [23, 26, 31, 44, 45, 50] only.
+Four papers reported clear information regarding 
+glenoid grafts: Franceschetti et  al. [28] compared 29 
+standard glenoid RSA with 30 BIO-RSA [51], with gle -
+noid lateralization as the single aim; Merolla et al. [40] 
+and Ascione et al. [25] presented heterogeneous groups 
+of shoulders, with both BIO-RSA and angled BIO-RSA 
+[52] in the correction of severe glenoid defects and ret -
+roversion (20 and 53 glenoid grafts, respectively); Jones 
+et  al. [34] reported 44 shoulders with severe glenoid 
+bone loss, both in primary implants and in revision 
+surgeries, treated with RSA and glenoid autografts or 
+allografts.
+The indication for implanting an RSA was stated in 
+28 studies (4100 cases), but 12 studies did not state the 
+number of cases for each etiology, and in one, some cases 
+were unstated [47], leaving a total of 1170 arthroplas -
+ties with definite pathologies. The most frequent surgi -
+cal indications were cuff tear arthropathy (CTA) in 587 
+shoulders (50.2%). Details of the analyzed study etiolo -
+gies are reported in Table 3.
+Results
+Of the 3926 cases, the 296 postoperative complications 
+represented an overall rate of 7.5%. Ten studies reported 
+intraoperative complications of 665 arthroplasties: three 
+humeral fractures, three glenoid fractures, one axillary 
+artery injury, making a total of seven cases (1.1%).
+Table 4 illustrates the postoperative complications of 
+the present review. Acromial and scapular spine fractures 
+were the most common postoperative complication, with 
+a mean incidence of 1.8% (77 fractures of 4393 cases). 
+With classification according to Levy [53] (2657 RSA), a 
+total of 14 acromion fractures (type I) and 41 spine frac -
+tures (type II–III) were reported (74.5%).
+Fractures of the scapular spine, however, compro -
+mised the final outcome in analyzed shoulders [20, 36]. 
+This complication was more frequent in certain stud -
+ies with implanted Equinoxe Reverse and Ascend Flex 
+Reverse prostheses (3–5%) [20, 25, 36, 40, 41, 46], but the 
+Fig. 1 Studies collection and inclusion process
+
+[W3178467609 PDF PAGE 5]
+Page 5 of 14
+Ascione et al. J Orthop Traumatol           (2021) 22:27 
+ 
+Table 2 Demographic data and study characteristics
+First author Year Level of 
+evidence
+RSA cases Subgroups Implanted 
+RSA
+Approach Cemented Age (years) Range (±  SD) Follow-up 
+(months)
+Range (±  SD) Males Females
+Franceschetti 2020 III 59 Not BIO 29; 
+BIO 30
+Aequalis 
+Ascend Flex 
+(Tornier–
+Wright)
+DP N/S 69.7; 70 N/S (± 9.9); 
+N/S (± 7.8)
+24.6; 25.2 N/S (± 1.1); 
+N/S (± 1.6)
+10; 13 20; 16
+Simovitch 2019 III 324 Notch 47; not 
+Notch 277
+Equinoxe 
+(Exactech)
+DP 50 72.0 38–89 (± 7) 75.1 60–132 
+(± 16.9)
+N/S N/S
+Franceschetti 2019 III 84 SSR 44; not 
+SSR 40
+Aequalis 
+Ascend Flex 
+(Tornier–
+Wright)
+DP N/S 70.18; 69.71 N/S (± 10.63); 
+N/S (± 6.14)
+15.9; 16.92 N/S (± 1.29); 
+N/S (± 1.92)
+10; 11 34; 29
+Choi 2019 IV 38 Comprehen-
+sive reverse 
+(Biomet)
+DP 0 73 63–83 24 12–53 6 32
+Aibinder 2019 IV 65 Comprehen-
+sive micro 
+stem (Zim-
+mer Biomet)
+DP 0 N/S N/S 45.6 N/S N/S N/S
+Raiss 2019 IV 77 Aequalis 
+Ascend Flex 
+(Tornier–
+Wright)
+DP N/S 72 50–91 28 24–48 N/S N/S
+Matsuki 2018 III 552 Small 130; 
+average 384; 
+tall 38
+Equinoxe 
+(Exactech)
+N/S N/S 74; 72; 72 50–85; 52–93; 
+59–84
+41; 37; 37 24–94; 24–97; 
+24–98
+4; 178; 37 126; 206; 1
+Merolla 2018 III 38 Aequalis 
+Ascend Flex 
+(Tornier–
+Wright)
+DP 3 74.7 55–91 29.1 24–31 13 25
+Ascione 2018 IV 485 Sc Fr 21; not Sc 
+Fr 84
+Aequalis 
+Ascend Flex 
+(Tornier–
+Wright)
+DP N/S 72.6; 72.3 N/S (± 7.1); 
+N/S (± 7.6)
+16.3; 16.5 6.5; 9.1 6; 24 15; 60
+Alentorn-Geli 2018 III 16 All B2 glenoids Comprehen-
+sive reverse 
+(Zimmer 
+Biomet)
+DP N/S 72.5 N/S (± 5.4) 35.1 N/S (± 14.2) N/S N/S
+Werner BC 2018 III 109 SSR 71; not 
+SSR 38
+Aequalis 
+Ascend Flex 
+(Tornier–
+Wright)
+N/S N/S 71.1; 70.7 N/S (± 10.7); 
+N/S (± 8.6)
+24; 25.2 N/S (± 18); N/S 
+(± 18)
+28; 15 43; 23
+Zilber 2018 IV 35 Aramis (3S 
+ortho)
+DP 0 73 45–86 24 N/S 7 28
+
+[W3178467609 PDF PAGE 6]
+Page 6 of 14Ascione et al. J Orthop Traumatol           (2021) 22:27 
+Table 2 (continued)
+First author Year Level of 
+evidence
+RSA cases Subgroups Implanted 
+RSA
+Approach Cemented Age (years) Range (±  SD) Follow-up 
+(months)
+Range (±  SD) Males Females
+Werner BS 2017 IV 56 Aequalis 
+Ascend Flex 
+(Tornier–
+Wright)
+DP 9 74.6 56–91 30.1 24–44 15 41
+Mollon 2017 III 476 Equinoxe 
+(Exactech)
+N/S N/S 72.5 53–90 38 22–93 164 312
+Romano 2017 IV 112 Equinoxe 
+(Exactech)
+DP 0 72.2 60–87 29.2 12–36 29 83
+Kennon 2017 III 318 Bp sup screw 
+206; Bp inf 
+screw 112
+Equinoxe 
+(Exactech)
+DP N/S 65.3; 65 N/S (± 11); N/S 
+(± 10.8)
+N/S N/S 85; 44 121; 68
+Ascione 2017 IV 100 Aequalis 
+Ascend Flex 
+(Tornier–
+Wright)
+DP 20 73.4 55–91 32.6 24–44 28 72
+Lädermann 2017 II 35 Aequalis 
+Ascend Flex 
+(Tornier–
+Wright)
+DP 18, SSCS 17 N/S 78 N/S (± 7) 18 12–46 (± 11) 8 27
+Schnetzke 2017 IV 25 Aequalis 
+Ascend Flex 
+(Tornier–
+Wright)
+DP 0 N/S N/S 25 20–35 5 20
+Vourazeris 2017 III 202 SSR 86; not SSR 
+116
+Equinoxe 
+(Exactech)
+DP N/S 71.6; 71.1 N/S 39.6; 37.2 N/S N/S N/S
+Grubhofer 2017 IV 44 Reverse 
+anatomical 
+shoulder 
+system (Zim-
+mer)
+N/S 31 68 30–86 46 24–108 32 12
+Hurwit 2017 III 40 Comprehen-
+sive reverse 
+(Biomet)
+N/S N/S 68.6 N/S (± 7.6) 32.2 N/S (± 14.9) 16 24
+Friedman 2017 III 591 SSR 340; not 
+SSR 251
+Equinoxe 
+(Exactech)
+N/S N/S 72.2; 72.9 N/S 37.3; 35.7 N/S 119; 105 221; 146
+Mollon 2016 III 297 Equinoxe 
+(Exactech)
+N/S N/S 72 50–88 39 24–91 99 191
+Jones 2016 IV 44 All glenoid 
+autograft; 
+allograft
+Equinoxe 
+(Exactech)
+DP N/S 69.1 N/S (±  7.4) 40.6 16 20 24
+
+[W3178467609 PDF PAGE 7]
+Page 7 of 14
+Ascione et al. J Orthop Traumatol           (2021) 22:27 
+ 
+Table 2 (continued)
+First author Year Level of 
+evidence
+RSA cases Subgroups Implanted 
+RSA
+Approach Cemented Age (years) Range (±  SD) Follow-up 
+(months)
+Range (±  SD) Males Females
+Dezfuli 2016 III 36 FrS 24; HA Rev 
+12
+Equinoxe 
+(Exactech)
+DP 36 73; 66; 66 N/S 36; 34; 24 N/S 4; 2; 2 9; 10; 9
+Katz 2016 IV 140 Arrow (FH 
+Orthopedics)
+25 DP , 115 SL 34 72 52–90 (± 6.91) 45 24–120 34 100
+King 2015 III 83 Equinoxe 
+(Exactech)
+DP 32 72 55–93 42 N/S 32 51
+Gilot 2015 III 292 Cem 177; 115 
+UnC
+Equinoxe 
+(Exactech)
+DP 177 N/S N/S 39.76 N/S N/S N/S
+Giuseffi 2014 IV 44 Comprehen-
+sive reverse 
+(Biomet)
+DP 0 76 59–92 27 24–40 15 29
+Valenti 2011 IV 76 Arrow (FH 
+Orthopedics)
+SL 6 73 52–90 44 24–60 18 58
+Total … … 4893 SSR 541/986 Equ. 68%, AFl 
+19.6%, Com 
+6.4%, Arr 
+4.4%, Inv 
+0.9%, Ara 
+0.7%
+2593 DP  +  
+191 SL/2784
+398/1508 4511 … 4195 … 1238 2286
+Mean/% SSR 54.9% DP: 93.1%; SL: 
+6.9%
+26.4% 71.5 … 38.6 … 35.1% 64.9%
+RSA reverse shoulder arthroplasty; SD standard deviation; Notch scapular notching; BIO bony increased-offset reverse shoulder arthroplasty; Notch notching; SSR subscapularis tendon repaired; Sc Fr scapular fractures; 
+Bp sup screw metaglene baseplate superior screw used; Bp inf screw metaglene baseplate inferior screw used; FrS fracture sequelae; HA Rev hemiarthroplasty revisions; Cem cemented stem; UnC uncemented stem; 
+DP deltopectoral; SL superolateral; SSCS subscapularis and deltoid sparing; N/S not stated; Equ Equinoxe (Exactech); AFl, Aequalis Ascend Flex (Tornier–Wright); Com comprehensive reverse (Biomet); Arr Arrow (FH 
+Orthopedics); Inv reverse anatomical shoulder system (Zimmer); Ara Aramis (3S ortho)
+
+[W3178467609 PDF PAGE 8]
+Page 8 of 14Ascione et al. J Orthop Traumatol           (2021) 22:27 
+focus on scapular fractures in some studies and in oth -
+ers, both arthroplasties with lower rates, led to confusing 
+conclusions.
+All postoperative humeral fractures (50 cases of 3590) 
+were associated with a traumatic event in 25 studies, 
+resulting in 1.4% incidence. Twenty-nine cases (58%) 
+were reported in press-fit stems, and one case of fracture 
+of the greater tuberosity was included [35].
+No cases were reported in short-stem studies (Ascend 
+Flex and Comprehensive Micro Stem) [14, 20, 23, 25, 
+28, 38, 40, 43, 45, 49], whereas the Equinoxe RSA was 
+implanted in the majority of cases (48 fractures).
+Humeral loosening (19 cases of 3882) was reported in 
+26 different studies, with a mean incidence of 0.5%. These 
+were only revised in cases of clinical impact (six cases

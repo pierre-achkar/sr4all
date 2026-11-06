@@ -1,0 +1,417 @@
+tform)
+Improved 
+coordination 
+and explora‑
+tion (displayed 
+more purpose‑
+ful movement 
+and reduced 
+chaotic wan‑
+dering)
+[197, 198]
+
+[W4413867217 PDF PAGE 30]
+Page 30 of 42Yuan et al. Chinese Medicine          (2025) 20:138 
+Table 4 (continued)
+Group Compounds Structure Species Activities Mechanism Models Dose Behavioral 
+experiment 
+results
+Refs
+Flavonoid Hesperetin Citrus reticulata 
+Blanco – Chen 
+Pi
+Antioxidants, anti‑
+inflammatory
+Activates the Nrf2, 
+HO‑1 axis, Sup‑
+presses the TLR4/
+NF‑κB
+HT22 neurons & BV‑2 
+microglia
+C57BL/6N mice
+50 µM (24 h)
+50 mg/kg
+Improved 
+spatial learning 
+and work‑
+ing memory 
+(escape latency 
+shortened; 
+platform cross‑
+ings and time 
+in the target 
+quadrant 
+increased; 
+spontaneous‑
+alternation 
+percentage 
+elevated; 
+swim speed 
+unchanged)
+[155, 199]
+Alkaloid Huperzine A Huperzia serrata 
+– Shi Shan
+Improves cognitive 
+function
+Downregulating 
+proteins related 
+to iron intake (TfR1) 
+and increasing 
+the expression 
+of iron‑export pro‑
+teins (FPN1) reduces 
+the generation 
+of ROS by inhibiting 
+NADPH oxidase (NOX 
+2 and NOX 4)
+C57BL/6 0.1 mg/kg 
+(21 days)
+Improved 
+memory 
+and learning 
+(decreased 
+escape latency 
+and distance 
+traveled)
+reduced 
+anxiety‑like 
+behavior 
+(increased time 
+and distance 
+in the center 
+area)
+[200]
+Flavonoid Luteolin Scutellaria 
+baicalensis – 
+Huang Qin
+Neuro‑protective, anti‑
+neuro‑inflammatory, 
+lowers cortical Aβ 
+plaque
+Activation of NF‑κB 
+and MAPK; decreases 
+TNF‑α, IL‑1β, IL‑6, 
+NO and COX‑2, iNOS, 
+activation of PPARγ
+3 × Tg‑AD mice
+Rat C6 glioma cells
+20 & 40 mg/kg/
+day (3 weeks)
+1–10 µM 
+(24–48 h)
+Enhanced 
+spatial learning 
+and memory 
+(decreased 
+escape latency, 
+increased time 
+spent in the tar‑
+get quadrant 
+and platform 
+crossings, 
+with no change 
+in overall swim 
+speed)
+[201, 202]
+
+[W4413867217 PDF PAGE 31]
+Page 31 of 42
+Yuan et al. Chinese Medicine          (2025) 20:138 
+ 
+Table 4 (continued)
+Group Compounds Structure Species Activities Mechanism Models Dose Behavioral 
+experiment 
+results
+Refs
+Osmundacetone Rhizoma 
+Osmundae – 
+Zi Qi
+Inhibition of Aβ 
+fibrillation, promotion 
+of lysosomal degrada‑
+tion of Aβ, reduction 
+of oxidative damage, 
+suppression of neuro‑
+inflammation
+Binds to Aβ, prevent‑
+ing the aggregation 
+of Aβ monomers 
+into toxic fibrils. 
+After binding to Aβ, 
+it facilitates its 
+lysosomal degra‑
+dation, increases 
+the expression 
+of Gpx4, and inhibits 
+the phosphorylation 
+of p65
+APP/PS1 transgenic 
+mice
+1 mg/kg 
+(12 weeks)
+Improvements 
+in spatial learn‑
+ing and mem‑
+ory (shorter 
+path lengths 
+and latencies 
+in the hidden 
+platform phase 
+of the Morris 
+water maze)
+[146]
+Polyphenolic Proanthocyanidins Cinnamomum 
+verum – Rou 
+Gui
+Suppresses Aβ42 
+fibril formation, exerts 
+strong antioxidant 
+capacity and anti‑
+inflammatory action, 
+and lowers plaque 
+burden in the hip‑
+pocampus
+Dock onto Aβ42 
+through multiple 
+hydrogen bonds 
+and π–π stacking, 
+blocking nucleation 
+and elongation; their 
+radical‑scavenging 
+activity eases oxida‑
+tive stress, while IL‑6, 
+IL‑1β, and TNF‑α are 
+down‑regulated
+SH‑SY5Y
+SD rat
+50 – 200 µg/mL
+100 mg/ kg/
+day or 400 mg/ 
+kg/day 
+(50 days)
+Enhanced 
+spatial learning 
+and refer‑
+ence memory 
+(escape latency 
+shortened 
+on day 3 (low 
+dose) and day 
+5 (high dose); 
+probe‑trial 
+crossings 
+of the former 
+platform 
+increased)
+[139]
+Flavonoid Salidroside Rhodiola rosea – 
+Hong Jing Tian
+Protects neurites 
+and mitochondria 
+from Aβ, reduces 
+Aβ plaque burden 
+in the hippocampus
+Binds directly to Nrf2, 
+blocks its interac‑
+tion with KEAP1, 
+stabilising and driv‑
+ing Nrf2 into nuclei, 
+Nrf2 transcription‑
+ally up‑regulates 
+SIRT3, lowered ROS, 
+preserved MMP
+SH‑SY5Y
+Primary cortical 
+neurons from Sirt3foxp 
+mice
+5 × FAD transgenic mice
+5 × FAD + hippocampal 
+SIRT3 knock‑down
+50 µM
+(24–72 h)
+0.3 mg/kg 
+(3 months)
+Enhanced 
+spatial learning 
+and memory 
+(decreased 
+escape latency 
+across training 
+days, increased 
+time and dis‑
+tance in the tar‑
+get quadrant 
+on the probe 
+trial, and more 
+entries and dis‑
+tance travelled 
+in the novel 
+arm 
+of the Y‑maze, 
+with no change 
+in overall swim 
+speed)
+[141, 203, 204]
+
+[W4413867217 PDF PAGE 32]
+Page 32 of 42Yuan et al. Chinese Medicine          (2025) 20:138 
+Table 4 (continued)
+Group Compounds Structure Species Activities Mechanism Models Dose Behavioral 
+experiment 
+results
+Refs
+Isothiocyanate Sulforaphane Brassica oleracea 
+var. italica) – Xi 
+Lan Hua
+Decreases Aβ gen‑
+eration, antioxidant, 
+anti‑inflammatory, 
+and enhances cell 
+viability
+Reactivation 
+of the Nrf2 pathway
+Mouse neuroblastoma 
+N2a/APP
+1.25—5 µM 
+(24–72 h)
+[205–207]
+Xanthone α‑Mangostin Garcinia man-
+gostana – Shan 
+Zhu
+Antioxidative, 
+anti‑inflammatory, 
+and neuroprotective 
+effects, inhibiting 
+microglial activation, 
+reducing the produc‑
+tion of pro‑inflamma‑
+tory cytokines and NO
+Inhibiting the TLR4/
+TAK1/NF‑κB signaling 
+pathway, reducing 
+the activation of TNF‑
+α, IL‑6, and iNOS
+BV‑2 cells
+C57BL/6 mice
+100—500 nM
+50 mg/kg/day 
+(14 days)
+Improvements 
+in spatial learn‑
+ing and mem‑
+ory (shorter 
+escape laten‑
+cies and more 
+platform cross‑
+ings)
+Did not affect 
+motor function 
+but improved 
+cognitive abili‑
+ties (No signifi‑
+cant changes 
+in locomotor 
+activity)
+[147]
+
+[W4413867217 PDF PAGE 33]
+Page 33 of 42
+Yuan et al. Chinese Medicine          (2025) 20:138 
+ 
+from downstream markers. Publication bias and differ -
+ences in compound sourcing complicate comparisons.
+Most compounds modulate lysosomes indirectly via 
+upstream pathways (e.g., TFEB/mTOR), which risks off-
+target effects. Early-stage disease models dominate, and 
+compounds like α-mangostin may be ineffective in late-
+stage tauopathy.
+Key research gaps include the lack of Phase III clinical 
+trial data, uncertainty about lysosomal specificity, and 
+the need for a better understanding of AD stage-specific 
+efficacy. Dosing regimens rarely reflect chronic human 
+exposure (3-month mouse studies with decades-long AD 
+progression). Synergistic effects and herb-drug interac -
+tions are underexplored. Phytochemical purity varies 
+widely, complicating bioactivity comparisons.
+A deeper understanding of how phytochemicals inter -
+act with other biological pathways will be essential to 
+assess their overall impact on AD patients’ health, as 
+their anti-inflammatory and antioxidant effects could 
+offer additional benefits. Lastly, combining phytochemi -
+cals with existing therapies could provide a more com -
+prehensive treatment pathway, where both approaches 
+focus on reducing symptoms and preventing or slowing 
+disease progression.
+Developing biomarkers for the early detection of lyso -
+somal dysfunction before neuronal damage occurs is 
+essential to support timely intervention. Additionally, 
+studying the genetic and environmental factors affecting 
+lysosomal function, including gene-environment inter -
+actions and lifestyle factors, is a crucial effort that can 
+improve the care and handling of AD.
+Conclusion
+In recent years, a growing body of research has focused 
+on the regulatory roles of phytochemicals in ameliorating 
+lysosomal dysfunction in AD. In this review, we system -
+atically summarized current evidence and identified five 
+major mechanistic domains through which natural com -
+pounds exert protective effects: phagocytosis, autophagy 
+regulation, lysosomal enzymatic activity, oxidative stress 
+and inflammation control, and cellular energy regula -
+tion via AMPK signaling. Phytochemicals act across 
+multiple interconnected levels of lysosomal homeosta -
+sis. For example, cannabidiol, curcumin, and spermidine 
+promote microglial phagocytic uptake of Aβ; trehalose, 
+chlorogenic acid, and celastrol stimulate autophagic flux 
+via TFEB and AKT/mTOR pathways; amentoflavone, 
+urolithin A, and chloroquine enhance lysosomal enzy -
+matic activity and integrity; while resveratrol, crocin, and 
+EGCG reduce oxidative stress and neuroinflammation 
+through ROS scavenging and NF-κB inhibition. Further -
+more, crocetin, fisetin, and kaempferol modulate AMPK 
+signaling to improve cellular energy balance and lysoso -
+mal biogenesis. Multi-target compounds like methylated 
+resveratrol, piperine, and EGCG may offer broader thera-
+peutic potential than single-target agents.
+Despite the encouraging findings, several limitations 
+remain. The therapeutic effects of phytochemicals have 
+shown variability across different experimental mod -
+els, particularly in transgenic mouse models. The lack 
+of robust in  vivo evidence on the combinatory use of 
+multiple phytochemicals further complicates their 
+translational potential. Moreover, although some com -
+pounds—such as resveratrol, epigallocatechin, and tan -
+shinone II—have been shown to cross the blood–brain 
+barrier and exert neuroprotective effects, their clinical 
+Fig. 4 Network Map of Phytochemical–Protein Interactions Targeting Lysosomal Dysfunction and anti‑inflammatory/antioxidant pathways 
+for Alzheimer Disease therapy. Cluster 1 (left, ~ 50 nodes; orange gradient) groups phytochemicals that exhibit lysosome‑restorative, 
+anti‑inflammatory, and/or antioxidant activity. Cluster 2 (right, ~ 45 nodes; darker orange‑brown) contains key pathological and signalling mediators 
+enriched in lysosomal and autophagy‑related proteins/enzymes. Notes: “↑” represents the up‑regulated targets, “↓” represents the down‑regulated 
+targets
+
+[W4413867217 PDF PAGE 34]
+Page 34 of 42Yuan et al. Chinese Medicine          (2025) 20:138 
+Table 5 Pharmacologically active compounds targeting multiple pathways
+Targeting Group Compounds Structure Species Activities Mechanism Models Dose Behavioral 
+experiment results
+Refs
+Autophagy + antioxidant Carotenoid Astaxanthin—
+monoester AST 
+docosahexaenoic 
+acylated acid
+Haematococcus 
+pluvialis – Hong 
+Qiu Cao
+Reducing cognitive 
+deficits, an antioxidant, 
+enhances autophagic 
+flux by restoring 
+autophagy‑lysosome 
+fusion
+Activating the SIRT1/
+PGC‑1α signaling 
+pathway, induces AMPK 
+phosphorylation, acti‑
+vates ULK1 at Ser555 
+(pro‑autophagic) 
+while inhibitin

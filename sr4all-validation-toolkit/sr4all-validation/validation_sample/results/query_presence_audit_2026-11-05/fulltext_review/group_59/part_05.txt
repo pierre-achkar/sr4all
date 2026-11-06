@@ -1,0 +1,161 @@
+that T cells produce
+TNF-a in response to PTH stimulation ( 69).
+Hs-CRP is a more precise test than CRP, elevated levels being
+linked to atherosclerosis and CV disease ( 70), type 2 diabetes,
+metabolic syndrome ( 71), autoimmune disorders ( 72) and cancer
+(73). As systematically analyzed here, Hs-CRP levels were found to
+be elevated in PHPT patients compared with controls. Additionally,
+correlations with PTH ( 25)a n dc a l c i u m( 27)w e r eo b s e r v e d .
+However, most studies that evaluated CRP found similar levels
+between PHPT patients and controls. These discrepancies might be
+explained by the fact that CRP tests assess relatively higher levels of
+inﬂammation (typical for conditions like infections, autoimmune
+diseases, or trauma), while Hs-CRP is much more sensitive and can
+detect very low levels of in ﬂammation. While most of the studies
+did not reveal any signi ﬁcant changes in CRP levels after
+parathyroidectomy, Almqvist et al. ( 38) showed an increase in
+Hs-CRP one year following surgery and Christensen et al. ( 46)
+reported a rise in CRP levels at 6 months postoperatively. These
+changes could be attributed to tissue injury resulting from the
+surgical procedure.
+Additionally, an increased level of interleukin-2 receptor (IL-
+2R) was observed in patients with PHPT ( 31). This receptor plays a
+key role in the regulation of immune responses, by in ﬂuencing the
+proliferation and activity of immune cells, particularly T cells. IL-2
+binds to the high-af ﬁnity IL-2R on activated T cells, stimulating
+their proliferation and promotes the differentiation of CD4+ helper
+T cells and CD8+ cytotoxic T cells ( 74).
+IL-17A, a cytokine produced by T helper 17 (Th17) cells, is
+believed to be a key mediator of chronic in ﬂammation ( 75, 76). It
+exerts its effects through binding to its speci ﬁc receptor (IL-17R) on
+various cells including osteobl asts, osteocytes and osteoclast
+precursors, enhancing RANKL pr oduction and upregulating
+receptor activator of NF- kB (RANK), thereby facilitating
+osteoclast differentiation and bone resorption ( 77– 80). PTH was
+found to be positively correlated with IL-17 in a study that included
+female students with vitamin D de ﬁciency ( 81). Yankova et al. ( 47)
+showed that IL-17A levels were increased in patients with PHPT, an
+observation which is in accordance with data provided by Li et al.
+(82) showing that PHPT upregulates IL-17A mRNA expression in
+peripheral blood cells, an effect that is reversed following
+parathyroidectomy. On the other hand, Danzio et al. ( 48) did not
+observe any differences in IL-17A levels between PHPT patients and
+controls. IL-17A might promote the effects of abnormally high PTH
+on osteoclasts considering that IL-17R gene silencing or
+neutralization of IL-17A with monoclonal antibodies blunted the
+ability of PTH to induce bone resorption, while bone formation was
+not in ﬂuenced ( 82, 83). However, in the two studies evaluating IL-
+17A that were included in the present review, RANKL and OPG
+values were similar in the PHPT and control groups ( 47, 48).
+Yankova et al. suggested that this ﬁnding might indicate that the
+RANK/RANKL/OPG system is not the sole regulator of bone
+metabolism in PHPT, while also hi ghlighting that circulating
+concentrations of these molecules may not accurately represent
+the dynamics occurring within the bone microenvironment ( 47).
+IL-10 is a cytokine with potent anti-in ﬂammatory effects that
+plays a crucial role in regulating immune responses and
+maintaining tissue and cellular homeostasis ( 84, 85). Data
+regarding the interplay between PTH and IL-10 are con ﬂicting.
+Experimental evidence indicated that intermittent administration of
+PTH resulted in increased IL-10 production in old rats. In a study
+that included patients with rh eumatoid arthritis, a signi ﬁcant
+positive correlation between PTH and IL-10 was identi ﬁed ( 86),
+while Ori et al. showed that in patients undergoing chronic dialysis,
+higher IL-10 levels were associated with lower PTH values ( 87).
+In PHPT patients, Meng et al. ( 50) identi ﬁed similar levels of
+IL-10 in patients and controls, and no signi ﬁcant changes
+following parathyroidectomy.
+The WBC was similar in PHPT patients and controls, while
+signiﬁcant differences between the two groups were found for other
+markers derived from the FBC (NLR, PLR or RDW). A possible
+explanation could be that while the WBC measures the total number of
+white blood cells in the blood, it doe s not provide detailed information
+about the proportions of different types of immune cells (e.g.,
+neutrophils, lymphocytes, monocytes). A chronic in ﬂammatory state
+may contribute to ineffective erythropoiesis causing immature
+erythrocytes to enter the circulation, resulting in elevated RDW ( 88).
+T h u s ,N L R ,P L R ,R D Wr e p r e s e n tm a r k e r so fi nﬂammation that might
+reﬂect more subtle or chronic aspects of in ﬂammation and immune
+d y s r e g u l a t i o ni nd i s e ases where low grade in ﬂammation might not
+induce changes in the WBC but could shift the balance of immune cells
+or alter the erythropoiesis. B oth NLR and PLR were shown to be
+correlated with IL-6, TNF-a, and CRP levels in studies performed on
+dialysis patients (89, 90) .A l s o ,N L R ,P L Ra n dR D Ww e r ef o u n dt ob e
+correlated with PTH ( 25, 30, 43). Regarding the changes in levels of
+helper T cells, suppressor T cells and the H/S ratio (helper T cells count
+divided by suppressor T cells count) con ﬂicting results were found in
+the two studies that evaluated these markers ( 32, 34) and the different
+Gheorghe-Milea et al. 10.3389/fimmu.2025.1563967
+Frontiers inImmunology frontiersin.org12
+
+[W4410972516 PDF PAGE 13]
+sample sizes for the study groups might account partially for these
+discrepancies. On the other hand, both studies revealed an altered
+response of T cells to lectins (PHA, concanavalin A), which was
+restored to normal following parathyroidectomy.
+MHR is an emerging composite biomarker that re ﬂects the
+interplay between in ﬂammation and oxidative stress, with higher
+values being associated with inc reased cardiovascular risk,
+particularly in individuals with chronic kidney disease ( 91, 92).
+The divergent ﬁndings observed in the two studies assessing this
+marker may be attributed to differences in the duration of post-
+parathyroidectomy follow-up, with one study evaluating outcomes
+at 1 month ( 52), and the other over a longer period, ranging from 7
+months to 2 years ( 53).
+Fibrinogen, a key protein involved in blood clotting, wound
+healing, and immune responses, was also found to be elevated in
+PHPT patients and was correlated with the volume of parathyroid
+adenomas. Christensen et al. analyzed mRNAs extracted from
+samples of subcutaneous fat tissue from the cervical region and
+observed signi ﬁcant changes in the expression of genes associated
+with in ﬂammation and metabolism in PHPT patients compared
+with controls ( 93). Based on these ﬁndings, the authors selected
+several serum markers associated with in ﬂammatory processes
+(MMP9, RAGE, sCD-14, S100A4, and S100A8/A9) ( 94– 98) and
+revealed that MMP9, sCD-14 and S100A4 were signi ﬁcantly
+elevated in PHPT patients. They also showed that both sCD-14
+and S100A4 decreased following surgery, concluding that PHPT
+was characterized by an increased in ﬂammatory state and
+parathyroidectomy provided a partial reversal of the systemic
+inﬂammation ( 42). In a different study, Christensen et al.
+examined systemic markers of IFN g-mediated immune activation,
+as IFNg pathways are known to be implicated in the development of
+several disorders ( 99– 101). The authors observed that the K/T ratio
+was elevated in PHPT patients, suggesting that IFN g-mediated
+cellular immune activation could be a characteristic feature of
+PHPT as well ( 46).
+MCP-1 is a chemokine with a pivotal role in orchestrating
+immune responses by promoting the recruitment and in ﬁltration of
+monocytes and macrophages, as well as facilitating the migration,
+activation, and differentiation of lymphocytes and natural killer cells
+(102, 103). It is highly expressed in the adipose tissue ( 104) and levels
+were found to be elevated in patients with complications associated
+with atherosclerosis (myocardial infarction or ischemic stroke) ( 105)
+and in individuals with obesity ( 106). Patients with PHPT exhibited
+higher levels of MCP-1 compared with control subjects ( 50).
+Furthermore, both studies that evaluated this parameter ( 49, 50)
+revealed a decrease after parathyroidectomy and positive correlations
+between PTH and MCP-1. These observations are in line with data
+from the literature. For instance, Sukumar et al. demonstrated that
+female individuals with high PTH have elevated levels of MCP-1,
+irrespective of adiposity ( 107). Moreover, experimental data from a
+rat model revealed that PTH administration led to a signi ﬁcant
+increase in serum MCP-1 concentrations, while also promoting
+osteoblastic expression of this chemokine ( 108). In human
+osteoblasts, parathyroid hormone-related protein (PTHrP)
+increased MCP-1 production as well ( 109). The effects of PTH on
+bone remodeling are dependent on the pattern of administration,
+with intermittent exposure eliciting anabolic effects and continuous
+exposure resulting in catabolic outcomes. This variability may be
+partially attributable to differential regulation of MCP-1 production
+by PTH, characterized by a moderate yet sustained increase under
+continuous administration, in contrast to a transient but pronounced
+upregulation following intermittent administration ( 110).
+Evaluating chronic in ﬂammatory markers in patients with
+PHPT could have signi ﬁcant clinical implications by providing
+valuable insights into the underlying pathophysiology of the
+disease and its classical and non-classical manifestations and
+complications. For instance, the prevalence of CV disease and
+hypertension is higher in PHPT patients compared to the general
+population, with several stud ies reporting improvements in
+cardiovas

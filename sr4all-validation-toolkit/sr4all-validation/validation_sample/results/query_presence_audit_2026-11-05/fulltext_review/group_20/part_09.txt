@@ -1,0 +1,174 @@
+e in human malignancies:a meta-analysis
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W3033981438 PDF PAGE 1]
+RESEARCH ARTICLE Open Access
+Expression of tripartite motif-containing 44
+and its prognostic and clinicopathological
+value in human malignancies:a meta-
+analysis
+Guoliang Xiao 1† , Qiuxi Yang 2† , Ziwei Bao 3† , Haixia Mao 3, Yi Zhang 1* and Shibu Lin 2
+Abstract
+Background: Previous researches have reported that tripartite motif-containing 44 (TRIM44) is related to the
+prognosis of multiple human tumors. This study was designed to systematically assess the prognostic value of
+TRIM44 in human malignancies and summarize its possible tumor-related mechanisms.
+Methods: The available databases were searched for eligible studies that evaluated the clinicopathological and
+prognostic roles of TRIM44 in patients with malignancies. The hazard ratios (HR) and odds ratios (OR) were
+combined to assess the predictive role of TRIM44 using Stata/SE 14.1 software.
+Results: A total of 1740 patients from thirteen original studies were finally included in this study. The results of the
+combined analysis showed that over-expression of TRIM44 protein was significantly correlated with shorter overall
+survival (OS) (HR = 1.94, 95% CI: 1.60 – 2.35) and worse disease-free survival (DFS) (HR = 2.13, 95% CI: 1.24 – 3.65) in
+cancer patients. Additionally, the combined ORs indicated that elevated expression level of TRIM44 protein was
+significantly associated with lymph node metastasis (OR = 2.69, 95% CI: 1.71 – 4.24), distant metastasis (OR = 10.35,
+95% CI: 1.01 – 106.24), poor tumor differentiation (OR = 1.78, 95% CI: 1.03 – 3.09), increased depth of tumor invasion
+(OR = 2.72, 95% CI: 1.73 – 4.30), advanced clinical stage (OR = 2.75, 95% CI: 2.04 – 3.71), and recurrence (OR = 2.30, 95%
+CI: 1.34 – 3.95). Furthermore, analysis results using Gene Expression Profiling Interactive Analysis (GEPIA) showed that
+the expression level of TRIM44 mRNA was higher in most tumor tissues than in the corresponding normal tissues,
+and the relationship between TRIM44 mRNA level and prognosis in various malignant tumors also explored in
+GEPIA and OS analysis webservers.
+Conclusions: TRIM44 may serve as a valuable prognostic biomarker and a potential therapeutic target for patients
+with malignancies.
+Keywords: TRIM44, Prognosis, Clinicopathological features, Meta-analysis
+© The Author(s). 2020 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if
+changes were made. The images or other third party material in this article are included in the article's Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons
+licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+The Creative Commons Public Domain Dedication waiver ( http://creativecommons.org/publicdomain/zero/1.0/) applies to the
+data made available in this article, unless otherwise stated in a credit line to the data.
+* Correspondence: 307910985@qq.com
+†Guoliang Xiao, Qiuxi Yang and Ziwei Bao contributed equally to this work.
+1Department of General Surgery, the First People ’s Hospital of Neijiang,
+Neijiang 641000, Sichuan Province, PR China
+Full list of author information is available at the end of the article
+Xiao et al. BMC Cancer          (2020) 20:525 
+https://doi.org/10.1186/s12885-020-07014-w
+
+[W3033981438 PDF PAGE 2]
+Background
+Malignant cancers are one of the main causes of disease-
+related death in the world. Advances in detection tech-
+niques have contributed to the discovery of early cancer,
+and the progress of perioperative treatment has reduced
+the mortality in patients with malignancies. However,
+after standard treatment, patients with advanced malig-
+nancies still show poor survival rates due to consequent
+recurrence or metastasis. Due to the ongoing intensive
+cancer research, the precise tumor-related mechanisms
+have gradually been understood and an increasing num-
+ber of therapeutic targets have been identified.
+The field is moving toward targeted therapy as a pri-
+mary form of tumor therapy. Therefore, major efforts
+have been made to identify molecular markers that pre-
+dict the prognosis. More importantly, these markers can
+often be used as therapeutic targets, and then the corre-
+sponding targeted drug design can be carried out. Com-
+pared with gene therapy, the current targeted drug design
+for functional proteins may be more conducive to bringing
+new progress in tumor therapy.
+Recent studies have shown that some tripartite motif
+(TRIM) proteins are involved in tumorigenesis and pro-
+gression, and they function as protein regulators, and
+involve in important intersections in the gene pathways
+[1]. Tripartite motif-containing 44 (TRIM44) localized in
+the cytoplasmic compartment of cells was reported to
+contribute to diverse pathological conditions, such as
+tumors, growth disorders, and neurodegeneration [ 2– 6].
+TRIM44 protein has a zinc-finger domain, which plays
+the role of ubiquitin-specific proteases (USPs). Thus, it
+has been defined as the “USP-like” TRIM [ 6]. The ubi-
+quitin– proteasome system plays an important role in the
+regulation of cell function and is the intersection of
+multiple regulatory pathways [ 7]. TRIM44 is an atypical
+TRIM-family protein that lacks the RING-finger domain
+but contains a zinc-finger domain that is often found in
+ubiquitin-specific proteases [ 8].
+Some studies have suggested that TRIM44 plays a
+cancer-promoting role in oncogenesis and tumor progres-
+sion, and increased TRIM44 expression was detected in
+cancer tissues and it was associated with poor prognosis
+and advanced clinicopathological parameters [ 9– 11]. Im-
+portantly, recent studies have revealed that high levels of
+TRIM44 induce the epithelial-to-mesenchymal transition
+(EMT) in cancer cells and that TRIM44 promotes tumor
+initiation and progression by activating the PI3K/AKT/
+mTOR pathway [ 10, 12]. Another report indicated that
+TRIM44 could activate the NF- κB pathway to promote
+lung cancer cell migration and invasion [ 13].
+However, to date, no specific meta-analysis has been
+performed to evaluate the association between TRIM44
+expression and clinical outcomes in diverse malignan-
+cies. Therefore, we conducted this study to provide a
+systematic evaluation of the predictive value of TRIM44
+and explore its feasibility as a new therapeutic target.
+Methods
+Search strategy
+A comprehensive search strategy was conducted in the
+following databases: Web of Science, PubMed, CNKI,
+Wanfang, EMBASE, and Google Scholar. The search
+deadline was November 2, 2019. The following keywords
+were adopted according to the retrieval strategy: “Tripar-
+tite motif-containing 44 ” OR “TRIM44”; “cancer” OR
+“tumor” OR “carcinoma” OR “malignancy.”
+Inclusion and exclusion criteria
+Inclusion criteria were as follows: 1) The expression of
+TRIM44 protein was measured in tissue samples from
+primary solid cancers; 2) All patients included in the ori-
+ginal studies were divided into two groups according to
+the expression levels of TRIM44 protein; 3) The hazard
+ratio (HR) of survival outcomes or clinicopathological
+data based on the high and low levels of TRIM44
+protein expression was reported; 4) The survival curve
+presented or sufficient data were available for calculating
+the HR with 95% CI.
+Exclusion criteria were as follows: not original studies,
+studies without a control group, articles that only ex-
+plored the molecular functions of TRIM44, and studies
+with less than 50 cases.
+Data extraction
+For each study, the following general information
+was independently collected by two investigators
+(ZWB and HXM): author ’s name, number of pa-
+tients, cancer type, high expression rate, end-points
+(analysis type), evaluation standard of TRIM44 over-
+expression, follow-up time, detection method, and
+outcome measures.
+Additionally, information on the clinicopathological
+parameters related to tumor progression was collected.
+For survival data extraction, the HRs and 95% CIs were
+directly used from the multivariate survival analysis or
+the univariate analysis second priority; otherwise, they
+were retrieved using the Engauge Digitizer version 4.1 if
+a study only provided Kaplan-Meier curves.
+Quality assessment
+Newcastle-Ottawa quality assessment scale (NOS) was
+adopted to evaluate the quality of enrolled studies.
+This method comprised three parameters of quality:
+selection (score: 0 – 4), comparability (score: 0 – 2), and
+outcome assessment (score: 0 – 3), with total scores
+ranging from 0 to 9 [ 14]. The study with total scores
+greater than 6 was considered high quality in the
+present meta-analysis.
+Xiao et al. BMC Cancer          (2020) 20:525 Page 2 of 14
+
+[W3033981438 PDF PAGE 3]
+Public data and tools
+In this study, the Gene Expression Profiling Interactive
+Analysis (GEPIA) database ( http://gepia.cancer-pku.
+cn/), an online database cont aining RNA expression
+information and survival data from the TCGA and the
+GTEx projects, was utilized [ 15]. This database con-
+sists of 33 different types of human malignant tumors,
+including ACC (Adrenocortical carcinoma), BLCA
+(Bladder urothelial carcin oma), BRCA (Breast invasive
+carcinoma), CESC (Cervical squamous cell carcinoma
+and endocervical adenocarcinoma), CHOL (Cholangio
+carcinoma), COAD (Colon adenocarcinoma), DLBC
+(Lymphoid neoplasm diffuse large B-cell lymphoma),
+ESCA (Esophageal carcinoma), GBM (Glioblastoma
+multiforme), HNSC (Head and neck squamous cell car-
+cinoma), KICH (Kidney chromophobe), KIRC (Kidney
+renal

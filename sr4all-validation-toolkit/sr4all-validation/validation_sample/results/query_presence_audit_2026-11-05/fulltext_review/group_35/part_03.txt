@@ -1,0 +1,121 @@
+.00, U = 94.5, p = 0.00, U = 83, p = 0.00, respectively). On the
+contrary, HR levels of OCD patients were very similar to the values of AN and MDE groups.
+Considering other parameters besides HR, OCD reported signiﬁcantly lower levels of SCR
+in all of the three phases of the psychophysiological assessment in comparison to GAD
+(U = 51, p = 0.00, U = 52, p = 0.00, U = 55.5, p = 0.00, respectively), PD ( U = 16, p = 0.00,
+U = 18, p = 0.00, U = 15, p = 0.00, respectively), and the controls (U = 113, p = 0.03, U = 111,
+p = 0.03, U = 116, p = 0.04, respectively). Looking at the sEMG values at rest and during the
+stress session, it has emerged that frontal muscle tension is the only parameter that did not
+show signiﬁcant statistical differences between control and pathological groups because all
+of the patients, including OCD, reported higher levels compared to the healthy controls.
+These authors concluded that the autonomic imbalance of OCD patients is characterized by
+a general neurovegetative hypoactivation.
+Similar results regarding the skin conductance were also described two years earlier
+by the same authors [67] which detected signiﬁcant differences between OCD and anxious
+patients (GAD and PD) in the three phases of the recording of the psychophysiological
+proﬁle (baseline, stress, and recovery) (GAD vs. OCD: U = 110, p < 0.001, U = 26, p < 0.001,
+U = 95, p < 0.001; PD vs. OCD: U = 83, p < 0.001, U = 84, p < 0.001, U = 94, p < 0.001). In
+addition, Pruneti et al. noted that the SCR values in OCD patients seem to fall within the
+typical range (2–6 µS) in all of the phases of psychophysiological recording even if other
+interesting aspects emerge. More speciﬁcally, it seems that slight reactivity to stress is still
+present (baseline vs. stress condition: W = 96, p < 0.05) and characterized by the inability to
+relax after the stress (stress condition vs. recovery: W = 141, p = n.s.).
+Another study also examined the trend of the SCR parameter. A study byWitton et al. [70]
+compared 25 OCD patients with 21 subjects diagnosed with non-OCD anxiety disorders
+and 25 healthy participants with respect to trait, self-reported, facial sEMG, and GSR dis-
+gust responses in order to analyze the level of psychophysiological activation connected
+to the emotion of disgust. This research revealed that individuals with OCD showed
+greater disgust propensity and self-reported disgust toward images of body waste com-
+pared to healthy and anxious participants (group x image interaction for self-reported
+disgust ratings: F(10,340) = 4.02, p < 0.001). However, there were no group differences
+in physiological responses. After controlling for trait disgust, obsessive beliefs positively
+correlated with increased self-reported disgust to neutral images and increased levator labii
+activity (detected through the sEMG) to negative non-disgusting images (r = 0.28, p < 0.05).
+Furthermore, Milad and colleagues [65] examined the dissociation between different
+measures in patients diagnosed with OCD. In a 2013 study, the psychophysiological and
+neurobiological correlates of 21 patients with OCD during an experimental paradigm
+
+[W4319018769 PDF PAGE 9]
+Nutrients 2023, 15, 755 9 of 16
+of conditioned fear extinction were analyzed. The comparison between the group of
+OCD patients and a group of 21 healthy subjects revealed that individuals with OCD
+show impaired extinction recall. Furthermore, a dissociation between the two measures
+emerged. More speciﬁcally, while the expression of conditioned fear and its subsequent
+extinction is intact (as measured by SCR: late vs. early extinction training,F = 0.77, p = 0.39),
+an impairment in the recall of the extinction memory emerges in terms of a decreased
+activation of the ventro-medial prefrontal cortex (vmPFC) across all the experimental phases
+(extinction training OCD>HC: t = −2.98, p < 0.05, extinction recall OCD>HC: t = −3.28,
+p < 0.05). Moreover, OCD symptom severity was positively correlated with the magnitude
+of extinction memory recall as well as with functional responses of the vmPFC (r = 0.56,
+p <0.05).
+Lastly, the potential differences between 37 patients with OCD and 56 healthy subjects
+in a classical fear-conditioning task were investigated by Pöhlchen et al. [69]. These authors
+analyzed some physiological parameters such as pupil dilation, startle amplitude, and SCR
+across conditioning and extinction recorded at day 1 while the extinction recall and reinstate-
+ment was assessed at day 2. For SCR, no evidence for models including either a group effect
+or an interaction with group (stimulus × group, time × group, time × stimulus × group)
+during any task phase was observed. For the startle response, a trend toward higher startle
+amplitudes during extinction for OCD emerged (BF(10) = 0.224, d = 0.03).
+4. Discussion
+The literature review revealed noteworthy aspects despite the fact that the results
+obtained by various researchers are sometimes discordant. In particular, the research
+conducted by Havnen et al. [64], Pittig et al. [68], and Olbrich et al. [61] showed a general
+condition of sympathetic activation in patients diagnosed with OCD. The ﬁrst study pre-
+cisely described how a mental task requiring the involvement of fronto-executive skills,
+and in particular the inhibitory control, promotes the maintenance of the physiological
+hyperactivation in a group of patients with OCD. Moreover, poor parasympathetic acti-
+vation correlates with obsessive–compulsive symptoms. Similar results were observed
+by Pittig et al. [ 68] in the same year. These authors described poor involvement of the
+parasympathetic branch of the ANS in OCD subjects both at rest and under two different
+and opposite experimental conditions (relaxation and hyperventilation). According to these
+authors, the patients’ psychophysiological proﬁle was similar to that of a group of anxious
+subjects. From these results it may be concluded that OCD is considered in all respects a
+facet of anxiety disorders. Finally, the study by Olbrich et al. [61] compared OCD subjects
+with control subjects and showed that even in a 15-min resting recording the patients were
+hyperactive when considering cardiac function parameters (HR and HRV).
+On the other hand, opposite results were described by Pruneti and colleagues in 2014
+and 2016 [ 66,67]. Speciﬁcally, in 2016, the authors observed the trend of different psy-
+chophysiological parameters (HR, SCL-SCR) as well as frontal muscle tension. Through the
+performance of a comparison between OCD, PD, GAD, MDE, AN, and controls, previous
+studies were conﬁrmed [73–76]. More speciﬁcally, it emerged that the proﬁle of OCD was
+very similar to that of depressed and anorexic patients, while it differed from anxious disor-
+ders considering both the HR and the SCR. In contrast, considering the muscle tension, all
+patients reported signiﬁcantly different and higher values in comparison with the healthy
+group. Two years earlier, the same authors considered only the skin conductance parameter
+and did not involve healthy subjects. A signiﬁcantly different value between OCD and
+anxiousness was observed, but other considerations were possible even at a descriptive
+level. For instance, psychophysiological values of OCDs were within the normal range in all
+of the three phases of detection (baseline, stress, and recovery), although they differed from
+controls by an albeit slight reactivity to the stressful stimulus and difﬁculty in inhibiting
+psychophysiological activation and recovering the pre-stress level of rest.
+Furthermore, other studies in the literature investigated the psychophysiological
+activation in patients with OCD in terms of sympathetic indices such as GSR and sEMG. For
+
+[W4319018769 PDF PAGE 10]
+Nutrients 2023, 15, 755 10 of 16
+example, the study conducted by Witton et al. in 2015 [70] found that there are differences
+between the subjective and objective responses of patients with OCD and controls. The
+data showed that there was a dissociation between perception and autonomic activation in
+subjects with OCD in a scientiﬁc paradigm that proposed stimuli with body waste images.
+However, it is not the ﬁrst time that a dissociation between explicit and implicit measures
+has emerged [77]. The dissociation between psychophysiological and cognitive aspects
+was also reported by the research conducted by Milad and colleagues [ 65] in which the
+responses of patients with OCD were compared with those of healthy subjects in a fear
+extinction paradigm. Consistent with theories supporting the inhibition deﬁcit, it was
+found that some brain areas responsible for inhibitory control remained activated despite
+the visible recovery at the psychophysiological level. In addition, a similar paradigm was
+implemented in the study by Pöhlchen et al. [ 69]. These researchers investigated some
+components of skin conductance in a fear conditioning task and found that only subtle
+differences at the level of galvanic response could be detected.
+In summary, despite the divergent results and conﬂicting opinions among researchers,
+it appears that an autonomic impairment characterizes patients with OCD. The studies of
+Witton et al. [70], Pittig et al. [68], and Olbrich et al. [61] fully support the theories of the
+inhibitory deﬁcit because the physiological parameters connected to the cardiac function
+described a scarce vagal activity. However, some clinical considerations can be observed
+in the studies of Pruneti et al. [66,67] who carried out a psychophysiological assessment
+by detecting various physiological parameters. In particular, HR and SCR appear to be
+signiﬁcantly lower in patients with OCD than in anxious subjects vs. healthy controls,
+and their condition is very similar to the hypoactivation typical of depression and severe
+anorexic syndromes. However, in 2014, the same authors highlighted the slight reactivity
+to stressful stimuli in patients with OCD and the signiﬁcant and marked difﬁculty in
+relaxing. In other words, this study

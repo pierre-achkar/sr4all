@@ -1,0 +1,157 @@
+tes of Health. The
+content is solely the responsibility of the authors and does no t
+necessarily represent the oﬃcial views of the National Instit utes
+of Health.
+SUPPLEMENTARY MATERIAL
+The Supplementary Material for this article can be found
+online at: https://www.frontiersin.org/articles/10.3389/fonc.
+2019.00186/full#supplementary-material
+Table S1 |This table depicts the search algorithms used for this syste matic review
+and the number of results obtained for each database. For the EMBASE
+database, searches are built from the bottom up, starting wi th phrase #1. The ﬁnal
+search is bolded at the top (#15) and includes all of the prior phrases.
+REFERENCES
+1. Thakkar JP , Dolecek TA, Horbinski C, Ostrom QT, Lightner DD,
+Barnholtz-Sloan JS, et al. Epidemiologic and molecular prognostic review
+of glioblastoma.Cancer Epidemiol Biomarkers Prev . (2014) 23:1985–96.
+doi: 10.1158/1055-9965.EPI-14-0275
+2. Stupp R, Mason WP , van den Bent MJ, Weller M, Fisher B, Taphoorn MJ , et al.
+Radiotherapy plus concomitant and adjuvant temozolomide for glioblas toma.
+New Engl J Med. (2005) 352:987–96. doi: 10.1056/NEJMoa043330
+3. Davis ME. Glioblastoma: overview of disease and treatment. Clin J Oncol Nurs .
+(2016) 20(5 Suppl.):S2–8. doi: 10.1188/16.CJON.S1.2-8
+4. Choi N, Baumann M, Flentjie M, Kellokumpu-Lehtinen P , Senan
+S, Zamboglou N, et al. Predictive factors in radiotherapy for non-
+small cell lung cancer: present status.Lung Cancer . (2001) 31:43–56.
+doi: 10.1016/S0169-5002(00)00156-2
+5. Froud PJ, Mates D, Jackson JS, Phillips N, Andersen S, Jackson S M, et al. Eﬀect
+of time interval between breast-conserving surgery and radiati on therapy on
+ipsilateral breast recurrence. Int J Radiation Oncol Biol Phys . (2000) 46:363–72.
+doi: 10.1016/S0360-3016(99)00412-5
+6. Ampil FL, Buechter KJ, Bairnsfather LE, Shockley WW. Timing and
+dosage of postoperative radiotherapy for squamous cell carcinoma of
+the upper aerodigestive tract.J Oral Maxillofac Surg. (1993) 51:1194–97.
+doi: 10.1016/S0278-2391(10)80287-3
+7. Bastit L, Blot E, Debourdeau P , Menard J, Bastit P , Le Fur R. Inﬂ uence of
+the delay of adjuvant postoperative radiation therapy on relapse and su rvival
+in oropharyngeal and hypopharyngeal cancers. Int J Radiat Oncol Biol Phys.
+(2001) 49:139–46. doi: 10.1016/S0360-3016(00)01376-6
+8. Kirkby NF, Jeﬀeries SJ, Jena R, Burnet NG. A mathematical model of the
+treatment and survival of patients with high-grade brain tumours. J Theor Biol.
+(2007) 245:112–24. doi: 10.1016/j.jtbi.2006.09.007
+9. Farace P , Amelio D, Ricciardi GK, Zoccatelli G, Magon S, Pizzini F , et
+al. Early MRI changes in glioblastoma in the period between surgery and
+adjuvant therapy.J Neurooncol . (2013) 111:177–85. doi: 10.1007/s11060-012-
+0997-y
+10. Han SJ, Englot DJ, Birk H, Molinaro AM, Chang SM, Clarke JL, et al. Impa ct
+of timing of concurrent chemoradiation for newly diagnosed glioblas toma: a
+critical review of current evidence. Neurosurgery. (2015) 62(Suppl. 1):160–5.
+doi: 10.1227/NEU.0000000000000801
+11. Irwin C, Hunn M, Purdie G, Hamilton D. Delay in radiotherapy shortens
+survival in patients with high grade glioma. J Neurooncol . (2007) 85:339–43.
+doi: 10.1007/s11060-007-9426-z
+12. Glinski B, Urbanski J, Hetnał M, Małecki K, Jarosz M, Mucha-Ma łecka A,
+et al. Prognostic value of the interval from surgery to initiation of radiation
+therapy in correlation with some histo-clinical parameters in patients with
+malignant supratentorial gliomas. Contemp Oncol (Pozn). (2012) 16:34–7.
+doi: 10.5114/wo.2012.27334
+13. Do V , Gebski V , Barton M. The eﬀect of waiting for radiotherapy
+for grade III/IV gliomas. Radiother Oncol . (2000) 57: 131–6.
+doi: 10.1016/S0167-8140(00)00257-7
+14. Lai R, Hershman DL, Doan T, Neugut AI. The timing of cranial radi ation in
+elderly patients with newly diagnosed glioblastoma multiforme. Neuro Oncol.
+(2010) 12:190–8. doi: 10.1093/neuonc/nop004
+15. Noel G, Huchet A, Feuvret L, Maire JP , Verrelle P , Le Rhun E, et al. Wa iting
+times before initiation of radiotherapy might not aﬀect outcomes fo r patients
+with glioblastoma: a French retrospective analysis of patients treate d in the
+era of concomitant temozolomide and radiotherapy . J Neurooncol . (2012)
+109:167–75. doi: 10.1007/s11060-012-0883-7
+16. Lutterbach J, Weigel P , Guttenberger R, Hinkelbein W. Acce lerated
+hyperfractionated radiotherapy in 149 patients with glioblastoma mult iforme.
+Radiother Oncol. (1999) 53:49–52. doi: 10.1016/S0167-8140(99)00128-0
+17. Blumenthal DT, Won M, Mehta MP , Curran WJ, Souhami L, Michalski J M, et
+al. Short delay in initiation of radiotherapy may not aﬀect outcome of patients
+with glioblastoma: a secondary analysis from the radiation therapy on cology
+group database. J Clin Oncol . (2009) 27:733–9. doi: 10.1200/JCO.2008.
+18.9035
+18. Wehming FM, Wiese B, Nakamura M, Bremer M, Karstens JH, Meyer A.
+Malignant glioma grade 3 and 4: how relevant is timing of radiotherapy? Clin
+Neurol Neurosurg. (2012) 114:617–21. doi: 10.1016/j.clineuro.2011.12.024
+Frontiers in Oncology | www.frontiersin.org 8 March 2019 | Volume 9 | Article 186
+
+[W2923837819 PDF PAGE 9]
+Warren et al. Timing of Chemoradiation in High-Grade Glioma
+19. Moher D, Liberati A, Tetzlaﬀ J, Altman DG, PRISMA Group. Preferred
+reporting items for systematic reviews and meta-analyses: the prisma
+statement.PLoS Med. (2009) 6:e1000097. doi: 10.1371/journal.pmed.1000097
+20. Viswanathan M, Ansari MT, Berkman ND, Chang S, Hartling L, McPh eeters
+M, et al. Assessing the risk of bias of individual studies in sys tematic reviews
+of health care interventions. Agency for Healthcare Research and Quality
+Methods Guide for Comparative Eﬀectiveness Reviews. Rockville, MD:Agency
+for Healthcare Research and Quality (US) (2012).
+21. Cota GF, de Sousa MR, Fereguetti TO, Rabello A. The Newcastle-Ottawa Scale
+(NOS) for Assessing the Quality of Nonrandomised Studies in M eta-Analyses.
+Ottawa, ON: Ottawa Hospital Research Institute (2000).
+22. Mazaris P , Hong X, Altshuler D, Schultz L, Poisson LM, Jain R, et a l.
+Key determinants of short-term and long-term glioblastoma survival: a
+14-year retrospective study of patients from the Hermelin Brain Tumor
+Center at Henry Ford Hospital.Clin Neurol Neurosurg. (2014) 120:103–12.
+doi: 10.1016/j.clineuro.2014.03.001
+23. Brown TJ, Brennan MC, Li M, Church EW, Brandmeir NJ, Rakszawsk i KL,
+et al. Association of the extent of resection with survival in g lioblastoma:
+a systematic review and meta-analysis. JAMA Oncol. (2016) 2:1460–9.
+doi: 10.1001/jamaoncol.2016.1373
+24. Ma X, Lv Y, Liu J, Wang D, Huang Q, Wang X, et al. Survival
+analysis of 205 patients with glioblastoma multiforme: clinical charac teristics,
+treatment and prognosis in China. J Clin Neurosci . (2009) 16:1595–8.
+doi: 10.1016/j.jocn.2009.02.036
+25. Blumenthal DT, Won M, Mehta MP , Gilbert MR, Brown PD, Bokstein F , et
+al. Short delay in initiation of radiotherapy for patients with gliob lastoma-
+eﬀect of concurrent chemotherapy: a secondary analysis from the NRG
+Oncology/Radiation Therapy Oncology Group database.Neuro Oncol. (2018)
+20:966–74. doi: 10.1093/neuonc/noy017
+26. Adeberg S, Bostel T, Harrabi S, Bernhardt D, Welzel T, Wick W, et
+al. Impact of delays in initiating postoperative chemoradiation while
+determining the MGMT promoter-methylation statuses of patients with
+primary glioblastoma. BMC Cancer. (2015) 15:558. doi: 10.1186/s12885-015-
+1545-x
+27. Han SJ, Rutledge WC, Molinaro AM, Chang SM, Clarke JL, Prados MD,
+et al. The Eﬀect of timing of concurrent chemoradiation in patients w ith
+newly diagnosed glioblastoma. Neurosurgery. (2015) 77:248–53; discussion
+253. doi: 10.1227/NEU.0000000000000766
+28. Louvel G, Metellus P , Noel G, Peeters S, Guyotat J, Duntze J, et al. Delaying
+standard combined chemoradiotherapy after surgical resection doe s not
+impact survival in newly diagnosed glioblastoma patients. Radiother Oncol.
+(2016) 118:9–15. doi: 10.1016/j.radonc.2016.01.001
+29. Nathan JK, Brezzell AL, Kim MM, Leung D, Wilkinson DA, Hervey-
+Jumper SL. Early initiation of chemoradiation following index cranio tomy is
+associated with decreased survival in high-grade glioma. J Neurooncol. (2017)
+135:325–33. doi: 10.1007/s11060-017-2577-7
+30. Osborn VW, Lee A, Garay E, Safdieh J, Schreiber D. Impact of timin g
+of adjuvant chemoradiation for glioblastoma in a large hospital dat abase.
+Neurosurgery. (2017) 83:915–21. doi: 10.1093/neuros/nyx497
+31. Pollom EL, Fujimoto DK, Han SS, Harris JP , Tharin SA, Soltys SG. Ne wly
+diagnosed glioblastoma: adverse socioeconomic factors correlate with delay
+in radiotherapy initiation and worse overall survival. J Radiat Res . (2018)
+59(suppl_1): p. i11-i18. doi: 10.1093/jrr/rrx103
+32. Sun MZ, Oh T, Ivan ME, Clark AJ, Safaee M, Sayegh ET, et al. Surv ival impact
+of time to initiation of chemoradiotherapy after resection of newly diagnosed
+glioblastoma. J Neurosurg. (2015) 122:1144–50. doi: 10.3171/2014.9.JNS14193
+33. Wang TJ, Jani A, Estrada JP , Ung TH, Chow DS, Soun JE, et al. Timin g
+of adjuvant radiotherapy in glioblastoma patients: a single-instit ution
+experience with more than 400 patients. Neurosurgery. (2016) 78:676–82.
+doi: 10.1227/NEU.0000000000001036
+34. Hulshof MC, Koot RW, Schimmel EC, Dekker F, Bosch DA, González
+González D. Prognostic factors in glioblastoma multiforme. 10 years
+experience of a single institution.Strahlenther Onkol. (2001) 177:283–90.
+doi: 10.1007/s00066-001-0834-2
+35. Hegi ME, Diserens AC, Gorlia T, Hamou MF, de Tribolet N, Weller M, et a l.
+MGMT gene silencing and beneﬁt from temozolomide in glioblastoma. New
+Engl J Med. (2005) 352:997–1003. doi: 10.1056/NEJMoa043331
+36. Patel DM, Agarwal N, Tomei KL, Hansberry DR, Goldstein IM.
+Optimal timing of whole-brain radiation therapy following craniotomy
+for cerebral malignancies.World Neurosurg . (2015) 84:412–9.
+doi: 10.1016/j.wneu.2015.03.052
+37. Lawrence YR, Blumenthal DT, Matceyevsky D, Kanner AA, Bokst ein F, Corn
+BW. Delayed initiation of radiotherapy for glioblastoma: how importan t is it
+to push to 

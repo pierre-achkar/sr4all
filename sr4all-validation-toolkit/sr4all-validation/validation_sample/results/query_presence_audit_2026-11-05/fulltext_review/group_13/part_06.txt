@@ -1,0 +1,228 @@
+ measured CHE based 
+solely on capacity to pay.
+Only seven studies used both methods of 
+calculation (total income and capacity to pay) 
+and compared the result on the prevalence of 
+CHE derived from the two different methods. 
+Six of these studies were conducted on middle-
+income countries and one investigated a low-
+income country. 
+Thus a total of 11 studies used total income 
+to calculate CHE (12, 19, 23, 24, 26, 28, 30, 34, 
+44, 46, 49). Six studies used a cut-off point 
+ranging from 5% to 20% of total income (12, 23, 
+24, 26, 28, 44), while five used a cut-off point, 
+i.e. 10% of total income. It is difficult to compare 
+the results on the prevalence of CHE reported in 
+these studies not only due to the different cut-off  
+points used in the CHE calculation, but also due 
+to the wide time frame (1986–2016) covered by 
+the included studies.
+A total of 34 studies used capacity to pay to 
+calculate CHE. Ten used a cut-off point ranging 
+from 10% to 60%, which again makes it difficult 
+to make a comparison across studies. The other 
+
+[W2920277606 PDF PAGE 23]
+www.mjms.usm.my
+37
+Review Article | Determinants of catastrophic health expenditure
+person, presence of a disabled person and 
+presence of a household member with a chronic 
+illness were found to be consistently significant 
+in all studies and regardless of the economic 
+status of the country.
+Hospitalisation (inpatient care) was 
+identified as an important determinant as it 
+consumes a high share of OOP payments made 
+by households and leads to financial hardship 
+(12, 15–17, 19–22, 26, 33, 35–39, 48–50).
+The presence of an elderly person in a 
+household also significantly increases the 
+probability of that household incurring CHE. 
+This greater probability is associated with the 
+greater need for, and utilisation of, healthcare 
+services by the older generation compared to 
+younger age groups (23). Although there is 
+an increasing ageing population globally, the 
+healthcare system in low- and middle-income 
+countries still does not have sufficient resources 
+to provide the necessary social safety net for the 
+needs of this group. Similarly, the presence of a 
+disabled person in the household increases the 
+risk of experiencing CHE. A disabled person 
+generally has a higher demand for health care, 
+as identified by several studies. Also, health 
+care for chronic illnesses was also found to be 
+a significant determinant of financial hardship 
+and cope with financial expenses, including 
+those for health care. Employment status was 
+also found to be significant in many studies 
+(12, 16, 19–21, 27–29, 33, 39, 40) that found 
+heads of household who are not working or are 
+self-employed are at a greater risk of incurring 
+CHE as they have no regular income. This was 
+supported by another finding identified in this 
+review, namely that households headed by a 
+woman had a higher probability of CHE in 
+high- and middle-income countries (17, 23, 44). 
+However, the gender of the head of household 
+was not identified as a significant factor in the 
+studies on low-income countries. This may be 
+due to the fact that in low-income countries 
+women are usually less educated and not able 
+to ensure a sustainable income. The importance 
+of the education of women head of household 
+in the reduction in the likelihood of CHE is also 
+highlighted in the study conducted in India (20).
+The results for the influence of other 
+household and head of household characteristics 
+are varied depending on country and therefore 
+general conclusions cannot be drawn from them. 
+Nevertheless, it can be said that, apart from 
+the above three indicators of socioeconomic 
+inequality (income, education and employment 
+status), hospitalisation, presence of an elderly 
+Table 3. The role of the insurance in incurring CHE
+Income category Country  Insurance role 
+Middle China (2010) Significantly reduce CHE
+Middle Turkey (2010) Significantly reduce CHE
+Middle Brazil (2011) Risk factor
+Middle China (2011a) Not significant 
+Middle China (2011b) Risk factor
+Middle Colombia (2011) Significantly reduce CHE
+Middle China (2012) Significantly reduce CHE
+Middle Iran (2012a) Significantly reduce CHE
+Middle Iran (2012b) Not significant
+Middle Vietnam (2013) Significantly reduce CHE
+Middle Thailand (2013) Not significant
+Middle China (2013) Depends on the type of insurance scheme
+Middle West bank and Gaza (Palestine) (2013) Significantly  reduce CHE
+Middle China (2014) Depends on the type of insurance scheme
+Middle Turkey (2014a) Significantly  reduce CHE
+Middle Turkey (2014b) Significantly  reduce CHE
+High South Korea (2016) Not significant
+
+[W2920277606 PDF PAGE 24]
+Malays J Med Sci. Jan–Feb 2019; 26(1): 15–43
+www.mjms.usm.my
+38
+CHE with regards to healthcare payments to total 
+income was higher than the prevalence based on 
+capacity to pay. However, there is no universally 
+agreed cut-off point for calculating CHE, so 
+researchers use a cut-off point of their own 
+choosing, which limits comparability between 
+studies. However, the most frequently used cut-
+off points are 10% of household income and 40% 
+of household capacity to pay.  
+It is also necessary to reach a consensus 
+on a single method of defining CHE (either 
+based on income or capacity to pay). Hence, to 
+validate these two methods, it would be useful 
+to conduct further studies that define CHE by 
+using both methods as in previous research 
+conducted in Thailand (19), India (34) and Brazil 
+(44). Furthermore, qualitative studies should be 
+undertaken on households by using an in-depth 
+interview approach to identify their perceived 
+financial hardship and coping strategies. An 
+analysis of the interviews would help to identify 
+a method that is both sensitive and rational that 
+can accurately capture the financial catastrophe 
+experienced by households.
+Thirdly, the role of insurance was found 
+to vary among the included studies. In China, 
+there are three government insurance schemes, 
+the New Rural Cooperative Medical Scheme 
+for rural residents and the Urban Employee 
+Basic Medical Insurance Scheme and Urban 
+Resident Basic Medical Insurance Scheme for 
+urban residents (21). The prevalence of CHE 
+was found to depend on the type of insurance 
+scheme that the household had; the urban health 
+insurance is protective while the rural one is 
+a positive predictor that increases the risk of 
+CHE. One study reported that enrolment in the 
+rural insurance scheme had no effect on CHE 
+prevalence among households when compared 
+to those without insurance, and a possible 
+explanation for this result is the limited coverage 
+for outpatient, self-treatment and traditional 
+medicine treatment (56).  
+The difference in the prevalence rate of 
+CHE is not only related to the availability of 
+health insurance, but also to the sampling 
+used in the study design. For instance, in 
+Thailand, the UHC policy consists of three 
+major government schemes: the Civil Servant 
+Medical Benefit Scheme, the Social Security 
+Scheme, and the Universal Coverage Scheme, 
+which provide comprehensive outpatient and 
+inpatient coverage through somewhat different 
+benefit packages (19). If the sample consists only 
+of poor urban households, there is likely to be a 
+(15, 18–20, 22, 24, 28, 33, 39, 40, 47, 48, 50). 
+Responding to the healthcare demands of people 
+with a chronic illness is a common challenge in 
+many countries (53, 54). Moreover, the pandemic 
+of non-communicable diseases (NCDs) has 
+been a serious wake-up call for the healthcare 
+systems of various countries. As many NCDs are 
+chronic in nature and a major cause of mortality 
+all over the world, there is an urgent need to 
+identify evidence-based innovative strategies 
+for the prevention and control of NCDs, and to 
+strengthen healthcare systems to meet the higher 
+healthcare costs of prolonged treatment. Thus, 
+providing a safety net for vulnerable persons (the 
+elderly, the disabled and those with a chronic 
+illness) and the households of which they are 
+part should be seriously considered as a crucial 
+issue in financing health care and achieving 
+UHC.
+The majority of the selected studies used 
+the same econometric models to assess the 
+determinants of CHE. However, several studies 
+used different methods and cut-off points to 
+categorise the presence of CHE in households. 
+Therefore, standardisation of both the method 
+and measures used in studying this issue could 
+enable a more relevant and useful comparison of 
+the data across the globe. 
+Nevertheless, despite the methodological 
+differences in reporting CHE in the various 
+studies, some key points emerged from this 
+review. Firstly, even in high-income countries, 
+households still incur CHE (55). It is generally 
+assumed that households in low-income 
+countries have a higher risk of having CHE (8). 
+However, the findings of this review contradict 
+this assumption because the prevalence of 
+CHE in low-income countries is not that much 
+different from that in middle-income countries. 
+It is possible that many people in low-income 
+countries choose not to seek health care rather 
+than face the financial hardship associated 
+with healthcare payments. This supposition is 
+supported by the findings reported in the studies 
+on Burkina Faso and Iran, where households that 
+utilise more health care are more likely to incur 
+CHE (18, 36).
+Secondly, most of the studies identified 
+CHE based on household capacity to pay (15–
+22, 24–27, 29, 33–40, 44, 47–50), while a few 
+studies used the ratio of OOP to total household 
+income (12, 19, 23, 24, 26, 28, 34, 44, 46, 49). 
+Thirdly, the studies that used both methods of 
+calculation on the same sample population (19, 
+24, 26, 34, 44, 49) revealed that the prevalence of 
+
+[W2920277606 PDF PAGE 25]
+www.mjms.usm.my
+39
+Review Article | Determinants of catastrophic health expenditure
+demand for specialised and costly health 
+services that further escalates the inequality 
+of healthcare utilisation among the population 
+(44). I

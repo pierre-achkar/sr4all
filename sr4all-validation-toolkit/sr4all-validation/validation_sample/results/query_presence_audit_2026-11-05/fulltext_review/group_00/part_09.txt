@@ -1,0 +1,186 @@
+several lac-
+tose-free liquid feeds among children with persistent
+diarrhea and found a significant beneficial effect of the
+yogurt-based diet with respect to diarrhea duration and
+stool output [50]. However, the yogurt-based diet inad-
+vertently included a far higher concentration of zinc
+than any of the lactose-free diets. While the therapeutic
+dose of zinc may have been largely responsible for these
+results, any additional effects of the yogurt-based feed
+remain unknown.
+Additionally, beyond our analyses comparing the lac-
+tose-content of liquid feeds, we found insufficient evi-
+dence to meaningfully evaluate other strategies for
+reducing lactose intake rather than eliminating lactose
+from the diet altogether. The partial replacement of
+milk with staple foods such as cereals and legumes
+r e d u c e st h eo v e r a l ll a c t o s ec o n t e n to ft h ed i e t ,c a nb e t -
+ter maintain or increase energy and protein intake, and
+may also improve stool consistency due to higher fiber
+intake [35,51]. Results from a large multi-country cohort
+study conducted in Asia and Latin America in 1996 sug-
+gest that mixed diets comprised of local cereals, vegeta-
+ble oil and milk or yogurt can be used effectively in 65%
+(95%CI: 61%-70%) of young, malnourished children with
+persistent diarrhea [52]. In the present review, we
+sought to evaluate the evidence for using lactose-
+containing mixed diets compared to lactose-free liquid
+feeds for managing childhood diarrhea, but we found
+too few randomized controlled trials to enable such an
+evaluation. Further experimental evidence on both the
+use of acidified or fermented milk products and the use
+of milk-staple mixtures may confirm these feasible
+approaches as effective for managing diarrhea in chil-
+dren for whom lactose intake is problematic but for
+whom the complete avoidance of milk would pose sig-
+nificant nutritional risk.
+In our final set of analyses, we deliberately focused our
+inquiry on the pragmatic aspect of treating childhood
+diarrhea in low- and middle-income countries and we
+found no evidence to support the use of proprietary for-
+mulas or specialized ingredients over the use of locally
+produced and readily available foods in the treatment of
+either acute or persistent diarrhea. Moreover, this find-
+ing held even when we narrowed our analyses to studies
+in which both the commercial/specialized diets and the
+home-available diets were lactose-free. Notably, we
+found evidence suggesting that weight gain during acute
+diarrhea was better among children being fed lactose-
+free home-available ingredients than among those con-
+suming lactose-free commercial/specialized diets. The
+practical implication of these findings is extremely
+important for resource-constrained settings generally
+and should inform efforts to improve home-based man-
+agement of childhood diarrhea in particular.
+In summary, the results of our analyses suggest that
+lactose reduction among children consuming lactose-
+containing liquid feeds has little effect on clinical out-
+comes in childhood diarrhea, but the avoidance of lactose
+altogether may be important in some cases. However,
+further evidence is needed to fully assess the potential
+clinical and nutritional effects of reducing lactose intake
+through the use of yogurt or milk-staple mixtures rather
+than by eliminating milk from the diet entirely. Finally,
+and perhaps most importantly, our analyses indicate that
+diets comprised of home-available ingredients can be
+used at least as effectively as diets comprised of commer-
+cial preparations or specialized ingredients for managing
+both acute and persistent diarrhea, even among those
+children from whom lactose avoidance may be necessary.
+Our review suffers from somelimitations. The dietary
+comparisons made in many existing studies on dietary
+management of childhood diarrhea were not compatible
+with the comparisons we ultimately identified for this
+review and were therefore not included (Additional File 3).
+Other approaches that have been evaluated by randomized
+controlled trial in low- and middle-income settings include
+the use of amylase-rich flours in cereal-based porridges to
+decrease viscosity and thus increase nutrient density and
+children’s nutrient intake [53-55], and incorporating into
+mixed diets specific ingredients thought or known to have
+antidiarrheal properties, such as green banana [56,57].
+A synthesis of the evidence for the full range of manage-
+ment options would best inform guidelines for optimal
+diet selection for childhood diarrhea treatment. It would
+also have been useful to investigate other dietary charac-
+teristics such as fibre content or osmolality, but there were
+insufficient data available across studies to enable this.
+Additionally, all but one [16] of the 29 studies that we
+included in our review were conducted in 1999 or earlier
+and only six studies [18,37,38,40,41,47] focused on persis-
+tent diarrhea. However, rather than a consequence of our
+review methods, we believe this limitation is almost
+Gaffey et al. BMC Public Health2013, 13(Suppl 3):S17
+http://www.biomedcentral.com/1471-2458/13/S3/S17
+Page 14 of 16
+
+[W1634166831 PDF PAGE 15]
+certainly a consequence of the limited attention paid to
+childhood diarrhea in recent years.
+Conclusions
+Continued feeding is important for limiting the nutri-
+tional consequences of decreased intake, digestion and
+absorption of essential nutrients during diarrheal illness.
+Among children in low- and middle-income countries,
+where the dual burden of diarrhea and malnutrition is
+greatest and where access to proprietary formulas and
+specialized ingredients is limited, continued breastfeeding
+should be encouraged and the use of locally available age-
+appropriate foods should be promoted for the majority of
+acute diarrhea cases. Lactose intolerance is an important
+complication in some cases, but even among those chil-
+dren for whom lactose avoidance may be necessary,
+nutritionally complete diets comprised of locally available
+ingredients can be used as least as effectively as commer-
+cial preparations or specialized ingredients. These same
+conclusions may also apply to the dietary management of
+children with persistent diarrhea, but the evidence
+remains limited. Overall, our review is supportive of cur-
+rent WHO/UNICEF recommendations for continued
+breastfeeding and administration of home-available age-
+appropriate foods to children 6 to 59 months of age with
+diarrhea.
+Additional material
+Additional File 1: Electronic search strategy for Medline, Embase
+and AMED databases
+Additional File 2: Abstracted data from all 29 studies included in
+the quantitative data synthesis
+Additional File 3: Eligible studies not included in the quantitative
+data synthesis
+Additional File 4: Forest plots for all comparisons and outcomes
+Competing interests
+The authors declare that they have no competing interests.
+Authors’ contributions
+ZAB conceived of the study; MFG, KW and ZAB wrote the protocol; MFG
+and KW conducted the literature searches, abstracted the data and assessed
+study quality, with DGB resolving any discrepancies; MFG analyzed the data
+and wrote the first draft of the manuscript; all authors revised the draft and
+approved the final manuscript.
+Declarations
+The publication costs for this supplement were funded by a grant from the
+Bill & Melinda Gates Foundation to the US Fund for UNICEF (grant 43386 to
+“Promote evidence-based decision making in designing maternal, neonatal,
+and child health interventions in low- and middle-income countries”). The
+Supplement Editor is the principal investigator and lead in the development
+of the Lives Saved Tool (LiST), supported by grant 43386. He declares that
+he has no competing interests.
+This article has been published as part ofBMC Public HealthVolume 13
+Supplement 3, 2013: The Lives Saved Tool in 2013: new capabilities and
+applications. The full contents of the supplement are available online at
+http://www.biomedcentral.com/bmcpublichealth/supplements/13/S3.
+Authors’ details
+1Centre for Global Child Health, The Hospital for Sick Children, Toronto, ON,
+Canada. 2Dalla Lana School of Public Health, University of Toronto, Toronto,
+ON, Canada. 3Department of Paediatrics, University of Toronto, Toronto, ON,
+Canada. 4Division of Women and Child Health, Aga Khan University Hospital,
+Karachi, Pakistan.
+Published: 17 September 2013
+References
+1. Liu L, Johnson HL, Cousens S, Perin J, Scott S, Lawn JE, Rudan I,
+Campbell H, Cibulskis R, Li M,et al: Global, regional, and national causes
+of child mortality: an updated systematic analysis for 2010 with time
+trends since 2000.Lancet 2012, 379(9832):2151-2161.
+2. UNICEF/WHO: Joint statement: clinical management of acute diarrhoea.
+New York and Geneva: United Nations Children’s Fund and the World
+Health Organization; 2004, 8.
+3. UNICEF/WHO: Diarrhoea: why children are still dying and what can be
+done. New York and Geneva: United Nations Children’s Fund and the
+World Health Organization; 2009, 58.
+4. Chung AW, Viscorova B: The effect of early oral feeding versus early oral
+starvation on the course of infantile diarrhea.The Journal of Pediatrics
+1948, 33(1):14-22.
+5. Brown KH: Dietary management of acute childhood diarrhea: Optimal
+timing of feeding and appropriate use of milks and mixed diets.Journal
+of Pediatrics 1991, 118(4 II SUPPL.):S92-S98.
+6. Murphy MS: Guidelines for managing acute gastroenteritis based on a
+systematic review of published research.Archives of Disease in Childhood
+1998, 79(3):279-284.
+7. Gregorio GV, Dans LF, Silvestre MA: Early versus delayed refeeding for
+children with acute diarrhoea.Cochrane Database Syst Rev2011, , 7:
+CD007296.
+8. Duggan C, Nurko S: “Feeding the gut": the scientific basis for continued
+enteral nutrition during acute diarrhea.The Journal of pediatrics1997,
+131(6):801-808.
+9. Bhutta ZA, Hendricks KM: Nutritional management of persistent diarrhea
+in childhood: a perspective from the developing world.Journal of
+Pediatric Gastroenterology an

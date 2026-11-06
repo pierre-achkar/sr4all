@@ -1,0 +1,164 @@
+ variation in terms of the methodology,
+mainly concerning sample collection/storage, time interval from
+collection to analysis and techniques utilized to extract and
+study the biomarkers of interest. The data from a majority of
+human studies do not take into account extrinsic factors such
+as collection and storage of samples which do not account for
+degradation of biomarkers. Moreover, important clinical informa-
+tion including the use of antibiotics, immunosuppressants includ-
+ing corticosteroids or anti-biologicals was not included. Given the
+extensive number of biomarkers and genes analysed in the
+included studies, there was limited concordance to suggest a
+strong correlation between NPWT and regulation of many bio-
+markers. The time-points at which these biomarkers were studied
+also varied significantly among studies. It has also been suggested
+that the magnitude of negative pressure employed is likely to
+influence blood flow, which in turn influences the degree of hyp-
+oxia and reperfusion. This has been shown to alter the expression
+of mechanosensitive genes (Refs10, 71).
+There were some discrepancies between animal and human
+studies especially with respect to the regulation of MMP and
+IL-6. Although the animal studies address most of these issues,
+the extrapolation of this data to predict clinical biological response
+is not appropriate. Although in-vitro studies using human cell
+lines have the potential to circumvent these concerns, only
+three studies have been conducted over the last 10 years. Only
+two out of three studies studied the effects of NPWT on human
+derived cell lines and analysed a completely different set of bio-
+markers via different methodologies. Although we have a better
+understanding of the primary and secondary mechanisms of
+action of NPWT, namely: macrodeformation, cellular prolifer-
+ation, differentiation, cell migration, angiogenesis and neurogen-
+esis, a comprehensive temporal expression profile of most
+biomarker changes with NPWT remains elusive. However,
+VEGF was elevated in all 7 reports which had studied its effects.
+Tumour necrosis Factor alpha (TNFα) was downregulated in 5
+out of 8 studies, Transforming Growth Factor Beta (TGFβ)w a s
+upregulated in 4 out of 7 studies, and Fibronectin was upregulated
+in both studies which evaluated its effects.
+In conclusion, NPWT stimulates modulation of numerous
+local and circulating cytokines and growth factor expressions to
+promote an anti-inflammatory profile. This is most likely
+achieved by downregulation of TNFα, upregulation of VEGF,
+TGF-β and fibronectin. This review has also identified many
+other biomarkers and gene expressions of interest with regard
+NPWT actions which may help to direct future research in this
+field.
+Supplementary material. The supplementary material for this article can
+be found athttps://doi.org/10.1017/erm.2023.24.
+Acknowledgements. The authors would like to thank the Academic vascu-
+lar Surgical Unit at Hull Royal Infirmary for their support with this article.
+Funding statement. None.
+Competing interest. None.
+Data availability statement. The data that support the findings of this
+study are available from the corresponding author,[BR], upon reasonable
+request. This paper was shortlisted for the ESVS Prize poster session at the
+Annual Meeting of the European Society of Vascular Surgery at Rome, Italy
+in September 2022.
+Ethical standards. None.
+References
+1. Chetter ICet al. (2017). A survey of patients with surgical wounds healing
+by secondary intention; an assessment of prevalence, aetiology, duration and
+management. Journal of Tissue Viability[Internet]. [cited 2022 Aug 27];
+26,1 0 3– 107. Available athttps://pubmed.ncbi.nlm.nih.gov/28049612/
+2. Chetter I et al. (2019) Surgical wounds healing by secondary intention:
+characterising and quantifying the problem, identifying effective treat-
+ments, and assessing the feasibility of conducting a randomised controlled
+trial of negative pressure wound therapy versus usual care.
+3. Armstrong DG and Andros G(2012) Use of negative pressure wound
+therapy to help facilitate limb preservation. International Wound
+Journal [Internet]. [cited 2022 Aug 27]; 9(suppl. 1), 1– 7. Available at
+https://onlinelibrary.wiley.com/doi/full/10.1111/j.1742-481X.2012.01015.x
+4. Using negative pressure therapy in wound healing |Nursing Times
+[Internet]. [cited 2022 Aug 27]. Available at https://www.nursingtimes.
+net/clinical-archive/tissue-viability/using-negative-pressure-therapy-in-wound-
+healing-31-08-2012/
+5. Peinemann F and Sauerland S(2011) Negative-pressure wound therapy:
+systematic review of randomized controlled trials. Deutsches Arzteblatt
+International [Internet]. [cited 2022 Aug 27];108, 381– 389. Available at
+https://pubmed.ncbi.nlm.nih.gov/21712971/
+6. Liu Z et al. (2018) Negative pressure wound therapy for treating foot
+wounds in people with diabetes mellitus. The Cochrane Database of
+Systematic Reviews [Internet]. [cited 2022 Aug 27]; 10. Available at
+https://pubmed.ncbi.nlm.nih.gov/30328611/
+7. Gao Jet al. (2021) Negative pressure wound therapy for surgical site infec-
+tions: a systematic review and meta-analysis.Journal of Advanced Nursing
+[Internet]. [cited 2022 Aug 27]; 77, 3980 – 3990. Available at https://
+pubmed.ncbi.nlm.nih.gov/33905552/
+8. Borgquist O, Ingemansson R and Malmsjö M(2011). The influence of
+low and high pressure levels during negative-pressure wound therapy on
+wound contraction and fluid evacuation. Plastic and Reconstructive
+Surgery 127, 551– 559.
+9. Kairinos N, Solomons M and Hudson DA(2010) The paradox of nega-
+tive pressure wound therapy--in vitro studies. Journal of Plastic,
+Reconstructive & Aesthetic Surgery: JPRAS [Internet]. [cited 2021 Oct
+28];63, 174– 179. Available athttps://pubmed.ncbi.nlm.nih.gov/19036656/
+10. Saxena V et al. (2004) Vacuum-assisted closure: microdeformations of
+wounds and cell proliferation. Plastic and Reconstructive Surgery
+[Internet]. [cited 2021 Oct 28]; 114, 1086– 1096. Available at https://
+pubmed.ncbi.nlm.nih.gov/15457017/
+8 Bharadhwaj Ravindhranet al.
+https://doi.org/10.1017/erm.2023.24 Published online by Cambridge University Press
+
+[W4387764535 PDF PAGE 9]
+11. Yang CC, Chang DS and Webb LX(2006) Vacuum-assisted closure for
+fasciotomy wounds following compartment syndrome of the leg.Journal
+of Surgical Orthopaedic Advances15,1 9– 23.
+12. Adámková M et al . (2005) First experience with the use of vacuum
+assisted closure in the treatment of skin defects at the burn center.Acta
+Chirurgiae Plasticae47 24– 27.
+13. Kim PJ et al. (2013) Negative-pressure wound therapy with instillation:
+international consensus guidelines. Plastic and Reconstructive Surgery
+132, 1569– 1579.
+14. Gerry R et al. (2007) Silver-impregnated vacuum-assisted closure in the
+treatment of recalcitrant venous stasis ulcers.Annals of Plastic Surgery
+59,5 8– 62.
+15. Orgill DPet al. (2009) The mechanisms of action of vacuum assisted clos-
+ure: more to learn.Surgery 146,4 0– 51.
+16. Ouzzani M et al. 2016). Rayyan – a web and mobile app for systematic
+reviews. Systematic Reviews [Internet]. [cited 2022 Apr 30]; 5, 210.
+Available athttps://link.springer.com/epdf/10.1186/s13643-016-0384-4.
+17. Moher Det al. (2016) Preferred reporting items for systematic review and
+meta-analysis protocols (PRISMA-P) 2015 statement.Revista Espanola de
+Nutricion Humana y Dietetica[Internet]. [cited 2022 Apr 30];20, 148–
+160. Available at https://systematicreviewsjournal.biomedcentral.com/
+articles/10.1186/2046-4053-4-1
+18. Risk of Bias Assessment tool for Non-randomized Studies (RoBANS):
+Development and validation of a new instrument | Colloquium Abstracts
+[Internet]. [cited 2022 Apr 30]. Available athttps://abstracts.cochrane.org/
+2011-madrid/risk-bias-assessment-tool-non-randomized-studies-robans-
+development-and-validation-new
+19. Sterne JACet al. (2019) RoB 2: a revised tool for assessing risk of bias in
+randomised trials. BMJ [Internet]. [cited 2022 Apr 30]; 366, I4898.
+Available athttps://pubmed.ncbi.nlm.nih.gov/31462531/.
+20. Office of Health Assessment and Translation (OHAT)(2019) Handbook
+for conducting a literature-based health assessment using OHAT approach
+for systematic review and evidence integration: National Institute of
+Environmental Health Sciences; Available at https://ntp.niehs.nih.gov/
+ntp/ohat/pubs/handbookmarch2019_508.pdf
+21. Hooijmans CRet al. (2014) SYRCLE’s risk of bias tool for animal studies.
+BMC Medical Research Methodology14, 43.
+22. McGuinness LA and Higgins JPT(2021) Risk-of-bias VISualization (rob-
+vis): an R package and shiny web app for visualizing risk-of-bias assessments.
+Research Synthesis Methods[Internet]. [cited 2022 May 8]; 12,5 5– 61.
+Available athttps://onlinelibrary.wiley.com/doi/full/10.1002/jrsm.1411
+23. Arslan E et al . (2011) Vacuum-assisted closure therapy leads to an
+increase in plasma fibronectin level. International Wound Journal
+[Internet].[cited 2023 Feb 18];8, 224– 228. Available at https://pubmed.
+ncbi.nlm.nih.gov/21401882/
+24. Borys Set al. (2018) Negative-pressure wound therapy for management of
+chronic neuropathic noninfected diabetic foot ulcerations– short-term
+efficacy and long-term outcomes. Endocrine [Internet]. [cited 2023 Feb
+18];62, 611– 616. Available athttps://pubmed.ncbi.nlm.nih.gov/30099674/
+25. Stechmiller JKet al. (2006) Effect of vacuum-assisted closure therapy on
+the expression of cytokines and proteases in wound fluid of adults with
+pressure ulcers. Wound Repair and Regeneration[Internet]. 2006 [cited
+2021 Nov 16]; 14, 371– 373. Available at https://pubmed.ncbi.nlm.nih.
+gov/16808818/
+26. Eisenhardt SUet al. (2012) Negative pressure wound therapy reduces the
+ischaemia/reperfusion-associated inflammatory response in free muscle
+flaps. Journal of Plastic, Reconstructive & Aesthetic Surgery: JPRAS
+[Internet]. [cited 2021 Nov 16]; 65, 640 – 649. Available at https://
+pubmed.ncbi.nlm.nih.gov/22137686/
+27. Labler L et al. (2006). Wound conditioning by vacuum assisted closure
+(V.A.C.) in postoperative infect

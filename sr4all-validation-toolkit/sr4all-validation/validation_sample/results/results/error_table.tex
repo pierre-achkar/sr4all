@@ -1,0 +1,20 @@
+\begin{table}[t]
+\centering
+\caption{Provisional annotator-reported error categories for extracted fields. Counts are unique document--field units within each category, not individual query items or annotator votes. Categories are non-exclusive. Unresolved flags are not confirmed errors.}
+\begin{tabular}{p{0.47\linewidth}rrr}
+\toprule
+Reported category & Partial & Incorrect & Unresolved \\
+\midrule
+OCR corruption & 0 & 0 & 4 \\
+hallucinated span & 1 & 0 & 0 \\
+other & 20 & 7 & 12 \\
+truncated / partial value & 155 & 2 & 66 \\
+value not supported by span & 0 & 0 & 14 \\
+wrong normalization & 1 & 0 & 0 \\
+wrong parentheses / punctuation & 2 & 0 & 1 \\
+wrong term & 2 & 1 & 4 \\
+wrong value & 7 & 11 & 9 \\
+\bottomrule
+\end{tabular}
+\label{tab:validation-errors}
+\end{table}

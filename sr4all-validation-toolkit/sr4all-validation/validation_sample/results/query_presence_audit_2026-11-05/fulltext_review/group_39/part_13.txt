@@ -1,0 +1,104 @@
+ature differences in degrees Celsius before total knee arthroplasty (pre-
+TKA) and for each follow up time point (post-TKA) as well as the statistical results of the comparisons between 
+these time-points. Bars = pooled weighted mean ± standard error of the mean by meta-analysis. Statistical results 
+by 1-way ANOV A with Tukey as post-hoc test: *p < 0.005 vs Pre-TKA; #p = 0.015 vs 1 wk; TKA = total knee 
+arthroplasty; n = number of studies included; d = day; w = week; m = months; y = year.
+
+[W4367055501 PDF PAGE 8]
+8
+Vol:.(1234567890)Scientific Reports |         (2023) 13:6810  | https://doi.org/10.1038/s41598-023-33556-7
+www.nature.com/scientificreports/
+found in the Supplementary Table S1, online. Additional references were identified through manual search in the 
+included manuscripts as well as in relevant reviews and websites.
+Study eligibility. Inclusion Criteria: (1) adults before and after unilateral TKA; (2) uncomplicated recov-
+ery; (3) passive thermal measurements not following any physical activity or procedure other than TKA; (43) 
+availability of data on the differences between operated and non-operated knee. Exclusion Criteria: (1) interven-
+tions other than TKA (i.e. injections, physical activity, other knee surgeries); (2) active thermal measurements 
+(response to cryotherapy, exercise, heating) (3) patients not adults; (4) non-human studies; (5) language other 
+than English; (6) groups treated with interventions that could affect inflammation; (7) studies with data of only 
+the operated knee.
+Screening, study selection, and data extraction. The screening was performed by two reviewers (LG 
+and OH) independently using the blind screening mode of RYYAN-QCRI  software38. Studies were screened 
+initially by title and abstract. The full text of studies was screened again according to eligibility criteria. Disa-
+greements were settled by discussion or in consultation with a third author (SDG). The list of excluded studies 
+appears in Supplementary Table S2, online.
+Data extraction included: Study Descriptors—First author, year of publication, country of origin, data col-
+lection period; Study Population—sample size, male:female counts, age; TKA Procedure—surgical approach, 
+use of tourniquet, type of prosthesis, whether the patella was replaced (a metal replacement may affect skin 
+temperature), dates of follow up visits; Skin Temperature Measurement- details of measuring device, method, 
+location (ROI), imaging setup, acclimatization period. Missing methodological information was completed by 
+contacting corresponding authors. A difference in skin temperature between the operated and non-operated 
+knees of 0.5 °C is considered the minimum clinically important difference in ST for the anterior  knee24.
+Study appraisal was conducted according to the quality of measurement  methodology26 and included equip-
+ment resolution, environmental conditions during data collection, and ROI. Accordingly, the quality of each 
+study was scored as good, fair, or poor considering availability of information on patient position, skin exposure 
+time, or ROI (Table 2). None of the articles included in this meta-analysis was graded as ‘poor’ .
+Data analysis and statistics. The primary study outcome for the quantitative analysis of ΔST was the 
+pooled, weighted mean with 95% confidence intervals (CIs) as calculated by meta-analysis with a random-effect 
+model. Meta-analyses were performed separately for each time point (i.e. pre-TKA and post-TKA at 1 day; 1,2, 
+and 6 weeks; and at 3, 6, and 12 months). Heterogeneity between studies was assessed with  I2 statistics (p < 0.1 
+and/or  I2 > 50% indicated significant heterogeneity). Publication bias (‘file drawer bias’) was assessed by Begg’s 
+Funnel-Plot and pseudo-95%-confidence limits. Egger’s test was used to determine bias. Comparisons between 
+time points were performed using 1-way ANOV A with Tukey as the post-hoc test. Missing standard deviations 
+were imputed by weighted average at each time point. When data were reported separately for the operated and 
+non-operated knee, the average difference was calculated, and the SD was pooled. The Comprehensive Meta-
+Analysis (CMA) Version-3 software (Borenstein, M., Hedges, L., Higgins, J., & Rothstein, H. Biostat, Englewood, 
+NJ 2013) and SYSTAT, version 13 (Systat Software, Chicago, USA) were used as appropriate for analyzing the 
+data.
+Data availability
+All data can be found in the tables supplied as part of the manuscript.
+Received: 6 December 2022; Accepted: 14 April 2023
+References
+ 1. Kurtz, S., Ong, K., Lau, E., Mowat, F . & Halpern, M. Projections of primary and revision hip and knee arthroplasty in the United 
+States from 2005 to 2030. J. Bone Joint Surg. Am. 89, 780–785. https:// doi. org/ 10. 2106/ JBJS.F . 00222 (2007).
+ 2. Izakovicova, P ., Borens, O. & Trampuz, A. Periprosthetic joint infection: Current concepts and outlook. EFORT Open Rev. 4, 
+482–494 (2019).
+ 3. Tubb, C. C., Polkowksi, G. G. & Krause, B. Diagnosis and prevention of periprosthetic joint infections. J. Am. Acad. Orthop. Surg. 
+28, e340–e348. https:// doi. org/ 10. 5435/ JAAOS-D- 19- 00405 (2020).
+ 4. McNally, M. et al. The EBJIS definition of periprosthetic joint infection. Bone Joint J. 103-B, 18–25. https:// doi. org/ 10. 1302/ 0301- 
+620X. 103B1. BJJ- 2020- 1381. R1 (2021).
+ 5. Kumar, P . et al. Applications of thermal imaging with infrared thermography in orthopaedics. J. Clin. Orthop. Trauma 24, 101722. 
+https:// doi. org/ 10. 1016/j. jcot. 2021. 101722 (2022).
+ 6. Gavish, L. et al. Microcirculatory response to photobiomodulation-why some respond and others do not: A randomized controlled 
+study. Lasers Surg. Med. 52, 863–872. https:// doi. org/ 10. 1002/ lsm. 23225 (2020).
+ 7. Fokam, D. & Lehmann, C. Clinical assessment of arthritic knee pain by infrared thermography. J. Basic Clin. Physiol. Pharmacol. 
+https:// doi. org/ 10. 1515/ jbcpp- 2017- 0218 (2018).
+ 8. Alfieri, F . M., Vargas, E. S. N. C. O., Dos Santos, A. C. A. & Battistella, L. R. Cutaneous temperature and pressure pain threshold 
+in individuals with knee osteoarthritis. Reumatologia 58, 272–276. https:// doi. org/ 10. 5114/ reum. 2020. 100195 (2020).
+ 9. Scheidt, S. et al. A systematic review on the value of infrared thermography in the early detection of periprosthetic joint infections. 
+Z. Orthop. Unfall. 158, 397–405. https:// doi. org/ 10. 1055/a- 0969- 8675 (2020).
+ 10. Mehra, A., Langkamer, V . G., Day, A., Harris, S. & Spencer, R. F . C reactive protein and skin temperature post total knee replace-
+ment. Knee 12, 297–300. https:// doi. org/ 10. 1016/j. knee. 2004. 09. 005 (2005).
+ 11. Parvizi, J. et al. The 2018 Definition of Periprosthetic Hip and Knee Infection: An Evidence-Based and Validated Criteria. J. 
+Arthroplasty 33, 1309-1314 e1302. https:// doi. org/ 10. 1016/j. arth. 2018. 02. 078 (2018).
+
+[W4367055501 PDF PAGE 9]
+9
+Vol.:(0123456789)Scientific Reports |         (2023) 13:6810  | https://doi.org/10.1038/s41598-023-33556-7
+www.nature.com/scientificreports/
+ 12. Haidar, S. G., Charity, R. M., Bassi, R. S., Nicolai, P . & Singh, B. K. Knee skin temperature following uncomplicated total knee 
+replacement. Knee 13, 422–426. https:// doi. org/ 10. 1016/j. knee. 2006. 08. 003 (2006).
+ 13. Martin, F . et al. Antiinflammatory effect of peripheral nerve blocks after knee surgery: Clinical and biologic evaluation. Anesthe -
+siology 109, 484–490. https:// doi. org/ 10. 1097/ ALN. 0b013 e3181 82c2a1 (2008).
+ 14. Honsawek, S. et al. Relationship of serum IL-6, C-reactive protein, erythrocyte sedimentation rate, and knee skin temperature 
+after total knee arthroplasty: a prospective study. Int. Orthop. 35, 31–35. https:// doi. org/ 10. 1007/ s00264- 010- 0973-0 (2011).
+ 15. Romanò, C. L., Romanò, D., Dell’Oro, F ., Logoluso, N. & Drago, L. Healing of surgical site after total hip and knee replacements 
+show similar telethermographic patterns. J. Orthop. Traumatol. 12, 81–86. https:// doi. org/ 10. 1007/ s10195- 011- 0135-1 (2011).
+ 16. Mumingjiang, Y ., Zhou, X. D. & He, R. X. Value of knee skin temperature measured by infrared thermography and soluble intercel-
+lular adhesion molecule-1 in the diagnosis of peri-prosthetic knee infection in chinese individuals following total knee arthroplasty. 
+Chin. Med. J. 127, 3105–3109. https:// doi. org/ 10. 3760/ cma.j. issn. 0366- 6999. 20140 482 (2014).
+ 17. van Hove, R. P ., Brohet, R. M., van Royen, B. J. & Nolte, P . A. No clinical benefit of titanium nitride coating in cementless mobile-
+bearing total knee arthroplasty. Knee Surg. Sports Traumatol. Arthrosc. 23, 1833–1840. https:// doi. org/ 10. 1007/ s00167- 014- 3359-9 
+(2015).
+ 18. Zeng, Y . et al. Differential knee skin temperature following total knee arthroplasty and its relationship with serum indices and 
+outcome: A prospective study. J. Int. Med. Res. 44, 1023–1033. https:// doi. org/ 10. 1177/ 03000 60516 655237 (2016).
+ 19. Xu, X. et al. Effect of celecoxib on surgical site inflammation after total knee arthroplasty: A randomized controlled study. Med. 
+Princ. Pract. 27, 481–488. https:// doi. org/ 10. 1159/ 00049 2922 (2018).
+ 20. Lin, S. J. et al. Temporal change of interleukin-6, C-reactive protein, and skin temperature after total knee arthroplasty using 
+triclosan-coated sutures. Biomed. Res. Int. 2018, 9136208. https:// doi. org/ 10. 1155/ 2018/ 91362 08 (2018).
+ 21. Romanò, C. L., Logoluso, N., Dell’Oro, F ., Elia, A. & Drago, L. Telethermographic findings after uncomplicated and septic total 
+knee replacement. Knee 19, 193–197. https:// doi. org/ 10. 1016/j. knee. 2011. 02. 012 (2012).
+ 22. Romanò, C. L. et al. Value of digital telethermography for the diagnosis of septic knee prosthesis: A prospective cohort study. BMC 
+Musculoskelet. Disord. 14, 7. https:// doi. org/ 10. 1186/ 1471- 2474- 14-7 (2013).
+ 23. Martinez, V ., Fletcher, D., Bouhassira, D., Sessler, D. I. & Chauvin, M. The evolution of primary hyperalgesia in orthopedic surgery: 
+Quantitative se

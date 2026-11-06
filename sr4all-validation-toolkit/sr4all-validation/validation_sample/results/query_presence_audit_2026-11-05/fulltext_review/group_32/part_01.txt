@@ -1,0 +1,284 @@
+he Critical Appraisal Skills Programme qualitative 
+research quality checklist (see Appendix 2) was used to 
+assess the quality of each study [ 20]. The CASP [ 20] qual-
+ity checklist does not impose a quality cut-off or rating 
+but instead encourages the reviewer to consider numer -
+ous salient elements of the methodologies and reporting 
+quality. Therefore, in this review no arbitrary cut-off for 
+quality was imposed, rather the papers were considered 
+for their overall quality.
+Data synthesis
+Descriptive summaries of the design, characteristics, 
+and results of included studies were completed. Primary 
+data, and the narrative commentaries on these data were 
+extracted verbatim and read numerous times to allow the 
+comparison of data within and across articles. Analysis of 
+the primary data was completed using thematic synthe -
+sis, examining the data line-by-line to code and identify 
+key themes across studies [ 21]. The key themes were then 
+summarized in a table and scrutinized across studies. 
+This process was conducted by the first author and regu -
+larly discussed with the research team throughout.
+Results
+The search resulted in 9,014 papers, of which 11 were 
+eligible for inclusion. Due to being written in a language 
+other than English, 406 papers were excluded pre-screen -
+ing. Following screening, 8522 papers were excluded due 
+to not being relevant to interventions to parental mental 
+health. Full papers were retrieved and screened for 86 
+papers, and 26 duplicates were removed. Of the remain -
+ing 60 papers 49 were excluded due to not meeting study 
+Fig. 1 Study selection process
+ 
+
+[W4304687473 PDF PAGE 4]
+Page 4 of 14
+Attard et al. BMC Pregnancy and Childbirth           (2022) 22:763 
+criteria. An overview of the study selection process can 
+be found in Fig. 1, and the included papers in Table 1.
+Study characteristics
+Most studies were completed in the United States of 
+America (4/11, 36%), followed by Canada (3/11, 27%), 
+Australia (2/11, 18%), and the United Kingdom (1/11, 
+9%), and India (1/11, 9%). Sample sizes ranged between 
+1 and 79 parents (100% female). Qualitative data collec -
+tion methods included semi-structured interviews (5/11, 
+45%), focus groups (1/11, 9%) online questionnaires/
+email (4/11, 36%) and spontaneous comment recording 
+(1/11, 9%). Analytical approaches included thematic anal -
+ysis (6/11, 54%) aiming to identify themes across data, 
+content analysis (1/11, 9%) which considers the presence 
+of words and concepts within the data, and grounded 
+theory (1/11, 9%) which focuses on constructing hypoth -
+eses and theory throughout the data. Three studies pre -
+sented the raw qualitative data as part of a larger study 
+involving quantitative methodology [ 22–24].
+Intervention characteristics
+Characteristics of e-Health interventions varied substan -
+tially across studies. Most interventions (8/11, 72%) were 
+designed to target postnatal depression, with the remain -
+ing three (27%) primarily focusing on anxiety [ 1, 3, 11]. 
+Interventions comprised of online modules (5/11, 45%), 
+telephone (2/11, 18%) or video (1/11, 9%) intervention 
+with a therapist, SMS support (1/11, 9%), email inter -
+vention with a therapist (1/11, 9%) and audio recordings 
+(1/11, 9%). Interventions also varied in the presence or 
+intensity of therapist or coach contact with participants. 
+In three studies participants had no contact with thera -
+pists throughout their intervention [ 25–27], most com -
+monly, participants received weekly contact with a coach 
+or therapist (6/11, 54%). The professional background 
+of the coaches and therapists ranged from researchers 
+trained in the intervention [ 23, 28] doctoral trainee psy -
+chologists [ 24, 29] mental health advisors [ 22], peer vol -
+unteers [ 30] and unspecified therapists [ 31, 32].
+Therapeutic approaches differed between studies. 6/11 
+(54%) authors reported using Cognitive Behavioural 
+Therapy (CBT). The remaining studies used a range of 
+mindfulness, psychoeducation [ 22, 31], peer support [ 30], 
+behavioural activation [ 29] and interpersonal psychother -
+apy (IPT), [ 22]. Full details can be found in Table 1. One 
+study [ 31] which circulated audio recordings like a soap 
+drama, did not specify an approach. The intention in this 
+study was to normalize mental health difficulties, and to 
+support women in an area where postnatal depression is 
+heavily stigmatized. For the purposes of this review, this 
+approach has been classified as psychoeducation.
+Quality assessment
+Overall, the quality of the papers was considered accept -
+able to high; all papers included a clear description of the 
+aims and methods of the research and a clear statement 
+of findings with justification of the chosen methodology 
+and recruitment strategy. However, all but 1 of the papers 
+[24] neglected to discuss the researchers’ positioning in 
+relation to the participants which should be considered 
+a critical feature of completing and analysing qualita -
+tive research. Recruitment methods were deemed to be 
+appropriate to the research question, with most stud -
+ies recruiting via adverts on social media, posters and 
+newspapers [ 25, 26, 28, 29] or sampling through clinician 
+referrals [ 23, 24, 27] and outpatient clinics [ 22, 30–32]. 
+However, most participants were those from white, mid -
+dle-class backgrounds. Additionally, two studies [ 22, 24] 
+presented raw data only with no details on data analysis, 
+and a further three studies [ 25, 27, 29] only described this 
+process partially.
+Data synthesis
+Broadly, all interventions were considered acceptable 
+to parents, however many were not deemed complete 
+in their current form and had suggestions for improve -
+ment. Participants generally reported that e-Health inter -
+ventions improved their mood [ 22, 25, 27, 29, 31], and 
+reported benefits over traditional face-to-face therapy 
+in terms of improved accessibility and reduced barriers. 
+However, the lack of interpersonal communication in 
+e-Health interventions was generally viewed negatively, 
+with participants finding the interventions less person-
+centered when delivered remotely. Two overarching 
+themes were identified across the papers; these themes 
+included ‘Elements influencing acceptability of eHealth 
+postnatally; mode of delivery and intervention proper -
+ties’ and ‘Barriers and facilitators to using e-Health post -
+natally’ . Each theme was made of several subthemes. The 
+themes are displayed in Table 2. The identified themes 
+and subthemes were represented in studies across a 
+range of differing intervention delivery modalities, with 
+the exception of Theme 1 subtheme iv, and Theme 2 sub -
+theme ii in which data were primarily drawn from online 
+delivered interventions (for an overview, see Table 3).
+Theme 1: elements influencing acceptability 
+of eHealth postnatally; mode of delivery and 
+intervention properties
+The majority of the studies discussed elements of the 
+intervention that participants found helpful, whether this 
+was directly related to an impact on mental health or on 
+other areas of the participants lives.
+
+[W4304687473 PDF PAGE 5]
+Page 5 of 14
+Attard et al. BMC Pregnancy and Childbirth           (2022) 22:763 
+Author and 
+Country
+Population Intervention characteristics Data col -
+lection & 
+analysis:
+Summary of 
+Themes
+Additional 
+Features 
+of Interest
+Qual-
+ity 
+Scor -
+ing
+1. Ashford, M. T., 
+Olander, E. K., Rowe, 
+H., Fisher, J. R., & 
+Ayers, S. (2018).
+[Australia]
+N: 89 (Treatment = 46, 
+waitlist = 43)
+Recruitment method : via 
+social media
+Participants : Women in 
+the postpartum period 
+(< 12 months since child-
+birth) with mild to severe 
+anxiety.
+Name: What Am I Worried About 
+(iWaWa)
+Language : English
+Intervention format : 9 online 
+modules with optional weekly tele-
+phone support from a therapist
+Intervention target : mild to 
+severe anxiety
+Therapeutic approaches : 
+Cognitive behavioural therapy and 
+mindfulness
+Data collec -
+tion : Semi 
+structured 
+telephone in-
+terviews post 
+intervention
+Analysis : 
+Thematic 
+analysis
+• Presentation and 
+format
+• Subthemes: Acces-
+sibility, anonymity, 
+support option, web-
+site usability, support 
+format.
+• Content
+Subthemes: Learning 
+CBT & mindfulness, 
+relevance and help-
+fulness, appropriate-
+ness, format issues
+• Helpfulness
+High drop-
+out (only 
+2 women 
+com-
+pleted all 9 
+modules).
+Deemed 
+not feasible 
+in its cur-
+rent format
+2. Baker-Ericzén, M. 
+J., Connelly, C. D., 
+Hazen, A. L., Dueñas, 
+C., Landsverk, J. A., & 
+Horwitz, S. M. (2012).
+[Mexico]
+N: 79
+Recruitment method : Re-
+cruited from prior research 
+list through obgyn clinics.
+Participants : Low-income 
+Latina women receiv-
+ing perinatal services in 
+publicly funded OB/GYN 
+community clinics located 
+in Southern California, who 
+screened positive for major 
+depression.
+Name: Perinatal Mental Health 
+Model (PMH)
+Language : Spanish / English
+Intervention format : Maternal 
+Health Advisor delivers interven-
+tion via telephone, regular contact 
+with the advisor throughout 
+intervention. Intervention content 
+included 6 modules addressing 
+psychoeducation around normaliz-
+ing depression, emotional support, 
+CBT strategies, coping and stress 
+management, referrals. Duration 
+of the intervention was tailored to 
+women’s needs.
+Intervention target : depression
+Therapeutic approaches : Psycho-
+education, CBT
+Data col -
+lection : 
+Recording of 
+comments 
+by mothers 
+during the 
+telephone 
+intervention
+Analysis : No 
+description 
+of analysis 
+provided
+• Positive comments 
+about understanding 
+of depression
+• Positive statements 
+about PMH program
+• Appreciation for 
+phone conversations
+• Specific techniques 
+that were helpful to 
+them
+3. Barrera, A. Z., 
+Aguilera, A., Inlow, N., 
+& Servin, J. (2020). A 
+preliminary study on 
+the acceptability of 
+a brief SMS program 
+for perinatal women.
+Health informat-
+ics journal,26(2), 
+1079–1087.
+Country : metropolitan, 
+urban area of the United 
+States
+N:10 (5 pregnant, 5 postna-
+tal, 7 provided

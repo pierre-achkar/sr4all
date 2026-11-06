@@ -1,0 +1,287 @@
+ematic review and meta-analysis protocol has been
+registered in PROSPERO, an International Prospective Register
+of Systematic Reviews at the National Institute for Health
+Research and Center for Reviews and Dissemination (CRD) at
+the University of York (http://www.crd.york.ac.uk/PROSPERO/;
+registration no. CRD42017054389) (
+10). The protocol also has
+already been published ( 11).
+The systematic review and meta-analysis was reported in
+accordance with Preferred Reporting Items for Systematic
+Reviews and Meta-Analyses (PRISMA) (
+12, 13) and Meta-
+analysis Of Observational Studies in Epidemiology (MOOSE)
+guidelines and does not require ethical approval (
+14).
+Search Strategies
+Database searches were conducted in MEDLINE (via PubMed),
+EMBASE, and the Cochrane Central Register of Controlled
+Trials (CENTRAL) to retrieve relevant articles for the
+literature review. We searched for full-text controlled trials
+(CTs) [included controlled before-and-after studies (CBA s),
+randomized controlled trials (RCTs)], and observational s tudies
+in humans that were published until Aug 2017. We used a
+Abbreviations: ALS, advanced life support; BLS, basic life support; CRD, center
+for reviews and dissemination; CTs, controlled trials; CBAs, contro lled before-and-
+after studies; RCTs, randomized controlled trials; OS, observatio nal studies; OR,
+Odds ratios; CI, conﬁdence intervals.
+combination of key terms and established a full search strat egy
+(Supplementary Material 1 ).
+Study Selection and Inclusion Criteria
+CTs, CBAs, RCTs, and observational studies were included.
+We deﬁned CTs, CBAs, and RCTs, as the CTs design group
+and prospective or retrospective observational study as the
+observational study (OS) design group.
+Our study population of interest was adults ( >18 years old)
+trauma patients who were transported by ground and required
+resuscitation in prehospital settings. We did not restrict our
+analysis by country and included all severities and types of
+trauma. Conference abstracts, studies in animals, and those that
+only include trauma patients transported by helicopter were
+excluded. We only included studies which were written in English
+or Japanese.
+The interventions of interest are ALS and BLS. The ALS
+group was deﬁned as having undergone one or more of the
+following intervention components: (1) tracheal intubation, (2)
+needle tracheostomy, and administration of (3) intravenous (IV)
+ﬂuids, (4) epinephrine, or (5) other IV drugs (e.g., amiodaron e,
+lidocaine, or magnesium). The BLS group was deﬁned as not
+having undergone any of the above ALS procedures, only BLS
+was instituted (chest compression, mouth-to-mouth breathing,
+bag valve mask ventilation, and automated external deﬁbril lator).
+We compared the outcomes between the ALS and BLS groups.
+Primary outcome was in-hospital mortality and secondary
+outcomes were neurological outcome and time spent on
+scene (minutes).
+Assessment of Risk of Bias
+To assess the quality of the included studies, we adapted the
+Cochrane risk of bias tool for CTs design (
+15). Each study
+was assessed for: (1) random sequence generation (selectio n
+bias), (2) allocation concealment (selection bias), (3) bl inding
+of participants and personnel (performance bias), (4) blinding
+of related outcomes assessment (detection bias), (5) incomplete
+outcome data (attrition bias), (6) selective reporting (repo rting
+bias), and (7) other bias. Studies were categorized as havin g a low,
+unclear, or high risk of bias in each domain. The risk of bias f or
+each element was considered “high” when bias was present and
+likely to aﬀect outcomes and “low” when bias was not present or
+present but unlikely to aﬀect outcomes (
+16). For OS design, we
+applied the Risk of Bias Assessment Tool for Non-randomized
+Studies (RoBANS) to assess the risk of bias of observational
+studies, which is compatible with the Cochrane risk-of-biastool
+(
+17). Two independent reviewers (YK and HS) chosen by the
+authors performed the risk of bias assessment. Disagreement s
+were resolved through discussion.
+Data Extraction and Management
+The following data were extracted: author(s), title, journal
+name, year of publication, website (URL), and abstract. After
+removal of duplicates, two independent reviewers (MK and
+SK) screened the abstracts and titles of the studies and
+subsequently reviewed the full-text articles for inclusionusing
+an electronic screening form (Covidence web platform: http:/ /
+Frontiers in Medicine | www.frontiersin.org 2 March 2021 | Volume 8 | Article 660367
+
+[W3148386947 PDF PAGE 3]
+Kondo et al. ALS vs. BLS for Trauma
+FIGURE 1 | Flow chart of the study selection process From Moher et al. ( 13).
+www.COVIDENCE.org). Disagreements were reconsidered and
+discussed until a consensus was reached. The full-text of
+the articles included in the ﬁnal selection was independently
+reviewed by other two reviewers (TF and UR). Disagreements
+were solved by a third reviewer (YK). The ﬂow diagram of our
+study, has been adapted from the PRISMA statement (2009)
+(
+13), (Figure 1).
+Rating the Quality of Evidence Using the
+GRADE Approach
+We used the Grading of Recommendations Assessment,
+Development and Evaluation (GRADE) tool to rate the quality of
+the evidence on the eﬀect of ALS and BLS on important outcomes
+in trauma patients (
+18–21). The quality of evidence was assessed
+for each outcome and categorized as high, moderate, low, or v ery
+low using the GRADE pro Guideline Development Tool.
+Statistical Analysis
+We performed a meta-analysis because one or more data
+were available according to the “Cochrane Handbook for
+Systematic Reviews of Interventions” and the PRISMA
+guidelines. Results were summarized using a random
+eﬀects model to facilitate pooling of estimates of the
+treatment eﬀects. Odds ratios (OR) and 95% conﬁdence
+intervals (CI) were used for dichotomous outcomes and
+mean diﬀerences and 95% CIs for continuous outcomes.
+Heterogeneity between trials for each outcome was evaluated
+using the I2 statistic for quantifying inconsistency (
+22). We
+considered heterogeneity as being signiﬁcant if the reason
+for heterogeneity could not be explained, and ifI2 was 50%
+or greater.
+Regarding assessment of reporting bias, we investigated the
+potential for publication bias using a funnel plot. Estimates we re
+pooled using a random eﬀects model. The meta-analysis was
+Frontiers in Medicine | www.frontiersin.org 3 March 2021 | Volume 8 | Article 660367
+
+[W3148386947 PDF PAGE 4]
+Kondo et al. ALS vs. BLS for Trauma
+TABLE 1 | Baseline characteristics of eligible studies.
+No. References Country Design Number of
+study
+participants
+Type of trauma Body region ISS
+(mean or
+median)
+Performed by Procedures
+BLS ALS BLS ALS
+1 Potter et al. ( 23) Australia Controlled Trial 1,061 Blunt and
+Penetrating
+Head, Torso
+and Extremity
+37 Physician and
+Paramedics
+Physician and
+Paramedics
+All BLS
+procedures
+All ALS
+procedures
+2 Murphy et al.
+(24)
+US Retrospective
+Cohort
+2,394 Blunt and
+Penetrating
+Head, Torso
+and Extremity
+with multiple
+injuries
+17 Not described Not described All BLS
+procedures
+All ALS
+procedures
+3 Liberman et al.
+(25)
+Canada Prospective
+Cohort
+9405 Blunt and
+Penetrating
+Head, Torso
+and Extremity
+26 Paramedics Physician and
+Paramedics
+All BLS
+procedures
+All ALS
+procedures
+4 Osterwalder ( 26) Switzerland Prospective
+Cohort
+196 Blunt Head, Torso
+and Extremity
+24 Physician and
+Paramedics
+Physician and
+Paramedics
+All BLS
+procedures
+All ALS
+procedures
+5 Steil ( 27) Canada Before-after
+controlled trial
+2,867 Blunt,
+Penetrating and
+Burn
+Head, Torso
+and Extremity
+24 for BLS,
+22 for ALS
+Paramedics Paramedics All BLS
+procedures
+All ALS
+procedures
+6 Seamon et al. ( 6) US Prospective
+Cohort
+236 Penetrating Head, Torso
+and Extremity
+20.8 Paramedics Paramedics All BLS
+procedures
+All ALS
+procedures
+7 Meizono ( 28) US Retrospective
+Cohort
+3,733 (122,
+after
+adjustment)
+Blunt,
+Penetrating and
+Burn
+Not described 5 Not described Not described No Procedures
+of ALS group
+*ALS
+procedures
+8 Sanghavi et al.
+(29)
+US Retrospective
+Cohort
+79,687 Not described Not described New ISS
+was used.
+Not described Not described All BLS
+procedures
+All ALS
+procedures
+9 Rappold et al. ( 5) US Retrospective
+Cohort
+1,490 Penetrating Not described 13 for ALS,
+10 for BLS
+Paramedics Paramedics All BLS
+procedures
+All ALS
+procedures
+10 Fukuda et al.
+(30)
+Japan Retrospective
+Cohort
+4,382 Blunt and
+Penetrating
+Head, Torso
+and Extremity
+Unknown Physician and
+Paramedics
+Physician and
+Paramedics
+All BLS
+procedures
+All ALS
+procedures
+ISS, injury severity score; BLS, basic life support; ALS, advanced life support; US, United States.
+*Needle decompression, tourniquet use, cricothyroidotomy, or ACLS proc edures other than intravenous ﬂuid.
+performed based on all published data and data made available
+to us (
+16).
+All analyses were performed by using the Review Manager
+software (RevMan 5.3, Copenhagen, Denmark: The Nordic
+Cochrane Centre, the Cochrane Collaboration 2014).
+RESULTS
+We identiﬁed 2,502 studies from the electronic databases. We
+eliminated 139 duplicates and excluded 2,314 studies becaus e
+their design did not ﬁt. Finally, we retained 16 studies for r eview
+of the full lengths reports and included 10 studies (
+5, 6, 23–30) in
+the ﬁnal analysis ( Figure 1).
+Study Characteristics
+The 10 studies (
+5, 6, 23–30) included 105,451 patients (two
+studies for the CTs design group, and eight studies for the OS
+design group) (Table 1). In the CTs design group, 1,966 were
+assigned to the ALS group and 1,962 to the BLS group. In
+the OS design group, 54,982 were assigned to the ALS group
+and 42,080 to the BLS group. Five studies (
+5, 6, 24, 28, 29)
+took place in United States, two in Canada ( 27, 31), and one
+each in Australia ( 23), Switzerland ( 26), and Japan ( 30). Four
+studies were conducted prospectively (one CBAs, one CTs, and
+two observational studies), and the others were retrospective.
+The risk of bias was evaluated for each study in the CTs design
+group and is shown in the risk of bias summary ( Figure 2).
+Becaus

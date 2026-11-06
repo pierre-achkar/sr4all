@@ -1,0 +1,170 @@
+ incubated with
+autologous serum obtained preoperatively and serum from
+healthy controls, respectively. The lymphocyte proliferation
+response to PHA in the highest concentration tested was
+signiﬁcantly reduced when autologous serum was used compared
+with the response obtained when serum from normal control
+subjects was used. Normalization of the proliferation response
+was observed when the same cells were incubated with serum
+obtained post-operatively (34).
+Other inﬂammatory markers
+Christensen et al. evaluated tryptophan (T) metabolites and the
+kynurenine to tryptophan ratio (K/T), as systemic markers of
+Interferon (IFN) g mediated immune activation, and found that
+levels of kynurenine (p = 0.029) and the K/T ratio (p= 0.015) were
+signiﬁcantly higher in PHPT patients, while T (p = 0.007),
+anthranilic acid (p = 0.013) and xanthurenic acid (p = 0.013)
+were signi ﬁcantly lower compared with controls. There were no
+differences between the two groups regarding CRP. Levels of plasma
+B6 vitamers pyridoxal 5-phosphate (PLP) (p = 0.007) and pyridoxal
+(p = 0.013) were signi ﬁcantly lower in PHPT patients. PTH was
+negatively correlated with PLP (r = - 0.27, p= 0.048) and with CRP
+(r = - 0.313, p = 0.024). Patients were reevaluated at 1, 3 and 6
+months after surgery. There was a signi ﬁcant increase in the levels
+of PLP, anthranilic acid and CRP after 6 months of follow-up ( 46).
+Higher ﬁbrinogen levels were detected in patients with mild
+PHPT and controls compared with those exhibiting severe PHPT
+by Chertok-Shacham et al. (27), whereas Alay et al. found that
+ﬁbrinogen levels were signi ﬁcantly elevated in PHPT patients
+compared with controls (338.78 ± 63.87 mg/dL vs 304.30 ± 45.67
+mg/dL, p = 0.041), and identi ﬁed a signi ﬁcant positive correlation
+between the volume of parathyroid adenomas and this
+inﬂammatory marker in the PHPT group (r = 0.711, p = 0.001) ( 35).
+Two studies ( 49, 50) evaluated monocyte chemoattractant
+protein-1 (MCP-1). Meng et al. ( 50) found signi ﬁcantly higher
+levels in patients with PHPT compared with controls (p < 0.001),
+which decreased three months post-parathyroidectomy (p < 0.05),
+reaching values comparable to those of controls. Signi ﬁcantly lower
+levels of MCP-1 were also observed 15 to 20 minutes after
+parathyroidectomy by Patel et al. (p < 0.001). Additionally,
+positive correlations between PTH and MCP-1 were identi ﬁed in
+both studies: r = 0.47, p < 0.01 in ( 49) and r = 0.33, p < 0.05 in ( 50).
+Christensen et al. compared CRP and several emerging
+inﬂammatory markers between PHPT patients and healthy blood
+donors, revealing that the levels of serum matrix metalloproteinase-
+9 (MMP9) (p = 0.029), serum soluble CD14- sCD14 (p = 0.002) and
+plasma protein S100A4 (p < 0.001) were signi ﬁcantly higher in
+PHPT patients. However, there were no signi ﬁcant differences
+between the two groups for CRP (p = 0.374), plasma protein
+S100A8/A9 (p = 0.157), and serum receptor for advanced
+glycation end products (RAGE) (p = 0.889). None of the
+inﬂammatory markers evaluated were correlated with PTH or
+ionized calcium. In ﬂammatory markers were reevaluated at 1, 3
+and 6 months after surgery. MMP9 increased, this change reaching
+statistical signi ﬁcance at 6 months after surgery (p = 0.017), while
+S100A4 and sCD14 decreased during follow-up. A signi ﬁcant
+decrease in sCD14 (p = 0.045) was observed after 1 month, while
+S100A4 values were signi ﬁcantly changed throughout the entire
+follow-up period (p = 0.022). RAGE increased signi ﬁcantly one
+month after parathyroidectomy (p = 0.001) but decreased
+afterwards (42).
+Discussion
+The present review, conducted in a systematic manner,
+identi ﬁed a series of markers associated with chronic
+inﬂammation that are altered in PHPT patients. In most studies,
+pro-inﬂammatory markers such as TNF- a, IL-6, Hs-CRP, and
+ﬁbrinogen were found to be elevated in patients with PHPT.
+While WBC values were rather similar in patients and controls,
+for other markers derived from the FBC (NLR, PLR or RDW)
+signi ﬁcant differences were found. Data on the impact of
+parathyroidectomy on in ﬂammation parameters were con ﬂicting.
+Several mechanisms might be responsible for the development
+of chronic in ﬂammation in PHPT. Calcium is essential for various
+physiological processes, including muscle contraction, cell signaling
+and bone homeostasis, but plays a crucial role in regulating the
+immune response as well. For exa mple, it contributes to the
+Gheorghe-Milea et al. 10.3389/fimmu.2025.1563967
+Frontiers inImmunology frontiersin.org10
+
+[W4410972516 PDF PAGE 11]
+activation and differentiation of immune cells and the synthesis of
+inﬂammatory mediators ( 53). Possible ways in which excessive
+amounts of calcium can promote chronic in ﬂammation include:
+1) overstimulation of immune cells that are normally activated by
+signaling pathways involving calcium (macrophages, T cells), 2)
+overproduction of pro-in ﬂammatory cytokines (IL-1, IL-6, and
+TNF-a)( 54, 55) and 3) metabolism enhancement (mitochondrial
+calcium stimulates the tricarboxylic acid cycle and oxidative
+phosphorylation), leading to electron leakage from the electron
+transport chain (ETC) and reactive oxygen species (ROS)
+production ( 56). Superoxide anion (O 2
+-) is a highly reactive ROS
+that is generated as a result of electron leakage from the ETC
+complexes (particularly Complex I and III) and reacts with
+manganese superoxide dismutase (MnSOD), an antioxidant
+enzyme located in the mitochondrial matrix, forming hydrogen
+peroxide (H 2O2). H 2O2 is capable of crossing the mitochondrial
+membrane and reaching cytosolic targets, resulting in several
+outcomes: activation of the nuclear factor-kappa B (NF- kB)
+pathway (which subsequently enhances the transcription of genes
+implicated in in ﬂammation), synthesis of pro-in ﬂammatory
+cytokines and activation of the in ﬂammasomes, particularly the
+NLRP3 in ﬂammasome ( 57, 58). ROS can also promote the release
+of calcium from the endoplasmic reticulum, which subsequently
+ampliﬁes ROS production ( 56). PTH may contribute to alterations
+in the in ﬂammatory proﬁle of patients with PHPT as well. Immune
+cells (e.g. T cells), osteoblasts and osteoclasts express PTH receptors
+(59), their stimulation leading to activation of signaling pathways
+that can promote the release of growth factors and pro-
+inﬂa m m a t o r yc y t o k i n e ss u c ha sI L - 1 ,I L - 6 ,o rT N F - a (60).
+Additionally, in vitro studies suggest that PTH can activate the
+NADPH oxidase ( 61) contributing to ROS generation, particularly
+superoxide, in the cytoplasm. This process exacerbates oxidative
+stress and its impact on the immune function. Figure 2 illustrates
+the complex interplay between oxidative stress and chronic
+inﬂammation in PHPT.
+IL-6 is a cytokine produced by immune cells (lymphocytes,
+monocytes), as well as other cell types, including hepatocytes,
+endothelial cells, osteoblasts or parathyroid cells ( 62, 63). It plays
+a key role in the acute phase response but is involved in regulating
+bone homeostasis as well and can act systemically to stimulate the
+hypothalamic-pituitary-adrenocortical axis ( 64). Circulating levels
+were found to be increased in patients with PHPT in the majority of
+studies, albeit not all. Correlations between IL-6 and PTH have also
+been identiﬁed in two of the studies ( 27, 28), although IL-6 was not
+different in the overall PTHP group compared with controls ( 27).
+These observations are supported by experimental data which
+showed that PTH can induce IL-6 production in osteoblasts ( 65),
+hepatocytes, Kupffer cells and endothelial cells ( 66) and that the
+parathyroid glands could be an important source of IL-6 as well,
+especially in conditions associated with parathyroid hyperplasia
+(63). The link between IL-6 and bone resorption parameters
+identiﬁed in two of the studies reinforces the role of this cytokine
+in the regulation of bone metabolism ( 28, 29). Furthermore,
+Nakchbandi et al. were able to establish cut-off values for IL-6
+and its soluble receptor that might identify subjects with
+signiﬁcantly greater rates of bone loss at the total femur ( 29).
+Assessment of IL-6 levels after parathyroidectomy yielded
+conﬂicting results. The different intervals between surgery and
+FIGURE 2
+Relationship between oxidative stress and inﬂammation in primary hyperparathyroidism. NOX, NADPH oxidase; ROS, reactive oxygen species;
+MnSOD, manganese superoxide dismutase; NF-kb, nuclear factor-kappa B; O2
+-, superoxide anion.
+Gheorghe-Milea et al. 10.3389/fimmu.2025.1563967
+Frontiers inImmunology frontiersin.org11
+
+[W4410972516 PDF PAGE 12]
+evaluation, ranging from one hour to 22 months could explain
+these discrepancies.
+IL-11, a member of the IL-6 family of cytokines, participates in
+various physiological processes, including bone remodeling. It
+regulates osteogenesis, supporting proper bone formation and
+facilitating fracture healing, but also contributes to bone
+resorption by promoting the differentiation of osteoclast
+precursors into mature osteoclasts and increasing their activity
+(67). Nakchbandi et al. found a strong negative correlation
+between circulating levels of PTH and serum IL-11 and showed
+that parathyroidectomy led to an increase in IL-11. These
+observations suggest that PTH may play a role in modulating IL-
+11, potentially through an indirect mechanism. This is supported by
+the inverse relationship between IL-6 and IL-11 in response to PTH
+identiﬁed by the authors, leading to the conclusion that IL-6 inhibits
+IL-11 production ( 36).
+TNF-a is one of the earliest and most potent pro-in ﬂammatory
+cytokines released during an immune response to infection or
+injury. It is primarily produced by immune cells (macrophages,
+T-cells), but also by other cell types, including ﬁbroblasts,
+endothelial cells or adipocytes ( 68). TNF- a levels were shown to
+be elevated in PHPT patients and either remained unchanged or
+decreased following parathyroidectomy. These ﬁndings are
+consistent with experimental data showing 

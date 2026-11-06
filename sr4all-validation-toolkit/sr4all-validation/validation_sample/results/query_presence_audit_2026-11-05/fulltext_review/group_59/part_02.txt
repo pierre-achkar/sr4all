@@ -1,0 +1,474 @@
+02) ( 29)
+USA Longitudinal,
+prospective
+Cohort
+° PHPT (n= 29; age= 63 ± 2 y;
+89% female):
+-Follow- up group(n= 26)
+Blood serum Baseline:
+IL-6, sIL-6R: ↑ in the study group
+Follow-up for 22 months:
+IL-6: stable
+sIL-6R: slight↑
+8L
+Alakuş et al.
+(2021) ( 30)
+Turkey Longitudinal,
+retrospective
+Cohort
+° PHPT (n= 37; median age=
+54 y; 89.2% female)
+Blood 6 months after PTX:
+NLR: ↓ compared to preoperative
+values
+WBC: similar compared to
+preoperative values
+8L
+Halabe et al.
+(2000) ( 31)
+Israel Longitudinal
+Cohort
+° PHPT (n= 10; age range= 45 –
+78 y; 50% female)
+Blood
+(serum+
+tissue
+culture supernatants
+of PHA-
+stimulated
+lymphocytes)
+Baseline:
+IL-2R: normal values (serum+
+supernatant)
+IL-6 in supernatant:↑
+3 weeks after PTX:
+Serum IL-2R: ↑
+IL-6, IL-2R in supernatant: ↑
+6M
+Shasha et al.
+(1989) ( 32)
+Israel Longitudinal
+Case- control
+° PHPT (n= 3, aged 25 y, 64 y
+and 66 y, respectively; 66%
+female)
+°Control group (n= 3, aged 27
+y, 60 y and 62 y, respectively;
+66% female)
+Blood Baseline:
+S: ↑ in PHPT patients vs controls
+TTC, H/S: ↓ in PHPT patients vs
+controls
+LSLT: inhibited
+1 month after surgery:
+6M
+(Continued)
+Gheorghe-Milea et al. 10.3389/fimmu.2025.1563967
+Frontiers inImmunology frontiersin.org05
+
+[W4410972516 PDF PAGE 6]
+TABLE 1 Continued
+Authors
+(year)
+and
+reference
+Country Study
+type
+Study population
+characteristics
+Biological
+sample
+Markers and outcomes NOS ROB
+° Lipoma of the neck (n= 1;
+age= 58 y; male)
+TTC, H/S: ↑
+S: ↓
+LSLT: restored to normal values
+Bollerslev
+et al.
+(2009) ( 33)
+Multicentric
+(Sweden,
+Norway,
+Denmark)
+Cross-
+sectional
+° Mild PHPT (n= 116; age= 63
+± 8 y; 83% female):
+- Observation for 2 years (n=
+62; age= 63 ± 7 y; 85% female;
+BMI= 27 ± 4 kg/m 2)
+- Surgery (n= 54; age= 63 ± 8
+y; 81% female; BMI= 27 ± 4
+kg/m2)
+Blood serum Hs-CRP: similar between groups
+(observation vs surgery), no change
+in the observation period
+IL-1Ra: no change in the
+observation period; not in ﬂuenced
+by PTX
+10 L
+Kotzmann
+et al.
+(1998) ( 34)
+Austria Longitudinal
+Case- control
+° PHPT group (n= 12; mean
+age= 56.6 y; 75% female)
+°Control group (n= 9;
+66% female)
+Blood (serum+
+lymphocytes+
+peripheral blood
+mononuclear cells)
+Baseline:
+Ig A, Ig M, Ig G: similar in PHPT
+patients and controls
+H: ↑ in PHPT group vs controls
+S: ↓ in PHPT group vs controls
+H/S: ↑ in PHPT group vs controls
+LPRP: suppressed in PHPT group
+6 months after PTX:
+Ig A, Ig M, Ig G, H, S: similar
+compared to preoperative values
+LPRP: restored to normal values
+7M
+Alay et al.
+(2020) ( 35)
+Turkey Longitudinal,
+prospective
+Case- control
+° PHPT group (n= 28; age=
+57.7 ± 10.9 y; 100% female;
+BMI= 26.41 ± 4.18 kg/m 2)
+°Control group (n= 27; age=
+53.3 ± 9.31 y; 100% female;
+BMI= 28.6 ± 5.22 kg/m 2)
+Blood serum Fibrinogen: ↑ in PHPT patients
+vs controls
+6M
+Nakchbandi
+et al.
+(2001) ( 36)
+USA Longitudinal
+Case- control
+° PHPT group (n= 29):
+-Follow-up group (n= 3)
+° hPT group (n= 7)
+°Control group (n= 22)
+Blood serum Baseline:
+IL-6: ↑ in PHPT patients vs controls
+IL-11: ↓ in PHPT patients vs
+controls and hPT patients
+After PTX (evaluated every 4 h for 24
+h):
+IL-6: ↓
+IL-11: ↑
+5H
+Guo et al.
+(2000) ( 37)
+UK Longitudinal
+Case- control
+° PHPT group (n= 8; age= 55 ±
+11 y; 100% female)
+° Healthy controls (n= 8)
+° Surgical controls (n= 5)
+Blood serum Baseline:
+IL-6: ↑ in PHPT group vs controls
+After PTX (at 1h, 2 h, and 1, 2, 5, 7
+and 12 days):
+IL-6: ↑ immediately (after 1 – 2h )
+with a maximum increase 1 day
+after PTX
+7M
+Almqvist
+et al.
+(2011) ( 38)
+Sweden Longitudinal
+Cohort
+° PHPT group (n= 45; age=
+69.7 ± 8.4 y; 91% female)
+Blood serum/plasma Baseline:
+Hs-CRP: 18% of patients had values
+above the upper limit of reference
+range
+IL-6: 7% had values above the upper
+limit of reference range
+ESR: 24% had values above the
+upper limit of reference range
+1 year after PTX:
+Hs-CRP, IL-6, ESR: ↑
+8L
+Ogard et al.
+(2005) ( 39)
+Denmark Longitudinal
+Case- control
+° PHPT group (n= 45; age=
+59.5 ± 9.4 y; 82% female; BMI=
+25.7 ± 3.7 kg/m 2):
+-Follow-up group(n= 17)
+°Control group (n= 40; age=
+Blood plasma Baseline:
+Hs-CRP, TNF- a: ↑ in the PHPT
+group vs controls
+IL-6: similar in PHPT group and
+controls
+8L
+(Continued)
+Gheorghe-Milea et al. 10.3389/fimmu.2025.1563967
+Frontiers inImmunology frontiersin.org06
+
+[W4410972516 PDF PAGE 7]
+TABLE 1 Continued
+Authors
+(year)
+and
+reference
+Country Study
+type
+Study population
+characteristics
+Biological
+sample
+Markers and outcomes NOS ROB
+58.1 ± 11.1 y; 82.5% female;
+BMI= 24.7 ± 3.9 kg/m 2)
+After PTX (at 7 and 18 months):
+Hs-CRP, TNF- a, IL-6: similar
+compared to preoperative values
+Emam et al.
+(2012) ( 40)
+Egypt Cross-
+sectional
+° Asymptomatic PHPT group
+(n= 26; age= 52.8 ± 4.4 y; 65%
+female)
+°Control group (n= 22; age=
+51.7 ± 5.9 y; 68% female)
+Blood serum IL-6, Hs-CRP: ↑ in the
+asymptomatic PHPT group
+vs controls
+8L
+Verheyen
+et al.
+(2017) ( 41)
+Austria Cross-
+sectional
+° PHPT group (n= 136; age=
+67 ± 10 y; 79% female; BMI=
+28 ± 5 kg/m 2)
+Blood serum CRP 5 H
+Christensen
+et al.
+(2015) ( 42)
+Norway Longitudinal,
+prospective
+Case- control
+° PHPT (n= 57; mean age=
+59.7 y; 84.2% female; BMI= 26
+kg/m2)
+°Control group (n= 20; mean
+age= 56.8 y; 75% female; BMI=
+25.3 kg/m 2)
+Blood serum/plasma Baseline:
+MMP9, S100A4 protein, sCD14: ↑ in
+the PHPT group vs controls
+S100A8/A9, RAGE: similar in PHPT
+patients and controls
+After PTX (at 1, 3 and 6 months):
+CRP, MMP9: ↑
+sCD14, S100A4: ↓
+RAGE: ↑ 1 month after PTX, but
+↓ thereafter
+6M
+Zeren et al.
+(2015) ( 43)
+Turkey Longitudinal,
+retrospective
+Cohort
+° PHPT (n= 32; age= 53.2 ±
+12.5 y; 75% female)
+- adenoma (n= 29)
+- carcinoma (n= 3)
+Blood NLR 7 M
+Kahal et al.
+(2012) ( 44)
+UK Longitudinal,
+prospective
+Case- control
+° PHPT group (n= 24; age= 60
+± 13.6 y; 93.1% female)
+° HT group (n= 23; age= 43 ±
+14.6 y; 70.4% female)
+Blood serum Baseline:
+CRP: similar between groups
+3 months after PTX:
+CRP: similar to preoperative values
+6M
+Harmantepe
+et al.
+(2024) ( 45)
+Turkey Longitudinal,
+retrospective
+Case- control
+° PHPT (n= 203; age= 54.08 ±
+11.0 y; 86.6% female)
+°Control group (n= 97; age=
+56.74 ± 14.02 y; 85.8% female)
+Blood Baseline:
+NLR, PLR, SII: ↓ in the PHPT group
+vs controls
+LMR: similar between groups
+6 months after PTX:
+NLR, SII: ↑ compared to
+preoperative values
+LMR: ↓ compared to preoperative
+values
+PLR: similar to preoperative values
+NLR, PLR, SII, LMR: similar
+compared to control group
+6M
+Christensen
+et al.
+(2012) ( 46)
+Norway Longitudinal
+Case- control
+° PHPT (n= 57; age= 59.7 ±
+12.2 y; 84% female; BMI= 26.0
+± 4.35 kg/m 2)
+°Control group (n= 20; age=
+56.8 ± 4.34 y; 75% female,
+BMI= 25.3 ± 2.97 kg/m 2)
+Blood plasma Baseline:
+KTR, kynurenine: ↑ in PHPT group
+vs controls
+Tryptophan, anthranilic acid,
+xanthurenic acid: ↓ in PHPT group
+vs controls
+Neopterin, CRP: similar between
+groups
+6 months after PTX:
+Anthranilic acid, CRP: ↑
+Neopterin: ↓
+KTR, kynurenine, tryptophan,
+xanthurenic acid: similar to
+preoperative values
+7M
+Yankova et al.
+(2023) ( 47)
+Bulgaria Cross-
+sectional
+° PHPT only (n= 50; age= 58.3
+± 8.7 y; 94% female; BMI= 26.7
+(23.3 - 30.1) kg/m 2)
+Blood serum IL-17A: ↑ in PHPT groups vs
+controls, but similar in PHPT
+8L
+(Continued)
+Gheorghe-Milea et al. 10.3389/fimmu.2025.1563967
+Frontiers inImmunology frontiersin.org07
+
+[W4410972516 PDF PAGE 8]
+TNF-a and IL-6 were observed ( 39). Likewise, in the study by
+Chertok-Shacham et al., levels of IL-6 in PHPT patients were
+similar to those in controls, but they showed a signi ﬁcant
+correlation with both calcium (p = 0.046) and PTH (p = 0.029).
+Also, CRP levels did not differ signi ﬁcantly between PHPT patients
+and controls, but a positive correlation between calcium and CRP (p
+= 0.037) was identi ﬁed ( 27). In contrast, levels of IL-6 were
+signiﬁcantly elevated in PHPT patients compared with healthy
+controls (p = 0.001) in another research ( 37) and increased after
+parathyroidectomy, with a maximum level one day after surgery.
+However, a rise in IL-6 levels was also noticed in surgical controls,
+with a peak value observed two days after surgery ( 37). Meng et al.
+(50) also identi ﬁed higher values of IL-6 in patients with PHPT
+compared with controls (p < 0.001) and a signi ﬁcant positive
+correlation between PTH and this cytokine (r = 0.31, p < 0.05).
+Although IL-6 levels decreased at the 3-month follow-up visit after
+parathyroidectomy (p < 0.05), they remained signi ﬁcantly higher
+than those observed in control patients (p < 0.01).
+TABLE 1 Continued
+Authors
+(year)
+and
+reference
+Country Study
+type
+Study population
+characteristics
+Biological
+sample
+Markers and outcomes NOS ROB
+° PHPT and HaT (n= 50; age=
+62.9 ± 8.3 y; 96% female; BMI=
+26.7 (23.9 - 31.3) kg/m 2)
+° Healthy controls (n= 37; age=
+58.4 ± 6.5 y; 94.6% female,
+BMI= 28.7 ± 6.3 kg/m 2)
+°Control group with HaT (n=
+37; age= 60.1 ± 7.5 y; 94.6%
+female, BMI= 28.6 ± 6.1 kg/m2)
+patients with HaT vs PHPT patients
+without HaT
+Dozio et al.
+(2020) ( 48)
+Italy Cross-
+sectional
+° PHPT (n= 50; age= 66.5 (58.8
+- 74.0) y; 100% female; BMI=
+25.6 (22.9 - 28.7) kg/m2)
+°Control group (n= 20; age=
+69.0 (57.0 - 75.0) y; 100%
+female, BMI= 25.1 (23.0 - 28.6)
+kg/m2)
+Blood plasma IL-17A: similar in PHPT group
+vs controls
+8L
+Patel et al.
+(2014) ( 49)
+USA Longitudinal,
+Cohort
+° PHPT (n= 43; age= 56.2 ±
+12.1 y; 77% female; BMI= 29.4
+± 5.5 kg/m 2)
+Blood serum After PTX:
+MCP-1: ↓ compared to
+preoperative values
+6M
+Meng et al.
+(2025) ( 50)
+USA Longitudinal,
+prospective
+Case- control
+° PHPT group (n= 70; age= 61
+± 12 y; 77% female; BMI= 29.9
+± 6.4 kg/m 2):
+-Follow-up group(n= 28, age=
+61 ± 11 y; 75% female)
+°Control group (n= 70; age= 60
+± 8 y; 80% female; BMI= 28.9
+± 2.7 kg/m2)
+Blood serum Baseline:
+CRP, IL-6, MCP-1: ↑ in the PHPT
+group vs controls
+IL-10: similar in PHPT group and
+controls
+3 months after PTX:
+MCP-1, IL-6: ↓ compared to
+preoperative values
+CRP, IL-10: similar to
+preoperative values
+8L
+Deniz et al.
+(2024) ( 51)
+Turkey Longitudinal,
+retrospective
+Cohort
+° PHPT (n= 70; age= 50.45 ±
+12.3 y; 84% female)
+Blood After PTX:
+MHR: ↑ compared to preoperative
+values
+SII, PLR: ↓ compared to preoperative
+values
+SIRI: similar to preoperative v

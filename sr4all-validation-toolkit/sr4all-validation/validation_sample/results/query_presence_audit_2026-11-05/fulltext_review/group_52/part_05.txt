@@ -1,0 +1,154 @@
+ation, and the references to studies from which the GPEI Annual
+Reports included mention of specific results. Between 2005 and 2018, the GPEI Annual
+Reports referred to results from studies published by 4 modeling groups: LSHTM [121],
+KRI [172,177,181–183], IC [184–187], and IDM [188], and we noted multiple references to
+the results from older studies over time. References to the results from modeling studies
+occurred in 4 of 5 years for the 2005–2009, 2010–2014, and 2015–2019 time periods. In the
+2020–2022 GPEI Annual Reports, only the 2022 report even alluded to the results from
+modeling studies by including a link to a 2022 investment case [ 189] that presented the
+results of an unpublished update of a prior study [188] and mentioned the outdated results
+of a 2007 publication [ 177]. Notably, the investment case did not mention a published
+2021 updated economic analysis of the GPEI [17]. Two other relevant studies published
+shortly after publication of the investment case included quantification of the cases of polio
+prevented by polio vaccines and GPEI [30] and an update of the consequences of shifting
+to control in 2022 [31] (as an update for an outdated study of control vs. eradication [177]).
+Table 3. Discussions of work related to polio modeling and groups in GPEI Annual Reports [133–156].
+Year Excerpt Group Study
+2000 Refers to plans to develop a “strategy for stopping vaccination that will evaluate a
+number of proposed strategies, including routine immunization with the inactivated
+polio vaccine (IPV) or an OPV ‘pulse’ immunization followed by cessation”
+2001 “WHO will develop policy decision models over the next 12 months that reflect how the
+range of possible research outcomes would affect post-certification policy development”
+2002 A “framework has now been developed that summarizes these risks into two major
+categories, including (a) those due to VDPV , and (b) those due to the handling of wild
+poliovirus stocks”
+2003 Key decisions in 2003: 1. Cessation of oral polio vaccine (OPV) 2. No universal
+introduction of the inactivated polio vaccine (IPV) 3. Strategies for the Safe Cessation of
+OPV “Guidelines for national decision-making on OPV cessation will be completed,
+outlining: (a) rationale for OPV cessation; (b) risks of polio in the post-OPV era; (c)
+surveillance requirements; (d) post-OPV stockpile and response; and (e) implications of
+IPV introduction”
+2004 Concluded that “eradicating all forms of poliomyelitis paralysis will require eventually
+stopping use of OPV globally and that the cessation of OPV must be implemented
+simultaneously across the world”
+
+[W4398206054 PDF PAGE 13]
+Pathogens 2024, 13, 435 13 of 31
+Table 3. Cont.
+Year Excerpt Group Study
+2005 “A comprehensive approach must be taken to optimize the management of the risks of
+either the re-emergence of polio due to a cVDPV or the re-introduction of either a wild or
+Sabin poliovirus, following the global interruption of wild poliovirus transmission.” “The
+ACPE, in October 2005, issued new international standards for polio outbreak response to
+guide countries in planning and responding to any importations of virus” and “further
+expansion of mOPV use in supplementary immunization activities”, and “assessment
+was conducted on the consequences of a poliovirus release during or after OPV cessation
+(Fine P . E. M. and Ritchie S., Consequences of release/reintroduction of polioviruses in
+different geographic areas after OPV cessation. Risk Analysis, 2006)”
+LSHTM,
+KRI
+[121,181] a,b
+2006 “Research published in Science magazine indicates monovalent OPV can boost immunity
+enough to stop polio in northern India.” “The humanitarian and economic case for
+finishing eradication is sound. A new study from Harvard University demonstrates that
+over a 20-year period, controlling polio at high levels would cost more in human suffering
+and dollars than finishing eradication.”
+IC,
+KRI a
+[177,184]
+2007 “To examine the assumptions underpinning current planning for the mOPV stockpile, a
+Harvard University/Massachusetts Institute of Technology collaboration continues to
+conduct mathematical modeling of outbreak response activities for polioviruses following
+OPV cessation.” “In close collaboration with the Imperial College of London, studies were
+undertaken to better estimate the efficacy of mOPV 1 and 3 in different field settings
+(India, Nigeria, and Pakistan).”
+KRI a,
+IC
+[182,185]
+2008 “Studies showing increased efficacy of monovalent type 1 oral polio vaccine (mOPV1)
+over trivalent oral polio vaccine (tOPV) in Nigeria are published in the New England
+Journal of Medicine, affirming the feasibility of rapidly stopping polio in that country.”
+“In 2008, the PRC made a grant to Kid Risk Inc., formerly part of a Harvard University
+and Massachusetts Institute of Technology collaboration, to continue mathematical
+modeling of outbreak response scenarios for polioviruses following OPV cessation to
+further inform policy in this area.”
+IC,
+KRI
+[183,186]
+2009 “. . .An extensive program of research was accelerated in 2009 to develop the tools and
+policies to minimize and manage the long-term risks of polio.” “To prepare for the
+management of long-term poliovirus risks, the GPEI is focusing research and policy
+development on three major areas: (1) better characterizing the primary long-term
+poliovirus risks (ie cVDPVs, VAPP , iVDPVs, and residual stocks of WPVs, VDPVs and
+Sabin viruses); (2) developing new products to manage the risks associated with OPV
+cessation, including the development of an international stockpile of mOPVs for cVDPV
+response and affordable IPV options for low-income countries that perceive the medium
+or long-term risks of poliovirus warrant continued routine immunization after OPV ,
+cessation. (3) Establishing mechanisms to internationally coordinate risk management
+strategies, particularly the application of appropriate safeguards and bio-containment
+conditions for the handling and storage of residual polioviruses and potentially
+poliovirus-infected materials, the synchronization of the cessation of routine
+immunization with OPV and the adherence to internationally-agreed processes for the
+post-eradication use of OPV in response to new cVDPVs.”
+2010 “In a rigorous evaluation of the benefits and costs of eradicating polio, a study published
+in Vaccine finds that the program could provide net benefits of at least US$40–50 billion
+by 2035, mostly in low-income countries, if transmission of wild polioviruses is
+interrupted within the next five years.” “Jenkins et al, published in the New England
+Journal of Medicine in June 2010, analyzed the largest-ever recorded cVDPV outbreak
+detected in Nigeria.”
+KRI,
+IC
+[172,187]
+2011 “Mathematical modeling shows that failure to eradicate the remaining 1% puts the world
+at significant risk of polio resurgence, potentially leading to over 200,000 children
+paralyzed annually within a decade.”
+[177] c
+
+[W4398206054 PDF PAGE 14]
+Pathogens 2024, 13, 435 14 of 31
+Table 3. Cont.
+Year Excerpt Group Study
+2012 “On one side of the balance, a lasting world free of polio where no child will ever know
+the pain of polio paralysis and US$ 50 billion in economic benefits; on the other, a
+resurgence of the disease resulting in 200,000 cases every year within 10 years. All
+countries will benefit equally from global success.”
+[177] c
+2013 “Type 2 outbreak response principles were endorsed by the SAGE in November 2013. It
+was decided that outbreak response should utilize both monovalent OPV type 2 and IPV
+to rapidly boost and establish population immunity around the outbreak response zone
+to prevent the emergence of cVDPV . The use of mOPV2 is needed to induce intestinal
+immunity among those who have not been vaccinated against type-2 previously.”
+2014 “In 2006, the World Health Assembly issued international outbreak response guidelines
+with specific measures countries should take upon detection of a polio outbreak in any
+polio-free area. Full implementation of these guidelines reduced the extent (in time and
+number of cases) of new outbreaks by 50% compared to previous outbreaks. Outbreak
+response is now more critical than ever, as the world is now closer than ever to being
+polio-free and the phased removal of oral polio vaccines (OPV) is beginning. That is why
+the GPEI has issued revised international outbreak response guidelines to countries,
+building on those from 2006.”
+b
+2015 “A polio-free world will reap savings of more than US$ 50 billion, funds that can be used
+to address other pressing public health and development needs.”
+[172] c
+2016 “A polio-free world will result in global savings of US$ 50 billion (mostly in developing
+countries).”
+[172] c
+2017 “Failure to eradicate polio would result in a drastic resurgence of the disease globally, and
+within the next 10 years, the world could again see 200,000 new cases every single year.”
+“A world without polio will result in savings of more than US $50 million.” “"Globally, a
+polio-free world will reap savings of over US$50 billion, funds that can be used to address
+other pressing public health needs”. “Even if it has taken longer and cost more than all
+had anticipated, the goal of a polio-free world — so near at hand — is worth pursuing, for
+the benefit of all generations of children to come.” “In addition to the significant
+humanitarian benefits associated with polio eradication, the effort is also associated with
+substantial economic benefits. A world free of polio will result in savings of more than
+US$50 billion, which can be used to address other critical public health and development
+needs.”
+[177] c
+[172] c
+2018 “Achieving a polio-free world will generate an estimated US$14 billion in cumulative cost
+savings by 2050, compared to the cost countries would incur to control the virus
+indefinitely. In financial terms, the global effort to eradicate polio has already saved more
+than US$ 27 billion in health costs since 1988.”
+[188]
+2019 “. . .The continued spread of existing cV

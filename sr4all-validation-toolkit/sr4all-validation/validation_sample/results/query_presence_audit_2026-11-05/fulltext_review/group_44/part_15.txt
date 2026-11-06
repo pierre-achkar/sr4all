@@ -1,0 +1,183 @@
+process.
+Data elements extracted included study name and year of publica-
+tion, country, immune cell/mediator(s) described in the study,
+model (clinical studies, animal wound models or in-vitro),type
+of wound, specific device with control intervention, duration
+and time points of analysis, quantitative/qualitative outcomes,
+duration of follow-up, publication status, funding and conflict
+of interest.
+Assessment of risk of bias (RoB)
+Risk of Bias assessment was performed using the RoBANS tool
+(Ref. 18) for non-randomized studies, the COCHRANE’s Risk
+of Bias 2(ROB-2) tool (Ref.19) for randomized clinical studies,
+Office of Health Assessment and Translation (OHAT) tool
+(Ref.20) for in-vitro studies or the Systematic Review Centre
+for Laboratory Animal Experimentation (SYRCLE) tool
+(Ref.21) for animal model studies. The risk of bias assessment
+and quality assessment figures were produced with the help of
+the interactive online web application,‘robvis’ (Ref. 22).
+Data synthesis and analysis
+Due to the diversity of the variables and immune markers being
+evaluated and the heterogeneity of the studies being reviewed, it
+was not possible to pool data and present findings as a
+meta-analysis. Instead, a descriptive summary was performed
+with aggregated data presented as a narrative synthesis. The nar-
+rative synthesis includes elements such as the immune cell or bio-
+marker of interest, its context and the impact of NPWT on
+it and the relationship between the immune cell/biomarker and
+wound healing and the concordance between studies with respect
+to these findings. Also, each study’s methodological and summary
+characteristics are presented in a separate table to include the
+author(s), institution, year of publication, sample size, study
+model, biomarkers/cell markers under review and key findings
+reported by authors.
+Results
+Out of 6397 potential studies, 33 studies were included in the sys-
+tematic review. This included 19 clinical studies, 11 animal studies
+and 3 in-vitro studies. The exclusion of all the other studies has
+been outlined inFigure 1in accordance with the PRISMA report-
+ing guidelines. Out of the 11 animal models, 1 study was con-
+ducted in a rabbit model, 5 studies were conducted in murine
+models and 5 studies in porcine models. Thirteen studies had a
+high risk of bias and 3 studies had some concerns of bias. Ten
+clinical studies and 10 animal studies analysed tissue samples
+from wounds while 5 clinical studies analysed the wound effluent.
+Five clinical studies and one animal study also used serum sam-
+ples to correlate the effect of NPWT on wounds. Twenty-eight
+studies focussed on the effect of NPWT on molecular and cellular
+biomarkers, while 5 focussed on the effect of NPWT on differen-
+tial gene expression in wound or serum samples. Substrate ana-
+lysis was carried out by a combination of quantitative and
+semiquantitative methods including enzyme-linked immunosorb-
+ent assay(ELISA), immunohistochemical(IHC) staining or
+Western blot analysis. Analysis of gene expression was predomin-
+antly carried out by RNA sequencing and/or reverse
+transcription-quantitative polymerase chain reaction(RT-qPCR).
+These findings are elaborated inTable 1.
+Vascular Endothelial Growth Factor (VEGF) was the most fre-
+quently studied growth factor in relation to NPWT with 7 papers
+identified (Refs27, 28, 34, 38, 41, 45, 49, 50). Results from clinical
+studies were reported in 4 studies (Refs27, 28, 34, 38). A signifi-
+cant increase in the local VEGF concentration was seen in clinical
+wounds treated with NPWT, and reports from animal studies
+concurred with these findings (Refs41, 45, 49, 50). This increase
+in VEGF has been postulated to contribute to the increased neo-
+vascularization and granulation tissue formation in patients trea-
+ted with NPWT. VEGF was elevated in all 7 studies which studied
+its effects. Tumour necrosis Factor alpha(TNFα) was downregu-
+lated in 5 out of 8 studies and was the next most common bio-
+marker that was studied (Refs25, 26, 34, 37, 44, 55). TNF α is
+considered as a pro-inflammatory cytokine and a potent inducing
+agent for the upregulation of cytokines, reactive oxygen species
+and apoptosis. Elevated levels of TNFα in the wound bed have
+been associated with chronic non healing wounds with reduced
+granulation tissue production. Transforming Growth Factor
+Beta (TGFβ) was upregulated in 5 out of 7 studies that studied
+its effects. The data from the in vitro models included in this
+paper (Refs53, 54, 55) suggest that it leads to increased granula-
+tion tissue production. NPWT induces the production of TGF-β1,
+which is crucial for the initiation of the proliferation phase of
+wound healing. The effect of NPWT on wound healing is
+mediated through various signals, including TGF-β-Smad,
+which further underscores the importance of TGF-β in this con-
+text. Fibronectin was upregulated in both studies which evaluated
+its effects (Refs23, 39). Equivocal results were obtained across all
+studies with respect to Interleukins (IL) and Matrix
+Metalloproteinases (MMP) including IL1β, IL 6, IL8, IL8, MMP
+2, 3 and 9. The effects of NPWT on 43 other molecular biomar-
+kers and 13 different gene expressions were analysed across
+included studies (Table 1).
+Clinical/human studies
+Nineteen clinical studies were conducted to assess the MOA of
+NPWT from 2003 to 2022 with study numbers varying from
+three to172 patients. Out of these, 12 studies compared the
+mechanisms of action between NPWT and standard dressings
+and other studies studied the MOA of NPWT alone. Eleven stud-
+ies used granulation tissue samples from wound beds, 5 studies
+studied samples from wound effluents and 5 studies analysed per-
+ipheral blood samples. Ten studies had a high risk of bias, one
+study had some concerns of bias and eight studies had a low
+risk of bias. (Fig. 2a, 2b) The main cytokines of interest in these
+studies were VEGF,TNFα, Interleukin(IL)-6, IL– 8, IL 1B, and
+the family of matrix metalloproteinases (MMP) MMP-1,
+MMP-2, MMP-9, MMP-13. VEGF was upregulated in all four
+studies which studies it’s effects TNF α was downregulated in
+four out of four studies, Fibronectin and TGF B1 were
+2 Bharadhwaj Ravindhranet al.
+https://doi.org/10.1017/erm.2023.24 Published online by Cambridge University Press
+
+[W4387764535 PDF PAGE 3]
+upregulated in both studies which studied their effects. There was
+no concordance regarding the impact of NPWT on the other
+cytokines, biomarkers and/or genes.
+Animal studies
+Eleven animal studies were included in this review out of which
+five studies used murine models, five studies used porcine models
+and one study used rabbit models. The sample size ranged from
+six to 56 animals. Three studies had a high risk of bias, two studies
+had some concerns and six studies had a low risk of bias. (Fig. 2c)
+All studies used tissue samples and two studies also used serum
+samples in addition for analysis. The main cytokines of interest
+in these studies were TNFα, FGF-2, TGFB1, PDGF and VEGF.
+Three out of three studies reported the upregulation of VEGF fol-
+lowing NPWT. Two studies reported the upregulation of TNFα
+while one study reported its upregulation following NPWT. The
+results of most of the included animal studies suggest that
+many of the cytokines/chemokines and genes are upregulated fol-
+lowing the upregulation of NPWT.
+In vitro studies
+Three studies studied the mechanisms of action of NPWT using
+in vitro models using murine fibroblasts (Ref.53), human fibro-
+blasts in a 3D fibrin matrix (Ref. 56) and a combination of
+PMNs, HL 60 cell lines and Macrophages (Ref.55) respectively.
+Each study examined a completely different set of biomarkers
+(Table 1). Two studies conducted their experiments in a cell cul-
+ture under negative pressure. Two studies also reported the upre-
+gulation of TGF-B under the effect of NPWT (Refs53, 56). The
+risk of bias assessment using the OHAT tool revealed a low risk
+of bias for one study, some concerns of bias and high risk of
+bias for the other two studies.
+Gene expression changes
+The effect of NPWT on 17 different gene expressions was assessed
+in this systematic review (Table 1). Since no two studies evaluated
+the effects of similar gene expressions, it was not possible to col-
+late these findings. The results of the included studies have sug-
+gested that the genes induced by NPWT were associated with
+Figure 1. Literature search and study selection.
+Expert Reviews in Molecular Medicine 3
+https://doi.org/10.1017/erm.2023.24 Published online by Cambridge University Press
+
+[W4387764535 PDF PAGE 4]
+Table 1. Characteristics of the included studies
+Study Participants N ROB Randomization Comparator Substrate Focus Markers under study
+Arslan (Ref. 23) Humans 11 H N None Tissue Biomarkers Increased Fibronectin levels
+Borys (Ref. 24) Human 29 L N Standard dressings Tissue Differential gene
+expression
+GA2 downregulated
+C1QBP upregulated
+RAB35 downregulatedSYNJ1 downregulated
+Stechmiller (Ref. 25) Human 8 H N None Wound effluent Biomarkers TNF alpha downregulated
+IL 1B upregulatedMMp-2:downregulated
+MMP3: upregulated
+TIMP-1: upregulated
+Eisenhardt (Ref. 26) Humans 30 L Y Petroleum gauze
+dressing
+Tissue Biomarkers TNF alpha: downregulated
+IL1 B: downregulatedCD68: downregulated
+Labler (Ref. 27) Humans 21 H N Epigard Wound effluent Biomarkers IL6: increased
+IL8: increased
+1L10: no change
+VEGF: increasedFGF2: no change
+Labler (Ref. 28) Humans 32 S N Epigard Wound effluent Biomarkers IL6: no stat diff
+IL8: increasedVEGF: increased
+FGF2: no stat diff
+Increased vWF and CD31
+Greene (Ref. 29) Human 3 H N Foam filler Tissue Biomarkers MMP-2 : reduced
+MMP-9/NGAL complex: Reduced
+Frear (Ref. 30) Humans 8 H N Standard dressing Wound effluent Proteomics Increased:
+MMPArginase 1
+Low affinity IgGFc IIIA
+FilaminAAlpha 2 MacroglobulinHemoglobin alpha
+Hohendroff (Ref. 31) Humans 69 H N Standard dressing Blood sample Plasma Biomarkers Angiopoeitin-2: reduced
+Overall Microvesicles: reduced
+Jia (Ref. 32) Humans 3 H N None Tissue Proteo

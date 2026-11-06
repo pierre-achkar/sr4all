@@ -1,0 +1,111 @@
+io cases to wait for a different vaccine (i.e., nOPV2). Notably, prior to OPV2 cessation,
+prospective modeling assumed aggressive oSIAs with mOPV2 would either successfully
+stop all type 2 poliovirus transmission or countries would restart the use of tOPV in RI [36],
+and thus developed estimates of demand for a time-limited OPV stockpile [40]. Instead,
+global efforts moved toward increased use of IPV , the development and deployment of
+new vaccine tools, including nOPV , and the associated extension of the polio endgame.
+Given the current epidemiological situation, we can anticipate that future publications of
+polio modeling studies may support another update of the systematic review.
+Limitations of this review include our inability to evaluate whether and how national
+and regional decision makers interact with each other, GPEI, and other global health policy
+makers. Although we described some work by the modeling teams used by national and
+regional decision makers (e.g., New York modeling, the African Regional Certification
+Commission), these represent anecdotal examples, not the results of a systematic process to
+collect information from decision makers at all levels about their use of modeling results.
+Modeling results represent only one of the factors that may influence decisions.
+5. Conclusions
+The representatives from some modeling groups continued to serve as members on
+the SPWG and the modeling groups continue to increase and to publish their work at an
+increasing rate. By combining and updating results from prior review [1], for the full time
+period of 2000–2024.25 we identified 246 polio publications by the modeling groups KRI
+(124), IC (64), LSHTM (29), IDM/BMGF (27), and GIT (2), plus 46 publications by others
+(including 32 poliovirus transmission modeling papers and 14 economic analyses). With
+the initial target for achieving global polio eradication in 2000, the increasing number of
+modeling groups and rate of publications contrast notably with expectations of successful
+eradication and dissolution of the GPEI long before 2024. In spite of this, the GPEI core part-
+ners remain committed to delivering on the promise of polio eradication, and this suggests
+that opportunities and support for polio modeling will continue for the foreseeable future.
+Author Contributions: Conceptualization, funding acquisition, and original draft preparation K.M.T.;
+Methodology, formal analysis, review and editing, and visualization, K.M.T. and K.B. All authors
+have read and agreed to the published version of the manuscript.
+Funding: W e acknowledgesupport for this report under Cooperative Agreement Number 5NU2RGH001915-
+04-00funded by the Centers for Disease Control and Prevention. The views expressed are solely those
+of the authors and do not necessarily represent the official views of the Centers for Disease Control
+and Prevention or Department of Health and Human Services.
+
+[W4398206054 PDF PAGE 23]
+Pathogens 2024, 13, 435 23 of 31
+Acknowledgments: We thank Nicholas Grassly, Isobel Blake, Kathleen O’Reilly and Hil Lyons for
+comments related to our descriptions of polio publications from their respective groups.
+Conflicts of Interest: The authors declare no conflicts of interest.
+Abbreviations
+ACPE, Advisory Committee on Polio Eradication; AFP , acute flaccid paralysis; BMGF, Bill
+and Melinda Gates Foundation; bOPV , bivalent OPV; cVDPV , circulating VDPV; DEB, differential
+equation-based; DES, discrete event simulation; EUL, emergency use listing; GIT, Georgia Institute
+of Technology; GPEI, Global Polio Eradication Initiative; IB, individual-based; IC, Imperial College;
+IDM, Institute for Disease Modeling; IPV , inactivated poliovirus vaccine; iVDPV , immunodeficiency-
+associated VDPV; KRI, Kid Risk, Inc.; LPV , live poliovirus; LSHTM, London School of Hygiene
+and Tropical Medicine; mOPV , monovalent OPV; NA, not available; nOPV , novel OPV; OPV , oral
+poliovirus vaccine; OPV#, type # OPV (# = 1, 2, or 3); oSIA, outbreak response SIA; PRC, GPEI
+polio research committee; pSIA, preventive SIA; RI, routine immunization; QUIVER, Quantitative
+Immunization and Vaccine Related Research Advisory Committee; SACEMA, the South African
+Centre for Epidemiological Modelling and Analysis; SAGE, Strategic Advisory Group of Experts on
+immunization for the World Health Organization; SC, stochastic compartmental; SIA, supplemental
+immunization activity; SPWG, SAGE polio working group; tOPV , trivalent OPV; VAPP , vaccine-
+associated paralytic polio; VDPV , vaccine-derived poliovirus; VICP , Vaccine Injury Compensation
+Program (United States); WHA, World Health Assembly; WHO, World Health Organization; WPV ,
+wild poliovirus; WPV#, type # WPV (# = 1, 2, or 3).
+References
+1. Thompson, K.M.; Kalkowska, D.A. Review of poliovirus modeling performed from 2000 to 2019 to support global polio
+eradication. Expert Rev. Vaccines 2020, 19, 661–686. [CrossRef]
+2. Badizadegan, K.; Goodson, J.L.; Rota, P .A.; Thompson, K.M. The potential role of using vaccine patches to induce immunity:
+Platform and pathways to innovation and commercialization. Expert Rev. Vaccines 2020, 19, 175–194. [CrossRef]
+3. Thompson, K.M.; Orenstein, W.A.; Hinman, A.R. Performance of the United States Vaccine Injury Compensation Program (VICP):
+1988–2019. Vaccine 2020, 38, 2136–2143. [CrossRef]
+4. Thompson, K.M.; Orenstein, W.A.; Hinman, A.R. An opportunity to incentivize innovation to increase vaccine safety in the
+United States by improving vaccine delivery using vaccine patches. Vaccine 2020, 38, 4060–4065. [CrossRef]
+5. Ochalek, J.; Claxton, K.; Lomas, J.; Thompson, K.M. Valuing health outcomes: Developing better defaults based on health
+opportunity costs. Expert Rev. Pharmacoecon. Outcomes Res. 2021, 21, 729–736. [CrossRef]
+6. Thompson, K.M. Modeling and managing poliovirus risks: We are where we are. Risk Anal. 2021, 41, 223–228. [CrossRef]
+7. Kalkowska, D.A.; Pallansch, M.A.; Wassilak, S.G.F.; Cochi, S.L.; Thompson, K.M. Global transmission of live polioviruses:
+Updated dynamic modeling of the polio endgame. Risk Anal. 2021, 41, 248–265. [CrossRef]
+8. Thompson, K.M.; Kalkowska, D.A. Reflections on modeling poliovirus transmission and the polio eradication endgame. Risk
+Anal. 2021, 41, 229–247. [CrossRef]
+9. Kalkowska, D.A.; Thompson, K.M. Insights from modeling preventive supplemental immunization activities as a strategy to
+eliminate wild poliovirus transmission in Pakistan and Afghanistan. Risk Anal. 2021, 41, 266–272. [CrossRef]
+10. Kalkowska, D.A.; Franka, R.; Higgins, J.; Kovacs, S.D.; Forbi, J.C.; Wassilak, S.G.F.; Pallansch, M.A.; Thompson, K.M. Modeling
+poliovirus transmission in Borno and Yobe, Northeast Nigeria. Risk Anal. 2021, 41, 289–302. [CrossRef]
+11. Kalkowska, D.A.; Thompson, K.M. Modeling undetected live poliovirus circulation after apparent interruption of transmission:
+Borno and Yobe in Northeast Nigeria. Risk Anal. 2021, 41, 303–311. [CrossRef]
+12. Kalkowska, D.A.; Pallansch, M.A.; Cochi, S.L.; Kovacs, S.D.; Wassilak, S.G.F.; Thompson, K.M. Updated characterization of
+post-OPV cessation risks: Lessons from 2019 serotype 2 outbreaks and implications for the probability of OPV restart. Risk Anal.
+2021, 41, 320–328. [CrossRef]
+13. Thompson, K.M.; Kalkowska, D.A. Potential future use, costs, and value of poliovirus vaccines. Risk Anal. 2021, 41, 349–363.
+[CrossRef]
+14. Kalkowska, D.A.; Thompson, K.M. Expected implications of globally coordinated cessation of serotype 3 oral poliovirus vaccine
+(OPV) before serotype 1 OPV .Risk Anal. 2021, 41, 312–319. [CrossRef]
+15. Kalkowska, D.A.; Pallansch, M.A.; Wilkinson, A.; Bandyopadhyay, A.S.; Konopka-Anstadt, J.L.; Burns, C.C.; Oberste, M.S.;
+Wassilak, S.G.F.; Badizadegan, K.; Thompson, K.M. Updated characterization of outbreak response strategies for 2019–2029:
+Impacts of using a novel type 2 oral poliovirus vaccine strain. Risk Anal. 2021, 41, 329–348. [CrossRef]
+16. Thompson, K.M. Poliovirus vaccine options: Another step forward. Lancet 2020, 397, 2–3. [CrossRef]
+
+[W4398206054 PDF PAGE 24]
+Pathogens 2024, 13, 435 24 of 31
+17. Thompson, K.M.; Kalkowska, D.A. An updated economic analysis of the Global Polio Eradication Initiative. Risk Anal. 2021, 41,
+393–406. [CrossRef]
+18. Kalkowska, D.A.; Thompson, K.M. Health and economic outcomes associated with polio vaccine policy options: 2019–2029. Risk
+Anal. 2021, 41, 364–375. [CrossRef]
+19. Thompson, K.M.; Kalkowska, D.A.; Badizadegan, K. A health economic analysis for oral poliovirus vaccine to prevent COVID-19
+in the United States. Risk Anal. 2021, 41, 376–386. [CrossRef]
+20. Kalkowska, D.A.; Voorman, A.; Pallansch, M.A.; Wassilak, S.G.F.; Cochi, S.L.; Badizadegan, K.; Thompson, K.M. The impact of
+disruptions caused by the COVID-19 pandemic on global polio eradication. Vaccine 2021, 41, A12–A18. [CrossRef]
+21. Thompson, K.M.; Kalkowska, D.A.; Badizadegan, K. Hypothetical emergence of poliovirus in 2020: Part 1. consequences of
+policy decisions to respond using nonpharmaceutical interventions. Expert Rev. Vaccines 2021, 20, 465–481. [CrossRef]
+22. Thompson, K.M.; Kalkowska, D.A.; Badizadegan, K. Hypothetical emergence of poliovirus in 2020: Part 2. exploration of the
+potential role of vaccines in control and eradication. Expert Rev. Vaccines 2021, 20, 449–460. [CrossRef]
+23. Kalkowska, D.A.; Pallansch, M.A.; Cochi, S.L.; Thompson, K.M. Updated Characterization of Poliovirus Transmission in Pakistan
+and Afghanistan and the Impacts of Different Outbreak Response Vaccine Options. J. Infect. Dis. 2021, 224, 1529–1538. [CrossRef]
+24. Kalkowska, D.A.; Pallansch, M.A.; Cochi, S.L.; Thompson, K.M. Modeling Poliovirus Surveillance and Immunization Campaign
+Quality Monitoring Costs for Pakistan and Afghanistan for 2019–2023. Open Forum Infect. Dis. 2021, 8, ofab264. [CrossRef]
+25. Kalkowska, D.A.; Pallansch, M.A.; Wassilak, S.G.F.; Cochi, S.L.; Thompson, K.M. Serotype 2 oral poliovirus vaccine (OPV2)
+choices and the consequences of delaying outbreak response. Vaccine 2023, 

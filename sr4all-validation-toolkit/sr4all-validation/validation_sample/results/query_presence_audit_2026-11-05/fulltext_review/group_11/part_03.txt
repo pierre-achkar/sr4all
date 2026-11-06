@@ -1,0 +1,139 @@
+8].
+Bansal et al., 201615
+Risk of left ventricle hypertrophy was higher in patients with GFR between 60 and 75 ml/min/1.73 m2 than in those with GFR > 90 ml/min/1.73 m2 
+[(univariate) HR = 10.12 (5.22 – 15.02), p < 0.001; HR (multivariate analysis) = 5.63 (0.90 - 10.36), p = 0.02]
+Risk of left ventricular hypertrophy was higher in patients with GFR between 76 and 90 mL/min/1.73m2 than in those with GFR> 90 mL/min/1.73 m2 
+[HR (univariate analysis) = 3.48 (1, 29 - 5.68), p = 0.002].
+Abid et al., 20167
+Patients who developed non-fatal cardiovascular events showed higher levels of cystatin C compared to patients who did not develop these 
+events (1.19 ± 0.4 mg/L x 1.01 ± 0.35 mg/L, p = 0.01)
+Patients who developed fatal cardiovascular events showed higher levels of cystatin C compared to patients who did not develop these events 
+(1.21 ± 0.36 mg/L x 0.96 ± 0.27 mg/L, p = 0.03)
+Survival of patients with cystatin C levels < 1.2 mg/L was higher than in patients with cystatin levels > 1.2 mg/L (p < 0.01).
+Woitas et al., 201318
+Patients with CAD showed higher levels of cystatin C than the control group (1.02 ± 0.44 mg/L x 0.92 ± 0.26 mg/L, p = 0.065
+Risk of cardiovascular death and death from any cause of fourth quartile patients was higher than that of first quartile patients [HR (univariate) 
+= 4.82 (3.69 - 6.29), p < 0.001; HR (multivariate) = 2.05 (1.48 - 2.84), p < 0.001].
+Risk of cardiovascular death and death from any cause of third quartile patients was higher than that of first quartile patients [HR (univariate) = 
+2.11 (1.58 - 2.81), p < 0.001; HR (multivariate) = 1.20 (0.88 - 1.65), p < 0.243].
+Dupont et al., 20128 Risk of death from any cause and non-fatal cardiovascular event of patients in the fourth quartile was higher than in patients in the first 
+quartile (p = 0.002).
+Gao et al., 201121
+Patients who developed fatal or non-fatal cardiovascular events showed higher levels of cystatin C compared to patients who did not develop 
+these events (1.63 ± 0.81 mg/L x 0.91 ± 0.27 mg/L, p = 0.001)
+Risk of fatal or non-fatal cardiovascular events in patients with cystatin C levels> 0,9 mg/L was higher than in patients with cystatin levels 
+< 0.9 mg/L [(univariate) HR = 3.58 (2.61 - 4.82), p = 0.033; HR (multivariate) = 7.10 (3.36 – 23.75), p = 0,006].
+Keller et al., 200917
+Patients with cardiovascular death had higher levels of cystatin C than patients without cardiovascular death [0.94 (0.79 - 1.08 x 0.79 (0.70 - 0.90), 
+p < 0.001].
+Risk of cardiovascular death of patients in the fourth quartile was higher than in patients in the other quartiles [OD (univariate) = 3.87 (2.33-6.42), 
+p < 0.001; OD (multivariate) = 1.86 (0.90-3.81), p = 0.09].
+Gao et al., 200922
+Patients with AMI and unstable angina had higher levels of cystatin C than the control group (2873.55 ± 1148.48 ng/mL x 1509.99 ± 
+408.65 ng/mL, p < 0.01 and 2013.83 ± 633.85 ng/mL x 1509.99 ± 408.65 ng/mL, p < 0.05, respectively).
+Patients with AMI and unstable angina had higher levels of cystatin C than the patients with stable angina (2873.55 ± 1148.48 ng/mL x 
+1348.41 ± 369.62 ng/mL, p < 0.01 and 2013.83 ± 633.85 ng/mL x 1348.41 ± 369.62 ng/mL, p < 0.01, respectively).
+Patients with AMI had higher levels of cystatin C than the patients with stable angina (2873.55 ± 1148.48 ng/mL x 2013.83 ± 633.85 ng/mL, p < 0.05).
+Patients who developed fatal or non-fatal cardiovascular events showed higher levels of cystatin C compared to patients who did not develop 
+these events (2356,73 ± 897,64 ng/L x 1469.51 ± 574.83 ng/L, p = 0.006)
+Alehagen et al., 200920 Risk of cardiovascular death of fourth quartile patients was higher than that of first quartile patients [HR (univariate analysis) = 3.61 (1.81 – 7.14)].
+Acuna et al., 200916
+The proportion of patients with cystatin C levels > 0.95 mg/L who had cardiovascular death was higher than that of patients with cystatin C 
+levels ≤ 0.95 mg/L [16 (27.1%) x 6 (7.8%), p = 0.01].
+The proportion of patients with cystatin C levels> 0.95 mg/L who develop HF was higher than that of patients with cystatin C levels ≤ 0.95 mg/L 
+[22 (40.7%) x 6 (7.5%), p = 0.01].
+Koenig et al., 200724
+Each increase of 0.18 mg/L cystatin C was associated with an increased risk of cardiovascular death [OD = 1.42 (1.30 -1.54)], death from any 
+cause [OD = 1.33 1.25-1.40)], HF [OD = 1.28 (1.17-1.40)], stroke [OD = 1.22 (1.08-1.38)] and AMI [OD = 1.20 (1.06-1.36)].
+Patients with high levels of cystatin C had more adverse events than those with reduced levels of cystatin C (p < 0.001).
+Ix et al., 200723
+Risk of death from any cause of fourth quartile patients was higher than that of first quartile patients [HR (univariate) = 5,7 (3,1 - 10,5), 
+p < 0.001; HR (multivariate) = 3,6 (1,8 - 7,0), p < 0.001].
+Risk of cardiovascular events of fourth quartile patients was higher than that of first quartile patients [HR (univariate) = 3.8 (2.1 – 6.9), 
+p < 0.001; HR (multivariate) = 2.0 (1.0 – 3.8), p < 0.04].
+Risk of CHF in patients in the fourth quartile was higher than in patients in the first quartile [HR (univariate) = 6.1 (2.5 - 14.5), p = 0.001; 
+HR (multivariate) = 2.6 (1.0 - 6.9), p = 0.05].
+CAD: Coronary artery disease; AMI: Acute Myocardial Infarction; GFR: Glomerular filtration rate; HR: Hazard Ratio.
+802
+
+[W2888207460 PDF PAGE 8]
+Original Article
+Einwoegerer & Domingueti
+Cystatin C and cardiovascular event or mortality
+Arq Bras Cardiol. 2018; 111(6):796-807
+Table 5 – Evaluation of study quality according to Newcastle-Ottawa Scale
+Author/Year Selection 1 2 3 4 Comparability 5 Outcomes 6 7 8 Total score
+Sai et al., 201619 * * * - ** * * * 8
+Bansal et al., 201615 * * * - ** * * * 8
+Abid et al., 20167 * * * - * * * * 7
+Woitas et al., 201318 * * * - ** * * * 8
+Dupont et al., 20128 * * * - * * * * 7
+Gao et al., 201121 * * - - ** * * * 7
+Keller et al., 200917 * * * - ** * * * 8
+Gao et al., 200922 * * - - * * - * 5
+Alehagen et al., 200920 * * * - * * * * 7
+Acuna et al., 200916 * * * - * * * * 7
+Koenig et al., 200724 * * - * * * * * 7
+Ix et al., 200723 * * * - ** * * * 9
+1 - Representativeness of the exposed cohort: all the studies received one star, because the exposed cohort was a little representative of the average in the community; 
+2 - Selection of the unexposed cohort: all studies received one star, because the unexposed cohort was obtained in the same community of the exposed cohort; 
+3- Determination of exposure: only studies that dosed cystatin C using the immunonephelometry or immunoturbidimetry methods received a star; 4 - Demonstration 
+that the outcome of interest was not present at the beginning of the study: studies in which patients did not present any cardiovascular disease at the beginning of the 
+study received one star; 5 - Cohort comparability based on design and analysis: studies that performed multivariate regression analysis of Cox proportional hazards 
+and defined normal renal function as GFR > 60 mL/min/1.73 m 2 received 2 stars. Studies that only defined normal renal function as GFR > 60 mL/min/1.73 m2 but 
+did not perform multivariate regression analysis of Cox proportional hazards received 1 star. 6 - Determination of outcome: all studies received one star, because the 
+evaluation of the outcome was performed by the physicians independently; 7 - Adequate follow-up period for the occurrence of outcome (s): studies in which patients 
+were followed for at least six months received one star, and studies in which patients were followed for less than six months did not receive a star; 8 - Adequacy of the 
+follow-up period of the cohort: studies in which at least 90% of the patients were followed to the end or who did not comment if there were significant loss of patients 
+during follow-up received one star.
+indicate that there is a significant association between high 
+levels of cystatin C and the development of cardiovascular 
+events or mortality in subjects with normal renal function 
+assessed by serum creatinine-based GFR.
+A possible mechanism for the association between high 
+levels of cystatin C and the development of cardiovascular 
+events is related to the atherogenic process. The development 
+of lesions in the arteries endothelium results in the 
+accumulation of cholesterol in the artery wall, and in the 
+development of the atherosclerotic plaque. 25 It has been 
+suggested that lysosomal cathepsins, whose production is 
+stimulated by inflammatory cytokines, may contribute to 
+the degradation of the atherosclerotic plaque.  As cystatin 
+C is able to inhibit lysosomal cathepsins, it is possible to 
+suggest that elevated levels of cystatin C may contribute 
+to non -degradation of atherosclerotic plaque, resulting in 
+increased risk of cardiovascular events.26,27
+Another possible mechanism is related to the fact that 
+cystatin C presents a greater sensitivity for the detection of 
+the initial stages of renal dysfunction than serum creatinine 
+or creatinine-based GFR. 28,29 Several authors have already 
+demonstrated that renal dysfunction is associated with an 
+increased risk of cardiovascular events.30,31 Thus, it is possible 
+to suggest that patients who have normal renal function 
+assessed by GFR based on creatinine or serum creatinine but 
+who have high levels of cystatin C may present with renal 
+dysfunction at an earlier stage, which could be associated 
+with an increased risk of cardiovascular events.
+1.281
+0.718
+0.346
+0.166
+18.7%
+81.3%
+100.0%
+3.60 [1.83, 7.09]
+2.05 [1.48, 2.84]
+0.01 0.1 1 10 100
+Favours [experimental] Favours [control]
+Ix et al., 2007
+Woitas et al., 2013
+Total (95% Cl)
+Heterogeneity: Chi2 = 2.15, df = 1 (p = 0.14); I2 = 54%
+Test for overall effect: Z = 5.50 (p < 0.00001)
+Study or Subgroup log[Hazard Ratio] SE Weight IV, Fixed, 95% Cl IV, Fixed, 95% Cl
+Hazard Ratio Hazard Ratio
+Figure 2 – Metanalysis of studies evaluating the association between high levels of cystatin C and the risk of mortality from any cause through the comparison between 
+the fourth and first quartiles of cystatin C.
+803
+
+[W2888207460 

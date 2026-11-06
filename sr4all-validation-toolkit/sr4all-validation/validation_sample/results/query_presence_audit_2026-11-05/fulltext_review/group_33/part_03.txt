@@ -1,0 +1,321 @@
+towards adulthood.
+N = 51 adolescents, between the 
+ages of 13 to 21, who were leav-
+ing and left residential care.
+Mixed method study: An unstruc-
+tured narrative interview, a struc-
+ture interview and self-reported 
+information.
+Quantitative data were 
+analyzed using descriptive 
+statistics. For qualitative 
+data, narratives extracts 
+were used.
+Three patterns were found: crime 
+free care leavers that reported no 
+criminal activity at least in two 
+interviews (73% of the sample), 
+those who reported “incidental 
+crime” in one interview with the 
+crime being low severity (10% 
+of the participants), and those 
+who reported regular crime in 
+two or more follow-up inter-
+views (18% of the participants).
+Origin of the Data: Incarcerated Serious and Violent Young Offender Study (ISVYOS)
+Table 4 (continued) 
+1 3
+329
+
+[W4310080459 PDF PAGE 8]
+Adolescent Research Review (2023) 8:323–337
+(Cusick et al., 2012; Häggman-Laitila et al., 2020; Prince 
+et al., 2019; Toivonen et al., 2020), except in the study 
+by Mitchell et al. ( 2015), i.e., substance abuse was more 
+common among females than males. Diagnosed substance 
+addiction or substance abuse was more common among 
+adolescents who had been placed in out-of-home care three 
+times or more than among adolescents who had been placed 
+in out-of-home care once or twice (Häggman-Laitila et al., 
+2020; Toivonen et al., 2020). Shpiegel et al. (2020) divided 
+the study population into different types of foster care to 
+investigate substance abuse prevalence; accordingly, 17% 
+of adolescents in relative foster care, 42.4% of adolescents 
+in nonrelative foster care, 27.3% of adolescents in a group 
+home or institution, and 13.6% of adolescents in other set -
+tings were found to demonstrate substance abuse (Shpiegel 
+et al., 2020).
+Moreover, Prince et al. ( 2019) found that both adoles -
+cents whose last placement had been in a group home or 
+institutional setting and adolescents who had run away dem-
+onstrated elevated odds of substance abuse when compared 
+to adolescents whose last placement had been non-relative 
+foster home. Also, removal from home because of a child’s 
+behavioral or emotional problems elevated the odds of sub-
+stance abuse.
+Delinquency
+Delinquency was the second most commonly reported form 
+of high-risk behavior in the included studies (Table 5). In 
+three studies, delinquency was divided based on manifesta-
+tion and severity (Cusick et al., 2012; Liu et al., 2020; van 
+Breda, 2020). Adolescents who had been placed in out-of-
+home care are at a 2.5 times greater risk of incarcerated rela-
+tive to adolescents who have not been in out-of-home care 
+(Yang et al., 2017); furthermore, each additional placement 
+increases the risk for arrest by 4% (Cusick et al., 2012). The 
+prevalence of delinquent behavior ranged from approxi -
+mately 2% (Liu et al., 2020) to almost 45% (Cusick et al., 
+2012). Most of the included studies reported that almost 
+one-quarter of care leavers had committed crimes or were 
+incarcerated (Cusick et al., 2012; Kelly, 2020; Mitchell et 
+Results
+Characteristics of the Studies
+The studies (N = 16) were conducted in five countries: 
+Canada (n = 1); China (n = 1); Finland (n = 3); South Africa 
+(n = 1); and the United States (n = 10). The studies employed 
+cross-sectional and cohort designs, with some included lon-
+gitudinal follow-up surveys and structured interviews. This 
+review also includes one mixed methods study, but only the 
+quantitative data were synthesized. Several of the included 
+studies utilized the same data source, i.e., the 16 original 
+articles report data from seven different sources. The studies 
+described a total of five manifestations of high-risk behav -
+ior, namely, substance abuse (n = 14), delinquency (n = 12), 
+sexual behavior (n = 3), irresponsible use of money (n = 1), 
+and self-destructive behavior (n = 1). The number of partici-
+pants per study ranged from 51 to 7449 and included ado -
+lescents in aftercare services and/or adolescents who were 
+transitioning from out-of-home care (Table 4).
+Substance Abuse
+Substance abuse was the most common form of high-risk 
+behavior described in the included studies, with most of 
+the adolescents who exhibited this type of behavior abus -
+ing alcohol and drugs (Table 5). Substance abuse among 
+adolescents ranged from around 5% (Liu et al., 2020) to 
+almost 35% (Brown et al., 2015). Most of the studies did not 
+specify percentages of substance abuse for different illicit 
+substances. Among adolescents in aftercare, 45% smoked, 
+8% used snuff, 67% abused alcohol, 34% used drugs, 
+28% smoked cannabis, and 9% reported abusing medica -
+tions (Häggman-Laitila et al., 2020). Longitudinal studies 
+in which adolescents became independent and transitioned 
+from out-of-home care at different times showed a signifi -
+cant reduction in substance abuse over this time period (e.g., 
+Brown et al., 2015).
+Statistically significant connections were found between 
+substance abuse and gender, number of placements, place -
+ment type, and reason for placement (Table 6). Substance 
+abuse was generally more common among men than women 
+Author(s), 
+year, and 
+country
+Aim Sample, design, and data 
+collection
+Data analysis Results
+Yang et 
+al., 2017, 
+Canada
+Examine whether children and 
+youth in care (CYIC) were 
+disproportionately more likely 
+than non- CYIC to show pat-
+tern of chronic offending and 
+engage in more serious forms 
+of crime.
+N = 364 adolescents, between the 
+ages of 18 to 23, who have been 
+incarcerated and 211 of them had 
+history in foster care (CYIC). 
+Quantitative study: data from 
+database.
+Multinomial logistic 
+regression analysis was 
+used to examine the 
+relationship between 
+placement in foster care 
+and continued chronic 
+offending.
+CYIC status increased the odds 
+of chronic offending between 
+adolescence and adulthood. 
+Finding may be gender specific.
+Table 4 (continued) 
+1 3
+330
+
+[W4310080459 PDF PAGE 9]
+Adolescent Research Review (2023) 8:323–337
+Statistically significant connections between delin -
+quency and background factors (gender, race, number of 
+al., 2015; Prince et al., 2019; Shpiegel & Cascardi, 2018; 
+van Breda, 2020).
+Author(s), year Substance abuse Delinquency Sexual 
+behavior
+Irresponsible 
+use of money 
+and self-destruc-
+tive behavior
+Brown et al., 
+2015
+From 34.7% (at age 17) 
+to 14.4% (at age 21)
+Courtney & 
+Hook, 2017
+26% used drugs, while 
+21% abused alcohol
+A mean value of 4.33 on a 
+scale from 0–14
+Cusick et al., 
+2012
+19.6% had an alcohol or 
+substance abuse diagnosis
+46% had been arrested
+Dworsky et al., 
+2013
+The odds ratio between 
+becoming homeless and 
+substance abuse was 
+0.983
+The odds ratio between 
+becoming homeless and 
+delinquency was 1.121
+Häggman-
+Laitila et al., 
+2019a
+19.9% abused alcohol or 
+drugs
+Häggman-Lait-
+ila et al., 2020
+45% smoked, 8% used 
+snuff, 67% abused alco-
+hol, 34% used drugs, and 
+9% abused medication
+10% had 
+sexually 
+transmitted 
+disease, 
+41% had 
+been preg-
+nant, 21% 
+had had an 
+abortion
+Kelly, 2020 10.8% abused substances 22.1% had been 
+incarcerated
+Liu et al., 2020 4.2% drank excessively 12.5% attacked or harmed 
+others, 4.2% stole, and 
+2.1% destroyed things or 
+properties
+20.8% had 
+risky sexual 
+behavior 
+or lacked 
+sexual 
+knowledge
+Financial 
+literacy skills 
+were compara-
+tively low (4.29 
+out of 5)
+Mitchell et al., 
+2015
+Less than a quarter 
+abused alcohol or drugs
+25% had been convicted
+Prince et al., 
+2019
+14.4% abused substances 22.4% had been 
+incarcerated
+Shpiegel et al., 
+2020
+12% abused substances 11% had been incarcerated
+Shpiegel & 
+Cascardi, 2018
+8.4% abused substances The incarceration rate var-
+ied from 28.5% (at age 19) 
+to 12.2% (at age 21)
+Toivonen et al., 
+2020
+11% abused substances 10% had 
+a sexually 
+transmitted 
+disease
+2% had a 
+history of 
+intoxication
+van Breda 2020 27% engaged in criminal 
+activity
+Yang et al., 
+2017
+Being in out-of-home 
+care increased the odds 
+of risk behavior such as 
+substance abuse
+Being in out-of-home care 
+increased the odds of an 
+earlier conviction, spending 
+more time being incarcer-
+ated, and having a greater 
+number of convictions
+Zinn et al., 
+2017
+The average score for 
+delinquent acts committed 
+during the prior year was 
+0.41
+Table 5 The Forms and Preva-
+lence of High-Risk Behavior in 
+the Included Studies
+ 
+1 3
+331
+
+[W4310080459 PDF PAGE 10]
+Adolescent Research Review (2023) 8:323–337
+increased the risk for arrest by 95% (Cusick et al., 2012), 
+and similar associations were reported by Mitchell et al. 
+(2015) and Shpiegel et al. ( 2020). Placement in a group 
+home or institutional setting – relative to other care set -
+tings – increased the odds of delinquency (Cusick et al., 
+2012; Prince et al., 2019), while running away (Prince et al., 
+placements, placement form, and other factors) were found 
+(Table 6). For example, male gender increased the risk for 
+arrest by 100% (Cusick et al., 2012); however, Mitchell et 
+al. ( 2015) reported that the records show that half of the 
+convicted adolescents were male, and the other half were 
+female. Being African American, compared to being White, 
+Background 
+factor
+Substance abuse Delinquency Other forms of 
+risk behavior
+Gender More common among 
+males than females (Cusick 
+et al., 2012; Häggman-
+Laitila et al., 2020; Prince 
+et al., 2019; Toivonen et 
+al., 2020).
+Male gender, as compared to female 
+gender, increased the hazard rate for arrest 
+by 100% (Cusick et al., 2012); females 
+spend less time incarcerated and had fewer 
+convictions than male (Yang et al., 2017).
+Problems related 
+to sexually trans-
+mitted diseases, 
+sexual health and 
+sexual behav-
+ior were more 
+common among 
+women than men 
+(Häggman-Lait-
+ila et al., 2020; 
+Toivonen et al., 
+2020).
+Race Being African American, as compared to 
+being White, increased the hazard rate for 
+arrest by 95% (Cusick et al., 2012).
+Number of 
+placements
+Adolescents who had been 
+placed in out-of-home care 
+three times or more were 
+more likely to d

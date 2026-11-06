@@ -1,0 +1,166 @@
+analysis. p < 0.05 
+was considered significant bias.
+Results
+Study searches and characteristics. A total of 369 literatures about Syn, 282 literatures about CD56, 
+300 literatures about NSE, and 278 literatures about CgA were identified as potentially eligible for inclusion. A 
+flow diagram of the study selection is shown in Fig. 1. Of the remaining 42 studies warranting furthering review, 
+41 studies were case series and 1 study was a case report. 42 studies were harmonized for inclusion criteria, 
+comprising 29 from Asia (China, Japan, Indian, and Thailand), 4 from Europe (England, Germany, Poland), 8 
+from the United States of America and 1 from Canada. All included studies were retrospective and a total of 581 
+patients were enrolled in the stratified meta-analyses. Characteristics of studies used in the research are enumer-
+ated in the Table 1.
+For the 42 studies in the meta-analysis, 36 SCNECC studies involved  Syn1–23,30–42, 23 studies involved 
+ CD561,2,6,7,9,10,12,13,15,17–19,30,32–38,40–42, 23 studies involved  NSE1–3,6,7,12,13,15,17,21,22,24–30,32–34,38,42and 36 stud-
+ies involved  CgA1–7,9,10,12,13,15–23,25,28–42. 26 studies provided information about positive expression rates for 
+two markers. There were 15 studies about Syn and  CD561,6,7,9,12,13,15,17–19,32–34,36,42, 15 studies about Syn and 
+ NSE1,3,6,7,12,13,17,18,22,25,32–34,38,42, 23 studies about Syn and  CgA1,3,4,6,7,9,12,13,15,17–20,22,23,25,31–34,36,39,42, 9 studies about 
+CD56 and  NSE1,6,7,12,17,18,33,38,42, 12 studies about CD56 and  CgA1,6,7,9,12,13,15,17–19,33,42and 15 studies about NSE 
+and  CgA1,3,6,7,12,13,17,18,21,22,25,29,33,38,42. The positive expressions of one marker and two markers are illustrated in 
+the Table 2. For the description of IHC positive staining, 30 studies took the first method, 2 studies the second 
+method, and 10 studies the third method respectively.
+Meta–analyses of expression percentage of neuroendocrine markers. Results of the pooled posi-
+tive expression percentages (95% CI) were as follows: 84.84% (79.41% to 90.27%) for Syn, 84.53% (79.43% to 
+89.96%) for CD56, 77.94% (69.13% to 86.76%) for NSE, and 72.90% (67.40% to 78.86%) for CgA (Fig.  2a–d). 
+The transform methods of six combination expression levels were showed separately in Table  3. The positive 
+proportions with 95% CIs expressed by the two markers from high to low were 87.75% (82.03% to 93.87%) 
+for Syn and CD56, 70.92% (50.50% to 87.68%) for Syn and NSE, 65.65% (53.33% to 76.98%) for Syn and CgA, 
+64.09% (43.38% to 84.79%) for CD56 and NSE, 59.55% (45.53% to 72.81%) for NSE and CgA, 50.98% (40.52% 
+to 61.39%) for CD56 and CgA (Fig. 3a–f).
+test of heterogeneity. The heterogeneity among studies included for the meta-analysis of Syn was evalu-
+ated firstly. As seen in Table 3, a random effect model was used because  I2 was 76.7% with p value < 0.05. Simi-
+larly, random effect models were selected for other three single markers and four combinations (Syn and NSE, 
+Syn and CgA, CD56 and NSE, NSE and CgA). While, fixed effect models were selected for two combinations 
+(Syn and CD56, CD56 and CgA) since p value > 0.05.
+
+[W3084988572 PDF PAGE 4]
+4
+Vol:.(1234567890)Scientific RepoRtS  |        (2020) 10:14975  | https://doi.org/10.1038/s41598-020-72055-x
+www.nature.com/scientificreports/
+First author and year Country Institution Case number Age (y) Histological type FIGO stage
+Overall survival (m), 
+death(n)
+Chen 1994 China National Taiwan Univer-
+sity Hospital 6 U SCNECC U U, U
+Cheng 2008 China Peking Union Medical 
+College7 24–61 SCNECC 1 IB1, 2 IB2, 2 IIB, 2 IIIB 5–64, 3
+Conner 2002 USA The University of Ala-
+bama at Birmingham23 23–63 SCNECC IB-IIB 6–273, 15
+Deng 2010 China Shanghai First Maternity 
+and Infant Hospital9 31–54 SCNECC 6 IBl, 2 IB2, 1 IVB 6–104, 1
+Emerson 2015 USA Indiana University School 
+of Medicine11 18–79 5SCNECC
+6Mixed SCNECCU 9–122, 5
+Fujii 1986 Japan Kyoto University 2 30, 31 1SCNECC
+1Mixed SCNECC 2 IB 6–14, 2
+Ganesan 2016 UK Birmingham Women’s 
+NHS Foundation Trust23 23–79 16SCNECC
+7Mixed SCNECC22 I-II + , 1 U 0.2–57.3, U
+Giorgadze 2012 USA Wayne State University 3 34–54 SCNECC 1 IIIB, 2 U U, 1
+Horn 2006 Germany University of Leipzig 9 24–61 4SCNECC
+5Mixed SCNECC 6 IB1, 1 IB2, 1 IIA, 1 IIB 15.6–151.2, 4
+Inoue 1985 Japan Osaka University Medical 
+School6 U SCNECC IA-IIIB U, U
+Ishida 2004 Japan Y amagata University 
+School of Medicine10 30–59 3SCNECC
+7Mixed SCNECCU U, U
+Kajiwara 2008 Japan
+Saitama Medical Univer-
+sity International Medical 
+Center
+5 23–73 3SCNECC
+2Mixed SCNECC
+1 IB1, 1 IIA, 1 IIB, 1 IIIA, 
+1 IIIB11–18, 3
+Kuji 2017 Japan Shizuoka Cancer Center 
+Hospital 29 26–76 24SCNECC
+5Mixed SCNECCIB1-IVB U, U
+Lenczewski 2001 Poland Medical Academy of 
+Białystok 6 U SCNECC IB-IIA U, U
+Li 2011 China Sun Y at-Sen University 25 24–65 19SCNECC
+6Mixed SCNECC12 IB1, 5 IB2, 5 IIA, 3 IIB 5–62, U
+Li 2013 China Shanghai First Maternity 
+and Infant Hospital6 31–74 5SCNECC
+1Mixed SCNECC4 IB1, 1 IIA, 1 IIB U, U
+Qin 2011 China
+Tumor Hospital of 
+Guangxi Medical Uni-
+versity
+12 28–57 SCNECC 2 IB1, 3 IB2, 1 IIA, 1 IIB, 
+3 IIIB, 2 IV 0.6–21.8, 4
+Rekhi 2012 India Tata Memorial Hospital 25 23–69 20SCNECC
+5Mixed SCNECC
+13 U, 2 IB1, 1 IIA, 3 IIB, 2 
+IIIA, 1 IIIB, 2 IV A, 1 IVB3–36, 4
+Sato 2003 Japan Miyazaki Prefectural 
+Hospital2 47, 42 SCNECC 1 IB, 1 IIA U, 1
+Sheridan 1996 UK Weston Park Hospital 5 29–41 SCNECC U U, U
+Sitthinamsuwan 2013 Thailand Medicine Siriraj Hospital 11 34–55 8SCNECC
+3Mixed SCNECC4 IB, 5 IIB, 1 IIIB, 1 IVB 4–60, 7
+Stoler 1991 USA The University of 
+Rochester20 U SCNECC U U, U
+Straughn 2001 USA University of Alabama 16 23–53 SCNECC 11 IB, 4 IIB, 1 IV 6–264, 11
+Tsunoda 2005 Japan School of Medicine, 
+Kitasato University11 32–65 SCNECC 4 IB, 3 IIB, 3 IIIB,1 IV 4–144, 8
+Ueda 1989 Japan Osaka University Medical 
+School10 U SCNECC U U, U
+Van 1988 USA University of Kentucky 
+Medical Center15 U SCNECC IB-IVB U, U
+Viswanathan 2004 USA Brigham and Women’s 
+Hospital21 26–78 SCNECC 10 IB1, 5 IB2, 2IIA, 1 IIB, 
+3 IIIB6–209, U
+Wang 2013 China Sichuan Cancer Hospital 13 21–62 SCNECC U U, U
+Xing 2018 USA The University of 
+Alabama 10 28–68 SCNECC U 2–126, 4
+Hu 2018 China Zhengzhou University 35 29–76 28SCNECC
+7Mixed SCNECC
+6 IB1, 8 IB2, 12 IIA, 4 IIB, 
+3 IIIA, 1 IV A, 1 IVBU, 8
+Han 2018 China Beijing Obstetrics and 
+Gynecology Hospital18 24–66 SCNECC 6 IB1, 5 IB2, 4 IIA2, 2 
+IIB,1 IIIBU, 8
+Y ang 2018 China Guigang City People’ 
+Hospital 18 25–74 17SCNECC
+1Mixed SCNECC
+5 IB, 6 IIA, 3 IIB, 1 IIIA, 1 
+IIIB, 2 IVBU, 4
+Zeng 2018 China Guizhou Medical Uni-
+versity 8 28–51 6SCNECC
+2Mixed SCNECC4 IB1, 1 IB2, 1IIA2, 2 IIB U, 4
+Zhi 2018 China Department of Pathology 
+of Xi’an No. Hospital10 31–54 SCNECC 7 IB1, 1 IB2, 2 IIA U, 4
+Continued
+
+[W3084988572 PDF PAGE 5]
+5
+Vol.:(0123456789)Scientific RepoRtS  |        (2020) 10:14975  | https://doi.org/10.1038/s41598-020-72055-x
+www.nature.com/scientificreports/
+The sensitivity and specificity of neuroendocrine markers expression. Only 6 studies described 
+IHC staining of neuroendocrinenon markers in non-SCNECC  patients8–10,24,28,29. In three of these studies, non-
+SCNECC patients were larger cell NECC (LCNECC)  patients8–10. So the sensitivity and specificity of neuroen-
+docrine markers can be calculated simultaneously in only 3 studies. The results were shown in Supplementary 
+Table 1. This part of results was not further meta-analyzed because of the small sample size.
+Quality assessment. 42 studies included 39 full articles and 3 abstracts. Only the full articles were per -
+formed for quality assessment by appraisal  checklists43, which included two different assessment forms, sepa-
+rately used for case series (38 studies) and case reports (1 study). The quality assessment of case series was shown 
+in Supplementary Table 2. 80% enrolled studies gave positive response to 7 questions, and all studies satisfied 
+3 questions among them. The quality assessment of one case report was shown in Supplementary Table 3. The 
+results showed that only the adverse events or unanticipated events were not identified in the study (question 7).
+publication bias. Publication bias was evaluated via Egger’s test. The Egger’s test (p > 0.05) suggested no 
+significant publication bias. The results showed that the most of the literatures related to combined groups had 
+no significant publication bias (Table 3, Fig. 4e–i). While, literatures about single markers had significant publi-
+cation bias (Table 3, Fig. 4a-d).
+Discussion
+Precise diagnosis is very crucial for SCNECC treatment. This disease requires specialized management recom -
+mendations depending on its unique biological behavior. Our results confirmed that the positive expression 
+percentage of Syn was the highest among four classic neuroendocrine markers, and the positive rates of combi-
+nation (Syn and CD56) were the highest among six combinations (Fig. 5). This is the first meta-analysis of the 
+expression levels of neuroendocrine markers in SCNECC studies with the largest sample size. Therefore, the 
+results of quantitative evaluation will help us select suitable markers for assisting diagnosing SCNECC.
+The cancer cells of SCNECC have the similarity of neuroendocrine  characteristics44. This is also the basis for 
+distinguishing other morphologically similar tumors from SCNECC. Our study showed Syn had the highest 
+expression rate, followed by CD56 in single marker expression. The combination Syn and CD56 have the high-
+est positive expression rate in double marker expression simultaneously. The differences in the expression levels 
+of four neuroendocrine markers are related to their molecular characteristics. Syn is a calcium binding protein 
+located on the membrane of synapse vesicles, which diffusely expresses in the cytoplasm of neuroendocrine  cells4. 
+The molecular biological characteristic may explain why it is expressed with high degree. The expression level 
+of CD56 is second only to Syn. And the heterogeneity of CD56 expression is smaller than those

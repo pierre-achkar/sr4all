@@ -1,0 +1,154 @@
+t S, Deeks JJ, Reitsma JB,
+et al. QUADAS-2: a revised tool for the quality assessment of diagnostic accuracy
+studies.Ann Intern Med (2011) 155(8):529– 36. doi: 10.7326/0003-4819-155-8-
+201110180-00009
+Gao et al. 10.3389/fonc.2022.965357
+Frontiers inOncology frontiersin.org13
+
+[W4309267632 PDF PAGE 14]
+20. Baragilly M, Willis BH. On estimating a constrained bivariate random
+effects model for meta-analysis of test accuracy studies.Stat Methods Med Res
+(2022) 31(2):287– 99. doi:10.1177/09622802211065157
+21. Jones CM, Athanasiou T. Summary receiver operating characteristic curve
+analysis techniques in the evaluation of diagnostic tests.Ann Thorac Surg(2005) 79
+(1):16– 20. doi:10.1016/j.athoracsur.2004.09.040
+22. Higgins JP, Thompson SG, Deeks JJ, Altman DG. Measuring inconsistency
+in meta-analyses.BMJ. (2003) 327(7414):557– 60. doi:10.1136/bmj.327.7414.557
+23. Ruppar T. Meta-analysis: How to quantify and explain heterogeneity?Eur J
+Cardiovasc Nurs(2020) 19(7):646– 52. doi:10.1177/1474515120944014
+24. Lin L, Chu H. Quantifying publication bias in meta-analysis.Biometrics.
+(2018) 74(3):785– 94. doi:10.1111/biom.12817
+25. Lin SC, Liu CJ, Lin JA, Chiang WF, Hung PS, Chang KW. miR-24 up-
+regulation in oral carcinoma: positive association from clinical andin vitroanalysis.
+Oral Oncol(2010) 46(3):204– 8. doi:10.1016/j.oraloncology.2009.12.005
+26. Liu CJ, Kao SY, Tu HF, Tsai MM, Chang KW, Lin SC. Increase of
+microRNA miR-31 level in plasma could be a potential marker of oral cancer.
+Oral Dis(2010) 16(4):360– 4. doi:10.1111/j.1601-0825.2009.01646.x
+27. Yang CC, Hung PS, Wang PW, Liu CJ, Chu TH, Cheng HW, et al. miR-181
+as a putative biomarker for lymph-node metastasis of oral squamous cell carcinoma.
+JO r a lP a t h o lM e d(2011) 40(5):397– 404. doi:10.1111/j.1600-0714.2010.01003.x
+28. Lu YC, Chen YJ, Wang HM, Tsai CY, Chen WH, Huang YC, et al.
+Oncogenic function and early detection potential of miRNA-10b in oral cancer
+as identiﬁed by microRNA proﬁling. Cancer Prev Res (Phila)(2012) 5(4):665– 74.
+doi: 10.1158/1940-6207.CAPR-11-0358
+29. Maclellan SA, Lawson J, Baik J, Guillaud M, Poh CF, Garnis C. Differential
+expression of miRNAs in the serum of patients with high-risk oral lesions.Cancer
+Med (2012) 1(2):268– 74. doi:10.1002/cam4.17
+30. Hung PS, Liu CJ, Chou CS, Kao SY, Yang CC, Chang KW, et al. miR-146a
+enhances the oncogenicity of oral carcinoma by concomitant targeting of the
+IRAK1, TRAF6 and NUMB genes.PloS One (2013) 8(11):e79926. doi: 10.1371/
+journal.pone.0079926
+3 1 .L i uC J ,T s a iM M ,T uH F ,L u iM T ,C h e n gH W ,L i nS C .m i R - 1 9 6 a
+overexpression and miR-196a2 gene polymorphism are prognostic predictors of
+oral carcinomas.Ann Surg Oncol(2013) 20 Suppl 3:S406– 414. doi:10.1245/s10434-
+012-2618-6
+32. Ren W, Qiang C, Gao L, Li SM, Zhang LM, Wang XL, et al. Circulating
+microRNA-21 (MIR-21) and phosphatase and tensin homolog (PTEN) are
+promising novel biomarkers for detection of oral squamous cell carcinoma.
+Biomarkers.(2014) 19(7):590– 6. doi:10.3109/1354750X.2014.955059
+33. Ries J, Vairaktaris E, Agaimy A, Kintopp R, Baran C, Neukam FW, et al.
+miR-186, miR-3651 and miR-494: potential biomarkers for oral squamous cell
+carcinoma extracted from whole blood.Oncol Rep (2014) 31(3):1429– 36. doi:
+10.3892/or.2014.2983
+34. Lu YC, Chang JT, Huang YC, Huang CC, Chen WH, Lee LY, et al.
+Combined determination of circulating miR-196a and miR-196b levels produces
+high sensitivity and speciﬁcity for early detection of oral cancer.Clin Biochem
+(2015) 48(3):115– 21. doi:10.1016/j.clinbiochem.2014.11.020
+35. Tachibana H, Sho R, Takeda Y, Zhang X, Yoshida Y, Narimatsu H, et al.
+Circulating miR-223 in oral cancer: Its potential as a novel diagnostic biomarker
+and therapeutic target.PloS One (2016) 11(7):e0159693. doi: 10.1371/
+journal.pone.0159693
+36. Xu H, Yang Y, Zhao H, Yang X, Luo Y, Ren Y, et al. Serum miR-483-5p: A
+novel diagnostic and prognostic biomarker for patients with oral squamous cell
+carcinoma.Tumour Biol(2016) 37(1):447– 53. doi:10.1007/s13277-015-3514-z
+37. Liu CJ, Lin JS, Cheng HW, Hsu YH, Cheng CY, Lin SC. Plasma miR-187* is
+a potential biomarker for oral carcinoma.Clin Oral Investig(2017) 21(4):1131– 8.
+doi: 10.1007/s00784-016-1887-z
+38. Chang YA, Weng SL, Yang SF, Chou CH, Huang WC, Tu SJ, et al. A three-
+MicroRNA signature as a potential biomarker for the early detection of oral cancer.
+Int J Mol Sci(2018) 19(3):758. doi:10.3390/ijms19030758
+39. Chen L, Hu J, Pan L, Yin X, Wang Q, Chen H. Diagnostic and prognostic
+value of serum miR-99a expression in oral squamous cell carcinoma. Cancer
+biomark (2018) 23(3):333– 9. doi:10.3233/CBM-181265
+40. Sun G, Cao Y, Wang P, Song H, Bie T, Li M, et al. miR-200b-3p in plasma is
+a potential diagnostic biomarker in oral squamous cell carcinoma.Biomarkers.
+(2018) 23(2):137– 41. doi:10.1080/1354750X.2017.1289241
+41. Lu Z, He Q, Liang J, et al. miR-31-5p is a potential circulating biomarker and
+therapeutic target for oral cancer.Mol Ther Nucleic Acids(2019) 16:471– 80. doi:
+10.1016/j.omtn.2019.03.012
+42. Mahmood N, Hanif M, Ahmed A, et al. Circulating miR-21 as a prognostic
+and predictive biomarker in oral squamous cell carcinoma.Pak J Med Sci(2019) 35
+(5):1408– 12. doi:10.12669/pjms.35.5.331
+43. Crimi S, Falzone L, Gattuso G, Grillo CM, Candido S, Bianchi A, et al.
+Droplet digital PCR analysis of liquid biopsy samples unveils the diagnostic role of
+hsa-miR-133a-3p and hsa-miR-375-3p in oral cancer.Biology (2020) 9(11):379.
+doi: 10.3390/biology9110379
+44. Emami N, Mohamadnia A, Mirzaei M, Bayat M, Mohammadi F,
+Bahrami N. miR-155, miR-191, and miR-494 as diagnostic biomarkers for
+oral squamous cell carcinoma and the effects of avastin on these biomarkers.
+J Korean Assoc Oral Maxillofac Surg(2020) 46(5):341 – 7. doi: 10.5125/
+jkaoms.2020.46.5.341
+45. Karimi A, Bahrami N, Sayedyahossein A, Derakhshan S. Evaluation of
+circulating serum 3 types of microRNA as biomarkers of oral squamous cell
+carcinoma; a pilot study. J Oral Pathol Med (2020) 49(1):43– 8. doi: 10.1111/
+jop.12959
+46. Bigagli E, Locatello LG, Di Stadio A, Maggiore G, Valdarnini F, Bambi F,
+et al. Extracellular vesicles miR-210 as a potential biomarker for diagnosis and
+survival prediction of oral squamous cell carcinoma patients.J Oral Pathol Med
+(2022) 51(4):350– 7. doi:10.1111/jop.13263
+47. He T, Guo X, Li X, Liao C, Wang X, He K. Plasma-derived exosomal
+microRNA-130a serves as a noninvasive biomarker for diagnosis and prognosis of
+oral squamous cell carcinoma.J Oncol (2021) 2021:5547911. doi:10.1155/2021/
+5547911
+48. Nakamura K, Hiyake N, Hamada T, Yokoyama S, Mori K, Yamashiro K,
+et al. Circulating microRNA panel as a potential novel biomarker for oral
+squamous cell carcinoma diagnosis. Cancers (Basel) (2021) 13(3):449. doi:
+10.3390/cancers13030449
+49. Wang L, Song H, Yang S. MicroRNA-206 has a bright application prospect
+in the diagnosis of cases with oral cancer.J Cell Mol Med(2021) 25(17):8169– 73.
+doi: 10.1111/jcmm.16598
+50. Peng Q, Shen Y, Lin K, Zou L, Shen Y, Zhu Y. Comprehensive and
+integrative analysis identiﬁes microRNA-106 as a novel non-invasive biomarker
+for detection of gastric cancer.J Transl Med(2018) 16(1):127. doi:10.1186/s12967-
+018-1510-y
+51. Hu X, Peng Q, Zhu J, Shen Y, Lin K, Shen Y, et al. Identiﬁcation of miR-210
+and combination biomarkers as useful agents in early screening non-small cell lung
+cancer. Gene. (2020) 729:144225. doi:10.1016/j.gene.2019.144225
+52. Cai S, Ma J, Wang Y, Cai Y, Xie L, Chen X, et al. Biomarker value of miR-221
+and miR-222 as potential substrates in the differential diagnosis of papillary thyroid
+cancer based on data synthesis and bioinformatics approach.Front Endocrinol
+(2021) 12:794490. doi:10.3389/fendo.2021.794490
+53. Sun Z, Shi K, Yang S, Liu J, Zhou Q, Wang G, et al. Effect of exosomal
+miRNA on cancer biology and clinical applications.Mol Cancer(2018) 17(1):147.
+doi: 10.1186/s12943-018-0897-7
+54. Peng Q, Zhang X, Min M, Zou L, Shen P, Zhu Y. The clinical role of
+microRNA-21 as a promising biomarker in the diagnosis and prognosis of
+colorectal cancer: a systematic review and meta-analysis.Oncotarget. (2017) 8
+(27):44893– 909. doi:10.18632/oncotarget.16488
+55. Peng Q, Feng Z, Shen Y, Zhu J, Zou L, Shen Y, et al. Integrated analyses of
+microRNA-29 family and the related co mbination biomarkers demonstrate
+their widespread inﬂuence on risk, recurrence, metastasis and survival outcome
+in colorectal cancer.Cancer Cell Int(2019) 19:181. doi:10.1186/s12935-019-0907-x
+56. Peng Q, Shen Y, Lin K, Zou L, Shen Y, Zhu Y. Identiﬁcation of microRNA-
+92a and the related combination biomarkers as promising substrates in predicting
+risk, recurrence and poor survival of colorectal cancer.J Cancer (2019) 10
+(14):3154– 71. doi:10.7150/jca.30306
+57. Lin X, Wu W, Ying Y, Luo J, Xu X, Zheng L, et al. MicroRNA-31: a pivotal
+oncogenic factor in oral squamous cell carcinoma.Cell Death Discovery(2022) 8
+(1):140. doi:10.1038/s41420-022-00948-z
+58. Peng Y, Hu S, Zhang K, Wang Y, Rouzi M, Zhou D, et al. Downregulation of
+MicroRNA-130a inhibits oral squamous cell carcinoma proliferation and
+metastasisvia the hippo-YAP pathway. Cancer Manag Res (2021) 13:4829– 40.
+doi: 10.2147/CMAR.S287575
+59. Liu W, Shi X, Wang B. microRNA-133a exerts tumor suppressive role in
+oral squamous cell carcinoma through the notch signaling pathway via
+downregulation of CTBP2. Cancer Gene Ther (2022) 29(1):62– 72. doi: 10.1038/
+s41417-020-00289-y
+60. Yang K, Chen Y, Cui Z, Chen H, Yang L, Zhao J, et al. MicroRNA-222-3p
+participates in the development of oral squamous cell carcinoma by targeting
+CDKN1B.J Oral Pathol Med(2020) 49(7):621– 9. doi:10.1111/jop.12986
+6 1 .L iX ,L iY ,J i a n gC ,C h e nL ,G a nN .M i c r o R N A - 1 4 4 - 3 pi n h i b i t s
+tumorigenesis of oral squamous cell c arcinoma by downregulating ERO1L.
+J Cancer(2020) 11(3):759– 68. doi:10.7150/jca.33267
+62. Song H, Lai L, Liu M, Wang X, Zhang J, Zhang S. Investigating the role and
+mechanism of microRNA-196a in oral squamous cell carcinom

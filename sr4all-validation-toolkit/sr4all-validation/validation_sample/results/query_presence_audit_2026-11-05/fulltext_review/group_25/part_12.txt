@@ -1,0 +1,75 @@
+d adolescents were identified in the proposal of this systematic review. Most studies showed moderate to high methodological quality. It is important that development and validation prognostic studies follow a rigorous methodology in order to obtain higher quality findings and propositions. The analysis of this systematic review allows us to conclude that the ten prognostic models included in the final sample provide health professionals with a scientific evidence-based understanding of the severity of pediatric victims of severe TBI and of the need for surveillance of predictive factors associated with better or worse outcomes, considering that some of them are modifiable risk factors.  REFERENCES 1. Centers for Disease Control and Prevention. Report to Congress on Traumatic Brain Injury in the United States: Epidemiology and Rehabilitation. Atlanta (GA); 2015.   2. Young AMH, Guilfoyle MR, Fernandes H, Garnett MR, Agrawal S, Hutchinson PJ. The application of adult traumatic brain injury models in a pediatric cohort. J Neurosurg Pediatr. 2016;18(5):558–64. Doi: 10.3171/2016.5.PEDS15427. 3. Alali AS, Gomez D, Sathya C, Burd RS, Mainprize TG, Moulton R, et al. Intracranial pressure monitoring among children with severe traumatic brain injury. J Neurosurg Pediatr. 2015;16:523–32. Doi: 10.3171/2015.3.PEDS14507. 4. Hochstadter E, Stewart TC, Alharfi IM, Ranger A, Fraser DD. Subarachnoid Hemorrhage Prevalence and Its Association with Short-Term Outcome in Pediatric Severe Traumatic Brain Injury. Neurocrit Care. 
+
+[W3204513364 PDF PAGE 7]
+  Prognostic Models of Mortality from Accidental Severe Traumatic Brain Injury in Children and Adolescents:  
+ License terms
+  
+Copyright Ó 2021 by Melo and de Carvalho DOI: 10.46900/apn.v3i3(September-December).106  
+Archives of Pediatric Neurosurgery 3(3):e1062021,2021 
+e1062021 
+2014;21(3):505–13. Doi: 10.1007/s12028-014-9986-7. 10.1007/s12028-014-9986-7. 5. Liesemer K, Riva-Cambrin J, Bennett KS, Bratton SL, Tran H, Metzger RR, et al. Use of Rotterdam CT Scores for Mortality Risk Stratification in Children With Traumatic Brain Injury. Pediatr Crit Care Med. 2014;15(6):554–62. Doi: 10.1097/PCC.0000000000000150. 6. Rahimi S, Bidabadi E, Mashouf M, Seyed Saadat SM, Rahimi S. Prognostic value of arterial blood gas disturbances for in-hospital mortality in pediatric patients with severe traumatic brain injury. Acta Neurochir (Wien). 2014;156(1):187–92. Doi: 10.1007/s00701-013-1929-0. 7. Alharfi IM, Stewart TC, Kelly SH, Morrison GC, Fraser DD. Hypernatremia Is Associated with Increased Risk of Mortality in Pediatric Severe Traumatic Brain Injury. J Neurotrauma. 2013;30(5):361–6. Doi: 10.1089/neu.2012.2410. 8. Melo JRT, Di Rocco F, Blanot S, Oliveira-Filho J, Roujeau T, Sainte-Rose C, et al. Mortality in children with severe head trauma: Predictive factors and proposal for a new predictive scale. Neurosurgery. 2010;67(6):1542–7. Doi: 10.1227/NEU.0b013e3181fa7049. 9. Melo JRT, Di Rocco F, Lemos-Júnior LP, Roujeau T, Thélot B, Sainte-Rose C, et al. Defenestration in children younger than 6 years old: Mortality predictors in severe head trauma. Child’s Nerv Syst. 2009;25(9):1077–83. Doi: 10.1007/s00381-009-0924-5. 10. Bahloul M, Hamida C Ben, Chelly H, Chaari A, Kallel H, Dammak H, et al. Severe head injury among children: Prognostic factors and outcome. Injury. 2009;40(5):535–40. Doi: 10.1016/j.injury.2008.04.018. 11. Ducrocq SC, Meyer PG, Orliaguet G a, Blanot S, Laurent-Vannier A, Renier D, et al. Epidemiology and early predictive factors of mortality and outcome in children with traumatic severe brain injury: experience of a French pediatric trauma center. Pediatr Crit Care Med. 2006;7(5):461–7. Doi: 10.1097/01.PCC.0000235245.49129.27. 12. Geersing G-J, Bouwmeester W, Zuithoff P, Spijker R, Leeflang M, Moons KGM. Search filters for finding prognostic and diagnostic prediction studies in medline to enhance systematic reviews. PLoS One. 2012;7(2):3–8. Doi: 10.1371/journal.pone.0032844. 
+13. Moher D, Liberati A, Tetzlaff J, Altman DG. Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. PLoS Med. 2009;6(7):e1000097. Doi: 10.1371/journal.pmed.1000097. 14. Moons KGM, de Groot JAH, Bouwmeester W, Vergouwe Y, Mallett S, Altman DG, et al. Critical Appraisal and Data Extraction for Systematic Reviews of Prediction Modelling Studies: The CHARMS Checklist. PLoS Med. 2014;11(10):e1001744. Doi: 10.1371/journal.pmed.1001744. 15. PROSPERO - International Prospective Register of Systematic Reviews. [Internet]. Available: https://www.crd.york.ac.uk/prospero/  16. Oxford Centre for Evidence-based Medicine. Oxford Centre for Evidence-based Medicine – Levels of Evidence (March 2009) [Internet]. 2009 [citado 4 de outubro de 2017]. Available:http://www.cebm.net/oxford-centre-evidence-based-medicine-levels-evidence-march-2009/   17. Oxford Centre for Evidence-based Medicine. OCEBM Levels of Evidence [Internet]. 2011 [citado 4 de outubro de 2017]. Available: http://www.cebm.net/ocebm-levels-of-evidence/    18. Donders ART, van der Heijden GJMG, Stijnen T, Moons KGM. Review: A gentle introduction to imputation of missing values. J Clin Epidemiol. 2006;59(10):1087–91. Doi:  10.1016/j.jclinepi.2006.01.014. 19. Royston P, Altman DG, Sauerbrei W. Dichotomizing continuous predictors in multiple regression: A bad idea. Stat Med. 2006;25(1):127–41. Doi: 10.1002/sim.2331. 20. Altman DG, Vergouwe Y, Royston P, Moons KGM. Prognosis and prognostic research: validating a prognostic model. BMJ. 2009;338:b605–b605. Doi: 10.1136/bmj.b605. 21. Perel P, Edwards P, Wentz R, Roberts I. Systematic review of prognostic models in traumatic brain injury. BMC Med Inform Decis Mak. 2006;6(1):38. Doi: 10.1186/1472-6947-6-38. 22. Geersing G-J, Bouwmeester W, Zuithoff P, Spijker R, Leeflang M, Moons KGM. Search filters for finding prognostic and diagnostic prediction studies in medline to enhance systematic reviews. PLoS One. 2012;7(2):3–8. Doi: 10.1371/journal.pone.0032844.   
+
+END REVIEW W3204513364
+
+
+REVIEW W3207720815
+TITLE: Systematic review and meta-analysis of various risk factors of death from emergency cerebrovascular diseases in the department of neurology
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W3207720815 PDF PAGE 1]
+© Annals of Palliative Medicine. All rights reserved.
+  Ann Palliat Med 2021;10(10):10661-10673 | https://dx.doi.org/10.21037/apm-21-2329
+Original Article
+Systematic review and meta-analysis of various risk factors 
+of death from emergency cerebrovascular diseases in the 
+department of neurology
+Yuanchao Zhang
+#
+, Hang Yu
+#
+, Chengming Ke, Qiaosong Sun
+Neurology Medicine Center, The Seventh Affiliated Hospital of Sun Yat-sen University, Shenzhen, China
+Contributions:  (I) Conception and design: Y Zhang, H Yu; (II) Administrative support: C Ke; (III) Provision of study materials or patients: Y Zhang, H 
+Yu, Q Sun; (IV) Collection and assembly of data: All authors; (V) Data analysis and interpretation: Y Zhang, C Ke, Q Sun; (VI) Manuscript writing: 
+All authors; (VII) Final approval of manuscript: All authors.
+#
+These authors contributed equally to this work.
+Correspondence to:  Yuanchao Zhang. Neurology Medicine Center, The Seventh Affiliated Hospital of Sun Yat-sen University, 628 Zhenyuan Road, 
+Guangming District, Shenzhen, China. Email: zhangyuanchao6938@163.com.
+Background:  Cerebrovascular disease is one of the leading causes of death and disability in China. 
+Preventive measures to reduce the incidence of cerebrovascular disease are important, so the risk factors 
+associated with death need to be identified. Most studies showed that cerebrovascular disease has many risk 
+factors for death, such as hypertension, hyperlipidemia, family history of stroke, diabetes, overweight, alcohol 
+consumption, and smoking.
+Methods:  A literature search was conducted in the English database PubMed and Chinese databases 
+including CNKI, VIP , and China Journal Full-text Database. The time limit for retrieval was from 
+establishment of the database to March 2021. All randomized controlled trials (RCT s) involving 
+hypertension, hyperlipidemia, family history of stroke, diabetes, overweight, drinking, smoking and 
+cerebrovascular diseases (i.e., stroke and cerebral infarction) were included. Review Manager 5.3 provided by 
+the Cochrane Collaboration was used for meta-analysis.
+Results: A total of 10 studies (with 32,664 patients in trial and control groups) were included: 14,743 cases 
+in the control group and 17,901 cases in the risk factor group. The combined odds ratio (OR) and 95% 
+confidence interval (95% CI) of all risk factors in patients with emergency cerebrovascular diseases in the 
+Department of Neurology were 2.33 (1.83–2.98) for hypertension, 2.65 (1.80–3.91) for hyperlipidemia, 2.18 
+(1.73–2.73) for family history of stroke, 4.78 (3.07–7.42) for overweight, 2.97 (1.95–4.52) for alcoholism, and 
+2.98 (2.11–4.2) for smoking. P values were all less than 0.05, and the differences were statistically significant.
+Discussion: The 10 articles included in this meta-analysis studied the effects of various mortality risk 
+factors (hypertension, hyperlipidemia, family history of stroke, diabetes, overweight, alcohol consumption, 
+and smoking) on the death of patients with emergency cerebrovascular diseases in the Department of 
+Neurology. Attention should be paid to the treatment or care of the above factors in clinical practice to 
+reduce the mortality of patients.
+Keywords: Cerebrovascular disease; death risk factors; meta-analysis
+Submitted Aug 08, 2021. Accepted for publication Sep 24, 2021.
+doi: 10.21037/apm-21-2329
+View this article at: https://dx.doi.org/10.21037/apm-21-2329
+10673
+
+[W3207720815 PDF PAGE 2]
+Zhang et al. Risk factors of cerebrovascular diseases: meta-analysis
+© Annals of Palliative Medicine. All rights reserved.
+  Ann Palliat Med 2021;10(10):10661-10673 | https://dx.doi.org/10.21037/apm-21-2329
+10662
+Introduction
+Cerebrovascular disease is one of the leading c

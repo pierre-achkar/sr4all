@@ -1,0 +1,358 @@
+ stroke), sample time, and statistical methods
+used. Moreover, female-to-male gender ratio (F/M gender
+Frontiers in Neurology | www.frontiersin.org 2 October 2019 | Volume 10 | Article 1032
+
+[W2978979776 PDF PAGE 3]
+Song et al. Baseline Neutrophil to Lymphocyte Ratio and Stroke
+ratio) was calculated to precisely assess the various gender
+distributions among the included cohorts, which ranged from
+0 to 1.8. The F/M ratio of a female-dominant composition was
+more than 1.2, whereas that of male-dominant cohorts was
+<0.8. The deﬁnition of limit interval was based on average
+population size in the following subgroup analysis. ORs/RRs
+and 95% CIs were extracted for mortality (short term or long
+term), functional outcome, risk of stroke incidence, and risk
+of post-ischemic stroke complication incidence (symptomatic
+intracranial hemorrhage or parenchymal hematoma). We used
+SPSS 19.0 to calculate RRs and 95% CIs based on the
+available data in studies if we received no response from the
+investigators after two requests. All disagreements were resolved
+by consensus.
+Outcomes
+Outcomes were measured by the modiﬁed Rankin Scale (mRS)
+during clinical follow-up. Death was deﬁned as an mRS of 6
+points while unfavorable functional outcome was identiﬁed as an
+mRS of 3–6 points.
+FIGURE 1 | Flow diagram of the study selection process.
+Frontiers in Neurology | www.frontiersin.org 3 October 2019 | Volume 10 | Article 1032
+
+[W2978979776 PDF PAGE 4]
+Song et al. Baseline Neutrophil to Lymphocyte Ratio and Stroke
+TABLE 1 | Main characteristics of 37 eligible studies included in the meta-analysis.
+Study Country Study
+size
+Agea Gender
+(F/M)
+Strokeb
+severity
+Stroke type c Onset time d CAD HBP DM Smoking Hyperlipidemia Initial stroke
+therapye
+Sampletimef
+Cutoffdeﬁnition
+Cutoff
+value
+Outcomesource
+Park et al.(
+23)
+Korea 371 NR 151/220 NR AIS-mixed
+subtypes*
+Within 48 h NR 69.3% 33.2% 46.6% 13.2% Thrombolysis-
+8.1%
+Within 48 h NR 2.77 MV
+Tokgoz et al.(
+24)
+Turkey 255 69.37 ±
+13.96
+130/125 NR AIS-mixed
+subtypes
+Within 24 h 24.2% 58.0% 28.6% 27.3% 38.2% Anticoagulation-
+10.0%;Antiplatelet-29.7%
+Onadmission
+Median 5 MV
+Akil et al.(
+25)
+Turkey 38 50.5 ± 13.9 15/23 NR AIS-LAA
+subtype*
+NR Non Non Non 26.3% Non NR Within 48 h ROC 2.5 MV
+Brooks et al.(
+7)
+USA 116 68 (18–93) 37/31 NIHSS: 17
+(1–48)
+AIS NR NR NR NR NR NR Thrombolysis-
+99.2%;MT -63.8%
+Onadmission
+ROC 3.2; 5.9 MV
+Gao et al.(
+26)
+China 60 54 ± 9 29/31 GCS:
+3.40 ± 1.45
+AIS NR NR 66.7% 51.7% 43.3% NR NR NR ROC 3.02 UV
+Tokgoz et al.(
+27)
+Turkey 151 69.37 ±
+13.96
+70/81 NR AIS-LAA and
+CE subtype
+Within 24 h 22.0% 52.9% 30.5% 29.3% 21.0% Anticoagulation-
+3.3%;Antiplatelet-16.8%
+Onadmission
+ROC 4.81 MV
+Maestrini et al.(
+28)
+FranceandFinland
+846 71 (60–80) 416/430 NIHSS: 10
+(6–16)
+AIS Within 24 h 10.8% 61.3% 15.2% NR 42.2% Anticoagulation-
+6.0%;Antiplatelet-37.4%
+Onadmission
+Continuousvariable;ROC
+Non; 4.8 MV
+Saliba et al.(
+8)
+Israel 32,912 73.2 ± 13.6 16,980/15,932 NR AIS-CE
+subtype
+NR 49.7% 74.7% 32.8% NR NR Non NR 4th
+quartiles;Continuousvariable
+3.15; Non MV
+Zhao(
+29)
+China 635 60.2 ± 1.3 185/450 NIHSS: 4
+(2–7)
+AIS-mixedsubtypes*
+Within 24 h NR 63.3% 21.3% 37.8% 5.5% NR Within 72 h ROC 2.59 UV
+Guo et al.(
+30)
+China 189 65.0 ± 10.6 66/123 NIHSS: 12
+(6–16)
+AIS Within 24 h 12.2% 64.6% 30.2% 32.3% 45.0% Antiplatelet-
+100%
+Within 24 h Continuous
+variable;ROC
+Non; 10.59 MV
+Kim et al.(
+31)
+Korea 340 67.0 ± 12.3 111/229 NIHSS:
+4.1 ± 4.7
+AIS NR 7.6% 66.2% 32.9% 40.0% 24.7% NR On
+admission
+ROC 2.135 MV
+Köklü et al.(
+32)
+Turkey 254 (60–76) 75/179 NR AIS-LAA
+subtype
+NR 70.9% 76.8% 42.5% 32.8% 68.5% Antiplatelet-
+100%
+NR ROC 2.6 MV
+Lattanzi et al.(
+33)
+Italy 177 67.1 ± 12.51 114/63 NIHSS: 9
+(6–14)
+ASICH Within 24 h 13.0% 65.5% 22.0% 33.9% 20.3% Anticoagulation-
+10.2%;Antiplatelet-20.9%
+Within 24 h ROC 4.58 MV
+Wang et al.(
+34)
+China 224 67.97 ±
+13.75
+83/141 GCS: 12.64
+± 3.49
+ASICH Within 24 h NR 74.1% 8.5% NR NR NR Within 24 h ROC 7.35 MV
+Tao et al.(
+12)
+China 336 58.5 ± 13.0 120/216 GCS: 11
+(7–13)
+SAH Within 24 h NR 56.3% 3.0% 24.1% NR Antiplatelet-5.1%Within 24 h ROC 6.28; 6.62 MV
+Akboga et al.(
+35)
+Turkey 80 42.1 ± 12.9 53/27 NR AIS-CVST
+subtype
+NR NR NR NR NR NR NR On
+admission
+ROC 2.1 MV
+Fan et al.(
+36)
+China 362 63 (52–76) 146/216 NIHSS: 9
+(5–13)
+AIS Within 48 h 13.0% 80.7% 13.8% NR 17.4% NR On
+admission
+Continuousvariable
+Non MV
+Fang et al.(
+37)
+Taiwan 1,731 NR 631/1,092 NR AIS-mixed
+subtype
+Within 48 h 5.2% 74.7% 40.7% 25.6% NR NR Within 48 h ROC 3.2 MV/UV
+Giede-Jeppeet al. (
+38)
+Germany 855 NR 397/458 NR ASICH NR NR 81.9% 26.3% 32.2% 32.6% Antiplatelet-
+31.5%
+Onadmission
+4th quartiles 2.606 MV
+(Continued)
+Frontiers in Neurology | www.frontiersin.org 4 October 2019 | Volume 10 | Article 1032
+
+[W2978979776 PDF PAGE 5]
+Song et al. Baseline Neutrophil to Lymphocyte Ratio and Stroke
+TABLE 1 | Continued
+Study Country Study
+size
+Agea Gender
+(F/M)
+Strokeb
+severity
+Stroke type c Onset time d CAD HBP DM Smoking Hyperlipidemia Initial stroke
+therapye
+Sampletimef
+Cutoffdeﬁnition
+Cutoff
+value
+Outcomesource
+Huang et al.(
+39)
+China 274 59 ± 16 164/110 NR SAH NR NR 46.7% 11.8% NR NR NR NR Continuous
+variable
+Non MV
+Lattanzi et al.(
+9)
+Italy 192 66.9 ± 12.5 69/123 NIHSS: 9
+(6–14)
+ASICH Within 24 h 12.0% 64.1% 20.8% 20.3% 33.9% Anticoagulation-
+9.4%;Antiplatelet-20.8%
+Within 24 h ROC 5.46 MV
+Qun et al.(
+40)
+China 143 70 (median) 63/80 NIHSS: 6 (5) AIS Within 24 h NR 69.2% 21.0% 13.3% NR NR On
+admission
+ROC 2.995 MV
+Sun et al.(
+41)
+China 352 64.2 ± 13.8 118/234 NR AICH Within 24 h NR 82.4% 12.2% 18.2% NR NR Within 24 h 4th quartiles 7.85 MV
+Tao et al.(
+42)
+China 247 55.9 ± 11.9 159/88 NR SAH Within 24 h NR 38.1% 10.1% 20.6% NR NR Within 24 h ROC;
+Continuousvariable
+14; Non MV
+Xue et al.(
+43)
+China 292 61.8 ± 10.2 107/185 NR AIS-mixed
+subtypes*
+More than48 h
+NR 79.6% 34.6% 39.3% 30.0% Anticoagulation-
+6.8%;Antiplatelet-92.1%
+Within 24 h ROC;
+Continuousvariable
+2.39; Non MV
+Yilmaz et al.(
+44)
+Turkey 106 54.0
+(14.5–99.3)
+53/53 NR AIS NR NR 6.6% NR NR 0.9% NR Within 24 h ROC UV
+Zhai et al.(
+45)
+China 307 63 ± 13 80/227 NR AIS-mixed
+subtypes*
+More than48 h
+NR 75.9% 35.5% 29.6% 25.7% NR Within 24 h ROC 2.84 UV
+Lattanzi et al.(
+46)
+Italy 208 66.7 ± 12.4 76/132 NIHSS: 9
+(6–14)
+ASICH Within 24 h 11.5% 65.5% 21.2% 20.1% 33.2% Anticoagulation-
+8.7%;Antiplatelet-20.2%
+Within 24 h ROC NR MV
+Wang et al.(
+10)
+China 181 65.8 ± 14.3 69/112 GCS: 11.5 ±
+4.2
+AICH Within 24 h NR 86.2% 23.8% NR NR NR Within 24 h ROC 7.35 MV
+Nam et al.(
+47)
+Korea 85 68 (mean) 37/48 NR AIS-SUC
+subtype*
+More than48 h
+NR 55.3% 21.3% 32.9% 20.0% Anticoagulation-
+55.3%;Antiplatelet-35.3%;Both-7.1%;Thrombolysis-14.1%;
+Within 72 h Continuous
+variable
+Non MV
+Shi et al.(
+48)
+China 372 NR 130/242 NR AIS-mixed
+subtypes*
+Within 24 h NR 77.4% 20.7% 39.2% 43.8% NR On
+admission
+ROC;continuousvariable
+NR MV
+Yu et al.(
+13)
+Australia 454 70.0 ± 16.0 201/253 NR AIS Within 24 h NR 56.4% 19.8% 11.9% 25.6% Anticoagulation-
+11.2%;Antiplatelet-30.2%
+Onadmission
+NR 4.12 MV
+Kocaturk et al.(
+49)
+Turkey 103 67 (55–74) 50/57 NIHSS: 10
+(10–15)
+AIS-mixedsubtypes*
+Within 24 h NR 62.6% 30.8% NR 35.5% Thrombolysis-
+21.5%;Anticoagulation-6.5%;Antiplatelet-23.4%
+Within 24 h ROC 4.7 MV
+(Continued)
+Frontiers in Neurology | www.frontiersin.org 5 October 2019 | Volume 10 | Article 1032
+
+[W2978979776 PDF PAGE 6]
+Song et al. Baseline Neutrophil to Lymphocyte Ratio and Stroke
+TABLE 1 | Continued
+Study Country Study
+size
+Agea Gender
+(F/M)
+Strokeb
+severity
+Stroke type c Onset time d CAD HBP DM Smoking Hyperlipidemia Initial stroke
+therapye
+Sampletimef
+Cutoffdeﬁnition
+Cutoff
+value
+Outcomesource
+Lim et al.(
+50)
+Korea 104 NR 45/59 NR AIS-mixed
+subtypes
+Within 24 h CAD-
+12.5%
+69.2% 30.8% 24.0% 13.5% NR On
+admission
+ROC 4.0506 MV
+Wang et al.(
+51)
+China 95 38.93 ±
+13.53
+57/38 NR AIS-CVST
+subtype
+NR NR NR NR NR NR Anticoagulation-
+100%
+Within 24 h ROC 4.205 MV
+Giede-Jeppeet al.(
+52)
+Germany 319 NR 221/98 GSC (3–15) SAH Within 24 h NR 57.4% NR NR NR NR On
+admission
+ROC;continuousvariable
+7.05; Non MV
+Qin et al.(
+53)
+China 213 50 (46–55) 56/157 NIHSS: 10
+(5–12.3);GSC: 13(7–15)
+AICH Within 24 h CAD-
+4.2%
+72.8% 9.4% 33.8% NR NR On
+admission
+Continuousvariable
+Non MV
+AIS, acute ischemic stroke; LAA, large artery atherosclerosis; CE, cardioembolism; SVO (lacunar), small vessel occlusion; SUC (cryptoge nic), stroke of undetermined cause; CVST, cerebral venous sinus thr ombosis; ICH, intracerebral
+hemorrhage; SAH, subarachnoid hemorrhage; ASICH, acute spontan eous intracerebral hemorrhage; CAD, coronary artery disease; HBP , hi gh blood pressure; DM, diabetes mellitus; MT, mechanical thrombectomy; MV, mul tivariable
+model; UV, univariable model; NLR, neutrophil lymphocyte ratio; mRS, m odiﬁed Rankin Scale; GCS, Glasgow Coma Score; NIHSS, National Institute s of Health Stroke Scale; NR, not reported.
+aAge reported as either mean ± standard deviation or median (range), if not otherwise speciﬁed.
+bAverage initial stroke severity reported as mean ± standard deviation or median (range) or median (IQR). Glasgow Coma Score (GC S) or National Institutes of Health Stroke Scale (NIHSS) score was used for evaluation.
+cIschemic stroke further classiﬁed by different etiologies. Mixed type meant population had more than two subtypes of AIS. Studies with “ *”meant the ischemic stroke etiologic subtypes were classiﬁed according to the Trial of Org 10,172
+in Acute Stroke Treatment criteria.dOnset time was deﬁned as time from stroke onset to recruitment/admiss ion/diagnosis.
+eInitial stroke therapy classiﬁed as anticoagulant therapy, antiplate let therapy, thrombolysis, mechanical thrombectomy, or others.
+f Sample time was deﬁned as time from stroke onset to take blood sample.
+Statistical Analyses
+STATA version 14.0 (STATA, College Station, TX) was utilized
+in all analyses. Multivariate-adjusted ORs/RRs were used when
+possible, and univariate ORs/RRs were included in the meta-
+analysis if multivariate-adjusted ORs/RRs were missing. Pooled
+estimates with 95% CIs were derived using the Mantel-
+Haenszel method. We assumed that an OR i

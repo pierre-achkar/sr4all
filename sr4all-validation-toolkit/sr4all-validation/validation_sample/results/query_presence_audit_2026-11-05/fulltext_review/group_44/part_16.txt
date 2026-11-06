@@ -1,0 +1,225 @@
+mics Wound Serum
+CTSS : Decreased decreased
+ITIH4: Increased increasedPROS1: increased increasedPRDX2: Increased increased
+Kapusta (Ref. 33) Humans 35 H N Standard dressing Venous blood Micro RNA levels Let 7-2-3p miRNA upregulation
+Karam (Ref. 34) Humans 40 L Y Moist dressing Tissue mRNA levels Downregulated:
+TNF alphaIL 1B
+MMP1/9
+Upregulated:
+4 Bharadhwaj Ravindhranet al.
+https://doi.org/10.1017/erm.2023.24 Published online by Cambridge University Press
+
+[W4387764535 PDF PAGE 5]
+TGF B1
+VEGF
+TIMP1
+Ludwig- Slomczynska
+(Ref. 35)
+Humans 36 H N Standard dressing Tissue and blood
+samples
+DNA hybridization DNA repair and autocrine signalling via
+retinoic acid receptor:
+Chr6p21Chr20p13Delacoix
+Morf
+Hypermethylation of c2,c3,c4C1QBP upregulated
+Moues (Ref. 36) Humans 33 L Y Standard dressing Wound effluent Biomarkers Lower pro MMP
+Lower total MMP-9/TIMP-1
+Wang (Ref.37) Humans 26 L Y Standard dressing Tissue Biomarkers Downregulated:
+TNF A
+IL 6
+PC Jun Nterm kinaseNO differenceP38; Ex signal regulated kinase 1 or 2
+Mu (Ref. 38) human 84 L Y None Peripheral blood EPCs Increased CD 34,CD 133, KDR, VEGF, SDF-1a
+in the serum and wound
+Yang (Ref. 39) Human 40 L Y None Tissue Biomarkers Increased cFN, increased TGF-B1
+Liu (Ref. 40) Human 172 H N None Blood and tissue HSA-miR levels Decreased levels of HSA-miR-203 (p-miR-203
+and T-miR-203), p63
+Yang (Ref. 41) Human 30 L Y None Tissue Biomarkers Upregulation of bFGF and phosphorylated
+(ERK)1/2
+Kilpadi (Ref. 42) Porcine 12 H N Saline soaked dressing Serum Biomarkers TGF B : No diff
+IL 6: no peak
+IL 8: no diff
+IL 10: early peaking
+Norbury (Ref. 43) Porcine 10 H N Duoderm Serum and Tissue Biomarkers IL6 decreased
+No difference in IL 1b,4,8,TGF,B or TNFA
+Brownhill (Ref.44) Porcine 12 H N Single use NPWT Tissue Biomarkers CXC11 : Higher in tNPWT
+CSF2: Higher in tNPWTIL6: Higher in tNPWT
+Il1a: Higher in tNPWT
+Il 1B Higher in tNPWTCCL2 Higher in tNPWTIL10 Higher in tNPWT
+TNF Higher in tNPWT
+COL1A2 Higher in sNPWTCoL3A1 Higher in sNPWTCTGF Higher in sNPWT
+DCN Higher in sNPWT
+MMP3 Higher in tNPWTMMP 9: Higher in tNPWT
+Zhou (Ref. 45) Porcine 6 S N High Pressure NPWT Tissue Biomarkers VEGF: Upregulated best at 150 mm
+FGF2: Upregulated best at 150 mm
+(Continued)
+Expert Reviews in Molecular Medicine 5
+https://doi.org/10.1017/erm.2023.24 Published online by Cambridge University Press
+
+[W4387764535 PDF PAGE 6]
+Table 1. (Continued.)
+Study Participants N ROB Randomization Comparator Substrate Focus Markers under study
+Li (Ref. 46) Porcine 56 L Y Standard dressing Tissue Biomarkers MPO: increased
+IL 1B: increasedTNFA: Increased
+IL 10: Increased
+ICAM: CD54 increased
+Aydin (Ref. 47) Rabbit 30 S N Control Tissue Biomarkers No change in CD34/CD31
+Younan (Ref. 48) Murine 40 L N Cyclical NPWT;
+Occlusive dressings
+Tissue Biomarkers CGRP : increased
+substance P: increasedNGF : increasedHighest for cyclical > continuous
+Erba (Ref. 49) Murine 50 L N Continuous vs cyclical
+NPWT
+Tissue Biomarkers- VEGF dimers higher in VAC
+VEGF higher at surface of wound
+HIF 1alpha higher in control
+Jacobs (Ref. 50) Murine - L N Standard dressing Tissue Biomarkers VEGF 40% upregulation
+FGF- 2 140% upregulation
+CD31: increased expression
+Scherer (Ref. 51) Murine 20 L N Duoderm Tissue Biomarkers: PECAM-1 Increased
+Ki 67 – increased
+Qiu (Ref. 52) Murine 48 L Y None Tissue Biomarkers CD31: Increased
+CD68 : ReducedMDA: Reduced
+SOD: reduced
+CAT: reducedRaftlin: increased
+Lu (Ref. 53) In vitro – L N PU Foam Murine fibroblast cultured Biomarkers FGF-2 upregulated
+BF G F– upregulated
+TGFB1 upregulated
+Alpha SMA upregulated
+Type 1 collagen alpha 1 upregulated
+McNulty (Ref. 54) In vitro – L N None Human fibroblasts in 3d
+fibrin matrix
+Biomarkers PDGF: Increased by 53%
+TGF-B increased by 80%
+Dong (Ref. 55) In vitro – L N None PMNs
+HL 60Macrophages
+Biomarkers Flow cytometry
+Decreased apoptosis by PMN/macrophagesELISA
+TNF alpha downregulated
+IFN Gamma upregulatedEGF upregulatedEGFR upregulated
+IL17 upregulated
+Western blotCDC42 increased
+6 Bharadhwaj Ravindhranet al.
+https://doi.org/10.1017/erm.2023.24 Published online by Cambridge University Press
+
+[W4387764535 PDF PAGE 7]
+cell proliferation and inflammation, and the most down-regulated
+genes were linked to epidermal differentiation. NPWT has also
+been postulated to aid differential gene expression to influence
+re-epithelialization and angiogenesis (Ref.30). NPWT was also
+observed to alter multiple proteins in the granulation tissue to
+aid antioxidant pathways and detoxification (Ref.57) The gene
+ontology enrichment analysis performed in one of the studies
+was consistent with a number of previous studies showing that
+the wound healing process was associated with altered extracellu-
+lar matrix deposition (Ref.58), cytoskeletal deregulation (Ref.59),
+dyslipidemia (Ref. 60) and prolonged inflammation response
+(Ref. 61). They also unexpectedly found some signalling pathways
+that seemed weakly relevant to the curative effect of wounds in the
+enrichment analysis of Kyoto Encyclopaedia of Genes and
+Genomes (KEGG) signalling pathways, such as thyroid hormone
+synthesis, thyroid hormone signalling pathway, human T-cell leu-
+kaemia virus 1 infection and African trypanosomiasis (Refs62,
+63, 64).
+Discussion
+This systematic review summarizes the current understanding of
+the mechanism of action of NPWT based on studies published
+over the last 20 years. The effect of NPWT was assessed in 33
+studies which included 19 clinical studies, 11 animal models
+and 3 in-vitro studies. Given that more than 43 different molecu-
+lar biomarkers and 17 different gene expressions were analysed
+across all studies, there was some clear concordance in actions
+on several markers studied and variation between studies with
+respect to the effects on other biomarkers/genes following
+NPWT (Table 2).
+It has been postulated that NPWT produces hypoxia driven
+immunomodulation, local and/or systemic attenuation of the
+acute inflammatory response, angiogenesis and cell recruitment
+which combine to produce the clinical effects of NPWT
+(Refs15, 51). However, the specific mechanisms of action by
+which these are achieved continue to be controversial. This is
+mainly because of the limited concordance among these studies
+to enable conclusions with regard to the specific mechanisms
+involved. The previous systematic review in this topic (Ref.65)
+suggested that human studies supported angiogenesis via VEGF,
+cell recruitment predominantly via IL-8 and reduced MMP
+expression, animal models suggested an anti-inflammatory
+response via IL-10, VEGF, FGF-2, CGRP and substance P and
+in vitro models suggested increased granulation tissue formation.
+They also reported that human studies predominantly studied
+cytokine and MMP data while growth factor data were predomin-
+antly derived from animal studies and in vitro models. However,
+Figure 2.Risk of Bias Assessment of the included studies: (a) RoBANS for non-randomized studies, (b) SYRCLE tool for animal studies, (c) RoB-2 tool for randomized
+studies.
+Table 2. Variation in outcomes following NPWT on common biomarkers of interest
+Biomarker of interest Studies suggesting upregulation Studies suggesting downregulation
+Studies suggesting
+no change
+Vascular endothelial growth
+factors(VEGF)
+Zhou (Ref.45), Erba (Ref.49), Jacobs (Ref.50),
+Labler (Ref. 27), Labler (Ref.28), Karam
+(Ref. 34), Mu (Ref.38)
+Tumour Necrosis Factor-alpha Brownhill (Ref. 44), Li (Ref.46) Stechmiller (Ref. 25), Eisenhardt (Ref.26),
+Karam (Ref. 34), Wang (Ref.37), Dong
+(Ref. 55)
+Norbury (Ref. 43)
+Transforming Growth Factor
+Beta
+Karam (Ref. 34), Yang (Ref.39), Lu (Ref.53),
+McNulty (Ref. 54), Brownhill (Ref.44)
+Kilpadi (Ref. 42),
+Norbury (Ref. 43)
+Interleukins(IL)
+IL6
+IL8
+IL-1B
+Labler (Ref. 27), Labler (Ref.28)
+Stechmiller (Ref. 25), Brownhill (Ref.44),
+Li (Ref. 46)
+Wang (Ref. 37) Kilpadi (Ref. 42),
+Labler (Ref. 28)
+Kilpadi (Ref. 42)
+MatrixMetalloproteinases
+(MMP)
+MMP 2
+MMP 3
+MMP 9
+Stechmiller (Ref. 25), Greene (Ref.29),
+Stechmiller (Ref. 25), Brownhill (Ref.44)
+Stechmiller (Ref. 25), Brownhill (Ref.44)
+Karam (Ref. 34), Greene (Ref.29)
+Expert Reviews in Molecular Medicine 7
+https://doi.org/10.1017/erm.2023.24 Published online by Cambridge University Press
+
+[W4387764535 PDF PAGE 8]
+the effect of NPWT on the differential gene expressions was not
+explored in this review. First insights into the molecular mechan-
+isms behind NPWT suggested that NPWT also induces gene
+expression changes at the wound bed. These changes were postu-
+lated to range from 10-fold induction to 27-fold suppression
+(Refs41, 66, 67).
+Since this previous systematic review, more than 20 newer bio-
+markers, cytokines and genes have been studied across 19 more
+recent studies, the summary of which has been collated in this
+paper. The data summarized in this review confirms that
+NPWT-induced strain promotes a pro-angiogenic and pro-
+mitogenic phenotype in subjacent cell proliferation. NPWT
+induced cell deformation leads to proliferation as a consequence
+of cytoskeletal tension. Integrins, adhesive contacts within the
+cell matrix, act as strain gauges, triggering mechanoreceptor sig-
+nalling pathways (Refs68, 69). Application of NPWT results in
+positive pressure at the wound bed and hence reduced blood
+flow in the tissue immediately adjacent to the filler material
+(Ref.70). NPWT enhances specific inflammatory gene expression
+at the acute phase associated with epithelial migration and wound
+healing. However, its continued use may inhibit epithelial differ-
+entiation (Ref.66). NPWT is also associated with an
+up-regulation of basic fibroblast growth factor (bFGF) and extra-
+cellular signal-regulated kinase (ERK) 1/2 signalling, which may
+be involved in promoting the NPWT-mediated wound healing
+response (Ref.41).
+This systematic review has a few limitations. The inherent het-
+erogeneity of the included studies makes the data unsuitable for
+meta-analysis. The clinical studies were mostly underpowered
+and were opportunistic as reported in the previous review.
+There was a significant

@@ -1,0 +1,169 @@
+nal file 3: Table 3 Reported pre-specified patient-important or 
+economic burden outcomes on 12 LATAM PKU case reports studies.
+Additional file 4: Table 4 Risk of bias for cross-sectional studies.
+Additional file 5: Table 5 Risk of bias for case series studies.
+Additional file 6: Data extraction, risk of bias assessment, subgroup and 
+sensitivity analyses, heterogeneity assessment and publication bias.
+Acknowledgements
+The author would like to thank Camilla Hissamura from BioMarin Farmacêutica 
+do Brasil LTDA for the scientific review and final edit of the manuscript. This 
+manuscript was prepared according to the International Society for Medical 
+Publication Professionals—Good Publication Practice for Communicating 
+Company -Sponsored Medical Research: the GPP3 Guidelines.
+Author contributions
+All authors contributed to study design, interpretation, and analysis. ALSP , 
+AMM, EMR, NS, AC, DV, EJ, DM, and IVDS were responsible for data identifica-
+tion, extraction, and synthesis. All authors read, revised, and approved the final 
+manuscript.
+Funding
+ Prof. Regina El Dib (Universidade Estadual Paulista Júlio de Mesquita Filho, 
+UNESP) provided scientific consulting and medical writing support, which was 
+funded by Biomarin Farmaceutica LTDA.
+Availability of data and materials
+All data generated or analysed during this study are included in this published 
+article and its Additional file 6: information files.
+Declarations
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The other authors have declared no conflict of interests.
+Author details
+1 Albert Sabin Children’s Hospital / Ceara State University, Fortaleza, Ceará, 
+Brazil. 2 State University of Ceará (UECE), Fortaleza, Ceará, Brazil. 3 Reference 
+Center in Inborn Errors of Metabolism, Universidade Federal de São Paulo, 
+São Paulo, Brazil. 4 Center Medical School, Christus University, Fortaleza, Ceará, 
+Brazil. 5 Hospital de Niños de La Plata, La Plata, Argentina. 6 Centro de Investiga-
+ciones Endocrinologicas “Dr Cesar Bergadá” CEDIE -CONICET- FEI: Division de 
+Endocrinologia Hospital de Niños Ricardo Gutièrrez, Buenos Aires, Argentina. 
+7 BioMarin Farmacêutica, São Paulo, Brazil. 8 BioMarin Pharmaceutical Inc, 
+Novato, CA, USA. 9 Medical Genetics Service, HCPA, Rua Ramiro Barcelos, 2350, 
+Porto Alegre, RS 90035-903, Brazil. 
+Received: 15 February 2022   Accepted: 17 July 2022
+References
+ 1. Vockley J, Andersson HC, Antshel KM, Braverman NE, Burton BK, Frazier 
+DM, et al. Phenylalanine hydroxylase deficiency: diagnosis and manage-
+ment guideline. Genet Med. 2014;16(2):188–200.
+ 2. Borrajo JCG. Panorama epidemiológico de la fenilcetonuria (PKU) en 
+Latinoamérica. Acta Pediatr Mex. 2012;33(6):279–87.
+ 3. van Wegberg AMJ, MacDonald A, Ahring K, Belanger-Quintana A, Blau 
+N, Bosch AM, et al. The complete European guidelines on phenylke-
+tonuria: diagnosis and treatment. Orphanet J Rare Dis. 2017;12(1):162.
+ 4. Williams RA, Mamotte CD, Burnett JR. Phenylketonuria: an inborn error 
+of phenylalanine metabolism. Clin Biochem Rev. 2008;29(1):31–41.
+ 5. Borrajo GJ. Newborn screening in Latin America at the beginning of the 
+21st century. J Inherit Metab Dis. 2007;30(4):466–81.
+ 6. Borrajo GJC. Newborn screening in Latin America: a brief over-
+view of the state of the art. Am J Med Genet C Semin Med Genet. 
+2021;187(3):322–8.
+ 7. Poloni S, Dos Santos BB, Chiesa A, Specola N, Pereyra M, Saborio-
+Rocafort M, et al. Current practices and challenges in the diagnosis and 
+management of PKU in Latin America: a multicenter survey. Nutrients. 
+2021;13(8):2566.
+ 8. Stroup DF, Berlin JA, Morton SC, Olkin I, Williamson GD, Rennie D, et al. 
+Meta-analysis of observational studies in epidemiology: a proposal 
+for reporting. Meta-analysis Of Observational Studies in Epidemiology 
+(MOOSE) group. JAMA. 2000;283(15):2008–12.
+ 9. van Spronsen FJ, van Wegberg AM, Ahring K, Bélanger-Quintana A, 
+Blau N, Bosch AM, et al. Key European guidelines for the diagnosis 
+
+[W4288748748 PDF PAGE 34]
+Page 34 of 36Pessoa et al. Orphanet Journal of Rare Diseases          (2022) 17:302 
+and management of patients with phenylketonuria. Lancet Diabetes 
+Endocrinol. 2017;5(9):743–56.
+ 10. El Dib R, Touma NJ, Kapoor A. Cryoablation vs radiofrequency ablation 
+for the treatment of renal cell carcinoma: a meta-analysis of case series 
+studies. BJU Int. 2012;110(4):510–6.
+ 11. El Dib R, Nascimento Junior P , Kapoor A. An alternative approach to 
+deal with the absence of clinical trials: a proportional meta-analysis of 
+case series studies. Acta Cir Bras. 2013;28(12):870–6.
+ 12. DerSimonian R, Laird N. Meta-analysis in clinical trials. Control Clin Trials. 
+1986;7(3):177–88.
+ 13. Downes MJ, Brennan ML, Williams HC, Dean RS. Development of a criti-
+cal appraisal tool to assess the quality of cross-sectional studies (AXIS). 
+BMJ Open. 2016;6(12): e011458.
+ 14. Amorim T, Boa-Sorte N, Leite MEQ, Acosta AX. Aspectos clínicos e 
+demográficos da fenilcetonúria no Estado da Bahia. Revista Paulista de 
+Pediatria. 2011;29:612–7.
+ 15. Azcoiti ME, Chiesa A, R. E, Valle G, Mendez V, Gotta G, et al. Implemen-
+tation of molecular diagnosis for PAH related disorders in a public 
+hospital. Annual Meeting of Bioscience Societes 2020; 10–13 November 
+2020. MEDICINA2020.
+ 16. Cornejo EV, Concha M, Cabello JF, Raimann E. Lipids composition diet 
+in phenylketonuric children with early diagnosis. Arch Latinoam Nutr. 
+2005;55(4):332–5.
+ 17. Keselman A, Cassinelli H, Fraga C, Gruñeiro-Papendieck L, Chiesa A. 
+Bone mineral density (BMD) and phenylketonuria (PKU). 7th Joint Meet-
+ing Paediatric Endocrinology in collaboration with APEG, APPES, JSPE 
+and SLEP; Lyon, France 2005.
+ 18. Fraga C, Valle MG, Enacan R, Chiesa A. Bone Mineral Density and BH4 
+Treatment. 13th International Congress of Inborn Errors of Metabo-
+lism; 5–8 September 2017; Rio de Janeiro, Brazil: J Inborn Errors Metab 
+Screen; 2017. p. 1–413.
+ 19. Mendes AB. Fragilidade Óssea dos Fenilcetonúricos, Reflexo da 
+Dietoterapia? – Um estudo com pacientes da APAE-RIO. Revista de 
+Pediatria SOPERJ. 2006;7(2):20.
+ 20. Cerqueira MMM. O engajamento dos cuidadores na dieta para as suas 
+crianças fenilcetonúricas: influência de fatores sócio-demográficos e 
+psicossociais: Universidade Federal de Minas Gerais – Minas Gerais; 
+2004.
+ 21. Dutra VF. Avaliação neuropsicológica de crianças e adolescentes com 
+hiperfenilalaninemias: Faculdade de Ciências Médicas da Universidade 
+de Campinas - São Paulo; 2013.
+ 22. Figueira VB. Perfil clínico e epidemiológico de pacientes portadores 
+de fenilcetonúria no estado de Goiás: Universidade Federal de Goiás – 
+Goiás; 2018.
+ 23. Martins FF. Efeito do consumo de biscoitos enriquecidos com cálcio em 
+pacientes com fenilcetonúria: Universidade Federal Fluminense – Rio 
+de Janeiro; 2007.
+ 24. Morão CPAB. Perfil neuropsicológico e desempenho executivo de crian-
+ças com fenilcetonúria tratada: Universidade Presbiteriana Mackenzie; 
+2017.
+ 25. Oliveira RF. Condiçöes de saúde dental e gengival em crianças com 
+fenilcetonúria atendidas na Fundaçäo Ecumênica de Proteçäo ao 
+Excepcional (FEPE) no Estado do Paraná 2001.
+ 26. Sena BS. Estado nutricional e indicadores antropométricos de risco 
+cardiovascular de pacientes com diagnótico de fenilcetonúria atendi-
+dos em um serviço de referência do nordeste brasileiro: Universidade 
+Federal de Pernambuco –Pernambuco; 2018.
+ 27. Silva GK. Habilidades do comportamento comunicativo de crianças 
+com fenilcetonúria tratadas desde o período neonatal: Faculdade de 
+Odontologia de Bauru da Universidade de São Paulo –São Paulo; 2008.
+ 28. Starling ALP . Densitometria óssea em crianças e adolescentes fenilce-
+tonúricos: Universidade Federal de Minas Gerais – Minas Gerais; 2005.
+ 29. Vieira TA. Fatores associados a adesão ao tratamento dos pacientes 
+com fenilcetonúria acompanhados pelo serviço de genética médica 
+do hospital de clínicas de Porto Alegre: Universidade Federal do Rio 
+Grande do Sul – Rio Grande do Sul; 2010.
+ 30. Martins AM, Pessoa ALS, Quesada AA, Ribeiro EM. Unmet needs in PKU 
+and the disease impact on the day-to-day lives in Brazil: results from a 
+survey with 228 patients and their caregivers. Mol Genet Metab Rep. 
+2020;24: 100624.
+ 31. Beckhauser MT, Beghini Mendes Vieira M, Moehlecke Iser B, Rozone 
+DELG, Rodrigues Masruha M, Lin J, et al. Attention deficit disorder with 
+hyperactivity symptoms in early-treated phenylketonuria patients. Iran 
+J Child Neurol. 2020;14(1):93–103.
+ 32. Benítez V, San Julián E, Rodríguez MM. Fenilcetonuria: a propósito de 
+dos pacientes. Arch Pediatr Urug. 2001;72:293–7.
+ 33. Bernal AC, Eiroa H. Fenilcetonuria de diagnostico tardio. Sociedad 
+Iberoamericana de Información Científica (SIIC). 2017.
+ 34. Blanco FA, Quintana AB, Martinez CV, Pardo MM. Importance of early 
+diagnosis of phenylketonuria in women and control of phenylalanine 
+levels during pregnancy. Nutr Hosp. 2012;27(5):1658–61.
+ 35. Pardo-Campos ML, Enacan R, Valle MG, Chiesa A. Parenting styles and 
+coping strategies in PKU early detected children. J Inborn Errors Metab 
+Screen. 2021. https:// doi. org/ 10. 1590/ 2326- 4594- jiems- 2020- 0014.
+ 36. Pardo-Campos ML, Enacan R, Valle MG, Chiesa A. Parenting styles and 
+coping strategies in PKU children 11th Congress of the Latin American 
+Society of Inborn Errors of Metabolism and Neonatal Screening; 12–15 
+May 2019; Buenos Aires: J Inborn Errors Metab Screen; 2019.
+ 37. Pardo-Campos ML, Enacan R, Valle MG, Chiesa A. Cognitive asssessment 
+of early detected and treated PKU children. 11th Congress of the Latin 
+American Society of Inborn Errors of Metabolism and Neonatal Screen-
+ing; 12–15 May 2019; Buenos Aires: J Inborn Errors Metab Screen; 2019.
+ 38. Chiesa A, Fraga C, Prieto L, Pardo ML. Modelo de atención de pacientes 
+con fenilcetonuria (PKU) en Argentina. Acta Pediátrica de México. 
+2012;33(6):308–10.
+ 39. Colombo MC, Troncoso L, Raimann E, Perates CG, Barros T, Cor-
+nejo V. Diagnostico d

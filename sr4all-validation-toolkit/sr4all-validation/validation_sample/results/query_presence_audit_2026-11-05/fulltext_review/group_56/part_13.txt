@@ -1,0 +1,176 @@
+155. https:// doi. org/  
+10. 1016/j. autcon. 2020. 103155
+Donti PL, Kolter JZ (2021) Machine Learning for Sustainable Energy 
+Systems. Annual Review of Environment & Resources 46:719–
+747. https:// doi. org/ 10. 1146/ annur ev- envir on- 020220- 061831
+Dooyum Uyeh D, Akinsoji A, Asem-Hiablie S, Itoro Bassey B, 
+Osinuga A, Mallipeddi R, Amaizu M, Ha Y, Park T ( 2022) 
+An online machine learning-based sensors clustering system 
+for efficient and cost-effective environmental monitoring in 
+controlled environment agriculture. Computers & Electron-
+ics in Agriculture 199, https:// doi. org/ 10. 1016/j. compag. 2022. 
+107139
+Elavarasan D, Vincent DR (2020) Reinforced XGBoost machine learn-
+ing model for sustainable intelligent agrarian applications. Jour-
+nal of Intelligent & Fuzzy Systems 39(5):7605–7620. https:// doi. 
+org/ 10. 3233/ JIFS- 200862
+Elavarasan D, Vincent Durai Raj, P.M. (2021) Fuzzy deep learning-
+based crop yield prediction model for sustainable agronomical 
+frameworks. Neural Computing & Applications 33(20):13205–
+13224. https:// doi. org/ 10. 1007/ s00521- 021- 05950-7. (Publisher: 
+Springer Nature)
+European Commission: The European Green Deal (2019). https://  
+commi ssion. europa. eu/ strat egy- and- policy/ prior ities- 2019- 2024/ 
+europ ean- green- deal_ en Accessed 2024-04-30
+Facendola R, Ottomano Palmisano G, De Boni A, Acciani C, Roma 
+R (2023) Profiling citizens on perception of key factors of food 
+security: An application of k-means cluster analysis. Sustainabil-
+ity 15(13):9915. https:// doi. org/ 10. 3390/ su151 39915
+Feng L, Zhang J (2014) Application of artificial neural networks in 
+tendency forecasting of economic growth. Econ Model 40:76–80. 
+https:// doi. org/ 10. 1016/j. econm od. 2014. 03. 024
+Feng C, Cui M, Hodge B-M, Lu S, Hamann HF, Zhang J (2018) Unsu-
+pervised clustering-based short-term solar forecasting. IEEE 
+Transactions on Sustainable Energy 10(4):2174–2185. https://  
+doi. org/ 10. 1109/ TSTE. 2018. 28815 31
+Ferreiro-Cabello J, Fraile-Garcia E, Pison Ascacibar E, Martinez-de-
+Pison FJ (2018) Metamodel-based design optimization of struc-
+tural one-way slabs based on deep learning neural networks to 
+reduce environmental impact. Eng Struct 155:91–101. https://  
+doi. org/ 10. 1016/j. engst ruct. 2017. 11. 005
+Fijani E, Barzegar R, Deo R, Tziritis E, Skordas K ( 2019) Design and 
+implementation of a hybrid model based on two-layer decompo-
+sition method coupled with extreme learning machines to support 
+real-time environmental monitoring of water quality parameters. 
+Science of the Total Environment 648, 839– 853 https:// doi. org/ 
+10. 1016/j. scito tenv. 2018. 08. 221
+Fox MP, MacLehose RF, Lash TL (2022) Applying quantitative bias 
+analysis to epidemiologic data. Springer. https:// doi. org/ 10. 1007/ 
+978-3- 030- 82673-4
+Frank B ( 2021) Artificial intelligence-enabled environmental sus-
+tainability of products: Marketing benefits and their variation 
+by consumer, location, and product types. Journal of Cleaner 
+Production 285, https:// doi. org/ 10. 1016/j. jclep ro. 2020. 125242
+Froemelt A, Wiedmann T (2020) A two-stage clustering approach to 
+investigate lifestyle carbon footprints in two Australian cities. 
+Environ Res Lett 15(10):104096. https:// doi. org/ 10. 1088/ 1748- 
+9326/ abb502
+Gace I, Pevec D, Vdovic H, Babic J, Podobnik V ( 2021) Driving style 
+categorisation based on unsupervised learning: a step towards 
+sustainable transportation. In: 2021 6th International Conference 
+on Smart and Sustainable Technologies (SpliTech), pp. 1– 6 . 
+https:// doi. org/ 10. 23919/ split ech52 315. 2021. 95663 71
+Ganguli, D., Hernandez, D., Lovitt, L., Askell, A., Bai, Y., Chen, A., 
+Conerly, T., Dassarma, N., Drain, D., Elhage, N., et al(2022) 
+Predictability and surprise in large generative models. In: 2022 
+ACM Conference on Fairness, Accountability, and Transparency, 
+pp. 1747– 1764 https:// doi. org/ 10. 1145/ 35311 46. 353322
+Gao L, Liu T, Cao T, Hwang Y, Radermacher R (2021) Comparing 
+deep learning models for multi energy vectors prediction on mul-
+tiple types of building. Applied Energy 301, 117486 https:// doi. 
+org/ 10. 1016/j. apene rgy. 2021. 117486
+Gilson A, Safranek CW, Huang T, Socrates V, Chi L, Taylor RA, 
+Chartash D et al (2023) How does chatgpt perform on the united 
+states medical licensing examination? the implications of large 
+language models for medical education and knowledge assess-
+ment. JMIR Medical Education 9(1):45312. https:// doi. org/ 10. 
+2196/ 45312
+González-Pereira B, Guerrero-Bote VP, Anegón FM (2010) A new 
+approach to the metric of journals’ scientific prestige: The sjr 
+indicator. J. Informetrics 4:379–391. https:// doi. org/ 10. 1016/J. 
+JOI. 2010. 03. 002
+Goodfellow I, Pouget-Abadie J, Mirza M, Xu B, Warde-Farley D, Ozair 
+S, Courville A, Bengio Y ( 2014) Generative Adversarial Nets. 
+In: Advances in Neural Information Processing Systems, vol. 27 
+. https:// doi. org/ 10. 1145/ 34226 22
+Google(Ed.): Explainable AI (2023). https:// cloud. google. com/ expla 
+inable- ai Accessed 2023-07-24
+Gordan M, Ghaedi K, Ismail Z, Benisi H, Hashim H, Ghayeb HH ( 
+2021) From Conventional to Sustainable SHM: Implementation 
+of Artificial Intelligence in The Department of Civil Engineering, 
+University of Malaya. In: 2021 IEEE International Conference on 
+Artificial Intelligence in Engineering and Technology (IICAIET), 
+pp. 1– 6 . https:// doi. org/ 10. 1109/ IICAI ET516 34. 2021. 95737 13
+Grymshi D, Crespo-Cebada E, Elghannam A, Mesías FJ, Díaz-Caro 
+C (2022) Understanding consumer attitudes towards ecolabeled 
+food products: A latent class analysis regarding their purchas-
+ing motivations. Agribusiness 38(1):93–107. https:// doi. org/ 10. 
+1002/ agr. 21714
+Guo Y, Fu Y, Hao F, Zhang X, Wu W, Jin X, Bryant CR, Senthilnath J 
+(2021) Integrated phenology and climate in rice yields prediction 
+
+[W4403706069 PDF PAGE 31]
+Int J Environ Res (2025) 19:1 
+ Page 31 of 36 1
+using machine learning methods. Ecol Ind 120:106935. https://  
+doi. org/ 10. 1016/j. ecoli nd. 2020. 106935
+Haarnoja T, Zhou A, Hartikainen K, Tucker G, Ha S, Tan J, Kumar V, 
+Zhu H, Gupta A, Abbeel P, et al ( 2018) Soft actor-critic algo -
+rithms and applications. arXiv https:// doi. org/ 10. 48550/ arXiv. 
+1812. 05905
+Hai T, Zhou J, Almojil SF, Almohana AI, Alali AF, Mehrez S, 
+Mohamed A, Sharma K, Mohammed AG, Almoalimi KT (2023) 
+Deep learning optimization and techno-environmental analysis 
+of a solar-driven multigeneration system for producing sustain-
+able hydrogen and electricity: A case study of SanFrancisco. Int 
+J Hydrogen Energy 48(6):2055–2074. https:// doi. org/ 10. 1016/j. 
+ijhyd ene. 2022. 09. 301
+Halkos G, Gkampoura E-C ( 2021) Where do we stand on the 17 sus-
+tainable development goals? an overview on progress. Economic 
+Analysis and Policy 70, 94– 122 https:// doi. org/ 10. 1016/j. eap. 
+2021. 02. 001
+Heo, S., Nam, K., Tariq, S., Lim, J.Y., Park, J., Yoo, C ( 2021) A 
+hybrid machine learning-based multi-objective supervisory 
+control strategy of a full-scale wastewater treatment for cost-
+effective and sustainable operation under varying influent con-
+ditions. Journal of Cleaner Production 291, https://  doi. org/ 10. 
+1016/j. jclep ro. 2021. 125853
+Hernández-del-Olmo F, Gaudioso E, Dormido R, Duro N ( 2016) 
+Energy and Environmental Efficiency for the N-Ammonia 
+Removal Process in Wastewater Treatment Plants by Means of 
+Reinforcement Learning. Energies (19961073) 9( 9), 755 https:// 
+doi. org/ 10. 3390/ en909 0755
+Hinton GE, Frosst NMW, Aghdam SSR (2023) Capsule Neural Net-
+works. US20230027069A1, January . https:// paten ts. google. com/ 
+patent/ US202 30027 069A1/ en
+Hinton GE, Sabour S, Frosst N ( 2018) Matrix capsules with em rout-
+ing. In: International Conference on Learning Representations . 
+https:// openr eview. net/ forum? id= HJWLf GWRb
+Holloway J, Mengersen K (2018) Statistical Machine Learning Meth-
+ods and Remote Sensing for Sustainable Development Goals: 
+A Review. Remote Sensing 10(9):1365. https:// doi. org/ 10. 3390/ 
+rs100 91365
+Hong Z, Xiao K (2024) Digital economy structuring for sustainable 
+development: the role of blockchain and artificial intelligence 
+in improving supply chain and reducing negative environ-
+mental impacts. Sci Rep 14(1):3912. https:// doi. org/ 10. 1038/  
+s41598- 024- 53760-3
+Hossain M, Muromachi Y (2012) A Bayesian network based frame -
+work for real-time crash prediction on the basic freeway seg-
+ments of urban expressways. Accident Analysis & Prevention 
+45:373–381. https:// doi. org/ 10. 1016/j. aap. 2011. 08. 004
+Huang S, Zheng X, Ma L, Wang H, Huang Q, Leng G, Meng E, Guo 
+Y (2020) Quantitative contribution of climate change and human 
+activities to vegetation cover variations based on ga-svm model. 
+J Hydrol 584:124687. https:// doi. org/ 10. 1016/j. jhydr ol. 2020. 
+124687
+Huang L, Pena B, Liu Y, Anderlini E (2022) Machine learning in 
+sustainable ship design and operation: A review. Ocean Eng 
+266:112907. https:// doi. org/ 10. 1016/j. ocean eng. 2022. 112907
+Hu G, You F ( 2022) Renewable energy-powered semi-closed green-
+house for sustainable crop production using model predictive 
+control and machine learning for energy management. Renewa-
+ble & Sustainable Energy Reviews 168, https:// doi. org/ 10. 1016/j. 
+rser. 2022. 112790
+IBM(Ed.): IBM Watson OpenScale - Overview. (2023). https:// www. 
+ibm. com/ docs/ en/ cloud- paks/ cp- data/3. 5.0? topic= servi ces- wat-
+son- opens cale Accessed 2023-07-24
+Jadidi M, Kostic S, Zimmer L, Dworkin SB (2020) An Artificial Neural 
+Network for the Low-Cost Prediction of Soot Emissions. Ener -
+gies 13(18):4787. https:// doi. org/ 10. 3390/ en131 84787
+Jauhiainen JS (2024) The metaverse: Innovations and generative ai. 
+International Journal of Innovation Studies 8(3):262–272. https:// 
+doi. org/ 10. 1016/j. ijis. 2024. 04. 004
+Jena PR, Managi S, Majhi B (2021) Forecasting the CO2 Emissions at 
+the Global Level: A Multilayer Artificial Neural Network Model-
+ling. Energies 14(19

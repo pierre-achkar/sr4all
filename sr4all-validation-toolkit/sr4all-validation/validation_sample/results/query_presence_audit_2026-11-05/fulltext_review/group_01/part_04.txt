@@ -1,0 +1,185 @@
+safeguards to assure the in-
+ternal validity of a trial, and there has been strong
+evidence that their unblinding exaggerated treatment
+effects. Particularly when scoring subjective outcomes,
+for instance pain scores, biased findings can result from
+inadequate blinding [157,174]. Blinding becomes less
+important in reducing observer bias, as the outcome
+measure becomes less subjective [157]. In addition to
+the blinding of outcome assessors, trial participants and
+investigators should be unaware of an assigned interven-
+tion for similar reasons.
+The adoption of a short follow-up period and the enroll-
+ment of a small sample were the fourth most commonly
+encountered weaknesses in study design, particularly in
+horses. Inadequate duration of follow-up or treatment
+compromises the external validity of an RCT. Clinicians
+treating patients with a variety of conditions have called
+attention to the contrast between the beneficial effects of
+treatments in short-term RCTs and the less encouraging
+experiences with long-term treatment in clinical practice
+[175]. Long-term follow-up evaluations should be a prior-
+ity [81]. In this review, the classification of short study
+duration was evenly distributed between studies with posi-
+tive and negative results and did not particularly affect
+outcomes, although a few clinical trials showed the short-
+term efficacy of PRP in improving knee function and qual-
+ity of life [55,176].
+The detrimental effects of enrolling a small sample on
+the power of a study have been well documented. When
+a sample is too small, a study is particularly susceptible
+to a type II errors; that is, the study could be insuffi-
+ciently powerful to detect real differences between
+observed groups. Calculations of explicit sample size or
+power to anticipate this error have rarely been
+performed before the start of a research study [177].
+However, in the selected articles, smaller samples were
+not particularly associated with positive or negative out-
+comes. Nevertheless, we encourage authors to enroll
+sufficient numbers of subjects in their studies to assure
+adequate power and significance to their findings.
+The adoption of inadequate outcome measures was
+the fifth most frequently encountered weakness in study
+construction in this review. As already mentioned sub-
+jective outcomes present great opportunities for bias
+[174] and frequently were the only type of employed
+outcome measure in the selected studies.
+In orthopedic research, health status can be assessed by
+a number of methods, which are classified either as
+objective (e.g., radiological changes, range of motion) or as
+subjective (those relying on responses obtained directly
+from patients about their perceptions of health and
+illness) and as either generic or disease-specific [174].
+Most authors have accepted that a combination of object-
+ive and subjective measures is desirable for conducting a
+complete assessment. Often, a single given parameter
+employed for outcome evaluation suits certain circum-
+stances but not others, and there has rarely been a single
+most appropriate rating system or outcome measure
+[173,178,179]. Employing different outcome measures
+allows for the capture of diverse aspects of overall func-
+tion, and lack of agreement between patient-reported and
+objective measures reflects this diversity, rather than indi-
+cating a weakness in one method or the other [180].
+In this review, 48.3% of the selected studies only evalu-
+ated PRP treatment ’s efficacy with a few questionnaire-
+reported or subjective measures, as opposed to the ideal
+multifaceted evaluation; therefore, they were classified as
+having poor outcome measures. It is important to
+choose the most adequate measures for a particular task,
+condition and setting; otherwise, the results of clinical
+research can be misleading. In particular, the inclusion
+of mechanical tests resulted in more outcomes that were
+negative in the experimental studies. This association
+might help to explain why the consistently positive
+responses induced by PRP in vitro , particularly in cell
+cultures, were not correlated with similar improvements
+in outcomes in vivo . Another aspect that added confu-
+sion to the comparison of results of PRP treatments
+among the studies was the variety of lesions treated.
+PRP’s performance was compared in acute and chronic;
+experimentally induced and naturally occurring; tendon,
+ligament and articular disorders without due distinction
+for the particular tissues ’ characteristics. Biomechanical
+particularities, such as those of the flexor and extensor
+tendons; lesion localization, such as insertional versus
+body tears in ligaments; and staging of lesions, such as
+advanced osteoarthritis versus mild cartilage injuries,
+were not considered when evaluating PRP ’s treatment ef-
+ficacy [166,177].
+The localization of lesions in the clinical trials was
+associated with both positive and negative outcomes.
+PRP intervention yielded more positive results in tendi-
+nopathies than in arthropathies and desmopathies in
+humans. In a large survey of PRP ’s effects in the equine
+species in which 191 subjects were treated for desmopa-
+thies, tendinopathies and arthropathies, good results
+after intralesional injection were obtained, but in tendi-
+nopathies results were more impressive [181]. The
+reasons for these findings are unknown, and given the
+heterogeneity of tissues and stage of diseases, these
+results should be interpreted with care. Other re-
+searchers failed to provide definite recommendations for
+PRP intervention on a tissue-related basis [164]. Clinical
+Brossi et al. BMC Veterinary Research  (2015) 11:98 Page 11 of 17
+
+[W2001221672 PDF PAGE 12]
+and experimental scenarios, as well as interventions in
+distinct phases of lesion progression, different species
+and particularly-affected structures do affect perform-
+ance of a treatment modality and must be considered.
+This review demonstrated that scientific evidence of
+the beneficial effects of PRP in clinical settings remains
+lacking. While the vast majority of experimental in vitro
+studies yielded positive results, the same promising out-
+comes were not verified in the clinical trials after interven-
+tion with PRP , particularly in humans. Corroborating
+these observations, we found that all of the negative
+results from experimental works came from in vivo stud-
+ies. Other authors have made similar remarks when com-
+paring in vivo and in vitro studies of PRP [78,182-184],
+but the present review furnished numeric data for making
+comparisons and drawing conclusions. Altogether, these
+numbers demonstrated that the high expectations created
+by PRP ’s outstanding performance when tested in vitro
+have not been fulfilled when studies have been performed
+in living subjects. Given the small number of experimental
+studies with negative results, factors that could have
+adversely affected the outcomes were searched. Among
+the experimental in vivo studies that yielded negative
+results, four included mechanical evaluations in their out-
+come measures. Two studies exhibited side effects associ-
+ated with PRP administration, and one study failed to
+show improvements during the histological evaluation of
+experimentally induced tendon lesions treated with PRP.
+The trend toward failure when mechanical tests were
+applied in PRP-treated tissues was already noted in in vivo
+studies with mixed results and was more evident when
+the follow-up period lasted longer after the PRP interven-
+tion. Mechanical tests should be considered when testing
+PRP’s effects in experimental models.
+Why in vitro positive results outpaced the positive results
+observed in clinical and in vivo PRP studies by such a large
+margin remains to be determined. The particular character-
+istics of these distinct environments may provide clues
+about this discrepancy. The in vivo environment presents
+several variables that are absent outside of a living organism
+and that could interfere with PRP ’s effectiveness. However,
+the primary advantage of in vitro research is that it allows
+for an enormous level of simplification of the system under
+study and of the effects of a compound on a system. As a
+drawback, in vitro experiments fail to replicate the precise
+cellular conditions of a living organism. They are conducted
+i nac l o s e ds y s t e mt h a tt e n dt oa l l o wf o rh i g h e ra n dl o n g e r
+exposure of cells or explants to a given molecule than the
+exposure found in body tissues, which are half open sys-
+tems. In vivo , substances cannot easily reach target cells
+and are subject to biokinetics, which can result in under-
+estimation of their effects [185].
+Another relevant aspect that could harm the extrapo-
+lation of in vitro results to the in vivo scenario was the
+lack of consideration of interspecies differences. Numer-
+ous experimental in vivo studies have enrolled different
+animal models, and this finding could further affect the
+interpretation of the results of the efficacy of PRP in
+horses and humans.
+Overall, PRP has proved to be a safe therapeutic tool,
+with few adverse effects observed in the selected articles.
+This finding was similar to reports by other authors
+[55,164,177,181,186]. Although the in vitro antibacterial
+effect of human PRP against methicillin-resistant
+Staphylococcus aureus has been demonstrated [187], as
+well as those of equine platelet concentrates and platelet-
+poor plasma [188] the potential risk for bacterial contam-
+ination during PRP processing must be considered.
+Conclusion
+PRP has demonstrated the potential to exert beneficial
+effects in the healing of tendons, ligaments and cartilage,
+but definitive clinical evidence of its efficacy remains
+lacking. A great amount of literature has been dedicated
+to the topic, and well-constructed clinical trials, with
+sufficient power and duration to detect differences
+between treatments, as well as standardization of prod-
+ucts, procedures and conditions to be treated, are as
+important as they are scarce.
+Our r

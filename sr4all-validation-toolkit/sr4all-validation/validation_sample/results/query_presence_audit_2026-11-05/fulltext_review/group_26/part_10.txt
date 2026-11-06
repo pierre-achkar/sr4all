@@ -1,0 +1,205 @@
+
+participants, total duration, location, and time of day. Modality
+of intervention: music, performance arts, visual art, ceramics,
+storytelling, dance, literary arts, mixed, and in SR and MA.
+A ìsome modalities” option was included.
+Outcomes: Cognition improved cognition generally,
+improved memory, and improved language. Motor function
+improved motor function generally. QoL and wellbeing generally
+improved QoL and improved emotional wellbeing and self-
+esteem. Behavioral symptoms reduced agitation and improved
+social interaction and communication. Psychological symptoms
+reduced depression, reduced anxiety, reduced apathy, and
+reduced sadness. Activities of daily living improved activities
+of daily living.
+SEARCH OUTCOME
+A total of 1,075 documents were retrieved in the search, of which
+328 were duplicates. A total of 747 records were screened by
+title and abstract, and 527 were removed because they did not
+meet the inclusion criteria. A total of 220 articles were full text
+screened, of which 145 studies met the inclusion criteria and were
+enrolled in the study ( Supplementary Table 1). Among the 145
+included studies, 30 were MA, SR, or SR and MA (20%), and 115
+were ICT (80%). Of these, 38 were quantitative papers (26.20%),
+42 were qualitative papers (28.96%), 17 were mixed-method
+papers (11.72%), 13 were comparative papers (both quantitative
+and qualitative) (8.97%), and 5 were papers based on individual
+interventions (3.45%) (Figure 1).
+RESULTS
+Participants
+Cognitive Impairment Typologies
+Most of the studies focused on people living with dementia, in
+general, including 68 studies. It can seem obvious as dementias
+overall include DAT and Lewy body dementia, meaning that this
+typology is the most general one found in this SR, being a generic
+group that involves diﬀerent CI typologies.
+Dementias overall is followed by DAT and PD, with 22 and 21
+selected studies, respectively. These are two of the most common
+CI typologies, as a large number of people worldwide have these
+conditions. The prevalence of these conditions makes them more
+visible than other CI typologies, and therefore, more initiatives
+are centered on DAT or PD.
+It is always important to emphasize that aging is also
+considered a CI cause, so we considered it as a CI typology. In
+this study, 14 articles were focused on elderly individuals.
+Mild cognitive impairment (MCI), which is very often a
+precursor to dementia, is another CI typology in the literature,
+with 11 studies focused on it in this study.
+1,075 Records identified 
+from:
+WOS:221
+SCOPUS: 282
+PubMed: 332
+Medline: 239
+Other sources: 1
+Records removed before 
+screening:
+328 Duplicate records 
+removed
+747 Records screened
+527 Records excluded:
+42 not understood 
+languages
+15 book chapters
+457 not CI and culture
+13 reports not retrieved
+220 Reports assessed for 
+eligibility
+75 Reports excluded:
+29 dissertations
+3 interviews
+16 assessments and 
+assessment tools
+9 not CI and culture
+2 state of art
+1 protocol
+15 not empirical
+Identification of studies via databases and registers
+Identification
+Screening
+145 studies included in SR
+Included
+FIGURE 1 | PRISMA ﬂow chart of included studies.
+Frontiers in Psychology | www.frontiersin.org 3 November 2021 | Volume 12 | Article 762392
+
+[W3215100950 PDF PAGE 4]
+fpsyg-12-762392 November 23, 2021 Time: 10:48 # 4
+Delfa-Lobato et al. Culture Beneﬁts on Cognitive Impairment
+Almost trivially, two and one selected studies were focused
+on people with a diagnosis of HD and Creutzfeldt-Jakob disease,
+respectively. These two typologies of CI are less known among
+the general population.
+Age of the Participants
+When talking about the age of the intervention participants, it is
+important to specify that in this SR, ages have been classiﬁed as
+the commonly deﬁned large age ranges (Urbanas et al., 2005).
+None of the included studies worked with a group of
+participants whose mean age was under 60 years old. This means
+that all the studies were focused on older people.
+Participant Characteristics
+Group Size
+Some included studies (Argyle and Kelly, 2015; Sauer et al.,
+2016; Kontos et al., 2017; Ford et al., 2018; Deygout, 2019; Fields
+et al., 2019; Schneider et al., 2019; Wyatt and Liggett, 2019)
+mentioned the group size as an important aspect to consider.
+Most of these articles also indicate the beneﬁts of person-centered
+approaches, something that can be related to the obtained results
+described as follows.
+Most of the studies (58) included interventions in groups
+of fewer than 20 people, including 28 groups between 6 and
+10 people. Of these, 21 reported QoL and wellbeing-related
+outcomes. Additionally, 15 included studies that conducted
+an intervention with groups of 6ñ10 people that reported
+improvements in communication and socialization. These results
+can be related to the beneﬁts of a person-centered approach,
+as the center of the intervention is the person itself, with his
+or her history, interests, rights, values, and beliefs. In addition,
+these interventions, as always, treated participants with dignity
+and respect and tried to maximize their potential by oﬀering
+them opportunities to learn new things, to enjoy new moments,
+and to share these experiences with new people (Edvardsson
+et al., 2008). However, these beneﬁts are only possible when the
+professionals who are performing the intervention can dedicate
+enough time to each participant. Thus, this is probably the reason
+that small intervention groups report better outcomes related to
+person-centered approaches.
+Location and Time of Day
+In most of the included studies, the implications of performing
+the intervention in one speciﬁc place or another, as well as the
+time of day when it was carried out were not examined, so results
+are inconclusive.
+Nevertheless, one study that compared the results of an
+object handling intervention concluded that the intervention
+can have the same results regardless of where it takes place
+(Camic et al., 2019). These ﬁndings suggest that the beneﬁts
+of cultural activities are not related to the location where they
+take place, as assessed in the referenced article. In this case,
+the intervention took place in a museum and in a daycare
+center, obtaining positive and similar results related to emotional
+wellbeing at both locations (Camic et al., 2019). Likewise, the time
+of day when the interventions take place, distinguishing between
+morning and afternoon, does not seem to aﬀect results, as this
+was the conclusion of a 4-month study based on art therapy
+(Deygout, 2019).
+Other Participants—Informal Caregivers
+Some interventions were especially thoughtful and oﬀered to
+both people with CI and their caregivers. This is important, as
+very often the person who takes on the caregiver role is a close
+family member or, in some cases, a close friend of the impaired
+person (Wancata et al., 2005; Brodaty and Donkin, 2009; Carey
+et al., 2016). This makes this type of intervention especially
+meaningful, as it can be beneﬁcial not only for the patient but also
+for his or her caregiver. It is important to understand that lives of
+these people turn around the disease, and they no longer have the
+quality time together they used to have. This type of intervention
+can oﬀer them the opportunity to enjoy time together again and
+to remember how pleasant it was (Camic et al., 2014; Mittelman
+and Papayannopoulou, 2018).
+Moreover, interventions that involve not only CI people
+but also their caregivers can improve QoL for both of them
+(Mondro et al., 2020). It is important to expose that, very often,
+the person who adopts the informal caregiver role must face
+multiple obstacles, such as ﬁnancial problems or the diﬃculty
+of balancing caregiving with a social life and a career (Brodaty
+and Donkin, 2009). Consequently, this can result in some
+physical and mental illnesses, such as depression, anxiety, and
+other mental health issues, cardiovascular problems, or lower
+immunity (Wancata et al., 2005; Brodaty and Donkin, 2009).
+This makes it even more important to provide interventions that
+include caregivers, as sometimes they seem to be the forgotten
+ones. One of the most important beneﬁts these interventions
+aﬀord the caregivers is the possibility to share their experiences
+with others in the same situation (Mondro et al., 2020), making
+them feel understood and less alone, as social isolation is one
+of the negative consequences caregivers experience. Additionally,
+these interventions sometimes caregivers techniques they can
+use in their daily lives, making their burden as caregivers more
+manageable (Mondro et al., 2020).
+Modalities of the Interventions
+Music
+Notably, 28 studies reported music therapy as a modality in their
+investigations. Some of them included music therapy, as well as
+other modalities. There were mixed results regarding the type of
+CI interventions.
+The most registered outcomes delivered by music therapy
+were improvements in general cognition, QoL, emotional
+wellbeing, or self-esteem and reductions in depression signs. It
+is important to add that although none of the ICTs included
+reported it, signiﬁcant verbal and language ﬂuency improvements
+were reported in three SRs (Schwartz et al., 2019; Fong et al., 2020;
+Lam et al., 2020).
+Moreover, aphasia rarely appears in people with a diagnosis
+of CI due to the condition they are living with, as it aﬀects
+some speciﬁc brain regions (Damasio, 1992). Nevertheless, music
+can be not only a therapeutic activity for this speciﬁc collective
+of CI people but also a way to communicate (Baird et al.,
+2017; Baird and Thompson, 2019). It has been documented
+Frontiers in Psychology | www.frontiersin.org 4 November 2021 | Volume 12 | Article 762392
+
+[W3215100950 PDF PAGE 5]
+fpsyg-12-762392 November 23, 2021 Time: 10:48 # 5
+Delfa-Lobato et al. Culture Beneﬁts on Cognitive Impairment
+that music cognition skills are preserved longer than language
+skills in people suﬀering from aphasia (Baird and Samson, 2015;
+Baird and Thompson, 2019), so music can be the perfect non-
+v

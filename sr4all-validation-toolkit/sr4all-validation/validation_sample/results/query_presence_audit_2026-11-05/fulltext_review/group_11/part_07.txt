@@ -1,0 +1,180 @@
+lood and removing stasis
+Xue Jing 2009 46 (0.74) 43 (0.93) 3.36 ± 6.08 47.14 ± 10.4 CPM 1+MTX+NSAIds MTX +NSAIds MMP3 12 weeks Eliminating swelling and relieving pain ,
+activating blood and removing stasis
+Ma Wukai 2009 32 (0.68) 31 (0.62) 4.57 ± 4.75 48.05 ± 14 CPM 2+MTX+SSZ+NSAIDs MTX +SSZ+NSAIds Radiographic
+Progression
+6 months Warming meridian to relieve pain,
+activating blood and removing stasis
+Su Linchong 2010 35 – 32 – − − CHD+MTX+NSAIds MTX +NSAIds MMP3 3 months Activating blood and removing stasis
+Li Zhuoling 2012 27 (0.73) 28 (0.84) 1.07 ± 0.6 53.9 ± 10.85 CHD CS +CCD BMD 3 months Invigorating kidney and removing
+stasis
+Ouyang Guilin 2013 25 (0.68) 27 (0.67) 2.35 ± 1.27 35.24 ± 11.66 CPM 3+MTX+NSAIDs NSAIDs +MTX BMD 6 months Invigorating kidney and strengthening
+bone
+He Dongchu 2014 30 (0.73) 30 (0.70) 0.45 ± 0.07 49.93 ± 11.89 CHD +MTX+LEF MTX +LEF MMP3 3 months Dispelling wind and dispersing cold,
+dredging collaterals and relieving pain
+Ling Yun 2014 48 (0.75) 48 (0.81) 9.75 ± 3.22 45.15 ± 4.71 CPM 4+MTX+SSZ MTX +SSZ BMD 6 months Dispelling wind and removing
+dampness, dredging collaterals andrelieving pain
+Liu Xiaodong 2014 72 – 35 – 7.2 66.4 CHD NSAIDs BMD 3.7–4.2
+months
+Differentiation and classiﬁcation
+Liu Zhuo 2014 29 (0.60) 29 (0.63) 3.74 ± 3.48 42.69 ± 17.96 CPM 5+MTX+LEF MTX +LEF+NSAIds MMP3 2 months Invigorating Qi, dispelling cold and
+dampness
+Pang Xuefeng 2015 56 (0.73) 56 (0.77) 7.5 ± 2.44 43.65 ± 5.43 CHD +MTX+HCQ MTX +HCQ BMD 6 months Nourishing liver and kidney,
+nourishing qi and blood
+Wu Chunmei 2015 26 – 23 - − − CPM6+MTX+LEF+NSAIDs MTX +LEF+NSAIDs MMP3 2 months Activating blood to dispel cold,
+dispelling wind and dehumidiﬁcation
+Zhang Yanyan 2016 35 (0.89) 33 (0.91) 0.47 ± 0.14 42.53 ± 9.5 CHD +MTX+NSAIDs MTX +NSAIDs MMP3 24 weeks Soothing the liver and regulating the
+spleen, dispelling wind anddehumidiﬁcation
+Xu Zejun 2016 30 (0.80) 30 (0.77) 4.56 ± 2.52 42.05 ± 2.79 CHD +CS LEF +NSAIds+CS MMP3 30 days Tonifying the liver and kidney,
+dispelling wind and dehumidiﬁcation
+Li Jian 2017 67 (0.69) 67 (0.66) 3.3 ± 1.25 50.95 ± 5.97 CHD +MTX+NSAIds MTX +NSAIds MMP3 12 weeks Removing cold and activating
+meridians, dispelling wind anddehumidiﬁcation
+FP , Female proportion; SSZ, Sulfasalazine; MTX, Methotrexate; HCQ, Hydr oxychloroquine; CHD, Chinese herbal decoction; CPM, Chinese patent medic ines; NSAIDs, Non-steroidal anti-inﬂammatory drugs; CS, Calcium suppl ement;
+CPM1, Compound corypalis tablet; CPM2, Three Wu capsule; CPM3, Qianggu ca psule; CPM4, Zheng Qingfeng Tongning tablet; CPM5, Gulao Yukang pill; CPM6, Q ianggui Juanbi capsu.
+Frontiers in Pharmacology | www.frontiersin.org 4 August 2018 | Volume 9 | Article 914
+
+[W2889205077 PDF PAGE 5]
+Cai et al. Chinese Medicines in Rheumatoid Arthritis
+FIGURE 2 | Risk of bias summary of included studies. “?”: unclear risk o f bias; “–”: low risk of bias; “ +”: high risk of bias.
+FIGURE 3 | Evaluation for bias risk of included studies.
+were suﬃcient studies available, we conducted subgroup ana lyses
+in an attempt to explain the heterogeneity.
+Assessment of Reporting Biases
+We used Egger’s test to assess the possibility of publication bias
+with Stata 11.0.
+Data Synthesis
+Statistical Analyses
+Where there was no heterogeneity, we used a ﬁxed-eﬀect model,
+and where there was heterogeneity, we used a random-eﬀects
+model if there was no clinical heterogeneity. The MD for pooled
+data in meta-analysis were calculated using a ﬁxed model as
+outcomes were measured on the same standard scales. Otherwise,
+the SMD were calculated. Meta-analysis was facilitated by Revie w
+Manager 5.3 (Cochrane Collaboration, Oxford, UK) using the
+statistics as described below.
+Subgroup Analysis and Investigation of Heterogeneity
+Where suﬃcient studies were available and the data was
+heterogeneous, we carried out separate meta-analyses for studies
+according to some factors including intervention duration ,
+disease stage, and the form of traditional Chinese medicine
+(TCM).
+Sensitivity Analysis
+In studies where calcium supplements were used, we planned the
+sensitivity analyses as a priority in order to explore the diﬀerences
+in eﬀect size and to assess whether the conclusions were robust
+to the decision-making process. The sensitivity analyses included
+the following:
+Frontiers in Pharmacology | www.frontiersin.org 5 August 2018 | Volume 9 | Article 914
+
+[W2889205077 PDF PAGE 6]
+Cai et al. Chinese Medicines in Rheumatoid Arthritis
+(1) The eﬀect of risk of bias in included studies—deﬁned
+as adequate allocation concealment and blinding of outcome
+assessors; (2) the eﬀect of using calcium supplements.
+RESULTS
+Description of Studies
+We undertook a comprehensive literature search, including
+screening of titles and abstracts. In total, we retrieved 25fulltext
+references for further evaluation, including the manual se arching
+of reference lists (9 further full-text studies).
+Sixteen studies (
+Lu et al., 2002; Tang et al., 2005; Ma et al.,
+2009; Xue et al., 2009; Su, 2010; Li et al., 2012, 2017; Ouyang et al.,
+2013; He and Xiao, 2014; Ling et al., 2014; Liu, 2014; Liu et al .,
+2014; Pang et al., 2015; Wu et al., 2015; Xu et al., 2016; Zhang
+et al., 2016
+) including 1,171 cases (620 cases for oral Chinese
+medicine only or combined with western medicine, 551 cases f or
+oral western medicine) fulﬁlled the predeﬁned inclusion cri teria
+and were included in the ﬁnal analysis ( Figure 1). Examination
+of the references listed for these studies and for the articl es did
+not yield any further studies for evaluation. Agreement bet ween
+the two reviewers was 90% for study selection and 92% for quali ty
+assessment of trials.
+The study ﬂow diagram and search summary are described in
+Figure 1 and Table 1, respectively.
+Included Studies
+A total of 16 articles were included and all of these trials were
+performed in China. There were 11 articles (
+Lu et al., 2002; Tang
+et al., 2005; Ma et al., 2009; Xue et al., 2009; Su, 2010; Li et a l.,
+2012; Ouyang et al., 2013; Ling et al., 2014; Liu et al., 2014; Pang
+et al., 2015; Xu et al., 2016 ) that used the ACR 1987 criteria and 4
+studies ( Liu, 2014; Wu et al., 2015; Zhang et al., 2016; Li et al.,
+2017) that used the 2010 revised criteria for the ACR/EULAR
+classiﬁcation of RA.
+The primary outcomes of the included studies were the
+evaluation of radiographic progression of hands. Only two
+studies (
+Lu et al., 2002; Ma et al., 2009 ) provided changes of
+X-ray image staging. In two studies ( Lu et al., 2002; Ma et al.,
+2009) the data set was incomplete and, hence we were unable
+to conduct the analyses of their primary outcomes. Nine studi es
+(Tang et al., 2005; Xue et al., 2009; Su, 2010; He and Xiao, 2014 ;
+Liu, 2014; Wu et al., 2015; Xu et al., 2016; Zhang et al., 2016; Li
+et al., 2017 ) including 626 patients provided the serum MMP-
+3 data. Five studies ( Li et al., 2012; Ouyang et al., 2013; Ling
+et al., 2014; Liu et al., 2014; Pang et al., 2015 ) including 422
+patients provided the BMD data. In most of the studies, the
+BMD was observed by using dual-energy x-ray absorptiometry
+(DEXA) and biological mechanics methods. Only one study used
+single-photon absorption to measure the BMD. In these studies,
+the BMD was assessed by testing the lumbar, vertebra, ulna, or
+undeﬁned part.
+Excluded Studies
+Nine RCTs (two abstracts and seven articles) were excluded:two
+did not explain the diagnostic criteria, six did not include t he
+outcomes of interest, and one used proprietary Chinese medicin e
+in the control group.
+Risk of Bias in Included Studies
+Overall, for most of the included studies the risk of bias was
+low or unclear. The methodological quality summary for each
+included study is presented inFigure 2. The review authors’
+judgments about each methodological quality item are present ed
+as percentages across all the included studies in Figure 3.
+Allocation (Selection Bias)
+Investigators described all the studies included as randomized
+controlled trials. Nine studies (
+Lu et al., 2002; Ma et al., 2009; Xue
+et al., 2009; Li et al., 2012, 2017; Ouyang et al., 2013; Liu, 2 014; Xu
+et al., 2016; Zhang et al., 2016 ) adequately described the random
+method (low risk of bias). One study ( Wu et al., 2015 ) reported
+a high risk of bias and the other studies did not clearly descri be
+these methods (unclear risk of bias). Allocation concealme nt was
+assessed unclear in all the trials.
+Blinding (Performance and Detection Bias)
+Only one trial (
+Lu et al., 2002 ) was judged being at low risk of
+performance bias while eight were at high risk of bias. In 7 tri als
+(Tang et al., 2005; Su, 2010; Li et al., 2012, 2017; He and Xiao,
+2014; Liu et al., 2014; Xu et al., 2016; Zhang et al., 2016 ) the
+participants were not blinded and these trials were all judged as
+being at high risk of performance bias. We assessed low risk of
+detection bias in 2 trials (
+Lu et al., 2002; Ma et al., 2009 ) and
+unclear risk in 14 trials.
+Incomplete Outcome Data (Attrition Bias)
+Ten studies (
+Lu et al., 2002; Xue et al., 2009; Ouyang et al., 2013;
+He and Xiao, 2014; Ling et al., 2014; Liu et al., 2014; Pang et a l.,
+2015; Wu et al., 2015; Xu et al., 2016; Li et al., 2017 ) were judged
+being at low risk of attrition bias and others were judged as
+unclear risk.
+Selective Reporting (Reporting Bias)
+All trials were judged as unclear risk since the study protocols
+were not available and we did not have enough information in
+the study report to assess selective reporting.
+Other Potential Sources of Bias
+All trials were judged as unclear risk.
+Effects of Interventions
+Summary of the ﬁndings for the main comparison includes
+that Chinese medicine may provide an eﬃciently alternative
+choice for treatment of RA regarding its bone-protecting
+eﬃciency.
+Primary Outcomes
+Evaluation of Radiographic Progression of Hands
+Only two studies (
+Lu et al., 2002; Ma et al., 2009 ) provided
+changes of X-ray image staging, while two studies ( Lu et al., 2002;
+Ma et al., 2009 ) did not provide complete data, which made it
+diﬃcult

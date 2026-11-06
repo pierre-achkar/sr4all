@@ -1,0 +1,397 @@
+rred Reporting Items for Systematic Reviews
+and Meta-Analyses (PRISMA) criteria [ 23]. A qualitative
+systematic review seeks to combine findings across mul-
+tiple studies to understand the complexities of individuals ’
+experiences and perceptions, rather than assessing the
+effectiveness of an intervention [ 24, 25]. A protocol was
+not registered.
+Eligibility criteria
+Eligible studies reported qualitative data (e.g. qualitative
+surveys, interviews, focus groups, and observational
+studies) on pharmacists ’ perceptions of their knowledge,
+training, and barriers related to counselling on DHSs.
+Mixed-methods studies that contained a qualitative
+component were also eligible, however, studies that
+contained solely quantitative data were ineligible. For
+the purpose of this study, we defined DHSs to include
+vitamins and minerals, herbal remedies, homeopathic
+medicines, traditional medicines such as traditional
+Chinese medicines, probiotics, amino acids, and essential
+Ng et al. BMC Health Services Research          (2021) 21:499 Page 2 of 21
+
+[W3164179219 PDF PAGE 3]
+fatty acids, which was based on published definitions of
+DHSs, similar products, or their synonyms [ 26– 29]. Only
+English-language articles were included, and all studies
+not meeting the aforementioned eligibility criteria were
+excluded.
+Searching and screening
+MEDLINE, EMBASE, AMED and CINAHL were
+searched on May 11th, 2020 from inception to May 8th,
+2020. JYN designed the search strategy (Table 1) to
+encompass both keywords and indexed headings related
+to DHSs, pharmacists, and qualitative research methods.
+UT and SD independently screened the titles and ab-
+stracts recovered from all four databases, independently
+and in duplicate. Any discrepancies were resolved
+through discussion between all three authors. The same
+process was undertaken for the full-text screening of eli-
+gible studies.
+Data extraction
+A data extraction form was created a priori to collect in-
+formation from each eligible article. The following items
+were extracted and summarized: title of study; author;
+year published; country/countries of participants; term(s)
+used to describe DHS; regulatory status of the DHSs;
+types of DHSs included in the study; study methodolo-
+gies; theoretical underpinnings; pharmacist type; number
+of participants; outcomes; themes discussed; main find-
+ings; challenges encountered by the study population;
+limitations to the study; and study conclusions. UT and
+SD independently extracted data and discrepancies were
+resolved through discussion with JYN.
+Thematic analysis
+Thematic analysis was conducted based on the data
+extracted from Table 2 and Table 3, which included the
+themes, main findings, challenges encountered, limita-
+tions and conclusions. The available qualitative data was
+first summarized in tables and then analyzed by all three
+authors. UT and SD interpreted the evidence from the
+included papers to identify common key concepts. JYN,
+UT, and SD used words and phrases that captured key
+concepts to create codes, thematically organized codes
+into groups, and presented a discussion based on the re-
+search question as well as highlighted knowledge gaps in
+the currently published literature. Any disagreements
+were resolved through discussion.
+Results
+Search results
+Searches identified a total of 1695 items, of which 1385
+were unique, and 1272 titles and abstracts were elimi-
+nated, leaving 113 full-text articles for further review. Of
+those, 94 were deemed ineligible, because they did not
+include qualitative data ( n = 89), were conference ab-
+stracts ( n = 3) or were irretrievable ( n = 2), leaving a total
+of 19 articles that were included in this qualitative
+systematic review [ 30– 48]. A PRISMA diagram can be
+found in Fig. 1.
+Characteristics of included studies
+As shown in Table 2, eligible articles were published
+from 2004 to 2020 and originated from 12 countries.
+The largest number of studies originated from the
+United States ( n = 4). Most studies ’ pharmacists prac-
+ticed in a jurisdiction where regulations on DHSs existed
+but were limited ( n = 7). Although many terms were
+used to describe dietary and herbal supplements (DHSs),
+the most common included natural health products ( n =
+3), dietary supplements ( n = 3), and complementary and
+alternative medicine ( n = 3). The most common research
+method used across eligible articles was the qualitative
+interview ( n = 28). Most studies ’ participants consisted of
+Table 1 MEDLINE Search Strategy for Studies Reporting
+Qualitative Data Regarding the Pharmacists ’Knowledge of DHSs
+Executed May 11, 2020
+Database: Ovid MEDLINE(R) and Epub Ahead of Print, In-Process & Other
+Non-Indexed Citations, Daily and Versions(R) < 1946 to May 08, 2020>
+Search Strategy:
+--------------------------------------------------------------------------------
+1 dietary supplement*.mp. (67505)
+2 exp. Dietary Supplements/ (75009)
+3 natural health product*.mp. (415)
+4 natural product*.mp. (37584)
+5 vitamin*.mp. (266966)
+6 exp. Vitamins/ (320422)
+7 mineral*.mp. (190102)
+8 exp. Minerals/ (164674)
+9 (herb* adj1 (medic* or therap* or supplement*)).mp. (24484)
+10 exp. Medicine, East Asian Traditional/ or exp. Medicine, Chinese
+Traditional/ or exp. Herbal Medicine/ or exp. Plants, Medicinal/ or exp.
+Phytotherapy/ (108689)
+11 tcm.mp. (10185)
+12 exp. Drugs, Chinese Herbal/ (42957)
+13 traditional Chinese medicine.mp. (19492)
+14 herbalism.mp. (149)
+15 exp. Homeopathy/ (4722)
+16 homeopath*.mp. (6503)
+17 probiotic.mp. (16394)
+18 exp. Probiotics/ (16825)
+19 or/1 –18 (961675)
+20 (pharmaci* or pharmacy).mp. (88138)
+21 exp. Pharmacy Research/ or exp. Education, Pharmacy, Continuing/
+or exp. Pharmacy/ or exp. Evidence-Based Pharmacy Practice/ or exp.
+Clinical Pharmacy Information Systems/ or exp. Pharmacy Residencies/
+or exp. Education, Pharmacy/ or exp. Community Pharmacy Services/ or
+exp. Education, Pharmacy, Graduate/ or exp. Pharmacy Service, Hospital/
+(30644)
+22 exp. Pharmacists/ (16527)
+23 or/20 –22 (88138)
+24 (qualitative* or survey* or focus group* or interview* or
+observational* or descriptive* or mixed method*).mp. (1736863)
+25 19 and 23 and 24 (602)
+26 limit 25 to english language (536)
+***************************
+Ng et al. BMC Health Services Research          (2021) 21:499 Page 3 of 21
+
+[W3164179219 PDF PAGE 4]
+Table 2 General Characteristics of Eligible Studies
+Title Author and
+Year
+Published
+Country/
+Countries
+of
+Participants
+Term(s) Used
+to Describe
+Dietary and
+Herbal
+Supplements
+(DHS)
+1. Regulatory
+Status of the
+DHSs Included
+in the Study
+2. If Applicable,
+How are the
+DHSs Included
+in the Study
+Regulated?
+Types of DHS
+Included in Study
+Methodologies
+Used
+Theoretical
+Underpinning
+Types of
+Pharmacists
+Included in
+Study
+Number of
+Participants
+Outcomes of
+Study
+Themes Discussed
+Community
+pharmacists’
+professional
+practices for
+complementary
+medicines: a
+qualitative study
+in New Zealand
+Barnes and
+Butler. 2020
+[30]
+New
+Zealand
+Complementary
+Medicines (CMs)
+1. Yes, but
+limited
+2. Medicines Act
+regulations,
+Dietary
+Supplement
+Regulations,
+proposed
+Therapeutic
+Products Act
+(which will
+replace the
+current
+Medicines Act in
+New Zealand)
+Herbals,
+homoeopathics,
+vitamins, minerals,
+traditional
+medicine, and
+“natural” or plant-
+based products
+Semi-structured
+interviews
+Not reported Community 27 participants:
+all pharmacists
+Pharmacists’views
+on CMs in New
+Zealand,
+motivations and
+justifications for
+selling CMs, and
+professional and
+ethical issues CMs
+raise
+1. Description of CMs
+2. Pharmacists ’
+personal perspectives
+3. Motivations for
+stocking and selling
+CMs
+4. Community
+pharmacists’advisory
+role for CMs
+5. Knowledge,
+training and
+information sources
+on CMs
+6. Professional and
+ethical issues
+7. Role of pharmacy
+organizations
+Integrating
+traditional
+Chinese
+medicines into
+professional
+community
+pharmacy
+practice in
+China-Key stake-
+holder
+perspectives
+Yao et al.
+2020 [ 31]
+China Traditional
+Chinese
+Medicine (TCM)
+and Herbal
+Medicines (HM)
+1. Yes, but
+limited
+2. Not reported
+Not reported Semi-structured
+interviews
+Grounded Theory Community
+and clinical
+14 participants: 7
+pharmacists, 1
+regulatory
+authority
+representative, 2
+pharmacy school
+representatives, 1
+professional
+organization
+representative, 2
+chain pharmacy
+representatives
+and 1 key
+opinion leader
+Perceptions of key
+stakeholders about
+the enablers and
+challenges to
+pharmacists’
+adopting a role in
+patient care
+associated with the
+concurrent use of
+HMs
+1. Purposes of HMs
+use by the public
+2. Perception about
+integrative medicine
+3. Perception about
+the safety of HMs
+4. Perception about
+pharmacists’role in
+HMs
+5. Major barriers
+hindering
+pharmacists taking up
+a more professional
+role related to HMs
+6. Actions needed to
+support pharmacists
+taking up a more
+professional role
+related to HMs
+Advancing the
+pharmacist’s
+role in
+promoting the
+appropriate and
+safe use of
+dietary
+supplements
+Harnett
+et al. 2019
+[32]
+United
+States
+Dietary
+Supplements
+(DS) and Natural
+Products (NP)
+1. Yes
+2. Regulated by
+the FDA and
+FTC
+Herbal products,
+nutritional and
+vitamin and
+mineral
+supplements,
+homoeopathic
+preparations
+Semi-structured
+interviews
+Grounded Theory Practicing
+pharmacists
+in various
+settings
+(including
+retail and
+health
+systems) and
+pharmacist
+officers/
+leaders in
+22 participants:
+12 pharmacists
+and 10 key
+stakeholders
+Key stakeholder
+and pharmacist
+perceptions about
+the actions needed
+to enable
+pharmacists to
+fulfill a professional
+role related to DS
+use
+1. Education and
+training
+2. Strategies for
+ensuring high
+standards related to
+regulation of DS
+safety and quality
+assurance
+3. Workplace
+resources
+4. DS research
+Ng et al. BMC Health Services Research          (2021) 21:499 Page 4 of 21
+
+[W3164179219 PDF PAGE 5]
+Table 2 General Characteristics of Eligible Studies (Continued)
+Title Author and
+Year
+Published
+Country/
+Countries
+of
+Participants
+Term(s) Used
+to Describe
+Dietary and
+Herbal
+Supplements
+(DHS)
+1. Regulatory
+Status of the
+DHSs Included
+in the Study
+2. If Applicable,
+How are the
+DHSs Includ

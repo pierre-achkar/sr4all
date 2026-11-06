@@ -1,0 +1,178 @@
+e; CBM, Cogn itive Bias Modiﬁcation; SIAS, Social Interaction Anxiety Scale; SPS, Soc ial Phobia Scale; SPSQ, Social Phobia Screening Questionnaire; AR, Applied Relaxation;
+SPQ, Spider Phobia Questionnaire; NODS, The NORC Diagnostic Screen for Gambling Problems.
+aSeparate analyses of deterioration were conducted for the two primary outc ome measures depending on the diagnosis of the patient.
+bFour treatment conditions were included in the study, with/without treatm ent rationale, respectively, but are pooled in the current analysis.
+cAn additional outcome measure, International Physical Activity Que stionnaire, IPAQ, was used in the study, but is not included in the curre nt analysis.
+dPassive control with the possibility to contact the research team if nee ded.
+ePatients were able to choose ten out of 16 modules to be completed during ten w eeks.
+f Patients were able to choose ten out of 19 modules to be completed during ten w eeks.
+gAn additional treatment group, guided psychodynamic therapy, was also u sed in the study, but is not included in the current analysis.
+hOne brief orientation session and one session of three-hour prolonged exposure.
+iIn addition to two weeks of CBM.
+jAn additional treatment group, interpersonal psychotherapy, was also us ed in the study, but is not included in the current analysis.
+kAdditional outcome measures were included in the original study but lost i n the raw data ﬁle.
+lPatients were able to complete up to eight modules selected by the therapist.
+Frontiers in Psychology | www.frontiersin.org 10 March 2019 | Volume 10 | Article 589
+
+[W2928191556 PDF PAGE 11]
+Rozental et al. Non-response in Internet-Based CBT
+TABLE 4 |Signiﬁcance level, odds ratios, and 95% Conﬁdence Intervals (C I) for
+predictors of non-response.
+Predictor (reference) p OR Lower CI Upper CI
+Symptom severity at baseline (lower
+severity)
+<0.001 2.04 1.53 2.72
+Diagnosis, anxiety disorders
+(depression and other)
+<0.001 5.75 2.92 11.32
+Module completion (fewer) 0.12 1.09 0.98 1.22
+Civil status (single) 0.13 0.66 0.39 1.13
+Gender (female) 0.03 1.80 1.05 3.10
+Previous psychological treatment (no) 0.99 1.01 0.57 1.77
+Previous or ongoing psychotropic
+medication (no)
+0.08 1.72 0.94 3.14
+Sick leave (no) 0.51 0.54 0.08 3.45
+Educational level (below university
+level)
+0.49 1.20 0.71 2.04
+Age (lower age) 0.73 1.00 0.98 1.02
+p, p-value; OR, odds ratio; CI, 95% conﬁdence interval.
+The current study also looked at how the application of
+diﬀerent reliable change indexes aﬀected the non-response
+rate, demonstrating a range of 15.5% between the widest
+and narrowest criterion. This approach was based on the
+recommendations by
+Wise (2004) , contending that it can be
+useful to assess treatment outcome using diﬀerent conﬁdence
+levels: “. . . would be of considerable help in more accurately
+identifying and studying those who are not unequivocal
+treatment successes but who are nonetheless improving and on
+their way to a positive outcome as well as those who are not
+responding to treatment.” (p. 56). However, this approach was
+primarily proposed for improvement and deterioration, while it
+is less clear if it should be applied to non-response. According
+to
+Loerinc et al. (2015) , the RCI also seems to be one of the
+less frequently used classiﬁcations of non-response, with o nly
+one-third of the clinical trials using it in their systemati c review.
+The results presented here are therefore tentative and need t o
+be replicated, but they do warrant some caution as to how non-
+response rates are interpreted in the scientiﬁc literature (
+Taylor
+et al., 2012 ). Moreover, diﬀerent reliable change indexes result
+in diﬀerent rates of non-response, but what standard deviatio n
+unit of change might be most accurate depends on theory and
+reliability, i.e., is almost two standard deviations too broad a
+measure of non-response? Looking closer at one of the clinica l
+trials included in the current study, Soﬁe 1, a change score w ithin
+± 15.79 on the LSAS-SR (
+Liebowitz, 1987 ) classiﬁes a patient as
+a non-responder when using a RCI of z = 1.96, but only 6.77
+points for 0.84, thereby decreasing the non-response rate fro m
+21.9 to 6.3%. More research is needed to explore what level
+is clinically meaningful, that is, when a statistically determined
+non-response is in fact seen as something negative by the patie nt.
+This could, for instance, include interviewing those who do not
+respond according to the RCI regarding their experiences of
+treatment, similar to the study by
+McElvaney and Timulak (2013)
+who addressed the issue of good and poor outcomes using a
+qualitative approach.
+Lastly, the current study examined possible predictors of non-
+response in ICBT by entering a set of variables determined a
+priori into a binomial logistic regression. The results fromthis
+analysis suggest that patients with higher symptom severity on
+the primary outcome measure at baseline, having an anxiety
+disorder, and being of male gender might have higher odds of
+not responding in treatment. The fact that greater symptoms
+may be a predictor is not particularly surprising given that it
+implies more distress and potential comorbidity, similar to what
+was proposed by
+Taylor et al. (2012) , which is also in line with
+the initial hypothesis. Higher symptom severity could also be a
+sign to extend the treatment period to achieve adequate treatment
+dosage for those patients who do not improve as expected (
+Stulz
+et al., 2013 ), which is seldom possible in clinical trials. As for
+anxiety disorders possibly being predictive of non-response, t he
+evidence is less clear. No direct comparisons between diagnose s
+have previously been made for any treatment, making it diﬃcult
+to evaluate if and why this would increase the odds for not
+responding. One idea is that non-response occurs more often
+among patients with anxiety disorders in ICBT because it is
+more diﬃcult for a therapist to notice and adjust the treatment
+without a face-to-face contact (
+Bengtsson et al., 2015 ), such
+as when exposure exercises need to be tweaked to target the
+correct stimulus or more help is required to increase motivation.
+Meanwhile, treating depression via the Internet might be more
+straightforward for the patient and therefore less probable to
+result in non-response. However, these ﬁndings are among the
+ﬁrst of its kind and need to be replicated before any deﬁnitive
+conclusions can be drawn. It should also be noted that the third
+category of diagnoses, other, only consisted of three randomi zed
+clinical trials. Still, both erectile dysfunction and rela tionship
+problems had among the highest rates of non-response in the
+current study (74.4 and 50%), which is similar to what was
+found for deterioration (
+Rozental et al., 2017 ), but gambling
+disorder did on the other not display the same pattern (3.5%).
+Further research is thus warranted to see if certain diagnoses are
+more likely to predict non-response in ICBT. Finally, none of
+the other hypotheses were conﬁrmed, i.e., module completion,
+not being in a relationship, younger age, and having a lower
+educational level were not associated with higher odds of non-
+response. However, being of male gender could constitute a
+potential predictor, which is in line with the results by
+Karyotaki
+et al. (2015) indicating that men tend to drop out from ICBT.
+Here, a possible diﬀerence in coping strategies was proposed as
+an explanation, where women may put in more eﬀort in trying to
+overcome their distress, thereby exhibiting a better compliance
+in treatment. If this somehow also explains the diﬀerence in non -
+response between the genders in ICBT remains to be seen. Yet
+it could be that male patients have diﬀerent expectations of what
+the treatment entails, resulting in poorer response and dropou t
+when these are not met, something that would be interesting to
+explore in the future via interviews.
+Limitations
+The current study is relatively unique in that it has explicitly
+investigated non-response in treatment and the ﬁrst using
+individual patient data meta-analysis. This is considered a gold
+Frontiers in Psychology | www.frontiersin.org 11 March 2019 | Volume 10 | Article 589
+
+[W2928191556 PDF PAGE 12]
+Rozental et al. Non-response in Internet-Based CBT
+standard for examining eﬀects above those found by using
+group means and standard deviations, particularly in relation
+to discovering potential predictors (
+Simmonds et al., 2005 ).
+However, there are several limitations that need to be consi dered
+when interpreting the results. First, few similar examples ex ist in
+the scientiﬁc literature, making it somewhat diﬃcult to int erpret
+both the rates of non-response and its predictors, especially s ince
+there exists no consensus on how to deﬁne and classify patient s
+who do not respond. The ﬁndings should therefore be interprete d
+cautiously and warrant replications, although they might he lp
+inform researchers of what estimates to expect and variables
+to explore (
+Clarke, 2005 ). Here, a particular caution should be
+made with regard to the OR’s that have been provided, as they
+may be diﬃcult to interpret and use clinically. In essence, they
+represent a probability of an event, similar to how odds are
+used in betting, but cannot be directly translated into a risk of
+something occurring in the future (
+Davies et al., 1998 ). Also,
+using binomial logistic regression in investigating predic tors
+poses several challenges, such as how to deal with continuous
+scales, multicollinearity, and the assumptions regarding the
+relationship between the independent and dependent variable s.
+Second, the current study consists of data from 29 clinical t rials
+with 2,118 patients receiving treatment (2,866 in total), bu t
+the aggregation was not based on a systematic review, which
+could introduce diﬀerent biases (
+Stewart and Tierney, 2002 ), e.g.,
+availability bias and reviewer bias. However, the authors w ent
+to great length to ensure that all available data was used and
+set up predeﬁned in

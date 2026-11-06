@@ -1,0 +1,176 @@
+cashew nut, hazelnut, macadamia, and pecan) limit the statistical
+power to detect a potential interaction that needs to be considered
+in relation to the whole body of evidence. Of the different tree nut
+types, all tree nuts except chestnuts were addressed in the body of
+evidence that was reviewed. The lower fat proﬁle of chestnuts
+suggests that they could mechanistically work differently from
+other nut types [212]. In addition, pine nuts were only included in
+1 study as part of mixed nuts consumed by participants [171].
+Thought should be given to the variability of nuts as a food group,
+as there are a number of methodological challenges relating to the
+study of dietary patterns and CVD. One major challenge is related
+to the way food groups are formed and the limitations of the
+different food composition databases used to analyze the out-
+comes, especially if energy is adjusted [213]. Background diets
+also varied between studies, with some prescribing dietary
+guidelines, whereas others advised participants to follow their
+habitual diet, which may have varied considerably between in-
+dividuals. For 1 study, the PREDIMED study [65–67], we
+considered the olive oil arm to be the control arm when compared
+with the other Mediterranean diet arms. The authors acknowl-
+edge that olive oil provides unsaturated fats and has been asso-
+ciated with lipid-lowering properties. This comparison, however,
+eliminates the confounding nature of the overall Mediterranean
+L. Houston et al. Advances in Nutrition 14 (2023) 1029–1049
+1041
+
+[W4368340710 PDF PAGE 14]
+diet, allowing for the comparison between nut and olive oil con-
+sumption. Similarly, 1 study [176] also included seeds in their
+control diet. Although linseeds have a similar nutrient proﬁle to
+nuts, a meta-analysis reported particular doses and participant
+characteristics to inﬂuence the lipid-lowering effect [ 214].
+Analysis of funnel plots suggested the results for LDL cholesterol,
+HDL cholesterol, TC, TG, SBP, and DBP may have been inﬂuenced
+by small study effects, which may be caused by publication bias.
+This resulted in downgrading the quality of evidence for these
+outcomes. Finally, although we were unable to explore the dis-
+tribution of the published data included in this meta-analysis,
+several studies reported median values rather than means,
+which may suggest that some of the data was skewed and may
+have impacted our analyses.
+In conclusion, this systematic review and meta-analysis of the
+effects of tree nut and peanut consumption on improving risk of
+CVDﬁnds evidence of signiﬁcantly favorable effects on LDL
+cholesterol, TC, TG, TC:HDL cholesterol, LDL cholesterol:HDL
+cholesterol, and apoB. The nonsigniﬁcant differences in SBP and
+DBP suggest a lack of consistent evidence for the effects of tree
+nuts and peanuts on blood pressure. The results should also be
+interpreted with caution because of the large variation in the
+included studies. Theﬁndings of this review provide further
+insight into the combined effect that tree nuts and peanuts do not
+simply display positive changes to 1 biomarker of CVD risk but a
+range of biomarkers to create an overall risk reduction. The
+ﬁndings of this review also build on previous observational and
+intervention meta-analyses, which have shown an inverse asso-
+ciation between nut consumption and risk of CVD. Although
+stronger effects are observed for tree nut and peanut consump-
+tion of>60 g/d for LDL cholesterol and TC, most dietary
+guidelines recommend the consumption of 15–30 g as a serving
+size. Importantly, this review shows a reduction in LDL choles-
+terol, TC, TG, TC:HDL cholesterol, LDL cholesterol:HDL choles-
+terol, and apoB, and an increase in HDL with the consumption of
+/C2030 g/d of nuts, supporting dietary guidelines. As consumers are
+not currently meeting these recommendations, public health
+messaging is needed to support reasons for consumers to increase
+their intake of nuts, which also have favorable effects on risk of
+CVD.
+Acknowledgments
+We thank Dr. Vivienne Guan for her contribution to the
+scoping review, which set the foundations for this systematic
+review. We also thank Ms. Elizabeth Sherry for her help with
+quality checking (source data veriﬁcation).
+The authors’ responsibilities were as follows— LH: designed
+and conducted the research, performed the literature search,
+wrote the initial draft, and had primary responsibility forﬁnal
+content; LH, EPN, and YCP: performed data screening; LH and
+MCS: performed data extraction; EPN: performed quality
+assessment; and all authors: read and approved the ﬁnal
+manuscript.
+Data availability
+The data used in this review are available from the corre-
+sponding author upon reasonable request.
+Funding
+This research was funded by the Australian Nut Industry
+Council Ltd, which did not provide any input into the design,
+collection, analysis, interpretation of the data, or manuscript
+writing.
+Author disclosures
+EPN has previously received funding from the International
+Nut and Dried Fruit Council. In addition, EPN and YCP have
+previously received funding from the California Walnut Com-
+mission. LH and MCS, no conﬂicts of interest.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online athttps
+://doi.org/10.1016/j.advnut.2023.05.004.
+References
+[1] Cardiovascular diseases (CVDs) key facts [Internet], World Health
+Organization (2021) [cited 21 April, 2022]. Available from:
+https://www.who.int/news-room/fact-sheets/detail/cardiovascular-
+diseases-(cvds.
+[2] S. Anand, C. Bradshaw, D. Prabhakaran, Prevention and management
+of CVD in LMICs: why do ethnicity, culture, and context matter? BMC
+Med 18 (1) (2020) 7,https://doi.org/10.1186/s12916-019-1480-9.
+[3] E.P. Neale, L.C. Tapsell, Nuts in Healthy dietary Patterns and Dietary
+Guidelines, in: C. Alasalvar, J. Salas-Salvado, E. Ros, J. Sabate (Eds.),
+Health Beneﬁts of Nuts and Dried Fruits, Taylor& Francis Group, Boca
+Raton, FL, 2020.
+[4] A. Herforth, M. Arimond, C./C19Alvarez-S/C19anchez, J. Coates,
+K. Christianson, E. Muehlhoff, A global review of food-based dietary
+guidelines, Adv. Nutr. 10 (4) (2019) 590–605, https://doi.org/
+10.1093/advances/nmy130.
+[5] R.C. Brown, A.R. Gray, L.C. Yong, A. Chisholm, S.L. Leong, S.L. Tey,
+A comparison of perceptions of nuts between the general public,
+dietitians, general practitioners, and nurses, PeerJ 6 (2018), e5500,
+https://doi.org/10.7717/peerj.5500.
+[6] L.C. Yong, A.R. Gray, A. Chisholm, S.L. Leong, S.L. Tey, R.C. Brown,
+Barriers to and facilitators and perceptions of nut consumption among
+the general population in New Zealand, Public Health Nutr 20 (17)
+(2017) 3166–3182, https://doi.org/10.1017/S1368980017002464.
+[7] R. Pawlak, S. Colby, J. Herring, Beliefs, beneﬁts, barriers, attitude,
+intake and knowledge about peanuts and tree nuts among WIC
+participants in eastern North Carolina, Nutr. Res. Pract. 3 (3) (2009)
+220–225, https://doi.org/10.4162/nrp.2009.3.3.220.
+[8] R. Pawlak, H. London, S. Colby, E. WallBassett, N. Sira, Perception of
+nut intake among individuals with or at risk for heart disease and/or
+diabetes, J. Behav. Health. 1 (3) (2012) 185–188, https://doi.org/
+10.5455/jbh.20120501060143.
+[9] C.J. Nikodijevic, Y.C. Probst, S.Y. Tan, E.P. Neale, The effects of tree
+nut and peanut consumption on energy compensation and energy
+expenditure: a systematic review and meta-analysis, Adv. Nutr. 14 (1)
+(2023) 77–98.
+[10] Y.C. Probst, V.X. Guan, K. Kent, Dietary phytochemical intake from
+foods and health outcomes: a systematic review protocol and
+preliminary scoping, BMJ Open 7 (2) (2017), e013337,https://
+doi.org/10.1136/bmjopen-2016-013337.
+[11] E. Bitok, J. Sabat/C19e, Nuts and cardiovascular disease, Prog. Cardiovasc.
+Dis. 61 (1) (2018) 33–37, https://doi.org/10.1016/
+j.pcad.2018.05.003.
+[12] J. Sabat/C19e, K. Oda, E. Ros, Nut consumption and blood lipid levels: a
+pooled analysis of 25 intervention trials, Arch. Intern. Med. 170 (9)
+(2010) 821–827, https://doi.org/10.1001/archinternmed.2010.79.
+[13] D.J. Jenkins, C.W. Kendall, A.R. Josse, S. Salvatore, F. Brighenti,
+L.S. Augustin, et al., Almonds decrease postprandial glycemia,
+insulinemia, and oxidative damage in healthy individuals, J. Nutr. 136
+(12) (2006) 2987–2992, https://doi.org/10.1093/jn/136.12.2987.
+L. Houston et al. Advances in Nutrition 14 (2023) 1029–1049
+1042
+
+[W4368340710 PDF PAGE 15]
+[14] S.M. Downs, J. Fanzo, Is a cardio-protective diet sustainable? A review
+of the synergies and tensions between foods that promote the health of
+the heart and the planet, Curr. Nutr. Rep. 4 (4) (2015) 313–322,
+https://doi.org/10.1007/s13668-015-0142-6.
+[15] R.G.M. De Souza, R.M. Schincaglia, G.D. Pimentel, J.F. Mota, Nuts and
+human health outcomes: a systematic review, Nutrients 9 (12) (2017)
+1311,https://doi.org/10.3390/nu9121311.
+[16] A.J. Mayhew, R.J. de Souza, D. Meyre, S.S. Anand, A. Mente,
+A systematic review and meta-analysis of nut consumption and
+incident risk of CVD and all-cause mortality, Br. J. Nutr. 115 (2)
+(2016) 212–225, https://doi.org/10.1017/S0007114515004316.
+[17] D. Aune, N. Keum, E. Giovannucci, L.T. Fadnes, P. Boffetta,
+D.C. Greenwood, et al., Nut consumption and risk of cardiovascular
+disease, total cancer, all-cause and cause-speciﬁc mortality: a systematic
+review and dose-response meta-analysis of prospective studies, BMC
+Med 14 (1) (2016) 207,https://doi.org/10.1186/s12916-016-0730-3.
+[18] C. Luo, Y. Zhang, Y. Ding, Z. Shan, S. Chen, M. Yu, et al., Nut
+consumption and risk of type 2 diabetes, cardiovascular disease, and
+all-cause mortality: a systematic review and meta-analysis, Am. J. Clin.
+Nutr. 100 (1) (2014) 256–269, https://doi.org/10.3945/
+ajcn.113.076109.
+[19] D. Zhou, H. Yu, F. He, K.H. Reilly, J. Zhang, S. Li, et al., Nut
+consumption in relation to cardiovascular disease risk and type 2
+diabetes: a systematic review and meta-analysis of prospective studies,
+Am. J. Clin. Nutr. 100 (1) (2014) 270–277, https://doi.org/10.3945/
+ajcn.113.079152.
+[20] G. Grosso, J. Yang, S. Marventa

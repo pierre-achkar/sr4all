@@ -1,0 +1,107 @@
+ed in clinical work  too1,3,12,19,22,29,48,49. These findings 
+highlighted the expression of two or more markers was a necessary criteria for diagnosing SCNECC.
+The evidences reveal that differential diagnosis by neuroendocrine markers is particularly important in two 
+situations. One is to differentiate SCNECC from other tumors with small cell morphological characteristics, and 
+the other is to determine whether cervical adenocarcinoma or squamous carcinoma coexist with  SCNECC1,3,18. 
+Figure 3.  Forest plots of expression proportion (95% CI) for combination of two neuroendocrine markers 
+in small cell neuroendocrine carcinoma of the cervix (SCNECC). (a) (Syn + CD56), (b) (Syn + NSE), (c) 
+(Syn + CgA), (d) (CD56 + NSE), (e) (NSE + CgA), (f) (CD56 + CgA). The weight represents the percentage of 
+the results of a single study in the overall results. Generally, the larger the number of cases in a single study, 
+the greater its weight in the overall population. CI confidence interval; Syn synaptophysin; CD56 neural cell 
+adhesion molecules; NSE neuron-specific enolase; CgA chromograninA.
+
+[W3084988572 PDF PAGE 9]
+9
+Vol.:(0123456789)Scientific RepoRtS  |        (2020) 10:14975  | https://doi.org/10.1038/s41598-020-72055-x
+www.nature.com/scientificreports/
+With the development of diagnostic technology, it is found that SCNECC frequently occur mixed with other 
+pathological types. Of the 42 studies enrolled in our study, 16 were patients with mixed SCNECC. To obtain more 
+valuable results, we also analyzed the combined expression of two markers. We found that the combination (Syn 
+and CD56) had the highest expression rate, which was consistent with the level of positive expression rate for 
+single markers. Syn and CD56 are sensitive indicators for diagnosing SCNECC. However, the expression levels 
+of both markers are highly variable.
+Our study managed to collect almost all the related studies. However, the quantity, quality, and type of these 
+studies still limited the level of evidence of this meta-analysis. All the included studies were retrospective types 
+with small sample sizes. Heterogeneity of some studies existed in this meta-analysis. There were not adequate 
+data and studies for the meta-analysis of prognosis. Since the data including IHC expressions of the four neu-
+roendocrine markers in non-SCNECC were too small, it was not possible to compare the diagnostic specificity of 
+these four markers. Thus, more studies including patients with non-small cell neuroendocrine cancer or clinical 
+trials with a larger sample size are expected in the future.
+conclusion
+The positive expression percentage of Syn was the highest among four neuroendocrine markers, and the positive 
+rates of combination (Syn and CD56) were the highest among six combinations. It is confirmed that Syn and 
+CD56 are reliable indicators for diagnosing SCNECC.
+Figure 4.  Funnel plots estimating possible publication bias. The sample size of the combination of CD56 + NSE 
+is too small to evaluate the publication bias. One requirement of asymmetric analysis is that the case number 
+of included studies is greater than nine. So we eliminated the analysis of studies of CD56 and NSE for whose 
+sample size did not meet analytical criteria.
+
+[W3084988572 PDF PAGE 10]
+10
+Vol:.(1234567890)Scientific RepoRtS  |        (2020) 10:14975  | https://doi.org/10.1038/s41598-020-72055-x
+www.nature.com/scientificreports/
+Data availability
+All data generated and analysed during the study are included in this published article.
+Received: 8 February 2020; Accepted: 14 August 2020
+References
+ 1. Deng, G. H., Zhang, X. & Wu, L. Y . Clinicopathological analysis of nine cases of small cell carcinoma of the uterine cervix. Chin. 
+J. Oncol. 32, 199–202. https ://doi.org/10.3760/cma.j.issn.0253-3766.2010.03.009 (2010) (in Chinese).
+ 2. Horn, L. C. et al. Mixed small cell carcinomas of the uterine cervix:prognostic impact of focal neuroendocrine differentiation but 
+not of Ki-67 labeling index. Ann. Diagn. Pathol. 10, 140–143. https ://doi.org/10.1016/j.anndi agpat h.2005.07.019 (2006).
+ 3. Cheng, M., Wu, L. Y ., Bai, P ., Zhang, R. & Zheng, S. Clinicopathologic characteristics of eight patients with small cell carcinoma 
+of the cervix. Chin. J. Obstet. Gynecol. 43, 189–192. https ://doi.org/10.3321/j.issn:0529-567X.2008.03.008 (2008) (in Chinese).
+ 4. Ishida, G. M. et al. Small cell neuroendocrine carcinomas of the uterine cervix: a histological, immunohistochemical, and molecular 
+genetic study. Int. J. Gynecol. Pathol. 23, 366–372. https ://doi.org/10.1097/01.pgp.00001 39637 .01977 .61 (2004).
+ 5. Conner, M. G., Richter, H., Moran, C. A., Hameed, A. & Albores-Saavedra, J. Small cell carcinoma of the cervix: a clinicopathologic 
+and immunohistochemical study of 23 cases. Ann. Diagn. Pathol. 6, 345–348 (2002).
+ 6. Tsunoda, S. et al. Small-cell carcinoma of the uterine cervix: a clinicopathologic study of 11 cases. Int. J. Gynecol. Cancer 15, 
+295–300. https ://doi.org/10.1111/j.1525-1438.2005.15219 .x (2005).
+ 7. Giorgadze, T. et al. Small cell carcinoma of the cervix in liquid-based Pap test: utilization of split-sample immunocytochemical 
+and molecular analysis. Diagn. Cytopathol. 40, 214–219 (2012).
+ 8. Ganesan, R. et al. Neuroendocrine carcinoma of the cervix: review of a series of cases and correlation with outcome. Int. J. Surg. 
+Pathol. 24, 490–496. https ://doi.org/10.1177/10668 96916 64338 5 (2016).
+ 9. Kajiwara, H. et al. Immunohistochemical expression of somatostatin type 2A receptor in neuroendocrine carcinoma of uterine 
+cervix. Arch. Gynecol. Obstet. 279, 521–525. https ://doi.org/10.1007/s0040 4-008-0760-y (2009).
+ 10. Kuji, S. et al. A new marker, insulinoma-associated protein 1 (INSM1), for high-grade neuroendocrine carcinoma of the uterine 
+cervix: analysis of 37 cases. Gynecol. Oncol. 144, 384–390. https ://doi.org/10.1016/j.ygyno .2016.11.020 (2017).
+Figure 5.  Brief overview of meta-analysis results. (a) (positive expression percentages per marker); (b) (a 
+SCNECC cell), three proteins (containing Syn, CgA and NSE) locate in cell cytoplasm and only CD56 protein 
+locates in the cell membrane; (c) (positive expression percentages per two markers); (d) (HE staining and 
+Immunohistochemical staining of SCNECC), d1 (HE, × 100, d2 (Syn, × 100), d3 (CD56, × 400), d4 (NSE, × 100), 
+d5 (CgA, × 100). All the pathological images come from our experiments. Syn synaptophysin; CD56 neural 
+cell adhesion molecules; NSE neuron-specific enolase; CgA chromograninA; HE hematoxylin–eosin; × 100, 
+magnification 100 times; × 400, magnification 400 times.
+
+[W3084988572 PDF PAGE 11]
+11
+Vol.:(0123456789)Scientific RepoRtS  |        (2020) 10:14975  | https://doi.org/10.1038/s41598-020-72055-x
+www.nature.com/scientificreports/
+ 11. Lenczewski, A. et al. Small cell carcinoma of the uterine cervix-an uncommon variant of cervical cancer with neuroendocrine 
+features. Folia Histochem. Cytobiol. 39(Suppl 2), 89–90 (2001).
+ 12. Qin, J. C. et al. Clinicopathologic analysis of small cell neuroendocrine carcinoma of the cervix. Chin. J. Obstet. Gynecol. 46, 
+360–363 (2011) (in Chinese).
+ 13. Rekhi, B. et al. Spectrum of neuroendocrine carcinomas of the uterine cervix, including histopathologic features, terminology, 
+immunohistochemical immunohistochemical profile, and clinical outcomes in a series of 50 cases from a single institution in 
+India. Ann. Diagn. Pathol. 17, 1–9. https ://doi.org/10.1016/j.anndi agpat h.2012.01.009 (2013).
+ 14. Sato, Y ., Shimamoto, T., Amada, S., Asada, Y . & Hayashi, T. Large cell neuroendocrine carcinoma of the uterine cervix a clinico-
+pathological study of six cases. Int. J. Gynecol. Pathol. 22, 226–230. https ://doi.org/10.1097/01.PGP .00000 71046 .12278 .D1 (2003).
+ 15. Viswanathan, A. N. et al. Small cell neuroendocrine carcinoma of the cervix outcome and patterns of recurrence. Gynecol. Oncol. 
+93, 27–33. https ://doi.org/10.1016/j.ygyno .2003.12.027 (2004).
+ 16. Wang, Y ., Mei, K., Xiang, M. F ., Li, J. M. & Xie, R. M. Clinicopathological characteristics and outcome of patients with small cell 
+neuroendocrine carcinoma of the uterine cervix: case series and literature review. Eur. J. Gynaecol. Oncol. 34, 307–310 (2013).
+ 17. Li, J. D. et al. A clinicopathological aspect of primary small-cell carcinoma of the uterine cervix a single-centre study of 25 cases. 
+J. Clin. Pathol. 64, 1102–1107. https ://doi.org/10.1136/jclin path-2011-20027 4 (2011).
+ 18. Sitthinamsuwan, P ., Angkathunyakul, N., Chuangsuwanich, T. & Inthasorn, P . Neuroendocrine carcinomas of the uterine cervix 
+a clinicopathological study. J. Med. Assoc. Thai 96, 83–90 (2013).
+ 19. Li, S. & Zhu, H. Twelve cases of neuroendocrine carcinomas of the uterine cervix cytology, histopathology and discussion of their 
+histogenesis. Acta Cytol. 57, 54–60. https ://doi.org/10.1159/00034 2516 (2013).
+ 20. Emerson, R. E. et al. Cervical carcinomas with neuroendocrine differentiation: a report of 28 cases with immunohistochemical 
+analysis and molecular genetic evidence of common clonal origin with coexisting squamous and adenocarcinomas. Int. J. Gynecol. 
+Pathol. 35, 372–384. https ://doi.org/10.1097/PGP .00000 00000 00025 4 (2016).
+ 21. Stoler, M. H., Mills, S. E., Gersell, D. J. & Walker, A. N. Small-cell neuroendocrine carcinoma of the cervix. A human papillomavirus 
+type 18-associated cancer. Am. J. Surg. Pathol. 15, 28–32. https ://doi.org/10.1097/00000 478-19910 1000-00003  (1991).
+ 22. Straughn, J. M., Richter, H. E., Conner, M. G., Meleth, S. & Barnes, M. N. Predictors of outcome in small cell carcinoma of the 
+cervix-a case series. Gynecol. Oncol.  83, 216–220. https ://doi.org/10.1006/gyno.2001.6385 (2001).
+ 23. Xing, D. et al. Next-generation sequencing reveals recurrent somatic mutations in small cell neuroendocrine carcinoma of the 
+uterine cervix. Am. J. Surg. Pathol. 42, 750–760. https ://doi.org/10.1097/PAS.00000 00000 00104 2 (2018).
+ 24. Inoue, M., Ueda, G. & Nakajima, T. Immunoh

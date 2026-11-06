@@ -1,0 +1,117 @@
+ated an aberrant gut microbiota 
+composition  in IBS[11-14], although  not all trials  report  this aberration  and descriptions  of it vary 
+between studies[15]. The microbial pathophysiology of IBS remains unknown.
+Treating  IBS poses  a challenge;  the syndrome  probably  represents  a heterogeneity  of disease 
+mechanisms, which makes it difficult to develop effective therapeutic strategies[16]. Understanding the 
+causes  of gut dysbiosis  in IBS is crucial [17]. Some trials  indicate  that probiotics  and prebiotics  can 
+reduce  the symptoms  of IBS[18,19]. Fecal  microbiota  transplantation  (FMT)  might  be an effective 
+therapeutic intervention in IBS[16,20].
+FMT is the transfer of stool from a healthy donor to a patient[21]. FMT has been described as far back 
+as the fourth century in China[22]. In modern times, the first published  FMT treatment  is from 1958, 
+when it was used successfully in four patients with pseudomembranous colitis[23]. Pseudomembranous 
+colitis is now known to be caused by Clostridioides difficile infection (CDI). Based on subsequent placebo-
+controlled studies, FMT is now accepted in daily clinical practice for the treatment of recurrent CDI[24]. 
+In addition, FMT is being investigated as a treatment option in a range of other diseases, e.g., metabolic 
+syndrome, inflammatory bowel diseases, hepatic encephalopathy  and multiple sclerosis[25]. The most 
+promising results with FMT, apart from treating recurrent CDI, are for the treatment of inflammatory 
+bowel disease[26-28].
+FMT donors  can be healthy  relatives  or anonymous  donors.  The advantages  of the latter  are the 
+possibility  of selecting  donors with a high microbiota  diversity  and to store screened  donor stool in 
+freezers,  to be made use of for multiple patients[29]. A European consensus  report recommends  that 
+donors are chosen based on detailed  information  about illnesses  with a presumed  link to intestinal 
+dysbiosis and rigorous testing of faecal and blood samples to avoid the transfer of infectious diseases
+[30].
+FMT can be delivered in several ways, including through upper or lower endoscopic procedures, or 
+by a gastro-duodenal  or a rectal  tube[31]. Additionally,  capsules  can release  the stool in the small 
+intestines and have been used successfully for the treatment of CDI[32-34]. In the treatment of recurrent 
+CDI, the highest  cure rates have been reported  with repeated  treatments  delivered  through  lower 
+endoscopy[35]; FMT has proven highly effective and patients are willing to undergo the treatment[36].
+The microbial pathophysiology of IBS is not clearly understood, as microbiota alterations in IBS could 
+either be a cause of the disease or a consequence of intestinal secretion and motility altered by IBS[37]. 
+The prevailing hypothesis is that FMT might correct the dysbiosis associated with IBS[38,39], leading to 
+a reversal or improvement  of symptoms. Gut dysbiosis in IBS is characterised  by a lower diversity of 
+bacteria in the microbiota and abnormal proportions of specific bacteria as compared to the microbiota 
+of healthy individuals[37,40]. In IBS and in other patient groups, FMT has resulted in increased bacterial 
+diversity [41,42] and the coexistence  of donor and recipient  microbiota  strains  up to one year after 
+treatment[43-45]. However, this is a new and developing field of study and the long-term effects of FMT 
+on the microbiota remain largely unknown, not least of all because donor stools contain many things 
+other than bacteria.
+There is increasing  evidence  for a connection  between  gut dysbiosis  and IBS[46,47]. The adminis-
+tration  of FMT by various  methods  has been described  in published  case reports  and abstracts,  as 
+compiled in an earlier review[48]. A number of smaller trials have examined the effect of FMT on IBS 
+specifically[49-57], and several randomised controlled trials (RCTs), using different methods of adminis-
+tration, have been published with mixed results[43,44,58-63]. The effect of FMT can be difficult to assess 
+due to the absence of reliable outcome measures and high placebo response rates[64]. The short- and 
+long-term safety of FMT in patients with IBS is currently unclear.
+The objectives of this systematic review were to examine the benefits and harms of FMT vs placebo 
+(including autologous FMT, i.e., a participant’s  own faecal material) for the treatment of patients with 
+IBS.
+MATERIALS AND METHODS
+We conducted  a systematic  review  and meta-analysis  following  the recommendations  from  the 
+Cochrane Handbook for Systematic Reviews of Interventions[65]. The systematic review was registered 
+a priori as a protocol[66].
+We included  RCTs comparing  FMT to placebo  for the treatment  of IBS, regardless  of publication 
+status and language of publication. For cross-over trials only data from the first intervention were used. 
+For multi-arm  trials  only the data from intervention  groups  relevant  to the review  were used. We 
+excluded  trials with quasi-random  designs and cluster RCTs. Trials with mixed disease populations 
+were excluded.
+Trials were included  if their participants  were diagnosed  with IBS by a physician  or according  to 
+accepted,  symptom-based  diagnostic  criteria,  such  as the  Rome  III  or IV criteria [67] (Supple -
+
+[W4378220627 PDF PAGE 4]
+Halkjær SI et al. FMT in IBS: A meta-analysis
+WJG https://www.wjgnet.com 3188 May 28, 2023 Volume 29 Issue 20
+mentary Table 1). We only  included  trials  that  had follow-up  after  FMT for one week  or more. 
+Participants were included regardless of their gender and age.
+FMT  could  be administered  in different  ways  and  at different  frequencies  as there  was  no 
+standardised  procedure.  Therefore,  we included trials irrespective  of FMT procedure,  in terms of the 
+quantity of faeces used, the form of faeces (fresh or frozen), the route of administration, the frequency of 
+treatment (i.e., single vs multiple infusions) and donor selection (relatives or not). Only trials that used 
+the whole gut microbiome from the donor were included. Trials that used a placebo, or autologous FMT 
+as a placebo, were included. Trials that used selective microbial communities were excluded.
+Primary outcomes
+The primary  outcome  was the proportion  of patients  experiencing  an improvement  of symptoms 
+(patient-reported),  as measured by a validated,  global IBS symptoms score (e.g., IBS severity scoring 
+system), as defined by each trial’s organisers.
+Secondary outcomes
+Secondary  outcomes  were the change  in quality  of life, as measured  by a validated  quality  of life 
+assessment,  e.g., IBS-specific  quality-of-life  (IBS-QoL),  the proportion  of patients  with non-serious 
+adverse events and serious adverse events according to International  Conference  on Harmonization-
+Good Clinical Practice, and dropouts due to adverse events. Outcomes were measured after three and 
+six months.
+Literature search
+We searched Cochrane Central, MEDLINE, EMBASE and Web of Science. No language or publication 
+date restrictions were applied to the searches. The detailed search strategy is provided in Supplement-
+ary Table 2.
+We searched the following sources from the inception of each database up until 24 October 2022 and 
+placed no restrictions on the language of publication (Supplementary Table 2): Cochrane Central (via the 
+Ovid Evidence-Based  Medicine Reviews Database,  from inception);  MEDLINE (via Ovid from 1946); 
+and EMBASE (via Ovid from 1974).
+We also searched for ongoing trials on ClinicalTrials.gov (https://clinicaltrials.gov/ ) and the World 
+Health Organisation International Clinical Trials Registry Platform (https://trialsearch.who.int/).
+The reference  lists of all trials identified  were then scanned for additional  relevant  trials. We also 
+contacted the first authors of published and ongoing trials to request recent data or additional data, as 
+needed.
+Data collection and analysis
+Two independent  authors performed  the study selection  (BL, SIH). Disagreements  were resolved by 
+consensus using a third author (AMP). The search results were first screened by title and abstract and 
+subsequently  excluded  if found non-relevant;  the remaining  results were screened  by full text. Data 
+were extracted  independently  by two investigators  (BL, SIH). Any discrepancies  were resolved  by 
+consensus using a third author (LLG). An attempt to contact the corresponding  author by e-mail was 
+made if data were not available.
+A data extraction  protocol was developed based on the Cochrane Consumers and Communication 
+Review Group’s data and results template and refined accordingly[68]. The following information was 
+extracted from each trial: (1) Author, year of publication, trial design, and study site (country); (2) the 
+mean or median (SD or IQR) change in symptoms, as measured by IBS scoring systems, at the end of the 
+trial; (3) the mean or median (SD or IQR) change in quality of life, as measured by IBS quality of life 
+scoring systems; (4) treatment description (including route of administration, mixed or single donor and 
+fresh or frozen transplant); (5) reported non-serious adverse events and serious adverse events; and (6) 
+dropouts due to adverse events.
+Assessment of risk of bias in the studies
+The risk of bias was independently  assessed by two investigators  (BL, FC) using the Cochrane risk of 
+bias tool[69] and the following seven domains were assessed: random sequence generation, allocation 
+concealment,  blinding  of participants  and personnel,  blinding  of outcome  assessment,  incomplete 
+outcome data, selective reporting, and other sources of bias (Supplementary Table 3).
+The risk of bias for each domain was rated as either ‘high’, ‘unclear’ or ‘low’. We classified the overall 
+risk of bias in the trials as low if all the bias domains were classified  as being at low risk of bias; we 
+classified the overall risk as high if one or more of t

@@ -1,0 +1,224 @@
+Dent 
+2014;2014:938274.
+31. Cassidy DW Jr, Herbosa EG, Rotskoff KS, Johnston LE Jr. A 
+comparison of surgery and orthodontics in “borderline” adults 
+with Class II, division 1 malocclusions. Am J Orthod Dentofacial 
+Orthop 1993;104:455–70.
+
+END REVIEW W4285411096
+
+
+REVIEW W4285449447
+TITLE: Placental Site Trophoblastic Tumor – A Systematic Review
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4285449447 PDF PAGE 1]
+ 
+Citation: Biju Azariah M et al. Placental Site Trophoblastic Tumor – A Systematic Review. Sch J Med Case Rep, 2021 Jun 9(6): 657-
+662. 
+ 
+657 
+ 
+ 
+ 
+ 
+Scholars Journal of Medical Case Reports               
+Abbreviated Key Title: Sch J Med Case Rep 
+ISSN 2347-9507 (Print) | ISSN 2347-6559 (Online)  
+Journal homepage: https://saspublishers.com  
+ 
+ 
+Placental Site Trophoblastic Tumor – A Systematic Review 
+Biju Azariah M1*, Manisha Verma2, Divya T3, Jayaprakash PG4 
+      
+1Assistant Professor, Department of Radiation Oncology, VMMC & Safdarjung Hospital, New Delhi -100023 India  
+2Senior Resident- Obstetrics and Gynaecology, AIIMS Jodhpur, Rajasthan -342001 India 
+3Junior Resident, Department of Radiation Oncology, VMMC & Safdarjung Hospital, New Delhi -100023, India  
+4Senior Consultant, Kerala Institute of Medical Sciences Trivandrum, kerala – 695029 India 
+ 
+DOI: 10.36347/sjmcr.2021.v09i06.011                                     | Received: 06.05.2021 | Accepted: 11.06.2021 | Published: 15.06.2021 
+ 
+*Corresponding author: Dr. Biju azariah M 
+ 
+Abstract  Review Article 
+ 
+Placental site trophoblastic tumor (PSTT), a rare form of gestational trophoblastic disease (GTD) has a wide clinical 
+and biological spectrum with benign to malignant potential . PSTT can occur after any type of pregnancy and no 
+specific risk factors have been established. Mitotic index is the most important prognostic factor in determining the 
+outcome of disease. Though early and benign disease is cured with surgery, for advanced metastatic disease, 
+chemotherapy plays an important role in management. However, chemotherapy resistance is a main obstacle in 
+achieving adequate control in patients with advanced disease. This article reviews the literature on this rare disease and 
+tries to provide a comprehensive view on its management. 
+Keyword: placental site trophoblastic tumor, gestational trophoblastic disease. 
+Copyright © 2021 The Author(s): This is an open -access article distributed under the terms of the Creative Commons Attribution 4.0 International 
+License (CC BY-NC 4.0) which permits unrestricted use, distribution, and reproduction in any medium for non -commercial use provided the original 
+author and source are credited. 
+ 
+INTRODUCTION 
+Placental site trophoblastic tumor (PSTT), is a 
+rare form of gestational trophoblastic disease (GTD) 
+contributing to 1 -2% of all gestational trophoblastic 
+neoplasia (GTN). They arise from invasive intermediate 
+gestational trophoblasts which are responsible for 
+subsequent embryo implan tation [ i]. Previously, PSTT 
+was thought to be benign in nature and hence was 
+termed ‘trophoblastic pseudo tumor by Kurman and 
+Scully in1976 [ ii]. But with more understanding of the 
+malignant behavior of the tumor, the nomenclature was 
+changed to PSTT in 19 81 by Scully and Young, to 
+account for both the benign and malignant potentials of 
+this tumor which has since then been adopted by the 
+World Health Organization (WHO) [iii]. In the spectrum 
+of GTN, partial or complete hydatidiform mole is 
+considered to be be nign, while choriocarcinoma (CC) 
+and PSTT are considered as malignant [ iv]. The etiology 
+and risk factors for the development of PSTT are not 
+clearly understood. World wide data shows that that the 
+disease-specific mortality of PSTT is higher than other 
+GTD subtypes (16.1% for PSTT, 6.5% for hydatidiform 
+moles, and 13.4% for choriocarcinoma) [ 5]. The rarity 
+and wide clinical spectrum of this disease ranging from 
+benign to  aggressive behavior with fatal outcome, 
+provides challenges in making correct early di agnosis 
+and deciding  the management [v, vi]. 
+ 
+PATHOLOGY  
+PSTT origins from the proliferation of the 
+intermediate interstitial trophoblast, at the placenta 
+implantation site and is characterized by absence of 
+chorionic villi. On gross examination, PSTT is u sually a 
+polypoidal lesion, and protrudes into uterine cavity or 
+infiltrates the uterus. Occasionally it can transmit the 
+deep myometrium and extend to the serosa (Figure1) 
+[vii]. Cut section usually shows grey or yellow tumor 
+with a circumscribed border and  variable areas of 
+hemorrhage or necrosis. 
+ 
+
+
+[W4285449447 PDF PAGE 2]
+ 
+    
+Biju Azariah M et al., Sch J Med Case Rep, Jun, 2021; 9(6): 657-662 
+© 2021 Scholars Journal of Medical Case Reports | Published by SAS Publishers, India             658 
+ 
+ 
+ 
+Fig-1: Hysterectomy specimen showing Placental site trophoblastic tumor, an ill-defined mass which has replaced and 
+permeated myometrium 
+ 
+On histopathological examination, the tumors 
+are characterized by gross nuclear and cytoplasmic 
+pleomorphism of intermediate trophoblast cells. The 
+proliferation of the intermediate trophoblastic cells 
+evolves like nodule, which then infiltrates and 
+proliferates between the smooth muscle cells separating 
+them as cords and sheets (Figure 2) (Picture courtesy of 
+Rebecca N Baergen MD). There is angioinvasion of the 
+decidual spiral arterioles, associated with necrosis and 
+hemorrhage. They also present monomorphic 
+population of large polyhedral cells with irregular 
+hyperchromatic nuclei. Nuclear atypia is usually 
+amphophilic but can also be eosinophilic or clear. 
+Spindling of tumor cells can be present.The occasional 
+observation of fibrinoid deposition, if present i s a 
+typical feature of this tumour [ viii]. The endometrium 
+adjacent to the neoplastic cells may show a pseudo 
+decidual change. 
+ 
+ 
+Fig-2: PSTT showing bright pink fibrinoid deposition and proliferation of extra villous trophoblasts showing variable atypia 
+and splitting apart muscle fibers. (H&E, magnification 10x.) 
+ 
+In PSTT, the nuclei are at different stages of 
+mitosis and hence the mitotic figure may vary. And so, 
+the biologic behaviour of PSTT cannot be predicted 
+from the microscopic features alone [6, ix]. 
+Genotypically, PSTTs are usually diploid and have a 
+female predominance or 46XX [ x]. 
+Immunohistochemistry analyses show the expression of 
+prolactin (HPL), cytokeratin (CK), melanoma adhesion 
+molecule (Mel -CAM),Cyclin E  and CD146  diffusely 
+positive  in the cytoplasm of PSTT tumor cells, while 
+the expression of HCG is locally positive (Figure 3 B) 
+and Vimentin is negative [ xi,xii,xiii]. Epithelial membrane 
+antigen (EMA) and placental alkaline phosphatase 
+(PLAP) are focally pos itive (Figure 3 A) [ xiv]. 50-100% 
+of intermediate trophoblasts show positivity for human 
+placental lactogen (HPL) and fewer than 10% of tumor 
+cells stain for human chorionic gonadotrophin (hCG). 
+This can be used in diagnosis and in discriminating 
+PSTT from carcinoma or sarcomas. Expression of Ki67, 
+a nuclear antigen, correlates to the proliferation 
+potential of the tumor tissue. In PSTT, Ki67 -positive 
+cells could reach 15%, while in choriocarcinoma it may 
+surge to 60 –70% [ xv]. Due to the absence of the 
+syncytiotrophoblast cells, PSTT expresses a lower level 
+
+
+[W4285449447 PDF PAGE 3]
+ 
+    
+Biju Azariah M et al., Sch J Med Case Rep, Jun, 2021; 9(6): 657-662 
+© 2021 Scholars Journal of Medical Case Reports | Published by SAS Publishers, India             659 
+ 
+ 
+of serum beta -HCG than choriocarcinoma. 
+Choriocarcinoma can be differentiated form PSTT by 
+these two points. Ki67 -positive cells exceeding 50% 
+and elevated serum beta-hCG level, favors the diagnosis 
+of choriocarcinoma. Table 1 shows the summary of the 
+expression patterns of different markers in three types 
+of gestational   trophoblastic neoplasia (GTN) tissues  
+[15]. 
+ 
+ 
+Fig-3: Immunohistochemical testing showing focal positivity for placental alkaline phosphatase (A) and hCG (B) (×100) 
+ 
+Table-1: Summary of the expression patterns of different markers in three types of Gestational   Trophoblastic 
+Neoplasia (GTN) tissues 
+ PSST ETT CC 
+CK +++ +++ +++ 
+HPL +++ -/+ +/- 
+HCG -/+ -/+ +++ 
+CD146 +++ -/+ -/+ 
+Ki67 + + +++ 
+EMA ++ +++ NA 
+P63 - +++ -/+ 
+Vimentin - + - 
+-, 0-5%; +, 5-30%; ++, 31-60%; +++, >60 % expression 
+ETT- epithelial trophoblastic tumour, NA- not available; PSST- placental site trophoblastic tumour.CC 
+Choriocarcinoma 
+ 
+Clinical presentation 
+PSTT mostly affects the women of 
+reproductive age group. PSTT can develop after any 
+type of pregnancy.  PSTTs most commonly develop 
+after a term gestation, but also occur after a molar 
+pregnancy in approximately 8 percent of cases. The risk 
+factors for the development of PSST is not clearly 
+defined, however menarche after age of  12 years, poor 
+bleeding during menstrual period and oral contraceptive 
+use have been linked inconsistently with PSTT [ xvi]. 
+The most common presenting symptoms are abnormal 
+vaginal bleeding or amenorrhea. Due to nonspecific 
+signs and symptoms, the clinical diagnosis of PSTT can 
+be difficult. At presentation, 70% patients have disease 
+localized to the uterus, while 30% of patients has 
+metastatic disease. The metastases sites are lungs, liver, 
+vagina, lymph nodes, brain, bladder, ovary or other 
+organs [xvii, xviii]. Metastasis may also occur years after 
+the initial diagnosis of PSTT. 
+ 
+Rarely, PSTT manifests with preeclampsia, 
+beta- HCG triggered hyperthyroidism, unspecific 
+symptoms, such as nausea or hemoptysis, galactorrhea, 
+polycythemia and even cutaneous metastases. Nephrotic 
+syndrome or haematuria related to glomerular 
+membrane deposition of immunoglobulin and fibrin 
+may occur in 10% of patients. It resolves after removal 
+of the tumour. Virilization due to raised testosterone 
+levels, secondary to an ovarian respon se to 
+gonadotrophin drive from the tumor, is also reported. 
+PSTT is st

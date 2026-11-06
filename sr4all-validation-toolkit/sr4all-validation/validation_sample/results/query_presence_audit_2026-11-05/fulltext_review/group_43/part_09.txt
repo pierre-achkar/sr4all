@@ -1,0 +1,204 @@
+2; 72: 1199-209. 
+166. Ansari MA, Nadeem A, Alshammari MA, Attia SM, Bakheet SA, Khan MR, et 
+al. Cathepsin B inhibitor alleviates Th1, Th17, and Th22 transcription factor 
+signaling dysregulation in experimental autoimmune encephalomyelitis. Exp 
+Neurol. 2022; 351: 113997. 
+167. Pandey G, Bakhshi S, Kumar M, Thakur B, Jain P, Kaur P, et al. Prognostic and 
+therapeutic relevance of cathepsin B in pediatric acute myeloid leukemia. Am J 
+Cancer Res. 2019; 9: 2634-49. 
+168. Hook GR, Yu J, Sipes N, Pierschbacher MD, Hook V, Kindy MS. The cysteine 
+protease cathepsin B is a key drug target and cysteine protease inhibitors are 
+potential therapeutics for traumatic brain injury. J Neurotrauma. 2014; 31: 
+515-29. 
+169. Buttle D J, Murata M, Knight CG, Barrett AJ. CA074 methyl ester: a 
+proinhibitor for intracellular cathepsin B. Arch Biochem Biophys. 1992; 299: 
+377-80. 
+170. Wang J, Wang L, Zhang X, Xu Y, Chen L, Zhang W, et al. Cathepsin B 
+aggravates acute pancreatitis by activati ng the NLRP3 inflammasome and 
+promoting the caspase-1-induced pyroptosis. Int Immunopharmacol. 2021; 94: 
+107496. 
+171. Feng Y, Ni L, Wang Q. Administration of cathepsin B inhibitor CA-074Me 
+reduces inflammation and apoptosis in polymyositis. J Dermatol Sci.  2013; 72: 
+158-67. 
+172. Yan BZ, Wang W, Chen LY, Bi MR, Lu YJ, Li BX, et al. Role of cathepsin 
+B-mediated apoptosis in fulminant hepatic failure in mice. World J 
+Gastroenterol. 2009; 15: 1231-6. 
+173. Rudzińska M, Parodi A, Soond SM, Vinarov AZ, Korolev DO, Morozov AO, et 
+al. The Role of Cysteine Cathepsins in Cancer Progression and Drug 
+Resistance. Int J Mol Sci. 2019; 20. 
+174. Rawlings ND, Barrett AJ, Thomas PD, Huang X, Bateman A, Finn RD. The 
+MEROPS database of proteolytic enzymes, their substrates and i nhibitors in 
+2017 and a comparison with peptidases in the PANTHER database. Nucleic 
+Acids Res. 2018; 46: D624-d32. 
+175. Sinha AA, Morgan JL, Wood N, Betre K, Reddy A, Wilson MJ, et al. 
+Heterogeneity of cathepsin B and stefin A expression in Gleason pattern 3+3 
+(score 6) prostate cancer needle biopsies. Anticancer Res. 2007; 27: 1407-13. 
+176. Duivenvoorden HM, Rautela J, Edgington -Mitchell LE, Spurling A, Greening 
+DW, Nowell CJ, et al. Myoepithelial cell -specific expression of stefin A as a 
+suppressor of early breast cancer invasion. J Pathol. 2017; 243: 496-509. 
+177. Li C, Chen L, Wang J, Zhang L, Tang P, Zhai S, et al. Expression and clinical 
+significance of cathepsin B and stefin A in laryngeal cancer. Oncol Rep. 2011; 
+26: 869-75. 
+178. Li W, Ding F, Zhang L, Liu Z, Wu Y, Luo A, et al. Overexpression of stefin A in 
+human esophageal squamous cell carcinoma cells inhibits tumor cell growth, 
+angiogenesis, invasion, and metastasis. Clin Cancer Res. 2005; 11: 8753-62. 
+179. Ma Y, Chen Y, Li Y, Grün K, Berndt  A, Zhou Z, et al. Cystatin A suppresses 
+tumor cell growth through inhibiting epithelial to mesenchymal transition in 
+human lung cancer. Oncotarget. 2018; 9: 14084-98. 
+180. Wang N, Yuan Y, Bai X, Han W, Han L, Qing B. Association of cathepsin B and 
+cystatin C with an age -related pulmonary subclinical state in a healthy 
+Chinese population. Ther Adv Respir Dis. 2020; 14: 1753466620921751. 
+181. Illy C, Quraishi O, Wang J, Purisima E, Vernet T, Mort JS. Role of the occluding 
+loop in cathepsin B activity. J Biol Chem. 1997; 272: 1197-202. 
+182. Zore I, Krasovec M, Cimerman N, Kuhelj R, Werle B, Nielsen HJ, et al. 
+Cathepsin B/cystatin C complex levels in sera from patients with lung and 
+colorectal cancer. Biol Chem. 2001; 382: 805-10. 
+183. Monsouvanh A, Proungvitaya T, Limpaiboon T, Wongkham C, Wongkham S, 
+Luvira V, et al. Serum cathepsin B to cystatin C ratio as a potential marker for 
+the diagnosis of cholangiocarcinoma. Asian Pac J Cancer Prev. 2014; 15: 9511-5. 
+184. Yan Y, Zhou K, Wang L, Wang F, Chen X, Fan Q. Clinical significance of serum 
+cathepsin B and cystatin C levels and their ratio in the prognosis of patients 
+with esophageal cancer. Onco Targets Ther. 2017; 10: 1947-54. 
+185. Han H, Li J, Feng X, Zhou H, Guo S, Zhou W. Autophagy-related genes are 
+induced by histone deacetylase inhibitor suberoylanilide hydroxamic acid via 
+the activation of cathepsin B in human breast cancer cells. Oncotarget. 2017; 8: 
+53352-65. 
+186. Yano M, Hirai K, Naito Z, Yokoyama M, Ishiwata T, Shiraki Y, et al. 
+Expression of cathepsin B and cystatin C in human breast cancer. Surg Today. 
+2001; 31: 385-9. 
+187. Kim JT, Lee SJ, Kang MA, Park JE, Kim BY, Yoon DY, et al. Cystatin SN 
+neutralizes the inhibitory effect of cystatin C on cathepsin B activity. Cell 
+Death Dis. 2013; 4: e974. 
+188. Oh SS, Park S, Lee KW, Madhi H, Park SG, Lee HG, et al. Extracellular cystatin 
+SN and cathepsin B prevent cellular senescence by inhibiting abnormal 
+glycogen accumulation. Cell Death Dis. 2017; 8: e2729. 
+ 
+
+END REVIEW W4385641853
+
+
+REVIEW W4385740504
+TITLE: Metabolic dysfunction-associated fatty liver disease increases risk of chronic kidney disease: a systematic review and meta-analysis
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4385740504 PDF PAGE 1]
+1
+Zhou J, et al. eGastroenterology 2023;1:e100005. doi:10.1136/egastro-2023-100005
+Open access 
+Metabolic dysfunction- associated fatty 
+liver disease increases risk of chronic 
+kidney disease: a systematic review 
+and meta- analysis
+Jianghua Zhou, 1 Dan- Qin Sun,2 Giovanni Targher,3 Christopher D Byrne,4 
+Byung- wan Lee,5 Masahide Hamaguchi, 6 Seung Up Kim, 7 Xuhong Hou, 8 
+Gian Paolo Fadini,9 Michio Shimabukuro, 10  Masato Furuhashi,11  Ning- Jian Wang, 12  
+Herbert Tilg,13  Ming- Hua Zheng    14,15,16
+To cite: Zhou J, Sun D- Q, 
+Targher G, et al.  Metabolic 
+dysfunction- associated fatty 
+liver disease increases risk 
+of chronic kidney disease: a 
+systematic review and meta- 
+analysis. eGastroenterology 
+2023;1:e100005. doi:10.1136/
+egastro-2023-100005
+ ► Prepublication history and 
+additional supplemental material 
+for this paper are available 
+online. To view these files, 
+please visit the journal online 
+(http://dx.doi.org/10.1136/ 
+egastro-2023-100005).
+Received 03 July 2023
+Accepted 14 July 2023
+For numbered affiliations see 
+end of article.
+Correspondence to
+Professor Ming- Hua Zheng;  
+ zhengmh@ wmu. edu. cn
+Original research
+© Author(s) (or their 
+employer(s)) 2023. Re- use 
+permitted under CC BY- NC. No 
+commercial re- use. See rights 
+and permissions. Published by 
+BMJ.
+AbstrACt
+background and aim Metabolic dysfunction- associated 
+fatty liver disease (MAFLD) is an alternative description 
+and classification of non- alcoholic fatty liver disease 
+(NAFLD) that may have better utility than NAFLD in clinical 
+practice. We performed a meta- analysis to quantify the 
+magnitude of the association between MAFLD and risk of 
+both prevalent and incident chronic kidney disease (CKD).
+Methods We systematically searched PubMed, Medline 
+(OVID), Embase (OVID), Web of Science and Cochrane 
+Library from database inception until 29 May 2022. We 
+included observational studies examining the association 
+between MAFLD and risk of CKD, defined by estimated 
+glomerular filtration rate ≤60 mL/min/1.73 m2 or presence 
+of abnormal albuminuria. Meta- analysis was performed 
+using random- effects models to obtain summary HRs or 
+ORs with 95% CIs.
+results Seventeen observational studies with aggregate 
+data on 845 753 participants were included in meta- 
+analysis. In the 7 cohort studies, the pooled random- 
+effects HR for incident CKD in patients with MAFLD 
+was 1.29 (95% CI 1.17 to 1.41, I2=87.0%). In the 10 
+cross- sectional studies, the pooled random- effects OR for 
+prevalent CKD in patients with MAFLD was 1.35 (95% CI 
+1.11 to 1.64, I2=92.6%).
+Conclusion MAFLD is significantly associated with an 
+increased prevalence and incidence of CKD.
+PrOsPErO registration number CRD42022352366.
+IntrOduCtIOn
+Non- alcoholic fatty liver disease (NAFLD) has 
+become the most common cause of chronic 
+liver diseases worldwide, affecting up to ~30% 
+of adults in the general population, up to 
+~55% of patients with type 2 diabetes mellitus 
+(T2DM) and >50% patients with moderate or 
+severe obesity.1 2  The histological spectrum 
+of NAFLD can be categorised into simple 
+steatosis and non- alcoholic steatohepatitis 
+(NASH) that may progress to cirrhosis and 
+hepatocellular carcinoma.3 The new defini-
+tion of metabolic dysfunction- associated fatty 
+liver disease (MAFLD) has been proposed by 
+a consensus of international experts in 2020; 
+notably, this newly proposed MAFLD defini-
+tion does not require the exclusion of other 
+aetiologies of hepatic steatosis, such as exces-
+sive alcohol intake, viral infections or use 
+of hepatotoxic medications.4 As such, it has 
+been suggested that MAFLD could replace 
+the ‘old’ term NAFLD both in clinical prac-
+tice and in research studies. The diagnosis 
+of MAFLD requires the presence of hepatic 
+steatosis plus at least one of the following 
+WHAt Is ALrEAdY KnOWn On tHIs tOPIC
+ ⇒ Studies have shown that Metabolic Associated Fatty 
+Liver Disease (MAFLD) may progress to cirrhosis 
+and contribute to the development of several im-
+portant extrahepatic diseases, such as cardiovascu-
+lar disease and chronic kidney disease.
+ ⇒ Chronic kidney disease (CKD) is a progressive and 
+permanent loss of kidney function that leads to 
+significantly increased morbidity and mortality. 
+According to global burden of disease data, CKD 
+is projected to be the fifth leading cause of death 
+worldwide by 2040.
+WHAt tHIs studY Adds
+ ⇒ In the 7 cohort studies, the pooled random- effects 
+HR for incident CKD in MAFLD patients was 1.29 
+(95% CI 1.17 to 1.41, I2=87.0%).
+ ⇒ In the 10 cross- sectional studies, the pooled 
+random- effects OR for prevalent CKD in MAFLD pa-
+tients was 1.35 (95% CI 1.11 to 1.64, I2=92.6%).
+HOW tHIs studY MIGHt AFFECt rEsEArCH, 
+PrACtICE Or POLICY
+ ⇒ Healthcare professionals should be aware that risk 
+of incident CKD is moderately increased in patients 
+with MAFLD.
+ ⇒ Earlier intervention for MAFLD could be a novel 

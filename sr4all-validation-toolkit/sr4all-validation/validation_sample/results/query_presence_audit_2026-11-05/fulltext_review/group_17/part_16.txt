@@ -1,0 +1,155 @@
+ system that can
+identify and treat new distributed attacks more quickly and effectively. Huang et al.
+[12], in turn, studied how much regulatory pressure and customer pressure affect the
+organizations’ environmental decisions.
+The studies about collaborative networks in the academic context have been quite
+frequent. Boehm and Hogan [ 69] investigated the role of the lead researcher in col-
+laborative research projects and empirically validated the entrepreneurial role in
+building collaborative networks. Chakraborty et al. [ 50] proposed two classi ﬁcation
+models to predict at the beginning of a researcher ’s career, how long the group to
+which it belongs will remain active and how productive it will be. Other studies
+focused on R & D, technology, virtual organization and other sectors. Arriagada and
+Alarcón[ 71] proposed a model to develop management strategies and maturation of
+knowledge applied to civil construction. Baek et al. [ 72] proposed a framework for the
+design of collaborative services in agricultural communities.
+Seventeen publications have speci ﬁed the ﬁeld of study, however, were unique in
+addressing such a sector. Studies were carried out on start-ups in industry: auto parts,
+state environmental agencies, silk, malting, wine, bio-pharmaceutical, furniture, con-
+sultancies, and humanitarian organization, among others. This diversity ofﬁelds in the
+framework of collaborative networks motivates the conduction of studies on S^3
+Enterprise. Regardless of the industry or focus of the research, companies and uni-
+versities are generally looking for collaborative relationships to meet the new chal-
+lenges imposed by current business models.
+74 F. M. Guerrini and J. S. Yamanari
+
+[W2972802875 PDF PAGE 7]
+4 Results Systematization
+The systematic review of a widespread and consolidated discipline (collaborative
+networks) sought to detect how much the researchers have directed, albeit indirectly,
+their respective research to the new vision mentioned above. It was possible to high-
+light the main motivators for the formation of collaborative networks: sharing of
+information and knowledge; resources and skills; risks and bene ﬁts; increasing demand
+for variety of products and customization; dynamism and competitiveness of the
+market; exploration and capture of new business opportunities; innovation; improving
+business performance; ICTs; cost reduction and economic, environmental and social
+sustainability. The main challenges identiﬁed by the researchers were: trust among
+partners; the interoperability of the information systems of the partners involved; the
+stage of selecting the collaborative partners; the alignment and clear deﬁnition of
+strategies and objectives; ensuring the security of data and information shared over the
+internet or other informational system.
+Figure 1 presents a conceptual framework contemplating the challenges and
+opportunities identi ﬁed in the systematic review with the objective of organizing and
+facilitating the understanding of the objectives intended in the work, as well as con-
+tribute with literature and future practical work on the theme. The study of collabo-
+rative networks was adopted through the intersections with the S ^ 3 approach.
+New Business models
+Digital Ecosystem
+Emerging Technologies
+Processes 
+Manufacturing 
+opƟmizaƟon
+Internet of Everything 
+(IoE)
+Cloud CompuƟng
+Interoperability
+Ontologies
+Sustainability
+Trust among partners
+Interoperability
+Partners selecƟon
+Goals and strategies 
+alignment
+Security of sharing data
+OpportuniƟes Challenges
+S^3 Enterprises CollaboraƟve 
+networks
+Fig. 1 Conceptual framework of collaborative networks and enterprises S ^ 3
+A Systematic Review of Collaborative Networks 75
+
+[W2972802875 PDF PAGE 8]
+5 Conclusions
+The systematic review on collaborative networks was carried out because it is a con-
+solidated subject in the literature and that meets the research gaps identi ﬁed in the work
+of Weichhart et al. [ 1]. The approach of a mature discipline aims to guide the devel-
+opment of the new paradigm discussed in the present study, S ^ 3 Enterprise. The
+research sought to identify the main motivators, research approaches, most frequent
+application domains and the list of countries that published the most, for the con-
+struction of a conceptual framework with the main challenges and opportunities of
+collaborative networks and S ^ 3 Enterprise.
+Motivators represented the reasons why companies seek collaboration, and con-
+sequently the bene ﬁts they seek are implicitly associated. It is worth mentioning that
+they are implied in the proposed framework, since they were essential for under-
+standing the challenges and opportunities of the areas under study. The most common
+research approaches, application domains, and the list of countries that most published
+on the subject were complements that sought to reinforce the idea that collaborative
+networks are comprehensive and effective strategies for addressing aspects of the
+digital age.
+However, although collaborative networks have advantages, they also have internal
+limitations such as the availability of resources (physical, human, organizational and
+ﬁnancial) and the ability to coordinate them in an integrated way; external constraints
+expressed by institutional factors governed by rules and conduits in the network
+operating environment; and associated challenges such as developing trust between
+partners, interoperability of information systems, selection of collaborative partners,
+alignment and clear deﬁnition of strategies and objectives among all stakeholders,
+ensuring data security and information shared over the internet or other informational
+system.
+The systematic review allowed us to identify some opportunities in the intersection
+of collaborative networks and S ^ 3 Enterprise, such as: the need to develop new
+business models; the fostering of a digital ecosystem; the development and/or adap-
+tation of emerging technologies; the optimization of manufacturing processes; the
+exploration of the aspects brought by the internet of everything; the use of cloud
+computing; the development of interoperable systems; the elaboration of ontologies,
+architectures, models, frameworks that support the development of the disciplines in
+question; and sustainable development in the economic, social and environmental
+aspects of business.
+References
+1. Weichhart, G., Molina, A., Chen, D., Whitman, L.E., Vernadat, F.: Challenges and current
+developments for sensing, smart and sustainable enterprise systems. Comput. Ind 79,3 4 –46
+(2016)
+2. Ferro-Beca, M.D., Sarraipa, J., Agostinho, C., Gigante, F., Jose-Nunez, M., Jardim-
+Gonçalves, R.: A framework for enterprise context analysis based on semantic principles.
+Comput. Sci. Inf. Syst. 12(3), 931 –960 (2015)
+76 F. M. Guerrini and J. S. Yamanari
+
+[W2972802875 PDF PAGE 9]
+3. Filos, E.: Smart organizations in the digital age. In: Mezgar, I. (ed.) Integration of ICT in
+Smart Organizations. Idea Group Publishing, London (2006)
+4. Mauricio-Moreno, H., Miranda, J., Chavarr ía, D., Ram írez-Cadena, M., Molina, A.: Design
+S3-RF (sustainable x smart x sensing - reference framework) for the future manufacturing
+enterprise. IFAC-PapersOnLine 48(3), 58 –63 (2015)
+5. Fischl, M.C., Scherrer-Rathje, M., Friedli, T.: Digging deeper into supply risk: a systematic
+literature review on price risks. Supply Chain. Manag.: Int. J. 19(5/6), 480 –503 (2014)
+6. Tran ﬁeld, D., Denyer, D., Smart, P.: Towards a methodology for developing evidence-
+informed management knowledge by means of systematic review. Br. J. Manag. 14(3), 207–
+222 (2003)
+7. Fornasiero, R., et al.: Implementation of customization strategies in collaborative networks
+through an innovative reference framework. Prod. Plan. Control 27(14), 1158 –1170 (2016)
+8. Jayaram, J., Pathak, S.: A holistic view of knowledge integration in collaborative supply
+chains. Int. J. Prod. Res. 51(7), 1958 –1972 (2013)
+9. Quetti, C., Pigni, F., Clerici, A.: Factors affecting RFId adoption in a vertical supply chain:
+the case of the silk industry in Italy. Prod. Plan. Control 23(4), 315 –331 (2012)
+10. Lin, H.W., et al.: Design of a global decision support system for a manufacturing SME:
+towards participating in collaborative manufacturing. Int. J. Prod. Econ. 136(1), 1–12 (2012)
+11. Kumar, S.: A knowledge based reliability engineering approach to manage product safety
+and recalls. Expert Syst. Appl. 41(11), 5323 –5339 (2014)
+12. Huang, X.-X., et al.: The relationships between regulatory and customer pressure, green
+organizational responses, and green innovation performance. J. Clean. Prod. 112, 3423–3433
+(2016)
+13. Di Cagno, D., Fabrizi, A., Meliciani, V.: The impact of participation in European joint
+research projects on knowledge creation and economic growth. J. Technol. Transf. 39(6),
+836–858 (2014)
+14. Protogerou, A., Caloghirou, Y., Siokas, E.: Twenty- ﬁve years of science-industry
+collaboration: the emergence and evolution of policy-driven research networks across
+Europe. J. Technol. Transf. 38(6), 873 –895 (2013)
+15. Broekel, T., Fornahl, D., Morrison, A.: Another cluster premium: Innovation subsidies and
+R&D collaboration networks. Res. Policy 44(8), 1431 –1444 (2015)
+16. Welch, E.W., Jha, Y.: Network and perceptual determinants of satisfaction among science
+and engineering faculty in US research universities. J. Technol. Transf. 41(2), 290 –328
+(2016)
+17. Swarnkar, R., et al.: A framework for collaboration moderator services to support knowledge
+based collaboration. J. Intell. Manuf. 23(5), 2003 –2023 (2012)
+18. Liotta, G., Kaihara, T., Stecca, G.: Optimization and simulation of collaborative networks for
+sustainable production and transportation. IEEE Trans. Industr. Inf. 12(1), 417 –424 (2016)
+19. Hsieh, F.S., Lin, J.B.: Context-aware work ﬂow management for virtual enterprises based on
+coordination of agents. J. Intell. Manuf. 25(3), 393 –412 (2014)
+20. Michaelides, R., et al.: Collaboration networks and collaboration tool

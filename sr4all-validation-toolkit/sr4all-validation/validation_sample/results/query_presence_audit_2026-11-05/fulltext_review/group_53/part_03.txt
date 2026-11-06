@@ -1,0 +1,133 @@
+l and phone to facilitate the
+implementation. The follow-up periods were inconsistent among all studies and, where present,
+ranged from 3 to 35 months. In addition to hospitalization, the control group received wound usual
+care in a variety of settings, including outpatient clinics (14/25, 56%) [23-25, 47-52, 63-67], the
+home  (3/25, 12%) [21, 22, 60], the community (2/25, 8%) [61, 62], and home care combined with
+outpatient follow-up (1/25, 4%) [59]. With the exception of 2 (8%) studies, the remaining 23 (92%)
+studies were divided into two groups, where three groups were compared by Terry et al. [48], group
+A (weekly visits with TM and wound care specialist consults), group B (weekly visits with weekly
+consults with WCS), and group C (routine care). Teot et al. [53] divided the control group into group
+1 (telemedicine), group 2a (home care), and group 2b (clinic care). Details of all 25 studies are
+summarized in Table S1 in Multimedia Appendix 3.
+Risk of Bias
+Details of the assessment of the risk of bias are presented in Tables S2 to S4 Multimedia Appendix 4.
+Of the 14 RCTs, 4 (29%) RCTs were assessed as high risk in the “other bias” option, owing to
+unequal  baseline  characteristics  [22,  48,  52,  53],  and  6  (43%)  studies  [49-51,  55,  57,  58]
+demonstrated a low risk of bias, with bias in ≤1 domain. 
+The assessment result for cohort studies revealed that 2 (33%) studies [21, 60] had a moderate risk of
+bias, while 4 (67%) studies [59, 61-63] had a high risk of bias.
+Finally, for the quasi-experimental study, all study items related to the integrity of follow-up were
+rated as not applicable, and the items were rated as unclear mostly because it was unknown whether
+the other measures received by the groups were identical.
+Outcome analysis
+Wound healing
+Of the 25 studies, 10 (40%) studies [21-23, 48, 49, 52, 53, 57, 61, 62] reported wound healing around
+1 year, including 7 (28%) RCTs and 3 (12%) cohort studies. One (4%) RCT [48] was not included in
+the quantitative synthesis because of the uneven distribution of severity of wounds among groups.
+https://preprints.jmir.org/preprint/47904 [unpublished, peer-reviewed preprint]
+
+
+[W4398789503 PDF PAGE 14]
+JMIR Preprints Bai et al
+Pooled data in 9 (36%) studies revealed no significant difference in wound healing (RR 1.15, 95%
+CI 0.94-1.40; P=.17; I2=85%; Figure 2). And the finding for the pooled is consistent in RCTs (RR
+1.02, 95%  CI 0.93-1.12;  P=.67;  I2=12%) and cohort studies (RR 1.32, 95%  CI  0.90-1.95;  P=.15;
+I2=81%).
+Figure 2. Forest plot of DHIs on wound healing around one year (different study types).
+A total of 12% (3/25) of the studies reported wound healing at 3 months, including 1 RCT and 2
+cohort studies [50, 59, 60]. Although a tendency favoring the DHIs group, there was no statistically
+significant difference between the DHIs and control groups in terms of wound healing at 3 months
+(RR 1.44, 95%  CI 0.51-4.05;  P=.49;  I2=75%) (Multimedia Appendix 5: Forest plot of DHIs on
+wound healing around three months). 
+Additionally, one study [58] found that the intervention group’s ulcer healing rate was 62.1%, which
+was greater than the control group’s rate of 52.4%. And the study by Wu et al. [65] showed an
+increase in wound healing rate after the intervention; Santamaria et al. [47] reported positive wound
+healing rates per week in the intervention group as well as negative rates per week in the control
+group, another study [63] defined a positive outcome as at least 50% ulcer closure. None of these 4
+(16%) studies were appropriate for inclusion in the quantitative analysis.
+The studies were separated into three subgroups, telemedicine, email and telephone follow-up, and
+digital platform, based on the clinical heterogeneity of the types of DHIs in the intervention groups.
+Providers also varied in the telemedicine model, with 73% (11/15) of the studies involved nurses as
+interveners  [22,  47,  49,  50,  54,  58,  59,  60,  61,  62,  63],  20%  of  studies  involved  wound  care
+specilalists (3/15) [21, 48, 53] and a further 7% (1/15) with a multidisciplinary team responsible for
+the intervention [57]. Subgroup data demonstrated a statistically significant difference between the
+https://preprints.jmir.org/preprint/47904 [unpublished, peer-reviewed preprint]
+
+
+[W4398789503 PDF PAGE 15]
+JMIR Preprints Bai et al
+DHIs and control groups when the digital platform was used (RR 2.19, 95% CI 1.35-3.56; P=.002;
+I2=82%; Figure 3). However, there was no significant change in wound healing in the groups with
+telemedicine (RR 1.15, 95% CI 0.91-1.45; P=.24; I2=86%).
+Figure 3. Forest plot of DHIs on wound healing around one year (subgroup of intervention types).
+Wound healing time
+Of the 25 studies, 8 (32%) studies reported different forms of wound healing time [52, 53, 55, 57-59,
+61, 62], 12% (3/25) of the studies, including 2 RCTs and 1 cohort study, reported the mean and
+standard deviation of wound healing time frames [52, 53, 59], and a further 12% (3/25) of the studies
+provided  median  wound  healing  times  [57,  61,  62],  with  2  studies demonstrating  considerable
+effectiveness in the DHIs group [61, 62], and 1 study demonstrating a shorter wound healing time in
+the control group compared to the DHIs group (P=.56). In a study (1/25, 4%) that tracked the effect
+of the intervention according to the size of the patient’s wounds, the results showed that the healing
+time of large, medium, and small wounds was shorter in the intervention group than in the control
+group  (P.05)  [55].  It  is  also  noteworthy  that  Dardari  et  al.  [58]  found  that  wounds  in  the
+intervention group first showed improvement on day 21, much earlier than day 77 in the control
+group.
+Wound size
+Of the 25 studies, 8% (2/25) of the studies consisting of in total of 168 patients reported a reduction
+of the wound area [51, 60]. One of the studies [51] also noted that the DHIs group showed more
+considerable changes in wound depth. Another study [57] described the ulcer volume, indicating a
+mean reduction in ulcer volume in remote consultation was 79% versus 85% in usual care (P=.32).
+Wound reporting rate
+In total, 8% (2/25) of the studies reported wound reporting rate, all of which showed a significant
+increase following the use of an online platform to monitor pressure injuries [24, 65]. In addition, 1
+pilot study (4%) noted in its results that the accuracy of screening and reporting of patients with
+pressure injuries from 97.26% to 100% after using the online platform [64].
+All-Cause mortality
+Of the 25 studies, 40% (10/25) of the studies reported all-cause mortality around one year [21-23, 47,
+49, 52, 53, 58, 61, 62]. There was no significant difference in all-cause mortality between the DHIs
+and  control  groups  (RR  1.17,95%  CI  0.70-1.96;  P=.54;  I2=40% ;  Figure  4A.).  This  finding  is
+consistent in RCTs (RR 1.08, 95% CI 0.55-2.12; P=.83; I2=42%) and cohort studies (RR 1.29, 95%
+CI  0.44-3.75; P=.64; I 2=51%). Subgroup  analysis  of  RCTs  reveals there  was  no  statistically
+https://preprints.jmir.org/preprint/47904 [unpublished, peer-reviewed preprint]
+
+
+[W4398789503 PDF PAGE 16]
+JMIR Preprints Bai et al
+significant decreased risk of all-cause mortality in patients receiving telemedicine (RR 0.93, 95% CI
+0.18-4.87;  P=.93;  I2=63%) and follow-up by email and telephone (RR 1.48, 95%  CI 0.78-2.82;
+P=.23; I2=0%; Figure 4B.). 
+Figure 4. (A) Forest plot of DHIs on all-cause mortality. (B) Forest plot of DHIs on all-cause mortality (subgroup of
+intervention types).
+Adverse event
+A total of 6 (24%) studies [47, 49, 52, 56, 58, 62], including 5 (20%) RCTs and 1 (4%) cohort study,
+reported the incidence of adverse events (infections and amputations). A meta-analysis of all RCTs
+found no statistically significant difference in the incidence of adverse events between the DHIs and
+the comparator group in patients with chronic wounds (RR=0.56, 95% CI 0.29-1.11; P=.10; I2=77%)
+(Multimedia Appendix 6: Forest plot of DHIs on wound healing around three months). Since 1 (4%)
+RCT clearly stated that none of the adverse events were attributed to the intervention [58], we
+https://preprints.jmir.org/preprint/47904 [unpublished, peer-reviewed preprint]
+
+
+[W4398789503 PDF PAGE 17]
+JMIR Preprints Bai et al
+attempted to remove this research from the meta-analysis and found that in the remaining 4 (16%)
+RCTs, the DHIs group had even fewer adverse events (RR=0.44, 95% CI 0.22-0.89; P=.02; I2=41%)
+(Multimedia Appendix 7: Forest plot of DHIs on wound healing around three months). Another
+cohort study (1/25, 4%) revealed that the DHIs group had a 2% amputation rate compared to 1% in
+the control group [62].
+Cost analysis
+A cost analysis of DHIs against controls was addressed in 8 (32%) studies [23, 48, 49, 51, 53, 58, 60,
+61], with 5 (20%)  studies revealed a reduction in total costs [23, 49, 58, 60, 61]. One study attributed
+the  significant  reduction  in  costs  in  the  intervention  group  to  a  shorter  hospital  stay  due  to
+telemedicine [58], and another study investigated transport costs and found that the DHIs group
+spent an average of approximately $650 less per person on transport for wound care compared with
+usual care [53]. However, 2 (8%) studies also concluded that the total costs were higher in the DHIs
+group [48, 51], but for different reasons; the study by Terry et al. [48] pointed out that the increased
+cost was due to larger and more severe wounds in the telemedicine group of patients, while Arora et
+al. [51] attributed the increased cost to the use of new technology and assistive devices in the
+intervention group.
+Patient satisfaction
+Patient satisfaction was reported in only a few studies (3/25, 12%) studies [52, 56, 66], of which 2
+(8%) studies used a self-administered satisfaction questionnaire and found a substantial improvement
+in patient satisfaction after using DHIs [56, 66], and the remaining study (1/25, 4%), measured using
+the GS-PEQ scale [52], found no sig

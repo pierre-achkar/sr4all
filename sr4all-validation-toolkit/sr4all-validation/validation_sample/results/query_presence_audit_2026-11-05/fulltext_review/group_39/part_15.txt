@@ -1,0 +1,170 @@
+bi-
+polar disorder and related affective disorders” includes bipolar disorder Type  II, 
+Type I, and cyclothymic disorder. Symptoms that do not fit the typical subtype s 
+are incl uded in the category “other specific bipolar -related disorders ”. The r e-
+cently released International Classification of Diseases, 11th Revision (ICD-11) also 
+includes a section on bipolar disorder (Carvalho et al., n.d.). 
+The main feature that distinguishes bipolar disorder from other affective di s-
+orders is recurrent manic or hypomanic episodes, which may alternate with d e-
+pressive episodes (Carvalho et al., n.d.). 
+Bipolar I disorder is defined by the presence of a significant manic episode 
+that exhibits a ra nge of symptoms, including overconfidence, arrogance, talk a-
+tiveness, extreme relaxa tion, irritability, decreased need for sleep, and elevated 
+mood. Up to 75% of manic episodes present with psychotic symptoms such as 
+delusions and hallucinations, and episod es of any severity may impair ps y-
+chosocial functioning to the point of requiring hospitalization  (Carvalho et al., 
+n.d.). 
+The main feature of bipolar II disorder is depressive episodes but accomp a-
+nied by hypomania. The presence of at least one light manic episode in the life 
+course is considered consistent with the diagnosis of bipolar II disorder (Carvalho 
+et al., n.d.). 
+Cyclothymic disorder, which is a kind of bipolar disorder, is characterized by 
+recurrent depressive and light manic states lasting at least 2 years that do not meet 
+the diagnostic threshold for a major affective episode (Carvalho et al., n.d.). 
+This study sought to conduct a systematic review of the available data on the 
+treatment of bipolar disorder in order to summarize the current state of our know-
+ledge and practice. 
+2. Material and Method 
+Google Scholar and JSTOR were searched in order to locate papers on bipolar 
+disorder. The search was last performed on August 30, 2022. The following search 
+strategies were followed: 
+In order to locate bipolar disorder, the various combinations of the following 
+keywords were searched: “bipolar” “mania” “manic” “depression” “manic depres-
+sion” “manic-depressive” “disorder” and “mental illness”. 2,050,000 results pr o-
+vided. 
+In order to locate treatment, Goo gle Scholar was searched with the combin a-
+tion of the words “treatment” “treatment” “treatment guidelines” “treatment algo-
+rithms” “lithium” “valproate” “carbamazepine” “antibipolar” “drug” “regula-
+tion” “clinical” “preclinical” “anti-inflammatory” “immune” “antibiotic” “placebo”. 
+1,890,000 results provided. 
+
+[W4367330899 PDF PAGE 3]
+J. L. Wang 
+ 
+ 
+DOI: 10.4236/ojmp.2023.122006 96 Open Journal of Medical Psychology 
+ 
+3. Results 
+Overall, risperidone; therapies with combinations of antipsychotics and mood 
+stabilizers are more effective for the treatment of acute mania but must be weighed 
+against their metabolic adverse effects. Dual frontal electroconvulsive therapy 
+(ECT), either as monotherapy or adjunctive therapy, is effective in patients with 
+refractory mania and aggressive behavior or psychotic symptoms. Combination 
+of olanzapine and fluoxetine, lithium and lamotrigine, quetiapine and lamotrigine; 
+cariprazine and lurasidone are effective for the treatment of acute depression; 
+ECT is effective in patients with refractory bipolar depression but small to mo d-
+erate the effect of CBT. 
+Evidence for the efficacy of antidepress ants in the treatment of bipolar d e-
+pression is limited, but individual patients may benefit from these medications. 
+In addition, patients with Type  I bipolar disorder appear to have a higher risk of 
+turning manic than patients with Type II bipolar disorder; therefore, antidepres-
+sants are usually avoided in patients with Type I bipolar disorder but can be used 
+concurrently with mood stabilizers when necessary. 
+Maintenance therapy: For any relapse of mood episodes, all but carbamaz e-
+pine, lamotrigine + valproate (no data) and paliperidone were superior to pl a-
+cebo. Drugs that significantly reduced relapses ranged from asenapine to lamo-
+trigine. 
+As Table 1  shows, six of the 10 possible combinations of first -line agents in 
+the CANMAT and ISBD 20 18 guidelines were studied for efficacy with at least 
+one maintenance treatment [1]. 
+The optimal drug combination for prevention was lithium + valproic acid, 
+and the combination had a significant effect on time to mood relapse (HR = 
+0.57), especially for manic episodes ( HR = 0.51), compared to valproic acid m o-
+notherapy. The effect was significant in terms of time to new drug treatment   
+ 
+Table 1 . Different drug combinations. 
+Drug combinations  Control drugs  Manic 
+relapse  
+Depression 
+relapse  
+Intermittent 
+symptoms  
+Valproic acid + lithium Valproic acid + +/− − 
+Valproic acid + lithium Lithium +/− − − 
+Valproic acid + lithium Carbamazepine − − − 
+Lamotrigine + Valproic acid Lamotrigine +/− + − 
+Lamotrigine + Lithium Lithium − +/− − 
+Lamotrigine + Lithium Olanzapine + 
+Lithium − − +/− 
+Quetiapine + Lamotrigine Quetiapine +/− − − 
+Asenapine + 
+lithium/valproic acid Lithium/valeric acid − − − 
+Note: +: clear advantage; +/−: possible advantage; −: no advantage/no data/uncertain data. 
+
+[W4367330899 PDF PAGE 4]
+J. L. Wang 
+ 
+ 
+DOI: 10.4236/ojmp.2023.122006 97 Open Journal of Medical Psychology 
+ 
+(HR = 0.51) and length of hospitalization (HR = 0.57). 
+Lithium + valproic acid treatment also significantly reduced the frequency of 
+emotional relapses compared with lithium monotherapy (RR = 0.12) [2]. 
+Compared to lamo trigine alone, the lamotrigine + valproic acid group had a 
+superior number of patients who reached a threshold for depressive symptoms 
+(RR = 0.66) and those who discontinued due to depressive symptoms (RR = 0.30), 
+suggesting a significant efficacy of the c ombination in preventing depressive e p-
+isodes [2]. 
+There was a significant trend for aripiprazole + lamotrigine compared to l a-
+motrigine in the former in terms of time to manic or mixed episodes ( HR = 0.6) 
+and time to any episode  (HR = 0.7), with no significant difference in time to d e-
+pressive episode (HR = 0.8) between the two groups [2]. 
+For any relapse of mood episodes, all treatments were superior to placebo except 
+carbamazepine, lamotrigine + valp roate (no data), and paliperidone. Asenapine 
+was superior to aripiprazole, carbamazepine, lamotrigine, lithium, paliperidone, ris-
+peridone long-acting injection, and valproate. Aripiprazole and valproate, olanza-
+pine and quetiapine performed better than lamotrigine and paliperidone. 
+Aripiprazole + valproic acid, lamotrigine, lamotrigine + valproic acid, lithium, 
+olanzapine, and quetiapine were superior to placebo for depressive episodes. 
+Aripiprazole + valproic acid outperformed carbamazepine, paliperidone, and 
+risperidone long-acting injection ( RISLAI). Lamotrigine outperformed paliper i-
+done and RISLAI. lamotrigine + valproate outperformed AOM, carbamazepine, 
+paliperidone and RISLAI. Lithium and olanzapine outperformed RISLAI. quetia-
+pine outperformed AOM, carb amazepine, lamotrigine, lithium, olanzapine, pali-
+peridone, RISLAI and valproate [3]. 
+In manic/light manic/mixed episodes, all active treatments were superior to 
+placebo except aripiprazole + valproate, carbamazepine,  lamotrigine, and l a-
+motrigine + valproate. aom was superior to lamotrigine and valproate . Asena-
+pine was superior to carbamazepine, lamotrigine, lithium, paliperidone, qu etia-
+pine, and valproate. Lithium is superior to lamotrigine. Lithium  + valproate is 
+superior to la motrigine and valproate. Olanzapine is superior to lamotrigine, l i-
+thium, paliperidone, quetiapine, and valproate. Quetiapine is superior to lam o-
+trigine. rislai is superior to lamotrigine, lithium, quetiapine and valproate [3]. 
+All-cause discontinuation was lower for asenapine, lithium, olanzapine, qu e-
+tiapine, and valproate compared with placebo. Asenapine was superior to arip i-
+prazole, carbamazepine, lamotrigine, lithium, paliperidone, and valproate. Qu e-
+tiapine performed better than carbamazepine [3]. 
+Aripiprazole + valproate ranked first in reducing recurrences of any mood e p-
+isode and depressive episodes. Asenapine was selected as the best medication for 
+reducing manic/light manic/mixed episodes and discontinuation due to adverse 
+events. Lithium and valproate were the least likely to cause all -cause discontinu-
+ation [3]. 
+In mood episodes, all SGAs + LIT/VALs were superior to placebo  + LIT/VAL 
+
+[W4367330899 PDF PAGE 5]
+J. L. Wang 
+ 
+ 
+DOI: 10.4236/ojmp.2023.122006 98 Open Journal of Medical Psychology 
+ 
+except for olanzapine + LIT/VAL [3]. 
+Lurasidone + LIT/VAL and quetiapine + LIT/VAL were superior to placebo  + 
+LIT/VAL in depressive episodes [3]. 
+For manic/light manic/mixed episodes, aripiprazole + LIT/VAL and quetiapine 
++ LIT/VAL are superior to placebo + LIT/VAL [3]. 
+lurasidone and LIT/VAL and quetiapine and LIT/VAL were superior to pl a-
+cebo and LIT/VAL for all -cause discontinuation. quetiapine  + LIT/VAL was a s-
+sociated with higher drowsiness and olanz apine + LIT/VAL and quetiapine  + 
+LIT/VAL were associated with higher weight gain compared with placebo  + 
+LIT/VAL [3]. 
+3.1. Drug Classification & Effectiveness & Tolerability 
+In terms of medication classification, olanzapine -fluoxetine combination have 
+the highest metabolic risk, quetiapine has high metabolic risk and more co m-
+mon side effects, lurasidone has low metabolic risk and high cost. Lamotrigine 
+has the lowest long-term risk, virtually no side effects for most patients. Low-dose 
+lithium is primary adjunctive medication. Specific adjunctive cognitive therapy 
+for insomnia in bipolar disorder, effectiveness of interpersonal and social rhythm 
+monotherapy being investigated (efficacy equivalent to quetiapine in the pilot 
+trial by Swartz et al.) 
+The Florida Best Practice Guidelines and the British Association of Psych o-
+pharmacology’s guidelines for bipolar depression includ

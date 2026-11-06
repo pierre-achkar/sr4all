@@ -1,0 +1,180 @@
+missions go to:
+http://journals.bmj.com/cgi/reprintform
+To order reprints go to:
+http://group.bmj.com/subscribe/
+To subscribe to BMJ go to:
+group.bmj.com on June 12, 2017 - Published by http://bjsm.bmj.com/Downloaded from 
+
+END REVIEW W2612224886
+
+
+REVIEW W2623285599
+TITLE: Characterization and effectiveness of pay-for-performance in ophthalmology: a systematic review
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W2623285599 PDF PAGE 1]
+RESEARCH ARTICLE Open Access
+Characterization and effectiveness of
+pay-for-performance in ophthalmology:
+a systematic review
+Tim Herbst 1* and Martin Emmert 2*
+Abstract
+Background: To identify, characterize and compare existing pay-for-performance approaches and their impact on
+the quality of care and efficiency in ophthalmology.
+Methods: A systematic evidence-based review was conducted. English, French and German written literature published
+between 2000 and 2015 were searched in the following datab a s e s :M e d l i n e( v i aP u b M e d ) ,N C B Iw e bs i t e ,S c o p u s ,W e bo f
+Knowledge, Econlit and the Cochrane Library. Empirical as wel l as descriptive articles were included. Controlled clinical
+trials, meta-analyses, randomized controlled studies as well as observational stu dies were included as empirical articles.
+Systematic characterization of identified pay-for-performance approaches (P4Papproaches) was conducted according to
+the “Model for Implementing and Monitoring Incentives for Quality” (MIMIQ). Methodological quality of empirical articles
+was assessed according to the Critical Apprai sal Skills Programme (CASP) checklists.
+Results:Overall, 13 relevant articles were included. Eleven artic les were descriptive and two articles included empirical
+analyses. Based on these articles, four di fferent pay-for-performance approaches implemented in the United States were
+identified. With regard to quality and incentive elements, systematic comparison showed numerous differences between
+P4P approaches. Empirical studies showed isolated cost or quality effects, while a simultaneous examination of these
+effects was missing.
+Conclusion:Research results show that experiences with pay-for-performance approaches in ophthalmology are limited.
+Identified approaches differ with regard to quality and incenti ve elements restricting comparability. Two empirical studies
+are insufficient to draw strong conclusions about the effectiveness and efficiency of these approaches.
+Keywords:Pay for performance, P4P, Ophthalmology, Systematic comparison
+Background
+Remuneration systems applied within national health-
+care systems are frequently discussed and criticized
+[1– 3]. A central point of discussion is that physicians and
+medical institutions are paid for their services without
+incorporating the provided quality of care. During recent
+years, the implementation of pay-for-performance pro-
+grams (P4P programs) has become a popular tool to foster
+quality improvements in healthcare [4, 5]. Public and
+private initiated pay-for-performance programs pursue
+this goal by linking financial payments to the achievement
+of predefined quality targets [6].
+Various systematic reviews have summarized existing
+P4P programs and evaluated their empirical evidence
+based on different criteria [7 – 15]. With regard to
+changes in the quality of care after implementing P4P,
+improvement effects were primarily apparent. Although
+a number of studies showed clear quality improvements
+[16– 21], a few studies found no quality effects [22, 23]
+or even negative quality effects [24]. Similar unambigu-
+ous results were summarized for cost effects. While
+some studies resulted in positive cost effects (cost sav-
+ings, cost efficiency) [18, 21, 24 – 27], others found
+increased costs after P4P implementation [16, 20, 22].
+The mixed results appear to have multiple causes, such
+* Correspondence: t.herbst@nordblick.de; martin.emmert@fau.de
+1nordBLICK Augenklinik Bellevue, Lindenallee 21-23, 24105 Kiel, Germany
+2Friedrich-Alexander-University Erlangen-Nuremberg, School of Business and
+Economics, Institute of Management (IFM), Lange Gasse 20, 90403 Nuremberg,
+Germany
+© The Author(s). 2017 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Herbst and Emmert BMC Health Services Research  (2017) 17:385 
+DOI 10.1186/s12913-017-2333-x
+
+[W2623285599 PDF PAGE 2]
+as differences in the P4P program structure and the de-
+sign of the empirical studies, which limit the compar-
+ability of the results [9 – 11, 13]. Nevertheless, several
+studies found the choice of quality measures and the
+design of the incentive structure to be crucial for the
+success of P4P programs [9, 11, 28, 29].
+Little is known regarding P4P programs in oph-
+thalmology and the available empirical evidence. To
+elucidate the existing P4P approaches for this med-
+ical specialty, a systematic review was conducted,
+which pursued the following objectives: 1) to provide
+an comparative overview of existing P4P programs in
+ophthalmology; 2) to comp are the identified P4P
+approaches by applying the Model for lmplementing
+and Monitoring lncentives for Quality (MIMIQ) by
+Van Herck et al.; and 3) to summarize their empir-
+ical evidence, particularly with regard to the quality
+and cost effects.
+Methods
+In this review, a systematic search of existing literature
+published between January 2000 and May 2015 was con-
+ducted. Studies written in English, French, or German
+have been included, and the review complied with the
+Guidelines from the Cochrane Collaboration [30].
+First, the following databases were searched: PubMed,
+the NCBI website, Scopus, the Web of Knowledge,
+EconLit, and the Cochrane Library. In addition, refer-
+ence lists of identified systematic reviews were screened
+for additional empirical papers.
+As a second step, a systematic internet search was
+conducted to identify additional P4P programs. Google
+and Google Scholar were used to identify additional pa-
+pers, studies, articles, and initiatives concerned with P4P
+in ophthalmology. The websites of several governmental
+institutes and healthcare insurances (e.g., the Institut für
+Qualität und Wirtschaftlichkeit im Gesundheitswesen
+(IQWIG) and the National Health Service, UK) were
+scanned for additional P4P initiatives and for further in-
+formation regarding already identified P4P programs.
+Finally, experts were contacted to receive further indica-
+tions of ongoing or finished studies.
+The following search terms have been selected on the
+basis of Mehrotra et al. [14] and further extended: ophthal-
+mology and pay-for-performance, paying for quality, P4P ,
+physician incentive, incentive payment, pay for value, pay
+for quality, payment for quality, value-based purchasing,
+performance-based payment, performance-based reimburse-
+ment, performance-based pay, output-based payments,
+output-based pay, incentive reimbursement, incentive pro-
+gram, quality-based purchasing, financial incentives, quality
+and bonus, quality and reward, or monetary incentive.
+The titles and abstracts of pot entially relevant studies
+were judged against the predefined inclusion and exclusion
+criteria (see below). If a pape r appeared to comply with the
+criteria, a full text version has been supplied to judge
+whether to include it in this review.
+Inclusion and exclusion criteria
+In general, empirical studies as well as purely descriptive
+papers were included. We utilized controlled clinical tri-
+als and randomized controlled studies as well as obser-
+vational studies. The studies were further required to
+measure at least one of Donabedians` quality dimension
+(the structure, process, or outcome quality) [31] as the
+basis for compensation. Both positive (bonus) and nega-
+tive (penalty) types of financial incentives were accepted.
+Variable, as well as fixed amount, payments were ap-
+proved. News reports, presentations, and recommenda-
+tions as well as comments were excluded.
+Study Scoring
+To assess the methodological quality of identified empir-
+ical studies, Critical Appraisal Skills Programme (CASP)
+checklists were used [32]. Depending on the study de-
+sign, eight different checklists are available including 10
+to 12 questions grouped into three checklist-depending
+sections. The score possibilities for each checklist
+criterion were 1 (checklist criterion satisfied) and 0
+(checklist criterion not satisfied, or unclear) [33]. The
+total scoring (percentage value) was calculated for
+each empirical study by dividing the total amount of
+the achieved points by the maximum number of
+achievable points. The scoring calculation was con-
+ducted by the authors (TH, ME).
+Systematic characterization of the identified pay-for-
+performance approaches
+Characterization of the identified P4P approaches was
+conducted according to the MIMIQ developed by van
+Herck et al. [34]. The model provides an overview re-
+garding the crucial factors for successfully establishing a
+P4P program and defines 23 steps that should be
+considered when developing and implementing a P4P
+program. Characterization of P4P programs will be
+carried out by applying the 14 steps concerned with
+quality and incentives.
+Results
+According to the predefined search terms, 591 poten-
+tially relevant papers were identified in the electronic
+databases. After eliminating duplicates and judging the
+titles and abstracts, 24 papers were retained for assess-
+ment of the full-text version. An overview of the detailed
+reasons for exclusion is presented in Fig. 1. Advanced
+internet research, expert cons

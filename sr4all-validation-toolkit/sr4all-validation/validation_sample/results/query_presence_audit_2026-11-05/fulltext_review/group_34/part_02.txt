@@ -1,0 +1,267 @@
+carcinoma in situ [ 44 , 57 , 63 , 74 ], 
+and higher proportions of cancers with axillary node metastases or 
+distant metastases [ 44 , 52 , 61 , 64 ] were found in the pandemic period 
+(although noting small numbers and incomplete reporting for distant 
+metastases at diagnosis). Two studies showed decreased proportions of 
+T2-T4, because one study used all T-stages together with N + and M1 
+stages as the denominator [ 61 ] and the other study reported an 
+increased proportion of Tx stage [ 74 ]. 
+3.5.4. Mammography volume 
+In medical imaging studies or studies with a mixed screening and 
+symptomatic population (AppxTable F.8a), the number of mammog -
+raphy examinations during the pandemic [ 20 , 77 – 84 ] generally showed 
+a relative reduction of between 8.9% [ 84 ] and 92.7% [ 81 ], with 67% 
+(6/9) of studies reporting cumulative (or average) reductions of 9% – 
+37% [ 20 , 77 – 79 , 82 , 83 ]. In an additional 6 studies of symptomatic pop -
+ulations (AppxTable F.8b) [ 20 , 21 , 29 , 37 , 42 , 73 ], a similar reduction was 
+found for the number of diagnostic mammography (range: 4.7% – 83.8%) 
+with 50% (3/6) of studies observing reductions between 4% and 21% 
+[ 20 , 29 , 42 ]. 
+4. Discussion 
+This is the first systematic evidence review of the global impact 
+attributed to the COVID-19 pandemic on breast cancer screening and 
+diagnosis. Although we report heterogeneity in study outcomes, there 
+were some key patterns in findings that are relevant to informing the 
+recovery phase and identifying emerging priorities for breast cancer 
+detection. Our study found consistent evidence of substantial reductions 
+in screening volume, and similarly reductions in the number of diag -
+nosed breast cancers and diagnostic mammography volume during the 
+pandemic, particularly at the peak stage. These three observed patterns 
+of changes attributed to the COVID-19 pandemic were generally 
+consistent across countries (or regions) and across study settings, high -
+lighting that screening participation, referral in symptomatic cancer 
+diagnosis and other cancer diagnostic pathways have all been affected 
+by the pandemic. 
+The above findings partially reflect the effect of the pandemic on 
+populations as well as the global health system ’ s response to the 
+pandemic, such as suspension of screening programs, shutdown of non- 
+urgent healthcare services, and enforced regional lockdowns, that 
+accounted for some of the immediate reductions. Even though the 
+T. Li et al.                                                                                                                                                                                                                                        
+
+[W4313557336 PDF PAGE 5]
+The Breast 67 (2023) 78–88
+82
+Table 1 
+Summary of screening volume (number of screening mammograms/women or screening rate, n = 35).  
+Study, Country/Region Health 
+service 
+setting 
+Pre-pandemic Pandemic Number of screening mammograms or number of women having screening 
+Time period Time period Services suspension/ 
+lockdown 
+Pre-pandemic vs Pandemic (data are 
+frequency (N) unless specified) 
+Relative change in outcome (unless 
+specified) 
+Al-Kuwari 2021, Qatar [ 11 ] HCS 01/01/2019 to 31/07/ 
+2019 
+01/01/2020 to 31/07/2020 11/03/2020 – 31/07/2020 4854 vs 2156 ↓ 55.58% 
+Amran 2021, US [ 13 ] HCS 01/04/2019 to 31/12/ 
+2019 
+01/04/2020 to 31/12/2020 NR 55,678 vs 27,522 ↓ 49% 
+Bakouny 2021, US [ 14 ] HCS Same months 2019: 02/ 
+03/2019 to 02/06/2019; 
+Pre-peak: 01/12/2019 to 
+02/03/2020. 
+Peak: 02/03/2020 to 02/06/ 
+2020; 
+After-peak: 03/06/2020 to 
+03/09/2020. 
+NR Same months 2019 vs Peak: 24,660 vs 5305; 
+Pre-peak vs Peak: 29,158 vs 5305; 
+After-peak vs Peak: 24,788 vs 5305. 
+Same months 2019 vs Peak: ↓ 77.67%; 
+Pre-peak vs Peak: ↓ 81.49%; 
+After-peak vs Peak: ↓ 78.06%. 
+Bentley 2021, Canada [ 15 ] BCSP 01/01/2019 to 31/12/ 
+2019 
+01/01/2020 to 31/12/2020 18/03/2020 – 30/05/2020 265,479 vs 185,154 ↓ 30.2% 
+Bessa 2021, Brazil [ 16 ] BCSP 01/01/2019 to 31/12/ 
+2019 
+01/01/2020 to 31/12/2020 17/03/2020-NR 1,948,471 vs 1,126,688 ↓ 42.18% 
+Brugel 2021, France [ 17 ] HCS 01/01/2019 to 31/05/ 
+2019 
+01/01/2020 to 31/05/2020 17/03/2020 – 11/05/2020 Jan: 2541 vs 2607; 
+Feb: 2128 vs 2203; 
+Mar: 2316 vs 965; 
+Apr: 2288 vs 0; 
+May: 2089 vs 636. 
+Jan: ↑ 2%; 
+Feb: ↑ 3%; 
+Mar: ↓ 58%; 
+Apr: ↓ 100%; 
+May: ↓ 70%. 
+Chiarelli 2021
+a
+, Canada [ 19 ] BCSP 01/01/2019 to 29/02/ 
+2020 
+Suspension: 01/03/2020 to 
+31/05/2020; 
+Resumption: 01/06/2020 to 
+31/03/2021. 
+23/03/2020 – 26/05/2020 Pre vs Suspension vs Resumption: 822,862 vs 
+32,408 vs 394,559 
+Pre vs Suspension: ↓ 96.1%; 
+Pre vs Resumption: ↓ 52.1%; 
+Suspension vs Resumption: ↑ 1117.5%. 
+Chou 2020, Taiwan [ 20 ] ASI Week 1, 2019 to Week 
+22, 2019 
+Week 1, 2020 to Week 22, 
+2020 
+NR NR ↓ 51%, p < 0.001 
+Collado-Mesa 2020, US [ 21 ] HCS 1/04/2018 – 2019 to 30/ 
+04/2018 – 2019 
+01/04/2020 to 30/04/2020 20/03/2020-Mid May to 
+early June 2020 
+2722 vs 105 ↓ 96% 
+Dabkeviciene 2021, Lithuania 
+[ 22 ] 
+ASI 01/02/2019 to 31/12/ 
+2019 
+01/02/2020 to 31/12/2020 18/03/2020 – 17/06/2020; 
+04/11/2020 – 31/12/2020. 
+9704 vs 3653 ↓ 62% 
+de Degani 2021, Argentina [ 23 ] BCSP 19/03/2019 to 19/09/ 
+2019 
+19/03/2020 to 19/09/2020 19/03/2020 – 19/09/2020 9918 vs 2098 ↓ 78.85% (95% CI: 78.03 – 79.65%), p <
+0.0001 
+DeGroff 2021, US [ 24 ] BCSP 01/01/2015 – 2019 to 30/ 
+06/2015 – 2019 
+01/01/2020 to 30/06/2020 NR Total: 1,112,126 vs 71,704. 
+Apr: 19,366 vs 2607; 
+Jun: 17,385 vs 10,626. 
+Total: ↓ 94%. 
+Apr: ↓ 97%, p < 0.001; 
+Jun: ↓ 39%, p < 0.001. 
+Fedewa 2021, Italy [ 25 ] HCS 01/07/2019 to 31/07/ 
+2019 
+01/07/2020 to 31/07/2020 NR 76,430 vs 74,340 ↓ 2.7% 
+Gorin 2021, US [ 27 ] ASI 19/03/2019 to 09/05/ 
+2019 
+19/03/2020 to 09/05/2020 19/03/2020 – 09/05/2020 3339 vs 6 ↓ 99.8% 
+Kang 2021
+b
+, Korea [ 29 ] HCS 01/02/2019 to 31/07/ 
+2019 
+01/02/2020 to 31/07/2020 NR Total: 20,923 vs 11,982. 
+Peak (Feb – Apr): 8837 vs 3697; 
+After-peak (May – Jul): 12,086 vs 8285. 
+Total: ↓ 42.7%. 
+Peak (Feb-Apr): ↓ 58.2%; 
+After-peak (May-Jul): ↓ 31.4%. 
+Kidwai 2022, US [ 30 ] ASI 01/01/2019 to 31/12/ 
+2019 
+01/01/2020 to 31/12/2020 NR 435 vs 382 ↓ 12% 
+Labaki 2021, US [ 33 ] HCS Pre-peak: 01/12/2019 to 
+02/03/2020 
+1st peak: 02/03/2020 to 02/ 
+06/2020; 
+Period between two peaks: 
+03/06/2020 to 03/09/2020; 
+2nd peak: 04/09/2020 to 
+05/12/2020. 
+NR Pre-peak vs 1st peak: 29,305 vs 5379; 
+Pre-peak vs Period between two peaks: 
+29,305 vs 24,876; 
+Pre-peak vs 2nd peak: 29,305 vs 33,282. 
+Pre-peak vs 1st peak: ↓ 82%; 
+Pre-peak vs Period between two peaks: 
+↓ 15%; 
+Pre-peak vs 2nd peak: ↑ 14%. 
+London 2022, US [ 34 ] HCS 01/01/2019 to 30/04/ 
+2020 
+01/01/2020 to 30/04/2021 01/03/2020 – 30/04/2020 NR Apr 1 – 15, 2020 (lowest): ↓ 89%; 
+Jun 30- Jul 14, 2020 (recovery): ↑ 21%; 
+Mar 2 – 16, 2021 (highest): ↑ 64%. 
+Losurdo 2022, Italy [ 35 ] BCSP 01/01/2019 to 31/12/ 
+2019 
+01/01/2020 to 31/12/2020 09/03/2020-NR NR ↓ 37.6% 
+Miller 2021, US [ 36 ] ASI Week 1, 2019 to Week 
+47, 2019 
+Week 1, 2020 to Week 47, 
+2020 
+Weeks 11 – 17 15,339 vs 13,841 ↓ 9.8% 
+( continued on next page ) 
+T. Li et al.                                                                                                                                                                                                                                        
+
+[W4313557336 PDF PAGE 6]
+The Breast 67 (2023) 78–88
+83
+Table 1 ( continued ) 
+Study, Country/Region Health 
+service 
+setting 
+Pre-pandemic Pandemic Number of screening mammograms or number of women having screening 
+Time period Time period Services suspension/ 
+lockdown 
+Pre-pandemic vs Pandemic (data are 
+frequency (N) unless specified) 
+Relative change in outcome (unless 
+specified) 
+Norbash 2020, US [ 37 ] HCS Week 1, 2019 to Week 
+21, 2019 
+Week 1, 2020 to Week 21, 
+2020 
+NR Nadir: in weeks 15 – 16: 12,027 vs 152 Weekly change range: 
+Weeks 1 – 10: ↑ 3% – 16%; 
+Weeks 11 – 13: ↓ 10% – 96%; 
+Weeks 14 – 20: ↓ 95% – 99% (Nadir: ↓ 99% 
+in weeks 15 – 16); 
+Week 21: ↓ 73%. 
+Peng 2020, Taiwan [ 39 ] BCSP 01/01/2019 to 31/05/ 
+2019 
+01/01/2020 to 31/05/2020 No suspension Total: 496,207 vs 358,771 Total: ↓ 27.70%. 
+Mar: ↓ 35% (p < 0.0001); 
+Apr: ↓ 60% (p < 0.0001); 
+May: ↓ 49% (p < 0.0001). 
+Ribeiro 2022, Brazil [ 40 ] HCS 01/01/2019 to 31/12/ 
+2019 
+01/01/2020 to 31/12/2020 No lockdown Total: 3,810,427 vs 218,371. 
+Percentage of screening mammography 
+performed in women aged 50 – 69 years: 
+64.8% vs 64.4%. 
+Total: ↓ 42.62%. 
+Percentage of screening mammography 
+performed women aged 50 – 69 years: 
+↓ 0.4%. 
+Shen 2022, Taiwan [ 41 ] BCSP 01/01/2019 to 30/04/ 
+2019 
+01/01/2020 to 30/04/2020 No suspension Inreach (hospital): 150,903 vs 94,796; 
+Outreach (mobile): 242,482 vs 211,730. 
+Average monthly percentage change: 
+Inreach (hospital): ↓ 41.43%; 
+Outreach (mobile): ↓ 23.99%. 
+Sprague 2021, US [ 42 ] CIR 01/01/2019 to 31/07/ 
+2019 
+01/01/2020 to 31/07/2020 NR 190,454 vs 126,040 ↓ 33.8% (95% CI: 27.4 – 39.7%) 
+Sutherland 2020, Australia [ 43 ] BCSP 01/03/2019 to 30/06/ 
+2019 
+01/03/2020 to 30/06/2020 24/03/2020 – 18/05/2020 NR vs 58,478 ↓ 51.5% 
+Tang 2022, US [ 44 ] HCS 17/03/2019 to 17/05/ 
+2019 
+17/03/2020 to 17/05/2020 17/03/2020 – 17/05/2020 180,724 vs 1681 ↓ 99.1% 
+Tsai 2020, Taiwan [ 45 ] BCSP 01/01/2019 to 30/04/ 
+2019 
+01/01/2020 to 30/04/2020 No suspension 396,371 vs 308,463 ↓ 22.2%, p < 0.001 
+Velazquez 2021, US [ 46 ] ASI 01/01/2019 to 31/12/ 
+2019 
+01/01/2020 to 31/12/2020 16/03/2020 – 16/05/2020 5662 vs 3385 ↓ 40% 
+Walker 2021
+a
+, Canada [ 47 ] BCSP 01/03/2019 to 31/12/ 
+2019 
+01/03/2020 to 31/12/2020 Mid 03/2020-End 05/2020 605,889 vs 284,242 ↓ 53.1% 
+Study, Country/Region Health 
+service 
+setting 
+Pre-pandemic Pandemic Screening rate or use rate of mammograms 
+Time period Time period Services suspension/ 
+lockdown 
+Pre-pandemic vs Pandemic (data are in 
+proportion (%) unless specified) 
+Relative change in outcome (unless 
+specified) 
+Chen 2021, US [ 18 ] HIC 01/01/2019 to 31/07/ 
+2019 
+01/01/2020 to 31/07/2020 NR 4

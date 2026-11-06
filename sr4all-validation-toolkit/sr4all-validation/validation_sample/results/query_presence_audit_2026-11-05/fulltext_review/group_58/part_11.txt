@@ -1,0 +1,179 @@
+therapy 
+Outcome type Year design Age Male inhibitor Dexamethasone Country
+Overall survival NA 0.043 0.576 0.889 0.237 0.577 0.527 0.258
+Progression‑free survival 0.186 0.186 0.429 0.12 0.16 0.099 0.29 0.109
+Disease control rate 0.633 0.419 0.218 0.966 0.658 0.582 0.97 0.72
+Objective response rate 0.232 0.879 0.309 0.897 0.963 0.306 0.281 0.814
+Treatment‑related adverse events 0.925 0.943 0.993 0.979 0.865 0.769 0.98 0.914
+Figure 3. (A) Forest plot and (B) funnel plot for the pooled results of disease control rate. CI, confidence interval; ES, effect sizes; SE, standard error.
+
+[W4408295411 PDF PAGE 11]
+ONCOLOGY LETTERS  29:  228,  2025 11
+such as neuroendocrine prostate cancer, which implies that DLL3 
+inhibitors could potentially target a broader spectrum of malig‑
+nancies (29). Additionally, immunotoxin therapy has emerged 
+as a promising strategy for cancer treatment. Ataee  et al  (30) 
+developed novel immunotoxins targeting DLL3, which is overex‑
+pressed in SCLC. These recombinant immunotoxins, one fused 
+with granzyme B and the other with a component from typhoid 
+toxin, demonstrated potential in preliminary bioinformatics and 
+in vitro analyses, indicating a promising direction for further 
+experimental research in SCLC treatment.
+Understanding the biological mechanisms that affect 
+DLL3 expression and its involvement in tumor progression 
+Table VI. Incidence of adverse events in the overall estimate with whole body system.
+Type of adverse event Effect sizes (95% CI) I² (%) P‑value
+Respiratory  0.17 (0.11, 0.22) 95.0 <0.01
+Skin and immune 0.31 (0.24, 0.39) 95.9 <0.01
+Nervous 0.25 (‑0.01, 0.50) 98.2 <0.01
+Digestive  0.17 (0.15, 0.20) 83.4 <0.01
+Circulation 0.21 (0.16, 0.25) 91.3 <0.01
+Hematopoietic  0.20 (0.16, 0.24) 90.8 <0.01
+Non‑specific 0.22 (0.17, 0.27) 95.5 <0.01
+CI, confidence interval.
+Figure 4. (A) Forest plot and (B) funnel plot for the pooled results of PFS. (C) Subgroup analysis of PFS in patients with or without combination immunotherapy. 
+PFS, progression‑free survival; SE, standard error; CI, confidence interval; ES, effect size; DLL3, delta‑like ligand 3; ICI, immune checkpoint inhibitor.
+
+
+[W4408295411 PDF PAGE 12]
+SU et al:  SAFETY AND EFFICACY OF DLL3 INHIBITORS IN SOLID TUMORS12
+is crucial for optimizing the therapeutic potential of DLL3 
+inhibitors. Identifying DLL3 as a predictive biomarker could 
+aid in selecting patients most likely to respond to these targeted 
+therapies, thereby advancing personalized medicine in the 
+context of NEC. Further research is required to investigate the 
+mechanisms of resistance to DLL3 inhibitors and to develop 
+strategies for overcoming this resistance, potentially through 
+combination therapies that target multiple pathways involved 
+in tumor survival and progression.
+The present analysis is subject to several limitations, partic‑
+ularly those associated with single‑group rate meta‑analyses. 
+The substantial heterogeneity observed in outcomes such as 
+OS, PFS, DCR, ORR and AEs is a well‑recognized limitation 
+of this method. Unlike comparative analyses, single‑group 
+rate meta‑analyses aggregate data from diverse study designs, 
+patient populations and treatment regimens, which can lead 
+to marked variability that may lack clinical interpretability. 
+Factors such as differing outcome definitions, variations in 
+reporting standards and unmeasured confounding variables 
+contribute to this heterogeneity, complicating efforts to draw 
+meaningful conclusions from pooled data.
+Future research on DLL3 inhibitors should focus on 
+several key areas to optimize their clinical impact. Firstly, 
+exploring combination therapies with immune checkpoint 
+inhibitors, chemotherapy or other targeted agents is critical 
+to maximize the potential for synergistic effects. Secondly, 
+biomarker‑driven approaches, such as stratifying patients 
+based on DLL3 expression levels or tumor mutational burden, 
+are essential for developing personalized treatment strate ‑
+gies. Thirdly, standardizing clinical endpoints and reporting 
+practices will enhance the comparability of studies and 
+strengthen the reliability of pooled analyses. Furthermore, 
+addressing underrepresented patient populations, including 
+those with rare tumor subtypes or poor performance status, 
+is essential for improving the generalizability of findings. 
+Finally, large‑scale RCTs and real‑world studies are crucial 
+for validating results, assessing long‑term outcomes and 
+determining the broader applicability of DLL3‑targeted 
+therapies in clinical practice.
+In conclusion, the present meta‑analysis highlighted the 
+promising clinical efficacy and manageable safety profile of 
+DLL3 inhibitors in treating solid tumors, with encouraging 
+outcomes in OS, PFS and DCR, particularly for agents such 
+as tarlatamab. These findings reinforce the potential of DLL3 
+inhibitors as a novel therapeutic approach to address unmet 
+needs in oncology. However, the substantial heterogeneity 
+Figure 5. (A) Forest plot and (B) funnel plot for the pooled results of OS. (C) Subgroup analysis of OS by year. (D) OS after eliminating abnormalities. OS, 
+overall survival; CI, confidence interval; ES, effect sizes; SE, standard error.
+
+[W4408295411 PDF PAGE 13]
+ONCOLOGY LETTERS  29:  228,  2025 13
+identified, driven by variations in inhibitor types, combination 
+with immunotherapy and treatment regimens, emphasizes the 
+need for more robust and standardized evidence.
+To facilitate the clinical translation of DLL3 inhibitors, 
+future research should focus on developing and validating 
+predictive biomarkers for better patient selection. Exploring 
+combination therapies with immunotherapies or radio ‑
+therapy could improve efficacy and overcome resistance 
+mechanisms. Additionally, addressing resistance pathways 
+and standardizing clinical endpoints, reporting practices 
+and trial designs will be essential to strengthen the evidence 
+base and improve comparability across studies. By focusing 
+on these strategies, the clinical application of DLL3 inhibi ‑
+tors could be refined and expanded, ultimately offering new 
+hope for patients with solid tumors and advancing the field 
+of precision oncology.
+Acknowledgements
+Not applicable.
+Funding
+The study was supported by Special Funds for Promoting 
+Scientific And Technological Innovation in Xuzhou in 2022 
+(grant no. KC22255).
+Availability of data and materials
+The data generated in the present study may be requested from 
+the corresponding author.
+Authors' contributions
+YS and XL contributed to the conception, design and writing 
+of the manuscript. TL and YQ were responsible for data 
+extraction and analysis. The first draft of the manuscript 
+was written by YS. HC and DY contributed to the statistical 
+analysis and interpretation of results, ensuring the robustness 
+of the meta ‑analysis methodology. Manuscript revision and 
+proofreading were performed by XL, HC and DY. YS and XL 
+confirm the authenticity of all the raw data. YX, WX and YG 
+contributed to the study design and provided critical feedback 
+on the methodology. All authors read and approved the final 
+version of the manuscript.
+Ethics approval and consent to participate
+Not applicable.
+Patient consent for publication
+Not applicable.
+Figure 6. (A) Forest plot for the pooled results of AEs and the (B) five most common AEs. AE, adverse events; CI, confidence interval; ES, effect sizes; CRS, 
+cytokine release syndrome.
+
+
+[W4408295411 PDF PAGE 14]
+SU et al:  SAFETY AND EFFICACY OF DLL3 INHIBITORS IN SOLID TUMORS14
+Competing interests
+The authors declare that they have no competing interests.
+References
+ 1.  Guruharsha KG, Kankel MW and Artavanis‑Tsakonas S: 
+The Notch signalling system: Recent insights into the complexity 
+of a conserved pathway. Nat Rev Genet 13: 654‑666, 2012.
+ 2.  Bray SJ: Notch signalling in context. Nat Rev Mol Cell Bio 17: 
+722‑735, 2016. 3.  Meurette O and Mehlen P: Notch signaling in the tumor micro ‑environment. Cancer Cell 34: 536‑548, 2018.
+ 4.  Radtke F and Raj K: The role of Notch in tumorigenesis: Oncogene 
+or tumour suppressor? Nat Rev Cancer 3: 756‑767, 2003.
+ 5.  Chapman G, Sparrow DB, Kremmer E and Dunwoodie SL: Notch 
+inhibition by the ligand DELTA‑LIKE 3 defines the mechanism 
+of abnormal vertebral segmentation in spondylocostal dysostosis. 
+Hum Mol Genet 20: 905‑916, 2011.
+ 6.  Sabari JK, Lok BH, Laird JH, Poirier JT and Rudin CM: 
+Unravelling the biology of SCLC: Implications for therapy. Nat 
+Rev Clin Oncol 14: 549‑561, 2017.
+ 7.  Saunders LR, Bankovich AJ, Anderson WC, Aujay MA, 
+Bheddah S, Black K, Desai  R, Escarpe  PA, Hampl  J, 
+Laysang A, et al: A DLL3‑targeted antibody‑drug conjugate erad‑
+icates high‑grade pulmonary neuroendocrine tumor ‑initiating 
+cells in vivo. Sci Transl Med 7: 302ra136, 2015.
+ 8.  Yao J, Bergsland E, Aggarwal R, Aparicio A, Beltran H, 
+Crabtree  JS, Hann CL, Ibrahim T, Byers LA, Sasano H , et al: 
+DLL3 as an emerging target for the treatment of neuroendocrine 
+neoplasms. Oncologist 27: 940‑951, 2022.
+ 9.  Owen DH, Giffin MJ, Bailis JM, Smit MD, Carbone DP and 
+He K: DLL3: An emerging target in small cell lung cancer. 
+J Hematol Oncol 12: 61, 2019.
+10. Rudin CM, Pietanza MC, Bauer TM, Ready N, Morgensztern D, 
+Glisson BS, Byers LA, Johnson ML, Burris HA III, Robert F, et al: 
+Rovalpituzumab tesirine, a DLL3‑targeted antibody‑drug conjugate, 
+in recurrent small‑cell lung cancer: A first‑in‑human, first‑in‑class, 
+open‑label, phase 1 study. Lancet Oncol 18: 42‑51, 2017.
+11. G i f fi n M J, C o oke K, L ob en hofe r E K, E st r a d a J, Z h a n J, D e egen P, 
+Thomas M, Murawsky CM, Werner J, Liu S , et al : AMG 757, 
+a half‑life extended, DLL3‑targeted bispecific T‑cell engager, 
+shows high potency and sensitivity in preclinical models of 
+small‑cell lung cancer. Clin Cancer Res 27: 1526‑1537, 2021.
+12. Champiat S, Boyer MJ, Govindan R, Paz‑Ares LG, Owonikoko TK, 
+Borghaei H, Izumi H, Steeghs N, Helen Blackhall F, Terbuch A, et al: 
+Tarlatamab in small cell lung cancer 

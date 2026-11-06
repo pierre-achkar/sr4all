@@ -1,0 +1,397 @@
+
+Education: college
+education ( n = 819); post
+graduate experience ( n =
+221)
+Police chiefs average years
+of experience (14 years)
+Occupational
+Stress
+Houdmont
+et al. [ 89]
+Cross-
+sectional
+Self-report
+online
+questionnaire
+1226 48.0 England Officers of the federated
+ranks (constable, sergeant,
+inspector) from 2 English
+county forces.
+Male ( n = 721); female ( n =
+505)
+Age: ≤ 41 years ( n = 539);
+≥ 42 years ( n = 633)
+Rank: constable ( n = 990);
+sergeant ( n = 188);
+inspector ( n = 48)
+Departmental tenure: ≤ 9
+years ( n = 1019); 10 –19
+years ( n = 184); 20 –29 years
+(n = 23)
+Length of service: ≤ 10
+years ( n = 390); 11 –20 years
+(n = 568); 21 –30 years ( n =
+268)
+PD
+EE
+DP
+PA
+Janzen
+et al. [ 90]
+Cross-
+sectional
+Self-report
+questionnaire
+78 All police
+employees:
+55.4
+Response
+rate for
+police
+officers: not
+reported
+Canada Police officers from a
+police department of a
+middle sized Canadian city.
+Male (64.0%) ( n = 50);
+female (36.0%) ( n = 28)
+Mean age ± SD: 36.1 ± 8.0
+years
+Education: university
+degree or college diploma
+(68.0%)
+Marital status: married or
+living with a partner
+(82.0%)
+Policing for 16 years or
+more (1/3 of respondents)
+Policing for 6 –15 years
+(24.0%)
+Policing for 5 years or less
+(44.0%)
+PD
+Martinussen
+et al. [ 91]
+Cross-
+sectional
+Self-report
+questionnaire
+223 45.0 Norway Norwegian police officers,
+recruited from one of the
+larger police districts in
+Norway
+Male ( n = 173); female ( n =
+48) No gender information
+(n =2 )
+Mean age ± SD: 36.8 ± 8.30
+years
+Education: mean years of
+education after primary
+EE
+DP
+PA
+Purba and Demou BMC Public Health         (2019) 19:1286 Page 7 of 21
+
+[W2980327373 PDF PAGE 8]
+Table 2 Characteristics of Included Studies (Continued)
+Study ID Study
+design
+Data
+collection
+Sample
+size ( n)
+Response
+rate (%)
+Study
+location
+Study population Study demographics MW
+outcome(s)
+investigated
+school± SD: 5.90 ± 1.70
+years
+Marital status: married or
+living with partner (76.0%)
+Mean years in current
+position ± SD: 3.80 ± 3.60
+years
+Employed full time (96.0%)
+McCarty
+et al. [ 92]
+Cross-
+sectional
+Self-report
+online survey
+2078 57.0 USA Law enforcement
+personnel representing 12
+law enforcement agencies
+across the United States
+Males ( n = 1727); females
+(n = 330)
+Race: African American
+(n = 221); White ( n = 1299);
+Hispanic ( n = 345); Other
+(n = 158)
+Education: less than BA
+(n = 874); BA or more ( n =
+1106)
+Mean years on the job ±
+SD: 17.17 ± 10.15 years
+EE
+Morash
+et al. [ 93]
+Cross-
+sectional
+Self-report
+survey
+947 46.2 USA Police officers from 11
+police departments in the
+USA
+Male ( n = 706); female ( n =
+241)
+Mean age ± SD: 3.13 ± 0.93
+years (ordinal scale ranging
+from younger than 20
+years to older than 60
+years)
+Race: White non- Hispanic
+(n = 778); Other ( n = 169)
+Occupational
+Stress
+Morash
+et al. [ 96]
+Cross-
+sectional
+Self-report
+survey
+686 96.0 South
+Korea
+Police officers from 11
+police departments in
+Chungbuk Province, South
+Korea
+Males ( n = 662) Female
+(n = 34)
+Mean age ± SD: 3.31 ± 1.24
+years; > 30 years (88.6%)
+Education: bachelor ’s
+degree or higher ( n = 258)
+Marital status: married or
+steady state ( n = 480); no
+partner ( n = 206)
+Mean length of service ±
+SD: 2.87 ± 1.74 years
+Occupational
+Stress
+Mostert
+et al. [ 94]
+Cross-
+sectional
+Self-report
+survey
+1794 Not
+reported
+South
+Africa
+Police officers from 8
+provinces in South Africa
+Male ( n = 1172); female
+(n = 259)
+Mean age ± SD: 34.53 ±
+6.23 years
+Rank: constable ( n = 110);
+sergeant ( n = 278);
+inspector ( n = 775); captain
+(n = 226); superintendent
+(n = 35); senior
+superintendent ( n =7 )
+Race: White ( n = 574); Black
+(n = 559); Coloured ( n =
+206); Indian ( n = 56); Race
+not indicated ( n = 36)
+Education: grade 10 ( n =
+140); grade 11 ( n = 71);
+grade 12 ( n = 835);
+technical college diploma
+(n = 42); tecknikon diploma
+(n = 289); university degree
+(n = 24); postgraduate
+degree ( n = 30)
+Marital status: single ( n =
+283); married ( n = 787);
+divorced ( n = 322);
+EE
+DP
+Purba and Demou BMC Public Health         (2019) 19:1286 Page 8 of 21
+
+[W2980327373 PDF PAGE 9]
+sampling [83, 85, 88, 91– 93] of which one study adopted
+random gender stratified sampling [ 85]a n df o u rs t u d i e s
+used random sampling [ 83, 88, 91, 92]. One study failed to
+provide information on the type of probability sample
+adopted [93]. Purposeful sampling was adopted by one study
+[87]. None of the studies accounted for officers who were
+not in work (e.g. court, special assignment, annual leave, off
+sick) and therefore not included in the study samples.
+Present state bias cannot be ruled out, if officers more vul-
+nerable to stress have left the pr ofession, creating a more re-
+silient population than that of the general police population
+[102]. All studies involved volunt ary participation, as such
+all were prone to volunteer bias; which could affect external
+validity [105].
+Synthesis of results by outcome
+All MW outcomes identified in the initial scoping search
+were reported in the included studies. The results from
+the included studies are presented by outcome of inter-
+est (see also Supplementary material S12 – 13) [ 57, 58].
+Table 3 shows the organisational stressor and MW out-
+come associations of included studies by outcome, the
+assigned effect size grades and corresponding signifi-
+cance levels.
+Occupational stress
+Three high quality studies [ 88, 93, 96] assessed occupa-
+tional stress, covering a total of 3060 participants, almost
+half of which (47%; n = 1427) were from one study [ 88].
+Most organisational stressors had low or no associ-
+ation with occupational stress (Table 3). Only ‘ridicule
+and set-ups ’ had an intermediated effect size grade in
+one study [ 96], and this was the strongest association
+observed [ 88, 93, 96] (Table 3). In this study on South
+Korean police officers [ 96], ‘ridicule and set-ups ’ was sig-
+nificantly associated with occupational stress (ß = .53,
+p < .01) following adjustment for both participant demo-
+graphics and additional exposure variables, including
+sexual/language harassment, feeling invisible, length of
+service, rank etc. In a study on US officers [ 93], the same
+association was graded as low but the relationship
+remained significant (ß = .12, p < .01) following adjust-
+ment for participant demographics and other exposure
+variables, including lack of advancement opportunity or
+influence, bias, etc.
+Dealing with ‘bias’ from co-workers was predictive of
+occupational stress in US police officers when adjusting
+for participant demographics and additional exposure
+variables (ß = .29, p < .01) [ 93]. Officers who exhibited
+high levels of occupational stress reported stress as a
+consequence of ethnic or racial bias [ 93]. Moreover, offi-
+cers reported considerable time and energy was spent
+helping co-workers deal with this prejudice and bias,
+consequently elevating their levels of occupational stress
+[93]. High levels of ‘superior support ’ resulted in low
+levels of occupational stress in the study conducted on
+South Korean police officers [ 96] (ß = -.26, p < .01), after
+adjustment for participant demographics and exposure
+variables including public disrespect and expressed feel-
+ings. However, no evidence of a significant association
+between high levels of ‘work group support ’ and occupa-
+tional stress was observed (ß = .04, p = ns) in US police
+officers [ 93]. Τhe organisational stressor poor ‘personnel
+relations’ (b = .055, p = ns) was not significantly associ-
+ated with occupational stress in a study of police execu-
+tives either, although should be noted that this study did
+not account for possible confounding variables [ 88].
+‘Department issues ’ (e.g. the department budget,
+personnel retention and employee labour organisations)
+was significantly associated ( ‘low’ effect size grade) with
+occupational stress (b = .197, p < .05) [ 88]. A ‘lack of in-
+fluence’ over the way policing is conducted, procedures
+Table 2 Characteristics of Included Studies (Continued)
+Study ID Study
+design
+Data
+collection
+Sample
+size ( n)
+Response
+rate (%)
+Study
+location
+Study population Study demographics MW
+outcome(s)
+investigated
+separated ( n = 26);
+remarried ( n = 13)
+Mean number of years in
+the police ± SD: 12.98 ±
+6.21 years
+Mean number of years in
+current position ± SD:
+4.28 ± 3.15 years
+Xavier
+et al. [ 95]
+Cross-
+sectional
+Self-report
+survey
+296 Not
+reported
+South India Police officers and sub
+inspectors from Tamil
+Nadu
+Not reported Burnout
+(composite
+measure of
+EE, DP and
+PA)
+EE
+DP
+PA
+Purba and Demou BMC Public Health         (2019) 19:1286 Page 9 of 21
+
+[W2980327373 PDF PAGE 10]
+Table 3 Organisational Stressor and MW Outcome Associations of Included Studies with Significance level and Effect Size Grade
+Mental Wellbeing Outcome(s) Organisational Stressor(s) and
+Corresponding Study ID(s)
+Grade Assigned to
+Effect Size
+Significance
+Level
+WHO Occupational
+Stressor Category*
+Occupational Stress Ridicule and
+set ups [ 96]
+Intermediate p ≤ .01 2
+Bias [ 93] Low p ≤ .01 2
+Ridicule and
+set ups [ 93]
+Low p ≤ .01 2
+Sexual harassment [ 93] Low p ≤ .05 2
+Language harassment [ 93] Low p ≤ .01 2
+Superiors support [ 96] Low p ≤ .01 2
+Lacks influence [ 93] Low p ≤ .01 4
+Department issues [ 88] Low p ≤ .05 3
+Personnel relations [ 88] None p = ns 2
+Work group support [ 93] None p = ns 2
+Sexual harassment [ 96] None p = ns 2
+Language harassment [ 96] None p = ns 2
+Lack of advancement
+opportunity [ 93]
+None p = ns 1
+Anxiety Job pressure [ 86] Intermediate p ≤ .001 5
+Lack of support [ 86] None p = ns 2
+Depression Heavy workload [ 87] Intermediate p ≤ .004 5
+Judgement from
+peers [ 87]
+Intermediate p ≤ .004 2
+Job pressure [ 86] None p = ns 5
+Lack of support [ 86] None p = ns 2
+Psychiatric Symptoms (PS) or
+Psychological Distress (PD)
+Lack of support
+from superior and
+organisation [ 84]
+High p ≤ .002 2
+High mental/intellectual
+demand [ 84]
+Intermediate p ≤ .026 5
+Inadequate work
+schedule [ 84]
+Intermediate p ≤ .016 5
+≥49 h/week = long
+working hours [ 89]
+Intermediate p ≤ .05 5
+Internal social
+stressors [ 82]
+Low p ≤ .01 2
+Effort reward
+im

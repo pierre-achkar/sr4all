@@ -1,0 +1,151 @@
+he topics of
+some presentations in the seventh column with no group indicated, as well as some notes
+showing presentations given by a group representative that included work from one or
+more other modeling groups in addition to their own work. As shown in the rightmost
+column in Table 5, between 2008 and 2014 the SPWG reports included references to specific
+studies by different modeling groups. However, since 2015, while some SPWG notes for
+the record mentioned presentations by modeling groups, they did not include references to
+specific studies (e.g., the IC review of IPV use for oSIAs [66]). In the absence of reviewing
+each presentation, we could not identify all of the modeling results presented to the SPWG.
+
+[W4398206054 PDF PAGE 20]
+Pathogens 2024, 13, 435 20 of 31
+Table 5. Representation of modeling at face-to-face SAGE polio workgroup meetings.
+Meeting Roles a Information Extracted from the Note for the Record
+N Date KRI IC LSHTM IDM/
+BMGF Presentation Topic (Presenting Modeling Group) Group [Source(s)]
+1 October-08 M * M * Modeling the risks: past and future (KRI)
+Modeling: The next frontiers (IC) KRI [183]
+2 June-09 M M P * Cost-effectiveness of routine polio vaccination (LSHTM)
+Poliovirus transmission potential (LSHTM)
+KRI [177,181–
+183,194,205–208],
+LSHTM [107], IC
+[185,186]
+3 March-11 M * M P *
+Modeling cVDPV risks/post-eradication policies (KRI)
+Options, risks, and prerequisites for OPV2 cessation (KRI)
+Modeling tools for cVDPV emergence (IDM)
+4 February-12 M * M * P *
+Wide-spread transmission of type 2 cVDPV in Nigeria (IC)
+cVDPV emergence risks pre- and post-eradication (IDM)
+Modeling and managing VDPV risks: known and not (KRI)
+NA
+5 November-12 M M
+6 June-13 M M P * VDPV emergence risk for mOPV2 post-OPV2 cessation (IDM) NA
+7 October-13 M M * P * Post-cessation outbreak response, OPV use, cVDPV risk (IDM)
+8 February-14 M M * Review of the duration of mucosal immunity to poliovirus (IC)
+9 July-14 M * M * P *
+Modeling the risk of cVDPV emergence (KRI)
+Risk of VDPV emergence and spread (IC)
+Non-polio-AFP population immunity projections (IDM)
+tOPV campaigns pre-OPV2 cessation (IDM)
+KRI [196,209,210]
+IC b
+10 September-15 M M * P Serotype 2 vaccine-derived poliovirus risk assessment (IC)
+11 January-16 M ˆ M ˆ P Type 2 outbreak protocolc
+Risks of cVDPV emergence, based on modeling (IDM)
+12 August-16 M * M * P *
+Detection of type 2 Sabin virus after the switch (IC)
+Needs for bOPV campaigns prior to OPV13 withdrawal (KRI)
+Assessment of risks and implications of bOPV use (IDM)
+13 February-17 M * M * P *
+Roles of different vaccines in outbreaks and the endgame (KRI)
+Polio endgame modeling, IPV in SIAs (IDM)
+Impact of IPV in RI and SIA following OPV2 withdrawal (IC)
+14 September-17 M M P * OPV13 cessation and SIA planning (IDM)
+15 February-18 M M * Risk assessment for bOPV cessation (IDM),
+Role of bOPV preventive SIAs pre-bOPV cessation d
+16 September-18 M * R M Country prioritization of IPV catchup immunization (IC)
+17 February-19 M R M Risks and the role of bOPV preventive SIAs pre-cessation d
+18 September-19 M P * M VAPP analysis (LSHTM)
+19 February-20 M * P * M Role of IPV for outbreak response (IC),
+Scenarios for initial nOPV2 use under EUL (LSHTM)
+20 September-20 P * M * M *
+Impacts of polio eradication activity disruption (LSHTM) e
+IPV use for cVDPV and WPV outbreak response (IC)
+Tracing infections and micro vaccination campaigns (IDM)
+21 February-21 P * M * M nOPV2 versus mOPV2 for outbreak response (IC)
+Transition from initial to wider nOPV2 use criteria (LSHTM)
+22 August-21 M * M Update on nOPV2 policy (LSHTM)
+23 March-22 P * M * M Field seroprevalence and immunogenicity studies (LSHTM)
+nOPV2 effectiveness study (IC)
+24 August-22 M * M Review of data on use of IPV for outbreak response (LSHTM)
+
+[W4398206054 PDF PAGE 21]
+Pathogens 2024, 13, 435 21 of 31
+Table 5. Cont.
+Meeting Roles a Information Extracted from the Note for the Record
+N Date KRI IC LSHTM IDM/
+BMGF Presentation Topic (Presenting Modeling Group) Group [Source(s)]
+25 March-23 M * M Update on iVDPV epidemiology (LSHTM)
+26 August-23 M * M Options for type 1 and 2 co-circulation outbreaks (LSHTM)
+27 February-24 M M bOPV cessation planning summary of modeling f
+Abbreviations: AFP , acute flaccid paralysis; BMGF, Bill and Melinda Gates Foundation; bOPV , bivalent OPV; cVDPV , circulating VDPV; EUL, emergency
+use listing; GPEI, Global Polio Eradication Initiative; IC, Imperial College; IDM, Institute for Disease Modeling; IPV , inactivated poliovirus vaccine;
+iVDPV , immunodeficiency-associated VDPV; KRI, Kid Risk, Inc.; LSHTM, London School of Hygiene and Tropical Medicine; mOPV , monovalent
+OPV; NA, not available; nOPV , novel OPV; OPV , oral poliovirus vaccine; OPV#, type # OPV (# = 1, 2, or 3); RI, routine immunization; SAGE, Strategic
+Advisory Group of Experts on immunization for the World Health Organization; SC, stochastic compartmental; SIA, supplemental immunization
+activity; SPWG, SAGE polio working group; tOPV , trivalent OPV; VAPP , vaccine-associated paralytic polio; VDPV , vaccine-derived poliovirus.
+a M indicates attended as a SPWG member, P indicates invited external participants, R indicates rapporteur, and * indicates presented at the meeting.
+b Also referred to an unpublished IDM analysis and an IC study ultimately published in 2016 [211].
+c Presentation included modeling from KRI, IC, and IDM developed following a pre-meeting in-depth modeling discussion.
+d Presentation that referred to KRI work.
+e Presentation that referred to KRI, IC, IDM, and LSHTM work.
+f Presentation that referred to KRI, IC, IDM/BMGF, and LSHTM work.
+Overall, it appears that poliovirus transmission and economic modeling results played
+a much larger role in GPEI and SAGE discussions in earlier time periods than during
+2020–2024.25, although we see a strong representation of consideration of the results of the
+modeling groups for 2000–2024.
+4. Discussion
+Publications by the modeling groups since 2020 have continued to show the applica-
+tion of different approaches and active communication of model results to policymakers.
+However, we observed fewer references to modeling results in GPEI Annual Reports since
+2020 than during the prior 15 years, and a decrease in the impact of the results of poliovirus
+transmission and economic modeling on decisions. Notably, in some cases, the reduced
+impact of modeling occurred despite the agreement of the multiple modeling groups. For
+example, although multiple modeling groups recommended a rapid response to cVDPV2
+outbreaks using any available OPV2 vaccine (including mOPV2) and SAGE endorsed
+this recommendation, some countries in the African region delayed their responses to
+cVDPV2 outbreaks after 2020 to wait for nOPV2 because of its perceived higher safety
+profile. Multiple modeling groups also published studies that highlighted the late, small,
+and low quality of oSIAs in some areas as a primary reason for OPV2 cessation failure.
+During the past 5 years, modeling studies suggested an expected reduction in overall
+incremental net benefits of the global polio eradication efforts, decreased chances of a
+successful polio eradication endgame, expectations of increased costs of polio immuniza-
+tion prospectively due to the shift from OPV to IPV in RI associated with the increase in
+recommended IPV doses in RI, and the complexity of continued use of different formu-
+lations of OPV . However, commitment to “finishing the job” remains strong, in spite of
+a less favorable economic impact. Consistent with this, discussions by GPEI and SAGE
+trended more toward a focus on polio epidemiological studies, equity (particularly gender
+equity [154]), and integration of GPEI activities into national immunization programs. The
+increased focus on statistical analyses of polio epidemiological data reflects the reality of
+the increased incidence of polio cases reported since 2020 [104].
+Similar to the prior review [ 1], we looked for areas of disagreement about recom-
+mendations from the modeling groups. We could not formally document some known
+differences from internal modeling group discussions because they involved unpublished
+results. For example, published modeling emphasized the importance of rapidly respond-
+ing to cVDPV2 outbreaks using the available mOPV2 given the limited availability of
+nOPV2 [25,34], which unpublished modeling by one other group supported and unpub-
+lished modeling by another group did not support (it suggested that countries should
+
+[W4398206054 PDF PAGE 22]
+Pathogens 2024, 13, 435 22 of 31
+wait to use nOPV2 before using mOPV2 in oSIAs). In addition, the communications to
+countries related to the roll out and promotion of nOPV2 in 2021 promised a better vaccine
+than mOPV2, which effectively disincentivized the use of mOPV2, devalued the available
+mOPV2 stockpile, and created challenges with respect to using any Sabin OPV in SIAs to
+increase and maintain population immunity.
+With respect to Pakistan and Afghanistan, modeling performed by KRI, IC, and
+IDM did not lead to the accelerated achievement of WPV1 eradication in Pakistan and
+Afghanistan. We could not assess the agreement between these since some of the analyses
+remain unpublished, but studies by KRI and IC agreed with the need to quickly restart im-
+munization in Pakistan and Afghanistan following disruptions caused byCOVID-19 [32,47].
+In addition, insights from modeling did not succeed in preventing the failure of OPV2
+cessation, despite repeated warnings of its likely failure as early as 2017 in Cessation Risk
+Task Team meetings that occurred between June 2016 and April 2021, which included all of
+the modeling groups along with representatives from most GPEI core partners. Modeling
+support of stockpile needs prior to OPV2 cessation did not account for shifts in GPEI
+leadership and governance and the resulting adoption of lower prioritization of SIAs [104],
+decentralization of decision making, or the apparent willingness to accept increased po-
+l

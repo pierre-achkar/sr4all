@@ -1,0 +1,286 @@
+s.
+We utilized Scopus, PubMed, Cochrane Database, MEDLINE, and Web of Science from inception until April
+20, 2022. We utilized the Cochrane risk of bias tool for quality assessment. The following outcomes were
+assessed: Knee Injury and Osteoarthritis Outcome Score (KOOS), International Knee Documentation
+Committee (IKDC) Subjective Knee score, Lysholm score, the occurrence of the knee giving way, Tegner
+score, KT1000, Lachman test, pivot shift test, SF-36 score to assess the quality of life, and incidence of
+reinjury and reoperation.
+We included a total of six trials with a population sample size of 691 patients, which were divided into
+surgical versus non-surgical groups, accounting for 348 and 343 patients, respectively. The pooled estimate
+demonstrated that the surgical reconstruction was associated with a significant increase in the IKDC score
+(MD = 7.49 [2.04, 12.94], (P = 0.007)), and KOOS score was significant in the reconstruction cohort (MD = 5.87
+[1.64, 10.09], (P = 0.007)). The incidences of reoperation (RR = 0.43 [0.20, 0.91], (P = 0.03)), reinjury (RR = 0.49
+[0.27, 0.88], (P = 0.02)), and occurrence of the knee giving way (RR = 0.19 [0.08, 0.49], (P = 0.005)) were
+significantly decreased in the surgical cohort. There is no significant difference between both cohorts
+regarding the Lysholm score (1.27 [−1.39, 3.93], (P = 0.35)).
+The findings of this comprehensive analysis indicate that early reconstruction does not demonstrate clear
+superiority over rehabilitation alone in terms of knee function, Lysholm score, and Tegner score among
+patients with ACL rupture. However, early reconstruction does exhibit a substantial reduction in the
+incidence of reinjury, reoperation, and knee giving way, suggesting potential benefits in terms of stability
+outcomes. These results underscore the importance of considering individual patient characteristics and
+preferences in treatment decision-making.
+Categories:
+ Orthopedics, Sports Medicine
+Keywords:
+ orthopedic sports medicine, meta-analysis, anterior cruciate ligament, rehabilitation, reconstruction
+Introduction And Background
+Introduction
+One of the primary factors contributing to knee stabilization and function is the anterior cruciate ligament
+(ACL), which limits anterior tibia movement relative to the femur and aids in tibial rotational stability 
+[1,2]
+.
+ACL injuries, often resulting from acute trauma, can be debilitating, particularly in young athletes 
+[3-5]
+.
+Knee instability, painful swelling, and associated meniscal injury are key symptoms of ACL injury 
+[6]
+.
+Furthermore, ACL injury heightens the risk of knee osteoarthritis (OA), with reported prevalence ranging
+from 40% to 70% 
+[7,8]
+. Long-term monitoring of soccer players underscores the importance of managing
+anterior tibial translation through intensive rehabilitation or ACL reconstruction to curtail meniscal injuries
+and degeneration 
+[9]
+. Treatment strategies for ACL injury depend on activity levels, injury types, and
+instability degree 
+[10]
+. Patients with low-intensity activity and mild symptoms may respond to physical
+therapy, while those with severe injuries and pronounced symptoms may require surgery. The KANON trial
+1
+1,
+2
+3
+1
+4,
+5
+6,
+1
+1
+1
+7
+ 
+ Open Access Review
+Article
+ 
+DOI:
+ 10.7759/cureus.43370
+How to cite this article
+Dahduli O S, AlHossan A M, Al Rushud M A, et al. (August 12, 2023) Early Surgical Reconstruction Versus Rehabilitation for Patients With Anterior
+Cruciate Ligament Rupture: A Systematic Review and Meta-Analysis. Cureus 15(8): e43370. 
+DOI 10.7759/cureus.43370
+
+[W4385781584 PDF PAGE 2]
+demonstrated successful non-surgical treatment in around 50% of patients 
+[11,12]
+. Despite ACL
+reconstruction offering improved stability and performance, the risk of OA development remains higher
+compared to an uninjured knee 
+[13]
+. Enhancing neuromuscular function correlates with better outcomes
+and OA prevention 
+[14]
+, as muscle power is indicative of OA development; robust physiotherapy and
+rehabilitation can strengthen knee muscles, reducing OA risk 
+[15]
+. This meta-analysis aims to evaluate two
+common treatments, surgical reconstruction and rehabilitation, concerning knee function, OA occurrence,
+and quality of life.
+Methods
+We searched PubMed, Scopus, Cochrane Database, Web of Science, and MEDLINE from inception until April
+20, 2022, using expert-assisted search strategies with the terms “Surgery,” “Reconstruction,” “Non-surgical,”
+and “Rehabilitation.”
+Database search
+We explored PubMed, Scopus, Cochrane Database, Web of Science, and MEDLINE from inception until April
+20, 2022. An expert database librarian assisted in performing the ideal search strategy. We used the
+following terms: “Surgery,” “Reconstruction,” “Non-surgical,” and “Rehabilitation.”
+Eligibility criteria
+We included all studies that met the following evidence-based PICOS (population, intervention, comparison
+outcomes, and study design) criteria: (i) population: patients who had ACL injuries; (ii) intervention: ACL
+reconstruction surgery; (iii) comparison: adequate rehabilitation and physiotherapy; (iv) outcomes:
+reporting of at least one of the predetermined primary or secondary endpoints; and (v) study design: clinical
+trials published in peer-reviewed journals. We excluded all studies that met the following criteria: (i)
+patients who had knee injuries other than specifically ACL injuries, (ii) patients who received mixed surgical
+and non-surgical interventions at the same time, (iii) studies that had no reliable extraction of data or did
+not report at least one of our predefined outcomes, and (iv) studies with methodological designs other than
+clinical trials, such as conference abstracts, animal studies, single-arm investigations, and pharmacokinetic
+interrogations.
+Screening of results
+The studies were imported into Excel using the EndNote X8.0.1 version as the first stage in the screening
+process. The studies in the Excel sheet were then screened for titles and abstracts. The authors then read
+over the complete texts of the research from the previous step.
+Extraction of data
+Two independent authors retrieved the data from the involved studies. They took the demographic
+information about the patients; information about the primary and secondary outcomes, such as Knee Injury
+and Osteoarthritis Outcome Score (KOOS), International Knee Documentation Committee (IKDC) Subjective
+Knee score, Lysholm score, probability of the knee giving way, Tegner score, KT1000, Lachman test, pivot
+shift test, SF-36 score to evaluate the quality of life, and probability of reinjury and reoperation; and finally,
+the data required for the quality assessment.
+Risk of bias assessment
+We performed the quality assessment of the involved trials using the Cochrane risk of bias tool. This
+assessment included adequate blinding, allocation concealment, and randomization of patients through
+seven domains. The evaluation of domains yielded a high, unclear, or low risk of bias.
+Statistical analysis
+Using the Mantel-Haenszel method, we examined the dichotomous data and summarized them as risk ratio
+(RR) with a 95% confidence interval (CI). On the other hand, using the inverse-variance method, we
+examined the continuous data and summarized them as mean difference (MD) with 95% CI. RevMan
+Software was used to analyze all the data 
+[16]
+. To measure the extent of heterogeneity of our pooled
+outcomes, we employed the chi-square test and I
+2
+ index. Heterogeneity was determined based on P > 0.1 or
+I
+2
+ > 50% 
+[17]
+. The fixed-effects model was utilized to analyze homogeneous outcomes. Conversely, the
+random-effects model was utilized to analyze heterogeneous outcomes. The random-effects model is
+fundamentally based on the inverse-variance methodology, rendering an adjustment to the study weights
+according to the extent of heterogeneity, among the different intervention effects. We applied Cochrane's
+leave-one-out sensitivity analysis method in an attempt to resolve the source of heterogeneity, by omitting
+one study at a time (i.e., zero weight on forest plots) and then recalculating the pooled effect size of the
+remaining studies.
+2023 Dahduli et al. Cureus 15(8): e43370. DOI 10.7759/cureus.43370
+2
+ of 
+13
+
+[W4385781584 PDF PAGE 3]
+Review
+Results
+Summary of Included Studies
+Our electronic search results are presented in the PRISMA flow diagram (Figure 
+1
+). Six papers meeting our
+eligibility criteria were included 
+[11,12,18-21]
+, encompassing a total of 691 patients with ACL tears. Among
+them, 343 patients were assigned to the rehabilitation cohort, while 348 patients underwent surgical repair.
+Both patient cohorts had an average age of 27.4 years. A detailed list of the included trials, along with
+information on patient age, gender, BMI, Tegner score before injury, nation, and sample size, is provided.
+Tables 
+1
+, 
+2
+ show additional baseline data.
+FIGURE
+ 1: PRISMA flow chart
+2023 Dahduli et al. Cureus 15(8): e43370. DOI 10.7759/cureus.43370
+3
+ of 
+13
+
+[W4385781584 PDF PAGE 4]
+Study ID
+Country
+Follow-up (years),
+(median)
+Sample size (n)
+Age (years), (mean, SD)
+(median, range)
+BMI (mean, SD)
+(median, range)
+Women (%)
+Surgery
+Non-
+surgery
+Surgery
+Non-surgery
+Surgery
+Non-surgery
+Surgery
+Non-
+surgery
+1
+Reijman et al.,
+2021 
+[19]
+Netherlands
+2
+85
+82
+31.2 (10.3)
+31.4 (10.7)
+24.3 (3.7)
+25 (4.1)
+36
+(42.4)
+31
+(37.8)
+2
+Frobell et al., 2010
+[11]
+Sweden
+2
+62
+59
+26.3 (5.1)
+25.8 (4.7)
+24.4 (3.2)
+23.8 (2.6)
+12 (19)
+20 (34)
+3
+Frobell et al., 2013
+[12]
+Sweden
+5
+61
+59
+26.4 (5.1)
+25.8 (4.7)
+24.5 (3.1)
+23.8 (2.6)
+12 (20)
+20 (34)
+4
+Sandberg et al.,
+1987 
+[21]
+Sweden
+2
+81
+76
+28 (15-61)
+NR
+NR
+NR
+NR
+NR
+5
+Meunier et al.,
+2007 
+[18]
+Sweden
+15
+42
+52
+22 (14-30)
+21 (14-30)
+NR
+NR
+11 (25)
+21 (37)
+6
+Tsoukas et al.,
+2016 
+[20]
+Greece
+10.3 (10-11)
+17
+15
+31 (20-36)
+33 (25-39)
+NR
+NR
+NR
+NR
+TABLE
+ 1: Demographic data about the included participants
+N, number; SD, standard deviation; BMI, body mass index; NR, not reported
+Study ID
+College education,
+n (%)
+Paid work, n (%)
+Tegner sc

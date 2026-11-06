@@ -1,0 +1,200 @@
+na P, 
+Shibuya K. Health-related financial catastrophe, 
+inequality and chronic illness in Bangladesh. PloS 
+ONE. 2013:8(2):e56873. https://doi.org/10.1371/
+journal.pone.0056873
+51. Boing AC, Bertoldi AD, de Barros AJD, Posenato 
+LG, Peres KG. Socioeconomic inequality in 
+catastrophic health expenditure in Brazil . Rev 
+Saude Publica. 2014;48(4):632–641. https://doi.
+org/10.1590/S0034-8910.2014048005111
+
+END REVIEW W2920277606
+
+
+REVIEW W2923837819
+TITLE: The Impact of Timing of Concurrent Chemoradiation in Patients With High-Grade Glioma in the Era of the Stupp Protocol
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W2923837819 PDF PAGE 1]
+SYSTEMATIC REVIEW
+published: 27 March 2019
+doi: 10.3389/fonc.2019.00186
+Frontiers in Oncology | www.frontiersin.org 1 March 2019 | Volume 9 | Article 186
+Edited by:
+Erik P . Sulman,
+New York University, United States
+Reviewed by:
+Glenn J. Lesser,
+Wake Forest Baptist Medical Center,
+United States
+Yoshua Esquenazi,
+University of Texas Health Science
+Center at Houston, United States
+*Correspondence:
+Kwanza T. Warren
+kwanza_warren@urmc.rochester.edu
+Specialty section:
+This article was submitted to
+Neuro-Oncology and Neurosurgical
+Oncology,
+a section of the journal
+Frontiers in Oncology
+Received: 26 November 2018
+Accepted: 04 March 2019
+Published: 27 March 2019
+Citation:
+Warren KT, Liu L, Liu Y, Milano MT
+and Walter KA (2019) The Impact of
+Timing of Concurrent Chemoradiation
+in Patients With High-Grade Glioma in
+the Era of the Stupp Protocol.
+Front. Oncol. 9:186.
+doi: 10.3389/fonc.2019.00186
+The Impact of Timing of Concurrent
+Chemoradiation in Patients With
+High-Grade Glioma in the Era of the
+Stupp Protocol
+Kwanza T. Warren1*, Linxi Liu2, Yang Liu3, Michael T. Milano4 and Kevin A. Walter3
+1 School of Medicine and Dentistry, University of Rochester Medical Center, Rochester, NY, United States,2 Department of
+Public Health Sciences, University of Rochester Medical Center, Rochester, NY, United States,3 Department of Neurosurgery,
+University of Rochester Medical Center, Rochester, NY, United States,4 Department of Radiation Oncology, University of
+Rochester Medical Center, Rochester, NY, United States
+Background:The purpose of this study is to provide a critical review of cu rrent
+evidence for the impact of time to initiation of chemoradiat ion on overall survival in
+patients with newly diagnosed high-grade gliomas treated w ith radiation and concurrent
+temozolomide chemotherapy.
+Methods:A literature search was conducted using PubMed/MEDLINE and EMBASE
+databases. Studies were included if they provided separate analysis for patients treated
+with current standard of care: radiation and concurrent tem ozolomide. Bias assessment
+was performed for each included study using the Newcastle-O ttawa Assessment Scale,
+with Karnofsky Performance Status (KPS) and extent of resec tion used for comparability.
+Results: The initial search yielded 575 citations. Based on the inclu sion/exclusion
+criteria, a total of 10 retrospective cohort studies were in cluded in this review for a total of
+30,298 patients. Of these, one study described an indirect r elationship between time to
+initiation of treatment and overall survival. One study fou nd decreased survival only with
+patients with signiﬁcantly longer time to treatment. Four s tudies found no signiﬁcant effect
+of time to treatment on overall survival. The four remaining studies found that patients
+with moderate time to initiation had the best overall surviv al.
+Conclusion: This review provides evidence that moderate time to initiat ion of
+chemoradiotherapy in patients with high-grade gliomas doe s not lead to a signiﬁcant
+decrease in overall survival, though the effect of signiﬁca nt delays in treatment initiation
+remains unclear.
+Keywords: gliobastoma, high-grade glioma, chemoradiation, timing, wait time
+INTRODUCTION
+Glioblastoma (GBM) is the most common primary central nervoussystem tumor in adults,
+accounting for 45.2% of malignant primary brain tumors in the United States (
+1). The current
+standard of care that provides the greatest life expectancy in these patients became standard of care
+following the publication by Stupp et al. and includes maximal safe tumor resection followed by
+radiation therapy with concurrent temozolomide (TMZ) for 6 wee ks and six subsequent cycles of
+
+[W2923837819 PDF PAGE 2]
+Warren et al. Timing of Chemoradiation in High-Grade Glioma
+adjuvant TMZ ( 2). In the European Organisation for Research
+and Treatment of Cancer (EORTC) and National Cancer
+Institute of Canada (NCIC) randomized study, this regimen
+(referred to as the Stupp protocol) was associated with an increase
+in median survival of GBM patients from 12.1 to 14.6 months
+when compared to the previous standard of radiotherapy alone
+(
+3). In this trial, patients had a median time from diagnosis to
+start of chemoradiotherapy of 5 weeks (range: 1.7–12.9 weeks ),
+however the optimal timing of initiation of chemoradiation h as
+not been well elucidated.
+Studies of optimal timing of radiation therapy in breast,
+lung, and head and neck cancers have consistently shown an
+indirect correlation between time to initiation of radiation and
+recurrence risk (
+4–7). For aggressive malignancies such as GBM
+with rapid doubling time, it would be expected that longer time to
+initiation of treatment could allow for further tumor growt h and
+progression ( 8). Indeed, studies have shown areas of increased
+contrast enhancement between the time of tumor resection an d
+the time of therapy initiation consistent with tumor progress ion
+in 82% of patients ( 9).
+Due to ethical concerns, no prospective trials have been
+conducted to address the question of optimal timing of treatm ent
+initiation in patients with GBM. Several retrospective studie s that
+have attempted to address this question have yielded conﬂict ing
+results ( 10). Some studies have found that increasing time from
+surgical resection to initiation of treatment is correlate d with
+worse overall survival ( 11–13), while other studies have found
+no association between the timing of treatment and patient
+outcomes (
+14–16). Some studies have even shown a potential
+beneﬁt to moderately increased time to treatment initiatio n,
+though a mechanism for this phenomenon has not been well
+established (
+17, 18). Many of the aforementioned studies took
+place prior to the initiation of the Stupp protocol in 2005 and all
+systematic reviews and meta-analyses on the topic include studies
+that were done prior to this time period.
+The purpose of this study is to provide a critical review of
+the current evidence for the impact of time to treatment (TT)
+initiation of chemoradiation on overall survival of patients with
+GBM who were treated with the current standard of concurrent
+radiation and TMZ.
+METHODS
+This systematic review adheres to the Preferred Reporting
+Items for Systematic Reviews and Meta-Analyses (PRISMA)
+protocol (
+19).
+Search Strategy
+The goal of this search was to identify all published works
+evaluating the eﬀect of timing of initiation of post-operative
+chemoradiotherapy in patients with high-grade gliomas (grade
+III/IV) treated with the current standard of care. The datab ases
+used for this search included the U.S. National Library of
+Medicine (PubMed/MEDLINE) and Excerpta Medica Database
+(EMBASE). All searches were limited to January 2005–June
+2018, as the EORTC/NCIC randomized study was published
+in 2005 (
+2). Key words used in the search algorithm included:
+glioma, glioblastoma, radiotherapy, chemoradiotherapy, tim ing,
+early, and delay. Speciﬁc search algorithms were designed in
+accordance with the author and an institutional research librarian
+(Table S1). All citations of the articles selected in the initial
+screening of search results were manually evaluated for eli gibility
+as well.
+Selection Criteria
+Eligibility criteria included publications that evaluated overall
+survival as it related to time between surgical resection an d
+initiation of chemoradiotherapy in adult patients with newly
+diagnosed high-grade gliomas (grade III/IV). Publications were
+eligible if they included patients who underwent adjuvant
+treatments other than adjuvant chemoradiation with TMZ, as
+long as patients who underwent combined radiation therapy with
+temozolomide therapy were analyzed separately. Publications
+were excluded if they included patients with recurrent gliomas,
+patients who did not undergo a neurosurgical procedure (either
+biopsy, subtotal or gross total resection), or patients who did not
+undergo combined radiation and temozolomide therapy within
+the analysis.
+Titles and abstracts were reviewed from the initial search
+and excluded publications that were clearly inappropriate.
+After duplications were removed, all remaining publications
+underwent full-text inspection to evaluate eligibility based on the
+aforementioned criteria.
+Data Collection
+The following information was collected from each study: study
+period, total sample size, patient ages, Karnofsky performance
+status (KPS), tumor histology, extent of resection, and adjuvant
+chemotherapy and radiation regimens. Each of the included
+publications divided patients into diﬀerent subgroups based on
+the time between surgery and initiation of therapy. Hazard Ratios
+with 95% conﬁdence interval were collected from each study. Any
+additional factors that were found to be signiﬁcantly assoc iated
+with overall survival were recorded as well. For those studie s that
+included it, information regarding factors associated wit h early
+and/or delayed treatment initiation was also recorded.
+Risk of Bias Assessment
+Bias assessment for individual studies was evaluated using the
+Newcastle-Ottawa Quality Assessment Scale for Cohort studi es,
+which evaluates studies based on selection (maximum of 4),
+comparability (maximum of 2), and outcome (maximum of
+3) (
+20, 21). Factors included in the “comparability” category
+included control for KPS and extent of resection, as each of t hese
+factors has consistently been shown

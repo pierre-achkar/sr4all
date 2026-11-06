@@ -1,0 +1,382 @@
+dies shared a similar type of patients
+evaluated and detailed techniques of 18F-DCFPyL PET/CT. We
+FIGURE 1 | Preferred reporting items for systematic reviews and meta- analyses (PRISMA) 2009 ﬂow diagram. From Moher et al. ( 28).
+Frontiers in Oncology | www.frontiersin.org 3 April 2021 | Volume 11 | Article 649171
+
+[W3157824834 PDF PAGE 4]
+Sun et al. 18F-DCFPyL PET -CT in Prostate Cancer
+TABLE 1 | Summary of the included studies.
+References Study period Country Study design Type of patient s
+evaluated
+No. of
+patients
+Mean/medianage
+Gleason Score Mean/median PSA
+values beforePET/CT (ng/ml)
+Mean/median PSAdoubling time beforePET/CT (months)
+Markowski et al. ( 31) NA USA Prospective single-center Patients with BRPCa
+previously treated with RP .
+108 Median: 67
+(61–71)
+Gleason ≤ 7 (70.4%)
+Gleason ≥ 8 (26.8%)
+Unknown (2.8%)
+Median: 0.7 (0.3–1.8) NA
+Hong et al. ( 32) 2018–2019 USA Prospective single-center Patients with BR PCa
+previously treated with RP(58.3%) or RT (41.7%) withor without ADT.
+72 Mean: 71.5 ± 7.2 Gleason ≤ 6 (8%)
+Gleason 7 (51%)Gleason≥ 8 (40%)
+Median: 3.0(0.23–698.4) Mean:15.8± 58.2
+NA
+Wei et al. (
+33) 2017–2018 Canada Prospective multicenter Patients with B RPCa
+previously treated with RT(100.0%) with orwithout additional ADT.
+79 Median: 75
+(51–88)
+Gleason ≤ 6 (29.1%)
+Gleason 7 (65.9%)Gleason≥ 8 (5.1%)
+Median: 4.8 (2.1–69) Median: 14.4
+(1.9–48.6)
+Jansen et al. (
+34) 2018–2019 Netherlands Retrospective
+single-center
+Patients with BRPCapreviously treated with RPwithout ADT.
+24 Median: 67
+(61–77)
+NA Median: 0.7 (0.4–1.9) NA
+Rowe et al. (
+35) NA USA Prospective single-center Patients with BRPCa
+previously treated with RP .
+31 Median: 63
+(45–74)
+NA Median: 0.4 (0.2–28.3) NA
+Mena et al. ( 36) NA USA Prospective single-center Patients with BRPCa
+previously treated with RP(42.2%) or RT (30.0%) orRP+ RT (27.8%) without
+ADT.
+90 Median: 66
+(50–81)
+Gleason ≤ 6 (14.4%)
+Gleason 7 (35.6%)Gleason≥ 8 (50.0%)
+Median: 2.5(0.21–35.5)
+Median: 7.0 (0.9–75.2)
+Rousseau et al. (
+37) NA Canada Prospective single-center Patients with BRPCa
+previously treated with RP(72.3%) or RT (34.6%) withorwithout additional ADT.
+130 Mean: 69.1 ± 6.5 Gleason ≤ 6 (13%)
+Gleason 7 (50%)Gleason≥ 8 (37%)
+Mean: 5.2 ± 6.5 Mean: 12.2 ± 11.8
+Wondergem et al. (
+38) 2016–2018 Netherlands Retrospective multicenter Patien ts with BRPCa
+previously treated with RPor RT with or without ADT.
+248 Median: 71
+(67–75)
+Gleason ≤ 6 (13%)
+Gleason 7 (39%)Gleason≥ 8 (34%)
+Unknown (14%)
+NA Median: 6 (3–12)
+Dietlein et al. (
+39) NA Germany Retrospective
+single-center
+Patients with BRPCapreviously treated with RP(61%) or RT (39%).
+62 Mean: 68 Gleason ≤ 6 (7%)
+Gleason 7 (56%)Gleason≥ 8 (37%)
+Mean: 3.2 NA
+NA, not available; BRPCa, biochemically recurrent prostate cance r; RP , radical prostatectomy; RT = radiation therapy; ADT, androgen deprivation therapy; PET/CT, positron emission tom ography/computed tomography.
+Frontiers in Oncology | www.frontiersin.org 4 April 2021 | Volume 11 | Article 649171
+
+[W3157824834 PDF PAGE 5]
+Sun et al. 18F-DCFPyL PET -CT in Prostate Cancer
+TABLE 2 | Technical aspects of the included studies.
+References Radiotracer Hybrid imaging modality Fasting before
+radiotracer injection
+Mean/median radiotracerinjected activity
+Time betweenradiotracer injection andimage acquisition
+Image analysis Other imaging
+performed forcomparison
+Markowski et al. ( 31) 18F-DCFPyL NA NA 333 MBq 60 min Visual NA
+Hong et al. ( 32) 18F-DCFPyL PET/CT with low-dose CT NA 338.8 ± 25.3
+(270.1–370) MBq
+74.4 ± 10.4 min Visual CT, mpMRI, bone scan,
+18F-NaF PET/CT, and
+18F-ﬂuciclovine PET/CT
+Wei et al. ( 33) 18F-DCFPyL PET/CT with low-dose CT NA Mean: 333 MBq
+(299.7–366.3) MBq
+60 ± 10 min Visual CT, mpMRI, and bone
+scan
+Jansen et al. ( 34) 18F-DCFPyL PET/CT with low-dose CT NA Median: 314.4 MBq
+(257.7–328.6) MBq
+120 ± 21 min Visual NA
+Rowe et al. ( 35) 18F-DCFPyL NA NA No more than 333 MBq 60 min Visual and
+semiquantitative(SUVmax)
+NA
+Mena et al. (
+36) 18F-DCFPyL PET/CT with low-dose CT NA Mean: 299.3 MBq
+(229.4–325.6) MBq
+120 min Visual and
+semiquantitative(SUVmax, TV , VOI)
+NA
+Rousseau et al. (
+37) 18F-DCFPyL PET/CT with low-dose CT Yes (at least 4 h) 369.2 ± 47.2
+(237–47× 4) MBq
+120 min Visual and
+semiquantitative(SUVmax, SUVpeak,SUL, TLG, SUVratio)
+NA
+Wondergem et al. (
+38) 18F-DCFPyL PET/CT with low-dose CT
+or contrast-enhanced CT
+NA Median: 311 MBq
+(284–325) MBq
+120 min Visual NA
+Dietlein et al. ( 39) 18F-DCFPyL PET/CT with low-dose CT Yes (at least 4 h) 269.8 ± 81.8 MBq 120 min Visual and
+semiquantitative(SUVmax)
+68Ga-PSMA-11
+PET/CT
+NA, not available; PET/CT, positron emission tomography/computed tomograph y; mpMRI, multiparametric magnetic resonance imaging; 18F-DCFPyL, 2-(3-{ 1-carboxy-5-[(6-[18F] ﬂuoro-pyridine-3-carbonyl)-amino]-pentyl}-ureido)-
+pentanedioic acid; MBq, megabecquerel.
+Frontiers in Oncology | www.frontiersin.org 5 April 2021 | Volume 11 | Article 649171
+
+[W3157824834 PDF PAGE 6]
+Sun et al. 18F-DCFPyL PET -CT in Prostate Cancer
+TABLE 3 | Main ﬁndings of the included studies about 18F-DCFPyL PET/CT i n BRPCa patients.
+References Overall DR on a
+per
+patient-based
+analysis
+DR in patients
+with PSA < 0.5
+ng/ml
+DR in patients
+with PSA ≥ 0.5
+ng/ml
+DR in patients
+with PSA
+between 0.5
+and 1 ng/ml
+DR in patients
+with PSA
+between 1 and 2
+ng/ml
+DR in patients
+with PSA ≥ 2
+ng/ml
+Local
+recurrence
+Regional
+lymph node
+recurrence
+Distant
+lymph node
+recurrence
+Bone Organ
+Markowski et al.(
+31)
+82/108
+(75.9%)
+26/46
+(56.5%)
+56/62
+(90.3%)
+NA NA NA NA NA NA NA NA
+Hong et al. ( 32) 61/72
+(84.7%)
+4/8
+(50%)
+57/64
+(89.0%)
+9/13
+(69%)
+5/5
+(100%)
+43/46
+(93.5%)
+22/72
+(31%)
+34/72
+(48%)
+20/72
+(28%)
+33/72
+(46%)
+11/72
+(16%)
+Wei et al. ( 33) 69/79
+(87.0%)
+NA NA NA NA NA 54/79
+(68%)
+21/79
+(27%)
+14/79
+(18%)
+NA NA
+Jansen et al. ( 34) 16/24
+(66.7%)
+NA NA NA NA NA NA NA NA NA NA
+Rowe et al. ( 35) 21/31
+(67.7%)
+NA NA NA NA NA 8/31
+(25.8%)
+14/31
+(45.1%)
+2/31
+(6.5%)
+2/31
+(6.5%)
+0/31
+(0%)
+Mena et al. ( 36) 70/90
+(77.8%)
+10/21
+(47.6%)
+60/69
+(90%)
+5/10
+(50%)
+8/9
+(88.9%)
+47/50
+(94%)
+29/90
+(32.2%)
+39/90
+(43.3%)
+17/90
+(18.8%)
+9/90
+(10.0%)
+5/90
+(5.5%)
+Rousseau et al.(
+37)
+110/130
+(84.6%)
+3/5
+(60%)
+107/125
+(85.6%)
+18/23
+(78.3%)
+18/25
+(72%)
+71/77
+(92.2%)
+35/130
+(26.9%)
+57/130
+(43.8%)
+32/130
+(24.6%)
+26/130
+(20.0%)
+3/130
+(2.3%)
+Wondergem et al.(
+38)
+214/248
+(86.3%)
+17/29
+(59%)
+197/217
+(90.8%)
+20/29
+(69%)
+35/41
+(85%)
+142/149
+(95%)
+92/248
+(37.1%)
+136/248
+(54%)
+49/248
+(19.8%)
+73/248
+(29.4%)
+12/248
+(4.8%)
+Dietlein et al. ( 39) 46/62
+(74.2%)
+1/8
+(12.5%)
+45/54
+(83.3%)
+NA NA NA NA NA NA NA NA
+Pooled values(95% conﬁdenceinterval)
+80.2%
+(75.6–84.7%)
+47.2%
+(32.6–61.8%)
+88.8%
+(86.2–91.3%)
+70.3%
+(60.2–80.5%)
+82.9%
+(74.5–91.3%)
+94.3%
+(91.8–96.9%)
+36.6%
+(33.1–40.2%)
+45.8%
+(42.1–49.6%)
+19.3%
+(16.2–22.3%)
+20.5%
+(17.3–23.6%)
+4.2%
+(2.6–6.0%)
+NA, not available; DR, detection rate; PSA, prostate-speciﬁc antigen; B RPCa, biochemically recurrent prostate cancer; 18F-DCFPyL, 2-(3-{1-c arboxy-5-[(6-[18F] ﬂuoro-pyridine-3-carbonyl)-amino]-pentyl}-ureido)-pentanedioic acid;
+PET/CT, positron emission tomography/computed tomography.
+Frontiers in Oncology | www.frontiersin.org 6 April 2021 | Volume 11 | Article 649171
+
+[W3157824834 PDF PAGE 7]
+Sun et al. 18F-DCFPyL PET -CT in Prostate Cancer
+also noticed that the mean/median PSA levels of the included
+BRPCa patients before 18F-DCFPyL PET/CT scanning could
+be obviously divided into two groups: high-PSA level group
+(
+25, 28, 29) and low-PSA level group ( 26, 27, 30–33).
+The main ﬁndings of the included studies about 18F-DCFPyL
+PET/CT in BRPCa patients are shown in Table 3. The pooled
+DR was 88.8% for PSA ≥ 0.5 ng/ml (95% CI: 86.2–91.3%) and
+47.2% for PSA < 0.5 ng/ml (95% CI: 32.6–61.8%). The pooled
+DRs in local recurrence, regional lymph node recurrence, dist ant
+lymph node recurrence, bone, and organ were 36.6% (95% CI:
+33.1–40.2%), 45.8% (95% CI: 42.1–49.6%), 19.3% (95% CI: 16.2–
+22.3%), 20.5% (95% CI: 17.3–23.6%), and 4.2% (95% CI: 2.6–
+6.0%), respectively.
+Quantitative Synthesis
+The forest plot of the overall DR of 18F-DCFPyL PET/CT
+in BRPCa was shown inFigure 2. The random eﬀect model
+demonstrated that the pooled overall DR of 18F-DCFPyL
+PET/CT in BRPCa was 81% (95% CI: 76.9–85.1%). ForI2 =
+53.2%, high heterogeneity was found.
+In order to identify the source of high heterogeneity, we
+performed the subgroup analysis ( Figure 3) according to the PSA
+level with a cutoﬀ value of 1 ng/ml before 18F-DCFPyL PET/CT
+scanning. The results revealed that the pooled overall DR in
+the low-PSA level group was 73% (95% CI: 67–80%), and the
+pooled overall DR in the high-PSA level group was 84% (95% CI:
+77–85%). ForI2 = 0 and 28.9%, no high heterogeneity was found.
+Lastly, we performed the analysis of detection rate of 18F-
+DCFPyL PET/CT in BRPCa stratiﬁed by diﬀerent PSA levels
+(Figure 4). The pooled DR was 47.2% for PSA < 0.5 ng/ml (95%
+CI: 32.6–61.8%), 70.3% for PSA 0.5–1 ng/ml (95% CI: 60.2–
+80.5%), 82.9% for PSA 1–2 ng/ml (95% CI: 74.5–91.3%), and
+94.3% for PSA>2 ng/ml (95% CI: 91.8–96.9%).
+Publication Bias
+We quantiﬁed publication bias by the Egger method. Publication
+bias was found in the overall DR of 18F-DCFPyL PET/CT
+in BRPCa (P = 0.021). The Egger graph was shown in
+Supplementary Material 2 .
+DISCUSSION
+Although several meta-analyses have evaluated the diagnostic
+performance of PET/CT in BRPCa (
+40–45), to our knowledge,
+this is the ﬁrst systematic review that focuses on the role of
+18F-DCFPyL PSMA PET/CT in early detection of recurrent
+lesions in BRPCa patients. Besides, our data include the most
+up-to-date studies that have been published over the past year.
+Crocerossa et al. (
+42) reported that the overall DR of 68Ga-
+PSMA PET/CT was 72.4%. Fanti et al. ( 43) reported that the
+FIGURE 2 | Forest plot for overall detection rate of 18F-DCFPyL PSMA PE T/CT in biochemically recurrent prostate cancer. 18F-DCFPy L, 2-(3-{1-carboxy-5-[(6-[18F]
+ﬂuoro-pyridine-3-carbonyl)-amino]-pentyl}-ureido)-pentanedioic acid; PSMA, prostate-speciﬁc membrane antigen; P ET/CT, positron emission tomography/c

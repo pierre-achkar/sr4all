@@ -1,0 +1,76 @@
+field	kind	status	error_type	n_document_fields	n_flagged_ratings
+databases_used	field	resolved_error	other	1	1
+databases_used	field	resolved_error	truncated / partial value	20	23
+databases_used	field	unresolved_flag	truncated / partial value	7	7
+databases_used	null	resolved_error	unclassified	4	5
+exact_boolean_queries	field	resolved_error	hallucinated span	1	1
+exact_boolean_queries	field	resolved_error	other	2	2
+exact_boolean_queries	field	resolved_error	truncated / partial value	3	3
+exact_boolean_queries	field	resolved_error	wrong parentheses / punctuation	2	2
+exact_boolean_queries	field	resolved_error	wrong value	1	2
+exact_boolean_queries	field	unresolved_flag	OCR corruption	3	22
+exact_boolean_queries	field	unresolved_flag	other	2	2
+exact_boolean_queries	field	unresolved_flag	truncated / partial value	2	4
+exact_boolean_queries	field	unresolved_flag	wrong parentheses / punctuation	1	1
+exact_boolean_queries	field	unresolved_flag	wrong term	2	2
+exact_boolean_queries	field	unresolved_flag	wrong value	1	7
+exclusion_criteria	field	resolved_error	other	2	2
+exclusion_criteria	field	resolved_error	truncated / partial value	29	32
+exclusion_criteria	field	unresolved_flag	truncated / partial value	18	18
+exclusion_criteria	field	unresolved_flag	value not supported by span	1	1
+exclusion_criteria	null	resolved_error	unclassified	43	51
+exclusion_criteria	null	unresolved_flag	unclassified	3	3
+inclusion_criteria	field	resolved_error	other	2	2
+inclusion_criteria	field	resolved_error	truncated / partial value	40	44
+inclusion_criteria	field	resolved_error	wrong value	1	2
+inclusion_criteria	field	unresolved_flag	other	2	2
+inclusion_criteria	field	unresolved_flag	truncated / partial value	17	17
+inclusion_criteria	field	unresolved_flag	wrong value	1	1
+inclusion_criteria	null	resolved_error	unclassified	10	11
+keywords_used	field	resolved_error	other	4	4
+keywords_used	field	resolved_error	truncated / partial value	26	27
+keywords_used	field	resolved_error	wrong normalization	1	1
+keywords_used	field	resolved_error	wrong term	3	3
+keywords_used	field	resolved_error	wrong value	3	3
+keywords_used	field	unresolved_flag	OCR corruption	1	1
+keywords_used	field	unresolved_flag	other	1	1
+keywords_used	field	unresolved_flag	truncated / partial value	8	8
+keywords_used	field	unresolved_flag	wrong term	2	2
+keywords_used	null	resolved_error	unclassified	15	18
+keywords_used	null	unresolved_flag	unclassified	4	4
+n_studies_final	field	resolved_error	other	3	3
+n_studies_final	field	resolved_error	truncated / partial value	1	1
+n_studies_final	field	resolved_error	wrong value	4	4
+n_studies_final	field	unresolved_flag	other	2	2
+n_studies_final	field	unresolved_flag	truncated / partial value	1	1
+n_studies_final	null	resolved_error	unclassified	5	8
+n_studies_final	null	unresolved_flag	unclassified	1	1
+n_studies_initial	field	resolved_error	other	3	3
+n_studies_initial	field	resolved_error	truncated / partial value	19	19
+n_studies_initial	field	resolved_error	wrong value	5	5
+n_studies_initial	field	unresolved_flag	other	3	3
+n_studies_initial	field	unresolved_flag	truncated / partial value	6	6
+n_studies_initial	field	unresolved_flag	wrong value	2	2
+n_studies_initial	null	resolved_error	unclassified	20	26
+n_studies_initial	null	unresolved_flag	unclassified	3	3
+objective	field	resolved_error	truncated / partial value	12	12
+objective	field	unresolved_flag	truncated / partial value	6	6
+objective	null	resolved_error	unclassified	3	4
+research_questions	field	resolved_error	truncated / partial value	3	3
+research_questions	field	unresolved_flag	truncated / partial value	1	1
+research_questions	null	resolved_error	unclassified	8	10
+research_questions	null	unresolved_flag	unclassified	5	5
+snowballing	field	resolved_error	other	7	7
+snowballing	field	resolved_error	wrong value	3	3
+snowballing	field	unresolved_flag	other	2	2
+snowballing	field	unresolved_flag	value not supported by span	12	12
+snowballing	field	unresolved_flag	wrong value	2	2
+snowballing	null	resolved_error	unclassified	87	110
+snowballing	null	unresolved_flag	unclassified	3	3
+year_range	field	resolved_error	other	3	3
+year_range	field	resolved_error	truncated / partial value	4	4
+year_range	field	resolved_error	wrong value	1	1
+year_range	field	unresolved_flag	value not supported by span	1	1
+year_range	field	unresolved_flag	wrong value	3	3
+year_range	null	resolved_error	unclassified	82	98
+year_range	null	unresolved_flag	unclassified	9	9

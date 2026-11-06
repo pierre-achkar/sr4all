@@ -1,0 +1,309 @@
+.2)
+Bouman et al.(2011) QUALIDEM Netherlands 973 71–76 across four
+samples
+83.9 (5.8) GDS <7, N = 759
+GDS 7,N = 214
+Clare et al.(2014a) QUALID United Kingdom 105 69 81.47 (8.63) FAST 6, N = 25 (24%)
+FAST 7,N = 80 (76%)
+Crespo et al.(2011) QOL-AD NH Spain 209 79.4 86.07 (6.46) MMSE 13.3 (5.88)
+Dichter et al.(2011) QUALIDEM Germany 486 74 mild-moderate
+79 severe-very severe
+– MMSE <24 = 15.4 (4)
+MMSE <10 = 3 (3)
+Dichter et al.(2013) QUALIDEM Germany 634 78.6 mild-severe
+77.7 very severe
+85.8 (8.0) mild-severe
+84.5 (8.2) very severe
+FAST 2–6, N = 378 (100%)
+FAST 7,N = 256 (100%)
+Dichter et al.(2014) QUALIDEM Germany 161 91 mild-severe
+75 very severe
+85.2 (7.0) mild-severe
+84.3 (9.0) very severe
+FAST 2–6, N = 108 (100%)
+FAST 7,N = 53 (100%)
+Dichter et al.(2016a) QUALIDEM Germany 91 78 mild-severe
+92 very severe
+84.7 (8.3) mild-severe
+84.1 (9.4) very severe
+FAST 2–6, N = 55 (100%)
+Dichter et al.(2016b) QOL-AD NH Germany 29 66 88.2 (7.1) Not reported
+Edelman et al.(2005) QOL-AD NH
+DQoLADRQLDCM
+United Kingdom 172 83.7 85.8 (6.4) MMSE 9.0 (6.9)
+Ettema et al.(2007a) QUALIDEM Netherlands 202 –– GDS <7, N = 202 (100%)
+Ettema et al.(2007b) QUALIDEM Netherlands
+* 238 76.5 84.69 (6.85) GDS 2 –6, N = 202 (100%)
+GDS 7,N = 36 (100%)
+Falk et al.(2007) QUALID Sweden 169 88 86 (6.0) MMSE 10 (7)
+Fossey et al.(2002) DCM United Kingdom 123 (A)
+54 (B)
+76 cohort A
+35 cohort B
+82.3 (7.4) cohort A
+78.2 (9.1) cohort B
+Cohort A, MMSE 9.5 (7.7).
+CDR stages 1= 19%,
+2 = 38%, 3 = 43%
+Cohort B, 100% CDR stage 3
+Garre-Olmo et al.(2010) QUALID Spain 160 76.9 82.6 (11.6) MMSE = 4.1 (6.3)
+Kasper et al.(2009) ADRQL
+ADRQL revised
+United States 89 –– (–) –
+León-Salas et al.(2011) QOL-AD Spain 101 88.1 83.2 (6.3) MMSE = 7.2 (6.1)
+Quality of life instruments in care settings 921
+https://doi.org/10.1017/S1041610218002259 Published online by Cambridge University Press
+
+[W2907902125 PDF PAGE 6]
+Table 1. Continued
+POPULATION CHARACTERISTICS (RESIDENTS )
+INSTRUMENT USED COUNTRY N GENDER (% F) MEAN AGE (SD )
+COGNITIVE IMPAIRMENT
+MEAN (SD )/ N (%)
+...........................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+Mjorud et al.(2014) QUALID Norway 661 71.4 85.3 (8.6) CDR stages 1:
+N = 147, 2:
+N = 222, 3:N = 290
+Moyle et al.(2012) DQoL
+QOL-AD NH
+United Kingdom 61 70.5 MMSE 20 –30 = 38 (62.3%)
+10–19 = 22 (36.1%)
+0–9 = 1 (1.6%)
+Røen et al.(2015) QUALID Norway 169 56.6 reliability study
+69.2 validity study
+83.2 (7.5) reliability study
+84.9 (6.7) validity study
+MMSE 13.6 (6.1) reliability
+study
+MMSE 14.0 (6.0)
+validity study
+Sloane et al.(2005) QOL-D
+QOL-AD NHADRQLDQoLDCM
+United Kingdom 421 79 85 ( –) MMSE
+Mild <17 = 12%
+Moderate 10–16 = 25%
+Severe 3–9 = 27%
+Very severe<2 = 37%
+Sloane et al.(2007) DCM United Kingdom –– – –
+Villar et al.(2015) DCM Spain 68 66.7 86.08 (7.04) MMSE = 18.09 (3.75
+Weiner et al.
+(1999) QUALID United States 42 67 80.6 ( –) MMSE = 11.53 (6.23)
+* English language instrument used.
+ADRQL, Alzheimer Disease Related Quality of Life; ADRQL revised, Alzheimer Disease Related Quality of Life revised version; DCM, Dementia Care Mapping; DQoL, Dementia quality of life; QOL-
+AD, Quality of Life in Alzheimer’s Disease; QOL-AD NH, Quality of Life in Alzheimer’s Disease nursing home version; QOL-D, Quality of Life in Dementia; QUALID, The quality of life in late-stage
+dementia; QUALIDEM, Quality of life instrument for proxycompletion; MMSE, Mini Mental State Examination (Folsteinet al., 1975); FAST, Functional Assessment Staging (Reisberg,1988); GDS,
+Global Deterioration Scale (Reisberget al., 1982); CDR, Clinical Dementia Rating Scale (Morris,1997); – = Not reported.
+922 L. J. Hugheset al.
+https://doi.org/10.1017/S1041610218002259 Published online by Cambridge University Press
+
+[W2907902125 PDF PAGE 7]
+Table 2. Results of consensus-based standards for the selection of healthmeasurement instruments (COSMIN) checklist
+QOL
+INSTRUMENT AUTHOR (S)
+INTERNAL
+CONSISTENCY RELIABILITY
+MEASUREMENT
+ERROR
+CONTENT
+VALIDITY
+STRUCTURAL
+VALIDITY
+HYPOTHESIS
+TESTING
+CROSS -
+CULTURAL
+VALIDITY
+CRITERION
+VALIDITY RESPONSIVENESS
+...........................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+DQoL Edelman et al.
+(2005)
+Good   Poor Poor  
+Adler and
+Resnick(2010)
+Poor Fair  Fair  Poor 
+Moyle et al.
+(2012)
+Poor    Fair  
+Sloane et al.
+(2005)
+Poor Fair   Poor  
+QOL-AD NH Edelman et al.
+(2005)
+Good   Poor Poor  
+Moyle et al.
+(2012)
+Poor    Fair  
+Sloane et al.
+(2005)
+Poor Fair   Poor  
+Crespo et al.
+(2011)
+Poor Fair   Poor 
+Dichter et al.
+(2016b)
+    Fair 
+Beer et al.
+(2009)
+ Poor    
+QUALIDEM Dichter et al.
+(2013)
+Excellent   Excellent   
+Bouman et al.
+(
+2011)
+Excellent Fair  Excellent   
+Dichter et al.
+(2011)
+Good   Fair  Poor 
+Ettema et al.
+(2007b)
+Poor Good  Fair Good   
+Dichter et al.
+(2016a)
+Poor Fair    
+Dichter et al.
+(2014)
+ Fair    
+Ettema et al.
+(2007a)
+   Fair  
+Quality of life instruments in care settings 923
+https://doi.org/10.1017/S1041610218002259 Published online by Cambridge University Press
+
+[W2907902125 PDF PAGE 8]
+Table 2. Continued
+QOL
+INSTRUMENT AUTHOR (S)
+INTERNAL
+CONSISTENCY RELIABILITY
+MEASUREMENT
+ERROR
+CONTENT
+VALIDITY
+STRUCTURAL
+VALIDITY
+HYPOTHESIS
+TESTING
+CROSS -
+CULTURAL
+VALIDITY
+CRITERION
+VALIDITY RESPONSIVENESS
+...........................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+QUALID Garre-Olmo
+et al.(2010)
+Good Fair Fair  Fair Fair Poor Poor 
+Mjorud et al.
+(2014)
+Good   Excellent   
+Clare et al.
+(2014a)
+Fair   Fair   
+Falk et al.
+(2007)
+Fair Poor  Fair Poor Poor Poor Poor
+Røen et al.
+(2015)
+Poor Fair   Poor Poor 
+Weiner et al.
+(1999)
+Poor Poor  Poor Fair  
+ADRQL Edelman et al.
+(2005)
+Poor   Poor Poor  
+Sloane et al.
+(2005)
+Poor Fair   Poor  
+Kasper et al.
+(2009)
+      
+ADRQL revised Kasperet al.
+(2009)
+Poor       
+DCM Villar et al.
+(2015)
+Good Poor  Fair Fair  
+Fossey et al.
+(2002)
+Poor Fair  Poor Poor  
+Sloane et al.
+(2007)
+ Fair    
+Sloane et al.
+(2005)
+ Fair   Poor  
+Edelman et al.
+(2005)
+   Poor  
+QOL-AD León-Salas
+et al.(2011)
+Poor Poor Fair  Fair  
+QOL-D Sloane et al.
+(2005)
+Poor Fair   Poor  
+924 L. J. Hugheset al.
+https://doi.org/10.1017/S1041610218002259 Published online by Cambridge University Press
+
+[W2907902125 PDF PAGE 9]
+reliability scores from a larger number of studies
+(0.69–0.95).
+Measurement error
+QUALID and QOL-AD were the only instruments
+to have measurement error assessed; both were
+given fair quality ratings.
+Content validity
+Content validity was assessed in QUALIDEM only,
+and was rated as fair quality. Structural validity was
+assessed in six instruments; the instruments most
+assessed were QUALID, rated inﬁve studies with
+poor to excellent ratings, and QUALIDEM, rated in
+four studies with fair to excellent ratings. DQoL and
+DCM were rated in two studies with fair to poor
+ratings for both. QOL-AD NH and ADRQL were
+assessed once with poor ratings.
+Hypothesis testing
+Hypothesis testing was carried out for eight instru-
+ments. The most assessed instruments were QUA-
+LID and DCM, which were assessed in four studies
+with poor to fair ratings. DQoL and QOL-AD NH
+were assessed in three studies with poor to fair
+ratings each. ADRQL was assessed in two studies
+with poor ratings, QUALIDEM and QOL-AD were
+assessed once with fair ratings, QOL-D had one
+poor rating.
+Cross-cultural validity
+Cross-cultural validity wasassessed for three instru-
+ments (QUALID, QOL-AD NH, and QUALIDEM).
+QUALID and QOL-AD NH were both assessed
+twice. QUALID had poor ratings, QOL-AD NH
+had a poor and a fair rating. QUALIDEM was as-
+sessed once and had a poor rating.
+Criterion validity
+Criterion validity was assessed for two instruments.
+QUALID was assessed twice, both with poor ratings,
+and DQoL was assessed once with a poor rating.
+Only the QUALID was assessed for responsiveness
+and this had a poor rating.
+Feasibility properties
+Feasibility properties were extracted for all instru-
+ments, except for the case of the QoL-D, in which
+the original questionnaire and associated materials
+could not be identiﬁed even after contacting the
+original author. Full details of availability and feasi-
+bility properties are presented in Table3.
+Dedicated website
+Four of the instruments (QOL-AD, QUALIDEM,
+ADRQL revised, and DQoL) had dedicated web-
+sites where they could be accessed. The ADRQL
+revised and QOL-AD were both available via the
+online MAPI trust repository. All other instru-
+ments required contacting the original author to
+access.
+User guide
+A user guide was accessible for six of the instruments
+(QOL-AD, QOL-AD NH, QUALIDEM, DCM,
+ADEQL, ADRQL revised), with many also including
+additional instructions on the actual questionnaire.
+We were unable to identify any user instructions for
+the DQoL and QUALID.

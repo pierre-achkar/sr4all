@@ -1,0 +1,62 @@
+e -metal stents  [ 5]. Recent trials have 
+shown no difference between BRS and everolimus -eluting 
+stents (EES) in clinical outcomes,  reopening the door for a 
+possible wider implementation of BRS in the future  [6]. 
+Currently, no stent has proven to be superior in treating 
+bifurcation lesions, which allows for trying novel modal i-
+ties, such as dedicated bifurcation stents (DBS) and BRS  
+[7]. 
+No randomized trial with clinical endpoints has co m-
+pared BRS to other stents in CBLs, which is a gap in the 
+evidence body, given that bifurcation lesions have to gain 
+the most from BRS and that they constitute 20% of all cor o-
+nary lesions [8]. Therefore, this study aimed to investigate 
+whether the use of a bioresorbable scaffold is safe and effe c-
+tive in relation to coronary bifurcation lesion management. 
+This was assessed by studying the clinical outcomes of BRS 
+compared to DBS. The sought outcomes included myocard i-
+al infarction (MI), death (D), cardiovascular death (CD), 
+revascularisation, stent thrombosis (ST), and major adverse 
+cardiac events (MACE).  
+  1875-6557 /22 $65.00+.00 © 2022 Bentham Science Publishers  
+Send Orders for Reprints to reprints@benthamscience.net 
+ Current Cardiology Reviews, 2022, 18, e280422204203  
+SYSTEMATIC REVIEW ARTICLE 
+Safety and Efficacy of Bioresorbable Vascular Scaffolds in Coronary Bi-
+furcation Lesions: A Systematic Review and Meta-Analysis 
+
+[W4225131256 PDF PAGE 2]
+Current Cardiology Reviews, 2022, Vol. 18, No. 6                                 e280422204203 Alsinbili et al. 
+84 
+The Absorb BRS is the only scaffold supported by ran-domised evidence to date, and the results show a concerning incidence of late stent thrombosis [9]. Currently, there are other manufacturers developing scaffolds, such as the Mag-maris scaffold, which reported no scaffold thrombosis at 12 months of follow-up (n=123) [10]. As of May 2017, five BRS were approved in Europe: Absorb, Desolve, Fantom, ART Pure, and Magmaris. Technical challenges with BRS use include strut thickness reaching up to 170µm in Igaki-Tamai and ART scaffolds [11], which can result in poor de-liverability, causing vessel trauma and, subsequently, platelet deposition. Moreover, strut thickness can generate higher shear stress and, therefore, cause platelet activation [12]. Hernandez and Lee argue that advances in research will overcome these limitations, and accordingly, BRS technolo-gy remains worthy of pursuit [1]. 2. MATERIALS AND METHODS This review was conducted following the PRISMA guidelines and the Cochrane guidelines for systematic re-views [13]. The study protocol was approved by the disserta-tion panel at Brighton and Sussex Medical School on 30th of November, 2018. A multisource investigation was conducted to gather the data. First of all, an online review of published material was made through Science Direct, HDAS (EMBASE), HDAS (MEDLINE), HDAS (CINAHL), PUBMED, NIH, TRIP resources, Cochrane review clinical trials, European heart journal through Oxford University Press, Google Scholar, and ClinicalTrials.gov during December 2018. This was followed by scoping of existing references in the identified studies. Afterwards, an investigation of grey literature, such as conference abstracts or unpublished trials, has been done. The study authors were contacted on 18th December 2018 through researchgate.com and their published emails. Final-ly, a consultation with a specialist in the field at Brighton and Sussex University Hospitals was conducted to enquire about yet unidentified publications.  A systematic approach was followed, with the eligibility criteria being based on the PICO system [14]. Firstly, the included studies must have been designed to specifically address the treatment of bifurcation lesions. Regarding pa-tients, no restrictions were placed on patient selection; other than that, the studies involved ethically robust inclusion cri-teria. Experimental studies (in-vitro, in-vivo) and animal studies were excluded because the outcomes sought were strictly clinical. Regarding intervention, the use of BRS for the main branch, whether or not it is used for the side branch was necessary; studies that used multiple different treatment options in the intervention were excluded. The comparison group needed to provide an approved method of treatment with an available body of evidence and comparable study designs to provide a second arm for review.  The studies only published in English were included along with those that involved a minimum follow-up time of six months, thereby providing enough time for reviewing the safety of the intervention. Moreover, only studies published in or after 2013 were considered.  
+The choice of the comparison group was made according to the availability of well-designed studies following the eligibility criteria and a study design similar to the BRS arm. The study selection process followed the PRISMA flow diagram (Fig. 1). Then, data from the included articles were extracted between 20th February 2019 to 25th February 2019 by the reviewer and sent to two reviewers for appraisal. For eligibility, a form was designed based on the Cochrane form for RCTs and non-RCTS [13].  Two methods for assessment of the risk of bias were im-plemented. The first assessment employed the widely used MINORS criteria [15], followed by the application of Cow-ley’s criteria [16] (Table 1). A narrative synthesis of the outcomes is presented in a tabular pattern discussing different aspects of the data, fol-lowed by a meta-analysis using proportion as a measure of effect and comparison. Both fixed effects and random effects forms of meta-analyses effects were assessed. The analysis method used was the generalised linear mixed effect model (GLMM), which is appropriate for a proportion-based meta-analysis [17]. The results of the included studies are present-ed in the form of a forest plot, funnel plot, and Baujat plot to explore heterogeneity. Publication bias was also investigated graphically using funnel plots and Begg’s method based on rank correlation measure [18, 19]. P-values at a 0.05 level of significance were considered for the two-tailed test (p-values less than 0.05 were considered statistically significant). Me-ta-analyses were performed using the “meta” package in the R software application. 3. RESULTS 1887 resources were identified, of which 81 abstracts were screened with the implementation of the eligibility cri-teria; the full-text review of 17 articles was assessed, and in the end, eight studies were selected in the bioresorbable scaf-folds arm. Reasons for exclusion included design issues, duplication, animal studies, literature reviews, case studies, studies not specific to bifurcation lesions, or not involving bioresorbable scaffolds (Fig. 1) [12, 20, 21]. Eight single-arm trials examining BRS and seven single-arm trials examining DBS involving 1742 patients combined (1038 patients in the BRS group and 704 patients in the DBS group) with a total number of lesions of 1865 (1159 in the BRS group and 706 in the DBS group) were included (Table 2). The average follow-up period was 12 months. All report-ed centres were in European countries (4 trials did not clear-ly report on their centres). The Absorb scaffold was used in all studies in the BRS group; the DBS group used different stent brands: BiOSS Expert, Axxess system, Tryton, and BioSS LIM. 3.1. Baseline Features of Patients The mean age of the two groups was 60 years for BRS and 65.6 years for the DBS group. Both groups reported more male participation (83.6% for BRS and 82.1% for DBS). The prevalence of diabetes approached one-quarter of participants, with sparse reporting on insulin dependence. Six out of 10 patients suffered from hypertension in both groups, and a quarter to a third of the participants reported 
+
+[W4225131256 PDF PAGE 3]
+Bioresorbable Vascular Scaffolds in Coronary Bifurcation Lesions        e280422204203 Current Cardiology Reviews, 2022, Vol. 18, No. 6 
+85 
+Table 1. Risk of bias assessment using combined MINORS and Modified Cowley’s criteria. Trial MINORS Modified Cowley’s Essential Criteria Modified Cowley’s Criteria Total Modified Cowley’s ROB Kawamoto-Latib [34] 15 8 20 Moderate Naganuma [35] 13 10 21 Moderate Ojeda [36] 15 10 25 Low Paradies [37] 14 8 21 Moderate Suarez [38] 15 10 26 Low Tanaka [39] 13 8 22 Moderate Capranzano [40] 13 10 24 Low DePaolis [41] 14 10 22 Moderate Bil-Pawlow [42] 16 10 25 Low DIVERGE [23] 16 10 23 Moderate Gil-Bil [43] 16 10 25 Low Gil [44] 16 10 25 Low Grundeken [45] 16 10 23 Moderate Triantaphyllis [46] 16 10 24 Low  
+ Fig. (1). Search strategy results as conducted in accordance with PRISMA guidelines [13]. 
+	
+Screening	
+Included	
+ Eligibility	
+ Identification	
+Studies	included	in	quantitative	synthesis	(meta-analysis)	(n	=	8)	
+Records	screened	(n	=	81)	
+ Records	excluded	(n	=	64)	
+Full-text	articles	assessed	for	eligibility	(n	=	17)	
+ Full-text	articles	excluded,	with	reasons	(n	=	9)	Abstracts,	insufficient	data,	strong	similarity	to	another	study’s	demographics	
+Studies	included	in	qualitative	synthesis	(n	=	8)	
+Records	identified	through	database	searching	(n	=	1875)	
+ Additional	records	identified	through	other	sources	(n	=	12)	
+Records	selected	(n	=	100)	
+ Duplicates	(n	=	19)	
+Figure	1:	Search	strategy	results	as	conducted	in	accordance	with	PRISMA	guidelines.[13]	
+
+[W4225131256 PDF PAGE 4]
+Current Cardiology Reviews, 2022, Vol. 18, No. 6                                 e280422204203 Alsinbili et al. 
+86 
+Table 2. Details of included studies. 
+Name Author Pts Ls Year Recruitment Period Type of Stent – Scaffold 1-year FU Centre Follow-up 
+Kawamato and Latib Hiryoshi Kawa-mato et al. 119 132 2015 05.2012 – 11.2014  ABSORB  NA 
+Two centres: San Rafalle scientific insti-tute and EMO-GVM centro cuore Columbus, Milan, Italy.  12 months Naganuma Toru Naganuma et al. 289 302 2017 11.2011 – 01.2014  ABSORB 141 (48.8) 10 European centres 12 months Ojeda Soledad Ojeda et al

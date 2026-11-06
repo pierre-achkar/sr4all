@@ -1,0 +1,250 @@
+ntion-focused 
+studies investigated and compared the effects of several 
+interventions.
+The studies were conducted in 23 different countries. 
+Twenty-six studies used data derived from European 
+countries, 18 from the US, 6 from Asia, 4 from Ocea -
+nia, and 4 from other countries, i.e., Canada, Mexico, 
+and Brazil. Considering the period of 1980 until now, we 
+found that over half of the studies (33/58) were published 
+in the last ten years (2013–2022) and, of those, 61% 
+(20/33) focused on PRRSV. Overall, half of the included 
+studies (29/58) analysed the economic impact of PRRSV 
+associated disease and/or its interventions, followed by 
+M. hyopneumoniae (13/58). For the remaining pathogens 
+the number of indexed studies was low: three for PCV-2, 
+two for A. pleuropneumoniae , and one for SIV. Only in 
+ten of all studies focusing on one specific pathogen, the 
+absence or presence of other specific endemic respira -
+tory pathogens was verified or accounted for. Then, six 
+studies targeted co-infection scenarios (e.g., PRDC). In 
+three of these studies, the co-infection of M. hyopneu -
+moniae and PCV-2 was studied, whereas in the remain -
+ing studies different combinations of at least three of the 
+
+[W4387696559 PDF PAGE 4]
+Page 4 of 18
+Boeters et al. Porcine Health Management            (2023) 9:45 
+primary pathogens (i.e. PRRSV, SIV, PCV-2, M. hyo -
+pneumoniae, A. pleuropneumoniae)  were investigated. 
+Lastly, four studies did not specify the respiratory patho -
+gens involved, instead, they assessed the economic 
+impact of lung lesions. Since the pathogens included in 
+the present review are predominantly endemic world -
+wide, the economic analyses were mainly applied for 
+endemic scenarios, although 24% (14/58) of the studies 
+also included epidemic (i.e., outbreak) episodes in their 
+analyses.
+Most of the studies were conducted in commercial 
+herds (54/58), with only two Asian studies of smallholder 
+farms with less than 20 sows or 100 fattening pigs [ 22, 
+23] and two studies conducted in research facilities [ 24, 
+25]. The number of farms (owned by one or more pig 
+Fig. 1 Flow diagram illustrating the systematic search strategy for identifying relevant studies. *JSHAP = Journal of Swine Health and Production
+ 
+
+[W4387696559 PDF PAGE 5]
+Page 5 of 18
+Boeters et al. Porcine Health Management            (2023) 9:45 
+Study Country Infection scenario Infectious 
+agent(s) 1
+No. of farms 
+supplying pri -
+mary produc -
+tion data 2
+Stage of 
+production
+Unit of 
+analysis
+Study design Data 
+source(s) 3
+Refer -
+ence
+Pointon et al. (1985) Australia Endemic/Epidemic Mhp 1 Growing Pig Controlled trial DA; C [26]
+Miller and Dorn (1990) US Endemic NS 13 Breeding and 
+growing
+Pig Cross-sectional DA [65]
+Brouwer et al. (1994) Netherlands Endemic PRRSV 91 Breeding Sow Historical control 
+study
+DA; C [66]
+Christensen (1995) New Zealand Endemic Mhp 1 Growing Percent-
+age point of 
+pneumonia
+Cross-sectional DA [67]
+Pejsak and Markowska-Daniel (1997) Poland Epidemic PRRSV 1 Breeding and 
+growing
+Farm Historical control 
+study
+DA [68]
+Garner et al. (2001) Australia Endemic/Epidemic PRRSV NA Breeding and 
+growing
+Country, 
+region, farm, 
+and pig
+Stochastic model LG [38]
+Bennett and IJpelaar (2005) UK Endemic SIV NA NR Country Deterministic 
+model
+LS; E [69]
+Losinger (2005) US Endemic/Epidemic App NR Growing Country Cobb-douglas pro-
+duction model
+DA; LS; LG [28]
+Neumann et al. (2005) US Epidemic PRRSV 10 Breeding and 
+growing
+Country and 
+farm
+Case-control DA; LG [70]
+Nieuwenhuis et al. (2012)* Netherlands Epidemic PRRSV 9 Breeding Sow Historical control 
+study
+DA [20]
+Alarcon, Rushton and Wieland (2013) UK Endemic/Epidemic PCV-2 147 Growing Country, farm, 
+and pig
+Stochastic model LS; LG; E [34]
+Holtkamp et al. (2013) US Endemic PRRSV 80 breeding 
+farms and 639 
+groups of grow-
+ing pigs (No. 
+farms NR)
+Breeding and 
+growing
+Country, sow, 
+and pig
+Cross-sectional DA; LG [55]
+Nathues et al. (2017) Germany Endemic PRRSV NA Breeding and 
+growing
+Farm, sow, and 
+pig
+Stochastic model LS; LG; E; C [35]
+Pham et al. (2017) 4 Vietnam Endemic PRRSV 162 Breeding and 
+growing
+Farm Cross-sectional DA; E; LS; 
+LG
+[22]
+Valdes-Donoso et al. (2018) US Epidemic PRRSV 16 Breeding Farm and sow Historical control 
+study
+DA; LG [71]
+Calderón Díaz, Rodrigues da Costa, 
+et al. (2020)
+Ireland Endemic NS 56 Growing Farm, pig, and 
+Kg of meat
+Stochastic model DA; LS [37]
+Calderón Díaz, Fitzgerald, et al. 
+(2020)*
+Ireland Endemic PRRSV, SIV, 
+Mhp
+56 Growing Farm Stochastic model DA [21]
+Ferraz et al. (2020) Brazil Endemic Mhp 1 Growing Pig Cross-sectional DA [72]
+Table 1 Characteristics of studies evaluating the economic impact of disease caused by endemic respiratory pathogens in pigs
+
+[W4387696559 PDF PAGE 6]
+Page 6 of 18
+Boeters et al. Porcine Health Management            (2023) 9:45 
+Study Country Infection scenario Infectious 
+agent(s) 1
+No. of farms 
+supplying pri -
+mary produc -
+tion data 2
+Stage of 
+production
+Unit of 
+analysis
+Study design Data 
+source(s) 3
+Refer -
+ence
+Trevisan et al. (2020) US Endemic PRRSV 20 Breeding and 
+growing
+Pig Cohort DA; LG [73]
+Paz-Sánchez et al. (2021) Spain Endemic Co-infection 1 Growing Pig Cross-sectional DA; LG [5]
+Renken et al. (2021) Germany Endemic PRRSV 21 Breeding Farm and sow Cross-sectional DA; LS; LG [39]
+Kim et al. (2022) Korea Epidemic PRRSV 1 Breeding and 
+growing
+Sow and pig Historical control 
+study
+DA; LS [74]
+Pfuderer et al. (2022) UK Endemic NS NA Growing Pig Systems dynamics 
+model
+DA; LS; 
+LG; A
+[27]
+Trevisi et al. (2022) Italy Endemic PRRSV NR Growing Pig flow and Kg 
+of meat
+Cohort DA [75]
+Zhang et al. (2022) China Epidemic PRRSV 4 Breeding and 
+growing
+Sow and pig Historical control 
+study
+DA; LG [76]
+* Studies focus on both the economic impact of disease and the effects of interventions to prevent/control disease
+1 PRRSV = porcine reproductive and respiratory syndrome virus; PCV-2  = porcine circovirus 2; SIV = swine influenza virus (SIV); Mhp = Mycoplasma hyopneumoniae ; App = Actinobacillus pleuropneumoniae ; NS = not specified
+2 NR = number of farms providing primary data is not reported; NA = no primary data is provided by farms
+3 LS = scientific literature; LG  = grey literature (e.g. industry reports, websites, proceedings, newsletters, government documents); E = expert(s) opinion; DA = data from authors; C = personal communication; A  = author(s) 
+expertise
+4 Studies consider economic impact in smallholder farm(s) or research facility settings, whereas all other studies consider only commercial farm(s)
+Table 1 (continued)
+ 
+
+[W4387696559 PDF PAGE 7]
+Page 7 of 18
+Boeters et al. Porcine Health Management            (2023) 9:45 
+producers) from which primary data were collected on 
+production performance or health ranged from 1 to 162, 
+with a single farm being investigated in 16 of the studies. 
+Studies on the growing phase (33/58), including wean -
+ers and fatteners, predominated over the breeding phase 
+(11/58), although several studies assessed economics in 
+both production phases (14/58). Regarding the expres -
+sion of economic outcomes, 17 different units of analy -
+sis were identified (e.g. pig, herd, farm, Kg meat). In 66% 
+(38/58) of the studies, a singular unit was used, whereas 
+the remaining 34% (20/58) used several units to express 
+economic results. The growing pig was the most exten -
+sively used unit of analysis (28/58).
+Methodology applied in included studies
+In most of the disease-focused studies (16/25), an obser -
+vational study design was used in which data were col -
+lected cross-sectionally, longitudinally, or retrospectively, 
+with no intervention except for the collection of the 
+data. Of these observational study designs, the cross-
+sectional study design (7/16) and the historical control 
+study design (6/16), dominated over cohort (2/16) and 
+case-control (1/16) study designs. Across all disease-
+focused studies, only one controlled trial was performed 
+[26]. The remaining eight studies calculated economic 
+impacts through modelling (8/25); five models were sto -
+chastic, one deterministic, one study described the use of 
+a systems dynamics model [ 27] and one study applied the 
+Cobb-Douglas production function [ 28]. In three of the 
+modelling studies, input parameters were based on pri -
+mary data on production performance or health collected 
+on farms. In the remaining five, only secondary data 
+(from scientific literature, grey literature, expert opinion 
+or personal communication) were used. All modelling 
+studies that used secondary data only, performed sensi -
+tivity analysis on uncertain input parameters.
+Modelling was part of a large share of intervention-
+focused research, as 11 studies relied on simulation mod -
+elling exclusively. Of these studies, four collected primary 
+production data from farms to be used in their models, 
+whereas seven used secondary data only. As before, the 
+modelling studies that used only secondary data per -
+formed sensitivity analysis on uncertain input param -
+eters. Additionally, in three intervention-focused studies, 
+controlled trial [ 29], cohort [ 30], or cross-sectional [ 31] 
+study designs were combined with an economic deter -
+ministic model. Furthermore, fourteen studies col -
+lected data solely by means of a controlled trial and six 
+by means of observational study designs (five historical 
+control studies and one cohort study). One study, by Dee 
+and Molitor [ 32], entailed a case report describing the 
+attempt of PRRSV elimination on one farm. For detailed 
+information on the study designs per included study, 
+refer to Tables 1 and 2.
+Economic methods that were applied in the eligible 
+studies, ranged from basic cost computations to more 
+comprehensive methods commonly used in animal 
+health economics (Table  3). The most utilised methods 
+were basic cost computations (15/58) and cost analysis 
+(14/58), followed by partial budget analysis (12/58). As 
+expected, methods built for comparing the profitability of 
+o

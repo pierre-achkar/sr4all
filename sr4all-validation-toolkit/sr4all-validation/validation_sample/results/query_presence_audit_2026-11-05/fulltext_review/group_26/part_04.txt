@@ -1,0 +1,187 @@
+transcription factors and inhibition of viral replication 
+[57, 58]. WHO Solidarity trial could not approve the clinical 
+benefit of IFN-β1 in hospitalized COVID-19 patients [24]. In 
+contrast, multiple RCTs have reported different results [49, 
+59–61]. For instance, nebulized IFN-1β in a phase two RCT 
+has increased the recovery rate in the hospitalized COVID-
+19 patients [61]. Moreover, another RCT has observed a sig-
+nificant reduction of mortality rate (OR, 13.5; 95% CI, 1.5 
+to 118) after treatment with IFN [60]. Nevertheless, several 
+RCTs are still ongoing to investigate the advantages of IFNs 
+and confirm the results.
+Ivermectin is an antiparasitic agent that demonstrated its 
+antiviral activity against RNA viruses such as West Nile, 
+dengue virus, influenza, and HIV-1. It has been supposed 
+that ivermectin may inhibit SARS-CoV-2 replication by 
+inhibition of the importin α/β receptor. Importin α/β delivers 
+virus integrate proteins into the nucleus of the host cell [62]. 
+Multiple RCTs have studied ivermectin use in COVID-19 
+patients. Some RCTs could not found any clinical efficacy 
+of ivermectin [63–65], while others have reported faster 
+time to recovery of COVID-19 disease [66–70], a remark-
+able decrease of cytokines and inflammatory markers [67, 
+68], faster viral clearance [71], or decrease in mortality rate 
+[67, 68] in participants who received ivermectin in com-
+parison with the standard treatment protocol. Nevertheless, 
+the majority of these RCTs had methodological issues like 
+small sample sizes, various ivermectin dosages, and different 
+concomitant drugs given to the patients.
+Several investigations have demonstrated coagulopathy 
+associated with COVID-19 disease [72]. Early coagulopathy 
+of COVID-19 is characterized by a substantial increase in 
+D-dimer levels and fibrinogen-degradation products. Viral 
+infection triggers innate immune responses like systemic 
+inflammatory responses. When the defense system of the 
+host activates, thrombin produces and coagulation activates 
+as essential communication components between cellular 
+and humeral amplification networks. This is defined as 
+immunothrombosis or thromboinflammation. Anticoagu-
+lant agents like low molecular weight heparin (enoxaparin) 
+are indicated for prevention or treatment of disseminated 
+intravascular coagulopathy, thromboembolism or sepsis-
+induced coagulopathy [73]. In a retrospective study of 4389 
+hospitalized patients, prophylactic and therapeutic antico-
+agulant therapy was associated with reduced mortality rate 
+and mechanical ventilation. Among patients who received 
+460 DARU Journal of Pharmaceutical Sciences (2021) 29:449–467
+
+[W3211900438 PDF PAGE 13]
+1 3
+therapeutic anticoagulation, an estimated 47% reduction 
+of in-hospital mortality has been observed [74]. Given the 
+result of an RCT, the use of therapeutic-dose anticoagulant 
+increased bleeding and did not enhance the clinical outcome 
+in comparison with prophylactic-dose anticoagulants [75].
+Herbal agents
+Since the beginning of the pandemic, herbal medicines and 
+natural products have been repurposed for the management 
+of COVID-19 [76]. As a result, multiple RCTs have been 
+conducted on this topic in different countries. Curcumin, 
+Nigella Sativa, and licorice extract were the more com-
+mon drugs investigated in RCTs. Results from a systematic 
+review of seven clinical trials on herbal medicines dem-
+onstrated the potential role of combined herbal medicines 
+with Western medicine on symptom relief [77]. Licorice is 
+a plant that has been used to control COVID-19 with anti-
+inflammatory properties. Glycyrrhizin, a frequent compo-
+nent of licorice, provides anti-inflammatory activity through 
+antagonism of toll-like receptor 4. Besides, both glycyrrhi-
+zin and glycyrrhetinic acid can reduce virus transmission, 
+which may happen by a reduction in expression of type 2 
+transmembrane serine protease (TMPRSS2). TMPRSS2 
+play a critical role in virus uptake [78, 79]. Licorice also 
+exhibits immunomodulatory, anti-oxidant, and antibacterial 
+activity. Components of the plant can bind to viral fusion 
+proteins inhibiting viral entry to the host cells, they also can 
+decrease expression of ACE2 [80]. A molecular docking 
+study showed that nigellidine and α-hederin from Nigella 
+Sativa have better energy scores toward 6LU7 and 2GTB, 
+which are the main proteases found in CoVs, active sites 
+rather than HCQ, CQ, and favipiravir [81].
+The beneficial effects of herbal medicines are shown in 
+several clinical trials. Anti-inflammatory and anti-throm-
+botic activities of curcumin besides its antiviral, antibac-
+terial and antifungal properties of the compound can pre-
+vent secondary infections as well as reduce morbidity and 
+mortality [82]. Administration of quercetin to outpatients 
+significantly has reduced the need or the length of hospitali-
+zation, non-invasive oxygen therapy, progression to inten-
+sive care units, decrease virus clearance, and deaths without 
+peculiar side effects [83, 84]. Recovery and improvement 
+rate in patients suffering from COVID-19 has increased 
+by prescription of Chinese herbal formulation adjuvant to 
+usual treatment [85]. Administration of Huoxiang Zhengqi 
+dropping pills and Lianhua Qingwen granules (traditional 
+Chinese medicine, TCM) to COVID-19 patients showed no 
+significant difference in the severity of the disease, while 
+they caused a significant decrease in antibiotic utilization 
+in patients [86]. Reduning injection, another formulation of 
+TCM, resulted in a shorter median time to resolution of the 
+clinical symptoms, hospital stay, defervescence as well as 
+a shorter time of nucleic acid test turning negative in the 
+COVID-19 patients [87]. Intravenous injection of xuebijing 
+contains some plants with main components of amino acid, 
+phenolic acid, flavonoid glycoside, and elysine. Xuebijing 
+can also downregulate the expression of pro-inflammatory 
+cytokines IL-6, IL-8 and TNF-α in severe COVID-19 
+patients and improves main clinical symptoms [88]. Echi-
+nacea tablet with Zingiber officinalis in the outpatient of 
+COVID-19 improved cough, dyspnea, and muscle pain com-
+pared to HCQ, with no specific side effects [89]. Essential 
+oil of thyme improved symptoms of patients such as fever, 
+cough, dyspnea, dizziness, muscular pain, anorexia, weak-
+ness, lethargy, and fatigue. Significant increases in lympho-
+cyte count and calcium, as well as a decrease in neutrophil 
+count and blood urea nitrogen (BUN), were also reported in 
+patients suffering from COVID-19 [90].
+Although several studies have evaluated the beneficial 
+effects of herbal preparations against COVID-19, these stud-
+ies suffer from some drawbacks in study design like limited 
+sample size, lack of clear primary and secondary outcomes, 
+administration of some herbal drugs without providing any 
+criteria regarding the quality and active components of them. 
+Mostly, they have reported improvement of clinical signs 
+or symptoms without considering the mechanism involved.
+Vaccines
+Currently, there is an increasing number of RCTs on 
+COVID-19 vaccine candidates. These vaccines are based 
+on three major strategies of vaccine design. Key differ-
+ences include if they employ the entire microorganism (the 
+whole microbe approach); just portions of the microbe that 
+stimulate the immune system (the subunit approach), or only 
+the genetic materials that contains information for producing 
+particular proteins rather than the entire virus (the genetic 
+approach).
+There are three subtitles of vaccines, which are prepared 
+with the whole microbe approach, including inactivated, 
+Live-attenuated, and viral vector. Each type has some chal-
+lenges in the injection. Inactivated vaccines typically fail to 
+produce the cellular adaptive immune response and long-
+lasting immunity. Accordingly, they require additional 
+booster doses and adjuvants, to induce sufficient immune 
+response [91, 92]. Thirty-nine inactivate vaccines candidate 
+have been initiated clinical trials, which eight vaccine candi-
+dates have been approved at least in one country:
+• QazVac by Kazakhstan RIBSP/ approved in Kazakhstan
+• Covaxin by Bharat Biotech/ or BBV152 approved in nine 
+countries
+• COVIran Barekat inactivated Vaccine by Shifa Pharmed 
+Industrial Co approved in Iran
+461DARU Journal of Pharmaceutical Sciences (2021) 29:449–467
+
+[W3211900438 PDF PAGE 14]
+1 3
+• Inactivated (Vero Cells by Sinopharm (Wuhan)) 
+approved in China
+• SARS-CoV-2 Vaccine (Vero Cells) by Minhai Biotech-
+nology Co approved in China
+• CoronaVac by Sinovac approved in 39 countries
+• BBIBP-CorV (Vero Cells) by Sinopharm (Beijing) 
+approved in 60 countries
+• KoviVac by Chumakov Center approved in Russian 
+Federation
+The main challenge with live-attenuated vaccines is 
+that they may regain wild-type virulence in some cases. 
+Another challenge with these vaccines is that they cannot 
+be administered to immunosuppressed people [92, 93]. 
+The COVI-VAC by Codagenix Inc is the only live-attenu-
+ated vaccine candidate and now it is on phase one of the 
+clinical trial (NCT04619628). Viral vector vaccines are 
+mainly designed from a carrier virus-like adenovirus, pox-
+virus, or measles. Their main benefit is that the immuno-
+gen provokes the innate immune system. Subsequently, the 
+innate immune system triggers adaptive T cell-mediated 
+and humoral immune systems. Viral vectors like adeno-
+virus type 5 (Ad5) vector, recombinant adenovirus type 
+5 (rAd5) vector, recombinant adenovirus type 26 (rAd26) 
+vector, and chimpanzee adenovirus (ChAd) containing the 
+spike gene of SARS-CoV-2, are among promising vaccine 
+platforms. The following vaccines are approved viral vec-
+tor vaccines:
+• Ad5-nCoV by CanSino approved in eight countries
+• Oxford/AstraZeneca by Serum Institute of India Cov -
+ishield approved in 45 countries
+• Ad26.COV2.S by Janssen (Johnson & Johnson) approved 
+in 59 countries
+• Sputnik Light by Gamaleya approved in 12 countries
+• AZD12

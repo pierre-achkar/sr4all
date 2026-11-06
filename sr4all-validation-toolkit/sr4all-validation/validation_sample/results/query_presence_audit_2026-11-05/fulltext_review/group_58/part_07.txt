@@ -1,0 +1,185 @@
+Rev. 
+2024;16(1):65–93.
+ 32. Maroon J, Hossain SZ, Mackenzie L. A systemic review of the “Informed 
+consent” Process for aesthetic cosmetic surgery procedures. Am J Cosmet 
+Surg. 2024:07488068241260771.
+ 33. Haney B. Psychological aspects of aesthetics. InAesthetic Procedures: 
+Nurse practitioner’s guide to cosmetic dermatology . Cham: Springer 
+International Publishing; 2024. p. 35–42.
+ 34. Moeller J, Quiñonez CR. Dentistry’s social contract is at risk. J Am Dent 
+Assoc. 2020;151(5):334–9.
+ 35. Padmanabhan V, Islam MS, Rahman MM, Chaitanya NC, Sivan PP . Under-
+standing patient safety in dentistry: evaluating the present and envi-
+sioning the future—a narrative review. BMJ Open Qual. 2024;13(Suppl 
+2):e002502.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub-
+lished maps and institutional affiliations.
+
+END REVIEW W4406852059
+
+
+REVIEW W4408295411
+TITLE: Safety and efficacy outcomes of delta‑like ligand 3 inhibitors for the treatment of solid tumors: A systematic review and single‑arm meta‑analysis
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4408295411 PDF PAGE 1]
+ONCOLOGY LETTERS  29:  228,  2025
+Abstract. The aim of the present study was to evaluate the 
+clinical curative effects and toxicity of existing delta‑like 
+ligand 3 (DLL3) inhibitors in advanced solid tumors with high 
+DLL3 expression. A systematic search across major databases 
+was performed, adhering to the Preferred Reporting Items 
+for Systematic reviews and Meta‑Analyses guidelines, and 
+included clinical trials that assessed the efficacy and safety 
+of DLL3 inhibitors in treating solid tumors. To be included, 
+studies had to be randomized controlled trials (RCTs), 
+quasi‑RCTs, non‑randomized comparative studies, single‑arm 
+trials and trials in which DLL3 inhibitors were used in both 
+arms. The results of 21 trials, involving a total of 2,452 patients, 
+which evaluated the efficacy of DLL3 inhibitors in treating 
+solid tumors, were analyzed. The median overall survival was 
+6.54 months and the median progression‑free survival (PFS) 
+was 3.54 months. Combination immunotherapy demonstrated 
+a longer PFS of 4.2 months compared with monotherapy, 
+which had a PFS of 3.36 months. The disease control rate 
+and objective response rate were 57 and 21%, respectively, 
+with notable heterogeneity observed across studies. Adverse 
+events were common, affecting 93% of patients, and included 
+cytokine release syndrome (49%), thrombocytopenia (23%) 
+and peripheral edema (28%), with variations depending on 
+the specific inhibitor used. To conclude, DLL3 inhibitors 
+hold promise for patients with elevated DLL3 expression 
+in solid tumors; however, their efficacy and safety exhibit 
+considerable variability, necessitating large‑scale, phase III 
+clinical trials to validate and refine therapeutic approaches. 
+The present study was registered with PROSPERO (registra ‑
+tion no. CRD42024561815).
+Introduction
+The Notch signaling pathway is a fundamental mechanism of 
+cellular communication, widely present in animal cells, which 
+serves essential roles in both organismal development and 
+cellular homeostasis. Th Notch pathway consists of four trans‑
+membrane receptors: Notch1, Notch2, Notch3 and Notch4, 
+and is mediated by five ligands expressed by adjacent cells: 
+Delta‑like ligand (DLL)1, DLL3, DLL4, jagged canonical 
+Notch ligand (JAG)1 and JAG2 (1‑3). Among these, DLL3 
+serves a pivotal role in Notch signaling, affecting cellular 
+differentiation, proliferation, survival and apoptosis (4). DLL3 
+functions as an inhibitory ligand in the Notch pathway by 
+sequestering itself and occasionally DLL1 within the cell, 
+preventing their localization to the cell surface and serving 
+as an intrinsic suppressor of Notch signaling. Notably, DLL3 
+is upregulated and aberrantly presented on the cell surface 
+in several advanced solid tumors, including small cell lung 
+cancer (SCLC), neuroendocrine tumors, pancreatic cancer, 
+melanoma and liver cancer (5‑7).
+High DLL3 expression not only promotes tumor cell 
+growth and proliferation through the Notch signaling pathway, 
+but also inhibits immune responses within the tumor micro ‑
+environment; this diminishes the effectiveness of antitumor 
+immunity, and facilitates tumor cell migration and inva ‑
+sion (8). Consequently, elevated DLL3 expression is strongly 
+associated with poor prognoses in several types of cancer and 
+serves a key role in sustaining malignant tumor growth. As 
+a result, DLL3‑targeted research and therapeutic strategies 
+have gained notable global interest, offering the potential to 
+improve outcomes for patients with DLL3‑expressing cancer.
+Safety and efficacy outcomes of delta‑like ligand 
+3 inhibitors for the treatment of solid tumors: 
+A systematic review and single‑arm meta‑analysis
+YAXU SU1,2*,  XINYU LU1,2*,  TONGWEI LIU1,2,  HENGCHANG CHEN1,2,  WENTONG XU1,2,  
+YULU QIN1,2,  DEHONG YU3,  YILONG GUO3  and  YONG XIN1,2
+1Department of Radiation, The Affiliated Hospital of Xuzhou Medical University, Xuzhou, Jiangsu 221002, P.R. China;  
+2Cancer Institute, Xuzhou Medical University, Xuzhou, Jiangsu 221004, P.R. China; 
+3Department of Oncology, Pizhou County People's Hospital, Xuzhou, Jiangsu 221399, P.R. China
+Received December 5, 2024;  Accepted February 13, 2025
+DOI: 10.3892/ol.2025.14974
+Correspondence to:  Professor Yilong Guo, Department of 
+Oncology, Pizhou County People's Hospital, 93 Renmin South Road, 
+Xuzhou, Jiangsu 221399, P.R. China
+E‑mail: guoyilong888@163.com
+Professor Yong Xin, Department of Radiation, The Affiliated 
+Hospital of Xuzhou Medical University, 9 Kunpeng Road, Xuzhou, 
+Jiangsu 221002, P.R. China
+E‑mail: deep369@163.com
+*Contributed equally
+Key words:  delta‑like ligand 3 inhibitors, solid tumors, meta ‑
+analysis, progression‑free survival, adverse events
+
+
+[W4408295411 PDF PAGE 2]
+SU et al:  SAFETY AND EFFICACY OF DLL3 INHIBITORS IN SOLID TUMORS2
+Several DLL3‑targeting inhibitors and modulators are 
+in early clinical development, including the antibody‑drug 
+conjugate rovalpituzumab tesirine (Rova‑T), the bispecific 
+T‑cell engager (BiTE) tarlatamab (AMG 757) and the 
+chimeric antigen receptor T‑cell therapy AMG 119 (9). The 
+NCT01901653 study, a pioneering open‑label Phase I clinical 
+trial in the United States of America, enrolled patients with 
+recurrent or progressive SCLC or large‑cell neuroendocrine 
+carcinoma (NEC). The NCT01901653 study established the 
+safety, tolerability and maximum tolerated dose of Rova‑T, with 
+notable adverse events (AEs), including thrombocytopenia, 
+pleural effusion and elevated lipase levels. The maximum 
+tolerated dose was found to be 0.4 mg/kg, administered every 
+3 weeks, with a recommended dose of 0.3 mg/kg every 6 
+weeks for Phase II trials (10).
+Tarlatamab, a pioneering BiTE molecule with an extended 
+half‑life, binds to DLL3 on tumor cell surfaces and CD3 
+on cytotoxic T lymphocytes (CTLs). This binding triggers 
+T‑cell activation, the release of inflammatory cytokines 
+and CTL‑mediated apoptosis of DLL3‑expressing tumor 
+cells (11). Results from the Phase I DeLLphi‑300 study  (12) 
+and the Phase II DeLLphi‑301 study (13) demonstrated that 
+tarlatamab markedly prolonged progression‑free survival 
+(PFS) and improved the objective response rate (ORR) in 
+patients with previously treated extensive‑stage SCLC, despite 
+the majority experiencing cytokine release syndrome (CRS). 
+However, severe AEs of grade ≥3 were rare and reversible. 
+Based on these promising results, the United States Food 
+and Drug Administration (FDA) granted expedited approval 
+for tarlatamab to treat patients with extensive‑stage SCLC 
+whose disease had progressed during or after platinum‑based 
+chemotherapy. Other DLL3 inhibitors, including AMG 119, BI 
+764532, HPN328, ZL‑1310 and QLS31904, have also advanced 
+to clinical development stages, heralding a new era in targeted 
+DLL3 inhibition (14‑16).
+Despite the promising results from Phase I and II TRINITY 
+clinical studies, which confirmed the antitumor efficacy of 
+Rova‑T, subsequent Phase III trials, namely the TAHOE and 
+MERU studies (17,18), failed to yield the expected outcomes. 
+In the TAHOE study, the median overall survival (OS) for 
+the Rova‑T group was 6.3 months and the median PFS was 
+3.0 months, both of which did not exceed the results from the 
+second‑line treatment, topotecan (17). As a result, the develop‑
+ment of Rova‑T was discontinued in August 2019. By contrast, 
+tarlatamab has shown higher response rates and improved 
+PFS in Phase II trials, and its Biologics License Application is 
+currently under FDA review (13).
+To further assess the efficacy and safety of DLL3 inhibi ‑
+tors in patients with DLL3‑high‑expressing advanced solid 
+tumors, a systematic review and meta‑analysis was performed. 
+The present review summarizes clinical trial data on ORR, 
+disease control rate (DCR), median PFS, median OS and the 
+incidence of AEs. The present analysis aimed to provide a 
+comprehensive understanding of the potential benefits and 
+limitations of DLL3 inhibitors in cancer treatment.
+Materials and methods
+Study design and population. A meta‑analysis was performed 
+following the Preferred Reporting Items for Systematic 
+Reviews and Meta‑Analyses guidelines. The study population 
+consisted of patients with advanced solid tumors characterized 
+by high DLL3 expression, including SCLC, NEC, pancreatic 
+cancer, melanoma and hepatocellular carcinoma. Eligibility 
+criteria included patients who received DLL3 inhibitors 
+(such as Rova‑T, tarlatamab, BI 764532, HPN328) in either 
+monotherapy or combination therapy regimens. The primary 
+endpoint was median OS, while secondary endpoints included 
+median PFS, DCR, ORR and treatment‑related AEs (trAEs), 
+such as CRS and thrombocytopenia. The objective of the 
+present analysis was to provide a comprehensive evaluation of 
+the efficacy and safety profile of DLL3 inhibitors.
+Search strategy. An exhaustive search was performed 
+for cl

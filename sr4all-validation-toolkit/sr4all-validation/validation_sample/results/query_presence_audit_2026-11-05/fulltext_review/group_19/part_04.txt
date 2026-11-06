@@ -1,0 +1,285 @@
+lished be-
+tween March 28, 2018, to March 28, 2019, and to measure the
+number of times these articles were shared, liked, or
+commented upon on social media platforms Facebook,
+Pinterest, Reddit, and Twitter.
+Data Synthesis and Analysis
+Given the heterogeneity of the included studies, we summa-
+rized the populations assessed, diagnostic tools used, and
+reported prevalence, comorbidities, and any treatments pro-
+vided qualitatively. The datasets generated during data collec-
+tion and analysis are available from the corresponding author
+on reasonable request.
+Role of Funding Source
+This work was funded by Crossover Health, a provider of
+employer-sponsored health clinics. The funder had no role in
+this study’s design, conduct, or reporting.
+RESULTS
+Our searches identified 284 titles of potentially relevant peer-
+reviewed articles (Fig. 1). After synthesizing the data from
+multiple reports on the same set of participants, 66 articles
+describing 62 studies with 14,161 participants met our inclu-
+sion criteria (Table 1).9–74]
+Study Characteristics
+Although our searches were for the literature starting in 1966,
+the included studies were all published between 1990 and 2018
+(Fig. 2)— notably, half were published in the past 6 years.
+Although most of the studies were conducted in the USA 9,
+10, 12, 13, 15 –17, 21–32, 34–38, 42, 43, 45, 49 –57, 61, 62, 64, 65, 67, 73 and
+Canada,19, 44, 46, 66, 68 twenty-one studies evaluated popula-
+tions in other countries including five in Austria, 39, 58 –60, 63
+five in Australia/New Zealand, 20, 31, 70, 71, 74 four in Germa-
+ny,11, 14, 47, 48, 58 three in Iran,33, 40, 41 two in the UK, 20, 69 and
+one each in Belgium 72 and Korea.73
+Nearly all of the included studies were single-arm observa-
+tional studies (Table1). Most commonly, the authors identified
+a population of interest, screened them with a validated im-
+postor syndrome questionnaire and other psychometric assess-
+ment tools, then described the prevalence of impostor syn-
+drome and co-occurring psychological issues. Two studies
+also included semi-structured interviews. 37, 38, 44 One study
+included an experimental design in which subjects were ex-
+posed to successes and failures and asked to report on impos-
+tor feelings after these exposures. 31 The only longitudinal
+assessment was of college students with impostor syndrome
+who were followed before and after a midterm examination. 25
+Bravata et al.: Impostor Syndrome: a Systematic ReviewJGIM 1253
+
+[W2996390330 PDF PAGE 3]
+Notably, there were no randomized trials and only one study
+presented qualitative information about the clinical manage-
+ment people with impostor syndrome.
+Overall, the quality of the included studies was fair: Only 20
+studies reporting having Institutional Review Board (IRB)
+approval.10, 12, 13, 20 –23, 28, 44, 46, 48, 50 –52, 54, 58, 59, 62, 64, 66,
+73 Many studies lacking IRB approval were of student
+populations— often in the authors ’own institutions. Response
+rates for the populations surveyed ranged from 2.8 to 97.2%
+(and many articles did not report response rates) (Table 1).
+Participant Characteristics
+The included studies evaluated 14,161 participants, 60% of
+whom were women. Among those studies reporting a mean
+population age, the weighted mean age was 20 years (Fig.
+3)— not surprising given that 34 of the included studies were
+of students. However, 17 studies included populations with a
+mean age of > 30 years and 5 additional studies were of
+professional populations but did not report a mean age.] –>
+Students. Half of the included studies were of student
+populations: 5 evaluated elementary and high-school stu-
+dents,16, 19, 27, 49, 61 29 evaluated undergraduates, 10, 14, 20 –
+25, 28, 30, 31, 35, 41 –43, 45, 50 –52, 55 –58, 63 –66, 68 –70 and 12
+evaluated graduate students. 17, 29, 31, 33, 34, 36, 39, 50, 55, 65,
+67, 73 Students with impostor syndr ome had fears that were
+significantly related to maint aining their social standing
+and not wanting to display imperfection to others 31;h o w -
+ever, social support and self-worth were highly negatively
+associated with impostor symptoms. 16 Impostor feelings
+were significantly related to pessimism, perfectionistic
+traits, and low self-esteem, and although there were no
+differences in grades between impostors and non-impos-
+tors, impostors expected to perform worse and were more
+anxious about exams. 25 Interestingly, Ferrari found that
+students with impostor feelings were significantly less
+likely to cheat on examinations and to plagiarize written
+assignments than students without impostor feelings. 30
+Students of Minority Groups. Eleven included articles
+evaluated impostor syndrome in minority groups. 10, 12, 13, 21 –
+23, 29, 51, 52, 54, 64, 73 They demonstrated that impostor syndrome
+is common among African American, Asian American, and
+Latino/a American college students and that impostor feelings
+are significantly negatively correlated with psychological well-
+being and positively correlated with depression and anxiety.21–
+23, 54 Several factors may predispose minority students to
+increased psychological stress during their educational experi-
+ences including lack of adequate financial aid, the need to work
+to support themselves in school, racial discrimination, enduring
+negative stereotypes, and being the first in their families to
+pursue advanced education.21, 29 Moreover, using MANOV A,
+one study found that impostor feelings were stronger predictors
+of mental health than minority status stress. 21 Austin et al.
+found that impostor syndrome, depression, and survivor guilt
+were highly correlated among African American college stu-
+dents.10 Bernard et al. found that Af rican American freshmen
+who reported frequent racial dis crimination but low levels of
+distress from discrimination had higher levels of impostor
+syndrome than those who reported high levels of distress from
+racial discrimination.12, 13 Few non-White individuals have
+been included in the samples used to standardize the
+Figure 1 Search results. Presents our search strategies and results.
+Bravata et al.: Impostor Syndrome: a Systematic Review JGIM1254
+
+[W2996390330 PDF PAGE 4]
+Table 1. Study Characteristics
+Reference (Year
+of
+publication)
+Country Study Purpose Population Sample Size/
+Response Rate
+(RR)
+Gender
+(% women)
+Age
+(mean)
+Study Design Main Findings
+Ares, T.L.
+(2018)(9)
+USA Evaluate the prevalence
+of IS in early career clinical
+nurse specialists
+Clinical nurse
+specialists (CNS)
+68
+RR- 61.9%
+94% 43% was
+30-39 yrs
+Cross sectional
+survey
+Prevalence: 74.6%. Prevalence of IP was
+not different in CNSs who were employed
+vs those who were unemployed. IP was not
+predicted on the basis of perceived
+preparedness for CNS pr actice, experiential
+preparation for practice, or years of
+leadership experience.
+Austin et al.
+(2009) (10)
+USA Explore the mediating
+effects of impostorism
+on the association between
+survivor guilt and depression
+Black/African-
+American
+college
+undergrads
+97
+RR -19.58%
+72% 24yrs Cross sectional
+survey
+Prevalence: Not Stat ed. Survivor guilt is a
+significant positive predictor of depression.
+Participants who reported greater levels of
+impostor suffering al so reported greater
+degrees of survivor guilt feelings. Impostor
+feelings significantly predicted depression.
+There were no gender differences in IP.
+Bechtoldt
+(2015)(11)
+Germany Analyzes how impostorism
+affects a specific
+component of leadership
+behavior, which is task
+delegation
+Managers of
+various
+industries
+190
+RR – 41.5%
+35% 45yrs Cross sectional
+survey
+Prevalence: Not Stated. The more strongly
+managers lacked conf idence in their own
+abilities and perceived themselves as
+impostors, the more inclined they were to
+also assign challenging tasks to the insecure
+male and female employees. There was no
+significant association between managers'
+impostorism and their decisions on
+delegating these tasks to the self-confident
+employees.
+Bernard et al.
+(2017)(12)
+(2018)(13)
+USA Examine the association
+between racial discrimination
+and the impostor phenomenon
+African American
+college
+students
+157
+RR – not stated
+68% Cohort
+1-19yrs
+Cohort
+2-18yrs
+Cross sectional
+survey
+Prevalence: Not Stated. Women reporting
+high frequency of racia l discrimination but
+lower levels of distress resulting from racial
+discrimination had higher levels of IP.
+Brauer & Proyer
+(2017)(14)
+Germany Evaluate the association
+of impostor phenomenon
+and positive coping skills
+such as playfulness
+Sample 1 –
+Psychology
+students
+Sample 2 –
+Working
+professionals
+Sample 1-244
+RR – not stated.
+Sample 2-222
+RR– not stated
+Sample
+1-63%
+Sample
+2-63%
+Sample
+1-23yrs
+Sample 2
+–
+37yrs
+Cross sectional
+survey
+Prevalence: Not Stated. Among both
+students and working professionals,
+playfulness (an important characteristic of
+resilience) was negatively correlated with
+IP. The authors report mixed correlations
+between different t ypes of playfulness
+among students and working professionals
+with and without IP. Age was significantly
+negatively correlated with IP among
+professionals (p<0.001) but not for students.
+Byrnes & Lester
+(1995)(15)
+USA Assess locus of control in
+people with imposter syndrome
+Accountants
+and teachers
+60
+RR – not stated
+63% 38yrs Cross sectional
+survey
+Prevalence: Not Stated. Individuals
+believing more strongly in an external locus
+of control were more likely to feel like an
+imposter.
+Caselman et al.
+(2005)(16)
+USA Evaluate gender, global self-
+worth, social support, and self-
+concept as predictors of IP
+among adolescents
+High school
+juniors
+and seniors
+136
+RR – not stated
+52% Not
+Stated
+Cross sectional
+survey
+Prevalence: Not Stated. Symptoms of IP are
+found among adolescents. Global self
+worth, parent support, classmate support,
+teacher support, friend support, sociability,
+competence and dependability were all
+significantly inverselyc o r r e l a t e dw i t hI P
+(p<0.01). There was no gender difference in
+mean IP scores; however , the specific types
+(continued on next page)
+Bravata et al.: Impostor Synd

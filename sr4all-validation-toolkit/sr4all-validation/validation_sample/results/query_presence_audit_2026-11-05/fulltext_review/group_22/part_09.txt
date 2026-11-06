@@ -1,0 +1,201 @@
+RODUCTION
+Emergency medicine (EM) is a high-stakes, fast-paced 
+specialty requiring quick decision-making with limited 
+Maimonides Medical Center, Department of Emergency Medicine, Brooklyn, New York
+Emergency Care Consultants, Minneapolis, Minnesota
+LAC + USC Medical Center, Department of Emergency Medicine, Los Angeles, California
+The Ohio State University, Department of Emergency Medicine, Columbus, Ohio
+UCLA David Geffen School of Medicine, Department of Emergency Medicine, Los Angeles, 
+California 
+Oregon Health & Science University, Department of Emergency Medicine, Portland, Oregon
+*
+†
+‡
+§
+¶
+||
+Introduction: Recent research demonstrates burnout prevalence rates as high as 76% in 
+emergency medicine (EM) residents. In 2017 the Accreditation Council for Graduate Medical 
+Education (ACGME) required that all training programs provide dedicated wellness education 
+for their trainees as a requirement for accreditation. We aimed to conduct a systematic review of 
+published wellness interventions conducted in EM residency programs following the implementation 
+of the 2017 ACGME Common Program Requirements change in order to characterized published 
+intervention and evaluate their effectiveness. 
+ 
+Methods: We applied a published approach to conducting systematic reviews of the medical 
+education literature. We performed a search of the literature from January 1, 2017–February 1, 
+2020. Studies were included for final review if they described a specific intervention and reported 
+outcomes with the primary goal of improving EM resident wellness. Outcomes were characterized 
+using the Kirkpatrick training evaluation model.
+ 
+Results: Eight of 35 identified studies met inclusion criteria. Most described small convenience 
+samples of EM residents from single training programs and used the satisfaction rates of participants 
+as primary outcome data. Only quantitative assessment methods were used. Studies addressed 
+only a limited number of factors affecting resident wellness. The majority of interventions focused 
+on personal factors, although a few also included sociocultural factors and the learning and practice 
+environment.
+ 
+Conclusion: There is a relative dearth of literature in the area of research focused on interventions 
+designed to improve EM resident wellness. Furthermore, the studies we identified are narrow in 
+scope, involve relatively few participants, and describe programmatic changes of limited variety.  
+Future directions include an increase and emphasis on multi-institutional studies, randomized 
+controlled trials, qualitative methodology, and opportunities for funded research. [West J Emerg Med. 
+2021;22(1)7-14.]  
+information and often with critically ill patients. High anxiety 
+and concern for poor outcomes influences emotional exhaustion 
+and burnout among emergency physicians.1 Other factors 
+
+[W3119904516 PDF PAGE 3]
+Western Journal of Emergency Medicine 8 V olume 22, no. 1: January 2021
+Wellness Interventions in EM Residency Programs since 2017 Chung et al.
+that uniquely contribute to burnout in emergency physicians 
+include unpredictable and inconsistent shift schedules2; sleep 
+cycle disturbances2; increasing administrative burden without 
+corresponding autonomy3; and expanding requirements around 
+documentation within the electronic health record (EHR).4
+ Residency is one of the most physically and mentally 
+taxing periods of a physician’s career. Compared with 
+attending physicians or medical students, residents score 
+significantly lower on measures of self-care including sleep, 
+exercise, seatbelt use, and overall wellness.5 Factors related 
+to burnout begin to take effect during intern year of residency 
+secondary to issues such as duty hours, lack of autonomy, 
+sleep deprivation, and resident mistreatment.6-8 These stressors 
+are further compounded by the need to rapidly develop 
+clinical competence in a setting with complex and sometimes 
+critically ill patients, and low pay relative to hours worked. 
+In addition, residents have cited that these factors 
+negatively impact their interactions and relationships with 
+patients and have increased frequency of conflict with 
+colleagues.9 This potential erosion of personal wellness during 
+training can profoundly impact patient care. Recent studies 
+suggest that EM attending physicians experience burnout rates 
+greater than 70% as defined by the Maslach Burnout Inventory 
+(MBI).1 EPs in training have been demonstrated to be equally 
+susceptible. In a 2014 study involving residents from eight EM 
+programs, 65% met criteria for burnout.3 A more recent large-
+scale prevalence study of over 1500 EM residents demonstrated 
+the prevalence of burnout to be even higher, at 76.1%.10 
+In 2017 the Accreditation Council for Graduate Medical 
+Education (ACGME) implemented common core program 
+requirements focusing on the psychological, emotional, 
+and physical well-being of residents.11 Current and recently 
+published research has focused primarily on factors 
+contributing to burnout12; less is known about the efficacy 
+of interventions to mitigate burnout and improve wellness 
+among EM trainees. Moreover, to date there are no widely 
+accepted uniform recommendations regarding best practices 
+for wellness interventions within residency programs. 
+We conducted a systematic review of published studies that 
+describe interventions to mitigate burnout or improve wellness 
+in EM training programs in order to characterize the published 
+interventions and evaluate their effectiveness as measured by 
+outcomes. Understanding the current state of the literature 
+and remaining gaps is crucial as educators seek to design and 
+implement programs intended to meaningfully combat burnout 
+and improve wellness among trainees. In this systematic review, 
+we focused our investigation on wellness interventions conducted 
+in EM residency programs following the implementation of the 
+2017 ACGME Common Program Requirements.
+ 
+METHODS
+ Using the methodology described by Cook and West,13 
+we conducted a systematic review of the literature published 
+within the MEDLINE database for articles published between 
+January 1, 2017– February 1, 2020. This starting date was 
+chosen to coincide with the implementation of the updated 
+2017 ACGME Common Program requirements that explicitly 
+require programs’ support of resident well-being.14 We used 
+the following search terms: wellness, well-being, burnout, and 
+resilience. Search parameters were limited to EM residents 
+and EM residency programs. Articles describing the results 
+of primary studies of wellness interventions were included 
+for final analysis. We excluded abstracts, opinion pieces, and 
+literature reviews. Bibliographies of relevant articles were 
+reviewed to identify any additional studies. 
+Articles identified through these search methods were 
+screened by two authors and included for final review if they 
+described a specific intervention and reported a primary outcome 
+that addressed the need for supporting resident well-being in 
+accordance with the ACGME Common Program Requirements 
+Section VI.C.14 For those that met these criteria, we collected 
+additional details including study design, population, type of 
+intervention, a brief description of the intervention, outcome 
+measure(s), and primary findings. Outcomes were characterized 
+using the Kirkpatrick training evaluation model, which describes 
+outcomes using increasing levels of complexity and potential 
+impact: Level 1 (reaction); Level 2 (learning); Level 3 (behavior); 
+and Level 4 (outcomes). We considered a change in burnout, 
+perceived wellness, or other related outcome as assessed by a tool 
+with existing validity evidence to be a Level 4.
+RESULTS
+ We identified 35 articles on our initial search of the 
+literature. No additional studies meeting the inclusion criteria 
+described above were found after a review of references cited. 
+Eight published studies were included for final review based 
+on our inclusion criteria (Table 1).
+An additional six articles described specific wellness 
+interventions but did not provide outcome data, and although 
+these were not considered in our analysis, we have provided 
+them for reference (Appendix 1).
+ 
+Study Participants
+The majority of studies (6 of 8) took place in a single 
+residency program using a convenience sample ranging from 
+24-58 with an average of 34 residents.15-20 One of the multi-
+institutional studies included two EM programs (n = 20) and 
+the other included 10 EM programs (n = 437).21,22 All of the 
+studies included EM residents at all postgraduate training 
+levels. None of the studies conducted a power analysis to 
+determine the number of participants required to demonstrate 
+a significant effect of the intervention.
+ 
+Types of Interventions
+The most commonly encountered wellness intervention (5 
+of 8) was a formal, classroom-based initiative.15,16,18,20,22 Three 
+of these studies described a year-long curriculum16,18,22 and 
+two described a single session.15,20 All five provided a broad 
+
+[W3119904516 PDF PAGE 4]
+V olume 22, no. 1: January 2021 9 Western Journal of Emergency Medicine
+Chung et al. Wellness Interventions in EM Residency Programs since 2017
+Primary Author 
+& Year Title
+Population & 
+Design
+Type of 
+Intervention Description of Intervention
+Measured 
+Outcome(s)
+Kirkpatrick 
+Levels Main Findings
+Calder-
+Sprackman 
+(2018)
+Ice Cream Rounds: The 
+adaptation and evaluation 
+of a peer-support wellness 
+rounds in an emergency 
+medicine resident training 
+program
+Case report at 
+single program
+Peer support Voluntary attendance at 
+confidential, peer support 
+sessions (rounds)
+Led by two peers who 
+received training at Faculty 
+of Medicine’s Wellness 
+Program Discussions topics: 
+difficult patient encounters, 
+poor patient outcomes, 
+residency challenges, ethical 
+issues
+Overall 
+attendance
+Feedback 
+from pilot 
+sessions
+Level 1 Residents reported rounds 
+were a helpful to discuss 
+important issue

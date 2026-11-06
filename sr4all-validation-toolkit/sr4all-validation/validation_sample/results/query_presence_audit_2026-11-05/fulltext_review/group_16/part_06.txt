@@ -1,0 +1,173 @@
+igms are re-
+lated to well-being.
+In psychology, the Bgold standard^ for operationalizing a
+construct involves identifying a behavior that is reliably relat-
+ed to the given construct or designing a task that captures
+elements of the construct. Future work examining well-being
+should investigate how much variance in self-reported well-
+being measures is captured by different behavioral tasks.
+Established laboratory tasks that may be theoretically linked
+with well-being, such as, but not limited to, emotion regula-
+tion paradigms, social rejection paradigms, and empathy
+paradigms, might be investigated in future work to examine
+their relationship to well-being. Having meaningful and con-
+sistent behavioral measures of well-being will be important to
+advancing the study of this complex construct.
+A better understanding of the behavioral correlates of well-
+being can also be used to recalibrate the investigation of the
+neural correlates of well-being. Studies investigating the neu-
+ral correlates of well-being often take one of two modular
+approaches. Most studies identify regions of interest for inves-
+tigation by examining areas of the brain that have been previ-
+ously linked to constructs related to well-being (e.g., self-effi-
+cacy, personality, mood, etc.). Typically, studies use self-
+report measures of the constructs related to well-being to iden-
+tify regions of interest and then examine how self-reported
+well-being relates to neural structure or function in these brain
+areas. Less frequently, studies examining the neural correlates
+of well-being have used task-based approaches. Studies using
+task-based approaches typically examine the relationship be-
+tween self-report measures of well-being and neural activation
+in response to a particular task (Heller et al., 2013).
+These approaches limit the inferential power of many of the
+current studies investigating the relationship between well-
+being and the brain. In particular, these approaches are prob-
+lematic in that they introduce multiple layers from which re-
+searchers must extrapolate an understanding of the relation-
+ship between well-being and the brain. Slightly modifying the
+current approaches to investigating the neural correlates of
+well-being by using behavioral paradigms related to well-
+being to identify regions of interest could help with the prob-
+lem of reverse inference. If future work is able to identify
+meaningful behavioral paradigms that explain a significant
+amount of variance in self-report measures of well-being,
+fMRI studies can be designed in which these relevant tasks
+are used to identify regions of interest. Following the identi-
+fication of regions of interest using task-based fMRI, these
+regions can be used as seeds in resting-state analyses to eluci-
+date the relationship between well-being and the brain. The
+use of converging methods to conduct analyses investigating
+the neural correlates of well-being may be one way to help
+hone our current understanding of this complex relationship.
+Another possible approach to investigating the neural cor-
+relates of well-being is to use a lesion-based method.
+Although lesion approaches typically use a lesion-deficit
+model, it is reasonable to apply similar approaches when ex-
+amining positive functioning (King, Manzel, Bruss & Tranel,
+2017). The same principle (i.e., investigating the relationship
+between neuroanatomy and some higher order construct) ap-
+plies regardless of the particular construct being measured. In
+fact, most of what is known about the functional organization
+of the human brain is derived from work examining patients
+with specific neurological conditions (e.g., brain lesions) and
+observing the behavioral changes associated with localized
+neuroanatomical damage (Caramazza, 1992).
+792 Cogn Affect Behav Neurosci (2019) 19:779 –796
+
+[W2944727199 PDF PAGE 15]
+Future work should aim to characterize if and how lesions
+to the ACC, PCC, OFC, STG, and/or thalamus modulate well-
+being. Research suggests that when damaged, the ACC is
+known to lead to emotional instability, apathy, avolition, and
+inattention (for review see Szczepanski & Knight, 2014). How
+such damage affects well-being should be investigated. In
+addition, using recently developed lesion network mapping
+techniques (Fox, 2018), future work might provide evidence
+that lesions to the ACC, PCC, OFC, STG, and/or thalamus
+disrupt the salience and/or default mode networks, thereby
+affecting well-being. Moreover, the lesion network mapping
+technique can extend our understanding of the neural corre-
+lates of well-being by identifying if lesions in other brain
+areas, which may or may not be associated with changes in
+well-being, are implicated in either the salience or default
+mode networks.
+As evidenced in this review, research investigating the neu-
+ral correlates of well-being has not yet been definitive. Future
+work should focus on transparency and replicability, clearly
+operationalizing well-being and outlining how neural corre-
+lates are measured. Consistency across studies will be crucial
+to elucidating the neural correlates of well-being. The relation-
+ship between well-being and the brain is still in a state of
+exploration and continued work in this area is critical.
+Understanding the neural correlates of well-being may help
+scientists and clinicians develop more targeted strategies and
+therapies to maximize well-being in various populations. A
+clearer understanding of the neural correlates of well-being
+might set the stage for future work investigating how to target
+well-being in the face of physical or psychological suffering.
+Acknowledgments Jennifer Deberg, a health sciences librarian at the
+University of Iowa with expertise in searches for systematic reviews,
+helped to develop the search strategies used in the current review.
+This work was supported the National Institutes of Health Predoctoral
+Training Grant (T32-GM108540).
+Compliance with ethical standards
+Conflict of interest None
+Open practices statement The data or materials for the review reported
+are available upon request.
+Appendix 1
+Table 3 Included measures of well-being
+Well-being measure Reference
+Chinese Happiness Inventory (CHI) Lu L, Shih JB (1997a) Personality and happiness: is mental health a mediator? Personality and individual
+differences, 22, 249-256.
+Japanese version of Purpose in Life
+Test (PIL)
+Sato F et al. (1993) Validity and reliability of Japanese version of PIL (The purpose-in-life test). Iwate Daigaku
+Jinbunshakaigakubu Kiyou, 52,8 5–97.
+Japanese version of the Emotional
+Intensity Scale
+Noguchi M, Sato W, Yoshikawa S (2008) Development of the emotional intensity scale: Japanese version.Taijin
+Shakai Shinrigaku Kenkyu, 8, 103-110.
+Japanese version of WHOQOL-26 Tazaki M., Nakane M (2007) Revised Manual of WHO QOL 26. Tokyo: Kaneko-Syobou.
+Meaning in Life Questionnaire (MLQ) Steger MF, Frazier P, Oishi S, Kaler M (2006) The meaning in life questionnaire: Assessing the presence of and
+search for meaning in life. Journal of Counseling Psychology, 53, 80–93.
+Multidimensional Personality
+Questionnaire (MPQ)
+Patrick CJ, Curtin JJ, Tellegen A (2002) Development and validation of a brief form of the Multidimensional
+Personality Questionnaire.Psychological Assessment,14,150–163.
+Orientation to Happiness
+Questionnaire (OHQ)
+Peterson C, Park N, Seligman ME (2005) Orientations to happiness and life satisfaction: the full life versus the
+empty life. Journal of Happiness Studies, 6 ,2 5–41.
+Positive Affect Negative Affect
+Schedule (PANAS)
+Watson D, Clark LA, Tellegen A (1988) Development and validation of brief measures of positive and negative
+affect: the PANAS scales. Journal of Personality and Social Psychology, 54, 1063–1070.
+Rosenberg Self-Esteem Scale (RSES) Rosenberg M (1965) Society and the Adolescent Self-Image. Princeton, NJ: Princeton University Press.
+Satisfaction with Life Scales (SWLS) Diener E, Emmons RA, Larsen RJ, Griffin S (1985) The Satisfaction with Life Scale.J o u r n a lo fP e r s o n a l i t y
+Assessment, 49, 71–75.
+Scales of Psychological Well-being
+(SPWB)
+Ryff CD (1989) Happiness is everything, or is it? Explorations on the meaning of psychological well-being.
+Journal of Personality and Social Psychology, 57 ,1 0 6 9–1081.
+Social Well-Being Scale (SWBS) Keyes CLM (1998) Social well-being. Social Psychology Quarterly, 61,1 2 1–140.
+Subjective Happiness Scale (SHS) Lyubomirsky S, Lepper H (1999) A measure of subjective happiness: Preliminary reliability and construct
+validation. Social Indicators Research, 46, 137–155.
+Short Form-36 (SF-36) Ware JE, Sherbourne CD (1992) The MOS 36-item short-form health survey (SF-36). Medical Care, 30,
+473–483. [PubMed: 1593914]
+Cogn Affect Behav Neurosci (2019) 19:779 –796 793
+
+[W2944727199 PDF PAGE 16]
+Appendix 2
+References
+Asterisks (*) indicate studies included in the review.
+Allport, G. W. (1961). Pattern and growth in personality .N e wY o r k :
+Holt, Rinehart & Winston.
+Andrews-Hanna, J. R. (2012). The brain ’s default network and its adap-
+tive role in internal mentation. The Neuroscientist, 18(3), 251-270.
+Andrews, F. M., & Withey, S. (1976). Social indicators of well-being:
+American perceptions of quality of life. The Management Group.
+Barrett, L. F., & Simmons, W. K. (2015). Interoceptive predictions in the
+brain. Nature Reviews Neuroscience, 16(7), 419.
+Berridge, K. C., & Kringelbach, M. L. (2011). Building a neuroscience of
+pleasure and well-being. Psychology of Well-Being: Theory,
+Research and Practice, 1(1), 3.
+Bradburn, N. M. (1969). The structure of psychological well-being .
+Oxford, England: Aldine.
+Buckner, R. L., Andrews-Hanna, J. R., & Schacter, D. L. (2008). The
+brain’s default network. Annals of the New York Academy of
+Sciences, 1124(1), 1-38.
+Bush, G., Luu, P., & Posner, M. I. (2000). Cognitive and emotional
+influences in anterior cingulate cortex. Trends in Cognitive
+Sciences, 4(6), 215-222.
+Button, K. S., Ioannidis, J. P., Mokrysz, C., Nosek, B. A., Flint, J.,
+Robi

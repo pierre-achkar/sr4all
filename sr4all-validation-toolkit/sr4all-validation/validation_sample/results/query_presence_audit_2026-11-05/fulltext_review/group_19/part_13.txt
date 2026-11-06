@@ -1,0 +1,174 @@
+ors. Calculated SMDs ranged from very small to large but were
+mostly statistically non-significant.
+Conclusions: The small number of identified studies indicate that activity-based interventions implemented in
+hospitals may be effective in improving aspects of the care experience for Plwd. Larger well-conducted studies are
+needed to fully evaluate the potential of this type of non-pharmacological intervention to improve experience of
+care in hospital settings, and whether any benefits extend to staff wellbeing and the wider ward environment.
+Keywords: Dementia, Hospital, Acute care, Experience, Non-pharmacological interventions, Systematic review
+© The Author(s). 2020 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if
+changes were made. The images or other third party material in this article are included in the article's Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons
+licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+The Creative Commons Public Domain Dedication waiver ( http://creativecommons.org/publicdomain/zero/1.0/) applies to the
+data made available in this article, unless otherwise stated in a credit line to the data.
+* Correspondence: I.Lourida@exeter.ac.uk
+1NIHR Applied Research Collaboration (ARC), Evidence Synthesis Team,
+PenARC, University of Exeter Medical School, St Luke ’s Campus, University of
+Exeter, Exeter EX1 2LU, UK
+Full list of author information is available at the end of the article
+Lourida et al. BMC Geriatrics          (2020) 20:131 
+https://doi.org/10.1186/s12877-020-01534-7
+
+[W3015988056 PDF PAGE 2]
+Background
+Demographic ageing is associated with increased rates of
+acute general hospital admissions for older people with
+multiple comorbidities and complex care needs [ 1]. The
+estimated 850,000 people living with dementia (Plwd) in
+the UK and over 46 million people worldwide are over-
+represented in this inpatient population: approximately
+25% of hospital beds are occupied by Plwd [ 2, 3]w h o
+often have several additional long-term conditions (e.g.
+heart disease, diabetes) [ 4]. Those admitted to hospital
+with dementia experience complications and adverse out-
+comes including longer length of stay, greater mortality
+and increased risk of institutionalization post-discharge
+compared to those without dementia [ 5, 6]. While 20% of
+hospital admissions of Plwd are potentially preventable [ 7]
+some unplanned admissions are unavoidable, and it is im-
+portant that hospital care supports the needs of those af-
+fected by dementia. Hospital settings with high noise
+levels and unfamiliar surroundings can be overwhelming
+and confusing for Plwd, impacting their wellbeing and the
+ability to optimize their care. In addition, what happens in
+hospitals can have a profound and permanent effect on in-
+dividuals and their families, not only in terms of their in-
+patient experience, but also their ongoing health and the
+decisions that are made about their future [ 8, 9].
+Patient experience is one of th e three pillars of quality of
+care along with clinical effectiveness and safety [ 10]. Im-
+proving the experience of care for Plwd in the hospital set-
+ting is a key component of dementia research priorities and
+national policies in many countries including the UK [ 11,
+12]. In 2011, the Royal College of Nursing (RCN) published
+five principles for improving dementia care in hospital set-
+tings: staff, partnership, assessment, individualized care and
+environments (SPACE) [ 13, 14]. The RCN SPACE princi-
+ples have helped promote a key objective of the UK na-
+tional dementia strategy, to improve hospital care for Plwd
+[15]. Whilst these principles have been detailed and set out
+as a resource for those involved in care, providing effective
+acute care services to Plwd remains an ongoing challenge
+[16, 17]. National health care organizations have developed
+guidelines for dementia care i nterventions, including rec-
+ommendations for practitionersto offer a range of activities
+to promote wellbeing which are tailored to the person ’s
+preferences [ 18, 19]. Numerous media reports have de-
+scribed interventions to improve the experience of care for
+Plwd in hospitals including se rvices and activities such as
+dementia gardens, painting, listening to music or the intro-
+duction of tools to provide relief from restlessness [ 20– 22].
+However, most of this evidence is anecdotal and is not ac-
+companied by evaluation of the interventions.
+Reviews of studies on the effects of a broad range of
+non-pharmacological interventions on Plwd have reported
+that activity programs, such as music and other sensory
+interventions, are associated with improved activities of
+daily living, cognition, quality of life, anxiety and depres-
+sion in Plwd [ 23– 25]. There are also a number of system-
+atic reviews indicating some benefit of activity
+interventions on behavioral and psychological symptoms
+of dementia (BPSD) [ 26– 29]. However, some of these re-
+views do not focus on activity interventions or have not
+identified any research conducted in the hospital setting
+[23, 26, 30], and others have not used robust systematic
+methods [29, 31]. Furthermore, how activity interventions
+affect the experience of care has not been evaluated.
+Examining experience of care may benefit current hospital
+care practice, resulting in better care for those with de-
+mentia and support for those involved in their care, as
+well as highlighting areas in which we have limited under-
+standing of how to achieve best practice.
+Therefore, our aim was to synthesize the available evi-
+dence evaluating the effectiveness of activity-based inter-
+ventions (encompassing those described as ‘activities’ or
+‘activity programs’)t oi m p r o v et h ee x p e r i e n c eo fc a r ef o r
+Plwd while in hospital. This systematic review is part of a
+larger project of three linked systematic reviews exploring
+the perspectives of experience of care in hospital, and evalu-
+ating the effectiveness and cost-effectiveness of interven-
+tions to improve experience of care in hospital for Plwd,
+their family and/or friends, and hospital staff caring for
+them (Health Services and Delivery Research programme
+of the National Institute for Health Research project: 16/
+52/52, PROSPERO registr ation CRD42018086013). The
+project integrated end-user involvement throughout the
+reviews in the form of input and feedback from a project
+advisory group consisting of public, clinical and academic
+topic experts.
+Methods
+Identification of studies
+Search strategy
+Search terms were selected to cover dementia, hospital
+settings and names of interventions which were in-
+formed by the qualitative reviews of the larger linked
+project and through consultations with the project advis-
+ory group. The following databases were searched on
+the 9th and 10th May 2018 and updated on 2nd October
+2019: MEDLINE, EMBASE, PsycINFO, HMIC, Social
+Policy & Practice (via OvidSp), Cochrane Database of
+Systematic Reviews, CENTRAL, NHS EED, DARE and
+the HTA database (via the CRD Database), CINAHL
+(via EBSCOhost), BNI (via ProQuest), and SSCI and the
+Conference Proceedings Citation Index (via Web of Sci-
+ence) and Proquest Dissertations & Theses Global. The
+search strategy as designed in MEDLINE and adapted
+for the other databases is available in Additional file 1.
+Forwards and backwards citation chasing was carried
+out for all included studies.
+Lourida et al. BMC Geriatrics          (2020) 20:131 Page 2 of 14
+
+[W3015988056 PDF PAGE 3]
+Inclusion and exclusion criteria
+The following inclusion and exclusion criteria were used
+to determine eligibility:
+Population: people with cognitive impairment or de-
+mentia. Studies including older people with delirium/
+confusion or other physical or mental health conditions
+were included if data for Plwd were retrievable and rep-
+resented ≥50% of the sample.
+Intervention: any intervention delivered to Plwd aim-
+ing to improve their experience of care in hospital focus-
+ing on active participation of Plwd in occupational,
+social and cultural activities.
+Comparator: any control or comparator.
+Setting: any hospital setting, including the process of
+transition into and out of hospital.
+Outcomes: our project advisory group (dementia re-
+searchers, nursing, medical, physiotherapy staff, care
+home activity coordinator, palliative care practitioner,
+current and previous carers of Plwd) defined experience
+of care as ‘the extent to which a person perceives that
+needs arising from physical and emotional aspects of be-
+ing ill are met ’. Therefore, primary outcomes included
+any outcome describing the experience of or outcome of
+care. Behavioral indicators (e.g. agitation) were included
+as secondary outcomes where studies fulfilled all inclu-
+sion criteria.
+Study design: all quantitative study designs reporting
+comparative data (i.e. with control group or pre-post
+comparison), prioritizing evidence from more robust
+study designs in the synthesis where possible.
+Study selection
+Records retrieved from the database searching were
+imported to Endnote software v.X8 (Clarivate Analytics,
+USA) for screening. Titles and abstracts for each record
+were assessed independently by two reviewers (IL, RA,
+MR or SD) against the inclusion criteria. Disagreements
+between reviewers were resolved through discussion with
+the involvement of a third reviewer where necessary (RGJ,
+RA, MR or JTC). The full texts of potentially relevant re-
+cords were obtai

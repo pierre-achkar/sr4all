@@ -1,0 +1,233 @@
+, 2) evaluation of other endocrine pathologies (e.g. secondary
+hyperparathyroidism), 3) abstracts only, 4) languages other than
+English, 5) reviews, 6) studies performed on animals or cell cultures,
+7) book chapters, 8) genomic studies, 9) transcriptomic studies, and
+10) studies performed on a duplicate group of patients. At the same
+time, the two researchers extracted data and evaluated the quality of
+the recruited studies. Any discrepancy was resolved after
+consultation with the third inve stigator (GC). Additionally, a
+manual search was performed in Google Scholar and in the
+references of found articles and reviews to identify articles that
+might have been missed. For each article, the extracted information
+included: the ﬁrst author ’s name, year of publication, country,
+sample size, available characteristics of the groups (age, gender,
+BMI), type of biological sample used, evaluated markers and
+outcomes. The literature search was carried out in line with the
+PRISMA guidelines ( Figure 1 )( 22).
+The studies were assessed for methodological quality using the
+Newcastle Ottawa Scale (NOS) recommended for systematic
+reviews of non-randomized studies. The original Newcastle
+Ottawa Scales for case-control and cohort studies ( 23) and an
+adapted version for cross- sectional studies ( 24)w e r eu s e dt o
+address the risk of bias (ROB) of the included studies. The
+evaluation focused speci ﬁcally on selection, comparability and
+outcome for the cross- sectional and cohort studies and selection,
+comparability and exposure for case- control studies. Articles were
+graded using a star allocation scheme. Eight items (9 possible stars*)
+were assessed for the case- control and cohort studies and seven
+FIGURE 1
+PRISMA styleﬂowchart of the selected studies.
+Gheorghe-Milea et al. 10.3389/fimmu.2025.1563967
+Frontiers inImmunology frontiersin.org03
+
+[W4410972516 PDF PAGE 4]
+items (10 possible stars*) were analyzed for the cross-sectional
+studies. Articles with 8 or more stars were categorized as low ROB,
+those with 6 to 7 stars as medium ROB and those with 5 or less stars
+allocated were classi ﬁed as high ROB ( 23, 24).
+Results
+Literature research
+Following the electronic database search, 1662 articles were
+identi ﬁed. Additionally, 32 articles were retrieved by hand
+searching. After exclusion of the duplicates (n=346), 1348 articles
+remained. Subsequently, after evaluating the title and abstract, 1260
+irrelevant articles were excluded. The remaining studies were
+assessed for eligibility: two articles were excluded because the
+criteria for PHPT diagnosis were not clearly stated, fourteen
+articles evaluating other endocrine diseases were also excluded
+and nineteen abstracts without full-text articles or for whom full-
+text articles could not be retrieved were excluded as well.
+Additionally, four studies written in languages other than English,
+twelve articles containing studies performed on animals or cell
+cultures, one genomic and two transcriptomic studies were also
+excluded, along with four reviews and two book chapters. Twenty-
+eight articles were included in the review. In total, 1572 patients
+with PHPT were evaluated. The c haracteristics of the groups
+evaluated in the studies, along with the markers and outcomes,
+are summarized in Table 1 .
+Study quality assessment
+The assessment of methodological quality for the reviewed
+studies demonstrated that 17 articles (60.7%) had a medium risk
+of bias, 9 (32.1%) had a low risk of bias, and the remaining 2 (7.2%)
+exhibited a high risk of bias according to NOS.
+Cytokines and C-Reactive protein
+In the study performed by Grey et al. ( 28), the mean level of IL-
+6 in untreated PHPT patients (18.6 ± 2.1 pg/ml) was higher
+compared with controls (1.1 ± 0.1 pg/ml). Among the seven
+individuals who underwent successful surgical treatment, IL-6
+levels showed a signi ﬁcant reduction, from a mean value of 6.8 ±
+2.1 pg/ml preoperatively to 0.6 ± 0.1 pg/ml postoperatively (p =
+0.01). Likewise, IL-6 soluble receptor (sIL-6R) and TNF- a values
+were signi ﬁcantly higher compared with controls (p < 0.001), but
+IL-1b level was similar in the two groups. Furthermore, after
+parathyroidectomy, both sIL-6R and TNF- a decreased into the
+normal range. In PHPT patients, a signi ﬁcant correlation was
+identiﬁed between PTH and IL-6 (r = 0.47, p = 0.003)/TNF- a (r
+= 0.41, p = 0.01). Additionally, IL-6 was found to be strongly
+correlated with several marke rs of bone resorption: serum
+deoxypyridinoline (s-DPD) and type 1 collagen carboxyterminal
+telopeptide (s-ICTP), urinary pyridinoline (u-PD) and
+deoxypyridinoline (u-DPD). TNF- a was also correlated with
+these markers, but the signi ﬁcance was lost after controlling for
+IL-6. IL-6 levels were found to be positively correlated with
+osteocalcin (OC) levels (r = 0.57, p < 0.001), but not with alkaline
+phosphatase (AP) levels ( 28).
+In a study with a similar design ( 29), elevated levels of IL-6 and
+sIL-6R in PHPT patients, compared with controls, were con ﬁrmed.
+Baseline and mean IL-6 levels for each patient showed a signi ﬁcant
+correlation with baseline and mean PTH values (r = 0.44, p < 0.05).
+Relationships with bone markers were also assessed revealing that
+baseline IL-6 correlated with s-ICTP (r = 0.54, p < 0.005), IL-6sR
+showed a correlation with serum N-telopeptide of type I collagen (r
+= 0.50, p < 0.005), both markers were associated with u-DPD and
+neither with OC. Baseline values of sIL-6R correlated signi ﬁcantly
+with the annual decline in bone mineral density at the total femur (r
+= - 0.53, p < 0.01). Moreover, the authors found that serum sIL-6R
+and IL-6 cutoffs of ≥ 45.6 ng/ml and ≥ 11.8 pg/ml, respectively,
+identiﬁed subjects with signi ﬁcantly greater rates of bone loss at the
+total femur within the study group ( 29).
+Halabe et al. ( 31) showed that in patients with PHPT, levels of
+the receptor for interleukin-2 (IL-2R), both in the serum and in
+tissue culture supernatant, were normal prior to parathyroidectomy
+and signiﬁcantly increased after surgery (p < 0.05). However, IL-2R
+levels were elevated in PHPT patients compared with healthy
+donors. IL-6 production in tiss ue culture supernatants from
+phytohemagglutinin (PHA)-stimulated lymphocytes was higher
+preoperatively and increased further after surgery (p < 0.005). In
+comparison with healthy controls, IL-6 production was also greater
+in PHPT patients ( 31).
+Mean levels of circulating IL-11 were lower in PHPT patients
+compared with controls (5.7 ± 1.2 pg/ml vs 12.4 ± 1.0 pg/ml, p <
+0.001) in a study by Nakchbandi et al. ( 36) A strong negative
+correlation between circulating PTH and serum IL-11 (r = - 0.61, p
+< 0.001) was also revealed. Levels of IL-6 and IL-11 were measured
+every 4 hours for the ﬁrst 24 hours after surgery in three patients
+who underwent successful parathyroidectomy. A rapid decline in
+the mean value of IL-6 was identi ﬁed (21.5 ± 2.7 pg/ml
+preoperatively vs 7.1 ± 0.6 pg/ml 24 h postoperatively, p = 0.03),
+together with a rise in IL-11 levels (4.3 ± 0.7 pg/ml preoperatively vs
+9.9 ± 1.7 pg/ml 24 h postoperatively, p = 0.03) ( 36).
+Ogard et al. ( 39) found that plasma TNF- a levels were
+signiﬁcantly higher in the PHPT group compared with controls
+(p < 0.01), while IL-6 levels did not show a signi ﬁcant difference
+between groups (p = 0.17). Additionally, plasma CRP levels were
+higher in PHPT patients than in controls (p = 0.002). Notably, ten
+PHPT patients had CRP levels exceeding 3 mg/l, whereas none of
+the individuals in the control group had CRP values above this
+threshold. A correlation between log CRP and log IL-6 was also
+identiﬁed (r = 0.59, p < 0.001), but no signi ﬁcant correlations were
+found between log IL-6 and PTH or between any of the evaluated
+inﬂammatory markers and age, bone mineral density (BMD), T-
+score or Z-score. A small group of only 17 patients was assessed at 7
+and 18 months after parathyroidectomy, and no signi ﬁcant
+differences between the pre-and postoperative values of CRP,
+Gheorghe-Milea et al. 10.3389/fimmu.2025.1563967
+Frontiers inImmunology frontiersin.org04
+
+[W4410972516 PDF PAGE 5]
+TABLE 1 Markers of chronic inﬂammation in primary hyperparathyroidism.
+Authors
+(year)
+and
+reference
+Country Study
+type
+Study population
+characteristics
+Biological
+sample
+Markers and outcomes NOS ROB
+Beysel et al.
+(2019) ( 25)
+Turkey Longitudinal,
+retrospective
+Case- control
+° PHPT group (n= 55; age=
+51.85 ± 10.21 y; 78.2% female,
+BMI= 30.58 ± 5.14 kg/m2)
+°Control group (n= 50; age=
+53.31 ± 7.84 y; 72% female;
+BMI= 28.55 ± 3.71 kg/m 2)
+Blood serum Baseline:
+PLR, RDW, Hs-CRP: ↑ in the PHPT
+group
+LC: ↓ in the PHPT group
+WBC: similar in PHPT patients and
+controls
+6 months after PTX:
+Hs-CRP, PLR, RDW: ↑ in PHPT
+group vs control group
+Hs-CRP, LC, PLR, RDW: similar
+compared to preoperative values
+6M
+Lam et al.
+(2018) ( 26)
+Taiwan Longitudinal,
+retrospective
+Cohort
+° PHPT (n= 95; age= 59 (51 –
+67) y; 76% female):
+- Asymptomatic: n= 52; age=
+62 (56 – 68) y; 85% female,
+BMI= 23.7 (21.3 – 26.3) kg/m 2
+- Symptomatic: n= 43; age= 56
+(48 – 62) y; 65% female, BMI=
+23.7 (22.0 – 27.1) kg/m 2
+-Follow- up group(n= 30)
+Blood 6 months after PTX:
+NLR: ↓ compared to preoperative
+values
+WBC: similar compared to
+preoperative values
+7M
+Chertok-
+Shacham
+et al.
+(2008) ( 27)
+Israel Cross-
+sectional
+° PHPT group (n= 35; age=
+57.5 ± 10.8 y; 88% female;
+BMI= 27.8 ± 6.0 kg/m 2):
+- Severe PTH (n= 15)
+- Mild PHPT (n= 20)
+°Control group (n= 25; age=
+59.7 ± 7.9 y; 84% female; BMI=
+29.8 ± 5.4 kg/m 2)
+Blood serum Fibrinogen: ↑ in mild PHPT and
+controls vs. severe PHPT
+CRP, IL-6, WBC: similar in PHPT
+patients and controls
+7M
+Grey et al.
+(1996) ( 28)
+USA Cross-
+sectional
+° PHPT group (n= 38; age= 65
+± 3 y; 78% female):
+-Follow- up group(n= 7)
+° hPT group (n= 6; age= 54 ± 9
+y; 83% female)
+°Control group (n= 12; age= 58
+± 2 y; 83% female)
+Blood serum Baseline:
+TNF-a, IL-6, sIL-6R: ↑ in PHPT
+patients vs controls
+IL-1b: similar in PHPT patients and
+controls
+After PTX:
+TNF-a, IL-6, sIL-6R: ↓
+7M
+Nakchbandi
+et al.
+(20

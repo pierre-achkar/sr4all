@@ -1,0 +1,116 @@
+ lack of a standard -
+ized battery for evaluating these patients also hampered 
+comparison, with different instruments and modes of 
+analysis employed.
+Thus, further research should be carried out involv -
+ing larger samples and healthy control groups, as well as 
+standardized instruments to enable subsequent compar -
+ison. Moreover, longitudinal follow-up of these patients 
+could also increase the reliability of these results.
+In summary, we sought to systematize the results 
+of studies conducted in patients diagnosed with Par -
+kinson’s disease. Results showed that, in theory, levels 
+of benefits and risks were equal in the implementation 
+of the DBS. Improvements reported were attributed 
+to memory and social life and also decreased anxiety. 
+Worsening after intervention was observed mainly in 
+verbal fluency, processing speed, and apathy. The other 
+aspects assessed (inhibitory control, global develop -
+ment, and depression) showed no significant differences 
+in the studies, remaining stable over time. These results 
+highlight the need for further studies on the techniques 
+used to treat Parkinson’s disease, given there was a 
+noticeable decline in the cognition of these patients 
+that may or may not be attributed to their treatment. 
+It is necessary to clarify the cause of these declines and 
+devise possible rehabilitation techniques and a standard 
+assessment protocol. This protocol could start with an 
+evaluation of the patient’s general condition, determin -
+ing whether he/she has a diagnosis of depression and/
+or other comorbidities, the time of diagnosis in PD and 
+surgery, main causes for the implantation. A screening 
+instrument, such as the Montreal Cognitive Assessment 
+(MoCA), and classic neuropsychological tests could then 
+be applied for the evaluation of executive functions 
+including: Rey’s Auditory-Verbal Learning Test (RAVLT) 
+for auditory memory assessment – short and long-term; 
+the Trail Making Test A and B for cognitive flexibility, 
+the Semantic and Phonological Verbal Fluency Test and 
+Stroop Test for Inhibitory Control; and the WAIS-III 
+Digit Subtest for auditory and working memory.
+Author contributions. Thayná Laís de Souza  Arten: 
+conceptualization, formal analysis, investigation. Amer  
+Hamdan: conceptualization, formal analysis, investiga -
+tion, supervision.
+REFERENCES
+1. United Nations. Political Announcement in Madrid, adopted from <https://
+www.un.org/en/sections/issues-depth/ageing/> [2019-11-04].
+2. Macuglia GR, Rieder CRM, Almeida RMM. Funções executivas na doença 
+de Parkinson: revisão da literatura. Psico. 2012;43(4):552-61.
+3. Santos DAA. Avaliação do efeito do gangliosídeo GM1 por via intraestria-
+tal em modelo animal de doença de Parkinson induzida por 6-Hidroxi-
+Dopamina (Dissertação de Mestrado); Universidade de São Paulo. 2018.
+4. Machado FA, Reppold CT. The effect of deep brain stimulation on motor 
+and cognitive symptoms of Parkinson’s disease: A literature review. 
+Dement Neuropsychol. 2015;9(1):24-31.
+5. Baig F, Robb T, Mooney L, Robbins C, Norris C, Barua N, et al. Deep 
+brain stimulation: practical insights and common queries. Pract Neurol. 
+2019;19(6):502-7.
+6. Moher D, Liberati A, Tetzlaff J, Altman DG. Preferred reporting items for 
+systematic reviews and meta-analyses: the PRISMA statement. Annu 
+Intern Med. 2009;151(4):264-9.
+7. Ardouin C, Pillon B, Peiffer E, Bejjani P , Limousin P , Damier P , et al. Bilateral 
+subthalamic or pallidal stimulation for Parkinson’s disease affects neither 
+memory nor executive functions: A consecutive series of 62 patients. Ann 
+Neurol. 1999;46:217-23.
+8. Witt K, Pulkowski U, Herzog J, Lorenz D, Hamel W, Deuschl G, Krack 
+P . Deep Brain Stimulation of the Subthalamic Nucleus Improves Cogni-
+tive Flexibility but Impairs Response Inhibition in Parkinson Disease. Arch 
+Neurol. 2004;61(5):697-700.
+9. Funkiewiez A, Ardouin C, Caputo E, Krack P , Fraix V, Klinger H, et al. 
+Long term effects of bilateral subthalamic nucleus stimulation on cognitive 
+function, mood, and behavior in Parkinson’s disease. J Neurol Neurosurg 
+Psychiatry. 2004;75:834-9.
+10. Castelli L, Perozzo P , Zibetti M, Crivelli B, Morabito U, Lanotte M, et al. 
+Chronic Deep Brain Stimulation of the Subthalamic Nucleus for Parkin-
+son’s Disease: Effects on Cognition, Mood, Anxiety and Personality Traits. 
+Eur Neurol. 2006; 55:136-44.
+
+[W3035122294 PDF PAGE 8]
+Dement Neuropsychol 2020 June;14(2):178-185
+185
+Arten and Hamdan     Executive function and DBS in Parkinson’s disease
+11.  Fraraccio M, Ptito A, Sadikot A, Panisset M, Dagher A. Absence of cogni -
+tive deficits following deep brain stimulation of the subthalamic nucleus 
+for the treatment of Parkinson’s disease, Arch Clin Neuropsychol. 
+2008;23(4):399-408.
+12. Mikos A, Zahodne L, Okun MS, Foote K, Bowers D. Cognitive declines 
+after unilateral deep brain stimulation surgery in Parkinson’s disease: 
+a controlled study using Reliable Change, part II. Clin Neuropsychol. 
+2010;24(2):235-45.
+13. Castelli L, Rizzi L, Zibetti M., Angrisano S, Lanotte M, Lopiano L. Neu -
+ropsychological changes 1-year after subthalamic DBS in PD patients: 
+A prospective controlled study. Parkinsonism Relat Disord. 2010;16(2):  
+115-8.
+14.  Ceravolo R, Brusa L, Galati S, Volterrani D, Peppe A, Siciliano G, et al. Low 
+frequency stimulation of the nucleus tegmenti pedunculopontini increases 
+cortical metabolism in Parkinsonian patients. Eur J Neurol. 2011;18:842-9.
+15. Obeso I, Casabona E, Bringas ML, Álvarez L, Jahanshahi M. Semantic 
+and Phonemic Verbal Fluency in Parkinson’s Disease: Influence of Clinical 
+and Demographic Variables. Behav Neurol. 2012;25(2):111-8.
+16. Fumagalli M, Marceglia S, Cogiamanian F, Ardolino G, Picascia M, Bar -
+bieri S, et al. Ethical safety of deep brain stimulation: A study on moral 
+decision-making in Parkinson’s disease. Parkinsonism Relat Disord. 2015; 
+21(9):11-26.
+17. Tang V, Zhu D, Chan D, Lau C, Chan A, Mok V, Yeung J, Poon WS. Evi -
+dence of improved immediate verbal memory and diminished category 
+fluency following STN-DBS in Chinese-Cantonese patients with idiopathic 
+Parkinson’s disease. Neurol Sci. 2015;36(8):1371-7.
+18. Houvenaghel JF, Duprez J, Argaud S, Naudet F, Dondaine T, Robert G, 
+et al. Influence of subthalamic deep-brain stimulation on cognitive action 
+control in incentive context. Neuropsychologia. 2016;91:519-30.
+19.  Foley JA, Foltynie T, Zrinzo L, Hyam JA, Limousin P , Cipolotti L. Apathy and 
+Reduced Speed of Processing Underlie Decline in Verbal Fluency following 
+DBS. Behav Neurol. 2017;7348101.
+
+END REVIEW W3035122294

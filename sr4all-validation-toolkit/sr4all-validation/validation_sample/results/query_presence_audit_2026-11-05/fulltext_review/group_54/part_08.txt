@@ -1,0 +1,277 @@
+y (Figure 1B). In the R/R patient subgroup, the pooled
+rate of 24-month PFS for patients treated with 2nd-generation BTKi
+was higher than that for 1st-generation BTKi with a signiﬁcant
+difference (76.9%, 95% CI 73.0%– 80.5% vs. 67.9%, 95% CI 63.3%–
+72.4%; p = 0.004) (Figure 2C). Notably, the pooled rate of 24-month
+PFS for TN patients treated with 2nd-generation BTKi was as high
+as 87.3% (95% CI 84.3%– 90.0%) ( Figure 2D ). A total of
+1171 patients reported 24-month OS data. The pooled rate of 24-
+month OS was 90.5% (95% CI 85.6%– 94.6%), which was similar
+between the two generations of BTKis. Compared to the general
+population, the pooled rate of 24-month OS was slightly higher for
+TN patients while lower for R/R patients. No matter the status of
+previous treatment, the difference of 24-month OS between patients
+treated with 1st- and 2nd-generation BTKi was not signiﬁcant.
+Details are listed inSupplementary Figure S3.
+Nine of the included articles reported long-term survival data,
+including the rates of OS and PFS at 36 months, 48 months,
+60 months, and up to 84 months. Long-term survival reports
+after 24 months were inconsistent across these studies. For 1st-
+generation BTKi, the rates of 36-month OS and PFS were 74% and
+59%, respectively, in Byrd’s study, while they were up to 92% and
+86% in Burger ’s study. For 2nd-generation BTKi, two studies
+Frontiers inPharmacology frontiersin.org03
+Ke et al. 10.3389/fphar.2024.1413985
+
+[W4400512245 PDF PAGE 4]
+TABLE 1 Characteristics of included studies.
+Study ID Trial
+phase
+ClinicalTrials. gov
+identiﬁer
+Sample
+size
+Intervention Previous
+treatment
+Reported
+outcomes
+Median
+follow-up
+time, months
+Second-generation BTK inhibitor
+(Byrd et al.,
+2021b)
+Ⅲ NCT02477696 268 Acalabrutinib R/R ORR, PFS, OS,
+and AE
+40.9 (0.0– 59.1)
+(Sharman et al.,
+2020)
+Ⅲ NCT02475681 179 Acalabrutinib TN ORR, PFS, OS,
+and AE
+28.3
+(Ghia et al.,
+2020)
+Ⅲ NCT02970318 155 Acalabrutinib R/R ORR, PFS, OS,
+and AE
+16.1
+(Rogers et al.,
+2021)
+Ⅱ NCT02717611 60 Acalabrutinib R/R ORR, PFS, OS,
+and AE
+35
+(Sun et al., 2020) Ⅱ NCT02337829 48 (R/R:32,
+TN:16)
+Acalabrutinib TN, R/R ORR, PFS, and AE -
+(Byrd et al.,
+2020a)
+Ⅰb/Ⅱ NCT02029443 134 Acalabrutinib R/R ORR, PFS, and AE 41 (0.2 – 58)
+(Byrd et al.,
+2021a)
+Ⅰ/Ⅱ NCT02029443 99 Acalabrutinib TN ORR, PFS, and AE 53 (1 – 59)
+(Cull et al., 2022) Ⅰ/Ⅱ NCT02343120 101 Acalabrutinib R/R ORR, PFS, OS,
+and AE
+54.1
+(Cull et al., 2022) Ⅰ/Ⅱ NCT02343120 22 Acalabrutinib TN ORR, PFS, OS,
+and AE
+54.1
+(Awan et al.,
+2019)
+Ⅰ/Ⅱ NCT02029443 33 Acalabrutinib R/R ORR, PFS, and AE 19.0 (0.7 – 30.6)
+(Brown et al.,
+2023)
+Ⅲ NCT03734016 327 Zanubrutinib R/R ORR, PFS, OS,
+and AE
+29.6
+(Tam et al.,
+2022)
+Ⅲ NCT03336333 241 (without
+del17)
+Zanubrutinib TN ORR, PFS, OS, AE 26.2
+(Tam et al.,
+2022)
+Ⅲ NCT03336333 111 (with
+del17)
+Zanubrutinib TN ORR, PFS, OS,
+and AE
+26.2
+(Xu et al., 2020) Ⅱ NCT03206918 91 Zanubrutinib R/R ORR, PFS, and AE 15.1 (0.8 – 21.2)
+(Danilov et al.,
+2020)
+Ⅰb NCT02457598 29 Tirabrutinib R/R ORR and AE 15.5
+(Walter et al.,
+2016)
+Ⅰ NCT01659255 28 Tirabrutinib R/R ORR and AE -
+(Xu et al., 2023) Ⅱ NCT03493217 80 Orelabrutinib R/R ORR, PFS, OS,
+and AE
+32.3
+First-generation BTK inhibitor
+(Brown et al.,
+2023)
+Ⅲ NCT03734016 325 Ibrutinib R/R ORR, PFS, OS,
+and AE
+29.6
+(Langerbeins
+et al., 2022)
+Ⅲ NCT02863718 182 Ibrutinib TN AE 31
+(Byrd et al.,
+2021b)
+Ⅲ NCT02477696 265 Ibrutinib R/R ORR, PFS, OS,
+and AE
+40.9 (0.0– 59.1)
+(Sharman et al.,
+2021)
+Ⅲ NCT02301156 62 Ibrutinib R/R ORR and AE 41.6
+(Burger et al.,
+2020)
+Ⅲ NCT01722487 136 Ibrutinib TN ORR, PFS, OS,
+and AE
+60
+(Huang et al.,
+2018)
+Ⅲ NCT01973387 106 Ibrutinib R/R ORR, PFS, OS,
+and AE
+17.8
+(Continued on following page)
+Frontiers inPharmacology frontiersin.org04
+Ke et al. 10.3389/fphar.2024.1413985
+
+[W4400512245 PDF PAGE 5]
+reported the rates of 36-month OS as 78.3% and 91%, and the rates
+of 36-month PFS were 58.3% and 83%. For 1st-generation BTKi, the
+rates of 60-month OS ranged 60%– 92%, and the rates of 60-month
+PFS ranged 40%– 92%. The longest follow-up time in the aggregated
+data was 84 months, at which the rate of OS was still up to 84% and
+the rate of PFS was 83%. The long-term survival data beyond
+48 months for the 2nd-generation BTKi are currently lacking.
+Supplementary Table S4gives details.
+Any-grade AEs were comparable between 1st- and 2nd-
+generation BTKi (98.8%, 95% CI 97.4%– 99.8% vs. 98.6%, 95% CI
+97.0%– 99.6%; p = 0.629) (Supplementary Figure S4). Grade 3 or
+higher AEs were signiﬁcantly less frequent for 2nd-generation BTKi
+versus 1st-generation BTKi (53.1%, 95% CI 45.1%– 61.0% vs. 72.5%,
+95% CI 63.5%– 80.7%; p = 0.002) (Figure 3A). In the meta-analysis of
+discontinuation, AEs led to treatment discontinuation in 10.4%
+(95% CI 8.6% – 12.2%) of patients treated with 2nd-generation
+BTKi and 15.2% (95% CI 9.2% – 22.2%) treated with 1st-
+generation BTKi ( Figure 3B). The most common AEs in the
+collected data included headache, diarrhea, cough, arthralgia/
+myalgia, neutropenia, and upper respiratory tract infections.
+Any-grade headache was less frequent with 1st-generation BTKi
+versus 2nd-generation BTKi (16.6%, 95% CI 12.8%– 20.7% vs. 31.4%,
+95% CI 22.1%– 41.6%; p = 0.003) (Figure 3C). The incidence of grade
+3 or higher diarrhea was higher in the 1st-generation BTKi group
+than in the 2nd-generation BTKi group (3.9%, 95% CI 2.8%– 5.1%
+vs. 1.5%, 95% CI 0.7%– 2.5%; p = 0.004) (Figure 3D). The incidence
+of any-grade diarrhea was higher for 1st-generation BTKi than 2nd-
+generation BTKi, with no statistically signiﬁcant difference (39.5%,
+TABLE 1 (Continued) Characteristics of included studies.
+Study ID Trial
+phase
+ClinicalTrials. gov
+identiﬁer
+Sample
+size
+Intervention Previous
+treatment
+Reported
+outcomes
+Median
+follow-up
+time, months
+(Byrd et al.,
+2014)
+Ⅲ NCT01578707 195 Ibrutinib R/R ORR, PFS, OS,
+and AE
+9.4
+(Burger et al.,
+2019)
+Ⅱ NCT02007044 104 (R/R:89,
+TN:15)
+Ibrutinib TN, R/R ORR, PFS, OS,
+and AE
+36
+(Farooqui et al.,
+2015)
+Ⅱ NCT01500733 51 (R/R:16,
+TN:35)
+Ibrutinib TN, R/R ORR, PFS, and AE 24
+(Byrd et al.,
+2020b)
+Ⅰb/Ⅱ NCT01105247,NCT01109069 101 Ibrutinib R/R ORR, PFS, OS,
+and AE
+87
+(Byrd et al.,
+2020b)
+Ⅰb/Ⅱ NCT01105247,NCT01109069 31 Ibrutinib TN ORR, PFS, OS,
+and AE
+87
+(Byrd et al.,
+2013)
+Ⅰb/Ⅱ NCT01105247 85 Ibrutinib R/R ORR, PFS, OS,
+and AE
+20.9
+R/R, relapsed or refractory; TN, treated naive; ORR, over response rate; PFS, progression-free survival; OS, overall survival; AE, adverse event.
+FIGURE 1
+Forest plots for the pooled overall response rate(A) and 24-month progression-free survival(B) in all populations.
+Frontiers inPharmacology frontiersin.org05
+Ke et al. 10.3389/fphar.2024.1413985
+
+[W4400512245 PDF PAGE 6]
+95% CI 33.0%– 46.2% vs. 32.3%, 95% CI 24.7%– 40.4%; p = 0.178).
+The incidence of any-grade cough was similar between the two
+generations of BTKi. The incidences of any-grade neutropenia,
+arthralgia/myalgia, and upper respiratory tract infections were
+lower in the 1st-generation BTKi group than in the 2nd-
+generation group. For grade 3 or higher AEs, a lower incidence
+of neutropenia was reported in 1st-generation BTKi group than in
+the 2nd-generation group, with no statistically signiﬁcant difference
+(14.8%, 95% CI 12.2%– 17.7% vs. 16.3%, 95% CI 12.7%– 20.1%; p =
+0.515). In addition, the other incidences of grade 3 or higher AEs
+were extremely low. Details are listed inSupplementary
+Figures S5, S6.
+AEs of clinical interest, including atrial ﬁbrillation,
+hypertension, bleeding, and inf ection events, were assessed to
+further explore the safety pro ﬁle. Any-grade atrial ﬁbrillation
+incidence was signi ﬁcantly higher in the 1st-generation BTKi
+group than in the 2nd-generation group (9.1%, 95% CI 5.9%–
+12.8% vs. 4.0%, 95% CI 2.8% – 5.4%; p = 0.004) ( Figure 4A ).
+Meanwhile, grade 3 or higher atrial ﬁbrillation incidence was
+signiﬁcantly higher in the 1st-generation BTKi group than the
+2nd-generation group (4.3%, 95% CI 2.8%– 6.0% vs. 1.5%, 95% CI
+0.7%– 2.6%; p = 0.004) (Figure 4B). The pooled incidence of any-
+grade hypertension was 18.7% (95% CI 12.4%– 26.0%) in the 1st-
+generation BTKi group and 12.1% (95% CI 8.1%– 16.8%) in the
+2nd-generation group. The pooled incidence of grade 3 or higher
+hypertension was 9.3% (95% CI 4.4% – 15.9%) in the 1st-
+generation BTKi group and 5.3% (95% CI 3.1% – 8.0%) in the
+2nd-generation group. Compared to the 2nd-generation BTKi
+group, the incidences of any-grade and grade 3 or higher
+infections were higher in the 1st-generation group, with no
+statistically signiﬁcant difference (any-grade: 73.6%, 95% CI
+67.7%– 79.1% vs. 67.7%, 95% CI 59.8% – 75.1%; ≥3g r a d e :
+28.3%, 95% CI 21.7%– 35.4% vs. 20.9%, 95% CI 16.4%– 25.7%).
+However, the pooled incidence of any-grade bleeding was lower,
+while grade 3 or higher was higher in the 1st-generation BTKi
+group than the 2nd-generation group. In addition to atrial
+ﬁbrillation, the differences of hypertension, bleeding, and
+infection events were not signiﬁcant. The meta-analysis results
+are shown in Supplementary Figures S7 – S9.
+4 Discussion
+In this study, we found no statistical difference in the efﬁcacy
+between 1st-generation and 2nd-generation BTKi. Therefore, we
+believed that the efﬁcacy of the two generations of BTKi in the
+FIGURE 2
+Forest plots for the pooled overall response rate in R/R(A) and TN(B) patients and 24-month progression-free survival in R/R(C) and TN(D) patients.
+Frontiers inPharmacology frontiersin.org06
+Ke et al. 10.3389/fphar.2024.1413985
+
+[W4400512245 PDF PAGE 7]
+treatment of CLL was comparable. This was in accordance with the
+systematic review of clinical trials that reported data on the outcome
+of ﬁrst- or second-generation BTKi for patients with Waldenström’s
+macroglobulinemia ( Abushukair et al., 2022 ). In the ﬁrst
+randomized phase Ⅲ trial comparing different selective BTKi,
+acalabrutinib demonstrated noninferior PFS compared to
+ibrutinib in patients with CLL (Byrd et al., 2021b). The overall
+response rate was 81% for acalabrutinib and 77% for ibrutinib. In the
+latest phaseⅢ head-to-head trial, Brown et al. estab

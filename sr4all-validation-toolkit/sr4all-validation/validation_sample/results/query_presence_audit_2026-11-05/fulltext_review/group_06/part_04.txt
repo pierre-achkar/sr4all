@@ -1,0 +1,141 @@
+nd quasi-experimental designs, or observed non-cognitive skills through 
+longitudinal or cross-sectional studies. These non-cognitive skills include attention, executive 
+function, inhibitory control, self-control, self-regulation, effortful control, emotion regulation, 
+delay of gratification, and temperament (see Glossary in Supplementary Material for 
+definitions of these constructs). We sought to provide the first systematic representation of 
+research into non-cognitive abilities and behaviours. The need for such a systematic review is 
+driven by the fact that these abilities are being considered by policy makers to underpin early 
+life interventions2, beyond cognitive abilities (intelligence or IQ) and academic achievement 
+(literacy, numeracy). 
+ 
+ 
+ 
+ 4 
+not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+The copyright holder for this preprint (which wasthis version posted March 10, 2017. ; https://doi.org/10.1101/115691doi: bioRxiv preprint 
+
+[W2595724917 PDF PAGE 5]
+ 
+ 
+The policy motivation to improve early life non-cognitive skills 
+This body of research spans disciplines including psychology, sociology, economics, health 
+and education. It is also of great policy interest to governments in many countries,2,3 who 
+wish to sustain future economic productivity and social inclusion, by investing significant 
+resources to bolster the development of human capabilities in early life,4  especially for 
+disadvantaged children. The investment logic is that children who develop cognitive and non-
+cognitive skills early in life will have better outcomes later in life. These outcomes include 
+school readiness, educational attainment, labour market success, better mental and physical 
+health, ultimately leading to a more skilled, healthy and productive workforce. Initial 
+investments beget skills that enable future skills given sustained investments. Non-cognitive 
+skills, such as being able to sustain attention, may be especially important in this regard 
+because they can scaffold later development of cognitive and non-cognitive abilities. If these 
+skills are not developed early in life, then it can be extremely difficult and expensive to 
+compensate later in life, and this reduces returns on later investments.5  
+ 
+Diversity of non-cognitive skills  
+Since 2000, there has been a 400% increase in publications using keywords describing a 
+variety of non-cognitive skills (Supplementary Figure S1). Several constructs comprise the set 
+of non-cognitive skills reflected in this literature, including externalising behaviours and 
+academic motivation,6 responsibility and persistence,7 temperament, sociability and behaviour 
+problems,8 locus of control and self-esteem,9 and attention and socio-emotional skills.10 
+Executive functions11 or cognitive control skills (e.g., aspects of how children deploy their 
+cognitive abilities through inhibitory control and attention) may be closely related to cognitive 
+skills, but are also distinguished from IQ, literacy and numeracy.12 Personality traits such as 
+self-esteem, patterns of thoughts, feelings, and behaviours that include perseverance, 
+ 5 
+not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+The copyright holder for this preprint (which wasthis version posted March 10, 2017. ; https://doi.org/10.1101/115691doi: bioRxiv preprint 
+
+[W2595724917 PDF PAGE 6]
+ 
+ 
+motivation, self-control, and conscientiousness have also been considered as non-cognitive or 
+quasi-cognitive characteristics.13 The term “character skills”14 has been used to promote the 
+potential malleability of non-cognitive skills in contrast to the notion of personality traits that 
+are thought to be more stable. Heckman and Kautz label these as “soft skills”.6 Despite the 
+conceptual complexity and potential overlap of some constructs, many different non-cognitive 
+or personality or character or soft skills are represented in the literature. They have been the 
+target of interventions, especially in early life when these traits are thought to be especially 
+malleable,15 and for disadvantaged children, who may benefit most.5 Interventions to improve 
+non-cognitive skills may directly improve outcomes,6,14 or indirectly, through cognitive 
+ability or other mechanisms. For instance, our own longitudinal analyses in three large 
+population-based cohorts in the UK and Australia showed cognitive abilities were more 
+important than non-cognitive skills in explaining socioeconomic inequalities in academic 
+achievement early in life and that non-cognitive skills were only weakly associated with 
+cognitive ability.16  
+ 
+Evidence for later importance of early life non-cognitive skills 
+Non-cognitive abilities have been associated with a number of outcomes in later life including 
+mental health17,18, physical health19, school readiness and academic achievement20,21, crime22, 
+employment and income9, and mortality.23 Evidence from RCTs suggests that preschool 
+interventions that improve school readiness may do so in part by increasing children’s ability 
+to self-regulate their attention, emotion and behaviour.24 Heckman has argued that 
+interventions to develop these skills, especially in disadvantaged young children have the 
+potential for high rates of return due to their positive effects in multiple life domains.5  
+ 
+ 6 
+not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+The copyright holder for this preprint (which wasthis version posted March 10, 2017. ; https://doi.org/10.1101/115691doi: bioRxiv preprint 
+
+[W2595724917 PDF PAGE 7]
+ 
+ 
+It is widely accepted that children’s cognitive ability (i.e., intelligence or IQ) associates with 
+academic achievement and later success in adulthood.25-28 However, the HighScope Perry 
+Preschool Program started in 1962 suggests other mechanisms may be involved.29,30 The 
+intervention provided an active learning program based on Piagetian principles, for 
+disadvantaged 3.5 years old African American children who had IQ scores on the Stanford 
+Binet Test < 8531. In analysing the long term outcomes of the trial Heckman et al.,30 reported 
+that while initially the intervention increased IQ these increases were not maintained to age 7-
+8 years. Despite this, children who received the intervention went on to enjoy more successful 
+lives in adulthood including greater labour market success, reduced crime involvement and 
+better health.29,32,33 While we can find no evidence that the Perry Preschool Program 
+deliberately set out to influence non-cognitive abilities, Heckman and colleagues argued that 
+the intervention resulted in better outcomes for the participants not as a result of increasing 
+their intelligence, but through fostering non-intelligence based socio-emotional “personality” 
+skills30 (p. 2503).  This is not dissimilar to the observations of Bowles and Gintis1 forty years 
+ago. Schooling does not make children more intelligent, rather, it socializes them into, and 
+rewards, certain characteristics and behaviours that are valued in the labour market. 
+ 
+The aim of this review was to systematically assess all published evidence concerning effects 
+of non-cognitive skills among children up to age eight on later outcomes. We focus on 
+children up to age eight for two reasons. First, these ages are of policy relevance because they 
+are often the focus for early interventions in the health, childcare, preschool, primary school, 
+and child protection sectors. Second, there is evidence that many self-regulatory abilities 
+stabilize around this age34. We do not review intervention studies that did not specifically aim 
+to improve non-cognitive skills. Thus, some interventions such as the Perry Preschool29 and 
+Abecedarian35 programs are not formally reviewed here because we could find no 
+ 7 
+not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+The copyright holder for this preprint (which wasthis version posted March 10, 2017. ; https://doi.org/10.1101/115691doi: bioRxiv preprint 
+
+[W2595724917 PDF PAGE 8]
+ 
+ 
+documented evidence that these programs specifically set out to improve non-cognitive 
+abilities, and so were not eligible.  
+ 
+We screened eligible studies and report results on associations between non-cognitive skills 
+under age 8 and four outcome domains - academic achievement, language and cognitive 
+development, physical health, and psychosocial well-being (externalising, internalising 
+behaviour, social skills). In this manuscript we only report results from those studies we 
+judged to be “better” evidence derived from RCTs, quasi-experimental studies, and 
+observational studies that made reasonable attempts to control for confounding (endogeneity) 
+bias. However, all eligible studies were fully reviewed and for completeness are presented in 
+Supplementary Tables S7 and S8.  
+ 
+METHODS 
+The systematic review protocol was preregistered with the International Prospective Register 
+for Systematic Reviews (PROSPERO, CRD42013006566) in December 2013 and is available 
+at: http://www.crd.york.ac.uk/PROSPERO/.  
+ 
+Inclusion criteria 
+Studies were eligible if they involved non-cognitive abilities of children aged eight years or 
+younger, including executive function (working memory, cognitive flexibility, inhibitory 
+control and attention), effortful control, emotional regulation (emotional reactivity), 
+persistence, conscientiousness, attention, self-control, impulsivity and delay of gratification. 
+Interventions that had general developmental goals were included if they specifically stated an 
+aim related to improving any non-cognitive abilities. Only studies reporting original research 
+were included. Studies involving non-cognitive characteristics in clinical subgroups (e.g., 
+ 8 
+not certified by peer review) is the author/funder. All rig

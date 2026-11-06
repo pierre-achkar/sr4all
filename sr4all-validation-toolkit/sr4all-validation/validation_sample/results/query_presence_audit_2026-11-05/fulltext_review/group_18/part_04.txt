@@ -1,0 +1,195 @@
+) drainage system. Once in circulation,
+the systematic inﬂammatory response is potentiated. Among
+various types of peripheral inﬂammatory cells, neutrophils are
+the ﬁrst to inﬁltrate the lesion (30 min to a few hours), peak
+earlier (24–72 h) and decrease rapidly with time (
+58). Locally,
+neutrophils participate in brain injury by exacerbating oxida tive
+stress and BBB damage ( 59–61). The consequence of BBB
+breakdown is related to the many complications of stroke. Most
+commonly, pathologic cerebral edema results from increased
+BBB permeability and tends to develop within the ﬁrst 24
+to 48 h in AIS (
+62) or within the ﬁrst 24 h in ICH ( 63).
+Breakdown of BBB is also associated with elevated risk of
+hemorrhagic transformation in AIS. Furthermore, inﬂammation
+is involved in the restoration of BBB function. After the
+production of proinﬂammatory factor peak and neutrophils
+in the acute/subacute phase (from onset to more than 48 h),
+neutrophil levels fall. This decrease during stroke recovery
+may help BBB integrity and be associated with good prognosis
+(
+64, 65). Therefore, the post-stroke inﬂammatory response
+has become a therapeutic target, as an adjacent treatment
+Frontiers in Neurology | www.frontiersin.org 11 October 2019 | Volume 10 | Article 1032
+
+[W2978979776 PDF PAGE 12]
+Song et al. Baseline Neutrophil to Lymphocyte Ratio and Stroke
+TABLE 4 | Subgroup analyses of the associations between NLR and morta lity in hemorrhagic stroke.
+Stratiﬁed analyses No. of
+patients
+No. of
+studies
+Model Pooled HR (95%CI) P-value PD-value Heterogeneity
+I2 PH-value
+Assessment time 0.005
+In-hospital mortality 1,129 2 Random 1.002 (0.933–1.076) 0. 961 88.3% 0.003
+30-day mortality 613 3 Random 1.384 (0.985–1.945) 0.061 85. 4% 0.001
+90-day mortality 1,720 4 Random 1.489 (1.068–2.075) 0.019 9 2.2% < 0.001
+One-year mortality 593 2 Random 1.196 (0.817–1.750) 0.358 7 3.9% 0.050
+Clinical characteristic
+Hemorrhagic stroke subtypes 0.005
+ICH 1,997 6 Random 1.090 (1.004–1.182) 0.039 85.7% < 0.001
+SAH 929 3 Random 1.125 (1.002–1.263) 0.046 90.4% < 0.001
+Hematoma size 0.005
+<14 ml 737 3 Random 1.348 (1.067–1.702) 0.012 66.3% 0.052
+≥ 14 ml 1,596 4 Random 1.061 (0.958–1.174) 0.255 90.5% < 0.001
+Presence of IVH 0.024
+<25% 389 2 Random 2.027 (0.857–4.798) 0.108 63.8% 0.096
+≥ 25% 1,191 2 Random 1.025 (0.916–1.146) 0.670 93.3% < 0.001
+Demographic factors
+Age 0.011
+<65 962 3 Random 1.112 (0.989–1.250) 0.076 90.1% < 0.001
+≥ 65 1,645 5 Random 1.080 (0.997–1.170) 0.059 87.1% < 0.001
+Gender distribution 0.005
+Male dominant 1,301 5 Random 1.944 (1.281–2.951) 0.002 89.6 % < 0.001
+Balanced 855 1 Random 0.970 (0.950–0.991) 0.006 - -
+Female dominant 770 3 Random 1.051 (1.005–1.100) 0.030 55.8 % 0.079
+Country 0.005
+Eastern 1,367 5 Random 1.115 (1.011–1.229) 0.029 86.5% < 0.001
+Western 1,559 4 Random 1.083 (0.993–1.181) 0.072 87.5% < 0.001
+Vascular risk factors
+Presence of hypertension 0.005
+<55% 274 1 Fixed 1.033 (1.012–1.054) 0.002 0.0% 0.678
+≥ 55% and <65% 655 2 Random 2.743 (0.849–8.863) 0.092 90.6% 0.001
+≥ 65% and <75% 609 3 Random 1.214 (1.035–1.425) 0.017 78.1% 0.010
+≥ 75% 1,388 3 Random 0.978 (0.923–1.037) 0.458 68.3% 0.024
+Presence of diabetes mellitus 0.011
+<25% 1,752 7 Random 1.177 (1.072–1.291) 0.001 87.1% < 0.001
+≥ 25% 855 1 Fixed 0.970 (0.950–0.991) 0.006 0.0% 0.740
+Presence of hyperlipidemia 0.161
+<25% 177 1 Random 1.160 (1.016–1.325) 0.028
+≥ 25% 1,063 2 Random 1.034 (0.949–1.126) 0.449 90.4% < 0.001
+Presence of current smoking 0.011
+<35% 1,928 5 Random 1.158 (1.033–1.297) 0.011 91.6% < 0.001
+Methodological factors
+Sample time & 0.002
+On admission 1,398 3 Random 1.003 (0.950–1.059) 0.916 74.7% 0.008
+Within 24 h 1,254 5 Random 1.965 (1.313–2.941) 0.001 86.4% < 0.001
+Cutoff value 0.026
+<4 855 1 Fixed 0.970 (0.950–0.991) 0.006 0.0% 0.740
+≥ 4 1,589 6 Random 1.626 (1.221–2.166) 0.001 85.2% < 0.001
+Deﬁnition of cutoff value 0.005
+ROC curve analysis 1,445 6 Random 1.547 (1.205–1.987) 0.001 87.0% < 0.001
+4th quartile 1,207 2 Random 0.972 (0.940–1.005) 0.091 41.8% 0.179
+Continuous variable 274 1 Fixed 1.033 (1.012–1.054) 0.002 0 .0% 0.678
+HR calculation 0.011
+Multivariate 2,607 8 Random 1.080 (1.018–1.146) 0.011 88.7 % < 0.001
+ICH, intracerebral hemorrhage; SAH, subarachnoid hemorrhage; IVH, intraventricular hemorrhage.
+#Onset time was deﬁned as time from stroke onset to recruitment/admiss ion/diagnosis.
+&Sample time was deﬁned as time from stroke onset to take blood sample.
+‡HRs were extracted from multivariate Cox proportional hazards models, univariate Cox proportional hazards models, or survival curve analysis.
+Frontiers in Neurology | www.frontiersin.org 12 October 2019 | Volume 10 | Article 1032
+
+[W2978979776 PDF PAGE 13]
+Song et al. Baseline Neutrophil to Lymphocyte Ratio and Stroke
+to reperfusion therapy using thrombolysis or intravascular
+clot removal (
+54, 66). Several drugs have been tested in
+randomized trials such as Fingolimod ( 67, 68), Natalizumab ( 69),
+Interleukin-1 receptor antagonist (IL-1ra) ( 70), and Minocycline
+(ACTRN12611001053910). The ﬁndings are anticipated to
+improve treatment options and clinical outcomes in of patients
+with acute stroke (
+59). Moreover, suppression of inﬂammation
+is also beneﬁcial in models of cerebral hemorrhage ( 71).
+However, systemic immunosuppression follows after acute phase
+due to disturbed brain-immune interaction (
+4). Increased
+released glucocorticoids by the hypothalamic–pituitary axi s
+and circulating epinephrine produced by the adrenal medulla
+or via the dense innervation by postganglionic sympathetic
+ﬁbers of lymphoid organs are the major pathways to decrease
+lymphocyte counts, especially T cells and natural killer cells
+(
+3). Accordingly, infection is the most prevalent complication
+after stroke and contributes to the main cause of in-hospital
+death (
+66, 72, 73). This is consistent with our results that
+higher NLR levels were especially related to in-hospital mort ality
+in ischemic stroke. Completing the cycle, NLR levels are
+elevated because of increased neutrophil counts and downsized
+lymphocyte counts in the post-stroke stage. Furthermore,
+elevated NLR levels had detrimental eﬀects on prognosis due to
+secondary brain injury by neutrophil activation and increased
+risk of infection by lymphocyte suppression. Given the success
+of mechanical thrombectomy for large vessel occlusions, it
+would stand to reason that the NLR would fall in successful
+recanalization, given a lack of stagnating clot and reperfusion
+with less loss of BBB integrity. Abdalla et al. (
+74) reported
+their results with successful TICI 2b/3 recanalization and
+reported NLR fall 72 h post successful recanalization. The lower
+NLR level correlated directly with 90-day functional outco mes.
+Furthermore, an elevated neutrophil count was noted to be
+an independent predictor of poor outcome (>mRS3) at 90
+days despite TICI 2b/3 recanalization by Bouisseau et al. (
+75)
+with higher infarct volumes. Thus, post-stroke NLR may serve
+as a marker of patients who may require hemicraniectomy
+for large infarcts despite recanalization. Recanalization oflow-
+ASPECTS score, large-core strokes has been shown to decreas e
+the rate of malignant transformation requiring hemicranie ctomy,
+and reperfusion with decreasing NLR counts may be one
+explanation/marker (
+76). However, our meta-analysis was unable
+to evaluate the prognostic value of NLR in patients with a certa in
+type of stroke treatment or with diﬀerent infarct sizes due to
+insuﬃcient data. We highly suggest that future studies could pay
+more attention on these issues.
+Although ischemic and hemorrhagic stroke shared similar
+inﬂammatory reaction (
+6), we found that prognosis of
+hemorrhagic stroke was weakly predicted by NLR level in
+contrast with that of ischemic stroke. Higher NLR levels
+were associated with increased risk of ischemic stroke.
+These results may be due to prothrombotic state induced by
+inﬂammation responsible for ischemic stroke prodrome. During
+inﬂammation, leukocytes interact with platelets, endothel ium,
+and coagulation factors and have been widely recognized as
+important contributors to facilitating hemostasis in physiological
+and pathological conditions. This mechanism can also explain
+similar results in other clinical articles. For example, leukocytosis
+does not independently predict poor ICH prognosis when
+controlling for other outcome determinants including age,
+baseline hematoma volume, and admission Glasgow Coma
+Scale (
+77). Similarly, as hematoma expansion is related to poor
+outcome in hemorrhagic stroke ( 78), the inverse relationship
+between neutrophil counts and risk of hematoma expansion
+might relate to better prognosis (
+79). However, interestingly,
+elevated baseline NLR levels were also correlated with highe r
+risk of hemorrhagic transformation after thrombolysis in
+ischemic stroke. This may be associated with antithrombotic
+eﬀect of thrombolysis vs. a leaky BBB integrity. Thus, furthe r
+experimental and clinical studies are needed to evaluate the
+predicting role of NLR in patients after thrombolysis.
+In subgroup analysis, we found that prognostic value of NLR
+in stroke remained signiﬁcant in subgroups of more than 65
+years, male dominant composition, and patients from eastern
+countries, which are consistent with prior studies (
+14–16).
+Furthermore, as thromboembolism is the most common cause of
+ischemic stroke, we evaluated the vascular risk factors among the
+included studies. Cohorts with higher presence of hypertensi on
+(>65%), DM ( >25%), and current smoking ( >35%) tended to
+have more unfavorable functional outcomes in ischemic stro ke.
+Cutoﬀ values varied between studies due to diﬀerent deﬁnitiv e
+methods, blood sampling time, and capacity of immune system
+(
+16). A higher cutoﬀ value ( >4) indicated poorer prognosis in
+stroke. In addition, we observed that cutoﬀ values deﬁned by
+ROC curves were more likely to predict poor clinical outcomes.
+Thus, future studies are suggested to determine their speciﬁc
+cutoﬀ values by ROC curves. Temporal dynamics of neu

@@ -1,0 +1,180 @@
+SMAA. Risk of bias in model-
+based economic evaluations: the ECOBIAS checklist. Expert Rev Pharmacoecon 
+Outcomes Res. (2016) 16:513–23. doi: 10.1586/14737167.2015.1103185
+ 23. Haider S, Chaikledkaew U, Thavorncharoensap M, Y oungkong S, Islam MA, 
+Thakkinstian A. Systematic review and Meta-analysis of cost-effectiveness of rotavirus 
+vaccine in low-income and lower-midle-income countries. Open Forum Infect Dis . 
+(2019) 6:ofz117. doi: 10.1093/ofid/ofz117
+ 24. Bagepally BS, Gurav YK, Anothaisintawee T, Y oungkong S, Chaikledkaew U, 
+Thakkinstian A. Cost utility of sodium-glucose cotransporter 2 inhibitors in the 
+
+[W4389030918 PDF PAGE 10]
+Chen et al. 10.3389/fpubh.2023.1151504
+Frontiers in Public Health 10 frontiersin.org
+treatment of metformin monotherapy failed type 2 diabetes patients: a systematic 
+review and Meta-analysis. Value Health . (2019) 22:1458–69. doi: 10.1016/j.
+jval.2019.09.2750
+ 25. Robinson LA, Hammitt JK, Chang AY , Resch S. Understanding and improving the 
+one and three times GDP per capita cost-effectiveness thresholds. Health Policy Plan. 
+(2017) 32:141–5. doi: 10.1093/heapol/czw096
+ 26. World Bank (2021). Inflation, consumer prices (annual %)|Data. Available at: 
+https://data.worldbank.org/indicator/FP .CPI.TOTL.ZG (Accessed August 3, 2021)
+ 27. Bagepally BS, Chaikledkaew U, Chaiyakunapruk N, Attia J, Thakkinstian A. Meta-
+analysis of economic evaluation studies: data harmonisation and methodological issues. 
+BMC Health Serv Res. (2022) 22:202. doi: 10.1186/s12913-022-07595-1
+ 28. Crespo C, Monleon A, Díaz W , Ríos M. Comparative efficiency research 
+(COMER): meta-analysis of cost-effectiveness studies. BMC Med Res Methodol. (2014) 
+14:139. doi: 10.1186/1471-2288-14-139
+ 29. DerSimonian R, Laird N. Meta-analysis in clinical trials. Control Clin Trials. (1986) 
+7:177–88. doi: 10.1016/0197-2456(86)90046-2
+ 30. West SL, Gartlehner G, Mansfield AJ, Poole C, Tant E, Lenfestey N, et al. (2021). 
+Table  7, Summary of common statistical approaches to test for heterogeneity. 
+Published September 2010. Available at: http://www.ncbi.nlm.nih.gov/books/NBK53317/
+table/ch3.t2/  (Accessed August 3, 2021).
+ 31. World Health Organization (2021). International Classification of Diseases (ICD). 
+Available at: https://www.who.int/standards/classifications/classification-of-diseases 
+(Accessed August 10, 2021).
+ 32. World Health Organization (2021). WHO country-region. Available at: https://
+www.who.int/countries (Accessed August 10, 2021).
+ 33. World Bank (2021). World Bank Country and Lending Groups. Available at: 
+https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-
+country-and-lending-groups (Accessed August 10, 2021).
+ 34. Miller RG. The jackknife-a review. Biometrika. (1974) 61:1–15. doi: 10.1093/
+biomet/61.1.1
+ 35. Ghosh D, Zhu Y , Coffman DL. Penalized regression procedures for variable 
+selection in the potential outcomes framework. Stat Med. (2015) 34:1645–58. doi: 
+10.1002/sim.6433
+ 36. Payne K, Gavan SP , Wright SJ, Thompson AJ. Cost-effectiveness analyses of genetic 
+and genomic diagnostic tests. Nat Rev Genet. (2018) 19:235–46. doi: 10.1038/nrg.2017.108
+
+END REVIEW W4389030918
+
+
+REVIEW W4389441176
+TITLE: What are effective strategies to respond to the psychological impacts of working on the frontlines of a public health emergency?
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4389441176 PDF PAGE 1]
+Frontiers in Public Health 01 frontiersin.org
+What are effective strategies to 
+respond to the psychological 
+impacts of working on the 
+frontlines of a public health 
+emergency?
+Sarah E. Neil-Sztramko 1,2*, Emily Belita 3, Stephanie Hopkins 2, 
+Diana Sherifali 3, Laura Anderson 1, Emma Apatu 1, Lydia Kapiriri 4, 
+Jean Eric Tarride 1,5,6, Olivier Bellefleur 7, Sharon Kaasalainen 3, 
+Sharon Marr 8 and Maureen Dobbins 2,3
+1 Department of Health Research Methods, Evidence, and Impact (HEI), McMaster University, Hamilton, 
+ON, Canada, 2 National Collaborating Centre for Methods and Tools, Hamilton, ON, Canada, 3 School of 
+Nursing, McMaster University, Hamilton, ON, Canada, 4 Health, Aging & Society, McMaster University, 
+Hamilton, ON, Canada, 5 Center for Health Economics and Policy Analysis, McMaster University, 
+Hamilton, ON, Canada, 6 Programs for Assessment of Technology in Health, Research Institute of St. 
+Joe's Hamilton, St. Joseph's Healthcare Hamilton, Hamilton, ON, Canada, 7 National Collaborating 
+Centre for Healthy Public Policy, Montreal, QC, Canada, 8 Unity Health, Toronto, ON, Canada
+Background: The COVID-19 pandemic has disrupted the healthcare and public 
+health sectors. The impact of working on the frontlines as a healthcare or public 
+health professional has been well documented. Healthcare organizations must 
+support the psychological and mental health of those responding to future public 
+health emergencies.
+Objective: This systematic review aims to identify effective interventions to 
+support healthcare workers’ mental health and wellbeing during and following a 
+public health emergency.
+Methods: Eight scientific databases were searched from inception to 1 November 
+2022. Studies that described strategies to address the psychological impacts 
+experienced by those responding to a public health emergency (i.e., a pandemic, 
+epidemic, natural disaster, or mass casualty event) were eligible for inclusion. No 
+limitations were placed based on study design, language, publication status, or 
+publication date. Two reviewers independently screened studies, extracted data, and 
+assessed methodological quality using the Joanna Briggs Institute critical appraisal 
+tools. Discrepancies were resolved through discussion and a third reviewer when 
+needed. Results were synthesized narratively due to the heterogeneity of populations 
+and interventions. Outcomes were displayed graphically using harvest plots.
+Results: A total of 20,018 records were screened, with 36 unique studies included 
+in the review, 15 randomized controlled trials, and 21 quasi-experimental 
+studies. Results indicate that psychotherapy, psychoeducation, and mind–body 
+interventions may reduce symptoms of anxiety, burnout, depression, and Post 
+Traumatic Stress Disorder, with the lowest risk of bias found among psychotherapy 
+interventions. Psychoeducation appears most promising to increase resilience, 
+with mind–body interventions having the most substantial evidence for increases 
+in quality of life. Few organizational interventions were identified, with highly 
+heterogeneous components.
+Conclusion: Promoting healthcare workers’ mental health is essential at an 
+individual and health system level. This review identifies several promising 
+OPEN ACCESS
+EDITED BY
+Hubert Annen,  
+ETH Zurich, Switzerland
+REVIEWED BY
+Ling Wang,  
+King's College London, United Kingdom  
+Abdulqadir J. Nashwan,  
+Hamad Medical Corporation, Qatar
+*CORRESPONDENCE
+Sarah E. Neil-Sztramko  
+ neilszts@mcmaster.ca
+RECEIVED 23 August 2023
+ACCEPTED 15 November 2023
+PUBLISHED 07 November 2023
+CITATION
+Neil-Sztramko SE, Belita E, Hopkins S, 
+Sherifali D, Anderson L, Apatu E, Kapiriri L, 
+Tarride JE, Bellefleur O, Kaasalainen S, 
+Marr S and Dobbins M (2023) What are 
+effective strategies to respond to the 
+psychological impacts of working on the 
+frontlines of a public health emergency?
+Front. Public Health 11:1282296.
+doi: 10.3389/fpubh.2023.1282296
+COPYRIGHT
+© 2023 Neil-Sztramko, Belita, Hopkins, 
+Sherifali, Anderson, Apatu, Kapiriri, Tarride, 
+Bellefleur, Kaasalainen, Marr and Dobbins. This 
+is an open-access article distributed under the 
+terms of the Creative Commons Attribution 
+License (CC BY). The use, distribution or 
+reproduction in other forums is permitted, 
+provided the original author(s) and the 
+copyright owner(s) are credited and that the 
+original publication in this journal is cited, in 
+accordance with accepted academic practice. 
+No use, distribution or reproduction is 
+permitted which does not comply with these 
+terms.
+TYPE Systematic Review
+PUBLISHED 07 November 2023
+DOI 10.3389/fpubh.2023.1282296
+
+[W4389441176 PDF PAGE 2]
+Neil-Sztramko et al. 10.3389/fpubh.2023.1282296
+Frontiers in Public Health 02 frontiersin.org
+practices that could be  used to support healthcare workers at risk of adverse 
+mental health outcomes as they respond to future public health emergencies.
+Systematic review registration:  https://www.crd.york.ac.uk/prospero/display_
+record.php?RecordID=203810, identifier #CRD42020203810 (PROSPERO).
+KEYWORDS
+mental health, healthcare workers, COVID-19, public health emergency, education/
+awareness and skill development/training, prevention
+1 Introduction
+The COVID-19 pandemic has been a significant disruption to 
+health systems worldwide. Throughout the lifting and reinstatement 
+of public health restrictions and waves of heightened pandemic 
+activity, there was a growing recognition of a “shadow pandemic” of 
+adverse mental health effects due to the pandemic ( 1). Healthcare 
+workers (HCWs) in various settings are particularly at risk for 
+significant and prolonged impacts given their frontline role in 
+pandemic response. Previous research has demonstrated long-
+standing psychological consequences experienced by HCWs after 
+SARS (2, 3), and it is expected that there will be large-scale and long-
+term psychological impacts due to responding to COVID-19 among 
+several occupational groups ( 4–8). Several systematic reviews of 
+studies exploring the effects of the COVID-19 pandemic on the 
+mental health of HCWs have reported a high prevalence of anxiety, 
+depressive symptoms, insomnia, burnout, emotional exhaustion, and 
+somatic symptoms (9, 10). Notably, factors such as the incidence of 
+infection in the local setting, peer infections or deaths, and a shortage 
+of personal protective equipment all increased the likelihood of 
+experiencing adverse mental health outcomes (9, 10). At the same 
+time, the availability of psychological support resources had a 
+protective effect (9). With this knowledge, an action pla

@@ -1,0 +1,180 @@
+
+
+REVIEW W3137098375
+TITLE: Asymptomatic systolic dysfunction on contemporary echocardiography in anthracycline-treated long-term childhood cancer survivors: a systematic review
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W3137098375 PDF PAGE 1]
+REVIEW
+Asymptomatic systolic dysfunction on contemporary
+echocardiography in anthracycline-treated long-term childhood
+cancer survivors: a systematic review
+Remy Merkx 1 & Jan M. Leerink 2 & Esmée C. de Baat 3 & Elizabeth A. M. Feijen 3 & Wouter E. M. Kok 2 &
+Annelies M. C. Mavinkurve-Groothuis 3 & Jacqueline Loonen4 & Helena J. H. van der Pal 3 & Louise Bellersen5 &
+Chris L. de Korte 1 & Leontien C. M. Kremer 3 & Elvira C. van Dalen 3 & Livia Kapusta 6,7
+Received: 8 February 2021 / Accepted: 15 March 2021
+# The Author(s) 2021
+Abstract
+Purpose Echocardiographic surveillance for asymptomatic left ventricular systolic dysfunction (ALVSD) is advised in child-
+hood cancer survivors (CCS), because of their risk of heart failure after anthracycline treatment. ALVSD can be assessed with
+different echocardiographic parameters. We systematically reviewed the prevalence and risk factors of late ALVSD, as defined
+by contemporary and more traditional echocardiographic parameters.
+Methods We searched databases from 2001 to 2020 for studies on ≥ 100 asymptomatic 5-year CCS treated with anthracyclines,
+with or without radiotherapy involving the heart region. Outcomes of interest were prevalence of ALVSD — measured with
+volumetric methods (ejection fraction; LVEF), myocardial strain, or linear methods (fractional shortening; FS) — and its risk
+factors from multivariable analyses.
+Results Eleven included studies represented 3840 CCS. All studies had methodological limitations. An LVEF < 50% was
+observed in three studies in 1 –6% of CCS, and reduced global longitudinal strain (GLS) was reported in three studies in 9 –
+30% of CCS, both after a median follow-up of 9 to 23 years. GLS was abnormal in 20 –28% of subjects with normal LVEF.
+Abnormal FS was reported in six studies in 0.3 –30% of CCS, defined with various cut-off values (< 25 to < 30%), at a median
+follow-up of 10 to 18 years. Across echocardiographic parameters, reported risk factors were cumulative anthracycline dose and
+radiotherapy involving the heart region, with no ‘safe’dose for ALVSD.
+Conclusions GLS identifies higher prevalence of ALVSD in anthracycline-treated CCS, than LVEF.
+Implications for Cancer Survivors The diagnostic and prognostic value of GLS should be evaluated within large cohorts.
+Protocol registration PROSPERO CRD42019126588
+Keywords Cardiotoxicity . Systolic dysfunction . Echocardiography . Anthracyclines . Childhood cancer survivors
+Jan M. Leerink and Esmée C. de Baat contributed equally to this work.
+* Remy Merkx
+Remy.Merkx@radboudumc.nl
+1 Department of Medical Imaging, Medical UltraSound Imaging
+Centre, Radboud University Medical Center, P.O. Box 9101,
+6500, HB Nijmegen, The Netherlands
+2 Department of Cardiology, Amsterdam University Medical Centers,
+University of Amsterdam, Amsterdam, The Netherlands
+3 Princess Máxima Center for Pediatric Oncology,
+Utrecht, The Netherlands
+4 Department of Haematology, Radboud University Medical Center,
+Nijmegen, The Netherlands
+5 Department of Cardiology, Radboud University Medical Center,
+Nijmegen, The Netherlands
+6 Department of Paediatrics, Pediatric Cardiology Unit, Tel Aviv
+Sourasky Medical Centre, Sackler School of Medicine, Tel Aviv
+University, Tel Aviv, Israel
+7 Department of Paediatric Cardiology, Amalia Children ’s Hospital,
+Radboud University Medical Center, Nijmegen, The Netherlands
+https://doi.org/10.1007/s11764-021-01028-4
+/ Published online: 27 March 2021
+Journal of Cancer Survivorship (2022) 16:338–352
+1 3
+
+[W3137098375 PDF PAGE 2]
+Introduction
+With improved childhood cancer survival, cardiotoxicity
+emerges as the major non-malignant cause of late morbidity
+and mortality. Compared to the general population, childhood
+cancer survivors (CCS) have a sixfold heart failure specific
+mortality [1]. The cumulative incidence of symptomatic heart
+failure reaches 5 –12%, 30 to 40 years after cancer diagnosis.
+Major causes are anthracyclines and radiotherapy involving
+the heart region [ 2, 3]. Hence, survivorship care focusses on
+early detection of left ventricular (LV) dysfunction, and guide-
+lines recommend echocardiographic surveillance of asymp-
+tomatic CCS at least every 5 years [ 4].
+Knowledge of asymptomatic LV systolic dysfunction
+(ALVSD) in CCS is important to define surveillance recommen-
+dations. A systematic review on prevalence of and risk factors for
+ALVSD after anthracycline treatment, with or without radiother-
+apy, dates from 2002 [ 5]. Reported systolic dysfunction varied
+between 0 and 38%, and denoted risk factors were cumulative
+anthracycline dose and follow-up duration, while age at cancer
+diagnosis and female sex were ambiguous risk factors. The in-
+cluded studies showed heterogen eity in cardiotoxic exposure
+and, importantly, outcome definition, and most studies had meth-
+odological limitations. The reported outcome parameters were
+mostly fractional shortening (FS) and rarely LV ejection fraction
+(LVEF), but also circumferential fibre shortening velocity and
+stress velocity index [5].
+The introduction of strain measurement by speckle track-
+ing, especially global longitudinal strain (GLS), has led to
+earlier recognition of systolic dysfunction in various cardio-
+vascular diseases including adult cardio-oncology [ 6, 7]. The
+prevalence and risk factors for ALVSD in CCS have not been
+described in a systematic review addressing both strain mea-
+surements and conventional systolic function measurements.
+We systematically reviewed the available literature, continu-
+ing from our last systematic review [5], on (1) the prevalence of
+and (2) risk factors for ALVSD, to add evidence on contempo-
+rary echocardiographic parameters such as biplane and 3D
+LVEF and GLS, in long-term survivors of childhood cancer
+treated with anthracyclines with or without radiotherapy.
+Methods
+Search strategy
+We searched Medline/PubMed, EMBASE and Cochrane
+CENTRAL with terms for ‘anthracyclines’, ‘children’ and
+‘asymptomatic systolic dysfunction ’ (Online Resource 1)
+without language limits, from May 2001, up until April 13,
+2020. We explored reference lists of included articles and
+narrative reviews and performed automated citation searching
+in Web of Science.
+Study selection
+Two authors independently reviewed titles, abstracts and
+full-texts for potentially eligible studies. A third author
+solved disagreements. We included original studies eval-
+uating at least 100 asymptomatic CCS [ 8], who received
+anthracyclines with or with out radiotherapy involving
+the heart region. As childhood cancer types incidentally
+occur at later ages, 90% should be diagnosed before the
+age of 21 years. Echocardiographic evaluation was re-
+quired at least 5 years after cancer diagnosis. As the
+major screening studies included some symptomatic
+cases, we accepted a maximum of 2.5%.
+Primary outcomes were (1) prevalence of ALVSD, or (2)
+its risk factors derived from multivariable analysis that mini-
+mally included sex, age at diagnosis and either attained age or
+follow-up duration since cancer diagnosis.
+We defined ALVSD according to adult [ 9] and pedi-
+atric [ 10] echocardiography guidelines: (i) a volumetric
+approach (e.g. reduced biplane or 3D LVEF), (ii) myo-
+cardial strain analysis (e.g. reduced GLS or global cir-
+cumferential strain (GCS)) , by any technique and (iii) a
+linear approach (e.g. reduced FS or Teichholz LVEF)
+although currently discouraged in adults.
+Cut-off values for abnormal were adopted as stated. For
+strain measurements, these should be specific to the software
+used. Studies where outcomes were not reported separately for
+the defined population, cohorts with unclear (a)symptomatic
+status, and studies during pregnancy were excluded.
+We accepted multivariable risk factor analyses to in-
+clude CCS not treated with anthracyclines or with
+slightly shorter follow-up since diagnosis, since
+anthracycline dose and follow-up duration were
+corrected for in the analysis and no analyses were more
+specific. From studies reporting identical outcomes in
+overlapping cohorts, a combined or latest report was
+selected.
+Data extraction, risk of bias assessment and analysis
+Abovementioned authors independently extracted data
+using piloted forms. Up to two written requests were
+sent to study authors when missing data or eligible sub-
+groups were encountered. Authors reporting continuous
+values of systolic function were requested to provide the
+prevalence of systolic dysfunction. Risk of bias was
+evaluated based on previously published criteria for ob-
+servational studies (Online Resource 2)[ 11, 12].
+MetaXL 5.3 (EpiGear International) was used to calcu-
+late 95% confidence intervals of prevalences with con-
+tinuity correction. Continuous values are presented as
+median [range], unless stated otherwise.
+339J Cancer Surviv  (2022) 16:338–352
+1 3
+
+[W3137098375 PDF PAGE 3]
+Results
+Identified studies
+Of the 4004 unique titles and abstracts identified, 163 were
+selected for full-text assessment. Additional data were re-
+ceived from seven studies. To address the prevalence ques-
+tion, ten studies were included, and for the risk factor question,
+six were eligible (Fig. 1,T a b l e1).
+Three studies (2174 CCS) used a volumetric approach (bi-
+plane LVEF n = 660, 3D LVEF n = 1514) to quantify ALVSD
+[13, 15, 18]. Myocardial strain was reported in four studies ( n
+= 2281). One of these studies used vendor specific normative
+values for GLS and GCS [ 18], another study in a pediatric
+cohort defined abnormal GLS (apical 4-chamber view) as
+vendor specific z-score < − 2[ 13]. A third study reported
+apical 4-chamber GLS and mid-ventricular GCS as continu-
+ous values, and compared to normative values for adults [ 24]
+and children [ 25] upon our request [ 19]. The fourth study
+reporting GLS was only eligible for its ri

@@ -1,0 +1,173 @@
+trophil
+and lymphocyte counts have been described in previous studies
+(
+3, 80). Therefore, we conducted subgroup analysis stratiﬁed by
+onset time and sample time. Shorter time from stroke onset to
+admission (within 24 h), and quicker procurement of the blood
+sample (within 72 h) were beneﬁcial to record the NLR level at
+early stages of stroke-induced inﬂammation and helped predict
+negative prognosis.
+In this meta-analysis, baseline NLR was identiﬁed as a
+robust predictor of ischemic stroke occurrence and prognosis.
+However, there are several limitations. Firstly, considerable
+heterogeneity was found when combined ORs/RRs for functional
+outcomes and mortality were assessed. In the setting of ischemic
+stroke, heterogeneity was tremendously decreased to <50%
+after subgroup analysis of mortality assessment time, age,
+gender, country, and vascular risk factor. We further conducted
+sensitivity analysis of studies reporting functional outcom es in
+ischemic stroke and the outcomes had no signiﬁcant change
+after excluding a single study. Secondly, publication bias existed
+in studies providing functional outcomes in ischemic stroke as
+well as mortality in hemorrhagic stroke. The negative eﬀect o f
+higher NLR was slightly reduced after adjustment of publicati on
+bias by the trim and ﬁll method. Therefore, future studies
+are encouraged to publish null results to avoid overestimation
+of clinical signiﬁcance of NLR. We excluded studies if their
+populations were complicated with autoimmune disorders or
+systematic inﬂammatory disorders to avoid the inﬂuence of
+chronic inﬂammatory status on NLR value (
+3, 81). However, it is
+also worth evaluating the clinical signiﬁcance of NLR in patie nts
+with inﬂammatory conditions prior to enrollment as stroke can
+Frontiers in Neurology | www.frontiersin.org 13 October 2019 | Volume 10 | Article 1032
+
+[W2978979776 PDF PAGE 14]
+Song et al. Baseline Neutrophil to Lymphocyte Ratio and Stroke
+also manifest as a complication of inﬂammation. Finally, we
+observed that our included studies only reported the negative
+eﬀect of high baseline NLR on all-cause mortality. As NLR is a
+reﬂection of inﬂammatory status, we highly suggest that future
+studies could specify the cause of death related to inﬂammati on
+in post-stroke patients, such as infection-related death.
+CONCLUSIONS
+Baseline NLR level is a promising predictor of ischemic or
+hemorrhagic stroke prognosis. Elevated NLR is also associated
+with high risk of ischemic stroke occurrence. Shorter time f rom
+stroke onset to admission (within 24 h) and timely procuremen t
+of blood samples may help to reﬂect the early inﬂammatory
+response of neutrophils and lymphocytes, which may predict
+clinical outcomes. Cutoﬀ values of more than 4 may be related
+to worse prognosis. Future studies are needed to improve the
+aforementioned limitations and demonstrate the underlying
+mechanisms of our work here.
+DATA AVAILABILITY STATEMENT
+The raw data supporting the conclusions of this manuscript will
+be made available by the authors, without undue reservation, to
+any qualiﬁed researcher.
+ETHICS STATEMENT
+The corresponding local ethics committee approved this study
+and all participants provided informed consent.
+AUTHOR CONTRIBUTIONS
+RM: manuscript drafting and revision, and study concept
+and design. S-YS: manuscript drafting and revision,
+study concept and design, collection, assembly, and
+interpretation of the data. X-XZ: collection, assembly, and
+interpretation of the data. RM, S-YS, X-XZ, CH, RK, and
+YH: manuscript writing and ﬁnal approval of manuscript. GR
+and YD deeply edited the revised version and contributed
+critical revision.
+FUNDING
+This study was sponsored by the National Key R&D
+Program of China (2017YFC1308400), the National
+Natural Science Foundation (81371289), and the Project
+of Beijing Municipal Top Talent for Healthy Work of
+China (2014-2-015).
+ACKNOWLEDGMENTS
+We would like to thank all authors who reported their relevant
+data on PubMed Central (PMC) and EMBASE.
+SUPPLEMENTARY MATERIAL
+The Supplementary Material for this article can be found
+online at: https://www.frontiersin.org/articles/10.3389/fneur.
+2019.01032/full#supplementary-material
+REFERENCES
+1. Goldstein LB, Bushnell CD, Adams RJ, Appel LJ, Braun LT, Chaturve di S, et al.
+Guidelines for the primary prevention of stroke: a guideline for health care
+professionals from the American Heart Association/American Stroke
+Association.Stroke. (2011) 42:517–84. doi: 10.1161/STR.0b013e3181fcb238
+2. Ikram MA, Wieberdink RG, Koudstaal PJ. International epidemio logy
+of intracerebral hemorrhage. Curr Atheroscler Rep. (2012)
+14:300–6. doi: 10.1007/s11883-012-0252-1
+3. Macrez R, Ali C, Toutirais O, Le Mauﬀ B, Defer G, Dirnagl U, et al. S troke
+and the immune system: from pathophysiology to new therapeutic strateg ies.
+Lancet Neurol. (2011) 10:471–80. doi: 10.1016/S1474-4422(11)70066-7
+4. Meisel C, Schwab JM, Prass K, Meisel A, Dirnagl U. Central nervo us system
+injury-induced immune deﬁciency syndrome. Nat Rev Neurosci. (2005)
+6:775–86. doi: 10.1038/nrn1765
+5. Anrather J, Iadecola C. Inﬂammation and stroke: an overview.
+Neurotherapeutics. (2016) 13:661–70. doi: 10.1007/s13311-016-0483-x
+6. Aronowski J, Zhao X. Molecular pathophysiology of cerebral
+hemorrhage secondary brain injury. Stroke. (2011) 42:1781–
+6. doi: 10.1161/STROKEAHA.110.596718
+7. Brooks SD, Spears C, Cummings C, VanGilder RL, Stinehart KR, Gutma nn
+L, et al. Admission neutrophil-lymphocyte ratio predicts 90 day outcome
+after endovascular stroke therapy.J NeuroIntervent Surg. (2014) 6:578–
+83. doi: 10.1136/neurintsurg-2013-010780
+8. Saliba W, Barnett-Griness O, Elias M, Rennert G. Neutrophil to lympho cyte
+ratio and risk of a ﬁrst episode of stroke in patients with atrial ﬁbri llation:
+a cohort study. J Thromb Haemost. (2015) 13:1971–9. doi: 10.1111/jt
+h.13006
+9. Lattanzi S, Cagnetti C, Provinciali L, Silvestrini M. Neutrophi l-to-lymphocyte
+ratio and neurological deterioration following acute cerebral hemorrh age.
+Oncotarget. (2017) 8:57489–94. doi: 10.18632/oncotarget.15423
+10. Wang F, Wang L, Jiang TT, Xia JJ, Xu F, Shen LJ, et al. Neutrophil-
+to-lymphocyte ratio is an independent predictor of 30-day mortality of
+intracerebral hemorrhage patients: a validation cohort study.Neurotoxicity
+Res. (2018) 34:347–52. doi: 10.1007/s12640-018-9890-6
+11. Lattanzi S, Brigo F, Trinka E, Cagnetti C, Di Napoli M, Silvestri ni M.
+Neutrophil-to-lymphocyte ratio in acute cerebral hemorrhage: a system
+review.Transl Stroke Res. (2019) 10:137–45. doi: 10.1007/s12975-018-0649-4
+12. Tao C, Hu X, Wang J, Ma J, Li H, You C. Admission neutrophil count
+and neutrophil to lymphocyte ratio predict 90-day outcome in intracereb ral
+hemorrhage. Biomarkers Med. (2016) 11:33–42. doi: 10.2217/bmm-2016-0187
+13. Yu S, Arima H, Bertmar C, Clarke S, Herkes G, Krause M. Neutrophil to
+lymphocyte ratio and early clinical outcomes in patients with acute is chemic
+stroke. J Neurolo Sci. (2018) 387:115–8. doi: 10.1016/j.jns.2018.02.002
+14. Zhang J, Ren Q, Song Y, He M, Zeng Y, Liu Z, et al. Prognostic role o f
+neutrophil–lymphocyte ratio in patients with acute ischemic stroke. M edicine.
+(2017) 96:e8624. doi: 10.1097/MD.0000000000008624
+15. Zhang J, Cai L, Song Y, Shan B, He M, Ren Q, et al. Prognostic role
+of neutrophil lymphocyte ratio in patients with spontaneous intracere bral
+hemorrhage. Oncotarget. (2017) 8:77752–60. doi: 10.18632/oncotarget.20776
+16. Ye Z, Ai X, Fang F, Hu X, Faramand A, You C. The use of
+neutrophil to lymphocyte ratio as a predictor for clinical outcomes
+in spontaneous intracerebral hemorrhage.Oncotarget. (2017) 8:90380–
+9. doi: 10.18632/oncotarget.20120
+17. Higgins JP , Thompson SG, Deeks JJ, Altman DG. Measuring inconsi stency in
+meta-analyses. BMJ. (2003) 327:557–60. doi: 10.1136/bmj.327.7414.557
+Frontiers in Neurology | www.frontiersin.org 14 October 2019 | Volume 10 | Article 1032
+
+[W2978979776 PDF PAGE 15]
+Song et al. Baseline Neutrophil to Lymphocyte Ratio and Stroke
+18. Stuck AE, Rubenstein LZ, Wieland D. Bias in meta-analysis de tected
+by a simple, graphical test. Asymmetry detected in funnel plot was
+probably due to true heterogeneity.BMJ. (1998) 316:469; author reply 470–
+1. doi: 10.1136/bmj.316.7129.469
+19. Begg CB, Mazumdar M. Operating characteristics of a rank correlati on test for
+publication bias. Biometrics. (1994) 50:1088–101. doi: 10.2307/2533446
+20. Duval S, Tweedie R. Trim and ﬁll: a simple funnel-plot-based method o f
+testing and adjusting for publication bias in meta-analysis. Biometrics. (2000)
+56:455–63. doi: 10.1111/j.0006-341X.2000.00455.x
+21. Hayden JA, Côté P , Bombardier C. Evaluation of the quality of
+prognosis studies in systematic reviews. Ann Intern Med. (2006)
+144:427–37. doi: 10.7326/0003-4819-144-6-200603210-00 010
+22. Altman DG. Systematic reviews of evaluations of prognostic varia bles. BMJ.
+(2001) 323:224–8. doi: 10.1136/bmj.323.7306.224
+23. Park J-K, O H-G, Park T-H. Neutrophil to lymphocyte ratio at admission :
+prognostic factor in patients with acute ischemic stroke. J Korean Neurol
+Assoc. (2010) 28:172–8.
+24. Tokgoz S, Kayrak M, Akpinar Z, Seyithanoglu A, Güney F, Yürüte n B.
+Neutrophil lymphocyte ratio as a predictor of stroke. J Stroke Cerebrovasc Dis.
+(2013) 22:1169–74. doi: 10.1016/j.jstrokecerebrovasdis.20 13.01.011
+25. Akil E, Akil MA, Varol S, Özdemir HH, Yücel Y, Arslan D,
+et al. Echocardiographic epicardial fat thickness and neutrophil
+to lymphocyte ratio are novel inﬂammatory predictors of
+cerebral ischemic stroke.J Stroke Cerebrovasc Dis. (2014)
+23:2328–34. doi: 10.1016/j.jstrokecerebrovasdis.2014.04. 028
+26. Gao Wei HZ, Yongsheng D, Xubin W, Yong Z. Association betwee n
+neutrophil lymphocyte ratio and prognosis of acute ischemic stroke. J Clin
+Pathol Res. (2014) 34:509–13.
+27. Tokgoz S, Keskin S, Kayrak M, Seyithanoglu A, Ogmegul A. Is
+neutrophil/lymphocyte ratio predict to short-term mortality in acute
+cerebral infarct independently from infarct volume?J Stroke Cerebrovasc Dis.
+(2014) 23:2163–8. doi: 10.10

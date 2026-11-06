@@ -1,0 +1,167 @@
+ses,
+a section of the journal
+Frontiers in Neurology
+RECEIVED /two.tnum/nine.tnum December /two.tnum/zero.tnum/two.tnum/two.tnum
+ACCEPTED /two.tnum/eight.tnum February /two.tnum/zero.tnum/two.tnum/three.tnum
+PUBLISHED /two.tnum/two.tnum March /two.tnum/zero.tnum/two.tnum/three.tnum
+CITATION
+Zhang L, Jiang H-y and Liu W-j (/two.tnum/zero.tnum/two.tnum/three.tnum)
+Anti-seizure medication exposure and the risk
+of dementia: A meta-analysis of observational
+studies.Front. Neurol./one.tnum/four.tnum:/one.tnum/one.tnum/three.tnum/three.tnum/eight.tnum/one.tnum/six.tnum.
+doi: /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fneur./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/one.tnum/three.tnum/three.tnum/eight.tnum/one.tnum/six.tnum
+COPYRIGHT
+© /two.tnum/zero.tnum/two.tnum/three.tnum Zhang, Jiang and Liu. This is an
+open-access article distributed under the terms
+of the
+Creative Commons Attribution License
+(CC BY) . The use, distribution or reproduction
+in other forums is permitted, provided the
+original author(s) and the copyright owner(s)
+are credited and that the original publication in
+this journal is cited, in accordance with
+accepted academic practice. No use,
+distribution or reproduction is permitted which
+does not comply with these terms.
+Anti-seizure medication exposure
+and the risk of dementia: A
+meta-analysis of observational
+studies
+Lei Zhang /one.tnum, Hai-yin Jiang /two.tnumand Wen-juan Liu /three.tnum*
+/one.tnumPsychosomatic Department, Hangzhou Traditional Chinese Medici ne Hospital Aﬃliated to Zhejiang
+Chinese Medical University, Hangzhou, China, /two.tnumState Key Laboratory for Diagnosis and Treatment of
+Infectious Diseases, Collaborative Innovation Center for Diagnosi s and Treatment of Infectious Diseases,
+The First Aﬃliated Hospital, College of Medicine, Zhejiang Unive rsity, Hangzhou, China, /three.tnumAﬃliated
+Mental Health Center & Hangzhou Seventh People’s Hospital, Zhejia ng University School of Medicine,
+Hangzhou, China
+Objective: There is growing evidence of a relationship between anti-seizur e
+medication (ASM) use and the risk of dementia. This study examin ed this
+association using a meta-analysis approach.
+Methods:PubMed, EMBASE, and Cochrane Library were systematically searched
+for peer-reviewed observational studies published up to Feb ruary /two.tnum/zero.tnum/two.tnum/three.tnum. Study
+quality was evaluated using the Newcastle-Ottawa Scale, and an overal l odds ratio
+(OR) was pooled using ﬁxed or random-eﬀects models.
+Results:The analysis included /nine.tnum publications with /one.tnum/zero.tnum studies. The results showed
+that overall ASM exposure was associated with an increased risk of de mentia [OR:
+/one.tnum./zero.tnum/nine.tnum, /nine.tnum/five.tnum% conﬁdence interval (CI): /one.tnum./zero.tnum/three.tnum–/one.tnum./one.tnum/five.tnum;P = /zero.tnum./zero.tnum/zero.tnum/three.tnum] in general population.
+However, this association disappeared (OR: /one.tnum./zero.tnum/two.tnum, /nine.tnum/five.tnum% CI: /zero.tnum./nine.tnum/seven.tnum–/one.tnum./zero.tnum/seven.tnum;P = /zero.tnum./three.tnum/six.tnum/one.tnum)
+when the study data adjusted for drug indications were pooled. Su bgroup analysis
+based on individual drugs found only a positive association amo ng those exposed
+to valproate, carbamazepine, and clonazepam. Furthermore, an increased risk
+was found in patients with bipolar disorder exposed to ASMs (OR: /one.tnum./four.tnum/three.tnum, /nine.tnum/five.tnum% CI:
+/one.tnum./zero.tnum/seven.tnum–/one.tnum./nine.tnum/two.tnum;P = /zero.tnum./zero.tnum/one.tnum/five.tnum).
+Conclusions: The statistically signiﬁcant association between ASM and dementi a
+in general population may be driven by unmeasured confounding or several
+individual ﬁrst-generation ASMs. However, a higher risk of de mentia was observed
+among bipolar disorder patients treated with ASMs. Given the f ew included studies
+and evidence of high heterogeneity, further larger, prospect ive studies that control
+for important confounders are needed to verify our ﬁndings.
+KEYWORDS
+anti-seizure, second generation, cognitive, systematic, meta-analysis
+/one.tnum. Introduction
+Dementia is a progressive neurodegenerative disease characterized by progressive
+cognitive and functional decline constituting one of the leading causes of disability
+worldwide (
+1). It mainly aﬀects older people, especially those over 65 years old ( 2). With
+the growing aging population, the number of people with dementia is predicted to triple to
+an estimated 152 million worldwide by 2050 (
+3). Considering the lack of treatment options,
+recognition of the risk factors of dementia may help to prevent the disease and could also
+inform appropriate interventions. Modiﬁable risk factors, including hypertension, infection,
+Frontiers in Neurology /zero.tnum/one.tnum frontiersin.org
+
+[W4353082002 PDF PAGE 2]
+Zhang et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fneur./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/one.tnum/three.tnum/three.tnum/eight.tnum/one.tnum/six.tnum
+mental disorders, diabetes, and smoking, account for around 35%
+of dementia cases (
+4). Therefore, decreases in the incidence of
+dementia are partially attributable to avoiding some of these risk
+factors (
+5).
+Anti-seizure medication (ASM) are widely used to treat
+epilepsy and bipolar disorder ( 6). While eﬀective, they have been
+linked to negative clinical outcomes, such as increased risks of
+cognitive decline (
+7), cardiovascular disease ( 8), and fracture
+(9). Increasing numbers of epidemiological studies ( 10–18) have
+investigated the risk of dementia in ASM users; however, the results
+have been controversial. Some found an increased risk of dementia
+with ASM exposure, whereas others revealed no association. In the
+earliest cohort study, Carter et al. (
+10) reported that ASM use was
+associated with an increased risk of dementia; in three other large
+studies (
+14, 15, 18), however, dementia was not associated with
+ASM use. The ﬁndings of three studies ( 11, 12, 17) focusing on
+patients with bipolar disorder also conﬂicted. Because the various
+factors associated with ASM exposure (i.e., type of ASM and
+participants) may alter the risk of dementia diﬀerentially, these
+factors should be evaluated. Due to the increasing use of ASMs,
+determining the long-term eﬀects of these drugs on dementia is
+important. The purpose of this systematic literature review and
+meta-analysis is to assess whether ASMs exposure increases the
+incidence of dementia.
+/two.tnum. Methods
+Preferred Reporting Items for Systematic Reviews and Meta-
+analysis framework guidelines (PRISMA) were followed for
+this meta-analysis.
+/two.tnum./one.tnum. Data sources and search strategy
+A comprehensive literature search of the PubMed, EMBASE,
+and Cochrane Library databases was conducted on February
+2, 2023, according to the PRISMA statement, with no year
+restrictions. The search incorporated index terms (Mesh) and free
+text words for the search concepts: (antiepileptic AND antiseizure
+AND anticonvulsant AND valproic acid AND paraldehyde
+AND phenobarbitone AND levetiracetam AND lorazepam AND
+carbamazepine AND phenytoin AND midazolam AND lidocaine
+AND fosphenytoin AND bumetanide) AND (dementia OR
+Alzheimer OR frontotemporal dementia OR cognitive dysfunction
+OR cognitive impair OR cognitive decline OR vascular dementia
+OR multiinfarct dementia OR neurodegenerative diseases OR
+neurocognitive disorders) AND (risk OR ratio OR prospective
+studies OR epidemiologic studies OR case-control studies OR
+cohort studies). An additional search was conducted in the
+bibliographies of relevant articles and relevant reviews.
+/two.tnum./two.tnum. Selection criteria
+The studies were assessed by two independent reviewers
+who determined whether the studies met the inclusion
+criteria. Observational studies were included if they were: (1)
+a peer-reviewed study with a case–control or cohort design
+published in English, (2) included ASM exposure preceding
+a diagnosis of dementia, (3) included participants 18 years
+or older, (4) explored the association between ASM exposure
+and the risk of dementia, and (5) provided suﬃcient data
+to allow the calculation of risk estimates if adjusted data
+were not provided. Case reports, case series, animal studies,
+editorials, reviews, and meta-analyses were excluded. Studies that
+considered dementia as comorbidity and not as an outcome were
+also excluded.
+/two.tnum./three.tnum. Data extraction
+Two authors extracted information from all selected studies
+using piloted data extraction sheets. Any discrepancies in the
+extracted data were resolved by a third author. The following
+information was collected from each study: author, publication
+year, study location, sample demographics, information on ASM
+exposure, diagnostic criteria for dementia, number of subjects in
+each group, statistical adjustments, and study quality.
+/two.tnum./four.tnum. Risk of bias and quality assessment
+The quality of the included observational studies was
+assessed using the Newcastle-Ottawa Scale (NOS) (
+19), which
+is recommended by the Cochrane Handbook for Systematic
+Reviews of Interventions. The assessment focuses on three
+major areas: the study population selection, the comparability
+between the two groups, and the ascertainment of exposure
+(for case-control studies) or the outcome of interest (for
+cohort studies).
+/two.tnum./five.tnum. Statistical analysis
+We used the STATA ver.16.0 (StataCorp., College Station,
+TX, USA) to perform meta-analysis. A random-eﬀects model
+was used to pool the odds ratios (ORs) and 95% conﬁdence
+intervals (CI) of individual studies; such models are optimal in
+terms of allowing the results to be generalized because they can
+deal with potential heterogeneity (
+20). ORs were considered as
+approximations of relative risks (RRs) or hazard ratios (HRs)
+because the dementia outcome under study is rare in all populations
+and subgroups under review. Splitting one study into severa

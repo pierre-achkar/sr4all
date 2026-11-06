@@ -1,0 +1,146 @@
+ADAS, and this is presented in the Supplementary Materials (Table S4).
+3.3. Meta-Analysis
+The included studies were split into groups to carry out the meta-analyses: t-tau in
+AD vs. CU (n = 39), p-tau181 in AD vs. CU (n = 20), p-tau217 in AD vs. CU (n = 3), t-tau
+in MCI vs. CU (n = 24), p-tau181 in MCI vs. CU (n = 13), p-tau217 in MCI vs. CU (n = 2).
+Summary statistics presented as median and interquartile range prevented pooling of the
+data, and subsequently, 5 cohorts [29–31] were not included in these meta-analyses.
+3.3.1. p-tau181
+From the studies eligible for meta-analysis that presented data on plasma/serum
+p-tau181 concentrations, a total of 1233 AD and 2017 CU study participants were included
+in the meta-analysis for assessing the ratio of p-tau181 in AD and control participants
+(Figure 2A). Of these studies, 8 did not include an MCI cohort, making a total of 1169 MCI
+and 1459 CU participants involved in determining the ratio of p-tau181 in MCI to CU partic-
+ipants (Figure 2B). Except for one study reporting an effect size of 0.72, all cohorts in these
+comparisons had an effect size greater than 1, indicating higher p-tau181 concentrations
+in AD and MCI than in CU participants. The average ratio (effect size) of AD to CU was
+2.02 (95% CI 1.76–2.27), and 1.34 (95% CI 1.20–1.49) for MCI to CU.
+
+[W4366393059 PDF PAGE 6]
+Cells 2023, 12, 1184 6 of 16
+Cells 2023, 12, x FOR PEER REVIEW  6 of 17 
+ 
+ 
+and 1459 CU participants involved in determining the ratio of p-tau181 in MCI to CU 
+participants (Figure 2B). Except for one study reporting an eﬀect size of 0.72, all cohorts 
+in these comparisons had an eﬀect size greater than 1, indicating higher p-tau181 concen-
+trations in AD and MCI than in CU participants. The average ratio (eﬀect size) of AD to 
+CU was 2.02 (95% CI 1.76–2.27), and 1.34 (95% CI 1.20–1.49) for MCI to CU. 
+ 
+ 
+Figure 2. Forest plots for studies presenting plasma/serum p-tau181. (A). Alzheimer’s disease (AD) 
+versus cognitively unimpaired (CU) participants. (B). Mild cognitive impairment (MCI) versus cog-
+nitively unimpaired (CU) participants. Ratio (eﬀect size) and 95% CI for individual studies are pre-
+sented by a circle, color-coded by assay type; the overall ratio is presented by a diamond and a grey 
+Figure 2. Forest plots for studies presenting plasma/serum p-tau181. ( A). Alzheimer’s disease
+(AD) versus cognitively unimpaired (CU) participants. (B). Mild cognitive impairment (MCI) versus
+cognitively unimpaired (CU) participants. Ratio (effect size) and 95% CI for individual studies are
+presented by a circle, color-coded by assay type; the overall ratio is presented by a diamond and
+a grey vertical line. Studies are arranged in descending weight order. Data are presented on a log
+scale. An effect size of 1 indicates equal biomarker concentrations in AD and CU. Percentage weight,
+number of AD participants, and number of CU participants are displayed on the right side of the
+forest plot for each study and the combination of all studies. AD: Alzheimer’s disease; CU: cognitively
+unimpaired; CI: conﬁdence interval.
+
+[W4366393059 PDF PAGE 7]
+Cells 2023, 12, 1184 7 of 16
+From these 34 studies, data were obtained using 5 different assay formats (IMR,
+SIMOA, ELISA, ECL, and LC-MS). In the meta-analysis for AD versus CU, the greatest
+weighting contribution to the overall effect was SIMOA (72.1%), followed by IMR (25.56%)
+and ELISA (2.34%). In the meta-analysis for MCI versus CU, the greatest weighting contri-
+bution was again from SIMOA (67.45%), followed by IMR (24.74%), LC-MS (4.37%), and
+ELISA (3.44%). The spread of results across studies was large, with conﬁdence intervals
+from several studies not overlapping. Individual study variance was different across stud-
+ies, as indicated by their weight (i.e., inverse of variance). The between-study heterogeneity
+was considerable for both AD versus CU (I2 = 98.23%) and for MCI versus CU (I2 = 92.17%).
+3.3.2. t-tau
+A larger number of studies were available for t-tau biomarkers than for p-tau181,
+with 42 studies being eligible for inclusion in the meta-analysis. The total number of
+study participants in these cohorts was 2359 AD patients, 1373 MCI patients, and 8994 CU
+individuals. As one study did not investigate t-tau in AD patients, 8970 CU individuals
+were pooled into the meta-analysis assessing plasma/serum t-tau ratio in AD to CU
+(Figure 3A), and as 17 studies were not eligible for the meta-analysis assessing the ratio
+in MCI to CU participants, 1974 CU study participants were included in this analysis
+(Figure 3B).
+The average ratio (effect size) was 1.77 (95% CI 1.49–2.04) in AD to CU and 1.47 (95%
+CI 1.26–1.67) in MCI to CU. Of the 41 studies assessing t-tau in AD versus CU, 9 had a ratio
+of 1 or below, with a minimum effect size of 0.68 and a maximum of 4.52. The spread of
+results was wide, with an I2 value of 99.36%. Similarly, the MCI to CU ratio was 1 or below
+in 4 of the 24 studies, and the I2 value was 98.6%.
+These results were obtained using 5 different assay formats, where studies in the AD
+versus CU meta-analysis that used ECL and IMR carried less weight overall (8.54% and
+25.84%) than those using SIMOA and ELISA (28.10% and 37.52%). For MCI versus CU, stud-
+ies using ELISA carried the most weight (33.58%), followed by electrochemiluminescence
+(33.43%), IMR (23.37%), SIMOA (7.74%), and lastly, LC-MS (1.87%).
+3.3.3. p-tau217
+As p-tau217 is a more recently identiﬁed AD biomarker in plasma [29,32], very few
+p-tau217 studies were available for inclusion in the meta-analysis. Three studies were
+included for assessing the ratio of p-tau217 in AD vs. CU (Figure 4B), and two were
+included for assessing the ratio of p-tau217 in MCI vs. CU (Figure 4B). A total of 198 AD
+and 296 CU study participants were included in the AD vs. CU analysis, and a total of
+73 MCI and 119 CU study participants were included in the MCI vs. CU analysis. All
+cohorts in these comparisons had an effect size greater than 1, indicating higher p-tau217
+concentrations in AD and MCI groups than in CU participants. The average ratio (effect
+size) of AD to CU was 1.89 (95% CI 1.86–1.92), and 4.16 (95% CI 3.61–4.71) for MCI to CU,
+with I2 of 99.986% and 84.77%, respectively. For these studies, data were obtained using
+2 different assay types (SIMOA and LC-MS).
+3.4. Comparison of Ultrasensitive Technologies
+Sub-analysis by technology platforms was performed for t-tau and ptau181, suggest-
+ing that immunomagnetic reduction (IMR) and single molecule array (SIMOA) approaches
+show a greater difference in these biomarkers between CU control individuals and par-
+ticipants within the AD continuum. When comparing AD patients to CU individuals,
+studies using SIMOA to assess p-tau181 had an overall effect size of 2.09 (95% CI 2.13–2.05),
+which was superior to IMR 1.38 (95% CI 1.46–1.30) and ELISA 1.35 (95% CI 1.45–1.25). In
+studies assessing t-tau, IMR had an average effect size of 2.29 (95% CI 2.33–2.25), which
+was superior to SIMOA 1.24 (95% CI 1.56–0.92), ELISA 1.16 (95% CI 1.53–0.8), and ECL
+1.05 (95% CI 1.12–0.97).
+
+[W4366393059 PDF PAGE 8]
+Cells 2023, 12, 1184 8 of 16
+Cells 2023, 12, x FOR PEER REVIEW  8 of 17 
+ 
+ 
+ 
+ 
+ 
+Figure 3. Forest plot for studies presenting plasma/serum t-tau. (A). Alzheimer’s disease (AD) versus
+cognitively unimpaired (CU) participants. (B). Mild cognitive impairment (MCI) versus cognitively
+unimpaired (CU) participants. Ratio (effect size) and 95% CI for individual studies are presented by a
+circle, color-coded by assay type, and the overall ratio is presented by a diamond and a grey vertical
+line. Studies are arranged in descending weight order. Data are presented on a log scale. An effect
+size of 1 indicates equal biomarker concentrations in AD and CU. Percentage weight, number of AD
+participants, and number of CU participants are displayed on the right side of the forest plot for
+each study and the combination of all studies. AD: Alzheimer’s disease; CU: cognitively unimpaired;
+CI: conﬁdence interval.
+
+[W4366393059 PDF PAGE 9]
+Cells 2023, 12, 1184 9 of 16
+Cells 2023, 12, x FOR PEER REVIEW  9 of 17 
+ 
+ 
+Figure 3. Forest plot for studies presenting plasma/serum t-tau. (A). Alzheimer’s disease (AD) ver-
+sus cognitively unimpaired (CU) participants. (B). Mild cognitive impairment (MCI) versus cogni-
+tively unimpaired (CU) participants. Ratio (eﬀect size) and 95% CI for individual studies are pre-
+sented by a circle, color-coded by assay type, and the overall ratio is presented by a diamond and a 
+grey vertical line. Studies are arranged in descending weight order. Data are presented on a log 
+scale. An eﬀect size of 1 indicates equal biomarker concentrations in AD and CU. Percentage weight, 
+number of AD participants, and number of CU participants are displayed on the right side of the 
+forest plot for each study and the combination of all studies. AD: Alzheimer’s disease; CU: cogni-
+tively unimpaired; CI: conﬁdence interval. 
+3.3.3. p-tau217 
+As p-tau217 is a more recently identiﬁed AD biomarker in plasma [29,32], very few 
+p-tau217 studies were available for inclusion in the meta-analysis. Three studies were in-
+cluded for assessing the ratio of p-tau217 in AD vs. CU (Figure 4B), and two were included 
+for assessing the ratio of p-tau217 in MCI vs. CU (Figure 4B). A total of 198 AD and 296 
+CU study participants were included in the AD vs. CU analysis, and a total of 73 MCI and 
+119 CU study participants were included in the MCI vs. CU analysis. All cohorts in these 
+comparisons had an eﬀect size greater than 1, indicating higher p-tau217 concentrations 
+in AD and MCI groups than in CU participants. The average ratio (eﬀect size) of AD to 
+CU was 1.89 (95% CI 1.86–1.92), and 4.16 (95% CI 3.61–4.71) for MCI to CU, with I2 of 
+99.986% and 84.77%, respectively. For these studies, data were obtained using 2 diﬀerent 
+assay types (SIMOA and LC-MS). 
+ 
+ 
+ 
+Figure 4. Forest plot for studies presenting plasma p-tau217 A. Alzheimer’s disease (AD) versus 
+cognitiv

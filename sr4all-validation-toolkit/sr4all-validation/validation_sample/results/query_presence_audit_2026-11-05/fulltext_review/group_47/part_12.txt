@@ -1,0 +1,175 @@
+32.27%). Subgroup analysis showed that diet and physical activity interventions were beneficial 
+in women with ≥ 2 GDM risk factors (risk difference − 0.16, 95% CI 0.25, − 0.07;  I2 11.23%) while inositol supplementa-
+tion was effective in women with overweight or obesity (risk difference − 0.17, 95% CI 0.22, − 0.11;  I2 0.01%). Effective-
+ness of all other interventions were not statistically significant.
+Conclusions This review provides evidence that interventions targeted at women at risk of GDM may be an effec-
+tive strategy for prevention. Further studies using validated prediction tools or multiple risk factors to target high-risk 
+women for intervention before and during pregnancy are warranted.
+Open Access
+© The Author(s) 2024. Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which 
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the 
+original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line 
+to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory 
+regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this 
+licence, visit http:// creat iveco mmons. org/ licen ses/ by/4. 0/. The Creative Commons Public Domain Dedication waiver (http:// creat iveco 
+mmons. org/ publi cdoma in/ zero/1. 0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+Diabetology &
+Metabolic Syndrome
+†Sara L. White and Angela C. Flynn have contributed equally to this work.
+*Correspondence:
+Ola F. Quotah
+ola.quotah@kcl.ac.uk
+Full list of author information is available at the end of the article
+
+[W4390583438 PDF PAGE 2]
+Page 2 of 16Quotah et al. Diabetology & Metabolic Syndrome            (2024) 16:8 
+Introduction
+Gestational diabetes mellitus (GDM) is a common 
+pregnancy related complication affecting ~ 14% of preg -
+nancies worldwide, although prevalence varies by coun -
+try, population and diagnostic criteria [1 ]. Women who 
+develop GDM have a higher risk of gestational hyper -
+tension, pre-eclampsia, caesarean and preterm delivery 
+than women who do not develop the condition [2 –4]. 
+Infants of mothers with GDM are at increased risk of 
+stillbirth, macrosomia, and neonatal hypoglycaemia [3 , 
+4]. In the longer term, GDM is associated with a greater 
+risk of metabolic disease for both the mother and her 
+offspring [5 –7], highlighting the importance of early 
+screening and prevention.
+Although the aetiology of GDM is not completely 
+understood, there are obstetric, socio-demographic, 
+clinical and metabolic risk factors implicated [8 , 9]. 
+The  oral glucose tolerance test (OGTT), usually car -
+ried out between 24 and 28 weeks of gestation, is used 
+to detect GDM as part of routine antenatal care [10]. 
+To date there is no consensus on the strategies to iden -
+tify women at high-risk of developing GDM earlier in 
+pregnancy.
+Several antenatal trials have aimed to prevent GDM, 
+suggesting that behavioural interventions (e.g. diet and 
+physical activity (PA)), supplementation (e.g. myo-ino -
+sitol and vitamin D), and pharmacological intervention 
+using metformin have possible benefits in reducing risk 
+in the general antenatal population [11– 14]. Moreover, 
+studies have not been able to establish an effect of diet 
+or exercise alone, probiotics, and/or other vitamins 
+and minerals on GDM risk [11, 15]. It is not yet clear 
+whether targeting interventions to women with specific 
+risk factors for GDM is an effective approach to GDM 
+prevention.
+Additionally, research on the effectiveness of  precon -
+ception interventions in preventing GDM is lacking [11], 
+and it is a priortiy area for intervention research [16]. 
+One preconception nutritional intervention was not suc -
+cessful in reducing maternal glycaemia or GDM in a large 
+multi-site trial; however, this study did not target higher 
+risk women [17]. Hence, a more selective approach in 
+women who are at risk and planning to conceive might 
+be more effective.
+The aim of this review was to evaluate the effect of 
+interventions (behavioural, supplementation and phar -
+macological) during the preconception period and/or 
+in pregnancy on reducing GDM in women identified at 
+higher risk for developing the condition.
+Methods
+This review was conducted in accordance with the rel -
+evant criteria of the PRISMA guidelines for reporting a 
+systematic review and meta-analysis [18] and was regis -
+tered in the PROSPERO database (CRD42020177976).
+Eligibility criteria
+Inclusion and exclusion criteria were developed using the 
+PICOS (population, intervention, comparison, outcomes 
+and study design) framework, summarised in Table  1. 
+For inclusion, studies had to meet the following criteria: 
+(1) randomised controlled trials (RCTs) that evaluated 
+interventions, in the preconception period and/or dur -
+ing pregnancy compared with no intervention, standard 
+care or placebo; (2) women identified as higher risk of 
+developing GDM using any risk stratification in the pre -
+conception period or in early pregnancy; (3) data report -
+ing GDM as a primary or secondary pregnancy outcome. 
+All diagnostic criteria for GDM were deemed acceptable. 
+Studies meeting the following criteria were excluded: (1) 
+Keywords Gestational diabetes, Intervention, Preconception, Pregnancy, Diet, Physical activity, Dietary supplement, 
+Randomised controlled trials, Systematic review, Meta-analysis
+Table 1 Summary of PICOS criteria for the inclusion of studies
+GDM gestational diabetes mellitus; PA physical activity; PCOS polycystic ovary syndrome
+Parameter Description
+Population Preconception and/or pregnant women at higher risk of GDM, identified using risk factors 
+including but not limited to overweight/obesity, raised lipids, elevated glucose concentra-
+tion, insulin resistance, increased maternal age, high-risk ethnicity, previous macrosomic 
+infant, previous GDM, PCOS, metabolic syndrome, hypertension, family history of GDM 
+or diabetes, use of a risk tool
+Intervention Behavioural (diet/ PA/ diet and PA) and/or supplements and/or pharmacological intervention
+Comparison No intervention, standard care or placebo
+Outcome GDM as a primary or secondary outcome
+Study design Randomised controlled trials
+
+[W4390583438 PDF PAGE 3]
+Page 3 of 16
+Quotah et al. Diabetology & Metabolic Syndrome            (2024) 16:8 
+ 
+non-randomised and observational studies; (2) abstracts, 
+reviews, letters, commentaries and editorials; (3) women 
+aged less than 18 years or older than 50 years; (4) studies 
+designed to treat GDM; (5) interventions starting too late 
+in pregnancy (> 28 weeks’ gestation); (6) studies not pub -
+lished in English.
+Database searches
+Three electronic databases: MEDLINE, EMBASE and 
+the Cochrane Central Register of Controlled Trials, were 
+searched up to February 2023 with no date restriction. 
+A comprehensive search strategy was developed (Addi -
+tional file 1: Table A1, A2, A3) using search terms related 
+to “pregnancy” , “adiposity” and “randomisation” . Refer -
+ence lists from all included studies were examined for 
+additional relevant articles to supplement the database 
+searches as per PRISMA guideline recommendations 
+[18]. Study authors were contacted when further infor -
+mation was required.
+Study selection
+Records obtained from all databases were imported 
+into the EndNote X9 reference management software to 
+eliminate duplicate publications. Subsequently, studies 
+were imported into the screening management software 
+Rayyan [19] for screening. All title and abstracts were 
+screened by OFQ and a second independent reviewer 
+(either KGN, AA, GSC, AP or NV). Full-text screening 
+was also carried out independently in duplicate, with dis -
+agreements discussed and resolved by consensus opinion 
+among 4 reviewers.
+Data extraction and quality assessment
+Data were extracted independently and in duplicate by 
+two authors (OFQ, DA) using a standardised table cre -
+ated for this review. Data extraction included: title; 
+authors; publication year; trial periods; study design; 
+country; aim; sample size; population; inclusion/exclu -
+sion criteria; period of intervention (preconception and/
+or pregnancy); risk stratification; intervention character -
+istics and clinical outcomes. The Cochrane risk-of-bias 
+tool for randomised trials (RoB 2) [20] was used to assess 
+the validity and bias of each study included according to 
+the Cochrane Handbook for Systematic Reviews of Inter-
+ventions version 6.3 [21]. The domains used included 
+randomisation bias (whether the allocation sequence was 
+random and adequately concealed), deviations from the 
+intended interventions (blinding of participants and trial 
+personnel, adherence to intervention), bias due to miss -
+ing outcome data (including biases introduced by proce -
+dures used to impute or otherwise account for missing 
+outcome data), bias in measurements of the outcome 
+(differential errors related to intervention assignment) 
+and bias in selection of the reported results. The quality 
+assessment was based on a series of signalling questions 
+within each domain and was independently performed 
+by two authors (OFQ, DA). Discrepancies were resolved 
+by a third author (ACF). The overall risk was determined, 
+and studies were classified as ‘low risk of bias’ , ‘some con-
+cerns’ or ‘high risk of bias’ .
+Analysis
+The interventions and outcomes were evaluated to deter -
+mine the appropriateness of data pooling in order to 
+perform a meta-analysis. The analysis was built around 
+different intervention types including: behaviou

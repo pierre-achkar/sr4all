@@ -1,0 +1,184 @@
+ 
+interpret the meta-analysis findings cautiously as the 
+heterogeneity may limit the validity of providing a single 
+point estimate for distinct populations. Notably, the level 
+of heterogeneity we found was consistent with prior sys-
+tematic reviews on the prevalence of mental disorders in 
+prison settings [2]. All of this underscores the need for 
+more research on mental health in prison settings and 
+better standardization of the tools used to assess mental 
+and substance use disorders.
+While recognizing the heterogeneity, prevalence esti -
+mates are consistently higher than those estimated in a 
+prior systematic review on mental illness in prison, which 
+found a 3.6% prevalence of psychosis among men and 
+3.9% in women, and a 10.2% prevalence of major depres-
+sion in men and 14.1% in women [2]. This prior review, 
+however, included only one study from Africa, where 
+resources for psychiatric care are particularly limited, and 
+it did not include forensic wards. When we examined the 
+prevalence of psychotic disorders in prisons alone (foren-
+sic psychiatry units excluded), the prevalence of psy -
+chotic disorders (1%; 95% CI 0.00–0.02) was much more 
+similar to the prior review, but the prevalence of mood 
+disorders (33%; 95% CI 0.20–0.46) remained higher. 
+Although the prior review estimated the prevalence of 
+major depression alone while this review includes bipo-
+lar disorder, almost all studies included in our estimate of 
+mood disorders in prisons measured depression exclu-
+sively, and there was low prevalence of bipolar disorder. 
+The prevalence of substance use disorder (35%; 95% CI 
+0.25–0.44) was similarly high as observed in a prior inter-
+national systematic review on substance use and depend -
+ence in prison, which found prevalence for alcohol use 
+and dependence ranged from 18 to 30% among men and 
+10 to 24% among women, while prevalence of drug abuse 
+and dependence varied from 10 to 48% in male prison-
+ers and 30 to 60% in female prisoners [4]. There were 
+too few women included in our study results to warrant 
+meta-analysis by gender; however, the gender differences 
+observed in prior research highlight the need for inten-
+tional data collection on gender in future work.
+Subgroup analysis highlighted that there are differences 
+in prevalence between institutions, with higher preva -
+lence of mood disorders in prisons, higher prevalence 
+of psychotic disorders in forensic institutions, and very 
+low prevalence of psychotic disorders in prisons. This 
+
+[W2944555439 PDF PAGE 36]
+Page 36 of 41Lovett et al. Int J Ment Health Syst           (2019) 13:31 
+finding suggests that people with severe psychotic ill -
+nesses are being tracked out of prisons and into forensic 
+units, which theoretically provide more psychiatric treat -
+ment. Interestingly, however, the prevalence of any sort 
+of mental disorder in forensic units was less than 100%, 
+indicating that people without psychiatric diagnoses are 
+being detained in these units in some settings. Addition-
+ally, there was relatively high prevalence of substance use 
+across facilities, highlighting the importance of consider-
+ing substance use when developing interventions in all 
+settings of detention. The prevalence of any mental disor-
+der in youth institutions had particularly high variability, 
+perhaps because of the small number of studies and wide 
+variety in reasons for youth detention. The findings of the 
+meta-analysis, however, must be interpreted cautiously 
+because the samples are highly heterogeneous, likely 
+because these samples are drawn from different coun-
+tries, institutions, and cultural contexts, and the out -
+comes are measured in a variety of ways with tools that 
+may not be adequately validated in their settings. The 
+heterogeneity is expected in a field with such paucity of 
+data and is consistent with other meta-analyses of mental 
+disorders in prisons [2].
+Systematic reviews have the potential to include, and 
+even elevate, ethically questionable studies due to the 
+nature of an exhaustive search [31, 63]. This may be par -
+ticularly problematic for research involving vulnerable 
+populations such as PDJS. We chose not to exclude any 
+studies based on their ethical practices because excluding 
+studies potentially detracts from knowledge that should 
+eventually be used to help this vulnerable population. 
+Thirty-five percent of studies failed to document ethics 
+committee approval or informed consent procedures. 
+Not all journals require ethics reporting, so our results 
+do not necessarily indicate whether ethics procedures 
+actually occurred, but raise concerns. The use of eth-
+ics assessment protocols in systematic reviews [31] and 
+greater standardization for ethics reporting across jour-
+nals could help ensure that all relevant ethical procedures 
+are described.
+The three effective interventions studies identified in 
+the review may provide a starting point for future devel -
+opment of interventions and could be adapted for other 
+settings. For instance, two interventions—one for depres-
+sion [42], one for substance dependence [43]—used cog -
+nitive behavioral therapy approaches in group-focused 
+sessions held twice a week. This group-focused, cognitive 
+behavioral design could be adapted in future psychoso-
+cial interventions. The other intervention, a RCT for 
+neuroleptics used to treat schizophrenia symptoms [44], 
+highlights the strengths of pharmacological interventions 
+for severe mental illness.
+Implications for health workers and policymakers
+First, we were surprised at how many studies included 
+people who had not been convicted. Considerable work 
+at all levels is needed to ensure that people with men-
+tal illness have rapid access to trial and are not detained 
+without due process. Second, the high prevalence of 
+mental disorders demonstrated across all settings of the 
+justice system highlights the need for all staff members to 
+receive mental health training. Likewise, those working 
+in mental health should receive training on managing the 
+needs of people who have been involved with the justice 
+system. However, interventions must be coordinated and 
+services designed to support individuals as they move 
+across health, justice, and social systems. For instance, 
+Munetz and Griffin propose the sequential intercept 
+model for diversion of people with mental illness from 
+the justice system in which various points of contact with 
+the justice system become opportunities for connecting 
+individuals to services; i.e. interceptions to prevent fur-
+ther justice involvement [3, 64]. Third, the prevalence of 
+substance use disorders was particularly high. Systematic 
+reviews and RCTs from HICs highlight the importance of 
+medication-assisted interventions, which combine psy-
+chological and pharmacological treatment, for substance 
+use disorders in PDJS [3, 65, 66].
+Directions for future research
+First, the studies included have made it clear that there 
+is high psychiatric prevalence among PDJS, but little 
+development or testing of interventions to address the 
+large mental health need. Contextual research on each 
+system of detention and subpopulation, including youth, 
+and older participants, trial or charge status, gender, 
+and diagnosis, is essential to inform such interventions. 
+In addition to providing mental health services within 
+institutions of detention, the high prevalence of mental 
+illness compared to the general populations suggests a 
+need for research on supportive diversions of individuals 
+with mental illness from the justice system to best con-
+nect individuals with care. Second, we have focused on 
+the academic literature, but there should also be system-
+atic and comprehensive data collection and analysis of 
+institutional and governmental documents surrounding 
+the mental health of PDJS in Africa. Third, there is need 
+for longitudinal studies that follow participants to com-
+munity re-entry, especially investigating transitions to 
+community health care and long-term health and recidi-
+vism outcomes [67, 68]. Fourth, only five studies in this 
+review collected qualitative data from PDJS themselves. 
+Studies must do more to include service user voices. 
+Fifth, prisons, youth institutions, and forensic psychiatry 
+settings must be investigated both discretely and as facili-
+ties that feed into each other: each settings’ population 
+
+[W2944555439 PDF PAGE 37]
+Page 37 of 41
+Lovett et al. Int J Ment Health Syst           (2019) 13:31 
+has specific needs, but there may be revolving door effect 
+for forensic psychiatric units and prisons, as described in 
+Zimbabwe [49]. Sixth, economics research was not pre-
+sent in our results, but is needed to measure the societal 
+costs of lack of treatment, the cost-effectiveness of treat-
+ments, and the potential cost-savings provided by inter -
+ventions and diversions.
+Limitations
+First, a major limitation for this review was the hetero -
+geneity of studies and overall paucity of high quality lit -
+erature. We chose broader definitions of detention and 
+mental illness to provide a comprehensive perspective 
+on this understudied area and better define the state of 
+the field in Africa. However, because results were more 
+variable than expected, we were unable to analyze spe-
+cific aspects or subpopulations (interventions, forensic 
+units, youth institutions, policy) in as much depth as we 
+would have liked. We aim to delve deeper in the future, 
+producing discrete publications on forensic hospitals, 
+youth institutions, conditions of detention, but reported 
+all results of this paper collectively in accordance with 
+PRISMA guidelines [23], and to avoid legal, ethical, and 
+methodological issues that arise from post hoc changes 
+to the protocol and attempts to publish slices or versions 
+of data that have been published previously [69]. This 
+heterogeneity in included studies makes it challenging to 
+point to singular conclusions from the data. However, the 

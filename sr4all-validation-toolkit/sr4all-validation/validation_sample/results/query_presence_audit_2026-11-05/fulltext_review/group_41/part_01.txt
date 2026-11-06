@@ -1,0 +1,176 @@
+alumab (53%, 95% CI 47-59; 22%, 95% CI 17-28) and
+atezolizumab (53%, 95% CI 46-60; 22%, 95% CI 16-29).
+Regarding the reconstructed PFS, adebrelimab (HR 0.83, 95%
+CI 0.68-1.00) and atezolizumab (HR 0.82, 95% CI 0.67-1.01)
+showed similar risks of disease progression or death against
+durvalumab (Figures 5A, C). Nevertheless, adebrelimab achieved
+a lower risk of disease progression or death than atezolizumab (HR
+0.67, 95% CI 0.54-0.83) (Figure 5B). Additionally, patients in the
+adebrelimab group showed the highest PFS rates at 6 months (50%,
+95% CI 44-57) and 12 months (20%, 95% CI 15-26), followed by
+durvalumab (46%, 95% CI 40-52; 18%, 95% 14-23) and
+atezolizumab (32%, 95% CI 26-39; 13%, 95% CI 9-19).
+Discussion
+In this original patient-level survival analysis, we synthesized the
+OS and PFS in ES-SCLC patients treated with anti-PD-L1 therapy
+plus chemotherapy, with a median OS of 14.0 months (95% CI 11.2-
+16.6) and a median PFS of 5.6 months (95% CI 4.7-6.7). In addition,
+patients in the adebrelimab group showed the lowest risks of death or
+disease progression and highest survival rates compared with
+durvalumab and atezolizumab. However, it appears to be a debate
+on whether adebrelimab is superior to durvalumab and atezolizumab.
+For patients in the placebo group of the CAPSTONE-1 trial, the
+median OS was 12.8 months, much longer than the reported data in
+the CASPIAN (10.5 months) and IMpower133 (10.3 months) trials.
+Except for the comparable rates of liver metastasis, brain metastasis,
+and stage IV disease in these three trials, the most apparent
+difference was that patients in the CAPSTONE-1 received
+antiangiogenic drugs (24% in the adebrelimab groups and 30% in
+the placebo group). Nevertheless, the authors did not make any
+more explanations or discussi ons on the administration of
+antiangiogenic therapy. The prolonged OS in the CAPSTONE-1
+trial might be partly attributed to antiangiogenic agents (12–14).
+Considering OS data could be impacted by subsequent second
+or later-line treatments, we suggest that median PFS and PFS rate
+B
+A
+FIGURE 3
+Pooled Kaplan-Meier OS(A) and PFS(B) curves.
+Wang et al. 10.3389/ﬁmmu.2023.1185577
+Frontiers inImmunology frontiersin.org04
+
+[W4377565324 PDF PAGE 5]
+might be more suitable to be applied to assess the efﬁcacy of PD-L1
+as the ﬁrst-line treatment for ES-SCLC (15). Another reason was
+that PFS data could directly reﬂect the improvement achieved by
+adding anti-PD-L1 therapy to chemotherapy. In the CASPIAN trial,
+the median PFS was 5.1 months in the durvalumab group versus 5.4
+months in the placebo group, and the rates of PFS at 12 months
+were 17.9% in the durvalumab group and 5.3% in the placebo
+group; In the IMpower133 trial, the median PFS was 5.2 months in
+the atezolizumab group versus 4.3 months in the placebo group, and
+the rates of PFS at 12 months were 12.6% in the atezolizumab group
+and 5.4% in the placebo group; In the CAPSTONE-1 trial, the
+median PFS was 5.8 months in the adebrelimab group versus 5.6
+months in the placebo group, and the rates of PFS at 12 months
+were 19.7% in the adebrelimab group and 5.9% in the placebo
+group. According to these results, the atezolizumab group achieved
+a wider gap (0.9 months) than the durvalumab (-0.3 months) and
+adebrelimab (0.2 months) groups. Although median PFS failed to
+be vastly elevated (less than one month), the PFS rates at 12 months
+were improved. Therefore, PFS data can be considered as primary
+endpoints in studies investigating the ﬁrst-line treatment of
+ES-SCLC.
+Regarding the subgroup analyses, more details deserve our
+attention. Less than 65 years old patients might bene ﬁtf r o m
+adebrelimab, while patients ≥ 65 could choose durvalumab and
+atezolizumab. In addition, patients with brain or liver metastasis
+might be hard to proﬁt from adding anti-PD-L1 therapy to
+chemotherapy owing to the short lifetime. However, we should
+read the results of subgroup analyses rigorously because the well-
+balanced backgrounds of patients were lacking.
+Physicians and patients may not be satisﬁed with the current
+anti-PD-L1 therapy and chemotherapy. There is a long way to
+prolong the PFS and OS. During the maintenance phase, the
+addition of radiotherapy to anti-PD-L1 therapy could effectively
+treat the primary lung or distant metastatic lesions ( 16, 17).
+Moreover, antiangiogenic agents have been reported to enhance
+the effects of immunotherapy in ES-SCLC patients (12, 18).
+This survival analysis had both advantages and limitations. Data
+in the placebo groups were not taken into the analysis, which might
+increase the reliability of our ﬁndings. A Bayesian or frequency
+network analysis could solve the problem, but it is not feasible at the
+current stage due to the limited enrolled trials. However, readers
+can intuitively understand the survival differences between the PD-
+B
+C
+A
+FIGURE 4
+Reconstructed median OS comparisons between PD-L1 inhibitors.(A) Adebrelimab vs. Durvalumab;(B) Adebrelimab vs. Atezolizumab;
+(C) Atezolizumab vs. Durvaluamb.
+Wang et al. 10.3389/ﬁmmu.2023.1185577
+Frontiers inImmunology frontiersin.org05
+
+[W4377565324 PDF PAGE 6]
+L1 inhibitors from our reconstructed survival curves. Combining
+IPDfromKM method with Bayesian network analysis is warranted
+to balance the inhomogeneity among trials. Additionally, we did not
+intend to further analyze the immune-related adverse events,
+mainly because PD-L1-related toxicities could be well controlled.
+Finally, anti-PD-L1 therapy has improved the survival time of
+ES-SCLC patients. Although our results showed that patients in the
+adebrelimab group achieved the most prolonged survival beneﬁts,
+durvalumab and atezolizumab have their strong points. We hope
+future studies can provide more real-world comparisons and
+effective therapeutic strategies.
+Data availability statement
+The original contributions presented in the study are included
+in the article/supplementary material. Further inquiries can be
+directed to the corresponding author.
+Author contributions
+Study design: B-CW. data extraction: B-CW and CF. data analysis:
+B-CW and CF. Manuscript writing and edition: all authors. All
+authors contributed to the article and approved the submitted version.
+Acknowledgments
+We thank the SNOWELL studio for helping to provide
+statistical support and improve the language.
+Conﬂict of interest
+The authors declare that the research was conducted in the
+absence of any commercial orﬁnancial relationships that could be
+construed as a potential conﬂict of interest.
+B
+C
+A
+FIGURE 5
+Reconstructed median PFS comparisons between PD-L1 inhibitors.(A) Adebrelimab vs. Durvalumab;(B) Adebrelimab vs. Atezolizumab;
+(C) Atezolizumab vs. Durvaluamb.
+Wang et al. 10.3389/ﬁmmu.2023.1185577
+Frontiers inImmunology frontiersin.org06
+
+[W4377565324 PDF PAGE 7]
+Publisher’s note
+All claims expressed in this article are solely those of the authors
+and do not necessarily represent those of their af ﬁliated
+organizations, or those of the publisher, the editors and the
+reviewers. Any product that may be evaluated in this article, or
+claim that may be made by its manufacturer, is not guaranteed or
+endorsed by the publisher.
+References
+1. Longo V, Pizzutilo P, Catino A, Montrone M, Pesola F, Marerch I, et al.
+Prognostic factors for survival in extensive-stage small cell lung cancer: an Italian
+real-world retrospective analysis of 244 patients treated over the last decade.Thorac
+Cancer (2022) 13:3486–95. doi:10.1111/1759-7714.14712
+2. Ganti AKP, Loo BW, Bassetti M, Blakely C, Chiang A, D'Amico TA, et al. Small
+cell lung cancer, version 2.2022, NCCN clinical practice guidelines in oncology.J Natl
+Compr Canc Netw(2021) 19:1441–64. doi:10.6004/jnccn.2021.0058
+3. Paz-Ares L, Dvorkin M, Chen YB, Reinmuth N, Hotta K, Trukhin D, et al.
+Durvalumab plus platinum-etoposide versus platinum-etoposide inﬁrst-line treatment
+of extensive-stage small-cell lung cancer (CASPIAN): a randomised, controlled, open-
+label, phase 3 trial.Lancet (2019) 394:1929–39. doi:10.1016/s0140-6736(19)32222-6
+4. Goldman JW, Dvorkin M, Chen Y, Reinmuth N, Hotta K, Trukhin D, et al.
+Durvalumab, with or without tremelimumab, plus platinum-etoposide versus
+platinum-etoposide alone inﬁrst-line treatment of extensive-stage small-cell lung
+cancer (CASPIAN): updated results from a randomised, controlled, open-label,
+phase 3 trial.Lancet Oncol(2021) 22:51–65. doi:10.1016/s1470-2045(20)30539-8
+5. Horn L, Mansﬁeld AS, Szczęsna A, Havel L, Krzakowski M, Hochmair MJ, et al.
+First-line atezolizumab plus chemotherapy in extensive-stage small-cell lung cancer.N
+Engl J Med(2018) 379:2220–9. doi:10.1056/NEJMoa1809064
+6. Liu SV, Reck M, Mansﬁeld AS, Mok T, Scherpereel A, Reinmuth N, et al. Updated
+overall survival and PD-L1 subgroup analysis of patients with extensive-stage small-cell
+lung cancer treated with atezolizumab, carboplatin, and etoposide (IMpower133).J
+Clin Oncol(2021) 39:619–30. doi:10.1200/jco.20.01055
+7. Wang J, Zhou C, Yao W, Wang Q, Min X, Chen G, et al. Adebrelimab or placebo
+plus carboplatin and etoposide asﬁrst-line treatment for extensive-stage small-cell lung
+cancer (CAPSTONE-1): a multicentre, randomised, double-blind, placebo-controlled,
+phase 3 trial.Lancet Oncol(2022) 23:739–47. doi:10.1016/s1470-2045(22)00224-8
+8. Liu N, Zhou Y, Lee JJ. IPDfromKM: reconstruct individual patient data from
+published Kaplan-Meier survival curves. BMC Med Res Methodol (2021) 21:111.
+doi: 10.1186/s12874-021-01308-8
+9. Messori A. Synthetizing published evidence on survival by reconstruction of
+patient-level data and generation of a multi-trial Kaplan-Meier curve.Cureus (2021) 13:
+e19422. doi:10.7759/cureus.19422
+10. Shamseer L, Moher D, Clarke M, Ghersi D, Liberati A, Petticrew M, et al.
+Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-
+p) 2015: elaboration and explanation.BMJ (2015) 350:g7647. doi:10.1136/bmj.g7647
+11. Combescure C, Foucher Y, Jackson D. Meta-analysis of single-arm survival
+studies: a distribution-free approach for estimating summar

@@ -1,0 +1,189 @@
+e extraction
+techniques for breast cancer detection in labview.Int J Comput Appl(2016) 147(10):1–
+6. doi:10.5120/ijca2016911752
+71. Torres-Garcı́ a AA, Mendoza-Montoya O, Molinas M, Antelis JM, Moctezuma
+LA, Herná ndez-Del-Toro T. Chapter 4 - Pre-processing and feature extraction. In:
+Torres-Garcı́ a AA, Reyes-Garcı́ a CA, Villaseñor-Pineda L, Mendoza-Montoya O,
+editors. Biosignal processing and classi ﬁcation using computational learning and
+intelligence. Cambridge, MA, USA: Academic Press. (2022). p. 59– 91.
+72. Kalbhor M, Shinde S, Popescu DE, Hemanth DJ. Hybridization of deep learning
+pre-trained models with machine learning classiﬁers and fuzzy min&ndash;Max neural
+network for cervical cancer diagnosis. Diagnostics (2023) 13(7):1363. doi:
+10.3390/diagnostics13071363
+73. Woo J, Xing F, Prince JL, Stone M, Gomez AD, Reese TG, et al. A deep joint
+sparse non-negative matrix factorization framework for identifying the common and
+subject-speciﬁc functional units of tongue motion during speech.Med image Anal
+(2021) 72:102131. doi:10.1016/j.media.2021.102131
+74. Pastor-Serrano O, Lathouwers D, Perkó Z. A semi-supervised autoencoder
+framework for joint generation and classi ﬁcation of breathing. Comput Methods
+Programs Biomed (2021) 209:106312. doi:10.1016/j.cmpb.2021.106312
+75. Guruvare S, Bhatt A, Chaudhary A, Kothari A, Rangarajan A, Kothari R, et al.
+Cervical cancer detection using convolutional neural networks with transfer learning
+and progressive resizing. J Med Imaging Health Inf (2021) 11(4):1129 – 36.
+doi: 10.1166/jmihi.2021.3459
+76. Cao X, Chen H, Li Y, Peng Y, Wang S, Cheng L. Dilated densely connected U-
+Net with uncertainty focus loss for 3D ABUS mass segmentation.Comput Methods
+Programs Biomed (2021) 209:106313. doi:10.1016/j.cmpb.2021.106313
+77. Tufail AB, Ma YK. Deep learning in cancer diagnosis and prognosis prediction:
+A minireview on challenges. Recent Trends Future Dir (2021) 2021:9025470. doi:
+10.1155/2021/9025470
+78. Gao Y, Zeng S, Xu X, Li H, Yao S, Song K, et al. Deep learning-enabled pelvic
+ultrasound images for accurate diagnosis of ovarian cancer in China: a retrospective,
+multicentre, diagnostic study.Lancet Digital Health(2022) 4(3):e179– e87. doi:10.1016/
+S2589-7500(21)00278-8
+79. Li Z, Zhu Q, Zhang L, Yang X, Li Z, Fu J. A deep learning-based self-adapting
+ensemble method for segmentation in gynecological brachytherapy. Radiat Oncol
+(2022) 17(1):152.
+80. Akazawa M, Hashimoto K. Artiﬁcial intelligence in gynecologic cancers: Current
+status and future challenges - A systematic review.Artif Intell Med(2021) 120:102164.
+doi: 10.1016/j.artmed.2021.102164
+81. Wang S, Zha Y, Li W, Wu Q, Li X, Niu M, et al. A fully automatic deep learning
+system for COVID-19 diagnostic and prognostic analysis. Eur Respir J (2020) 56
+(2):2000775. doi:10.1183/13993003.00775-2020
+82. Passalis N, Tefas A, Kanniainen J, Gabbouj M, Iosiﬁdis A. Temporal logistic
+neural bag-of-features for ﬁnancial time series forecasting leveraging limit
+order book data. Pattern Recognit Lett (2020) 136:183 – 9. doi:
+10.1016/j.patrec.2020.06.006
+83. Bae S, An C, Ahn SS, Kim H, Han K, Kim SW, et al. Robust performance of deep
+learning for distinguishing glioblastoma from single brain metastasis using radiomic
+features: model development and validation.Sci Rep (2020) 10(1):1– 10. doi: 10.1038/
+s41598-020-68980-6
+Taddese et al. 10.3389/fonc.2023.1216326
+Frontiers inOncology frontiersin.org17
+
+END REVIEW W4390740227
+
+
+REVIEW W4391141481
+TITLE: Effect of transanal drainage tube on prevention of anastomotic leakage after anterior rectal cancer surgery taking indwelling time into consideration: a systematic review and meta-analysis
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4391141481 PDF PAGE 1]
+Effect of transanal drainage tube
+on prevention of anastomotic
+leakage after anterior rectal
+cancer surgery taking indwelling
+time into consideration: a
+systematic review and
+meta-analysis
+Xinzhen Xu1† , XiangZhang1† , XinLi2,A oYu1, XiqiangZhang1,
+Shuohui Dong1, ZitianLiu1, ZhiqiangCheng1 and KexinWang1*
+1Department of General Surgery, Qilu Hospital of Shandong University, Jinan, China,2Department of
+General Surgery, Huantai Country People’s Hospital, Zibo, China
+Background: Placement of an indwelling transanal drainage tube (TDT) to
+prevent anastomotic leakage (AL) aft er anterior rectal cancer surgery has
+become a routine choice for surgeon s in the recent years. However, the
+speciﬁc indwelling time of the TDT has not been explored. We performed this
+meta-analysis and considered the indwelling time a critical factor in re-analyzing
+the effectiveness of TDT placement in prevention of AL after anterior rectal
+cancer surgery.
+Methods: Randomized controlled trials (RCTs) and cohort studies which
+evaluated the effectiveness of TDT in prevention of AL after rectal cancer
+surgery and considered the indwelling time of TDT were identiﬁed using a
+predesigned search strategy in databases up to November 2022. This meta-
+analysis was performed to estimate the pooled AL rates (Overall and different AL
+grades) and reoperation rates at different TDT indwelling times and
+stoma statuses.
+Results: Three RCTs and 15 cohort studies including 2381 cases with TDT and
+2494 cases without TDT were considered eligible for inclusion. Our meta-
+analysis showed that the indwelling time of TDT for≥5-days was associated
+with a signiﬁcant reduction (TDT vs. Non-TDT) in overall AL (OR=0.46,95% CI
+0.34-0.60, p<0.01), grade A+B AL (OR=0.64, 95% CI 0.42-0.97,p=0.03), grade C
+AL (OR=0.35, 95% CI 0.24-0.53,p<0.01), overall reoperation rate (OR=0.36, 95%
+CI 0.24-0.53,p<0.01) and that in patients without a prophylactic diverting stoma
+(DS) (OR=0.24, 95%CI 0.14-0.41,p<0.01). There were no statistically signiﬁcant
+differences in any of the abovementioned indicators ( p>0.05) when the
+indwelling time of TDT was less than 5 days.
+Conclusion: Extending the postoperative indwelling time of TDT to 5 days may
+reduce the overall AL and the need for reoperation in patients without a
+prophylactic DS.
+Frontiers inOncology frontiersin.org01
+OPEN ACCESS
+EDITED BY
+Ugo Grossi,
+University of Padua, Italy
+REVIEWED BY
+Beatriz Martin-Perez,
+University Hospital of Badajoz, Spain
+Gianni Lazzarin,
+Abano Terme Hospital, Italy
+*CORRESPONDENCE
+Kexin Wang
+wkx3726@163.com
+† These authors have contributed equally to
+this work
+RECEIVED 11 October 2023
+ACCEPTED 31 December 2023
+PUBLISHED 23 January 2024
+CITATION
+Xu X,Zhang X,Li X,Yu A,Zhang X,Dong S,
+Liu Z,Cheng Z andWang K (2024)
+Effect of transanal drainage tube on
+prevention of anastomotic leakage after
+anterior rectal cancer surgery taking
+indwelling time into consideration: a
+systematic review and meta-analysis.
+Front. Oncol.13:1307716.
+doi: 10.3389/fonc.2023.1307716
+COPYRIGHT
+© 2024 Xu, Zhang, Li, Yu, Zhang, Dong, Liu,
+Cheng and Wang. This is an open-access
+article distributed under the terms of the
+Creative Commons Attribution License (CC BY).
+The use, distribution or reproduction in other
+forums is permitted, provided the original
+author(s) and the copyright owner(s) are
+credited and that the original publication in
+this journal is cited, in accordance with
+accepted academic practice. No use,
+distribution or reproduction is permitted
+which does not comply with these terms.
+TYPE Systematic Review
+PUBLISHED 23 January 2024
+DOI 10.3389/fonc.2023.1307716
+
+[W4391141481 PDF PAGE 2]
+Systematic review registration: https://www.crd.york.ac.uk/prospero/display_
+record.php?ID=CRD42023407451, identiﬁer CRD42023407451.
+KEYWORDS
+anastomotic leakage, indwelling time, transanal drainage tube, anterior resection,
+rectal cancer
+Introduction
+Anastomotic leakage (AL) is a major complication of anterior
+rectal cancer surgery, and its incidence has been reported to range
+between 1- 30% (1, 2). The occurrence of AL could result in
+signiﬁcantly more severe postoperative complications, higher rates
+of reoperations, increased hospitalstay, and higher mortality. It can
+even affect the patients’prognosis (3). The endoluminal pressure at the
+anastomotic site may be associated with AL (4). Placing a transanal
+drainage tube (TDT) can reduce the intraluminal pressure and help
+drain feces and gas at the anastomosis site (5, 6). This is likely to
+provide an ideal regional environment for anastomosis healing, thus
+reducing the incidence of AL. However, there is a controversy
+regarding the effectiveness of TDT placement for prevention of AL
+after anterior resection of rectal cancer (5, 7– 13). Tamura et al. (10)
+analyzed 157 patients who underwent laparoscopic anterior resection
+with and without postoperative TDT, and reported that the AL rate
+was not statistically signiﬁcant between the two groups (7.6% vs
+10.3%, TDT vs. non-TDT). Zhao et al. ( 12) conducted a
+randomized clinical trial to assess the effect of TDTs in AL
+prevention after laparoscopic low anterior resection for rectal cancer
+in 576 patients and concluded that TDTs may not confer any beneﬁt
+for AL prevention in patients who undergo laparoscopic low anterior
+resection for mid-low rectal cancer without preoperative radiotherapy.
+However, Kawada et al. (14) found that TDT signiﬁcantly reduced the
+AL rate from 26.1% to 10.7% in laparoscopic low anterior resection in
+a retrospective study. The results of majority of the meta-analyses
+support the effectiveness of postoperative TDT placement in reducing
+t h eo c c u r r e n c eo fA L(15– 17).
+Some studies (18, 19) have shown that the average time to
+conﬁrm AL is approximately 7 postoperative days. This is because
+the anastomotic strength rapidly decreases in the early
+postoperative days until the ﬁbroblasts and smooth muscle cells
+can synthesize large amounts of new collagen (20). However, we
+found that few studies contemplated the indwelling time of
+postoperative TDT placement, and reported that TDTs that were
+considered ineffective were often removed too early. For example, in
+the study by Zhao et al. (12) the indwelling time of TDT was only
+4.2 days after surgery. In the studi

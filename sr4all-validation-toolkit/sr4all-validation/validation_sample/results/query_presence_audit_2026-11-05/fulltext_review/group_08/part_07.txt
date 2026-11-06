@@ -1,0 +1,184 @@
+h dabigatran
+regarding risk of strokes, but a higher incidence of myo-
+cardial infarction associated with dabigatran. However,
+the lack of direct evidence makes it impossible to defini-
+tively recommend one NOAC over another. In the RE-
+The Author(s)BMC Geriatrics2017, 17(Suppl 1):223 Page 94 of 157
+
+[W2767010212 PDF PAGE 23]
+LY trial dabigatran at a dose of 150 mg twice a day was
+associated with a higher risk of myocardial infarction
+compared to warfarin [55]. This finding was confirmed
+in an MA by Uchino et al. [79] that included data from
+trials for all indications for anticoagulation. In our SR
+we found no higher incidence of MI for NOACs as a
+class of drugs. In a Danish cohort study dabigatran 110
+and 150 mg twice a day showed both lower incidence of
+MI than warfarin with low overall incidence of MI [80].
+The rates of stroke and major bleeding were similar be-
+tween dabigatran and warfarin in this cohort and dabiga-
+tran was associated with less intracranial bleeding and a
+lower mortality. We found similar results in our SR.
+Our recommendation to switch from a VKA to
+NOACs currently relates to AF patients with a low TTR
+only. This is to reflect the range of TTR in the relevant
+trials, of 55– 68% [55– 57, 60]. It is not clear if the advan-
+tages of NOACs would also apply to patients with a
+higher TTR, as the treatment effect of warfarin is associ-
+ated with the time spent in therapeutic range [81]. How-
+ever, patients on warfarin most likely spend a significant
+proportion of time outside of the TTR, as suggested by
+Van Walraven et al. [82] who, from a meta-analysis of
+50,208 patients, reported an average TTR of 63.6%, with
+a tendency of a lower TTR in community practices than
+in clinical trials.
+Further advantages of NOACs are that they do not re-
+quire patients to undergo regular blood tests and they
+have fewer food and drug interactions than VKAs. How-
+ever, at present only one specific antidote for NOACs is.
+Idarucizumab is a monoclonal antibody that reverses the
+anticoagulation effects of dabigatran [83], approved in
+2015 by the Food & Drug Administration (FDA) and
+European Medicines Agency (EMA) as the first reversal
+agent for new oral anticoagulants. Andexanet alfa is a
+further specific antidote for factor Xa inhibitors such as
+apixaban and rivaroxaban, and its approval by the FDA
+is expected in 2017 [84]. The effect of VKA can be re-
+versed by administration of Vitamin K but the reversal is
+tardy and not well controllable.
+This SR has limitations. We performed a systematic
+review of systematic reviews, and therefore synthe-
+sised the evidence of already synthesised evidence,
+with some associated loss of information. A further
+key limitation is that our methodology allowed SRs
+based on the same, or nearly the same, set of only a
+few underlying individual studies to be jointly in-
+cluded in our synthesis. This resulted in a consider-
+able degree of evidence overlap between the included
+SRs. However, we summarised the results from all
+SRs regardless of the degree of overlap: analysis
+models and definitions of outcomes varied between
+SRs, even when the set of included studies was iden-
+tical, providing what can be considered to be
+replications by different research teams addressing the
+same research question. Nonetheless, it is important
+when considering our findings, to bear in mind that
+the studies (SRs) being synthesised by no means rep-
+resent independent pieces of evidence.
+In the discussion of the methodology of umbrella SRs
+like ours, some authors prefer to select only one SR for
+reporting if there is relevant overlap of studies in several
+existing SRs [85]. With regard to which systematic re-
+view might be chosen Cooper and Koenka [86] suggest
+selecting the synthesis that (1) provides the most
+complete description, (2) is most recent, (3) contains the
+most evidence, (4) is methodologically most rigorous,
+and/or (5) is published. We feel that in our case this ap-
+proach would result in excluding several systematic re-
+views that offer relevant additional information.
+Although the quality of the SRs we included in our
+umbrella-SR was fairly good, none of the SRs fulfilled all
+AMSTAR quality criteria. We therefore don’t consider it
+justified to select a single SR. Instead, we report trans-
+parently which individual studies were included in the
+different SRs and which outcomes were addressed [86].
+Although all individual studies were rated low risk of
+bias, the number of unique studies addressing each drug
+comparison were fairly small, making the sufficiency of
+the available evidence debatable.
+One of our exclusion criteria related to patient age,
+which may have resulted in some relevant SRs being
+excluded where this data was not reported. This risk
+was minimised however, through the examination of
+the full texts of references where these data were un-
+clear in the abstracts. We also checked the reference
+lists of all included studies to identify further eligible
+SRs. Accordingly there were no statistically significant
+differences of effects between the SRs. The frequently
+small differences in effects can be explained by
+rounding errors or heterogeneity of the definition of
+outcomes, used effect measures, used statistical
+models and other factors.
+With this study, we provide a thorough overview
+about anticoagulation in older people with AF includ-
+ing several comparisons and evidence for all relevant
+comparisons. Because of our methodology of a review
+of systematic reviews we were only able to do a quali-
+tative synthesis and a loss of information cannot be
+ruled out. We tried to avoid the loss of information
+by carefully assessing all available data on all out-
+comes and in addition on patient characteristics. We
+focused on people aged 65 years and older but data
+on frailty, cognitive status and polypharmacy were
+very limited. NOACs are a very actual topic and we
+were able to provide recent data. For example, the
+very recent studies on edoxaban so far have not been
+considered universally in guidelines.
+The Author(s)BMC Geriatrics2017, 17(Suppl 1):223 Page 95 of 157
+
+[W2767010212 PDF PAGE 24]
+The recommendations based on this review will be im-
+plemented in an electronic decision support tool to re-
+duce inappropriate polypharmacy in older adults. This
+tool will be tested in a large multicentre randomized
+trial with over 3600 patients in Germany, Austria, Italy
+and the UK.
+Conclusions
+Anticoagulation with vitamin K antagonists in older
+people with atrial fibrillation is beneficial in comparison
+to PAI and placebo. Current best evidence suggests that
+new oral anticoagulants substantially reduce the risks of
+haemorrhagic strokes and intracranial bleedings relative
+to VKAs, and should be considered especially in older
+people with low TTR and labile INR. However, the ap-
+plicability of these results to frail, cognitively impaired
+or multimorbid older people is unclear.
+Additional files
+Additional file 1:Search strings. (DOCX 130 kb)
+Additional file 2: Table S1.Patient characteristics of the included SRs:
+Summary of study characteristics. (DOCX 28 kb)
+Additional file 3: Table S2.Dates and databases of Systematic Review
+searches. (DOCX 91 kb)
+Additional file 4: Table S3.Summary of study findings for the
+comparison of VKA vs. placebo.Table S4.Summary of study findings for
+the comparison of VKA vs. antiplatelets. (DOCX 28 kb)
+Additional file 5: Table S5.Heterogenity. (DOCX 52 kb)
+Additional file 6: Table S6.Eventrates NOACs and VKA. (DOCX 24 kb)
+Additional file 7: Table S7.Recommendation. (DOCX 16 kb)
+Abbreviations
+ACC: American College of Cardiology; AHA: American Heart Association;
+AMSTAR: A Measurement Tool to Assess Systematic Reviews;
+ARISTOTLE: Apixaban for Reduction in Stroke and Other Thromboembolic
+Events in Atrial Fibrillation; ASA: Acetylsalicylic acid; CDSR: Cochrane
+Database of Systematic Reviews; DARE: Database of Abstracts of Reviews of
+Effects; EAFT: European Atrial Fibrillation Trial; EC: Extracranial; EMA: European
+Medicines Agency; EMBASE: Excerpta Medica Database; ENGAGE AF-TIMI
+48: Effective Anticoagulation With Factor Xa Next Generation in Atrial
+Fibrillation; ESC: European Society of Cardiology; FDA: Food and Drug
+Administration; FEM: Fixed effect model; GRADE: Grading of
+Recommendations Assessment, Development and Evaluation;
+HS: Haemorrhagic stroke; HTA: Health Technology Assessment;
+INR: International Normalized Ratio; IPA: International Pharmaceutical
+Abstracts; IS: Ischemic stroke; J-ROCKET AF: Japan-Rivaroxaban Once Daily
+Oral Direct Factor Xa Inhibition Compared with Vitamin K Antagonism for
+Prevention of Stroke and Embolism Trial in Atrial Fibrillation; MA: Meta-
+analysis; MI: Myocardial infarction; MTM: Multiple-Treatments Meta-analysis;
+NICE: National Institute for Health and Care Excellence; NMA: Network meta-
+analysis; NOAC: New oral anticoagulant; OR: Odds ratio; PICOS: Patient,
+Intervention, Comparator, Outcome, Setting; PRIMA-eDS: Polypharmacy in
+chronic diseases: Reduction of Inappropriate Medication and Adverse drug
+events in elderly populations by electronic Decision Support;
+PRISMA: Preferred Reporting Items for Systematic Reviews and Meta-
+Analyses; RE-LY: Randomized Evaluation of Long Term Anticoagulant
+Therapy; REM: Random effect model; ROCKET AF: Rivaroxaban Once Daily
+Oral Direct Factor Xa Inhibition Compared with Vitamin K Antagonism for
+Prevention of Stroke and Embolism Trial in Atrial Fibrillation; RR: Risk Ratio;
+RRR: Relative risk reduction; SE: Systemic embolism; SPORTIF: Stroke
+Prevention using Oral Thrombin Inhibitor in atrial Fibrillation; SR: Systematic
+review; SUCRA: Surface under the cumulative ranking; TTR: Time in
+therapeutic range; VKA: Vitamin K antagonist
+Funding
+The PRIMA-eDS study was supported by a grant from the European Commis-
+sion within the 7th Framework Programme (Grant No. 305388– 2). The work
+of YVM was also supported by a grant from the NIHR Greater Manchester Pri-
+mary Care Patient Safety Translational Research Centre. The publica

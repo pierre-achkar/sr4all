@@ -1,0 +1,197 @@
+ if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Alston et al. BMC Public Health  (2016) 16:895 
+DOI 10.1186/s12889-016-3548-1
+
+[W2517544132 PDF PAGE 2]
+Background
+Globally, more people die from cardiovascular diseases
+(CVD), than any other cause [1]. In 2013, 29.5 % of
+Australian deaths were attributed to CVD, making it the
+most common cause of death [2]. ischaemic heart dis-
+ease (IHD) is the most prevalent CVD and is defined
+clinically as acute myocardial infarction (AMI) or angina
+pectoris [2], and it is estimated that, globally, 7.4 million
+people die from IHD each year [1]. IHD has been the
+leading single cause of death in Australia since 2000 [2].
+These conditions appear to affect some populations
+more than others [3], particularly those living in rural
+areas, people of Aboriginal and Torres Strait Islander
+(ATSI) heritage and people of lower socio-economic sta-
+tus (SES) [4, 5]. Modelled estimates of Australian mor-
+tality figures between 2009 and 2011 suggest that more
+than 1200 lives would have been saved annually, if
+people living in rural areas had the same IHD mortality
+rate as metropolitan counterparts [6]. Overall IHD mor-
+tality rates in Australia decreased substantially between
+2001 and 2010, though these decreases were smaller in
+more remote areas than in major cities ( −4.1 % for males
+and −4.3 % for females in major cities, compared to
+−2.4 % and −3.9 % in remote areas) [5].
+The increased burden of IHD in rural areas of
+Australia, despite overall mortality decline, is compar-
+able to patterns observed in high income countries inter-
+nationally including in rural Scotland, Norway and the
+United States (US) [7 – 9]. Decreases in IHD have been
+observed in high-income countries, such as in the US
+and UK, and have been largely attributed to primary and
+secondary prevention efforts that have led to the reduc-
+tion in modifiable risk factors such as hypertension,
+cholesterol and smoking, as well as advances in medical
+therapies [9 – 11].
+Risk factors for IHD are interlinked, with modifiable
+factors including tobacco smoking, poor nutrition, phys-
+ical inactivity, obesity, high blood pressure and high
+blood cholesterol [5]. These risk factors are also com-
+mon to other major non-communicable diseases
+(NCDs), including stroke, cancer, respiratory disease and
+diabetes [12]. The importance of these risk factors is
+emphasised by the World Health Organisation ’s 25x 25
+goal, which identifies them as significant targets to
+achieve the goal of reducing premature mortality from
+NCDs by 25 % by the year 2025 [12, 13].
+CVD, including IHD and stroke, has been identified as
+a high priority in rural Australia with particular refer-
+ence to primary prevention strategies focused on im-
+proving nutrition and physical activity and reducing
+tobacco smoking [14]. The disparity between rural and
+metropolitan mortality and disease rates represents an
+important equity target for any prevention strategy and
+there is some limited evidence internationally for the
+effectiveness of community level prevention efforts in
+rural communities, when they are tailored specifically to
+the needs of the target population [11, 15]. Interventions
+attempting to address the increased burden of IHD in
+rural areas need to take into account the ways in which
+rural and metropolitan populations differ, which include
+health care access, education, income and risk factor
+prevalence. The aim of this study was to systematically
+review all published literature since 1990 reporting inter-
+ventions that focussed on reducing the IHD burden in
+rural Australia, through primary or secondary preven-
+tion, and to synthesise the available evidence on the effi-
+cacy of such prevention efforts.
+Methods
+Data sources
+We sought to identify studies within the published
+peer-review literature that were focussed on rural pop-
+ulations and that aimed to prevent or reduce IHD bur-
+den or risk factors. This systematic review was
+registered with Prospero, (number CRD42016033431).
+The term ‘rural’ used throughout this paper, refers to
+all areas classified as being outside of major cities of
+Australia, by the Australian Bureau of Statistics, Acces-
+sibility Remoteness Index of Australia (ARIA) [16].
+ARIA has five categories of remoteness, which are, in
+increasing order of remoteness major cities, inner re-
+gional, outer regional, remote and very remote. These
+definitions are based on remoteness scores derived
+from relative road distance to population localities and
+services [16].
+Search terms used were related to four major topics
+including, ‘ischaemic heart disease ’, ‘rural’, ‘intervention or
+prevention,’ and ‘Australia’. The search was conducted in
+November and December of 2015. The six databases in-
+cluded in the search were CINAHL, Medline, Academic
+Search complete, Rural and Remote Health Database,
+Health and Society Database and Embase. An additional
+hand search was undertaken of reference lists from in-
+cluded studies.
+The following were the Inclusion criteria:
+/C15Studies had to be published in peer review journals
+from 1990 to 2015.
+/C15Population: The study had to be focussed on a
+population of adults living exclusively in a rural area
+of Australia. Larger trials that included both rural
+and metropolitan residents without stratification by
+rurality were excluded.
+/C15Intervention: Interventions reporting an explicit aim
+of primary or secondary prevention of heart disease,
+with specific mention of IHD as a target. For
+example, if a study referred only to CVD as a whole,
+and not specifically to IHD, it was excluded.
+Alston et al. BMC Public Health  (2016) 16:895 Page 2 of 11
+
+[W2517544132 PDF PAGE 3]
+/C15Comparator: Comparisons between intervention
+groups and control group (preferably), or relevant
+health survey data or baseline results. Comparison
+to a non-rural population was not necessary for
+inclusion.
+/C15Outcomes: Including but not limited to: changes in
+behavioural risk factors (including exercise, diet,
+alcohol, smoking and stress management),
+knowledge of heart disease, health assessment
+measures (e.g. blood pressure, cholesterol, blood
+glucose levels, obesity or weight), and rates of
+mortality, morbidity, case fatality, hospital
+admissions, or complications.
+/C15Study design: All types of intervention designs were
+considered in this review. Studies describing
+intervention models (study design/protocol papers)
+that did not present intervention results were
+excluded.
+Study selection, data extraction and analysis
+The lead researcher (LA) reviewed all results from the
+six databases, removed duplicates and screened all
+results based on titles and, abstracts against the review
+criteria (see Fig. 1). Two additional researchers (KP & JJ)
+each screened a 50 % sample of titles and abstracts as a
+second reviewer. Any discrepancies were identified and
+resolved by consensus among the three researchers pro-
+ducing a list of papers for full text assessment for eligi-
+bility against the review criteria. Reference lists of all full
+texts were then searched for additional potentially eli-
+gible studies.
+Data were extracted into a spreadsheet from the full
+texts by the lead researcher. The details collected in-
+cluded the publication details of the study, years of inter-
+vention, intervention type, follow up period, outcome
+measures (such as changes in clinical and modifiable risk
+factors), results and authors ’ conclusions. Each interven-
+tion was then then categorised as either primary or sec-
+ondary prevention, or both, and by the broad type of
+intervention (e.g. delivery through initial screening/edu-
+cation/exercise or whole community programs). The
+studies were then synthesized into a narrative analysis,
+with a focus on changes in outcome measures. We ap-
+plied a narrative analysis because quantitative meta-
+Fig. 1 PRISMA diagram of the systematic review process for this review
+Alston et al. BMC Public Health  (2016) 16:895 Page 3 of 11
+
+[W2517544132 PDF PAGE 4]
+analysis was deemed inappropriate due to the small sam-
+ple size and heterogeneity of the interventions returned
+by the search strategy.
+Quality analysis
+Two researchers independently assessed each study
+using the Cochrane Collaboration ’s tool for assessing
+risk of bias [16]. The tool is used to assess the risk of
+bias within each individual study based on five different
+types of bias including: selection bias (randomisation of
+participants), performance bias (blinding of participants),
+detection bias (blinding of outcome measures), attrition
+bias (incomplete outcome data) and complete reporting.
+Studies were rated as either high, low or unclear risk
+against each of the criteria. The Cochrane tool does not
+use a total score to assess overall risk of bias, so each
+type of bias is assessed individually.
+Results
+Of the initial 791 papers returned by the database search,
+33 full texts were screened, and of these, seven studies met
+the inclusion criteria. Major reasons for exclusion at full
+text stage included that the study did not specifically refer
+to IHD, (usually only reporting on CVD as a whole). One
+further eligible peer reviewed study was identified through
+hand searching of reference lists, resulting in a total of eight
+studies included in the review. Details of interventions, out-
+come measures, results and con clusions of the studies are
+described in Table 1. Across these eight studies, five were
+conducted in ‘inner regional areas ’ [17– 21], two in ‘outer
+regional areas’ [22, 23] and one in a ‘very remote’ area [24].
+No studies included here were conducted in remote areas
+of Australia. Two included int erventions focussed exclu-
+sively on Aboriginal and Torres Strait populations [22, 24],
+four included a screening component part of the interven-
+tion [18, 20 – 22] one evaluated the effectiveness of a long
+term, whole community intervention [19] a

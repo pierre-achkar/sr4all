@@ -1,0 +1,281 @@
+lour + veg oil +
+sugar
+Y
+Gaffey et al. BMC Public Health2013, 13(Suppl 3):S17
+http://www.biomedcentral.com/1471-2458/13/S3/S17
+Page 4 of 16
+
+[W1634166831 PDF PAGE 5]
+examining the extent of confidence interval overlap in
+the forest plots and we quantified heterogeneity using the
+I-squared statistic, with an I-squared value of 50% or
+greater indicating moderate heterogeneity [21]. All meta-
+analyses were conducted in Review Manager 5.1.
+Results
+Identification of studies
+Our electronic search strategy returned 4586 titles and
+abstracts from which 195 papers were screened as rele-
+vant and retrieved for full-text examination (Figure 1).
+An additional 11 relevant titles were identified from the
+reference lists of previous reviews related to our topic.
+After excluding 139 papers that either did not meet our
+inclusion criteria, did not apply co-interventions equally
+across all study groups or were additional reports of
+already included studies, the remaining 67 studies were
+assessed as eligible for inclusion. Of these, 38 studies
+either included dietary comparisons that were not con-
+sistent with any of the four comparisons on which this
+r e v i e wf o c u s e do rd i dn o tr e p o r ts u f f i c i e n td a t af o ra n y
+four outcomes of interest, or both (Additional File 3).
+The remaining 29 studies were included in the quantita-
+tive data synthesis (Table 1).
+Quantitative data synthesis
+The results from the meta-analyses conducted for each
+comparison and outcome are presented below, stratified
+by duration of diarrhea at study enrolment. The forest
+plots generated for all meta-analyses are presented in
+Additional File 4.
+1. Liquid feeds: reduced lactose versus regular lactose
+Acute diarrhea
+Eight trials among children with acute diarrhea com-
+pared diets comprised partially or wholly of lactose-
+containing liquid feeds, where the lactose content of one
+liquid feed was reduced compared to the lactose content
+of the other. Five studies [22-26] compared diluted to
+undiluted milk products, and three studies [27-29] com-
+pared acidified or fermented milk products to regular
+milk products. One study allowed non-milk complemen-
+tary foods in addition to the intervention and control
+liquid feeds, with both comparison groups receiving the
+identical complementary foods [27]. All studies excluded
+severely malnourished children.
+The pooled results from four studies reporting on
+diarrhea duration [22,25,26,29], three studies reporting
+on stool output [22,26,28], two studies reporting on
+weight change [22,26] and six studies reporting on treat-
+ment failure [22-27] showed nostatistically significant
+effects of reduced lactose liquid feeds on any outcome
+(Table 2). The overall quality of evidence was assessed
+as low for the outcome of duration and moderate for
+the stool output, weight change and treatment failure
+outcomes.
+Table 1 Comparison definitions, study diets, and inventory of available outcome data(Continued)
+Alarcon 1992 Rice + vegetable oil + soy protein isolate +
+corn syrup solids
+Rice + vegetable oil +white beans Y
+Bhan 1988 Cow ’s milk formula Rice + lentil + sugar + coconut oil Y Y Y
+Bhutta 1991 Soy-based formula Rice + lentils + cottonseed oil + yogurt Y Y Y
+Bhutta 1994 Soy-based formula Rice + lentils + cottonseed oil + yogurt +
+diluted buffalo milk
+YY Y Y
+Brown 1991 i) Lactose-hydrolyzed powdered milk + corn
+syrup solids; ii) Lactose-hydrolyzed powdered
+milk + corn syrup solids, with wheat noodles
+i) Powdered milk + corn syrup solids; ii)
+Powdered milk + corn syrup solids, with
+wheat noodles
+YY Y Y
+Carias 1999 Soy-based formula Lactose-free chicken-based formula Y Y
+Godard 1989 Hydrolyzed lactalbumin + dextrin-maltrose +
+sunflower oil + carrots
+Chicken + dextrin-maltrose + sunflower
+oil + carrots
+Y
+Grange 1994 Soy-based formula Fermented maize flour + toasted cowpea
+flour + palm oil + sugar
+Y
+Lifshitz 1991 i) Lactose-free sodium caseinate formula; ii)
+Lactose-free casein hydrolysate formula; iii)
+Soy-based formula; iv) Cow’s milk formula
+Diluted cow’s milk Y
+Maulen-
+Radovan
+1994
+Soy-based formula Rice + chicken + carrots + beans +
+vegetable oil
+YY Y
+Nurko 1997 i) Elemental formula: ii) Soy-based formula Chicken + sugar + minerals + cooking oil Y Y Y Y
+Penny 1989 Lactose-hydrolyzed powdered milk + corn
+syrup solids
+Powdered milk + corn syrup solids Y
+Romer 1989 Lactose-free semi-elemental formula Cow ’s milk Y Y
+Santosham
+1990
+i) Soy-based formula; ii) Rice-based formula Liquefied boiled rice Y Y Y Y
+Gaffey et al. BMC Public Health2013, 13(Suppl 3):S17
+http://www.biomedcentral.com/1471-2458/13/S3/S17
+Page 5 of 16
+
+[W1634166831 PDF PAGE 6]
+Persistent diarrhea
+A single study among well-nourished children with per-
+sistent diarrhea compared a fermented milk formula
+with a regular milk formula, with both study groups also
+receiving cereals and vegetable soup [30]. Data on diar-
+rhea duration were not reported, and no statistically sig-
+nificant effect was shown for either stool output or
+weight change. A large and statistically significant reduc-
+tion in the risk of treatment failure was reported for the
+use of yogurt compared to milk (Risk ratio (RR): 0.27;
+95%CI: 0.10 to 0.74; p=0.01), but the overall quality of
+evidence was assessed as low given that no other studies
+were included in the analysis.
+2. Liquid feeds: lactose-free versus lactose-containing
+Acute diarrhea
+Eight trials among children with acute diarrhea com-
+pared diets comprised partially or wholly of liquid feeds,
+where the liquid feed in one study group was lactose-
+free and the liquid feed in the other contained lactose.
+Six studies compared cow ’s milk or cow’sm i l k - b a s e d
+formula with soy-based, casein-based or whey-based for-
+mulas [16,23,31-34], one study compared regular milk
+to milk in which at least 95% of the lactose had been
+hydrolyzed [35], and one study compared soy-based for-
+mulas with and without added lactose [36]. Three stu-
+dies allowed non-milk complementary foods in addition
+to the intervention and control liquid feeds, with com-
+plementary foods given identically across comparison
+groups [16,32,36]. All studies excluded severely mal-
+nourished children.
+The pooled result from five studies [16,31,32,35,36]
+showed a statistically significant effect of lactose-free
+liquid feeds on reducing diarrhea duration (SMD: -0.36;
+95%CI: -0.62 to -0.10; p=0.008) (Table 3). Effect sizes
+and their statistical significance varied across studies but
+Figure 1 Flow diagram showing identification of studies
+Gaffey et al. BMC Public Health2013, 13(Suppl 3):S17
+http://www.biomedcentral.com/1471-2458/13/S3/S17
+Page 6 of 16
+
+[W1634166831 PDF PAGE 7]
+Table 2 Quality assessment of studies on reduced lactose versus regular lactose liquid feeds
+QUALITY ASSESSMENT SUMMARY OF FINDINGS
+Number
+of
+studies
+Diarrhea
+mode
+Design Limitations Consistency Generalizability to population of
+interest
+Overall
+quality of
+evidence
+Number of
+events in
+intervention
+group
+Number of
+events in
+control group
+Effect size (95%
+CI)
+OUTCOME: DURATION OF DIARRHEA Standardized
+Mean Difference
+4 Acute RCT Study quality ranges from low to high Heterogeneous
+(I2= 82%)
+Infants and young children (≤36m)
+with acute diarrhea, not severely
+malnourished, in LMICs
+Low - - -0.49 [-1.04, 0.07]
+0 Persistent RCT No studies - - - - - -
+OUTCOME: STOOL OUTPUT Standardized
+Mean Difference
+3 Acute RCT Study quality ranges from moderate to
+high
+Consistent
+(I2= 41%)
+Infants with acute diarrhea, not
+severely malnourished, in LMICs
+Moderate - - -0.18 [-0.56, 0.19]
+1 Persistent RCT Single study of moderate quality - Non-malnourished, non-breastfed
+infants with persistent diarrhea in
+LMICs
+Low - - -0.25 (-0.73, 0.24)
+OUTCOME: WEIGHT GAIN Standardized
+Mean Difference
+2 Acute RCT Only two studies, of moderate to high
+quality
+Consistent
+(I2= 0%)
+Infants with acute diarrhea, not
+severely malnourished, in LMICs
+Moderate - - -0.02 [-0.29, 0.25]
+1 Persistent RCT Single study of moderate quality - Non-malnourished, non-breastfed
+infants with persistent diarrhea in
+LMICs
+Low - - 0.39 (-0.09, 0.87)
+OUTCOME: TREATMENT FAILURE Risk Ratio
+6 Acute RCT Study quality ranges from moderate to
+high; two studies report zero event
+counts in both groups
+Consistent
+(I2= 0%)
+Infants and young children (≤48m)
+with acute diarrhea, not severely
+malnourished, in LMICs
+Moderate 30 31 1.08 [0.71, 1.64]
+1 Persistent RCT Single study of moderate quality - Non-malnourished, non-breastfed
+infants with persistent diarrhea in
+LMICs
+Low 4 15 0.27 [0.10, 0.74]
+Gaffeyet al.BMC Public Health2013,13(Suppl 3):S17
+http://www.biomedcentral.com/1471-2458/13/S3/S17
+Page 7 of 16
+
+[W1634166831 PDF PAGE 8]
+Table 3 Quality assessment of studies on lactose-free versus lactose-containing liquid feeds
+QUALITY ASSESSMENT SUMMARY OF FINDINGS
+Number
+of
+studies
+Diarrhea
+mode
+Design Limitations Consistency Generalizability to population of interest Overall
+quality of
+evidence
+Number of events
+in intervention
+group
+Number of
+events in
+control group
+Effect size (95%
+CI)
+OUTCOME: DURATION OF DIARRHEA Standardized
+Mean Difference
+5 Acute RCT Study quality
+ranges from
+moderate to high
+Heterogeneous
+(I2= 60%)
+Infants and young children (≤24m) with acute
+diarrhea, without severe malnutrition, in LMICs
+Moderate - - -0.36 [-0.62, -0.10]
+0 Persistent RCT No studies - - - - - -
+OUTCOME: STOOL OUTPUT Standardized
+Mean Difference
+3 Acute RCT Study quality
+ranges from
+moderate to high
+Heterogeneous
+(I2= 76%)
+Infants and young children (≤24m) with acute
+diarrhea, without severe malnutrition, in LMICs
+Moderate - - -0.26 [-0.80, 0.28]
+0 Persistent RCT No studies - - - - - -
+OUTCOME: WEIGHT GAIN Standardized
+Mean Difference
+3 Acute RCT Study quality
+ranges from
+moderate to high
+Heterogeneous
+(I2= 41%)
+Infants and young children (≤24m) with acute
+diarrhea, not severely malnourished, in LMICs
+Moderate - - 0.05 [-0.22, 0.33]
+1 Persistent RCT Single study of low
+quality
+- Infants and young children ( ≤22m) with persistent
+diarrhea, not dehydrated or severely
+malnourished, in LMICs
+V

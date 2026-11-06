@@ -1,0 +1,208 @@
+804296463 PDF PAGE 8]
+542 B. L. S. Borger van der Burg et al.
+1 3
+Discussion
+The current review is the largest systematic analysis of the 
+literature on the subject of REBOA. A total of 89 studies, 
+reporting on 1482 patients have been identified in the cur-
+rent published literature. The REBOA concept increases 
+the SBP in hemorrhagic shock and is an adjunct for both 
+endovascular and open repair in hemodynamic instabil-
+ity due to major exsanguination. The described iatrogenic 
+injury rate related to REBOA is below 5%.
+Central traumatic major exsanguination
+The most important question to answer is whether REBOA 
+imparts a survival benefit in the in-hospital phase of care. 
+Within the trauma literature, both non-survivors and sur-
+vivors tended to have a higher burden of injury, present-
+ing with gross physiologic derangements. The majority 
+of studies lack a sound control group, with the exception 
+of the studies by Norii et al. [92] and Moore et al. [88] 
+In most studies, the study of Norii et al. [92] included, it 
+was unclear whether REBOA was used in the context of a 
+formal damage-control protocol, with consistent applica-
+tion, or whether it was used as a “last-ditch” attempt to 
+salvage in hospital patients (e.g. ascending aortic ruptures) 
+in civilian or military environment who were anticipated to 
+have impending unfavorable outcome [14]. For this reason 
+the study by Norii et al. [92], had to be excluded from the 
+meta-analysis.
+While our report suggests REBOA utilization has 
+increased in recent years with results revealing a significant 
+rise in blood pressure and a survival rate of approximately 
+40% with patients in shock (Table 2), the use of this adjunct 
+is not universally embedded in hospital settings, not to men-
+tion the pioneering prehospital phase [15]. In the combat 
+environment, major hemorrhage from central vascular inju-
+ries endures as the leading cause of death and most of the 
+casualties decease before reaching a hospital [112–115]. 
+REBOA can, therefore be an adjunct in the resuscitation 
+of these major central/junctional hemorrhages in both the 
+military as well as the civilian environment. Future research 
+should focus on the usage of the REBOA concept in the 
+prehospital phase, including selection and training of the 
+right medical personnel for this important form of bleeding 
+control.
+Ruptured acute aortic aneurysm
+The treatment of choice for rAAA depends on hemody -
+namic, morphological characteristics as well as the avail-
+ability of an endovascular team trained for EVAR pro-
+cedures. Historically, patients in profound hemodynamic 
+Table 1  (continued)
+Reference Year Study type N
+Balloon (Tot)
+Aortic zone 
+placement
+Shock Mortality (in-
+hosp)
+AO related 
+iatrogenic 
+injury
+Risk of bias OXLE
+Grand total 
+(n = 89 stud-
+ies)
+1482 (2960) 
+(50.1%)
+1175/1482 
+(79.3%)
+613/1246 
+(49.2%)
+54
+EVAR endovascular aneurysm repair, N number, in-hosp in hospital, AO  “Arbeitsgemeinschaft für Osteosynthesefragen”, OXLE Oxford level 
+of evidence, Art.Ins location of arterial incision, tech  technique, Perc percutaneous, Occl occlusion, SD standard deviation, Δ P mmHg pres-
+sure difference in mmHg, rAAA  ruptured abdominal aneurysm, abdpel hem abdominal/pelvic haemorrhage, PPH post partum haemorrhage, 
+(U)GI (upper) gastro intestinal, OR operation room, r. ruptured, iatr/gyn iatrogenic/gynaecological, Y yes, NA  not applicable, U unknown, nm 
+not measurable, Ao  aortal, Ax axillary, B brachial, C carotis, F femora, (I)AOB (intra) aortic occlusion balloon, bal balloon, cath catheter, pts  
+patients, fem a. femoral artery, def deflation, pt(s) patient(s)
+Fig. 2  Meta-analysis of mortality after use of REBOA in trauma. REBOA indicates resuscitative endovascular balloon occlusion of the aorta, IV 
+inverse variance, Random random effect, CI confidence interval, df degrees of freedom, P p value
+
+[W2804296463 PDF PAGE 9]
+543
+A systematic review and meta-analysis of the use of resuscitative endovascular balloon occlusion…
+1 3
+shock have been deemed not suitable for endovascular 
+approach, because of the extra time involved in measur-
+ing and preparing for an endovascular procedure. The 
+use of REBOA in these patients may extend the period 
+needed to assemble the necessary staff for endovascular 
+repair. It may even have potential application in the pre- or 
+inter-hospital setting, to bridge the transport time to an 
+endovascular center with sufficient expertise.
+Three RCT’s have studied the optimal treatment for rup-
+tured aneurysms, EVAR or open [116–120]. In the reported 
+results of the ECAR and AJAX trials, EVAR was found to be 
+equal to open surgical repair in terms of 30 day and 1-year 
+Table 2  Mortality, occlusion time and rise of systolic blood pressure with application of REBOA
+REBOA indicates resuscitative endovascular balloon occlusion of the aorta, rAAA  ruptured abdominal aneurysm, Art.Ins location of arterial inci-
+sion, tech technique, min minutes, ΔP rise of systolic blood pressure in mmHg
+Number of studiesTotal Mortality Unstable
+Trauma 18 870 545/865 (63.0%)791/870 (90.9%)
+rAAA 50 387 61/156 (39.1%)355/387 (91.7%)
+Other 21 225 7/225 (3.1%) 29/225 (12.9%)
+Total 89 1482 613/1246 (49.2%)1175/1482 (79.3%)
+Art. insertionAcces tech occlusion timeΔP mmHg
+Trauma Aortal 0 Percutaneous 31011,953/230 Meta-analysis (n = 240)
+Axillary 0
+Brachial 1 Cutdown 79 52.0 min 79.8 mmHg
+Carotid 1
+Femoral 388 (pooled: 15,195/315)
+rAAA Aortal 7 Percutaneous 221 436/13 898/16
+Axillary 3
+Brachial 2Cutdown 99 33.5 min 56.1 mmHg
+Carotid 0
+Femoral 312
+Other Aortal 8 Percutaneous 16510,319/159 681/13
+Axillary 0
+Brachial 0 Cutdown 56 64.9 min 52.4 mmHg
+Carotid 0
+Femoral 217
+Total (pooled)Aortal 15 Percutaneous 69622,708/432 16,773/344
+Axillary 3
+Brachial 3Cutdown 234 56.5 min 48.8 mmHg
+Carotid 1
+Femoral 669
+Art. insertionMean occlusion time Number of studies
+Trauma Zone I 11,111/190 = 58.5 min 8
+Zone II 270/6 = 45.0 min 2
+Zone III2175/32 = 68.0 min 8
+rAAA Zone I 90/3 = 30.0 min 2
+Zone II 30/1 = 30.0 min 2
+Zone III31/2 = 15.5 min 2
+Other Zone I 205/4 = 51.3 min 4
+Zone II 0 0
+Zone III10,114/189 = 53.5 min 10
+Total Zone I 11,496/197 = 58.4 min 15
+Zone II 305/7 = 43.6 min 3
+Zone III12,320/223 = 55.2 min 20
+
+[W2804296463 PDF PAGE 10]
+544 B. L. S. Borger van der Burg et al.
+1 3
+mortality. In contrast, the IMPROVE trial concluded that 
+a strategy of endovascular repair was not associated with 
+significant reduction in either 30-day mortality or cost. The 
+2014 Cochrane review on this subject concluded that, based 
+on available data at the time of analysis, there is no differ-
+ence in the 30-day mortality outcomes between EVAR and 
+open repair [121]. It is important to note, however, that none 
+of the presently available trials have randomized high-risk 
+patients with ruptured aneurysms, particularly those in shock 
+or with low blood pressure [116]. These patients potentially 
+represent the population most likely to benefit from early 
+aortic balloon occlusion, possibly even in the pre-hospital 
+phase or in the emergency department. This patient subset 
+warrants further examination.
+Miscellaneous causes of major hemorrhage
+Miscellaneous causes of significant hemorrhage, such as 
+post-partum hemorrhage, gastro-intestinal bleeding or 
+exsanguination during pelvic surgery, are also likely to ben-
+efit from early direct bleeding control to prevent the onset 
+of the lethal triad (hypothermia, acidosis and coagulopa-
+thy). While the data on this subset of patients is limited, our 
+observed mortality rate of lower than 5% among REBOA 
+patients is suggestive that this technology has potentially 
+important applications for these indications. Since shock was 
+not presented in the studies regarding PPH, GI bleeding or 
+pelvic surgery, additional examination of these patient sub-
+groups is warranted.
+Limitations
+While our review represents the largest of such effort in 
+the medical literature, it does possess several limitations 
+that must be addressed. The major limitation of the cur-
+rent review is the quality of the available evidence, which is 
+limited. The risk of population bias in this systematic review 
+is inevitable, to minimize best possible effects of heteroge-
+neity and cohort overlap we provided a narrative descrip-
+tion of prevalence and characteristics. A recent published 
+review of Gamberini et al. [122] contained several papers 
+that are not mentioned in our study [123–133], most of them 
+based on the Japanese trauma registry. It was not possible 
+to determine how much overlap there was with the studies 
+we included from the Japanese registry. To prevent bias by 
+double patient inclusion, these studies were not included in 
+this analysis. The majority of the evidence identified con-
+sists of case reports and case series (Grade IV, V evidence) 
+with only limited cohort studies and reviews identified 
+(Grade II, III evidence). Most studies are at significant risk 
+of bias, underestimating the true mortality and morbidity 
+(including iatrogenic injuries). These findings should prompt 
+efforts to improve on this by stimulating formal prospective 
+evaluation.
+REBOA is a potential lifesaving adjunct for resuscitation 
+but prolonged occlusion of the aorta can lead to organ fail-
+ure due to resulting ischemia–reperfusion injury. Consensus 
+regarding safe occlusion times is not yet reached although 
+animal studies indicate an optimal duration of 30 min. 
+Occlusion time of 60 min or above is associated with an 
+increased mortality [134, 135]. For prolonged field care or 
+surgery, intermittent or partial occlusion could be a solution 
+[71]. Three studies reported on occlusion times in zone 2 
+[40, 104, 111]. When the exact location of the bleeding is 
+known, control in this zone could be needed in specific cir -
+cumstances. The use of zone 2 as deployment zone is usually 
+not recommended [136].
+Prospective data collection is underway in the form 
+of an American Association for the Surgery of Trauma 
+sponsored observation stud

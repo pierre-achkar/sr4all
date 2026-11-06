@@ -1,0 +1,126 @@
+work. The work focuses on 
+creating three different preference structures and matching utility functions, in addition to proposing a number of 
+novel ideas, including intuitionistic fuzzy membership (or non-membership) deviation matrices, preference matrices, 
+and aggregated preference matrices. These are created by using the aggregated intuitionistic fuzzy preference matrix 
+to analyze the positive, negative, and net flows of alternatives. [24] Brans created the PROMETHEE method, an 
+outranking technique that compares options in pairs to assess them. For each pair of options, the approach first 
+evaluates each criterion independently. PROMETHEE uses preference functions, which represent the level o f 
+preference between options from the viewpoint of the decision -maker, to quantify preference differences. Higher 
+values suggest a greater preference difference between the choices, and these functions assign values between 0 and 
+1. [25] This kind of infor mation is strategically useful in helping decision -makers choose one course of action over 
+another. Technical and economic elements are examples of variables that can be effectively managed with numerical 
+models. However, other variables, particularly thos e related to environmental concerns, frequently require 
+qualitative assessment, whether subjective or not. As a result, not all the components of an environmentally 
+sustainable energy project may be adequately captured by conventional evaluation techniques  like cost -benefit 
+analysis and major financial indicators (e.g., NPV, ROI, IRR). Decision -makers can benefit greatly from the flexible 
+
+[W4409676417 PDF PAGE 5]
+Mohammed Quadir Mohiuddin /REST Journal on Data Analytics and Artificial Intelligence, 4(1), March 2025, 259-269 
+ 
+Copyright@ REST Publisher                                                                                                                                           263 
+ 
+approach that multi-criteria techniques provide which combines and assesses a variety of variables. The application 
+of a multi-criteria approach to a real -world scenario in line with sustainable development goals is presented in this 
+study. [26] Because different professions demand different talents and different criteria to evaluate those skills, 
+employee appraisal and sel ection are essential business activities. To assess candidates' performance according to 
+the particular job requirements for each category, a flexible and suitable approach is required. Compared to other 
+methods, PROMETHEE is a rating system that is compar atively straightforward in both idea and implementation. In 
+this study, qualitative data is represented using a 2 -tuple linguistic technique, whereas quantitative data is 
+represented using crisp values. Each candidate's outranking index and ranking order a re then determined using the 
+linguistic PROMETHEE approach. [27] In contrast to previous research, this strategy uses fuzzy distance -based 
+preference structures in the PROMETHEE method. For each criterion, pairwise comparisons of alternatives are 
+performed using fuzzy Hamming distances. The second section gives a summary of the PROMETHEE method 
+before going into detail about the suggested strategy. After introducing fuzzy numbers and associated algebraic 
+operations in the third section, the fuzzy PROMETHEE method is briefly explained, along with a literature review 
+and formulation.  A numerical example is provided in the fourth part to provide a detailed illustration of the 
+suggested approach. In order to emphasize the contributions of the technique, the findings and conclusions are 
+finally presented. Numerous industries, including banking, industrial site planning, human resource management, 
+investments, tourism, chemistry, healthcare, ethics, mechanics, and management, have found success with the 
+PROMETHEE technique. Its effectiveness stems from its solid mathematical underpinnings and practica lity in real-
+world applications  [28]. [29] Numerous areas have been investigated, including chemistry, business and financial 
+management, manufacturing and assembly , logistics and transportation, energy management, society, hydrology, 
+and water management. Papers from a variety of fields, including medicine, agriculture, education, design, 
+government, and sports, were included in the previous section. Even if an acad emic work pertains to two distinct 
+fields, applicant papers were categorized according to the most relevant topic in a subsequent evaluation to avoid 
+duplication. The choice of the most suitable subject was given careful consideration. [30] The Analytical Hierarchy 
+Process (AHP) is used to determine the criterion weights, which are then employed in the PROMETHEE technique 
+to choose the optimal model. In order to iden tify which of six laptop models each with distinct  specifications is the 
+best, the article uses cutting-edge algorithms and a priority ranking methodology. 
+3. ANALYSIS AND DISSECTION 
+TABLE 1. Artificial Intelligence Robotics 
+  Artificial Intelligence Robotics 
+  
+Includes Payload 
+capacity Workspace Accuracy Repeatability 
+Maintenance 
+cost 
+Programmable 
+flexibility 
+Articulated robots 1550 1900 5.5 2.35 35.5 0.096 
+Cartesian robots 1380 1670 9.5 3.24 18.9 0.093 
+Delta robots 1460 1128 9.8 8.86 29.6 0.869 
+Cylindrical Robots 1586 1450 7.5 9.16 55.4 0.152 
+Max 1586 1900 9.8 9.16 55.4 0.869 
+Min 1380 1128 5.5 2.35 18.9 0.093 
+max-Min 206 772 4.3 6.81 36.5 0.776 
+  206 772 4.3 6.81 36.5 0.776 
+ 
+Table 1 presents a comparative analysis of different types of artificial intelligence (AI) robotics, focusing on key 
+performance parameters such as payload  capacity, workspace, accuracy, repeatability, maintenance cost, and 
+programmable flexibility. Among the robots, cylindrical robots exhibit the highest payload capacity  at 1,586, while 
+cartesian robots  have the lowest at 1,380 . Articulated robots  offer the largest workspace  at 1,900, whereas delta 
+robots have the most limited workspace of 1,128. In terms of accuracy, delta robots  lead with a 9.8 rating, while 
+articulated robots score the lowest at 5.5. However, when considering repeatability, cylindrical robots  achieve the 
+highest value at 9.16, compared to articulated robots, which have the lowest at 2.35. Regarding maintenance costs, 
+cylindrical robots  incur the highest expenses  (55.4), whereas cartesian robots  are the most cost -effective, with a  
+maintenance cost of 18.9. Finally, delta robots provide the greatest programmable flexibility (0.869) , in contrast to 
+cartesian robots, which have the lowest flexibility at 0.093. The range between the maximum and minimum values 
+across parameters highligh ts notable variations, with workspace differing by 772 units , accuracy by 4.3, and 
+maintenance cost by 36.5, demonstrating the diverse capabilities and trade-offs between different robotic systems. 
+ 
+
+[W4409676417 PDF PAGE 6]
+Mohammed Quadir Mohiuddin /REST Journal on Data Analytics and Artificial Intelligence, 4(1), March 2025, 259-269 
+ 
+Copyright@ REST Publisher                                                                                                                                           264 
+ 
+ 
+FIGURE 1. Artificial Intelligence Robotics 
+ 
+The table in Figure 1 provides key performance metrics for different types of artificial intelligence robotics, 
+including payload capacity, workspace, accuracy, repeatability, maintenance cost, and programmable flexibility. 
+Each robot type has unique chara cteristics that make it suitable for specific applications.  Articulated robots have the 
+highest payload capacity (1550 units) and the largest workspace (1900 units), making them suitable for tasks 
+requiring extended reach and strength. However, they have m oderate accuracy (5.5) and repeatability (2.35) 
+compared to other types. Their maintenance cost (35.5) is significant, but their programmable flexibility (0.096) is 
+relatively low. Cartesian robots exhibit high accuracy (9.5) and moderate repeatability (3. 24) while maintaining low 
+maintenance cost (18.9). Their work area (1670 units) and load capacity (1380 units) make them useful for precise 
+linear motion. Delta robots stand out in terms of accuracy (9.8) and repeatability (8.86), but have a small work are a 
+(1128 units). Their high maintenance cost (29.6) and programmable flexibility (0.869) mean they are well suited for 
+high-speed, repeatable tasks such as packaging and sorting.  Cylindrical robots offer the highest repeatability (9.16), 
+but have the highes t maintenance cost (55.4). Their load capacity (1586) and moderate work area (1450) mean they 
+are suitable for specialized applications that require precision and durability. 
+ 
+TABLE 2. Normalized Matrix 
+ 
+Normalized Matrix 
+  
+Includes Payload 
+capacity Workspace Accuracy Repeatability 
+Maintenanc
+e cost 
+Programmable 
+flexibility 
+Articulated robots 0.8252427 1 0 0 0.4547945 0.003866 
+Cartesian robots 0 0.7020725 0.9302326 0.1306902 0 0 
+Delta robots 0.3883495 0 1 0.9559471 0.2931507 1 
+Cylindrical Robots 1 0.4170984 0.4651163 1 1 0.0760309 
+ 
+The normalized matrix in Table 2 compares different robot types based on six key criteria: payload capacity, 
+workspace, accuracy, repeatability, maintenance cost, and programmable flexibility. Each value represents a 
+normalized score from 0 to 1, where higher values indicate better performance in that category. Articulated robots 
+excel in workspace (1.0) and have a high payload capacity (0.825), making them ideal for tasks requiring large reach 
+and strength. However, t hey score poorly in accuracy (0.0) and repeatability (0.0), limiting their suitability for 
+precision tasks. Their maintenance cost is moderate (0.454), and they have almost no programmable flexibility 
+(0.0039). Cartesian robots achieve the highest accuracy  (0.930) but have a lower workspace (0.702) compared to 
+articulated robots. Their repeatability is low (0.131), and they off

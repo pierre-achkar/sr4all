@@ -1,0 +1,264 @@
+is major muscle length c
+ Upper limb nerve tension test c
+ ROM elbow extension c
+ Chronic diseases c
+ Mental health c
+ Body mass index c
+ Elbows positioned at 90° angle
+while using computer
+- Yes: adj. OR = 1.00
+- No: adj. OR = 1.52 (0.99 – 2.31)
+ Percent duration of mouse use
+while working at desk
+- < 70: adj. OR = 1.00
+- ≥ 70: adj. OR = 0.66 (0.42 – 1.04)
+ Physical activity c
+ Average amount of daily computer
+usec
+ Years of computer use c
+ Year of study
+- 1st year: adj. OR = 1.00
+- 2nd year: adj. OR = 1.90 (1.08 – 3.35)b
+- 3rd year: adj. OR = 0.96 (0.42 – 2.15)
+- 5th year: adj. OR = 7.09 (0.57 – 87.70)
+ Percent time of computer use for
+entertainment
+- < 70: adj. OR = 1.00
+- ≥ 70: adj. OR = 0.44 (0.21 – 0.95)b
+ Type of computer c
+ Support of head, upper back,
+low back and arms while using
+computer
+ Computer screen positioned at
+eye level
+- Yes: adj. OR = 1.00
+- No: adj. OR = 1.64 (1.13 – 2.36) b
+ Mouse height
+- Suitable: adj. OR = 1.00
+- Too high: adj. 1.30 (0.82 – 2.10)
+- Too low: adj. OR = 0.52 (0.28 –
+0.99)b
+ Keyboard height
+- Suitable: adj. OR = 1.00
+- Too low: adj. OR = 0.46 (0.17 –
+1.20)
+- Too high: adj. OR = 2.18 (1.21 –
+3.91)b
+ Genderc
+ Agec
+ Field of study c
+Siivola et al.
+[39]
+From table 3 a
+ Physical condition
+- Good or fairly good: RR = 1
+- Moderate: RR = 1.3 (0.8 – 2.2)
+- Fairly poor or poor: RR = 0.9 (0.4 –
+2.5)
+ Depressive mood
+ School achievement (grade points)
+- Quartile 1:RR = 1
+- Quartile 2:RR = 1.7 (0.7 – 4.1)
+- Quartile 3: RR = 1 (0.4 – 2.3)
+- Quartile 4: RR = 1 (0.4 – 2.5)
+ Time spent on homework
+ Gender
+- Male: 1
+- Female: RR = 1.3
+(0.8– 2.2)
+ Seeking health
+care for NSP
+Jahre et al. BMC Musculoskeletal Disorders          (2020) 21:366 Page 6 of 12
+
+[W3033785922 PDF PAGE 7]
+Self-reported physical activity level was investigated in
+three low-quality studies [ 34, 36, 39], and operationa-
+lised differently across these studies: exercise or training
+the last 7 days, weekly physical activity level, and type
+and intensity of physical activity in leisure time. None of
+these studies showed an association between physical ac-
+tivity and neck pain (Table 3). All of the studies were
+considered to be phase 1 exploratory studies with ser-
+ious study limitations and imprecision (Table 4).
+Duration of daily computer use was measured in two
+studies [ 34, 36] with inconsistent results (Table 3). Using
+a computer for at least two 4 h periods without a break
+was associated with neck pain [ 34], whereas computer
+use for neither less nor more than 3 h per day was not
+associated with neck pain [ 36]. The overall study quality
+was rated as very low as they were exploratory studies,
+and had serious study limitations, inconsistent results
+and imprecisions (Table 4).
+Perceived stress was investigated in two studies [ 36, 39],
+also operationalised in different ways across the studies
+(Table 3). Grimby-Ekman et al. reported that perceived
+stress was a risk factor for neck pain [ 36], both after one
+and 2 years. Siivola et al. found a weak association be-
+tween neck pain and mental stress in unadjusted analysis
+in males, but not in females [ 39]. Because the evidence of
+these factors came from phase 1 exploratory studies and
+was influenced by severe study limitations, inconsistency
+and imprecision, the overall quality of the evidence was
+rated as very low (Table 4).
+Significant risk factors investigated in only one study
+Of the risk factors included in this review, only three
+risk factors and two protective factors were significantly
+associated with neck pain. All these factors were identi-
+fied from one study. Kanchanomai et al. [ 34] reported
+not having computer screen at eye level as a risk factor
+Table 3 Potential risk factors grouped into the international classification of function and disability (ICF) (Continued)
+Study Body Functions and Structures Activities and Participation Environmental factors Personal factors
+- As continuous variable: RR = 1.1
+(0.9– 1.2)
+Symptoms decreased: RR = 1 (0.6 –
+1.6)
+- Symptoms unchanged: RR = 1
+- Symptoms increased: RR = 1.3 (0.8 –
+2.1)
+ Psychosomatic symptoms score
+(crude):
+- As continuous variable: RR = 1 (1.0 –
+1.1)*
+- Symptoms decreased: RR = 0.6
+(0.3– 1.0)
+- Symptoms unchanged:
+RR = 1
+- Symptoms increased: RR = 1.5 (0.9 –
+2.6)
+ BMI
+- Quartile 1: RR = 1
+- Quartile 2: RR = 1 (0.5 – 1.9)
+- Quartile 3: RR = 1 (0.4 – 2.1)
+- Quartile 4: RR = 1 (0.5 – 1.9)
+ Height
+- Quartile 1: RR = 1
+- Quartile 2: RR = 1.5 (0.7 – 3.1)
+- Quartile 3: RR = 1.6 (0.8 – 3.3)
+ Quartile 4: RR = 0.9 (0.4 – 2.1)
+ Panting and sweating in physical
+exercise (intensity of physical
+activity)
+- A lot: RR = 1
+- Somewhat: RR = 1.5 (0.7 – 3.4)
+- A little/not at all/no exercise: RR =
+1.3 (0.7 – 2.5)
+ School mark for physical education:
+RR = 0.9 (0.7 – 1.2)
+ Physical activity leisure time
+- Very active: RR = 1
+- Fairly active: RR = 1.1 (0.6 – 2.2)
+- Fairly passive: RR = 1.4 (0.6 – 2.9)
+- Very passive: RR = 1.3 (0.6 – 2.8)
+ Type of leisure activity
+- Sport activities involving dynamic
+loading of upper extremities: RR =
+0.8 (0.4 – 1.5)
+- Other sports: RR = 1.2 (0.3 – 4.7)
+- Hobbies that statically load the
+upper extremities: RR = 1.2 (0.3 – 4.7)
+- Other hobbies: RR = 1 (0.4 – 2.4)
+- Quartile 1: RR =
+1
+- Quartile 2: RR =
+1.4 (0.7 – 2.9)
+- Quartile 3: RR =
+1 (0.5 – 2.0)
+- Quartile 4:RR =
+1.1 (0.6 – 2.3)
+Timpka et al.
+[38]
+From table 2a
+ Isometric muscle strength
+- Low: adj. RR = 0.93 (0.83 – 1.03)
+- High: adj. RR = 1.00 (0.90 – 1.10)
+a Results from tables in original studies
+b Significant results
+c Non-significant results, risk estimates not presented in original article
+OR odds ratio, adj. OR adjusted odds ratio, RR relative risk, adj. RR adjusted relative risk, pp -value, 95% CI 95% confidence interval, SMS short message service
+Jahre et al. BMC Musculoskeletal Disorders          (2020) 21:366 Page 7 of 12
+
+[W3033785922 PDF PAGE 8]
+Table 4 Overall quality of evidence table
+Univariate Multivariate GRADE factors
+Potential risk factors identified Number of
+participants
+Number of
+studies
++0 – +0 – Phase Study
+limitations
+Inconsistency Indirectness Imprecision Publication
+bias
+Moderate/ large
+effect size
+Dose
+effect
+Overall
+quality
+Being female 895 – 9 5 4 3 120 100 1 x x √ x √ xN A +
+Body mass index 895 – 954 3 0 3 0 NA 1 x √√ x √ xx +
+Physical activity 895 – 954 3 0 3 0 NA 1 x √√ x √ xx +
+Mental stress 371 – 4 3 0 2 110 100 1 x x √ x √ xN A +
+Duration of computer use 791 – 8 5 0 2 110 110 1 x x √ x √ xx +
+Not having computer screen at
+eye level
+524 1 NA 1 0 0 1 x NA √√ NA x NA +
+Keyboard positioned too high 524 1 NA 1 0 0 1 x NA √ xN A √ x+
+Being a 2nd year student 524 1 NA 1 0 0 1 x NA √ xN A x x +
+Computer mouse height too
+low
+524 1 NA 0 0 1 1 x NA √ xN A x x +
+Using computer for
+entertainment ≥70% of time
+524 1 NA 0 0 1 1 x NA √ x NA x NA +
+For uni- and multivariate analyses: + represents number of significant effects with a positive OR; 0 represents number of non-significant effects; − represents number of significant effects with a negative OR. Phase
+means phase of investigation. For GRADE factors: ✓, no serious limitations; ✕, serious limitations (or not present for moderate/large effect size, dose effect) NA, unable to rate item based on available information. For
+overall quality of evidence: + very low; ++ low; +++ moderate; ++++ high. Only factors investigated in more than one study or which showed statistical s ignificance in one study are included in the table. Number of
+participants vary because of inaccurate reporting of participants in one of the studies
+Jahre et al. BMC Musculoskeletal Disorders          (2020) 21:366 Page 8 of 12
+
+[W3033785922 PDF PAGE 9]
+for developing neck pain and having the mouse posi-
+tioned too low as a protective factor compared to having
+the mouse positioned at a ‘suitable’ height (Table 3).
+The same study found an association between persistent
+neck pain and having the keyboard positioned too high
+compared to ‘suitable’, and that 2nd year students were
+at significantly higher risk of experiencing persistent
+neck pain compared to 1st year students. Using a com-
+puter for entertainment ≥70% of the time was also found
+to be a protective factor for persistent neck pain. The
+overall quality of these risk and protective factors was
+rated as very low because all were investigated in a single
+exploratory study, which was affected by serious study
+limitations (Table 4).
+Discussion
+This systematic review identified 56 potential risk factors
+for their impact on neck pain in the age group of 18 – 29
+years. The risk factors were investigated in six prospect-
+ive cohort studies and represented constructs from a
+wide range of domains according to the ICF framework
+of health and functioning. Only five of the 56 potential
+risk factors were investigated in more than one study: fe-
+male sex, BMI, physical activity, duration of daily com-
+puter use and perceived stress. Inconsistent results were
+found for female sex, duration of daily computer use
+and perceived stress, whereas BMI and physical activity
+level showed no association with neck pain. All the po-
+tential risk factors were identified from low-quality evi-
+dence. Large heterogeneity and the small number of
+studies made it inappropriate to conduct a meta-
+analysis.
+BMI and physical activity level were not associated
+with neck pain according to three studies in this review.
+This is in line with findings in a previous systematic re-
+view by Huguet et al., which investigated risk factors for
+musculoskeletal pain in children and adolescents aged
+5– 18 years [ 40]. In adults, however, one systematic re-
+view found high BMI (> 30 kg/m 2) to be a strong risk
+factor for neck pain [ 20]. Inconsistent results across re-
+views might be due to differences in age groups, but also
+the complexity involved in investigating physical activity
+and BMI. For example, there might be a u-shaped curve
+with more pain in those with inactivity and excessive ac-
+tivity, compared to those with moderate activity [ 41].
+Similarly, hi

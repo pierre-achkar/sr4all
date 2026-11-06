@@ -1,0 +1,173 @@
+
+
+REVIEW W2888207460
+TITLE: Association Between Increased Levels of Cystatin C and the Development of Cardiovascular Events or Mortality: A Systematic Review and Meta-Analysis
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W2888207460 PDF PAGE 1]
+Original Article
+Association Between Increased Levels of Cystatin C and the 
+Development of Cardiovascular Events or Mortality: A Systematic 
+Review and Meta-Analysis
+Caroline Fuchs Einwoegerer and Caroline Pereira Domingueti
+Universidade Federal de São João del-Rei, Divinópolis, MG - Brazil
+Mailing Address: Caroline Pereira Domingueti  •
+Universidade Federal de São João del-Rei – Campus Centro Oeste Dona 
+Lindu Rua Sebastião Gonçalves Coelho, 400. CEP 35501-296, Chanadour, 
+Divinópolis, MG – Brazil
+E-mail: caroldomingueti@ufsj.edu.br, caroldomingueti@yahoo.com.br
+Manuscript received April 02, 2018, revised manuscript May 25, 2018, 
+accepted June 27, 2018
+DOI: 10.5935/abc.20180171
+Abstract
+Background: Cystatin C seems promising for evaluating the risk of cardiovascular events and mortality.
+Objective: To evaluate the association between high levels of cystatin C and the development of cardiovascular events 
+or mortality.
+Methods: The articles were selected in the Medline/PubMed, Web of Science, and Scielo databases. The eligibility criteria 
+were prospective cohort observational trials that assessed the association of high serum levels of cystatin C with the 
+development of cardiovascular events or mortality in individuals with normal renal function. Only studies that evaluated the 
+mortality outcome compared the fourth with the first quartile of cystatin C and performed multivariate Cox’s proportional 
+hazard regression analysis were included in the meta-analysis. A p value < 0,05 was considered significant.
+Results: Among the 647 articles found, 12 were included in the systematic review and two in the meta-analysis. The risk 
+of development of adverse outcomes was assessed by eight studies using the hazard ratio. Among them, six studies found 
+an increased risk of cardiovascular events or mortality. The multivariate regression analysis was performed by six studies, 
+and the risk of developing adverse outcomes remained significant after the analysis in four of these studies. The result of 
+the meta-analysis [HR = 2.28 (1.70-3.05), p < 0.001] indicated that there is a significant association between high levels 
+of cystatin C and the risk of mortality in individuals with normal renal function.
+Conclusion: There is a significant association between high levels of cystatin C and the development of cardiovascular 
+events or mortality in individuals with normal renal function. (Arq Bras Cardiol. 2018; 111(6):796-807)
+Keywords: Cardiovascular Diseases/mortality; Cystatin C; Coronary Artery Disease; Myocardial Infarction; Renal 
+Insufficiency, Chronic; Meta-Analysis as Topic.
+Introduction
+Cardiovascular diseases are the leading cause of death 
+in the world, accounting for 31% of all deaths.  In 2015, 
+an estimated 17.7 million people died from cardiovascular 
+diseases, mainly coronary heart disease, cerebrovascular 
+disease, and peripheral arterial disease. 1 In addition to high 
+mortality, cardiovascular diseases are also associated with 
+high morbidity, contributing to a significant share of public 
+expenditure on health.2
+Chronic kidney disease is an important risk factor for the 
+development of cardiovascular events, and is also responsible 
+for increased morbidity and mortality in patients with 
+cardiovascular disease3. Cystatin C consists of a marker of renal 
+dysfunction that has been shown to be more sensitive than 
+serum creatinine to assess the early stages of renal failure 4. 
+It consists of a relatively stable cysteine protease inhibitor, 
+produced in all nucleated cells at a constant rate.5
+Because of the greater sensitivity of cystatin C for detecting 
+the early and milder stages of renal dysfunction, the evaluation 
+of serum levels has been shown to be promising for assessing 
+the risk of cardiovascular events and mortality in individuals 
+with apparently normal renal function. In recent years, some 
+studies have demonstrated an association between serum 
+cystatin C levels and the development of AMI. 6 In addition, 
+cystatin C has been shown to be useful for prognostic 
+stratification in patients with ACS.7
+However, there is a divergence between the results of 
+studies performed to date on the clinical utility of cystatin 
+C to assess the risk of cardiovascular events and mortality in 
+individuals with normal renal function. 3,7,8 Although some 
+meta-analyses.9-12 have been published on the subject, the 
+population of the studies selected did not consist only of 
+patients with normal renal function. Therefore, the objective 
+of this systematic review and meta-analysis was to evaluate 
+the association between high levels of cystatin C and the 
+development of cardiovascular events or mortality in subjects 
+with normal renal function.
+796
+
+[W2888207460 PDF PAGE 2]
+Original Article
+Einwoegerer & Domingueti
+Cystatin C and cardiovascular event or mortality
+Arq Bras Cardiol. 2018; 111(6):796-807
+Methods
+This systematic review followed the recommendations of 
+the Preferred Reporting Items for Systematic Reviews and 
+Meta-analyses (PRISMA) statement.13
+Articles Selection
+The articles selection was performed through the data 
+bases Medline (PubMed)  and Web of Science , using the 
+descriptors “cystatin C”, “post-gamma-globulin”, “post-gamma 
+globulin”, “neuroendocrine basic polypeptide”, “basic 
+polypeptide, neuroendocrine”, “cystatin 3”, “gamma-trace”, 
+“gamma trace”, combined with the descriptors “acute 
+coronary syndrome”, “acute coronary syndromes”, 
+“coronary syndrome, acute”, “coronary syndromes, acute”, 
+“syndrome, acute coronary”, “syndromes, acute coronary”, 
+“myocardial infarction”, “infarction, myocardial”, “infarctions, 
+myocardial”, “myocardial infarctions”, “cardiovascular stroke”, 
+“cardiovascular strokes”, “stroke, cardiovascular”, “strokes, 
+cardiovascular”, “heart attack”, “heart attacks”, “myocardial 
+infarct”, “infarct, myocardial”, “infarcts, myocardial”, 
+“myocardial infarcts”, “myocardial ischemia”, “ischemia, 
+myocardial”, “ischemias, myocardial”, “myocardial ischemias”, 
+“ischemic heart disease”, “heart disease, ischemic”, “disease, 
+ischemic heart”, “diseases, ischemic heart”, “heart diseases, 
+ischemic”, “ischemic heart diseases”, using the connector 
+“ AND” between the terms. The Medical Subject Headings 
+(MeSH) was used to define these descriptors.
+The selection of the articles was also performed in Scielo 
+database, using the descriptors “cystatin C” with the Boolean 
+operators “acute coronary syndrome”, “coronary disease”, 
+“coronary heart disease”, “myocardial infarction”, “heart 
+attack”, “cardiac attack”, “myocardial ischemia”, “heart disease, 
+ischemic”, “ischemia, myocardial” and “ischemic heart disease” 
+using AND connector between the terms. The Descriptors in 
+Health Sciences (DeCS) was used to define these descriptors.
+Eligibility criteria
+The eligibility criteria were established according to the 
+PRISMA recommendation,13 and consist of prospective cohort 
+observational studies written in English, Portuguese or Spanish 
+evaluating the association between high levels of cystatin C, 
+and the development of cardiovascular events or mortality 
+in individuals with normal renal function.  There was no 
+restriction of the period of publication of articles in the research. 
+PECOS strategy was used to elaborate the research question:
+1. Population of interest:  Individuals with normal 
+renal function.
+2. Exposure:  High levels of cystatin C.
+3. Outcome:  Cardiovascular events or mortality.
+4. Study Design: Prospective cohort.
+Extracting data from selected articles
+The following data were obtained from the studies that met 
+the eligibility criteria: method used for measuring serum levels 
+of cystatin C, patient group size, patient follow-up time, patient 
+age range, criterion used to define normal renal function, 
+outcome obtained in the study, outcome assessed, study 
+population, patient classification, and parameters included 
+in Cox proportional hazards multivariate regression analysis. 
+Quality of the selected articles
+The methodological quality evaluation process of the 
+studies included in the review was carried out by two reviewers 
+using the Newcastle-Ottawa Scale (NOS)14 questionnaire for 
+cohort studies, which contains the following categories of 
+evaluation: cohort selection; comparability of the cohort and 
+outcome. The quality of the study is indicated with a maximum 
+of nine stars, with only one star being allowed to be assigned 
+in the selection and outcome categories, and two stars in the 
+comparability category. The articles reaching a score of five to 
+six stars were considered as articles of good methodological 
+quality, and those with seven or more stars were considered 
+articles of excellent methodological quality.
+Meta-Analysis
+The meta-analysis included only those studies that assessed 
+the outcome all-cause mortality comparing the fourth quartile of 
+cystatin C with the first quartile and that conducted multivariate 
+regression analysis of Cox proportional hazards.  The hazard 
+ratio value and the 95% confidence interval adjusted by the 
+multivariate regression analysis were used in the meta-analysis 
+and the I 2 test was used to assess the heterogeneity among 
+the studies.  The studies were considered heterogeneous 
+when I2 > 50% and p < 0.10. When there was homogeneity, 
+the hazard ratio was calculated using the fixed effect model.  
+The distribution of the studies included in the meta-analysis 
+was analyzed by a funnel plot. The statistical software Review 
+Manager version 5.3 was used to perform the statistical analysis. 
+The p value < 0.05 was considered significant.
+Results
+Literature search
+The initial search through the descriptors in the electronic 
+databases resulted in a total of 647 articles. After completi

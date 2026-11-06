@@ -1,0 +1,147 @@
+Lees KR, McMurray 
+JJV. Effect of digoxin in patients with heart failure and mid -
+range (borderline) left ventricular ejection fraction . European 
+Journal of Heart Failure. 2018;20(7):1139-45. doi: 
+10.1002/ejhf.1160, PMID 29493058. 
+54. Kotecha D, Bunting KV, Gill SK, Mehta S, Stanbury M, Jones JC. 
+Effect of digoxin  vs bisoprolol for heart rate control in atrial 
+fibrillation on patient-reported quality of life: the RATE-AF 
+randomized clinical trial. Jama. 2020;324(24):2497-508. doi: 
+10.1001/jama.2020.23138, PMID 33351042. 
+55. Lam PH, Bhyan P, Arundel C, Dooley DJ, Sheriff HM, Mohammed 
+SF. Digoxin use and lower risk of 30 -day all-cause readmission 
+in older patients with heart failure and reduced ejection 
+fraction receiving β-blockers. Clinical Cardiology. 
+2018;41(3):406-12. doi: 10.1002/clc.22889, PMID 29569405. 
+56. Lopes RD, Rordorf R, De Ferrari GM, Leonardi S, Thomas L, Wojdyla 
+DM. Digoxin and mortality in patients with atrial fibrillation. 
+Journal of the American College of Cardiology. 2018;71(10):1063-
+74. doi: 10.1016/j.jacc.2017.12.060, PMID 29519345. 
+57. National Center  for Biotechnology Information . PubChem 
+compound summary for CID 441207, Digitoxin; 2021. Available 
+from: https://pubchem.ncbi.nlm.nih.gov/compound/digitoxin. 
+[Last accessed on 06 Dec 2021]. 
+58. Bavendiek U, Berliner D, Davila LA, Schwab J, Maier L, Philipp 
+SA. Rationale and design of the DIGIT-HF trial ( digitoxin to 
+improve ouTcomes in patients with advanced chronic Heart 
+Failure): a randomized, double-blind, placebo-controlled study. 
+Eur J Heart Fail. 2019;21(5):676-84. doi: 10.1002/ejhf.1452, 
+PMID 30892806. 
+59. Holubarsch CJ, Colucci WS, Meinertz T, Gaus W, Tendera M. 
+Survival and prognosis: investigation  of crataegus extract WS 
+1442 in congestive heart failure ( SPICE)-rationale, study design 
+and study protocol . European Journal of Heart Failure. 
+2000;2(4):431-7. doi: 10.1016/s1388-9842(00)00109-4, PMID 
+11113721. 
+60. Ryden L, Hjalmarson A A, Kvasnicka  J, Liander  B. 
+Haemodynamic effects of the antiarrhythmic quaternary 
+ammonium compound QX -572 in man . British  Heart  
+Journal . 1975; 37(1):65-73. doi: 10.1136/hrt.37.1.65 , PMID 
+1089426 . 
+61. Endo H, Yoshida H, Hasegawa M, Ohmi N, Horiuchi N, Hamada 
+Y. Stereoselectivity and species difference in plasma protein 
+binding of KE -298 and its metabolites . Biological and 
+Pharmaceutical Bulletin. 2001;24(7):800-5. doi: 
+10.1248/bpb.24.800, PMID 11456121. 
+62. National Center for Biotechnology Information . PubChem 
+compound summary for CID 6537502, digitonin; 2021. 
+Available from: https://pubchem.ncbi.nlm.nih.gov/ 
+compound/digitonin. [Last accessed on 06 Dec 2021] 
+63. Bonventre JV. Calcium in renal cells. Modulation of calcium -
+dependent activation of phospholipase A2 . Environmental 
+Health Perspectives. 1990;84:155-62. doi: 
+10.1289/ehp.9084155, PMID 2190810. 
+64. Lemasters JJ, Holmuhamedov E. Voltage-dependent anion 
+channel (VDAC) as mitochondrial Governator-thinking outside 
+the box . Biochimica et Biophysica  Acta. 2006;1762(2):181-90. 
+doi: 10.1016/j.bbadis.2005.10.006, PMID 16307870. 
+65. Vonck J, Schafer E. Supramolecular organization of protein 
+complexes in the mitochondrial inner membrane . Biochim 
+Biophys Acta. 2009;1793(1):117-24. doi: 
+10.1016/j.bbamcr.2008.05.019, PMID 18573282. 
+66. Ying M, Chen B, Tian Y, Hou Y, Li Q, Shang X. Nuclear import of 
+human sexual regulator DMRT1 is mediated by importin -beta. 
+Biochimica et Biophysica  Acta. 2007;1773(6):804-13. doi: 
+10.1016/j.bbamcr.2007.03.006, PMID 17459496. 
+67. Yang H, Lou C, Sun L, Li J, Cai Y, Wang Z. AdmetSAR 2.0: web -
+service for prediction and optimization of chemical ADMET  
+properties. Bioinformatics. 2019;35(6):1067-9. doi: 
+10.1093/bioinformatics/bty707, PMID 30165565. 
+68. Daina A, Michielin O, Zoete V. SwissADME: a free web tool to 
+evaluate pharmacokinetics, drug -likeness and medicinal 
+chemistry friendliness of small molecules . Scientific Reports. 
+2017;7(1):42717. doi: 10.1038/srep42717, PMID 28256516. 
+69. Kim D, Park JB, Choi WK, Lee SJ, Lim I, Bae SK. Simultaneous 
+determination of β -sitosterol, campesterol, and stigmasterol in 
+rat plasma by using LC -APCI-MS/MS: application in a 
+pharmacokinetic study of a titrated extract of the 
+unsaponifiable fraction of Zea mays  L. Journal of Separation  
+Science. 2016;39(21):4060-70. doi: 10.1002/jssc.201600589, 
+PMID 27591043. 
+70. Zhao YY, Cheng XL, Liu R, Ho CC, Wei F, Yan SH. 
+Pharmacokinetics of ergosterol in rats using rapid resolution 
+liquid chromatography-atmospheric pressure chemical 
+ionization multi-stage tandem mass spectrometry and rapid 
+resolution liquid chromatography/tandem mass spectrometry. 
+Journal of Chromatography B, Analytical Technologies in the 
+Biomedical and Life Sciences 2011;879(21):1945-53. doi: 
+10.1016/j.jchromb.2011.05.025, PMID 21664883. 
+71. Duchateau G, Cochrane B, Windebank S, Herudzinska J, Sanghera D, 
+Burian A. Absolute oral bioavailability and metabolic turnover of β-
+sitosterol in healthy subjects. Drug Metabolism and Disposition: the 
+Biological Fate of Chemical  Dispos. 2012;40(10):2026-30. doi: 
+10.1124/dmd.112.046623, PMID 22826463. 
+72. Pei L, Ge S, Ye Y, Jiang Z, Liang X, Zhao W. Development and 
+validation of a UPLC -MS/MS method for determination of 
+sarsasapogenin-AA22 in rat plasma and its application to a 
+pharmacokinetic study. Biomedical Chromatography: BMC.  
+2018;32(10):e4295. doi: 10.1002/bmc.4295, PMID 29797524. 
+73. Hunsakunachai N, Nuengchamnong N, Jiratchariyakul W, 
+Kummalue T, Khemawoot P. Pharmacokinetics of cucurbitacin 
+B from Trichosanthes cucumerina  L. in rats . BMC 
+Complementary and Alternative  Medicine. 2019;19(1):157-
+9157. doi: 10.1186/s12906-019-2568-7, PMID 31272429. 
+74. Salunkhe R, Gadgoli C, Naik A, Patil N. Pharmacokinetic profile 
+and oral bioavailability of diosgenin, charantin, and 
+hydroxychalcone from a polyherbal formulation. Front 
+Pharmacol. 2021;12:629272-8629272. doi: 
+10.3389/fphar.2021.629272, PMID 33995027. 
+75. Li J, Zhang Y, Fan A, Li G, Liu Q. Pharmacokinetics and 
+bioavailability study of ginsenoside Rk1 in rat by liquid 
+chromatography/electrospray ionization tandem mass 
+spectrometry. Biomedical Chromatography BMC.  
+2019;33(9):e4580. doi: 10.1002/bmc.4580, PMID 31077415. 
+76. Zheng B, Wang C, Song W, Ye X, Xiang Z. Pharmacokinetics and 
+enterohepatic circulation of jervine, an antitumor steroidal alkaloid 
+from Veratrum nigrum in rats. J Pharm Anal. 2019;9(5):367-72. 
+doi: 10.1016/j.jpha.2019.04.004, PMID 31929946. 
+77. Wang Z, Cao F, Chen Y, Tang Z, Wang Z. Simultaneous 
+determination and pharmacokinetics of peimine and peiminine 
+in beagle dog plasma by UPLC-MS/MS after the oral  
+administration of ritillariae ussuriensis maxim. and Fritillariae 
+thunbergii Miq. Powder Molecules. 2018;23(7):1573. doi: 
+10.3390/molecules23071573, PMID 29958456. 
+
+[W4309548759 PDF PAGE 9]
+J. B. Dudekula et al. 
+Int J App Pharm, Vol 14, Issue 6, 2022, 9-17 
+17 
+78. Bhatta RS, Kumar D, Chhonker YS, Jain GK. Simultaneous 
+estimation of E - and Z -isomers of guggulsterone in rabbit 
+plasma using liquid chromatography tandem mass 
+spectrometry and its application to pharmacokinetic study . 
+Biomedical Chromatography: BMC.  2011;25(9):1054-60. doi: 
+10.1002/bmc.1574, PMID 21268049. 
+79. Parker  RB, Yates  CR, Soberman  JE, Laizure  SC. Effects of 
+grapefruit juice on intestinal P -glycoprotein: evaluation  
+using digoxin in humans . Pharmacotherapy . 
+2003; 23(8):979-87. doi: 10.1592/phco.23.8.979.32881, 
+PMID 12921244 . 
+80. MacFarland RT, Marcus  FI, Fenster  PE, Graves  PE, Perrier  D. 
+Pharmacokinetics and bioavailability of digitoxin by a 
+specific assay . European  Journal of Clinical  Pharmacology . 
+1984; 27(1):85-9. doi: 10.1007/BF02395212, PMID 
+6489430 . 
+ 
+
+END REVIEW W4309548759

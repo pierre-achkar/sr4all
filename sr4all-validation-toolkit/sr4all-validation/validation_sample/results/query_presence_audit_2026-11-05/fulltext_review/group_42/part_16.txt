@@ -1,0 +1,79 @@
+indberg, J. S., Soroka, S. D., Beatey, R., Wang, C., et al.
+(2002). Randomized, controlled trial of darbepoetin alfa for the treatment of anemia in
+hemodialysis patients. Am. J. kidney Dis.40, 110– 118. doi:10.1053/ajkd.2002.33919
+Noonan, M. L., Ni, P., Agoro, R., Sacks, S. A., Swallow, E. A., Wheeler, J. A., et al.
+(2021). The HIF-PHI BAY 85-3934 (molidustat) improves anemia and is associated
+with reduced levels of circulating FGF23 in a CKD mouse model.J. Bone Mineral Res.
+36, 1117– 1130. doi:10.1002/jbmr.4272
+Palmer, S. C., Navaneethan, S. D., Craig, J. C., Johnson, D. W., Tonelli, M., Garg, A. X.,
+et al. (2010). Meta-analysis: Erythropoiesis-stimulating agents in patients with chronic
+kidney disease. Ann. Intern. Med. 153, 23 – 33. doi:10.7326/0003-4819-153-1-
+201007060-00252
+Palmer, S. C., Saglimbene, V., Mavridis, D., Salanti, G., Craig, J. C., Tonelli, M., et al.
+(2014). Erythropoiesis-stimulating agents for anaemia in adults with chronic kidney
+disease: A network meta-analysis. Cochrane Database Syst. Rev. 2014, CD010590.
+doi:10.1002/14651858.CD010590.pub2
+Parfrey, P. (2021). Hypoxia-inducible factor prolyl hydroxylase inhibitors for anemia
+in CKD. New England Journal of Medicine , 2390 – 2391. 385, 25, doi:10.1056/
+NEJMe2117100
+Provenzano, R., Besarab, A., Wright, S., Dua, S., Zeig, S., Nguyen, P., et al. (2016).
+Roxadustat (FG-4592) versus epoetin alfa for anemia in patients receiving maintenance
+hemodialysis: A phase 2, randomized, 6-to 19-week, open-label, active-comparator,
+dose-ranging, safety and exploratory efﬁcacy study. Am. J. Kidney Dis.67, 912– 924.
+doi:10.1053/j.ajkd.2015.12.020
+Provenzano, R., Shutov, E., Eremeeva, L., Korneyeva, S., Poole, L., Saha, G., et al.
+(2021). Roxadustat for anemia in patients with end-stage renal disease incident to
+dialysis. Nephrol. Dial. Transplant.36, 1717– 1730. doi:10.1093/ndt/gfab051
+Salanti, G., Del Giovane, C., Chaimani, A., Caldwell, D. M., and Higgins, J. P. (2014).
+Evaluating the quality of evidence from a network meta-analysis.PloS one 9, e99682.
+doi:10.1371/journal.pone.0099682
+Schödel, J., and Ratcliffe, P. J. (2019). Mechanisms of hypoxia signalling: New implications
+for nephrology.Nat. Rev. Nephrol.15, 641– 659. doi:10.1038/s41581-019-0182-z
+Semenza, G. L. (2011). Oxygen sensing, homeostasis, and disease.N. Engl. J. Med.365,
+537– 547. doi:10.1056/NEJMra1011165
+Singh, A. K., Carroll, K., Perkovic, V., Solomon, S., Jha, V., Johansen, K. L., et al.
+(2021). Daprodustat for the treatment of anemia in patients undergoing dialysis.N.
+Engl. J. Med.385, 2325– 2335. doi:10.1056/NEJMoa2113379
+Sinha, S. D., Bandi, V. K., Bheemareddy, B. R., Thakur, P., Chary, S., Mehta, K., et al.
+(2019). Efﬁcacy, tolerability and safety of darbepoetin alfa injection for the treatment of
+anemia associated with chronic kidney disease (CKD) undergoing dialysis: A
+randomized, phase-III trial.BMC Nephrol. 20, 90– 99. doi:10.1186/s12882-019-1209-1
+Szczech, L. A., Barnhart, H. X., Inrig, J. K., Reddan, D. N., Sapp, S., Califf, R. M., et al.
+(2008). Secondary analysis of the CHOIR trial epoetin-alpha dose and achieved
+hemoglobin outcomes. Kidney Int. 74, 791– 798. doi:10.1038/ki.2008.295
+Taylor, C. T., Doherty, G., Fallon, P. G., and Cummins, E. P. (2016). Hypoxia-
+dependent regulation of inﬂammatory pathways in immune cells.J. Clin. investigation
+126, 3716– 3724. doi:10.1172/JCI84433
+Ueda, N., and Takasawa, K. (2017). Role of hepcidin-25 in chronic kidney disease:
+Anemia and beyond. Curr. Med. Chem. 24, 1417 – 1452. doi:10.2174/
+0929867324666170316120538
+Vanderhaeghen, T., Vandewalle, J., and Libert, C. (2020). Hypoxia-inducible factors in
+metabolic reprogramming during sepsis.FEBS J.287, 1478– 1495. doi:10.1111/febs.15222
+Vanrenterghem, Y., Barany, P., Mann, J. F., Kerr, P. G., Wilson, J., Baker, N. F., et al.
+(2002). Randomized trial of darbepoetin alfa for treatment of renal anemia at a reduced
+dose frequency compared with rHuEPO in dialysis patients.Kidney Int.62, 2167– 2175.
+doi:10.1046/j.1523-1755.2002.00657.x
+Veroniki, A. A., Vasiliadis, H. S., Higgins, J. P., and Salanti, G. (2013). Evaluation of
+inconsistency in networks of interventions.Int. J. Epidemiol.42, 919– 345. doi:10.1093/
+ije/dyt106
+Wang, L., Yin, H., Yang, L., Zhang, F., Wang, S., and Liao, D. (2022). The efﬁcacy and
+safety of roxadustat for anemia in patients with chronic kidney disease: A meta-analysis.
+Front. Pharmacol. 13, 779694. doi:10.3389/fphar.2022.779694
+Wheeler, J. A., and Clinkenbeard, E. L. (2019). Regulation ofﬁbroblast growth factor
+23 by iron, EPO, and HIF.Curr. Mol. Biol. Rep.5, 8– 17. doi:10.1007/s40610-019-0110-9
+White, I. R. (2015). Network meta-analysis. Stata J. 15, 951– 985. doi:10.1177/
+1536867x1501500403
+Zheng, Q., Wang, Y., Yang, H., Sun, L., Fu, X., Wei, R., et al. (2021b). Efﬁcacy and safety of
+daprodustat for anemia therapy in chronic kidney disease patients: A systematic review and
+meta-analysis.Front. Pharmacol.11, 573645. doi:10.3389/fphar.2020.573645
+Zheng, Q., Yang, H., Fu, X., Huang, Y., Wei, R., Wang, Y., et al. (2021a). The efﬁcacy
+and safety of roxadustat for anemia in patients with chronic kidney disease: A meta-
+analysis. Nephrol. Dial. Transplant.36, 1603– 1615. doi:10.1093/ndt/gfaa110
+Zheng, Q., Yang, H., Sun, L., Wei, R., Fu, X., Wang, Y., et al. (2020). Efﬁcacy and safety
+of HIF prolyl-hydroxylase inhibitor vs epoetin and darbepoetin for anemia in chronic
+kidney disease patients not undergoing dialysis: A network meta-analysis.Pharmacol.
+Res. 159. 105020doi:10.1016/j.phrs.2020.105020
+Frontiers inPharmacology frontiersin.org12
+Huang et al. 10.3389/fphar.2023.1050412
+
+END REVIEW W4384154607

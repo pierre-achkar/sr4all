@@ -1,0 +1,181 @@
+ree.tnum./four.tnum./five.tnum. Positive emotions
+Positive emotions (e.g., relief) were identiﬁed as factors
+to reaching adjustment faster (
+14). The adjustment period
+described was that of redeﬁning goals and expectations of the
+child and adjusting parent’s perceptions of their relationship
+with their child. Positive experiences and emotional responses
+were associated with greater acceptance (
+16). Social support and
+perceived sense of competence was positively correlated with
+resolution (
+30). Furthermore, searching for alternate diagnosis
+stopped once parents reached a level of acceptance, referring to
+readjusted expectations of their child’s capacity and state of being
+(
+17, 32).
+/three.tnum./four.tnum./six.tnum. Support factor
+Heredia-Alvarado and Chen ( 32) identiﬁed positive factors
+including family support and connection between mother and
+child, aided the acceptance process. Parents reported a sense
+of relief upon realizing they were not alone in the community
+and could access support, decreasing self-blame (
+17). Hotez ( 30)
+found higher levels of resolution and perceived social support
+were associated with each other. Lopez et al. (
+27) found support
+inﬂuenced parent involvement in treatment, with Caucasian
+families tending to feel more supported through services and
+extended family, while support from children’s grandparents was
+relatively equal. Rabba et al. (
+16) found increased knowledge
+surrounding autism was associated with higher support levels.
+Raﬀerty et al. (
+33) found that with the help of family and
+therapy, a parent was able to gradually progress in their process
+of accepting their child’s diagnosis and the potential eﬀects of
+this diagnosis on their child’s life.
+/three.tnum./four.tnum./seven.tnum. Attunement and insightfulness
+Attunement and insightfulness refer to parent’s ability
+to understand the motives behind their child’s behavior
+and emotional experiences in a child-focused and positive
+manner, resulting in an appropriate response to the child’s
+needs (
+30, 34). Di Renzo et al. ( 34) found that more
+accepting parents were more attuned to their child during
+play interaction and were better able to see things from the
+child’s perspectives, in comparison to non-resolved parents,
+with 30% of resolved/insightful parents being attuned to their
+child’s needs. Furthermore, a Randomized Control Trial (RCT)
+by Hotez (
+30) testing a playtime intervention with parents
+and children which examined attachment, parental perception,
+and parent insightfulness, found that the highest proportion of
+mothers (38.2%) were unresolved and non-insightful. However,
+Frontiers in Psychiatry /zero.tnum/five.tnum frontiersin.org
+
+[W4313561074 PDF PAGE 6]
+Naicker et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fpsyt./two.tnum/zero.tnum/two.tnum/two.tnum./one.tnum/zero.tnum/seven.tnum/nine.tnum/three.tnum/seven.tnum/one.tnum
+TABLE /two.tnum Factors associated with resolution.
+Factors associated with
+resolution
+References
+Child characteristics Severity of diagnosis ( 14)
+Religion, belief, culture (26–28, 32)
+Knowledge and uncertainty (13, 16, 26, 32, 33)
+Negative emotions (13, 14, 17, 26–33)
+Positive emotions (4, 14, 16, 31, 32)
+Support (16, 17, 27, 30, 32, 33)
+Attunement and insightfulness (30, 34)
+this RCT was the only one identiﬁed in our search that met the
+inclusion criteria.
+For further categorization of studies and descriptive data,
+please see
+Table 2.
+/four.tnum. Discussion
+Previous research suggests that resolution and acceptance
+of a child’s diagnosis has positive eﬀects on parent-child
+relationships and wellbeing (
+6). Given the increased stress
+and mental health challenges often reported by parents of
+autistic children (i.e., compared to parents of children with
+other signiﬁcant childhood diagnoses), the present systematic
+review examined parental resolution of their child’s diagnosis of
+autism, speciﬁcally factors that may support or present barriers
+to resolution, and potential beneﬁts brought by resolution
+to diagnosis.
+Six factors emerged across the fourteen studies, ﬁve of
+which impacted resolution and one which was determined
+to be an outcome of resolution. Factors included child
+characteristics (severity of autism), religion, belief and culture,
+knowledge and uncertainty, negative emotions (including
+denial, shame, guilt), positive emotions and factors (such as
+family support and emotional availability), and attunement
+and insightfulness.
+An interesting ﬁnding was that severity of diagnosis was
+associated with greater resolution. As severity of diagnosis likely
+comes with greater challenges, this ﬁnding seems somewhat
+counterintuitive. In the broader literature, the impact of severity
+of diagnoses on resolution is mixed, with ﬁndings supporting
+a negative association or no association at all (
+6). For parents
+of autistic children in one study ( 14), severity seemed to aid in
+the resolution process suggesting that severity may be associated
+with greater acceptance because there is less opportunity for
+hope that the diagnosis is false, or denial of the condition,
+thereby facilitating the acceptance process. Although it is
+important to note that only one study (
+14) found severity as
+an associated child characteristic of acceptance in the current
+review, this ﬁnding is consistent with Sher-Censor et al. ( 6) who
+found less severe symptoms were associated with resolution.
+The role of negative and positive emotions has consistently
+been shown to be associated with resolution in other childhood
+diagnoses (
+6). An interesting ﬁnding from our study was the
+relationship between culture and beliefs and emotions. Negative
+emotions were found to be associated with culture and ethnic
+background such that Latina and Hispanic mothers were more
+likely to experience an increased sense of guilt once receiving
+the diagnosis, whereas Caucasian families reported a sense of
+relief and were more likely to have a briefer adjustment period
+(
+27, 32). This complex interplay between emotion and culture
+may not only impact the initial reaction to the diagnosis, but also
+length of diagnostic resolution process and ultimately parental
+resolution. Thus, understanding culture and its potential impact
+on resolution is important for professionals supporting parents
+during the diagnostic process.
+Uncertainty and lack of knowledge of autism was associated
+with negative emotions and was a common theme inhibiting
+resolution and acceptance. This association may be explained
+by Chao et al. (
+17) who coined the phrase “anxious searching”,
+whereby parents sought a second opinion when they did not
+accept the initial diagnosis. Alternatively, Ferguson and Vigil
+(
+28) suggested factors including parents’ negative attitudes
+toward autistic people, and lack of awareness about autism
+by family and friends, might lead to apprehensiveness,
+worry, embarrassment, and being generally upset by their
+child’s diagnosis.
+These adverse feelings are not surprising, given that
+broader disability literature indicates that the diagnostic
+process represents a challenging and confusing period
+for parents. With regards to autism, parents have
+reported that medical professionals often vary in their
+knowledge and experience with autism (
+35, 36), or
+predominately focus on negative factors or limitations
+associated with the diagnosis (
+22). Framing the diagnosis
+as overly negative or not discussing strengths or solutions,
+has been shown to negatively impact the parents’
+experience of the diagnostic process as well as their
+understanding of autism (
+37, 38). As resolution requires
+developing a realistic appraisal of the child’s prognisis
+and potential challenges, ensuring that parents have
+information surrounding the diagnosis is an important
+step toward resolution.
+Another interesting ﬁnding was the interplay between time
+and the experience of negative emotions. Across most studies,
+negative emotions were more prominent amongst parents when
+they initially received their child’s diagnosis. This ﬁnding is
+consistent with research involving diagnoses of other disabilities
+(
+33) and highlights that resolution is a process. Moreover,
+while negative emotions may be present at the beginning of
+the process, with greater support and knowledge about autism,
+including adopting a strength-based approach, these negative
+Frontiers in Psychiatry /zero.tnum/six.tnum frontiersin.org
+
+[W4313561074 PDF PAGE 7]
+Naicker et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fpsyt./two.tnum/zero.tnum/two.tnum/two.tnum./one.tnum/zero.tnum/seven.tnum/nine.tnum/three.tnum/seven.tnum/one.tnum
+TABLE /three.tnum Summary of reviewed studies.
+References Design Country N (parents) Aim Measurement Factorsassociated withresolution + – Eﬀect size
+Alsayyari (26) Qualitative(dissertation) USA 5Arab Americanmothers Overall experienceof Arab Americansparents withchildren diagnosedwith autism Acceptance:Developed asemi-structuredinterview(two languages) Education, religion;beliefs and culture Discussed factorsaﬀecting acceptanceof diagnosis andcharacterizesacceptance Resolution was notspeciﬁcallyidentiﬁed Not reported or notapplicable
+Chao et al. ( 17) Qualitative TAIWAN 15; 14 mothersand 1 father Understand theparents subjectiveexperience,emotions, andadjustmentsencountered before,during, and afterdiagnosisafter the process ofobtaining aconﬁrmeddiagnosis ofASD for their child Acceptance:Developed asemi-structuredinterview Accepting their role as aparent and autismknowledge allowedparents to feelempowered Phenomenologicalapproach providinga detailed andcomprehensiveunderstanding ofcomplex parentemotions Parents access toresources andsupport systems inplace were notcontrolled for,reducinggeneralizability; didnot characterize thediagnostic process Not reported or notapplicable
+Da Paz et al.(
+14)
+Longitudinal USA 90 mothers Maternaladjustmentregardingacceptance anddespair Acceptance: Novel30-item self-reportquestionnaire:adjustment to theDiagnosis ofAutism (ADA

@@ -1,0 +1,181 @@
+ying (OR: 2.50, 95% CI = 0.61–10.31, P = 0.20) (Table 4 and 
+Supplementary Figure 4, http://links.lww.com/AOSO/A363).
+Sensitivity Analyses
+Sensitivity analyses confirmed the consistency of the results for 
+the primary outcomes and most of the secondary outcomes 
+except postoperative pancreatic fistula and operative time. 
+Leave-one-out analysis changes the direction of the effect size 
+toward no difference in postoperative pancreatic fistula and in 
+favor of no cirrhosis in operative time. However, separate anal-
+ysis of studies with low overall risk of bias did not affect the 
+pooled risk of any of the outcomes.
+DISCUSSION
+A systematic review and meta-analysis was conducted to com-
+pare short-term outcomes of PD between patients with liver cir-
+rhosis and those without cirrhosis. Analysis of 18,184 patients 
+from 11 studies showed that liver cirrhosis increased the risks 
+of postoperative mortality (high certainty), major complications 
+(high certainty), and grade B-C postoperative pancreatic fistula 
+(moderate certainty); it resulted in more intraoperative blood 
+loss (moderate certainty) and longer length of hospital stay (high 
+certainty). Liver cirrhosis did not affect delayed gastric empty-
+ing (high certainty), postoperative bleeding (high certainty), and 
+operative time (moderate certainty). Meta-regression analyses 
+suggested that postoperative morbidity and morbidity existed 
+irrespective of Child-Pugh class, MELD score, and portal hyper-
+tension. Among the patients with liver cirrhosis, Child-Pugh B 
+or C class increased intraoperative blood loss, and portal hyper-
+tension increased the risk of postoperative mortality; however, 
+the other outcomes were not affected.
+This study is the first comprehensive comparative meta- 
+analysis in the literature with a reasonable sample size and 
+methodology evaluating the effect of liver cirrhosis on short-
+term outcomes after PD; however, the risks of complications 
+following pancreatic surgery in cirrhotic patients have been 
+quantified previously by Schizas et al 22 who conducted a sys-
+tematic review of 5 observational studies and 8 reported cases. 
+The study by Schizas et al 22 concluded that pancreatic surgery 
+in patients with liver cirrhosis is associated with increased risks 
+of postoperative morbidity and mortality. Although the statisti-
+cal methods used in the study by Schizas et al 22 for comparing 
+the outcomes between patients with and without cirrhosis are 
+subject to bias, their findings support the findings of the current 
+study. Artinyan et al6 retrospectively analyzed 106,729 patients 
+who underwent resection for gastrointestinal malignancy and 
+concluded that liver cirrhosis is associated with poor early post-
+operative and transitional outcomes. Ng et al23 and Deng et al24 
+reported similar findings in colorectal surgery and oesophagec-
+tomies, respectively. All of the above support the external valid-
+ity of the findings of the current study.
+The results of the current study suggest that liver cirrhosis 
+of any severity with or without portal hypertension increases 
+the risk of morbidity and mortality after PD. While we did not 
+robustly demonstrate the actual relationship between the sever-
+ity of the liver disease and increased risks of morbidity and mor-
+tality, this could be a type 2 error due to the small sample size 
+for separate analyses of cirrhotic patients based on Child-Pugh 
+class and portal hypertension status. This may be reflected by 
+some of the reported P values in Table 4 which are approach-
+ing 0.05 value. Nevertheless, others have demonstrated that the 
+more severe the liver cirrhosis, the higher the risk of early post-
+operative morbidity and mortality.6,7
+The findings of the current study may be useful to multidisci-
+plinary teams when formulating management plans for patients 
+with liver cirrhosis and with indications for PD and when dis-
+cussing the risks of surgery with such patients. Based on the 
+available data, we can confidently with high certainty say that 
+liver cirrhosis results in at least a fourfold increase in postoper -
+ative mortality and a twofold increase in postoperative morbid-
+ity in patients undergoing PD. Whether such risks increase with 
+the severity of the liver disease or decrease with optimization of 
+undergoing liver disease should be the focus of future research.
+TABLE 4.
+Comparison of the Outcomes in Cirrhotic Patients Based on Child–Pugh Class and Portal Hypertension Status
+Number of Studies Number of Patients Summary Measure OR (95% CI) P-value
+Heterogeneity, 
+I 2
+Child-Pugh B or C vs
+Child–Pugh A
+Postoperative mortality 3 600 OR: 2.56 (0.55–11.81) 0.23 55%
+Major complications 
+(Clavien-Dindo ≥3)
+3 99 OR: 2.71 (0.32–23.13) 0.36 67%
+Intraoperative blood loss 2 565 MD: 293.33 ml (231.96–354.71) <0.00001 0%
+Operative time 2 565 MD: 121.18 minutes (−68.84 to 311.20) 0.21 89%
+Grade B-C postoperative 
+pancreatic fistula
+1 26 OR: 1.33 (0.24–7.35) 0.74 NA
+Postoperative bleeding 3 600 OR: 2.64 (0.45–15.66) 0.28 44%
+Delayed gastric 
+emptying
+3 592 OR: 0.72 (0.32–1.58) 0.41 0%
+Length of hospital stay 2 565 MD: 2.03 days (0.01–4.05) 0.05 0%
+Portal hypertension vs
+No portal hypertension
+Postoperative mortality 4 630 OR: 2.41 (1.20–4.86) 0.01 0%
+Major complications 
+(Clavien-Dindo ≥3)
+2 54 OR: 1.49 (0.50–4.47) 0.47 0%
+Intraoperative blood loss 2 54 MD: 196.56 ml (−104.20 to 497.33) 0.20 0%
+Operative time 3 121 MD: 23.06 minutes (−10.70, 56.82) 0.18 58%
+Grade B-C postoperative 
+pancreatic fistula
+2 92 OR: 2.57 (0.86–7.71) 0.09 0%
+Postoperative bleeding 2 96 OR: 3.90 (0.87–17.50) 0.08 0%
+Delayed gastric 
+emptying
+1 67 OR: 2.50 (0.61–10.31) 0.20 NA
+Length of hospital stay 2 96 MD: 1.35 days (−6.38 to 9.09) 0.73 50%
+CI indicates confidence interval; MD, mean difference; OR, odds ratio.
+Downloaded from http://journals.lww.com/aosopen by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX
+1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 10/23/2024
+
+[W4400021234 PDF PAGE 8]
+Hajibandeh et al • Annals of Surgery Open (2024) 3:e454 Annals of Surgery Open
+8
+The study has inherent limitations. The retrospective nature 
+of the included studies introduces the inevitable risk of selec-
+tion and confounding bias. As mentioned earlier, considering 
+that cirrhosis is a prognostic factor rather than an intervention, 
+performing a randomized controlled trial is not feasible in this 
+setting as cirrhosis cannot be randomized; hence, a meta-analysis 
+of observational studies serves the best evidence. We could not 
+formally assess the risk of publication bias because none of the 
+outcomes were reported by more than 10 studies; hence, selec-
+tive reporting cannot be excluded. Sensitivity analyses suggested 
+that our findings regarding postoperative pancreatic fistula and 
+operative time were not robust; nevertheless, we downgraded the 
+certainty of evidence for these outcomes accordingly. Finally, as 
+mentioned earlier our findings regarding the relationship between 
+the severity of the liver disease and increased risks of morbidity 
+and mortality may be subject to type 2 error. In contrast, the 
+study has strengths. An objective and systematic approach was 
+used in evidence synthesis, consistent with the appropriate and 
+required standards. A GRADE system was used to evaluate the 
+certainty of evidence for each outcome, considering the risk of 
+bias, directness of evidence, heterogeneity, precision of effects 
+estimates, and risk of publication bias. The adequate sample size, 
+low between-study heterogeneity, high-GRADE certainty, and 
+appropriate meta-regression analyses would make our conclu-
+sions about the primary outcomes robust.
+CONCLUSIONS
+Robust evidence with high certainty suggests that liver cirrhosis 
+of any severity with or without portal hypertension results in 
+at least a fourfold increase in mortality and a twofold increase 
+in morbidity after pancreatoduodenectomy. Whether such risks 
+increase with the severity of the liver disease or decrease with 
+optimization of underlying liver disease should be the focus of 
+future research.
+REFERENCES
+ 1. Nickel F, Wise PA, Müller PC, et al. Short-term outcomes of robotic ver-
+sus open pancreatoduodenectomy: propensity score-matched analysis. 
+Ann Surg. 2024;279:665–670.
+ 2. Kotecha K, Tree K, Ziaziaris WA, et al. Centralization of pancreaticodu-
+odenectomy: a systematic review and spline regression analysis to rec-
+ommend minimum volume for a specialist pancreas service. Ann Surg. 
+2024;279:953–960.
+ 3. Perri G, Marchegiani G, Partelli S, et al. Either high or low risk: the 
+acinar score at the resection margin dichotomizes the risk spectrum 
+of pancreas-specific complications after pancreatoduodenectomy. Ann 
+Surg. 2023;278:e1242–e1249.
+ 4. Goldacre MJ, Wotton CJ, Yeates D, et al. Liver cirrhosis, other liver dis-
+eases, pancreatitis and subsequent cancer: record linkage study. Eur J 
+Gastroenterol Hepatol. 2008;20:384–392.
+ 5. Kalaitzakis E, Gunnarsdottir SA, Josefsson A, et al. Increased risk for 
+malignant neoplasms among patients with cirrhosis. Clin Gastroenterol 
+Hepatol. 2011;9:168–174.
+ 6. Artinyan A, Marshall CL, Balentine CJ, et al. Clinical outcomes of 
+oncologic gastrointestinal resections in patients with cirrhosis. Cancer. 
+2012;118:3494–3500.
+ 7. Neeff HP, Streule GC, Drognitz O, et al. Early mortality and long-term 
+survival after abdominal surgery in patients with liver cirrhosis. Surgery. 
+2014;155:623–632.
+ 8. Liberati A, Altman DG, Tetzlaff J, et al. The PRISMA statement for 
+reporting systematic reviews and meta-analyses of studies that eval-
+uate healthcare interventions: explanation and elaboration. BMJ. 
+2009;339:b2700.
+ 9. Hayden JA, van der Windt DA, Cartwright JL, et al. Assessing bias in 
+studies of prognostic factors. Ann Intern Med. 2013;158:280–286.
+ 10. Schünemann H, Brożek J, Guyatt G, Oxman A, editors. GRADE hand-
+book for grading quality of evidence and strength of recommendations. 
+Updated October 2013. The GRADE Worki

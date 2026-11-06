@@ -1,0 +1,180 @@
+y of studies report the 17-site
+MRSS27,33,34,37,38,40,41,47, others report the Rodnan total
+skin score29,32, or the 15-site 36 and 18-site MRSS 30. Fifth,
+timing of inclusion into the study may affect the outcome.
+Patients who are recruited early in their disease or who have
+active skin involvement are more likely to derive benefit.
+Some studies explicitly state that patients were recruited
+early in their disease course or were mandated to have active
+disease as inclusion criteria, while other studies do not.
+Given these differences, we are unable to definitively con-
+clude whether anti-TNF agents confer a beneficial effect on
+skin in SSc. The reported findings do provide a potential
+signal of benefit, and provide the necessary data required for
+justification of a larger, adequately powered study.
+Anti-TNF agents were generally tolerated in patients
+with SSc. There was a high frequency of infusion reactions
+in patients with SSc treated with infliximab, which may be
+related to the development of anti-infliximab antibodies,
+and could be minimized with concurrent use of other
+immunosuppression. There was only 1 report of a lupus-like
+reaction, and 1 report of a decline in lung function in
+patients treated with etanercept 26. In this study, 2 patients
+were concomitantly treated with minocycline. Although
+unclear from the report, if the patient who developed the
+lupus-like reaction was also treated with minocycline, the
+lupus-like reaction could also have been attributable to the
+minocycline. All the published studies are limited in their
+sample size and duration of followup. Therefore we are
+unable to draw any conclusions about infrequent adverse
+effects or longterm safety. Large, longitudinal cohort studies
+(such as biologic registries) are needed to properly evaluate
+longterm safety.
+Review of other non-TNF biologics in SSc was less
+promising. Patients treated with IFN-g showed stabilization
+of skin scores while those on placebo had progression 36. In
+that study, baseline skin scores between treatment and con-
+trol groups were not comparable, and IFN-g treatment was
+poorly tolerated36. The use of relaxin and PV AC showed a
+trend toward improved skin scores at low doses but worsen-
+ing at high doses 39,40. The observed improvement in skin
+score may reflect that natural softening of skin observed in
+many patients with SSc over time. IFN-a, TGF-ß1, and oral
+type I collagen did not show promise for the treatment of
+SSc skin disease or disability. Initial small observational
+studies42,45 suggested improvements in skin score with rit-
+uximab, but this effect was not statistically greater than that
+observed in the control arm of the randomized trial 46. Case
+reports of imatinib demonstrated evidence of skin improve-
+ment, and larger studies are currently evaluating this
+effect33,34,35.
+The heterogeneity across studies precluded our ability to
+aggregate or conduct a metaanalysis of the data. The studies
+differed in sample selection (inclusion and exclusion crite-
+ria), intervention, outcomes assessed (e.g., different skin
+scores), and study duration. Therefore it would be inappro-
+priate to aggregate data from such variable sources. Future
+investigators should consider using recommended outcome
+measures that have demonstrable validity and reliabili-
+ty52,53. This would facilitate quantifiable comparisons
+across studies.
+Despite the limitations of this systematic review, qualita-
+tive synthesis of the existing literature and presentation of
+the individual study findings is useful, especially when con-
+sidering one of these agents for an individual patient. The
+results of this systematic review suggest that etanercept and
+infliximab may be safe (in the short term) and effective for
+the management of inflammatory arthritis. The utility of
+anti-TNF agents for skin involvement is less certain. ATG
+and imatinib may be effective for skin involvement but the
+longterm safety is unknown. None of the other biologic
+agent studies were able to demonstrate a significant change
+in inflammatory arthritis, disability, or skin score. Well
+designed, adequately powered clinical trials are needed to
+further evaluate the efficacy, and large, longitudinal studies
+are needed to evaluate the longterm safety of these agents in
+SSc.
+ACKNOWLEDGMENT
+The authors thank Amy Faulkner, Information Specialist at the University
+Health Network Library Services, for her assistance with this study.
+REFERENCES
+1. Misra R, Darton K, Jewkes RF, Black CM, Maini RN. Arthritis in
+scleroderma. Br J Rheumatol 1995;34:831-7.
+2. La Montagna G, Baruffo A, Tirri R, Buono G, Valentini G. Foot
+involvement in systemic sclerosis: a longitudinal study of 100
+patients. Semin Arthritis Rheum 2002;31:248-55.
+3. Avouac J, Walker U, Tyndall A, Kahan A, Matucci-Cerinic M,
+Allanore Y . Characteristics of joint involvement and relationships
+with systemic inflammation in systemic sclerosis: Results from the
+EULAR Scleroderma Trial and Research Group (EUSTAR)
+Database. J Rheumatol 2010;37:1488-501.
+4. Schumacher HR Jr. Joint involvement in progressive systemic
+ sclerosis (scleroderma): a light and electron microscopic study of
+synovial membrane and fluid. Am J Clin Pathol 1973;60:593-600.
+5. Low AH, Lax M, Johnson SR, Lee P. Magnetic resonance imaging
+of the hand in systemic sclerosis. J Rheumatol 2009;36:961-4.
+6. Morita Y , Muro Y , Sugiura K, Tomita Y . Anti-cyclic citrullinated
+peptide antibody in systemic sclerosis. Clin Exp Rheumatol
+2008;26:542-7.
+7. Marrone M, Chiala A, Tampoia M, Iannone F, Raho L, Covelli M,
+et al. [Prevalence of anti-CCP antibodies in systemic sclerosis].
+Reumatismo 2007;59:20-4.
+8. Distler JH, Schett G, Gay S, Distler O. The controversial role of
+294 The Journal of Rheumatology 2011; 38:2; doi:10.3899/jrheum.100361
+Personal non-commercial use only. The Journal of Rheumatology Copyright © 2011. All rights reserved.
+ www.jrheum.orgDownloaded on February 22, 2026 from 
+
+[W2063785079 PDF PAGE 7]
+tumor necrosis factor alpha in fibrotic diseases. Arthritis Rheum
+2008;58:2228-35.
+9. Piguet PF, Collart MA, Grau GE, Sappino AP, Vassalli P.
+Requirement of tumour necrosis factor for development of 
+silica-induced pulmonary fibrosis. Nature 1990;344:245-7.
+10. Piguet PF, Vesin C. Treatment by human recombinant soluble TNF
+receptor of pulmonary fibrosis induced by bleomycin or silica in
+mice. Eur Respir J 1994;7:515-8.
+11. Liu JY , Brass DM, Hoyle GW, Brody AR. TNF-alpha receptor
+knockout mice are protected from the fibroproliferative effects of
+inhaled asbestos fibers. Am J Pathol 1998;153:1839-47.
+12. Ortiz LA, Lasky J, Hamilton RF Jr, Holian A, Hoyle GW, Banks W,
+et al. Expression of TNF and the necessity of TNF receptors in
+bleomycin-induced lung injury in mice. Exp Lung Res
+1998;24:721-43.
+13. Ortiz LA, Lasky J, Lungarella G, Cavarra E, Martorana P, Banks
+WA, et al. Upregulation of the p75 but not the p55 TNF-alpha
+receptor mRNA after silica and bleomycin exposure and protection
+from lung injury in double receptor knockout mice. Am J Respir
+Cell Mol Biol 1999;20:825-33.
+14. Mauviel A, Daireaux M, Redini F, Galera P, Loyau G, Pujol JP.
+Tumor necrosis factor inhibits collagen and fibronectin synthesis in
+human dermal fibroblasts. FEBS Lett 1988;236:47-52.
+15. Mauviel A, Heino J, Kahari VM, Hartmann DJ, Loyau G, Pujol JP,
+et al. Comparative effects of interleukin-1 and tumor necrosis
+ factor-alpha on collagen production and corresponding procollagen
+mRNA levels in human dermal fibroblasts. J Invest Dermatol
+1991;96:243-9.
+16. Ito A, Sato T, Iga T, Mori Y . Tumor necrosis factor bifunctionally
+regulates matrix metalloproteinases and tissue inhibitor of
+ metalloproteinases (TIMP) production by human fibroblasts. FEBS
+Lett 1990;269:93-5.
+17. Dayer JM, Beutler B, Cerami A. Cachectin/tumor necrosis factor
+stimulates collagenase and prostaglandin E2 production by human
+synovial cells and dermal fibroblasts. J Exp Med 1985;162:2163-8.
+18. Meikle MC, Atkinson SJ, Ward RV , Murphy G, Reynolds JJ.
+Gingival fibroblasts degrade type I collagen films when stimulated
+with tumor necrosis factor and interleukin 1: evidence that
+ breakdown is mediated by metalloproteinases. J Periodontal Res
+1989;24:207-13.
+19. Furst DE, Breedveld FC, Kalden JR, Smolen JS, Burmester GR,
+Bijlsma JW, et al. Updated consensus statement on biological
+agents, specifically tumour necrosis factor alpha (TNF-alpha)
+blocking agents and interleukin-1 receptor antagonist (IL-1ra), for
+the treatment of rheumatic diseases, 2004. Ann Rheum Dis 2004;63
+Suppl 2:ii2-12.
+20. Keyser FD, Mielants H, Veys EM. Current use of biologicals for
+the treatment of spondyloarthropathies. Exp Opin Pharmacother
+2001;2:85-93.
+21. Olsen NJ, Stein CM. New drugs for rheumatoid arthritis. N Engl J
+Med 2004;350:2167-79.
+22. Allanore Y , Devos-Francois G, Caramella C, Boumier P, Jounieaux
+V , Kahan A. Fatal exacerbation of fibrosing alveolitis associated
+with systemic sclerosis in a patient treated with adalimumab. Ann
+Rheum Dis 2006;65:834-5.
+23. Ostor AJ, Crisp AJ, Somerville MF, Scott DG. Fatal exacerbation of
+rheumatoid arthritis associated fibrosing alveolitis in patients given
+infliximab. BMJ 2004;329:1266.
+24. Shakoor N, Michalska M, Harris CA, Block JA. Drug-induced
+ systemic lupus erythematosus associated with etanercept therapy.
+Lancet 2002;359:579-80.
+25. Gartlehner G, Hansen RA, Jonas BL, Thieda P, Lohr KN. The
+ comparative efficacy and safety of biologics for the treatment of
+rheumatoid arthritis: a systematic review and metaanalysis. 
+J Rheumatol 2006;33:2398-408.
+26. Lam GK, Hummers LK, Woods A, Wigley FM. Efficacy and safety
+of etanercept in the treatment of scleroderma-associated joint
+ disease. J Rheumatol 2007;34:1636-7.
+27. Bosello S, De Santis M, Tolusso B, Zoli A, Ferraccioli G. Tumor
+necrosis factor-alpha inhibitor therapy in erosive polyarthritis
+ secondary to systemic sclerosis. Ann Intern Med 2005;143:918-20.
+28. Denton CP, Engelhart M, Tvede N, Wilson H, Khan K, Shiwen X,
+et al. An open-label pilot study of inf

@@ -1,0 +1,171 @@
+s. One of the key players in this landscape is the stromal vascular
+fraction (SVF), characterized by its diverse cellular composition extracted from the adipose
+tissue that has demonstrated significant therapeutic potential across multiple medical
+disciplines [1].
+Understanding the journey of SVF in medicine necessitates a glimpse into its historical
+context. The 1960s marked the advent of the SVF narrative when Rodbell initiated his
+studies into fat cell metabolism, a pursuit that ultimately led to the identification of an
+‘active’ fraction of non-adipocyte cells, a collective later known as SVF [ 1]. The term,
+however, came into mainstream usage only after the pivotal work by Zuk et al., which
+unearthed the multipotency of adipose-derived stromal cells, a vital component of SVF [2].
+Medicina 2024, 60, 221. https://doi.org/10.3390/medicina60020221 https://www.mdpi.com/journal/medicina
+
+[W4391311681 PDF PAGE 2]
+Medicina 2024, 60, 221 2 of 19
+SVF are a heterogeneous mixture of cells, pericytes, smooth muscle cells, and, most
+importantly, adipose-derived stem cells (ADSCs) [1]. These cells play a crucial role in tissue
+regeneration and repair, primarily due to their ability to differentiate into various cell types
+and release angiogenic and anti-inflammatory factors [3]. Among these, the ADSCs are
+particularly notable for their multipotency, enabling them to differentiate into various cell
+types such as adipocytes, osteoblasts, and chondrocytes under appropriate conditions [4].
+Moreover, these cells are known for their angiogenic and immunomodulatory capabilities,
+primarily due to their secretion of growth factors and cytokines [5]. The therapeutic efficacy
+of SVF can be attributed to these diverse cell types acting in synergy. While the regenerative
+and reparative capacities can be traced back to the ADSCs, the immune cells within SVF
+contribute to the immunomodulatory effects, essential for tissue repair and regeneration.
+Over the following decades, this recognition spiraled into a flurry of research investigating
+the regenerative potential of SVF, spurred by its accessibility and abundant stem cell content.
+SVF began garnering attention across diverse disciplines [6].
+SVF has been employed in various clinical settings due to its regenerative, immunomod-
+ulatory, and anti-inflammatory properties. In the field of plastic and reconstructive surgery,
+SVF-enriched fat grafting has been shown to improve graft survival and wound healing [7].
+In orthopedics, SVF has been used to treat osteoarthritis, with studies reporting improve-
+ment in pain scores and joint function [ 8]. In cardiology, SVF therapy is being explored
+for myocardial ischemia, with encouraging results in pre-clinical and early-phase clinical
+trials [9]. These varied applications underscore the versatile nature of SVF and its potential
+to revolutionize the landscape of regenerative medicine. However, the current understand-
+ing of SVF is not without limitations and challenges, necessitating further investigation to
+unlock its full therapeutic potential [10].
+The objective of this comprehensive review is to meticulously scrutinize the breadth
+and depth of contemporary clinical literature concerning SVF, from its inception to its
+present-day applications, spotlighting potential future trajectories. By compiling and
+critically examining a wide array of studies, we endeavor to offer a panoramic view of
+SVF’s potential, thereby contributing to the foundational knowledge that propels the field
+of regenerative medicine forward.
+2. Materials and Methods
+In this review, we employed a systematic approach to gather and analyze the relevant
+literature concerning SVF. The objective was to provide a comprehensive overview of
+SVF, including its biological composition, mechanisms of action, clinical applications, and
+potential future directions.
+2.1. Search Strategy
+An extensive literature search was conducted using several databases: PubMed,
+Embase, Scopus, Web of Science, and the Cochrane Library. The search period was from
+January 2018 to June 2023 as this period of time represents the most recent five years,
+ensuring that the data and research findings are current. This is particularly important in
+fields where advancements happen rapidly, as older studies might become outdated or less
+relevant. The primary keywords used were ‘stromal vascular fraction’, ‘adipose-derived
+stromal cells’, ‘adipose tissue’, ‘regenerative medicine’, and ‘clinical applications’. These
+keywords were used in combination with other terms relevant to the specific sections
+of this review. For example, for the section on clinical applications, terms like ‘wound
+healing’, ‘osteoarthritis’, ‘myocardial ischemia’, etc., were used in conjunction with the
+primary keywords.
+2.2. Selection Criteria
+Inclusion criteria comprised original research articles. The selected studies included
+prospective and/or retrospective case series, and review articles written in English that
+explored the composition, mechanism of action, therapeutic applications, and future per-
+
+[W4391311681 PDF PAGE 3]
+Medicina 2024, 60, 221 3 of 19
+spectives of SVF. Studies that were not peer-reviewed, such as preprints, were excluded.
+Likewise, articles not available in English, letters to the editor, studies that did not provide
+explicit data on SVF, and duplicate studies were also omitted from this review. For clini-
+cal trials, only those that reported clear methodologies, patient outcomes, and statistical
+analyses were considered. Articles had to be explicitly centered on the stromal vascular
+fraction (SVF). This ensured that the study provided specific insights into SVF, rather than
+a peripheral or broad overview of adipose tissue or regenerative medicine. The paper had
+to showcase a sound research methodology, which is a testament to the credibility, relia-
+bility, and replicability of the study’s findings. Those with ambiguous or poorly defined
+methodologies were not considered appropriate for inclusion. Research studies with a
+limited sample size, specifically those with fewer than 5 participants, might not provide
+the robust evidence that this review aims to collate. Non-original research articles, such as
+commentaries, editorials, and opinion papers were excluded to maintain the integrity and
+objective of our study.
+2.3. Data Extraction
+For each selected article, data were extracted by two independent reviewers (ENG and
+NM). The data comprised the year of publication, study type, the number of participants
+(for clinical trials), main findings, and conclusions and complications. Any discrepancies
+between the reviewers were resolved through discussion until a consensus was reached.
+3. Results
+The systematic literature search yielded a total of 787 articles. After removing dupli-
+cates and screening titles and abstracts, 84 full-text articles were assessed for eligibility. Of
+these, 16 articles met the inclusion criteria and were included in the review (Table 1) [11–26].
+The selected studies included prospective and/or retrospective case series, randomized
+controlled clinical trials, and reviews. This rigorous methodology provides a framework
+for a thorough and systematic analysis of the existing literature on SVF, offering robust
+insights into the potential of this important cell population in regenerative medicine.
+
+[W4391311681 PDF PAGE 4]
+Medicina 2024, 60, 221 4 of 19
+Table 1. Data Synthesis and Analysis.
+Author(s) (Year) Study Type Sample Size Key Findings Conclusion Complications
+Onoi et al. [11] (2023) prospective case series 42 Safety of autologous SVF
+SVF cell injections in the hip joint showed
+good short-term clinical efficacy for
+reducing hip OA symptoms.
+no
+Kim et al. [12] (2023) retrospective 43
+Cartilage repair was evaluated based on
+the Magnetic Resonance Observation of
+Cartilage Repair Tissue scoring system,
+using the magnetic resonance imaging
+from the 12-month follow-up
+SVF implantation improved pain and
+cartilage regeneration for patients with
+knee osteoarthritis. The cartilage lesion size
+and the number of SVF cells significantly
+influenced the postoperative outcomes.
+no
+Zhang et al. [13] (2022) retrospective, randomized
+controlled clinical trial 126
+The VAS and WOMAC scores in the SVF
+group were significantly better than those
+in the hyaluronic acid group during the
+5-year follow-up after treatment.
+Up to 5 years after autologous SVF
+treatment, acceptable clinical state was
+present for approximately 60% of patients
+with less cartilage volume loss. In addition,
+the high severity of BML and high BMI
+increased the risk of clinical failure.
+Intra-articular injections of SVF do not
+improve subchondral BML.
+no
+Kwon et al. [14] (2023) prospective 20
+The 6-month follow-up following scar
+revision surgery revealed better results
+after treatment with SVF than those in the
+control group.
+Although more research is needed,
+autologous SVF is a valuable source of
+regenerative medicine that can be swiftly
+and inexpensively prepared from human
+fat tissue.
+no
+Garza et al. [15] (2021) prospective double-blinded
+randomized trial 39
+The median percentage change in
+WOMAC score at 6 months after injection
+for the high-dose, low-dose, and placebo
+groups was 83.9%, 51.5%, and 25.0%,
+respectively. The high- and low-dose
+groups had statistically significant
+changes in WOMAC scores when
+compared with the placebo group (high
+dose, p = 0.04; low dose, p = 0.02). The
+improvements were dose-dependent.
+Intra-articular SVF injections can
+significantly decrease knee OA symptoms
+and pain for at least 12 months. The efficacy
+and safety demonstrated in this
+placebo-controlled trial support its
+implementation as a treatment option for
+symptomatic knee OA. Magnetic resonance
+image review revealed no changes in
+cartilage thickness after treatment.
+no
+Rodriguez-Merchan et al. [16]
+(2022) literature review 28
+Intra-articular injection of SVF seems to
+be a safe and efficacious method for
+managing knee osteoarthritis (OA).
+Platelet-rich plasma 

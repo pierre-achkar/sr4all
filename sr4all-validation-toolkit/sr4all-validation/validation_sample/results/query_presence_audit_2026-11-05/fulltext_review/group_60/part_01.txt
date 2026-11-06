@@ -1,0 +1,204 @@
+lutants, other size 
+fractions beyond  PM2.5, or a mixture of gases and aerosols. 
+New evidence has also been generated since Cho et al. [49] 
+conducted their review.
+The main objective of this systematic review is to com-
+prehensively evaluate the existing scientific evidence 
+regarding the impact of air pollution on viability, cytotoxic-
+ity, inflammation, oxidative stress and genetic damage in 
+human airway cellular models. We aim to achieve this by 
+summarizing findings from studies using innovative air–liq-
+uid interface (ALI) systems. By integrating evidence from 
+ALI systems, we seek to provide a better understanding of 
+the biological mechanisms underpinning the health effects 
+of air pollution and evaluate the advantages of ALI systems 
+in respiratory toxicity assessment.
+Methods
+A systematic review was conducted to study the toxicolog-
+ical effects produced on airway cell models upon exposure 
+to several airborne pollutants using Air–Liquid Interface  
+(ALI) systems. The PRISMA standards were followed as 
+reporting guidance for this review (PRISMA checklist in 
+Supplementary Information).
+Information Sources and Search Strategy
+A literature search was conducted in PubMed, Web of Sci-
+ence and Scopus databases for all studies published up to 
+December 2022. The following keywords associated with 
+ALI exposure systems and air pollutants of bigger con-
+cern (based on the WHO Air Quality Guidelines) were 
+selected: “air–liquid cellular model”, “air–liquid interface 
+culture”, “human respiratory tract”, “human respiratory cel-
+lular model”, “particulate matter”, “PM”, “PM2.5”, “PM10”, 
+“PMcoarse”, “nitrogen dioxide”, “carbon monoxide”, “sulfur 
+dioxide”, “sulphur dioxide”, “ozone”, “aerosol”, “aerosols”, 
+“air pollution”, “air pollutants”, “inflammation”, “oxidative 
+stress”, “cytotoxicity”, “gene expression”, “proliferation”.
+An update on March 11, 2024 identified 30 additional 
+studies through database searching, with one study meet-
+ing the inclusion criteria.
+Eligibility Criteria
+Studies were included in the review according to the fol-
+lowing criteria:
+1) Experimental studies in which the use of a specific 
+in vitro cell culture design based on an ALI system was 
+reported.
+2) Exposure agents in the study are one of the key out-
+door pollutants established by the WHO, such as  PM2.5, 
+ PM10,  O3,  NO2,  SO2 or CO.
+3) Exposure agents in the study include diesel or gasoline 
+exhaust.
+4) Studies focus on the following biological outcomes: 
+cytotoxicity, cell viability, cellular inflammation, oxi-
+dative stress, or genotoxicity.
+5) Values of the outcomes produced upon exposure of the 
+target air pollutant agents are clearly reported.
+Some articles were excluded because the outcomes of 
+interest were not measured, or the results of the outcomes 
+were not reported. More specifically, articles were excluded 
+according to any of the following exclusion criteria:
+1) Studies related with tobacco smoke, e-cigarettes or water 
+pipe smoke.
+2) In vivo studies or used animal cellular models.
+3) Studies based exclusively on traditional in vitro cellular 
+models under submerged conditions.
+
+[W4412727192 PDF PAGE 4]
+ Current Environmental Health Reports           (2025) 12:26 
+   26  Page 4 of 40
+4) Studies related with wood smoke, biomass smoke or 
+cookstove emissions.
+5) Studies related with engineering nanomaterials.
+6) Studies not written in English.
+7) Review articles.
+Additional articles cited in the studies reviewed were also 
+included whenever compliant with the eligibility criteria.
+Selection Process
+All the articles found in the literature search were imported into 
+Rayyan, a tool for systematic reviews. First, duplicates were 
+resolved for the 337 articles identified through database search-
+ing. Then, the title and abstract screening was performed by two 
+independent reviewers (ONA and JMDS), and conflicts were 
+solved by a third reviewer (MMS). In the second phase, the full 
+text of articles selected for inclusion was reviewed by ONA and 
+JMDS, and controversies in this stage were resolved by MMS. 
+Selected articles were classified in three groups depending on 
+the exposure agent, which were 1) exposure to gases, 2) expo-
+sure to aerosols or PM and 3) combined exposure to gases and 
+aerosols. The whole selection process is depicted in Fig. 2.
+Data Collection Process and Items
+Data was collected by one reviewer (ONA) and supervised by 
+the other two reviewers (JMDS and MMS). An excel datasheet 
+(Supplementary Information) was created for each group of arti-
+cles to extract all the relevant information methodically, includ-
+ing the following fields: Author & publication year, location, 
+ALI culture type, cell type, culture conditions, biological and 
+technical replicates, exposure agent, exposure system, exposure 
+duration, exposure concentration, outcomes of interest, outcome 
+measurement, results, statistical analysis and controls.
+Study of Risk of Bias Assessment
+The risk of bias (RoB) assessment was performed using the 
+NTP Handbook for Conducting a Literature-based Health 
+Assessment Using OHAT Approach for Systematic Review 
+and Evidence Integration [50]. Studies were rated and clas-
+sified by one reviewer (ONA) and revised by the other two 
+reviewers (JMDS and MMS). All questions and criteria 
+selected for the RoB assessment of the in vitro epidemiol-
+ogy studies included in this review are presented in the Sup-
+plementary Information (Tables S1-S3). Three key criteria 
+were highlighted (exposure characterization, experimental 
+conditions, and outcome assessment), and four additional 
+quality criteria were selected (statistical approach, selective 
+reporting bias, adequate randomization, and temporality).
+In addition to the quality criteria mentioned above, a tiering 
+approach according to the OHAT Handbook was applied. This 
+method supports the inclusion of most studies in the body of 
+evidence, except those with a high risk of bias across multiple 
+key quality domains. Following the guidelines of the OHAT 
+Handbook, results from articles rated as Tier 3 were not consid-
+ered in the integration of evidence due to their high risk of bias.
+Results
+A total of 53 articles were included in the review. Twenty 
+studies reported the effect of exposure to gases (Table 1), 23 
+studies focused on aerosols or particulate matter exposures (
+Table 2) and 10 studies assessed the combined effect of 
+gases and aerosols (Table 3). The included literature originates 
+mainly from Europe (34), followed by North America (15) and 
+Asia (3). Additionally, two studies reported data from Australia.
+In these studies, a variety of healthy and diseased respira-
+tory cell lines were used to develop different air–liquid inter-
+face (ALI) cellular models that closely represented the human 
+pulmonary system. These cell lines included human alveolar 
+adenocarcinoma cells (A549) in 19 studies, human nasal epi-
+thelial cells (HNE) in 6 studies. Human bronchial epithelial 
+cells were used in several studies, including HBEpC in 7 stud-
+ies, BEAS-2B in 7 studies, 16HBE14o- in 4 studies, HFBE-21 
+in 2 studies, HBE in 2 studies and NHBE in 5 studies. Human 
+lung fibroblasts (Lk004) were used in one study, human epithe-
+lial lung adenocarcinoma cells (Calu-3) in 3 studies, small air-
+way epithelial cells (SAECs) in one study and primary airway 
+epithelial cells (AECs) in one study. However, in certain stud-
+ies cells were obtained directly from patients undergoing sinus 
+surgery [52–55], or through enzymatic digestion of bronchial 
+tissue [94]. These approaches required additional procedures 
+to isolate the specific cell types of interest.
+As a standard protocol, cells were cultured in flasks using 
+the most suitable culture medium for each specific cell type. 
+Commonly used culture media included Airway Epithelial Cell 
+Growth Medium (BEGM) in 13 studies, Minimum Essential 
+Medium (MEM) in 5 studies, Ham’s F12 in 9 studies, RPMI 
+1640 in 5 studies and Dulbecco's Modified Eagle Medium 
+(DMEM) in 13 studies. Following culture, cells were trans-
+ferred to inserts with porous membranes, typically made of 
+PET, and sometimes coated with collagen. These cells were 
+then incubated under standard conditions, including a tempera-
+ture of 37 ºC and an atmosphere with 5%  CO2, to mimic physi-
+ological conditions and support cell viability. During this incu-
+bation period, routine cell culture procedures such as passaging, 
+culture media replacement and cell counting were implemented 
+to maintain optimal cell density and ensure consistent growth. 
+Once the cells reached confluence, typically within one week, 
+the apical medium was aspirated to initiate the establishment 
+of the ALI. This involved maintaining the cell monolayer with 
+medium supplied only to the basal compartment. The ALI 
+culture was sustained for at least one additional week, during 
+
+[W4412727192 PDF PAGE 5]
+Current Environmental Health Reports           (2025) 12:26  
+ Page 5 of 40    26 
+which the apical surface was periodically rinsed with phos-
+phate-buffered saline (PBS) to remove accumulated mucus 
+and cellular debris, helping to preserve epithelial integrity and 
+function. The basal medium was refreshed every other day to 
+provide nutrients to the cells and remove waste products. This 
+whole process is depicted in Fig. 3.
+Fig. 2  Flow diagram of study selection based on the PRISMA statement
+
+[W4412727192 PDF PAGE 6]
+ Current Environmental Health Reports           (2025) 12:26 
+   26  Page 6 of 40
+Table 1  Summary of characteristics and outcome assessment of studies reporting the effects of exposure to gaseous pollutants included in the literature review
+Reference Location ALI culture Cell type(s) Exposure 
+agent(s)
+Exposure 
+system
+Exposure dose Exposure dura-
+tion
+Outcome assessment
+Cell viabil-
+ity/Cytotox-
+icity
+Cellular 
+inflamma-
+tion
+Genotoxicity Oxida-
+tive 
+stress
+[51] Sydney, Aus-
+tralia
+DMEM/Ham's 
+F12 mixture, 
+snapwell 
+inserts
+A549, skin 
+fibroblasts
+NO2 NaviCyte 

@@ -1,0 +1,174 @@
+]. For example, McKay 
+et al., in a national study of members of the LGBTQ com -
+munity, found that HIV positive men were 55% more likely 
+Reference Region1 Summary of Findings Relevant to Research Question
+Sorbera et at. 
+(2021)
+Northeast In a sample of 211 PWH at a primary care clinic, no significant change was identified in the percentage 
+virally suppressed or with an undetectable viral load, when comparing a period during C19 to pre-C19. 
+The percentage with CD4 cell counts > 200 cells/mm3 decreased from 92.6–78.3%.
+Wion & Miller 
+(2021)
+National In general, participants (n = 85 PWH) recruited via social media reported moderate to high confidence that 
+they could contact their HIV provider or pharmacy, if required. Decreases were reported in access to social 
+support groups and overall HIV self-management, when comparing during to pre-pandemic.
+1Regions used in CDC’s National HIV Surveillance System: Northeast (NE): CT, ME, MA, NH, NJ, NY, PA, RI, VT; Midwest (MW): IL, IN, 
+IA, KS, MI, MN, MO, NE, ND, OH, SD, WI; South (S): AL, AR, DE, DC, FL, GA, KY, LA, MD, MS, NC, OK, SC, TN, TX, VA, WV; West 
+(W): AK, AZ, CA, CO, HI, ID, MT, NV, NM, OR, UT, WA, WY
+2Includes studies that used participant data from HIV clinics or from other cohorts or interventions not limited by other demographic variables 
+(e.g., not limited to MSM, certain race/ethnicities, etc.). Several studies listed in this section are also listed elsewhere in the table as the authors 
+report results in aggregate and by selected demographic categories
+HIV-Human Immunodeficiency Virus, PWH-people living with HIV, ART-antiretroviral therapy, MSM-men who have sex with men, C19-
+COVID-19, VL-viral load, VS-viral suppression
+Table 4 (continued) 
+1 3
+352
+
+[W4289522482 PDF PAGE 10]
+AIDS and Behavior (2023) 27:344–357
+Changes in viral suppression rates
+Very few studies reported data on changes in viral suppres-
+sion rates, when comparing time periods during the pan -
+demic to periods before the pandemic. For the four studies 
+that did, three found no significant difference in either the 
+odds of viral suppression [ 24] or the proportion with viral 
+suppression [15, 32]. Importantly, one of these studies was 
+conducted on unhoused individuals who had access to a 
+“low-barrier, high intensity HIV primary care program”, 
+which likely mitigated the impact of the pandemic in this 
+population [ 24]. However, while the percentage of those 
+virally suppressed in this population did not change signifi-
+cantly during the pandemic (47%) vs. pre-pandemic (48%), 
+rates were inadequate in both time periods [ 24]. Only one 
+study found an increase in the odds of viral non-suppression 
+when comparing the time periods [28]. This study also found 
+higher odds of viral non-suppression in those experiencing 
+homelessness during the pandemic compared to before the 
+pandemic [28]. One study that compared viral suppression 
+rates for those who attended visits via telephone vs. in-per -
+son during the pandemic found higher rates in those who 
+could attend via telehealth [29].
+DISCUSSION
+This systematic review highlights how the COVID-19 pan-
+demic has impacted retention and engagement in HIV ser -
+vices, ART adherence, and viral suppression rates for PWH 
+in the U.S. Articles were identified from all four CDC HIV 
+Surveillance System regions and indicate varying impacts 
+of the pandemic within and across these regions. In the 
+southern region, which has some of the highest rates of HIV 
+diagnoses per 100,000 people [14], four of the studies iden-
+tified in this review found minimal to no negative impacts 
+on retention or engagement in healthcare services and medi-
+cation adherence, and included studies conducted within 
+older PWH [19], people who inject drugs [21], underserved 
+populations [ 22], and an existing HIV cohort [ 20]. How -
+ever, two studies found larger impacts on ability to attend 
+HIV care appointments, including in Black MSM [ 35] and 
+in people who were actively using substances [ 25]. Stud -
+ies from the western, northeast, and midwest regions found 
+some impacts within these areas, but again these differed by 
+the city/state, how the participants were recruited, and how 
+impacts within these areas were measured. Importantly, 
+eleven studies identified disparities, such as by HIV sta -
+tus, race/ethnicity, age, income, housing status, and access 
+to video telehealth, in those that were most impacted by 
+COVID-19 related interruptions, and these disparities were 
+found in studies from all but the northeastern region.
+Challenges in filling or obtaining ART prescriptions
+Studies also identified participants who reported having 
+difficulties filling or obtaining their ART prescriptions and 
+included a national study as well as studies from the south -
+ern, northeastern, midwestern, and western regions [16, 18, 
+22, 25, 26, 37]. These percentages ranged from between 
+approximately 6–22% of respondents living with HIV [ 16, 
+18, 22, 25, 26, 37]. The largest percentage of individuals 
+who reported difficulties in accessing ART was found in a 
+sample of Black MSM and transgender women living in 
+Chicago [ 26]. Studies also captured participant-reported 
+missed ART doses [ 18, 22, 23, 30, 38]. For example, one 
+study of PWH who reported alcohol/drug use found that 
+12% missed 2 or more ART doses during the week, com -
+pared to 5% before the pandemic [ 30]. The largest percent-
+age of participants who reported missing ART doses was 
+found in a cross-sectional survey of older adults (> 50 years 
+of age) living with HIV , where 24% reported missing a dose 
+[38]. Some of the reported reasons for missing ART doses in 
+the literature included forgetting to take doses [ 38], disrup-
+tions in regular routines [23], and inability to get a prescrip-
+tion or get to a pharmacy [18, 25, 37]. Studies that assessed 
+ART adherence or coverage identified only small decreases 
+when comparing time periods during the pandemic to before 
+the pandemic [ 15, 18, 37]. One study reported increased 
+adherence to ART due to heightened fears of participant’s 
+increased risk of COVID-19-related morbidity and mortal -
+ity as a PWH [18].
+Disparities were also noted in those who experienced 
+interruptions in their ART regimen, and were particularly 
+pronounced in individuals who experienced greater COVID-
+19 related impacts on their ability to work or travel [ 16, 
+26], were unable to attend healthcare appointments [ 38], 
+or practiced stricter COVID-19 protective measures [ 25]. 
+For example, Bogart et al. (2021) found that HIV patients 
+who had experienced COVID-19 related disruptions to their 
+employment, ability to pay rent, and ability to use public 
+transportation had a 41% reduction in their odds of ART 
+adherence. Kalichman et al. (2020) found that those who 
+followed stricter COVID-19 protective measures reported 
+more difficulty in getting their medications. One study also 
+found that those who had been exposed to greater interper -
+sonal violence also reported greater difficulties in obtaining 
+their ART medications [26].
+Providers took several measures to improve ART adher-
+ence during the pandemic. Some of these measures included 
+extended or multi-month refills, mail-order pharmacy, and 
+assistance with prescription pick-up [ 9, 29, 39], reaching 
+out to patients on how to refill medications during COVID-
+19-related lockdowns [ 21], and regular adherence assess -
+ments by pharmacists [32].
+1 3
+353
+
+[W4289522482 PDF PAGE 11]
+AIDS and Behavior (2023) 27:344–357
+one study found that 41% of Medicare beneficiaries lacked 
+access to a computer, 40.9% lacked access to a smartphone 
+with a wireless data plan, and access was lower in Black 
+and Hispanic populations, the elderly, and those on Med -
+icaid [42]. Additionally, lack of human connection, lack of 
+knowledge on how to use telemedicine, and increased risk 
+for disclosure of personal information similarly indicate that 
+telemedicine is not a panacea to replace in-person visits. It 
+is critical that HIV service providers implement diverse and 
+flexible strategies that are cognizant of the resources avail -
+able to and comfort of their patients and that help ensure 
+access to services as the country continues to confront the 
+COVID-19 crisis. This will be particularly important due 
+to the protracted nature of this pandemic, with ebbs and 
+flows in hospitalization rates (and subsequent triggering 
+of changes in clinic operating status) and in the economic 
+impacts on communities which may limit access to or use 
+of care. Furthermore, health systems must learn from their 
+experiences providing care to these populations during this 
+health emergency and incorporate them into preparedness 
+plans to help ensure continued access to services during 
+future public health emergencies.
+This review is subject to several limitations. First, there 
+remains the possibility that we omitted important and rel -
+evant articles. Second, the studies identified in this review 
+relied primarily on patient reported interruptions in HIV 
+services rather than clinical (e.g., viral suppression rates) or 
+other data sources (e.g., clinic visit numbers). This increases 
+the risk for bias (specifically, selection and recall bias) and 
+decreases the generalizability of the data. Eleven studies 
+also used data from patients previously or currently enrolled 
+in studies or interventions, and these individuals may be 
+systematically different than those who are not currently 
+enrolled in a study. Additionally, the care received through 
+these studies or interventions may not be representative of 
+the standard or care experienced by other PWH across the 
+U.S. Third, due to the protracted nature of the pandemic and 
+the changing case numbers and subsequent impact on health 
+systems, patient responses may have been only applicable 
+to certain time periods within the pandemic. For example, 
+this review was conducted prior to the emergence of the 
+Omicron SARS-CoV-2 variant, w

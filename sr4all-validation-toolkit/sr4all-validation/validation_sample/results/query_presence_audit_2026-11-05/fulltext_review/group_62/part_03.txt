@@ -1,0 +1,267 @@
+esquiterpenoid Zerumbone Zingiber zerumbet 
+Smith – Shan 
+Jiang
+Reduces neuroin‑
+flammation, shifts 
+microglial phenotype 
+from M1 to M2, 
+enhances microglial 
+Aβ phagocytosis, 
+and reduces synaptic 
+loss in the hippocam‑
+pus
+Inhibits MAPK/
+NF‑κB signaling, 
+reduces phospho‑
+rylation of MAPK, 
+ERK1/2, and p65, 
+suppresses PGE2, 
+COX‑2, and mPGES‑1 
+production. Promotes 
+M2 microglia (increases 
+CD206 and ARG‑1 
+expression)—blocks 
+NF‑κB nuclear translo‑
+cation
+N9 microglial cell
+Primary microglia 
+from C57BL/6 
+mice
+Transgenic APP/
+PS1 mice
+Wild‑type (WT) 
+C57BL/6 mice
+1, 3, 10 μg/mL
+25 mg/kg/day 
+(20 days)
+Enhanced 
+nest‑building 
+ability (nesting 
+score climbed 
+from 2–3, scat‑
+tered paper, 
+to 4–5, well‑
+organized nests 
+within 20 days), 
+social behavior 
+(higher frequen‑
+cies of sniffing, 
+grooming, 
+and following in 
+the resident–
+intruder test), 
+recognition 
+memory 
+(elevated rec‑
+ognition index 
+in the novel‑
+object‑recog‑
+nition task), 
+and spatial 
+learning 
+plus reference 
+memory (shorter 
+escape latencies 
+in the Morris 
+Water Maze)
+[85]
+
+[W4413867217 PDF PAGE 14]
+Page 14 of 42Yuan et al. Chinese Medicine          (2025) 20:138 
+Phytochemicals enhancing lysosome‑mediated autophagy 
+in AD
+Autophagy is a lysosome-dependent cellular degrada -
+tion process crucial for maintaining proteostasis and 
+removing toxic protein aggregates in neurodegenerative 
+diseases. The three main types of autophagy are macro -
+autophagy (commonly referred to as autophagy), chap -
+erone-mediated autophagy (CMA), and microautophagy 
+– Fig.  3. Macroautophagy plays a crucial role in remov -
+ing damaged proteins and organelles; it is also essential 
+in degrading APP and its metabolic products [10, 90, 91], 
+while CMA and microautophagy serve complementary 
+roles in processing specific proteins or other cellular con-
+stituents [40, 92].
+Atg5-dependent autophagy enhances the degrada -
+tion of the APP itself [93], inhibition of Atg7 weakens 
+the autophagic flux, leading to reduced extracellular 
+Aβ plaque formation and increased Aβ accumulation 
+within neurons, indicating Aβ secretion is impaired in 
+autophagy due to dysfunctional regulation [94]. Inhibi -
+tion of mTOR (mechanistic target of Rapamycin) signal -
+ing using certain identified compounds can significantly 
+reduce tau phosphorylation and insoluble tau forma -
+tion [91]. Enhancing Transcription Factor EB (TFEB) 
+encourages autophagy and lysosomal physiology and 
+helps accelerate APP degradation [10, 95]. Aβ accumu -
+lates in autophagosomes and can be transferred to autol -
+ysosomes for breakdown through the cathepsin D. The 
+optineurin and proteasomal system proteins break down 
+extracellular Aβ fibrils through the phagocytic microglia; 
+the proteasomal system can only degrade monomeric 
+and low-molecular-weight Aβ42 oligomers. However, 
+autophagy can degrade in regulating the aggregation, 
+phosphorylation, and degradation of microtubule-associ -
+ated protein tau [10].
+The errors in the formation of autophagosomes 
+have been observed in AD patients, potentially due 
+to reduced Beclin-1, which regulates the synthesis of 
+autophagosomes [90]. Autophagy is a lysosome-depend -
+ent cellular degradation process crucial for maintain -
+ing proteostasis and removing toxic protein aggregates 
+in neurodegenerative diseases. The three main types of 
+autophagy are macroautophagy (commonly referred to as 
+autophagy), chaperone-mediated autophagy (CMA), and 
+Fig. 3 Overview of autophagy pathways
+
+[W4413867217 PDF PAGE 15]
+Page 15 of 42
+Yuan et al. Chinese Medicine          (2025) 20:138 
+ 
+microautophagy—Fig. 3. Macroautophagy plays a crucial 
+role in removing damaged proteins and organelles; it is 
+also essential in degrading APP and its metabolic prod -
+ucts [10, 90, 91], while CMA and microautophagy serve 
+complementary roles in processing specific proteins or 
+other cellular constituents [40, 92].
+During autophagy, LC3 undergoes lipidation and 
+becomes attached to the inner and outer membranes of 
+the double-membrane autophagophore before it closes. 
+This modification not only facilitates the transport of 
+autophagosomes and their fusion with lysosomes but 
+also plays a key role in selecting the specific cargo for 
+degradation, ensuring efficient clearance of damaged or 
+unnecessary cellular components [96]. PSEN1 preserves 
+lysosomal acidification by directing the v-ATPase to lys -
+osomes, while PSEN2 regulates the Rab7-Ras-related 
+protein-7 to autophagosomes by regulating Ca2 + bal-
+ance in the endoplasmic reticulum. Therefore, alterations 
+in PSEN1 and PSEN2 impair lysosomal degradation and 
+obstruct the merging between autophagosomes and lys -
+osomes [90, 97]. Autophagy also helps regulate inflam -
+mation by degrading the NLRP3 inflammasome and 
+controlling factors RIPK1 and TFEB [90].
+Phytochemicals targeting lysosome-mediated 
+autophagy are demonstrated in Table  2. Compounds 
+stimulating the AMP-activated protein kinase (AMPK) 
+signaling axis, a central energy-sensing pathway that gov-
+erns autophagy initiation [98, 99]. By activating AMPK, 
+they inhibit the mechanistic target of rapamycin (mTOR), 
+release the autophagy-initiating kinase ULK1, and in 
+some cases stimulate TFEB to promote lysosomal biogen-
+esis in enhanced autophagosome formation, improved 
+clearance of protein aggregates, and autophagic flux 
+restoration [99, 100]. Naringenin and kaempferol acti -
+vate AMPK-mediated autophagy signaling to reduce Aβ 
+accumulation and associated neurotoxicity, protecting 
+neuronal cells from oxidative stress-induced apoptosis 
+[101, 102]. Genipin, an iridoid glycoside derived from 
+Genipa americana L., exerts a potent modulatory effect 
+on autophagy by activating the SIRT1/LKB1/AMPK sign-
+aling cascade. By stimulating this energy-sensing path -
+way, genipin suppresses the mTOR/p70S6K axis, thereby 
+enhancing autophagic flux and facilitating the clearance 
+of pathological protein aggregates [103–105]. Crocetin 
+activates STK11/LKB1, phosphorylates AMPK at Thr172, 
+ULK1 at Ser317, and represses mTOR. The cascade raises 
+LC3B-II, Atg5/7/12, and BECN1, driving autophagic flux 
+and confirming the central role of the STK11–AMPK 
+axis. In N9 microglial cells, 25 µM crocetin lowers Aβ42; 
+the effect vanishes when you block autophagy or knock 
+down STK11. In mice, oral dosing at 5–20 mg/kg/day for 
+30  days reactivates STK11–AMPK signalling, increases 
+hippocampal LC3B-II, cuts plaques and soluble Aβ, 
+reduces GFAP and IBA-1, raises autophagy proteins, and 
+improves Morris water-maze performance, an autophagy 
+activator acting through STK11-AMPK-ULK1/mTOR to 
+remove Aβ, suppress neuroinflammation, and improve 
+cognition [106].
+The compounds target autophagy at the lysoso -
+mal stage by activating TFEB, the master lysosomal 
+and autophagy gene expression regulator. Promoting 
+TFEB nuclear translocation boosts the cell’s degrada -
+tive capacity, increases lysosomal enzyme production, 
+and enhances the breakdown of pathogenic proteins 
+and damaged organelles [107]. Pseudoginsenoside-F11 
+activates autophagy in four steps: it first stimulates the 
+phosphatase calcineurin; calcineurin quickly de-
+phosphorylates TFEB so TFEB enters the nucleus; 
+nuclear TFEB up-regulates the autophagy-lysosome 
+genes Lamp1, Ctsd, Map1lc3b, and Sqstm1; the resulting 
+lysosomal boost then clears LC3-II and SQSTM1, reo -
+pening autophagic flux [108, 109].
+A subset of compounds that specialize in promoting 
+mitophagy, the selective form of autophagy responsible 
+for removing damaged mitochondria, involves activa -
+tion of the PINK1/Parkin signaling pathway, which tags 
+defective mitochondria for degradation, thereby main -
+taining mitochondrial quality control and reducing oxi -
+dative stress [110]. β-asarone, an alkaloid compound 
+extracted from Acorus tatarinowii Schott, promotes neu -
+ronal health by enhancing autophagy and mitophagy. It 
+increases the expression of key autophagy-related pro -
+teins LC3-I/II and Beclin-1 while upregulating PINK1 
+and Parkin, activating the mitochondrial quality con -
+trol pathway. β-asarone facilitates the clearance of Aβ 
+plaques, suppresses amyloidogenic enzymes—APP , PS1, 
+and BACE1, and simultaneously supports synaptic func -
+tion by increasing synaptophysin (SYN1) expression 
+[111–113].
+The agents directly influence the core autophagy 
+machinery by modulating Beclin-1 and LC3, two essen -
+tial proteins for autophagosome nucleation and elon -
+gation. Enhancing LC3-II formation and Beclin-1 
+expression facilitates the capture and degradation of 
+toxic cellular debris, contributing to neuroprotection 
+and protein homeostasis [114, 115]. Ginsenosides Rg1 
+and Rg2 increase LC3-II and Beclin-1, and decrease 
+p62, autophagy activation is clear after 24  h at 50  µM: 
+gets faster lysosomal turnover—cathepsin L jumps 
+40% and cathepsin B 22% with Rg2—so Rg2 triggers 
+stronger autophagic clearance than Rg1, especially in the 
+APP-mutant cell [67].
+The compound modulates autophagy indirectly by 
+alleviating or balancing ER stress, a cellular condition 
+that can either stimulate or inhibit autophagy depend -
+ing on severity by suppressing GRP78, PERK, and CHOP , 
+
+[W4413867217 PDF PAGE 16]
+Page 16 of 42Yuan et al. Chinese Medicine          (2025) 20:138 
+Table 2 Pharmacologically active compounds targeting autophagy
+Group Compounds Structure Species Activities Mechanism Models Dose Behavioral 
+experiment results
+Ref
+Polyphenol 2,3,5,4′‑tetrahydroxystil‑
+bene‑2‑O‑glycoside
+Polygonum 
+multiflorum – He 
+Shou Wu
+Dampens neuro‑
+inflammation, restores 
+autophagy/mitophagy 
+flux, and provides 
+neuro‑protection
+Bound the AMPK‑α 
+pocket (docking) 
+and triggered AMPK/ 
+ULK1 → PINK1/Parkin 
+signalling, lowered 
+iNOS and COX‑2 levels 
+in microglia
+BV2, N2a, and SH‑
+SY5Y
+neonatal rat 
+cortex & hip‑
+pocampus
+10 µM, 1 µM, 
+100 nM, 10 nM 
+(12–24 h)
+[21]
+Flavonoid Apigenin Morifolium 
+chrysanthemum 
+– Ju Hua
+Antioxidant, anti‑
+amyloid (Aβ‑42) 
+aggregation, induces 
+autophagy‑medi‑
+ated degradati

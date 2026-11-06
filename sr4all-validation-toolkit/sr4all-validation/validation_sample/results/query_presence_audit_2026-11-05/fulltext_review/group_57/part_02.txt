@@ -1,0 +1,239 @@
+ usually normal until 15 months of age when
+deceleration is ﬁrst noticed. In 1993 Schultz et al. underlined the
+pattern of growth of RTT mainly characterized by deceleration of
+head growth, followed by decel eration of weight and height
+measurements. Considering that the typical motor and behavioral
+alterations of RTT often appear after the second year of life, this
+growth pattern can be theﬁrst clinical element of suspicious for this
+syndrome (46). In consideration of this typical growth pattern in RTT
+Tarquinio et al. in 2012 proposed speciﬁc Growth Charts for height,
+weight and BMI for patients with Rett syndrome that have been
+approved and used by International Rett Syndrome Foundation to
+avoid a common clinical and research setting in RTT (27).
+Regarding possible endocrine disruption in RTT involving
+growth, Huppke et al. showed that growth retardation - which
+involved 91.1% of their RTT cohort doesn’t seem to be caused by
+Growth Hormone (GH) de ﬁciency. Nevertheless, disturbed
+hypothalamic control cannot be excluded (26). After about 10
+years, even Hara et al. investigated short stature and GH
+deﬁciency in RTT. Notably, despite patients with epilepsy and
+Rett syndrome having a delayed growth spurt, the ﬁnal height
+wasn’t statistically different from a control group with only epilepsy.
+Moreover, circulating levels of GH, IGF-1, and ghrelin were not
+signiﬁcantly correlated with height in either group (47).
+Of course, in RTT nutritional status could negatively affect
+growth because of the decline in feeding abilities that may occur
+during ages. Oddy et al. reported that factors such as enteral
+nutritional support, mobility, breath-holding, and hyperventilation
+TABLE 1 Continued
+PAPER,
+YEAR,
+COUNTRY
+DESIGN N.
+PATIENTS
+AGE
+OF
+EVALUATION
+SEX/
+RACE
+GENETIC ENDOCRINOPATHIES EPILEPSY
+Budden et al.,
+2003 (40)
+USA
+Clinical trial
+From the
+Australian
+Rett
+Syndrome
+Database
+(ARSD)
+5 Mean age 12.05 yo
+(4–30.5 years)
+5 female,
+0 male
+MeCP2 60%
+Unknown 40%
+Low bone volume accompanied by
+low bone formation rates of100%
+Epilepsy
+disorders
+20%
+Motil et al., 2011
+(41)
+USA
+Retrospective
+review,
+observational
+284 11.7 ± 8.4 284 female,0
+male
+Caucasian
+69%
+Hispanic
+19%
+African
+American
+5%
+Asian 5%
+Native
+American
+2%
+MeCP2 99%
+Unknown 1%
+Low vitamin D20%
+Malnutrition 15%
+Obesity 4%
+Epilepsy
+disorders
+57%
+Shapiro et al.,
+2010 (42)
+USA
+Cross-sectional
+observational
+study
+49 + 1 Female: 1.9 –17 y
+(mean age, 7.6 3.8
+y)
+Male: 6 years
+49 female,1
+male
+N/A
+MeCP2 100% Low bone mineral density 48.9%
+Fractures 11%
+Epilepsy
+disorders
+31%
+Caffarelli et al.,
+2020 (43)
+Italy
+Retrospective
+survey
+232 age range 4 –
+33years; mean age
+13.8 ± 8.3yrs
+232 female
+Caucasian
+MeCP2 100% Scoliosis 51.6%
+Bone fractures 20.9%
+N/A
+Selected following the inclusion features of the studies Characteristics of included studies. N/A, not applicable.
+Pepe et al. 10.3389/fendo.2024.1477227
+Frontiers inEndocrinology frontiersin.org06
+
+[W4403920514 PDF PAGE 7]
+may strongly affect growth in subjects with RTT. Feeding difﬁculties
+could impair adequate nutritional intake, so active nutritional
+management is needed to ensure RTT patients the best opportunity
+to reach their growth potential (48).
+In this regard, in 2001 Reilly et al. underlined that, even if
+mechanisms causing growth failure are poorly understood, both
+nutritional and non-nutritional factors are pivotal (48). In the
+following years, a lot of studies were published about new
+mutations in the MeCP2 gene and their association with
+phenotype. Tarquinio et al. reported a correlation between the
+subtype of MeCP2 mutation with growth pattern, showing that
+growth failure occurs less frequently in case of late truncation
+mutations. This ﬁnding was probably due to mutations that
+affected patients with milder phenotypes. In contrast, other types
+of mutations (pre-C-terminal truncation and R270X), may convey
+several comorbidities that have an impact on growth in RTT, such
+as oropharyngeal and gastrointest inal dysfunctions, scoliosis,
+seizures, and osteopenia (27). Therefore, it seems that mutations
+are correlated to growth velocity but above all with clinical severity.
+Indeed, growth failure is more evident in case of mutations that lead
+to greater clinical severity, such as pre-C-terminal truncation and
+R270X, rather than that associated with a milder clinic phenotype,
+such as R306C, R133C, and C-terminal truncation (49). Tarquinio
+et al. found severe growth failure together with microcephaly in
+29.2% of their RTT cohort. Interestingly, Huppke et al. showed that
+most females with RTT and MeCP2 mutations had a smaller
+occipitofrontal circumference, shorter length, and lower weight at
+birth. Indeed, a role ofMeCP2 protein in intrauterine development
+could be hypothesized (50). Recently, Wong et al. underlined the
+correlation between growth de ﬁcit, malnutrition, and clinical
+severity of the disease (age of onset, dystonia, deambulation, hand
+use, and language impairment), reporting a prevalence of 41.6% for
+short stature and 37.5% for malnutrition (25). This study was also
+the ﬁrst to give importance to ethnicity when comparing RTT
+individuals’growth patterns to the RTT-speciﬁc chart.
+Most recently, Pepe et al. carried out a two-center observational
+study on a pediatric cohort of 51 RTT pediatric patients with
+different genetic mutations ( MeCP2, CDKL5, FOXG1 ). Short
+stature was reported as the most common endocrine disorder
+(47.1%), after excluding secondary causes of growth restriction
+(celiac disease and GH deﬁciency). Interestingly, all the patients
+with short stature exhibitedMeCP2 mutations (23).
+4.2 Weight disorders (obesity
+and malnutrition)
+Obesity and malnutrition represent the opposite manifestations
+of an alteration in weight balance in RTT patients. They are both
+among the most common endocrinopathies reported in RTT, with
+malnutrition being more prevalent than obesity.MeCP2 deletion
+induces dysregulation of lipid metabolism along with signiﬁcantly
+increased lipogenic enzyme gene expression and may alter the
+expression of hypothalamic genes related to feeding regulation. In
+this direction, an interesting experimental study carried on in 2013
+showed that MeCP2 positively regulates POMC expression in the
+hypothalamus. The absence ofMeCP2 in POMC neurons leads to
+increased DNA methylation of the POMC promoter, which, in turn,
+downregulates POMC expression, leading to obesity in mice with
+increasing leptin resistance. Therefore, in POMC neuronsMeCP2
+seems to be essential in energy homeostasis regulation (51).
+Experimental animal models showed that in female
+heterozygous MeCP2 -null mice fed with a high-fat diet, a
+dysregulation of food intake in the hypothalamus and dopamine
+reward circuitry can be observed, accelerating the development of
+obesity ( 52). Another hypothesis correlates genetic MeCP2
+disorders and syndromic manifestations. The ﬁrst de novo
+mutation of MeCP2 was described in 2002 in a male patient (53),
+associated with moderate intellectual disability, hypotonia, obesity,
+and gynecomastia. Couvert et al. also observed obesity and
+neurological disabilities in three patients withMeCP2 mutations
+(54). Although obesity in these patients could be an occasional
+ﬁnding, it might also suggest a role forMeCP2 in regulating energy
+balance. Moreover, some patients with features of Angelman
+syndrome may also convey mutations in theMeCP2 gene (55).
+Nevertheless, the correlation between weight and genotype remains
+unclear and is mainly investigated in murine studies.
+Similarly to short stature, malnutrition is often present in RTT
+patients in the ﬁrst years, soon after the onset of neurological
+regression. Already in 1992, studies on weight and nutrition
+indicated that underweight was likely to be the consequence of
+oral-motor dysfunctions and poor self-feeding abilities. These
+problems, despite preserved appetite, lead to reduced food intake
+with subsequent growth retardation, with the mean energy intake
+being 66.9% in RTT according to the US recommendations (56) for
+age and 107.8% for body weight (45).
+Weight deﬁcit in RTT seems to be related to alterations in energy
+balance (57). In a Polish case-control study of 49 Rett adolescent
+females, malnutrition was described in 38.78% and obesity in 10.2%
+of the case group. In comparison to Polish healthy girls, the diet of
+girls with Rett syndrome was characterized by a signiﬁcantly lower
+energy value, and less carbohydrate, protein,ﬁber, calcium, and iron
+content. All comorbidities that include feeding disorders requiring
+crushing, chopping, or blending of food, and depending on the
+mobility of patients will compromise alimentation and
+consequently weight status (30). Wong et al. reported that 41.03%
+of their Taiwanese RTT cohort had inadequate energy intakes,
+especially in the severe growth deﬁcit group with age≤ 18 years;
+nevertheless, there was no signi ﬁcant difference regarding the
+nutrient intake between severe growth deﬁcit and mild or moderate
+growth deﬁcit. This suggests that other factors in addition to nutrient
+intake may play a role in the growth pattern of those with severe
+growth deﬁcit (25). As mentioned above, Wong et al. underlined that
+nutritional status and dietary intake in RTT may differ among various
+ethnic groups and countries.
+Conversely, several studies reported a normal BMI in RTT
+patients. This is probably due to concomitant weight and height
+deﬁciency that typically affects RTT (27, 31).
+Moreover, it should always be kept in mind thatMeCP2 is a
+ubiquitous protein, expressed even in the gastrointestinal (GI) tract.
+Alterations in the digestive system could be present and contribute to
+poor alimentation and underweight. In a cohort of 983 females with
+Pepe et al. 10.3389/fendo.2024.1477227
+Frontiers inEndocrinology frontiersin.org07
+
+[W4403920514 PDF PAGE 8]
+RTT, 92% had GI problems (gastroesophageal reﬂux, constipation,
+straining with bowel movements, and passage of hard stools) and a
+small percentage (4.4%) also have biliary tract d

@@ -1,0 +1,167 @@
+icle 660367
+
+[W3148386947 PDF PAGE 8]
+Kondo et al. ALS vs. BLS for Trauma
+in the individual studies. Third, we could not perform subgro up
+analysis such as divide trauma into blunt and penetrating bec ause
+of insuﬃcient data from the included studies.
+CONCLUSION
+The present study showed no advantage of prehospital ALS
+intervention on in-hospital mortality, neurological outcomes,
+and spending time on scene in prehospital trauma patients.
+Immediate deﬁnitive treatment may be important for trauma and
+should avoid prolonged time spent on scene. Further studies ar e
+warranted to validate our results.
+DATA AVAILABILITY STATEMENT
+Publicly available datasets were analyzed in this study. The data
+and material used for this meta-analysis are contained in ou r list
+of references.
+AUTHOR CONTRIBUTIONS
+YK conceived the idea for this systematic review and drafted
+the manuscript. YK, TF, RU, MK, SK, and HS developed
+the methodology. TF, RU, MK, SK, HS, TH, and KH revised
+the manuscript. All authors critically reviewed and approved
+the ﬁnal manuscript.
+ACKNOWLEDGMENTS
+We would like to thank Editage (www.editage.jp) for English
+language editing.
+SUPPLEMENTARY MATERIAL
+The Supplementary Material for this article can be found
+online at: https://www.frontiersin.org/articles/10.3389/fmed.
+2021.660367/full#supplementary-material
+REFERENCES
+1. Ocal O, Ozucelik DN, Avci A, Yazicioglu M, Aydin Y, Ayvaci BM, et al. A
+comparison of the outcome of CPR according to AHA 2005 ACLS and AHA
+2010 ACLS guidelines in cardiac arrest: multicenter study.Int J Clin Exp
+Medicine. (2015) 8:21549–56.
+2. Schneider T, Mauer D, Diehl P , Eberle B, Dick W. Quality of on-
+site performance in prehospital advanced cardiac life support (ACLS).
+Resuscitation.(1994) 27:207–13. doi: 10.1016/0300-9572(94)90034-5
+3. Neumar RW, Otto CW, Link MS, Kronick SL, Shuster M, Callaway CW,
+et al. Part 8: adult advanced cardiovascular life support: 2010 American
+Heart Association Guidelines for Cardiopulmonary Resuscitation and
+Emergency Cardiovascular Care. Circulation. (2010) 122(18 Suppl 3):S729–
+767. doi: 10.1161/CIRCULATIONAHA.110.970988
+4. Evans CC, Petersen A, Meier EN, Buick JE, Schreiber M, Kanna s D,
+et al. Prehospital traumatic cardiac arrest: Management and outcomes
+from the resuscitation outcomes consortium epistry-trauma and
+PROPHET registries.J Trauma Acute Care Surg. (2016) 81:285–93.
+doi: 10.1097/TA.0000000000001070
+5. Rappold JF, Hollenbach KA, Santora TA, Beadle D, Dauer ED, Sjoholm LO ,
+et al. The evil of good is better: Making the case for basic life s upport transport
+for penetrating trauma victims in an urban environment. J Trauma Acute Care
+Surg. (2015) 79:343–8. doi: 10.1097/TA.0000000000000783
+6. Seamon MJ, Doane SM, Gaughan JP , Kulp H, D’Andrea AP , Pathak AS,
+et al. Prehospital interventions for penetrating trauma victims: a pro spective
+comparison between advanced life support and basic life support. Injury.
+(2013) 44:634–8. doi: 10.1016/j.injury.2012.12.020
+7. Carrico CJ, Holcomb JB, Chaudry IH. Scientiﬁc priorities and strategi c
+planning for resuscitation research and life saving therapy followin g
+traumatic injury: report of the PULSE Trauma Work Group. Post
+Resuscitative and Initial Utility of Life Saving Eﬀorts.Shock. (2002) 17:165–8.
+doi: 10.1097/00024382-200203000-00001
+8. Lewis RJ. Prehospital care of the multiply injured patient: the
+challenge of ﬁguring out what works. JAMA. (2004) 291:1382–4.
+doi: 10.1001/jama.291.11.1382
+9. Spaite DW, Criss EA, Valenzuela TD, Meislin HW. Prehospital advanc ed life
+support for major trauma: critical need for clinical trials. Ann Emerg Med.
+(1998) 32:480–9. doi: 10.1016/S0196-0644(98)70178-7
+10. Moher D, Booth A, Stewart L. How to reduce unnecessary duplicati on: use
+PROSPERO. BJOG. (2014) 121:784–6. doi: 10.1111/1471-0528.12657
+11. Kondo Y, Fukuda T, Uchimido R, Hifumi T, Hayashida K. Eﬀects o f
+advanced life support versus basic life support on the mortality rates
+of patients with trauma in prehospital settings: a study protocol for
+a systematic review and meta-analysis. BMJ Open. (2017) 7:e016912.
+doi: 10.1136/bmjopen-2017-016912
+12. Liberati A, Altman DG, Tetzlaﬀ J, Mulrow C, Gotzsche PC, Ioannid is JP ,
+et al. The PRISMA statement for reporting systematic reviews and meta -
+analyses of studies that evaluate health care interventions: ex planation and
+elaboration. J Clin Epidemiol. (2009) 62:e1–34. doi: 10.1016/j.jclinepi.2009.
+06.006
+13. Moher D, Liberati A, Tetzlaﬀ J, Altman DG. Preferred reporting items f or
+systematic reviews and meta-analyses: the PRISMA statement. PLoS Med.
+(2009) 6:e1000097. doi: 10.1371/journal.pmed.1000097
+14. Stroup DF, Berlin JA, Morton SC, Olkin I, Williamson GD, Rennie D,
+et al. Meta-analysis of observational studies in epidemiology: a proposal for
+reporting. Meta-analysis Of Observational Studies in Epidemiolog y (MOOSE)
+group. JAMA. (2000) 283:2008–12. doi: 10.1001/jama.283.15.2008
+15. Higgins JP , Altman DG, Gøtzsche PC, Jüni P , Moher D, Oxman AD, e t al.
+Cochrane Bias Methods Group; Cochrane Statistical Methods Group. The
+Cochrane Collaboration’s tool for assessing risk of bias in randomi sed trials.
+BMJ. (2011) 343:d5928. doi: 10.1136/bmj.d5928
+16. Duan EH, Oczkowski SJ, Belley-Cote E, Whitlock R, Lamontagne F ,
+Devereaux PJ, et al. Beta-Blockers in sepsis: protocol for a systema tic review
+and meta-analysis of randomised control trials. BMJ Open.(2016) 6:e012466.
+doi: 10.1136/bmjopen-2016-012466
+17. Kim SY, Park JE, Lee YJ, Seo HJ, Sheen SS, Hahn S, et al. Testing a
+tool for assessing the risk of bias for nonrandomized studies sh owed
+moderate reliability and promising validity. J Clin Epidemiol.(2013) 66:408–
+14. doi: 10.1016/j.jclinepi.2012.09.016
+18. Atkins D, Eccles M, Flottorp S, Guyatt GH, Henry D, Hill S, et al. Syst ems
+for grading the quality of evidence and the strength of recommendat ions I:
+critical appraisal of existing approaches The GRADE Working Group. BMC
+Health Services Res.(2004) 4:38. doi: 10.1186/1472-6963-4-38
+19. Atkins D, Best D, Briss PA, Eccles M, Falck-Ytter Y, Flottorp S, et al. Grading
+quality of evidence and strength of recommendations. BMJ. (2004) 328:1490.
+doi: 10.1136/bmj.328.7454.1490
+20. Mustafa RA, Santesso N, Brozek J, Akl EA, Walter SD, Norman G, e t al.
+The GRADE approach is reproducible in assessing the quality of eviden ce
+of quantitative evidence syntheses. J Clin Epidemiol.(2013) 66:736–42; quiz
+742.e731–35. doi: 10.1016/j.jclinepi.2013.02.004
+21. Guyatt GH, Oxman AD, Schunemann HJ, Tugwell P , Knottnerus A. GRA DE
+guidelines: a new series of articles in the Journal of Clinical Epide miology. J
+Clin Epidemiol.(2011) 64:380–2. doi: 10.1016/j.jclinepi.2010.09.011
+22. Huedo-Medina TB, Sanchez-Meca J, Marin-Martinez F, Botella J . Assessing
+heterogeneity in meta-analysis: Q statistic or I2 index? Psychol Methods.
+(2006) 11:193–206. doi: 10.1037/1082-989X.11.2.193
+Frontiers in Medicine | www.frontiersin.org 8 March 2021 | Volume 8 | Article 660367
+
+[W3148386947 PDF PAGE 9]
+Kondo et al. ALS vs. BLS for Trauma
+23. Potter D, Goldstein G, Fung SC, Selig M. A controlled trial of preho spital
+advanced life support in trauma. Ann Emerg Med. (1988) 17:582–8.
+doi: 10.1016/S0196-0644(88)80397-4
+24. Murphy JG, Cayten CG, Stahl WM, Glasser M. Dual response
+runs in prehospital trauma care. J Trauma. (1993) 35:356–62.
+doi: 10.1097/00005373-199309000-00005
+25. Liberman M, Mulder D, Lavoie A, Denis R, Sampalis JS. Multicenter
+Canadian study of prehospital trauma care. Ann Surg. (2003) 237:153–60.
+doi: 10.1097/01.SLA.0000048374.46952.10
+26. Osterwalder JJ. Mortality of blunt polytrauma: a comparison between
+emergency physicians and emergency medical technicians–prospect ive cohort
+study at a level I hospital in eastern Switzerland. J Trauma.(2003) 55:355–61.
+doi: 10.1097/01.TA.0000034231.94460.1F
+27. Stiell IG, Nesbitt LP , Pickett W, Munkley D, Spaite DW, Banek J, et al. The
+OPALS Major Trauma Study: impact of advanced life-support on surviva l and
+morbidity. CMAJ. (2008) 178:1141–52. doi: 10.1503/cmaj.071154
+28. Meizoso JP , Valle EJ, Allen CJ, Ray JJ, Jouria JM, Teisch LF, et a l.
+Decreased mortality after prehospital interventions in severely inj ured
+trauma patients. J Trauma Acute Care Surg. (2015) 79:227–31.
+doi: 10.1097/TA.0000000000000748
+29. Sanghavi P , Jena AB, Newhouse JP , Zaslavsky AM. Outcomes of basic versus
+advanced life support for out-of-hospital medical emergencies. Ann Intern
+Med. (2015) 163:681–90. doi: 10.7326/M15-0557
+30. Fukuda T, Ohashi-Fukuda N, Kondo Y, Hayashida K, Kukita I . Association
+of prehospital advanced life support by physician with survival afte r
+out-of-hospital cardiac arrest with blunt trauma following traﬃc
+collisions: Japanese registry-based study.JAMA Surg. (2018) 153:e180674.
+doi: 10.1001/jamasurg.2018.0674
+31. Liberman M, Mulder D, Sampalis J. Advanced or basic life support for t rauma:
+meta-analysis and critical review of the literature. J Trauma.(2000) 49:584–99.
+doi: 10.1097/00005373-200010000-00003
+32. Bakalos G, Mamali M, Komninos C, Koukou E, Tsantilas A, Tzima
+S, et al. Advanced life support versus basic life support in the pre-
+hospital setting: a meta-analysis.Resuscitation. (2011) 82:1130–7.
+doi: 10.1016/j.resuscitation.2011.04.006
+33. Lee A, Garner A, Fearnside M, Harrison K. Level of prehospital care and risk of
+mortality in patients with and without severe blunt head injury. Injury. (2003)
+34:815–9. doi: 10.1016/S0020-1383(02)00395-9
+34. Eckstein M, Chan L, Schneir A, Palmer R. Eﬀect of prehospital ad vanced life
+support on outcomes of major trauma patients. J Trauma.(2000) 48:643–8.
+doi: 10.1097/00005373-200004000-00010
+35. Schmidt U, Frame SB, Nerlich ML, Rowe DW, Enderson BL, Maull KI, e t al.
+On-scene helicopter transport of patients with multiple injuries–compari son
+of a German and an American system. J Trauma.(1992) 33:548–53; discussion
+553–45. doi: 10.1097/00005373-199210000-00010
+36. Garner A, Rashford S, Lee A, Bartolacci R. Addition of physicia ns to
+paramedic helicopt

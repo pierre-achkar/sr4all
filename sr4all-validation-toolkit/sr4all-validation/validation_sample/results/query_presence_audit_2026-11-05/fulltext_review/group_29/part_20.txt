@@ -1,0 +1,149 @@
+ust to look to 
+physicians to help with this problem. The scope of practice of physician assistants 
+(PAs) and advanced practice registered nurses (APRNs) must also be widened. 
+2. Conceptual Framework 
+The aims of this paper deal with two different potential solutions to the same 
+problem. To cohesively build the narrative of this paper, we will focus first on 
+the systematic review of what medical students find important when deciding on 
+a specialty. With this article , we will align current government funding and 
+medical education initiatives to evaluate their impact on closing the gap within 
+the PCP specialty and inevitably a ffecting the care of underserved populations. 
+Next, we will look at the role of a PA and an APRN or, more specifically, a nurse 
+practitioner (NP) within our health system. An evaluation of their usefulness in 
+our current primary care problem and a look at health policies that affect their 
+scope of practice will be accounted for and discusse d to build upon the mul-
+ti-prong approach to a dynamic accessibility problem. 
+3. Factors Influencing Subspecialty Choice among Medical  
+Students: A Systematic Review and Meta-Analysis 
+With aging populations and an increase in the prevalence of chronic diseases , 
+there is an ever -growing need for physicians. Some specialties,  such as family 
+medicine, are experiencing a massive shortage , whereas others, such as cardio l-
+ogy; ophthalmology; ear; nose and throat surgery are highly competitive specia l-
+ties with low success rate s for candidates. [4]  The cited study, looking at more 
+than just the United States, takes into consideration the variables that affect what 
+specialty a student chooses. A student often enters medical school with o ne spe-
+
+[W4285231885 PDF PAGE 4]
+K. Harwood et al. 
+ 
+ 
+DOI: 10.4236/ijcm.2022.136018 216 International Journal of Clinical Medicine 
+ 
+cialty in mind and leaves following a whole new path. The purpose of this study 
+is to examine what facto rs have the most influence on  student decision s in an 
+effort to increase the accuracy of policy building and funding to aid in physician 
+shortages around the world in certain specialties. Using multiple databases of 
+previously researched articles, this systematic review and meta -analysis used two 
+trained investigators to extract data from 75 cross- sectional studies (34 in the 
+U.S), including almost 900,000 individuals between 1977 and 2018. [4] A m e-
+ta-analysis was then performed on 12 influencing factors, and all were found to 
+be significant (P < 0.0001). [4] 
+The results of their meta -analysis make it clear that, in the developed world, 
+academic interest far succeeds the influence of any of the other factors. This is 
+followed by workload, patient service, and mentors. The bottom half of the i n-
+fluences illustrates that factors such as income, prestige, and training length were 
+the least influential. 
+4. Government Initiatives and Closing the Gap 
+Under the Affordable Care Act (ACA), the government tried to initiate a few 
+loan forgivenes s or loan repayment models as well as make enhancements to 
+Title VII programs. Some of the loan plans provided students with lower interest 
+rates for serving in primary care or, in the cases of the National Health Service 
+Corps, paying off student loan debt all together for those willing to serve in pr i-
+mary care roles in underserved/rural areas.6 The American Recovery and Rei n-
+vestment Act of 2009 (ARRA) provided $300 million in student debt re payment 
+and another $283 million from the ACA. [5]  Title VII programs, which are used 
+to increase interest and training for primary care physicians and medical st u-
+dents, also received funding under these government initiatives.  
+With reference to the factors that influence what specialty medical students 
+want to pursue, it seems as though government funding could be used in more 
+precise ways to engage students and en tice them into primary care and rural 
+medicine. With exception to the Title VII program funding, which helps get 
+students primary care experiences in medical school, all other initiatives deal di-
+rectly with student debt and loan forgiveness wh ich correlates to a financial fac-
+tor in the bottom third of influence factors according to the systematic review. 
+[4] These debt forgiveness programs often also come with strict  lifestyle man-
+dates and large workloads due to understaffed areas. [6]  According to the m e-
+ta-analysis, students care mo re about what they are doing rather than thei r f i-
+nancial situation or how much they are making. What is not seen in the go v-
+ernment initiatives is the workload relief that medical students value in a pote n-
+tial future career or the  importance of the academic aspects of the interest of a 
+primary care physician. 
+5. Physicians Assistants and Advanced Practice Registered  
+Nurses 
+A PA is a healthcare professional that is licensed to practice medicine under the 
+
+[W4285231885 PDF PAGE 5]
+K. Harwood et al. 
+ 
+ 
+DOI: 10.4236/ijcm.2022.136018 217 International Journal of Clinical Medicine 
+ 
+supervision of a physician. Their scope of practice includes physical exams, d i-
+agnosing and treating  illnesses, ordering  and interpreting tests, counseling on 
+preventive health care, assisting in surgery, writing prescriptions, education, r e-
+search, and administrative services. [7]  The scope of practice for PAs allows 
+them to practice medicine in every specialty and oftentimes work with patients 
+without the need for much collaboration with physicians in general. Using rel a-
+tive value units (RVUs; indicators of service effort used for Medicare rei m-
+bursement) that reflect personnel time and level of skill involved with care, PAs 
+have almost as many RVUs as family practitioners (48% to a physician’s 52%). 
+[7] The 2009 numbers above suggest that hiring a PA could  be equivalent to 
+having 0.73 - 0.96 full-time Family Medicine Doctors. [7]  This being said, PAs 
+are often found outside of teaching hospitals and more rurally located areas with 
+34% practicing in primary care. This number, however, has been on a downward 
+trend. It is important to realize the value that a PA can bring to practice in the 
+rural community and how much workload strain they can take off a physician. 
+PAs are more readily going into surgical subspecialities (~25%) as of late , a trend 
+that should be kept in m ind when constructing policy and initiatives going fo r-
+ward to close the gap in primary care.  
+APRNs are comprised of four groups but only two of those groups are rel e-
+vant for primary care (Nurse Practitioners and Midwives). NPs, much like PAs, 
+have an advanced scope of practice. Without the supervision of a physician, an 
+Advanced Practice Nurse sees patients, diagnoses diseases, prescribes medic a-
+tions, orders tests, makes referrals to specialists, and teaches and counsels p a-
+tients about health and illne ss. [8] There are well over 150,000 NPs in the U.S. , 
+and they can work in a variety of setting s, including hospitals, clinics, drug 
+stores, and schools. RVU number s for NPs are lower, suggesting more use in 
+administrative tasks, but still offset the work of 70% to 90% of full -time family 
+medicine/primary care physicians , on average. [8]  Just like the PA, NPs can free 
+up much of the workload that a primary care physician in a rural area might expe-
+rience. Additionally, NPs can reduce the cost of a visit due to the fact that NPs are 
+reimbursed at a lower rate than physicians. Problems do arise with NPs, however, 
+since the scope of practice laws can vary from state to state. For instance, an NP 
+in one state may have autonomy while an NP in another must collaborate with a 
+physician before executing their duties which can cause inefficiencies. 
+6. Critiques 
+Before critiquing the initiatives set forth to close the gap in primary care, we 
+must first discuss the limitations of our systematic re view and meta -analysis 
+used to detect the factors influencing medical students’ specialty choice s. First, 
+the articles interviewed physicians at different times in their career or year of 
+schooling. This means the stage of life upon which they were reflecting on w hat 
+factors were important was not unanimous and could have been at different 
+times depending on the study. Another limitation to keep in mind is that, al-
+
+[W4285231885 PDF PAGE 6]
+K. Harwood et al. 
+ 
+ 
+DOI: 10.4236/ijcm.2022.136018 218 International Journal of Clinical Medicine 
+ 
+though almost half of the articles in the meta -analysis were from U.S. based st u-
+dies, the rest were from other countries in both the developed and undeveloped 
+world. These factors coul d have an effect on the data that was deri ved, but for 
+the purposes of our analysis, we did not see these limitations as significant bar-
+riers to its usage in our critiques.  
+With regards to government spending and closing the gap in primary care, it 
+is essential to shift our focus to what students find important pertaining to their 
+specialty choices. Advancements in Title VII are a good start as supporting 
+medical schools’ rural medicine and primary care teaching programs are an i m-
+portant aspect of providin g a positive experience for the student during their 
+clinical rotations before they match into a specialty. Increased government 
+funding for primary care research topics and expanding their scope of practice 
+would also benefit PCPs by investing in their ac ademic interest and career ad-
+vancement.  
+Loan repayment programs are another potential solution. They provide an 
+avenue for students to get out of debt in a timelier manner . However, the physi-
+cians are often times thrown into environments where they have a workload that 
+they can barely handle and have little vacation time as mandated by the National 
+Health Service Corps. [5] This workload and lifestyle factor that was rated highly 
+in the meta -analysis can be mitigated by the emplo

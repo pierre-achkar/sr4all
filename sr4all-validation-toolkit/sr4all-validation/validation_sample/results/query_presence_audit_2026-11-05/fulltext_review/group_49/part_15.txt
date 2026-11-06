@@ -1,0 +1,377 @@
+were classified as either electronic 
+(70.6%, n = 24)
+28 , 29 , 31 , 34 , 37 , 38 , 42–45 , 47 , 48 , 50 , 53 , 55 , 57–60 , 62–67
+or paper 
+(29.4%, n = 10).
+9 , 12 , 33 , 35 , 39 , 41 , 46 , 51 , 52 , 56
+. Only one-third (n = 8) of 
+electronic tools used any level of automation
+28 , 31 , 48 , 58 , 62 , 63 , 65–67
+, 
+with a similar proportion (n = 8) being linked to the electronic 
+patient record
+28 , 44 , 50 , 58 , 60 , 62 , 63 , 66 , 67
+. The majority (58.3%, n = 14) of 
+electronic documents were manually maintained on standalone 
+computer programs (for example, Microsoft Word, Microsoft 
+Excel). Most tools were used in combination with other 
+Ryan et al. | 3
+
+[W4392351826 PDF PAGE 4]
+interventions; however, in more than a quarter of studies (n = 11, 
+26.8%), the introduction of a handover document was the only 
+intervention
+31 , 38 , 41 , 45 , 46 , 48 , 50 , 57 , 58 , 64 , 66
+. The introduction of a 
+standardized electronic handover document was most 
+commonly associated with improvements in process and staff 
+outcomes
+28 , 29 , 31 , 34 , 37 , 38 , 42 , 44 , 50 , 53 , 55 , 57–60 , 62 , 64 , 65 , 67
+. The inclusion of 
+written handover information was the most frequently assessed 
+and improved process-related outcome seen with this 
+intervention
+29 , 31 , 34 , 45 , 57 , 60 , 67
+. Patient outcomes were not always 
+assessed in these studies; however, improvements in length of 
+stay
+42 , 43 , 59
+, patients missed on ward rounds
+62 , 66
+and infection 
+rates
+58
+were reported with the use of a standardized electronic 
+document.
+Standardization of the handover process
+One-third of studies (n = 14, 34.1%) utilized some form of 
+handover process standardization
+9 , 12 , 28 , 30 , 32 , 35 , 39 , 43 , 49 , 51 , 52 , 55 , 59 , 65
+, 
+all except one
+49
+in combination with other interventions. 
+Interventions included a formal face-to-face handover meeting 
+(n = 6)
+43 , 49 , 52 , 55 , 59 , 65
+, handover policy (n = 5)
+12 , 28 , 30 , 35 , 51
+, increased 
+supervision from senior staff (n = 1)
+32
+and the introduction of a 
+process to highlight high-risk patients (n = 3)
+9 , 39 , 65
+. Most studies 
+implementing a new handover meeting demonstrated 
+significant improvements in at least one area, including 
+reduced length of hospital or ICU stay (n = 3 and n = 1, 
+respectively)
+43 , 52 , 59
+, although increased weekend discharges (n =  
+1)
+43
+, reduced emergency calls (n = 1)
+43
+, appropriate escalations 
+of care (n = 1)
+49
+and increased reporting of adverse events (n =  
+1)
+65
+were also noted. Introducing a process to identify high-risk 
+patients led to improvements in all studies in which it was 
+tested. One study combined this with a standardized paper 
+handover template and reported a reduction in the average 
+length of stay (LOS) for emergency patients of 1.9 days (P = 0.03), 
+increased average weekend discharges (39.1 to 48.9; P = 0.003) 
+and putative cost-savings
+9
+. Another study saw a 147% increase 
+in reporting of adverse events (P = 0.007) when a ‘red flag’ 
+Records identified from:
+Databases (n = 4)
+n = 6139
+Identification of studies via databases and registers
+Records removed before screening
+Duplicate records removed = 1997
+Records excluded = 3469
+Not relevant = 2495
+Conference abstracts = 840
+Not original = 122
+Not comparative = 12
+Records excluded = 555
+Not relevant = 506
+Not original = 23
+Duplicates = 14
+Not comparative = 12
+Reports excluded = 80
+Not relevant = 62
+Non comparative = 14
+Not original = 2
+Results uninterpretable/authors
+uncontactable = 2
+Citations reviewed = 4142
+Abstracts reviewed = 673
+Reports assessed for eligibility = 118
+Reports found while screening
+reference lists = 4
+Studies included in review = 42
+Studies reporting results of same
+trial = 2, combined
+I
+d
+e
+n
+t
+i
+f
+i
+c
+a
+t
+i
+o
+n
+S
+c
+r
+e
+e
+n
+i
+n
+g
+I
+n
+c
+l
+u
+d
+e
+d
+Fig. 1 PRISMA flow diagram
+4 | BJS Open, 2024, Vol. 8, No. 2
+
+[W4392351826 PDF PAGE 5]
+system was combined with a new handover meeting
+65
+. A ‘traffic 
+light system’, supported by staff education and a handover 
+document, reduced ward round duration by 30 min, increased 
+weekend discharges and improved documentation availability 
+and staff confidence (P values not reported)
+39
+. Additionally, 
+increased senior supervision and education increased handover 
+occurrence (P < 0.05) and reduced the number of patients with 
+inadequate investigations and treatment (P values not reported; 
+calculated by reviewers as P < 0.05 and P < 0.001, respectively)
+32
+.
+Provision of staff education
+Twenty-five studies (60.9%) included staff education as all (12%) 
+or part (88%) of the intervention
+28–30 , 32–37 , 39 , 40 , 42–44 , 47 , 51 , 53–56 , 60– 
+63 , 65 , 67
+. Simulation was employed in three studies, leading to 
+improved resident handover performance
+36
+, reduced erroneous 
+order entries (P = 0.003)
+61
+and a non-significant improvement in 
+staff satisfaction and knowledge of patients
+30
+.
+The use of a mnemonic/memory aid to facilitate 
+communication
+Mnemonics were used in seven studies (17.1%), including ‘SBAR’ 
+(Situation, Background, Assessment, Recommendation)
+28 , 51 , 56 , 61
+, 
+‘I-PASS’ (Illness severity, Patient summary, Action list, Situation 
+awareness & contingency planning, Synthesis by receiver)
+60 , 67
+and ‘ABCD’ (Airway, Breathing, Circulation, Disability)
+12
+, mostly 
+in combination with staff education and a handover tool (n = 6, 
+85.7%, each). All seven studies using a mnemonic demonstrated 
+improvements in outcomes studied; however, only four 
+studies carried out significance testing
+12 , 60 , 61 , 67
+. These studies 
+demonstrated improvements in patient (n = 1), process (n = 3) 
+and staff (n = 2) outcomes.
+Outcomes assessed ( Table S4 )
+A total of 55 discrete outcomes were assessed in the included 
+studies, categorized as patient (n = 12), process (n = 27), staff (n =  
+14) and system (n = 2) outcomes ( Table 3 ). Significant 
+improvements were observed in 51.8%, 78.5%, 58.3% and 100% 
+of the outcomes, respectively. Half of all studies (n = 21) 
+evaluated more than one category, with a median of 2 (1–3) 
+outcomes per study.
+Patient outcomes
+The majority of studies evaluating patient outcomes represented 
+level V evidence (n = 11, 68.7%)
+9 , 29 , 32 , 33 , 43 , 48 , 49 , 56 , 58 , 59 , 66
+. Twelve 
+patient outcomes ( Table 3 ) were assessed in 16 studies
+9 , 29 , 32 , 33 , 42 , 
+43 , 48 , 49 , 52 , 56 , 58–63 , 66
+with significant improvements in seven 
+outcomes (n = 9761 versus 9312 patients), including LOS in four 
+studies (n = 1635 versus 1629 patients)
+9 , 43 , 52 , 59
+and ward round 
+review in two studies (n = 8018 versus 7569 patients; 
+Table S5 )
+62 , 66
+. All four studies demonstrating a significant 
+reduction in LOS utilized a handover tool in combination with a 
+method to standardize the handover process
+9 , 43 , 52 , 59
+. Increased 
+automation of handover documents led to fewer patients being 
+missed on ward rounds
+48 , 62 , 66
+. Changes were also seen in 
+reasons for transfer
+49
+, emergency response team calls (P < 0.05; 
+n = 284 versus 310 patients)
+43
+, inadequate treatment and 
+Standalone
+computer
+program
+Integrated with
+electronic patient
+record
+None
+Partial
+Complete
+Network
+Level of
+automation
+Handover
+meeting
+Handover policy
+Method to
+highlight unwell
+patients
+Workforce
+changes
+Didactic
+teaching
+Simulation
+Advertising
+campaign
+Incorporated into
+handover tool
+Verbal handover
+method
+Handover
+intervention
+taxonomy
+Education
+Process
+standardization
+Mnemonic/
+memory aid
+Paper-based
+Electronic
+Handover
+tool
+a
+Fig. 2 Handover intervention and outcome taxonomy (continued overleaf)
+Ryan et al. | 5
+
+[W4392351826 PDF PAGE 6]
+inadequate investigation (51% versus 20%; χ
+2 
+= 9.6, P = 0.0019 and 
+31.9% versus 13.3%; χ
+2 
+= 4.5; P = 0.033, respectively (calculated by 
+reviewers))
+32
+. Finally, the occurrence of adverse events was 
+assessed in seven studies
+29 , 42 , 52 , 58 , 60 , 61 , 63
+, with one demonstrating 
+significant improvement
+42
+. Only one study evaluating adverse 
+events performed a power calculation; however, the power to 
+detect small changes in error rates was relatively low, and this 
+study did not demonstrate any improvement in this area
+63
+.
+Process outcomes
+In total, 27 process outcomes were evaluated in 31 
+studies
+9 , 12 , 28 , 29 , 31–35 , 37–42 , 44–47 , 50 , 51 , 54 , 55 , 57 , 58 , 60–62 , 65–67
+, making this 
+the most assessed outcome category ( Table S5 ). Handover 
+process outcomes were divided into pre-handover (n = 4), 
+logistical (n = 10), content-related (n = 7) and post-handover (n =  
+6). Content-related outcomes showed the highest levels of 
+improvement (85.7% of outcomes), including completeness of 
+written
+9 , 12 , 29 , 31 , 34 , 41 , 45 , 46 , 57 , 60 , 67
+and verbal
+54 , 67
+handover, number 
+of patients
+57
+and tasks
+41
+handed over, number of clinical events 
+reported
+65
+and transfer of information to nursing staff
+44
+. 
+Notably, all 11 studies that demonstrated significant 
+improvements in written handover content introduced a 
+handover document as part of the intervention. Significant 
+improvements were also seen in 66.6% of post-handover 
+outcomes, including ward round duration (reduction of 1.5 min 
+per patient; P = 0.0006)
+62
+, time taken to complete documentation 
+(120.3(16.8) s versus 37.9(12.4) s; P < 0.0001)
+50
+, erroneous order 
+entries (14.5% versus 12.2%; P < 0.003)
+61
+and availability of 
+information at the bedside (P ≤ 0.012)
+44
+. In contrast, half of all 
+pre-handover outcomes showed improvement, including the 
+time taken to prepare the handover (P = 0.012)
+44
+and the 
+duration of the pre-round (P < 0.0001)
+62
+. Only 20% of logistical 
+outcomes showed improvement (duration
+47 , 67
+and occurrence
+32
+of handover).
+Staff outcomes
+A total of 14 staff outcomes were assessed in 15 studies 
+through staff questionnaires (n = 13)
+28 , 30 , 31 , 37–39 , 44 , 45 , 47 , 53 , 58 , 64 , 67
+, 
+observation of handovers (n = 1)
+36
+and measurement of staff 
+overtime (n = 1)
+12
+. The total staff sample sizes for studies with 
+significant fin

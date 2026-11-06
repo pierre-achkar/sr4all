@@ -1,0 +1,590 @@
+024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 54]
+54 
+ 
+.000272) and 
+teacher reported 
+low prosociality 
+at age 7 
+(strongest 
+association at 
+GWAS p 
+thresholds .9, b 
+= .0368, p = 
+.00146), but no 
+associations at 
+different ages or 
+p value 
+thresholds were 
+reported. 
+Thomas 
+(2022)46 
+Autistic traits, 
+general 
+psychopatholog
+y 
+For the SPARK 
+cohort, 6,064 
+participants 
+were included, 
+1,177 of whom 
+were female, 
+mean age 5 (SD 
+=2.7). For the 
+ABCD cohort, 
+5,285 
+participants 
+were included, 
+of whom 2,459 
+were female. 
+Mean age was 
+9.9 (SD = 0.6) 
+Participants 
+LDpred.No 
+threshold, 
+bayesian 
+approach 
+SPARK: 
+Clinical autism 
+scales DCDQ, 
+RBS-R, SCQ, 
+secondary 
+phenotypes 
+CBCL 
+syndrome 
+scales. ABCD: 
+CBCL 
+syndrome scales 
+Phenotypes 
+residualized for 
+age, sex  
+The autism 
+polygenic score 
+only had a slight 
+positive 
+association with 
+DCDQ 
+movement β = 
+0.03 and a slight 
+negative 
+association with 
+RBS-R 
+compulsive β = 
+−0.03, neither of 
+which was 
+significant after 
+FDR. No other 
+FDR 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 55]
+55 
+ 
+were American. 
+Genetic ancestry 
+was restricted to 
+European. 
+associations 
+were reported 
+Waszczuk 
+(2021)65 
+General 
+psychopatholog
+y 
+ The sample 
+consisted of 
+4,717 children 
+(mean age = 
+9.92 years (S.D. 
+= 0.62, range = 
+9.00–10.92 
+years old) of 
+which 47.1% 
+female. 
+Participants 
+were American. 
+Ancestry was 
+restricted to 
+European. 
+PRSice. Primary 
+p-value 
+threshold = 1, 
+secondary 
+thresholds: 0.01, 
+0.05, 0.10, and 
+0.50 
+Childhood 
+pathology 
+(CBCL). This 
+study uses a 
+formerly 
+established 
+factor structure 
+based on the 
+CBCL, with a 
+general factor (p 
+factor) and 5 
+lower level 
+factors 
+(externalizing, 
+internalizing, 
+neurodevelopme
+ntal, 
+somatoform, 
+and detachment) 
+10 PCs The autism 
+polygenic score 
+was 
+significantly 
+associated with 
+the general 
+factor (r = .052), 
+and the lower 
+level factors 
+externalizing (r 
+= .035), 
+neurodevelopme
+ntal (r = .057) 
+and detachment 
+(r = .057). 
+Associations 
+with lower level 
+factors did not 
+remain 
+significant after 
+adjusting for the 
+general factor (r 
+≤ .033) 
+FDR 
+Cognition and executive function 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 56]
+56 
+ 
+Aguilar-
+Lacasana 
+(2021)66 
+Cognition and 
+executive 
+function 
+The sample 
+included 1667 
+BREATHE 
+children (verbal 
+working 
+memory n= 
+1504, numerical 
+working 
+memory n= 
+1490, standard 
+error of hit 
+reaction time n 
+= 1487). Of 
+these, 46.9% 
+was female, 
+mean age 8.5 
+(SD = 0.9). 
+Participants 
+were Spanish. 
+Genetic ancestry 
+was restricted to 
+European.  
+PRSice. PT = 
+{0.01, 0.05, 0.1, 
+0.5, 1} 
+Verbal and 
+numerical 
+working 
+memory (n back 
+test) and 
+attention 
+performance 
+(ANT). 
+Outcome 
+measure for 
+attention 
+performance is 
+the hit reaction 
+time standard 
+error 
+Age, sex and 4 
+PCs 
+The autism 
+polygenic score 
+was not 
+significantly 
+associated with 
+working 
+memory 
+measures nor 
+attention 
+performance 
+FDR 
+Chang (2020)67 Cognition and 
+executive 
+function 
+The number of 
+participants 
+differed 
+depending on 
+outcome 
+variables, with a 
+maximum of 
+1,145 for 
+working 
+memory and a 
+Polygenic 
+scores 
+calculated for P-
+value thresholds 
+between 0 to 
+0.5, increasing 
+by 0.00005. 
+Most significant 
+association 
+reported 
+Inhibitory 
+control (Stroop 
+test), cognitive 
+flexibility (trail-
+making test), 
+working 
+memory (digit 
+span test), 
+ADHD 
+symptoms 
+Sex, IQ and 2 
+PCs 
+The autism 
+polygenic score 
+was not 
+significantly 
+associated with 
+an overall 
+executive 
+function 
+measure (p = 
+5.805E-02, 
+P-value for the 
+linear regression 
+was adjusted by 
+using 10,000 
+label-swapping. 
+Adjusted P < 
+0.05 was 
+considered as 
+significant  
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 57]
+57 
+ 
+minimum of 
+913 for 
+cognitive 
+flexibility. Of 
+these, 83.2% 
+were boys. 
+Participants 
+were aged 
+between 6 and 
+17 years (mean 
+= 10.1, SD = 
+2.6). 
+Participants 
+were Chinese. 
+(Clinical 
+Diagnostic 
+Interview 
+Scale). Total 
+executive 
+function based 
+on principle 
+component of 
+all tests. 
+adjusted p = 
+0.4432) nor 
+individual 
+executive 
+function 
+components (p 
+≤ 1.461E-03, 
+adjusted p ≤ 
+0.0616). The 
+autism 
+polygenic score 
+was 
+significantly 
+associated with 
+ADHD 
+symptoms (P-
+value = 
+2.549E−03, 
+adjust P = 
+0.038, r 2 = 
+0.765%, beta = 
+0.2618 (se = 
+0.0866)) 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 58]
+58 
+ 
+Cullen (2021)68 Cognition and 
+executive 
+function, other 
+The sample 
+included 4,934 
+individuals. Of 
+these, 1,858 
+were from 
+monozygotic 
+twin pairs and 
+3,076 were from 
+dizygotic twin 
+pairs (1,596 
+same-sex pairs 
+and 1480 
+opposite-sex 
+pairs). 
+Participants 
+were born 
+between 1994 
+and 1996 and 
+were British or 
+Welsh. Genetic 
+ancestry was 
+restricted to 
+European. 
+LDpred. No 
+threshold, 
+Bayesian 
+approach 
+Gestational age 
+at birth and 
+cognition at four 
+(PARCA 
+5 PCs, genotype 
+chip, plate, sex, 
+and SES 
+The autism 
+polygenic score 
+was not 
+significantly 
+associated with 
+gestational age 
+at birth (b = -
+.012, SE = .014, 
+p = .384) or 
+cognition at age 
+4 (b = .007, SE 
+= .014, p = 
+.614) 
+Bonferroni 
+correction 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 59]
+59 
+ 
+Gui (2022)60 Brain measures, 
+general 
+psychopatholog
+y, cognition and 
+executive 
+function 
+The ABCD 
+sample 
+consisted of 
+4,722 (2198 
+female, mean 
+age = 9.91, SD 
+= 0.62). The 
+UKB sample for 
+intelligence 
+scores consisted 
+of  147,175 
+participants 
+(78,561 female, 
+mean age = 
+57.9, SD =8.23) 
+and 21523 
+(11,180 female, 
+mean age = 
+63.84, SD 
+=7.47). ABCD 
+participants are 
+American and 
+UKB 
+participants are 
+British. Genetic 
+ancestry was 
+restricted to 
+European.  
+Plink, Bayesian 
+approach, no 
+threshold 
+needed 
+Cognitive 
+measures: 
+ABCD: NIH 
+toolbox 
+(consisting of 7 
+tasks and 3 
+composite 
+scores). UKB: 
+fluid 
+intelligence 
+scores.  
+ 
+Behavior: 
+ABCD: CBCL 
+subscales.  
+ 
+Brain imaging: 
+ABCD: 
+morphometric 
+measures 
+(cortical 
+thickness, sulcal 
+depth, are and 
+subcortical 
+volume), 
+diffusion tensor 
+imaging (DTI) 
+and resting-state 
+fMRI 
+Age, sex, 10 
+PCs 
+Cognitive 
+measures: 
+Autism 
+polygenic score 
+was not 
+associated with 
+cognitive 
+measures in 
+ABCD  (p ≥ 
+.804). autism 
+polygenic score 
+was 
+significantly 
+positively 
+associated with 
+fluid 
+intelligence in 
+UKB (R2 = 
+8,66E-04, p = 
+5,47E-06), and 
+females showed 
+significantly 
+stronger 
+associations 
+than males (p < 
+2.20 × 10−16, r 
+= 0.87). 
+Behavior: The 
+autism 
+polygenic score 
+was 
+significantly 
+FDR 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 60]
+60 
+ 
+positively 
+associated with 
+half of the 
+psychiatric 
+behaviors (10 
+out of 20, the 
+strongest 
+association with 
+CBCL b. Brain 
+imaging: autism 
+polygenic score 
+did not have 
+significant 
+effects on 
+cortical and 
+subcortical 
+structures and 
+resting state 
+fMRI functions 
+in ABCD nor 
+IDPs in UKB 
+Hughes (2021)69 Cognition and 
+executive 
+function 
+ALSPAC 
+includes a total 
+of 14,901 
+participants, of 
+which about 
+50% is female. 
+A total of 6,113 
+participants 
+were included in 
+this study 
+(49.99% male, 
+ Plink. p < 5 × 
+10−7 
+Educational 
+attainment at 
+end of year 11 
+(General 
+Certificate of 
+Secundary 
+Education 
+(GCSE) and 
+school absence 
+(National Pupil 
+Database) 
+Gender and 20 
+PCs 
+ Autism 
+polygenic score 
+was not 
+significantly 
+associated with 
+educational 
+attainment (B = 
+−1.78, 95% CI 
+= -3.84 = 0.28) 
+nor absences (% 
+increase per SD 
+Not reported 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 61]
+61 
+ 
+maternal age 
+mean = 28.27, 
+SD = 4.68, 
+range 15 - 44.1). 
+Participants 
+were British. 
+Genetic ancestry 
+was restricted to 
+European. 
+increase in 
+polygenic

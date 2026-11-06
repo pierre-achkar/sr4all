@@ -1,0 +1,163 @@
+ and invertebrates? A systematic review protocol
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W2626732669 PDF PAGE 1]
+Bernes et al. Environ Evid  (2017) 6:16 
+DOI 10.1186/s13750-017-0094-y
+SYSTEMATIC REVIEW PROTOCOL
+How does roadside vegetation 
+management affect the diversity of vascular 
+plants and invertebrates? A systematic review 
+protocol
+Claes Bernes1*, James M. Bullock2, Simon Jakobsson3, Kris Verheyen4 and Regina Lindborg3
+Abstract 
+Background: Roadsides have been acknowledged as potential substitutes for semi-natural grasslands and other 
+open habitats with high biodiversity, many of which are now declining. Current recommendations for roadside 
+management to promote conservation of biodiversity are largely based on studies of plants in meadows or pastures, 
+although such areas often differ from roadsides in terms of environmental conditions and disturbance regimes. 
+Stakeholders in Sweden have emphasised the need for more targeted guidelines for roadside management, based on 
+actual roadside studies. We recently performed a systematic mapping of the evidence on how roadside management 
+affects biodiversity and the dispersal of species. Through this process, we found 98 studies on how the richness or 
+abundance of species on roadsides is affected by management such as regular mowing, burning, grazing or selective 
+mechanical removal of plants. Since all of these interventions entail removal of plant biomass, they are comparable. 
+Most of the studies recorded management effects on vascular plants, but there were 14 investigations of insects and 
+other invertebrates. We now intend to proceed with a full systematic review of how maintenance or restoration of 
+roadsides based on non-chemical vegetation removal affects the diversity of vascular plants and invertebrates.
+Methods: Most of the evidence on which the proposed systematic review is to be based will be selected from the 
+systematic map. To identify more recently published literature on the topic of the review, we will perform a search 
+update using a subset of the search terms applied for the systematic map. The criteria for inclusion of studies will be 
+the same as for the map, except that interventions and outcomes will be restricted to those relevant to the review. 
+Relevant studies will be subject to critical appraisal and categorised as having high or low validity for the review. Stud-
+ies with low validity will be excluded from the review. Utilisable data on outcomes, interventions and other potential 
+effect modifiers will be extracted from included articles. A narrative synthesis will describe the validity and findings 
+of all studies in the review. Where a sufficient number of studies report similar outcome types, meta-analysis will be 
+conducted.
+Keywords: Biodiversity, Roadside management, Mowing, Grazing, Burning, Plant removal, Insects, Invertebrates
+© The Author(s) 2017. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License 
+(http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, 
+provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, 
+and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/
+publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Background
+Roadside management has come to be regarded as an 
+important part of overall landscape management for bio -
+logical conservation [ 1]. Marginal habitats like roadsides 
+may sustain biodiversity by functioning as refugia [ 2, 3] 
+or by facilitating dispersal [ 4, 5]. By contributing to dis -
+persal within a landscape (e.g. as corridors) they may 
+mitigate negative effects of fragmentation and isolation 
+of habitats even in highly-modified agricultural or urban 
+landscapes [6].
+Roadsides have also been acknowledged as potential 
+substitutes for open habitats like grasslands [ 3], which 
+Open Access
+Environmental Evidence
+*Correspondence:  claes.bernes@eviem.se 
+1 Mistra Council for Evidence-Based Environmental Management, 
+Stockholm Environment Institute, Box 24218, 104 51 Stockholm, Sweden
+Full list of author information is available at the end of the article
+
+[W2626732669 PDF PAGE 2]
+Page 2 of 6Bernes et al. Environ Evid  (2017) 6:16 
+are currently declining globally [7, 8]. In particular, semi-
+natural grasslands (created by low-intensity, traditional 
+management) are well known for their high biodiversity 
+[9, 10] but have declined rapidly during the last century, 
+especially in Europe [11]. Many species that historically 
+were mainly associated with meadows and pastures now 
+thrive along roads instead [12]. In Sweden, some 190,000 
+hectares of managed grasslands occur along infrastruc-
+ture, 164,000 hectares of which constitute roadsides 
+[13]. This equals more than a third of the total amount of 
+meadows and pastures in Sweden (ca. 450,000 hectares) 
+[14].
+With appropriate management, many roadsides might 
+harbour a rich flora and fauna. In general, roadsides are 
+presented as offering opportunities for grassland spe-
+cies [1, 15]. Managing grassland habitats for biodiversity 
+usually requires removing vegetation and reversing late-
+successional vegetation stages, e.g. by mowing, graz-
+ing, burning, harrowing or scraping [16]. Differences in 
+mowing regimes may affect both animal and plant pop-
+ulations. For instance, mowing after flowering and seed 
+production will enhance the link between pollinators and 
+flowering plants, as many plants need assistance by polli-
+nators to produce seeds and pollinators need the flowers 
+for nectar resources [17]. Disturbance-tolerant species 
+are particularly favoured, while species representing 
+early-successional stages will eventually disappear.
+The management regimes and abiotic conditions of 
+roadsides may be quite similar to those of mown or 
+grazed semi-natural grasslands [18]. Current recom-
+mendations for roadside management to promote con -
+servation values are largely based on botanical research 
+on meadows, pastures and other semi-natural grasslands 
+[1]. The effects on biodiversity of grazing and mowing of 
+such grasslands are well studied [19]. However, manage-
+ment particular to roadsides, like ditching and reinforce -
+ment activities, use of salt for de-icing, sowing of exotic 
+plant material and other measures for infrastructure 
+maintenance will likely impact species and communities 
+differently to traditional management of open grasslands. 
+Management effects on biodiversity are less well stud-
+ied along roadsides than in meadows and pastures, and 
+much of the existing evidence on roadsides is comprised 
+of grey literature not assessed by external reviewers. For 
+these reasons, key stakeholders in Sweden have empha-
+sised the need for more targeted guidelines for roadside 
+management, based on actual studies of roadsides [20].
+We recently performed systematic mapping of the avail-
+able evidence on how roadside management affects bio -
+diversity and the dispersal of species [21]. In the protocol 
+for the systematic map [20], we provided a general back-
+ground on biodiversity effects of roadside management, 
+presented the rationale for the mapping initiative, and 
+described the methods that we intended to use.
+The results of our mapping exercise show that much 
+of the literature on ecological effects of roadside man -
+agement describes attempts to revegetate recently 
+constructed roadsides, or the use of herbicides for con-
+trolling roadside vegetation in general and invasive/
+nuisance plants in particular. Chemical management of 
+roadsides is nowadays largely restricted in many coun-
+tries, and the literature that we have found on such man -
+agement is dominated by older American studies (many 
+of them dating from the 1970s or earlier) of substances 
+that are now obsolete there.
+However, we found more than a hundred studies with 
+more obvious relevance to the conservation or restora -
+tion of biodiversity in roadsides, including their role as 
+substitutes for grasslands and other habitats under threat 
+in intensively managed landscapes. More specifically, we 
+identified 98 studies of how the richness or abundance 
+of various taxonomic or functional groups of species in 
+roadsides is affected by vegetation disturbance by manag-
+ers, such as regular mowing, burning, grazing or selective 
+mechanical removal of plants. Since all of these interven-
+tions entail removal of plant biomass, they are compara -
+ble in the sense that they all follow Grime’s [22] classic 
+definition of disturbance as the partial or total destruc-
+tion of biomass. A review of their impact on biodiversity 
+should therefore permit some generalisable conclusions. 
+Most of the studies have recorded management effects 
+on vascular plants, but there are also 14 potentially rel-
+evant investigations of insects or other invertebrates.
+We focus on non-chemical interventions that may aid 
+the conservation or restoration of roadside biodiversity. 
+These studies should be of considerable interest to road-
+side managers, including, e.g. transportation and con -
+servation agencies, park authorities, municipalities, and 
+farmers and other private landowners. This has been 
+confirmed by our contacts with Swedish stakeholders. 
+For instance, according to a representative of the Swed-
+ish Transport Administration, it is of central impor -
+tance to clarify precisely how mowing and similar kinds 
+of roadside management should be carried out to give 
+the desired results under various biotic and abiotic cir-
+cumstances. Effects of different timing of such manage -
+ment and of management regimes based on various 
+combinations of interventions were mentioned as being 
+of particular interest (Anders Sjölund, pers. comm.). A 
+representative of the Swedish Biodiversity Centre also 
+underli

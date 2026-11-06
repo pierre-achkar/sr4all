@@ -1,0 +1,193 @@
+tockholm, Sweden, 7 Key Unit of Methodology in Clinical
+Research, The Second Afﬁliated Hospital, Guangzhou Univers ity of Chinese Medicine, Guangdong Provincial Hospital of
+Chinese Medicine, Guangzhou, China, 8 Guangdong Provincial Key Laboratory of Clinical Research o n Traditional Chinese
+Medicine Syndrome, Guangzhou, China
+Background:Rheumatoid Arthritis (RA) is a systemic autoimmune disease leading to
+joint destruction. The prevention of bone and cartilage des truction has received increased
+attention in recent years.
+Objective:To evaluate the current evidences regarding the bone-prote cting efﬁcacy of
+Chinese medicine or the combination of Chinese medicine and Western medicine for RA.
+Methods: We comprehensively searched PubMed, Embase, the Cochrane L ibrary
+(www.thecochranelibrary.com), the China National Knowle dge Infrastructure (CNKI), the
+Database for Chinese Technical Periodicals (VIP), and Sino Med. We then performed a
+systematic review and cumulative meta-analysis of all rand omized controlled trials (RCTs)
+assessing the two therapy methods.
+Results:Sixteen studies including 1,171 patients were included in t he
+ﬁnal analysis. The results showed that Chinese medicine cou ld signiﬁcantly
+improve the bone mineral density (BMD) (mean difference [MD ] = 0.05
+/g·cm−2, 95% CI [0.03, 0.08], P<0.00001), and decrease the serum matrix
+metalloproteinase 3 (MMP-3) ([SMD] = − 2.84, 95% CI [ −4.22, −1.47], P < 0.0001).
+
+[W2889205077 PDF PAGE 2]
+Cai et al. Chinese Medicines in Rheumatoid Arthritis
+Conclusions: Chinese medicine may provide an efﬁciently alternative cho ice for the
+treatment of RA in terms of the bone-protecting efﬁciency. G iven the inherent limitations
+of the included studies, future well-designed RCTs are requ ired to conﬁrm and update
+the ﬁndings of this analysis.
+Keywords: Rheumatoid Arthritis (RA), Chinese medicine, bone-protecting efﬁciency, systematic review, meta-
+analysis
+INTRODUCTION
+Rheumatoid Arthritis (RA) is a chronic systemic autoimmune
+disease with symmetric inﬂammation of aggressive multiple
+joints (
+Miossec, 2013 ). As the most common inﬂammatory
+rheumatic disease, the prevalence of RA is about 0.5–1.0% in t he
+world (Tanaka et al., 2014). In China, up to 5 million people suﬀer
+from RA with an estimated prevalence of 0.34% ( Zhang et al.,
+2013). The inﬂammatory cell inﬁltration of synovium, pannus
+formation, and the progressive destruction of articular car tilage
+and bone destruction are the main pathological properties of
+RA (
+Mcinnes and Schett, 2011 ). The data from epidemiological
+investigations shows that about 90% of RA patients developed
+bone erosions within 2 years of the disease onset, eventually
+leading to joint deformities or even disability (
+Miossec, 2013;
+Nam et al., 2014 ). Therefore, RA brings with it a heavy burden
+and great pain to the families, patients, and even the society a s
+a whole. The question of how to prevent the bone and cartilage
+from irreversible destruction thus becomes a key issue that
+doctors and scientists are currently paying more attention to and
+strive to resolve.
+Up to date, there are no systematic reviews and meta-analysis
+regarding bone-protecting eﬃciency about Chinese Medicine
+alone or in combination with Western Medicine in the treatment
+of RA. We therefore systematically searched and analyzed
+the available literature to evaluate the eﬃcacy and potential
+advantages of Chinese Medicine (or a combination of Chinese
+and Western medicine), when compared with Western Medicine.
+METHODS
+Criteria for Considering Studies for This
+Review
+Types of Studies
+All randomized controlled clinical trials.
+Type of Participants
+Adults (usually over 18 years of age) with a diagnosis of RA
+either using the 1987 American College of Rheumatology (ACR)
+classiﬁcation criteria (
+Arnett et al., 1988 ) for RA, or using the
+Abbreviations: RA, Rheumatoid Arthritis; CNKI, the China National Knowledge
+Infrastructure; VIP , the VIP Database for Chinese Technical Pe riodicals;
+RCTs, randomized controlled trials; EULAR, European League Against
+Rheumatism; ACR, American College of Rheumatology; SMD, standardized
+mean diﬀerence; MD, mean diﬀerence; BMD, bone mineral density; MMP 3,
+Matrix metalloproteinase 3; RR, risk ratio; CIs, conﬁdence intervals ; ACR,
+American Rheumatism Association; OPG, Osteoprotegerin; MMPs, Ma trix
+metallo proteinases; TCM, traditional Chinese medicine.
+2010 ACR/ European League Against Rheumatism (EULAR)
+classiﬁcation criteria (
+Aletaha et al., 2010 ) for RA.
+Type of Interventions
+All experimental groups were treated with oral Chinese medicine
+or combined Chinese and western medicine. The comparison
+arm was treated only with oral Western medicine.
+Type of Outcome Measures
+Primary outcomes
+The evaluation of radiographic progression of hands. The
+classiﬁcation standards refer to AHA standards (
+Arnett et al.,
+1988).
+Secondary outcomes
+The secondary outcomes include the bone mineral density
+(BMD) and the levels of serum matrix metalloproteinase 3
+(MMP-3), a biomarker for bone destruction (
+Klimiuk et al.,
+2002).
+Search Methods for Identiﬁcation of
+Studies
+We developed our search strategies sequentially. The following
+MeSH terms and their combinations were used to search in
+[Title/Abstract]: Rheumatoid Arthritis, random, control,and
+bone. We searched these terms in all databases in order to ﬁt t he
+requirements of the speciﬁc database style.
+Search Strategies for Identiﬁcation of
+Studies
+We searched the following electronic databases.
+(1) PubMed, inception to 31 December 2017;
+(2) EMBASE, inception to 31 December 2017;
+(3) The Cochrane Library (www.the cochranelibrary.com),
+inception to 31 December 2017;
+(4) The China National Knowledge Infrastructure (CNKI),
+inception to 31 December 2017;
+(5) The Database for Chinese Technical Periodicals (VIP),
+inception to 31 December 2017;
+(6) SinoMed, inception to 31 December 2017.
+In addition, we manually searched the reference lists of the
+included studies and previous review papers to ﬁnd additional
+studies. All references were imported to an EndNote (x6) library
+and tagged with the name of the database.
+Frontiers in Pharmacology | www.frontiersin.org 2 August 2018 | Volume 9 | Article 914
+
+[W2889205077 PDF PAGE 3]
+Cai et al. Chinese Medicines in Rheumatoid Arthritis
+FIGURE 1 | The study ﬂow diagram.
+Data Collection and Analysis
+Selection of Studies
+Two review authors assessed the titles and abstracts for allthe
+records identiﬁed through the search strategies, retrievi ng full
+texts for all those that appeared to satisfy the following crite ria:
+the type of study; type of participants; type of intervention; type
+of measurements. Data from the included studies were extracted
+and summarized independently by at least two of the authors.
+Any disagreement was resolved by a discussion among all the
+authors.
+Data Extraction and Management
+For data extraction, the review team allocated papers to diﬀerent
+authors according to their areas of expertise, and two review ers
+independently retrieved the details for each publication and
+tabulated them in a standardized form. The retrieved details
+include intervention (including characteristics and dura tion),
+assignment to groups (including the form of a drug, concealme nt,
+and comparability of groups), outcome measures, timing of
+measurements, adherence to intervention/control, sample size
+statistical analysis methods as well as adverse events and
+withdrawals. Two review (XC, RYH) authors independently
+extracted data from the reviews using a predeﬁned data
+extraction form created as a Microsoft ExcelR⃝ spreadsheet.
+Assessment of Risk of Bias in Included Studies
+Studies were rated for evidence level according to the criteria
+given by the Centre for Evidence-Based Medicines in Oxford, UK
+(
+Phillips et al., 2012 ). Assessment of risk of bias was undertaken
+for each included study using the Cochrane Collaboration’s
+risk of bias assessment tool (
+Higgins and Green, 2008 ). Seven
+key domains were assessed by two review authors, which
+include sequence generation, allocation concealment, blinding
+of participants and personnel, blinding of outcome assessment ,
+incomplete outcome data, selective outcome reporting, and ot her
+sources of bias. Pairs of review authors judged the key domai ns
+as “high risk, ” “low risk, ” or “unclear” risk of bias. In case s of
+disagreement between the review authors, the decision was ma de
+by consensus.
+Measures of Treatment Effect
+For each trial, data analysis employed a standard meta-analysis
+using the methods for continuous data. Mean diﬀerences (MD),
+standardized mean diﬀerences (SMD), and 95% conﬁdence
+intervals (CIs) were calculated for the continuous outcomes
+(reporting mean and standard deviation of the mean). Where th e
+standard deviations were not explicitly stated, we calculat ed them
+from the diﬀerent means and their respective CIs or P-values.
+Assessment of Heterogeneity
+Where appropriate, we formally assessed heterogeneity of the
+data using theI2 statistics (
+Higgins et al., 2003 ). We judged a
+value greater than 50% to represent substantial heterogenei ty. If
+results were determined to be heterogeneous (that is I2 > 50%),
+a random-eﬀects model would be used to further analyze the
+results. Where we detected this level of heterogeneity and there
+Frontiers in Pharmacology | www.frontiersin.org 3 August 2018 | Volume 9 | Article 914
+
+[W2889205077 PDF PAGE 4]
+Cai et al. Chinese Medicines in Rheumatoid Arthritis
+TABLE 1 | Characteristics of the included studies.
+Author Year Sample size Disease stage (Y) Age (Y) Interventio n methods Outcomes Intervention
+duration
+Treatment of traditionalChinese medicine
+EG (FP) CG (FP) EG CG
+Lu Sijian 2002 40 (0.78) 20 (0.75) 2.67 ± 1.23 41.2 ± 11.8 CHD +MTX+SSZ MTX +SSZ+Pacebo Radiographic
+Progression
+3 months Clearing away heat and detoxifying,
+dispelling wind and dehumidiﬁcation
+Tang Tianfeng 2005 22 (0.77) 19 (0.79) 5.67 ± 3.66 49.61 ± 15 CHD MTX +SSZ MMP3 3 months Clearing heat and detoxifying,
+activating b

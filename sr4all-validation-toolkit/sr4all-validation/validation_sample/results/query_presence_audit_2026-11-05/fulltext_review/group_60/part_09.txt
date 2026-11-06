@@ -1,0 +1,221 @@
+ifferent levels of total reduced GSH were found between 
+16HBE14o cells exposed to filtered and unfiltered exhaust. Additionally, 
+there were increases in HMOX1 and SOD1 expression, with notable 
+effects observed due to diesel exhaust filtration.
+[76] DEP and PM2.5 Dose-dependent intracellular ROS levels increased in human nasal 
+epithelial cells exposed to DEP and PM2.5. DEP induced greater oxidative 
+stress than PM2.5, but statistical significance was not reported for these 
+results.
+[78] Brake wear PM No significant changes to the oxidative stress status were observed.
+[79] Brake wear PM A549 cells exposed to brakep articulate matter exhibited increased ROS 
+production compared to controls, but the difference was not statistically 
+significant.
+[89] Jet-fuel PM CYP1A1 gene expression increased in A549 cells and human 
+macrophages compared to the control for all exposure methods. Although 
+higher values were reported for submerged exposure, no significant 
+differences were found between methods.
+[80] UPME xposure of NHBE and BEAS-2B cells to UPM resulted in a significant 
+decrease in HMOX1 gene expression during differentiation at the ALI.
+[83] PM4 Significant differences in protein-CO concentration, TAS, and glutathione 
+were observed between non-exposed NHBE and COPD-DHBE cells. No 
+significant differences were reported for MDA, 8-OHdG, and SOD 
+activity.
+[84] PM2.5 and PM10 Significantly increased expression of SOD1, SOD2, and other antioxidant 
+response genes (HMOX1, NFL2L, PRDX, and NQO1), was observed in 
+both normal and CF HBE cells.
+[90] C-UFPA 549 cells exposed to UFP at the ALI in the mid-dose range showed a 
+significant 2.7-fold increase in HMOX1 expression, while low or high 
+doses had no significant effect.
+[92] SOA-SP Concentration-dependent increases in MDA release were observed in 
+A549 and Ea.hy926 cells after exposure to SOANAP-SP and SOAβPIN-SP. 
+Detrimental statistically significant effect reported
+Studied but no statistically significant effect reported
+Statistically significant counterintuitive effect reported
+
+[W4412727192 PDF PAGE 27]
+Current Environmental Health Reports           (2025) 12:26  
+ Page 27 of 40    26 
+inducing airway hyperreactivity. Oxidative stress triggers 
+several molecular pathways that enhance the inflammatory 
+response through the activation of key transcription factors, 
+including nuclear factor erythroid 2–related factor 2 (Nrf2), 
+activator protein 1 (AP-1) and NF-κB. At the same time, lipid 
+peroxidation and oxidative DNA damage induce genotoxic 
+effects through mutagenesis and double-strand breaks, and 
+both lipid peroxidation and genotoxicity can induce inflamma-
+tion. These inflammatory and oxidative pathways increase the 
+cytotoxic response, triggering regulated cell death pathways 
+like apoptosis through the activity of caspases.
+The Oxidative Stress State Induced by ROS 
+Overproduction and Redox Imbalance
+Upon inhalation, pollutants can cause lung damage due to 
+oxidative stress by acting directly on the production of free 
+ROS [134], or indirectly by inducing inflammation [19]. 
+Direct induction of ROS can result from redox imbalance 
+via Fenton reactions and activation of the aryl hydrocarbon 
+receptor (AhR) (Fig.  6). Transition metals from particulate 
+matter generate hydroxyl radicals and other ROS through 
+Fenton reactions, increasing oxidative stress by the bal-
+ance disruption between ROS production and antioxidant 
+defences [135].
+As shown in Fig. 6, ROS generated from oxidant air pol-
+lutants and cellular metabolism contribute to an increased 
+oxidative stress state in the lungs [136]. First, superoxide 
+ (O2
+•−) and hydrogen peroxide  (H2O2) are formed in vivo, 
+and  H2O2 is also originated through enzymatic and non-
+enzymatic superoxide dismutation [137]. Moreover, the 
+hydroxyl radical  (OH•) can be produced not only from 
+ H2O2 but also via the reaction of superoxide with nitric 
+oxide  (NO•) to produce peroxynitrite  (ONOO−), which 
+decomposes to form nitrogen dioxide and  OH•. In fact, this 
+hydroxyl radical is considered the most harmful and reactive 
+oxidant species [138]. Some other relevant ROS are alkoxy 
+and peroxyl radicals, which are mostly derived from lipids 
+in biological systems [139]. Furthermore, singlet molecular 
+oxygen (1O2) often arises from sunlight in the presence of 
+molecular oxygen but may also originate from peroxidase 
+activities in biological processes and the disproportionation 
+of organic peroxyl radicals  (ROO•) [140]. In fact, singlet 
+oxygen is involved in the oxidation of lipids, nucleic acids, 
+and proteins, and promotes detrimental processes such as 
+lipid peroxidation, membrane damage, and cell death [140].
+Oxidative stress is counteracted by an increase in the 
+concentrations of antioxidant compounds to prevent oxida-
+tive damage to macromolecules. From a biochemical per -
+spective, two classes of antioxidants are defined: enzymatic 
+Table 15  Oxidative stress induction of combined aerosols and gases on human airway epithelial cells
+Reference Exposure agent(s)R esults Effect
+Oxidative stress
+[55] Diesel exhaust High diesel exhaust exposure induced a dose-dependent, 
+statistically significant increase in HMOX1 and NQO1 
+expression in PBECs.
+[60] Diesel exhaust (D100) HMOX1 expression was significantly downregulated in 
+HBECs after exposure to D100 or B96, but was 
+upregulated with B20, B50, and B90. CYP1A1 expression 
+was suppressed after D100 and B96 exposures, but 
+significantly increased with B90 compared to D100.
+Biodiesel exhaust (B20, B50, 
+B90T10) 
+Biodiesel exhaust (B96T4)
+Biodiesel exhaust (B100)
+[102] Diesel exhaust particles 
+(DEP) 
+PBECs exposed to DEP showed significant time-dependent 
+increases in the expression of oxidative stress markers 
+GSTA1, HMOX1, and SOD3. Additionally, significant 
+inductions of TNFα, GSTA1, and SOD3 expression were 
+observed 24 h after exposure to combined DEP and gases.
+NO2
+SO2
+[103] Gasoline exhaust Exposure to gasoline exhaust significantly increased 
+intracellular ROS production in both A549 and BEAS-2B 
+cells. ROS generation decreased by half in the filtered 
+exhaust group compared to the non-filtered group.
+[105] Ambient air from Fribourg 
+(summer)
+Significant increase in HMOX1 levels observed after 2 and 
+3 days of winter air exposure, with no significant changes 
+in HMOX1 and NQO1 after summer air exposure.Ambient air from Fribourg 
+(winter)
+Detrimental statistically significant effect reported
+Studied but no statistically significant effect reported
+Statistically significant counterintuitive effect reported
+
+[W4412727192 PDF PAGE 28]
+ Current Environmental Health Reports           (2025) 12:26 
+   26  Page 28 of 40
+Table 16  Summary of the risk of bias assessment of all studies included in the literature review
+Can we be 
+confident in the 
+exposure 
+characterization?
+Were experimental 
+conditions identical 
+across study groups?
+Can we be confident 
+in the outcome 
+assessment?
+Did the study employ 
+appropriate 
+statistical 
+approaches?
+Were all measured 
+outcomes reported?
+Was the 
+administered dose or 
+exposure level 
+adequately 
+randomized?
+Did the study assess 
+the temporality of 
+exposure and 
+outcome?
+Koehler et al., 2010 ++ + ++ ++ ++ + +
+Koehler et al., 2011 ++ + ++ ++ ++ + +
+Koehler et al., 2013 ++ + ++ ++ ++ + ++
+Koehler et al., 2016 ++ + ++ ++ ++ + +
+Persoz et al., 2010 ++ + ++ ++ ++ ++ ++
+Ritter et al., 2001 ++ + + −− ++ + ++
+Liu et al., 2013 + + ++ ++ ++ + ++
+Mirowsky et al., 2016 + ++ + ++ ++ + ++
+Gosepath et al., 2000 + + ++ ++ ++ + ++
+Guenette et al., 2022 ++ ++ + ++ ++ + ++
+Gostner et al., 2016 ++ ++ + ++ ++ + ++
+Zavala et al., 2016 ++ + ++ ++ ++ + ++
+Sayyed et al., 2022 ++ + ++ ++ ++ + ++
+Kastner et al., 2013 ++ + ++ ++ ++ + ++
+Bakand et al., 2006 ++ + ++ ++ ++ + ++
+McCullough et al., 2014 ++ ++ ++ ++ ++ + ++
+McCullough et al., 2016 ++ + ++ ++ ++ + ++
+Verstraelen et al., 2021 ++ ++ ++ ++ ++ + ++
+Mascelloni et al., 2015 ++ + ++ ++ ++ + ++
+Auger et al., 2006 ++ + ++ ++ ++ + +
+Barosova et al., 2018 + + ++ ++ ++ + ++
+Bitterle et al., 2006 ++ + ++ + ++ ++ ++
+Cooney & Hickey, 2011 ++ + ++ ++ ++ + ++
+Fizesan et al., 2018 ++ + ++ ++ ++ ++ ++
+Gasser et al., 2009 ++ + ++ ++ ++ + +
+Ghio et al., 2013 ++ + ++ ++ ++ + ++
+He et al., 2020 + ++ ++ ++ ++ + ++
+Holder et al., 2008 ++ ++ ++ + ++ + ++
+Iwanaga et al., 2013 ++ + ++ ++ ++ + ++
+Ji et al., 2018 ++ ++ ++ ++ ++ + ++
+Kaur et al., 2022 ++ + ++ ++ ++ + ++
+Klein et al., 2017 ++ + ++ ++ ++ + ++
+Kunzi et al., 2015 ++ + ++ ++ ++ + ++
+Lan et al., 2021 ++ + ++ ++ ++ ++ ++
+Leclercq et al., 2016 ++ + ++ ++ ++ + ++
+Leni et al., 2020 ++ ++ ++ ++ ++ + ++
+Leni et al., 2022 ++ + ++ ++ ++ + ++
+Offer et al., 2022 ++ ++ ++ ++ ++ + ++
+Sotty et al., 2019 ++ + ++ ++ ++ + ++
+Steiner et al., 2013 ++ ++ ++ − ++ + ++
+Volckens et al., 2009 ++ ++ ++ ++ ++ + ++
+Despréaux et al., 2023 + ++ ++ ++ ++ + ++
+Holder et al., 2007 ++ + ++ ++ ++ + ++
+Vaughan et al., 2019 ++ ++ ++ ++ ++ + ++
+Bisig et al., 2018 + + ++ ++ ++ − ++
+Knebel et al., 2002 ++ ++ ++ −− ++ + ++
+Zarcone et al., 2016 ++ + ++ ++ ++ + ++
+Rossner et al., 2019 ++ ++ ++ ++ ++ + ++
+Rossner et al., 2021 ++ + ++ ++ ++ + ++
+Upadhyay et al., 2022 ++ ++ ++ ++ ++ + ++
+Cervena et al., 2021 ++ ++ ++ ++ ++ + ++
+Yu et al., 2017 ++ + ++ ++ ++ + ++
+
+[W4412727192 PDF PAGE 29]
+Current Environmental Health Reports           (2025) 12:26  
+ Page 29 of 40    26 
+antioxidants (e.g., superoxide dismutases, glutathione per -
+oxidase or catalase) and non-enzymatic like ascorbic acid, 
+uric acid or glutathione (Fig. 6).
+Main findings reported in this review regarding the 
+induction of oxidative stress are consistent with the 
+oxidant-antioxidant interplay described above. For 
+instance, exposure of 16HBE14o- cells to diesel exhaust 
+increased glutathione (GSH) oxidation in one study 
+from this review [75]. Interestingly, diesel exhaust 
+filtration reduced both GSH oxidation and IL-8 release, 
+probably due to the lower concentrations of metals and 
+organic compounds in the filtered exhaust that 

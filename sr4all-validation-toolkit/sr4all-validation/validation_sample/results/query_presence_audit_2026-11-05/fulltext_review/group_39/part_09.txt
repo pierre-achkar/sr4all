@@ -1,0 +1,112 @@
+ Statistical Manual of Mental Disorders
+ECL Electrochemiluminescence
+ICD International Classiﬁcation of Diseases
+IMR Immunomagnetic reduction
+LC-MS Liquid Chromatography–Mass Spectrometry
+MCI Mild cognitive impairment
+MSD Meso Scale Discovery
+NIA-AA National Institute on Aging—Alzheimer’s Association
+NINCDS National Institute of Neurological and Communicative Diseases and Stroke
+p-tau Phosphorylated tau
+QUADAS Quality Assessment of Diagnostic Accuracy Studies
+Simoa Single Molecule Array
+STARD Standards for Reporting Diagnostic Accuracy
+t-tau Total tau
+
+[W4366393059 PDF PAGE 14]
+Cells 2023, 12, 1184 14 of 16
+References
+1. Patterson, C. World Alzheimer Report 2018; Alzheimer’s Disease International: London, UK, 2018.
+2. Seppala, T.T.; Nerg, O.; Koivisto, A.M.; Rummukainen, J.; Puli, L.; Zetterberg, H.; Pyykko, O.T.; Helisalmi, S.; Alafuzoff, I.;
+Hiltunen, M.; et al. CSF biomarkers for Alzheimer disease correlate with cortical brain biopsy ﬁndings. Neurology 2012, 78,
+1568–1575. [CrossRef]
+3. Skillbäck, T.; Farahmand, B.Y.; Rosen, C.; Mattsson, N.; Nägga, K.; Kilander, L.; Religa, D.; Wimo, A.; Winblad, B.; Schott, J.M.
+Cerebrospinal ﬂuid tau and amyloid-β1-42 in patients with dementia. Brain 2015, 138, 2716–2731. [CrossRef] [PubMed]
+4. Morihara, T.; Kudo, T.; Ikura, Y.; Kashiwagi, Y.; Miyamae, Y.; Nakamura, Y.; Tanaka, T.; Shinozaki, K.; Nishikawa, T.; Takeda, M.
+Increased tau protein level in postmortem cerebrospinal ﬂuid. Psychiatry Clin. Neurosci.1998, 52, 107–110. [CrossRef] [PubMed]
+5. Schöll, M.; Maass, A.; Mattsson, N.; Ashton, N.J.; Blennow , K.; Zetterberg, H.; Jagust, W . Biomarkers for tau pathology .Mol. Cell. Neurosci.
+2019, 97, 18–33. [CrossRef] [PubMed]
+6. Lewczuk, P .; Esselmann, H.; Otto, M.; Maler, J.M.; Henkel, A.W.; Henkel, M.K.; Eikenberg, O.; Antz, C.; Krause, W.; Reulbach, U.
+Neurochemical diagnosis of Alzheimer’s dementia by CSF Aβ42, Aβ42/Aβ40 ratio and total tau.Neurobiol. Aging2004, 25, 273–281.
+[CrossRef]
+7. Olsson, B.; Lautner, R.; Andreasson, U.; Öhrfelt, A.; Portelius, E.; Bjerke, M.; Hölttä, M.; Rosén, C.; Olsson, C.; Strobel, G. CSF
+and blood biomarkers for the diagnosis of Alzheimer’s disease: A systematic review and meta-analysis. Lancet Neurol.2016, 15,
+673–684. [CrossRef]
+8. Albert, M.S.; DeKosky, S.T.; Dickson, D.; Dubois, B.; Feldman, H.H.; Fox, N.C.; Gamst, A.; Holtzman, D.M.; Jagust, W.J.; Petersen,
+R.C. The diagnosis of mild cognitive impairment due to Alzheimer’s disease: Recommendations from the National Institute
+on Aging-Alzheimer’s Association workgroups on diagnostic guidelines for Alzheimer’s disease.Alzheimers Dement.2011, 7,
+270–279. [CrossRef]
+9. McKhann, G.M.; Knopman, D.S.; Chertkow, H.; Hyman, B.T.; Jack, C.R., Jr.; Kawas, C.H.; Klunk, W.E.; Koroshetz, W.J.; Manly, J.J.;
+Mayeux, R. The diagnosis of dementia due to Alzheimer’s disease: Recommendations from the National Institute on Aging-
+Alzheimer’s Association workgroups on diagnostic guidelines for Alzheimer’s disease. Alzheimers Dement. 2011, 7, 263–269.
+[CrossRef]
+10. Sperling, R.A.; Aisen, P .S.; Beckett, L.A.; Bennett, D.A.; Craft, S.; Fagan, A.M.; Iwatsubo, T.; Jack, C.R., Jr.; Kaye, J.; Montine,
+T.J. Toward deﬁning the preclinical stages of Alzheimer’s disease: Recommendations from the National Institute on Aging-
+Alzheimer’s Association workgroups on diagnostic guidelines for Alzheimer’s disease. Alzheimers Dement. 2011, 7, 280–292.
+[CrossRef]
+11. Barthélemy, N.R.; Li, Y.; Joseph-Mathurin, N.; Gordon, B.A.; Hassenstab, J.; Benzinger, T.; Buckles, V .; Fagan, A.M.; Perrin, R.J.;
+Goate, A.M. A soluble phosphorylated tau signature links tau, amyloid and the evolution of stages of dominantly inherited
+Alzheimer’s disease.Nat. Med.2020, 26, 398–407. [CrossRef]
+12. Alzheimer’s Association. 2018 Alzheimer’s disease facts and ﬁgures. Alzheimers Dement.2018, 14, 367–429. [CrossRef]
+13. Randall, J.; Mörtberg, E.; Provuncher, G.K.; Fournier, D.R.; Duffy, D.C.; Rubertsson, S.; Blennow, K.; Zetterberg, H.; Wilson,
+D.H. Tau proteins in serum predict neurological outcome after hypoxic brain injury from cardiac arrest: Results of a pilot study.
+Resuscitation 2013, 84, 351–356. [CrossRef] [PubMed]
+14. Lue, L.; Pai, M.; Chen, T.; Hu, C.; Huang, L.; Lin, W.; Wu, C.; Jeng, J.; Blennow, K.; Sabbagh, M.N. Age-dependent relationship
+between plasma A β40 and A β42 and total tau levels in cognitively normal subjects. Front. Aging Neurosci. 2019, 11, 222.
+[CrossRef]
+15. Mielke, M.M.; Hagen, C.E.; Xu, J.; Chai, X.; Vemuri, P .; Lowe, V .J.; Airey, D.C.; Knopman, D.S.; Roberts, R.O.; Machulda, M.M.
+Plasma phospho-tau181 increases with Alzheimer’s disease clinical severity and is associated with tau-and amyloid-positron
+emission tomography. Alzheimers Dement.2018, 14, 989–997. [CrossRef] [PubMed]
+16. Liu, Y.; Qing, H.; Deng, Y. Biomarkers in Alzheimer’s disease analysis by mass spectrometry-based proteomics.Int. J. Mol. Sci.
+2014, 15, 7865–7882. [CrossRef] [PubMed]
+17. Jack, C.R., Jr.; Bennett, D.A.; Blennow, K.; Carrillo, M.C.; Dunn, B.; Haeberlein, S.B.; Holtzman, D.M.; Jagust, W.; Jessen, F.;
+Karlawish, J. NIA-AA research framework: Toward a biological deﬁnition of Alzheimer’s disease.Alzheimers Dement.2018, 14,
+535–562. [CrossRef] [PubMed]
+18. Bossuyt, P .M.; Reitsma, J.B.; Bruns, D.E.; Gatsonis, C.A.; Glasziou, P .P .; Irwig, L.M.; Lijmer, J.G.; Moher, D.; Rennie, D.; De Vet,
+H.C. Towards complete and accurate reporting of studies of diagnostic accuracy: The STARD initiative. Ann. Intern. Med.2003,
+138, 40–44. [CrossRef]
+19. Shea, B.J.; Grimshaw, J.M.; Wells, G.A.; Boers, M.; Andersson, N.; Hamel, C.; Porter, A.C.; Tugwell, P .; Moher, D.; Bouter, L.M.
+Development of AMSTAR: A measurement tool to assess the methodological quality of systematic reviews.BMC Med. Res. Methodol.
+2007, 7, 1–7. [CrossRef]
+20. Whiting, P .; Rutjes, A.; Dinnes, J.; Reitsma, J.; Bossuyt, P .; Kleijnen, J. Development and validation of methods for assessing the
+quality of diagnostic accuracy studies. Health Technol. Assess.2004, 8, iii-234. [CrossRef]
+21. Mattsson, N.; Andreasson, U.; Persson, S.; Carrillo, M.C.; Collins, S.; Chalbot, S.; Cutler, N.; Dufour-Rainfray, D.; Fagan, A.M.;
+Heegaard, N.H. CSF biomarker variability in the Alzheimer’s Association quality control program.Alzheimers Dement.2013, 9,
+251–261. [CrossRef]
+
+[W4366393059 PDF PAGE 15]
+Cells 2023, 12, 1184 15 of 16
+22. Friedrich, J.O.; Adhikari, N.K.; Beyene, J. The ratio of means method as an alternative to mean differences for analyzing continuous
+outcome variables in meta-analysis: A simulation study. BMC Med. Res. Methodol.2008, 8, 32. [CrossRef] [PubMed]
+23. DerSimonian, R.; Laird, N. Meta-analysis in clinical trials. Control. Clin. Trials1986, 7, 177–188. [CrossRef] [PubMed]
+24. Higgins, J.P .T.; Thompson, S.G.; Deeks, J.J.; Altman, D.G. Measuring inconsistency in meta-analyses.BMJ Clin. Res. Ed.2003, 327,
+557–560. [CrossRef] [PubMed]
+25. Jack, C.R.J.; Bennett, D.A.; Blennow, K.; Carrillo, M.C.; Feldman, H.H.; Frisoni, G.B.; Hampel, H.; Jagust, W.J.; Johnson, K.A.;
+Knopman, D.S.; et al. A/T/N: An unbiased descriptive classiﬁcation scheme for Alzheimer disease biomarkers. Neurology 2016,
+87, 539–547. [CrossRef] [PubMed]
+26. American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders (DSM-IV), 4th ed.; American Psychiatric
+Association: Washington, DC, USA, 2000.
+27. Petersen, R.C.; Stevens, J.C.; Ganguli, M.; Tangalos, E.G.; Cummings, J.L.; DeKosky, S.T. Practice parameter: Early detection
+of dementia: Mild cognitive impairment (an evidence-based review). Report of the Quality Standards Subcommittee of the
+American Academy of Neurology. Neurology 2001, 56, 1133–1142. [CrossRef]
+28. McKhann, G.; Drachman, D.; Folstein, M.; Katzman, R.; Price, D.; Stadlan, E.M. Clinical diagnosis of Alzheimer’s disease:
+Report of the NINCDS-ADRDA Work Group under the auspices of Department of Health and Human Services Task Force on
+Alzheimer’s Disease.Neurology 1984, 34, 939–944. [CrossRef]
+29. Janelidze, S.; Mattsson, N.; Palmqvist, S.; Smith, R.; Beach, T.G.; Serrano, G.E.; Chai, X.; Proctor, N.K.; Eichenlaub, U.; Zetterberg, H.
+Plasma P-tau181 in Alzheimer’s disease: Relationship to other biomarkers, differential diagnosis, neuropathology and longitudinal
+progression to Alzheimer’s dementia.Nat. Med.2020, 26, 379–386. [CrossRef]
+30. De Vos, A.; Jacobs, D.; Struyfs, H.; Fransen, E.; Andersson, K.; Portelius, E.; Andreasson, U.; De Surgeloose, D.; Hernalsteen, D.;
+Sleegers, K.; et al. C-terminal neurogranin is increased in cerebrospinal ﬂuid but unchanged in plasma in Alzheimer’s disease.
+Alzheimers Dement.2015, 11, 1461–1469. [CrossRef]
+31. Wang, T.; Xiao, S.; Liu, Y.; Lin, Z.; Su, N.; Li, X.; Li, G.; Zhang, M.; Fang, Y. The efﬁcacy of plasma biomarkers in early diagnosis of
+Alzheimer’s disease.Int. J. Geriatr. Psychiatry2014, 29, 713–719. [CrossRef]
+32. Barthélemy, N.R.; Bateman, R.J.; Hirtz, C.; Marin, P .; Becher, F.; Sato, C.; Gabelle, A.; Lehmann, S. Cerebrospinal ﬂuid phospho-tau
+T217 outperforms T181 as a biomarker for the differential diagnosis of Alzheimer’s disease and PET amyloid-positive patient
+identiﬁcation. Alzheimers Res. Ther.2020, 12, 26. [CrossRef]
+33. Karikari, T.K.; Pascoal, T.A.; Ashton, N.J.; Janelidze, S.; Benedet, A.L.; Rodriguez, J.L.; Chamoun, M.; Savard, M.; Kang, M.S.;
+Therriault, J. Blood phosphorylated tau 181 as a biomarker for Alzheimer’s disease: A diagnostic performance and prediction
+modelling study using data from four prospective cohorts. Lancet Neurol.2020, 19, 422–433. [CrossRef] [PubMed]
+34. Thijssen, E.H.; La Joie, R.; Strom, A.; Fonseca, C.; Iaccarino, L.; Wolf, A.; Spina, S.; Allen, I.E.; Cobigo, Y.; Heuer, H. Plasma
+phosphorylated tau 217 and phosphorylated tau 181 as biomarkers in Alzheimer’s disease and frontotemporal lobar degeneration:
+A retrospective diagnostic performance study. Lancet Neurol.2021, 20, 739–752. [CrossRef] [PubMed]
+35. Mattsson, N.; Zetterberg, H.; Janelidze, S.; Insel, P .S.; Andreasson, U.; Stomrud, E

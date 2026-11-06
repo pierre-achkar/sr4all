@@ -1,0 +1,99 @@
+41 (Suppl. 1), A136–A141. [CrossRef]
+26. Thompson, K.M. Polio eradication: What kind of world do we want? Lancet Infect. Dis. 2022, 22, 161–163. [CrossRef]
+27. Thompson, K.M. Effectiveness of a new vaccine for outbreak response and the increasingly complicated polio endgame. Lancet
+Glob. Health 2022, 10, e1697–e1698. [CrossRef]
+28. Thompson, K.M.; Badizadegan, K. Health economic analyses of secondary vaccine effects: A systematic review and policy
+insights. Expert Rev. Vaccines 2022, 21, 297–312. [CrossRef]
+29. Thompson, K.M.; Kalkowska, D.A.; Badizadegan, K. Polio health economics: Assessing the benefits and costs of polio, non-polio,
+and integrated activities of the Global Polio Eradication Initiative. Gates Open Res. 2022, 6, 5. [CrossRef]
+30. Badizadegan, K.; Kalkowska, D.A.; Thompson, K.M. Polio by the numbers—A global perspective. J. Infect. Dis. 2022, 226,
+1309–1318. [CrossRef]
+31. Thompson, K.M.; Kalkowska, D.A.; Badizadegan, K. Health economic analysis of vaccine options for the polio eradication
+endgame: 2022-2036. Expert Rev. Vaccines 2022, 21, 1667–1674. [CrossRef] [PubMed]
+32. Kalkowska, D.A.; Badizadegan, K.; Thompson, K.M. Modeling scenarios for ending poliovirus transmission in Pakistan and
+Afghanistan. Risk Anal. 2023, 43, 660–676. [CrossRef] [PubMed]
+33. Kalkowska, D.A.; Badizadegan, K.; Thompson, K.M. Modeling undetected live type 1 wild poliovirus circulation after apparent
+interruption of transmission: Pakistan and Afghanistan. Risk Anal. 2023, 43, 677–685. [CrossRef] [PubMed]
+34. Kalkowska, D.A.; Wassilak, S.G.F.; Pallansch, M.A.; Burns, C.C.; Wiesen, E.; Durry, E.; Badizadegan, K.; Thompson, K.M. Outbreak
+response strategies with type 2-containing oral poliovirus vaccines. Vaccine 2023, 41 (Suppl. 1), A142–A152. [CrossRef] [PubMed]
+35. Kalkowska, D.A.; Badizadegan, K.; Thompson, K.M. Outbreak management strategies for cocirculation of multiple poliovirus
+types. Vaccine 2023, 41, 3718–3727. [CrossRef] [PubMed]
+36. Thompson, K.M.; Kalkowska, D.A.; Badizadegan, K. Looking back at prospective modeling of outbreak response strategies for
+managing global type 2 oral poliovirus vaccine (OPV2) cessation. Front. Public Health 2023, 11, 1098419. [CrossRef] [PubMed]
+37. Kalkowska, D.; Wassilak, S.; Wiesen, E.; F Estivariz, C.; Burns, C.; Badizadegan, K.; Thompson, K. Complexity of options related
+to restarting oral poliovirus vaccine (OPV) in national immunization programs after OPV cessation. Gates Open Res. 2023, 7, 55.
+[CrossRef] [PubMed]
+38. Thompson, K.M.; Lauring, A.S.; Pollard, A.J.; Andino, R.; Bandyopadhyay, A.S.; Berkley, S.; Bhutta, Z.A.; Routh, J.; Benn, C.S.
+Polio eradication: Addressing the hurdles on the last mile. Cell 2023, 186, 1–4. [CrossRef] [PubMed]
+39. Thompson, K.M. Polio endgame complexity: Updating expectations for nOPV2. Lancet Infect. Dis. 2023, 23, 992–994. [CrossRef]
+[PubMed]
+40. Thompson, K.M.; Kalkowska, D.A.; Badizadegan, K. Oral polio vaccine stockpile modeling: Insights from recent experience.
+Expert Rev. Vaccines 2023, 22, 813–825. [CrossRef]
+41. Kalkowska, D.A.; Wassilak, S.G.F.; Wiesen, E.; Burns, C.C.; Pallansch, M.A.; Badizadegan, K.; Thompson, K.M. Coordinated
+global cessation of oral poliovirus vaccine use: Options and potential consequences. Risk Anal. 2023, 44, 366–378. [CrossRef]
+[PubMed]
+42. Kalkowska, D.A.; Wiesen, E.; Wassilak, S.G.F.; Burns, C.C.; Pallansch, M.A.; Badizadegan, K.; Thompson, K.M. Worst-case
+scenarios: Modeling uncontrolled type 2 polio transmission. Risk Anal. 2023, 44, 379–389. [CrossRef] [PubMed]
+43. Badizadegan, K.; Kalkowska, D.A.; Thompson, K.M. Health economic analysis of antiviral drugs in the global polio eradication
+endgame. Med. Decis. Mak. 2023, 43, 850–862. [CrossRef] [PubMed]
+44. Thompson, K.M.; Kalkowska, D.A.; Routh, J.A.; Brenner, I.R.; Rosenberg, E.S.; Zucker, J.R.; Langdon-Embry, M.; Sugerman,
+D.E.; Burns, C.C.; Badizadegan, K. Modeling poliovirus transmission and responses in New York State. J. Infect. Dis. 2024, 229,
+1097–1106. [CrossRef] [PubMed]
+
+[W4398206054 PDF PAGE 25]
+Pathogens 2024, 13, 435 25 of 31
+45. Kalkowska, D.A.; Badizadegan, K.; Routh, J.A.; Burns, C.C.; Rosenberg, E.S.; Brenner, I.R.; Zucker, J.R.; Langdon-Embry, M.;
+Thompson, K.M. Modeling undetected poliovirus circulation following the 2022 outbreak in the United States.Expert Rev. Vaccines
+2023, 23, 186–195. [CrossRef] [PubMed]
+46. Thompson, K.M.; Kalkowska, D.A.; Kidd, S.E.; Burns, C.C.; Badizadegan, K. Trade-offs of different poliovirus vaccine options
+for outbreak response in the United States and other countries that only use inactivated poliovirus vaccine (IPV) in routine
+immunization. Vaccine 2024, 42, 819–827. [CrossRef] [PubMed]
+47. Molodecky, N.A.; Jafari, H.; Safdar, R.M.; Ahmed, J.A.; Mahamud, A.; Bandyopadhyay, A.S.; Shukla, H.; Quddus, A.; Zaffran, M.;
+Sutter, R.W.; et al. Modelling the spread of serotype-2 vaccine derived-poliovirus outbreak in Pakistan and Afghanistan to inform
+outbreak control strategies in the context of the COVID-19 pandemic. Vaccine 2023, 41, A93–A104. [CrossRef] [PubMed]
+48. Molodecky, N.A.; Usman, A.; Javaid, A.; Wahdan, A.; Parker, E.P .K.; Ahmed, J.A.; Shah, N.; Agbor, J.; Mahamud, A.; Safdar, R.M.
+Quantifying movement patterns and vaccination status of high risk mobile populations in Pakistan and Afghanistan to inform
+poliovirus risk and vaccination strategy. Vaccine 2021, 39, 2124–2132. [CrossRef] [PubMed]
+49. Babji, S.; Manickavasagam, P .; Chen, Y.H.; Jeyavelu, N.; Jose, N.V .; Praharaj, I.; Syed, C.; Kaliappan, S.P .; John, J.; Giri, S.; et al.
+Immune predictors of oral poliovirus vaccine immunogenicity among infants in South India. NPJ Vaccines 2020, 5, 27. [CrossRef]
+[PubMed]
+50. Jorgensen, D.; Pons-Salort, M.; Shaw, A.G.; Grassly, N.C. The role of genetic sequencing and analysis in the polio eradication
+programme. Virus Evol. 2020, 6, veaa040. [CrossRef] [PubMed]
+51. Hamisu, A.W.; Blake, I.M.; Sume, G.; Braka, F.; Jimoh, A.; Dahiru, H.; Bonos, M.; Dankoli, R.; Mamuda Bello, A.; Yusuf, K.M.; et al.
+Characterizing environmental surveillance sites in Nigeria and their sensitivity to detect poliovirus and other enteroviruses. J.
+Infect. Dis. 2022, 225, 1377–1386. [CrossRef] [PubMed]
+52. Cooper, L.V .; Bandyopadhyay, A.; Gumede-Moeletsi, N.; Mach, O.; Mkanda, P .; Ndoutabé, M.; Okiror, S.O.; Ramirez-Gonzalez,
+A.; Touray, K.; Wanyoike, S.; et al. Risk factors for spread of vaccine-derived type 2 polioviruses in Africa following global
+withdrawal of trivalent oral poliovirus vaccine and impact of outbreak response with monovalent vaccine: A retrospective
+analysis of surveillance data. Lancet Infect. Dis. 2022, 22, 284–294. [CrossRef] [PubMed]
+53. Gray, E.J.; Cooper, L.V .; Bandyopadhyay, A.S.; Blake, I.M.; Grassly, N.C. The origins and risk factors for serotype-2 vaccine-derived
+poliovirus (VDPV2) emergences in Africa during 2016–2019. J. Infect. Dis. 2023, 228, 80–88. [CrossRef] [PubMed]
+54. Grassly, N.C.; Andrews, N.; Cooper, G.; Stephens, L.; Waight, P .; Jones, C.E.; Heath, P .T.; Calvert, A.; Southern, J.; Martin, J.; et al.
+Effect of maternal immunisation with multivalent vaccines containing inactivated poliovirus vaccine (IPV) on infant IPV immune
+response: A phase 4, multi-centre randomised trial. Vaccine 2023, 41, 1299–1302. [CrossRef] [PubMed]
+55. Cooper, L.V .; Erbeto, T.B.; Danzomo, A.A.; Abdullahi, H.W.; Boateng, K.; Adamu, U.S.; Shuaib, F.; Modjirom, N.; Gray, E.J.;
+Bandyopadhyay, A.S.; et al. Effectiveness of poliovirus vaccines against circulating vaccine-derived type 2 poliomyelitis in
+Nigeria between 2017 and 2022: A case-control study. Lancet Infect. Dis. 2024, 24, 427–436. [CrossRef] [PubMed]
+56. Cooper, L.V .; Blake, I.M. First Africa-based clinical trial for novel type 2 oral poliovirus vaccine. Lancet 2024, 403, 1113–1115.
+[CrossRef] [PubMed]
+57. Bandyopadhyay, A.S.; Cooper, L.V .; Zipursky, S. One billion doses and WHO prequalification of nOPV2: Implications for the
+global polio situation and beyond. PLOS Glob. Public Health 2024, 4, e0002920. [CrossRef] [PubMed]
+58. Kurji, F.D.; Bandyopadhyay, A.S.; Zipursky, S.; Cooper, L.V .; Gast, C.; Toher, M.; Clemens, R.; Clemens, S.A.C.; Prasad, R.; Azhari,
+A. Novel oral polio vaccine type 2 use for polio outbreak response: A global effort for a global health emergency. Pathogens 2024,
+13, 273. [CrossRef] [PubMed]
+59. Shaw, A.G.; Majumdar, M.; Troman, C.; O’Toole, A.; Benny, B.; Abraham, D.; Praharaj, I.; Kang, G.; Sharif, S.; Alam, M.M.; et al.
+Rapid and sensitive direct detection and identification of poliovirus from stool and environmental surveillance samples by use of
+nanopore sequencing. J. Clin. Microbiol. 2020, 58, 10-1128. [CrossRef] [PubMed]
+60. Shaw, A.G.; Cooper, L.V .; Gumede, N.; Bandyopadhyay, A.S.; Grassly, N.C.; Blake, I.M. Time taken to detect and respond to polio
+outbreaks in Africa and the potential impact of direct molecular detection and nanopore sequencing. J. Infect. Dis. 2022, 226,
+453–462. [CrossRef]
+61. Akello, J.O.; Bujaki, E.; Shaw, A.G.; Khurshid, A.; Arshad, Y.; Troman, C.; Majumdar, M.; O’Toole, A.; Rambaut, A.; Alam, M.M.;
+et al. Comparison of eleven RNA extraction methods for poliovirus direct molecular detection in stool samples. Microbiol. Spectr.
+2023, 11, e0425222. [CrossRef] [PubMed]
+62. Shaw, A.G.; Mampuela, T.K.; Lofiko, E.L.; Pratt, C.; Troman, C.; Bujaki, E.; O’Toole, A.; Akello, J.O.; Aziza, A.A.; Lusamaki, E.K.;
+et al. Sensitive poliovirus detection using nested PCR and nanopore sequencing: A prospective validation study. Nat. Microbiol.
+2023, 8, 1634–1640. [CrossRef] [PubMed]
+63. Shaw, A.G.; Troman, C.; Akello, J.O.; O’Reilly, K.M.; Gauld, J.; Grow, S.; Grassly, N.; Steele, D.; Blazes, D.; Kumar, S.; et al. Defining
+a research agenda for environmental wastewater surveillance of pathogens. Nat. Med. 2023, 29, 2155–2157. [CrossRef] [PubMed]
+64. Grassly, N.C. Polio’s detection in London is a wake-up call. BMJ 2022, 377, o1589. [CrossRef] [PubMed]
+65. Klapsa, D.; Wilton, T.; Zealand, A.; Bujaki, E.; 

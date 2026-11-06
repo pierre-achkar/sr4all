@@ -1,0 +1,141 @@
+dicine,
+Odense University Hospital, Odense,
+Denmark
+Full list of author information is
+available at the end of the article
+Abstract
+Background: FDG-PET/CT is increasingly used for oncologic and inflammatory diseases.
+Focal incidental FDG uptake occurs rarely in breast tissue but has often significant
+consequences. This study aimed to systema tically review literature regarding focal
+incidental breast uptake (FIBU) on FDG-PET/CT in order to yield an update on the
+prevalence and risk of malignancy for FIBU.
+Methods: A systematic search for relevant articles published between 2012 and 2018
+was performed through MEDLINE, Embase, and Cochrane databases. Studies addressing
+the detection of FIBU in patients without a pr evious history of breast malignancy were
+included. The QUADAS-2 was used for quality assessment, and eligible data were pooled
+using a fixed-effects model. I2 was calculated for the heterogeneity between studies.
+Results: Eight studies containing 180,002 scans were included in the systematic review.
+The median prevalence of FIBU for both genders was 0.52% (range 0.18 – 22.5%).
+Prevalence for women was mentioned separately in five studies and varied from 0.51
+to 23.5%. One study reporting a high prevalence was based on patients being staged
+for known malignancy, and the word “breast” was used in the search, which may have
+caused selection bias. Data from four studies were eligible for meta-analysis. A high
+degree of heterogeneity was observed for prevalence data ( I2 of 97.5%), while
+moderate heterogeneity was observed for data on malignancy risk assessment ( I2 of
+62.8%). The pooled prevalence of FIBU in women was 0.61% (range 0.56 – 0.66%), and
+the pooled prevalence of malignancy of FIBUs was 38.7% (range 34.4 – 43.0%). The most
+commonly detected malignancy was invasive ductal carcinoma.
+Conclusion: FIBU occurs rarely on FDG-PET/CT for female patients but yields a high risk
+of malignancy according to the results of published papers. Therefore, it should be
+considered relevant to further elucidate patients with incidentally detected FDG uptake
+in breast in clinical practice.
+Keywords: Breast cancer, FDG uptake, PET scan, Malignancy
+Background
+Molecular imaging modalities such as positron emission tomography (PET) combined with
+computed tomography (PET/CT) is increasin gly used to improve decision-making in
+malignancies related to diagnosis, staging/res taging, recurrence detection, treatment plan-
+ning, and response evaluation as well as prognosis (Nomura et al. 2015;C h e ne ta l . 2018).
+© The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International
+License ( http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and
+indicate if changes were made.
+European Journal of
+Hybrid Imaging
+Aarstad et al. European Journal of Hybrid Imaging            (2019) 3:16 
+https://doi.org/10.1186/s41824-019-0063-5
+
+[W2975642467 PDF PAGE 2]
+An increasing number of clinical indication s for PET/CT have been established in the past
+decades, mostly using the glucose analog fluo rine-18-fluorodeoxyglucose (FDG) as a PET
+tracer (Nomura et al. 2015). FDG uptake itself is not tumo r-specific, and increased FDG
+uptake can be seen in malignant as well as benign inflammatory lesions (Dong et al. 2016).
+Incidentally detected FDG uptake has been reported in 6.7 – 12% of all FDG-PET/CT
+scans and should be considered important, since it may represent yet unrecognized malig-
+nancy. However, precise interpretation of incidental focal uptake is of high clinical and pa-
+tient-relevant importance for the decision of subsequent further investigations. This
+requires knowledge of differential diagnosis as well as probability of malignancy for the
+incidentally detected FDG uptake (Pencharz et al. 2018).
+The prevalence of incidentally detected primary malignancies diagnosed by FDG-
+PET/CT may be considerable especially for high prevalent cancers and has been
+reported to be from 1.0 to 1.8% (Shin et al. 2015) for lesions located at colorectal,
+thyroid, parotid glands, prostate, and breast (Pencharz et al. 2018; Valente 2018; Brown
+et al. 2015; Treglia et al. 2015). Breast cancer has claimed more than half a million
+female lives and over 1.7 million new cases had been diagnosed in 2016 according to
+reports of the Global Burden of Disease (Sharma 2019). Since the obvious gender
+difference in the incidence of breast cancer and the fact of being the most common
+malignancy among women worldwide, focal incidental breast uptake (FIBU) should be
+considered relevant only for women undergoing FDG-PET/CT.
+The prevalence of FIBU on FDG-PET/CT and its risk of malignancy was addressed
+in a systematic review conducted in 2013. This review reported that FIBU was
+detected in 0.36 – 1.84% of scans performed in female patients and yielded a risk of
+malignancy ranging from 17.5 to 83.3% among whole evaluated patients (Bertagna et
+al. 2014). It is worth to have updated and precise information on FIBU and the risk of
+malignancy due to technological advancement and expanding usage of FDG-PET/CT
+in diagnostic protocols and clinical investigations (Minamimoto et al. 2015).
+The aim of the current study was to systematically summarize recent published stud-
+ies and to perform pooled data analysis of prevalence and risk of malignancy in patients
+with FIBU detected on FDG-PET/CT. In the meta-analysis part, we aimed to focus on
+the malignancy rate of detected FIBU in women, especially in asymptomatic patients
+without a known history of breast malignancy.
+Main text
+Materials and methods
+This systematic review and meta-analysis was conducted at the Department of Nuclear
+Medicine, Odense University Hospital (OUH, Odense, Denmark), in 2018 following
+guidelines of PRISMA statement (Moher et al. 2009). Quality assessment was done for
+selected studies, and the meta-analysis was performed for eligible data.
+Search strategy
+A search protocol was defined to find relevant published articles on FIBU and related
+malignancies discovered incidentally on FDG-PET/CT in women without a previous
+history of breast cancer.
+Aarstad et al. European Journal of Hybrid Imaging            (2019) 3:16 Page 2 of 12
+
+[W2975642467 PDF PAGE 3]
+Databases consisted of MEDLINE/PubMed, Scopus, and Cochrane Library were
+selected. Only original human studies were included, considering 2012 – 2018 as their
+publication date since previous systematic review (Bertagna et al. 2014) contained the
+data until July 2013. The search protocol was initiated on 21 March 2018 and was
+restricted to articles in English only. In July 2019, databases were checked for relevant
+publications for the last time.
+The search strategy was based on terms and variations, it was expanded and modified
+for each database and consisted of three arms: (1) PET (positron emission tomography*
+or PET* or petscan* or FDG-PET* or PET-FDG* or PETFDG* or FDGPET* or 18F), (2)
+Incidental uptake (incident* or unexpect* or foc* or added or finding* or uptake or
+coincident*), and (3) Breast (Breast* or mamma* or mammary gland*). Regarding the
+MEDLINE database, search results were updated using MESH terms and free text
+words. Also, the previous systematic review (Bertagna et al. 2014) was considered as
+external validation for our literature search. The search terms are presented in
+Additional file 1.
+Study selection and data extraction process
+The search results from databases were compiled using EndNote software (Package for
+Windows version 7.2). After the deletion of duplicate articles, titles and abstracts of
+remaining studies were examined. Manuscripts reporting prevalence or results about
+incidental or unexpected FDG uptake in breast through data from FDG-PET/CT scans
+in female patients or mix genders were included.
+Exclusion criteria were considered using several modalities rather than only FDG-
+PET/CT, considering patients with a known history of breast cancer or only male
+gender, investigating other breast diseases, patient groups with cancer of unknown
+origin, and overlap in patients ’ data (the most complete set was included). Furthermore,
+letters, editorials, commentaries, perspectives, reviews, case studies, and conference
+abstracts were excluded.
+Only studies which contained data on female patients who underwent FDG-PET/CT
+for a reason other than breast cancer with subsequent evaluation of FIBU and risk of
+malignancy were included in the meta-analysis.
+After an initial assessment of titles and abstracts, full-text articles were collected and
+evaluated for eligibility, and qualified manuscripts were selected to enter the study
+analysis (Fig. 1).
+Scientometric information, study design, time-frame of screening, number of patients
+and FDG-PET/CT scans, number of patients undergoing further investigation, lost to
+follow-up, histopathology, and rate of malignancies among detected lesions were
+extracted. If needed, authors of published studies were contacted to obtain additional
+information. All steps were conducted by two researchers (EMA and PN) independ-
+ently, resolving any outstanding disagreement by supervision of senior researcher
+(MGH). The QUADAS-2 tool was used to assess the methodological quality of selected
+studies (Whiting and Sterne 2012). FDG-PET/CT was the index test and the histopath-
+ology result was used as a reference standard for all malignant lesions, while histopath-
+ology results or at least 6 months ’ imaging follow-up were applied for benign lesions.
+The studies assessments were done in categories of low risk, high risk, and unclear risk
+Aarstad et al. European Journal of Hybrid Imaging            (2019) 3:16 Page 3 of 12
+
+[W2975642467 PDF PAGE 4]
+in all parameters, and the studies with high-quality assessment were entered to the
+meta-analysis. Also, for the meta-

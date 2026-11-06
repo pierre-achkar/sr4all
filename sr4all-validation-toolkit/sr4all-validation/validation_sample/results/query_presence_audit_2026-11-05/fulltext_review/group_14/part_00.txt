@@ -1,0 +1,191 @@
+
+
+REVIEW W2928191556
+TITLE: In the Absence of Effects: An Individual Patient Data Meta-Analysis of Non-response and Its Predictors in Internet-Based Cognitive Behavior Therapy
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W2928191556 PDF PAGE 1]
+SYSTEMATIC REVIEW
+published: 29 March 2019
+doi: 10.3389/fpsyg.2019.00589
+Frontiers in Psychology | www.frontiersin.org 1 March 2019 | Volume 10 | Article 589
+Edited by:
+Osmano Oasi,
+Catholic University of Sacred Heart,
+Italy
+Reviewed by:
+Noelle Bassi Smith,
+Veterans Health Administration (VHA),
+United States
+Sarah Bloch-Elkouby,
+Mount Sinai Health System,
+United States
+Melissa Miléna De Smet,
+Ghent University, Belgium
+*Correspondence:
+Per Carlbring
+per.carlbring@psychology.su.se
+Specialty section:
+This article was submitted to
+Clinical and Health Psychology,
+a section of the journal
+Frontiers in Psychology
+Received: 05 November 2018
+Accepted: 01 March 2019
+Published: 29 March 2019
+Citation:
+Rozental A, Andersson G and
+Carlbring P (2019) In the Absence of
+Effects: An Individual Patient Data
+Meta-Analysis of Non-response and
+Its Predictors in Internet-Based
+Cognitive Behavior Therapy.
+Front. Psychol. 10:589.
+doi: 10.3389/fpsyg.2019.00589
+In the Absence of Effects: An
+Individual Patient Data Meta-Analysis
+of Non-response and Its Predictors in
+Internet-Based Cognitive Behavior
+Therapy
+Alexander Rozental1,2 , Gerhard Andersson1,3 and Per Carlbring4,5*
+1 Department of Clinical Neuroscience, Karolinska Institute t, Stockholm, Sweden, 2 Institute of Child Health, University
+College London, London, United Kingdom, 3 Department of Behavioural Sciences and Learning, Linköpin g University,
+Linköping, Sweden, 4 Department of Psychology, Stockholm University, Stockhol m, Sweden, 5 Department of Psychology,
+University of Southern Denmark, Odense, Denmark
+Background:Negative effects of psychological treatments have recentl y received
+increased attention in both research and clinical practice . Most investigations have
+focused on determining the occurrence and characteristics of deterioration and other
+adverse and unwanted events, such as interpersonal issues, indicating that patients
+quite frequently experience such incidents in treatment. H owever, non-response is also
+negative if it might have prolonged an ongoing condition and caused unnecessary
+suffering. Yet few attempts have been made to directly explo re non-response in
+psychological treatment or its plausible causes. Internet -based cognitive behavior
+therapy (ICBT) has been found effective for a number of diagn oses but has not yet been
+systematically explored with regard to those patients who d o not respond.
+Methods: The current study collected and aggregated data from 2,866 p atients
+in 29 clinical randomized trials of ICBT for three categorie s of diagnoses: anxiety
+disorders, depression, and other (erectile dysfunction, r elationship problems, and
+gambling disorder). Raw scores from each patient variable w ere used in an individual
+patient data meta-analysis to determine the rate of non-res ponse on the primary outcome
+measure for each clinical trial, while its potential predic tors were examined using binomial
+logistic regression. The reliable change index (RCI) was us ed to classify patients as
+non-responders.
+Results:Of the 2,118 patients receiving treatment, and when applyin g a RCI of z ≥ 1.96,
+567 (26.8%) were classiﬁed as non-responders. In terms of pr edictors, patients with
+higher symptom severity on the primary outcome measure at ba seline, Odds Ratio ( OR)
+= 2.04, having a primary anxiety disorder ( OR = 5.75), and being of male gender ( OR =
+1.80), might have higher odds of not responding to treatment .
+Conclusion: Non-response seems to occur among approximately a quarter o f all
+patients in ICBT, with predictors related to greater sympto ms, anxiety disorders, and
+
+[W2928191556 PDF PAGE 2]
+Rozental et al. Non-response in Internet-Based CBT
+gender indicating increasing the odds of not responding. Ho wever, the results need to be
+replicated before establishing their clinical relevance, and the use of the RCI as a way of
+determining non-response needs to be validated by other mea ns, such as by interviewing
+patients classiﬁed as non-responders.
+Keywords: negative effects, non-response, predictors, individual patient data meta-analysis, Internet-based
+cognitive behavior therapy
+INTRODUCTION
+Negative eﬀects of psychological treatments are a relatively
+unchartered territory in both research and clinical practice.
+Despite being recognized early in the scientiﬁc literature
+(c.f.,
+Strupp and Hadley, 1977 ), empirical evidence for their
+occurrence and characteristics have been quite scarce, but
+has currently received increased attention (
+Rozental et al.,
+2018). Bergin (1966) provided the ﬁrst report of the “client-
+deterioration phenomenon” (p. 236), referred to as the
+deterioration eﬀect, i.e., patients faring worse in treatment. Since
+then, several studies have investigated the rate of worseni ng in
+diﬀerent naturalistic settings (c.f.,
+Hansen et al., 2002; Mechler
+and Holmqvist, 2016; Delgadillo et al., 2018 ), while a number
+of systematic reviews have assessed deterioration among pat ients
+in randomized controlled trials (c.f., Ebert et al., 2016; Rozental
+et al., 2017; Cuijpers et al., 2018 ), estimating that ∼ 5–10%
+of those in treatment for depression and anxiety disorders
+deteriorate. In comparison to a wait-list control, the odds ratio for
+deterioration in treatment is nevertheless lower, suggest ing that
+the beneﬁts of receiving help still outweigh the risks (
+Karyotaki
+et al., 2018 ). Recent attempts to identify variables related to
+worsening have also revealed that sociodemographics variab les
+like lower educational level are linked to increased odds of
+deterioration (
+Ebert et al., 2016 ), while older age and having a
+relationship constitute protective factors ( Rozental et al., 2017 ).
+This implies that certain features might be important to consi der
+in relation to treatment, although more research is needed t o
+determine if and how this could be clinically useful.
+Meanwhile, others have stressed the importance of
+monitoring the potential adverse and unwanted events that
+may occur in treatment, which are not necessarily related
+to symptoms (
+Mays and Franks, 1980 ). This can include
+interpersonal issues, stigma, and feelings of failure, iden tiﬁed
+using therapist checklists ( Linden, 2013 ), self-reports completed
+by patients ( Rozental et al., 2016 ), or open-ended questions
+(Rozental et al., 2015 ). Such incidents have been even less
+explored, although a few recent attempts have found that almos t
+half of the patients are experiencing negative eﬀects at some ti me
+in treatment ( Rheker et al., 2017; Moritz et al., 2018; Rozental
+et al., inpress ). Whether or not these are in fact detrimental is an
+issue that warrants further investigation. Rozental et al. (2018)
+argued that even though adverse and unwanted events seem to
+exist, it is still unclear if they aﬀect treatment outcome. Some
+might even be regarded as a necessary evil, such as temporary
+bouts of increased anxiety during exposure exercises in Cognitive
+Behavior Therapy (CBT). In addition, there is also an ongoing
+debate on how to deﬁne and measure adverse and unwanted
+events occurring in treatment, with diﬀerent taxonomies having
+been proposed, which makes it diﬃcult to systematically asses s
+and report such incidents across studies (
+Rozental et al., 2016 ).
+While most of the scientiﬁc literature on negative eﬀects dea l
+with the issue of inﬂicting something on the patient, e.g., no vel
+symptoms and deterioration, less thought has been given to
+theabsence of eﬀects.
+Dimidjian and Hollon (2010) were early
+to raise the problem with non-response in treatment, arguing
+that no improvement at all could potentially have restricted
+the patient from accessing a more eﬀective treatment. From
+this perspective, a treatment without any beneﬁts would also be
+seen as negative given that it may have prolonged an ongoing
+condition and caused unnecessary suﬀering, and that “it still
+may be costly in terms of time, expense, and other resources”
+(p. 24). However, they also pointed out that this has to be put in
+relation to the natural course of the psychiatric disorder forwhich
+one has been treated, which complicates the issue of classifyi ng
+non-response.
+Linden (2013) deﬁned non-response as “Lack of
+improvement in spite of treatment” (p. 288), suggesting that it
+could be regarded as negative, but at the same time emphasizing
+the conceptual diﬃculties of knowing if it is caused by a properl y
+applied treatment or not. Determining what constitutes non-
+response is also a question that requires a broader theoretical
+and philosophical discussion about treatment outcomes.
+Taylor
+et al. (2012) , for instance, described some of the standards that
+are currently being used for identifying non-response among
+patients, arguing that these are often based on arbitrary cutoﬀs,
+such as a predetermined level of change or a statistical method .
+There is currently no consensus on how to reliably classify
+patients as non-responders, with many studies employing some
+form of diagnostic criteria, while other rely on the change scores
+that exceed measurement error, i.e., the Reliable Change Ind ex
+(RCI;
+Jacobson and Truax, 1991 ). In a systematic review of CBT
+for anxiety disorders (including 87 clinical trials and 208 r esponse
+rates) by Loerinc et al. (2015) , the average response rate to
+treatment was 49.5%. In other words, about half of the patients
+did not respond or deteriorated. However, they noted signiﬁcant
+heterogeneity across studies, suggesting that the response rates
+diﬀer partly because of how response and non-response are
+deﬁned. Looking more closely at how this was determined in
+the speciﬁc clinical trials revealed that 31.3% applied the RCI,
+70.7% used a clinical cutoﬀ, and 90.9% relied on some change
+from baseline (of note: several response rates can be used
+simultan

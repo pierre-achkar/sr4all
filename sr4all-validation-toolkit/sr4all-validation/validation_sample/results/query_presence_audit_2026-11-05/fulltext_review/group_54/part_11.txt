@@ -1,0 +1,198 @@
+38
+O’B r i e n ,S . ,F u r m a n ,R .R . ,C o u t r e ,S . ,F l i n n ,I .W . ,B u r g e r ,J .A . ,B l u m ,K . ,e ta l .( 2 0 1 8 ) .S i n g l e -
+agent ibrutinib in treatment-naïve and relapsed/refractory chronic lymphocytic leukemia: a 5-
+year experience.Blood 131 (17), 1910– 1919. doi:10.1182/blood-2017-10-810044
+Paydas, S. (2019). Management of adverse effects/toxicity of ibrutinib.Crit. Rev.
+Oncol. Hematol. 136, 56– 63. doi:10.1016/j.critrevonc.2019.02.001
+Rogers, K. A., Thompson, P. A., Allan, J. N., Coleman, M., Sharman, J. P., Cheson, B.
+D., et al. (2021). Phase II study of acalabrutinib in ibrutinib-intolerant patients with
+relapsed/refractory chronic lymphocytic leukemia.Haematologica 106 (9), 2364– 2373.
+doi:10.3324/haematol.2020.272500
+Seymour, J. F., Byrd, J. C., Ghia, P., Kater, A. P., Chanan-Khan, A., Furman, R. R., et al.
+(2023). Detailed safety proﬁle of acalabrutinib vs ibrutinib in previously treated chronic
+lymphocytic leukemia in the ELEVATE-RR trial.Blood 142 (8), 687– 699. doi:10.1182/
+blood.2022018818
+Shadman, M. (2023). Diagnosis and treatment of chronic lymphocytic leukemia: a
+review. JAMA 329 (11), 918– 932. doi:10.1001/jama.2023.1946
+Shadman, M., Flinn, I. W., Levy, M. Y., Porter, R. F., Burke, J. M., Zafar, S. F., et al.
+(2023). Zanubrutinib in patients with previously treated B-cell malignancies intolerant
+of previous Bruton tyrosine kinase inhibitors in the USA: a phase 2, open-label, single-
+arm study. Lancet Haematol. 10 (1), e35– e45. doi:10.1016/S2352-3026(22)00320-9
+Sharman, J. P., Brander, D. M., Mato, A. R., Ghosh, N., Schuster, S. J., Kambhampati,
+S., et al. (2021). Ublituximab plus ibrutinib versus ibrutinib alone for patients with
+relapsed or refractory high-risk chronic lymphocytic leukaemia (GENUINE): a phase 3,
+multicentre, open-label, randomised trial.Lancet Haematol. 8 (4), e254– e266. doi:10.
+1016/S2352-3026(20)30433-6
+Sharman, J. P., Egyed, M., Jurczak, W., Skarbnik, A., Pagel, J. M., Flinn, I. W., et al.
+(2020). Acalabrutinib with or without obinutuzumab versus chlorambucil and
+obinutuzmab for treatment-naive chronic lymphocytic leukaemia (ELEVATE TN): a
+randomised, controlled, phase 3 trial. Lancet 395 (10232), 1278– 1291. doi:10.1016/
+S0140-6736(20)30262-2
+Sharman, J. P., Egyed, M., Jurczak, W., Skarbnik, A., Pagel, J. M., Flinn, I. W., et al.
+(2022). Efﬁcacy and safety in a 4-year follow-up of the ELEVATE-TN study comparing
+acalabrutinib with or without obinutuzumab versus obinutuzumab plus chlorambucil in
+treatment-naïve chronic lymphocytic leukemia.Leukemia 36 (4), 1171– 1175. doi:10.
+1038/s41375-021-01485-x
+Siegel, R. L., Miller, K. D., Fuchs, H. E., and Jemal, A. (2022). Cancer statistics, 2022.
+CA Cancer J. Clin.72, 7– 33. doi:10.3322/caac.21708
+Slim, K., Nini, E., Forestier, D., Kwiatkowski, F., Panis, Y., and Chipponi, J. (2003).
+Methodological index for non-randomized studies (minors): development and
+validation of a new instrument. ANZ J. Surg. 73 (9), 712– 716. doi:10.1046/j.1445-
+2197.2003.02748.x
+Frontiers inPharmacology frontiersin.org10
+Ke et al. 10.3389/fphar.2024.1413985
+
+[W4400512245 PDF PAGE 11]
+Sun, C., Nierman, P., Kendall, E. K., Cheung, J., Gulrajani, M., Herman, S. E. M., et al.
+(2020). Clinical and biological implications of target occupancy in CLL treated with the
+BTK inhibitor acalabrutinib.Blood 136 (1), 93– 105. doi:10.1182/blood.2019003715
+Tam, C. S., Brown, J. R., Kahl, B. S., Ghia, P., Giannopoulos, K., Jurczak, W., et al.
+(2022). Zanubrutinib versus bendamustine and rituximab in untreated chronic
+lymphocytic leukaemia and small lymphocytic lymphoma (SEQUOIA): a
+randomised, controlled, phase 3 trial.Lancet Oncol. 23 (8), 1031– 1043. doi:10.1016/
+S1470-2045(22)00293-5
+Tam, C. S., Opat, S., D’Sa, S., Jurczak, W., Lee, H. P., Cull, G., et al. (2020). A
+randomized phase 3 trial of zanubrutinib vs ibrutinib in symptomatic Waldenström
+macroglobulinemia: the ASPEN study. Blood 136, 2038– 2050. doi:10.1182/blood.
+2020006844
+Walter, H. S., Rule, S. A., Dyer, M. J., Karlin, L., Jones, C., Cazin, B., et al. (2016). A
+phase 1 clinical trial of the selective BTK inhibitor ONO/GS-4059 in relapsed and
+refractory mature B-cell malignancies.Blood 127 (4), 411– 419. doi:10.1182/blood-2015-
+08-664086
+Wierda, W. G., Brown, J., Abramson, J. S., Awan, F., Bilgrami, S. F., Bociek, G., et al.
+(2022). NCCN Guidelines® insights: chronic lymphocytic leukemia/small lymphocytic
+lymphoma, version 3.2022.J. Natl. ComprCanc Netw.20, 622– 634. doi:10.6004/jnccn.
+2022.0031
+Xu, W., Yang, S., Zhou, K., Pan, L., Li, Z., Zhou, J., et al. (2020). Treatment of relapsed/
+refractory chronic lymphocytic leukemia/small lymphocytic lymphoma with the BTK
+inhibitor zanubrutinib: phase 2, single-arm, multicenter study.J. Hematol. Oncol.13 (1),
+48. doi:10.1186/s13045-020-00884-4
+Xu, W., Zhou, K., Wang, T., Yang, S., Liu, L., Hu, Y., et al. (2023). Orelabrutinib in
+relapsed or refractory chronic lymphocytic leukemia/small lymphocytic lymphoma
+patients: multi-center, single-arm, open-label, phase 2 study.Am. J. Hematol.98 (4),
+571– 579. doi:10.1002/ajh.26826
+Frontiers inPharmacology frontiersin.org11
+Ke et al. 10.3389/fphar.2024.1413985
+
+END REVIEW W4400512245
+
+
+REVIEW W4400900444
+TITLE: Vibration-controlled transient elastography for significant fibrosis in treatment-naïve chronic hepatitis B patients: A systematic review and meta-analysis
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4400900444 PDF PAGE 1]
+
+
+[W4400900444 PDF PAGE 2]
+pISSN 2287-2728      
+eISSN 2287-285X
+https://doi.org/10.3350/cmh.2024.0371
+Clinical and Molecular Hepatology 2024;30(Suppl):S106-S116Original Article
+Copyright © 2024 by Korean Association for the Study of the Liver
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/3.0/) 
+which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+Vibration-controlled transient elastography for  
+significant fibrosis in treatment-naïve chronic hepatitis 
+B patients: A systematic review and meta-analysis
+Mi Na Kim
+1,2,*
+, Jihyun An
+3,*
+, Eun Hwa Kim
+4
+, Hee Yeon Kim
+5
+, Han Ah Lee
+6
+, Jung Hwan Yu
+7
+, Young-Joo Jin
+7
+,  
+Young Eun Chon
+8
+, Seung Up Kim
+1,2
+, Dae Won Jun
+9
+, Ji Won Han
+10
+, and Miyoung Choi
+11 
+ 
+1
+Department of Internal Medicine, Yonsei University College of Medicine, Seoul; 
+2
+Yonsei Liver Center, Severance Hospital, Seoul; 
+3
+Depart-
+ment of Gastroenterology and Hepatology, Hanyang University Guri Hospital, Hanyang University College of Medicine, Guri; 
+4
+Biostatistics 
+Collaboration Unit, Department of Biomedical Systems Informatics, Yonsei University College of Medicine, Seoul; 
+5
+Department of Internal 
+Medicine, Bucheon St. Mary’s Hospital, College of Medicine, The Catholic University of Korea, Seoul; 
+6
+Department of Internal Medicine, 
+Chung-Ang University College of Medicine, Seoul; 
+7
+Department of Internal Medicine, Inha University Hospital, Inha University School of 
+Medicine, Incheon; 
+8
+Department of Internal Medicine, Institute of Gastroenterology, CHA Bundang Medical Center, CHA University, Seong-
+nam; 
+9
+Department of Internal Medicine, Hanyang University Hospital, Hanyang University College of Medicine, Seoul; 
+10
+Department of 
+Internal Medicine, Seoul St. Mary’s Hospital, College of Medicine, The Catholic University of Korea, Seoul; 
+11
+Division of Healthcare Technol-
+ogy Assessment Research, National Evidence-based Healthcare, Collaborating Agency, Seoul, Korea
+Graphical Abstract
+Study Highlights 
+• Accurate diagnosis of significant liver fibrosis is more important for patients with chronic hepatitis B who do not 
+meet the current criteria for antiviral treatment.
+• Our study demonstrated that VCTE performs well to diagnose significant liver fibrosis in antiviral treatment-naïve 
+chronic hepatitis B patients with serum alanine transaminase levels within 5-fold the upper limit of normal.
+• VCTE seems to be a useful noninvasive tool for diagnosis of significant liver fibrosis in antiviral treatment-naïve 
+chronic hepatitis B patients.
+
+[W4400900444 PDF PAGE 3]
+ Mi Na Kim, et al.
+ Vibration-controlled transient elastography for significant fibrosis
+https://doi.org/10.3350/cmh.2024.0371
+S107
+http://www.e-cmh.org
+INTRODUCTION
+Liver fibrosis is a main risk factor for progression to liver 
+cirrhosis and hepatocellular carcinoma in patients with 
+chronic hepatitis B (CHB).
+1
+ Thus, accurate diagnosis of the 
+liver fibrosis stage and timely initiation of effective interven-
+tion are crucial to improve the prognosis of patients with 
+CHB. A longitudinal study of untreated CHB patients indi -
+cated that 7.4% of patients had progression of fibrosis 
+stage during a median of 3.3 years of follow-up.
+2
+ Indeed, 
+regular assessment of liver fibrosis is required for patients 
+with CHB who are not currently receiving antiviral treat -
+ment (AVT) to determine whether AVT should be initiat -
+ed.
+3,4
+ 
+Backgrounds/Aims:  Accurate diagnosis of significant liver fibrosis in patients with chronic hepatitis B (CHB) is 
+crucial when determining whether to initiate antiviral treatment (AVT). We conduct a meta-analysis to assess the 
+diagnostic performance of vibration-controlled transient elastography (VCTE) for significant liver fibrosis in AVT-naïve 
+CHB patients with serum alanine transaminase (ALT) levels within 5-fold the upper limit of normal (ULN).
+Methods:  The Ovid-Medline, EMBASE, Cochrane, and KoreaMed databases were searched to identify studies 
+that compared the performance of VCTE and liver biopsy (reference standard) when diagnosing significant liver 
+fibrosis (≥F2) in AVT-naïve CHB patients with ALT within 5-fold the ULN. A hierarchical summary receiver operating 
+characteristic curve (HSROC) and bivariate model were performed to evaluate the diagnostic performance of VCTE 
+in the meta-analysis. 
+Results:  Eight studies (2,003 patients) were included. 

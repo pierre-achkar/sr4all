@@ -1,0 +1,213 @@
+on in the publication.
+NR, data not reported; NS, not significant.
+14 Gatzinsky et al.: Neuromodulation for chronic pain treatment
+
+[W3083867998 PDF PAGE 8]
+Accuracy of rTMS to predict the response of epidural
+motor cortex stimulation
+The calculated specificity of rTMS to predict a positive
+clinical response to MCS varied between 60 and 100% in
+the four studies that were included in the analysis
+depending on the definition of the magnitude of the
+response (Table 7) [30, 55, 56, 58]. The 95% conﬁdence
+interval of the estimates of speciﬁcity was of large width in
+three of the studies which all were based on a small number
+of patients (Table 7). The positive predictive value in the
+four studies was in the range of 75– 100% (Table 7).
+According to the GRADE classification the response to
+rTMS may be a useful predictor of the response to epidural
+MCS in patients with chronic NP. Low certainty of evidence
+(GRADE ⊕⊕○○).
+Table : Pain score means measured by validated numeric scales (=no pain,=worst pain) after multiple sessions of rTMS.
+Study rTMS Sham Mean change in
+pain score
+compared to
+baseline (%)
+Between-group difference;
+p-Value
+rTMS Sham
+Ahmed et al. [] Baseline: . (sd .) Baseline: . (sd .)
+After  sessions: . (sd .) After  sessions: . (sd .) −% −%
+After  months: . (sd .) After  months: . (sd .) −% ±%< .
+Attal et al. [] Baseline: .a Baseline: .a
+After  days: .a After  days: .a −% −%< .
+Cervigni et al. [] Baseline: .a Baseline: .a
+After  weeks: .a After  weeks: .a −% +%
+After  weeks: .a After  weeks: .a −% +%< .
+Choi et al.a[ ] Baseline: . (sd .) Baseline: . (sd .)
+After  weeks: .a After  weeks: .a −% ±%< .
+Choi et al.b[ ] Baseline: . (sd .) Baseline: . (sd .)
+After  weeks: . (sd .) After  weeks: . (sd .) −% ±%< .
+Defrin et al. [] Baseline: .a Baseline: .a
+After  sessions: .a After  sessions .a −% −%N S
+Hosomi et al. [] Baseline: NR Baseline: NR
+After  sessions: NR After  sessions: NR ( −.%) ( +.%) NS
+Kang et al. [] Baseline: . (sd .) Baseline: . (sd .)
+After  week: . (sd .) After  week: . (sd .) −% −%
+After  weeks: . (sd .) After  weeks: . (sd .) −% −%N S
+Khedr et al. [] Baseline: . (sd .) Baseline: . (sd .)
+After  days: .a After  days: .a −% −%< . at  days
+After  month: .a After  month: .a −% −%N S a t  month
+Malavera et al.
+[]
+Baseline: . (sd .) Baseline: . (sd .)
+After  days: . (sd .) After  days: . (sd .) −% −%< . at  days
+After  days: . (sd .) After  days: . (sd .) −% −%N S a t  days
+Nurmikko et al.
+[]
+Baseline: . (sd .) Baseline: . (sd .)
+Δ after  week: −. (sd .) Δ after  week: −.(sd .) −% ±%< . at  week
+Δ after  weeks: −. (sd .) Δ after  weeks: −. (sd .) −% −%< . at  weeks
+Picarelli et al. [] Baseline: . (sd .) Baseline: . (sd .)
+After  week: . After  week: . −% −%< . at  week
+After  months: . After  months: . −% −%N S a t  months
+Yilmaz et al. [] Baseline: . Baseline: .
+After  days: . After  days: . −% −%
+After  weeks: . After  weeks: . −% ±%N S
+After  months: . After  months: . ±% ±%
+aEstimated from aﬁgure-illustration in the publication. In Hosomi et al. [] change in pain score is expressed as mean VAS reduction rates of
+averaged sessions of real rTMS and sham immediately before and min after each intervention without presenting any baseline data. This
+study was accordingly not included in the calculation of change in pain score compared to baseline.
+NR, not reported; NS, not significant.
+Gatzinsky et al.: Neuromodulation for chronic pain treatment 15
+
+[W3083867998 PDF PAGE 9]
+Discussion
+The present systematic review shows that 5– 20 Hz, high
+frequency rTMS of M1, both given as single and multiple
+sessions, usually results in statistically signiﬁcant reduc-
+tion of NP compared to sham stimulation. The effect is,
+however, transient and the difference in pain reduction
+between active rTMS and sham is moderate at a group
+level, with inconsistencies in outcome between studies.
+Based on calculations of baseline data there was a 15 per-
+centage point difference in pain reducing effect between
+single sessions of active and sham rTMS. For multiple
+session trials the percentage point difference between
+active rTMS and sham was 22 if assessment was performed
+<30 days after the last stimulation session, and 15 at follow-
+up ≥30 days.
+The included RCTs typically involved a limited number
+of patients (10– 70) with highly heterogeneous pain con-
+ditions, and used excessively variable stimulation param-
+eters. Many trials had study limitations with regard to the
+randomisation procedures and blinding. There was also
+some uncertainty with regard to the directness since the
+selection of patients was not adequately described in many
+studies. The timing of sham stimulation relative to active
+rTMS in studies with a cross-over design was usually not
+taken into account, although it has been demonstrated that
+placebo effects seem to be enhanced if being preceded by a
+previous real rTMS session due to unconscious conditioned
+learning [34]. Thus, a prior positive experience of active
+rTMS may act as a conditioning procedure inducing an
+increased analgesic effect of subsequent sham stimulation,
+not related to the maximal remnant post-stimulation effect
+(carryover effect) of the active stimulation [34]. Based on
+GRADE the certainty of evidence of the effect of rTMS on
+chronic NP can be classiﬁed as very low for single sessions,
+and low for multiple sessions targeting M1. No serious
+adverse events were reported in association with the rTMS
+procedures.
+A statistically significant reduction in the pain score
+must be interpreted in view of the clinical context since a
+statistical significance at a group level does not necessarily
+translate into a clinically meaningful reduction in pain at
+the individual level [59]. The term“clinically important/
+meaningful/relevant” also provides a foundation to
+Table : Summary of results of active rTMS vs. sham from studies presenting baseline data.
+Outcome variable Study design
+number of
+studies
+Absolute effect VAS/NRS/BPI (–)a Pain reduc-
+tion (%)b
+Certainty of
+evidence GRADE*
+Pain
+Validated scales
+RCT
+Single session
+rTMS
+ Active
+Baseline: (weighted mean):
+. Mean difference (Post-
+Pre): −.
+Sham
+Baseline: (weighted mean):
+. Mean difference (Post-
+Pre): −.
+−%
+vs. −%
+⊕○○○ Very lowc
+Multiple sessions
+rTMSd
+Follow-up:
+< days
+ Active
+Baseline: (weighted mean):
+. Mean difference (Post-
+Pre): −.
+Sham
+Baseline: (weighted mean):
+. Mean difference (Post-
+Pre): −.
+−%
+vs. −%
+⊕⊕○○ Lowe
+Multiple sessions
+rTMS
+Follow-
+up: ≥ days
+ Active
+Baseline: (weighted mean):
+. Mean difference (Post-
+Pre): −.
+Sham
+Baseline: (weighted mean):
+. Mean difference (Post-
+Pre): −.
+−%
+vs. −%
+⊕⊕○○ Lowe
+aCalculated average of the weighted mean VAS/NRS/BPI values from six single session (Table) and multiple session trials (Table).
+bCalculated average of the weighted mean reduction in pain score (%) for active vs. sham rTMS.
+cSerious inconsistency due to the variability in the size of effect, serious study limitations, and some uncertainty with regard to directness and
+with regard to precision.
+dOne RCT [] did not report baseline data during theﬁrst month of follow-up (Table).
+eSome inconsistency due to the variability in the size of effect, and some uncertainty with regard to precision.
+*Certainty of evidence: High certainty⊕⊕⊕⊕, We are very conﬁdent that the true effect lies close to that of the estimate of the effect; Moderate
+certainty ⊕⊕⊕○, We are moderately conﬁdent in the effect estimate: The true effect is likely to be close to the estimate of the effect, but there is
+a possibility that it is substantially different; Low certainty⊕⊕○○, Conﬁdence in the effect estimate is limited: The true effect may be
+substantially different from the estimate of the effect; Very low certainty⊕○○○, We have very little conﬁdence in the effect estimate: The true
+effect is likely to be substantially different from the estimate of effect
+BPI, brief pain inventory; NRS, numeric rating scale; RCT, randomised controlled trial; VAS, visual analogue scale.
+16 Gatzinsky et al.: Neuromodulation for chronic pain treatment
+
+[W3083867998 PDF PAGE 10]
+evaluate and compare the impact of treatments on symp-
+toms, functioning and overall HRQoL by patients, clini-
+cians and health care providers [59]. A reduction in the pain
+score at the individual level by a validated numerical scale
+of 30% or more from the baseline is considered a useful
+threshold for identifying a clinically important or mean-
+ingful improvement based on international consensus
+statements [59– 61].
+After a single session of active rTMS the weighted
+mean pain reduction compared to baseline was calculated
+to be 19% at the group level in our analysis of the six
+studies which presented baseline data. Most patients that
+were included in the overall single-session analysis did
+not experience a pain relief greater than 30% relative to
+baseline, and did consequently not fulfil the criteria for a
+responder defined by a clinically meaningful improve-
+ment. The pain reduction at the individual level was,
+however, often within the limits for minimally important
+changes of 10– 20% according to the IMMPACT recom-
+mendations for outcome measures in chronic pain trials
+[59]. The effect usually faded away within one week. In
+this context it is important to point out that in three of the
+included studies in the analysis of single session rTMS
+follow-up assessment was performed 5 – 15 min after
+conclusion of the stimulation session [37 – 39]. These
+studies, which showed among the best results with a pain
+reduct

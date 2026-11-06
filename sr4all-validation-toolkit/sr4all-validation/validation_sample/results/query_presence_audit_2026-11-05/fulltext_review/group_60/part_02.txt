@@ -1,0 +1,539 @@
+
+horizontal 
+diffusion 
+chamber
+5000–20000 µg/m3 
+ NO2
+0.5–2 h ✓
+[52] Würzburg, 
+Germany
+BEGM, colla-
+gen-coated 
+inserts
+Human nasal 
+epithelial 
+cells (HNE)
+NO2 Vitrocell® 
+system
+20–20000 µg/m3 
+ NO2
+0.5 h ✓ ✓
+[53] Würzburg, 
+Germany
+BEGM, colla-
+gen-coated 
+inserts
+HNE NO2 Vitrocell® 
+system
+200 µg/m3  NO2 0.5–3 h ✓ ✓
+[54] Würzburg, 
+Germany
+BEGM, colla-
+gen-coated 
+inserts
+HNE NO2 Vitrocell® 
+system
+20 µg/m3  NO2 0.5–3 h ✓ ✓
+[55] Würzburg, 
+Germany
+BEGM, colla-
+gen-coated 
+inserts
+HNE NO2 + Der p1 Vitrocell® 
+system
+200–20000 µg/m3 
+ NO2
+1 h ✓
+[56] Mainz, Ger-
+many and 
+Louisiana, 
+USA
+DMEM/Ham's 
+F12 mixture, 
+3 ×  105 cells/
+mL, collagen-
+coated inserts
+HNE O3 Collagen-
+coated poly-
+carbonate-
+membrane
+100, 500 and 
+1000 µg/m3  O3
+4 weeks
+(long-term)
+✓ ✓
+[57] Ottawa, Canada DMEM, 
+collagen-
+coated PTFE 
+inserts
+A549 O3 Exposure 
+chamber 
+based on Cel-
+Tox Sampler
+400 µg/m3  O3 2 h ✓
+[58] North Carolina, 
+USA
+BEGM and 
+KBM, tran-
+swell inserts
+HBEpC, 
+BEAS-2B
+O3 US EPA 
+exposure 
+chambers 
+with standard 
+conditions
+1000 µg/m3  O3 2 h ✓ ✓
+[59] North Carolina, 
+USA
+BEGM/
+DMEM-H 
+mixture, tran-
+swell inserts
+HBEpC O3 US EPA 
+exposure 
+chambers 
+with standard 
+conditions
+1000 µg/m3  O3 2 h ✓ ✓
+
+[W4412727192 PDF PAGE 7]
+Current Environmental Health Reports           (2025) 12:26  
+ Page 7 of 40    26 
+Table 1  (continued)
+Reference Location ALI culture Cell type(s) Exposure 
+agent(s)
+Exposure 
+system
+Exposure dose Exposure dura-
+tion
+Outcome assessment
+Cell viabil-
+ity/Cytotox-
+icity
+Cellular 
+inflamma-
+tion
+Genotoxicity Oxida-
+tive 
+stress
+[60] North Carolina, 
+USA
+F-12-K com-
+plete medium, 
+collagen-
+coated Snap-
+well inserts
+A549, Epiair-
+way™ 3D
+O3 Gas In Vitro 
+Exposure 
+System 
+(GIVES) 
+with standard 
+conditions 
+800 µg/m3  O3 4 h ✓ ✓
+[61] North Carolina, 
+USA
+BEGM, tran-
+swell inserts
+HBEpC O3,  NO2 Exposure 
+chambers 
+with standard 
+conditions
+2000–10000 µg/m3 
+ NO2
+2 h ✓ ✓ ✓
+[62] Hannover, 
+Germany
+RPMI 1640, 
+3.5 ×  104 
+Lk004 and 
+2.0 ×  104 
+HFBE-21 
+cells/cm2
+Lk004, HFBE-
+21
+O3,  NO2 Cultex®-based 
+system
+400 and 1000 µg/m3 
+ O3, 150–2400 µg/
+m3  NO2
+1–2 h ✓ ✓
+[63] Paris, France Ham’s F12, 
+collagen-
+coated inserts
+A549 HCHO Vitrocell® 
+system
+25–75 µg/m3 FA 0.5 and 1 h ✓
+[64] Paris, France Ham’s F12, 
+collagen-
+coated inserts
+A549, BEAS-
+2B
+HCHO Vitrocell® 
+system
+50 µg/m3 FA 0.5 h ✓ ✓
+[65] Innsbruck, 
+Austria
+DMEM/Ham's 
+F12 mixture, 
+polyester 
+membrane 
+inserts
+A549 HCHO Polypropylene 
+exposure 
+chamber 
+with standard 
+conditions
+120 and 610 µg/
+m3 FA
+72 h ✓ ✓
+[66] Strasbourg, 
+France
+DMEM/Ham's 
+F12 mixture, 
+PET inserts
+Calu-3 HCHO,  NO2 Polystyrene 
+exposure 
+chamber 
+with standard 
+conditions
+50–200 µg/m3 
+HCHO, 200–
+800 µg/m3  NO2
+0.5, 1 or 2 h ✓ ✓
+[67] Queensland, 
+Australia
+DMEM, hang-
+ing drop 
+culture and 
+Alvetex® 
+scaffold 
+inserts
+A549 Benzene, 
+toluene and 
+xylenes
+Hanging drop
+Medium diffu-
+sion
+Periodic expo-
+sure
+Apical surface 
+exposure
+5 and 10 µL benzene 1-h and 24-h 
+acute expo-
+sures
+1–20 days 
+chronic 
+exposure
+(long-term)
+✓ ✓ ✓
+
+[W4412727192 PDF PAGE 8]
+ Current Environmental Health Reports           (2025) 12:26 
+   26  Page 8 of 40
+In some cases, cell lines were co-cultured with mac-
+rophages and dendritic cells to create more physiologically 
+relevant ALI systems. Additionally, complex three-dimen-
+sional ready-to-use models were used to better mimic in vivo 
+conditions. Examples include the EpiAirway™ 3-D model 
+derived from human tracheal/bronchial epithelial cells [60], 
+the MucilAir™ 3-D model representing nasal epithelium 
+[99, 101], and the MucilAir-HF™ [86]. As described in a 
+previous review by Lakhdar et al. [48], several studies pro-
+posed alternative in vitro systems known as organs-on-chip, 
+which emulate the complex features of the respiratory epi-
+thelium, such as tight junction formation or mucin secretion.
+The ALI systems mentioned above were exposed to various 
+airborne contaminants using diverse exposure setups. Two par-
+ticularly significant ones were the CULTEX® and Vitrocell® 
+exposure chambers. The CULTEX® exposure chamber (Fig. 4) 
+was used in two studies [95, 97], and user made adaptations of it 
+were used in one study [43]. The Vitrocell® system (Fig. 4) was 
+used in 11 studies [52–55, 63, 64, 68, 71, 74, 88, 94], and user 
+made adaptations of it were used in two studies [62, 92]. Some 
+other examples of exposure devices are the NaviCyte horizontal 
+diffusion chamber [51], the MINUCELL perfusion unit [90], 
+the XposeALI system [73], and the ExpoCube device [48].
+Regarding the exposure agents of interest, the impact of the 
+main urban pollutants defined by the WHO [104] on human 
+health was assessed in most studies. In the case of gaseous pol-
+lutants, 9 studies evaluated the effects of exposure to nitrogen 
+dioxide  (NO2) and 7 studies reported ozone  (O3) exposure. 
+Three studies focused on benzene and benzene derivatives 
+such as ethylbenzene, toluene and xylenes, while volatile 
+organic compounds (VOCs) from gasoline were tested in one 
+study [69]. Additionally, the effects of formaldehyde, a com-
+mon indoor air pollutant, were evaluated in 4 studies.
+When considering aerosols and particulate matter, 
+exposure to urban particulate matter (UPM) was reported 
+in two studies, and DEP were studied in 8 articles as one 
+of the main traffic-related sources of pollution in urban 
+environments. However, cell cultures were also exposed 
+to more specific types of particulate matter, such as  PM2.5 
+in 3 studies,  PM10 in one study,  PM4 in one study, and 
+ultrafine particles (UFP) in 3 studies. In studies that 
+simultaneously assessed gas and aerosol exposures, mix-
+tures of the pollutants mentioned before were employed, 
+as well as complete motor exhaust or ambient air.
+Most studies included in this review involved exposure 
+durations of up to 72 h, aligning with the definition of short-
+term exposure established by Pfaller et al. [105]. In contrast, 
+only three studies [56, 67, 86] evaluated long-term exposure 
+characterized by durations exceeding 5 days.
+As for the biological outcomes, cytotoxicity was assessed 
+in 45 studies and cellular inflammation in 40 studies. Induc-
+tion of oxidative stress was reported in 26 studies, especially 
+in the case of aerosol pollutants, and genotoxic effects of the 
+Table 1  (continued)
+Reference Location ALI culture Cell type(s) Exposure 
+agent(s)
+Exposure 
+system
+Exposure dose Exposure dura-
+tion
+Outcome assessment
+Cell viabil-
+ity/Cytotox-
+icity
+Cellular 
+inflamma-
+tion
+Genotoxicity Oxida-
+tive 
+stress
+[43] Birmingham, 
+UK
+RPMI 1640, 
+collagen-
+coated inserts
+A549 Benzene Cultex®-based 
+system
+96–960 µg/m3 
+benzene
+2 and 4 h ✓ ✓
+[68] Mol, Belgium MEM, 
+ThenCert™ 
+polystyrene 
+membrane 
+inserts
+A549 Ethylbenzene, 
+ NO2
+Vitrocell® 
+system
+3 ×  107—5 ×  107 µg/
+m3 EB, 40,000 µg/
+m3  NO2
+4 h ✓ ✓ ✓
+[69] Beirut, Leba-
+non
+DMEM, tran-
+swell inserts
+A549 Gasoline VOCs Static exposure 
+system
+3–735 ppm 1 h ✓ ✓ ✓
+
+[W4412727192 PDF PAGE 9]
+Current Environmental Health Reports           (2025) 12:26  
+ Page 9 of 40    26 
+Table 2  Summary of characteristics and outcome assessment of studies reporting the effects of exposure to aerosols and particulate matter included in the literature review
+Reference Location ALI culture Cell type(s) Exposure 
+agent(s)
+Exposure 
+system
+Exposure dose Exposure dura-
+tion
+Outcome assessment
+Cell viabil-
+ity/Cytotox-
+icity
+Cellular 
+inflamma-
+tion
+Genotoxicity Oxida-
+tive 
+stress
+[70] North Carolina, 
+USA
+MEM and 
+DMEM/Ham’s 
+F12 mixture, 
+transwell-clear 
+inserts
+Calu-3, A549 DEP Direct aerosol 
+exposure and 
+liquid expo-
+sure, 24 h 
+incubation
+10–100 µg/cm2 n.d ✓ ✓ ✓
+[71] Cluj-Napoca, 
+Romania
+75% DMEM, 15% 
+RPMI 1640 and 
+10% IMDM, BD 
+Falcon inserts
+A549, Ea.hy 
+926, THP-1, 
+HMC-1 (tetra-
+culture)
+DEP Vitrocell® 
+system;
+1.75–5 µg/cm2 2.5–20 min ✓ ✓ ✓
+[72] California, 
+USA
+MEM, collagen-
+coated inserts
+16HBE14o DEP ALI expo-
+sure at an 
+environmental 
+chamber 
+and particle 
+suspension 
+exposure
+1 ×  10–4 µg/cm2 
+(ALI)
+0.13–12.5 µg/
+cm2 (suspen-
+sion)
+6 h ✓ ✓
+[73] Sweden PneumaCult™-Ex 
+medium, tran-
+swell inserts
+PBEC, THP-1 DEP XposeALI 
+system
+12.7 µg/cm2 3 min ✓ ✓ ✓
+[74] Esch-sur-
+Alzette, 
+Luxembourg
+DMEM. RPMI 
+1640, IMDM, 
+BD falcon 
+inserts
+A549, Ea.hy 
+926, THP-1, 
+HMC-1 (tetra-
+culture)
+DEP Vitrocell® 
+system
+0.04–0.24 µg/
+cm2
+1–7 min ✓ ✓ ✓
+[75] Fribourg, Swit-
+zerland
+RPMI 1640, 
+PET membrane 
+inserts
+16HBE14o, 
+MDMs, 
+MDDCs
+DEP Exposure 
+chambers 
+with standard 
+conditions
+1.7 ×  107 DEP/
+cm2
+7.4 ×  107 DEP/
+cm2
+2 h
+6 h
+✓ ✓ ✓
+[76] Paris, France DMEM/F12: 
+BEGM mixture, 
+collagen-coated 
+inserts
+HNE DEP,  PM2.5 Particle suspen-
+sion exposure
+10–80 µg/cm2 24 h ✓ ✓ ✓
+[77] Bern. Switzer-
+land
+DMEM, collagen-
+coated inserts
+NHBE, dis-
+tressed HBE, 
+CF HBE, 
+BEAS-2B
+GEP Exposure 
+chamber 
+with standard 
+conditions
+20–1000 µg/m3 2 h ✓ ✓
+
+[W4412727192 PDF PAGE 10]
+ Current Environmental Health Reports           (2025) 12:26 
+   26  Page 10 of 40
+Table 2  (continued)
+Reference Location ALI culture Cell type(s) Exposure 
+agent(s)
+Exposure 
+system
+Exposure dose Exposure dura-
+tion
+Outcome assessment
+Cell viabil-
+ity/Cytotox-
+icity
+Cellular 
+inflamma-
+tion
+Genotoxicity Oxida-
+tive 
+stress
+[78] Fribourg, Swit-
+zerland
+RPMI 1640, BD 
+falcon inserts
+A549, MDMs, 
+MDDCs
+Brake wear PM Environmental 
+chamber 
+simulating 
+urban driving; 
+exposure,
+12–48 µg/cm2 
+non-airborne 
+samples, 
+3.7 µg/cm2 
+brake wear 
+particles
+24 h ✓ ✓ ✓
+[79] Bern, Switzer-
+land
+RPMI 1640, BD 
+falcon inserts
+A549 Brake wear PM Exposure box 
+with standard 
+condi-
+tions; direct 
+exposure to 
+PM with dif-
+ferent braking 
+behaviours 
+and 24-h 
+incubation
+1760–4730 µg/
+m3
+8–16 min ✓ ✓ ✓
+[80] North Carolina, 
+USA
+BEGM and KBM, 
+collagen-coated 
+inserts
+NHBE, BEAS-
+2B
+UPM Particle suspen-
+sion exposure
+2–10 µg/µL 
+UPM
+4 or 24 h ✓ ✓ ✓
+[81] Californa, USA BEGM, transwell 
+inserts with 
+polyester mem-
+branes
+AECs UPM Particle suspen-
+sion exposure
+1 mg/mL UPM 4 days ✓ ✓
+[82] Singapore S-ALI™/
+PneumaCult™-
+ALI differentia-
+tion me

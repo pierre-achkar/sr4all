@@ -1,0 +1,130 @@
+d Meta-Analysis
+Abstract
+Background: Digital health interventions (DHIs) have shown promising results for the management
+of chronic wounds. However, its effectiveness compared to usual care and whether variability in the
+type of intervention affects wound outcomes are unclear.
+Objective: The  main  objective  was  to  determine  the  effectiveness  of  DHIs  on  wound  healing
+outcomes in adult patients with chronic wounds. The secondary objectives were to assess if there was
+any variation in wound healing outcomes across the various types of DHIs.
+Methods:  Nine  databases  were  searched  for  the  literature  up  to  August  1,  2023.  Randomized
+controlled trials (RCTs), cohort studies, and quasi-experimental studies comparing the efficacy of
+DHIs with controls in improving wound outcomes in adult patients with chronic wounds were
+included. Study selection, data extraction, and risk of bias assessment were conducted independently
+by two reviewers. We assessed the quality of each RCT, cohort study, and quasi-experimental study
+separately using the Cochrane risk of bias tool, ROBINS-I, and the Joanna Briggs Institute Critical
+Appraisal tools checklists. Relative risks (RRs) and 95% CIs were pooled using the random effects
+model, and heterogeneity was assessed by the I2 statistic. Subgroup analysis and sensitivity analysis
+were also performed.
+Results: Twenty-five studies with 8125 patients were included in this systematic review, while only
+20 studies with 6535 patients were included in the meta-analysis. Efficacy outcomes in RCTs showed
+no significant differences between the DHIs and control groups in terms of wound healing (RR 1.02,
+95%  CI 0.93-1.12;  P=.67), and all-cause mortality around 1 year (RR 1.08, 95%  CI 0.55-2.12;
+P=.83). Compared with the control group, the use of DHIs was associated with significant changes in
+adverse events (RR 0.44, 95% CI 0.22-0.89; P=.02). Subgroup analysis suggested a positive effect of
+the digital platforms in improving wound healing (RR 2.19, 95% CI 1.35-3.56; P=.002). Although
+meta-analysis was not possible in terms of wound size, cost analysis, patient satisfaction, and wound
+reporting rates, most studies still demonstrated that DHIs were not inferior to usual care in managing
+chronic wounds.
+Conclusions: The  findings  of  our  study  demonstrate  the  viability  of  adopting  digital  health
+interventions  to  manage  chronic  wounds.  However,  more  prominent,  high-quality  randomized
+https://preprints.jmir.org/preprint/47904 [unpublished, peer-reviewed preprint]
+
+
+[W4398789503 PDF PAGE 7]
+JMIR Preprints Bai et al
+controlled trials are needed to strengthen the evidence, and more detailed clinical efficacy research is
+required.
+Trial Registration: PROSPERO CRD42023392415;  
+https://www.crd.york.ac.uk/prospero/display_record.php?ID=392415 
+Introduction
+Chronic  wounds  have  a  substantial  impact  on  individual  health,  society,  and  health  systems
+worldwide [1], with studies showing that the global prevalence of chronic wounds is estimated to be
+1.67 per 1000 population [2]. A commonly used definition, labeling chronic wounds as wounds that
+“fail to proceed through an orderly and timely process to produce anatomic and functional integrity”
+[3]. Chronic wounds are classified by etiology and include, but are not limited to, lower extremity
+venous ulcers, neurological ulcers, diabetic foot ulcers, pressure injuries, and arterial ulcers [4], and
+these underlying pathologic factors often hinder or delay the healing process, resulting in significant
+negative  impacts  on  the  physical,  emotional,  and  social  well-being  of  patients.  Many  patients
+develop infections due to poor chronic wound management, experiencing increased pain, delayed
+wound healing, and even wound rupture and foul odors [5-7], imposing humanistic burdens (e.g.,
+health-related quality of life [8, 9]) and economic costs (including direct expenditures, such as
+medical bills, and indirect lost productivity, such as sick leave and early retirement [10]) on both the
+patients themselves and society. It is crucial to highlight that there is no agreement on a specific
+healing period for chronic wounds, which means there is no set timeline for wound healing or when a
+wound becomes chronic; as a result, those suffering often require prolonged care [11].
+Traditional wound care is mainly done in hospitals or specialized treatment facilities, and it is limited
+by time and location, treatment space, patients’ financial status, and the scope of the medical center’s
+services [10, 12]. Patients, for example, frequently need to plan ahead of time for treatment, and
+those who reside in remote regions or have restricted mobility may face greater burdens [13], so
+many  patients  with  chronic  wounds  remain  without  adequate  wound  management  options.
+Consequently, even with the current advancements in in-hospital chronic wound management, it is
+still a vital challenge for the healthcare sector to address how to deliver a wound management
+program for patients with access challenges that is no less than the quality of in-hospital care without
+placing a greater financial burden on patients.
+Digital Health Interventions (DHIs) have been recognized by the World Health Organization South-
+East Asia Regional Organization (WHO-SEARO) for their role in improving access to primary
+health care, may be a promising option for overcoming these barriers. According to the WHO
+definition, DHI is a discrete functionality of digital technology that is applied to achieve health
+https://preprints.jmir.org/preprint/47904 [unpublished, peer-reviewed preprint]
+
+
+[W4398789503 PDF PAGE 8]
+JMIR Preprints Bai et al
+objectives [14]. DHIs included, but were not limited to, devices used to deliver the intervention, such
+as mobile phones, mobile applications (apps), portable tablets, web-based platforms, and activity
+trackers. DHIs are widely used for assessment, education, and symptom management in patients with
+a variety of disorders such as cancer, diabetes, stroke, and attention deficit hyperactivity disorder
+(ADHD) [15-19], with promising results in chronic wound management [20]. Remote consultation
+and follow-up via phone and email connect home-care nurses to wound experts, increasing the
+likelihood of wound healing [21-23]. The wound digital platform designed for inpatients has shown
+positive intervention outcomes [24, 25]. Meanwhile, a novel study [26] developed the framework of
+the digital nursing quality management model and utilized digital wound care as an example in the
+conceptualization  process,  heralding  the  great  potential  of DHIs in  the  field  of chronic  wound
+management.  Previous  meta-analysis shows that  DHIs show  no  inferiority  in  randomized  trials
+compared with traditional face-to-face care. However, these meta-analyses have limitations: either
+only chronic wounds of one etiology have been considered [27, 28], or they have looked at in control
+groups, such as community-based or nursing home-based interventions [29], whereas no studies have
+yet noted differences in digital health interventions.
+Thus, an updated meta-analysis is warranted. The primary aim of this study is to assess the efficacy
+of digital health interventions for chronic wound management versus usual care. Our secondary aim
+is to explore whether and how modifiable types of digital health interventions (e.g., digital platforms,
+telemedicine, or follow-up by telephone and email) affect chronic wound healing outcomes. These
+insights serve to inform existing or novel chronic wound-targeted treatment protocols and develop
+optimal treatment options for the benefit of patients.
+Methods
+This systematic review is reported in accordance with the PRISMA (Preferred Reporting Items for
+Systematic Reviews and Meta-Analyses) 2020 statement (Multimedia Appendix 1) [30]. Before the
+start of the study, the review  protocol was registered in PROSPERO (International Prospective
+Register of Systematic Reviews; CRD42023392415).
+Definitions and Categories of Digital Health Interventions and Usual Care
+The theoretical definition of digital health intervention refers to a discrete functionality of digital
+technology that is applied to achieve health objectives. Telemedicine, digital platforms, and mobile
+phone and text message follow-up are all examples of digital health interventions [31]. 
+Although the definition of usual care has not been standardized, it can include the routine care
+received by patients for prevention or treatment of diseases [32]. In this study, in addition to regular
+https://preprints.jmir.org/preprint/47904 [unpublished, peer-reviewed preprint]
+
+
+[W4398789503 PDF PAGE 9]
+JMIR Preprints Bai et al
+hospital care, usual care forms consisted of the following 3 main categories and their collocated use:
+outpatient clinics, primary care, and home care. The operational definitions or meanings of several
+types of digital health interventions and usual care covered in this paper are explained in Table 1.
+Table 1. Operational classification and definitions of digital health interventions and usual care.
+Category Operational definition / Meaning
+Digital Health Intervention*
+Telemedicine The use of electronic technology for information and communication 
+by healthcare professionals with patients (or caregivers), with the 
+objective of providing and supporting medical care to patients when 
+they are away from healthcare institutions [33]. 
+Digital platform Intermediaries that enable two or more customer/supplier and/or user 
+groups to interact [34].
+Follow-up by telephone and 
+email
+A method in which healthcare professionals evaluates a patient’s 
+health status along with offering periodic care using verbal 
+descriptions over the phone or electronic information sent via mail.
+Usual care
+Outpatient clinic One of the most important departments of the hospital, where most 
+elective care trajectories start here, with a consultation between a care
+provi

@@ -1,0 +1,181 @@
+sion
+of idiopathic pulmonary fibrosis is associated with silica/silicate
+inhalation.Environ Sci Technol Lett2021;8:903–910.
+62 Kang W, Kim D, Kim MY, Kim B, Shin J, Kim EY,et al.Usual interstitial
+pneumonia associated with crystalline silica exposure in
+pneumoconiosis: a retrospective cohort study.J Occup Environ Med
+2021;63:e905–e910.
+63 Nesti M, Marinaccio A, Gennaro V, Gorini G, Mirabelli D, Mensi C,et al.;
+ReNaM Working Group. Epidemiologic surveillance for primary
+prevention of malignant mesothelioma: the Italian experience.Med Lav
+2005;96:338–346.
+64 Jegal Y, Park JS, Kim SY, Yoo H, Jeong SH, Song JW,et al.; Korea ILD
+Study Group. Clinical features, diagnosis, management, and outcomes
+of idiopathic pulmonary fibrosis in Korea: analysis of the Korea IPF
+Cohort (KICO) Registry.Tuberc Respir Dis (Seoul)2022;85:185–194.
+ORIGINAL RESEARCH
+498 AnnalsATS Volume 21 Number 3 | March 2024
+
+END REVIEW W4389729337
+
+
+REVIEW W4389941117
+TITLE: A SYSTEMATIC REVIEW ON CHEMICAL AND PHARMACOLOGICAL ACTIVITIES OF EXCOECARIA AGALLOCHA: A POTENTIAL SUNDARBAN PLANT
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4389941117 PDF PAGE 1]
+ 
+ 
+*Corresponding author: <uddinsj@yahoo.com> 
+DOI: https://doi.org/10.53808/KUS.2023.20.02.1092-ls 
+  
+ 
+Khulna University Studies Volume 20(2):140-159: 2023 
+ 
+ 
+ 
+Copyright©Khulna University 
+ 
+A SYSTEMATIC REVIEW ON CHEMICAL AND PHARMACOLOGICAL ACTIVITIES OF 
+EXCOECARIA AGALLOCHA: A POTENTIAL SUNDARBAN PLANT 
+Tasfiya Rufaidah Ahnaf 1, Pritam Sarkar 1, Md. Emam Shikdar 1, Sudipto Saha 2 and Sheikh Jamal 
+Uddin 1* 
+1Pharmacy Discipline, Khulna University, Khulna – 9208, Bangladesh 
+2Department of Cardiology, Shaheed Sheikh Abu Naser Specialized Hospital, Khulna  
+KUS: 1092: 17102023 
+Manuscript submitted: October 17, 2023                                                                      Accepted: December 11, 2023 
+Abstract  
+Among various plants in the Mangrove Forest of the tropical and subtropical region, Excoecaria agallocha is notable for 
+possessing multifarious pharmacological activity. As Excoecaria agallocha belongs to the Euphoriaceae family, this plant 
+is rich in many classes of phytochemicals that are therapeutically potent such as Diterpenoids, Triterpenoids, Alkaloids, 
+Polyphenol, Sterol, Flavonoids, Tanine, Flavanone, etc. Its ancient use in the treatment of disorders such as epil epsy, 
+rheumatism, ulcer, leprosy, and others has attracted the interest of researchers, who are now studying different parts 
+of the plant. Plant parts have been studied for reducing inflammation, and anti-microbial, anti-epileptic, and cytotoxic 
+effects in several research. Phytoconstituents responsible for pharmacological activities have been distinguished and 
+their possible mechanism of action along with IC ₅₀ value has been presented. From wood, roots, and stems of the 
+plant physiologically active constituents such as Agallochin, ent-kauran-16â-ol-3-one, Chebulagic acid, Betulinic acid, 
+Betulonic acid, Corilagin, Geraniin, Excoecarin, Agallochaexcoerin, Vanillic acid are described as pharmacologically 
+potent molecules as they interact with certain biomolec ules and precipitate changes in the physiological state of the 
+body. This review elucidates the likely mechanism of action of each of these plant compounds that provide particular 
+biological activity. 
+ 
+Keywords: Anti-epileptic property, Diterpenoids, Anti-inflammatory, Cytotoxic, Excoecaria agallocha 
+Introduction 
+People have been searching for natural cures for their illnesses since the dawn of time. No matter how far we have 
+come as a civilization, mankind must turn toward nature for its needs. Humans, like animals, began employing 
+medicinal plants for disease treatment as an innate behavior (Stojanoski & Art, 1999). Be it a wound on the skin or a 
+critical internal injury, it is nature that has given us the ray of treatment. Most people in the world rely  entirely or 
+partially on the traditional medicinal system to meet their essential medical needs. The worldwide herbal medicines 
+market was valued at USD 170 billion in 2022 and is expected to reach USD 600 billion by 2033, growing 15% from 
+2023 to 2033 (Silveira & Boylan, 2023). As a result, it's clear that people need plants in order to become well and stay 
+well. One of the most common tree species in the mangrove forest, Excoecaria agallocha, has been put to many different 
+uses over the years (Table 1). Numerous phytochemicals have been isolated from different parts of the plant with the 
+intention of finding a physiologically active phytochemical. Multiple plant metabolites, including alkaloids, flavonoids, 
+diterpenoids, triterpenoids, polyphenols, and ot hers, have been linked to the plant's pharmacological effect. The 
+physiologically active component composition of medicinal plants varies substantially depending on the plant species, 
+soil type, and connection to microorganisms (Zhao et al., 2011). Anti -inflammatory, cytotoxic, and anti -microbial 
+effects along with potential neuropharmacological activities based on its use in the traditional use of Excoecaria agallocha 
+ORIGINAL ARTICLE 
+ 
+LIFE SCIENCE 
+
+[W4389941117 PDF PAGE 2]
+Khulna University Studies Volume 20(2):140-159:2023 
+DOI: https://doi.org/10.53808/KUS.2023.20.02.1092-ls 
+ 
+141 
+ 
+and the potential phytochemicals discovered give us the lead to further study of this plant. This review article focuses 
+on the accumulation of phytochemicals, isolated from Excoecaria agallocha and its potential biological activity, as well 
+as its likely cellular method of action, which may be useful in the identification of novel medications . 
+ 
+Materials and Methods 
+Searching-process 
+Interdisciplinary research on Excoecaria agallocha  was being conducted on the 15 th of March, 2023. Using keywords 
+such as Excoecaria agallocha , phytoconstituents, pharmacological activity, bioactivity, mangrove plants, diterpenoids, 
+triterpenoids, myrictin, rhamnoside, corilagic acid, chebulagic acid, betulinic acid, betulonic acid, lupenone, geraniin, 
+afzelin, and corilagin; a literature survey was processed in G oogle Scholar and PubMed. In this review, the surveys 
+included (i) in -vivo and in -vitro studies from various extracts and pure phytochemicals of E. agallocha, (ii) possible 
+mechanism of action of the isolated phytoconstituents (iii) studies concerning the concentrations, doses, and route of 
+administration of extracts and its phytochemicals. 
+ 
+Data extraction 
+A thorough literature investigation resulted in 587 records of which 88 studies were found relevant to our objective 
+of the review. The data from the sources had been selected based on the surname of the author, publication date, 
+pharmacological activity, observations, results, concentrations tested, and possible mechanism of action at a 
+molecular level. 
+ 
+Phytoconstituents  
+Excoecaria agallocha, as a very common mangrove plant has been evaluated for multiple pharmacological activities. 
+Several phytoconstituents (Table 2) have already been isolated form different parts of the plant but their exact 
+bioactivity hasn’t been demonstrated yet of now. Prominent biologically active class of phytochemicals including 
+Diterpenoids such as agallochin, excoecarin, and stachenone; Triterpenoids, flavonoids, tanins, alkaloids, etc. are 
+assumed to be attributed for the potential pharmacologic activity of the plant. 
+ 
+  
+Table 1. Traditional medicinal uses of Excoecaria agallocha 
+Plant parts used Traditional Use Reference 
+Bark, Bark oil, Milky sap, 
+leaves, Root 
+Treat sores and stings from marine creatures, 
+ulcers, purgative, emetic, Anti-leprosy 
+ (Ghani, 2003) 
+Anti-rheumatism, Paralysis treatment.  (Subhan et al., 2008) 
+Anti-HIV, anticancer, antibacterial and 
+antiviral 
+ (Peter et al., 1999) 
+ Epilepsy, ulcers, leprosy, rheumatism, and 
+paralysis, flatulence, antioxidant, 
+antimicrobial, anti -inflammatory, analgesic, 
+antiulcer, anticancer, anti-reverse 
+transcriptase, antihistamine -release, anti -
+filarial, DNA damage protective, antidiabetic, 
+and antitumor protecting activities, 
+abortifacient 
+(Mondal et al., 2016) 
+Leaves Dart poison, fish poison  (A. S. Anjaneyulu & Rao, 2000) 
+Latex Purgative, Abortifacient 
+
+[W4389941117 PDF PAGE 3]
+Ahnaf  et al. (2023). A systematic review on chemical and pharmacological activities of  Excoecaria agallocha: A potential Sundarban plant. Khulna 
+University Studies. Volume 20(2): 140-159 
+ 
+142 
+Table 2. Reported phytoconstituents from different parts of Excoecaria agallocha 
+ 
+Plant 
+Parts 
+Class of 
+metabolites 
+Molecules Reference 
+Root Diterpenoids 3-oxo-ent-13-epi-8(13)-epoxy-15-chloro-14-hydroxy labdane; ent -
+15- chloro -13,14 -dihydroxylabd -8(9) ene -3 -one; ent-15 - chloro-
+labd-8(9) ene -3a,13,14-triol; ent -11β-hydroxy-8(14),15-
+isopimaradien-3-one; 8,13-epoxy-3- nor -2,3- seco-14-epilabden-2,4-
+olide; ent -3-oxo-13-epi-manoyl oxide (Ribenone); ent -3β-hydroxy-
+13-epi-manoyl oxide (Ribenol); ent-16-hydroxy-3-oxo-13-epi-manoyl 
+oxide; ent -15-hydroxylabda-8 (17), 13E -dien-3-one; labda - 8 
+(17),13E- a 3β,15 -diol; Ent -11α-hydroxy-3-oco-13-epi-manonyl-
+oxide; Agallochin A; Agallochin B; Agallochin C; Agallochin D; 
+Agallochin E 
+(A. S. 
+Anjaneyulu 
+& Rao, 2000) 
+ent-3 beta,20 -epoxy-3 alpha,6 alpha -dihydroxykaur-16-ene 
+(Agallochin F); 3 beta,20 -epoxy-3 alpha -hydroxybeyer-15-ene 
+(Agallochin G); 3 beta,20:15R,16S -diepoxy-3 alpha -beyeranol; 
+(Agallochin H); 3 beta,20 -epoxy-3 alpha,6 alpha -dihydroxy-18-nor-
+beyer-15-ene (Agallochin I); 2 -acetoxy-1,15-beyeradien-3,12-dione; 
+2-hydroxy-1,15-beyeradien-3,12-dione ent-kauran-16α-ol-3-one 
+(A. S. 
+Anjaneyulu 
+et al.,  2002) 
+ 11α,14α-dihydroxy-7,15-isopimaradien-3-one (Agallochin J); 
+3α,11α,14α-trihydroxyisopimara-7,15-diene (Agallochin K); 
+6α,14α,17-trihydroxy-7,15-isopimaradien-3-one (Agallochin L) 
+(A. S. 
+Anjaneyulu 
+et al.,  2003) 
+ent-13-epi-8,13-epoxy-4, hydroxy-3,4-secolabd- 14-en-3-oate 
+(Agallochin M); Methyl ent -13- ere 2,3-secolabd- 14-en-

@@ -1,0 +1,237 @@
+ultation, and an advanced
+internet search provided 11 additional papers. After
+reading and assessing the remaining 35 articles, two
+Herbst and Emmert BMC Health Services Research  (2017) 17:385 Page 2 of 11
+
+[W2623285599 PDF PAGE 3]
+empirical studies and 11 descriptive papers met the
+predefined inclusion criteria. In total, 13 identified
+papers led to the identification of four pay-for-
+performance programs concerned with ophthalmology
+(see Fig. 1 and Additional file 1).
+The MedEncentive Information Therapy Program is a
+web-based incentive system that rewards the primary
+care physician as well as the patient for adhering to
+evidence-based medicine (EBM) guidelines and a healthy
+lifestyle. This P4P approach, first introduced as a pilot
+program in Duncan, Oklahoma in August 2004, pursues
+the aim of enhancing communication between the phys-
+ician and patient via a web-based platform named
+MedEncentive [26] (Table 1).
+Regarding the quality aspects , MedEncentive focuses
+on the cost effectiveness of the quality of health services.
+The platform aimed for high patient satisfaction and
+centeredness. Licensed health plans and self-insured em-
+ployers (per member per month fee) were able to par-
+ticipate. Twenty ophthalmic outcome indicators covered
+the process and outcome quality. Based on the ICD-9
+diagnosis code, MedEncentive searches for appropriate
+EBM guidelines, which were proposed to the treating
+physician via email. The measurability of SMART
+criteria (specific, measurable, achievable, relevant, and
+timely) was restricted because of the nominal scale level
+of the quality indicators. The risk adjustment was taken
+into consideration in the cost calculation (e.g. for “cata-
+strophic cases ”) [26] (Table 2).
+Concerning the incentive elements , the bonus and pen-
+alty payments were defined as the “absolute rewards ”.
+The physicians were financially rewarded for transcrib-
+ing information via MedEncentive regarding the applied
+patient-based therapy, which might deviate from recom-
+mended EBM guidelines. When physicians approved
+treatment according to EBM guidelines, or a reason for
+deviation was mentioned, the reimbursement increased
+by 10%. Reimbursement decreased if physicians rejected
+the proposed treatment without valid justification [26, 35].
+The patient ’s remuneration was determined primarily
+by compliance with physician ’s orders. By reading
+diagnosis-related information, therapy information,
+and answering questions regarding his/her personal
+health status and level of sa tisfaction with the physi-
+cian’s performance, the patients could be financially
+rewarded, which was reflected in reduced co-payments [35].
+Electronic Data Base Search (N=591)
+[Pubmed=20, Wiley Online Library=526, NCBI=16, Web of knowledge=6, 
+the Cochrane Library=6, Scopos=17, Econlit=0]
+Titles after elimination of duplicities (N=551)
+Full text reviewed (N=35)
+Articles included in the review (N=13)
+ Excluded articles  after title/abs tract review (N=527)
+ Reasons for exclusion:
+ 1. No Financial incentives and no opthalmology (n=501)
+ 2. Financial incentive were found but not linked to ophthalmology (n=3)
+ 3. Ophthalmology was not related to financial incentives (n=23) 
+ Articles  excluded meeting at leas t one exclus ion criteria (N=22)
+ Reasons for exclusion:
+ 1. No Financial incentives and no opthalmology (n=5)
+ 2. Financial incentive were found but not linked to ophthalmology (n=6)
+ 3. Ophthalmology was not related to financial incentives (n=11)  
+ Papers retrieved by internet research, 
+ expert cons ultation and advanced
+ internet s earch (N=11)
+Fig. 1 search flow and results A systematic review of published literature was conducted in electronic data bases. After elimination of duplicates,
+title and abstracts of the remaining papers were reviewed. 24 full texts were reviewed leading to 13 articles, which were finally included
+Herbst and Emmert BMC Health Services Research  (2017) 17:385 Page 3 of 11
+
+[W2623285599 PDF PAGE 4]
+Table 1 Key characteristics of identified pay-for.performance programs in ophthalmology
+Year of Implementation Countries Quality measurements Object of financial
+incentives
+Empirical studies Study Score a
+MedEncentive 2004 USA (City of Duncan) Reporting Quality
+Compliance with guideline-based
+treatment recommendations
+Compliance with physicians
+instructions
+Patient satisfaction
+Physician
+Patient
+1 study:
+introduction of P4P led to
+less global expenditures
+45.8%
+Kaiser Permanente
+Northern California
+1999 USA (California) Screening rate for diabetic
+retinopathy
+Medical facility 1 study: Removal of financial
+led to a decrease in screening
+rate for diabetic retinopathy
+71.4%
+Physician Quality
+Reporting System
+(PQRS)
+2006 USA Reporting quality Physician n.a. n.a.
+ProvenCare 2006 USA Compliance with best practise
+guidelines for cataract surgery
+n.a. n.a. n.a.
+aMethodological quality of a study (study score) was measured according to Critical Appraisal Skills Programme (CASP) checklists [ 32]
+Herbst and Emmert BMC Health Services Research  (2017) 17:385 Page 4 of 11
+
+[W2623285599 PDF PAGE 5]
+Table 2 systematic comparison of quality elements according to van Herck et al
+Quality of health
+services
+Patient population Structure, process and
+outcome indicators
+Underuse and/or overuse Number of targets
+and indicators
+Best practise and
+SMART criteria a
+Risk adjustment of outcome
+measurement
+MedEncentive - cost effectiveness
+- Patient satisfaction
+and centeredness
+- licensed health plans
+- self-insured employers
+- process quality
+- outcome quality
+- based on EBM guidelines
+- targets overuse reduction
+20 - SART
+- nominal scaled quality
+indicators (no metric QI)
+Risk-adjustment for cost
+calculation
+Kaiser Permanente
+Northern California
+- patient safety - Age > 30 years
+- restricted to diabetic
+retinopathy screening
+- process quality - Risk of overuse (screening
+for diabetic retinopathy)
+1 - SART
+- nominal scaled quality
+indicators
+(no metric QI)
+- age-related risk adjustment
+Physician Quality
+Reporting System
+(PQRS)
+- Clinical quality
+measurements
+- Equity and timeliness
+- Medicare & Medicaid - process quality
+- outcome quality
+-EBM guidelines 11 - SMART - not clear
+ProvenCare - cost effectiveness
+- Equity and timeliness
+- restricted to cataract
+surgery
+- process quality
+- outcome quality
+n.a. 40 - SMRT
+(no information concerning
+achievability)
+- n.a.
+aSMART means specific, measurable, achievable, relevant and timely
+Herbst and Emmert BMC Health Services Research  (2017) 17:385 Page 5 of 11
+
+[W2623285599 PDF PAGE 6]
+No information was available regarding the frequency
+of payments (Table 3).
+In 1999, Kaiser Permanente of Northern California in-
+troduced a pay-for-performance system in 35 of their
+medical facilities. For 20 clinical quality indicators, the
+regional operations leadership specified financial incen-
+tives for reaching predefined target goals. Financial
+incentives were paid to medical facilities, which could
+autonomously determine the use of the funds (funding
+core facilities, staffing, and quality improvements).
+Concerning ophthalmology, screening for diabetic retinop-
+athy was included as one quality indicator [36] (Table 1).
+With regard to quality elements, patient safety was de-
+fined as one quality aim. According to recommendations
+of the American Diabetes Association and the American
+Academy of Ophthalmology, screening for diabetic retin-
+opathy should begin regularly for patients at the age of
+31 years [37, 38]. The quality requirements for diabetic
+retinopathy screening were considered to be met if a pa-
+tient’s visit to the optometry or ophthalmology depart-
+ment was recorded within 2 years after the end of the
+assessment year. In best practice and SMART criteria,
+measurability was fulfilled to a limited extent because of
+the nominally scaled quality indicator. Risk adjustment
+of the outcome measurement was partially implemented
+because the target group was limited to a minimum age
+of 31 years (Table 2).
+Bonus payments ( incentive elements) were imple-
+mented in 1999 as absolute top payments, which linked
+a possible bonus payment to the undertaken screening
+for diabetic retinopathy. Since only one quality indicator
+was used, no relative weights were defined. The bonus
+payments were defined as fixed amounts (Table 2).
+The Physician Quality Reporting System (PQRS)1 is an
+American P4P approach, established by the Centers for
+Medicare & Medicaid Services (CMS) in 2006. During
+the first year, the lack of financial incentives for data col-
+lecting and reporting resulted in low participation. With
+the Tax Relief and Health Care Act passed by Congress
+in 2006, financial rewards for participating physicians were
+enabled, which increased the participation in PQRS [26].
+In 2011, more than 280,229 physicians representing vari-
+ous medical disciplines have participated, receiving more
+than $261,000,000 (US) [39] (Table 1).
+Regarding the quality elements , PQRS focused on clin-
+ical quality as well as on equity and timeliness. The
+quality measures were developed by discipline-specific
+societies, analyzed by the American Medical Association
+Physician Consortium for Performance Improvement
+(AMA-PCPI) and endorsed by the National Quality
+Forum (NQF) [40]. The inclusion and exclusion of qual-
+ity measures was conducted at regular intervals. In 2013,
+203 quality measures 2 for claims were defined, of which
+11 measures (e.g., cataracts, age-related macular de-
+generation and diabetic retinopathy) were allocated to
+ophthalmology [41, 42]. Detailed information regard-
+ing the risk adjustment of outcome measures was not
+presented (Table 2).
+Financial incentives were offered by bonus and penalty
+payments. To receive bonus payments, physicians must
+report three different measures for at least 80% of their
+fee-for-service Medicare patients during the settlement
+period. The incentives were paid as “absolute rewards ”
+[43]. In 2006, the level of bonus payments for successful
+data reporting started with 1.5% of the physician ’s Medi-
+care 

@@ -1,0 +1,166 @@
+alues
+7M
+Bulbul et al.
+(2025) ( 52)
+Turkey Longitudinal,
+retrospective
+Cohort
+° PHPT (n= 119; age= 53 ± 14
+y; 78.2% female)
+Blood 1 month after PTX:
+PLR: ↑ compared to preoperative
+values
+NLR, MHR: ↓ compared to
+preoperative values
+6M
+NOS, Newcastle-Ottawa Score; ROB, risk of bias; M, medium; L, low; H, high; y, years; kg, kilograms; PTX, parathyroidectomy; HT, hemithyroidectomy; LC, lymphocyte count; WBC, white
+blood cell count; RDW, red blood cell distribution width; PLR, platelet to lymphocyte ratio; LMR, lymphocyte to monocyte ratio; Hs-CRP, High sensiti vity C-Reactive Protein; NLR, neutrophil to
+lymphocyte ratio; CRP, C-Reactive Protein; hPT, hypoparathyroidism; IL-6, interleukin-6; sIL-6R, soluble interleukin-6 receptor; IL-1 b, interleukin 1 beta; TNF- a, tumor necrosis factor alpha;
+IL-2R, receptor for interleukin-2; PHA, phytohemagglutinin; TTC, total amount of T cells; S, absolute count of CD8+ suppressor T cells; H/S, helper t o suppressor ratio; LSLT, lectin-stimulated
+lymphocyte transformation; IL-1R a, alpha subunit of IL-1 receptor; H, absolute count of CD4+ helper T cells; LPRP, lymphocyte proliferation response to phytohemagglutinin; Ig,
+immunoglobulin; ESR, erythrocyte sedimentation rate; MMP9, matrix metallopeptidase 9; sCD14, soluble CD14; RAGE, receptor for advanced glycatio n end products; SII, systemic immune
+inﬂammation index; KTR, kynurenine-to-tryptophan ratio; BTD, Benign thyroid disease; HaT, Hashimoto thyroiditis; MCP-1, monocyte chemoattractant protein-1; MHR, monocyte-to-high-
+density lipoprotein cholesterol ratio; SIRI, systemic in ﬂammation response index.
+Gheorghe-Milea et al. 10.3389/fimmu.2025.1563967
+Frontiers inImmunology frontiersin.org08
+
+[W4410972516 PDF PAGE 9]
+Almqvist et al. evaluated a cohort of PHPT patients and found
+that some displayed in ﬂammatory markers above the upper
+reference limit. Notably, the mean values of IL-6 (p < 0.001), ESR
+(p < 0.001) and CRP (p < 0.01), were higher one year after
+parathyroidectomy, compared with preoperative levels. Subgroup
+analysis revealed that the increases in IL-6 and ESR were statistically
+signiﬁcant in both parathyroid adenoma and multiglandular disease
+cases ( 38).
+No signi ﬁcant changes in CRP concentrations after
+parathyroidectomy were observed in three other studies ( 25, 44,
+49), despite higher Hs-CRP in PHPT patients compared with
+controls (p < 0.05), both pre- and postoperatively, and a positive
+correlation between PTH and Hs-CRP preoperatively (r = 0.377, p
+= 0.001) being identi ﬁed in one of the studies ( 25). Meng et al. ( 50)
+reported higher preoperative CRP levels in PHPT patients
+compared with controls (p = 0.02) as well, but similar post-
+parathyroidectomy values between the two groups.
+The Scandinavian Study on Pr imary Hyperparathyroidism
+(SIPH) enrolled 116 patients randomized into two groups
+(surgery and observation) and followed-up for two years. The
+authors found no signi ﬁcant changes in Hs-CRP during this
+observation period and no differences between the two groups
+regarding this parameter ( 33).
+In a research con ﬁned to asymptomatic PHPT, levels of Hs-
+CRP and IL-6 were signi ﬁcantly higher compared with controls (p <
+0.001) and appeared to be strongly correlated with PTH levels (Hs-
+CRP: r = 0.82, p < 0.001 and IL-6: r = 0.787, p < 0.001,
+respectively) ( 40).
+Using cross-sectional data from the Eplerenone in Primary
+Hyperparathyroidism (EPATH) Study, Verheyen et al. found
+mean baseline CRP values of 0.15 (0.6 – 2.7) mg/l in patients
+with PHPT and showed that PTH was not signi ﬁcantly correlated
+with CRP ( 41).
+Two studies assessed IL-17A levels in patients with PHPT ( 47,
+48). Dozio et al. ( 48) found similar circulating IL-17A levels in
+osteoporotic postmenopausal women with and without PHPT,
+whereas Yankova et al. ( 47) reported signi ﬁcantly elevated serum
+levels of IL-17A in PHPT patients compared with controls (p <
+0.001), and no differences between PHPT patients with and without
+Hashimoto’s thyroiditis (HaT). Both studies observed no signi ﬁcant
+differences in receptor activator of NF- kBl i g a n d( R A N K L ) ,
+osteoprotegerin (OPG), or the RANKL/OPG ratio between PHPT
+and control groups. In PHPT patients, Dozio et al. ( 48) identi ﬁed
+signiﬁcant negative correlations between IL-17A and ionized
+calcium (r = – 0.294, p = 0.047) and urinary calcium excretion (r
+= – 0.300, p = 0.045), and positive correlations with T-scores at the
+femoral neck (r = 0.364, p = 0.021) and total hip (r = 0.353, p =
+0.015). Yankova et al. ( 47) found positive correlations between IL-
+17A and calcium (r = 0.33, p < 0.001), PTH (r = 0.27, p < 0.001), and
+RANKL (r = 0.167, p = 0.03), and negative correlations with
+phosphate (r = – 0.29, p < 0.001), 25 OH vitamin D (r = – 0.26, p
+= 0.001), and OC (r = – 0.15, p = 0.05); these ﬁndings remained
+unchanged after controlling for HaT.
+Meng et al. ( 50) assessed circulating IL-10 levels and found no
+signiﬁcant differences between PHPT patients and controls, both
+pre- and postoperatively. Furthermore, no signi ﬁcant changes in IL-
+10 levels were observed following parathyroidectomy.
+Full blood count derived parameters
+In a cohort of 203 PTHP patients, Harmantepe et al. evaluated
+the following indices derived from the FBC: NLR, PLR, LMR and
+SII. PLR (p = 0.01), NLR (p < 0.05), and SII (p < 0.05) values were
+signiﬁcantly decreased in PHPT cases compared with controls,
+while no signi ﬁcant difference was found for LMR (p = 0.19). Six
+months after parathyroidectomy, NLR and SII signi ﬁcantly
+increased (p = 0.026 and p = 0.016, respectively), while LMR
+showed a signi ﬁcant decrease (p = 0.023). Despite these changes,
+no statistically signi ﬁcant differences were observed between PHPT
+patients and controls for any of the four parameters ( 45).
+In the study by Beysel et al., no signi ﬁcant differences were
+observed in platelet count and WBC between PHPT cases and
+controls. However, the lymphocyte count was signi ﬁcantly lower in
+the PHPT group (p < 0.05). PLR and RDW were signi ﬁcantly higher
+in PHPT patients, both before and after surgery, when compared
+with controls (p < 0.05), but no signi ﬁcant changes in PLR and
+RDW values were identi ﬁed following surgery in PHPT patients.
+Additionally, PTH concentration was found to be positively
+correlated with preoperative PLR (r² = 0.234, p = 0.023) and
+RDW (r² = 0.296, p = 0.004) ( 25).
+In a cohort of 95 PHPT patients ( 26), median values of 7000/ ml
+(interquartile range- IQR= 5700 – 8500) for the WBC and 2.20
+(IQR= 1.66 – 2.81) for NLR were described and both parameters
+were positively associated with serum calcium (p = 0.001) and PTH
+(p = 0.013). Moreover, the authors revealed that NLR had lower
+values in patients with more than one parathyroid gland affected
+compared with those with single gland disease (p = 0.054). The
+postoperative NLR was signi ﬁcantly lower in patients cured of
+PHPT compared with preoperative values, but the WBC and
+platelet count did not differ signiﬁcantly ( 26).
+Likewise, the NLR was signi ﬁcantly higher preoperatively in
+another study ( 30) and reported to be correlated positively with
+PTH [r = 0.519, p = 0.001 in ( 30) and r = 0.472, p = 0.006 in ( 43)],
+serum calcium [r = 0.390, p = 0.017 in ( 30) and r = 0.513, p = 0.003
+in (43)] and WBC (r = 0.531, p = 0.001 in ( 30)) and negatively with
+serum phosphate (r = -0.331, p = 0.046 in ( 30)). Zeren et al. also
+discovered a signi ﬁcant positive association between this marker
+and the diameter of parathyroid adenomas (r = 0.675, p < 0.001), or
+the presence of parathyroid carcinoma (r = 0.578, p = 0.001) ( 43).
+The effects of parathyroidectomy on FBC- derived markers
+were assessed in two additional retrospective cohort studies. Deniz
+et al. ( 51) demonstrated that SII and PLR signi ﬁcantly decreased (p
+= 0.0001) during the follow-up period, which ranged from 7 months
+to 2 years, whereas MHR (p = 0.0001) increased, and SIRI remained
+unchanged relative to preoper ative values. Moreover, RDW
+increased and NLR decreased, although these changes did not
+achieve statistical signi ﬁcance. In the study by Bulbul et al. ( 52),
+one month after parathyroidectomy, PLR (p = 0.024) was higher,
+while NLR (p = 0.011) and MHR (p = 0.019) were lower compared
+Gheorghe-Milea et al. 10.3389/fimmu.2025.1563967
+Frontiers inImmunology frontiersin.org09
+
+[W4410972516 PDF PAGE 10]
+with preoperative values. A signi ﬁcant positive correlation was
+found between postoperative PTH values and NLR (r = 0.227, p
+= 0.046) (52).
+The T- lymphocytes pattern was assessed in three patients with
+PHPT compared with controls and a lower count of total T
+lymphocytes (TTC), a higher count of T suppressor cells and a
+signiﬁcantly lower helper to suppressor ratio (H/S) were identi ﬁed
+(32). The authors also noted that the lectin-stimulated lymphocyte
+transformation (LSLT) was signi ﬁcantly inhibited in PHPT
+patients. Parathyroidectomy resulted in an increase of 10-60% in
+TTC in each patient, an increase in T helper cells (26%) and a
+signiﬁcant decrease (36.4%) in T suppressor cells, leading to a
+normalization of the H/S ratio. The LSLT increased signi ﬁcantly
+after parathyroidectomy from a mean of 12.357 ± 7.28 to a mean of
+54.803 ± 25.246 cpm (p < 0.01) when PHA was used and from 8.772
+± 5.276 to 25.403 ± 7.914 (p < 0.05) when concanavalin A was
+used ( 32).
+In the study by Kotzmann et al. ( 34), the phenotype and
+function of mononuclear cells in PHPT patients were analyzed.
+The serum immunoglobulin levels (IgG, IgM, IgA) were found to be
+within normal range, with no signi ﬁcant differences observed
+between patients with PHPT (both pre- and post-operatively) and
+controls. The authors noted signi ﬁcantly elevated levels of T helper
+cells and decreased T suppresso r cells preoperatively and
+subsequently a high H/S ratio in PHPT patients compared with
+controls. The levels of these markers were not signi ﬁcantly
+inﬂuenced by surgery. Peripheral blood lymphocytes obtained
+from patients with PHPT postoperatively were

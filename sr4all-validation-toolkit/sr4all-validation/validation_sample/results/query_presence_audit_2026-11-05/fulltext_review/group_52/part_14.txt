@@ -1,0 +1,165 @@
+o improve management. Risk Anal.
+2006, 26, 1449–1469. [CrossRef]
+194. Duintjer Tebbens, R.J.; Pallansch, M.A.; Kew, O.M.; Caceres, V .M.; Jafari, H.; Cochi, S.L.; Sutter, R.W.; Aylward, R.B.; Thompson,
+K.M. Risks of paralytic disease due to wild or vaccine-derived poliovirus after eradication. Risk Anal. 2006, 26, 1471–1505.
+[CrossRef] [PubMed]
+195. Grassly, N.C.; Jafari, H.; Bahl, S.; Sethi, R.; Deshpande, J.M.; Wolff, C.; Sutter, R.W.; Aylward, R.B. Waning intestinal immunity
+after vaccination with oral poliovirus vaccines in India. J. Infect. Dis. 2012, 205, 1554–1561. [CrossRef] [PubMed]
+196. Thompson, K.M.; Duintjer Tebbens, R.J. Modeling the dynamics of oral poliovirus vaccine cessation. J. Infect. Dis. 2014, 210
+(Suppl. 1), S475–S484. [CrossRef] [PubMed]
+
+[W4398206054 PDF PAGE 31]
+Pathogens 2024, 13, 435 31 of 31
+197. Pons-Salort, M.; Molodecky, N.A.; O’Reilly, K.M.; Wadood, M.Z.; Safdar, R.M.; Etsano, A.; Vaz, R.G.; Jafari, H.; Grassly, N.C.;
+Blake, I.M. Population immunity against serotype-2 poliomyelitis leading up to the global withdrawal of the oral poliovirus
+vaccine: Spatio-temporal modelling of surveillance data. PLOS Med. 2016, 13, e1002140. [CrossRef]
+198. Grassly, N.C. Immunogenicity and effectiveness of routine immunization with 1 or 2 doses of inactivated poliovirus vaccine:
+Systematic review and meta-analysis. J. Infect. Dis. 2014, 210 (Suppl. 1), S439–S446. [CrossRef] [PubMed]
+199. Macklin, G.; Liao, Y.; Takane, M.; Dooling, K.; Gilmour, S.; Mach, O.; Kew, O.M.; Sutter, R.W.; iVDPV Working Group.
+Prolonged excretion of poliovirus among individuals with primary immunodeficiency disorder: An analysis of the World Health
+Organization registry. Front. Immunol. 2017, 8, 1103. [CrossRef] [PubMed]
+200. Taniuchi, M.; Famulare, M.; Zaman, K.; Uddin, M.J.; Upfill-Brown, A.M.; Ahmed, T.; Saha, P .; Haque, R.; Bandyopadhyay, A.S.;
+Modlin, J.F.; et al. Community transmission of type 2 poliovirus after cessation of trivalent oral polio vaccine in Bangladesh: An
+open-label cluster-randomised trial and modelling study. Lancet Infect. Dis. 2017, 17, 1069–1079. [CrossRef]
+201. Parker, E.P .; Molodecky, N.A.; Pons-Salort, M.; O’Reilly, K.M.; Grassly, N.C. Impact of inactivated poliovirus vaccine on mucosal
+immunity: Implications for the polio eradication endgame. Expert Rev. Vaccines 2015, 14, 1113–1123. [CrossRef] [PubMed]
+202. Mangal, T.D.; Aylward, R.B.; Grassly, N.C. The potential impact of routine immunization with inactivated poliovirus vaccine on
+wild-type or vaccine-derived poliovirus outbreaks in a posteradication setting. Am. J. Epidemiol. 2013, 178, 1579–1587. [CrossRef]
+[PubMed]
+203. Shirreff, G.; Wadood, M.Z.; Vaz, R.G.; Sutter, R.W.; Grassly, N.C. Estimated effect of inactivated poliovirus vaccine campaigns,
+Nigeria and Pakistan, January 2014–April 2016. Emerg. Infect. Dis. 2017, 23, 258–263. [CrossRef]
+204. Grassly, N.C.; Wadood, M.Z.; Safdar, R.M.; Mahamud, A.S.; Sutter, R.W. Effect of inactivated poliovirus vaccine campaigns,
+Pakistan, 2014–2017. Emerg. Infect. Dis. 2018, 24, 2113–2115. [CrossRef] [PubMed]
+205. Thompson, K.M.; Duintjer Tebbens, R.J. Retrospective cost-effectiveness analyses for polio vaccination in the United States. Risk
+Anal. 2006, 26, 1423–1440. [CrossRef] [PubMed]
+206. Duintjer Tebbens, R.J.; Sangrujee, N.; Thompson, K.M. The costs of future polio risk management policies.Risk Anal. 2006, 26,
+1507–1531. [CrossRef] [PubMed]
+207. Duintjer Tebbens, R.J.; Pallansch, M.A.; Kew, O.M.; Sutter, R.W.; Bruce Aylward, R.; Watkins, M.; Gary, H.; Alexander, J.; Jafari, H.;
+Cochi, S.L.; et al. Uncertainty and sensitivity analyses of a decision analytic model for posteradication polio risk management.
+Risk Anal. 2008, 28, 855–876. [CrossRef] [PubMed]
+208. Sangrujee, N.; Duintjer Tebbens, R.J.; Caceres, V .M.; Thompson, K.M. Policy decision options during the first 5 years following
+certification of polio eradication. MedGenMed 2003, 5, 35. [PubMed]
+209. Duintjer Tebbens, R.J.; Thompson, K.M. Modeling the potential role of inactivated poliovirus vaccine to manage the risks of oral
+poliovirus vaccine cessation. J. Infect. Dis. 2014, 210 (Suppl. 1), S485–S497. [CrossRef] [PubMed]
+210. Kalkowska, D.A.; Duintjer Tebbens, R.J.; Thompson, K.M. Modeling strategies to increase population immunity and prevent
+poliovirus transmission in the high-risk area of northwest Nigeria. J. Infect. Dis. 2014, 210 (Suppl. 1), S412–S423. [CrossRef]
+[PubMed]
+211. Pons-Salort, M.; Burns, C.C.; Lyons, H.; Blake, I.M.; Jafari, H.; Oberste, M.S.; Kew, O.M.; Grassly, N.C. Preventing vaccine-derived
+poliovirus emergence during the polio endgame. PLoS Pathog. 2016, 12, e1005728. [CrossRef] [PubMed]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+END REVIEW W4398206054
+
+
+REVIEW W4398775444
+TITLE: Effectiveness of Ozonated Water on Gingivitis: A Systematic Review
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4398775444 PDF PAGE 1]
+Received
+ 05/10/2024 
+Review began
+ 05/14/2024 
+Review ended
+ 05/23/2024 
+Published
+ 05/24/2024
+© Copyright 
+2024
+Bansode et al. This is an open access
+article distributed under the terms of the
+Creative Commons Attribution License CC-
+BY 4.0., which permits unrestricted use,
+distribution, and reproduction in any
+medium, provided the original author and
+source are credited.
+DOI:
+ 10.7759/cureus.61006
+Effectiveness of Ozonated Water on Gingivitis: A
+Systematic Review
+Priyanka Bansode 
+, 
+Satyalakshmi K 
+, 
+Sathyanath D 
+, 
+Shrikanth Muralidharan 
+1.
+ Dentistry, Private Practice, Pune, IND 
+2.
+ Naturopathy and Yoga, National Institute of Naturopathy, Pune, IND 
+3.
+Research, National Institute of Naturopathy, Pune, IND
+Corresponding author: 
+Shrikanth Muralidharan, 
+shrikanthmuralidharan23@gmail.com
+Abstract
+Ozone has been used as an antibacterial agent for various purposes in healthcare. The use of ozone in dental
+practice is also well-established. Its utilization as a mouth rinse needs to be explored for further application
+in clinical practice, especially for cases of gingivitis, a common complaint. This systematic review aims to
+analyze the literature on the effects of ozonated water in managing gingival inflammation and bleeding
+across diverse populations. A systematic search adhering to Preferred Reporting Items for Systematic
+Reviews and Meta-Analyses (PRISMA) guidelines was conducted in PubMed, MEDLINE, Embase, and
+Cochrane. Studies published between January 2012 and December 2023 employing ozonated water as a
+treatment for gingivitis or gingival bleeding were included. Five studies met the inclusion criteria,
+demonstrating the varied efficacy of ozonated water. While some studies showed promising results in
+reducing bleeding and gingival inflammation, others indicated limitations compared to chlorhexidine.
+Methodological heterogeneity and lack of standardization were notable. The evidence suggests potential
+benefits of ozonated water in managing gingival inflammation and bleeding, but methodological variations
+hinder conclusive findings. Long-term studies with larger sample sizes and standardized protocols are
+needed to establish the effectiveness of ozonated water as an adjunctive therapy for gingival health.
+Categories:
+ Dentistry
+Keywords:
+ rct, clinical trials, review, ozonated water, gingival bleeding
+Introduction And Background
+Oral diseases represent a significant global health concern, with a well-established bidirectional
+relationship between systemic health and oral cavity status 
+[1]
+. Conditions like diabetes mellitus,
+cardiovascular diseases, and respiratory disorders can manifest initial symptoms within the oral cavity,
+highlighting the critical link between oral and overall health. Therefore, maintaining optimal oral health is
+crucial for preventing and promoting overall well-being 
+[1]
+. Gingivitis and periodontitis are inflammatory
+oral diseases triggered by the accumulation of microbial biofilms on tooth surfaces, commonly called dental
+plaque 
+[2,3]
+. Gingivitis signifies the initial inflammatory response of oral tissues to dental plaque,
+characterized by gingival redness, edema, and bleeding on probing 
+[2]
+. When left untreated, gingivitis can
+progress to periodontitis, a more severe condition involving progressive alveolar bone loss and potential
+tooth loss 
+[4]
+. Historically, dental interventions focused primarily on invasive treatments rather than
+preventive measures. However, contemporary approaches emphasize the importance of preventive
+strategies for optimal oral health 
+[1]
+. Plaque management, a cornerstone of preventive oral care, relies on
+mechanical procedures and specific chemical agents.
+ While tooth brushing is a widely recommended mechanical method, chemical approaches often use anti-
+plaque agents containing chlorhexidine or alcohol 
+[5]
+. However, the emergence and increasing prevalence of
+antimicrobial resistance against these conventional agents necessitate exploring alternative strategies 
+[5]
+.
+Ozone, a naturally occurring trioxygen gas known for its protective role against ultraviolet radiation, also
+possesses noteworthy medicinal properties 
+[6]
+. Notably, ozone dissolved in water decomposes rapidly into
+highly reactive hydroxyl radicals with potent oxidizing capabilities 
+[7]
+. These properties confer ozone with
+diverse therapeutic effects, including bactericidal, virucidal, fungicidal, immune-modulatory, and anti-
+inflammatory benefits, making it an attractive option for various dental applications 
+[6]
+. Gingivitis
+prevalence increases in individuals with predisposing factors, such as diabetes and smoking 
+[8]
+. With its
+broad-spectrum antimicrobial activity and lower toxicity than conventional agents, ozonated water presen

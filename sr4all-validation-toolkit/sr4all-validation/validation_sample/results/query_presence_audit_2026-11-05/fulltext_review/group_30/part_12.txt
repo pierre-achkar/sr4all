@@ -1,0 +1,600 @@
+
+nosed patients (ie, diagnosed within first three months of 
+life) were included. Studies that did not report whether 
+the treatment was implemented at an early or late age 
+were excluded from the meta-analysis as well as those 
+that did not separate data for the early- or late-diagnosed 
+patients.
+Since we expected that there were both clinical and 
+methodological differences among the included studies, 
+a random-effects model [12] was used to perform the 
+pooled analysis of proportions [10, 11]. The meta-analy -
+sis was performed with the StatsDirect software, version 
+2.8.0. (StatsDirect Ltd, Altrincham, Cheshire, UK).
+Results
+Study selection
+Our initial searches identified 3917 citations (n = 3854 
+from electronic searches; n = 63 identified through the 
+gray literature). After removing duplicates from differ -
+ent databases, 3081 potentially relevant articles were fur -
+ther assessed using title and abstract review. A total of 
+202 articles were identified for full text assessment. After 
+screening the full texts, we included 79 studies with 11 
+further publications (ie, multiple publications of the same 
+set of patients) (47 cross-sectional studies, 18 case series, 
+12 case reports, and two retrospective cohort studies) 
+with a total of 4090 patients [7, 18-17-106]. The reasons 
+for exclusion are listed in the PRISMA flow diagram 
+
+[W4288748748 PDF PAGE 4]
+Page 4 of 36Pessoa et al. Orphanet Journal of Rare Diseases          (2022) 17:302 
+(Fig. 1). When studies were presented in more than one 
+publication, all applicable references were included.
+Six of the included studies were published only as an 
+abstract [13–19], ten studies as a thesis [20–29], and the 
+majority (n = 57) were published as full-text in peer-
+reviewed journals [14, 28, 30–74]. Seven further studies 
+[27, 29, 75–79] were published initially as a thesis fol -
+lowed by a full-text publication [34, 43, 80–83]. When 
+information regarding risk of bias or other aspects 
+related to study criteria were unavailable in the methods, 
+we attempted to contact study authors for additional 
+information.
+Study characteristics
+Sixty-four of the 79 included studies reported at least one 
+patient-important outcome at individual or population 
+level, and they are displayed in Table  1 for study char -
+acteristics. Regarding study design, 18 were case series 
+[22, 23, 33, 34, 40–42, 45, 54, 55, 58, 60, 70, 84–87], 47 
+cross-sectional studies [6, 7, 13–15, 17–21, 24, 26, 29, 30, 
+Records identified through
+database searching
+(n = 3,854)
+ProQuest = 1,449
+PubMed = 913
+Web of Science = 602
+LILACS = 252
+Scopus = 330
+Scielo = 136
+IBECS = 51
+CUMED = 51
+BVS = 61
+BINACS = 17
+LIS = 10
+BRISA = 6
+BBO = 4
+BDENF = 4
+EMBASE = 16
+IndexPsico = 3
+WHO IRIS = 3
+Additional records identified 
+through other sources
+(n = 63)
+Brazilian Digital Library of 
+Theses and Dissertations (BDTD) = 10
+Catalog of Theses and 
+Dissertations = 8
+Digital Library of Theses and 
+Dissertations of the University of 
+São Paulo = 1
+Public Domain Portal = 42
+Mexico National Institute of 
+Pediatrics website = 2
+Records screened
+(n = 3,081)
+Records excluded
+(n = 2,879)
+Records after duplicates removed
+(n = 3,081)
+Full-text articles assessed
+for eligibility
+(n = 202)
+Full-text articles excluded
+(n = 112)
+n = 51 non LATAM
+n = 39 Europe 
+n = 7 North America
+n = 2 Asia
+n = 2 Euroasia
+n = 1 Africa
+n = 33 duplicates
+n = 22 off topic
+n = 4 review
+n = 1 editor letter
+n = 1 phenylketonuria and 
+West syndrome
+Identification
+Studies included in
+narrative description
+(n = 79 unique studies
+with 11 further publications)
+n = 47 cross-sectional studies
+n = 18 case series 
+with 11 further publications  
+n = 12 case reports
+n = 2 cohort studies
+Studies included in
+the meta-analysis
+(n = 35)
+Screening
+Eligibility
+Included
+Fig. 1 PRISMA flow diagram
+
+[W4288748748 PDF PAGE 5]
+Page 5 of 36
+Pessoa et al. Orphanet Journal of Rare Diseases          (2022) 17:302 
+ 
+Table 1 All LATAM PKU studies evaluating at least one of the pre-specified patient-important or economic burden outcomes (N = 64)
+Author, 
+year
+LATAM 
+country
+#of 
+patients
+Age, 
+ Mean¥ 
+(SD), y
+Female 
+(%)
+Phenotype 
+(%)
+Exclusion 
+criteria
+Individual 
+and/or 
+population 
+outcomes
+Type of 
+burden 
+outcomes
+Specific 
+outcomes
+Early or late 
+diagnosed**
+Specify 
+the type of 
+treatment
+Age (days) 
+at start of 
+treatment
+Follow-up 
+(months)
+Reasons why 
+the study was 
+excluded from 
+the analysis
+Benítez 
+et al. 2001 
+[32]
+Uruguay 2 12 0.0 NR NR Individual 
+and eco-
+nomic
+Neurological, 
+neurocogni-
+tive and 
+neuropsychi-
+atric impair-
+ments
+Mental disor-
+ders—repeti-
+tive behaviors 
+(rocking, 
+flapping, 
+etc.); motor 
+deficits—
+march with 
+aid; speech 
+deficits—only 
+emits a word
+NR NR NR NR Not included 
+as did not 
+report whether 
+the treatment 
+was imple-
+mented at an 
+early or late age
+Bernal, 
+2017 [33]
+Argentina 3 NR 100.0 NR (66.66) 
+and classic 
+(33.33)
+NR Individual 
+and eco-
+nomic
+Patient 
+adherence 
+to clinical 
+recommen-
+dations
+NR Early (66.7%) 
+and late 
+(33.3%)
+Phe-
+restricted 
+diet
+3.80** NR Not included as 
+did not report 
+data separately 
+for early versus 
+late treated
+Neurological, 
+neurocogni-
+tive and 
+neuropsychi-
+atric impair-
+ments
+Speech defi-
+cits; intellec-
+tual disability; 
+aggressive-
+ness; low 
+frustration 
+tolerance
+Cornejo 
+et al. 1995 
+[42] $
+Chile 17 18.8 NR NR NR Individual Neurological, 
+neurocogni-
+tive and 
+neuropsychi-
+atric impair-
+ments
+Slight retarda-
+tion; normal 
+mental devel-
+opment
+Early Phe-
+restricted 
+diet and 
+education 
+program
+20.3**· NR Included in 
+Fig. 3D
+Cornejo 
+et al. 2003 
+[41] $
+Chile 19 19.9¢ 52.63 NR NR Individual Neurological, 
+neurocogni-
+tive and 
+neuropsychi-
+atric impair-
+ments
+Low motor 
+development
+Early Direct breast 
+feeding, and 
+a special 
+formula 
+without Phe
+19.9** 6 Included in 
+Fig. 3E
+Cornejo 
+et al. 2012 
+[40] $
+Chile 184 0 to 20₠ 46.73 Classic and 
+moderate 
+(NR)
+NR Individual Overweight 
+and obesity
+– Early Phe-
+restricted 
+diet and 
+education 
+program
+18 NR Included in 
+Fig. 4A and B
+Neurological, 
+neurocogni-
+tive and 
+neuropsychi-
+atric impair-
+ments
+Average 
+total IQ in 
+preschoolers, 
+schoolers and 
+teenagers
+
+[W4288748748 PDF PAGE 6]
+Page 6 of 36Pessoa et al. Orphanet Journal of Rare Diseases          (2022) 17:302 
+Table 1 (continued)
+Author, 
+year
+LATAM 
+country
+#of 
+patients
+Age, 
+ Mean¥ 
+(SD), y
+Female 
+(%)
+Phenotype 
+(%)
+Exclusion 
+criteria
+Individual 
+and/or 
+population 
+outcomes
+Type of 
+burden 
+outcomes
+Specific 
+outcomes
+Early or late 
+diagnosed**
+Specify 
+the type of 
+treatment
+Age (days) 
+at start of 
+treatment
+Follow-up 
+(months)
+Reasons why 
+the study was 
+excluded from 
+the analysis
+Diament 
+& Lefevre, 
+1967 [45]
+Brazil 6 4.36 66.66 NR NR Individual Neurological, 
+neurocogni-
+tive and 
+neuropsychi-
+atric impair-
+ments
+Irritability; 
+language 
+delay; mental 
+retardation; 
+hyperactive 
+patient
+Late Phe-
+restricted 
+diet
+NR NR Not included 
+as population 
+was not early 
+diagnosed/
+treated
+Figueira, 
+2018 [22] $
+Brazil 78 9.2 59.0 Classic (100.0) Patients with 
+less than 4 
+consultations 
+in medical 
+records and 
+whose medical 
+records are not 
+filled out
+Individual Patient 
+adherence 
+to clinical 
+recommen-
+dations
+Non-
+adherence to 
+Phe-restricted 
+diet
+Early (56.4%) 
+and late (43.6)
+Phe-
+restricted 
+diet
+NR NR Included in 
+Figs. 3C, E, F, 
+and 4E
+Not included as 
+did not report 
+data separately 
+for early versus 
+late treated
+Neurological, 
+neurocogni-
+tive and 
+neuropsychi-
+atric impair-
+ments
+Learning 
+disability; 
+neuropsy-
+chomotor 
+development 
+delay; neu-
+romotor 
+restriction; 
+aggressivenes; 
+autistic 
+behaviour; 
+speech 
+deficits
+Gelvez 
+et al. 2016 
+[54]
+Colombia 4 13 75.0 Classic (100.0) NR Individual 
+and eco-
+nomic
+Neurological, 
+neurocogni-
+tive and 
+neuropsychi-
+atric impair-
+ments
+Speech defi-
+cits; neuropsy-
+chomotor 
+development 
+delay; aggres-
+siveness; 
+anxiety; atten-
+tion deficit 
+symptoms; 
+executive 
+function 
+deficit
+Late Phe-
+restricted 
+diet and 
+education 
+program
+13** NR Not included 
+as population 
+was not early 
+diagnosed/
+treated
+Skin prob-
+lems
+Hypopigmen-
+tation
+Socio-
+economic 
+impact
+Poor school 
+performance
+
+[W4288748748 PDF PAGE 7]
+Page 7 of 36
+Pessoa et al. Orphanet Journal of Rare Diseases          (2022) 17:302 
+ 
+Table 1 (continued)
+Author, 
+year
+LATAM 
+country
+#of 
+patients
+Age, 
+ Mean¥ 
+(SD), y
+Female 
+(%)
+Phenotype 
+(%)
+Exclusion 
+criteria
+Individual 
+and/or 
+population 
+outcomes
+Type of 
+burden 
+outcomes
+Specific 
+outcomes
+Early or late 
+diagnosed**
+Specify 
+the type of 
+treatment
+Age (days) 
+at start of 
+treatment
+Follow-up 
+(months)
+Reasons why 
+the study was 
+excluded from 
+the analysis
+Jiménez-
+Péres et al. 
+2015 [55] $
+Mexico 6 7 33.33 Classic (100.0) NR Individual Neurological, 
+neurocogni-
+tive and 
+neuropsychi-
+atric impair-
+ments
+Global 
+neurode-
+velopment 
+impairment
+Late NR 690 NR Included in 
+Fig. 4C
+Not included 
+as population 
+was not early 
+diagnosed/
+treatedSkin prob-
+lems
+Eczema skin; 
+lightening of 
+the skin
+Lamônica 
+et al. 2012 
+[58] $
+Brazil 10 NR 40.0 NR Chronic disease Individual Executive 
+function 
+deficit
+Receptive 
+auditory, 
+expressive 
+auditory and 
+visual func-
+tions
+Early Phe-
+restricted 
+diet and 
+mixed 
+formula
+Before 
+30 days of 
+life
+NR Included in 
+Figs. 3A, C; 4D, 
+and 5
+Mahfoud 
+et al. 2008 
+[60] $
+Venezuela 5 NR 40.0 Classic (60.0) 
+and mild 
+(40.0)
+NR Individual Neurological, 
+neurocogni-
+tive and 
+neuropsychi-
+atric impair-
+ments
+Global 
+development 
+impairment; 
+isolation; 
+hyperactiv-
+ity; speech 
+deficits
+Early Phe-
+restricted 
+diet and 
+special 
+formula
+480 NR Included in 
+Fig. 3A, C, F, 
+and 4D
+Executive 
+function 
+deficit
+Irritability; 
+sleeping 
+disorder
+Martins, 
+2007 [23]
+Brazil 15 9 to 29₠ 66.7 NR NR Individual Overweight 
+and obesity
+– NR Phe-
+restricted 
+diet
+NR 6 Not included 
+as did not 
+report whether 
+the treatment 
+was imple-
+mented at an 
+early or late age
+Osteopenia Osteopenia
+Queiroz 
+& Pondé, 
+2015 [84]
+Brazil 8 NR 37.5 NR NR Individual Neurological, 
+neurocogni-

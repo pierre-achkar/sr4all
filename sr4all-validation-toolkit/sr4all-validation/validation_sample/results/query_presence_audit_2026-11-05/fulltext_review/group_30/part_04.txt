@@ -1,0 +1,184 @@
+gypt †
+Objective: The present systematic review aimed to determine cephalometric values that may be used as a guide in deciding 
+between orthodontic camouflage and orthognathic surgery to treat a Class III malocclusion in adults. In addition, a secondary 
+aim was to identify treatment complications and aesthetic perceptions by laypersons/orthodontists.
+Methods: Without a language restriction, an electronic search of six databases and a hand search of three orthodontic journals 
+were performed until September 2021. All studies comparing orthodontic camouflage and orthognathic surgery in Class III 
+malocclusion patients, were included. Data extraction was carried out independently by two authors with disagreement resolved 
+by a third author. The risk of bias related to individual studies was appraised using a modified version of the STROBE checklist. 
+The results were summarised qualitatively, and no meta-analysis was undertaken due to the high heterogeneity between the 
+studies.
+Results: With the quality of evidence ranging from moderate to high, six retrospective studies were included. A cephalometric 
+analysis comprising the Holdaway angle, overjet, the Wits appraisal, lower incisor inclination, the maxillary-mandibular ratio, 
+overbite, gonial angle and an additional combination were used as a guide. No treatment complications were reported. One 
+study examined the perception of facial profile attractiveness in borderline surgical Class III malocclusions and found no difference 
+in outcome and significant improvements in both camouflage and surgical groups.
+Conclusion: The existing evidence is insufficient to identify a cephalometric parameter threshold in deciding between orthodontic 
+camouflage and orthognathic surgery. PROSPERO database protocol no. CRD42020165164.
+(Aust Orthod J 2022; 38: 183 - 193. DOI: 10.2478/aoj-2022-0021)
+Received for publication: February, 2022 
+Accepted: June, 2022
+Saritha Sivarajan: saritha@um.edu.my;  Nor Nadia Zakaria: nornadiazakaria@um.edu.my;  Noor Asyikin Azmily: asyikinazmily@gmail.com;   
+Mang Chek Wey: weymc@um.edu.my; Mohamed Abd El-Ghafour: m.abdelghafour@dentistry.cu.edu.eg;  
+Mona M. Salah Fayed: mona.fayed@dentistry.cu.edu.eg
+Introduction
+A Class III malocclusion presents with a variety of 
+skeletal and dental features, which may include a large 
+or protrusive mandible, a retrusive maxilla, a protrusive 
+mandibular dentition, a retrusive maxillary dentition, 
+and any combination of these characteristics. 1 The 
+aetiology of a Class III malocclusion can either be 
+classified as genetic/hereditary or environmental. 
+In contrast to a Class II malocclusion, the heredi -
+tary influences on the development of a Class III  
+malocclusion are more profound 2 but the most 
+important aetiological factor is the skeletal relation -
+ship. Based on cephalometric studies, a Class III 
+malocclusion may have an increase in mandibular 
+length, coupled with an anterior positioning of the 
+glenoid fossa so that the condylar head is positioned 
+
+[W4285411096 PDF PAGE 2]
+184  Australasian Orthodontic Journal Volume 38 No. 2 2022
+SIVARAJAN, ZAKARIA, AZMILY, WEY, EL-GHAFOUR AND SALAH FAYED
+more anteriorly to promote mandibular prognathism. 
+A reduction in maxillary length and a retruded 
+position of the maxilla also lead to a Class III skeletal 
+pattern. However, of the described features, an increase 
+in mandibular length and an anterior positioning of 
+the glenoid fossa are more influential in the creation of 
+a Class III malocclusion.3
+The treatment options for a Class III malocclusion 
+are growth modification, orthodontic camouflage, 
+or a combination of orthodontics and orthognathic 
+surgery. All of these modalities can achieve satis -
+factory improvements depending on the planning 
+and execution of treatment. 4 Recent studies have 
+investigated the prognostic approach as a treatment 
+decision tool in young Class III patients.5–7 In adults, 
+a treatment decision between orthodontic camouflage 
+and orthognathic surgery for Class III malocclusion 
+management has been a major challenge as the 
+decision is complicated by many factors that need 
+careful consideration.
+Patients seek orthognathic surgery for a variety 
+of reasons, the most common of which are an im -
+provement in facial and dental aesthetics, along 
+with an improvement in oral function. 8 However, 
+surgical intervention has associated risks related to 
+intra-operative complications such as an inadequate 
+osteotomy, haemorrhage due to vascular injuries, 
+nerve exposure and damage, dental injuries, and soft 
+tissue changes. Surgery also has several post-operative 
+complications such as paraesthesia, infection, relapse, 
+temporomandibular disorders, and malunion or non-
+union of bone sites. Therefore, the correct treatment 
+decision between camouflage or orthognathic surgery 
+is crucial.9
+Orthognathic surgery is usually performed at an 
+older age once facial growth has been completed or 
+is about to cease. This is to ensure that the surgical 
+planning is more accurate, favourable and stable 
+results are achieved without post-surgical growth 
+interference. The consideration of maturation is still 
+controversial because chronological and dental age 
+do not necessarily correlate with skeletal growth. 
+The earliest age to commence orthognathic surgery is 
+14.9 years for females and 16.3 years for males. 10 The 
+latest age for orthognathic surgery in both genders is 
+between 50 and 64 years. 10 In the management of a 
+Class III skeletal discrepancy, clinicians tend to delay 
+surgical treatment as there is potential for continuing 
+mandibular maturation until the age of 20 years or 
+beyond. A recent time series analysis indicated the 
+median age of orthognathic surgery is at 22 years. 11
+Proffit and Ackermann presented the concept of three 
+envelopes of tooth movement for orthodontic treatment 
+alone, orthodontic treatment associated with growth, 
+and that associated with surgical treatment.12 However, 
+the criteria still remain insufficient to determine 
+a definitive treatment option. Several studies have 
+shown that a baseline lateral cephalometric analysis 
+is pivotal to develope a precise diagnosis and surgical 
+plan.4,13 –15 An early study, that was based on 40 pre-
+treatment lateral cephalometric films of a Caucasian 
+population, found a value of  −4° for the ANB angle, 
+83° for the inclination of the lower incisors to the 
+mandibular plane and 3.5° for the Holdaway angle 
+designates a threshold of corrective possibility for a 
+Class III malocclusion using orthodontic appliances.13 
+However, taking the overlap of box-and-whisker plots 
+as critical values for the treatment decision is not an 
+accepted scientific statistical method. 14 More recent 
+studies employed stepwise discriminative analysis to 
+determine treatment modalities in borderline Class III 
+malocclusion cases.4,14,15 A study based on a Southern 
+Chinese population found that a Holdaway (H) angle 
+greater than 12° could be successfully treated by 
+orthodontics alone4 and Eslami et al. recommended 
+an H angle greater than 10.3° and a Wits appraisal 
+greater than −5. 8 mm as a guide for cases that could 
+be successfully camouflaged.15
+However, to date, there has been no systematic 
+review which has examined the cephalometric 
+threshold values for Class III malocclusion treatment 
+options. Therefore, the present review aimed to 
+determine whether there are critical cephalometric 
+measurements that can be used as a guide to decide 
+whether orthodontic camouflage or orthognathic 
+surgery is appropriate in the management of a Class 
+III malocclusion.
+Objectives
+The objectives of the systematic review and meta-
+analysis were to evaluate available evidence related 
+to the cephalometric values which act as a guide for 
+the determination of optimal treatment by either 
+orthodontic camouflage or orthognathic surgery in 
+adult Class III malocclusion patients. In addition, a 
+secondary aim was to report the complications of each 
+treatment option (gingival recession, root resorption, 
+
+[W4285411096 PDF PAGE 3]
+Australasian Orthodontic Journal Volume 38 No. 2 2022  185
+CEPHALOMETRIC PARAMETERS IN TREATING BORDERLINE CLASS III MALOCCLUSION
+dehiscence, tooth mobility, tooth sensitivity and black 
+triangles) and aesthetic perceptions by laypersons/
+orthodontists.
+Materials and methods
+Protocol and registration
+The current systematic review was conducted in ac -
+cordance with the Cochrane Handbook for System -
+atic Reviews of Interventions and reported following 
+the Preferred Reporting Items for Systematic Reviews 
+and Meta-Analyses (PRISMA). The review protocol 
+was submitted in March 2020 and registered with 
+the OSF/Center for Open Science. The review was 
+also submitted in January 2020 and was successful -
+ly registered with the National Institute of Health 
+Research Database (https:// www.crd.york.ac.uk/
+prospero/; trial registration number: PROSPERO 
+CRD42020165164 in July 2020.
+Eligibility criteria
+The PICO for the study was:
+•	 Population: Adult patients aged 18 years and older  
+presenting with a Class III malocclusion
+•	 Intervention: Orthognathic surgery
+•	 Comparison: Orthodontic camouflage
+•	 Outcome:
+1. Primary outcomes: To determine the cephalo -
+metric threshold values to serve as guides for the 
+best treatment option, whether orthodontic cam -
+ouflage or orthognathic surgery in adult Class III 
+malocclusion patients.
+2. Secondary outcome: To report the complications 
+associated with orthodontic camouflage and or -
+thognathic surgery (gingival recession, root resorp-
+tion, dehiscence, tooth mobility, tooth sensitivity 
+and black triangles) and aesthetic perceptions by 
+laypersons/orthodontists.
+Study design
+Included were randomised controlled trials (RCTs), 
+quasi-randomised, prospective studies, retrospective 
+cohort, and cross-sectional studies in the present search. 
+Non-human studies (animal or laboratory studies) and 
+studies on patients with craniofacial malfo

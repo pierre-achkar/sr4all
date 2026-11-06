@@ -1,0 +1,192 @@
+egnancy (risk difference − 0.01, 95% 
+CI 0.24 to 0.23;  I2 63.72%) (Fig. 3).
+Fifty-three antenatal studies [24, 25, 27–35, 37, 43, 45, 
+46, 48, 49, 51, 53, 54, 57–59, 61–67, 69–72, 74–76, 80, 
+81, 84, 91–93, 95–97, 99, 102–107] reported the effect 
+of a behavioural intervention during pregnancy on the 
+development of GDM with 52 of those included in the 
+meta-analysis (Additional file  1: Table  A6). One study 
+was considered insufficiently  homogenous  to be pooled 
+for meta-analysis and was excluded from the analysis 
+since only brief dietary intervention (5 min) was provided 
+as part of the multidisciplinary approach [75]. In the 34 
+studies that examined the effect of combined diet and PA 
+interventions on GDM risk [30–35, 37, 43, 48, 51, 53, 58, 
+59, 61, 63, 65–67, 69–71, 74, 76, 84, 91–93, 95, 96, 99, 102, 
+105–107], women who received the intervention were 3% 
+less likely to develop GDM (risk difference − 0.03, 95% 
+CI 0.06 to − 0.01;  I2 58.69%) with significant heterogeneity 
+across studies (Fig.  4). Nine studies of diet only [24, 28, 
+29, 46, 49, 57, 76, 81, 103] (Fig.  5) and twelve of PA only 
+[25, 27, 43, 45, 54, 62, 64, 72, 76, 80, 97, 104] interven -
+tions (Fig.  6), showed no significant difference in GDM 
+risk (risk difference − 0.01, 95% CI 0.05 to 0.02;  I2 48.72 
+and − 0.04, 95% CI 0.09 to 0.01;  I2 38.76% respectively).
+In the subgroup analyses, three antenatal stud -
+ies that used combined diet and PA interventions for 
+women who had ≥ 2 risk factors reduced GDM risk (risk 
+
+[W4390583438 PDF PAGE 6]
+Page 6 of 16Quotah et al. Diabetology & Metabolic Syndrome            (2024) 16:8 
+difference − 0.16, 95% CI 0.25 to − 0.07;  I2 11.23%; Fig.  7). 
+There was no effect in sub-group analyses for BMI as 
+the only risk factor (combined diet and PA: risk differ -
+ence − 0.02, 95% CI − 0.05 to 0.00;  I2 51.50%; diet only: 
+risk difference − 0.02, 95% CI − 0.07 to 0.03;  I2 22.43%; 
+PA only: risk difference − 0.03, 95% CI − 0.12 to 0.05;  I2 
+49.46%; Fig. 8).
+Supplementation interventions (inositols, vitamin D, 
+probiotics, fibre)
+There were 19 studies [28, 36, 38, 39, 42, 44, 52, 60, 68, 
+73, 77–79, 82, 83, 94, 98, 100, 101] that assessed the 
+effect of dietary supplementation on risk of GDM dur -
+ing pregnancy and all were pooled in the meta-analysis 
+(Additional file  1: Table  A6). Nine used inositol [38, 39, 
+44, 68, 78, 79, 82, 83, 100] and three vitamin D [52, 94, 
+101]; both of which reduced risk of GDM (risk differ -
+ence − 0.19, 95% CI 0.33 to − 0.06;  I2 92.19 and − 0.16, 95% 
+CI 0.25 to − 0.06;  I2 32.27% respectively); however, there 
+was significant heterogeneity among the inositol inter -
+ventions (Fig.  9, 10). Two studies that tested the use of 
+fibre [42, 73] showed a reduction in GDM (risk differ -
+ence − 0.13, 95% CI 0.25 to − 0.02;  I2 0.01%; Fig. 11). There 
+was no evidence of an effect of probiotic use on the pre -
+vention of GDM (risk difference 0.03, 95% CI 0.01 to 0.07; 
+ I2 0.01%; Fig.  12). In the subgroup analysis, four studies 
+used inositol interventions where BMI was the only risk 
+factor and demonstrated a reduction in GDM (risk differ-
+ence − 0.17, 95% CI 0.22 to − 0.11;  I2 0.01%; Fig.  8). It was 
+not possible to perform a sub-group analysis due to lack 
+of supplementation studies among women with multiple 
+risk factors.
+Pharmacological intervention
+There were eleven studies [40, 41, 47, 50, 85–90, 108] 
+that evaluated the effect of metformin on GDM and all 
+were included in the meta-analysis (Additional file  1: 
+Table  A6). There was no significant effect of metformin 
+in the prevention of GDM either overall (risk differ -
+ence − 0.00, 95% CI − 0.04 to 0.03;  I2 8.82%; Fig.  13) or 
+in the  subgroup analyses of women with multiple risk 
+factors (risk difference − 0.03, 95% CI − 0.37 to 0.30;  I2 
+Fig. 2 Quality assessment of intervention studies using Cochrane 
+RoB 2- tool
+Fig. 3 The effects of pre-pregnancy combined diet and physical 
+activity intervention on GDM prevention
+
+[W4390583438 PDF PAGE 7]
+Page 7 of 16
+Quotah et al. Diabetology & Metabolic Syndrome            (2024) 16:8 
+ 
+77.04%; Fig. 7) or those with overweight and obesity (risk 
+difference 0.00, 95% CI − 0.04 to 0.04;  I2 0.03%; Fig. 8).
+Narrative synthesis
+It was not possible to conduct a meta-analysis for one 
+study that used a multidisciplinary approach interven -
+tion. Therefore, data has been synthesised narratively. 
+The study reported GDM as a primary outcome in 
+pregnant women with increased BMI (> 25 kg/m 2) and 
+the intervention resulted in a significant reduction in 
+the incidence of GDM (n = 4, 6% vs. n = 17, 29%, OR 
+0.17, 95% CI 0.03–0.95, p  = 0.04) [75].
+Publication bias
+There was no evidence of small study effects for any 
+intervention except antenatal combined diet and PA 
+interventions (p  < 0.05), which may signal publication 
+bias (Additional file 1 : Figure A1, Table A7).
+Fig. 4 The effects of antenatal combined diet and physical activity intervention on GDM prevention
+
+[W4390583438 PDF PAGE 8]
+Page 8 of 16Quotah et al. Diabetology & Metabolic Syndrome            (2024) 16:8 
+Discussion
+This review aimed to evaluate the effectiveness of pre -
+conception and pregnancy interventions in reducing 
+GDM among women at increased risk. The findings 
+from the meta-analysis showed that GDM was reduced 
+using combined diet and PA, inositol and vitamin D sup -
+plementation in women identified in early pregnancy as 
+higher risk. The effect was greatest with the dietary sup -
+plements. In a sub-group analysis, diet and PA interven -
+tions were most effective in women with multiple GDM 
+risk factors while in pregnant women living with  over -
+weight  and  obesity, inositol was effective. The results 
+were limited by high levels of heterogeneity between 
+the  included studies, while some studies were not suffi -
+ciently powered to detect a difference in GDM. Addition-
+ally, there was a lack of preconception studies.
+Whilst this analysis showed that the use of antenatal 
+combined diet and PA intervention modestly reduced 
+the risk of GDM when higher risk women were recruited, 
+this same approach did not appear effective when higher 
+BMI was considered the sole risk factor. These findings 
+are consistent with a meta-regression examining mod -
+erators of intervention effectiveness for preventing GDM; 
+it showed that behavioural interventions in populations 
+with higher risk of GDM demonstrated greater effec -
+tiveness, but also highlighted that BMI before or in early 
+pregnancy was not related to the effect size of the inter -
+vention [109]. This suggests that BMI stratification alone 
+is not an effective strategy for either risk prediction or 
+response to intervention [109]. Conversely, the current 
+review showed that using a targeted recruitment strat -
+egy that includes multiple risk factors for GDM helped 
+maximise the effectiveness of a combined diet and PA 
+Fig. 5 The effects of antenatal diet only intervention on GDM 
+prevention
+Fig. 6 The effects of antenatal physical activity only intervention 
+on GDM prevention
+Fig. 7 The effects of antenatal interventions A diet and physical activity B metformin on GDM prevention in women who had more than single risk 
+factor
+
+[W4390583438 PDF PAGE 9]
+Page 9 of 16
+Quotah et al. Diabetology & Metabolic Syndrome            (2024) 16:8 
+ 
+intervention. Given the limited number of studies avail -
+able (n = 3) and the high risk of  bias associated with 
+these studies, we still lack certainty and more research is 
+needed to examine targted interventions particularly in 
+women with multiple risk factors.
+The current review found that antenatal interventions 
+using inositol in higher-risk women, including those 
+Fig. 8 The effects of antenatal interventions including diet only, physical activity only, diet and physical activity, metformin, inositol and probiotic 
+on GDM prevention when body mass index was considered as the only risk factor
+
+[W4390583438 PDF PAGE 10]
+Page 10 of 16Quotah et al. Diabetology & Metabolic Syndrome            (2024) 16:8 
+with increased BMI as a sole risk factor, were effec -
+tive in reducing GDM. This correlates with findings of 
+a recent meta-analysis of inositol interventions in  preg-
+nant women living with overweight and obesity [110]. 
+The insulin-mimetic  effects  of myo-inositol  or its iso -
+mers are thought to be related to the production of ino -
+sitol glycan secondary messengers, resulting in improved 
+glycogen synthesis and glucose peripheral tissue uptake 
+[111, 112]. Moreover, a deficit in intracellular d-chiro-
+inositol (DCI) has been observed in women with PCOS 
+and overweight or obesity, resulting in impaired coupling 
+between insulin action and the release of d-chiro-inosi -
+tol-containing inositolphosphoglycan (DCI-IPG) that 
+acts as an insulin mediator and sensitizer [113]. Although 
+further studies of pregnant women with overweight and 
+obesity are required to confirm inositol effectiveness, 
+our analysis suggests that inositol supplementation may 
+reduce the incidence of GDM among pregnant women at 
+increased risk, regardless of the factors used in the risk 
+assessment.
+The present meta-analysis also suggests a preventative 
+effect of antenatal vitamin D supplementation on GDM 
+risk, and Cochrane reviews have also previously provided 
+evidence for this possible benefit [11]. Several mecha -
+nistic pathways elucidating an influence of vitamin D on 
+glucose homeostasis and GDM development have been 
+described which impact upon metabolic markers includ -
+ing blood glucose concentrations, insulin resistance and 
+inflammatory biomarkers [114–116]. Given that only 
+three studies were identified in the current review that 
+Fig. 9 The effects of antenatal inositol supplementation on GDM 
+prevention
+Fig. 10 The effects of antenatal vitamin D supplementation on GDM 
+prevention
+Fig. 11 The effects of antenatal fibre supplementation on GDM 
+prevention
+Fig. 12 The effects of antenatal probiotics supplementation on GDM 

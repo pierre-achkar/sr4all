@@ -1,0 +1,169 @@
+ of other three 
+markers. CD56 is a glycoprotein on the surface of cell membrane and also a member of cell adhesion molecule, 
+which plays an important role in infiltration and metastasis of tumor  cells45. The high expression level of CD56 
+corresponds with the aggressive properties of SCNECC. Moreover, CD56 has its own unique advantages in terms 
+of stable expression detected by IHC method.
+The positive expression rates of NSE and CgA markers are relatively low in our study, especially the expression 
+level of CgA is the lowest. CgA and NSE are valuable markers for diagnosing neuroendocrine cancer, and their 
+expressions are relevant to the patient’s  prognosis6,12.Our study did not reach a similar conclusion. The potential 
+possibilities are as follows. Firstly, SCNECC may have a decline in the expression of some neuroendocrine cell 
+Table 1.  The general and clinical characteristics of studies about small cell neuroendocrine carcinomas 
+of the cervix (SCNECC). Note Mixed SCNECC included one or more components besides small cell 
+neuroendocrine carcinoma, such as large cell neuroendocrine carcinoma, adenocarcinoa, squamous 
+carcinoma, adenosquamous carcinoma. U unknown; OS overall survival; m month; y year; n number; UK 
+United Kingdom; USA United States of America; FIGO International Federation of Gynecology and Obstetrics.
+First author and year Country Institution Case number Age (y) Histological type FIGO stage
+Overall survival (m), 
+death(n)
+Wang 2019 China Nanjing Medical Uni-
+versity26 45(median) SCNECC 9 IA-IIA, 17 IIB-IV U, 16
+Tong 2018 China Guizhou Provincial 
+People’ Hospital6 29–56 SCNECC 1 IB1, 1 IB2, 2 IIB, 1 
+IVB, 1 UU, 1
+Wang 2018 China Chaohu Hospital of 
+Anhui Medical University18 31–55 SCNECC 4 IB1, 7 IB2, 2 IIA1, 3 
+IIA2, 2 IV AU, U
+Li 2015 China Sun Y at-sen University 26 31–67 12SCNECC
+14Mixed SCNECC
+10 IB1,8 IB2, 2 IIA2, 4 
+IIIB, 2 IVB3–42, 5
+Morgan 2019 Canada
+Department of Labora-
+tory Medicine and Patho-
+biology
+10 25–80 SCNECC U U, U
+Liu 2018 China General Hospital of Jinan 
+Military Command23 31–74 12SCNECC, 11Mixed 
+SCNECCU U, U
+Li 2018 China Peking Union Medical 
+College Hospital26 U SCNECC I-IIA U, U
+Jain 2019 India Nepal Cancer Hospital 
+and Research Center6 28–67 SCNECC U U, U
+
+[W3084988572 PDF PAGE 6]
+6
+Vol:.(1234567890)Scientific RepoRtS  |        (2020) 10:14975  | https://doi.org/10.1038/s41598-020-72055-x
+www.nature.com/scientificreports/
+Table 2.  The positive expressions of neuroendocrine markers in SCNECC. Note N2 represnts the number 
+of cases stained by Syn or CD56 or NSE or CgA in each study, and N1 represnts the positive staining ones; 
+N4 represents the number of case stained by a combination of two neuroendocrine markers (Syn + CD56, 
+Syn + NSE, Syn + CgA, CD56 + NSE, CD56 + CgA, NSE + CgA), and N3 represnts the positive staining cases 
+correspondingly. N represents the number of studies included for meta analyses of one marker (Syn or CD56 
+or NSE or CgA) or each combination of two markers (Syn + CD56, Syn + NSE, Syn + CgA, CD56 + NSE, 
+CD56 + CgA, NSE + CgA).
+First author 
+and year
+N1/N2 (%) N3/N4 (%)
+Syn
+(N = 36)
+CD56
+(N = 23)
+NSE
+(N = 23)
+CgA
+(N = 36)
+Syn + CD56
+(N = 15)
+Syn + NSE
+(N = 15)
+Syn + CgA
+(N = 23)
+CD56 + NSE
+(N = 9)
+CD56 + CgA
+(N = 12)
+NSE + CgA
+(N = 15)
+Chen 1994 – – 4/6 (66.67) – – – – – – –
+Cheng 2008 4/7 (57.14) – 7/7 (100.00) 2/7 (28.57) – 5/5 (100.00) 2/2 (100.00) – – 2/2 (100.00)
+Conner 2002 13/23 (56.52) – – 10/23 (43.48) – – – – – –
+Deng 2010 9/9 (100.00) 9/9 (100.00) 9/9 (100.00) 4/9 (44.44) 9/9 (100.00) 9/9 (100.00) 4/9 (44.44) 9/9 (100.00) 4/9 (44.44) 4/9 (44.44)
+Emerson 2015 9/11 (81.82) – – 6/11 (54.55) – – 6/11 (54.55) – – –
+Fujii 1986 – – 0/2 (0.00) – – – – – – –
+Ganesan 2016 19/23 (82.61) 15/23 (65.22) – 14/23 (60.87) – – – – – –
+Giorgadze 
+2012 3/3 (100.00) 1/2 (50.00) 2/2 (100.00) 2/3 (66.67) 1/2 (50.00) 2/2 (100.00) 2/3 (66.67) 0/1 (0.00) 1/2 (50.00) 1/2 (50.00)
+Horn 2006 7/9 (77.78) 8/9 (88.89) 7/9 (77.78) 7/9 (77.78) – – – – – –
+Inoue 1985 – – 6/6 (100.00) – – – – – – –
+Ishida 2004 7/10 (70.00) – – 9/10 (90.00) – – 6/10 (60.00) – – –
+Kajiwara 2008 5/5 (100.00) 4/5 (80.00) – 4/5 (80.00) 4/5 (80.00) – 4/5 (80.00) – 3/5 (60.00) –
+Kuji 2017 25/29 (86.21) 23/29 (79.31) – 25/29 (86.21) – – – – – –
+Lenczewski 
+20016/6 (100.00) – – – – – – – – –
+Li 2011 24/25 (96.00) 17/25 (68.00) 25/25(100.00) 19/25 (76.00) 17/25 (68.00) 24/25 (96.00) 19/25 (76.00) 17/25 (68.00) 14/25 (56.00) 19/25 (76.00)
+Li 2013 6/6 (100.00) 5/6 (83.33) – 5/6 (83.33) 5/6 (83.33) – 5/6 (83.33) – 4/6 (66.67) –
+Qin 2011 9/10 (90.00) 4/4 (100.00) 4/4 (100.00) 8/12 (66.67) 2/2 (100.00) 2/3 (66.67) 6/10 (60.00) 1/1 (100.00) 1/4 (25.00) 4/4 (100)
+Rekhi 2012 14/25 (56.00) 6/6 (100.00) 5/5 (100.00) 15/24 (62.50) 4/6 (66.67) 2/4 (50.0) 11/23 (47.83) – 4/6 (66.67) 2/4 (50.00)
+Sato 2003 1/2 (50.00) – – – – – – – – –
+Sheridan 1996 – – 2/5 (40.00) 3/5 (60.00) – 0/5 (0.00) 0/5 (0.00) – – 2/5 (40.00)
+Sitthinamsu-
+wan 2013 8/11 (72.73) 8/11 (72.73) 9/11 (81.82) 7/11 (63.64) 6/11 (54.55) 6/11 (54.55) 6/11 (54.55) 6/11 (54.55) 4/11 (36.36) 5/11 (45.45)
+Stoler 1991 5/20 (25.00) – 18/20 (90.00) 13/20 (65.00) – – – – – 8/20 (40.00)
+Straughn 2001 8/16 (50.00) – 12/16 (75.00) 8/16 (50.00) – 6/13 (46.15) 4/13 (30.77) – – 7/13 (53.85)
+Tsunoda 2005 8/11 (72.73) 6/11 (54.55) 9/11 (81.82) 7/11 (63.64) 6/11 (54.55) 6/11 (54.55) 5/11 (45.45) 4/11 (36.36) 3/11 (27.27) 6/11 (54.55)
+Ueda 1989 – – 9/10 (90.00) 4/10 (40.00) – – – – – 4/10 (40.00)
+Van 1988 – – 5/15 (33.33) 3/15 (20.00) – – – – – –
+Viswanathan 
+2004 19/21 (90.48) 15/21 (71.43) – 16/21 (76.19) 14/21 (66.67) – 15/21 (71.43) – 11/21 (52.38) –
+Wang 2013 13/13(100.00) – – 9/13 (69.23) – – – – – –
+Xing 2018 10/10(100.00) – – 8/10 (80.00) – – 8/10 (80.00) – – –
+Hu 2018 28/35 (80.00) 27/35 (77.14) 30/35 (85.71) 20/35 (57.14) – – – – – –
+Han 2018 18/18(100.00) – – 18/18(100.00) – – 18/18(100.00) – – –
+Y ang 2018 18/18(100.00) 17/18 (94.44) 9/16 (56.25) 10/16 (62.50) 17/18 (94.44) 9/16 (56.25) 9/16 (56.25) – – –
+Zeng 2018 7/8 (87.50) 5/7 (71.43) 0/2 (0.00) 5/8 (62.50) 4/7 (57.14) 0/2 (0.00) 4/8 (50.00) 0/2 (0.00) 3/7 (42.86) 0/2 (0.00)
+Zhi 2018 10/10(100.00) 6/7 (85.71) 5/8 (62.50) 9/10 (90.00) 6/7 (85.71) 5/8 (62.50) 9/10 (90.00) – – –
+Wang 2019 19/26 (73.08) 20/26 (76.92) – 18/26 (69.23) – – – – – –
+Tong 2018 6/6 (100.00) 5/6 (83.33) – 3/6 (50.00) 5/6 (83.33) – 3/6 (50.00) – – –
+Wang 2018 9/18 (50.00) 9/18 (50.00) – 12/18 (66.67) – – – – – –
+Li 2015 24/26 (92.31) 24/26 (92.31) 26/26(100.00) 18/26 (69.23) – 24/26 (92.31) – 24/26 (92.31) – 18/26 (69.23)
+Morgan 2019 10/10(100.00) – – 5/8 (62.50) – – 5/8 (62.50) – – –
+Liu 2018 21/23 (91.30) 21/23 (91.30) – 19/23 (82.61) – – – – – –
+Li 2018 19/26 (73.08) 12/21 (57.14) – 19/24 (79.17) – – – – – –
+Jain 2019 6/6 (100.00) 4/4 (100.00) 3/3 (100.00) 6/6 (100.00) 4/4 (100.00) 3/3 (100.00) 6/6 (100.00) 1/1 (100.00) 4/4 (100.00) 3/3 (100.00)
+
+[W3084988572 PDF PAGE 7]
+7
+Vol.:(0123456789)Scientific RepoRtS  |        (2020) 10:14975  | https://doi.org/10.1038/s41598-020-72055-x
+www.nature.com/scientificreports/
+Figure 2.  Forest plots of expression proportion (95% CI) for single neuroendocrine markers in small cell 
+neuroendocrine carcinoma of the cervix (SCNECC). (a) (Syn), (b) (CD56), (c) (NSE) and (d) (CgA).The 
+weight represents the percentage of the results of a single study in the overall results. Generally, the larger the 
+number of cases in a single study, the greater its weight in the overall population. CI confidence interval; Syn 
+synaptophysin; CD56 neural cell adhesion molecules; NSE neuron-specific enolase; CgA chromograninA.
+Table 3.  Meta-analyses results of neuroendocrine markers in small cell neuroendocrine caricinoma of 
+the cervix. Syn synaptophysin; CD56 neural cell adhesion molecules; NSE neuron-specific enolase; CgA 
+chromograninA; CI confidence interval; N null because the sample number is too small.
+Markers
+Transformation 
+methods P value I2 value (%) Model
+Pooled expression 
+proportions with 
+95% CI
+P value of 
+dissymmetry test
+Syn Raw rate  < 0.0001 76.7 Random effect 0.8484 (0.7941–0.9027) 0.0002
+CD56 Log 0.0367 37.5 Random effect 0.8453 (0.7943–0.8996) 0.0018
+NSE Raw rate  < 0.0001 83.5 Random effect 0.7794 (0.6913–0.8676) 0.0003
+CgA Log  < 0.0001 59.7 Random effect 0.7290 (0.6740–0.7886)  < 0.0001
+Syn + CD56 Log 0.1020 33.3 Fixed effect 0.8775 (0.8203–0.9387) 0.0047
+Syn + NSE Arcsine  < 0.0001 82.7 Random effect 0.7092 (0.5050–0.8768) 0.3252
+Syn + CgA Arcsine  < 0.0001 73.5 Random effect 0.6565 (0.5333–0.7698) 0.8454
+CD56 + NSE Raw rate  < 0.0001 83.7 Random effect 0.6409 (0.4338–0.8479) N
+NSE + CgA Arcsine 0.0014 60.2 Random effect 0.5955 (0.4553–0.7281) 0.8831
+CD56 + CgA Darcsin 0.4393 0.4 Fixed effect 0.5098 (0.4052–0.6139) 0.6312
+
+[W3084988572 PDF PAGE 8]
+8
+Vol:.(1234567890)Scientific RepoRtS  |        (2020) 10:14975  | https://doi.org/10.1038/s41598-020-72055-x
+www.nature.com/scientificreports/
+characteristics for high degree of malignancy and poor differentiation. Secondly, expression rates of neuroen -
+docrine markers may be affected by detection technology. The expressions of CgA and NSE can be detected by 
+a serological assay, which were not included in our studies.
+The 5-year overall survival rates of SCNECC range from 20 to 46.6%, and the prognosis of patients with 
+advanced stage was very poor regardless of  therapy46. However, SCNECC patients with early stage have the poten-
+tial to receive multimodality therapy and have long term  survival47. This difference emphasises the importance 
+of early accurate diagnosis of SCNECC. There are some controversies in diagnostic criteria of SCNECC focusing 
+on the necessity of neuroendocrine markers in the diagnosis. Some researchers pointed out that SCNECC was 
+a morphologic diagnosis and the IHC evidence of neuroendocrine differentiation was not a requirement for 
+ diagnosis25. But actually, many studies have confirmed that accurate diagnosis of SNCECC require IHC stain -
+ing of neuroendocrine markers which have been perform

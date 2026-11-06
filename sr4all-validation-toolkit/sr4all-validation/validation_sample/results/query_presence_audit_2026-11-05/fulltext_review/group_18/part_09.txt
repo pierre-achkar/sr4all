@@ -1,0 +1,350 @@
+, the effect size of each
+organisational stressor and MW outcome relationship was
+graded and scored (a weight to indicate each grade ’sr e l a -
+tive importance) as High (+++/3 points), Intermediate
+(++/2 points), Low association (+/1 point), No association
+(−/0 point) and unclear (±/0 point). In Step 3, a weighted
+average was estimated to account for the levels of relative
+importance across the five grades by: (i) multiplying the
+number of effect sizes per grade by the number of points
+(weight) allocated to that grade; (ii) adding the results
+across all grades for each MH outcome; and (iii) dividing
+the total by the sum of the weights (number of grades ap-
+plied per MW outcome). This weighted average resulted
+in the mean magnitude of association of included studies
+by MW outcome. Finally, in Step 4 a RAG (Red, Amber
+and Green) threshold scale was applied to the overall mag-
+nitude of association, where a score of 0 to 1.9 was
+deemed ‘low/no association’ (Red), 2 to 3.9 was ‘intermedi-
+ate association ’ (yellow), and ≥ 4w a s ‘high association ’
+(green). See Supplementary Material S12 for further de-
+tailed process.
+Results
+The study selection process is documented in Fig. 1.N o
+concerns were raised following second reviewer input in
+screening titles, abstracts or full-text studies. In total, 15
+studies [ 82– 96] met the inclusion criteria and 134 full
+text studies were excluded (see Fig. 1 and Add-
+itional file 4: Table S9).
+Study characteristics
+The characteristics of the 15 included studies are sum-
+marised in Table 2. All studies were published in
+English, between 1995 and 2016. No RCTs or cohort
+studies met the inclusion criteria; all included studies
+had a cross-sectional study design. The majority were
+undertaken in the developed world; five from North
+America [ 82, 88, 90, 92, 93], five from Europe [ 84– 86,
+89, 91], three from Asia [ 87, 95] and two from Africa
+[83, 94]. Included studies covered a total of 15,150 male
+and female police officers, with the smallest study [ 90]
+having 78 participants and the largest [ 86] 3272 partici-
+pants. Three studies failed to report final response rates
+[90, 94, 95], the remaining 12 studies included response
+rates ranging from 33.9% [ 82] to 96% [ 96]. The studies
+which provided information on gender [ 82– 87, 89– 94,
+96] covered 9706 male and 2592 female study partici-
+pants; for those that provided mean age, the mean age of
+participants ranged from 33 to 40 years [ 82– 87, 90, 91,
+94]. Two studies [ 93, 96] adopted an ordinal scale for
+age; one study [ 89] dichotomised age; and three studies
+failed to provide any information on the participant age
+[88, 92, 95]. Police work tenure ranged from 2.9 – 17.2
+years [ 82– 85, 89, 91, 92, 94, 96]. Only three studies pro-
+vided information on rank, which included police con-
+stables, corporals, sergeants, inspectors, captains,
+superintendents and senior superintendents [ 83, 89, 94].
+Several studies reported educational background [ 83, 84,
+87, 88, 90– 92, 94, 96], marital status [ 84– 86, 90, 91, 94,
+96] and race or ethnicity [ 88, 92– 94]. Only one study
+failed to report participant demographics [ 95].
+Table 1 Classification of Measures of Effect
+Individual effect measure grades and corresponding score
+(points)
+High
+(3 points)
+Intermediate
+(2 points)
+Low
+(1 point)
+No association
+(0 points)
+Unclear
+(0 points)
+Measures of effect
+Correlation −1.00 to
+−0.60/
+0.60 to 1.00
+−0.59 to −
+0.40/
+0.40–0.59
+−0.39 to − 0.01/ 0.01 to
+0.39
+0±
+Unstandardized or
+standardised beta
+coefficient
+− 1.50 to −
+1.01/
+1.01 to 1.50
+−1.00 to −
+0.51/
+0.51 to 1.00
+−0.50 to − 0.01/ 0.01 to
+0.50
+0±
+Odds ratio > 3.00 1.50 –3.00 1.01 –1.49 1 ±
+Note. Original table compiled using information from Rodriguez-Jareño [ 76], Bernard [ 77], Steenstra et al. [ 78], Krehbiel [ 80] and Joreskog [ 81]
+Purba and Demou BMC Public Health         (2019) 19:1286 Page 4 of 21
+
+[W2980327373 PDF PAGE 5]
+Outcomes reported across studies
+The included studies reported a number of outcomes of
+interest including occupational stress [ 88, 93, 96], anxiety
+[86], depression [ 86, 87], PD [ 82, 89, 90], PS [ 84], burnout
+[95] (a composite measure of EE [ 82, 83, 85, 86, 89, 91, 92,
+94, 95], DP [ 85, 86, 89, 91, 94, 95], PA [ 86, 89, 91, 95]) and
+suicidal ideation [ 86].
+Risk of Bias
+All studies were cross-sectional, therefore the modified
+NOS [ 70] was used to assess risk of bias. Overall 13 stud-
+i e sw e r er a n k e da sh i g h[82– 91, 93, 94, 96], one as inter-
+mediate [92] and one as low quality [ 95]( A d d i t i o n a lf i l e5:
+Tables S10, S11). The cross-sectional design of the
+included studies precludes causal inference [ 97] and the
+direction of association cannot be established.
+Response rates varied, and all studies employed self-
+reporting questionnaires. Questionnaires are considered
+appropriate, as they can provide information about health
+status, attitudes and behaviours of police officers [ 98], es-
+pecially those experiencing MW issues [ 89]. However,
+self-reporting questionnaires can lead to method variance
+bias [ 99], resulting in overestimation of associations [ 100]
+and raise issues of recall bias [ 101]. Online questionnaires
+were adopted by three studies [ 82, 89, 92]. Online surveys
+often have good data quality and generally confer lower
+measurement errors, however low response rates are often
+a challenge [ 102]. This is demonstrated in these cases,
+which reported response rates of 33.85 to 57% [ 82, 89, 92].
+Since all studies failed to provide information on the
+demographics of both respondents and non-respondents,
+non-response bias cannot be assessed. Response bias may be
+a problem for topics concernin g mental wellbeing, particu-
+larly in masculine environments such as policing. One study
+[88] employed Dillman ’s Total Design Method [ 103]t o
+achieve high response rate and mitigate non-response bias
+[104]. Eight studies [ 82, 84, 86, 87, 89, 93, 94, 96]a d j u s t e d
+for additional exposure variables, such as operational
+stressors and ten studies [ 83– 86, 89– 91, 93, 94, 96]c o n -
+trolled for potential confounders, enhancing internal validity.
+Eight studies failed to report the sampling method [82, 84,
+86, 89, 90, 94– 96]. The other studies, adopted probability
+Fig. 1 Study selection PRISMA Flow Diagram [ 58]
+Purba and Demou BMC Public Health         (2019) 19:1286 Page 5 of 21
+
+[W2980327373 PDF PAGE 6]
+Table 2 Characteristics of Included Studies
+Study ID Study
+design
+Data
+collection
+Sample
+size ( n)
+Response
+rate (%)
+Study
+location
+Study population Study demographics MW
+outcome(s)
+investigated
+Adams
+et al. [ 82]
+Cross-
+sectional
+Self-report
+online survey
+196 33.9 Wisconsin
+and Illinois,
+USA
+Police officers from 12
+police departments in
+Wisconsin ( n = 11) or
+Illinois ( n =1 )
+Male ( n = 122); female ( n =
+69); did not provide
+information on gender
+(n =5 )
+Mean age ± (standard
+deviation) SD: 39.24 ±
+10.33 years
+Mean tenure ± SD: 11.6 ±
+9.01 years
+PD
+EE
+Adebayo
+et al. [ 83]
+Cross-
+sectional
+Self-report
+questionnaire
+214 88.8 Nigeria Various junior rankings of
+the Nigeria police
+Male ( n = 132); female ( n =
+82)
+Mean age ± SD: 33.65 ±
+7.28 years
+Rank: constables (33.3%);
+corporals (29.0%);
+sergeants (20.0%);
+inspectors (16.4%)
+Education: primary school
+certificate (14.0%);
+secondary school
+certificate (17.8%); national
+certificate in education /
+ordinary national diploma
+(17.8%)
+Mean tenure ± SD: 11.85 ±
+5.37 years
+EE
+Arial
+et al. [ 84]
+Cross-
+sectional
+Self-report
+questionnaire
+354 65.9 Switzerland Police officers from a Swiss
+cantonal administration.
+Female officers not
+included due to small
+sample size and potential
+gender effects on
+symptoms and stressors
+Male ( n = 354)
+Mean age ± SD: 39.7 ± 8.9
+years
+Education: lower or
+intermediate educational
+level ( n = 341); higher
+vocational education or
+university ( n = 13)
+Marital status: single,
+divorced/separated ( n =
+80); married/cohabiting
+(n = 274)
+Mean tenure ± SD: 14.3 ±
+10.1 years; 0 –5 years ( n =
+97); > 5 –10 years ( n = 65);
+>1 0–15 years ( n = 33); >
+15–20 years ( n = 46); > 20 –
+25 years ( n = 49); more
+than 25 years ( n = 64)
+PS
+Backteman-
+Erlanson
+et al. [ 85]
+Cross-
+sectional
+Self-report
+questionnaire
+1554 56.0 Sweden Police officers who work
+on patrol
+Male ( n = 419); female ( n =
+437)
+Mean age ± SD: 37 ± 34
+years
+Marital status: married/
+living together ( n = 670)
+Mean tenure ± SD: 9 ±
+11.1 years
+EE
+DP
+Berg
+et al. [ 86]
+Cross-
+sectional
+Self-report
+questionnaire
+3272 51.0 Norway Police officer members of
+the largest police industrial
+organisation in Norway,
+The Norwegian Police
+Union (95% of the police
+service are voluntary
+members)
+Male ( n = 2692); female
+(n = 501)
+Mean age ± SD: 38.9 ± 8.7
+years; 20 –29 years ( n =
+509); 30 –39 years ( n =
+1175); 40 –49 years ( n =
+1047); 50 –59 years ( n =
+430)
+Marital status: married/
+common law ( n = 2715);
+separated/divorced ( n =
+Anxiety
+Depression
+EE
+DP
+PA
+Suicidal
+Ideation
+Purba and Demou BMC Public Health         (2019) 19:1286 Page 6 of 21
+
+[W2980327373 PDF PAGE 7]
+Table 2 Characteristics of Included Studies (Continued)
+Study ID Study
+design
+Data
+collection
+Sample
+size ( n)
+Response
+rate (%)
+Study
+location
+Study population Study demographics MW
+outcome(s)
+investigated
+164)
+Chen
+et al. [ 87]
+Cross-
+sectional
+Self-report
+questionnaire
+832 69.3 Kaohsiung,
+Taiwan
+Police officers in Kaohsiung
+(population of 1.5 million
+and about 4300
+policemen)
+Male (93.3%) ( n = 776);
+female (6.7%) ( n = 56)
+Mean age ± SD: 39.49 ±
+6.65 years; ≤ 34 years ( n =
+202); 35 –49 years ( n = 556);
+≥ 50 years ( n = 74)
+Education: finished
+education to junior level
+(49.9%); senior high school
+or below ( n = 264); junior
+college ( n = 415); university
+or above ( n = 153)
+Depression
+Crank
+et al. [ 88]
+Cross-
+sectional
+Self-report
+questionnaire
+1427 71.4 USA Police chiefs (municipal
+police organisations) or
+sheriffs (county police
+agencies)
+Race: Caucasian ( n = 1279);
+Hispanic Americans ( n =
+77); African Americans ( n =
+23); Other (i.e. Native
+American or Korean) ( n =
+25)

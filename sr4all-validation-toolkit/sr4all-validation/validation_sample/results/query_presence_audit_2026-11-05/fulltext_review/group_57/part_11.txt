@@ -1,0 +1,143 @@
+ucation, Net Present Value, Method, Service, Cost 
+Data, Sustainability  
+ 
+                                         
+       Vol 13, Issue 4, (2024) E-ISSN: 2226-3624 
+ 
+ 
+ 
+ 
+To Link this Article: http://dx.doi.org/10.6007/IJAREMS/v13-i4/23705     DOI:10.6007/IJAREMS/v13-i4/23705 
+Published Online: 20 December 2024 
+ 
+
+
+[W4405652450 PDF PAGE 2]
+INTERNATIONAL JOURNAL OF ACADEMIC RESEARCH IN ECONOMICS AND MANAGEMENT SCIENCES 
+Vol. 13 , No. 4, 2024, E-ISSN: 2226 -3624 © 2024 
+533 
+Introduction 
+The natural environment has to face various disorders, for example, air, water, soil and noise 
+pollution, global warming, and ozone depletion. Furthermore, anthropogenic interference 
+makes the global environment more fragile, in turn, posing highly dangerous risks for human 
+health (Singh & Singh, 2017) . However, a human being still uses natural resources without 
+considering the negative impacts. Therefore, since humans interact with the environment, 
+yielding a very close relationship and mutually affecting each other, the environmental 
+problems caused b y irresponsible anthropogenic activities. This study is motivated by the 
+crucial need to understand and optimize the financial and environmental elements of higher 
+education infrastructure and services. Despite universities' important role in sustainable 
+development, there is a noticeable absence of comprehensive life cycle costing (LCC) research 
+in the higher education sector. This study contributes to closing this information gap by 
+conducting a thorough review of the components that comprise the higher e ducation life 
+cycle cost. This study intends to provide significant insights to higher education decision -
+makers, perhaps leading to more cost -effective and environmentally friendly practices in 
+university operations and management.  Consequently, rapid urb anization will affect 
+widespread and adverse impacts on the environment (Peña & Rovira-Val, 2020). 
+ 
+Universities work as facilitators for sustainable development; therefore, universities and their 
+buildings are numerously studied on the diverse aspects of environment and sustainability. 
+For example, energy consumption, carbon footprint, transportation, h eating, and cooling 
+systems, and constructions are determined as the hotspots for environmental impacts (Huang 
+et al., 2018). All type of manufacturers and other stockholders are dependent on universities 
+for the skilled workforce demands. Meanwhile communities also demanded from universities 
+to teach their youths and educate the society by intellectual and scientific knowledge  
+(Tasdemir & Gazo, 2020) . Higher education is one of the more critical services to produce 
+human capital. The lack of life cycle cost study in higher education is worrying, especially since 
+it designates the cost of higher education. 
+ 
+Education plays a dynamic role in attaining sustainable development goals. Sustainable 
+development demarcates three dimensions: environment, economics, and society. Life cycle 
+assessment (LCA) evaluates environmental impacts (Li et al., 2022; Soni et al., 2016). Life cycle 
+costing assesses the cost of the products or processes during the entire life span, together 
+with LCA (Costa et al., 2019). However, S -LCA is a powerful tool that influences, evaluates, 
+and supports organizations' future and upcoming policies (Kalvani et al., 2022; Sining et al., 
+2022).  
+ 
+Life cycle assessment is a systematic procedure that assesses a product's lifecycle to analyze 
+the extent of its environmental impact contribution. LCA is a systematic procedure to identify 
+the significant adverse environmental effects of processes and products (Amir  Sharaai. Noor, 
+Zalina. Mahmood and Abdul, Halim, Sulaiman, 2014; Muhammad et al., 2019)  by measuring 
+the energy and material released into the ecological stream t hroughout the whole life cycle. 
+LCA has been considered the most vital instrument of the new industrial sectors' 
+environmental management system (Barros et al., 2020). "Life cycle assessment contains four 
+stages: (a) goal & scope definition; (b) life cycle inventory analysis; (c) impact assessment; and 
+(d) interpretation" (Sharaai et al., 2010). The LCA evaluates environmental effects of products 
+or processes over its whole life span; and provides the environmental profile of a system or 
+
+[W4405652450 PDF PAGE 3]
+INTERNATIONAL JOURNAL OF ACADEMIC RESEARCH IN ECONOMICS AND MANAGEMENT SCIENCES 
+Vol. 13 , No. 4, 2024, E-ISSN: 2226 -3624 © 2024 
+534 
+course based on the appraisal of massive input and output data, and the significant impacts 
+that contribute to the environmental categories: global warming, ozone depletion, 
+eutrophication, eco-toxicity freshwater, and acidification. The LCA study results belong to the 
+quality and credibility data, especially in the stage of LCIA, which will give the expected results 
+for the emission into air, water, and soil (Kaewunruen et al., 2020; Sharaai et al., 2010).  
+ 
+The social life cycle as sessment is a social impact estimation methodology. Social life cycle 
+assessment (S-LCA) aimed to measure the socio -economic features of a product or process 
+and to horizontally analyze the negative and positive impacts of the product’s whole life cycle 
+on society (Kalvani et al., 2021). Furthermore, it includes the extraction and other procedures 
+of raw resources, industrialization, delivery, usage, maintenance, recycling, and dumping of 
+product wastes (Muhammad et al., 2019). Since the S-LCA deliberates the social impacts that 
+influence and affect the stockholders throughout the product's life cycle (Sharaai et al., 2020), 
+this definition discriminates the S-LCA from the social effects that concentrate on the product 
+or service and involve the company’s behavior and socioeconomic standpoint. Additionally, 
+the S-LCA definition is essentially similar to the methodology of  the LCA, which emphasizes 
+the environment. At the same time, the S -LCA concentrates on social aspects (Sharaai et al., 
+2019). 
+ 
+The life cycle costing (LCC) analyzes the cost of products, services, or processes in the whole 
+life span (Omran et al., 2021; Soni et al., 2016) . Furthermore, LCC estimates the cost of all 
+stages: risk, investment, operation, maintenance and demolition   (Ma et al., n.d.; Sajid & 
+Bicer, 2021) . Finally, the LCC delivers potential facts about the total cost of the product, 
+service, or process throughout the entire life cycle to assist the decision -making process (Liu 
+et al., 2020). The life cycle costing is enormously crucial for facilities management, especially 
+for the higher education institutions, universities, and schools, because those facilities have 
+numerous buildings and related fittings (Kimoto et al., 2013). LCC is a widely used technique 
+in different industries for economic assessment (Peña & Rovira-Val, 2020).  
+ 
+This paper aimed to review the elements and components that made up the life cycle cost for 
+higher education. The literature was reviewed systematically to analyze the LCC studies 
+related to higher education. This paper should answer these quest ions: what is the current 
+state of the art on LCC for higher education from 2009 to 2020? Which methods are used for 
+the life cycle costing to estimate the overall costs of higher education? Which components 
+and elements are used to calculate LCC in higher education? 
+ 
+Alongside the introduction, the paper is structured as follows: the second part of the paper 
+describes the background, the third part addresses the method used in this review article, the 
+fourth section includes the results and discussions, and the last pa rt delivers the review’s 
+conclusion. 
+ 
+Life Cycle Cost (LCC) 
+Life cycle costing (LCC) is a decision -making tool to estimate the overall cost of a product or 
+service throughout its entire life cycle from production to disposal  (Ma et al., 2023) . It is a 
+methodology, which systematically estimates economic value throughout the approved 
+scope. LCC is extensively considered as a cost -managing instrument (Zhang et al., 2019). LCC 
+aims to forecast cash flow and to give the assessment of choices for d ecision-makers 
+
+[W4405652450 PDF PAGE 4]
+INTERNATIONAL JOURNAL OF ACADEMIC RESEARCH IN ECONOMICS AND MANAGEMENT SCIENCES 
+Vol. 13 , No. 4, 2024, E-ISSN: 2226 -3624 © 2024 
+535 
+(Samsuddin, 2019). It contains four initial steps: a) definition for analysis, b) problem analysis, 
+c) conducting calculation, and d) result validations and interpretations (RICS, 2016). UNEP has 
+published guidelines for LCC in 2009 and exemplified the different method s in detail . 
+Typically, LCC is used for valuing the cost to economically estimate the effectiveness of a 
+product or process and advise the options; for example, to estimate the effective energy 
+system or product based on its all life cycle costs (Hoogmartens et al., 2014). 
+ 
+The US Department of defense used LCC for the first time in 1933 for the maintenance and 
+operations costs, and in 1981 for the procurement of military goods and equipment to 
+calculate the total cost of products, considering the high costs for warfare equip ment like 
+tanks and figh ter planes ( Hoogmartens et al., 2014). Therefore, it was established by the 
+Department of Defense of the United States by the 1960s. European countries used the LCC 
+method since the 70s as a policy and business decision making tool  (Hoogmartens et al., 
+2014). 
+ 
+Life cycle costing is used to understand the entire life cost of a product and the monetary flow 
+in a targeted product's life cycle. The essential cost is calculated, including the operational, 
+maintenance, and end of life or disposal costs, to give decision -makers suitable  options. 
+Therefore, LCC is used continuously as a calculation tool to compare the options. Moreover, 
+LCC defines ISO as "a technique which enables comparative cost assessments to be made over 
+a specified time, taking into account all relevant economic factors both 

@@ -1,0 +1,188 @@
+tar -
+get for the prevention and treatment of CKD.
+eGastroenterology: first published as 10.1136/egastro-2023-100005 on 10 August 2023. Downloaded from https://egastroenterology.bmj.com on 7 April 2025 by guest.
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies.
+
+[W4385740504 PDF PAGE 2]
+2
+Zhou J, et al. eGastroenterology 2023;1:e100005. doi:10.1136/egastro-2023-100005
+Open access 
+three metabolic risk abnormalities: overweight/obesity, 
+T2DM or evidence of metabolic dysregulation (defined as 
+the presence of at least two of seven metabolic risk factors 
+featuring the metabolic syndrome in lean individuals, 
+including also increased homeostatic model assessment 
+for insulin resistance score and elevated plasma C reactive 
+protein levels).5 A recent meta- analysis of about 10 million 
+individuals reported a global prevalence of MAFLD of 
+38.8% in adults.6 In addition, it has been reported that 
+MAFLD may progress to cirrhosis and promote the devel-
+opment of some important extrahepatic diseases, such 
+as cardiovascular disease and chronic kidney disease 
+(CKD).7 8
+CKD is a progressive disease with permanent loss of 
+the kidney function, which causes a significant increase 
+in morbidity and mortality. In 2017, the global preva-
+lence of CKD is estimated to be around 9%,9 resulting 
+in about 1.2 million deaths and 35.8 million disability- 
+adjusted life- years.9 Furthermore, based on global 
+burden of disease data, CKD is predicted to become 
+the fifth leading global cause of death by 2040.10 11  
+Consequently, the search for novel risk factors for CKD 
+should improve strategies for identification of high- risk 
+patient subgroups and potentially reduce the clinical 
+adverse impact of CKD. 12 In this setting, identification 
+of MAFLD as a novel risk factor of CKD is attracting 
+considerable scientific attention.7
+A nationwide cohort study of 268  946 middle-  aged 
+individuals who underwent National Health Insur -
+ance Service health examinations in Korea found that 
+compared with non-  MAFLD participants, those with 
+MAFLD had a nearly 40% increase in risk of incident 
+CKD. 13 While these results have been consistent with 
+other published studies, 14–16  a retrospective cohort 
+analysis of 143 210 patients with obesity from the Truven 
+Health MarketScan Database reported that MAFLD 
+was not significantly associated with an increased risk 
+of incident CKD.17 In addition, in a cross- sectional 
+analysis of the US Third National Health and Nutrition 
+Examination Survey, the authors showed that patients 
+with MAFLD had a significantly higher prevalence of 
+CKD than those with NAFLD.18 In such study, MAFLD 
+was associated with a higher risk of CKD stage ≥1 and 
+abnormal albuminuria, but not CKD stage ≥ 3.18 That 
+said, given the conflicting results on the association 
+between MAFLD and CKD risk reported in previously 
+published studies, there is a need to undertake review 
+and pool the existing evidence to assess the association 
+between MAFLD and risk of CKD.
+Therefore, our aim was to undertake a comprehen-
+sive meta- analysis of observational studies to quantify 
+the magnitude of the association between MAFLD 
+and the risk of both prevalent and incident CKD, 
+according to Preferred Reporting Items for System-
+atic Reviews and Meta- Analyses (PRISMA) guide-
+lines19 20
+MEtHOds
+registration of review protocol
+The protocol for this systematic review was registered 
+in advance with PROSPERO (International Prospective 
+Register of Systematic Reviews, no. CRD42022352366).
+search strategy and selection criteria
+We systematically searched potential publications in five 
+large electronic databases (PubMed, Medline (OVID), 
+Embase (OVID), Web of Science and Cochrane Library), 
+from database inception until 29 May 2022. According to 
+our search and selection procedures, all articles retrieved 
+were first assessed by screening the titles and abstracts, 
+and then the relevant full texts were evaluated. Study 
+selection was conducted independently by two authors 
+(JZ and D- QS).
+The inclusion criteria of the meta- analysis were as follows: 
+(1) longitudinal cohort studies or cross- sectional studies, 
+(2) studies investigating the association between MAFLD 
+and risk for CKD, (3) adult (aged >18 years) individuals 
+of any sex or ethnicity and (4) studies with a diagnosis of 
+MAFLD and CKD. Hepatic steatosis had to be diagnosed 
+by one of the following approaches: (1) liver histology, 
+(2) imaging methods (ultrasonography, CT or magnetic 
+resonance- based techniques) and (3) biomarker panels. 
+The exclusion criteria of the meta- analysis were as follows: 
+(1) animal studies, (2) reviews, conference proceedings, 
+letters, case reports or comments, (3) studies in children/
+adolescents or pregnant women, (4) studies in patients 
+with type 1 diabetes and (5) non- English language studies. 
+In cases of disagreement on the inclusion or exclusion of 
+a given study, the third author (M- HZ) was brought in to 
+discuss the issue until a consensus was reached.
+data extraction and bias assessment
+Data were extracted independently by two authors 
+(JZ and D- QS). The detail of the data extraction is 
+described in online supplemental methods. In cases of 
+disagreement on data extraction from each included 
+study, the issues were discussed with a third author 
+(M- HZ) and a consensus was reached. An assessment 
+of study quality was performed independently by the 
+two aforementioned authors on the basis of either 
+the Newcastle Ottawa Scale (NOS) for cohort studies 
+or the Agency for Healthcare Research and Quality 
+(AHRQ) Scale for cross- sectional studies, respec-
+tively21  (online supplemental tables S1 and S2).
+data analysis
+Data analyses were performed by statistical software 
+(STATA, V.14.0, StataCorp, College Station, Texas, USA). 
+For dichotomous data, the random- effects ORs for cross- 
+sectional studies, and the random- effects HRs for cohort 
+studies and 95% CIs were calculated. Heterogeneity 
+was assessed using the χ2 test for Cochran’s Q statistic 
+and calculating I2 statistics. The random- effects model 
+was conducted when there was a significant heteroge-
+neity with I2 statistic >50% or p value <0.10. We further 
+eGastroenterology: first published as 10.1136/egastro-2023-100005 on 10 August 2023. Downloaded from https://egastroenterology.bmj.com on 7 April 2025 by guest.
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies.
+
+[W4385740504 PDF PAGE 3]
+3
+Zhou J, et al. eGastroenterology 2023;1:e100005. doi:10.1136/egastro-2023-100005
+Open access
+Figure 1 Preferred Reporting Items for Systematic Reviews and Meta- Analyses flow chart of the meta- analysis.
+conducted subgroup analyses. We also conducted sensi-
+tivity analysis to assess the stability of the pooled results. 
+The effect on the combined effect size was explored by 
+excluding some low quality studies or using different effi-
+cacy evaluation criteria and statistical methods. The effect 
+on the combined effect size was explored by excluding 
+some low quality studies or using different efficacy evalu-
+ation criteria and statistical methods.
+rEsuLts
+the results of study selection
+Overall, 3400 published articles were initially retrieved by 
+our search strategy. After removing duplicate studies, 2381 
+publications were screened. Excluding records based on 
+the title/abstracts, 32 articles remained for further inves-
+tigation. Of these articles, 12 further publications were 
+removed, including conference studies, a review and 
+studies involving patients with type 1 diabetes. A total of 
+17 observational studies were then included in final anal-
+ysis. Figure 1 summarises the PRISMA flow diagram for 
+search and selection processes of the meta- analysis.
+Characteristics of included studies
+Table 1 shows the main characteristics of the included 
+observational studies with a total of 845 753 partici-
+pants, including 10 cross- sectional studies 18 22–31  
+and 7 retrospective cohort studies. 13–17 32 33  Hepatic 
+steatosis was diagnosed by ultrasonography (eight 
+studies),8 14–16 18 31–33  FibroScan (four studies) 23 25 30 34  
+biomarker panels (fatty liver index, hepatic steatosis 
+index, NAFLD liver fat score or ultrasound fatty liver 
+index) (four studies),13 26 28 liver histology (one study) 29 
+or International Classification of Diseases, Ninth Revi-
+sion, Clinical Modification (one study).17 In seven 
+studies, MAFLD was defined by the presence of hepatic 
+steatosis plus at least one of the three metabolic risk 
+abnormalities, including T2DM, overweight/obesity 
+or metabolic dysregulation.13–16 18 28 30  In 10 studies, 
+MAFLD was defined exclusively by the coexistence of 
+hepatic steatosis and T2DM,17 22 23 25 26 29 31–33 35  whereas 
+in one study MAFLD was diagnosed by the coexis-
+tence of hepatic steatosis and obesity.17 In all studies, 
+CKD was defined as estimated glomerular filtration 
+rate (eGFR) ≤60 mL/min/1.73 m 2 and/or abnormal 
+albuminuria (ie, urinary albumin- to- creatinine ratio 
+eGastroenterology: first published as 10.1136/egastro-2023-100005 on 10 August 2023. Downloaded from https://egastroenterology.bmj.com on 7 April 2025 by guest.
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies.
+
+[W4385740504 PDF PAGE 4]
+4
+Zhou J, et al. eGastroenterology 2023;1:e100005. doi:10.1136/egastro-2023-100005
+Open access 
+Table 1 Main characteristics of included studies
+Study Age Male (%) Country Participant MAFLD diagnosis CKD definition Covariate adjustments
+Cohort study Description
+Jung  
+et al13
+57.54±8.1 54.03 Korea 268 946 participants underwent National Health Insurance Service health examination
+Fatty liver index eGFR ≤60 mL/min/1.73 m
+2 
+or presence of albuminuria
+Age, sex, income level, hypertension, diabetes mellitus, congestive heart failure, cerebrovascular disease, ischaemic heart disea

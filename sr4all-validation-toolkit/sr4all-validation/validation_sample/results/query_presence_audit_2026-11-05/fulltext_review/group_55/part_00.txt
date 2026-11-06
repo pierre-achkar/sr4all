@@ -1,0 +1,182 @@
+
+
+REVIEW W4401716223
+TITLE: Risk of glaucoma to subsequent dementia or cognitive impairment: a systematic review and meta-analysis
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4401716223 PDF PAGE 1]
+SYSTEMATIC REVIEW
+Aging Clinical and Experimental Research          (2024) 36:172 
+https://doi.org/10.1007/s40520-024-02811-w
+Introduction
+Dementia, a growing global public health problem, affects 
+approximately 50 million people. As life expectancy rises, 
+the number of dementia cases worldwide is expected to sky-
+rocket to more than 131 million by 2050 [1]. As a neurode-
+generative disease, the widespread prevalence of dementia 
+places a significant strain on global healthcare systems. Due 
+to the lack of effective treatments and preventive interven -
+tions, identifying potential risk factors for dementia is criti-
+cal for dementia prevention. However, no disease-modifying 
+treatments are currently available for adults with dementia; 
+thus, an emphasis on risk factor reduction, particularly 
+modifiable risk factors, is warranted. According to recent 
+research, visual impairment is one of the first symptoms of 
+dementia [2]. Visual deprivation caused by retinal ganglion 
+  Wenxia Zhao
+wwwzp2020@126.com
+  Mingsan Miao
+miaomingsan@163.com
+1 Department of Clinical, Henan University of Chinese 
+Medicine, No.156 Jinshui East Road, Zhengzhou,  
+Henan 450046, China
+2 Department of Pharmacology, Henan University of Chinese 
+Medicine, No.156 Jinshui East Road, Zhengzhou,  
+Henan 450046, China
+3 The First Affiliated Hospital, Henan University of Chinese 
+Medicine, No. 19 Renmin Road, Jinshui District, Zhengzhou, 
+Henan 450003, China
+4 National International Cooperation Base of Chinese 
+Medicine, Henan University of Chinese Medicine, 
+Zhengzhou, China
+Abstract
+Background Substantial evidence supports that glaucoma and dementia share pathological mechanisms and pathogenic risk 
+factors. However, the association between glaucoma, cognitive decline and dementia has yet to be elucidated.
+Objective This study was aimed to assess whether glaucoma increase the risk of dementia or cognitive impairment.
+Methods PubMed, Cochrane Library, Web of Science, and EMBASE databases for cohort or case-control studies were 
+searched from inception to March 10, 2024. The Newcastle-Ottawa Quality Assessment Scale (NOS) was used to the risk 
+of bias. Heterogeneity was rigorously evaluated using the I2 test, while publication bias was assessed by visual inspection 
+of the funnel plot and by Egger’ s regression asymmetry test. Subgroup analyses were applied to determine the sources of 
+heterogeneity.
+Results Twenty-seven studies covering 9,061,675 individuals were included. Pooled analyses indicated that glaucoma 
+increased the risk of all-cause dementia, Alzheimer’s disease, vascular dementia, and cognitive impairment. Subgroup analy-
+sis showed that the prevalence of dementia was 2.90 (95% CI: 1.45–5.77) in age ≥ 65 years and 2.07 (95% CI: 1.18–3.62) 
+in age<65 years; the incidence rates in female glaucoma patients was 1.46 (95% CI: 1.06-2.00), respectively, which was no 
+statistical significance in male patients. Among glaucoma types, POAG was more likely to develop dementia and cognitive 
+impairment. There were also differences in regional distribution, with the highest prevalence in the Asia region, while glau-
+coma was not associated with dementia in Europe and North America regions.
+Conclusion Glaucoma increased the risk of subsequent cognitive impairment and dementia. The type of glaucoma, gen -
+der, age, and region composition of the study population may significantly affect the relationship between glaucoma and 
+dementia.
+Keywords Glaucoma · Dementia · Alzheimer’s disease · Cognitive impairment · Meta-analysis
+Received: 8 April 2024 / Accepted: 13 July 2024
+© The Author(s) 2024
+Risk of glaucoma to subsequent dementia or cognitive impairment: a 
+systematic review and meta-analysis
+Xiaoran Wang1 · Wenjing Chen2 · Wenxia Zhao3 · Mingsan Miao2,4
+1 3
+
+
+[W4401716223 PDF PAGE 2]
+Aging Clinical and Experimental Research          (2024) 36:172 
+cell (RGC) injury may result in decreased activation of cen-
+tral sensory pathways in the brain, resulting in decreased 
+cognitive load and an increased risk of structural brain dam-
+age, accelerating the progression of dementia [3, 4].
+Glaucoma is a group of diseases characterized by optic 
+papillary atrophy and depression, as well as retinal ganglion 
+cell (RGC) death and visual field defects, which is the most 
+common cause of irreversible blindness worldwide. Clini -
+cally, it is classified as open-angle glaucoma or angle-closure 
+glaucoma based on the status of the anterior chamber angle 
+at the time of elevated intraocular pressure [ 5, 6]. Despite 
+extensive multicenter and laboratory studies showing that 
+pathological intraocular pressure (IOP) elevation is a sig -
+nificant risk factor for the development and progression of 
+the disease, lowering IOP does not always stop the disease 
+[7]. In glaucoma patients, progressive loss of visual func -
+tion is associated with RGC degeneration, characterized by 
+apoptosis of retinal somatic cells, axonal degeneration of 
+the optic nerve, and synaptic loss of dendrites and synaptic 
+loss of axon terminals. In addition, glaucoma-related neu -
+ronal damage extends to the lateral geniculate nucleus and 
+visual cortex and is accompanied by astrocyte and retinal 
+microglia changes [ 8–10]. Axonal transport defects have 
+also been linked to several neurodegenerative diseases, 
+including Alzheimer’s disease (AD) and other dementias. 
+Although inconclusive, numerous research have been con -
+ducted to support the common pathophysiological features 
+of dementia and glaucoma regarding age-related biological 
+features and cell death mechanisms in the central nervous 
+system [11].
+Several cross-sectional studies have found that glaucoma 
+is associated with deficits in a variety of cognitive func -
+tions, including attention, language, learning, and memory 
+skills [12–15]. In a study of 1,168 elderly patients, Mandas 
+et al. found a significant association between glaucoma and 
+the prevalence of mixed dementia [ 16]. Furthermore, neu -
+ropathological studies have revealed hyperphosphorylated 
+tau proteins, increased amyloid fragmentation, microglia 
+activation, neurodegeneration, and apoptosis in the retinas 
+of glaucoma patients. However, existing evidence does 
+not explain the causal relationship between glaucoma and 
+dementia or cognitive impairment, and findings are incon -
+sistent [17–19]. For example, in a cross-sectional study in 
+Denmark, Bach-Holm et al. followed 69 elderly patients 
+with normal IOP glaucoma for 12 years and found no cor -
+relation between glaucoma and dementia [ 20]. Ong et al. 
+followed 1179 older adults with age-related eye disease in 
+Singapore and suggested no significant correlation [21]. The 
+relationship between glaucoma and dementia or cognitive 
+impairment remains controversial.
+Growing evidence suggests that glaucoma and dementia 
+share pathological mechanisms and pathogenic risk factors. 
+Nevertheless, previous studies reported inconsistent results 
+regarding the association between glaucoma and demen -
+tia or cognitive impairment [ 22]. Clarifying the effects of 
+glaucoma on subsequent secondary cognitive impairment or 
+dementia is critical for preventing and delaying the progres-
+sion of these diseases. Therefore, we performed a system -
+atic review and meta-analysis to assess the association of 
+glaucoma with dementia or cognitive impairment.
+Methods
+This current systematic review conformed to the Preferred 
+Reporting Items for Systematic Reviews and Meta-Anal -
+yses (PRISMA) guidelines [ 23] and was registered in the 
+International Prospective Register of Systematic Reviews: 
+https://www.crd.york.ac.uk/ PROSPERO (Registration 
+number: CRD 42,023,408,202).
+Search strategy
+Both Medical Subject Headings (MeSH) terms and key -
+words were utilized to retrieve as many as possible in 
+PubMed, Web of Science, EMBASE, and Cochrane Library 
+for case-control or cohort studies exploring the relationship 
+between glaucoma and dementia or cognitive impairment 
+published from their inception to March 10, 2024. The main 
+terms included “glaucoma,” “dementia,” “Alzheimer’s dis -
+ease,” “vascular dementia,” “senile dementia,” “cognitive 
+decline,” “cognitive impairment,” “cognitive dysfunction,” 
+and “cognitive disorder.” A further gray literature search 
+was conducted using Google Scholar to identify relevant 
+articles not found through the database search. References 
+and citations of relevant publications identified for inclu -
+sion and reviews on this topic were scrutinized. English and 
+Chinese language publications were included. The detailed 
+search strategy is presented in Supplementary Table 1.
+Eligibility criteria
+The included studies were required to meet the follow -
+ing criteria: (1) case-control or cohort study design; (2) 
+exposure factors were glaucoma with incident dementia 
+or cognitive impairment, and the control group included 
+participants without glaucoma; (3) report risk estimates of 
+dementia or cognitive decline as the outcome (i.e., at least 
+all-cause dementia or Alzheimer’s disease as its most com -
+mon subtype), expressed as an adjusted odds ratio (OR), 
+risk ratio (RR), or hazard ratio (HR); (4) population-based 
+study design; (5) English publication.
+1 3
+  172  Page 2 of 17
+
+[W4401716223 PDF PAGE 3]
+Aging Clinical and Experimental Research          (2024) 36:172 
+Exclusion criteria
+The exclusion criteria were as follows: (1) conference 
+abstract, reviews, case reports, basic experiments and other 
+non-clinical research; (2) duplicate publications; (3) studies 
+with incomplete data or no relevant outcome.
+Study selection and data extraction
+All retrieved records were imported into an EndNote 
+(Clarivate Analytics) library, and two researchers (WXR 
+and CWJ) independently screened the literature, extracted 
+data, and cros

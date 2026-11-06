@@ -1,0 +1,191 @@
+ Res 2023;41(1):e2022887
+8
+of treatments before they chose to have them (n=9; 23.3-
+47.9%); about test results received as soon as feasible (n=7; 
+12.0-63.2%); received written information about important 
+aspects of their care (n=8; 11.3-54.7%); and explanations of  
+tests, for which they would like an explanation (n=5; 29.7-
+49.5%). Between 10.8-66.9% reported unmet supportive 
+care needs related to the things patients can do to help 
+themselves get better (n=11); and between 20.8-62.0% of 
+participants had a need to be informed in concerns to their 
+cancer being either under control or diminishing (n=8).
+ Related factors with unmet supportive care 
+needs of post-discharge breast cancer patients
+ The unmet supportive care needs of post-discharge 
+breast cancer participants as well as some related 
+factors were identified through the analysis of 14 study 
+results7,10,16-17,19-21,23-29, out of a total of 17 articles in the review 
+(Table 4). 
+        Only Lo-Fo-Wong reported a positive association 
+between older age with unmet supportive care needs 
+(ß=−0.18; p-value<0.05)17, whilst other studies have shown 
+Table 4 Related factors with unmet supportive care needs of post-discharge breast cancer patients
+Factors
+No.reporting statistically 
+significant correlation with 
+unmet supportive care 
+needs (n)
+References
+Demographic
+   Age ++++++++ [7],[16],[17],[19],[20],[26],[27],[29]
+   Education level +++ [19],[21],[29]
+   Employed/ Income +++ [7],[27],[29]
+   Ethnic group ++ [19],[29]
+   Marital status ++ [19],[29]
+   Comorbidity + [17]
+   Living place + [20]
+Psychosocial
+   Depression (HADSa) ++++++ [10],[19],[21],[23],[26],[27]
+   Anxiety (STAIb, HADS a) ++++ [19],[21],[26],[27]
+   Psychological distress (MSAF-SFc, Distress Thermometer, 
+   FORd)
++++ [10],[17],[28]
+   Lower mental QoL (FACT-Be, FACT-G e) +++ [23],[24],[25]
+Physical
+   Lower overall QoL (EORTC QLQ-C30f) +++ [21],[23],[28]
+   Lower physical QoL (FACT-Be, FACT-G e) +++ [17],[23],[24]
+Disease/treatment related
+   Undergoing active treatment +++ [17],[21],[29]
+   Symptom distress/severity +++ [10],[16],[17]
+   Post-discharge duration ++ [23],[29]
+Disease-related characteristic/stage of cancer ++ [20],[27]
+   Time of diagnosed ++ [21],[27]
+   Presence of symptom + [19]
+   Lower performent status + [27]
+aHADS=Hospital Anxiety and Depression Scale, bSTAI=The State-Trait Anxiety Inventory, cMSAF-SF=The Memorial Symptom Assessment 
+Scale – Short Form, dFOR=Fear of recurrence, eFACT-G/B=Functional Assessment of Cancer Therapy (G General/ B Breast), fEORTC 
+QLQ-C30=European Organization for Research and Treatment of Cancer Quality of Life Questionnaire, QoL=Quality of Life
+
+[W4289544487 PDF PAGE 9]
+Journal of Health Science and Medical Research                                                   J Health Sci Med Res 2023;41(1):e2022887
+9
+Nguyen HTY.Post-discharge Unmet Needs of Breast Cancer
+that younger breast cancer women required more unmet 
+supportive care needs than older patients.7,16,19,20,26,27,29 
+Three articles reported the relationship between education 
+level and unmet supportive care needs; in that; the higher 
+the education level of the participants had, the greater the 
+unmet supportive care needs they demanded (ß=0.12; 
+p-value=0.002).19,29 Contrary to the above statement was 
+the research results of Wang et al, in that people who had 
+not graduated from secondary school had higher unmet 
+supportive care needs than others (95% CI=1.06-2.61).24 
+However, patients who left the hospital after being treated 
+with breast cancer expressed the significant effect of 
+unemployed status (ß=−0.14; p-value=0.002) 27,29 or low 
+income (p-value<0.001)7, with higher unmet supportive 
+care needs. Additionally, married patients also required 
+more of the sexuality domain of unmet supportive care 
+needs (p-value<0.001) than single/divorced and widowed 
+women. 19,28
+         The relationship between depression factors and 
+unmet supportive care needs of breast cancer women when 
+they were released from the hospital was performed by using 
+the Hospital Anxiety and Depression Scale (HADS). Whilst 
+6 studies reported that cancer patients living with more 
+depression were higher in the overall unmet supportive care 
+need domains (p-value<0.001)10,19,21,23,26,27, the study of Lam 
+et al. indicated a high level of depression was associated  
+with high physical and daily living needs (p-value=0.001), 
+psychological needs (p-value=0.002); health system and 
+information needs (p-value=0.049), and fell into the physical 
+and daily living domain (p-value=0.006).19
+ Four articles showed the positive association of 
+post-discharge unmet supportive care needs with an 
+anxious feeling of breast cancer participants.19,21,26,27 This 
+confirmed that participants who stayed with a higher level 
+of anxiety expressed higher unmet supportive care needs 
+(p-value<0.001). 
+         Correlation between post-discharge unmet 
+supportive care needs of breast cancer participants and 
+physical groups with lower overall QoL21,25,28, and lower 
+physical QoL23-25 were found. While participants had a 
+minor QoL-related to all aspects, they expressed higher 
+unmet supportive care needs for all domains (e.g., r= 
+-0.52, p-value<0.00128; p-value<0.0517 or p-value<0.0121). 
+Besides, coping with the lessening in QoL of physical issues, 
+cancer participants showed a high level of unmet supportive 
+care needs for only the physical and daily living domain.23-25
+ The data from three articles demonstrated that 
+breast cancer participants who suffered treatment therapy 
+showed great unmet supportive care needs.17,21,29 There 
+was a positive correlation between unmet supportive care 
+needs and symptom distress/severity among three different 
+articles.10,16,25 These authors reported that patients have 
+more symptom distress or suffered a severity of symptoms, 
+for which they required more supported care needs from 
+medical staff. Additionally, during the period for which 
+breast cancer patients  were moving from out of hospital 
+also related to unmet supportive care needs to be shown in 
+two articles.23,29 In the study of Fong & Cheat, participants 
+discharged within 5 years expressed higher needs in the 
+physical and daily living (p-value<0.001), psychological 
+(p-value<0.001), and sexuality domain (p-value=0.019).29 
+Park & Hwang also indicated the association between a 
+time of under one year; wherein breast cancer patients were 
+moving out of the hospital, and the overall domains of unmet 
+supportive care needs (p-value<0.001).23 Whereas, breast 
+cancer patients who were diagnosed with II, III, or IV stage, 
+and diagnosed over one year had more post-discharge 
+unmet supportive care needs (p-value<0.01)20, in Akechi’s 
+study, patients being diagnosed under 6 months and in 
+an advanced stage required more supportive care needs 
+(p-value<0.001).27 Three issues included the presence of 
+symptoms (p-value<0.001), and lower performance status 
+
+[W4289544487 PDF PAGE 10]
+Nguyen HTY.Post-discharge Unmet Needs of Breast Cancer
+Journal of Health Science and Medical Research                                                    J Health Sci Med Res 2023;41(1):e2022887
+10
+(p-value<0.001) being reported as having great significance 
+with unmet supportive care needs of breast cancer patients 
+after discharging.14,27  
+Discussion
+ This systematic review highlighted a large proportion 
+of participants who presented at least one unmet supportive 
+care need after they left the hospital; as almost 32.4-
+84.0%. This result was similar to the research of Wabula, 
+with over 50.0% of supportive care needs of breast cancer 
+patients being unmet after discharge.30 The selection of 
+study subjects, with diverse clinical and demographic 
+characteristics, allows us to explore the needs of this entire 
+patient population.  
+ Discharge from the hospital is a very difficult process 
+for people with breast cancer, because the sudden and/
+or forewarned end of medical care can leave them feeling 
+anxious, stressed, and abandoned. Therefore, many 
+studies conducted on participants living with breast cancer 
+showed that the psychological needs were the most 
+prominent unmet supportive care needs, overall, during the 
+post-discharge period; accounting for 4.0-78.8%.9-10,22-25 
+Conversely, sexual need held the lowest position, with 
+the range from 2.0-33.4%; this could be explained by 
+the age of all breast cancer patients being older (from 
+43 to 59.1 years, S.D.=12.1). This finding was the same 
+results in some previous systematic reviews conducted 
+on overall cancers by Harrison et al., and Lisy et al.11,13
+ There was an association between people with 
+breast cancer having symptoms of distress, anxiety, and 
+low QoL with post-discharge unmet supportive care needs. 
+However, this conclusion must be interpreted with caution, 
+as that of the recommendation of some former studies 
+from the authors Wang and colleagues.21 Because most of 
+the included studies were of a cross-sectional descriptive 
+design, this meant that other variables related to participants 
+had inconsistent results, (e.g., marital background, education 
+level, stage of illness, and depression-anxiety), which might 
+be caused by cultural differences and/or methodological 
+errors (e.g. insufficient sample sizes to explore the 
+relationship between two factors), so it was difficult to 
+determine the exact cause-and-effect relationship. Our 
+research also shows correlations between several factors 
+caused by cancer pathology (e.g., stage of disease, 
+treatment methods before discharge, symptoms presence) 
+and the unmet supportive care needs of breast cancer 
+patients after they were discharged from the hospital. This 
+result was similar to the results of Lisy et al.; however, 
+Lisy's study was performed on all cancer patients; not 
+distinguishing those with breast cancer as in our research.11 
+ A challenge for both health services and systems 
+is how to care for the breast cance

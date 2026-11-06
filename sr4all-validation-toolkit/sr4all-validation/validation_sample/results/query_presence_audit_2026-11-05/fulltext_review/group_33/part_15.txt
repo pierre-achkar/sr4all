@@ -1,0 +1,348 @@
+hrombocytopenia purpura (10). Thus, there
+is increasing interest in the potential link between periodontal
+diseases and certain autoimmune diseases.
+Sjogren’s syndrome (SS) is an autoimmune disorder with
+secretory gland dysfunction charactered by dryness of the
+main mucosal surfaces including the mouth, eyes, nose, and
+vagina (11, 12). It can occur alone as primary SS (pSS) or be
+associated with other systemic diseases as secondary SS (sSS)
+(13). Incidence and prevalence rates of pSS vary widely around
+the world. The prevalence rate of pSS was 43.03 cases per
+100,000 inhabitants across a series of population-based studies
+in which the overall age of patients was 56.16 years (14). It is
+worth mentioning that increasing incidences of oligoptyalism
+in patients with Sjogren’s syndrome have been reported, which
+aﬀects the removal of dental plaque and ultimately may lead to
+periodontal diseases.
+According to the published literature in the early years,
+no signiﬁcant diﬀerence could be detected concerning the
+periodontal status of SS patients, compared with that of the
+patients with other immune diseases as well as with that of
+systemically healthy subjects (15–17). However, in recent years,
+putative links between periodontal diseases and SS have been
+reported in several studies. For example, Chuang et al. (18)
+found that the prevalence (74.6% vs. 63.0%, P = 0.001) and
+frequency (median 5.37 vs. 1.45 per year, P < 0.001) of dental
+visits were found higher in patients with pSS and the risk of
+gingivitis (aIRR 1.43, P < 0.001) and periodontitis (aIRR 1.44,
+P < 0.001) was also signiﬁcantly higher them (18). Results of the
+above researches contradict previous systematic reviews (19).
+To systematically ascertain whether patients with SS are more
+likely to be diagnosed with periodontal disease, we included
+articles that explored the incidence of periodontal diseases in
+patients diagnosed with SS compared with subjects without SS
+and conducted this systematic review.
+2. Methods
+2.1. Protocol and registration
+This systematic review was conducted according to
+the Meta-analysis of Observational Studies in Epidemiology
+guidelines (20), the Preferred Reporting Items for Systematic
+Reviews and Meta-Analyses standard (PRISMA) (21). It was
+registered in PROSPERO (CRD42021261322). The research
+question of this meta-analysis and systematic review was that: is
+there an association between periodontal disease and SS subjects
+meeting the following eligibility criteria?
+2.2. Eligibility criteria
+The strategy for search process was conducted using the
+PEOS model:
+(1) P (patient/participants): subjects aged ≥14 years and
+without other related diseases (such as head and neck
+tumors);
+Frontiers in Medicine 02 frontiersin.org
+
+[W4313556772 PDF PAGE 3]
+fmed-09-904638 December 29, 2022 Time: 12:8 # 3
+Yang et al. 10.3389/fmed.2022.904638
+(2) E (exposure): Sjogren’s syndrome [with the criteria such
+as the American-European Consensus Group Criteria
+(AECG), the European Community criteria, etc.];
+(3) O (outcome): periodontal disease percentage or clinical
+periodontal parameters;
+(4) S (study design): observational study (cohort, case–
+control, and cross-sectional studies).
+2.3. Information sources and search
+strategy
+We conducted a systematic literature search in the PubMed,
+EMBASE, Web of Science, and Cochrane Library (from
+their inceptions until 24 November 2021) to investigate the
+relationship between SS and periodontal diseases. To identify
+all related datasets and the relevant articles, we used search
+strategies shown in Supplementary Table 1.
+2.4. Study selection and data collection
+All retrieved studies were independently assessed by two
+researchers (XP and JG) based on inclusion/exclusion criteria.
+For studies whose titles and abstracts might meet the inclusion
+criteria, the full text was selected for further evaluation. A third
+author BY was involved when there was a disagreement between
+the two researchers (XP and JG).
+After identifying the included studies that met the
+criteria, XP and JG extracted the following information:
+study characteristics (author/s, year of publication, study
+design, country, and characteristics of participants); periodontal
+diseases assessment [by clinical diagnosis, oral examination
+FIGURE 1
+Flow diagram of study selection.
+Frontiers in Medicine 03 frontiersin.org
+
+[W4313556772 PDF PAGE 4]
+fmed-09-904638 December 29, 2022 Time: 12:8 # 4
+Yang et al. 10.3389/fmed.2022.904638
+TABLE 1 Characteristics of the included studies on the prevalence of periodontal diseases in patients with Sjogren’s syndrome.
+References Study
+design
+Country Age, years Periodontal
+diseases
+assessment
+SS
+assessment
+n (control) n (SS cases) Number of
+participants
+Women (%) Fundings
+Chuang et al.
+(18)
+Cohort China Range: 20−80 Gingivitis:
+ICD-9-CM: 523.0,
+523.1, and
+523.2Periodontitis:
+ICD-9-CM: 523.3,
+523.4, 523.5, and
+523.8
+ICD-9-CM: 710.2 7090 709 7799 88.9% −
+Albrecht et al.
+(27)
+Cohort Germany Patients range: 24−80;
+mean ±SD:
+58.1 ±12Controls range:
+19−76; mean ±SD:
+54.1 ±14
+Self-reported AECG 87 205 292 100% −
+Lu et al. (32) Cohort China Mean ±SD: 54 ±14 Gingivitis:
+ICD-9-CM: 523.0–
+523.9Periodontitis:
+ICD-9-CM:
+523.3–523.5
+ICD-9-CM: 710.2 1945 389 2334 90% −
+Ozcaka et al.
+(33)
+Cross-sectional
+case control
+Turkey Mean ±SD: 51.1 ±14.1 PPD, PI, BOP AECG 25 44 69 − The Research Foundation of Ege
+University, Izmir, Turkey.
+Crincoli et al.
+(34)
+Case–control Italy Patients range: 21−82;
+mean ±SD:
+56.06 ±12.19Controls
+range: 19−76;
+mean ±SD:
+55.32 ±12.17
+Clinical examination AECG 72 72 144 97.2% −
+Ergun et al. (44) Case–control Turkey Patients range: 26−78;
+mean: 53.27Controls
+range: 25−94; mean:
+54.27
+PPD, API, BOP The recently
+modiﬁed
+internationally
+agreed-on criteria
+for SS
+37 37 74 − −
+Antoniazzi et al.
+(17)
+Cross-sectional Brazil Mean ±SD:
+50.1 ±12.5pSS
+mean ±SD:
+48.1 ±13.4sSS
+mean ±SD:
+53.8 ±11.6Controls
+mean ±SD: 49.8 ±12.8
+PI, GI, CAL, PPD,
+BOP
+The European
+Community
+criteria
+19 19 38 50% −
+Pedersen et al.
+(31)
+Case–control Denmark Patients Mean ±SD:
+60 ±15Controls
+Mean ±SD: 56 ±13
+PI, GI, PPD AECG; the
+Copenhagen
+criteria
+20 20 40 100% −
+(Continued)
+Frontiers in Medicine 04 frontiersin.org
+
+[W4313556772 PDF PAGE 5]
+fmed-09-904638 December 29, 2022 Time: 12:8 # 5
+Yang et al. 10.3389/fmed.2022.904638
+TABLE 1 (Continued)
+References Study
+design
+Country Age, years Periodontal
+diseases
+assessment
+SS
+assessment
+n (control) n (SS cases) Number of
+participants
+Women (%) Fundings
+Leung et al. (38) Cross-sectional China pSS range: 33−76;
+mean ±SD:
+51.4 ±14.3sSS range:
+27−66; mean ±SD:
+43.3 ±10.9Controls
+range: 27−75;
+mean ±SD: 44.0 ±10.7
+PI, CI, CAL The European
+Community
+Diagnostic Criteria
+29 51 80 93.33% CRCG grant from the University
+of Hong Kong.
+Najera et al. (39) Cross-sectional United States Patients range: 28 - 80;
+mean ±SD:
+60.92 ±13.52Controls
+range: 30 – 77;
+mean ±SD:
+58.29 ±12.09
+PI, GI, BOP , PPD,
+CAL
+The European
+Community
+Criteria
+24 25 49 91.84% −
+Tervahartiala
+et al. (43)
+Cross-sectional Denmark Patients range: 38−63;
+mean: 52Controls range:
+27−42; mean: 31
+PI, PPD, GBI The Copenhagen
+criteria
+6 8 14 − The Finnish Academy; the
+Kordelin Foundation; the
+Research Foundation for Women;
+the Finnish Dental Association.
+Ambrosio et al.
+(29)
+Cross-sectional Brazil Patients Mean ±SD:
+52.14 ±14.1Controls
+Mean ±SD: 49 ±6.73
+PPD, CAL, BOP , PI AECG 7 7 14 100% The SALIV A Research Nucleus of
+Support (NAP-SALIV A) of the
+University of São Paulo; the
+research grants from São Paulo
+Research Foundation (FAPESP ,
+respectively, 2015/07396-2, and
+2013/26381-0); the scholarships
+from FAPESP (respectively,
+2014/06387-7, and
+2015/24061-4).
+Marton et al.
+(35)
+Cross-sectional Hungary Range: 32–76Patients
+Mean ±SD:
+55 ±11Controls
+Mean ±SD: 49 ±15
+GBI, PPD, BOP AECG 43 49 92 92.39% The Hungarian Scientiﬁc
+Research Fund (OTKA no.
+T-037776); the Hungarian
+Medical Research Council
+(ETT-247/2003).
+Kuru et al. (16) Cross-sectional England pSS range: 35−77;
+mean ±SD:
+61.2 ±14.4sSS range:
+43−77; mean ±SD:
+60.6 ±11.8Controls
+range: 40−77;
+mean ±SD: 61.8 ±13.09
+PI, GI, BOP , PPD,
+CAL
+The European
+Community
+Criteria
+11 18 29 100% −
+(Continued)
+Frontiers in Medicine 05 frontiersin.org
+
+[W4313556772 PDF PAGE 6]
+fmed-09-904638 December 29, 2022 Time: 12:8 # 6
+Yang et al. 10.3389/fmed.2022.904638
+TABLE 1 (Continued)
+References Study
+design
+Country Age, years Periodontal
+diseases
+assessment
+SS
+assessment
+n (control) n (SS cases) Number of
+participants
+Women (%) Fundings
+Pedersen et al.
+(40)
+Cross-sectional Norway Patients range: 40−82;
+Mean: 61.4Controls
+range: 39−70; Mean: 50
+PI, GI, PPD The European
+classiﬁcation
+criteria for SS
+14 16 30 90% The Ingeborg and Leo Dannin
+Foundation; the Danish Dental
+Association Research Foundation
+(DTF’s Forskningsfond and
+FUT); the Colgate Research
+Foundation; the Ib Henriksen
+Research Foundation.
+Pedersen et al.
+(41)
+Cross-sectional Denmark Patients range: 40−82;
+Mean: 64.1Controls
+range: 39−70; Mean: 64.8
+PI, GI, PPD European
+classiﬁcation
+criteria for SS and
+the Copenhagen
+criteria
+20 20 40 82.5% The Zendium Household and
+Body Care Research Foundation;
+the Danish Dental Association
+Research Foundation (DTF’s
+forskningsfond and FUT).
+Tseng (30) Cross-sectional United States Patients Mean:
+52.9Controls Mean: 53.7
+GI, PI, BI, PPD, CAL NS 14 14 28 100% −
+Zoppo et al. (42) Cross-sectional Venezuela Patients range: 43−68;
+Mean ±SD:
+54.8 ±10Controls range:
+21−43; Mean ±SD:
+32 ±8.34
+GI, PI, PPD The European
+classiﬁcation
+criteria for SS
+6 7 13 69.23% −
+Seck-Diallo et al.
+(36)
+Cross-sectional Senegal pSS mean ±SD:
+46.7 ±2.5sSS
+mean ±SD: 48.2 ±1.4
+PI, GI, PPD, CAL AECG 103 103 206 91.26% −
+Pers et al. (37) Cross-sectional France Patients range:
+44−81Controls range:
+39−82
+PI, GI, BOP , PPD AECG 15 15 30 83.3% −
+Rhodus and
+Michalowicz
+(28)
+Cross-sectional
+study
+United States Patients range: 43−74;
+Mean: 56.7Controls
+range: 32−65; Mean: 52.6
+PI, GI, PPD, CAL The
+comprehensive
+European
+Community
+Criteria
+10 10 20 100% −
+ICD-9-CM, the Interna

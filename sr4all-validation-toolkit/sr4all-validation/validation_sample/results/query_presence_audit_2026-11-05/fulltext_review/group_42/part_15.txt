@@ -1,0 +1,139 @@
+ G.,
+Alhazanni, W., et al. (2020). GRADE approach to drawing conclusions from a network
+meta-analysis using a partially contextualised framework.BMJ 371, m3907. doi:10.
+1136/bmj.m3907
+Carrera, F., Lok, C. E., de Francisco, A., Locatelli, F., Mann, J. F., Canaud, B., et al.
+(2010). Maintenance treatment of renal anaemia in haemodialysis patients with
+methoxy polyethylene glycol-epoetin beta versus darbepoetin alfa administered
+monthly: A randomized comparative trial.Nephrol. Dial. Transplant.25, 4009– 4017.
+doi:10.1093/ndt/gfq305
+Charytan, C., Manllo-Karim, R., Martin, E. R., Steer, D., Bernardo, M., Dua, S. L., et al.
+(2021). A randomized trial of roxadustat in anemia of kidney failure: SIERRAS study.
+Kidney Int. Rep.6, 1829– 1839. doi:10.1016/j.ekir.2021.04.007
+Chen, N., Hao, C., Liu, B.-C., Lin, H., Wang, C., Xing, C., et al. (2019). Roxadustat
+treatment for anemia in patients undergoing long-term dialysis.N. Engl. J. Med.381,
+1011– 1022. doi:10.1056/NEJMoa1901713
+Chen, N., Qian, J., Chen, J., Yu, X., Mei, C., Hao, C., et al. (2017). Phase 2 studies of
+oral hypoxia-inducible factor prolyl hydroxylase inhibitor FG-4592 for treatment of
+anemia in China.Nephrol. Dial. Transplant.32, 1373– 1386. doi:10.1093/ndt/gfx011
+Coresh, J., Selvin, E., Stevens, L. A., Manzi, J., Kusek, J. W., Eggers, P., et al. (2007). Prevalence of
+chronic kidney disease in the United States.Jama298, 2038– 2047. doi:10.1001/jama.298.17.2038
+Csiky, B., Schömig, M., Esposito, C., Barratt, J., Reusch, M., Valluri, U., et al. (2021). Roxadustat
+for the maintenance treatment of anemia in patients with end-stage kidney disease on stable
+dialysis: A European phase 3, randomized, open-label, active-controlled study (pyrenees).Adv.
+Ther. 38, 5361– 5380. doi:10.1007/s12325-021-01904-6
+Davidson, M. H. (2009). AURORA and JUPITER trials: Recognizing the limitations
+and expanding the beneﬁts of statin treatment.Curr. Cardiol. Rep.11, 401– 403. doi:10.
+1007/s11886-009-0058-0
+Dhillon, S. (2020). Daprodustat: First approval.Drugs 80, 1491– 1497. doi:10.1007/
+s40265-020-01384-y
+Dhillon, S. (2022).Drugs, 1207– 1212. Desidustat: First approval, 82, 11, doi:10.1007/
+s40265-022-01744-w
+Dhillon, S. (2019). Roxadustat: First global approval.Drugs 79, 563– 572. doi:10.1007/
+s40265-019-01077-1
+Eckardt, K.-U., Agarwal, R., Aswad, A., Awad, A., Block, G. A., Bacci, M. R., et al.
+(2021). Safety and efﬁcacy of vadadustat for anemia in patients undergoing dialysis.N.
+Engl. J. Med.384, 1601– 1612. doi:10.1056/NEJMoa2025956
+Egger, M., Smith, G. D., Schneider, M., and Minder, C. (1997). Bias in meta-analysis
+detected by a simple, graphical test.Bmj 315, 629– 634. doi:10.1136/bmj.315.7109.629
+Eltzschig, H. K., Bratton, D. L., and Colgan, S. P. (2014). Targeting hypoxia signalling
+for the treatment of ischaemic and inﬂammatory diseases. Nat. Rev. Drug Discov.13,
+852– 869. doi:10.1038/nrd4422
+Fandrey, J., Schödel, J., Eckardt, K.-U., Katschinski, D. M., and Wenger, R. H. (2019).
+Now a Nobel gas: Oxygen.Pﬂügers Archiv-European J. Physiology 471, 1343– 1358.
+doi:10.1007/s00424-019-02334-8
+Fishbane, S., Pollock, C. A., El-Shahawy, M., Escudero, E. T., Rastogi, A., Van, B. P.,
+et al. (2022). Roxadustat versus epoetin alfa for treating anemia in patients with chronic
+kidney disease on dialysis: Results from the randomized phase 3 ROCKIES study.J. Am.
+Soc. Nephrol. 33, 850– 866. doi:10.1681/ASN.2020111638
+F u ,Z . ,G e n g ,X . ,C h i ,K . ,S o n g ,C . ,W u ,D . ,L i u ,C . ,e ta l .( 2 0 2 2 ) .E fﬁcacy and safety of
+daprodustat vs rhEPO for anemia in patients with chronic kidney disease: A meta-analysis
+and trial sequential analysis.Front. Pharmacol.13, 746265. doi:10.3389/fphar.2022.746265
+Haase, V. H. (2021). Hypoxia-inducible factor– prolyl hydroxylase inhibitors in the treatment
+of anemia of chronic kidney disease.Kidney Int. Suppl.11, 8– 25. doi:10.1016/j.kisu.2020.12.002
+Hanudel, M. R., Wong, S., Jung, G., Qiao, B., Gabayan, V., Zuk, A., et al. (2021).
+Amelioration of chronic kidney disease-associated anemia by vadadustat in mice is not
+dependent on erythroferrone.Kidney Int. 100, 79– 89. doi:10.1016/j.kint.2021.03.019
+Hanudel, M. R., Rappaport, M., Chua, K., Gabayan, V., Qiao, B., Jung, G., et al. (2018).
+Levels of the erythropoietin-responsive hormone erythroferrone in mice and humans
+with chronic kidney disease. Haematologica 103, e141– e142. doi:10.3324/haematol.
+2017.181743
+Frontiers inPharmacology frontiersin.org11
+Huang et al. 10.3389/fphar.2023.1050412
+
+[W4384154607 PDF PAGE 12]
+Higgins, J., Del Giovane, C., Chaimani, A., Caldwell, D., and Salanti, G. (2014).
+Evaluating the quality of evidence from a network meta-analysis.Value Health 17,
+e99682. doi:10.1371/journal.pone.0099682
+Higgins, J. P. (2008). Cochrane handbook for systematic reviews of interventions.
+https://training.cochrane.org/handbook.
+Higgins, J. P., Thompson, S. G., and Spiegelhalter, D. J. (2009). A re-evaluation of
+random-effects meta-analysis.J. R. Stat. Soc. Ser. A (Statistics Soc.172, 137– 159. doi:10.
+1111/j.1467-985X.2008.00552.x
+Holdstock, L., Meadowcroft, A. M., Maier, R., Johnson, B. M., Jones, D., Rastogi, A.,
+et al. (2016). Four-week studies of oral hypoxia-inducible factor– prolyl hydroxylase
+inhibitor GSK1278863 for treatment of anemia.J. Am. Soc. Nephrol.27, 1234– 1244.
+doi:10.1681/ASN.2014111139
+Huang, Q., Liao, Z., Liu, X., Xia, Y., and Wang, J. (2022). Efﬁcacy and safety of
+vadadustat compared to darbepoetin alfa on anemia in patients with chronic kidney
+disease: A meta-analysis.Int. Urol. Nephrol.55, 325– 334. doi:10.1007/s11255-022-03316-z
+Hurst, J. H. (2016). William Kaelin, peter Ratcliffe, and Gregg Semenza receive the
+2016 albert lasker basic medical research award.J. Clin. investigation126, 3628– 3638.
+doi:10.1172/jci90055
+Hutton, B., Salanti, G., Caldwell, D. M., Chaimani, A., Schmid, C. H., Cameron, C.,
+et al. (2015). The PRISMA extension statement for reporting of systematic reviews
+incorporating network meta-analyses of health care interventions: Checklist and
+explanations. Ann. Intern. Med.162, 777– 784. doi:10.7326/M14-2385
+Ikeda, Y. (2021). Novel roles of HIF-PHIs in chronic kidney disease: The link between
+iron metabolism, kidney function, and FGF23.Kidney Int. 100, 14– 16. doi:10.1016/j.
+kint.2021.04.030
+Kalantar-Zadeh, K., Jafar, T. H., Nitsch, D., Neuen, B. L., and Perkovic, V. (2021).
+Chronic kidney disease.Lancet 398, 786– 802. doi:10.1016/s0140-6736(21)00519-5
+Kautz, L., Jung, G., Valore, E. V., Rivella, S., Nemeth, E., and Ganz, T. (2014).
+Identiﬁcation of erythroferrone as an erythroid regulator of iron metabolism.Nat.
+Genet. 46, 678– 684. doi:10.1038/ng.2996
+Kimata, N., Akiba, T., Pisoni, R. L., Albert, J. M., Satayathum, S., Cruz, J. M., et al.
+(2005). Mineral metabolism and haemoglobin concentration among haemodialysis
+patients in the Dialysis Outcomes and Practice Patterns Study (DOPPS).Nephrol. Dial.
+Transplant. 20, 927– 935. doi:10.1093/ndt/gfh732
+Klein, H. G., Spahn, D. R., and Carson, J. L. (2007). Red blood cell transfusion in
+clinical practice. Lancet 370, 415– 426. doi:10.1016/s0140-6736(07)61197-0
+Koulouridis, I., Alfayez, M., Trikalinos, T. A., Balk, E. M., and Jaber, B. L. (2013). Dose
+of erythropoiesis-stimulating agents and adverse outcomes in CKD: A metaregression
+analysis. Am. J. Kidney Dis.61, 44– 56. doi:10.1053/j.ajkd.2012.07.014
+Macdougall, I. C., Akizawa, T., Berns, J. S., Bernhardt, T., and Krueger, T. (2019).
+Effects of molidustat in the treatment of anemia in CKD.Clin. J. Am. Soc. Nephrol.14,
+28– 39. doi:10.2215/CJN.02510218
+Markham, A. (2021). Enarodustat: First approval.Drugs 81, 169– 174. doi:10.1007/
+s40265-020-01444-3
+Markham, A. (2020). Vadadustat: First approval.Drugs 80, 1365– 1371. doi:10.1007/
+s40265-020-01383-z
+Massy, Z., Merkling, T., Wagner, S., Girerd, N., Essig, M., Wanner, C., et al. (2022).
+Association of serum phosphate with efﬁcacy of statin therapy in hemodialysis patients.
+Clin. J. Am. Soc. Nephrol. CJASN17, 546– 554. doi:10.2215/CJN.12620921
+Massy, Z., and Zeeuw, D. (2013). LDL cholesterol in CKD - to treat or not to treat?
+Kidney Int. 84, 451– 456. doi:10.1038/ki.2013.181
+McMurray, J., Parfrey, P., Adamson, J. W., Aljama, P., Berns, J. S., Bohlius, J., et al.
+(2012). Kidney disease: Improving global outcomes (KDIGO) anemia work
+group. KDIGO clinical practice guideline for anemia in chronic kidney disease.
+Kidney Int. Suppl.,2 ,4 ,2 7 9– 335. doi:10.1038/kisup.2012.37
+Meadowcroft, A. M., Cizman, B., Holdstock, L., Biswas, N., Johnson, B. M., Jones, D.,
+et al. (2019). Daprodustat for anemia: A 24-week, open-label, randomized controlled
+trial in participants on hemodialysis.Clin. kidney J.12, 139– 148. doi:10.1093/ckj/sfy014
+Meytes, D., Bogin, E., Ma, A., Dukes, P. P., and Massry, S. (1981). Effect of parathyroid
+hormone on erythropoiesis.J. Clin. Investigation67, 1263– 1269. doi:10.1172/jci110154
+Miao, M., Wu, M., Li, Y., Zhang, L., Jin, Q., Fan, J., et al. (2022). Clinical potential of
+hypoxia inducible factors prolyl hydroxylase inhibitors in treating nonanemic diseases.
+Front. Pharmacol. 13, 837249. doi:10.3389/fphar.2022.837249
+Nangaku, M., Farag, Y. M., DeGoma, E., Luo, W., Vargo, D., and Khawaja, Z. (2021).
+Vadadustat, an oral hypoxia-inducible factor prolyl hydroxylase inhibitor, for treatment
+of anemia of chronic kidney disease: Two randomized phase 2 trials in Japanese
+patients. Nephrol. Dial. Transplant.36, 1244– 1252. doi:10.1093/ndt/gfaa060
+Nangaku, M., Kondo, K., Ueta, K., Kokado, Y., Kaneko, G., Matsuda, H., et al. (2021).
+Efﬁcacy and safety of vadadustat compared with darbepoetin alfa in Japanese anemic
+patients on hemodialysis: A phase 3, multicenter, randomized, double-blind study.
+Nephrol. Dial. Transplant.36, 1731– 1741. doi:10.1093/ndt/gfab055
+Nikolakopoulou, A., Higgins, J. P., Papakonstantinou, T., Chaimani, A., Del Giovane,
+C., Egger, M., et al. (2019). Assessing conﬁdence in the results of network meta-analysis
+(CINeMA). BioRxiv, 597047, doi:10.1101/597047
+Nissenson, A. R., Swan, S. K., L

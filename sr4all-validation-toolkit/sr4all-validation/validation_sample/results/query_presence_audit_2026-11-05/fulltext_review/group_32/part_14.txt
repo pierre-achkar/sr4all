@@ -1,0 +1,377 @@
+ ng. 
+h/ml 
+1250±512 
+ng/ml 
+72 (36-72 
+range) (h) 
+- - - Rats Oral 4 500 mg/kg 
+insadol 
+extract 
+- 
+2 Ergostero
+l [70] 
+AUC (0-36h) 
+22.29±5.08 (g 
+h ml-1) 
+22.27±0.1
+9 (g/ml) 
+8.00±1.18 
+(h) 
+5.90±1.
+41 
+(h) 
+- - Rat Oral 6 100 mg/kg - 
+3 Stigmaste
+rol [69] 
+AUC (0-∞) 
+21.8±7.86 ng 
+h/ml 
+246±38.2 
+ng/ml 
+15(9 to72 
+range) 
+(h) 
+- - - Rat Oral 4 500 mg/kg 
+insadol 
+extract 
+- 
+4 Beta-
+sitosterol 
+[71] 
+AUC0-∞ 
+0.19 ng. h/ml 
+1.8 pg/ml 17.33 (h) 72.4 (h) - - Humans Oral 12 3.8-4.2 µg 
+in 15 ml 
+solution 
+0.41% 
+5 Sarsasap
+ogenin 
+[72] 
+AUC0-48 
+17405±4398 
+ng h/ml 
+2114±362 
+ng/ml 
+6 (h) 8.7±2.2 
+(h) 
+- - Rats Oral 6 25 mg/kg - 
+6 Cucurbita
+cin B [73] 
+AUC0-∞ 
+52.42±29.58 
+31.24±10.
+50 µg/l 
+0.60±0.22 
+(h) 
+N/A - - Rats Oral 6 4 mg/kg 10.25±5
+.63 % 
+7 
+ 
+Diosgeni
+n [74] 
+AUC0-∞ 
+4.475±0.06 µg 
+h/ml 
+0.5773±0.
+012 
+µg/ml 
+1 (h) 7.563±0
+.21 (h) 
+- 2.5143±0.0
+9 ml/h/kg 
+Rats Oral 6 15 mg/kg 9±0.2 % 
+AUC0-∞ 
+4.957±0.44 µg 
+h/ml 
+ 
+0.6122±0.
+1 µg/ml 
+- 7.930±0
+.37 (h) 
+2.539±0.
+57 ml/kg 
+0.222±0.05 
+ml/h/kg 
+Rats Intraven
+ous 
+single 
+dose 
+6 1.5 mg/kg - 
+8 Ginsenosi
+de [75] 
+AUC0-∞ 
+279.70±81.84 
+µg/l. h 
+35.38±10.
+33 µg/l 
+4.29±0.76 
+(h) 
+3.09±1.
+64 (h) 
+848.16±4
+87.89 
+L/kg 
+189.36±43.
+49 L/h/kg 
+Rats Oral 6 50 mg/kg 4.23 % 
+AUC0-∞ 
+661.31±151.7
+8 µg/l. h 
+534.97±1
+05.40 µg/l 
+- 6.35±4.
+04 (h) 
+69.23±41
+.13 L/kg 
+7.88±1.99 
+L/h/kg 
+Intraven
+ous 
+6 5 mg/kg  
+9 Jervine 
+[76] 
+AUC0-∞ 
+5547.95±558.
+34 µg/l. h 
+233.30±3
+0.37 ng/l 
+1.20±0.73 
+(h) 
+11.09±2
+.35 (h) 
+115.24±1
+9.46 L/kg 
+7.26±0.68 
+L/h/kg 
+Rats Oral 6 40 mg/kg  
+AUC0-∞ 
+1289.67±318.
+46 µg/l. h 
+138.40±1
+9.31 ng/l 
+0.13±0.08 
+(h) 
+8.35±5.
+15 (h) 
+44.15±18
+.11 L/kg 
+4.03±0.80 
+L/h/kg 
+Intraven
+ous 
+6 5 mg/kg 60.02 
+10 Peiminin
+e [77] 
+AUC0-∞ 
+367.2±22.35 
+ng h/l 
+68.80±1.6
+3 ng/ml 
+1.83±0.72 
+(h) 
+3.012±0
+.16 (h) 
+  Beagle 
+dog 
+Oral 12 1 g/kg 
+Fritillariau
+ssuriensis 
+powder 
+ 
+11 E-
+Guggluste
+rone [78] 
+AUC0-∞ 
+40.36±6.47 
+ng. h/ml 
+  0.23±0.
+01 (h) 
+41.87±3.
+95 
+L/kg 
+129.06±13.
+81L/h/kg 
+Rabbit Intraven
+ous 
+3 10 mg/kg  
+Z-
+Guggulste
+rone 
+AUC0-∞ 
+20.34±6.2 
+ng. h/ml 
+  0.35±0.
+10 (h) 
+145.09±6
+0.6 L/kg 
+     
+12 Digoxin 
+[79] 
+AUC(
+0-24h) 
+25.4
+±6.0 
+ng. 
+h/ml 
+AUC(
+0-∞) 
+61±1
+3.1 
+ng. 
+h/ml 
+3.7±1.7 
+ng/ml 
+1.6±1.2 
+(h) 
+38±6.1 
+(h) 
+  Human Oral 7 1 mg  
+13 Digitoxin 
+[80] 
+   138 (h)   Human 
+study 
+Oral 6 1 mg 81.5±19
+.7% 
+   156 (h) 0.47±0.0
+7 L/kg 
+2.44±0.82 
+ml/min 
+Intraven
+ous 
+   
+
+[W4309548759 PDF PAGE 6]
+J. B. Dudekula et al. 
+Int J App Pharm, Vol 14, Issue 6, 2022, 9-17 
+14 
+In silico  toxicity prediction holds a great importance in the early 
+drug discovery process as 30 -40% of the drug compounds would be 
+rejected at the development stage due to their unidentified toxicities. 
+Ames test is a simple and reliable method to test mutagen city of a 
+compound [35]. It utilises bacterium Salmonella typhimurium strains 
+that carry mutations in genes for histidine synthesis. The lead 
+compound is tested whether it has the ability to cause a reversion to 
+growth on a histidine free medium. The values in the Ames test 
+result have shown their minimal toxicity. 
+Bai et al., 2018 assessed the in vivo pharmacokinetic (PK) properties 
+of the phytosterol compounds [36, 37]. In this study, male wistar 
+rats of 250 -280 gm weight were procured housed in stainless steel 
+cages (3 rats/cage) with room temperature and 12 -h light/dark 
+cycle. The rats were fed with  standard pellets for a week and were 
+fasted overnight before the commencement of experiments. 
+Pentobarbital (50 mg/kg I. P) to anesthetize the rats, carotid artery 
+cannulated and the blood samples collected in heparin tubes for 0, 
+15, and 30 min and 1, 2, 4, 6, 8, 10, 12, and 24 h after the oral 
+administration of PSs individually. The blood samples were 
+centrifuged (16,000g, 5 min) and the plasma was separated and 
+stored at 80 °C. The peak plasma concentrations (Cmax) and the 
+time required to reach Cmax (T max) of PSs were recorded. The area 
+under the concentration -time curve (AUC) was calculated from the 
+values obtained during 0 to 24 hr using the trapezoidal rule [37]. 
+The half-life (t1/2) was calculated by using the apparent elimination 
+rate constant obta ined from the elimination phase gradient. All the 
+data was expressed as mean SD M and the significance was 
+measured by student’s T -test and one -way ANOVA. The significance 
+level was set at p less than 0.05. Using these values, the clearance, 
+volume of dist ribution and oral bioavailability (BA) were calculated 
+using the non -compartmental analysis (NCA) software PK Solutions 
+version 2.0. All these pharmacokinetic results help the researcher to 
+design the dosing calculations for clinical trials (table 3). 
+CONCLUSION 
+In view of the less bioavailability of phytosterols, physical or 
+chemical modification can be applied to increase their 
+bioavailability. Chemical modification has focus sed majorly on 
+esterification and physical modification has been attained  by 
+microencapsulation method. A physical modification by 
+encapsulation process of phytosterols in nanodelivery system 
+favours dissolution in gastrointestinal tract and enhances  the 
+bioavailability. By designing a delivery system, the biologically active 
+substance can be delivered to its specific absorption site. The 
+superiority of this system is that it can decrease the loss of 
+biologically active substances prior to reaching the absorption site to 
+enhance the bioavailability of the compound. The Swiss  ADME Web 
+tool used in the study helped in computation of key pharmacokinetic, 
+physicochemical, drug-like and related parameters for one or more 
+molecules. In one attempt , efforts were put in the application  to 
+implant free open -access and rapid  predictive models exhibiting  
+statistical predictive power, significance, straightforward translation 
+to molecular design and intuitive interpretation,. These methods were 
+adapted from renowned published papers or in -house original 
+methods, especially developed and thoroughly benchmarked. When 
+investigated together, these methods help the researchers to design 
+their studies for improving the bioavailability of phytosterols. 
+ACKNOWLEDGMENT 
+The authors are thankful to the Dean, SRM College of Pharmacy, SRM 
+Institute of Science and Technology, Kattankulathur, Chennai and 
+Director, Amity Institute of Pharmacy, Amity University, Gwalior, 
+Madhya Pradesh for their support in carrying out this work. 
+FUNDING 
+Nil 
+AUTHORS CONTRIBUTIONS 
+All the authors have contributed equally. 
+CONFLICTS OF INTERESTS 
+The authors declare no conflict of interest. 
+REFERENCES 
+1. Pendharkar GB, Anjum SD, Patil S. Enhanced biotransformation 
+of phytosterols, a by-product of soybean refineries, to a key 
+intermediate used for synthesis of steroidal drugs . Asian J 
+Pharm Clin Res. 2014;7(5):178-80. 
+2. Meng H, Matthan NR, Angellotti E, Pittas AG, Lichtenstein AH. 
+Exploring the effect of vitamin D3 supplementation on 
+surrogate biomarkers of cholesterol absorption and 
+endogenous synthesis in patients with type 2 diabetes-
+randomized controlled trial. Am J Clin Nutr. 2020;112(3):538-
+47. doi: 10.1093/ajcn/nqaa149, PMID 32559272. 
+3. Sudhop T, Sahin Y, Lindenthal B, Hahn C, Lüers C, Berthold HK. 
+Comparison of the hepatic clearances of campesterol, 
+sitosterol, and cholesterol in healthy subjects suggests that 
+efflux transporters controlling intestinal sterol absorption also 
+regulate biliary secretion . Gut. 2002;51(6):860-3. doi: 
+10.1136/gut.51.6.860, PMID 12427790. 
+4. A Zeez R, S Abaas I, J Kadhim E. Isolation and characterization 
+of β -sitosterol from elaeagnus angustifolia cultivated in 
+Iraq. Asian J Pharm Clin Res  2018;11(11). doi: 
+10.22159/ajpcr.2018.v11i11.29030. 
+5. Le Goff M, Le Ferrec E, Mayer C, Mimouni V, Lagadic Gossmann 
+D, Schoefs B. Microalgal carotenoids and phytosterols regulate 
+biochemical mechanisms involved in human health and disease 
+prevention. Biochimie. 2019;167:106-18. doi: 
+10.1016/j.biochi.2019.09.012, PMID 31545993. 
+6. Lin X, Racette SB, Ma L, Wallendorf M, Spearie CA, Ostlund RE. 
+Plasma biomarker of dietary phytosterol intake . PLOS ONE. 
+2015;10(2):e0116912. doi: 10.1371/journal.pone.0116912, 
+PMID 25668184. 
+7. National Center for Biotechnology Information. PubChem 
+Compound Summary for CID 444679, Ergosterol; 2021. Available 
+from: https://pubchem.ncbi.nlm.nih.gov/compound/Ergosterol. 
+[Last accessed on 05 Dec 2021] 
+8. National Center for Biotechnology Information. PubChem 
+Compound Summary for CID 5280794, Stigmasterol; 2021. 
+Available from: 
+https://pubchem.ncbi.nlm.nih.gov/compound/Stigmasterol. 
+[Last accessed on 05 Dec 2021] 
+9. Elkin RG, Lorenz ES. Feeding laying hens a bioavailable soy 
+sterol mixture fails to enrich their eggs with phytosterols or 
+elicit egg yolk compositional changes. Poult Sci. 
+2009;88(1):152-8. doi: 10.3382/ps.2008-00271, PMID 
+19096069. 
+10. Hsu CC, Kuo HC, Huang KE. The effects of phytosterols 
+extracted from Diascorea alata  on the antioxidant activity, 
+plasma lipids, and hematological profiles in Taiwanese 
+menopausal women. Nutrients. 2017;9(12):1-7. doi: 
+10.3390/nu9121320, PMID 29206136. 
+11. Ho XL, Loke WM. Dietary plant sterols supplementation increases 
+in vivo nitrite and nitrate production in healthy adults: A 
+randomized, controlled study. J Food Sci. 2017;82(7):1750-6. doi: 
+10.1111/1750-3841.13752, PMID 28708316. 
+12. Ras RT, Koppenol WP, Garczarek U, Otten-Hofman A, Fuchs D, 
+Wagner F. Increases in plasma plant sterols stabilize within four 
+weeks of plant sterol intake and are independent of cholesterol 
+metabolism. Nutr Metab Cardiovasc Dis . 2016;26(4):302-9. doi: 
+10.1016/j.numecd.2015.11.007, PMID 26806045. 
+13. Alvarez Sala A, Blanco Morales V, Cilla A, Silvestre RA, 
+Hernandez Alvarez E, Granado Lorencio F. A positive impact on 
+the serum lipid profile and cytokines after the consumption of a 
+plant sterol- enriched beverage with a milk fat globule 
+membrane: a clinical study . Food Funct. 2018;9(10):5209-19. 
+doi: 10.1039/

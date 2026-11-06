@@ -1,0 +1,167 @@
+nt features and make them invariant to small translations (71).
+T-distributed stochastic neighbor embedding (T-SNE) can reduces
+the dimensionality of the data by embedding it into a lower-
+dimensional space that preserves the local similarities. T-SNE can
+help visualize and cluster high- dimensional data. Test-time
+augmentations (TTA) technique applies data augmentation
+techniques at test time and averages the predictions from multiple
+augmented images and it helps to improve the robustness and
+accuracy of the classiﬁcation.
+Our results also showed that 3D VB-Net achieved the best
+performance among the DL models for gynecological cancer
+segmentation. The 3D VB-Net model had an average HD_95 of
+5.48 mm, which means that 95% of the distances between the
+predicted and ground truth boundaries were less than 5.48 mm.
+The model also had an average DSC of 81%, which means that the
+overlap between the predicted and ground truth regions was 81%.
+The model had an average MSD of 1.63 mm, which means that the
+average distance between the predicted and ground truth centroids
+was 1.63 mm. Finally, the model had an average JI of 75%, which
+means that the ratio of the intersection and union of the predicted
+and ground truth regions was 75%. These metrics indicate that the
+3D VB-Net model was able to segment the gynecological tumors
+accurately and consistently. The worst performance was obtained by
+ResNet18, which had an average DSC of only 82%. This means that
+the ResNet18 model had a lower overlap between the predicted and
+ground truth regions than the other models. The other models had
+similar performance, with average HD_95 ranging from 10.03 to
+11.2 mm, DSC from 80 to 85%, MSD from 1.15 to 2.58 mm, and JI
+from 75 to 77%. These metrics indicate that the other models were
+able to segment the gynecological tumors reasonably well, but not as
+well as the 3D VB-Net model. Ourﬁndings are consistent with
+previous studies that reported superior performance of 3D VB-Net
+FIGURE 7
+Summary of pooled odds ratio of 24 studies using forest plot.
+Taddese et al. 10.3389/fonc.2023.1216326
+Frontiers inOncology frontiersin.org12
+
+[W4390740227 PDF PAGE 13]
+over other DL models for prostate cancer segmentation (64, 73, 74).
+The advantages of 3D VB-Net include its ability to capture
+volumetric information from MRI images, which is important for
+tumor detection and characterization. The model also uses a
+Variational auto encoder for feature extraction, which is a
+generative model that can learn a latent representation of the data
+and reconstruct it with minimal error. The model also incorporates
+boundary loss for accurate segmentation, which is a loss function
+that penalizes the deviation of the predicted boundaries from the
+ground truth boundaries (64). On the other hand, ResNet18
+performed poorly in our study, which might be due to its shallow
+architecture and lack of spatial information (49). ResNet18 is a
+convolutional neural network that has only 18 layers, which might
+not be enough to learn complex features from MRI images. The
+model also does not use any spatial information, such as coordinates
+or distances, which might be useful for tumor localization
+and segmentation.
+The best performance of models for gynecologic cancer
+classi ﬁcation was obtained by Bhatt et al. ( 35)w h ou s e d
+EfﬁcientNet-B3, which is a convolutional neural network that uses
+a compound scaling method to balance the depth, width, and
+resolution of the network. They trained their model on 966
+images of patients with cervical cancer and evaluated it on 101
+images of patients with benign or malignant lesions. They achieved
+an accuracy of 99.01%, which means that they correctly classiﬁed
+99.01% of the lesions as benign or malignant. They also achieved a
+precision of 99.15%, which means that 99.15% of the lesions that
+they predicted as malignant were actually malignant. They achieved
+FIGURE 8
+Summary of the receiver operating characteristic (SROC) plot of the advanced machine learning algorithms.
+FIGURE 9
+Risk of bias and concern of applicability for each item in included studies.
+Taddese et al. 10.3389/fonc.2023.1216326
+Frontiers inOncology frontiersin.org13
+
+[W4390740227 PDF PAGE 14]
+a sensitivity of 98.89%, which means that they detected 98.89% of
+the malignant lesions in the dataset. They achieved a speciﬁcity of
+99.02%, which means that they rejected 99.02% of the benign
+lesions in the dataset. They achieved an F1-score of 98.87%,
+which is a harmonic mean of prec ision and sensitivity that
+measures the balance between them. Another model that achieved
+a high performance for gynecologic cancer classi ﬁcation was
+obtained by Dai et al. (40) who used 3D-UNet, which is a deep
+convolutional neural network that can segment 3D volumes. They
+trained their model on 86 MRI images of patients with cervical or
+ovarian cancer and evaluated it on 43 MRI images of patients with
+benign or malignant tumors. They achieved an accuracy of 94.19%,
+which means that they correctly classiﬁed 94.19% of the tumors as
+benign or malignant. They also achieved a precision of 95.35%,
+which means that 95.35% of the tumors that they predicted as
+malignant were actually malignant. They achieved a sensitivity of
+93.02%, which means that they detected 93.02% of the malignant
+tumors in the dataset. They achieved a speciﬁcity of 95.35%, which
+means that they rejected 95.35% of the benign tumors in the dataset.
+They achieved an F1-score of 94.19%, which is a harmonic mean of
+precision and sensitivity that measures the balance between them.
+They achieved an AUC of 0.94, which is the area under the receiver
+operating characteristic curve that measures how well the model
+can distinguish between benign and malignant tumors. Our
+ﬁndings are consistent with previous studies that reported the
+beneﬁts of CNNs with transfer learning and progressive resizing
+for cervical cancer detection (75) and 3D-UNet or its variants for
+ovarian cancer detection (52, 54, 76). The advantages of these
+models include their ability to le arn high-level features from
+medical images, such as edges, shapes, textures, and patterns that
+are relevant for tumor identiﬁcation and characterization. They also
+have the ability to adapt to different domains and modalities, such
+as histopathology, ultrasound, or MRI, by transferring the
+knowledge learned from one domain or modality to another.
+They can also handle large-scale and imbalanced datasets, such as
+those with more benign than malignant tumors or vice versa, by
+using data augmentation techniques or class weighting schemes to
+increase the diversity and balance of the data. Moreover, they can
+improve segmentation accuracy by using 3D information from MRI
+images, such as depth and volume, and by using loss functions that
+emphasize the boundary accuracy, such as dice loss or focal loss.
+Other studies have also used deep learning models and
+techniques for gynecologic cancer diagnosis using different types
+of images. For example, Gao et al. (2021) used a deep convolutional
+neural network (DCNN) to diagnose ovarian cancer using
+multimodal medical images (FDG-PET/CT) with an accuracy of
+0.94 and an AUC of 0.98 (77). Ho et al. (2022) used deep interactive
+learning to diagnose BRCA mutation status in ovarian cancer using
+H&E-stained whole slide images with an accuracy of 0.86 and an
+AUC of 0.91 (78). Li et al. (79) used a self-adapting ensemble
+method to diagnose gynecological brachytherapy on CT images
+with an accuracy of 0.88 and an AUC of 0.93 (80).
+A meta-analysis examined the SE and SP of DL algorithms and
+traditional ML approaches for diagnosing COVID-19 from chest X-
+rays by using studies that reported these measures (81). The inverse
+variance method and the DerSim onian-Laird estimator were
+utilized to synthesize the results and evaluate the heterogeneity.
+The studies exhibited very high heterogeneity (I2 = 98.1% [97.7%;
+98.4%], p < 0.0001). The DL algorithms demonstrated signiﬁcantly
+higher SE (98.9% [98.7%; 99.1%]) and SP (97.5% [96.9%; 97.9%])
+than the traditional ML approaches (p < 0.0001), indicating better
+diagnostic performance.
+The random-effects model indicated that deep learning
+algorithms had a much higher odds ratio (OR) of 56.2459 [95%
+CI, 28.3682; 111.5195) and p-value <0.0001 for gynecologic cancer
+detection than machine learning algorithms, meaning that they
+were about 56 times more likely to make a correct diagnosis. This is
+a larger OR than the one found for COVID-19 detection from chest
+X-rays, which was 9.8 [95% CI, 6.1; 15.7] and p-value <0.0001,
+meaning that deep learning algorithms were about 10 times more
+likely to make a correct diagnosis than machine learning algorithms
+(82). This suggests that deep learning algorithms had a bigger edge
+over machine learning algorithms for gynecologic cancer detection
+than for COVID-19 detection.
+The diagnostic accuracy of advanced deep learning models for
+gynecologic cancer was assessed by pooling the sensitivity,
+speciﬁcity, and SROC curve from different studies. The AUC of
+the SROC curve was 0.81, which indicates a moderate level of
+accuracy. This is lower than the AUC of 0.86 reported for deep
+learning models for COVID-19 detection from chest X-rays (83),
+suggesting that gynecologic cancer diagnosis is more challenging
+and requires further improvement of the algorithms.
+5 Conclusion
+This review demonstrates that deep learning techniques have
+been widely utilized in various imaging modalities for detecting,
+segmenting, and diagnosing gynecologic cancers. Medical image
+analysis, including lesion segmentation, classiﬁcation, detection,
+and quantiﬁcation, has exhibited tremendous potential with the
+use of deep learning. The studies reviewed in this paper employed
+imaging modalities such as cytology, colposcopy, MRI, CT scan, and
+hysteroscopy. Cytology is utilized for cervical cancer screening and
+diagnosis by examining cells or tissue fragments under a microscope,
+while colposcopy inspects the cervix with a magnifying device and

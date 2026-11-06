@@ -1,0 +1,177 @@
+
+
+REVIEW W4310080459
+TITLE: The Prevalence of High-Risk Behavior Among Adolescents in Aftercare Services and Transitioning from Out-of-home Care: A Systematic Review
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4310080459 PDF PAGE 1]
+SYSTEMATIC REVIEW
+Adolescent Research Review (2023) 8:323–337
+https://doi.org/10.1007/s40894-022-00198-1
+people represent a vulnerable group, and struggle with 
+many aspects of life. In addition, they are more prone to risk 
+behaviors than other adolescents their age (Häggman-Laitila 
+et al., 2018; Shaw, 2017; Sims-Schouten & Hayden, 2017). 
+Adolescence is a period of growth and development that is 
+characterized by heightened risk-taking (Willoughby et al., 
+2021); these actions are defined as high-risk behavior when 
+they increase the risk of disease or injury, disability, death, 
+or social problems (Tariq & Gupta, 2022). The high-risk 
+behaviors of adolescents can involve alcohol and substance 
+abuse, use of nicotine products, reckless sexual behavior or 
+use of money, functional addictions, eating disorders, exces-
+sive or insufficient exercise, self-destructive behavior, and 
+delinquent behavior (e.g., Tariq & Gupta, 2022; Willoughby 
+et al., 2021). This study focuses on the high-risk behaviors 
+of adolescents who are transitioning from out-of-home care 
+and/or are in aftercare services. In this article, this group of 
+adolescents is referred to as care leavers.
+Introduction
+Out-of-home care is the temporary, medium-, or long-term 
+placement of a child or adolescent who is unable to live with 
+their own family (Mendes & Snow, 2016). It has been esti-
+mated that approximately 2.7 million children and adoles -
+cents between the ages of 0 and 17 are living in out-of-home 
+care across 140 countries around the world (Petrowski et 
+al., 2017). The number of children and adolescents in out-
+of-home care, as well as the services they are provided, 
+vary across countries based on cultural, political, and leg -
+islative aspects (Mendes & Snow, 2016). These young 
+  Ulla-Kaarina Petäjä
+ulla-kaarina.petaja@uef.fi
+1 Department of Nursing Science, University of Eastern 
+Finland, P.O Box 1627, FI-70211 Kuopio, Finland
+2 City of Helsinki, Social and Health Care, Helsinki, Finland
+Abstract
+Adolescents in aftercare services who are transitioning from out-of-home care, also called care leavers, face more chal -
+lenges in their lives, and engage in more risk behaviors, than their peers. However, no previous reviews have comprehen -
+sively addressed this issue to identify future research needs. The aim of this systematic review was to gather, assess, and 
+synthesize previous studies concerning care leavers’ high-risk behavior. The search was conducted in six databases, with 
+sixteen articles included in the final review. The selected research highlighted five forms of high-risk behavior: substance 
+abuse, delinquency, sexual behavior, irresponsible use of money, and self-destructive behavior. The incidence of high-risk 
+behavior among care leavers varied noticeably between the studies. Some of the studies reported significant connections 
+between high-risk behavior and gender, race, reason(s) for placement, and the form and number of placements. The 
+synthesized findings revealed a fragmented, limited view of care leavers’ high-risk behavior that highlighted substance 
+abuse and delinquency. The development of adolescents, particularly care leavers, includes multiple factors that have 
+either a conducive or protecting effect for high-risk behavior. Comprehensive research regarding care leavers’ high-risk 
+behavior, including the associated factors, is needed to better support healthy development and success in transitioning 
+to independent living.
+Keywords Adolescence · Aftercare service · Out-of-home care · High-risk behavior
+Received: 25 July 2022 / Accepted: 9 November 2022 / Published online: 25 November 2022
+© The Author(s) 2022
+The Prevalence of High-Risk Behavior Among Adolescents in Aftercare 
+Services and Transitioning from Out-of-home Care: A Systematic 
+Review
+Ulla-Kaarina Petäjä1  · Anja Terkamo-Moisio1 · Suyen Karki1 · Arja Häggman-Laitila1,2
+1 3
+
+[W4310080459 PDF PAGE 2]
+Adolescent Research Review (2023) 8:323–337
+Transitioning from out-of-home care to independent 
+adult life is a complex process in which aftercare services 
+have been found to improve adolescents’ prospects (Glynn 
+& Mayock, 2019; Tyler et al., 2017). The knowledge base 
+concerning the prevention of risk behaviors among chil -
+dren and adolescents who have been in out-of-home care 
+relies on singular studies of substance abuse, criminality, 
+and suicidal behavior (Havlicek et al., 2013; Gypen et al., 
+2017; Kääriälä & Hiilamo, 2017). As such, no previously 
+published overview of the topic – which could guide future 
+research – currently exists.
+High-risk behavior leads to further problems and impairs 
+the health and well-being of the individual and those who 
+they interact with (Willoughby et al., 2021). For example, 
+substance abuse and intoxication increase the risk of acci -
+dents, worsen behavioral disorders, and involve potentially 
+fatal consequences (Lee et al., 2020; Kedia et al., 2021; Qui-
+mby et al., 2022). Moreover, risky sexual behavior increases 
+the risk of exploitation, exposure to sexually transmitted 
+diseases, and unwanted pregnancies (Hahn et al., 2021). 
+Gaming addictions, gambling, and functional addictions 
+can exclude adolescents from social relationships, enhance 
+financial problems, make it difficult to engage in daily activ-
+ities, and exacerbate mental health problems (Butler et al., 
+2020; Shoshani et al., 2021; Khalil et al., 2022). Longitudi-
+nal studies have shown that high-risk behaviors stemming 
+from untreated behavioral disorders among adolescents lead 
+to lower educational levels, financial difficulties, increased 
+incidence of mental health and substance abuse problems, 
+and higher premature mortality (Akasaki et al., 2019; 
+Campbell et al., 2020).
+The high-risk behavior of children and adolescents who 
+have been in out-of-home care may impair the transition to 
+independent life because these individuals already suffer 
+from more health and well-being problems than their peers. 
+For example, over 60% of adolescents in out-of-home care 
+were diagnosed with a psychiatric or neurodevelopmental 
+disorder, most commonly depression and anxiety disor -
+ders, and oppositional defiant disorder or conduct disorder 
+(Kääriälä et al., 2021). The transition to independent life of 
+a care leaver who has engaged in high-risk behavior is also 
+impaired by a lack of informal and formal support, which 
+increases the risk of social exclusion, problems with social 
+interaction, homelessness, unemployment, low educational 
+levels, and financial difficulties (Häggman-Laitila et al., 
+2018; Nho et al., 2017). The intensity of the challenges that 
+care leavers face has been connected to the number and 
+form of placements, as well as the reason for the placement 
+(Scannapieco et al., 2016).
+Several factors have been shown to be associated with 
+high-risk behaviors (e.g., Meeus et al., 2021; Murray et al., 
+2021; Tinner et al., 2021); these include behavioral, activity, 
+and attention disorders, along with antisocial behavior (Song 
+et al., 2021; Sultan et al., 2021). The underlying causes of 
+behavioral disorders are complex; however, childhood abuse 
+and neglect are important factors in the development of 
+these disorders (García et al., 2021; Kobulsky et al., 2022). 
+Untreated or medically neglected behavioral disorders can 
+adversely affect the development of a child, as well as the 
+transition period of adolescence (Okumura et al., 2021). The 
+symptoms of untreated disorders usually become more vis -
+ible at the start of puberty, and thus, may have serious con -
+sequences. This can result in adolescents suddenly showing 
+significant behavioral changes, which may take an aggres -
+sive form, and manifest as high-risk behaviors, aggres -
+sion, violence, and even committing crimes (Henriksen et 
+al., 2021; Lindblad et al., 2020). A comprehensive view 
+of the factors associated with high-risk behavior is crucial 
+for understanding the developmental paths of adolescents 
+and how they influence high-risk behavior. In addition, this 
+knowledge would provide insight into the challenges which 
+adolescents face and help identify effective ways to support 
+vulnerable populations during and after out-of-home care.
+Current Study
+Knowledge of forms, prevalence and factors associated 
+with the care leavers high-risk behavior is fragmented due 
+to the lack of systematic review of previous empirical stud-
+ies. The aim of this systematic review was to gather, assess, 
+and synthesize previous evidence on adolescents’ high-risk 
+behavior while in aftercare services or transitioning from 
+out-of-home care. The research is guided by two research 
+questions, the first of which is what kind of high-risk behav-
+iors have been identified in previous studies of adolescents 
+in aftercare and/or transitioning from out-of-home care? 
+The second research question is which associations between 
+background factors and high-risk behavior have been identi-
+fied among adolescents in aftercare services and/or transi -
+tioning from out-of-home care?
+Methods
+Design
+A systematic review was conducted based on the procedure 
+from the Centre for Reviews and Dissemination (2009) and 
+the Preferred Reporting Items for Systematic Reviews and 
+Meta-Analyses (PRISMA) statement (Page et al., 2021) for 
+the identification, assessment, and synthesis of quantitative 
+research.
+1 3
+324
+
+[W4310080459 PDF PAGE 3]
+Adolescent Research Review (2023) 8:323–337
+Search Methods
+The research team created a search strategy and search terms 
+based on the research questions. An information specialist 
+was consulted during the process to ensure that the terms 
+would cover potentially relevant articles. A systematic lit -
+erature search was conducted on the first of 

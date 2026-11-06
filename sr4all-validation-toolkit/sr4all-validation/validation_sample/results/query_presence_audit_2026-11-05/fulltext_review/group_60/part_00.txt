@@ -1,0 +1,167 @@
+
+
+REVIEW W4412727192
+TITLE: Toxicological Effects of Air Pollutants on Human Airway Cell Models Using Air–liquid Interface Systems: A Systematic Review
+SOURCE_NOTES: [{"annotator": "pierre", "field": "snowballing", "comment": "This is explicit citation-based supplementary searching; the extraction omitted it."}]
+EXTRACTION_ERROR: None
+
+[W4412727192 PDF PAGE 1]
+Vol.:(0123456789)
+Current Environmental Health Reports           (2025) 12:26  
+https://doi.org/10.1007/s40572-025-00491-w
+REVIEW
+Toxicological Effects of Air Pollutants on Human Airway Cell Models 
+Using Air–liquid Interface Systems: A Systematic Review
+Óscar Navarrete‑Aliaga1 · María Muriach1 · Juana Maria Delgado‑Saborit1,2
+Accepted: 8 July 2025 
+© The Author(s) 2025
+Abstract
+Purpose of Review Global air pollution has increased significantly in recent decades mainly due to anthropogenic emissions. 
+This results in elevated concentrations of some airborne pollutants like nitrogen dioxide, ozone, volatile organic compounds 
+(VOCs), and particulate matter (PM). In this review, we aim to provide an overview of the current state of knowledge on the 
+toxicological effects of air pollution on airway epithelial cells, the first point of contact of the air pollutants with the body, 
+using air–liquid interface (ALI) models.
+Recent Findings Research on the health effects of air pollution has advanced through studies that take a multidisciplinary 
+approach integrating toxicology, epidemiology, and molecular and cell biology. Submerged cell cultures have been used in most 
+studies for the assessment of air pollution toxicity in vitro, but these show some important limitations. Thus, human airway 
+cellular models based on ALI systems have emerged as very promising approaches in respiratory toxicology due to their closer 
+resemblance to in vivo conditions. Results from 53 studies indicate that both, acute and prolonged exposures to air pollution 
+induce oxidative, inflammatory, and genotoxic responses in airway epithelial cells. The changes in several biomarkers and 
+genes related to the observed health effects were discussed through key molecular pathways, and particularly those related to 
+the oxidative stress state. Lastly, we identified perspectives for future research in this field, such as the use of more complex test 
+(e.g., photochemical ageing) atmospheres and exposure models that are reliable for long-term and repeated exposures.
+Summary This review highlights the role of ALI cellular models as essential tools in respiratory toxicology and environ-
+mental health research, providing insights into the molecular mechanisms triggered by air pollution exposure.
+Keywords Air pollution · Aerosols · Human health · Toxicity · Oxidative stress · Cellular inflammation · Air–liquid interface
+Introduction
+Industrialization and population growth are contributing sig-
+nificantly to an increase in global air pollution in recent dec-
+ades [1], mainly attributed to stationary emission sources, 
+such as industrial activity [2], fugitive emissions [3], power 
+generation facilities [4], agriculture [5] and residential emis-
+sions [6 , 7] (Fig.  1). Additionally, mobile emissions have 
+become the most important emission source in many areas, 
+with both road [8] and non-road [9] transport making signifi-
+cant contributions and having a significant impact on public 
+health [10, 11].
+Some key gaseous pollutants resulting from these activi-
+ties include nitrogen dioxide  (NO2) and Volatile Organic 
+Compounds (VOCs), both also contributing to an increase 
+in tropospheric ozone  (O3) concentrations [12]. Incomplete 
+combustion of organic matter and road traffic emissions are 
+both significant sources of carbon monoxide (CO), while 
+sulphur dioxide  (SO2) is a by-product of fossil fuel combus-
+tion [13]. Particulate matter (PM) is another critical constitu-
+ent of air pollution, comprising a complex mixture of inhala-
+ble airborne particles of varying chemical compositions and 
+sizes. PM is characterized by their aerodynamic diameter, 
+ * María Muriach 
+ muriach@med.uji.es
+ * Juana Maria Delgado-Saborit 
+ delgado@uji.es
+1 Department of Medicine, Faculty of Health Sciences, 
+Universitat Jaume I, Avenida de Vicent Sos Baynat S/N, 
+12071 Castellón de La Plana, Spain
+2 Epidemiology and Environmental Health Joint Research 
+Unit, Foundation for the Promotion of Health and Biomedical 
+Research in the Valencian Region, FISABIO-Public Health, 
+FISABIO–Universitat Jaume I–Universitat de València, 
+Av. Catalunya 21, 46020 Valencia, Spain
+
+[W4412727192 PDF PAGE 2]
+ Current Environmental Health Reports           (2025) 12:26 
+   26  Page 2 of 40
+with  PM2.5 (diameter < 2.5 µm),  PM10 (diameter < 10 µm) 
+and ultrafine particles (UFP) fraction (diameter < 0.1 µm) 
+being the most common classifications particularly relevant 
+for human health [14–18].
+Research on the health effects of air pollution has 
+advanced through population, in vivo and in vitro studies 
+that take a multidisciplinary approach, integrating toxicol-
+ogy, epidemiology, and molecular and cell biology [19].
+According to the World Health Organization (WHO) 
+global air quality guidelines, the pollutants of greatest 
+concern for public health include PM, CO,  O3,  NO2, and 
+ SO2 [20]. Short-term and long-term exposure to particu-
+late matter has been associated with increased morbidity 
+and mortality. This includes health effects on the cardio-
+vascular [21, 22] and respiratory systems [21, 22], cancer 
+[23, 24], diabetes [23, 24], and adverse pregnancy out-
+comes [23]. Short term exposure to CO can lead to tissue 
+hypoxia and mortality [25], whereas chronic exposure has 
+been linked to an elevated risk of myocardial infarction 
+and hypoxic cardiac dysfunction, which can be fatal at 
+high concentrations [26]. Exposure to elevated  O3 lev -
+els can lead to respiratory issues, ultimately increasing 
+overall mortality rates [27]. As regards  SO2, major health 
+problems are associated with the respiratory system, skin 
+redness, ocular damage and worsening of pre-existing car -
+diovascular diseases [28]. Diesel exhaust particulate mat-
+ter (DEP) —a major constituent of traffic-related air pol-
+lution (TRAP) and big contributor to urban atmospheric 
+pollution— has been linked to several respiratory, cardio-
+vascular and neurologic disorders [29– 31].
+Finally, it has been debated whether  NO2 is a surrogate 
+of air pollution in toxicological studies or it plays its own 
+role in eliciting toxicological effects. The discussion was 
+fuelled due to the difficulty to disentangle whether the 
+effects observed after the exposure to  NO2 were intrinsic or 
+a consequence of synergistic effects from combined expo -
+sures, since  NO2 is highly correlated with other environmen-
+tal pollutants, such as PM [32] and noise [33–35]. However, 
+studies like the EpiAir multicentric study found significant 
+and likely independent short-term effects of nitrogen dioxide 
+on natural, cardiac, and respiratory mortality [36]. In addi-
+tion, a recent systematic review and meta-analysis identified 
+that the certainty of the evidence linking  NO2 exposure and 
+COPD mortality was high [27].
+At the molecular level, the assessment of biological out-
+comes such as cytotoxicity, cellular inflammation, oxida-
+tive stress and genotoxicity in cell cultures can be crucial to 
+better understand the biological mechanisms underlying the 
+impact of air pollution in human health [37].
+While there is substantial literature investigating the 
+range of mechanisms that are elicited upon exposure to 
+individual pollutants using in vitro and in vivo models [38], 
+relatively few studies have addressed the potential syner -
+gistic or additive effects of pollutant mixtures [39]. There-
+fore, accurate and reliable methods are required to assess 
+the cellular changes and biological mechanisms associated 
+Fig. 1  Traditional air pollutants and main emission sources of air pollution. Based on EAA Monograph of Assessment and Management of 
+Urban Air Quality in Europe
+
+[W4412727192 PDF PAGE 3]
+Current Environmental Health Reports           (2025) 12:26  
+ Page 3 of 40    26 
+with both gas and particulate air pollution, individually and 
+in combination. This is not easily achievable with tradi-
+tional in vitro pulmonary toxicity models, which typically 
+involve cells suspended in a culture medium that exhibit 
+low proliferation, significant senescence, and challenging 
+differentiation [ 40–42]. These models are simpler from a 
+methodological standpoint but physiologically unrealistic, 
+since culture medium itself can confer a protective effect on 
+cells that may mask the true effects of pollutants [43]. Such 
+limitations could be solved by using novel air–liquid inter -
+face (ALI) systems, which represent one of the most prom-
+ising approaches in respiratory toxicology as an alternative 
+to animal testing [44–47]. These systems closely mimic the 
+characteristics of the pulmonary epithelial cells, including 
+tight junction formation and cellular differentiation, while 
+maintaining an extracellular environment highly similar to 
+in vivo models [44].
+Lakhdar et al. (2022) [48] have reviewed the available 
+literature and offered a valuable overview on the biologi-
+cal changes elicited upon exposures to air pollutants based 
+on toxicological studies using ALI systems. Their review 
+pays particular emphasis on cell culture and exposure sys-
+tems, as well as on cellular processes such as senescence, 
+mitochondrial damage, and autophagy as emerging markers 
+of pollutant-induced toxicity. On the other hand, oxidative 
+stress and inflammation response as a biological mecha -
+nism underlying the health effects are less considered in 
+Lakhdar´s review [48]. The review by Cho et al. [49], which 
+included also some studies conducted using ALI systems, 
+identified oxidative stress, inflammation and genotoxicity as 
+key mechanisms involved in  PM2.5. However, they did not 
+review the evidence as regards gaseous pol

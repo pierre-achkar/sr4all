@@ -1,0 +1,209 @@
+ed evidence was
+found on PD-L1 tests in bladder/urothelial cell cancer,
+and there were no validation studies for commercially
+available tests in gastric or ovarian cancers.
+The heterogeneity in the findings of this review has
+important implications for clinical practice. Notably, the
+lack of standard thresholds for responder identification
+and concordance between a subset of tests indicates the
+existence of (1) potential risks for efficient treatment
+selection and use of precision therapies; (2) confusion
+about whether it is important to request a particular
+PD-L1 test; and (3) potential adverse effects on patient
+management decisions (e.g., if the test thresholds used
+in clinical practice do not correspond with those used in
+the clinical trials in which particular IHC clones were
+developed and validated, and in which treatment efficacy
+was demonstrated, the patient may be inaccurately iden-
+tified as a potential therapy recipient). However, it is also
+important to note that no study from our search results
+reported evidence for these possibilities. Ambiguity
+around test thresholds, decision algorithms, and inter-
+changeability of PD-1/PD-L1 testing could also present
+uncertainty for those payers who view accurate prediction
+of the subpopulation of treatment responders as being a
+key value of precision therapy approaches. Where there is
+variability in the interpretation or selection of particular
+tests, there is the potential for physician confusion, inter-
+pretation dilemmas, and payer uncertainty.
+Table 4 Head-to-Head Test Performance: Test-Validation Metrics (Continued)
+Study
+Information
+Type of Test
+(developer)
+Overall Concordance/
+Discordance Between Tests
+Other Comparisons Between
+Tests
+Authors’ Conclusions
+ OA: 81% ( κ = 0.786), 87%
+(κ = 0.832), and 86%
+(κ = 0.817) for SP142, SP263 and
+28– 8 tests, respectively
+ Poor agreement between the
+SP142 and SP263 antibodies
+(ρ = 0.568, κ = 0.018) and the
+SP142 and 28 – 8 antibodies
+(ρ = 0.590, κ = 0.134), while a
+good correlation was noted
+between the SP263 and 28 – 8
+antibodies ( ρ = 0.880, κ = 0.721)
+correlation for both the TC and
+IC compartments
+Schildhaus et al. (2016) [1 2]
+Drug against which the study
+validated the test: N/A
+IHC: 28 – 8 (Dako) and
+FISH: ZytoLight SPEC
+CD274, PDCDILG2/
+CEN 9 Dual Color
+Probe
+The correlation between IHC
+and FISH was statistically
+significant ( χ2: P < 0.001)
+NR PD-L1/2 FISH could contribute
+to our understanding of PD-L1
+expression and could therefore
+be a valuable adjunct biomarker
+in upcoming trials with PD-1/
+PD-L1 inhibitors
+aCST is a reagent provider
+Abbreviations: CST Cell Signaling Technology, FISH fluorescence in-situ hybridization, IC immune cell, IHC immunohistochemistry, N/A not applicable, NR
+not reported, NSCLC non-small cell lung cancer, OA overall agreement, PD-1 programmed death receptor 1, PD-L1 programmed death ligand 1, TC
+tumor cell
+Udall et al. Diagnostic Pathology  (2018) 13:12 Page 9 of 11
+
+[W2797182287 PDF PAGE 10]
+There are illustrative examples of such difficulties from
+previous attempts to introduce biomarker testing to the
+selection of precision therapy and patient management.
+In the case of IHC and molecular testing for epidermal
+growth factor receptors, for instance, the substantial
+variability in test cutoffs or thresholds and the potential
+for variable interpretation of early-generation tests have
+been well documented. Following early introduction of
+tests for this marker and initial launch of EGFR-targeted
+agents, some health technology assessment and payer
+organizations (notably, large commercial health plans in
+the United States and the Canadian Agency for Drugs
+and Technologies in Health [ 33] in Canada) had con-
+cerns around interpretation and selection of some EGFR
+tests, arguing that the connection between test results
+and patient management or treatment selection was in-
+sufficiently clear. Another example occurred in the years
+immediately following the launch of trastuzumab, when
+there was significant controversy among physicians over
+the selection of HER2 IHC vs. FISH testing that led, in
+some cases, to slower uptake of the associated precision
+medicines. When clinical practice guidelines were up-
+dated to indicate that IHC testing should be conducted
+initially, with a subset of these patients receiving receiv-
+ing FISH testing for confirmation, this clarified the
+appropriate clinical testing pathway for prescribing tras-
+tuzumab [ 34]. These instances of uncertainty about how
+companion diagnostic tests should be interpreted and
+used had implications for access to precision treatments
+in some markets, and/or influenced uptake and use of
+these medicines and their associated tests [ 34– 36].
+Conducting additional studies and increasing both
+interpretation and education about test cutoffs would
+help to better inform the use of PD-1/PD-L1 diagnos-
+tics and ensure more consistent clinical assessment
+and application of the class of PD-1/PD-L1 inhibitors
+[31]. In addition, the available literature suggests that
+greater understanding is needed on the interchange-
+ability of these PD-L1 tests for predicting response to
+anti-PD-L1 and anti-PD-1 targeted therapies. Such
+evidence would be crucial for supporting decision-
+m a k i n gi nac o n t e x tw h e r em u l t i p l eP D - L 1t e s t sa r e
+available (which seem to have variable validity in
+inter/intra-observer and inter/intra-site concordance)
+and where findings are not always consistent or re-
+producible across tests.
+Conclusions
+Most validation-metric data available for PD-L1 tests
+relate to the use of IHC tests in the context of lung
+cancer, and this evidence raises some key challenges
+that may influence the uptake of PD-L1 testing. In par-
+ticular, standardization among available PD-L1 IHC
+tests is currently lacking (with regard to antibodies
+used, cutoffs/thresholds for a given antibody, and
+differences in scoring algorithm and test sites) and
+there is limited information on the extent, if any, to
+which the tests might be interchangeable. Developing
+strategies to address this variability in available IHC
+tests and publishing data that clarify the value of non –
+IHC-based approaches, such as FISH and next-generation
+tests that incorporate PD-L1, will be important to address
+as the availability of precision treatments focused on these
+biomarkers continues to increase.
+Abbreviations
+CST: Cell Signaling Technology; IC: Tumor-infiltrating immune cell;
+IHC: Immunohistochemistry; PD-1: Programmed death receptor 1; PD-
+L1: Programmed death ligand 1; QIF: Quantitative fluorescence;
+SLR: Systematic literature review; TC: Tumor cell
+Acknowledgements
+None.
+Funding
+Funding for the design of the study, collection, analysis, interpretation of
+data, and writing assistance was provided by Pfizer, Inc., New York, NY, USA
+Availability of data and materials
+Not applicable
+Authors’ contributions
+EF, MR, and JK performed SLR. MU, MR, JK, JD, SD, PR, EF were all major
+contributors in writing the manuscript. MR, JK, and EF are employees of
+Evidera, who were paid consultants to Pfizer in connection with the
+development of this manuscript. All authors read and approved the final
+manuscript.
+Ethics approval and consent to participate
+Not applicable
+Consent for publication
+Not applicable
+Competing interests
+JK, MR and EF are employed by Evidera, a consultancy company contracted
+to perform research. SD, PR, MU and JD are employed by Pfizer.
+Publisher’sN o t e
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Author details
+1Pfizer Inc, New York, NY, USA. 2Evidera, Metro Building, 6th Floor, 1
+Butterwick, London W6 8DL, UK.
+Received: 26 October 2017 Accepted: 26 January 2018
+References
+1. Cree IA, Booton R, Cane P, Gosney J, Ibrahim M, Kerr K, et al. PD-L1 testing
+for lung cancer in the UK: recognizing the challenges for implementation.
+Histopathology. 2016;69(2):177 – 86.
+2. US Food & Drug Administration (FDA). Companion Diagnostics. https://
+www.fda.gov/MedicalDevices/ProductsandMedicalProcedures/
+InVitroDiagnostics/ucm407297.htm. Accessed 30 March 2017.
+3. Boyd ZS, Smith D, Baker B, Vennapusa B, Koeppen H, Kowanetz M, et al.
+Development of a PD-L1 companion diagnostic IHC assay (SP142) for
+atezolizumab. In: The inaugural international cancer immunotherapy
+conference; September 16 – 19, 2015; New York, NY [abstract B001].
+Udall et al. Diagnostic Pathology  (2018) 13:12 Page 10 of 11
+
+[W2797182287 PDF PAGE 11]
+4. Garon EB, Rizvi NA, Hui R, Leighl N, Balmanoukian AS, Eder JP, et al.
+Pembrolizumab for the treatment of non-small-cell lung cancer. N Engl J
+Med. 2015;372(21):2018 – 28.
+5. Roach C, Zhang N, Corigliano E, Jansson M, Toland G, Ponto G, et al.
+Development of a companion diagnostic PD-L1 immunohistochemistry
+assay for pembrolizumab therapy in non-small-cell lung cancer. Appl
+Immunohistochem Mol Morphol. 2016;24(6):392 – 7.
+6. Scheel AH, Dietel M, Heukamp LC, Jöhrens K, Kirchner T, Reu S, et al.
+Harmonized PD-L1 immunohistochemistry for pulmonary squamous-cell
+and adenocarcinomas. Mod Pathol. 2016;29(10):1165 – 72.
+7. Anderson SM, Zhang L, Brailey L. Evaluation of two immunohistochemical
+assays for PD-L1 expression. J Clin Oncol 2016;34(suppl) [abstract e23220].
+8. Gaule PB, Rehman J, Smithy JW, Toki MI, Han G, Neumeister V, et al.
+Measurement of spatial and antibody-based PD-L1 heterogeneity in non-
+small cell lung cancer. J Clin Oncol. 2016;34(suppl) [abstract 9040].
+9. Ilie M, Hofman V, Dietel M, Soria JC, Hofman P. Assessment of the PD-
+L1 status by immunohistochemistry: challenges and perspectives for
+therapeutic strategies in lung cancer patients. Virchows Arch. 2016;
+468(5):511 – 25.
+10. Phillips T, Simmons P, Inzunza HD, Cogswell J, Novotny J Jr, Taylor C, et al.
+Development of an automated PD-L1 immunohistochemistry (IHC) assay for
+non-small cell lung cancer. Appl Immunohistochem Mol Morphol. 2015;
+23(8):541– 9.
+11. Rivalland G, Ameratunga M, Asadi K, Walkiewicz M, Knight S, Jo

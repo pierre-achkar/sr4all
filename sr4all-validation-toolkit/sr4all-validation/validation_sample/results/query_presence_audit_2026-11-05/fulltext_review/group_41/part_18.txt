@@ -1,0 +1,323 @@
+arboplatin/paclitaxel
+70%; Cisplatin/pemetrexed 12%;
+<1%: 20% NR NR
+1%– 49%:
+18% ≥ 50%:
+(Continued on following page)
+Frontiers in Pharmacology frontiersin.org05
+Zhang et al. 10.3389/fphar.2023.1103927
+
+[W4380047383 PDF PAGE 6]
+TABLE 1 (Continued) Details of included studies.
+Study Centers Location Sample
+size
+Median
+age years(range)
+ECOG
+-
+PSscrore
+cCRTorsCRT
+RT dose Time from CRT
+to durvalumab,days (range)
+Durvalumab
+duration(range)
+Chemotherapy
+regimens
+PD
+-L1
+status
+Drivermt
+Follow
+-
+up
+Cisplatin/etoposide 8%;
+Carboplatin/
+pemetrexed 5%;Carboplatin/etoposide2%; Carboplatin/nab-paclitaxel 1%; Notmentioned 1%
+<60 Gy: 4%
+60 Gy: 48%>
+60 Gy: 16%
+29%
+unknown:
+33%
+Nishimura
+2021[35]
+1 Japan 82 69.5 (37 – 86) NR cCRT NR <42: 85.4% NR Cisplatin/S-1 29.3%; <1%: 20.7% NR Median
+14.5 months
+Carboplatin/paclitaxel
+24.4%;
+≥50%: 13.4%
+Cisplatin/vinorelbine
+22%;
+Carboplation 13.4%;Carboplatin/nab-
+paclitaxel 36.5%
+Taugner
+2021[22]
+1 Germany 26 67.6 NR cCRT:
+96%
+60 Gy/
+30F: 92%
+Median 25 (13– 103) Median
+14 cycles (2– 24)
+Platinum-based
+doublet-chemo 96%
+≥50%: 46% NR Median
+20.6 months
+sCRT:
+4%
+Tsukita
+2021[24]
+multi Japan 107 70 (43 – 86) 0: 66.4% cCRT Median 60 Gy NR Median
+14 doses (1– 26)
+Cisplatin/vinorelbine
+44.9%; Carboplatin/paclitaxel 38.3%;Cisplatin/pemetrexed
+9.3% Others 7.5%
+<1%: 20.6% EGFR
+mt: 10.3%
+Median
+14.3 months
+1: 33.6% 1%– 49%:
+27.1% ≥
+50%: 29%
+ALK
+fusion:
+3.7%
+Vrankar
+2021[25]
+1 Slovenia 85 63 (36 – 73) 0: 43.5% 1:
+54.1%2: 2.4%
+cCRT:
+63.5%
+Median 60 Gy Median 57 (12– 99) NR Gemcitabine/cisplatin
+92.9%;
+<1%: 15.3% NR Median
+23 months
+sCRT:
+36.5%
+Pemetrexed/
+cisplatin 3.5%
+1%– 49%:
+38.8% ≥
+50%: 37.7%
+Unknown:
+8.2%
+Wang2021[26]
+multi Taiwan 61 63 (32 – 86) 0 – 1:
+96.7%
+cCRT 50 – 60 Gy:
+4.9%
+Median 54 (6– 117) NR Platinum-based
+doublet-chemo for all
+<1%: 26.2% EGFR
+mt: 26.2%
+NR
+2: 3.3% 60 – 66 Gy:
+86.6%
+≥1%: 44/3%
+(Continued on following page)
+Frontiers in Pharmacology frontiersin.org06
+Zhang et al. 10.3389/fphar.2023.1103927
+
+[W4380047383 PDF PAGE 7]
+TABLE 1 (Continued) Details of included studies.
+Study Centers Location Sample
+size
+Median
+age years(range)
+ECOG
+-
+PSscrore
+cCRTorsCRT
+RT dose Time from CRT
+to durvalumab,days (range)
+Durvalumab
+duration(range)
+Chemotherapy
+regimens
+PD
+-L1
+status
+Drivermt
+Follow
+-
+up
+66– 70: 11.5% Unknown:
+19.7%
+Avrillon
+2021[36]
+multi France 576 64 (36 – 85) NR cCRT Median 66 Gy Median 36 (0 – 157) Median
+16 doses (1– 37)
+Cisplatin/vinorelbine
+38.2%;
+<1%: 32.6% EGFR
+mt: 1.8%
+Median
+25.1 months
+Carboplatin/paclitaxel
+27.9%; Cisplatin/
+pemetrexed 9.8%;
+≥1%: 48.1% ALK
+mt: 0.5%
+Carboplatin/
+vinorelbine 6.8%;
+Unknown:
+19.3%
+Carboplatin/
+pemetrexed 6.1%;
+Cisplatin/docetaxel
+4.9%;
+Carboplatin/
+etoposide 2.1%
+Kartolo
+2022[27]
+2 Canada 63 NR 0 – 1: 84% cCRT 54 – 66 Gy Mean 48 ± 117 NR Platinum-based chemo
+for all
+<1%: 13% 0% Median
+17 months
+≥2: 16% 1%– 49%:
+25% ≥
+50%: 43%
+Unknown:
+19%
+Riudavets
+2022[37]
+multi Multi-
+nationalb
+323 66 (38 – 85) 0 – 1: 98% cCRT:
+81%
+NR NR NR NR <1%: 16% Median
+18.5 months
+≥2: 2% sCRT:
+19%
+13.3%
+Sankar
+2022[38]
+multi USA 1006 69 (64 – 72) NR cCRT NR Median 42 (29 – 63) NR Carboplatin/paclitaxel
+70.7%;
+NR NR Median
+19.9 months
+Cisplatin/etoposide
+6.16%;
+Platinum/pemetrexed
+10.5%;
+Other 12.6%
+aUnited Kingdom, France, Italy, Germany, Norway, Israel, Netherlands, Belgium, Australia, United States.
+bFrance, Spain, Italy, Belgium, Germany, United States, Argentina.
+ALK, anaplastic lymphoma kinase; cCRT, concomitant chemoradiotherapy; ECOG-PS, eastern cooperative oncology group performance status; EGFR, epidermal growth factor receptor; F, fractions; Gy, grays; mt, mutation; NR, not reported; PD-L1, programmed
+death-ligand 1; RT, radiotherapy; sCRT, sequential chemoradiotherapy.
+Frontiers in Pharmacology frontiersin.org07
+Zhang et al. 10.3389/fphar.2023.1103927
+
+[W4380047383 PDF PAGE 8]
+FIGURE 2
+Meta-analysis of 1-year OS.
+TABLE 2 Meta-regression analysis for the primary outcomes.
+Variable Coefﬁcient −95% CI +95% CI SE p-value Bubble plot
+1-year OS
+Median age −0.039 −0.182 0.105 0.073 0.599 Supplementary Figure S4
+Time to durvalumab −0.017 −0.054 0.019 0.019 0.351 Supplementary Figure S5
+ECOG PS 0% 0.006 −0.021 0.034 0.014 0.657 Supplementary Figure S6
+PD-L1 <1% −0.017 −0.043 0.009 0.013 0.193 Supplementary Figure S7
+PD-L1 ≥50% 0.067 −0.004 0.138 0.036 0.064 Supplementary Figure S8
+1-year PFS
+Median age 0.028 −0.030 0.086 0.030 0.338 Supplementary Figure S12
+Time to durvalumab −0.001 −0.023 0.022 0.011 0.949 Supplementary Figure S13
+ECOG PS 0% 0.017 0.002 0.033 0.008 0.026 Supplementary Figure S14
+PD-L1 <1% −0.009 −0.028 0.011 0.010 0.396 Supplementary Figure S15
+PD-L1 ≥50% 0.312 −0.335 0.959 0.330 0.344 Supplementary Figure S16
+All-grade pneumonitis
+Median age 0.057 0.028 0.086 0.015 <0.001 Supplementary Figure S20
+Time to durvalumab −0.006 −0.011 −0.001 0.003 0.030 Supplementary Figure S21
+ECOG PS 0% −0.001 −0.010 0.007 0.004 0.747 Supplementary Figure S22
+PD-L1 <1% −0.001 −0.016 0.014 0.008 0.895 Supplementary Figure S23
+PD-L1 ≥50% −0.019 −0.033 −0.005 0.007 0.009 Supplementary Figure S24
+SE, standard error; CI, conﬁdence interval; PD-L1, programmed death-ligand 1; ECOG-PS, eastern cooperative oncology group performance status; OS, overall survival; DFS, disease free
+survival.
+Signiﬁcant values highlighted bold.
+Frontiers in Pharmacology frontiersin.org08
+Zhang et al. 10.3389/fphar.2023.1103927
+
+[W4380047383 PDF PAGE 9]
+Nishimura et al., 2022 ; Riudavets et al., 2022 ; Sankar et al.,
+2022 ).
+Baseline details of included studies are presented inTable 1. The
+studies were published between 2019 to 2022. Eleven studies were
+multicentric, while the remaining were single-center studies. Data
+were reported from several different countries around the world. A
+total of 4,400 patients were assessed, with the sample size of the
+studies ranging from 15 to 1,155 patients. The median age of patients
+ranged from 61 to 72 years. Eleven studies used only concomitant
+CRT while 8 used both cCRT and sequential CRT (sCRT). The
+proportion of patients with an ECOG PS score of 0 ranged from 23%
+to 72%. There was wide variation in the radiation dose and
+chemotherapy regimen used in the included studies. However,
+the majority of the studies used platinum-based chemotherapy.
+The median time from CRT to durvalumab administration
+ranged from 11 to 57 days. The percentage of patients with PD-
+L1 status<1% ranged from 9.1% to 33.3%, while those with PD-
+L1 ≥50% ranged from 13.4% to 46%. Quality assessment of included
+studies is presented inSupplementary Table S2.
+OS
+Data on 1-year OS was available from 14 studies with
+1969 participants. Meta-analysis indicated a 1-year OS of 85%
+(95% CI: 81%– 89%) (Figure 2). Inter-study heterogeneity was
+72%. There was not much variation in the leave-one-out analysis
+with the estimate ranging from 84% to 86% (Supplementary Figure
+S1). On the subgroup analysis, the 1-year OS was 83% (95% CI:
+79%– 87%) in studies of the Western population and 88% (95% CI:
+67%– 96%) in the Asian population (Supplementary Figure S2).
+Based on the number of study centers, the OS was 83% (95% CI:
+77%– 87%) in single-center studies and 85% (95% CI: 79%– 90%) in
+multicentric studies (Supplementary Figure S3). Results of the meta-
+regression analysis are presented inTable 2. None of the moderators
+were found to signiﬁcantly inﬂuence the effect size. The bubble plots
+of the meta-regression are presented as Supplementary Figures
+S4– S8.
+PFS
+A total of 15 studies with 2,331 patients reported data on 1-year PFS.
+Pooled analysis indicated a 1-year PFS of 60% (95% CI: 56%– 64%)
+(Figure 3). Inter-study heterogeneity was 61%. On leave-one-out analysis,
+the pooled PFS ranged from 59% to 61% (Supplementary Figure S9). On
+subgroup analysis, the PFS was 61% (95% CI: 56%– 65%) for studies
+conducted in Western countries and 58% (95% CI: 47%– 68%) for Asian
+population studies (Supplementary Figure S10). The PFS was 58% (95%
+CI: 50%– 66%) for single-center studies and 61% (95% CI: 57%– 65%) for
+multicentric studies (Supplementary Figure S11). On meta-regression,
+median age, time to durvalumab, and proportion of patients with PD-L1
+status of<1% or≥50% did not affect the overall effect size (Table 2).
+However, as the proportion of patients with ECOG PS of 0% increased,
+and there was a corresponding statistically signiﬁcant increase in the 1-
+year PFS (p = 0.026). Bubble plots of the PFS meta-regression are
+presented inSupplementary Figures S12– S16.
+Pneumonitis
+Pooled meta-analysis of 20 studies showed that the incidence of all-
+grade pneumonitis was 27% (95% CI: 19%– 36%) (Figure 4), with the
+interstudy heterogeneity of 94.3%. The incidence of pneumonitis ranged
+from 25% to 30% on the leave-one-out meta-analysis (Supplementary
+Figure S17). On the subgroup analysis, the incidence was lower in
+Western studies [21% (95% CI: 12%– 30%)] and higher in studies on
+Asian populations [47% (95% CI: 23%– 70%)] (Supplementary Figure
+FIGURE 3
+Meta-analysis of 1-year PFS.
+Frontiers in Pharmacology frontiersin.org09
+Zhang et al. 10.3389/fphar.2023.1103927
+
+[W4380047383 PDF PAGE 10]
+FIGURE 4
+Meta-analysis of all-grade pneumonitis.
+FIGURE 5
+Meta-analysis of grade≥3 pneumonitis.
+Frontiers in Pharmacology frontiersin.org10
+Zhang et al. 10.3389/fphar.2023.1103927
+
+[W4380047383 PDF PAGE 11]
+S18). In terms of the number of study centers, the incidence of
+pneumonitis was 25% (95% CI: 15%– 35%) in multi-center studies
+and 37% (95% CI: 20% – 53%) in single-center studies
+(Supplementary Figure S19). Meta-regression results are presented in
+Table 2with bubble plots asSupplementary Figures S20– S24.O nm e t a -
+regression, the incidence of all-grade pneumonitis increased signiﬁcantly
+with increasing age (p < 0.001) (Table 2). Additionally, longer time
+between CRT and durvalumab treatment was signiﬁcantly associated
+with a lower incidence of pneumonitis (p =0 . 0 3 ) .W ea l s on o t e dt h a ta s
+the proportion of patients with PD-L1 status of≥50% increased, the
+incidence of pneumonitis decreased signiﬁcantly (p =0 . 0 0 

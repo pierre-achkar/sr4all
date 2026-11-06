@@ -1,0 +1,186 @@
+auses of 
+death and disability in China (1). According to the statistics 
+of the Ministry of Health in Beijing in 1999, the mortality 
+rate of cerebrovascular diseases in China is 137 per 100,000 
+people (2). Preventive measures to reduce the incidence 
+of cerebrovascular disease are important, so this study 
+aimed to identify the risk factors associated with death. 
+Most studies show that cerebrovascular disease has many 
+fatal risk factors, and chronicity is an independent risk 
+factor of cerebrovascular disease (3). The age of patients 
+at onset of acute cerebrovascular disorders has shown a 
+tendency to become younger. The results reported by 
+Barthels and Das (4) indicated an increase in the prevalence 
+of cerebrovascular diseases in emergency departments in 
+developing countries over the past 10 years compared with 
+previous decades. Chronic diseases such as hypertension 
+are a risk factor of cerebrovascular diseases. People with 
+diabetes have a high risk of cerebrovascular disease. Among 
+patients with cerebrovascular diseases (e.g., stroke and 
+cerebral infarction), the number of patients with diabetes 
+is twice that of those without diabetes (5). Most of the 
+patients with cerebral infarction and stroke cannot use 
+anti-glycemic drugs because they shorten the onset of 
+hypertension, hyperlipidemia, and hyperglycemia, so the 
+patients are not optimally treated, forming a vicious circle. 
+Being overweight may also be a risk factor for death from 
+cerebrovascular disease. Zheng et al. (6) tracked 300 older 
+adults in 2001, 47 of whom had hypertension, and 79 cases 
+of cerebrovascular diseases were tracked over a 6-year 
+period. The annual incidence of cerebrovascular disease in 
+the obese patients was 3.77%. Other studies have shown 
+that alcohol intake is also greatly related to cerebrovascular 
+diseases, and the incidence of disease is related to the 
+frequency and amount of alcohol intake (7). In addition, 
+there is a significant association between alcohol intake and 
+the incidence of intracerebral hemorrhage and subarachnoid 
+hemorrhage, but no significant association between alcohol 
+intake and ischemic stroke. Smoking is also a risk factor for 
+cerebrovascular disease (8).
+The purpose of this systematic review was to summarize 
+the evidence from randomized controlled trials (RCT s) 
+designed to prevent deaths from cerebrovascular disease in 
+the emergency department. The risk of deviation in quality, 
+quantity, and treatment effectiveness was compared. The 
+inherent focus of this approach was studying the association 
+between risk factors and various cerebrovascular diseases, 
+rather than to compare their therapeutic effects. Different 
+cerebrovascular diseases have different treatments, but the 
+risk factors are mostly similar for interventions that work in 
+very different ways. In this study, to discuss the various risk 
+factors for death from emergency cerebrovascular diseases 
+in the Department of Neurology, a total of 10 RCT s were 
+included (9-18). The results of comparative studies of 
+domestic and foreign cases were reviewed, and various 
+screening and meta-analyses were carried out. It provides 
+the scientific basis and theoretical basis for reducing the 
+mortality rate of emergency cerebrovascular diseases and 
+preventing the recurrence of cerebrovascular diseases in 
+the neurology department. The innovation of this article 
+lies in the use of meta-analysis of various death risk factors 
+for emergency cerebrovascular diseases in the Department 
+of Neurology, and a collection of 10 documents to verify 
+the results, which including hypertension, risk factors for 
+death, hyperlipidemia, family history of stroke, diabetes, 
+overweight, and alcohol consumption. The effect of 
+smoking on cerebrovascular diseases has been studied, it 
+not only includes stroke, but also includes ischemic brain 
+diseases and cerebral infarction, to improve the diagnosis 
+rate and cure rate of patients. We present the following 
+article in accordance with the PRISMA reporting checklist 
+(available at https://dx.doi.org/10.21037/apm-21-2329).
+Methods
+Literature search strategy
+Medline, Embase, and the Cochrane Central Register 
+of Controlled T rials were searched for postoperative 
+pulmonary complications related keywords and a 
+combination of medical subject terms. The search 
+restriction limited the results to the published RCT studies 
+included in each database from the beginning of the 
+construction of the database until March 2021. The selected 
+start date overlapped with the last systematic review of 
+prevention strategies. Descriptive terms were combined 
+with migraine, smoking, history of chronic disease, 
+paralysis, infection, hypotension, hyponatremia, insomnia 
+or stress, diabetes, dyslipidemia, smoking, small vessel 
+disease and infarction, risk factors for death, cerebrovascular 
+disease, cerebral infarction, and stroke. Chinese search 
+keywords included migraine, smoking, history of chronic 
+diseases, paralysis, infection, hypotension, hyponatremia, 
+insomnia or stress, diabetes, dyslipidemia, smoking, small 
+vessel disease infarction, death risk factors, cerebrovascular 
+
+[W3207720815 PDF PAGE 3]
+Annals of Palliative Medicine, Vol 10, No 10 October 2021
+© Annals of Palliative Medicine. All rights reserved.
+  Ann Palliat Med 2021;10(10):10661-10673 | https://dx.doi.org/10.21037/apm-21-2329
+10663
+disease, brain infarction, and stroke. According to pre-
+established inclusion and exclusion criteria, the full text of 
+the target study was obtained. In addition, the symptoms 
+and treatments of cerebrovascular diseases were also 
+studied.
+Literature inclusion and exclusion criteria
+Inclusion criteria: (I) patients diagnosed with CT or MRI 
+according to a revised diagnostic basis of the 4th National 
+Diagnostic Conference on Cerebrovascular Diseases 
+or WHO diagnostic baseline; (II) patients older than  
+18 years; (III) patients with cerebrovascular disease who 
+were treated in the emergency department; (IV) patients 
+had a prior history of stroke, cerebral infarction, or other 
+cerebrovascular disease; (V) trials had both experimental 
+and control groups.
+Exclusion criteria: (I) unclear data; (II) trials lacking 
+required disease data; (III) no controlled trial; (IV) results 
+were not credible.
+Literature screening
+Independent literature screening and data extraction were 
+performed, and finally cross-examination was done. If 
+different opinions arose, experts of Neurology Emergency 
+Physician were consulted to discuss the data selection.
+Data extraction
+Data extraction in this study was carried out independently 
+by two researchers. In the process of data extraction, the 
+researchers independently extracted the study data first, 
+creating an Excel table based on the basic information, 
+characteristics of the research subjects, intervention 
+measures, outcome indicators, and bias evaluation data. 
+After the extraction, cross-checking was conducted. If there 
+were any differences in opinion, discussion and settlement 
+could be made between the two researchers, or opinions 
+could be sought from a third researcher. In this study the 
+data to be extracted included basic literature information 
+(title, first author, publication year, author information, 
+and literature source), basic characteristics of the subjects 
+(sex, age, study sample size, and baseline comparability), 
+study method, study scheme design, intervention measures 
+of experimental and control groups, outcome evaluation 
+indicators, and outcome data.
+Quality evaluation
+T o improve the quality of the reviewed literature, quality 
+was assessed in accordance with the “risk of bias assessment” 
+recommended in version 5.3 of the Cochrane system review 
+manual. The evaluation included the following seven items: 
+(I) which random method was used; (II) whether there was 
+hidden allocation; (III) the implementation of blinding 
+method between patients and researchers; (IV) evaluation of 
+the effect of the blinding method; (V) whether there was the 
+integrity of the results; (VI) whether the survey results were 
+credible; (VII) other biases regarding each RCT in item VI 
+above. “Satisfied” meant there was a small bias, “dissatisfied” 
+meant there was a large bias and not enough detail to report 
+it. If not mentioned, the bias was unknown. The assessment 
+included four dimensions of random sequence generation, 
+assignment concealment, blinding, and trace/exit. A score 
+of 1–3 was considered low quality, and 4–7 was considered 
+high quality.
+Statistical methods
+Review Manager 5.3 provided by the Cochrane 
+Collaboration was used for meta-analyses. Odds ratio (OR) 
+was used as the effect size, and the outcome was represented 
+by 95% confidence interval (CI). First, the included studies 
+were tested for heterogeneity, and α=0.1 was taken as the 
+test level. If there was no heterogeneity among studies 
+(P>0.1, I
+2
+<50%), a fixed-effect model was selected for the 
+meta-analysis. Otherwise, subgroup analysis was performed 
+on the included data. P<0.05 was considered statistically 
+significant. When the number of references included in the 
+analysis of a single risk factor was >10, funnel plots were 
+used to analyze the publication bias of each risk factor.
+Results
+Literature screening results
+A total of 210 articles were collected and based on the 
+inclusion and exclusion criteria, a total of 10 articles (6-15) 
+were included in this meta-analysis ( Figure 1 ). The studies 
+were published in seven journals from 20 hospitals in three 
+countries, with a total of 14,743 cases and 17,901 control 
+cases. The 10 articles (6-15) were obtained from PubMed 
+and comprised the following: 10 studies of hypertension 
+and stroke (6-15), 10 studies of hyperlipidemia and stroke 
+(6-15), 9 studies of family history of stroke and stroke  
+
+[W3207720815 PDF PAGE 4]
+Zhang et al. Risk factors of cerebrovascular diseases: meta-analysis
+© Annals of Palliative Medicine. All rights rese

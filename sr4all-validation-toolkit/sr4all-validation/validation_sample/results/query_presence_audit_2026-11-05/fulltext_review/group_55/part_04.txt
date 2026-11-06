@@ -1,0 +1,181 @@
+h          (2024) 36:172 
+studies and case-control studies, with a higher risk of vari -
+ous types of bias, such as selection and recall bias.
+Despite these limitations, our study has implications 
+for public health, government officials, researchers, and 
+the general public. The global population is growing and 
+advances in health care and social welfare have prolonged 
+life expectancy, meaning that older adults will represent a 
+significant proportion of the population. As a result, age-
+related diseases such as Alzheimer’s disease will become 
+more prevalent. More high-quality longitudinal studies are 
+needed in the future to assess the association between glau-
+coma subtypes and dementia risk and to identify sources of 
+heterogeneity in previously published studies. At the same 
+time, the factors influencing the relationship between glau -
+coma and dementia or cognitive function should be fur -
+ther explored and fully adjusted to identify the underlying 
+biological basis and reveal features of glaucoma that may 
+increase the risk of dementia, and translational studies as 
+well as clinical and population studies are necessary to 
+determine the impact of different treatment strategies and 
+the degree of glaucoma disease on cognitive function, and 
+ultimately to identify targeted preventive interventions.
+Conclusions
+Overall, our review first demonstrated that glaucoma 
+increased the risk of subsequent cognitive impairment and 
+dementia, including all-cause dementia, Alzheimer’s dis -
+ease, and vascular dementia, which updated the results of 
+previous meta-analysis. These findings contribute to the 
+further promotion of dementia awareness and glaucoma 
+patients, and serve to develop global management strategies 
+to reduce the occurrence of dementia in glaucoma.
+Supplementary Information  The online version contains 
+supplementary material available at https://doi.org/10.1007/s40520-
+024-02811-w.
+Acknowledgements The authors would like to thank to all other 
+authors for consulting and sorting out the relevant literature and the 
+support of the above funds.
+risk of all-cause dementia and Alzheimer’s disease, whereas 
+there was no correlation in Europe or North America. We 
+speculate that it may be related to the large population base, 
+accelerated population aging, and increased level of demen-
+tia diagnosis and dementia reporting in Asia, resulting in an 
+overall high prevalence of dementia associated with rapid 
+growth [67].
+Strengths and limitations
+Our study encompassed data from 27 population-based lon-
+gitudinal studies, including 9,061,675 participants across 8 
+countries, with considerable sample size. Compared with 
+previous meta-analyses, we attempted to include all forms 
+of dementia by including all relevant studies, not only 
+subgroup analysis of the type of glaucoma, the subtype of 
+dementia, age, gender, sample size, geographic location, and 
+follow-up time, but also a refined analysis of the association 
+of each influencing factor with the subtype of dementia.
+Nevertheless, the study still had a few potential limita -
+tions. First, there was considerable heterogeneity among the 
+results of the included studies, lowering the quality of the 
+evidence. Based on our findings, the type of glaucoma and 
+geographic region of the study population may be a source of 
+heterogeneity. Alternatively, different approaches to assess-
+ing glaucoma, dementia, and the variables used to charac -
+terize cognitive decline may provide other explanations for 
+the discrepancy. Nevertheless, due to the limitations of the 
+original data, more detailed subgroup analyses could not be 
+performed, and the available results did not fully explain 
+the sources of heterogeneity generation. None of the studies 
+recruited participants immediately at the time of glaucoma 
+diagnosis, which may have led to selection bias. Second, 
+some did not fully adjust for confounding factors, such as 
+BMI, smoking, and alcohol consumption, all risk factors for 
+dementia or cognitive impairment. These factors may influ-
+ence the association between glaucoma and dementia or 
+cognitive impairment. Finally, the study subjects were from 
+different regions, and differences between races may have 
+impacted the results; the included studies were all cohort 
+Variable Number of 
+studies
+Heterogeneity Effect model Mate-analysis
+Pooled OR (95% CI) P-value
+ North 
+America
+All-cause dementia 3 P<0.00001; I2 = 98% random-effects model 0.94(0.92, 0.96) <0.00001
+Alzheimer’s disease 5 P<0.00001; I2 = 97% random-effects model 1.28(0.93, 1.78) 0.13
+Vascular dementia 2 P = 0.98; I2 = 0 % fixed-effects model 1.11(0.99, 1.24) 0.07
+MCI
+ POAG 3 P = 0.81; I2 = 0 % fixed-effects model 2.00(1.79, 2.22) <0.00001
+OR, odds ratio; CI, confidence interval; NA, not applicable
+*P < 0.05 for the Q-test or I 2 > 50% indicated significant heterogeneity
+Table 4 (continued) 
+1 3
+  172  Page 14 of 17
+
+[W4401716223 PDF PAGE 15]
+Aging Clinical and Experimental Research          (2024) 36:172 
+9. Almasieh M, Wilson AM, Morquette B et al (2012) The molecular 
+basis of retinal ganglion cell death in glaucoma. Prog Retin Eye 
+Res 31:152–181. https://doi.org/10.1016/j.preteyeres2011.11.002
+10. Grieshaber MC, Orgul S, Schoetzau A et al (2007) Relationship 
+between retinalglial cell activation in glaucoma and vascular 
+dysregulation. J Glaucoma 16:215–219. https://doi.org/10.1097/
+IJG.0b013e31802d045a
+11. Ban N, Siegfried CJ, Apte RS (2018) Monitoring neurodegen -
+eration in Glaucoma: therapeutic implications. Trends Mol Med 
+24:7–17. https://doi.org/10.1016/j.molmed2017.11.004
+12. Fukuoka H, Nagaya M, Toba K (2015) The occurrence of visual 
+and cognitive impairment, and eye diseases in the super-elderly 
+in Japan: a cross-sectional single-center study. BMC Res Notes 
+8:619. https://doi.org/10.1186/s13104-015-1625-7
+13. Maurano STP, da Silva DJ, Ávila MP et al (2018) Cognitive eval-
+uation of patients with glaucoma and its comparison with indi -
+viduals with Alzheimer’s disease. Int Ophthalmol 38:1839–1844. 
+https://doi.org/10.1007/s10792-017-0658-4
+14. McCoskey M, Addis V , Goodyear K et al (2018) Association 
+between Primary Open-Angle Glaucoma and cognitive impair -
+ment as measured by the Montreal Cognitive Assessment. Neuro-
+degener Dis 18:315–322. https://doi.org/10.1159/000496233
+15. Vidal KS, Suemoto CK, Moreno AB et al (2020) Association 
+between cognitive performance and self-reported glaucoma 
+in middle-aged and older adults: a cross-sectional analysis of 
+ELSA-Brasil. Braz J Med Biol Res 53:e10347. https://doi.
+org/10.1590/1414-431X202010347
+16. Mandas A, Mereu RM, Catte O et al (2014) Cognitive impairment 
+and age-related Vision disorders: their possible relationship and 
+the evaluation of the use of aspirin and statins in a 65 years-and-
+over Sardinian Population. Front Aging Neurosci 6:309. https://
+doi.org/10.3389/fnagi.2014.00309
+17. Ohno-Matsui K (2011) Parallel findings in age-related macular 
+degeneration and Alzheimer’s disease. Prog Retin Eye Res 30. 
+https://doi.org/10.1016/j.preteyeres2011.02.004 217 – 38
+18. Ramirez AI, de Hoz R, Salobrar-Garcia E et al (2017) The role 
+of Microglia in Retinal Neurodegeneration: Alzheimer’s Disease, 
+Parkinson, and Glaucoma. Front Aging Neurosci 9:214. https://
+doi.org/10.3389/fnagi.2017.00214
+19. Bach-Holm D, Kessing SV , Mogensen U et al (2012) Normal tension 
+glaucoma and Alzheimer disease: comorbidity? Acta Ophthalmol. 
+90:683–685. https://doi.org/10.1111/j.1755-3768.2011.02125.x
+20. Ong SY , Cheung CY , Li X et al (2012) Visual impairment, 
+age-related eye diseases, and cognitive function: the Singapore 
+malay Eye study. Arch Ophthalmol 130:895–900. https://doi.
+org/10.1001/archophthalmol.2012.152
+21. Wostyn P, De Groot V , Van Dam D et al (2017) Alzheimer’s dis-
+ease and glaucoma: can glymphatic system dysfunction underlie 
+their comorbidity? Acta Ophthalmol 95:e244–e245. https://doi.
+org/10.1111/aos.13068
+22. Sen S, Saxena R, Tripathi M et al (2020) Neurodegenera -
+tion in Alzheimer’s disease and glaucoma: overlaps and miss -
+ing links. Eye (Lond) 34:1546–1553. https://doi.org/10.1038/
+s41433-020-0836-x
+23. Rethlefsen ML, Kirtley S, Waffenschmidt S et al (2021) PRISMA-
+S: an extension to the PRISMA Statement for reporting litera -
+ture searches in systematic reviews. Syst Rev 10:39. https://doi.
+org/10.5195/jmla.2021.962
+24. Stang A (2010) Critical evaluation of the Newcastle-Ottawa 
+scale for the assessment of the quality of nonrandomized stud -
+ies in meta-analyses. Eur J Epidemiol 25:603–605. https://doi.
+org/10.1007/s10654-010-9491-z
+25. Higgins JP, Thompson SG, Deeks JJ et al (2003) Measuring 
+inconsistency in meta-analyses. BMJ 327:557–600. https://doi.
+org/10.1136/bmj.327.7414.557
+Author contributions  WX.R. wrote the main manuscript text and 
+C.W.J. prepared Tables 1-3. Z.W.Xand M.M.S reviewed and revised 
+the manuscript. All authors reviewed the manuscript.
+Funding  This research was funded by the National Administration of 
+Traditional Chinese Medicine -- Chief Scientist of Qi-Huang Project 
+(2022-6); Major Public Welfare Projects in Henan Province [grant 
+numbers 201300310100]; Joint Open Project of the State Administra -
+tion of Chinese Medicine [grant numbers GZY-KJS-2022-040-1].
+Data availability  No datasets were generated or analysed during the 
+current study.
+Declarations
+Competing interests  The authors declare no competing interests.
+Open Access   This article is licensed under a Creative Commons 
+Attribution 4.0 International License, which permits use, sharing, 
+adaptation, distribution and reproduction in any medium or format, 
+as long as you give appropriate credit to the original author(s) and the 
+source, provide a link to the Creative Commons licence, and indicate 
+if changes were made. The images or other third party material in this 
+article are included in the article’s Creative Commons licence, unless 
+indicated otherwise in a credit line to the material. If material is not 
+included in the article’

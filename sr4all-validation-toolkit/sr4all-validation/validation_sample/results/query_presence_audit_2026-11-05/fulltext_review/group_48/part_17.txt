@@ -1,0 +1,143 @@
+www.harvest.co.kr/clinician/clinician-home/adiprep/advantages/quality.html
+(accessed on 15th Novembre 2023)
+[57]
+Lipokit Medi-Khan
+http://www.medikanint.com (accessed on 15th Novembre 2023) [58,59]
+Puregraft 250 Puregraft LLC
+http://www.puregraft.com (accessed on 15th Novembre 2023) [60]
+Lipogems Lipogems
+http://understandlipogems.com (accessed on 15th Novembre 2023) [61,62]
+MyStem MyStem LLC
+https://mystem.eu/ (accessed on 15th Novembre 2023) [63,64]
+Arthrex SVF https://www.arthrex.com/orthobiologics (accessed on 15th Novembre 2023) [65]
+Adinizer BSL
+http://biosl.com/?ckattempt=1 (accessed on 15th Novembre 2023) [66]
+Microlyser Tlab
+https://tlab.com.tr/en/products/microlyzer-svf-kit/ (accessed on 15th Novembre 2023) [67]
+SEFFIE Advanced-Maes
+http://www.advanced-maes.com/ (accessed on 15th Novembre 2023) [68]
+LIPOCUBE STEMC
+https://lipocube.com/ (accessed on 15th Novembre 2023) [69,70]
+Q-Graft Human Med AG
+https://www.humanmed.com/en/products/q-graft/ (accessed on 15th Novembre 2023) [71]
+Tulip Nanotransfer Tulip Medical
+https://tulipmedical.com/ (accessed on 15th Novembre 2023) [72]
+Lipocell Tissyou
+https://www.tissyou.com/portfolio_page/lipocell/ (accessed on 15th Novembre 2023) [73]
+LipiVage
+Genesis Biosytems
+https://www.genesisbiosystems.com/lipivagesystem-autologous-fat-transfer/
+(accessed on 15th Novembre 2023)
+[74]
+
+[W4391311681 PDF PAGE 14]
+Medicina 2024, 60, 221 14 of 19
+The coming years promise to shed more light on this versatile therapeutic tool, and it
+is our hope that the relentless pursuit of knowledge in this area will usher in a new era of
+regenerative medicine, leading to improved patient outcomes across a myriad of health
+conditions [75–77].
+4.3. Immediate Expectations
+Increased clinical trials: An increase in clinical trials is anticipated, targeting the
+efficacy and safety of SVF across various therapeutic applications. These trials are expected
+to provide critical data that will inform clinical practice and further research, particularly
+in areas such as osteoarthritis, wound healing, and myocardial ischemia or neurosurgery.
+Technological advancements: The immediate horizon also sees advancements in the
+technology used for SVF extraction and purification. Efforts will likely be directed toward
+standardizing protocols to improve the viability and potency of harvested cells, which is
+essential for ensuring consistent and effective treatment outcomes. Regulatory processes
+for SVF-based therapies are expected. These advancements will facilitate the transition
+from laboratory research to clinical applications, ensuring that new treatments are safe and
+compliant with regulatory standards.
+4.4. Long-Term Expectations
+Broad-spectrum applications: Over the long term, SVF is expected to find appli-
+cations in broader medical disciplines. This expansion could offer novel treatments
+for various chronic diseases and degenerative conditions and in the flourishing field
+of tissue engineering.
+Personalized medicine and integration with other therapies: Future research might
+enable the use of SVF in personalized regenerative therapies tailored to individual patient
+needs and specific conditions. This approach could significantly enhance the efficacy of
+treatments and minimize potential side effects. There is potential for SVF to be combined
+with other regenerative approaches, such as gene therapy or 3D-bioprinting [78–81]. This
+integration could enhance therapeutic outcomes and pave the way for more comprehensive
+treatment strategies.
+4.5. Future Research Directions
+Clarifying cellular dynamics: future studies should focus on the specific roles of
+different cell types within SVF and their synergistic effects in tissue repair and regeneration.
+Understanding these dynamics is critical to maximizing the therapeutic potential of SVF.
+Long-term clinical studies: conducting studies with extended follow-up periods is
+crucial. These long-term clinical trials are necessary to assess the efficacy and safety of
+SVF-based therapies over time and to understand the lasting impacts of these treatments.
+Dose–response relationship: investigating the optimal dosage and administration
+routes for SVF in various clinical conditions is essential. This research will help in deter-
+mining the most effective treatment protocols.
+Mechanistic studies: delving into the molecular pathways influenced by SVF can
+provide deeper insights into its regenerative mechanisms. This knowledge is pivotal for
+developing targeted therapies to address specific medical conditions more effectively [75].
+It is imperative to address ethical concerns and develop comprehensive regulatory
+guidelines for using SVF in clinical settings. These guidelines will ensure that treatments
+are practical, ethically sound, and compliant with legal standards.
+4.6. Limitations of this Study
+Lack of long-term data: many studies may have had short follow-up periods, limiting
+the ability to draw conclusions about the long-term safety and efficacy of SVF.
+Limited sample size: this review may be constrained by the small sample sizes of
+some included studies, reducing the power to detect significant effects.
+
+[W4391311681 PDF PAGE 15]
+Medicina 2024, 60, 221 15 of 19
+Regulatory landscape: differences in regulatory practices across countries may affect
+the applicability and generalizability of this review’s findings.
+5. Conclusions
+Our literature review on SVF provides valuable insights into its potential as a powerful
+tool in regenerative medicine. SVF, composed of a heterogeneous mixture of cells including
+ADSCs, has demonstrated significant therapeutic efficacy and safety in various medical
+disciplines. The reviewed studies highlight the positive outcomes of SVF therapy in
+areas such as orthopedics, plastic and reconstructive surgery, cardiology, and wound
+healing. SVF has shown promising results in reducing pain, improving tissue regeneration,
+enhancing graft survival, and promoting wound healing. Moreover, SVF has exhibited
+immunomodulatory and anti-inflammatory properties, contributing to its regenerative
+effects. The future of SVF in regenerative medicine holds great promise. Continued research,
+technological advancements, and regulatory guidelines will contribute to unlocking its full
+therapeutic potential. The standardization of protocols and large-scale clinical trials will
+provide robust evidence and establish SVF as a mainstream treatment option. With these
+developments, SVF has the potential to revolutionize the field of regenerative medicine
+and offer innovative solutions for a wide range of medical conditions. SVF represents an
+exciting and evolving field of research that has the potential to transform the landscape of
+regenerative medicine. By harnessing the regenerative and immunomodulatory properties
+of SVF, researchers and clinicians can pave the way for innovative treatments that improve
+patient outcomes and quality of life.
+Author Contributions: Conceptualization, E.N.G., O.A.K., E.I.I., K.K.V . and N.M.; methodology,
+E.N.G., O.A.K., M.D.J.E.R., K.K.V . and N.M.; validation, E.N.G., O.A.K., E.I.I., R.N., K.K.V . and
+N.M.; formal analysis, E.N.G., O.A.K., and E.I.I.; investigation, E.N.G., K.K.V . and N.M.; resources,
+E.N.G.; data curation, E.N.G. and E.I.I.; writing—original draft preparation, E.N.G., K.K.V . and N.M.;
+writing—review and editing, M.D.J.E.R., K.K.V . and N.M.; visualization, O.A.K.; supervision, E.N.G.,
+K.K.V . and N.M. All authors have read and agreed to the published version of the manuscript.
+Funding: This research received no external funding.
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Not applicable.
+Conflicts of Interest: The authors declare no conflicts of interest.
+References
+1. Rodbell, M. Metabolism of isolated fat cells. I. Effects of hormones on glucose metabolism and lipolysis. J. Biol. Chem. 1964, 239,
+375–380. [CrossRef]
+2. Zuk, P .A.; Zhu, M.; Mizuno, H.; Huang, J.; Futrell, J.W.; Katz, A.J.; Benhaim, P .; Lorenz, H.P .; Hedrick, M.H. Multilineage cells
+from human adipose tissue: Implications for cell-based therapies. Tissue Eng. 2001, 7, 211–228. [CrossRef]
+3. Bora, P .; Majumdar, A.S. Adipose tissue-derived stromal vascular fraction in regenerative medicine: A brief review on biology
+and translation. Stem Cell Res. Ther. 2017, 8, 145. [CrossRef]
+4. Baer, P .C.; Geiger, H. Adipose-derived mesenchymal stromal/stem cells: Tissue localization, characterization, and heterogeneity.
+Stem Cells Int. 2012, 2012, 812693. [CrossRef]
+5. Lee, S.H.; Lee, J.H.; Cho, K.H. Effects of Human Adipose-derived Stem Cells on Cutaneous Wound Healing in Nude Mice. Ann.
+Dermatol. 2011, 23, 150–155. [CrossRef] [PubMed]
+6. Jo, C.H.; Lee, Y.G.; Shin, W.H.; Kim, H.; Chai, J.W.; Jeong, E.C.; Kim, J.E.; Shim, H.; Shin, J.S.; Shin, I.S.; et al. Intra-articular
+injection of mesenchymal stem cells for the treatment of osteoarthritis of the knee: A proof-of-concept clinical trial. Stem Cells
+2014, 32, 1254–1266, Erratum in Stem Cells 2017, 35, 1651–1652. [CrossRef] [PubMed]
+7. Gentile, P .; Garcovich, S.; Bielli, A.; Scioli, M.G.; Orlandi, A.; Cervelli, V . The Effect of Platelet-Rich Plasma in Hair Regrowth: A
+Randomized Placebo-Controlled Trial. Stem Cells Transl. Med. 2015, 4, 1317–1323. [CrossRef] [PubMed]
+8. Ude, C.C.; Shah, S.; Ogueri, K.S.; Nair, L.S.; Laurencin, C.T. Stromal Vascular Fraction for Osteoarthritis of the Knee Regenerative
+Engineering. Regen. Eng. Transl. Med. 2022, 8, 210–224. [CrossRef] [PubMed]
+9. Bai, X.; Yan, Y.; Song, Y.H.; Seidensticker, M.; Rabinovich, B.; Metzele, R.; Bankson, J.A.; Vykoukal, D.; Alt, E. Both cultured and
+freshly isolated adipose tissue-derived stem cells enhance cardiac function after acute myocardial infarction. Eur. Heart J. 2010, 31,
+489–501. [CrossRef]
+
+[W4391311681 PDF PAGE 16]
+Medicina 2024, 60, 221 16 of 19
+10. Kølle, S.F.; Fischer-Nielsen, A.; Mathiasen, A.B.; Elberg, J.J.; Oliveri, R.S.; Glovinski, P .V .; Kastrup, J.; Kirchhoff, M.; Rasmussen,
+B.S.; Talman, M.L.M

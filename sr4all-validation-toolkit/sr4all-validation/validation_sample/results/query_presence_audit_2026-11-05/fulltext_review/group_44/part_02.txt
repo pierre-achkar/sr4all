@@ -1,0 +1,224 @@
+inum Induces DNA damage and apoptosis;
+synergizes with anti-PD-1/PD-L1
+antibodies; less nephrotoxic than cisplatin
+Neurotoxicity, resistance,
+poor selectivity
+Clinical trials
+and preclinical
+studies
+Auranoﬁn [Au(PEt 3)(SC2H4COOH)] Gold(I) Inhibits thioredoxin reductase; induces
+mitochondrial dysfunction and oxidative
+stress; overcomes cisplatin resistance;
+synergizes with PD-L1 blockade
+Low bioavailability, high
+protein binding, off-
+target effects
+Preclinical
+studies
+[Au(bipydmb-H)Cl2] [Au(bipydmb-H)Cl 2] Gold(III) Causes DNA damage and inhibits
+topoisomerase II; induces apoptosis;
+higher cytotoxic potency than cisplatin in
+NSCLC cells
+Stability issues, high
+toxicity, resistance
+mechanisms
+Preclinical
+studies
+NAMI-A [Ru( η6-p-cymene)Cl2(ImH)] Ruthenium(II) Inhibits metastasis and angiogenesis; low
+toxicity and high selectivity; active against
+cisplatin-resistant cells
+Low cytotoxicity, slow
+action, limited
+bioavailability
+Clinical trials
+and preclinical
+studies
+KP1019 [Ru( η6-p-indazole)Cl2(IndH)] Ruthenium(III) Induces cell cycle arrest and apoptosis;
+activates caspases and PARP cleavage;
+similar or lower IC50 than cisplatin in
+NSCLC cells
+High toxicity, poor
+solubility, resistance
+mechanisms
+Clinical trials
+and Preclinical
+studies
+[SnCl2(HL1)] [SnCl 2(HL1)] (HL1
+=aroylhydrazone ligand)
+Tin(IV) Inhibits DNA synthesis and induces
+apoptosis; increases ROS levels and
+reduces mitochondrial membrane
+potential; lower IC50 than cisplatin in
+NSCLC cells
+Low stability, high
+toxicity, limited studies
+Preclinical
+studies
+Casiopeínas III-ia and
+III-Ea
+[Cu(N-N)(O-O)] (N-N
+=tetradentate ligand; O-O
+=bidentate ligand)
+Copper(II) Induce apoptosis by increasing ROS levels
+and free calcium; reduce mitochondrial
+membrane potential; activate caspases;
+cause cell cycle arrest
+High toxicity, low
+selectivity, stability issues
+Preclinical
+studies
+Deferoxamine C 25H48N6O8 (iron chelator) Iron(III) Inhibits tumor growth and angiogenesis by
+reducing iron availability; enhances the
+efﬁcacy of radiotherapy and chemotherapy
+Low bioavailability, high
+dose requirement, side
+effects
+Clinical trials
+and preclinical
+studies
+Cobalt
+protoporphyrin IX
+C34H32CoN4O4 (hemeanalog) Cobalt(II) Induces heme oxygenase-1 expression;
+inhibits tumor growth and metastasis by
+modulating inﬂammation and immune
+response
+Low solubility, high
+toxicity, limited studies
+Preclinical
+studies
+Palladium
+mesoporphyrin IX
+C34H32PdN4O4 (hemeanalog) Palladium(II) Induces heme oxygenase-1 expression;
+inhibits tumor growth and angiogenesis by
+modulating inﬂammation and oxidative
+stress
+Low solubility, high
+toxicity, limited studies
+Preclinical
+studies
+[Rh2(OAc)4][ R h 2(OAc)4] (dirhodium
+tetraacetate)
+Rhodium(II) Inhibits tumor growth and metastasis by
+inducing ferroptosis; synergizes with
+cisplatin and erlotinib; active against
+cisplatin-resistant cells
+High toxicity, poor
+solubility, stability issues
+Preclinical
+studies
+Note. NSCLC refers to non-small cell lung cancer. The table summarizes key metallodrugs used in NSCLC treatment, detailing their molecular formula,metal core, reported advantages,
+reported limitations, and studies carried out. Clinical trials include both completed and ongoing research studies. Preclinical studies refer to laboratory experiments conductedin vitroor in
+animal models. Reported limitations may include challenges related to toxicity, resistance, solubility, and other pharmacological aspects.
+Frontiers inPharmacology frontiersin.org07
+Xu et al. 10.3389/fphar.2023.1242488
+
+[W4386324723 PDF PAGE 8]
+modulation, angiogenesis inhibition, and immunomodulation, but
+optimal exploitation of these mechanisms requires deeper analysis.
+Figure 5provides a visual representation of the mechanisms of action
+of metallodrugs in NSCLC cells.
+DNA-damaging platinum drugs like cisplatin are effectiveﬁrst-
+line therapies, but resistance frequently develops due to enhanced
+DNA repair, limiting their long-term efﬁcacy (Golan Berman et al.,
+2021). Ruthenium complexes like [Ru (η5-C5H4CH2OH)(PPh3)
+(4,4′-di (hydroxymethyl)-2,2′-bipyridine)] [CF3SO3] damage DNA
+through minor groove binding rather than major groove lesions
+formed by cisplatin, suggesting potential to overcome platinum
+resistance (Teixeira-Guedes et al., 2022). However, clinical studies
+show their single-agent efﬁcacy is modest at best (Dwyer et al.,
+2018). This highlights the need for combination strategies and
+predictive biomarkers to enhance activity.
+Protein-targeting metallodrugs like the gold (I) thiol-reactive
+complex auranoﬁn, an inhibitor of the selenoenzyme thioredoxin
+reductase (TrxR), have shown cytotoxic activity by disrupting redox
+homeostasis in preclinical studies (Merlino et al., 2017; Delgobo
+et al., 2021). But clinical activity as single agents is again limited,
+likely due to compensatory mechanisms that mitigate redox effects
+(Gandhi et al., 2011). Such agents may have greater success when
+combined with other stressors. For example, auranoﬁn enhanced
+cisplatin activity in lung cancer cells by further potentiating
+oxidative stress (Cui et al., 2022; Johnson et al., 2023).
+While metallodrugs can modulate diverse processes like cell
+cycle arrest and apoptosis (Zhao et al., 2019; Herrera-Ramírez et al.,
+2023), single-target effects may be insufﬁcient for robust anticancer
+activity. Agents affecting multiple pathways, like multi-target
+ruthenium complexes, may be more effective (Li Y. L. et al.,
+2022). Angiogenesis inhibitors also show promise, with
+ruthenium and gold complexes demonstrating anti-angiogenic
+and anti-metastatic effects in preclinical models (Kwong et al.,
+2016; Elie et al., 2018 ). But resistance mechanisms involving
+alternative pro-angiogenic pathways may limit their efﬁcacy.
+Immunomodulation is an emerging hallmark of metallodrugs, with
+platinum agents and gold complexes modulating immune cell function
+and expression of immune checkpoint proteins (Lesterhuis et al., 2011;
+Ray and Mukherjee, 2022). This sensitizes tumors to immune-mediated
+killing. Combining metallodr ugs with immunotherapies like
+checkpoint inhibitors may provide synergistic beneﬁts.
+Overall, current metallodrugs demonstrate promising anti-
+cancer capabilities through diverse mechanisms, but single-agent
+efﬁcacy is constrained by compensatory pathways that limit durable
+responses. A multi-targeted approach combining cytotoxic,
+angiogenic, and immunomodulatory agents appears most likely
+to overcome these limitations and achieve more potent anti-
+tumor activity.
+Preclinical studies
+Preclinical studies provide critical insights into the potential
+efﬁcacy, selectivity, and mechanisms of action of metallodrugs for
+NSCLC treatment. These studies encompass bothin vitroand in vivo
+investigations using cancer cell lines and animal models. However, it
+is important to note that the results of these studies should be
+interpreted with caution due to potential limitations and biases
+inherent in preclinical research.
+In Vitro studies
+Cytotoxicity
+Numerous in vitrostudies have reported the cytotoxic effects of
+different metallodrugs against NSCLC cell lines. Platinum drugs like
+FIGURE 5
+Schematic representation of the mechanisms of action of metallodrugs in NSCLC cells. These mechanisms are depicted in the context of NSCLC
+treatment, such as causing DNA damage and hindering DNA replication and transcription, inhibiting essential enzymes, modulating cellular redox
+processes and generating ROS.
+Frontiers inPharmacology frontiersin.org08
+Xu et al. 10.3389/fphar.2023.1242488
+
+[W4386324723 PDF PAGE 9]
+cisplatin, carboplatin, and oxaliplatin have exhibited potent
+cytotoxicity, attributed to their ability to form DNA adducts and
+trigger apoptosis (Zhang et al., 2022). However, platinum agents
+have known limitations such as toxicity, resistance, and poor
+selectivity. Consequently, there is interest in evaluating alternative
+metallodrugs. For instance, the gold(I) complex auranoﬁn displayed
+cytotoxicity and overcame cisplatin resistance in H1993 NSCLC cells
+by inducing mitochondrial dysfunction and oxidative stress (Cui et al.,
+2022). Besides, speciﬁc gold (III) derivatives have exhibited greater
+cytotoxic potency against NSCLC cells compared to cisplatin. For
+example, the gold (III) complex [Au (bipydmb-H)Cl2] demonstrated
+2-fold greater cytotoxicity than cisplatin in A549 NSCLC cells in one
+study (Carboni et al., 2018). While promising, small sample sizes, lack
+of comparison groups, and limited generalizability temper the
+strength of conclusions from these early studies. More rigorous
+evaluations of cytotoxic potential and advantages over existing
+agents are still needed.
+Ruthenium complexes like NAMI-A and KP1019 also reduced
+NSCLC cell viability, but direct comparisons to platinum drugs have
+been limited (Bergamo and Sava, 2011 ). Interestingly, speci ﬁc
+copper complexes such as Casiopeínas III-ia and III-Ea, and
+organotin (IV) complexes containing aroylhydrazone ligands
+exhibited cytotoxicity too, but these studies had very small
+sample sizes (n < 10) and lacked proper dose-response
+assessments; The organotin (IV) complexes demonstrated
+inhibition of DNA synthesis and induction of apoptosis in
+H460 NSCLC cells (Jo and Onwudiwe, 2018; Silva-Platas et al.,
+2018; Pantelić et al., 2020; Figueroa-DePaz et al., 2022). Overall,
+metallodrugs display cytotoxic promise in vitro, but larger scale
+studies with improved methodological rigor are required to
+elucidate their therapeutic potential over current standards of care.
+Selectivity
+Selectivity towards cancerous over normal cells is vital to limit
+chemotherapy side effects. Certain ruthenium and copper
+complexes have shown selectivity in smallin vitro studies,
+attributed to unique targets and mechanisms compared to
+platinum drugs. For example, a ruthenium (II) complex with
+2,2′-bipyridine and 2-pyridinecarboxylic acid ligands (RuBPCA)
+exhibited cytotoxicity against human breast cancer cells (MCF-7)
+and human cervical cancer cells (HeLa) by inducing apoptosis and
+cell cycle arrest (Khate

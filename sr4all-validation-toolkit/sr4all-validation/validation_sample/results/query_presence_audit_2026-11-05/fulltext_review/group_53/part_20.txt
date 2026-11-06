@@ -1,0 +1,219 @@
+No Cirrhosis Cirrhosis
+Nevarez et al (2023)11 USA HPB Retrospective 
+observational
+Patients undergoing elective 
+pancreatoduodenectomy
+16,355 16,152 203
+Zamorano et al 202312 USA Langenbecks Arch 
+Surg
+Retrospective 
+observational
+Patients undergoing elective 
+pancreatoduodenectomy
+48 32 16
+Kang et al 202313 South Korea Acta Chir Belg Retrospective 
+observational
+Patients undergoing elective 
+pancreatoduodenectomy
+221 196 25
+Cheng et al 202114 China PLoS One Retrospective 
+observational
+Patients undergoing elective 
+pancreatoduodenectomy
+84 56 28
+Enderes et al 202115 Germany J Clin Med Retrospective 
+observational
+Patients undergoing elective 
+pancreatoduodenectomy
+255 240 15
+Futagawa et al 201916 Japan J Hepatobiliary 
+Pancreat Sci
+Retrospective 
+observational
+Patients with cirrhosis undergoing elective 
+pancreatoduodenectomy
+529 0 529
+Butler et al 201817 USA HPB Retrospective 
+observational
+Patients with cirrhosis undergoing elective 
+pancreatoduodenectomy
+36 0 36
+Busquets et al 201618 Spain Cir Esp Prospective 
+observational
+Patients undergoing elective 
+pancreatoduodenectomy
+45 30 15
+Regimbeau et al 201519 France J Surg Oncol Retrospective 
+observational
+Patients undergoing elective 
+pancreatoduodenectomy
+105 70 35
+Nakeeb et al 201320 Egypt World J Gastroenterol Retrospective 
+observational
+Patients undergoing elective 
+pancreatoduodenectomy
+442 375 67
+Warnick et al 201121 Germany Pancreatology Retrospective 
+observational
+Patients undergoing elective 
+pancreatoduodenectomy
+64 32 32
+Downloaded from http://journals.lww.com/aosopen by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX
+1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 10/23/2024
+
+[W4400021234 PDF PAGE 4]
+Hajibandeh et al • Annals of Surgery Open (2024) 3:e454 Annals of Surgery Open
+4
+Major Complications (Clavien-Dindo ≥3)
+Analysis of 777 patients from 6 studies showed that the risk of 
+major complications (Clavien-Dindo ≥3) was higher in patients 
+with liver cirrhosis (OR: 2.25, 95% CI = 1.48–3.43, P = 0.0002) 
+(Fig. 2B). The statistical between-study heterogeneity was low 
+(I2 = 0%, P = 0.50) and the GRADE certainty of the evidence 
+was high (Supplementary Table 1, http://links.lww.com/AOSO/
+A363). Meta-regression showed that the risk of major compli-
+cations was not influenced by the differences in Child-Pugh class 
+(coefficient: 0.017, P = 0.195), MELD score (coefficient: 0.016, 
+P = 0.927), and portal hypertension (coefficient: −0.005, P = 
+0.730) in cirrhotic patients among the included studies (Table 3 
+and Supplementary Figure 2, http://links.lww.com/AOSO/
+A363).
+Secondary Outcomes
+Intraoperative Blood Loss
+Analysis of 1107 patients from 5 studies showed that liver 
+cirrhosis resulted in more intraoperative blood loss (MD: 
+204.74 ml, 95% CI = 92.76–316.72, P = 0.0003) (Fig. 2C). The 
+statistical between-study heterogeneity was high (I2 = 92%, P < 
+0.00001) and the GRADE certainty of the evidence was mod-
+erate (Supplementary Table 1, http://links.lww.com/AOSO/
+A363).
+Operative Time
+Analysis of 1354 patients from 7 studies showed no difference 
+in operative time between patients with and without liver cir -
+rhosis (MD: 3.47 minutes, 95% CI = −6.74 to 13.68, P = 0.51) 
+(Fig. 2D). The statistical between-study heterogeneity was mod-
+erate (I2 = 40%, P = 0.12) and the GRADE certainty of the evi-
+dence was moderate (Supplementary Table 1, http://links.lww.
+com/AOSO/A363).
+Grade B-C Postoperative Pancreatic Fistula
+Analysis of 1114 patients from 6 studies showed that the risk of 
+grade B-C postoperative pancreatic fistula was higher in patients 
+with liver cirrhosis (OR: 1.73, 95% CI = 1.05–2.84, P = 0.39) 
+(Fig. 2E). The statistical between-study heterogeneity was low 
+(I2 = 4%, P = 0.50) and the GRADE certainty of the evidence 
+was moderate (Supplementary Table 1, http://links.lww.com/
+AOSO/A363).
+Postoperative Bleeding
+Analysis of 1043 patients from 7 studies showed that liver cir -
+rhosis did not affect the risk of postoperative bleeding (OR: 
+1.28, 95% CI = 0.70–2.36, P = 0.42) (Fig.  2F). The statistical 
+between-study heterogeneity was low (I 2 = 0%, P = 0.73) and 
+the GRADE certainty of the evidence was high (Supplementary 
+Table 1, http://links.lww.com/AOSO/A363).
+Delayed Gastric Emptying
+Analysis of 980 patients from 6 studies showed that liver cir -
+rhosis did not affect the risk of delayed gastric emptying (OR: 
+1.33, 95% CI = 0.86–2.07, P = 0.21) (Fig.  2G). The statistical 
+between-study heterogeneity was low (I 2 = 0%, P = 0.73) and 
+the GRADE certainty of the evidence was high (Supplementary 
+Table 1, http://links.lww.com/AOSO/A363).
+Length of Hospital Stay
+Analysis of 1112 patients from 6 studies showed that liver cir -
+rhosis resulted in longer length of hospital stay (MD: 2.05 days, 
+95% CI = 1.40–2.69, P < 0.00001) (Fig.  2H). The statistical 
+between-study heterogeneity was low (I 2 = 0%, P = 0.70) and 
+the GRADE certainty of the evidence was high (Supplementary 
+Table 1, http://links.lww.com/AOSO/A363).
+Child-Pugh B or C Disease Versus Child-Pugh A in 
+Cirrhotic Patients
+Child-Pugh B or C class was associated with more intraop-
+erative blood loss compared with Child-Pugh A class (MD: 
+293.33 ml, 95% CI = 231.96–354.71, P  < 0.00001). There 
+was no difference between Child-Pugh B or C class and Child-
+Pugh A class in postoperative mortality (OR: 2.56, 95% CI = 
+TABLE 2.
+Baseline Characteristics of the Included Population
+Study Age* Mean (SD) Female* No/Total (%)
+Child–Pugh Class in Cirrhotic Patients
+No/Total (%) MELD Score in 
+Cirrhotic Patients 
+mean (SD)
+Portal 
+Hypertension*
+No/Total (%)A B  C
+Nevarez et al 202311 65 (23) vs 65 (21) 7757/16152 (48%) vs 80/203 (39%) NR NR NR NR 37/16152 (0.2%) 
+vs 16/203 (8%)
+Zamorano et al 202312 68 (12) vs 63 (10) 18/32 (56%) vs 8/16 (50%) NR NR NR NR 0/32 (0%) vs 
+2/16 (13%)
+Kang et al 202313 64 (12) vs 63 (10) 90/196 (45%) vs 12/25 (48%) NR NR NR 8 (2.3) 0/196 (0%) vs 
+13/25 (52%)
+Cheng et al 202114 60 (5) vs 62 (5) 14/56 (25%) vs 7/28 (25%) 11/28 (39%) 17/28 (61%) 0/28 (0%) 12 (2.3) NR
+Enderes et al 202115 68 (4) vs 63 (5) 106/204 (51%) vs 5/15 (33%) 13/15 (87%) 3/15 (13%) 0/15 (0%) NR NR
+Futagawa et al 201916 70 (3) 105/529 (19%) 427/529 (81%) 98/529 (18%) 4/529 (1%) NR 63/529 (12%)
+Butler et al 201817 60 (13) 20/36 (55%) 30/36 (83%) 6/36 (17%) 0/36 (0%) 9 16/29 (55%)
+Busquets et al 201618 62 (11) vs 64 (9) 7/30 (23%) vs 4/15 (26%) 15/15 (100%) 0/15 (0%) 0/15 (0%) NR NR
+Regimbeau et al 201519 59 (11) vs 59 (10) 18/70 (25%) vs 7/35 (20%) 35/35 (100%) 0/35 (0%) 0/35 (0%) 10 (8) 0/70 (0%) vs 
+6/35 (17%)
+Nakeeb et al 201320 53 (11) vs 54 (9) 150/375 (40%) vs 15/67 (22%) 63/67 (94%) 4/67 (6%) 0/67 (0%) NR 0/375 (0%) vs 
+16/67 (24%)
+Warnick et al 201121 57 (12) vs 57 (12) 7/32 (21%) vs 7/32 (21%) 30/32 (94%) 2/32 (6%) 0/32 (0%) 11 (5) NR
+*No cirrhosis group versus cirrhosis group.
+MELD indicates model for end-stage liver disease; NR: not reported; SD, standard deviation.
+Downloaded from http://journals.lww.com/aosopen by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX
+1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 10/23/2024
+
+[W4400021234 PDF PAGE 5]
+Pancreatoduodenectomy in Liver Cirrhosis • Annals of Surgery Open (2024) 3:e454 www.annalsofsurgery.com
+5
+0.55–11.81, P = 0.23), major complications (Clavien-Dindo 
+≥3) (OR: 2.71, 95% CI = 0.32–23.13, P  = 0.36), operative 
+time (MD: 121.18 minutes, 95% CI = −68.84 to 311.20, P  = 
+0.21), grade B-C postoperative pancreatic fistula (OR: 1.33, 
+95% CI = 0.24–7.35, P  = 0.74), postoperative bleeding (OR: 
+2.64, 95% CI = 0.45–15.66, P  = 0.28), delayed gastric emp-
+tying (OR: 0.72, 95% CI = 0.32–1.58, P  = 0.41), and length 
+of hospital stay (MD: 2.03 days, 95% CI = 0.01–4.05, P  = 
+0.05) (Table 4 and Supplementary Figure 3, http://links.lww.
+com/AOSO/A363).
+Portal Hypertension Versus No Portal Hypertension in 
+Cirrhotic Patients
+Portal hypertension was associated with a higher risk of postop-
+erative mortality (OR: 2.41, 95% CI = 1.20–4.86, P = 0.01) and 
+longer length of hospital stay (MD: 1.35 days, 95% CI = −6.38 
+to 9.09, P = 0.73) compared with no portal hypertension. There 
+was no difference between cirrhotic patients with or without 
+portal hypertension in major complications (Clavien-Dindo ≥ 3) 
+(OR: 1.49, 95% CI = 0.50–4.47, P = 0.36), intraoperative blood 
+loss (MD: 196.56 ml, 95% CI = −104.20 to 497.33, P = 0.20), 
+FIGURE 2. Forest plots for comparison between liver cirrhosis and no liver cirrhosis: (A) postoperative mortality. (B) Major complications (Clavien-Dindo ≥3). 
+(C) Intraoperative blood loss. (D) Operative time. (E) Grade B-C postoperative pancreatic fistula. (F) postoperative bleeding. (G) Delayed gastric emptying. (H) 
+Length of hospital stay.
+Downloaded from http://journals.lww.com/aosopen by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX
+1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 10/23/2024
+
+[W4400021234 PDF PAGE 6]
+Hajibandeh et al • Annals of Surgery Open (2024) 3:e454 Annals of Surgery Open
+6
+FIGURE 2. Continued
+TABLE 3.
+Results of Meta-regression Analyses for the Primary Outcomes
+Postoperative Mortality Major Complications (Clavien-Dindo ≥3)
+Coefficient P value Coefficient P value
+Child–Pugh class* 0.01 0.685 0.017 0.195
+MELD score 0.037 0.933 0.016 0.927
+Portal 
+hypertension
+0.014 0.536 -0.005 0.73
+*Percentage of Child-Pugh A in each study was used for analyses.
+MELD indicates model for end-stage liver disease.
+Downloaded from http://journals.lww.com/aosopen by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX
+1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 10/23/2024
+
+[W4400021234 PDF PAGE 7]
+Pancreatoduodenectomy in Liver Cirrhosis • Annals of Surgery Open (2024) 3:e454 www.annalsofsurgery.com
+7
+operative time (MD: 23.06 minutes, 95% CI −10.70 to 56.82, 
+P = 0.18), grade B-C postoperative pancreatic fistula (OR: 2.57, 
+95% CI = 0.86–7.71, P = 0.09), postoperative bleeding (OR: 
+3.90, 95% CI = 0.87–17.50, P = 0.08), and delayed gastric emp-
+t

@@ -1,0 +1,200 @@
+iction among patients exposed to pre-
+scribed opioids, with a focus on opioid-naïve patients. We
+will focus on risk factors that are observable at the point-
+of-care and modifiable, in order to inform clinical care
+and the development of primary prevention strategies.
+Specific objectives are to synthesize the available
+evidence on:
+1. Patient-, provider-, medication-, and system-level
+risk factors for the development of opioid addiction,
+and their effect sizes overall, and in opioid-naïve
+patients, to understand factors that potentiate the
+subsequent development of addiction
+2. The characteristics of the clinical indication,
+prescriber (e.g., practice location, specialty), and
+prescription (e.g., type of medication, dosage,
+quantity dispensed, length of exposure) of the initial
+opioid prescription after which patients develop
+addiction to understand the clinical context of the
+opioid exposure
+3. The effect of varying addiction outcome definitions
+at follow-up on the identified risk factors and the
+strength of their association
+Methods
+We will conduct a systematic review of the literature that
+will adhere to the PRISMA guidelines for the reporting of
+systematic reviews (Additional file 1: Appendix A) [18].
+Eligibility criteria
+We adapted the Population, Intervention, Comparison
+and Outcome (PICO) framework for our systematic
+review, as we did not seek to synthesize information on
+the effectiveness of interventions. We will use Population,
+Outcome, Topic, and Study selection (POTS) to describe
+our study selection criteria (Fig. 1).
+Population
+We will include studies in which adults or children
+were first exposed, or report being first exposed to
+opioid therapy that was prescribed by a licensed med-
+ical professional. We will exclude studies in which all
+included patients were first exposed to illicit opioids.
+Studies with patients prescribed opioids for cancer
+pain or palliative care will also be excluded, as with-
+holding analgesia from these patients is deemed un-
+ethical [19]. If studies do not report these baseline
+variables, we will include them, and perform sensitiv-
+ity analyses on the effect of including these studies ’
+results on our review findings. If studies do not disag-
+gregate the patient population based on these vari-
+ables, we will attempt to contact study authors for
+patient-level data. If we are unable to access patient-
+level data, we will exclude studies in which more than
+50% of patients meet our exclusion criteria, as these
+patients’ risk factors for developing addiction are
+likely different from patients first exposed to prescribed
+opioids. We will exclude studies reporting on patients on
+opioid receptor agonists used for non-pain indications,
+such as loperamide and dihydrocodeine.
+Outcome
+Opioid addiction has been defined as any of the following
+features: the pronounced craving for the drug, obsessive
+thinking about the drug, erosion of inhibitory control
+efforts to refrain from drug use, and compulsive drug
+taking [20]. As of 1964, the WHO has replaced the term
+“opioid addiction ” with “opioid dependence ” and defined
+it as “a cluster of behavioural, cognitive, and physiological
+phenomena that develop after repeated substance use and
+that typically include a strong desire to take the drug, diffi-
+culties in controlling its use, persisting in its use despite
+Cragg et al. Systematic Reviews  (2017) 6:265 Page 2 of 8
+
+[W2779080910 PDF PAGE 3]
+harmful consequences, a higher priority given to drug use
+than to other activities and obligations, increased toler-
+ance, and sometimes a physical withdrawal state. ”(ICD-10
+definition) [3, 20, 21]. According to the DSM-5, opioid use
+disorder also includes taking the opioid in larger amounts
+or for longer than intended, not being able to cut down or
+quit, and spending a lot of time getting, using, or recovering
+from the use of the substance [20]. We will use the terms
+opioid addiction, opioid use disorder, and opioid
+dependence interchangeably and define them as evidence
+of any one of the features listed in any of the above def-
+initions (Additional file 1: Appendix B). We will include
+studies that ascertain the outcome opioid use disorder,
+addiction, or dependence using any method presented
+in the literature, including but not limited to clinical
+opinion, evidence of aberrant drug-related behavior
+(ADB) (Fig. 2) [22], urine toxicology screening, and/or
+enrollment in a rehabilitation program [17].
+Topic
+We will include studies that report on at least one risk
+factor for opioid addiction. We define risk factor as an
+attribute, characteristic, or exposure that increases the
+likelihood of developing disease. Such factors will include
+patient-, provider-, medication-, and system-level risk fac-
+tors, including well-known psychosocial and social factors,
+and will include protective factors (Fig. 3). Recent litera-
+ture has indicated that previously unknown provider-level
+risk factors, such as the provider ’s intensity of opioid pre-
+scribing, are related to subsequent addiction risk [23].
+Medication-level factors such as the medication pre-
+scribed, and system-level risk factors such as the ability to
+dispense opioids in some healthcare settings, may also be
+associated with addiction risk. In our analysis, we seek to
+synthesize the available information on such factors, while
+emphasizing risk factors that are observable by clinicians
+at the point-of-care, as well as modifiable in order to
+Fig. 1 Study selection criteria
+Cragg et al. Systematic Reviews  (2017) 6:265 Page 3 of 8
+
+[W2779080910 PDF PAGE 4]
+produce information that will be directly relevant to clin-
+ical care activities and the development of preventative
+strategies.
+Study design
+We will include prospective and retrospective observa-
+tional and experimental studies, including but not limited
+to randomized control trials and cross-sectional and case-
+control studies [24, 25].
+Search strategy
+We will develop a systematic search strategy with a pro-
+fessional librarian (MDW). We will develop search terms
+and concepts by examining MeSH subject headings from
+six papers included in a prior systematic review [17].
+These subject headings and an environmental scan of
+the literature will help us refine our search concepts. We
+developed a preliminary search in MEDLINE by com-
+bining the concepts opioids AND pain AND risk factors
+(Additional file 1: Appendix B). We will develop add-
+itional searches by expanding and combining different
+search concepts, including appropriate subject headings
+and keywords as needed. We will adapt searches for
+additional databases and will include studies published
+in English, French, and German after 1964, the year that
+the definition of “opioid dependence ” was formalized by
+the WHO [3, 21].
+Information sources
+We will search the following electronic reference data-
+bases: MEDLINE, Embase, Cochrane Central Register
+of Controlled Trials (CENTRAL), Database of Abstracts of
+Reviews of Effects (DARE) available through Ovid;
+CINAHL— Cumulative Index to Nursing and Allied Health
+Literature through EBSCO; and the Science Citation Index
+(Web of Science Core Collection) from Thomson Reuters.
+We will search social sciences databases including
+PsycINFO through EBSCO, Social Sciences Citation
+Index (Web of Science Core Collection) from Thomson
+Reuters, and the Sociology Collection through ProQuest.
+We will conduct snowballing searches for cited and citing
+studies of all papers meeting our inclusion criteria using
+the Web of Science Core Collection and ScienceDirect
+(Elsevier). We will also hand-search the bibliographies of
+relevant reviews and included studies for other potential
+titles for inclusion. We will search for ongoing studies by
+reviewing the following trial registries for unpublished
+trials, including the ISRCTN Registry, ClinicalTrials.gov,
+EU Clinical Trials Register and South African National
+Clinical Trials Register, Open Trials, and the Quebec Pain
+Registry. We will complete a grey literature search for
+additional unpublished studies using a combination of
+search terms and concepts derived from our electronic
+reference database search using the web search engine
+Google. We will review the top 100 hits for each search to
+Fig. 2 Included aberrant drug-related behaviors (ADB) [21, 23]
+Cragg et al. Systematic Reviews  (2017) 6:265 Page 4 of 8
+
+[W2779080910 PDF PAGE 5]
+identify relevant guidelines, reports, plain language publi-
+cations, and websites of relevant professional associations.
+We will search for additional unpublished papers in the
+conference proceedings of the World Congress on Pain
+(IASP) and the International Conference and Exhibition
+on Pain Medicine and by looking through the table of
+contents for all published issues of Pain Medicine, Pain
+Research & Management, Anesthesia & Analgesia, and
+the Journal of Pain and Symptom Management since 1964
+for relevant titles. We will search the websites of key med-
+ical associations, addiction, pain agencies (e.g., American
+Society of Addiction Medicine, National Institute of Drug
+Abuse, Chronic Pain Research Alliance), and government
+organizations (e.g., Centre for Disease Control, Health
+Canada) for additional unpublished literature and policy
+papers. Finally, we will contact study authors and experts
+in the field for additional unpublished studies.
+Data management
+We will create a search report of all searches and their
+sources and capture the records of all eligible papers
+using RefWorks. We will use unique folders for each
+step of the search process within a common team Ref-
+Works account (Fig. 4). We will de-duplicate search re-
+sults using RefWorks and Excel. We will record the
+reason for exclusion for each record at the full text screen-
+ing stage (Additional file 1: Appendix C).
+Fig. 3 Potential risk factor categories [28]
+Fig. 4 Study flow diagram
+Cragg et al. Systematic Reviews  (2017) 6:265 Page 5 of 8
+
+[W2779080910 PDF PAGE 6]
+Selection process
+Two reviewers will independently review titles and
+abstracts

@@ -1,0 +1,315 @@
+n-farm changes, i.e. the partial budget and cost-benefit 
+analysis, were almost exclusively applied in intervention-
+focused studies. In five modelling studies, multiple eco -
+nomic methods were applied [ 33–37].
+Seven studies provided estimates of the economic bur -
+den at a national level, of which only two studies included 
+price effects across the industry or looked at changes in 
+consumer and producer surplus due to decreased pork 
+production [ 28, 38]. The remaining five studies extrapo -
+lated farm-level estimates without accounting for addi -
+tional macro-economic effects. Thus, most studies 
+investigated the financial losses at the farm-level, rather 
+than economic losses. However, to keep the terminology 
+simple, we will keep referring to the calculated impacts as 
+the economic impact.
+To calculate the on-farm economic impact, a wide 
+range of cost components were considered across all 
+papers (for detailed information of the components 
+per study, please refer to Supplementary file S3). Stud -
+ies using the same economic method or focusing on 
+the same disease, often included different cost and rev -
+enue components in their calculations (Fig.  2). Overall, 
+the most frequently used cost components were veteri -
+nary costs (49/58 studies), feed costs (39/58), and labour 
+costs (26/58); whereas the most frequently used revenue 
+components were reduced carcass value (24/58), fewer 
+growing pigs sold (19/58) and fewer piglets weaned/sold 
+(19/58). The modelling studies that considered the most 
+cost components [ 33, 36, 37, 39] all reported that feed 
+costs and the reduced revenue from fewer sold piglets or 
+fattening pigs were the costliest components. Although 
+most studies included these components, 19 out of the 58 
+studies did not consider feed costs, and 24 did not calcu -
+late lost revenues due to fewer piglets weaned or fatten -
+ing pigs sold.
+Pathogen specific costs
+Despite the variety in units of analysis, the economic out -
+comes per study could be converted to a common unit 
+for 17 out of 25 disease-focused studies (Fig.  3a-c). This 
+figure serves as an illustration for the range in reported 
+economic impacts, but it should be noted that study out -
+comes cannot be merged directly due to the variety in 
+study characteristics and methods of calculation.
+Since most intervention-focused studies analysed the 
+benefits of vaccination, the main economic outcomes for 
+these studies are summarised in Table  4. It is evident from 
+
+[W4387696559 PDF PAGE 8]
+Page 8 of 18
+Boeters et al. Porcine Health Management            (2023) 9:45 
+Study Country Infection scenario Infectious 
+agent(s) 1
+Intervention No. of farms 
+supplying pri -
+mary produc -
+tion data 2
+Stage of 
+production
+Unit of 
+analysis
+Study design Data 
+sources 3
+Reference
+Dee (1994) US Endemic Mhp Medication and early 
+weaning
+2 Growing Pig Historical 
+control study
+DA [77]
+Dee et al. (1996) US Endemic PRRSV Nursery depopulation 5 Growing Farm, sow, 
+and pig
+Historical 
+control study
+DA [78]
+Dee et al. (1997) US Endemic PRRSV Nursery depopulation 34 Growing Sow Historical 
+control study
+DA [79]
+Dee and Molitor 
+(1998)
+US Endemic PRRSV Elimination (test and 
+removal)
+1 Breeding Sow Case report DA; A [32]
+Maes et al. (1998) Belgium Endemic Mhp Vaccination 5 Growing Pig Controlled trial DA [42]
+Pallares et al. 
+(2000)
+Spain Endemic Mhp Vaccination 8 Growing Pig Controlled trial DA [43]
+Kyriakis et al. 
+(2001)
+Greece Endemic Mhp Vaccination 1 Growing Pig Controlled trial DA [80]
+Miller et al. (2001) US Endemic Mhp Vaccination NA Growing Farm Deterministic 
+model
+LS; A [81]
+Pallares et al. 
+(2001)
+Spain Endemic Mhp Vaccination 16 Growing Kg of car-
+cass and kg 
+gained in 
+fattening
+Controlled trial DA [82]
+Maes et al. (2003) Belgium Endemic Mhp Vaccination 14 Growing Pig Controlled trial DA [83]
+Stipkovits et al. 
+(2003)
+Hungary Endemic Mhp Vaccination and medication 1 Growing Kg of finish-
+ing pig 
+marketed
+Controlled trial DA [84]
+Holyoake and 
+Callinan (2006)
+Australia Endemic Mhp Vaccination 3 Growing Pig Controlled trial DA; LS; A [85]
+Schaefer and 
+Morrison (2006)
+US Endemic PRRSV Elimination (herd closure) 15 Breeding Herd (farms 
+combined)
+Historical 
+control study
+DA; A [86]
+Rapp-Gabrielson 
+et al. (2007)
+US Endemic Co-infection Vaccination 1 Growing Carcass 
+value
+Controlled trial DA; LG [87]
+Young et al. 
+(2011) 4
+Canada Endemic PCV-2 Vaccination 1 Growing Pig Controlled trial DA; A [24]
+Nieuwenhuis et 
+al. (2012)*
+Netherlands Epidemic PRRSV Monitoring, vaccination, and 
+eradication
+9 Breeding Sow Historical 
+control study
+DA [20]
+Alarcon, Rushton, 
+Nathues, et al. 
+(2013)
+UK Endemic PCV-2 Vaccination, diets, stocking 
+density, biosecurity, and 
+depopulation-repopulation
+50 Growing Farm Stochastic 
+model
+LS; LG; E [33]
+Alonso et al. 
+(2013)
+US Endemic PRRSV Air filtration 21 Breeding Farm, sow, 
+and pig
+Cohort / 
+deterministic 
+model
+DA; LS [30]
+Table 2 Characteristics of studies evaluating the economic impact of interventions to prevent/control disease caused by endemic respiratory pathogens in pigs
+
+[W4387696559 PDF PAGE 9]
+Page 9 of 18
+Boeters et al. Porcine Health Management            (2023) 9:45 
+Study Country Infection scenario Infectious 
+agent(s) 1
+Intervention No. of farms 
+supplying pri -
+mary produc -
+tion data 2
+Stage of 
+production
+Unit of 
+analysis
+Study design Data 
+sources 3
+Reference
+Zhang et al. 
+(2014)
+Vietnam Endemic/Epidemic PRRSV Vaccination NA Growing Country Deterministic 
+model
+DA; LS; 
+A; E
+[57]
+Linhares et al. 
+(2015)
+US Endemic PRRSV Vaccination NA Breeding Farm Deterministic 
+& Stochastic 
+model
+DA; LS; A [44]
+Ramirez et al. 
+(2015)
+US Endemic Co-infection Medication 4 Growing Pig and Kg 
+of body 
+weight
+Controlled trial DA [40]
+Stygar et al. 
+(2016)
+Finland Epidemic App Cleaning, vaccination, and 
+medication
+NA Growing Pig space 
+unit
+Dynamic 
+programming 
+model
+LS; A [88]
+Crenshaw et al. 
+(2016)4
+Canada Endemic PRRSV Feed regimen 1 Growing Pig Controlled trial DA; A [25]
+Kaalberg et al. 
+(2017)
+Netherlands Endemic Co-infection Vaccination 1 Growing Pig Controlled trial DA; LG [89]
+Kim et al. (2017) Korea Endemic PRRSV Vaccination 3 Breeding and 
+growing
+Farm Historical 
+control study
+DA; LG [41]
+Zhang et al. 
+(2017)4
+Cambodia Epidemic PRRSV Vaccination and biosecurity NA Breeding and 
+growing
+Farm Deterministic 
+model
+DA; LG; 
+LS
+[23]
+Duivon et al. 
+(2018)
+France Endemic Co-infection Vaccination 1 Growing Sow and 
+pig
+Controlled trial DA; LG [90]
+Nathues et al. 
+(2018)
+Germany Endemic PRRSV Depopulation-repopulation, 
+close and roll-over, vaccina-
+tion, and biosecurity
+NA Breeding and 
+growing
+Farm Stochastic 
+model
+LS; A; E [36]
+Silva et al. (2019) US Endemic Mhp Elimination 70 Breeding and 
+growing
+Farm, sow, 
+and pig
+Cross-section-
+al/ determinis-
+tic model
+DA; LS [31]
+Calderón Díaz, 
+Fitzgerald, et al. 
+(2020)*
+Ireland Endemic Co-infection Vaccination 56 Growing Farm Stochastic 
+model
+DA [21]
+Thomann et al. 
+(2020)
+Germany Endemic PRRSV Vaccination NA Breeding Country, 
+farm, and 
+sow
+Stochastic 
+model
+LS; LG; A [91]
+Abella et al. 
+(2021)
+Spain Endemic/Epidemic PRRSV Animal selection 1 Breeding Sow Discrete-based 
+event model
+DA; LG [92]
+Quezada-Fraide 
+et al. (2021)
+Mexico Endemic PRRSV Vaccination 2 Growing Pig and day 
+of fattening
+Cohort study DA; A [93]
+Table 2 (continued)
+ 
+
+[W4387696559 PDF PAGE 10]
+Page 10 of 18
+Boeters et al. Porcine Health Management            (2023) 9:45 
+this table that there is no common method for expressing 
+the main economic impact of vaccination. Overall, most 
+of the intervention-focused studies (24/35) reported a 
+positive economic impact due to the implementation of 
+the respective intervention, while three reported a neg -
+ative impact [ 21, 32, 40] and four a neutral impact [ 30, 
+41–43]. In the remaining four intervention-focused stud -
+ies, the effects of different interventions were compared 
+with each other rather than with a control group [ 20, 25, 
+29, 44]. For all outcomes from both disease-focused and 
+intervention-focused studies in their original currency, 
+please refer to Supplementary file S4.
+Discussion
+An economic perspective is key to understand the 
+impacts of disease and the intervention options available, 
+and, therefore, to improve decision-making regarding 
+animal health and welfare. This is especially important 
+when endemic diseases are concerned, since their effects 
+are often not easily quantified [ 45]. The present system -
+atic review is the first in the field aiming to identify the 
+economic impacts of specific or co-existing pathogens 
+involved in the porcine respiratory disease complex 
+(PRDC), and the costs and benefits of interventions. This 
+work additionally reveals the economic evaluation meth -
+ods that were applied across included studies, including 
+the cost and revenue components that were considered 
+in their calculations.
+In an ideal scenario, an estimated disease impact 
+should be completely attributable to the disease that is 
+being analysed. However, often endemic respiratory dis -
+eases are multifactorial, and the impact of the disease can 
+be influenced by multiple non-infectious risk factors. In 
+addition, pig herds are often burdened with more than 
+one endemic respiratory disease at the same time under 
+the umbrella of the PRDC [ 12, 13]. If the whole com -
+plex is not carefully studied, this could result in flawed 
+estimates. Consequently, studying the effects of a spe -
+cific pathogen where multiple disease-causing factors 
+are involved is rather difficult, if not impossible in many 
+cases. Most studies in the present review focused on one 
+respiratory pathogen, and the presence or absence of 
+other pathogen(s) was often not established. Therefore, 
+the reported economic outcomes may not fully be the 
+result of one specific respiratory pathogen only, but will 
+be the product of a complex interaction between infec -
+tious agents, management conditions, environment, and 
+genetics [ 12, 13].
+In total, 58 peer-r

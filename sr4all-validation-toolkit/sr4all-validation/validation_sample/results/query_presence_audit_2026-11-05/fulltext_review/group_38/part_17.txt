@@ -1,0 +1,229 @@
+infection of influenza a virus in severe 
+community-acquired pneumonia. Inflammation. 2019;42:1741–53.
+ [37] Kindrachuk J, Ork B, Hart BJ, et al. Antiviral potential of ERK/MAPK 
+and PI3K/AKT/mTOR signaling modulation for Middle East respira-
+tory syndrome coronavirus infection as identified by temporal kinome 
+analysis. Antimicrob Agents Chemother. 2015;59:1088–99.
+
+END REVIEW W4365485005
+
+
+REVIEW W4365813874
+TITLE: Characteristics of COVID-19 Patients who Developed Acute Kidney Injury and Its Association with Mortality: A Systematic Review
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4365813874 PDF PAGE 1]
+Gac Méd Caracas
+S137
+ Gac Méd Caracas 2023;131(Supl 2):S137-S143
+                                     DOI:  10.47307/GMC.2023.131.s2.7  ARTÍCULO DE REVISIÓN
+SUMMARY
+Introduction: AKI incidence reported in COVID-19 
+patients is increasing with contradictory study results 
+about AKI development with increased mortality.  This 
+study was conducted to assess a possible correlation 
+between risk factors that led to AKI and increased 
+mortality.  
+Methods: A total of eight articles found through an 
+online database published between 2020 and 2021 
+were used.  A total of 9 455 patients with COVID-19 
+were divided into AKI and non-AKI.  
+Results: There are 2 754 AKI patients with a mean age of 
+67, 1 781 (64.7 %) are male, 1 161 (42.1 %) are diabetic, 
+1 823 (66.2 %) hypertensive, and 1 508 (54.7 %) use 
+mechanical ventilation, with 39.2 % (1 052) mortality 
+rate.  In non-AKI patients, there are 6 701 patients 
+with a mean age of 60, 3 595 (53.6 %) are male, 1 759 
+(26.2 %) are diabetic, 3 133 (46.7 %) hypertensive, and 
+490 (7.3 %) use mechanical ventilation, with a 7.6 % 
+(508) mortality rate.  Several studies suggest various 
+mechanisms of AKI development, including multi-
+organ dysfunction syndrome, direct kidney infection, 
+acute respiratory distress syndrome, infection-related 
+mitochondrial failure, cytokine storm, SARS-CoV-2 
+renal tropism, and even mechanical ventilation usage.  
+Conclusion: AKI contributes to and or correlates with 
+severity, prognosis, and mortality in COVID-19 
+patients.  It develops more often in older males 
+with Diabetes and or Hypertension and those with 
+mechanical ventilation compared to non-AKI patients.  
+Mortality in COVID-19 with AKI population is 
+significantly higher than in those without AKI.
+Keywords: COVID-19, acute kidney injury, diabetes 
+mellitus, hypertension, mechanical ventilation, 
+mortality rate.
+RESUMEN
+Introducción: La incidencia de lesión renal aguda 
+(LRA) en pacientes con COVID-19 está aumentando 
+con resultados de estudios contradictorios sobre el 
+desarrollo de LRA con mayor mortalidad.  Este estudio 
+se realizó para obtener una imagen de una posible 
+correlación entre los factores de riesgo que llevaron 
+a la LRA y el aumento de la mortalidad.  
+Characteristics of COVID-19  Patients who Developed Acute 
+Kidney Injury and Its Association with Mortality:  
+A Systematic Review
+Características de los pacientes con COVID-19 que desarrollaron lesión renal 
+aguda y su asociación con la mortalidad: una revisión sistemática
+Evan Kurniawan Gianto 1*
+Recibido: 22 de noviembre 2022
+Aceptado: 11 de enero 2023
+DOI:  https://doi.org/10.47307/GMC.2023.131.s2.7
+ORCID: 0000-0003-0594-6172 1 
+1 General Practitioner at Army Hospital Doctor Soepraoen, Malang, 
+65141, Indonesia.
+*Corresponding Author:  Evan Kurniawan Gianto, MD
+General Practitioner at Army Hospital Doctor Soepraoen, Malang, 
+65141, Indonesia Jalan Bunga Cengkeh No.6, Kelurahan 
+Tulusrejo, Kecamatan Lowokwaru, RT 001 / RW 012, Kota 
+Malang, Jawa Timur, Indonesia, 65141
+Phone: +6282334051787
+E-mail: evankgianto@gmail.com
+
+[W4365813874 PDF PAGE 2]
+COVID-19 PATIENTS WHO DEVELOPED ACUTE KIDNEY INJURY
+ V ol. 131, Supl 2, abril 2023
+S138
+Métodos: Se utilizan un total de ocho artículos 
+encontrados a través de una base de datos en línea 
+publicados entre 2020 y 2021.  Un total de 9 455 
+pacientes con COVID-19 se dividieron en LRA y no 
+LRA.  
+Resultados: Hay 2754 pacientes con LRA con una 
+edad media de 67 años, 1 781 (64,7 %) son del sexo 
+masculino, 1 161 (42,1 %) diabéticos, 1 823 (66,2%) 
+hipertensos y 1 508 (54,7 %) utilizan ventilación 
+mecánica, con una tasa de mortalidad del 39,2 % 
+(1 052).  En pacientes sin LRA hay 6 701 pacientes 
+con una edad media de 60 años, 3 595 (53,6 %) son 
+del sexo masculino, 1 759 (26.2 %) diabéticos, 3 133 
+(46,7 %) hipertensos y 490 (7,3 %) utilizan ventilación 
+mecánica, con una tasa de mortalidad del 7,6 % 
+(508).  Varios estudios sugieren varios mecanismos de 
+desarrollo de LRA, incluido el síndrome de disfunción 
+multiorgánica, la infección renal directa, el síndrome 
+de dificultad respiratoria aguda, la falla mitocondrial 
+relacionada con la infección, la tormenta de citoquinas, 
+el tropismo renal por SARS-CoV-2 e incluso el uso de 
+ventilación mecánica.  
+Conclusión: LRA contribuye y se correlaciona con la 
+gravedad, el pronóstico y la mortalidad en pacientes 
+con COVID-19.  Se desarrolla con mayor frecuencia en 
+hombres mayores con diabetes o hipertensión y también 
+en aquellos con ventilación mecánica en comparación 
+con pacientes sin LRA.  La mortalidad en la población 
+de COVID-19 con LRA es significativamente mayor 
+que en aquellos sin LRA.
+Palabras clave:  COVID-19, daño renal agudo, 
+diabetes mellitus, hipertensión arterial, ventilación 
+mecánica, tasa de mortalidad.
+INTRODUCTION
+Coronavirus disease (COVID-19) first 
+emerged in 2019.  As this paper was written, the 
+latest WHO Epidemiological Update reported 
+over 278 million cases and 5.4 million deaths 
+worldwide (1,2).  Indonesia reported 4 259 644 
+cases and 143 969 deaths  (3).  Most infected 
+people developed a mild to moderate respiratory 
+illness and would recover without special 
+treatment or medical attention.  Although most 
+patients present with mild symptoms, older people 
+and those with comorbidities are highly prone 
+to develop serious illnesses  (1).  Some studies 
+focused on pulmonary complications more than 
+other complications, although Acute Kidney 
+Injury (AKI) is common among critically ill 
+patients infected with COVID-19, AKI data are 
+few or they simply report incidence (4-7).  AKI is 
+a recognized factor of poor prognosis and is also 
+associated with high mortality rates in ICU (6,8-
+10).  Most patients with AKI are older and have 
+concomitant conditions like Hypertension or 
+Diabetes Mellitus (4,6,11).  Therefore, AKI is 
+another notable non-respiratory clinical sign of 
+COVID-19 infection (4).  Several studies report 
+variable results for COVID-19-induced AKI, 
+which varies from 3 %-50 % depending on 
+the severity and the setting of the studies, with 
+a mortality rate ranging from 60 %-90 % (6-
+8,11,12).
+Some cells are more vulnerable to SARS-
+CoV-2 infection, including Artery Smooth Muscle 
+cells, Cardiac Epithelial cells, Gastrointestinal 
+system, Intestinal Epithelial cells, Kidney 
+Tubular Epithelial cells, Liver Endothelial cells, 
+and Pulmonary Alveolar cells type II (10).  The 
+kidney is a target for SARS-CoV-2 infection, 
+resulting in virus-induced direct cytotropic effect 
+and cytokine-induced systemic inflammatory 
+response (5,8).  Glomerular filtration and urine 
+production may be affected by subsequent 
+stressors such as cytokine storm, hypoxia, drug-
+associated nephrotoxicity, secondary infection 
+with various viruses, bacteria, and fungi, and 
+the use of high intra-thoracic pressure and 
+PEEP (6,12).  Thus, this study was conducted 
+to assess a  possible correlation between risk 
+factors that led to AKI and increased mortality.
+METHODS
+Eligibility Criteria
+The following research manuscripts and 
+studies were cited: research papers where the 
+study sample is adults who got infected with 
+COVID-19 that have data on numbers of AKI 
+and non-AKI patients, gender, mean age, 
+comorbidities such as hypertension, and diabetes 
+mellitus, use of mechanical ventilation, and in-
+hospital mortality rate.
+Search Strategies and Study Selection
+This study was made in December 2021 by 
+a comprehensive literature search using Google 
+Scholar for articles published between 2020 and 
+
+[W4365813874 PDF PAGE 3]
+GIANTO E
+Gac Méd Caracas
+S139
+2021, with keywords COVID-19, Acute Kidney 
+Injury, and AKI.  A total of 30 articles were 
+collected and screened by the author 5 articles 
+were removed due to duplication, 6 articles 
+were removed after screening the abstract, and 
+11 articles were excluded due to lack of data 
+of interest.  Finally, 8 articles that met all the 
+Inclusion criteria are eligible for use in this study.
+Data Extraction
+Data extraction was conducted using a 
+standardized extraction table that includes 
+the author’s name, location, year, age, sex, 
+hypertension, diabetes mellitus, usage of 
+mechanical ventilation, and mortality rate.
+RESULTS
+Characteristics of the studies
+Eight articles used in this systematic review 
+were published between 2020 and 2021.  A total 
+of 9 455 patients with COVID-19 from 8 studies 
+were collected.  There are 2 754 (29.1 %) patients 
+with COVID-19 who developed AKI and 6 701 
+(70.9 %) patients who did not develop AKI along 
+the way.  All studies report the characteristics 
+of interest such as mean age, gender, diabetes, 
+hypertension, use of mechanical ventilation, and 
+mortality rate.
+Characteristics of COVID-19 patients with AKI 
+and without AKI (non-AKI)
+Zahid et al. (13) observed 128 patients with 
+AKI, with a mean age of 67, among them 89 
+(69.5 %) are male, with 67 (52.3 %) diabetic and 
+97 (75.8 %) hypertensive.  68 (53.1 %) end up 
+with mechanical ventilation and a 52.7 % (109) 
+mortality rate.  As for non-AKI patients, there 
+are 341 patients observed with a mean age of 65, 
+among them 179 (52.5 %) are male, with 152 
+(44.6 %) diabetic and 226 (66.3 %) hypertensives.  
+32 (9.4 %) ended up with mechanical ventilation 
+and a 28.4 % (97) mortality rate.  It was concluded 
+that AKI in COVID-19 is common and carried 
+high mortality.
+Hirsch et al. (14)

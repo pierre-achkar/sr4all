@@ -1,0 +1,183 @@
+f withdrawals and dropouts? ” (1: Yes; 0: No); D represents “Was there a clear description of the inclusion/exclusion criteria? ” (1:
+Yes; 0: No); E represents “Was the methods of statistical analysis described? ” (1: Yes; 0: No)
+Fig. 2 Forest plot of the effect of palliative care on cancer pain. It shows a pooled SMD of 1.475 (95% CI = 1.071 – 1.878, p < 0.001) in random-
+effect model, indicating that palliative care could alleviate pain among Chinese adults with cancer. Abbreviations: SMD, standardized
+mean difference.
+Zhao et al. BMC Palliative Care           (2019) 18:69 Page 6 of 10
+
+[W2966226515 PDF PAGE 7]
+a complex subjective human experience affected by
+physical, psychological, social and spiritual components
+[42], which is of great importance in the care of ad-
+vanced cancer patients. Correspondently, the aim of PC
+is to control pain and other symptoms, manage mental,
+social and spiritual problems, and improve the lives of
+patients with terminal illness [ 6], which could capture
+the complexity of cancer pain.
+Age, pharmacological/non-pharmacological strategies
+and publication date contributed to the significantly
+substantial heterogeneity to some extent. Compared with
+other age groups, the effect size was the smallest
+(SMD = 0.348, 95% CI = 0.081 – 0.616) among patients
+aged above 70. Among older cancer patients, there was
+an attitude of ‘getting on with life ’ regardless of pain in
+comparison with younger counterparts, indicating that
+older patients revealed acceptance and tolerance of pain
+to some extent [ 43]. Several studies also found a relation
+between more advanced age and less cancer pain [ 44, 45].
+Furthermore, older patients are considered to be more
+susceptible to opioid-related side effects, and chronic dis-
+ease treatment might render the pain control more diffi-
+cult [ 46]. The opinions mentioned above might lead to
+that cancer pain were found to be more likely to be
+unrecognized and undertreated among older patients [ 46,
+47]. As a result, the effect of PC on older patients ’ pain
+were significantly smaller than that on younger patients ’
+pain in our meta-analysis.
+For pain relief, the effects of pharmacological strat-
+egies used alone in experimental group were larger than
+that both used in experimental-control group. The ef-
+fectiveness of pharmacological approach has been con-
+firmed in the vast majority of patients with cancer pain
+according to WHO three-step ladder [ 46, 48, 49].
+Additionally, the effect of PC on cancer pain was still
+significant even though both experimental group and
+control group adopted pharmacological strategies, which
+could be explained by the different pharmacological ap-
+proaches. Several studies suggested better overall pain
+control and fewer complications with intravenous anal-
+gesic pumps than conditional provider-administered an-
+algesia [ 50, 51]. Another possible explanation might be
+the non-pharmacological strategies also used in these in-
+cluded studies [ 25, 31, 38, 39]. RCT found that both
+non-pharmacological strategies and intravenous anal-
+gesic pumps adopted could better improve pain control
+compared with analgesia pumps adopted alone [ 52].
+Besides of physiological components, other compo-
+nents of human functioning (e.g., personality, mood,
+behavior, social relations) also play an important role in
+cancer pain management. By comparison with non-
+pharmacological strategies not used in the experimental
+Table 3 Effects of palliative care on cancer: subgroup analysis
+Subgroup No.of studies No.of subjects SMD 95%CI Q I2(%) P a
+Age (years) < 0.001
+< 60 7 514 1.859*** 1.348 – 2.369 34.01*** 82.4
+60– 70 7 434 1.781*** 1.142 – 2.420 46.95*** 87.2
+> 70 4 422 0.348* 0.081 – 0.616 5.51 45.6
+Caner type 0.001
+Liver 8 550 1.741*** 1.177 – 2.304 55.80 *** 87.5
+Mixed 7 610 1.230** 0.449 – 1.962 97.31 *** 93.8
+Pharmacological strategies < 0.001
+Used in both groups 7 584 1.054** 0.423 – 1.686 73.36 *** 91.8
+Used in experimental group 11 786 1.750*** 1.255 – 2.245 86.59 *** 88.5
+Non-pharmacological strategies < 0.001
+Used in experimental group 12 866 1.954*** 1.473 – 2.435 93.62 *** 88.2
+Not used 6 504 0.564** 0.233 – 0.895 16.19 ** 69.1
+Publication date < 0.001
+< 2015 3 246 0.300 −0.104-0.705 4.59 56.4
+2015– 2016 5 458 1.461*** 0.866 – 2.055 30.83 *** 87.0
+2017 5 278 2.167*** 1.235 – 3.100 36.73 *** 89.1
+2018– 2019 5 388 1.580*** 0.776 – 2.384 47.95*** 91.7
+Abbreviations: SMD standardized mean difference
+** p < 0.01; *** p < 0.001
+a P of comparison between these subgroups [ 19], which is akin to analysis of variance. We partition the total variance into variance within groups and variance
+between groups, and then test these various components of variance for statistical significance, with the last (variance between groups) addressing the
+hypothesis that effect size differs as function of group membership
+Zhao et al. BMC Palliative Care           (2019) 18:69 Page 7 of 10
+
+[W2966226515 PDF PAGE 8]
+groups, non-pharmacological strategies used in the ex-
+perimental groups had more beneficial effects on redu-
+cing cancer pain. The findings were in line with the
+literature indicating that in addition to pharmacological
+strategies, various methods of non-pharmacological
+treatments, such as psychological, cognitive and behavior
+therapies, could also relieve cancer pain [ 13, 53, 54].
+With regard to publication date, studies published be-
+fore 2015 had the smallest effect size of PC on cancer
+pain [ 28, 30, 35], mainly because pharmacological strat-
+egies were both used in experimental and control group,
+and non-pharmacological strategies were not used
+among these studies. It should be noted, however, that
+because the statistical power of subgroup analysis in this
+subgroup was limited due to the small number of avail-
+able studies ( n = 3), the present result might be overesti-
+mated, and clearly there is need for further studies.
+Clinical implications
+The present meta-analysis provided several clinical im-
+plications. First, PC has long been recognized to provide
+better pain management and symptom control for
+patients with advanced illness in developed countries,
+but aggressive treatment of advanced cancer patients is
+prevalent in China [ 55], which poses problems for the
+development of PC. Based on our findings, PC has been
+proven to be effective for relieving pain in Chinese cancer
+patients; second, our findings also provided pharmaco-
+logical and non-pharmacological guidance in developing
+optimal approach and appropriate standards of PC in clin-
+ical practice. For instance, intravenous analgesic pumps
+should be adopted for patients with cancer pain at PC
+units, especially for patients who are ineffectual to con-
+ventional pain control. Moreover, non-pharmacological
+strategies are undoubtedly essential issues in cancer pain
+management, which should be recommended as pain con-
+trol methods used concurrently with pharmacological
+interventions.
+Limitation
+Our meta-analysis had several drawbacks that should be
+taken into consideration in interpreting the findings.
+First, subgroup analysis was used to explore potential
+sources of heterogeneity, but substantial heterogeneity
+of SMD was still observed in both the overall analysis
+and subgroups analysis (I 2 > 75%). Thus, we assumed
+that there were other factors, which are not provided by
+the included studies, likely influencing heterogeneity;
+second, as a psychometrically satisfactory instrument for
+assessment of pain intensity, VAS was used in the in-
+cluded studies, but it cannot provide information about
+the duration, frequency or interference of pain [ 56];
+third, due to the lack of follow-up results, it is not con-
+firmed whether there were long-term PC effects; fourth,
+most of the included studies were conducted in general
+hospitals, which might be difficult to reflect the whole
+picture of Chinese PC for cancer pain; fifth, further
+studies need to be conducted to examine whether the
+findings of our meta-analysis are suitable to other coun-
+tries; finally, the evaluation of publication bias generally
+is not useful when less than 20 studies are included in a
+meta-analysis. Therefore, we did not evaluate the
+publication bias neither graphically nor using a statistical
+test in this context due to the small number of included
+studies ( N = 18).
+Conclusion
+Although there are several limitations (small number of
+included studies and high heterogeneity) in this meta-
+analysis, a tentative and preliminary conclusion could be
+reached that PC was effective for relieving pain in
+Chinese cancer patients. Besides, medical personnel
+should pay more attention to the moderating effects of
+age and pharmacological/non-pharmacological strategies
+on cancer pain in the process of PC service. However,
+the findings should be interpreted cautiously, with con-
+sideration of high heterogeneity.
+Additional files
+Additional file 1: Search strategies for all databases. (PDF 118 kb)
+Additional file 2: Selection process of studies for the meta-analysis
+(international databases). (PDF 19 kb)
+Abbreviations
+CBM: Chinese Biomedical Literature Database; CI: Confidence interval;
+CNKI: China National Knowledge Infrastructure; NRS: Numerical Rating Scales;
+PC: Palliative care; RCTs: Randomized controlled trials; SD: Standard deviation;
+SMD: Standardized mean difference; VAS: Visual Analogue Scales;
+WHO: World Health Organization
+Acknowledgements
+The authors wish to acknowledge the bio-statistical assistance of Bin Ma.
+Authors’ contributions
+XXZ and MC was responsible for conception and design of the review,
+carried out the literature search, performed inclusion criteria and data
+analysis, and wrote the manuscript. YHG carried out the literature search,
+performed data extraction and quality assessment, and participated in
+conception and design of the review. XXZ and MC performed data
+extraction and quality assessment. YLY supervised the data collection and
+statistical analysis, and was a major contributor in writing and revising the
+manuscript. All authors

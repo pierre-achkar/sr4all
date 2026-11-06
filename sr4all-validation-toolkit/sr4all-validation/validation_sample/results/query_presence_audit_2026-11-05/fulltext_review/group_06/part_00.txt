@@ -1,0 +1,184 @@
+
+
+REVIEW W2559303829
+TITLE: Comparing the adverse clinical outcomes associated with fraction flow reserve-guided versus angiography-guided percutaneous coronary intervention: a systematic review and meta-analysis of randomized controlled trials
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W2559303829 PDF PAGE 1]
+RESEARCH ARTICLE Open Access
+Comparing the adverse clinical outcomes
+associated with fraction flow reserve-
+guided versus angiography-guided
+percutaneous coronary intervention: a
+systematic review and meta-analysis of
+randomized controlled trials
+Pravesh Kumar Bundhun 1, Chandra Mouli Yanamala 2 and Feng Huang 1*
+Abstract
+Background: Recently published randomized controlled trials have shown different results compared to the
+Fraction Flow Reserve Versus Angiography for Multi-vessel Evaluation (FAME) study. Therefore, this current analysis
+aimed to compare the adverse clinical outcomes associated with Fraction Flow Reserve (FFR)-guided versus
+standard angiography-guided Percutaneous Coronary Intervention (PCI) using a large number of randomized
+patients.
+Methods: PubMed/Medline, EMBASE and the Cochrane library were searched for studies comparing FFR-guided
+with angiography-guided PCI. Mortality, Myocardial Infarction (MI), repeated revascularization and Major Adverse
+Cardiac Events (MACEs) at any follow up period following PCI were considered as the clinical endpoints in this
+analysis. Odds Ratios (OR) with 95% Confidence Intervals (CIs) were calculated and the analyses were carried out by
+the RevMan 5.3 software. Ethical approval was not necessary for this type of study.
+Results: A total number of 2138 patients (1080 patients with FFR-guided versus 1058 patients with angiography-
+guided PCI) were included. Results of this analysis showed mortality not to be significantly different between FFR-
+guided and angiography-guided PCI with OR: 0.70, 95% CI: 0.39 – 1.25; P = 0.22, I 2 = 0%. Total repeated
+revascularization and Target Lesion Revascularization were also similarly manifested with OR: 0.82, 95% CI: 0.60 – 1.
+13; P = 0.22, I 2 = 0% and OR: 0.88, 95% CI: 0.43 – 1.80; P = 0.73, I 2 = 0% respectively. In addition, MACEs were also not
+significantly lower in the FFR-guided PCI group with OR: 0.82, 95% CI: 0.64 – 1.06; P = 0.13, I 2 = 0%. However, FFR-
+guided PCI was associated with a significantly lower rate of re-infarction with OR: 0.67, 95% CI: 0.47 – 0.96; P = 0.03,
+I2 = 0%.
+Conclusion: FFR-guided PCI was not associated with significantly higher adverse clinical outcomes when compared
+to angiography-guided PCI. A significantly lower rate of re-infarction associated with FFR-guided PCI could show an
+important benefit. However, due to the limited number of patients analyzed, this hypothesis should further be
+confirmed in future trials.
+Keywords: Fraction flow reserve, Percutaneous coronary intervention, Major adverse cardiac events, Myocardial
+infarction
+* Correspondence: huangfeng7925@163.com
+1Institute of Cardiovascular Diseases, the First Affiliated Hospital of Guangxi
+Medical University, Nanning, Guangxi 530027, People ’s Republic of China
+Full list of author information is available at the end of the article
+© The Author(s). 2016 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Bundhun et al. BMC Cardiovascular Disorders  (2016) 16:249 
+DOI 10.1186/s12872-016-0427-8
+
+[W2559303829 PDF PAGE 2]
+Background
+Over the last few years, the total number of patients
+undergoing Percutaneous Coronary Intervention (PCI)
+with Drug Eluting Stents (DES) has drastically increased.
+Because coronary angiography which is normally based
+on approximation, often over-estimates or under-
+estimates the severity of coronary artery stenosis [1], the
+use of Fraction Flow Reserve (FFR)-guided PCI [2] is
+gradually showing its clinical importance. FFR is used to
+measure the pressure of blood flow in a stenotic artery
+through which, a pressure wire is used to calculate/esti-
+mate the ratio between the pressure distal to the coron-
+ary artery stenosis and pressure in the aorta, under
+conditions of maximum myocardial hyperemia. This
+method could be beneficial to provide a straightforward,
+readily available, quantitative technique to evaluate the
+physiologic significance of a coronary artery stenosis [3].
+A FFR value of more than 0.80 showed an acceptable or
+normal coronary artery whereas a value less than 0.80
+predicted stenosis and probably the need for stents im-
+plantation [4].
+Fraction Flow Reserve Versus Angiography for Multi-
+vessel Evaluation (FAME) study, which was the first pub-
+lished trial, showed FFR-guided PCI to lower mortality
+rate and the rate of re-infarction, at two years, when
+compared to the standard angiography-guided PCI [5].
+However, newly published trials showed results which
+were completely different from the FAME study. For ex-
+ample, the Proper Fractional Flow Reserve Criteria for
+Intermediate Lesions in the Era of DES (DEFFER-DES)
+trial showed no difference in Major Adverse Cardiac
+Events (MACEs) which comprised of death, Myocardial
+Infarction (MI) and repeated revascularization [6]. Also,
+the Double Kissing Crush Versus Provisional Stenting
+Technique for Treatment of Coronary Bifurcation Le-
+sions VI (DKCRUSH-VI) showed similar clinical out-
+comes at one year follow up [7].
+Since the benefits associated with FFR-guided PCI
+showed controversial issues, we aimed to compare the
+adverse clinical outcomes associated with FFR-guided
+versus standard angiography-guided PCI using a large
+number of randomized patients.
+Methods
+Data sources and search strategies
+PubMed/Medline, EMBASE and the Cochrane library
+were searched for studies (English publications) compar-
+ing FFR-guided with angiography-guided PCI using the
+searched terms ‘fraction flow reserve and percutaneous
+coronary intervention ’. To further enhance this search,
+the words ‘coronary angioplasty ’ and the abbreviations
+‘FFR and PCI ’ were also used. Reference lists of suitable
+articles were also carefully checked and reviewed for
+relevant studies.
+Inclusion and exclusion criteria
+Studies were included if:
+(a)They were published Randomized Controlled Trials
+(RCTs) (an exception was the PLATFORM study
+which had several features of a randomized trial
+despite of being an observational study).
+(b)They compared FFR-guided with angiography-
+guided PCI.
+(c)They reported adverse outcomes as their clinical
+endpoints during any follow up time period after
+PCI.
+Studies were excluded if:
+(a)They were non-RCTs (meta-analyses, observational
+studies, case studies and letter to editors) except for
+the PLATFORM study.
+(b)They did not compare FFR-guided PCI with
+angiography-guided PCI.
+(c)They did not report adverse outcomes as their
+clinical endpoints.
+(d)They were associated with the same trial.
+(e)They were duplicates.
+Outcomes and follow ups
+The adverse outcomes (Table 1) assessed in this meta-
+analysis included:
+(a)All-cause mortality
+(b)Myocardial Infarction (MI)
+(c)Target Lesion Revascularization (TLR)
+(d)Any repeated revascularization including TLR and
+Target Vessel Revascularization (TVR)
+(e)Major Adverse Cardiac Events (MACEs) which
+consisted of death, MI and repeated
+revascularization)
+Any follow up period after PCI was considered rele-
+vant in this study.
+Stent thrombosis and TVR could not be analyzed be-
+cause they were reported in only one study.
+Data extraction and review
+First of all two authors (PKB and CMY) independently
+assessed the trials which have been included in this ana-
+lytic study. Information regarding the type of study re-
+ported in each case, the trial name, the clinical outcomes
+reported in each trial, and the follow up periods were
+carefully extracted by these same two authors. In addition,
+data regarding the total number of patients associated
+with the FFR-guided and angiography-guided PCI groups
+respectively, the patients ’ enrollment period, data con-
+cerning the baseline features of the patients involved as
+Bundhun et al. BMC Cardiovascular Disorders  (2016) 16:249 Page 2 of 8
+
+[W2559303829 PDF PAGE 3]
+well as the data concerning the adverse clinical events
+were systematically extracted. Any disagreement which
+occurred was resolved and a final decision was made by
+the third author (FH). The six components recommended
+by the Cochrane Collaboration were considered when
+assessing the risk of bias reported in these trials [8]
+(Table 2) whereby a maximum score of 2 points was allo-
+cated to each of the six components if a low risk of bias
+was observed. A total score of 12 points was allocated de-
+pending on the level of bias present. Grades ranging from
+A (very low risk of bias) to E (very high risk of bias) were
+also allocated with reference to the bias scores obtained.
+Statistical analysis
+The PRISMA (Preferred Reporting Items for Systematic
+Reviews and Meta-Analyses) study guideline was
+followed for this systematic review and meta-analysis
+[9]. The level of heterogeneity among the subgroups was
+assessed using the Cochrane Q-statistic test whereby a P
+value of ≤0 · 05 implied that the result was statistically
+significant and a P value of > 0.05 implied no statistically
+different result obtained. Heterogeneity was also
+assessed using the I 2-statistic test [10]. If I 2 was less than
+50%, a fixed effects model was used or else, a random ef-
+fects model was relevant. Publication bias was estimated
+by the visual method of assessing funnel plots. Odds Ra-
+tios (OR) with 95% Confidence Intervals (CIs) were cal-
+culate

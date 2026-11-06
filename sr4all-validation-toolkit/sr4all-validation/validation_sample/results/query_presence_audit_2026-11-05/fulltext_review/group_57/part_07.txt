@@ -1,0 +1,170 @@
+nstantinou J. Skeletal abnormalities
+in Rett syndrome: Increasing evidence for dysmorphogenetic defects.Am J Med Genet.
+(1995) 58:282–5. doi: 10.1002/ajmg.1320580316
+77. Roende G, Petersen J, Ravn K, Fuglsang K, Andersen H, Nielsen JB, et al. Low
+bone turnover phenotype in Rett syndrome: results of biochemical bone marker
+analysis. Pediatr Res. (2014) 75:551–8. doi: 10.1038/pr.2013.252
+78. Caffarelli C, Gonnelli S, Tanzilli L, Hayek J, Vichi V, Franci MB, et al. The
+relationship between serum ghrelin and body composition with bone mineral density
+and QUS parameters in subjects with Rett syndrome.Bone. (2012) 50:830 –5.
+doi: 10.1016/j.bone.2012.01.017
+79. O’Connor RD, Zayzafoon M, Farach-Carson MC, Schanen NC. Mecp2
+deﬁciency decreases bone formation and reduces bone volume in a rodent model of
+Rett syndrome.Bone. (2009) 45:346–56. doi: 10.1136/bmjpo-2020-000717
+80. Fu C, Armstrong D, Marsh E, Lieberman D, Motil K, Witt R, et al. Consensus
+guidelines on managing Rett syndrome across the lifespan.bmjpo. (2020) 4:e000717.
+doi: 10.1136/bmjpo-2020-000717
+Pepe et al. 10.3389/fendo.2024.1477227
+Frontiers inEndocrinology frontiersin.org14
+
+END REVIEW W4403920514
+
+
+REVIEW W4404436596
+TITLE: Impact of perioperative immunonutrition on postoperative outcomes in pancreaticoduodenectomy: a systematic review and meta-analysis of randomized controlled trials
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4404436596 PDF PAGE 1]
+SYSTEMATIC REVIEW Open Access
+© The Author(s) 2024. Open Access  This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 
+International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you 
+give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the 
+licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the 
+material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or 
+exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  h t    t p : / / c r e  a   t i 
+v e  c  o  m  m  o n s . o r g / l i c e n s e s / b y - n c - n d / 4 . 0 /     .   
+Zhang et al. BMC Gastroenterology          (2024) 24:412 
+https://doi.org/10.1186/s12876-024-03510-6
+BMC Gastroenterology
+*Correspondence:
+Jie Chen
+chenjiezgsdsrmyy@outlook.com
+1Department of Center for Hepatobiliary-Pancreatic-Splenic Disease, 
+Zigong Fourth People’s Hospital, No. 2 Tanmulin Street, Ziliujing District, 
+Zigong 643000, Sichuan Province, China
+Abstract
+Background This systematic review and meta-analysis aimed to evaluate the impact of perioperative 
+immunonutrition on postoperative outcomes in patients undergoing pancreaticoduodenectomy (PD).
+Methods Conducted a comprehensive search in PubMed, Embase, Cochrane Library, Medline, and Web of Science 
+databases to identify all randomized controlled trials (RCTs) on the topic of immunonutrition and PD. Subsequently 
+screened literature, extracted data, and assessed the risk of bias in the included studies, and finally conducted a meta-
+analysis using RevMan 5.3 software.
+Results The analysis included a total of 10 RCTs with 574 patients, among whom 288 were in the immunonutrition 
+group and 283 in the control group. The meta-analysis revealed a significantly lower incidence of postoperative 
+infection-related complications (OR = 0.45; 95% CI: 0.27–0.74; P = 0.002) and severe postoperative complications 
+(OR = 0.61; 95% CI: 0.38–0.98; P = 0.04) in the immunonutrition group compared to the control group. Additionally, 
+patients in the immunonutrition group had a significantly shorter length of hospital stay (MD= -1.87; 95%CI -3.29 - 
+-0.44; P = 0.01). However, the analysis revealed no statistically significant difference in the overall complication rate 
+between the two groups (P = 0.67). Furthermore, the incidence of specific complications and perioperative mortality 
+rates also did not demonstrate any statistically significant differences (all P > 0.05).
+Conclusions Perioperative immunonutrition in PD patients can reduce postoperative infection-related 
+complications, but more high-quality RCTs are needed for further validation.
+Keywords Pancreaticoduodenectomy, Immunonutrition, Prognosis, Meta-analysis
+Impact of perioperative immunonutrition 
+on postoperative outcomes 
+in pancreaticoduodenectomy: a systematic 
+review and meta-analysis of randomized 
+controlled trials
+Gaofeng Zhang1, Bing Zhao1, Tengang Deng1, Xiaofei He1, Yongpin Chen1, Changtao Zhong1 and Jie Chen1*
+
+[W4404436596 PDF PAGE 2]
+Page 2 of 10
+Zhang et al. BMC Gastroenterology          (2024) 24:412 
+Introduction
+Pancreaticoduodenectomy (PD) is the surgical 
+approach of choice for the management of tumors 
+located in the pancreatic head, ampulla of Vater, distal 
+bile duct, and duodenum [ 1]. Despite its clinical effi -
+cacy, the complexity of PD, which entails multi-organ 
+resection and subsequent gastrointestinal reconstruc -
+tion [ 2], results in a postoperative complication rate 
+ranging from 25–55% [ 3]. Numerous patients under -
+going this surgical procedure frequently encoun -
+ter nutritional risks and impaired immune function 
+during the perioperative period [ 4, 5], which may 
+result in a heightened incidence of complications, 
+including pancreatic fistula, bile duct fistula, hemor -
+rhage, infection, and delayed gastric emptying. Con -
+sequently, the implementation of enhanced recovery 
+after surgery (ERAS) is crucial for optimizing the 
+perioperative management of patients undergoing 
+pancreaticoduodenectomy [ 6]. Nutritional support 
+constitutes an essential component of the ERAS pro -
+tocol [ 7], permeating the entire rehabilitation process 
+preoperatively, intraoperatively, and postoperatively. 
+It plays a pivotal role in facilitating the rapid recovery 
+of patients and mitigating postoperative complications 
+[8].
+Immunonutrition constitutes a therapeutic strategy 
+designed to modulate dysregulated immune responses 
+through the supplementation of specific nutrients [ 9]. 
+Beyond addressing nutrient deficiencies, this approach 
+can selectively activate immune cells to enhance their 
+functionality [ 10], regulate cytokine production and 
+release [ 11], mitigate inflammatory processes [ 12], and 
+preserve the integrity of the intestinal mucosal barrier 
+[13]. Frequently utilized immunonutritional agents 
+encompass arginine, glutamine, omega-3 polyunsatu -
+rated fatty acids, nucleotides, and various other immu -
+nomodulatory compounds.
+Existing research indicates that enteral immuno -
+nutrition support can significantly enhance immu -
+nological markers and clinical outcomes in patients 
+undergoing gastrointestinal surgery [ 14]. However, 
+the efficacy of perioperative immunonutrition support 
+in patients undergoing PD remains a subject of ongo -
+ing debate [ 15, 16]. A systematic review conducted 
+by Guan et al. [ 17] suggests that immunonutrition is 
+associated with a reduced incidence of infectious com -
+plications and a shorter duration of hospital stay. How -
+ever, the meta-analysis incorporated only four studies, 
+and it did not include data from Miyauchi et al. [ 15] 
+and Ashida et al. [ 18], potentially impacting the com -
+prehensiveness and accuracy of the current conclu -
+sions. Therefore, we undertook a new meta-analysis 
+by systematically searching multiple databases to elu -
+cidate the efficacy of perioperative immune nutritional 
+support in patients undergoing PD and to furnish 
+more precise evidence-based guidelines for the periop -
+erative management of these patients.
+Materials and methods
+Literature retrieval strategy
+This systematic review and meta-analysis was con -
+ducted in accordance with the Preferred Report -
+ing Items for Systematic Reviews and Meta-Analyses 
+(PRISMA) statement [ 19]. Published randomised con -
+trolled studies comparing perioperative immunonutri -
+tional support in PD patients in PubMed, EMbase, The 
+Cochrane Library and Web of Science were searched 
+by computer. The search period is from the data -
+base’s inception to May 1, 2024. The search keywords 
+include: (“pancreatic cancer” or “pancreatic tumor” or 
+“pancreaticoduodenectomy” , “pancreatic surgery”) and 
+(“nutrition” or “immunonutrition”). Meanwhile, manu -
+ally search the reference citations of the included liter -
+ature to avoid missing any potentially relevant studies.
+Inclusion and exclusion criteria
+Inclusion criteria: (1) Study design: published ran -
+domized controlled trials (RCTs) on immune nutri -
+tional support for PD patients during the perioperative 
+period. (2) Study patients: all PD patients who received 
+perioperative immune nutritional support, with no 
+restrictions on the duration of nutritional support. (3) 
+Intervention: the experimental group received immune 
+nutritional support during the perioperative period, 
+while the control group received conventional nutri -
+tion. (4) Outcome indicators: the primary outcome 
+indicators were the incidence of complications and 
+infectious complications, length of stay, and periopera -
+tive mortality rate; the secondary outcome indicators 
+were incidence of wound infection, abdominal abscess, 
+pneumonia, bacteremia, urinary tract infection, pan -
+creatic fistula, delayed gastric emptying and intra-
+abdominal hemorrhage, etc.
+Exclusion criteria include: (1) Non-randomized 
+controlled trials, such as reviews, systematic reviews, 
+case reports, and retrospective case-control studies; 
+(2) Non-clinical trials, such as animal and cell experi -
+ments; (3) literature without an interest outcome 

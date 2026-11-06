@@ -1,0 +1,190 @@
+ = 0.018) (Table 5) with
+moderate heterogeneity. In the DAs group, 14 studies [ 5,
+13, 29, 30, 33, 43, 46, 48, 71, 79] comprising 176 patients
+provided the required data, and the pooled improvement
+rate for vision impairment was 0.57 (0.38, 0.74) ( I2 =
+42.4%, p = 0.000) (Table 5; Supplementary Fig. 6A,7A)
+with moderate heterogeneity.
+Headache improvement rate
+A total of 3 studies [ 95, 98, 132] comprising 95 patients
+treated with surgery were included, and the pooled
+headache improvement rate was 0.80 (0.32, 0.97) ( I2 =
+46.9%, p = 0.000). Meta-analysis of this part was con-
+ducted for DAs using 35 patients from 4 studies [ 5, 30,
+32, 46]. The pooled headache improvement rate of DAs
+was 0.86 (0.72, 0.94) ( I2 = 0%, p = 0.416) with low het-
+erogeneity (Table 5; Supplementary Fig. 6B,7B).
+Improvement rate for menstrual disturbance
+A total of 3 studies [ 94, 141, 154] comprising 226 pa-
+tients treated with surgery and 6 studies [ 20, 28, 30, 71]
+comprising 123 patients who used DAs were included,
+and the pooled improvement rates for menstrual dis-
+turbance were 0.68 (0.62, 0.74) ( I2 = 0%, p = 0.327) and
+0.71 (0.16, 1.00) ( I2 = 47.5%, p = 0.000), respectively
+(Table 5; Supplementary Fig. 6C,7C).
+Galactorrhoea improvement rate
+This research included 3 studies [ 124, 132, 141] com-
+prising 176 patients treated with surgery and 6 studies
+[30, 32, 43, 71] comprising 29 patients who used DAs to
+assess the galactorrhoea improvement rate after these
+treatments. The pooled galactorrhoea improvement rates
+were 0.33 (0.01, 0.94) ( I2 = 47.1%, p = 0.000) after sur-
+gery and 0.89 (0.72, 0.96) ( I2 = 0%, p = 0.493) after DAs,
+respectively (Table 5; Supplementary Fig. 6D,7D).
+Complications
+Incidence rate of ACTH insufficiency
+A total of 387 patients from 11 studies [ 3, 5, 6, 13, 93,
+98, 121, 151, 152, 154] that applied surgery and 286 pa-
+tients from 9 studies [ 3, 5, 13, 33, 45, 73, 78] that utilized
+Cai et al. Chinese Neurosurgical Journal             (2022) 8:9 Page 10 of 21
+
+[W4223587433 PDF PAGE 11]
+Fig. 2 Forest plot for biochemical cure rate in prolactinoma patients treated with DAs ( a) and patients treated with surgery ( b)
+Table 2 Subgroup analysis of the biochemical cure rate in patients treated with DAs and surgery treatment
+DAs Surgery
+Pooled result Number of studies Number of patients Pooled result Number of studies Number of patients
+Total 0.78 (0.75, 0.82) 74 2659 0.66 (0.62, 0.71) 81 4397
+Microprolactinoma 0.86 (0.78, 0.94) 9 238 0.79 (0.72, 0.85) 23 686
+Macroprolactinoma 0.77 (0.72, 0.83) 27 1228 0.57 (0.46, 0.68) 15 666
+Giant prolactinoma 0.62 (0.51, 0.74) 8 176 0.35 (0.08, 0.62) 35 5
+1980– 1989 0.74 (0.59, 0.89) 6 106 0.63 (0.52, 0.73) 15 1134
+1990– 1999 0.83 (0.75, 0.90) 11 397 0.64 (0.46, 0.83) 7 262
+2000– 2009 0.79 (0.72, 0.86) 18 605 0.69(0.60, 0.78) 20 947
+2010– 2019 0.77 (0.71, 0.82) 39 1551 0.67 (0.60, 0.74) 39 2054
+Bromocriptine 0.70 (0.60, 0.80) 14 330 NA NA NA
+Cabergoline 0.83 (0.78, 0.87) 32 1368 NA NA NA
+Microscopic surgery NA NA NA 0.68 (0.56, 0.80) 14 1043
+Endoscopic surgery NA NA NA 0.72 (0.65, 0.79) 29 1156
+Das dopamine agonists, NA not applicable, because the data was not discussed or calculated in the meta-analysis
+Cai et al. Chinese Neurosurgical Journal             (2022) 8:9 Page 11 of 21
+
+[W4223587433 PDF PAGE 12]
+Fig. 3 Forest plot for recurrence rate in prolactinoma patients treated with DAs ( a) and patients treated with surgery ( b)
+Cai et al. Chinese Neurosurgical Journal             (2022) 8:9 Page 12 of 21
+
+[W4223587433 PDF PAGE 13]
+DAs were included, and the pooled incidence rates of
+ACTH insufficiency were 0.25 (0.13, 0.43) ( I2 = 46.7%, p
+= 0.000) for surgery and 0.10 (0.06, 0.16) ( I2 = 26.0%, p
+= 0.121) for DAs, respectively (Table 5; Supplementary
+Fig. 6E,7E).
+Incidence rate of TSH deficiency
+In this part, 12 studies [ 3– 6, 13, 93, 98, 151, 152, 154]
+comprising 475 patients who underwent surgery and 7
+studies [ 3, 5, 13, 23, 61, 73, 88] comprising 194 DAs-
+treated patients were included, and the pooled estimated
+rates were 0.24 (0.14, 0.38) ( I2 = 45.4%, p = 0.000) and
+0.19 (0.12, 0.28) ( I2 = 26.4%, p = 0.134) after surgery and
+DAs, respectively (Table 5; Supplementary Fig. 6F,7F).
+Incidence rate of hypopituitarism
+A total of 709 surgery-treated patients from 11 studies
+[5, 6, 97, 124, 141, 147, 148, 156] and 99 DAs-treated pa-
+tients from 4 studies [ 5, 48] were included to assess the
+incidence rate of hypopituitarism. The pooled incidence
+rates were 0.17 (0.06, 0.38) ( I2 = 48.4%, p = 0.000) for
+surgery and 0.29 (0.13, 0.54) ( I2 = 41.6%, p = 0.015) for
+DAs, respectively (Table 5; Supplementary Fig. 6G,7G).
+Incidence rate of diabetes insipidus
+Because of the lack of studies that used DAs and re-
+ported the incidence rate of diabetes insipidus, only
+1616 surgery-treated patients from 27 studies [ 3– 5, 93,
+98, 99, 115, 117, 124, 126, 132, 138, 140, 141, 143, 145,
+147– 154, 156] were included to detect the pooled inci-
+dence rate. The estimated incidence rate of diabetes insi-
+pidus after surgery was 0.17 (0.12, 0.25) ( I2 = 47.1%, p =
+0.000) (Table 5; Supplementary Fig. 6H).
+Discussion
+DAs are the preferred choice in the current guideline,
+and they are used for treating symptomatic microprolac-
+tinomas and macroprolactinomas [ 157]. Compared with
+DAs, surgery has very limited indications, which include
+the following: (1) intolerance or resistance to DAs; (2)
+acute complications such as pituitary apoplexy and cere-
+brospinal fluid leak [ 157]. Some new indications have
+been discussed in other papers, which include the fol-
+lowing: (3) Young patients with high complete resection
+rate; (4) unwillingness to take long-term medication; (5)
+cystic prolactinoma; (6) partial resistance to treatment;
+and (7) requirement of high dose of cabergoline [ 158].
+The reasons for these limited indications are a reported
+Table 3 Subgroup analysis of the recurrence rate in patients treated with DAs and surgery treatment
+DAs Surgery
+Pooled result Number of studies Number of patients Pooled result Number of studies Number of patients
+Total 0.57 (0.48, 0.67) 19 835 0.19 (0.15, 0.24) 36 1215
+Microprolactinoma 0.63 (0.49, 0.78) 7 380 0.10 (0.04, 0.17) 10 206
+Macroprolactinoma 0.60 (0.39, 0.81) 6 226 0.34 (0.11, 0.56) 8 112
+Giant prolactinoma NAa NAa NAa NAa NAa NAa
+1980– 1989 0.79 1 24 0.28 (0.16, 0.39) 13 374
+1990– 1999 0.81 (0.58, 1.04) 2 31 0.17 ( − 0.01, 0.35) 3 149
+2000– 2009 0.51 (0.37, 0.65) 4 329 0.15 (0.09, 0.21) 6 278
+2010– 2019 0.54 (0.41, 0.67) 12 451 0.15 (0.09, 0.20) 14 414
+Bromocriptine 0.86 (0.73, 0.98) 2 36 NA b NAb NAb
+Cabergoline 0.55 (0.39, 0.70) 6 336 NA b NAb NAb
+Microscopic surgery NAb NAb NAb 0.13 (0.05, 0.21) 5 177
+Endoscopic surgery NAb NAb NAb 0.13 (0.05, 0.21) 3 75
+Das dopamine agonists, NAa not applicable, because the data was not provided by included studies, NAb not applicable, because the data was not discussed or
+calculated in the meta-analysis
+Table 4 Meta-regressiosn analysis of the biochemical cure rate
+and recurrence rate of DAs and surgery
+Biochemical cure rate Recurrence rate
+Surgery DAs Surgery DAs
+Gender 0.019 0.601 0.479 NA a
+Year 0.154 0.103 0.479 NA a
+Age 0.065 0.495 0.999 0.313
+Microprolactinoma 0.880 0.578 0.350 0.732
+Macroprolactinoma 0.001 0.235 0.068 0.836
+Giant prolactinoma 0.482 0.029 NAa NAa
+Microscopic surgery 0.843 NA b NAa NAb
+Endoscopic surgery 0.199 NA b 0.773 NA b
+Bromocriptine NAb 0.024 NAb 0.248
+Cabergoline NAb 0.935 NA b 0.520
+Das dopamine agonists, NAa not applicable, because the data was not
+provided by included studies or enough to be included in the meta-regression
+analysis. NAb not applicable, because the data was not discussed or calculated
+in the meta-analysis
+Cai et al. Chinese Neurosurgical Journal             (2022) 8:9 Page 13 of 21
+
+[W4223587433 PDF PAGE 14]
+Fig. 4 Cumulative meta-analysis of the biochemical cure rate ( a) and recurrence rate ( b) in prolactinoma patients subgrouped by the
+treatment methods
+Cai et al. Chinese Neurosurgical Journal             (2022) 8:9 Page 14 of 21
+
+[W4223587433 PDF PAGE 15]
+high recurrence rate (7 – 50%), possible complications,
+and requirement of experienced neurosurgeons [ 157].
+Over the past 5 decades, the endoscope has developed
+from a diagnostic tool to a mature surgical technique
+with concepts of minimally invasive surgery and key-
+hole surgery [ 159]. An increasing number of neurosur-
+geons have accepted this vivifying technique and have
+promoted its indications. Based on our results, surgery,
+especially endoscopic surgery, has already shown satis-
+factory efficacy and safety in some subgroups of prolacti-
+noma patients, and it is time to re-evaluate the surgical
+indications of prolactinoma.
+DAs versus surgery for microprolactinoma
+Symptomatic microprolactinoma patients are recom-
+mended to receive DAs in the current guideline [ 157],
+although a microprolactinoma rarely grows. But the
+pooled estimated biochemical cure rate of endoscopic
+surgery was the same as that of DAs (0.86 versus 0.86)
+and it was slightly higher than that of bromocriptine
+(0.86 versus 0.76). Furthermore, the recurrence rates of
+surgery, both microscopic and endoscopic surgery, were
+much lower than those of DAs (0.10 versus 0.63). In an-
+other meta-analysis conducted by Ma et al. [ 10], the re-
+ported long-term remission rates for microprolactinoma
+were 56% (medication) versus 91% (surgery). The differ-
+ence between their results and our results may have
+arisen from different inclusion criteria, as they excluded
+patients utilizing DAs before surgery. Zamanipoor et al.
+also conducted a meta-analysis and found the long-term
+remission rates were 36% versus 83% for medication and
+surgery separately(9). This may be due to that they only
+include patients with medicine withdrawal. It is notable
+that some countries like China do not allow the use of
+cabergoline, and patients living in such countries may
+consider surgery to be a better choice than
+bromocriptine.
+DAs versus surgery for macroprolactinoma
+All macropro

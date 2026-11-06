@@ -1,0 +1,118 @@
+
+
+REVIEW W4398789503
+TITLE: Digital Health Interventions for Chronic Wound Management: A Systematic Review and Meta-Analysis
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4398789503 PDF PAGE 1]
+JMIR Preprints Bai et al
+Digital Health Interventions for Chronic Wound
+Management: A Systematic Review and Meta-Analysis
+ Xinrui Bai, Hongyan Zhang, Yanxia Jiao, Chenlu Yuan, Yuxia Ma, Lin Han
+Submitted to: Journal of Medical Internet Research
+on: April 05, 2023
+Disclaimer: © The authors. All rights reserved. This is a privileged document currently under peer-review/community
+review. Authors have provided JMIR Publications with an exclusive license to publish this preprint on it's website for
+review purposes only. While the final peer-reviewed paper may be licensed under a CC BY license on publication, at this
+stage authors and publisher expressively prohibit redistribution of this draft paper other than for review purposes.
+https://preprints.jmir.org/preprint/47904 [unpublished, peer-reviewed preprint]
+
+
+[W4398789503 PDF PAGE 2]
+JMIR Preprints Bai et al
+Table of Contents
+Original Manuscript ....................................................................................................................................................................... 5
+Supplementary Files ..................................................................................................................................................................... 28
+Figures ......................................................................................................................................................................................... 29
+Figure 1 ...................................................................................................................................................................................... 30
+Figure 2 ...................................................................................................................................................................................... 31
+Figure 3 ...................................................................................................................................................................................... 32
+Figure 4 ...................................................................................................................................................................................... 33
+Figure 5 ...................................................................................................................................................................................... 34
+Figure 6 ...................................................................................................................................................................................... 35
+Multimedia Appendixes ................................................................................................................................................................. 36
+Multimedia Appendix 1 .................................................................................................................................................................. 37
+Multimedia Appendix 2 .................................................................................................................................................................. 37
+Multimedia Appendix 3 .................................................................................................................................................................. 37
+Multimedia Appendix 4 .................................................................................................................................................................. 37
+Multimedia Appendix 5 .................................................................................................................................................................. 37
+Multimedia Appendix 6 .................................................................................................................................................................. 37
+Multimedia Appendix 7 .................................................................................................................................................................. 37
+https://preprints.jmir.org/preprint/47904 [unpublished, peer-reviewed preprint]
+
+
+[W4398789503 PDF PAGE 3]
+JMIR Preprints Bai et al
+Digital Health Interventions for Chronic Wound Management: A
+Systematic Review and Meta-Analysis
+Xinrui Bai1* BSN ; Hongyan Zhang2* MSN ; Yanxia Jiao1* BSN ; Chenlu Yuan1* BSN ; Yuxia Ma1* MSN ; Lin Han2, 1*
+PhD
+1Evidence-Based Nursing Centre?School of Nursing Lanzhou University Lanzhou City?Gansu Province CN
+2Department of Nursing?Gansu Provincial Hospital Lanzhou City, Gansu Province CN
+*these authors contributed equally
+Corresponding Author:
+Lin Han PhD
+Evidence-Based Nursing Centre?School of Nursing
+Lanzhou University
+#28 Yanxi Road, Chenguan District
+Lanzhou City?Gansu Province
+CN
+Abstract
+Background: Chronic wounds have a serious impact on patients’ quality of life and place a significant strain on global finances
+and healthcare systems. Mobile health (mHealth) technology in various forms has been proposed as an important modality for
+the management of chronic wounds. However, existing studies on the efficacy of mHealth interventions for chronic wound
+management produce inconclusive results due to the complexity of wound etiology and the diversity of mHealth delivery
+methods.
+Objective: The purpose of this study was to conduct a systematic review and meta-analysis of the current evidence on mHealth
+in the management of patients with chronic wounds, and determine whether mHealth-supported interventions were more
+beneficial for chronic wound outcomes than conventional care.
+Methods: Eligible randomized controlled trials (RCTs), cohort studies, and quasi-experimental studies published from the date
+of inception to December 1,2022, were identified by searching Pubmed, Web of Science, EMBASE, Cochrane Library,
+CINAHL, China Knowledge Resource Integrated Database (CNKI), Wanfang Database, Weipu Database (VIP), and Chinese
+Biomedical Database (CBM). Studies were evaluated independently by two researchers and audited by a third researcher. We
+assessed the quality of each RCTs, cohort study, and quasi-experimental study separately using the Cochrane risk of bias tool,
+ROBINS-I, and the Joanna Briggs Institute Critical Appraisal tools checklists. Continuous and dichotomous data were extracted
+for relevant outcomes and analyzed in a random effect meta-analysis model using RevMan5.4.1 software.
+Results: Twenty-four studies with 7945 patients were included in this systematic review, while only 19 studies with 6355
+patients were included in the meta-analysis. The combined effect estimate showed no significant differences between the
+mHealth and control groups in terms of wound healing (RR 1.15,95% CI 0.94-1.40; P=.17), adverse events (RR 0.54, 95% CI
+0.26-1.10; P=.09), or all-cause mortality around one year (RR 1.19,95% CI 0.66-2.14; P=.57). Compared with the control group,
+the use of mHealth was associated with significant changes in PUSH-score (MD -2.37, 95% CI -2.82 to -1.92; P<.001). Although
+meta-analysis was not possible in terms of wound size, cost analysis, patient satisfaction, and wound reporting rates, most studies
+still demonstrated that mHealth was not inferior to conventional care in managing chronic wounds.
+Conclusions: The findings of our study demonstrate the viability of adopting mHealth to treat chronic wounds. However, larger,
+high-quality randomized controlled trials are needed to strengthen the evidence, and further clinical effectiveness research needs
+to be done in greater detail. Clinical Trial: PROSPERO CRD42023392415;
+https://www.crd.york.ac.uk/prospero/display_record.php?ID=392415
+(JMIR Preprints 05/04/2023:47904)
+DOI: https://doi.org/10.2196/preprints.47904
+Preprint Settings
+https://preprints.jmir.org/preprint/47904 [unpublished, peer-reviewed preprint]
+
+
+[W4398789503 PDF PAGE 4]
+JMIR Preprints Bai et al
+1) Would you like to publish your submitted manuscript as preprint?
+Please make my preprint PDF available to anyone at any time (recommended).
+Please make my preprint PDF available only to logged-in users; I understand that my title and abstract will remain visible to all users.
+Only make the preprint title and abstract visible.
+No, I do not wish to publish my submitted manuscript as a preprint.
+2) If accepted for publication in a JMIR journal, would you like the PDF to be visible to the public?
+Yes, please make my accepted manuscript PDF available to anyone at any time (Recommended). 
+Yes, but please make my accepted manuscript PDF available only to logged-in users; I understand that the title and abstract will remain visible to all users (see Important note, above). I also understand that if I later pay to participate in <a href="https://jmir.zendesk.com/hc/en-us/articles/360008899632-What-is-the-PubMed-Now-ahead-of-print-option-when-I-pay-the-APF-" target="_blank">JMIR’s PubMed Now! service</a> service, my accepted manuscript PDF will automatically be made openly available.
+Yes, but only make the title and abstract visible (see Important note, above). I understand that if I later pay to participate in  <a href="https://jmir.zendesk.com/hc/en-us/articles/360008899632-What-is-the-PubMed-Now-ahead-of-print-option-when-I-pay-the-APF-" target="_blank">JMIR’s PubMed Now! service</a> service, my accepted manuscript PDF will automatically be made openly available.
+https://preprints.jmir.org/preprint/47904 [unpublished, peer-reviewed preprint]
+
+
+[W4398789503 PDF PAGE 5]
+JMIR Preprints Bai et al
+Original Manuscript
+https://preprints.jmir.org/preprint/47904 [unpublished, peer-reviewed preprint]
+
+
+[W4398789503 PDF PAGE 6]
+JMIR Preprints Bai et al
+Digital Health Interventions for Chronic
+Wound Management: A Systematic
+Review an

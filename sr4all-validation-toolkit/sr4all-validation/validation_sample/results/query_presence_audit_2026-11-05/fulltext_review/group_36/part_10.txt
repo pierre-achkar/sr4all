@@ -1,0 +1,467 @@
+arison 
+of pre- vs 
+post- antibiotic 
+resistance
+Increase, 
+decrease either 
+P < 0.05 or +/− 5%
+Pre-PCV 
+antibiotic 
+resistance
+Post-PCV 
+antibiotic 
+resistance
+Percent change 
+in antibiotic 
+resistance
+Increase, 
+decrease either 
+P < 0.05 or +/− 5%
+Pre-PCV 
+antibiotic 
+resistance
+Post-PCV 
+antibiotic 
+resistance
+Percent change 
+in antibiotic 
+resistance
+Increase, 
+decrease either 
+P < 0.05 or +/− 5%
+Pre-PCV 
+antibiotic 
+resistance
+Post-PCV 
+antibiotic 
+resistance
+Percent change 
+in antibiotic 
+resistance
+Increase, 
+decrease either 
+P < 0.05 or +/− 5%
+Co-trimoxazole 
+R: 73.4% (n = 240)
+Co-trimoxazole 
+R: 71.0% (n = 250)
+No 
+change
+Tetracycline R: 
+87.8% (n = 287)
+Tetracycline R: 
+81.0% (n = 285)
+No 
+change
+19 Mayanskiy, 
+2017 [38] Russia 2010-2011 2016 P = 0.001 2010-2011 2016
+Erythro-
+mycin 
+R: 24.5% 
+(n = 46)
+Erythro-
+mycin R: 
+42.3% 
+(n = 60)
+Increase Oxacillin R: 
+21.3% (n = 40)
+Oxacillin R: 
+35.9% (n = 106) P = 0.001 Increase
+Clindamycin R: 
+19.9% (n = 46)
+Clindamycin R: 
+23.4% (n = 69) P = 0.482 No 
+change
+Sulfametho 
+xazole/ 
+Trimethoprim 
+R: 59.1% 
+(n = 110)
+Sulfametho 
+xazole/ 
+Trimethoprim 
+R: 37.6% 
+(n = 111)
+P = 0.001 Decrease
+Chloram 
+phenicol R: 
+14.6% (n = 6)
+Chloram 
+phenicol R: 
+4.7% (n = 14)
+P = 0.002 Decrease
+Tetracycline R: 
+60.0% (n = 15)
+Tetracycline R: 
+29.0% (n = 85) P = 0.001 Decrease
+20 Mayanskiy, 
+2019 [28] Russia 2010-2011 2017 P = 0.004 Increase 2010-2011 2017
+Erythro-
+mycin R: 
+27.0% (n = 24)
+Erythro-
+mycin R: 
+35.8% (n = 38)
+Oxacillin R: 
+20.0% (n = 18)
+Oxacillin R: 
+31.1% (n = 33) P = 0.009 Increase
+Clindamycin R: 
+25.0% (n = 56)
+Clindamycin R: 
+28.3% (n = 30) P = 0.004 Increase
+Sulfametho 
+xazole/ 
+Trimethoprim 
+R: 64.0% (n = 56)
+Sulfametho 
+xazole/ 
+Trimethoprim 
+R: 41.5% (n = 44)
+P = 0.006 Increase
+Chloram 
+phenicol R: Not 
+tested
+Chloram 
+phenicol R: 
+0.;9% (n = 1)
+P = NA
+Tetracycline R: 
+Not tested
+Tetracycline R: 
+32.1% (n = 34) P = NA
+Multi-drug 
+resistant R: 
+26.0% (n = 23)
+Multi-drug 
+resistant R: 
+27.4% (n = 29)
+P = 0.225 No 
+change
+PCV – pneumococcal conjugate vaccine, IPD – invasive pneumococcal disease, NA – not available, R – resistant
+Table 4. continued
+
+[W4321164441 PDF PAGE 15]
+PCV impact on pneumococcal antimicrobial resistance
+RESEARCH THEME 1: PREVENTION AND 
+MANAGEMENT OF PNEUMONIA AND DIARRHOEA  
+IN CHILDREN – EVIDENCE SYNTHESIS
+www.jogh.org •  doi: 10.7189/jogh.13.05001 15 2023  •  Vol. 13  •  05001
+Table 5. Results of studies displaying the rates of resistant or non-susceptible other (sputum or mixed invasive and non-invasive pneumococcal) isolates in the pre- and post-PCV10/13 periods
+ID
+Author
+Country
+Penicillin family (penicillin, amoxicillin, amoxicillin-
+clavulanate (augmentin), ampicillin, dicloxacillin, 
+nafcillin, and piperacillin-tazobactam (zosyn))
+Cephalosporin family (all antibiotics 
+starting with Cef)
+Macrolide family (erythromycin, 
+roxithromycin, azithromycin and 
+clarithromycin)
+Other
+Pre-PCV antibiotic 
+resistance
+Post-PCV antibiotic 
+resistance
+P value for compari-
+son of pre- vs post- 
+antibiotic resistance
+Increase, decrease 
+either P < 0.05 
+or +/− 5%
+Pre-PCV antibiotic 
+resistance
+Post-PCV antibiotic 
+resistance
+Percent change in 
+antibiotic resistance
+Increase, decrease 
+either P < 0.05 
+or +/− 5%
+Pre-PCV antibiotic 
+resistance
+Post-PCV antibiotic 
+resistance
+Percent change in 
+antibiotic resistance
+Increase, decrease 
+either P < 0.05 
+or +/− 5%
+Pre-PCV antibiotic 
+resistance
+Post-PCV antibiotic 
+resistance
+Percent change in 
+antibiotic resistance
+Increase, decrease 
+either P < 0.05 
+or +/− 5%
+26 Shoji, 
+2017 [32] Japan Penicillin R: 10.3% 
+(n = 62)
+Penicillin R: 5.1% 
+(n = 25) P = 0.521 No 
+change
+27 Sivhonen, 
+2017 [33] Finland Isolates among 
+children <5 y
+Isolates among 
+children <5 y
+Multidrug 
+resistance R: 
+9.4% (n = 3)
+Multidrug 
+resistance R: 
+25% (n = 2)
+Not 
+statistically 
+significant
+No 
+change
+Isolates among 
+people ≥5 y
+Isolates among 
+people ≥5 y
+Multidrug 
+resistance R: 
+4.3% (n = 8)
+Multidrug 
+resistance R: 
+1.6% (n = 3)
+Not 
+statistically 
+significant
+No 
+change
+29 Suzuki, 
+2017 [35] Japan Cefotaxime 
+NS: 7.2%
+Cefotaxime 
+NS: 0.7% P = 0.007 Decrease
+Clarithro-
+mycin NS: 
+94.0%
+Clarithro-
+mycin NS: 
+84.5%
+P = 0.177 No 
+change
+Benzyl-
+penicillin NS: 
+88.0%
+Benzyl-
+penicillin NS: 
+53.2%
+P < 0.001 Decrease
+Azithro-
+mycin NS: 
+95.2%
+Azithro-
+mycin NS: 
+89.9%
+P = 0.165 No 
+change
+Imipenem NS: 
+22.7%
+Imipenem NS: 
+17.3% P = 0.605 No 
+change
+Levofloxacin 
+NS: 0.0%
+Levofloxacin 
+NS: 0.0% NA No 
+change
+30 Toda, 
+2018 [36] Japan
+Penicillin (oral 
+administration, 
+non-meningitis 
+syndrome) among 
+adults NS: 54.5% 
+(n = 198)
+Penicillin (oral 
+administration, 
+non-meningitis 
+syndrome) among 
+adults NS: 56.5% 
+(n = 257)
+No 
+change
+Ceftriaxone 
+(non-
+meningitis) 
+among 
+adults NS: 
+1.9% (n = 7)
+Ceftriaxone 
+(non-
+meningitis) 
+among 
+adults NS: 
+6.6% (n = 30)
+No 
+change
+Imipenem 
+among adults 
+NS: 18.5% 
+(n = 67)
+Imipenem 
+among adults 
+NS: 14.3% 
+(n = 65)
+Decrease
+Penicillin (oral 
+administration, 
+non-meningitis 
+syndrome) among 
+children NS: 70.8% 
+(n = 167)
+Penicillin (oral 
+administration, 
+non-meningitis 
+syndrome) among 
+children NS: 64.5% 
+(n = 165)
+Decrease
+Ceftriaxone 
+(non-
+meningitis) 
+among 
+children NS: 
+2.1% (n = 5)
+Ceftriaxone 
+(non-
+meningitis) 
+among 
+children NS: 
+7.4% (n = 19)
+Increase
+Imipenem 
+among 
+children NS: 
+18.6% (n = 44)
+Imipenem 
+among 
+children NS: 
+15.2% (n = 39)
+Decrease
+Penicillin 
+(parenteral 
+administration, 
+non-meningitis 
+syndrome) among 
+adults NS: 1.1% 
+(n = 4)
+Penicillin 
+(parenteral 
+administration, 
+non-meningitis 
+syndrome) among 
+adults NS: 5.9% 
+(n = 29)
+No 
+change
+Cefotaxime 
+(non-
+meningitis) 
+among 
+adults NS: 
+2.8% (n = 10)
+Cefotaxime 
+(non-
+meningitis) 
+among 
+adults NS: 
+4.2% (n = 19)
+No 
+change
+Meropenem 
+among adults 
+NS: 14.9% 
+(n = 54)
+Meropenem 
+among adults 
+NS: 14.9% 
+(n = 68)
+No 
+change
+Penicillin 
+(parenteral 
+administration, 
+non-meningitis 
+syndrome) among 
+children NS: 0.4% 
+(n = 1)
+Penicillin 
+(parenteral 
+administration, 
+non-meningitis 
+syndrome) among 
+children NS: 6.3% 
+(n = 16)
+Increase
+Cefotaxime 
+(non-
+meningitis) 
+among 
+children NS: 
+1.7% (n = 4)
+Cefotaxime 
+(non-
+meningitis) 
+among 
+children NS: 
+4.7% (n = 12)
+No 
+change
+Meropenem 
+among 
+children NS: 
+14.4% (n = 34)
+Meropenem 
+among 
+children NS: 
+16.0% (n = 41)
+No 
+change
+PCV – pneumococcal conjugate vaccine, NS – non-susceptible, R – resistant
+
+[W4321164441 PDF PAGE 16]
+Reyburn et al. 
+RESEARCH THEME 1: PREVENTION AND 
+MANAGEMENT OF PNEUMONIA AND DIARRHOEA  
+IN CHILDREN – EVIDENCE SYNTHESIS
+2023  •  Vol. 13  •  05001  16  www.jogh.org •  doi: 10.7189/jogh.13.05001
+Both previous and subsequent systematic reviews published on the rates of AMR in IPD, OM and NPS before 
+and after the introduction of PCV10 or PCV13 found that AMR rates declined or stayed the same [7,8]. It may 
+be that after the introduction of PCV, an initial decline in AMR occurs (a “honeymoon period”) that may be 
+followed by a rise in AMR due to high levels of antimicrobial use and replacement with AMR serotypes, the 
+degree of which may depend on the ease of AMR acquisition to different antimicrobial classes [42]. Following 
+the introduction of PCV7, previously rare serotypes, such as 19A, became more prevalent (“serotype replace-
+ment”) [43]. Prior to any PCV introduction, AMR was found mostly among paediatric IPD serotypes (6B, 9V, 
+14, 19F and 23F), which tend to be carried for longer and are all contained within PCV [44]. Replacement se-
+rotypes, due to their rarity prior to vaccine introduction, are less likely to be AMR, but AMR could increase in 
+these serotypes as they become more prevalent, as was the case for 19A following the introduction of PCV7.
+The comparative heterogeneity in results of this study, which included more data from LMIC populations 
+than previous systematic reviews, may reflect the dynamic nature of AMR. AMR is likely to fluctuate over 
+time due to factors such as the pre-existing level of AMR prior to vaccine introduction and the degree of 
+antimicrobial use in a population, which in turn varies widely between LMIC settings [10,45], if such fluc-
+tuations are temporally associated but not causally associated with PCR introduction this may cause an in-
+crease, decrease and nullification of apparent AMR rate change. Another possible explanation is bias due to 
+variability in the quality of laboratory AMR assessment. Poor or under-resourced laboratory methods may 
+in theory act to underestimate the prevalence of AMR [46].
+A limitation of our literature review is that we were unable to identify individual serotypes in each study and 
+determine AMR rates by serotype, as this information was not reported in the majority of studies. However, 
+a 2016 study from the USA found that post PCV13 introduction among common IPD serotypes 15B/15C (in-
+cluded together since they interconvert), 33F, 22F, and 35B, nearly half (49%) of these isolates were erythro-
+mycin resistant (with serotype 35B isolates being predominantly penicillin nonsusceptible with an MIC of two 
+μg/ml) [5]. Another study using data from Hong Kong, Israel, Malawi, South Africa, The Gambia, and the USA 
+showed the five most prevalent serotypes in the PCV13 period varied between countries, with only serotypes 
+5, 12F, 15B/C, 19A, 33F, and 35B/D common to two or more countries, with distinctive lineages and dissim-
+ilar antibiotic resistance profiles in different countries [27]. In non-vaccine serotype isolates, increases were 
+detected in the prevalence of resistance to penicillin from 21% (n = 53/249) vs. 29% (n = 169/575) and eryth-
+romycin 1% (n = 3/249) vs. 11% (n = 65/575) in the PCV13 period compared with the pre-PCV period [27].
+Another limitation of this review is the heterogeneity between study settings, specifically regarding antimi-
+crobial use and admission and sample collection criteria, therefore a meta-analysis could not be undertak-
+en. In addition, the lack of studies which calculated a percent decline in AMR from the pre-PCV period t

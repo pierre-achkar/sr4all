@@ -1,0 +1,248 @@
+21.2 ± 3.2 a 21.8 ± 3.4a 0 0 0 0 54/42(Ra, Rb) e 87/22(Ra, Rb)e
+Kim (8) 23.7 ± 2.5 a 22.7 ± 2.9a 0 0 0 0 8.8 ± 1.2 a 8.9 ± 1.4a
+Lee (9) 24.1 ± 3.6 a 23.8 ± 4.6a 0 0 19 58 70/84(Lower/Middle/
+Upper) e
+169/213(Lower/Middle/
+Upper) e
+Nishigori
+(28)
+22.0 (15.0–
+28.0) b 22.4 (15.3– 31.2) b 0 0 0 1 21/15(Ra, Rb) e 94/46(Ra, Rb)e
+Zhao (13) N R N R 0000 22/46/13(Lower/Middle/
+Upper) e
+21/38/18(Lower/Middle/
+Upper) e
+Xiao (25) 24.2 ± 3.8 a 23.7 ± 4.0a 0 0 0 0 7 (3.5 – 11) b 8 (3.5– 11) b
+RCT, randomized controlled trial; R, retrospective; CS, cohort study; PSM, propensity score matching; BMI, body mass index; NR, not reported; TDT, transanal drainage tube; Rs, rectosigmoid;
+Ra, rectum above the peritoneal reﬂection; Rb, rectum below the peritoneal reﬂection.
+aValues are mean ± SD.
+bValues are median (range).
+cValues are percentage.
+dValues are median.
+eValues are numbers.
+Xu et al. 10.3389/fonc.2023.1307716
+Frontiers inOncology frontiersin.org08
+
+[W4391141481 PDF PAGE 9]
+TABLE 3 Risk of bias summary for all included cohort studies.
+Study Confunding Selection Classi ﬁcation
+Deviations
+from
+intended
+interventions
+Missing
+data
+Measurement
+of outcomes
+Selection
+of the
+reported
+result
+Overall
+Kuk (27) Moderate Moderate NR Low Low Low Moderate Moderate
+Li (30) Moderate Moderate NR Low Low Low Moderate Moderate
+Wang (4) Moderate Moderate NR Low Low Low Moderate Moderate
+Chaline (5) Low Moderate NR Low Low Low Moderate Low
+Carboni (7) Low Moderate NR Low Low Low Moderate Low
+Kawada (14) Moderate Moderate NR Low Low Low Moderate Moderate
+Goto (26) Moderate Moderate NR Low Low Low Moderate Moderate
+Ito (29) Moderate Moderate NR Low Low Low Moderate Moderate
+Yang (11) Low Moderate NR Low Low Low Moderate Low
+Brandl (24) Moderate Moderate NR Low Low Low Moderate Moderate
+Hidaka (6) Moderate Moderate NR Low Low Low Moderate Moderate
+Kim (8) Moderate Moderate NR Low Low Low Moderate Moderate
+Lee
+(9) Low Moderate NR Low Low Low Moderate Low
+Nishigori (28) Moderate Moderate NR Low Low Low Moderate Moderate
+Zhao (13) Low Moderate NR Low Low Low Moderate Low
+NR, not reported.
+TABLE 4 The main results of AL and reoperation of the included studies.
+studies
+AL(n) reoperation(n) AL (grade A
++B) (n) AL (grade C) (n) AL rate(%) Reoperation
+rate(%)
+AL rate (grade
+A+B) (%)
+AL rate (grade
+C) (%)
+TDT Non-
+TDT TDT Non-
+TDT TDT Non-
+TDT TDT Non-
+TDT TDT Non-
+TDT TDT Non-
+TDT TDT Non-
+TDT TDT Non-
+TDT
+Kuk (27) 4 19 3 16 1 3 3 16 1.9 5.6 1.4 4.7 0.5 0.9 1.4 4.7
+Zhao (12) 18 19 NR NR 14 11 4 8 6.4 6.8 NR NR 0.1 3.9 1.4 2.9
+Tamura
+(10) 8 11 NR NR 5 9 1 1 10.1 14.1 NR NR 6.3 11.5 1.3 1.3
+Li (30) 090108010 6 . 6 0 0 . 7 0 5 . 9 0 0 . 7
+Wang (4) 46252125 3 . 3 6 1 . 7 5 1 . 7 1 1 . 7 5
+Chaline (5) 25 16 5 3 25 16 4 2 34.7 22.2 6.9 4.2 34.7 22.2 5.6 2.8
+Carboni (7) 23 18 14 11 9 7 14 11 8.4 11.7 5.1 7.1 3.3 4.5 5.1 7.1
+Kawada
+(14) 19 6 10 3 9 3 10 3 10.7 26.1 5.6 13 5.1 13 5.6 13
+Goto (26) 17 19 9 9 10 11 7 8 8.3 15 4.4 7.3 4.9 8.9 3.4 6.5
+Ito (29) 1 1 0 041604 3 . 6 24.4 0 9.8 3.5 14.6 0 9.8
+Yang (11) 10 12 3 12 7 0 3 12 9.8 11.8 2.9 11.8 6.9 0 2.9 11.8
+Brandl (24) 5 14 1 14 4 0 1 14 3.6 13.4 0.7 13.4 2.9 0 0.7 13.6
+(Continued)
+Xu et al. 10.3389/fonc.2023.1307716
+Frontiers inOncology frontiersin.org09
+
+[W4391141481 PDF PAGE 10]
+TABLE 4 Continued
+studies
+AL(n) reoperation(n) AL (grade A
++B) (n) AL (grade C) (n) AL rate(%) Reoperation
+rate(%)
+AL rate (grade
+A+B) (%)
+AL rate (grade
+C) (%)
+TDT Non-
+TDT TDT Non-
+TDT TDT Non-
+TDT TDT Non-
+TDT TDT Non-
+TDT TDT Non-
+TDT TDT Non-
+TDT TDT Non-
+TDT
+Hidaka (6) 4 15 0 10 4 5 0 10 4.2 13.8 0 9.2 4.1 4.6 0 9.2
+Kim (8) 16150115 2 . 9 17.1 2.9 14.3 0 2.9 2.9 14.3
+Lee (9) 9 41 8 30 1 11 8 30 5.8 10.7 5.2 7.9 0.6 2.9 5.2 7.9
+Nishigori
+(28) 1 22 1 11 0 11 1 11 2.7 15.7 2.7 7.8 0 7.9 2.8 7.9
+Zhao (13) 27270027 2 . 5 7 . 8 2 . 5 7 . 8 00 2 . 5 9 . 1
+Xiao (25) 8 19 2 16 6 3 2 16 4 9.6 1 8.1 3 1.5 1 8.1
+AL, anastomotic leakage; TDT, transanal drainage tube; NR, not reported.
+B
+A
+FIGURE 3
+Meta-analysis results for whole studies of AL and reoperation.(A): anastomotic leak.(B): reoperation
+Xu et al. 10.3389/fonc.2023.1307716
+Frontiers inOncology frontiersin.org10
+
+[W4391141481 PDF PAGE 11]
+In this subgroup, three studies (n=946 patients) reported DS
+and only one study (n=536 patients) did not.
+2.3.1 AL rate
+Three of the four studies reported DS in the less than 5 days
+TDT indwelling time subgroup. AL was reported in 9.8% (48/491)
+patients with TDT in comparison to 10.8% (49/455) patients
+without TDT (OR=0.80, 95%CI 0.28-2.24, p=0.67), and
+substantial heterogeneity was observed (I2 = 80%,p<0.01).
+Only one study in this subgroup did not report DS. AL was
+reported in 5.8% (9/154) patients with TDT compared to 10.7% (41/
+382) patients without TDT (OR=0.52, 95%CI 0.24-1.09,p=0.08).
+2.3.2 Reoperation rate
+In the two of three studies reporting DS in the less than 5 days
+TDT indwelling time subgroup (n=386 patients), reoperations
+were performed in 2.8% (6/211) patients with TDT and in 9.7%
+(17/175) patients without TDT (OR=0.30, 95%CI 0.01-12.26,
+p=0.53), substantial heterogeneity was found as well (I 2 =
+88%, p<0.01).
+Only one study reported the reoperation rate in patients
+without DS (n=536). 5.2% (8/154) patients with TDT underwent
+reoperations compared to 7.9% (30/382) without TDT (OR=0.64,
+95%CI 0.29-1.44,p=0.28).
+Sensitivity analysis
+Substantial heterogeneity was found in the subgroup of TDT
+indwelling time of < 5 days. In the AL indicator, heterogeneity was
+slightly reduced after individual study (5) was excluded; However,
+substantial heterogeneity remained ( I2 =5 9 % ,p=0.09).
+Heterogeneity was reduced to 24% after individual study (24) was
+excluded from the meta-analysis of reoperations in the subgroup
+(p=0.73). Guo et al. (15) concluded that in the study by Challine
+et al. (5), temporary diverting stoma were systemically constructed
+for all patients after anterior resection for rectal cancer, which may
+have contributed to the differences from other studies in the
+pooled analysis.
+Publication bias
+According to the Egger test, there was evidence of publication
+bias in the meta-analysis of AL (p=0.0005), reoperation (p=0.0114),
+and AL without DS ( p=0.0032) in the subgroup with TDT
+indwelling time≥5 days (Figure 6).
+Discussion
+We conducted a systematic review and meta-analysis of the
+indwelling time of TDT after anterior rectal cancer surgery. After
+conducting a systematic analysis of the preliminary data statistics,
+we ﬁnalized the subgroups as ≥5-day and <5-day subgroups
+depending on the indwelling time of the TDT postoperatively.
+The vast majority of the 18 included studies (14/18) had TDT
+indwelling time of 5 days or more, which is also consistent with our
+clinical experience. The results showed that the indwelling time of
+TDT for≥5-days was associated with a signiﬁcant reduction (TDT
+vs. Non-TDT) in overall AL, grade A+B AL, grade C AL, overall
+reoperation rate and that in patients without a prophylactic DS.
+There were no statistically signiﬁcant differences in any of the
+B
+C
+D
+E
+F
+G
+H
+A
+FIGURE 4
+Meta-analysis results for TDT indwelling time≥5 days subgroup.(A):
+anastomotic leak.(B): grade A+B anastomotic leak.(C): grade C
+anastomotic leak.(D): reoperation.(E): anastomotic leak with
+diverting stoma.(F): anastomotic leak without diverting stoma.(G):
+reoperation with diverting stoma.(H): reoperation without
+diverting stoma.
+Xu et al. 10.3389/fonc.2023.1307716
+Frontiers inOncology frontiersin.org11
+
+[W4391141481 PDF PAGE 12]
+abovementioned indicators when the indwelling time of TDT was
+less than 5 days.
+In most of the included studies, TDT was maintained until at
+least postoperative day (POD) 5. This may differ from what most
+surgeons believe, that postoperative AL does not occur only in the
+early postoperative period. Several studies have reported that the
+mean time to postoperative AL was≥5 days, and that most occurred
+on POD 7 (18, 19, 31). Li et al. (19)d eﬁned AL occurring≤ 5 days
+postoperatively as very early AL (vE-AL). AL occurring during this
+period is considered fatal; thus, POD 5 was considered the optimal
+cutoff time to distinguish truly life-threatening early AL requiring
+urgent reoperation. Several factors may have contributed to these
+ﬁndings. First, during the early postoperative period, the anal
+sphincter is usually tight due to factors such as pain, tension, or
+inﬂammation, which may lead to increased pressure in the rectal
+lumen as stool or gas passes through the anastomosis, thus
+interfering with anastomosis healing (4). Kwada et al. reported
+that the daily fecal volume increased until POD 3 or 4 and
+B
+C
+D
+E
+F
+A
+FIGURE 5
+Meta-analysis results for TDT indwelling time less than 5 days subgroup.(A): anastomotic leak.(B): grade A+B anastomotic leak.(C): grade C
+anastomotic leak.(D): Reoperation.(E): anastomotic leak with diverting stoma.(F): reoperation with diverting stoma.
+Xu et al. 10.3389/fonc.2023.1307716
+Frontiers inOncology frontiersin.org12
+
+[W4391141481 PDF PAGE 13]
+signiﬁcantly decreased on POD 5 ( 14), which means that the
+pressure in the rectal lumen increases until POD 5, leading to an
+increased risk of AL. Second, the strength of the anastomosis is
+mainly dependent on the collagen ﬁbrils within the submucosal
+layer. During theﬁrst few days after rectal surgery, collagen at the
+anastomosis degrades, and the strength of the anastomosis depends
+on the suture- or staple-holding capacity of the existing collagen. AL
+is more likely to occur at this stage until a large amount of collagen
+can be resynthesized within one or two postoperative days. AL
+occurs when the radial force at the anastomosis exceeds the
+resistance generated by sutures, staples, and early scars. Bursting
+pressure approaches 100% on POD 7, after which the intestine
+generally bursts outside the anastomotic site (20). In colon, the
+strength at the anastomosis site has been reported to reach only 30%
+of the initial strength after 48 h of surgery (32) and reach 50% after
+one week (20). Theseﬁndings suggest that premature TDT removal
+may be d

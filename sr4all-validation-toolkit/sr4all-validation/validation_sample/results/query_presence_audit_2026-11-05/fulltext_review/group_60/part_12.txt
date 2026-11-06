@@ -1,0 +1,183 @@
+ review 
+it is crucial to consider differences in particle size fractions, 
+pollutant sources, and exposure doses. These factors can sig-
+nificantly influence the cellular response and may confound 
+the interpretation of apparent toxicity gradients observed 
+in summary tables. Therefore, such comparisons should be 
+contextualized within the specific exposure conditions of 
+each study, which may limit the interpretation of some of 
+the findings discussed.
+The review focused on studies using immortalized cell 
+lines to elucidate the mechanism underpinning the health 
+effects associated with exposures to air pollutants. As dis-
+cussed in a previous review by Lakhdar et al. , immortal-
+ized cell lines are easily accessible and can be used at high 
+passages, but do not show normal differentiation into the 
+various cell populations that comprise the airway epithelium 
+in vivo [48]. This could make them suboptimal for the evalu-
+ation of the mechanistic effects of air pollution compared to 
+primary epithelial cell cultures. Nonetheless, the results of 
+the review shows consistent results as regards eliciting oxi-
+dative, inflammatory, and genotoxic responses despite exam-
+ining different endpoints, air pollutants and cellular models.
+As highlighted by Persoz et al. , suboptimal exposure 
+conditions compromising the number of viable cells may 
+lead to underestimation of the actual impact of the test 
+substance when compared to controls and misinterpre-
+tation of some biological outcomes [63]. Additionally, 
+biological functions and processes are often character -
+ized under diseased stages or situations of stress, which 
+might be an important limitation for testing the effects of 
+low-dose exposures [65]. Thus, optimization and verifica-
+tion of cell culture characteristics should be key factors to 
+avoid overestimating the single effects of pollutants [57]. 
+Despite this, Kunzi et al.  argue that most in vitro studies 
+are greatly over-dosed compared to the levels of realistic 
+inhalation exposure and significantly deviate from realis-
+tic modes of particle application and target tissue [196]. 
+In fact, realistic internal deposition requires atmospheri-
+cally relevant mass, number concentration and composi-
+tion of atmospheric particles and, critically, incorporation 
+of atmospheric ageing [77].
+Some of the studies included in this review use primary 
+cells for in vitro exposure assessments, which are regarded 
+as the most physiologically relevant cell models due to their 
+closest resemblance to the native tissue. However, the isola-
+tion procedure and culturing of these cells are complex, and 
+their use for large scale experiments such as toxicant screen-
+ing is limited by their heterogeneity, high inter-donor vari-
+ability and limited life span [71]. The use of very few cell 
+lines and a small sample size in ALI systems often results 
+
+[W4412727192 PDF PAGE 34]
+ Current Environmental Health Reports           (2025) 12:26 
+   26  Page 34 of 40
+in interpersonal variability, which might be a limitation as 
+well. Co-cultures are probably the most suitable cell models, 
+as they allow for the analysis of more endpoints at the same 
+time compared to monocultures [102, 197].
+One possible limitation of this review is the difficulty in 
+comparing the results of the identified studies due to the het-
+erogeneity in study designs and the wide range of variables 
+considered, such as exposure conditions, cell cultures used 
+and outcomes assessed. On the other hand, this review pro-
+vides an overview of the consistency of the effects observed 
+despite the heterogeneity in the study designs. Consistency 
+across settings and study designs is one of the features for 
+causality highlighted by Bradford Hill [198]. Thus, the con-
+sistency of findings across such diverse studies strengthens 
+the evidence on possible biological mechanisms underlying 
+the health effects derived from air pollution.
+On the other hand, evidence integrated in this literature 
+review was evaluated based on the OHAT approach and 
+adapted for in vitro air–liquid interface exposures. Only 
+few studies had high or definitely high risk of bias (RoB) 
+due to the lack of statistical analyses reported [62, 97], or 
+the use of suboptimal statistical approaches [75]. However, 
+one strength of most studies in this literature review is that 
+all the evaluated criteria from the evidence reported had low 
+or definitely low RoB. Additionally, these studies are based 
+mainly on 3D cellular models, also known as organs-on-a-
+chip [199], thus making important contributions to minimize 
+the use of animal models in toxicology.
+This systematic literature review only includes articles in 
+English published until March 11, 2024. Thus, any relevant 
+scientific article published after this date or in a different 
+language has not been included in this review. Moreover, it 
+includes few studies focused on the assessment of exposure 
+to ambient air, and the synergistic effect between particles 
+and gases has not been thoroughly investigated.
+One particular strength of this work is that, to the best 
+of our knowledge, it is one of the first systematic reviews 
+assessing the effects of gases, aerosols, and combinations 
+of both types of environmental pollutants on human health 
+using airway epithelial cells cultured on air–liquid interface 
+systems.
+Conclusions and Future Perspectives
+Taken together, nearly all studies included in this review 
+indicate significant toxicological responses from air 
+pollutants on human airway epithelial cells cultured at 
+the air–liquid interface, which are particularly enhanced 
+in diseased cells. Upon inhalation, the oxidative potential 
+of gases, aerosols and particulate matter creates a redox 
+imbalance that increases the production of reactive oxygen 
+species (ROS). In response, the Nrf2 pathway is activated 
+as a compensatory mechanism, increasing the production 
+of antioxidant species to neutralize ROS. However, this 
+is eventually overcome by the oxidative aggression of air 
+pollutants creating a state of oxidative stress. At this stage, 
+the release of pro-inflammatory markers is increased by 
+the activation of immune cells and transcription factors 
+such as NF-κB and AP-1. In parallel, oxidative damage to 
+cellular macromolecules through processes such as lipid 
+peroxidation and DNA strand breaks can trigger genotoxic 
+effects, epigenetic changes, and inflammation. These events 
+may ultimately lead to cytotoxicity and cell death, primarily 
+via caspase activation.
+Most of the existing literature has focused on the 
+individual effects of gases or particulate matter, whereas 
+few studies have assessed the synergistic effects of both 
+types of airborne pollutants through repeated daily 
+exposure. However, considering that, real-life inhalation 
+involves simultaneous exposure to gases and particles, 
+future research should prioritize experimental designs 
+that reflect better these complex exposure scenarios. 
+Additionally, it would be important to consider factors 
+influencing cellular sensitivity, such as culture duration 
+prior to exposure, epithelial-macrophage interactions, 
+and interindividual variability between cell donors. More 
+specifically, it could be useful to elucidate the potential 
+role of lipid biochemical pathways as part of the cell’s 
+response to formaldehyde, as well as the ability of diesel 
+particle filters in combination with diesel oxidation 
+catalysts to reduce oxidative and inflammatory responses 
+induced by DEP.
+Further development of ALI co-culture models is also 
+needed to better mimic the structural and functional com-
+plexity of the airway epithelium [ 200, 201]. This includes 
+the use of dynamic exposure systems capable of simulating 
+prolonged and repeated exposures, as well as accounting 
+for photochemical ageing of aerosols and particle deposi-
+tion patterns. Such improvements would help bridge the 
+gap between in vivo and in vitro approaches. However, as 
+previously discussed by Lakhdar et al.  [48], it is important 
+to acknowledge that these cellular models cannot fully rep-
+licate critical features of living tissue, such as the presence 
+of a functional immune system and organ-level interactions. 
+These features are essential for accurately assessing com-
+plex biological responses that are seen in vivo after inhala-
+tion of gases and particles, hence representing an intrinsic 
+restriction of ALI systems, common to submerged in vitro 
+experiments.
+The current review complements the insights offered by 
+Lakhdar et al., focused on senescence, mitochondrial dam-
+age, and autophagy, which were not extensively discussed 
+in the present work. Instead, this review focuses on oxida-
+tive stress as a central mechanism underlying pollutant-
+induced toxicity, which is discussed through the concept of 
+
+[W4412727192 PDF PAGE 35]
+Current Environmental Health Reports           (2025) 12:26  
+ Page 35 of 40    26 
+three-tiered oxidative stress and the importance of oxidant-
+antioxidant balance.
+In conclusion, this review contributes to the existing body 
+of evidence regarding the molecular and biochemical mecha-
+nisms through which air pollution impacts human health, 
+with particular emphasis on oxidative stress.
+Key References
+• Kampa, M. and E. Castanas, Human health effects of air 
+pollution. Environ Pollut, 2008. 151(2): p. 362–7.
+  ⚬ A brief review of the effects of air pollutants 
+on different organs and systems, as well as the cellular 
+mechanisms involved in their adverse effects.
+• Yang, Y., et al., Short-term and long-term exposures to 
+fine particulate matter constituents and health: A system-
+atic review and meta-analysis. Environ Pollut, 2019. 247: 
+p. 874–882.
+  ⚬ This paper effectively reviews both short- and 
+long-term health impact of toxic components from 
+ PM2.5, finding significant associations with all natural, 
+cardiovascular mortality and morbidity.
+• Chiusolo, M., et al., Short-Term Effects of Nitrogen 
+Di

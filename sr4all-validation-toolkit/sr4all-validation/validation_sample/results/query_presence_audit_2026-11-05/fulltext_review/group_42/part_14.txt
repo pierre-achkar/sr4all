@@ -1,0 +1,170 @@
+the
+imbalance between the supply and demand of its transfusion
+needs in some special periods and situation. Therefore, it is
+worthwhile to identify and reduce the side effects that lead to
+drug withdrawal, as it can improve tolerance while maintaining
+efﬁciency. Desidustat was deve loped in Asian populations.
+There was no signi ﬁcant difference between desidustat and
+ESAs in the incidence of discontinuation, and desidustat
+ranked the highest in Hb reaction and risk of drug
+Frontiers inPharmacology frontiersin.org09
+Huang et al. 10.3389/fphar.2023.1050412
+
+[W4384154607 PDF PAGE 10]
+discontinuation among HIF-PHIs, showing better ef ﬁcacy and
+tolerance. In addition, vadadustat ranked highest in safety and
+was less effective at causing than DPO. Roxadustat, desidustat
+and vadadustat may be a potential option based on their
+effectiveness and acceptability, especially in cases where
+patients have a personal preference for oral therapy.
+Regarding the iron parameters, with the selected dose-
+adjusted mode, included HIF-PHIs were showed superior to
+ESAs in reducing hepcidin and ferritin levels and improving
+TIBC and serum iron levels. In addition, the synergistic effect of
+HIF-PHIs on erythropoietin release and iron/cholesterol
+metabolism may potentially reduce the need for iron
+supplementation and lipid-lowering drugs. Therefore,
+limiting the use of these prescriptions may decrease the
+occurrence of drug-related side effects, such as frequent
+gastrointestinal discomfort or even rhabdomyolysis.
+4.4 Limitations
+Based on direct and indirect evidence, our study provides a
+preliminary comprehensive ranking of the investigated drugs in
+terms of their effects on reaching Hb target levels and RBC
+transfusion, as well as their acceptability based on reported
+discontinuation; theseﬁndings provide a basis for future clinical
+research. However, our study has some limitations. First, since
+various HIF-PHI types are currently in phase II or III clinical
+trials, this study lacked direct head-to-head comparisons between
+different HIF-PHIs. More indirect comparisons between different
+agents resulted in reduced accuracy of the results. Second, the
+number of HIF-PHI RCTs differed for each drug. Thus, the
+results still need to be further veriﬁed by more studies
+(ClinicalTrials.gov numbers, NCT03400033, NCT03457701,
+NCT04134026, NCT04899661, etc.). Third, the evidence is
+limited on the effect of these treatments on changes in VEGF,
+CRP, lipid metabolism levels and changes in iron requirements in
+dialysis patients, and studying these parameters allows for a more
+comprehensive analysis of HIF-PHI characteristics. The efﬁcacy and
+acceptability indicators of these drugs should be summarized and
+analysed in more studies.
+5 Conclusion
+This network meta-analysis compared all currently available
+HIF-PHIs for treating anemia in CKD patients undergoing
+dialysis. HIF-PHIs and ESAs have their own characteristics
+and advantages. ESAs have better performance than HIF-
+PHIs in terms of acceptability. With the selected dose-
+adjusted mode, some HIF-PHIs appeared to be a potential
+treatment for DD-CKD patients when compared with rhEPO,
+due to its effectiveness in decreasing the risk of RBC transfusion
+rate or regulating iron or lipid metabolism while achieving
+target Hb levels (Table 2).
+Data availability statement
+The original contributions presented in the study are included in
+the article/Supplementary Material, further inquiries can be directed
+to the corresponding author.
+Author contributions
+QH, MY, MH, and XD conceived and designed the study. QH,
+WH, and JC selected the articles and extracted the data. JW, QZ
+and LJ analysed the data. QH wrote theﬁrst draft of the
+manuscript. JW, MH, XL and XD interpreted the data and
+contributed to the writing of theﬁnal version of the
+manuscript. All authors contributed to the article and approved
+the submitted version.
+TABLE 2 Network estimates of treatment comparisons for Hb response and discontinuation. Theﬁgure provides a summary of the estimates of odds ratios and
+95% conﬁdence intervals. For Hb response, the odds ratio is for the row treatment compared to the column treatment. For discontinuation, the odds ratio is for the
+column treatment versus the row treatment.
+Roxadustat 0.77
+(0.53,1.14)
+1.08
+(0.67,1.75)
+0.81
+(0.24,2.77)
+1.06
+(0.43,2.60)
+0.67
+(0.34,1.33)
+0.63
+(0.48,0.82)
+0.60
+(0.42,0.86)
+0.36
+(0.22,0.59)
+0.89 (0.43,1.85) Daprodustat 1.39 (0.86,2.25) 1.05 (0.31,3.58) 1.37 (0.56,3.35) 0.87 (0.43,1.76) 0.82 (0.60,1.12) 0.78 (0.55,1.10) 0.47 (0.28,0 .79)
+1.54 (0.72,3.29) 1.72 (0.73,4.09) Vadadustat 0.75 (0.22,2.55) 0.98 (0.40,2.39) 0.62 (0.29,1.35) 0.59 (0.37,0.92) 0.56 (0.40,0.77) 0.34 (0.18,0. 62)
+2.37 (0.64,8.78) 2.66 (0.67,10.48) 1.54 (0.42,5.60) Enarodustat 1.31 (0.31,5.49) 0.83 (0.21,3.25) 0.78 (0.23,2.62) 0.74 (0.23,2.40) 0.45 (0.12, 1.61)
+2.39 (0.68,8.43) 2.68 (0.71,10.08) 1.56 (0.45,5.37) 1.01 (0.20,5.17) Molidustat 0.63 (0.22,1.87) 0.60 (0.25,1.43) 0.57 (0.25,1.30) 0.34 (0.13,0 .90)
+0.73 (0.25,2.10) 0.81 (0.26,2.54) 0.47 (0.17,1.33) 0.31 (0.07,1.35) 0.30 (0.07,1.28) Desidustat 0.94 (0.50,1.77) 0.89 (0.45,1.80) 0.54 (0.25,1. 15)
+1.02 (0.69,1.53) 1.15 (0.61,2.14) 0.67 (0.33,1.34) 0.43 (0.12,1.54) 0.43 (0.13,1.45) 1.41 (0.51,3.90) rhEPO 0.95 (0.71,1.28) 0.57 (0.38,0.87)
+1.13 (0.64,1.97) 1.26 (0.63,2.53) 0.73 (0.44,1.22) 0.47 (0.15,1.55) 0.47 (0.15,1.45) 1.55 (0.63,3.82) 1.10 (0.69,1.76) DPO 0.60 (0.36,1.00)
+0.83 (0.41,1.66) 0.93 (0.41,2.12) 0.54 (0.24,1.21) 0.35 (0.09,1.33) 0.35 (0.10,1.26) 1.14 (0.38,3.43) 0.81 (0.45,1.47) 0.74 (0.39,1.38) MPG-EPO
+Frontiers inPharmacology frontiersin.org10
+Huang et al. 10.3389/fphar.2023.1050412
+
+[W4384154607 PDF PAGE 11]
+Funding
+This study was funded by Na tional Natural Science
+Foundation of China (82004161) and the Foundation of
+Science, Technology and Innovation Commission of
+Shenzhen Municipality (JCYJ20180302153701406,
+KCXFZ20201221173612034).
+Conﬂict of interest
+The authors declare that the research was conducted in the
+absence of any commercial orﬁnancial relationships that could be
+construed as a potential conﬂict of interest.
+Publisher’s note
+All claims expressed in this article are solely those of the authors and
+do not necessarily represent those of their afﬁliated organizations, or
+those of the publisher, the editors and the reviewers. Any product that
+may be evaluated in this article, or claim that may be made by its
+manufacturer, is not guaranteed or endorsed by the publisher.
+Supplementary material
+The supplementary material for this article can be found online at:
+https://www.frontiersin.org/ar ticles/10.3389/fphar.2023.1050412/
+full#supplementary-material
+References
+Akizawa, T., Macdougall, I. C., Berns, J. S., Bernhardt, T., Staedtler, G., Taguchi, M.,
+et al. (2019). Long-term efﬁcacy and safety of molidustat for anemia in chronic kidney
+disease: DIALOGUE extension studies. Am. J. Nephrol. 49, 271– 280. doi:10.1159/
+000499111
+Agarwal, A. K. (2021). Iron metabolism and management: Focus on chronic kidney
+disease. Kidney Int. Suppl.11, 46– 58. doi:10.1016/j.kisu.2020.12.003
+Akizawa, T., Iwasaki, M., Yamaguchi, Y., Majikawa, Y., and Reusch, M. (2020). Phase
+3, randomized, double-blind, active-comparator (darbepoetin alfa) study of oral
+roxadustat in CKD patients with anemia on hemodialysis in Japan. J. Am. Soc.
+Nephrol. 31, 1628– 1639. doi:10.1681/ASN.2019060623
+Akizawa, T., Nangaku, M., Yamaguchi, T., Koretomo, R., Maeda, K., Miyazawa, Y.,
+et al. (2021). A phase 3 study of enarodustat (JTZ-951) in Japanese hemodialysis
+patients for treatment of anemia in chronic kidney disease: SYMPHONY HD study.
+Kidney Dis. 7, 494– 502. doi:10.1159/000517053
+Akizawa, T., Nangaku, M., Yonekawa, T., Okuda, N., Kawamatsu, S., Onoue, T., et al.
+(2020). Efﬁcacy and safety of daprodustat compared with darbepoetin alfa in Japanese
+hemodialysis patients with anemia: A randomized, double-blind, phase 3 trial.Clin.
+J. Am. Soc. Nephrol.15, 1155– 1165. doi:10.2215/CJN.16011219
+Akizawa, T., Okumura, H., Alexandre, A. F., Fukushima, A., Kiyabu, G., and Dorey, J.
+(2018). Burden of anemia in chronic kidney disease patients in Japan: A literature
+review. Ther. Apher. Dialysis22, 444– 456. doi:10.1111/1744-9987.12712
+Akizawa, T., Tsubakihara, Y., Nangaku, M., Endo, Y., Nakajima, H., Kohno, T., et al.
+(2017). Effects of daprodustat, a novel hypoxia-inducible factor prolyl hydroxylase
+inhibitor on anemia management in Japanese hemodialysis subjects.Am. J. Nephrol.45,
+127– 135. doi:10.1159/000454818
+Akizawa, T., Yamada, T., Nobori, K., Matsuda, Y., Hayashi, Y., Hayasaki, T., et al.
+(2021). Molidustat for Japanese patients with renal anemia receiving dialysis.Kidney
+Int. Rep. 6, 2604– 2616. doi:10.1016/j.ekir.2021.07.015
+Bailey, C. K., Caltabiano, S., Cobitz, A. R., Huang, C., Mahar, K. M., and Patel, V. V.
+(2019). A randomized, 29-day, dose-ranging, efﬁcacy and safety study of daprodustat,
+administered three times weekly in patients with anemia on hemodialysis. BMC
+Nephrol. 20, 372– 412. doi:10.1186/s12882-019-1547-z
+Bernieh, B., Abouchacra, S., Boobes, Y., Al Hakim, M. R., Nagelkerke, N., Chaaban,
+A., et al. (2014). Comparison between short-and long-acting erythropoiesis-stimulating
+agents in hemodialysis patients: Target hemoglobin, variability, and outcome. Int.
+urology Nephrol. 46, 453– 459. doi:10.1007/s11255-013-0640-7
+Bradbury, B. D., Critchlow, C. W., Weir, M. R., Stewart, R., Krishnan, M., and Hakim,
+R. H. (2009). Impact of elevated C-reactive protein levels on erythropoiesis-stimulating
+agent (ESA) dose and responsiveness in hemodialysis patients. Nephrol. Dial.
+Transplant. 24, 919– 925. doi:10.1093/ndt/gfn543
+Brigandi, R. A., Johnson, B., Oei, C., Westerman, M., Olbina, G., De Zoysa, J., et al.
+(2016). A novel hypoxia-inducible factor− prolyl hydroxylase inhibitor (GSK1278863)
+for anemia in CKD: A 28-day, phase 2A randomized trial.Am. J. Kidney Dis. 67,
+861– 871. doi:10.1053/j.ajkd.2015.11.021
+Brignardello-Petersen, R., Izcovich, A., Rochwerg, B., Florez, I. D., Hazlewood,

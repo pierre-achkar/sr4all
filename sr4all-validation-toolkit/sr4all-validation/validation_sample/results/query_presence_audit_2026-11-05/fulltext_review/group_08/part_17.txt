@@ -1,0 +1,156 @@
+ Powelson SE, Wong H, Ghali WA, Conly JM. An assessment of the
+efficacy of searching in biomedical databases beyond MEDLINE in
+identifying studies for a systematic review on ward closures as an infection
+control intervention to control outbreaks. Syst Rev. 2014;3:135.
+9. Lefebvre C, Manheimer E, Glanville J: Chapter 6: searching for studies. In:
+Cochrane handbook for systematic reviews of interventions. Edited by
+Higgins JPT, Green S (editors); 2011. Available from www.handbook.
+cochrane.org. Accessed July 2016
+10. Centre for Reviews and Dissemination (CRD): Systematic reviews — CRD’s
+guidance for undertaking reviews in health care: Centre for Reviews and
+Dissemination, University of York; 2009.
+11. Hammerstrøm K, Wade Am Jørgensen A. Searching for studies: a guide to
+information retrieval for Campbell Systematic Reviews. Campbell Systematic
+Reviews. 2010;(Supplement 1)
+12. NICE: Guide to the methods of technology appraisal. 2013.
+13. Higgins JPT, Deeks JJ (eds.): Chapter 7: Selecting studies and collecting data.
+in: Higgins JPT, Green S (editors), Cochrane Handbook for Systematic
+Reviews of Interventions Version 5.1.0 (updated March 2011). The Cochrane
+Collaboration, 2011. Available from www.handbook.cochrane.org. Accessed
+July 2016.
+14. Gibson CA, Bailey BW, Carper MJ, LeCheminant JD, Kirk EP, Huang G,
+DuBose KD, Donnelly JE. Author contacts for retrieval of data for a meta-
+analysis on exercise and diet restriction. Int J Technol Assess Health Care.
+2006;22(2):267–70.
+15. O ’Leary F. Is email a reliable means of contacting authors of previously
+published papers? A study of the Emergency Medicine Journal for 2001.
+Emerg Med J. 2003;20(4):352 –3.
+16. Selph SS, Ginsburg AD, Chou R. Impact of contacting study authors to
+obtain additional data for systematic reviews: diagnostic accuracy studies
+for hepatic fibrosis. Systematic Reviews. 2014;3(1):107.
+17. Hetherington J, Dickersin K, Chalmers I, Meinert CL. Retrospective and
+prospective identification of unpublished controlled trials: lessons from a
+survey of obstetricians and pediatricians. Pediatrics. 1989;84(2):374 –80.
+18. Reveiz L, Cardona AF, Ospina EG, de Agular S. An e-mail survey identified
+unpublished studies for systematic reviews. J Clin Epidemiol. 2006;59(7):755 –8.
+19. Bakkalbasi N, Bauer K, Glover J, Wang L. Three options for citation tracking:
+Google Scholar, Scopus and Web of Science. Biomedical Digital Libraries.
+2006;3:7–7.
+Cooper et al. Systematic Reviews  (2017) 6:234 Page 15 of 16
+
+[W2768314176 PDF PAGE 16]
+20. Janssens AC, Gwinn M. Novel citation-based search method for scientific
+literature: application to meta-analyses. BMC Med Res Methodol. 2015;15:84.
+21. Robinson KA, Dunn AG, Tsafnat G, Glasziou P. Citation networks of related
+trials are often disconnected: implications for bidirectional citation searches.
+J Clin Epidemiol. 2014;67(7):793 –9.
+22. Wright K, Golder S, Rodriguez-Lopez R. Citation searching: a systematic
+review case study of multiple risk behaviour interventions. BMC Med Res
+Methodol. 2014;14(1):73.
+23. Falagas ME, Pitsouni EI, Malietzis GA, Pappas G. Comparison of PubMed,
+Scopus, Web of Science, and Google Scholar: strengths and weaknesses.
+FASEB journal: official publication of the Federation of American Societies
+for Experimental Biology. 2008;22(2):338 –42.
+24. Bramer WM, Giustini D, Kramer BMR, Anderson PF. The comparative recall of
+Google Scholar versus PubMed in identical searches for biomedical
+systematic reviews: a review of searches used in systematic reviews. Syst
+Rev. 2013;2:115.
+25. Adams CE, Power A, Frederick K, Lefebvre C. An investigation of the
+adequacy of MEDLINE searches for randomized controlled trials (RCTs) of
+the effects of mental health care. Psychol Med. 1994;24(3):741 –8.
+26. Hay PJ, Adams CE, Lefebvre C. The efficiency of searches for randomized
+controlled trials in the International Journal of Eating Disorders: a
+comparison of handsearching. EMBASE and PsycLIT Health Libraries Review.
+1996;13(2):91–6.
+27. Hopewell S, Clarke M, Lusher A, Lefebvre C, Westby M. A comparison of
+handsearching versus MEDLINE searching to identify reports of randomized
+controlled trials. Stat Med. 2002;21(11):1625 –34.
+28. Jadad AR, McQuay HJ. A high-yield strategy to identify randomized
+controlled trials for systematic reviews. Online J Curr Clin Trials. 1993;Doc
+No 33.
+29. Moher D. The OCG: how good are volunteers at searching for published
+randomized controlled trials? Fundam Clin Pharmacol. 1995;9(4):384 –6.
+30. Langham J, Thompson E, Rowan K. Identification of randomized controlled
+trials from the emergency medicine literature: comparison of hand
+searching versus MEDLINE searching. Ann Emerg Med. 1999;34(1):25 –34.
+31. Armstrong R, Jackson N, Doyle J, Waters E, Howes F. It ’s in your hands: the
+value of handsearching in conducting systematic reviews of public health
+interventions. J Public Health. 2005;27(4):388 –91.
+32. Blumle A, Antes G. Handsearching for randomized controlled clinical trials in
+German medical journals. Dtsch Med Wochenschr (1946). 2008;133(6):230 –4.
+33. Croft AM, Vassallo DJ, Rowe M. Handsearching the Journal of the Royal
+Army Medical Corps for trials. J R Army Med Corps. 1999;145(2):86 –8.
+34. Glanville J, Cikalo M, Crawford F, Dozier M, McIntosh H. Handsearching did
+not yield additional unique FDG-PET diagnostic test accuracy studies
+compared with electronic searches: a preliminary investigation. Research
+Synthesis Methods. 2012;3(3):202 –13.
+35. Mattioli S, Farioli A, Cooke RMT, Baldasseroni A, Ruotsalainen J, Placidi D,
+Curti S, Mancini G, Fierro M, Campo G, et al. Hidden effectiveness? Results
+of hand-searching Italian language journals for occupational health
+interventions. Occup Environ Med. 2012;69(7):522 –4.
+36. Milne R, Thorogood M. Hand searching the Journal of Epidemiology and
+Community Health as part of th Cochrane Collaboration. J Epidemiol
+Community Health. 1996;50(2):178 –81.
+37. Lefebvre C, Glanville J, Wieland LS, Coles B, Weightman AL. Methodological
+developments in searching for studies for systematic reviews: past, present
+and future? Syst Rev. 2013;2:78.
+38. Glanville JM, Duffy S, McCool R, Varley D. Searching ClinicalTrials.gov and
+the International Clinical Trials Registry Platform to inform systematic
+reviews: what are the optimal search approaches? J Med Libr Assoc. 2014;
+102(3):177–83.
+39. van Enst WA, Scholten RJ, Hooft L. Identification of additional trials in
+prospective trial registers for Cochrane systematic reviews. PLoS One. 2012;
+7(8):e42812.
+40. Jones CW, Keil LG, Weaver MA, Platts-Mills TF: Clinical trials registries are
+under-utilized in the conduct of systematic reviews: a cross-sectional
+analysis. Systematic Reviews 2014, 3 (1) (126).
+41. Briscoe S. Web searching for systematic reviews: a case study of reporting
+standards in the UK Health Technology Assessment programme. BMC Res
+Notes. 2015;8:153.
+42. Stansfield C, Dickson K, Bangpan M. Exploring issues in the conduct of
+website searching and other online sources for systematic reviews: how can
+we be systematic? Systematic Reviews. 2016;5(1):191.
+43. Godin K, Stapleton J, Kirkpatrick SI, Hanning RM, Leatherdale ST. Applying
+systematic review search methods to the grey literature: a case study
+examining guidelines for school-based breakfast programs in Canada.
+Systematic Reviews. 2015;4(1):138.
+44. Mahood Q, Van Eerd D, Irvin E. Searching for grey literature for systematic
+reviews: challenges and benefits. Research Synthesis Methods. 2014;5(3):221–34.
+45. Eysenbach G, Tuische J, Diepgen TL. Evaluation of the usefulness of Internet
+searches to identify unpublished clinical trials for systematic reviews. Med
+Inform Internet Med. 2001;26(3):203 –18.
+46. McGrath J, Davies G, Soares K. Writing to authors of systematic reviews
+elicited further data in 17% of cases. BMJ. 1998;316(7131):631.
+47. Mullan RJ, Flynn DN, Carlberg B, Tleyjeh IM, Kamath CC, LaBella ML, Erwin
+PJ, Guyatt GH, Montori VM. Systematic reviewers commonly contact study
+authors but do so with limited rigor. J Clin Epidemiol. 2009;62(2):138 –42.
+48. Ogilvie D, Egan M, Hamilton V, Petticrew M. Systematic reviews of health
+effects of social interventions: 2. Best available evidence: how low should
+you go? J Epidemiol Community Health. 2005;59(10):886 –92.
+49. Sterne JAC, Egger M, Moher D (editors). Chapter 10: Addressing reporting
+biases. In: Higgins JPT, Green S (editors). Cochrane Handbook for Systematic
+Reviews of Intervention. Version 5.1.0 (updated March 2011). The Cochrane
+Collaboration, 2011. Available from www.handbook.cochrane.org. Accessed
+July 2016.
+50. Kostoff RN. The use and misuse of citation analysis in research evaluation.
+Scientometrics. 1998;43(1):27 –43.
+51. Seglen PO. Use of citation analysis and other bibliometric methods in
+evaluation of the quality of research. Tidsskr Nor Laegefore. 1989;109(31):
+3229–4.
+52. JCF d W, Zadpoor AA, Dodou D. The expansion of Google Scholar versus
+Web of Science: a longitudinal study. Scientometrics. 2014;98(2):1547 –65.
+53. Kuper H, Nicholson A, Hemingway H. Searching for observational studies:
+what does citation tracking add to PubMed? A case study in depression
+and coronary heart disease. BMC Med Res Methodol. 2006;6:4 –4.
+54. Kloda LA. Use Google Scholar, Scopus and Web of Science for
+comprehensive citation tracking. Evid Based Libr Inf Pract. 2007;2(3):4.
+55. Choong MK, Tsafnat G. Role of citation tracking in updating of systematic
+reviews. AMIA Summits Transl Sci Proc. 2014;2014:18.
+56. Lowe J, Peters J, Shields B. Methods to update systematic literature
+searches: full update searching vs. forward citation chasing: A case study
+from a systematic review of diagnostic test accuracy. Poster presented at
+InterTASC ISSG: 2014; Exeter.
+57. PubMed Commons (Elke Hausner) [https://www.ncbi.nlm.nih.gov/pubmed/
+22916163 - comments]. Accessed July 2016.
+58. De Angelis C, Drazen JM, Frizelle FAP, Haug C, Hoey J, Horton R, Kotzin S,
+Laine C, Marusic A, Overbeke AJPM, et al. Clinical trial registration:

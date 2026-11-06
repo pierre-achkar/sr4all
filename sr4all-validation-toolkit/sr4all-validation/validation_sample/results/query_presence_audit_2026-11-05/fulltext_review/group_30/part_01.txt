@@ -1,0 +1,171 @@
+cluded studies. Aﬁxed effects model
+was used if heterogeneity is not signiﬁcant (P≥ 0.1 or I2 ≤ 50%),
+otherwise, a random effects model was applied (P < 0.1 or I2 >
+50%). We considered the effect to be statistically signiﬁcant when
+the P value was less than 0.05.
+A subgroup analysis was conducted. On the one hand, both
+prospective randomized controlled trials and retrospective case-
+control studies were included in the meta-analysis, and on the
+other hand, some included studies had signiﬁcantly different
+follow-up times. In order to analyze the effects of the above
+factors, we excluded those retrospective studies and studies with
+large differences in follow-up time to analyze the outcomes again,
+and saw if there were differences.
+RESULTS
+Selection and Characteristics of Studies
+After systematic search of 7 databases and manual search, a total
+of 2640 papers were yielded. Three hundred and twenty-one
+duplicates were removed, 2150 papers were removed by title and
+abstract, 156 papers were removed after reading the full text, and
+ﬁnally 13 eligible papers were included (Figure 1). About 5000
+participants were included in the meta-analysis and systematic
+review, all of whom were over 60 years of age. Individuals in the
+Stuber’s study (15) were all from the Stott’s study and had no
+new ﬁndings, so Stuber’s study were excluded. Individuals in the
+Gencer’s( 18), Wildisen’s( 16) and Gonzalez Rodriguez’s( 12)
+studies, although also all from the Stott’s study, were continued
+to be included because these three articles analyzed different
+results. Individuals in the Mooijaart ’ss t u d y(14)w e r eo n l y
+partially from the Stott’s study and another part from the Du
+Puy’s study (27), which was not an exact duplicate of the Stott’s
+study, so it was continued to be included in this mata-analysis. A
+total of 4 Chinese literatures (28– 31) were included, of which 3
+(28, 30, 31) were from Chinese core journals and the other (29)
+was a master’s dissertation, which was also included due to its
+low risk of bias. Except for English and Chinese literature,
+literature published in other languages (including German,
+Spanish, French, Korean and Japanese) in the above databases
+did not meet the inclusion criteria. In addition, no studies in the
+database of Cochrane library that met the inclusion criteria had
+unpublished data. The characteristics of the included studies
+were summarized inSupplementary Table S1.
+Qualitative Analysis
+These included studies came from different countries, including
+the Switzerland, Ireland, Netherlands, United Kingdom, China,
+and Israel. Follow-up times ranged from 6 months to over 60
+months, and most studies had a follow-up time of about one
+year. The main outcomes of eligible studies included bone
+density, tiredness, hypothyroid symptoms, quality of life, body
+mass index (BMI), cognitive function, depression, blood
+pressure, renal function, lipid proﬁle and cardiovascular events.
+The criteria for SCH varied slightly from study to study, and
+some studies did not limit the upper limit of TSH. The risk of
+Zhao et al. Effect of Levothyroxine on SCH
+Frontiers in Endocrinology | www.frontiersin.org July 2022 | Volume 13 | Article 9137493
+
+[W4285386065 PDF PAGE 4]
+bias for all included studies were detailed in Supplementary
+Table S2. The overall risk of bias was“Low” for most studies
+(12– 14, 16– 18, 29). Two studies (19, 25) were retrospective case-
+control studies, and two other studies (24, 31) did not use
+randomization schemes, so their risk of bias was“High”. The
+remaining two articles (28, 30) did not clearly describe the
+experimental protocol, so the risk of bias was“Unclear”. Due
+to the small number of included studies for different outcomes,
+no funnel plot was drawn to describe publication bias.
+Meta-Analysis Results
+Among the continuous variable results, there were not signiﬁcant
+differences regarding the effects of levothyroxine on bone mineral
+density (p = 0.99; MD = 0.00; 95% CI, -0.03 to 0.03; I2 = 0%) (12,
+28)( Figure 2A), fatigue (p = 0.97; MD = -0.05; 95% CI, -2.73 to
+2.63; I2 = 0%) (13, 14)( Figure 2B), hypothyroidism symptoms
+(p = 0.77; MD = 0.35; 95% CI, -2.00 to 2.70; I2 = 0%) (13, 14)
+(Figure 2C), quality of life (p = 0.95; MD = 0.06; 95% CI, -1.88 to
+2.00; I2 = 0%) (13, 14)( Figure 2D), BMI (p = 0.97; MD = -0.02;
+95% CI, -0.85 to 0.82; I2 = 82%) (13, 14, 19, 28, 30)( Figure 3A),
+cognitive function (p = 0.10; MD = 0.78; 95% CI, -0.14 to 1.71;
+I2 = 81%) (17, 29)( Figure 3B), depression (p = 0.12; SMD = 0.35;
+95% CI, -0.09 to 0.78; I2 = 71%) (16, 17)( Figure 3C), serum
+creatinine (p = 0.08; MD = -13.75; 95% CI, -28.94 to 1.43; I2 =
+80%) (24, 30)( Figure 3D), systolic blood pressure (p = 0.73;
+MD = -0.27; 95% CI, -1.81 to 1.27; I2 = 0%) (13, 14, 19, 30)
+(Figure 4A), diastolic blood pressure (p = 0.91; MD = -0.05; 95%
+CI, -0.90 to 0.80; I2 = 0%) (13, 14, 19, 30)( Figure 4B), fasting
+blood glucose (p = 0.59; MD = 0.05; 95% CI, -0.14 to 0.24; I2 =
+0%) (30, 31)( Figure 4C), high-density lipoprotein cholesterol
+(HDL-C) (p = 0.46; MD = -0.04; 95% CI, -0.16 to 0.07; I2 = 62%)
+(28, 30)( Figure 4D) and apolipoprotein A (ApoA) (p = 0.45;
+MD = -0.03; 95% CI, -0.11 to 0.05; I2 = 0%) (28, 31)( Figure 4E).
+In the above analyses, both fatigue and hypothyroid symptoms
+were assessed using the Thyroid-Related Quality-of-Life Patient-
+Reported Outcome scale (ThyPRO), quality of life was assessed
+using the EuroQoL visual analogue scale (EQ VAS), and
+cognitive function was assessed using the Mini-Mental State
+Examination scale (MMSE). However, in 2 different studies,
+the Hospital Anxiety and Depression Scale (HADS) and 15-
+item Geriatric Depression Scale (GDS-15) were used to assess
+depression, respectively.
+It was worth noting that, except for the above results,
+levothyroxine could have a signiﬁcant effect on the lipid proﬁle
+in older SCH patients, as shown below. Three articles (28, 30, 31)
+analyzed the effects of levothyroxine on cholesterol (TC) (p <
+0.00001; MD = -0.92; 95% CI, -1.19 to -0.66; I 2 = 25%)
+(Figure 5A) and triglyceride (TG) (p < 0.00001; MD = -0.34;
+A
+B
+C
+D
+FIGURE 2| Forest plots depicting the effect of levothyroxine on the bone mineral density, fatigue, hypothyroidism symptoms and quality of life in older patients. (A)
+Association between levothyroxine and bone mineral density.(B) Association between levothyroxine and fatigue.(C) Association between levothyroxine and
+hypothyroidism symptoms.(D) Association between levothyroxine and quality of life.
+Zhao et al. Effect of Levothyroxine on SCH
+Frontiers in Endocrinology | www.frontiersin.org July 2022 | Volume 13 | Article 9137494
+
+[W4285386065 PDF PAGE 5]
+95% CI, -0.49 to -0.19; I2 =0 % )(Figure 5B)a n ds h o w e d
+signiﬁcant differences in both. Levothyroxine also signiﬁcantly
+reduced low-density lipoprotein cholesterol (LDL-C) (p = 0.03;
+MD = -0.54; 95% CI, -1.03 to -0.06; I2 = 89%) (Figure 5C) and
+apolipoprotein B (ApoB) (p < 0.00001; MD = -0.24; 95% CI, -
+0.33 to -0.15; I2 = 51%) (Figure 5D) in older SCH patients
+compared to controls, according to the analysis of 3 (18, 28, 30)
+and 2 (28, 31) articles, respectively.
+Regarding adverse events that occurred during the study
+period, this meta-analysis did notﬁnd signiﬁcant differences in
+the levothyroxine treatment group compared with the control
+group regarding fatal or nonfatal cardiovascular event (p = 0.15;
+OR = 1.13; 95% CI, 0.96 to 1.34; I2 = 0%) (13, 14, 19, 25, 28)
+(Figure 6A), cardiovascular death (p = 0.22; OR = 0.80; 95% CI,
+0.56 to 1.14; I2 = 0%) (13, 14, 19)( Figure 6B), all-cause death
+(p = 0.07; OR = 0.84; 95% CI, 0.69 to 1.02; I2 = 45%) (13, 14, 19)
+(Figure 6C), atrialﬁbrillation (p = 0.53; OR = 1.08; 95% CI, 0.85
+to 1.36; I2 = 0%) (13, 14, 19, 25)( Figure 6D), heart failure (p =
+0.91; OR = 1.07; 95% CI, 0.31 to 3.66; I2 = 77%) (13, 14, 25)
+(Figure 6E), and number of patients with≥1 serious adverse
+event (including new atrialﬁbrillation, heart failure, fracture, and
+new diagnosis of osteoporosis) (p = 0.08; OR = 0.78; 95% CI, 0.58
+to 1.03; I2 = 32%) (13, 14)( Figure 6F) in older SCH patients.
+Subgroup and Sensitivity Analyses
+To reduce the effect of different study protocols and different
+follow-up times on the results, we reanalyzed the results after
+removing retrospective case-control studies and studies with
+differences in follow-up times greater than six months. If these
+inﬂuences were not present, no re-analysis is required. Results of
+the reanalysis included BMI (p = 0.45; MD = -0.31; 95% CI, -1.10
+to 0.48; I2 = 66%) (13, 14, 28, 30)( Supplementary Figure S1A),
+systolic blood pressure (p = 0.63; MD = -0.53; 95% CI, -2.68 to
+1.63; I2 = 0%) (13, 14, 30)( Supplementary Figure S1B), diastolic
+blood pressure (p = 0.24; MD = -0.81; 95% CI, -2.15 to 0.54; I2 =
+0%) (13, 14, 30)( Supplementary Figure S1C), fatal or nonfatal
+cardiovascular event (p = 0.33; OR = 0.78; 95% CI, 0.47 to 1.29;
+I2 =0 % )( 13 , 14 , 28 )( Supplementary Figure S2A ),
+cardiovascular death (p = 0.92; OR = 1.09; 95% CI, 0.19 to
+6.46; I2 = 0%) (13, 14)( Supplementary Figure S2B), all-cause
+death (p = 0.15; OR = 1.85; 95% CI, 0.80 to 4.27; I2 = 0%) (13, 14)
+(Supplementary Figure S2C), atrialﬁbrillation (p = 0.61; OR =
+A
+B
+C
+D
+FIGURE 3| Forest plots depicting the effect of levothyroxine on the BMI, cognitive function, depression and serum creatinine in older patients.(A) Association
+between levothyroxine and BMI.(B) Association between levothyroxine and cognitive function.(C) Association between levothyroxine and depression.(D)
+Association between levothyroxine and serum creatinine. BMI, Body Mass Index.
+Zhao et al. Effect of Levothyroxine on SCH
+Frontiers in Endocrinology | www.frontiersin.org July 2022 | Volume 13 | Article 9137495
+
+[W4285386065 PDF PAGE 6]
+0.84; 95% CI, 0.42 to 1.67; I2 = 0%) (13, 14)( Supplementary
+Figure S2D), and heart failure (p = 0.24; OR = 0.55; 95% CI, 0.20
+to 1.48; I2 = 0%) (13, 14)( Supplementary Figure S2E). These
+results did not change signiﬁcantly from the original results.
+DISCUSSI

@@ -1,0 +1,182 @@
+ GI (WMD = 0.28, 95% CI = 0.04–0.51, I 2 = 92.2%)
+was found. However, subjects with SS had no signiﬁcant
+diﬀerence in the clinical periodontal parameters scores PPD
+(WMD = 0.22, 95% CI = −0.19–0.63, I2 = 97.2%). Finally, the
+relationship between the SS and the clinical parameters scores
+CAL (WMD = 0.40, 95% CI = −0.00–0.81, I2 = 66.7%) and PI
+(WMD = 0.15, 95% CI = −0.00–0.30, I 2 = 71.9%) is not very
+clear (Figure 3).
+3.3. Sensitivity analysis
+Sensitivity analyses were performed by comparing the
+pooled sensitivity and speciﬁcity results when including and
+excluding studies with high risk of bias. There are no
+substantial changes in the meta-analysis results of the pooled
+ORs with corresponding 95% CIs (for the association between
+periodontal diseases and SS) and the pooled WMD s with
+corresponding 95% CIs (for the mean diﬀerence in the clinical
+periodontal parameter scores between subjects with SS and
+Frontiers in Medicine 09 frontiersin.org
+
+[W4313556772 PDF PAGE 10]
+fmed-09-904638 December 29, 2022 Time: 12:8 # 10
+Yang et al. 10.3389/fmed.2022.904638
+FIGURE 3
+Forest plot for SS and clinical periodontal parameters scores (A). Clinical periodontal parameters scores bleeding on probing (BOP) (B). Clinical
+periodontal parameters scores plaque index (PI) (C). Clinical periodontal parameters scores gingival index (GI) (D). Clinical periodontal
+parameters scores probing pocket depth (PPD) (E). Clinical periodontal parameters scores clinical attachment level (CAL). WMD, weighted mean
+difference; CI, conﬁdence interval.
+healthy controls), indicating that our meta-analysis is relatively
+stable (Figure 4).
+3.4. Publication bias
+Potential publication bias was analyzed using Begg’s test
+in at least 10 studies included in the analyses. No signiﬁcant
+publication bias was found in the WMD for clinical periodontal
+parameters scores PI ( p = 0.537), GI ( p = 0.721), and PPD
+(p = 0.086) between subjects with SS and healthy controls
+(Figure 5).
+3.5. Meta-regression
+Meta-regression was used to investigate potential sources
+of heterogeneity between the studies. We found that when the
+Frontiers in Medicine 10 frontiersin.org
+
+[W4313556772 PDF PAGE 11]
+fmed-09-904638 December 29, 2022 Time: 12:8 # 11
+Yang et al. 10.3389/fmed.2022.904638
+FIGURE 4
+Sensitivity analysis. The pooled ORs (WMDs) and 95% CIs were stable after the deletion of each study in the analysis of the association between
+SS and controls (A). The association between periodontal diseases and SS (B). Clinical periodontal parameters scores BOP (C). Clinical
+periodontal parameters scores PI (D). Clinical periodontal parameters scores GI (E). Clinical periodontal parameters scores PPD (F). Clinical
+periodontal parameters scores CAL. CI, conﬁdence interval.
+outcome variable was the percentage of periodontitis (p = 0.031),
+PI ( p = 0.050), and GI ( p < 0.001) age was one source
+of heterogeneity. When the outcome variable was PPD, the
+diagnostic criteria for SS was at least a source of heterogeneity
+(p = 0.025).
+3.6. Trial sequential analysis
+In meta-analyses, it is important to minimize the risk of false
+positive or false negative results. We therefore performed a TSA
+to control the risks for type I and type II errors and help to clarify
+whether additional trials are needed.
+The results showed that for dichotomous variables, the
+meta-analysis can be declared as conclusive with regard to
+the anticipated eﬀect leading to the required information size.
+That is, we can conclude that SS patients were more likely to
+be diagnosed with periodontal disease than healthy controls.
+Similarly, the continuous variable BOP also drew signiﬁcant
+conclusions with enough information size (45).
+For GI, although the meta-analysis came to a positive
+conclusion, it may have been declared not signiﬁcant by TSA
+at this information size, meaning a false positive result. As for
+PI, PPD and CAL, irrelevant conclusions from meta-analysis are
+also inconclusive due to insuﬃcient information. In fact, more
+tests need to be included for conﬁrmation (46) (Figure 6).
+Frontiers in Medicine 11 frontiersin.org
+
+[W4313556772 PDF PAGE 12]
+fmed-09-904638 December 29, 2022 Time: 12:8 # 12
+Yang et al. 10.3389/fmed.2022.904638
+FIGURE 5
+Begg’s funnel plot analysis to detect publication bias for the association between periodontal diseases and SS(A). Clinical periodontal
+parameters scores PI (B). Clinical periodontal parameters scores GI (C). Clinical periodontal parameters scores PPD. WMD, weighted mean
+difference.
+4. Discussion
+4.1. General interpretation of main
+results
+In this meta-analysis of the studies on periodontal diseases
+and SS, we included 21 articles with 11435 participants
+meeting the inclusion criteria. GRADE Quality of evidence
+Indicates that the quality of evidence included in the study is
+not high. A positive association between periodontal diseases
+and SS was found. Subjects with SS had signiﬁcantly higher
+clinical periodontal parameter scores BOP (WMD = 9.62, 95%
+CI = 3.43–15.80) and GI (WMD = 0.28, 95% CI = 0.04–
+0.51). However, there is no signiﬁcant diﬀerence in the
+clinical periodontal parameters scores PI (WMD = 0.15, 95%
+CI = −0.00–0.30) and PPD (WMD = 0.22, 95% CI = −0.19–
+0.63) in SS patients. TSA trail showed that for dichotomous
+variables, the meta-analysis can be declared as conclusive
+with regard to the anticipated eﬀect leading to the required
+information size. Similarly, the continuous variable BOP also
+drew signiﬁcant conclusions with enough information size.
+For GI, PI, PPD, and CAL, more tests need to be included
+for conﬁrmation.
+4.2. Strengths and limitations of the
+review
+There are several strengths in Our meta-analysis.
+First, we searched all relevant databases as thoroughly
+as possible to include more studies that met the criteria.
+Second, we performed GRADE evidence quality grading
+to reﬂect the accuracy of the eﬀect estimates. Third, we
+conducted TSA Trail to manage the risk of type I and
+II errors and to help determine whether additional trials
+are needed. Therefore, our analysis could well reﬂect the
+trial eﬀect and illustrate the clinical guiding signiﬁcance
+of the indicator.
+There are also limitations in our study. First, the results
+had relatively high statistical heterogeneity (I 2 = 77.5%, 58.8%,
+71.9%, 92.2%, 97.2%, and 66.7%) across the studies. Although
+we tried meta-regression to explore the sources of heterogeneity
+and obtained some sources of heterogeneity, we did not ﬁnd
+more sources of heterogeneity due to the lack of more detailed
+description of research characteristics in the included studies.
+Second, although some positive conclusions are reached in
+TSA Trail results, some conclusions are still unstable and
+lack suﬃcient information. Therefore, the current conclusions
+may change with the increase of studies. Third, because a
+Frontiers in Medicine 12 frontiersin.org
+
+[W4313556772 PDF PAGE 13]
+fmed-09-904638 December 29, 2022 Time: 12:8 # 13
+Yang et al. 10.3389/fmed.2022.904638
+FIGURE 6
+Trial sequential analysis of trials in subjects with SS (A). The association between periodontal disease and SS (B). Clinical periodontal parameters
+scores BOP (C). Clinical periodontal parameters scores PI (D). Clinical periodontal parameters scores GI (E). Clinical periodontal parameters
+scores PPD (F). Clinical periodontal parameters scores CAL. RIS, required information size.
+small part of the included study data came from dental
+clinics, patients from dental clinics may have some dental
+diseases or have some symptoms, so these patients are more
+likely to suﬀer from periodontal disease. In contrast, patients
+from other places such as Sjogren’s Syndrome Service of
+the Hospital Clinics showed no such bias. All in all, the
+results we get may lean toward “correlation.” In addition,
+we tried to search the studies on the incidence of Sjogren’s
+syndrome in patients with periodontal disease. Unfortunately,
+due to the retrieval of only two articles (47, 48), meta-
+analysis could not be conducted, and further relationship
+could not be obtained. However, both papers concluded
+that patients with periodontal disease were more likely to
+have Sjogren’s syndrome. To some extent, we believe that
+such conclusions can help to prove the relationship between
+Sjogren’s syndrome and periodontal disease. Our results should
+be interpreted with caution considering the existence of
+multiple conditions.
+4.3. Implications for practice and
+future research
+According to previous studies, periodontal diseases and SS
+have been considered to be related (47), which has been shown
+by quite a few studies. SS patients had a higher incidence of
+tooth loss, a higher risk ratio of undergoing one or more tooth
+extractions, and signiﬁcantly more SS patients were edentulous,
+which may be related to reduced salivary secretion (49). SS can
+lead to a decrease in saliva ﬂow and a change in its composition,
+which aﬀects the removal of bacteria in the oral cavity and thus
+facilitates the accumulation of plaque on the surface of teeth,
+which contributes to the deterioration of clinical periodontal
+parameters and, in severe cases, periodontal diseases (15). It
+has also been reported that the salivary glands of patients
+with SS are characterized by lymphocytes gathering around
+the salivary ducts, which plays an important role in driving
+Frontiers in Medicine 13 frontiersin.org
+
+[W4313556772 PDF PAGE 14]
+fmed-09-904638 December 29, 2022 Time: 12:8 # 14
+Yang et al. 10.3389/fmed.2022.904638
+the local immune response (50). The capillaries of gingival
+microcirculation in patients with SS have been changed, which
+may be related to the occurrence of periodontal diseases (51).
+Moreover, it has been found that the patients with Sjogren’s
+syndrome had higher serum concentrations of anti-periodontal
+pathogens such as Aggregatibacter actinomycetemcomitansand
+Porphyromonas gingivalis. Furthermore, alterations in cytokine
+networks may act as an intermediate factor between periodontal
+diseases and SS. More inﬂammatory cytokines were also fo

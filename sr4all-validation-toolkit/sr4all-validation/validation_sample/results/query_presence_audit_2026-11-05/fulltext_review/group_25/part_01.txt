@@ -1,0 +1,642 @@
+fered to the control 
+groups after participants were un-blinded at 12 weeks. The intra-group improvement in pain and function scores 
+was sustained at 1 year, and inter-group difference was statistically significant in Louw et al. study, suggestive 
+
+[W3186385279 PDF PAGE 3]
+3
+Vol.:(0123456789)Scientific Reports |        (2021) 11:14638  | https://doi.org/10.1038/s41598-021-94119-2
+www.nature.com/scientificreports/
+of longer term  effectiveness21,22. However, the un-blinding and subsequent injection of DPT upon participant 
+request, prevented us from including 12-month outcomes data in our meta-analysis.
+Adverse events. Adverse event-related outcomes were reported in 3 of the 10 included trials. One trial 
+reported painful and burning sensations among 18 participants, with temporary paralysis of temporal branch 
+of the facial nerve in 4  participants27. One trial reported one participant had worsening of jaw pain and swelling 
+2 months after study enrolment, and was subsequently diagnosed with an actinic cell tumor of the parotid gland 
+unrelated to  therapy21. One trial reported no adverse event reported throughout the study  period22.
+Discussion
+This study showed that DPT is superior to placebo injections in reducing TMJ pain intensity, with a moderate to 
+large effect size and low heterogeneity at 12  weeks33,34. Although the findings do not demonstrate a statistically 
+significant improvement in the disability score of DPT compared to placebo injections, the positive trend sug-
+gests that even in the context of meta-analysis, the comparison may be underpowered and that a larger sample 
+size may be able to detect a difference. Comparison with other injection therapies such as corticosteroids and 
+hyaluronic acid was not possible due to the absence of effect sizes in relevant TMJ  reviews35,36.
+Because different injection approaches were used in the included studies, special attention is needed in 
+the interpretation of MIO findings. The normal values of MIO have been reported as 51.00 mm for male and 
+Records iden/g415ﬁed through database searching (n=139)  
+MEDLINE = 12  
+EMBASE = 7 
+CENTRAL = 12  
+Web of Science=10 
+Pubmed=17 
+Dimensions=80 
+Global Health = 0 
+NHS Health Technology Assessment = 0 
+AMED = 0  
+Ovid Nursing Database = 0 
+ClinicalTrials.gov=1  
+Screening Included Eligibility Iden/g415ﬁca/g415on  
+Records a/g332er duplicates removed  
+(n = 99)  
+Titles and abstracts screened  
+(n = 35 ) 
+Records excluded  
+(n = 64)  
+Full-text ar/g415cles assessed for eligibility 
+(n = 33)  
+Full-text ar/g415cles excluded, with 
+reasons (n=23)  
+Animal studies n=2  
+Prospec/g415ve/retrospec/g415ve case series  
+n=10  
+Reviews=4 
+Ar/g415cles unrelated to topic=5  
+Abstracts=2  Studies included in qualita/g415ve synthesis 
+(n = 10)  
+Studies included in quan/g415ta/g415 ve synthesis (meta-analysis)
+(n =5  )  
+Duplicates excluded 
+(n = 40)  
+Records exclude d( n =5 )
+Raw ﬁgures not provided = 2 
+ Diﬀerent injec/g415on sites as control=1 
+Diﬀerent dextrose concentra/g415on as 
+control=1 
+Laser as control=1  
+Abstract se xcluded 
+(n = 2) 
+Figure 1.  PRISMA 2009 flow diagram.
+
+[W3186385279 PDF PAGE 4]
+4
+Vol:.(1234567890)Scientific Reports |        (2021) 11:14638  | https://doi.org/10.1038/s41598-021-94119-2
+www.nature.com/scientificreports/
+Title Ye a r
+Sample 
+size
+Sample 
+analyzed
+Intervention 
+group
+Control 
+group(s) Mean age
+Female 
+(%)
+DPT Inj. 
+sites
+Dextrose 
+volume/inj
+DPT inj. 
+frequency Outcomes
+Assessment 
+time points
+Duration 
+(weeks)
+1
+The 
+Efficacy of 
+dextrose 
+prolo-
+therapy for 
+temporo-
+mandibu-
+lar joint 
+hypermo-
+bility: a 
+prelimi-
+nary pro-
+spective, 
+rand-
+omized, 
+double-
+blind, 
+placebo-
+controlled 
+clinical 
+trial
+Refai 2011 N = 12 N = 12
+Gp A 
+(n = 6):2 ml 
+10% dex-
+trose + 1 ml 
+2% mepiv-
+acaine
+Gp B (n = 6): 
+2 ml NS + 1 ml 
+2% mepiv-
+acaine
+26.42 ± 5.66 83.30%
+IA (supe-
+rior joint 
+space)
+Superior 
+and 
+inferior 
+capsular 
+attach-
+ment
+3 ml 4 inj.; 6-week 
+apart
+*Pain (4 
+scales: no, 
+mild, moder-
+ate and 
+severe)
+Number of 
+luxations 
+(locking /
+month)
+MMO (cm)
+Week 0, 6, 12, 
+18 and 30 30
+2
+Is dextrose 
+prolo-
+therapy 
+superior to 
+placebo for 
+the treat-
+ment of 
+temporo-
+mandibu-
+lar joint 
+hypermo-
+bility? A 
+rand-
+omized 
+clinical 
+trial
+Kilic 2016 N = 30 N = 26
+Gp A (n = 14): 
+2 ml dextrose 
+30% dex-
+trose + 2 ml 
+NS + 1 ml 2% 
+mepivacaine
+Gp B (n = 12): 
+4 ml NS + 1 ml 
+2% mepiv-
+acaine
+30.81 ± 11.60 73%
+IA (supe-
+rior joint 
+space)
+posterior 
+disc 
+attach-
+ment
+Superior 
+and 
+inferior 
+capsular 
+attach-
+ment
+Stylo-
+man-
+dibular 
+ligament
+5 ml 3 inj.; 4-week 
+apart
+Vas pain 
+0–10
+Masticatory 
+efficiency 
+V AS 0–10
+Joint sounds 
+V AS 0–10
+Painless 
+mouth open-
+ning mm
+MMO (mm)
+Lateral 
+motion 
+(mm)
+Protrusion 
+motion 
+(mm)
+0, 52 52
+3
+Change 
+of site of 
+intra-
+articular 
+injection of 
+hypertonic 
+dextrose 
+resulted in 
+different 
+effects of 
+treatment
+Fouda 2018 N = 72 N = 72
+25% dex-
+trose + 2% 
+mepivaine
+Gp A 
+(n = 18):sup. 
+Joint space
+25% dex-
+trose + 2% 
+mepivaine at 
+different injec-
+tion sites:Gp B 
+(n = 18):cap-
+sule
+Gp C (n = 18): 
+inferior joint 
+space
+Gp D (n = 18): 
+retrodiscal 
+tisse
+Mean 30 (SD 
+18–42) 77.80%
+Gp A: 
+superior jt 
+space
+Gp B: 
+capsule
+Gp C: 
+inferior jt 
+space
+Gp D : 
+retrodis-
+cal tissue
+1.5 ml 4 inj.; weekly V AS 0–100 Week 0, 2, 12 12
+4
+Evalua-
+tion of the 
+efficacy of 
+different 
+concentra-
+tions of 
+dextrose 
+prolo-
+therapy in 
+temporo-
+mandibu-
+lar joint 
+hyper-
+mobility 
+treatment
+Mustafa 
+2018 N = 40 N = 37
+Gp A (n = 9): 
+1.5 ml 20% 
+dex-
+trose + 1.5 ml 
+2% lidacaine
+Gp B (n = 10) 
+: 1.5 ml 
+10% dex-
+trose + 1.5 ml 
+2% lidacaine
+Gp C (n = 9): 
+1.5 ml 30% 
+dex-
+trose + 1.5 ml 
+2%lidacaine
+Gp D (n = 9): 
+1.5 ml 
+NS + 1.5 ml 
+2% lidocaine
+25 ± 6.54 70%
+IA (supe-
+rior joint 
+space)
+Posterior 
+disc 
+attach-
+ment
+Superior 
+and 
+inferior 
+capsular 
+attach-
+ment
+3 ml 4 inj.; 
+4 weeks apart
+V AS 0–10
+MMO (mm)
+Luxation per 
+month( yes/
+no)
+Joint sounds 
+(yes/no)
+week 0, 4, 8, 
+12, 16 16
+5
+Treatment 
+of tempo-
+roman-
+dibular 
+dysfunc-
+tion with 
+hypertonic 
+dextrose 
+injection 
+(Prolo-
+therapy): a 
+rand-
+omized 
+controlled 
+trial with 
+long-term 
+partial 
+crossover
+Louw 2018 N = 42 N = 40
+Gp A (n = 22): 
+20% dex-
+trose + 0.2% 
+lidocaine
+Gp B (n = 20): 
+water + 0.2% 
+lidocaine
+46 ± 14 83%
+IA (supe-
+rior joint 
+space)
+1 ml 3 inj.; 
+4 weeks apart
+NRS 0–10 
+Pain
+NRS 0–10 
+function 
+MIO (mm)
+week 0, 4, 8, 
+12, 52
+52 (open 
+label after 
+week 12)
+Continued
+
+[W3186385279 PDF PAGE 5]
+5
+Vol.:(0123456789)Scientific Reports |        (2021) 11:14638  | https://doi.org/10.1038/s41598-021-94119-2
+www.nature.com/scientificreports/
+Title Ye a r
+Sample 
+size
+Sample 
+analyzed
+Intervention 
+group
+Control 
+group(s) Mean age
+Female 
+(%)
+DPT Inj. 
+sites
+Dextrose 
+volume/inj
+DPT inj. 
+frequency Outcomes
+Assessment 
+time points
+Duration 
+(weeks)
+6
+Sodium 
+hyaluronic 
+acid, plate-
+let rich 
+plasma and 
+dextrose 
+prolo-
+therapy in 
+manage-
+ment of 
+temporo-
+mandib-
+ular joint 
+internal 
+derange-
+ment. A 
+compara-
+tive study
+Mahmoud 
+2018 N = 45 not 
+reported
+Gp A 
+(n = 15):12.5 
+dextrose + 2% 
+lidocaine
+Gp B (n = 15 
+): hyaluronic 
+acid
+Gp C (n = 15): 
+platelet rich 
+plasma
+Age range 
+(20–50) 62.20%
+IA (poste-
+rior joint 
+space)
+Anterior 
+disc atta-
+chement
+Messeter 
+muscle 
+attach-
+ment
+3 ml 3 inj.; 
+2 weeks apart
+*V AS 0–10
+*MIO (mm)
+*Mandibular 
+deviation 
+(yes/no)
+Week 0, 4, 12, 
+24, 52 52
+7
+Dextrose 
+prolo-
+therapy in 
+the treat-
+ment of 
+recurrent 
+temporo-
+mandibu-
+lar joint 
+dislocation 
+(clinical 
+study)
+Saadat 2018 N = 16 N = 16
+25% dex-
+trose + 2% 
+lidocaine
+Gp A (n = 8) : 
+superior joint 
+space
+25% dex-
+trose + 2% 
+lidocaine
+Gp B (n = 8) 
+: retrodiscal 
+ligamament
+29.5 (age 
+range 23 to 
+40 )
+69%
+Gp 
+A-supe-
+rior joint 
+space ; 
+Gp B -ret-
+rodiscal 
+ligament
+2 ml Single inj. at 
+week 0
+*V AS 0–10
+*MIO (cm)
+*Number of 
+dislocation 
+per week
+Week 0, 2, 4, 
+12, 24 24
+8
+Assess-
+ment of the 
+therapeutic 
+effects for 
+autologous 
+blood 
+versys 
+dextrose 
+prolo-
+therapy for 
+the treat-
+ment of 
+temporo-
+mandib-
+ular joint 
+hypermo-
+bility: a 
+rand-
+omized 
+prospective 
+clinical 
+study
+Arafat 2019 N = 30 Not 
+reported
+Gp A 
+(n = 15):10% 
+dextrose + 2% 
+mepivacaine
+Gp B (n = 15): 
+autologous 
+blood
+18–39 years 
+old 37%
+IA (supe-
+rior joint 
+space)
+superior 
+and 
+inferior 
+capsular 
+attach-
+ment
+3 ml
+3 inj. 
+2-weeks 
+apart
+*V AS 0–10
+*MIO (mm)
+Week 0, 2, 
+12, 24 24
+9
+Dextrose 
+prolother-
+apy versus 
+lidocaine 
+injection 
+for tem-
+poroman-
+dibular 
+dysfunc-
+tion: a 
+pragmatic 
+rand-
+omized 
+controlled 
+ triala
+Zarate 2020 N = 29 N = 27
+GP A (n = 15): 
+20% dex-
+trose + 0.2% 
+lidocaine
+Gp B (n = 14): 
+water + 0.2% 
+lidocaine
+47 ± 17 86%
+IA (supe-
+rior joint 
+space)
+1 ml
+3 inj.; 
+4-weeks 
+apart
+NRS 0–10 
+Pain
+NRS 0–10 
+function
+MIO (mm)
+Week 0, 4, 8, 
+12, 52
+52 (open 
+label after 
+week 12)
+10
+Dextrose 
+prolo-
+therapy 
+versus low 
+level laser 
+therapy 
+(LLLT) for 
+Manage-
+ment of 
+temporo-
+mandibu-
+lar joint 
+disorders 
+(TMD): 
+clinical 
+rand-
+omized 
+controlled 
+study
+Hassanien 
+2020 N = 20 N = 20
+Gp A (n = 10): 
+12.5% 
+dextrose + 2% 
+lidocaine
+Gp B (n = 10): 
+laser (3 times 
+per week for 
+4 weeks)
+26 ± 4 50%
+IA (poste-
+rior joint 
+space)
+Anterior 
+disc atta-
+chement
+Messeter 
+muscle 
+attach-
+ment
+3 ml 3 inj.; 2-week 
+apart
+V AS 0–10
+MMO (mm) Week 2, 4 4
+Table 1.  Study characteristics table. Gp group, DPT hypertonic dextrose prolotherapy, IA Intra-articular, VAS 
+visual analog scale, NRS numerical rating scale, MIO maximum incisor opening, MM minimeter, NS normal 
+saline. *Raw figures not provided.
+
+[W3186385279 PDF PAGE 6]
+6
+Vol:.(1234567890)Scientific Reports |        (2021) 11:14638  | https://doi.org/10.1038/s41598-021-94119-2
+www.nature.com/scientificreports/
+46.3 mm for  female37. In the four included RCTs, Refai et al. and Mustafa et al. used the standard protocol of 
+DPT consisting of intra-articular and extra-articular (capsular) injections. Participants in these trials had pain-
+ful subluxation or dislocation of the TMJ; therefore, reducing MIO was expected to improve t

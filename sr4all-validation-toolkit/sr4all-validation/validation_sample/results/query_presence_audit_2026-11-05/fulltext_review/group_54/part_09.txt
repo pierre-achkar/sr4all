@@ -1,0 +1,163 @@
+lished the
+superiority of zanubrutinib by assessing PFS and ORR as key end
+points (Brown et al., 2023). The rates of 24-month PFS were 78.4%
+among patients who received zanubrutinib and 65.9% among
+patients who received ibrutinib. The ORR of patients in the
+zanubrutinib group was higher than in the inbrutinib
+group. Notably, the patients screened and assigned had relapsed
+or refractory CLL in these phaseⅢ trials. We further divided the
+population into two subgroups, the R/R and TN groups, for
+meta-analysis.
+In our subgroup analysis of relapsed or refractory patients, the
+ORR and 24-month PFS rates were signiﬁcantly higher in the 2nd-
+generation BTKi group than in the 1st-generation group. To date,
+many clinical trials of 2nd-generation BTKi for R/R CLL patients
+have indeed achieved high response and survival rates. In the phase
+Ⅲstudy of acalabrutinib monotherapy versus combination
+regimens, acalabrutinib exhibited improved PFS and similar ORR
+compared with the investigator’s choice (Ghia et al., 2020). In the
+acalabrutinib monotherapy group, the results demonstrated that
+ORR and 12-month PFS was 81% and 88%, respectively, for patients
+who previously received systemic therapy. The phaseⅡ single-arm
+study of zanubrutinib showed 77 out of 91 Chinese patients with R/R
+CLL received a response (Xu et al., 2020). The single-agent phaseⅡ
+trial (ACE-CL-208) afﬁrmed that acalabrutinib was still effective in
+FIGURE 3
+Forest plots for pooled incidences of grade 3 or higher adverse events(A), treatment discontinuation(B), any-grade headache(C), and grade 3 or
+high diarrhea(D).
+Frontiers inPharmacology frontiersin.org07
+Ke et al. 10.3389/fphar.2024.1413985
+
+[W4400512245 PDF PAGE 8]
+R/R CLL patients who were intolerant of ibrutinib (Rogers et al.,
+2021). Byrd et al. (2014) conducted the RESONATE trial to conﬁrm
+ibrutinib as having a more signiﬁcant effect than ofatumumab on
+previously treated CLL patients, but ultimately treatment achieved
+response in only 63% of ibrutinib-treated patients(Byrd et al., 2014).
+The 2nd-generation BTKi may be a suitable alternative to 1st-
+generation in CLL patients who may beneﬁt from BTKi therapy,
+especially relapsed/refractory CLL patients.
+No signiﬁcant superiority of 2nd-generation BTKi was found in
+the treatment-naive CLL population. Despite this, TN patients had
+higher response and survival rates than R/R patients when they were
+treated with the same BTKi. The RESONATE and RESONATE-2
+studies were two independent phaseⅢ clinical trials of ibrutinib for
+patients with previously treated and untreated CLL, respectively
+(Byrd et al., 2014; Burger et al., 2015). At the same dosage (420 mg
+once daily) of inbrutinib,ﬁrst-line treatment generated response in
+92% of patients with TN CLL, while second- or post-line treatment
+generated response in 63% of patients with R/R CLL. Acalabrutinib
+was approved for patients with TN and R/R CLL based upon its
+efﬁcacy in the ELEVATE-TN and ASCEND studies. Among
+155 patients with R/R CLL in the phaseⅢ ASCEND study, 126
+(81%) achieved response after receiving acalabrutinib monotherapy
+at a dose of 100 mg twice daily (Ghia et al., 2020). The results of
+efﬁcacy showed 12-month PFS was 88% and 12-month OS was 94%
+in the acalabrutinib monotherapy group. The ELEVATE-TN study
+demonstrated that acalabrutinib improved PFS over
+chemoimmunotherapy, supporting the use of acalabrutinib as a
+new treatment option for patients with TN CLL (Sharman et al.,
+2020). The results showed that 24-month PFS was 87% and overall
+response was 86% for acalabrutinib monotherapy. In the SEQUOIA
+study,Tam et al. (2022) evaluated the efﬁcacy of zanubrutinib as
+front-line therapy in patients with CLL. They found that ORR was as
+high as 94.6%, and 24-month PFS was 85.5% in the zanubrutinib
+group (Tam et al., 2022). Another study estimated the PFS of
+patients with different prior lines of therapy, and the results
+reported that patients with fewer treatment lines had the
+advantage of longer PFS (Cull et al., 2022).
+Both generations of BTKi have shown gratifying results in terms of
+overall survival and even long-term survival data. All studies included in
+our meta-analysis had rates of 12-month OS to be more than 90%, with
+the exception of the phaseⅡ trial of orelabrutinib. Our meta-analysis
+calculated the pooled rates of 24-month OS in both generation BTKi
+remained at 90%. In a single-center trial of relapsed and treatment-naive
+high-risk CLL, OS at 36 months was 92% in patients receiving ibrutinib
+(Burger et al., 2019). With the median follow-up of 5 years,O’Brien et al.
+(2018) demonstrated the efﬁcacy of ibrutinib forpatients with CLL,
+with a 92% 5-year OS rate in TN and 60% in R/R patients (O’Brien et al.,
+2018). An up-to-8-year follow-up data from a RESONATE-2 study of
+ibrutinib reported that 59% of patients randomized to ibrutinib were
+alive (Barr et al., 2022). Long-term follow-up of ibrutinib in the
+RESONATE trial reported that median OS was 67.7 months in the
+ibrutinib group (Munir et al., 2019). Until now, 2nd-generation BTKi
+trials were conducted for a short period so that most have not yet
+reported long-term data. A phaseⅡ study of acalabrutinib reported that
+24-month and 36-month OS rates were 81% and 78%, respectively, for
+patients with CLL who wereibrutinib-intolerant (Rogers et al., 2021).
+Based on long-term follow-up from the phaseⅠ/Ⅱ AU-003 study,
+zanubrutinib resulted in overall survival rates of 96% at 24 months
+and 91% at 36 months (Cull et al., 2022).
+Ibrutinib has been approved for various B cell malignancies, but
+its adverse effects are still not negligible ( Paydas, 2019). The
+common adverse effects of ibrutinib include diarrhea,
+neutropenia, bleeding, infection, and arthralgia, some of which
+may be caused by off-target kinase inhibition ( Munir et al.,
+2019). In order to reduce the incidence of AEs, 2nd-generation
+BTKi was designed based on higher BTK speciﬁcity to achieve
+maximum BTK occupancy and minimize off-target binding (Guo
+et al., 2019). Our pooled results showed that the incidence of grade
+3 or higher diarrhea was signiﬁcantly higher with 1st-generation
+BTKi and that the incidence of any-grade headache was signiﬁcantly
+FIGURE 4
+Forest plots for pooled incidences of any-grade atrialﬁbrillation (A) and grade 3 or higher atrialﬁbrillation (B).
+Frontiers inPharmacology frontiersin.org08
+Ke et al. 10.3389/fphar.2024.1413985
+
+[W4400512245 PDF PAGE 9]
+higher with 2nd-generation BTKi, which was consistent with safety
+analyses in the ELEVATE-RR trial (Seymour et al., 2023). In terms of
+ibrutinib, the incidence of grade 3 or higher AEs was similar to that
+previously reported, at approximately 70% (Byrd et al., 2021b; Brown
+et al., 2023). The pooled incidences of grade 3 or higher AEs with 2nd-
+generation BTKi were lower than that reported at only 52% (Byrd et al.,
+2021b; Brown et al., 2023). As reported in a retrospective study, toxicity
+was the common reason for ibrutinib discontinuation (Mato et al.,
+2018). Acalabrutinib was still an option for patients who had previously
+discontinued ibrutinib due to adverseevents, as the rate of acalabrutinib
+d i s c o n t i n u a t i o nd u et oa d v e r s ee v e n t si ns u c hp a t i e n t sw a so n l y1 7 %
+(Rogers et al., 2021). A phaseⅡ study further demonstrated that patients
+who are intolerant to ibrutinib and acalabrutinib may continue to
+beneﬁt from zanubrutinib treatment with few intolerance events
+(Shadman et al., 2023).
+The adverse events of clinical interest included atrialﬁbrillation,
+hypertension, hemorrhage, and infections. Our meta-analysis showed
+that patients who received 2nd-generation BTKi had a signiﬁcantly
+lower incidence of atrialﬁbrillation than patients who received 1st-
+generation BTKi, which is similar to the ELEVATE-RR and ALPINE
+studies (Byrd et al., 2021b; Brown et al., 2023). This may be associated
+with the hypothesis that 2nd-generation BTKi reduces the off-target
+kinase inhibition of C-terminal Src kinase to avoid the increased risk of
+cardiac adverse events (Guo et al., 2019). A pooled analysis of
+762 patients with CLL who received acalabrutinib found that the
+rate of any-grade atrialﬁbrillation/ﬂutter was 5% and hypertension
+was 9% (Brown et al., 2022). The comparison of hypertension AEs
+between the two generations of BTKi had different results in previous
+trials, including the high incidence of zanubrutinib in the ASPEN trial,
+the high incidence of ibrutinib in the ELEVATE trial, and similar
+incidence in the ALPINE trial (Tam et al., 2020; Byrd et al., 2021b;
+Brown et al., 2023). After statistical analysis, our study conﬁrmed that
+hypertension AEs occurred more frequently in ibrutinib. A meta-
+analysis of bleeding risk associated with BTKi suggested that
+ibrutinib and acalabrutinib have a higher risk of bleeding compared
+to control drugs, and ibrutinib tended to increase the risk more than
+acalabrutinib (Jiang et al., 2022). Any-grade infections and≥3g r a d e
+infections were comparable between the two generations of BTKi, with
+the most common infections being pneumonia, sepsis, and urinary tract
+infections (Byrd et al., 2021b).
+Although we have completed this comprehensive review of efﬁcacy
+and safety of BTKi, some limitations remain. First, the studies of
+tirabrutinib and orelabrutinib accounted for a relatively small
+proportion of the included studies and did not provide sufﬁcient
+data for subgroup analysis of drug type. Second, due to a lack of
+reports on risk factors such as chromosome 17p deletion and
+TP53 mutation status, and chromosome 11q deletion status and
+IGHV mutational status, it was difﬁcult to pool these factors in our
+analysis. Third, the follow-up time of the 2nd-generation BTKi trial was
+short, so the comparison of long-term efﬁcacy in our study was
+insufﬁcient.
+5 Conclusion
+In this ﬁrst meta-analysis of BTKi therapy for CLL, 2nd-
+generation BTKi had comparable ef ﬁcacy compared to 1st-
+generation, being only better in R/R patients with CLL.
+Compared to 1st-generation BTKi, 2nd

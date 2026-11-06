@@ -1,0 +1,200 @@
+an
+upstream event doing the same. The upstream action was found
+to be the biosynthesis pathway that regulates signaling and
+transcription factors. This pathway increases the activity of O-
+linked β -N-acetylglucosamine (O-GlcNAc) transferase, causing
+it to glycosylate targets at a faster rate. The Ser-484 of Sp1 i s
+a target of O-GlcNAc transferase’s glycosylation. The activ ates
+allowing Sp1 to bind to promoter sequences. Although the
+exact section of the hexosamine biosynthetic pathway (HBP)
+that is aﬀected by TL in PC cells is unknown, the result is the
+inhibition of O-GlcNAc transferase activity. This inhibition leads
+to Sp1 not being glycosylated and not acting as a transcription
+factor of the p65 and p50 subunits of NF-κ B (
+Banerjee et al.,
+2013).
+The most complex mechanism through which TL increases
+mitochondrial membrane permeability is the inhibition of
+pathways surrounding heat shock protein 70 (HSP70). In PC
+TL treated cells, HSP70 was found to be downregulated, and
+protein and mRNA levels were decreased (
+Phillips et al., 2007 ).
+To determine whether this downregulation of HSP70 results
+in the induction of the UPR by TL, another investigation
+evaluated the eﬀect on the PERK-eIF2α arm of the UPR
+(
+Mujumdar et al., 2014 ). And in PC cells, the inhibition
+of HSP70 only seems to aﬀect apoptosis; autophagy is not
+aﬀected by TL-induced downregulation of HSP70 (
+Wang et al.,
+2006). The mechanism through which HSP70 is activated in
+pancreatic adenocarcinoma cells shares similarities with th e
+activation of NF- κ B. HSP70 is partially transcribed by the Sp1
+which is activated through the HBP. It increases O-GlcNAc
+glycosylation, leading to ser-484 in Sp1 to be glycosylated,
+thus activating it. This pathway is overexpressed leading to
+HSP70 also being overexpressed. Because of TL ’s eﬀects on the
+HBP , Sp1 is inactivated thus HSP70 is downregulated. But TL
+works through HSP70 (
+Banerjee et al., 2013 ). Heat shock factor
+1 (HSF1) is a transcriptional factor of HSP70 that binds to
+heat shock sequence elements (HSEs) throughout the genome.
+This process promotes the transcription of HSP. TL acts upon
+Frontiers in Pharmacology | www.frontiersin.org 5 August 2017 | Volume 8 | Article 490
+
+[W2748573035 PDF PAGE 6]
+Zhang et al. Triptolide for Pancreatic Cancer
+HSF1 by decreasing the mRNA and protein levels. This process
+also decreases the amount of HSF1/HSE binding throughout
+the genome, downregulating HSP70 (
+Wang et al., 2012 ). The
+inhibition of promoters is not the only manner in which HSP70
+is downregulated. miRNA also plays a role in the inhibition
+of transcription. As in the case of the Bcl-2 family protein
+Mcl-1, miR-142-3, was found to decrease transcription of the
+DNA it bound to. miR-142-3 binds to 3′UTR of the HSP70
+gene, regulating the levels of transcription. TL exposure ind uced
+miR-142-3 in pancreatic ductal adenocarcinomas, suggestin g
+that TL has multiple eﬀects on the miRNAomes of PC cells
+(
+Mackenzie et al., 2013 ). HSP70 has been shown to inhibit
+the activities of a pro-apoptotic protein and a pro-apoptotic
+ion, Ca2+ and cathepsin b, respectively. Because HSP70 is
+downregulated in TL-treated cells, there is less HSP70 avai lable
+to attenuate Ca 2+, which allows the levels of cytosolic Ca 2+
+to increase (
+Dudeja et al., 2009 ). HSP70 has been shown to
+decrease the permeability of lysosomes in a manner similar to
+the interaction between Bcl-2 and the mitochondrial membrane.
+By downregulating HSP70, TL increases the permeability of th e
+lysosome, allowing cathepsin b to act upon the mitochondrial
+membrane (
+Dudeja et al., 2009 ). Mitochondrial membrane
+permeability is one of the most complex factors inﬂuenced
+by TL in PC cells. Through the up and down-regulation of
+Bcl-2 family proteins, transcription factors, proteases, ions and
+miRNAs, the pathway of apoptosis continues through the release
+of cytochrome c from within the mitochondria. Moreover, the
+combination of TL and artesunate (an anti-malarial natural
+product derivative for cancer therapy) could inhibit PC cell
+line growth and induce apoptosis, which is accompanied by
+the expression of HSP20 and HSP27, indicating important roles
+in the synergic eﬀects in anin vitro study (
+Liu and Cui,
+2013).
+Autophagic Pathways
+Other mechanisms of cell death induced by TL have been
+explored. When PC cells underwent a knockdown of autophagy-
+speciﬁc genes atg5, cell viability was maintained after TL
+treatment, indicating that TL impacts the autophagic pathways
+of cell death (
+Borja-Cacho et al., 2010; Mackenzie et al.,
+2013). To ﬁnd which pathways TL aﬀects to decrease cell
+viability through autophagy, two pathways of nutrient starva tion-
+induced autophagy were observed after TL treatment, include
+the Akt/mTOR/p70s6K and raf-1/Mek-1/ERK1/2 pathways.
+These pathways are common mechanisms through which
+autophagy is induced in cancer (
+Mujumdar et al., 2010 ).
+Treatment of autophagy-induction favoring S2-VP10 and S2-
+013 with TL showed downregulation of phosphorylated Akt
+and phosphorylated mTOR. This result shows that TL aﬀects
+Akt either directly or through an upstream mechanism
+and that downregulation continues through the pathway,
+inhibiting a negative regulator of autophagy (
+Mujumdar et al.,
+2010).
+The mechanisms through which TL promotes cell
+death have been reported to aﬀect both autophagy and
+apoptosis. The Bcl-2 family protein Mcl-1 also acts to
+decrease autophagy-induced cell death in PC cells (
+Chen
+et al., 2013 ). The pro-apoptotic ion Ca 2+ has also been
+related to increased activation of autophagy in PC cells
+(
+Mujumdar et al., 2010 ). It appears that TL activates autophagy
+by increasing mitochondrial membrane permeability, as
+well as aﬀecting nutrition starvation-induced autophagic
+pathways.
+Angiogenic Pathways
+TL has been shown to promote autophagy through starvation-
+induced autophagy. It has also been reported that TL plays a role
+in inducing nutrition starvation in PC cells through angiogenesis
+(
+Ma et al., 2013 ). In PANC-1, TL has been shown to inhibit
+angiogenesis through VEGF ( Ding et al., 2015; Qiao et al., 2016 ).
+In TL-treated cells, the expression of VEGF and COX-2 was
+signiﬁcantly decreased, as indicated by a decrease in the mRNA
+levels of these proteins. The sensitivity of this autophagic pat hway
+is also increased by TL ’s eﬀects on regulatory pathways, meanin g
+that the autophagic signal would be much stronger (
+Ma et al.,
+2013).
+DISCUSSION
+Of the 116 articles initially examined, 17 were deﬁnitively
+included in the present study. Existing preclinical evidence
+suggests that TL has broad spectrum of anti-PC eﬀects, including
+proliferation inhibition, apoptosis induction and metastasis
+inhibition. The pathways that TL alters to generate apoptotic,
+autophagic and angiogenic signals within cells are often the
+same pathways that provide PC cells with their extreme
+resistance to treatment. The overexpression of HSP70 and many
+other proteins has been connected in some manner to the
+attenuation of the pathways that occur in normal cells. As we
+know, many clinical medications, such as gemcitabine, have
+failed because of the extreme resistance exhibited by cells.
+Numerous preclinical studies remind us that if TL could be
+used in combination with clinical medication that hinders such
+resistance, then potent anticancer eﬀects could occur (
+Wang,
+2012; Qiao et al., 2016 ). One barrier to clinical trials is the
+reporting of standardized safety data from preclinical animal
+models.
+Although TL has been reported to show anticancer eﬀect
+for over a decade, its mechanisms of action have failed
+to attain one elusive goal. In the past 10 years, several
+groups have discovered that TL inhibited the activity of
+RNA polymerase. Due to the PC-based search strategy and
+inclusion criteria of this systematic review, we cannot include
+all breakthrough ﬁndings concerning the molecular target o f
+TL. However, we cannot ignore these ﬁndings. One study has
+reported that TL inhibited the whole genome without aﬀecting
+the binding of DNA and transcription factors. Investigators
+reported that TL inhibited the transcriptional activity of RNA
+polymerase II (RP II) and the degradation of Rpb1 and
+short-lived mRNA (
+Pan et al., 2010 ). Rbp1 binds with XPB
+to ensure transcription, conﬁrming the mechanism through
+which TL inhibited gene transcription in cells (
+Titov et al.,
+2011; Wang et al., 2011 ). Rpb1 ubiquitination is regulated by
+a phosphorylation of the carboxyl-terminal-domain (CTD). In
+Frontiers in Pharmacology | www.frontiersin.org 6 August 2017 | Volume 8 | Article 490
+
+[W2748573035 PDF PAGE 7]
+Zhang et al. Triptolide for Pancreatic Cancer
+2012, TL was conﬁrmed to control RP II degradation through
+CDK7 (
+Manzo et al., 2012 ). Undoubtedly, TL can inhibit
+the transcriptional activity of RP II, inhibiting genome-wid e
+transcription. However, this target requires further inves tigation
+in future research.
+Although TL possesses a variety of bioactivities and
+pharmacological in vivo and in vitro eﬀects, it has been
+restricted in clinical application due to its toxicity. Genom e-
+wide microarray analyses suggest TL-induced toxicology sh ares a
+similar underlying mechanism with the pharmacological eﬀect s
+of TL ( Li et al., 2014 ). The strong evidence of this potential
+connection is needed. To achieve lower toxicity with better
+eﬃcacy, further research on the combinatorial eﬀects with other
+drugs must be conducted, or bioinformational methods could be
+used.
+To gain further insight into the molecular mechanism of
+TL for PC, we built a network using the Ingenuity R⃝ Pathways
+Knowledge Base (Ingenuity Systems Inc., Mountain View, CA,
+USA). The most signiﬁcantly relevant pathways and highly
+linked molecules were built into a bionetwork (Figure 2). The
+identiﬁed molecules (red & green colored) are from 17 preclin ical
+studies that explored the potential mechanisms of TL treatmen t
+for PC in our systematic review. They are the primary endpoints
+in these preclinical studies

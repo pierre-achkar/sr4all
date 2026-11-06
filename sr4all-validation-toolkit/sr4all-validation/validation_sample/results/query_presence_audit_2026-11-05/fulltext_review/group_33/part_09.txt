@@ -1,0 +1,193 @@
+0th percentile.P-values < 0.05 were
+considered statistically signiﬁcant.
+Results
+Results of included research
+A total of 2,303 articles were identiﬁed after removing
+duplicates through database searching. Approximately 41
+articles met the inclusion criteria and were ﬁnally included in
+this meta-analysis and systematic review (
+Figure 1) (Rodríguez-
+Yáñez et al., 2006 ; Palumbo et al., 2007 ; Demchuk et al., 2008 ;
+Singer et al., 2008 ; Fiehler et al., 2009 ; Ariës et al., 2010 ; Choi
+et al., 2011 ; Cho et al., 2012 ; Costello et al., 2012 ; Jung et al.,
+2012; Kawano et al., 2012 ; Shi et al., 2012 ; Zheng et al., 2012 ;
+Kufner et al., 2013 ; Curtze et al., 2015 , 2016; Wardlaw et al.,
+2015; Willer et al., 2015 ; Prats-Sanchez et al., 2017 ; Wei et al.,
+2017, 2019; Chen et al., 2018 ; Liu et al., 2018 , 2019; Yang et al.,
+2018; El Nawar et al., 2019 ; Guo et al., 2019 ; Delcourt et al.,
+2020; Drelon et al., 2020 ; Eryildiz et al., 2020 ; Mistry et al.,
+2020; Mutzenbach et al., 2020 ; Tanaka et al., 2020 ; Luijten et al.,
+2021; Qiu et al., 2021 ; Albo et al., 2021 ; Benson et al., 2021 ;
+D’anna et al., 2021 ; Brainer Clares De Andrade et al., 2022 ;
+Wang et al., 2022 ). Approximately 36 articles were adopted in
+analyzing the association between the severity of WML and HT,
+seven groups of meta-analyses were conducted, and eight articles
+were adopted in analyzing the distribution of WML and HT.
+One article can be used in diﬀerent groups of meta-analysis and
+Frontiers in Aging Neuroscience /zero.tnum/three.tnum frontiersin.org
+
+[W4310086140 PDF PAGE 4]
+Wang et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fnagi./two.tnum/zero.tnum/two.tnum/two.tnum./one.tnum/zero.tnum/five.tnum/three.tnum/one.tnum/four.tnum/nine.tnum
+descriptive analysis as it may present data on diﬀerent grades or
+distributions of WML as an intervention and diﬀerent types of
+HT as the outcome.
+Detailed baseline characteristics of all included studies
+for meta-analysis are shown in
+Supplementary Table S1. The
+subtype of ischemic stroke based on the TOAST classiﬁcation
+mentioned was a cardioembolic stroke. IVT treatment was
+adopted as at least one type of treatment in the majority
+of articles (25/36, 69.4%). The grading scale used for WML
+included the Fazekas Scale score (
+Fazekas et al., 1987 ), the
+Van Swieten (VSS) Scale score ( Van Swieten et al., 1990 ),
+modiﬁed VSS (mVSS) score ( Palumbo et al., 2007 ), the modiﬁed
+rating scale based on Automated software-based Alberta Stroke
+Program Early CT Score (ASPECTS) (
+Barber et al., 2000 ), and
+age-related white matter changes (ARWMC) ( Wahlund et al.,
+2001). We classiﬁed the severity of WML according to the
+corresponding grading scale if it was not mentioned in the
+articles directly. For example, the Fazekas Scale scores of 1–2,
+3–4, and 5–6 were classiﬁed as mild, moderate, and severe WML,
+respectively, with a score ranging from 0 to 6 (
+Fazekas et al.,
+1987).
+The severity of WML and HT after
+ischemic stroke
+The meta-analysis of 12 studies on HT after ischemic stroke
+showed that the presence of WML indicated a higher risk of HT
+(n = 12, OR = 1.62, 95%CI 1.08–2.43, p = 0.019). In addition,
+moderate-to-severe WML showed a more signiﬁcant association
+with HT (n = 7, OR = 2.03, 95%CI 1.33–3.12, p = 0.001). The
+association between severe WML and HT did not reach the
+traditional level of statistical signiﬁcance (n = 6, OR = 1.60,
+95%CI 0.86–2.98, p = 0.136) (
+Figure 2).
+In MRI subgroups, both the presence ( n = 6, OR = 2.14,
+95%CI 1.22–3.77) and severity of WML ( n = 4, OR = 2.69,
+95%CI 1.77–4.11) could increase the risk of HT over two
+FIGURE /one.tnum
+Flowchart of the literature search and study selection. WML, white matter lesion; HT, hemorrhagic transformation.Frontiers in Aging Neuroscience /zero.tnum/four.tnum frontiersin.org
+
+[W4310086140 PDF PAGE 5]
+Wang et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fnagi./two.tnum/zero.tnum/two.tnum/two.tnum./one.tnum/zero.tnum/five.tnum/three.tnum/one.tnum/four.tnum/nine.tnum
+times, while no signiﬁcant association was found in the CT
+group. In the treatment subgroup, the presence of WML was
+found to be related to spontaneous HT (n = 3, OR = 1.64,
+95%CI 1.15–2.33), which is deﬁned as IVT, and EVT was not
+administered in this study (
+Alexandrov et al., 1997 ; Tan et al.,
+2014) (Supplementary Figures S1–S3 ).
+The severity of WML and sICH after
+ischemic stroke
+The meta-analysis of 11 studies about sICH after ischemic
+stroke showed that WML was associated with sICH ( n = 11,
+OR = 1.64, 95%CI 1.17–2.30, p = 0.004). Evidence showed that
+moderate-to-severe WML was associated with a high risk of
+sICH (n = 11, OR = 1.92, 95%CI 1.31–2.81, p < 0.001). Severe
+WML could also increase the risk of sICH ( n = 7, OR = 1.74,
+95%CI 1.15–2.63, p = 0.009) (
+Figure 3).
+In the subgroup analysis, we found a signiﬁcant association
+between moderate-to-severe WML and sICH in both the IVT
+treatment (n = 6, OR = 1.86, 95%CI 1.07–3.24) and EVT
+treatment groups ( n = 5, OR = 2.00, 95%CI 1.11–3.61).
+In addition, moderate-to-severe WML was associated with a
+relatively higher risk of sICH in patients with the anterior
+circulation stroke (n = 4, OR = 2.41, 95%CI 1.35–4.31)
+(
+Supplementary Figures S4 –S6).
+FIGURE /two.tnum
+The severity of WML and the risk of HT.Frontiers in Aging Neuroscience /zero.tnum/five.tnum frontiersin.org
+
+[W4310086140 PDF PAGE 6]
+Wang et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fnagi./two.tnum/zero.tnum/two.tnum/two.tnum./one.tnum/zero.tnum/five.tnum/three.tnum/one.tnum/four.tnum/nine.tnum
+FIGURE /three.tnum
+The severity of WML and risk of symptomatic intracerebral hemorrhage (sICH).
+Severity of WML and other subtypes of HT
+Other subtypes of HT included PH, HI, and rICH. Four
+studies reported PH as one of the outcomes. Three ( Costello
+et al., 2012 ; Shi et al., 2012 ; Prats-Sanchez et al., 2017 ) studies
+reported ORs on moderate-to-severe vs. non-to-mild WML,
+while only one (
+Curtze et al., 2016 ) study classiﬁed the severity
+of WML into severe vs. non-to-moderate. Thus, we conducted
+a meta-analysis for the association between moderate-to-severe
+WML and PH. No signiﬁcant association was found between
+them (n = 3, OR = 2.18, 95%CI 0.52–9.17, p = 0.288)
+(
+Figure 4).
+Two studies analyzed the association between WML and
+HI, and no signiﬁcant association was found ( Costello et al.,
+2012; Nighoghossian et al., 2016 ). Only one study reported the
+association between mild WML and rICH after IVT ( Drelon
+et al., 2020 ). Due to insuﬃcient data, a meta-analysis could not
+be performed to quantify their relationship.
+Frontiers in Aging Neuroscience /zero.tnum/six.tnum frontiersin.org
+
+[W4310086140 PDF PAGE 7]
+Wang et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fnagi./two.tnum/zero.tnum/two.tnum/two.tnum./one.tnum/zero.tnum/five.tnum/three.tnum/one.tnum/four.tnum/nine.tnum
+FIGURE /four.tnum
+The severity of WML and the risk of parenchymal hematoma (PH).
+Distribution of WML and HT after
+ischemic stroke
+Eight studies provided data on the relation between WML
+distribution and HT after ischemic stroke (
+Table 1). Due to the
+heterogeneity in WML data presentation (either as rating score,
+volume in ml, or percentage of intracerebral volume), these
+studies could not be pooled for meta-analysis.
+Of these eight studies, ﬁve distinguished articles discussed
+about PWML and DWML and the other three articles reported
+the relation between either PWML or DWML alone and HT. Of
+the ﬁve studies distinguishing PWML and DWML, three showed
+the results that PWML was more eﬃcient in predicting HT, while
+the other two studies concluded that patients with ischemic
+stroke complicated with PWML alone were not at a higher risk
+of HT. Both PWML and DWML were found to be related to HT
+in the majority of studies (5/7 and 5/6, respectively).
+Publication bias and sensitivity analysis
+The funnel plot did not show obvious publication bias
+(
+Supplementary Figure S7 ). We also conducted Egger’s test to
+quantify publication bias, and no signiﬁcant bias was found ( p >
+0.05) ( Supplementary Figure S8 ). A sensitivity analysis showed
+that the results of the meta-analyses in our study were stable,
+as the conclusion of our study did not change after included
+studies were excluded, with the exception of studies of
+Benson
+et al. (2021) or Yang et al. (2018) in the severity of WML and the
+risk of HT groups ( Supplementary Figure S9 ).
+Dose–response associations between
+WML and HT/sICH
+The dose–response meta-analysis showed a non-linear
+association between WML and both HT ( p for non-linearity
+= 0.031, six studies, 1,407 individuals, and 274 events) and
+sICH ( p for non-linearity = 4.4 × 10− 6, ﬁve studies, 3,211
+individuals, and 164 events). Speciﬁcally, it was found that WML
+increased the risk of HT and sICH above a moderate severity,
+which was consistent with the results of our meta-analysis
+that moderate-to-severe WML was signiﬁcantly associated
+with an increased risk of both HT and sICH (
+Figure 5).
+However, these results should be interpreted with caution as the
+pooled relative risk (RR) eﬀect in the dose–response analysis
+was unadjusted.
+Discussion
+This systematic review and meta-analysis summarized
+current evidence on the association between WML and HT. The
+results showed the association between WML and HT in patients
+with ischemic stroke, and as expected, increasing the severity of
+WML was found to be associated with a high risk of both HT
+and sICH. Our descriptive analysis suggested that both PWML
+and DWML could increase the risk of HT.
+White matter lesions, a common type of CSVDs potentially
+found on neuroimaging, represent abnormal focal lesions of
+brain white matter (
+Sam et al., 2016 ). Previous reports identiﬁed
+an association between the presence and severity of WML and
+HT in patients with ischemic stroke.
+Wei et al. (2017) reported
+WML as an independent risk factor for HT after cardioembolic
+stroke based on the atrial 

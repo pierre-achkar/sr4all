@@ -1,0 +1,546 @@
+utism 
+GWAS10,35, no 
+further sample 
+description. The 
+final combined 
+dataset 
+comprised 
+34,462 cases  
+of which 9315 
+with autism-
+Ricopili, PLINK 
+. Leave- P<0.5 
+autism and 
+ADHD 
+diagnosis 
+5 PCs, 
+additional 
+analyses with 
+sex as covariate 
+The autism 
+polygenic score 
+distinguished 
+ADHD cases 
+from controls 
+(OR = 1.08, 
+95% CI = 1.06 
+– 1.11, p = 7.5 x 
+0-12), autism 
+cases from 
+controls (OR = 
+1.21, 95% CI = 
+1.18 – 1.24, p = 
+1.2 x 10-48), 
+Bonferroni 
+correction for 2 
+x 6 tests: p < 
+.0042 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 40]
+40 
+ 
+only and 2304 
+with autism and 
+ADHD, and 
+41,201 controls. 
+iPsych samples 
+are all Danish. 
+PGC 
+participants are 
+American, 
+Swedish, 
+Belgian, 
+German, Irish, 
+Dutch, Spanish, 
+Swiss, English, 
+and Israeli, 
+Canadian, 
+Chinese and 
+Norwegian. 
+Genetic ancestry 
+was restricted to 
+European. 
+comorbid 
+(ADHD+autism
+) cases from 
+controls (OR = 
+1.22, 95% CI = 
+1.16 – 1.29, p = 
+3.5 x 10-14), 
+comorbid cases 
+from ADHD-
+only cases (OR 
+= 1.13, 95% CI 
+= 1.08 – 1.19, p 
+= 4.7 x 10-7), 
+autism-only 
+cases from 
+ADHD-only 
+cases (OR = 
+1.12, 95% CI = 
+1.09 – 1.15, p = 
+1.2 x 10-15,) but 
+not comorbid 
+cases from 
+autism-only 
+cases (OR = 
+1.01, 95% CI = 
+0.96 – 1.6, p = 
+0.68), ADHD + 
+intellectual 
+disability from 
+ADHD without 
+intellectual 
+disability (OR = 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 41]
+41 
+ 
+0.94, 95% CI = 
+0.86 – 1.03, p = 
+.19) and autism 
++ intellectual 
+disability from 
+autism without 
+intellectual 
+disability (OR = 
+0.89, 95% CI = 
+0.81 – 0.97, p = 
+.0072) 
+Leppert (2019)56 Specific 
+psychiatric 
+classifications, 
+Physical 
+wellbeing 
+The sample 
+consisted of 
+ALSPAC 
+mothers (100% 
+female, mean 
+age =  28.5, SD 
+= 4.8). Sample 
+size differed per 
+outcome 
+measures, with a 
+maximum of 
+7,486 and a 
+minimum of 
+2,535 depending 
+on the outcome 
+measure. 
+Participants 
+were British. 
+Genetic ancestry 
+was restricted to 
+European.  
+PRSice. P < .05 Prenatal factors 
+of maternal 
+lifestyle, 
+maternal use of 
+nutritional 
+supplements and 
+medications in 
+pregnancy, 
+maternal 
+illnesses and 
+conditions, 
+biomarkers of 
+nutritional status 
+and toxin 
+exposure in 
+pregnancy, 
+perinatal factors 
+and conditions 
+10 PCs, 
+analyses of 
+child polygenic 
+score included 
+10 PCs and 
+child’s sex 
+Maternal 
+autism 
+polygenic score 
+was positively 
+associated with 
+severe 
+depression (p = 
+.01) and 
+stressful life 
+events score in 
+the first (p = 3 x 
+10^-4) and third 
+(p = .004) 
+trimester of 
+pregnancy, but 
+no other 
+maternal 
+illnesses or 
+conditions, 
+lifestyle-related 
+prenatal 
+Correction 
+based on 
+number of PCs 
+that explained 
+80% of 
+covariance: P < 
+.0024 (.05/21) 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 42]
+42 
+ 
+exposures (p ≥ 
+.09), blood 
+biomarkers (p ≥ 
+.24), and 
+perinatal 
+exposures and 
+conditions (p ≥ 
+.28). The child's 
+autism 
+polygenic score 
+was also not 
+associated with 
+perinatal 
+exposures and 
+conditions (p ≥ 
+.39) 
+Ohi (2020)57 Specific 
+psychiatric 
+classifications, 
+other 
+Total sample of 
+131 patients 
+with 
+schizophrenia 
+(50 males/81 
+females, mean 
+age = 42.9, SD 
+= 13.1  years), 
+57 of their 
+unaffected first-
+degree relatives 
+(41 parents/12 
+siblings/4 
+offspring, 18 
+males/39 
+females, mean 
+Method not 
+reported. PT 
+≤.01, PT ≤.05, 
+PT ≤.1, PT ≤.2, 
+PT ≤.5, and PT 
+≤1 
+Diagnostic 
+status of 
+schizophrenia, 
+divided into 
+three statuses: 
+diagnosed with 
+schizophrenia, 
+first-degree 
+relatives of 
+person with 
+schizophrenia, 
+or healthy 
+control 
+Not reported Lower age at 
+onset of 
+schizophrenia 
+was 
+significantly 
+associated with 
+higher autism 
+polygenic score  
+(PT ≤ .05: 
+beta = −0.20, 
+P = 7.13 × 10–
+3). The autism 
+polygenic scores 
+were marginally 
+lower in 
+Japanese first-
+Bonferroni 
+correction:  
+(α=.05/5)  
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 43]
+43 
+ 
+age = 59.7, SD 
+=13.6  years), 
+and 147 HCs 
+(98 males/49 
+females, mean 
+age = 37.2, SD 
+=14.1 years). all 
+participants 
+were of 
+Japanese 
+descent.  
+degree relatives 
+compared with 
+healthy controls 
+( maximum at 
+PT ≤ .01: 
+Nagelkerke’s 
+R2 = 0.045, 
+P = .013) and 
+patients with 
+schizophrenia 
+patients 
+(maximum at 
+PT ≤ 0.2: 
+Nagelkerke’s 
+R2 = 0.023, 
+P = .084), while 
+there were no 
+significant 
+differences in 
+the polygenic 
+score for 
+European 
+autism between 
+schizophrenia 
+patients and 
+healthy controls 
+(P > .05) 
+Qin (2020)58 Specific 
+psychiatric 
+classifications, b
+rain measures, 
+Total sample of 
+345 participants. 
+Patients with 
+schizophrenia (n 
+= 121) mean age 
+PRSice. 103 PT 
+(ranging from 0 
+to 0.5 with 
+increments of 
+0.005, plus 
+MRI. Facial 
+emotion 
+recognition 
+(Chinese Facial 
+Affective 
+Age, sex, 
+education, 
+disease status, 
+and the first four 
+components 
+Positive 
+correlation 
+betweenthe  
+autism 
+polygenic score 
+Bonferroni 
+correction 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 44]
+44 
+ 
+Emotion 
+recognition 
+at scan = 24.24 
+SD = 9.03), 36 
+male. Healthy 
+controls (n = 
+224) mean age 
+at scan = 34.71 
+(SD = 12.69), 
+83 male. Of 
+these, 116 with 
+schizophrenia 
+and 212 controls 
+were taken into 
+analyses. 
+Participants 
+were Chinese. 
+10−5 , 10−4 , 
+and 10−3 
+Picture System). 
+Schizophrenia 
+diagnosis 
+and amplitude 
+of low 
+frequency 
+fluctuation 
+(ALFF) in left 
+amygdala in the 
+total sample of 
+schizophrenia 
+cases and 
+controls (r = 
+0.2122, 
+Puncorrected = 
+0.0002483, 
+Pcorrected = 
+0.022). Negative 
+correlation of 
+autism 
+polygenic score 
+with negative 
+emotion 
+recognition (r = 
+−0.2288, 
+Puncorrected = 
+0.000149, 
+Pcorrected = 
+0.0006). No 
+associations 
+with other brain 
+regions nor 
+types of 
+emotion 
+recognition 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 45]
+45 
+ 
+were found. No 
+significant 
+associations 
+were observed 
+between the 
+autism 
+polygenic score 
+and 
+schizophrenia 
+at different p 
+value 
+thresholds (p ≥ 
+.368)  
+Riglin (2021)42 Autistic traits, 
+specific 
+psychiatric 
+classifications 
+ALSPAC 
+includes a total 
+of 14,901 
+participants, of 
+which about 
+50% is female. 
+Polygenic 
+scores were 
+derived for 
+9,912 children. 
+Detailed 
+information 
+about the  
+participants that 
+were included in 
+this study 
+specifically was 
+not reported. All 
+participants 
+PRSice. P < 
+0.05 
+ADHD and 
+autism 
+symptoms. 
+Parent-rated at 
+11/12 and 25 
+years of age 
+(ADHD: SDQ, 
+autism: SCDC). 
+Self-rated at 25 
+years of age 
+(ADHD: SDQ, 
+autism: AQ) 
+Not reported The autism 
+polygenic score 
+does not 
+significantly 
+associate with 
+parent- and 
+self-reported 
+ADHD and 
+autism 
+symptoms 
+(>=.01) 
+Not reported 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 46]
+46 
+ 
+were British. 
+Genetic ancestry 
+was restricted to 
+European.  
+Russell (2021)59 Specific 
+psychiatric 
+classifications 
+ALSPAC 
+includes a total 
+of 14,901 
+participants, of 
+which about 
+50% is 
+female. The 
+sample for the 
+polygenic score 
+analyses 
+consisted of 
+4,959. 
+Participants 
+received 
+questionnaires 
+at ages 16, 21 
+and 24. All 
+participants 
+were British. 
+Genetic ancestry 
+was restricted to 
+European.  
+Plink. 5 × 10− 8 
+, 1 × 10− 7 , 1 × 
+10− 6 , 1 × 10− 
+5 , 1× 10− 4 , 
+0.001, 0.01, 
+0.05, 0.1, 0.2, 
+0.3, 0.4, 0.5. 
+Most optimal 
+threshold 
+selected 
+Non suicidal 
+self-harm and 
+suicide attempt 
+Not reported The autism 
+polygenic score 
+was 
+significantly 
+associated with 
+non-suicidal 
+self-harm (RR = 
+1.09, 95% CI 
+1.01 – 1.18) but 
+not suicide 
+attempt (RR = 
+0.98, 95% CI 
+0.98 – 1.20) 
+Not reported 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 202

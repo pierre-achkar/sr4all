@@ -1,0 +1,184 @@
+ 
+doi:10.1192/bjp.150.6.861 
+[79] A. Mitchell 
+and D. Malone, “Physical Health and Schizo-
+phrenia,” Current Opinion in Psychiatry , Vol. 19, No. 4, 
+2006, pp. 432-437. 
+[80] C. Carter, “Schizophrenia Su sceptibility Genes Directly 
+Implicated in the Life Cycl es of Pathogens: Cytomega-
+lovirus, Influenza, Herp es Simplex, Rubella, and 
+Toxoplasma Gondii,”  Schizophrenia Bulletin , Vol. 35, 
+No. 6, 2009, pp. 1163-1182. 
+[81] D. Vercelli, “Mechanisms of the Hygiene Hypothesis - 
+Molecular and Otherwise,” Current Opinion in Immu-
+nology, Vol. 18, 2006, pp. 733-737.  
+doi:10.1016/j.coi.2006.09.002 
+[82] S.
+ Dower, “Cytokines, Viro kines and the Evolution of 
+Immunity,” Nature Immunology, Vol. 1, No. 5, 2000, pp. 
+367-368. 
+[83] N. Nathanson and G. McFadden, “Viral Virulence,” In: N. 
+Nathanson, Ed., Viral Pathogenesis , Lippincott-Raven, 
+Philadelphia, 1997, pp. 85-108. 
+[84] J. Gilmore and L. Jarskog, “Exposure to Infection and 
+Brain Development: Cytokines in the Pathogenesis of 
+Schizophrenia,” Schizophrenia Research , Vol. 24, 1997, 
+pp. 365-367. 
+[85] J. Gilmore and L. Jarskog, “Maternal Infection, Cyto-
+kines, and Risk for Schizophr enia,” In: S. Fatemi, Ed., 
+Neuropsychiatric Disorders and Infection , Taylor & 
+Francis, London, 2005, pp. 96-106. 
+[86] S. Zammit, P. Allebeck, C. Dalman, I. Lundberg, T. 
+Hemmingson, M. Owen and G. Lewis, “Paternal Age and 
+Risk for Schizophrenia,” British Journal of Psychiatry , 
+Vol. 183, No. 5, 2003, pp. 405-408. 
+doi:10.1192/bjp.183.5.405 
+[87] D.
+ Morens, G. Folkers and A.  Fauci, “The Challenge of 
+Emerging and Re-emerging Infectious Diseases,” Nature, 
+Vol. 430, No. 6996, 2004, pp. 242-249.  
+doi:10.1038/nature02759 
+[88] S.
+ Saha, D. Chant, J. Welham and J. McGrath, “A Sys-
+tematic Review of the Prevalence of Schizophrenia,” 
+PLoS Medicine, Vol. 2, No. 5, 2005, p. e141.  
+doi:10.1371/journal.pmed.0020141 
+[89] T. Y. Zh
+ang and M. Meaney, “Epigenetics and the Envi-
+ronmental Regulation of the Genome and Its Function,” 
+Annual Review of Psychology, Vol. 61, 2010, pp. 439-466. 
+doi:10.1146/annurev.psych.60.110707.163625
+ 
+
+END REVIEW W2036856076
+
+
+REVIEW W2063785079
+TITLE: Biologic Therapy for Systemic Sclerosis: A Systematic Review
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W2063785079 PDF PAGE 1]
+289Phumethum, et al: Biologics for SSc
+Personal non-commercial use only. The Journal of Rheumatology Copyright © 2011. All rights reserved.
+Biologic Therapy for Systemic Sclerosis: 
+A Systematic Review
+VEERAPONG PHUMETHUM, SHAHIN JAMAL, and SINDHU R. JOHNSON
+ABSTRACT. Objective. Biologic agents are increasingly used in the rheumatic diseases. Their role in patients with
+systemic sclerosis (SSc) is uncertain. Our aim was to evaluate the effectiveness and safety of bio-
+logic agents in SSc. We review the evidence for the use of biologic agents to improve inflammato-
+ry arthritis, disability, and skin score, and we review adverse effects with biologic agents in patients
+with SSc.
+Methods. A systematic literature review was performed to identify studies evaluating the use of bio-
+logic agents in SSc. Medline, Embase, CINAHL, and Cochrane Database of Systematic Reviews
+were searched. A standardized abstraction form was used to extract biologic agent, study design,
+sample size, treatment effect, and adverse effects.
+Results. A total of 23 studies from 1413 citations were evaluated. Three studies evaluated inflix-
+imab, 3 evaluated etanercept, 3 evaluated antithymocyte globulin, 3 evaluated imatinib, 6 evaluated
+rituximab, and 1 study each evaluated interferon-g (IFN-g), IFN-a, relaxin, delipidated, deglycolip-
+idated Mycobacterium vaccae, human anti-transforming growth factor ß1 antibody, and oral type I
+collagen. Studies of etanercept and infliximab suggest improvements in inflammatory arthritis and
+Health Assessment Questionnaire Disability Index (HAQ-DI). None of the other biologic agents
+demonstrated reproducible, statistically significant improvements in joint count, HAQ-DI, or skin
+score.
+Conclusion. Anti-tumor necrosis factor-a agents may improve inflammatory arthritis and disability
+in SSc. The effect on skin score is uncertain. Adequately powered trials are needed to evaluate effi-
+cacy, and longitudinal studies are needed to evaluate longterm safety of these agents in SSc. 
+(First Release Nov 1 2010; J Rheumatol 2011;38:289–96; doi:10.3899/jrheum.100361)
+Key Indexing Terms:
+SCLERODERMA                                    SYSTEMIC SCLEROSIS BIOLOGIC
+ANTI-TUMOR NECROSIS FACTOR-a
+From the Prapokklao Hospital, Chantaburi, Thailand; Scleroderma
+Clinic, Mount Sinai Hospital; Division of Rheumatology, St. Michael’s
+Hospital; and Division of Rheumatology, Toronto Western Hospital,
+University Health Network, Department of Medicine, Faculty of Medicine,
+University of Toronto, Toronto, Ontario, Canada.
+Dr. S.R. Johnson is supported by a Canadian Institutes of Health
+Research Clinician Scientist Award and the Norton-Evans Fund for
+Scleroderma Research.
+V. Phumethum, MD, FRCP, Scleroderma Clinic, Mount Sinai Hospital,
+Prapokklao Hospital; S. Jamal, MD, MSc, FRCPC, Division of
+Rheumatology, St. Michael’s Hospital; S.R. Johnson, MD, FRCPC,
+Scleroderma Clinic, Mount Sinai Hospital, Division of Rheumatology,
+Toronto Western Hospital, Department of Medicine, University of Toronto.
+Address correspondence to Dr. S.R. Johnson, Division of Rheumatology,
+Ground Floor, East Wing, Toronto Western Hospital, 399 Bathurst Street,
+Toronto, Ontario M5T 2S8, Canada. E-mail: Sindhu.Johnson@uhn.on.ca
+Accepted for publication September 7, 2010.
+Systemic sclerosis (SSc) is a disease characterized by
+immune activation and inflammation that leads to fibrosis. It
+commonly affects the skin, blood vessels, and internal
+organs. Inflammatory arthritis is an increasingly recognized
+manifestation of SSc, with a prevalence of 10% to 25%1,2.
+Using the European League Against Rheumatism
+Scleroderma Trials and Research Group database, the preva-
+lence of synovitis is 16% (1191/7286)3. Synovial biopsy
+studies have shown histological evidence of inflammation
+with lymphocytic and plasma cell infiltration. On electron
+microscopy there are prominent microvascular alterations
+and abundant immature collagen fibrils. Late in the course of
+the disease there can be evidence of severe synovial fibrosis4.
+In a retrospective cohort study evaluating the use of magnet-
+ic resonance imaging (MRI) in patients with SSc who have
+joint pain, 59% of patients had synovitis, erosions, joint effu-
+sion, or tenosynovitis5. Rheumatoid factor and anticyclic cit-
+rullinated peptide (anti-CCP) antibodies were present in only
+40% and 11% of patients with inflammatory MRI findings,
+respectively5. Whether erosive, inflammatory arthritis is a
+direct manifestation of SSc or reflects an overlap syndrome
+with rheumatoid arthritis (RA) is controversial3. The low fre-
+quency of anti-CCP antibodies in multiple studies of patients
+with SSc who have an erosive inflammatory arthritis (esti-
+mates ranging from 1.5% to 11%) suggest that the condition
+is a direct manifestation of SSc5,6,7.
+Tumor necrosis factor (TNF) is an important proinflam-
+matory cytokine that has been shown to play a pivotal role
+in the pathogenesis of other autoimmune diseases including
+RA, psoriatic arthritis (PsA), and ankylosing spondylitis8.
+However, its role in the pathogenesis of SSc is unclear. In
+ www.jrheum.orgDownloaded on February 22, 2026 from 
+
+[W2063785079 PDF PAGE 2]
+vivo animal studies demonstrate that antagonists of TNF-a
+can significantly reduce the accumulation of extracellular
+matrix and prevent the development of fibrosis in mouse
+models of silica-induced and bleomycin-induced pulmonary
+fibrosis9,10. Studies in mice lacking TNF-I or both TNF
+receptors demonstrated that inhibition of TNF signaling can
+prevent organ fibrosis11,12,13. Conversely, the majority of in
+vitro studies show antifibrotic effects of TNF, in that it sup-
+presses the production of collagen 14,15, reduces the expres-
+sion of tissue inhibitor of metalloproteinases 16, and stimu-
+lates the release of matrix metalloproteinase 17,18, thereby
+preventing the accumulation of extracellular matrix and pre-
+venting the development of fibrosis.
+The efficacy of TNF antagonists in inflammatory dis-
+eases such as RA, spondyloarthropathies, and Crohn’s dis-
+ease has been demonstrated in clinical trials 19,20,21. Despite
+much interest in the use of anti-TNF agents in the treatment
+of SSc, there is no consensus on their potential therapeutic
+benefit. There is also some concern about using anti-TNF
+therapy in SSc because of a potential for worsening disease.
+A case report indicated that adalimumab was associated
+with fibrosing alveolitis in a patient with SSc 22. Similarly,
+infliximab has been associated with fibrosing alveolitis in
+patients with RA23. Further, anti-TNF agents have also been
+associated with the development of autoantibodies and
+drug-induced lupus erythematosus24,25, which may be a
+potential concern in patients with SSc.
+Given the potential benefits of biologic therapies in SSc
+and their demonstrable efficacy in other rheumatic diseases,
+our systematic review aims to evaluate the effectiveness and
+safety of biologic therapies in patients with SSc. In particular,
+we reviewed the evidence for the use of biologic agents to
+improve inflammatory arthritis, disability, and skin score, and
+reviewed the adverse effect profile of these agents in SSc.
+MATERIALS AND METHODS
+Data sources and search strategy. One investigator and an information spe-
+cialist through the University Health Network Library Services independ-
+ently performed the literature search. Sources searched were Ovid Medline
+(1950 to June week 5, 2010), Embase (1980 to week 26, 2010), CINAHL
+(1982 to week 26, 2010), and the Cochrane Database of Systematic
+Reviews (inception to first quarter, 2010). The following key words with
+mapping of term to subject heading were used in the database searches:
+[(systemic sclerosis or scleroderma or skin sclerosis

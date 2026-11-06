@@ -1,0 +1,186 @@
+tional Classiﬁcation of Diseases, 9th revision, Clinical Modiﬁcation coding system; AECG, the American-European Consensus Group Criteria; BOP , bleeding on probing; PI, plaque index; PPD, probing pocket depth; GI, gingival
+index; CAL, clinical attachment level; MPD, mean probing depth; CPD, cumulative probing depth; API, approximal plaque index; CI, calculus indices; MAL, mean attachment loss; PAL, probing attachment level; GBI, gingival bleeding index.
+Frontiers in Medicine 06 frontiersin.org
+
+[W4313556772 PDF PAGE 7]
+fmed-09-904638 December 29, 2022 Time: 12:8 # 7
+Yang et al. 10.3389/fmed.2022.904638
+TABLE 2 Quality assessment of cohort studies and case–control studies with the Newcastle-Ottawa Scale (NOS).
+References Study design Selection Comparability Exposure/outcome Summary score
+Chuang et al. (18) Cohort $ $ $ $ $ $ $ $ $ 9/9
+Albrecht et al. (27) Cohort $ $ $ $ $ 5/9
+Lu et al. (32) Cohort $ $ $ $ $ $ $ $ $ 9/9
+Ozcaka et al. (33) Case control $ $ $ $ $ $ $ $ 8/9
+Crincoli et al. (34) Case control $ $ $ $ $ 5/9
+Ergun et al. (44) Case control $ $ $ $ $ $ $ 7/9
+Pedersen et al. (31) Case control $ $ $ $ $ 5/9
+TABLE 3 Quality assessment of cross-sectional studies with the Agency for Healthcare Research and Quality (AHRQ) methodology checklist.
+References Study design 1 2 3 4 5 6 7 8 9 10 11 Summary score
+Antoniazzi et al. (17) Cross-sectional 1 1 1 0 1 1 1 1 0 1 0 8/11
+Leung et al. (38) Cross-sectional 1 1 0 0 0 1 1 1 0 0 0 5/11
+Najera et al. (39) Cross-sectional 1 1 0 0 0 1 1 0 0 0 0 4/11
+Tervahartiala et al. (43) Cross-sectional 1 1 0 0 0 0 0 0 0 0 0 2/11
+Ambrosio et al. (29) Cross-sectional 1 1 1 0 1 1 1 1 0 1 0 8/11
+Marton et al. (35) Cross-sectional 1 1 0 0 0 1 0 0 0 0 0 3/11
+Kuru et al. (16) Cross-sectional 1 1 0 0 0 1 1 1 0 0 0 5/11
+Pedersen et al. (40) Cross-sectional 1 1 1 0 0 0 1 0 0 0 0 4/11
+Pedersen et al. (41) Cross-sectional 1 1 1 0 1 1 1 0 0 0 0 6/11
+Tseng (30) Cross-sectional 1 1 0 0 0 0 1 0 0 0 0 3/11
+Zoppo et al. (42) Cross-sectional 1 1 0 0 0 1 0 0 0 0 0 3/11
+Seck-Diallo et al. (36) Cross-sectional 1 1 0 0 0 1 1 0 0 0 0 4/11
+Pers et al. (37) Cross-sectional 1 1 0 0 0 0 1 0 0 0 0 3/11
+Rhodus and Michalowicz (28) Cross-sectional 1 1 0 0 0 1 1 1 0 0 0 5/11
+including bleeding on probing (BOP), plaque index (PI),
+probing pocket depth (PPD), gingival index (GI), and clinical
+attachment level (CAL) or self-report]; and SS assessment (by
+clinical diagnosis or clinical examination).
+2.5. Risk of bias and applicability
+assessment
+The Newcastle-Ottawa Scale (NOS) was applied for
+assessing case-control studies and cohort studies. The evaluation
+criteria were Selection, Comparability and Exposure. Stars
+were awarded each study (up to 9 stars) for quick visual
+assessment, Studies awarded with 6 or more stars were deﬁned
+as high quality research (22, 23). For cross-sectional studies,
+the Agency for Healthcare Research and Quality (AHRQ)
+methodology checklist was applied. This is a methodological
+quality assessment tool using an 11-item checklist, and the
+AHRQ recommends it for assessment of cross-sectional studies.
+Article quality was assessed as follows: low quality = 0–3;
+moderate quality = 4–7; high quality = 8–11.
+The results of NOS and AHRQ scores can be used for
+reference in the quality of evidence grading. Two reviewers (XP
+and JG) independently evaluated the quality of the articles, and a
+third author (BY) evaluated the articles in case of disagreement.
+2.6. Data synthesis
+Forest plots were generated to assess the ORs and
+corresponding 95% CIs or WMDs and 95% CIs across the
+studies for meta-analysis. The data reported in some studies
+were standard error of mean (SEM) and we converted them
+into SD (SEM = SD/ √N) (24). Forest plots were generated
+to intuitively assess the ORs and corresponding 95% CIs in
+dichotomous variables or weighted mean diﬀerence (WMD)
+and 95% CIs in continuous variables across the articles.
+Considering the heterogeneity among the included studies, we
+used a random-eﬀects model.
+Frontiers in Medicine 07 frontiersin.org
+
+[W4313556772 PDF PAGE 8]
+fmed-09-904638 December 29, 2022 Time: 12:8 # 8
+Yang et al. 10.3389/fmed.2022.904638
+TABLE 4 The Grading of Recommendations Assessment, Development, and Evaluation (GRADE) assessment for the incidence of periodontal disease on Sjogren’s syndrome subjects.
+Outcome No. of studies Study design Certainty assessment OR (WMD) [95%
+CI]
+Certainty
+Risk of bias Inconsistency Indirectness Imprecision Other
+considerations
+Incidence of
+periodontal disease
+5 Observational study Not serious Serious Not serious Not serious None OR = 2.12, 95%
+CI = 1.43–3.17
+⊕⊕LOW
+BOP 7 Observational study Not serious Serious Not serious Not serious None WMD = 9.62, 95%
+CI = 3.43–15.80
+⊕VERY LOW
+PI 12 Observational study Not serious Serious Not serious Serious None WMD = 0.15, 95%
+CI = −0.00–0.30
+⊕VERY LOW
+GI 10 Observational study Not serious Serious Not serious Not serious None WMD = 0.28, 95%
+CI = 0.04–0.51
+⊕VERY LOW
+PPD 12 Observational study Not serious Serious Not serious Serious None WMD = 0.22, 95%
+CI = −0.19–0.63
+⊕VERY LOW
+CAL 6 Observational study Not serious Serious Not serious Serious None WMD = 0.40, 95%
+CI = −0.00–0.81
+⊕VERY LOW
+OR, odds ratio; WMD, weighted mean diﬀerence.
+We assessed the heterogeneity with Cochran’s Q test. If
+the p-value was lower than 0.1, the I2 statistic was used
+to quantify the statistical heterogeneity. The threshold was
+determined as Cochrane recommended, that is 0% to 50%:
+may not be important; 50% to 100%: may represent substantial
+heterogeneity (25). In addition, we also carried out meta-
+regression to clarify the source of heterogeneity. Sensitivity
+analyses were performed by comparing the pooled sensitivity
+and speciﬁcity results when including and excluding studies
+with high risk of bias. The Begg’s test was used to test the
+possibility of publication bias. Finally, we performed a trial
+sequential analysis (TSA) to identify the false positive or false
+negative outcomes that might occur during repeated updates.
+The Stata statistical software version 14 and TSA 0.9 was used to
+analyze the data. P-values were two-sided, and the signiﬁcance
+level was set at 0.05.
+The Grading of Recommendations Assessment,
+Development, and Evaluation (GRADE) guidelines were
+used for rating the quality of evidence (26). The degree of
+certainty of evidence is high, moderate, low or very low.
+Observational studies are initially rated low by default (26)
+and are downgraded according to the following pre-speciﬁed
+criteria: risk of bias, inconsistency, inaccuracy, inaccuracy, and
+publication bias (26).
+3. Results
+3.1. Literature search and study
+characteristics
+We identiﬁed 2511 articles in PubMed, EMBASE, Web of
+Science, and Cochrane Library. After screening the titles and
+abstracts of all the articles, 72 articles were selected for further
+evaluation. Then we reviewed the full text of these articles and
+excluded 51 articles based on inclusion criteria. In the end, there
+are 21 articles with 11435 participants meeting the inclusion
+criteria for the meta-analysis (Figure 1).
+Among these 21 articles, 5 articles evaluated the percentage
+of periodontal diseases in SS subjects and non-SS subjects, and
+16 reported the diagnostic criteria scores of clinical periodontal
+parameters (mean ±SD) in SS subjects and non-SS subjects.
+Among these latter 16 studies, 7 reported BOP scores, 12
+reported PI scores, 12 reported PPD scores, 10 reported GI
+scores, and 6 reported CAL scores. All included studies were
+observational, including 3 cohort studies, 4 case-control studies,
+and 14 cross-sectional studies. The total number of participants
+was 11,435 (9597 SS patients and 1838 non-SS patients). With
+regard to the age of the participants, the average age of all
+studies was over 30 years old. 6 of the studies assessed women
+separately (16, 27–31), while the rest assessed men and women,
+and were predominantly female. In the control group, all
+studies included individuals with no other related diseases.
+Frontiers in Medicine 08 frontiersin.org
+
+[W4313556772 PDF PAGE 9]
+fmed-09-904638 December 29, 2022 Time: 12:8 # 9
+Yang et al. 10.3389/fmed.2022.904638
+FIGURE 2
+Forest plot for periodontal diseases in subjects with Sjogren’s syndrome (SS) and controls. OR, odds ratio; CI, conﬁdence interval.
+In the diagnostic criteria of SS, International Classiﬁcation
+of Diseases, 9th revision, Clinical Modiﬁcation coding system
+(ICD-9-CM) (18, 32) was selected as the diagnostic standard
+in 2 studies, AECG was selected as the diagnostic standard in
+8 studies (27, 29, 31, 33–37), and the European classiﬁcation
+criteria for SS was selected in 8 studies (16, 17, 28, 38–42).
+The Copenhagen Criteria was used in 3 studies (31, 41, 43)
+and other criteria were used in 2 studies (30, 44). Among
+the diagnostic criteria for periodontal disease, ICD-9-CM was
+selected in two studies (18, 32), self-report was selected in one
+study (27), “clinical examination” was only reported in one
+study without explicit description of examination content (34),
+and clinical indicators were reported in the rest of the studies
+(Table 1).
+The NOS scores and the AHRQ methodology checklist for
+quality assessment of these studies are shown inTables 2, 3. The
+GRADE assessment is shown in Table 4.
+3.2. Study of periodontal diseases in SS
+subjects
+Five studies recording the incidence of periodontitis
+in SS subjects ( Table 1). In the meta-analysis of these 5
+studies, a positive association between SS and periodontal
+diseases was found and SS patients were more likely
+to be diagnosed with periodontal diseases than healthy
+controls (OR = 2.12, 95% CI = 1.43–3.17; 5 studies,
+6927 participants; low certainty of evidence, I 2 = 77.5%)
+(Figure 2).
+There are 16 studies reporting clinical periodontal
+parameters scores, which recorded in 455 subjects with SS
+and 397 healthy subjects ( Table 1). Subjects with SS had
+signiﬁcant diﬀerence in the clinical periodontal parameters
+scores BOP (WMD = 9.62, 95% CI = 3.43–15.80, I 2 = 58.8%)
+and

@@ -1,0 +1,223 @@
+ one had two, and one had 
+three biases. We concluded that the quality of included studies is overall good and biases were 
+not clustered in specific outcome categories. The quality assessments are presented in sTable 
+3, available online.   
+ 
+Systematic review and meta-analysis 
+A total of 760 outcome variables were included in the meta-analysis. Rosenthal’s failsafe N 
+ranged from 102 for emotion recognition to 39,921 for autism diagnosis (sTable 4, available 
+online), meaning that 102 to 39,921 null findings would be needed to negate significant 
+findings. Funnel plot tests for asymmetry per outcome category based on standard error were 
+not significant (p > .088) except for brain measures (p = .006) and autistic traits (p < .001), 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 138]
+138 
+ 
+indicating a potential publication bias. Histograms and boxplots of effect sizes, and funnel 
+plots of standard errors are presented in Supplementary Figures 1 – 3, available online. 
+Detailed descriptions of sample characteristics, methods of calculating polygenic scores, 
+GWAS p-value threshold, outcome measures, covariates, results, and multiple testing 
+corrections per study and per outcome category are provided in Table 1. Meta-analytic pooled 
+correlation coefficients ranged from .013 for early neurodevelopment to .162 for autism 
+diagnosis. The number of studies in each category ranged from 3 (phe-was) to 20 (other), with 
+a minimum of 2 and a maximum of 11 independent cohorts per category. A summary of the 
+meta-analysis results for all outcome categories is presented in Table 2 and Figure 2.  
+ 
+Table 2. Summary of Multi-level Meta-Analysis Results per Outcome Category 
+       I2 
+Outcome 
+category 
+n 
+studi
+es 
+n 
+ind
+. 
+coh 
+n est Pooled r  
+[95% CI] 
+r range P  Total Betwe
+en-
+cohort 
+Within
+-cohort 
+Autism 
+diagnosis 
+9 4 10 .162  
+[.066 – 
+.258] 
+.030 – .346 .004 99.6% 28.4% 71.2% 
+Autistic 
+traits 
+11 9 44 .042  
+[ .004 – 
+.081] 
+−.074 – 
+.313 
+.031 94.8% 87.3% 7.5% 
+Specific 
+psychiatric 
+classification
+s 
+17 12 81 .044  
+[.016 –
+.073] 
+−.185 – 
+.213 
+.003 99.2% 33.3% 65.9% 
+General 
+psychopathol
+ogy 
+7 4 190 .035  
+[ .026 – 
+.044]   
+−.143 – 
+.292 
+<.00
+01 
+91.5% 1.0% 90.5% 
+Cognition 
+and 
+executive 
+function 
+9 9 39 .042  
+[ .008 – 
+.075] 
+−.338 − 
+.170 
+.017 94.1% 88.4% 5.7% 
+Physical  
+wellbeing 
+8 8 181 .016  
+[.006 – 
+.026] 
+−.198 – 
+.166 
+.002 98.3% 1.5% 96.8% 
+Early 
+neurodevelo
+pment 
+8 7 43 .013  
+[-.038 – 
+.063] 
+−.110 – 
+.112  
+.612 94.2% 93.3% 0.9% 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 139]
+139 
+ 
+Emotion 
+recognition 
+3 3 5 .018  
+[ -.034 – 
+.381] 
+−.229 – 
+.400 
+.900 99.0% 36.6% 62.3% 
+Brain 
+measures 
+9 9 217 .160  
+[ .031 – 
+.288] 
+−.364 – .57 .015 99.9% 80.5% 19.4% 
+Phe-WAS 3 2 26733 NA NA NA NA NA NA 
+Other 20 28  NA NA NA NA NA NA 
+ 
+NOTE. n studies = number of studies, n ind. coh = number of independent cohorts the 
+included studies are based on, n est = number of effect size estimates included 
+ 
+ 
+Figure 2. Summary of Multilevel Meta-Analysis over Outcome Categories 
+ 
+Autism diagnosis 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 140]
+140 
+ 
+Systematic review. Nine studies assessed the association between the autism polygenic score 
+and autism diagnosis. Of these, seven reported a significant positive association10,25,27,30,32,33,36. 
+Two studies, based on  smaller samples than the ones that reported significant associations, 
+reported no significant association37,50. In addition, the autism polygenic score acted in a dose-
+dependent manner, where people in higher percentiles on average were more likely to be 
+diagnosed with autism10,36.  
+ Meta-analysis. Standardized correlation coefficients ranged from 0.030 to 0.346. One 
+outcome was omitted from this range, as it differentiated whether the autism polygenic score 
+distinguished autism diagnosis versus ADHD diagnosis27. The overall meta-analyzed effect 
+size was r = .162 (95% CI .066 – .258), indicating a small positive association between the 
+autism polygenic score and autism diagnosis. Total I2  was 99.6%, of which 28.4% between-
+study and 71.2% within-study. All meta-analysis results for the category of autism diagnosis, 
+including secondary results are presented in Supplementary Figure 4.  
+ 
+Autistic traits 
+Systematic review. Eleven studies assessed the association between the autism polygenic 
+score and autistic traits, either in the form of a total score or specific traits such as repetitive 
+behavior, language and social communication. Four of these assessed total scores for autistic 
+traits40,42,44,45, one of which was performed in a non-European sample. In children, the autism 
+polygenic score was associated with overall autistic traits in a Japanese44 and Swedish 
+sample45, but not in a United States (US) sample40. In adults, the autism polygenic score was 
+not associated with overall autistic traits40,42.  
+ Social behavior was the most commonly studied specific autistic trait, with seven 
+studies assessing the association  Four did not find a significant association31,38,39,45, and three 
+did41,43,44, one of which was a Japanese sample. The autism polygenic score did not associate 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 141]
+141 
+ 
+with restricted and repetitive behavior38,46, nor language and communication measures at 
+various ages in childhood38,45,46, except for language difficulties at the age of 18 months38. In 
+addition, the autism polygenic score was not associated with broad autistic traits as measured 
+by the Broad Autism Phenotype Questionnaire (BAPQ) in children with autism or their 
+parents, except for two significant positive associations with the pragmatic and total scale of 
+the BAPQ in mothers of autistic children40. 
+ Meta-analysis. One study on autistic traits was omitted from the meta-analysis effect 
+sizes because effect sizes were not reported40. Correlation coefficients ranged from −.074 to 
+.313. The overall meta-analyzed correlation coefficient was r = .04 (95% CI .004 – .081). 
+Total I2 was 94.8%, of which 87.3% between-study and 7.5% within-study. Meta-analysis 
+results for autistic traits are presented in Supplementary Figure 5. 
+  
+Specific psychiatric classifications 
+Eighteen studies assessed the relationship between the autism polygenic score and specific 
+psychiatric classifications (other than autism). Included studies assessed a range of 
+classifications or traits : ADHD (n = 2)27,34, ADHD traits (n= 2)38,42, depression (n = 2)48,56, 
+addiction (n = 1)49, suicidal ideation and/or suicide attempt (n = 3)51,59,97, eating disorders (n= 
+2)37,53, psychotic spectrum (n= 3)54,55,57 and nocturnal enuresis (n = 1)52.  
+ One study showed a significant association with ADHD diagnosis27, whereas another 
+did not34. The autism polygenic score was significantly associated with ADHD symptoms in 
+an east Asian sample67, but not in two studies European ancestry samples38,42, except for one 
+positive association with inattention and hyperactivity at the age of 8 years. The autism 
+polygenic score did not associate with schizophrenia diagnosis in two East Asian samples57,58, 
+and in a European ancestry sample it positively associated with some, but not all specific 
+domains of the psychotic spectrum (e.g. auditory and visual hallucinations)55. Two studies 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 142]
+142 
+ 
+found consistent positive associations with lifetime depression48,56 and one with depression or 
+anxiety symptoms specifically during pregnancy48. No associations were found between the 
+autism polygenic score and disordered eating behavior in two studies37,53, except for increased 
+parent-reported Avoidant/restrictive food intake disorder (ARFID;. One study reported no 
+associations between the autism polygenic score and cannabis use disorder49, except for an 
+unexpected negative association in people diagnosed with DSM classifications other than 
+schizophrenia. One study reported no association with nocturnal enuresis52. Lastly, one study 
+reported that the autism polygenic score was not associated with the case-control status of any 
+psychiatric classification50.  
+ One study found that the autism polygenic score distinguished people with autism 
+from those with ADHD27. 
+ Meta-analysis. Correlation coefficients ranged from −.185 to .213 The overall meta-
+analyzed correlation 

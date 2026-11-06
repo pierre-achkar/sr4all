@@ -1,0 +1,169 @@
+idency Programs since 2017 Chung et al.
+healing together: a resident- and faculty-directed wellness initiative 
+for emergency medicine residents. AEM Educ Train. 2018;2:334-5.
+16. Lefevbre D, Dong KA, Dance E, et al. Resident physician 
+wellness curriculum: a study of efficacy and satisfaction. Cureus. 
+2019;11(8):e5314.
+17. Comp GB and Sharkey M. ED stories: an online emergency medicine 
+residency community building and wellness initiative. Cureus. 
+2019;11(8):e5405.
+18. Hart D, Paetow G, Zarzar R. Does implementation of a corporate 
+wellness initiative improve burnout? West J Emerg Med. 
+2019;20(1):138-44.
+19. Calder-Sprackman S, Kumar T, Gerin-Lajoie C, et al. Ice cream 
+rounds: the adaptation, implementation, and evaluation of a peer-
+support wellness rounds in an emergency medicine resident training 
+program. CJEM. 2018;20(5):777-80.
+20. Moriarty R and Dehon E. Improving resident wellness using a 
+moderated faculty panel. Med Educ. 2017;51(11):1186-7.
+21. Poonja Z, O’Brien P, Cross E, et al. Sleep and exercise in emergency 
+medicine residents: an observational pilot study exploring the utility 
+of wearable activity monitors for monitoring wellness. Cureus. 
+2018;10(7):e2973.
+22. Williamson K, Lank PM, Hartman N, et al. The Implementation 
+of a national multifaceted emergency medicine resident wellness 
+curriculum is not associated with changes in burnout. AEM Educ 
+Train. 2019;4(2):103-10.
+23. Keim SM, Mays MZ, Williams JM, et al. Measuring wellness among 
+resident physicians. Med Teach. 2006;28:370-4.
+24. Adams T, Bezner J, Garner L, et al. Construct validation of the 
+perceived wellness survey. Am J Health Stud. 1998;14:212-19.
+25. Ware JE. (2001) How to Score and Interpret Single-Item Health 
+Status Measures: A Manual for Users of the SF-8 Health Survey 
+(With a Supplement on the SF-6 Health Survey). Boston, 
+Massachusetts: Quality Metric, Inc.
+26. Maslach C, Jackson SE, Leiter MP. (1996). Maslach Burnout 
+Inventory (3rd ed.). Palo Alto, California: Consulting Psychologists 
+Press.
+
+END REVIEW W3119904516
+
+
+REVIEW W3129303378
+TITLE: Eradication Rates of Clarithromycin Triple Therapy in Korea: A Systematic Review and Meta-analysis
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W3129303378 PDF PAGE 1]
+Copyright © 2021 Korean College of Helicobacter and Upper Gastrointestinal Research
+ The Korean Journal of Helicobacter and Upper Gastrointestinal Research is an Open-Access Journal. All articles are distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://
+creativecommons.org/licenses/by-nc/4.0) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+ORIGINAL ARTICLE
+  ISSN 1738-3331 eISSN 2671-826X, https://doi.org/10.7704/kjhugr.2020.0056
+ The Korean Journal of Helicobacter and Upper Gastrointestinal Research, 2021;21(1):35-47
+국내 표준 삼제 요법의 제균율에 대한 체계적 문헌 고찰 및 메타분석
+강승주1, 정혜경2, 이용찬3, 양효준4, 박선영5, 신철민6, 김성은7, 임현철8, 김지현9, 남수연10,11, 신운건12, 
+박재명13, 최일주14, 김재규15, 최미영16; 대한상부위장관ㆍ헬리코박터학회
+서울대병원 강남센터 내과1, 이화여자대학교 의학전문대학원 내과학교실2, 연세대학교 의과대학 내과학교실3, 성균관대학교 의과대학 강북삼성병원 
+소화기내과 및 소화기 암센터4, 전남대학교 의과대학 내과학교실5, 분당서울대학교병원 내과6, 고신대학교 의과대학 내과학교실7, 연세대학교 
+의과대학 용인세브란스병원 내과8, 연세대학교 의과대학 내과학교실 및 소화기병연구소9, 경북대학교 의과대학 내과학교실10, 칠곡경북대학교병원 
+소화기내과11, 한림대학교 의과대학 내과학교실12, 가톨릭대학교 서울성모병원 소화기내과13, 국립암센터 위암센터14, 중앙대학교 의과대학 
+내과학교실15, 한국보건의료연구원16
+Eradication Rates of Clarithromycin Triple Therapy in Korea: A Systematic Review and 
+Meta-analysis
+Seung Joo Kang1, Hye-Kyung Jung2, Yong Chan Lee3, Hyo-Joon Yang4, Seon-Young Park5, Cheol Min Shin6, Sung Eun Kim7, 
+Hyun Chul Lim8, Jie-Hyun Kim9, Su Youn Nam10,11, Woon Geon Shin12, Jae Myung Park13, Il Ju Choi14, Jae Gyu Kim15, Miyoung Choi16; 
+Korean College of Helicobacter and Upper Gastrointesinal Research
+Department of Internal Medicine, Seoul National University Hospital Gangnam Center1, Department of Internal Medicine, Ewha Womans 
+University School of Medicine2, Department of Internal Medicine, Yonsei University College of Medicine3, Division of Gastroenterology, 
+Department of Internal Medicine and Gastrointestinal Cancer Center, Kangbuk Samsung Hospital, Sungkyunkwan University School of 
+Medicine4, Seoul, Department of Internal Medicine, Chonnam National University Medical School5, Gwangju, Department of Internal 
+Medicine, Seoul National University Bundang Hospital6, Seongnam, Department of Internal Medicine, Kosin University College of Medicine7, 
+Busan, Department of Internal Medicine, Yongin Severance Hospital, Yonsei University College of Medicine8, Yongin, Department of Internal 
+Medicine and Institute of Gastroenterology, Yonsei University College of Medicine9, Seoul, Department of Internal Medicine, School of 
+Medicine, Kyungpook National University10, Division of Gastroenterology, Department of Internal Medicine, Kyungpook National University 
+Hospital Chilgok Hospital11, Daegu, Department of Internal Medicine, Hallym University College of Medicine12, Division of Gastroenterology 
+and Hepatology, Department of Internal Medicine, Seoul St. Mary’s Hospital, The Catholic University of Korea13, Seoul, Center for Gastric 
+Cancer, National Cancer Center14, Goyang, Department of Internal Medicine, Chung-Ang University College of Medicine15, Division of 
+Healthcare Technology Assessment Research, National Evidence-based Healthcare Collaborating Agency16, Seoul, Korea
+Background/Aims: Standard triple therapy, including a proton pump inhibitor, clarithromycin, and amoxicillin, has been recom-
+mended as the first-line for Helicobacter pylori infection. However, the eradication rate of standard triple therapy has declined over 
+the past years because of the increasing resistance to clarithromycin in Korea. We analyzed the eradication rates and the 10-year 
+change in the eradication rates in Korea.
+Methods: PubMed, EMBASE, the Cochrane Library, and KoreaMed were searched for studies published between January 2007 and 
+June 2018. The pooled eradication rates and their 95% CIs were estimated using a random-effect logistic regression model.
+Results: Twenty-six randomized controlled studies on standard triple therapy conducted in Korea were selected. The in-
+tention-to-treat (ITT) and per protocol anal yses showed pooled eradication rates of st andard triple therapy of 71.6% (95% CI, 
+69.9~73.3%) and 79.6% (95% CI, 76.6~82.2%), respectively. The eradication rate decreased with time. The ITT analysis showed 
+that the 14-day therapy (78.1% [95% CI, 75.2~80.7%]) had significantly higher eradication rates than the 7-day therapy (70.0% 
+[95% CI, 68.5~71.4%]) (P<0.01).
+Conclusions: These results suggest that the eradication rate of standard triple therapy, as the first-line therapy, has shown an un-
+acceptable decrease. The eradication rate increased when the duration of therapy was increased to 14 days, but it was not 
+satisfactory. Therefore, other treatment regimens or therapies based on susceptibility tests should be considered for the first-line 
+therapy. (Korean J Helicoba cter Up Gastrointest Res 2021;21:35-47)
+Key Words: Clarithromycin; Disease eradication; Helicobacter pylori; Meta-analysis
+Received: November 2, 2020  Revised: December 24, 2020  Accepted: January 10, 2021
+Corresponding author: Seung Joo Kang
+Department of Internal Medicine, Seoul National University Hospital Gangnam Center, 
+39th floor, Gangnam Finanace Center, 152 T eheran-ro, Gangnam-gu, Seoul 06236, Korea
+Te l : +82-2-2112-5772, Fax: +82-2-2112-5794, E-mail: ksjoo55@naver.com
+서론
+헬리코박터 파일로리(Helicobacter pylori, H. pylori)는 전 
+세계 인구의 절반 이상이 감염되어 있는 흔한 질환이며 위염, 
+
+[W3129303378 PDF PAGE 2]
+36
+Korean J Helicobacter Up Gastrointest Res: V ol 21, No 1, March 2021
+소화성 궤양뿐 아니라 위암이나 위림프종과 같은 위의 종양성 
+질환 발생의 주요한 원인으로 알려져 있다.1,2 우리나라에서 혈
+청으로 검사한 유병률은 위생 상태의 향상과 제균 치료의 확대
+로 인해 꾸준히 감소하고 있는 추세이지만 아직 그 유병률은 
+44.6%에 이른다.3 따라서 헬리코박터에 대한 적절한 검사와 치
+료법에 대해 임상진료지침을 만들어 보급하는 것은 우리나라와 
+같이 헬리코박터 유병률과 위암 발생이 높은 나라에서는 전반
+적인 국민의 건강 상태를 향상시키고 의료비를 효과적으로 사
+용하는 데 중요한 일이다.
+표준 삼제 요법은 clarithromycin과 함께 표준 용량의 양성
+자펌프억제제와 amoxicillin을 하루 2번, 1주에서 2주간 사용
+하는 치료 방법으로 2013년에 개정된 진료지침에서 1차 제균 
+치료로서 권고되었다.4 하지만 clarithromycin 기반의 표준 삼
+제 요법의 가장 큰 문제점은 clarithromycin의 내성률이 높아
+지면 제균율이 떨어진다는 점이다. 표준 삼제 요법과 bismuth 
+사제 요법을 사용한 무작위 대조 연구들을 모아 메타분석을 시
+행한 문헌에 따르면 metronidazole의 내성이 있는 경우에도 
+bismuth 사제 요법의 제균율은 84.2%로 어느 정도 받아들일 
+수 있는 범위의 제균율을 보이는 것으로 보고되었다. 하지만 표
+준 삼제 요법의 경우 clarithromycin 감수성이 있는 균주에 대
+해서는 88%의 제균율을 보이지만 내성이 있는 균주에 대해서
+는 14.3%의 매우 낮은 제균율을 보여 내성률이 높은 지역에서
+는 표준 삼제 요법의 효과가 매우 떨어질 수 있음을 보여주었
+다.5 실제로 2003년부터 2018년까지 서울과 경기 지역의 환자
+들을 대상으로 한 헬리코박터의 항생제 내성에 대한 연구에서 
+clarithromycin에 대한 내성은 2003년에서 2005년 사이에는 
+21.2%였으나 2017년에서 2018년 사이에 조사된 결과는 
+45.9%로 급격하게 증가하는 양상을 보여주었다.6 이 에  따 라  표
+준 삼제 요법도 감소하는 양상을 보였다. 1998년부터 2013년
+까지 국내에서 표준 삼제 요법을 이용한 연구들을 모아 분석한 
+결과에 따르면 표준 삼제 요법 intention-to-treat (ITT) 제균
+율은 74.6% (95% CI, 72.1~77.2%)였고 1998년에서 2013년까
+지 제균율의 추이를 보면 유의하게 감소하는 결과를 보여주었
+다.7 최근에 이 제균율은 더욱 감소한 것으로 생각되는데, 실제
+로 2019년에 발표된 표준 삼제 요법을 사용하여 행해진 전국적
+인 다기관 무작위 대조 연구에서 7일간의 표준 삼제 요법의 
+ITT 제균율은 63.9%로 나와 기존의 낮아진 추세와 비교해봐
+도 훨씬 낮은 수치로 보고되었다.8 앞서 언급된 기간별로 clari-
+thromycin의 내성률을 조사한 연구에서도 최근 10여 년간의 
+내성률 증가가 두드러졌었기 때문에 표준 삼제 요법의 제균율
+은 이전 보고에 비해서 최근 10여 년 동안 큰 변화가 있었을 
+가능성이 있다. 따라서 이번 연구에서는 최근 10여 년간 국내
+에서 표준 삼제 요법의 제균율의 변화 추이 및 치료 기간별로 
+제균율의 차이를 살펴보고자 한다. 표준 삼제 요법의 최근 제균
+율 추이에 관한 자료는 현재 임상에서 많이 시행되며 향후 점
+점 더 늘어날 것으로 생각되는 헬리코박터 제균 치료에 대해 
+임상 의사들에게 유용한 정보를 제공할 수 있으며 향후 헬리코
+박터 지침의 개정에도 도움을 주리라 생각된다. 
+대상 및 방법
+1. 문헌 검색
+문헌 검색을 위한 데이터베이스로 PubMed, EMBASE와 
+Cochrane Library를 사용하였고 여기에 더하여 국내 논문들의 
+검색을 빠지지 않고 수행하기 위하여 KoreaMed에서 검색을 진
+행하였다. 1998년부터 2013년까지의 국내 표준 삼제 요법의 제
+균율에 대한 연구가 있고 최근의 제균율의 변화 양상을 보는 게 
+이번 연구의 목적이기 때문에 2007년 1월부터 2018년 6월까지 
+문헌을 검색하였다. 데이터베이스 검색을 위하여 Medical 
+Subject Heading (MeSH) 또는 Emtree 키워드를 이용하였고 다
+음 용어 단독 또는 조합으로 검색이 시행되었다: H. pylori o r  
+Helicobacter pylori a n d  e r a d ic a tio n , tr ip le  th e r a p y , s t a n d a r d 
+triple therapy, first-line, proton pump inhibitor, PPI, amox-
+icillin, or clarithromycin. 상기 키워드를 사용한 데이터베이스 
+검색에서 확인

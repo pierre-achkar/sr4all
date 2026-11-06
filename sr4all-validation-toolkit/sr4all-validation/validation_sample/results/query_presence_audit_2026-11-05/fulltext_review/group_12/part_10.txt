@@ -1,0 +1,243 @@
+
+Cost
+All instruments were free to access for non-funded
+research. Additional charges applied for funded
+research and commercial users in the case of the
+ADRQL, ADQRL revised, QOL-AD and QOL-AD
+NH. A single instrument (DCM) was free to use, but
+required users to attend training, which had associ-
+ated costs.
+Training
+Four instruments (DQoL, QOL-AD, QOL-AD
+NH, and QUALIDEM) did not require any formal
+training before use of the instrument, whilst the
+ADRQL and ADRQL revised recommended users
+to watch a free training video. Only the DCM
+instrument required users to attend a three-day
+training course. It was unclear whether the QUA-
+LID required training.
+Time to complete
+Time to complete the instrument ranged from 5
+minutes (QUALIDEM, QOL-AD NH) to up to 6
+hours (DCM).
+Time period to assess
+Three instruments captured“present” QoL (QOL-
+AD, QOL-AD NH, DCM), whilst the remaining
+instruments assessed QoL over the previous 1 or 2
+weeks. The only exception is the DQoL which does
+not state the time period in which participants
+should be assessed.
+Specialist software
+No instrument appeared to require the use of spe-
+cialist software for the administration, analysis, or
+interpretation of the instruments.
+Quality of life instruments in care settings 925
+https://doi.org/10.1017/S1041610218002259 Published online by Cambridge University Press
+
+[W2907902125 PDF PAGE 10]
+Table 3. Availability and feasibility properties of identified instruments
+AVAILABILITY USABILITY
+SCALE
+DEDICATED
+WEBSITE USER GUIDE COST
+TRAINING
+REQUIRED
+TIME TO
+COMPLETE
+TIME PERIOD
+TO ASSESS
+SPECIALIST
+SOFTWARE
+REQUIRED ?
+SCORING
+GUIDE
+.............................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+DQoL No No Free None 10 minutes Not stated Not stated Scoring
+instructions inoriginal paper(Brodet al.1999)
+QOL-AD No
+* Yes, and instructions
+on instrument
+Free to non-funded
+academicresearchers
+a
+None 5 mins proxy10 –15
+mins self-report
+Present time
+(e.g. within thepast few weeks)
+No Yes
+QOL-AD NH No Yes, and instructions
+on instrument
+Free to non-funded
+academicresearchers
+a
+None 5 mins proxy10 –15
+mins self-report
+Present time
+(e.g. within thepast few weeks)
+No Yes
+QUALIDEM No Yes Free None 10 minutes 2 weeks Dutch
+version, 1 weekEnglish andGerman versions
+No Yes, on instrument
+and in user guide
+QUALID No No Free Not known 5 minutes 1 week No Yes, scoring
+instructions oninstrument
+DCM Yes Yes Free after training Required 3 day
+training (£975)
+Up to six hours
+observation
+Present time Not required
+but available
+Yes
+ADRQL Yes Yes, and instructions
+on instrument
+Free to non-funded
+academicresearchers
+b
+Recommended
+use of ADRQLtraining video(free)
+10–15 mins 2 weeks No Yes
+ADRQL
+Revised
+Yes
+* Yes, and instructions
+on instrument
+Free to non-funded
+academicresearchers
+b
+Recommended
+use of theADRQL trainingvideo (free)
+10–15 mins 2 weeks No Yes
+QoL-D No Not known Not known Not known Not known Not known Not known Not known
+All information correct as of January 2018.
+* Not a dedicated website but available from MAPI trust repository.
+a Non-funded academic researchers - free; Funded academic researchers -€300 per study and€50 per language; Commercial users– Royalty fees€1000 per study and€50 per language. Distribution fees
+€1000 per study and€50 per language.
+b Non-funded academic researchers— free; Funded academic researchers—€ 300 per study and€50 per language; Commercial users– Royalty fees 10,000 USD per study and 500 USD per language.
+Distribution fees€700 per study and€300 per language.
+926 L. J. Hugheset al.
+https://doi.org/10.1017/S1041610218002259 Published online by Cambridge University Press
+
+[W2907902125 PDF PAGE 11]
+Scoring guide
+All instruments had accessible scoring instructions.
+Discussion
+This study aimed to add usefully to existing reviews
+of the literature (Bowlinget al., 2015; Ready and
+Ott, 2003). Aspden et al. (2014) by assessing the
+usability properties of instruments in care homes in
+addition to psychometric properties and study qual-
+ity. This provides broader information on the prag-
+matic use of dementia-speciﬁc QoL instruments in
+care homes, which is likely to be of value to research-
+ers, clinicians, and practitioners when selecting in-
+struments for use both in research and in normal
+practice.
+Twenty-ﬁve studies were identiﬁed that assessed
+nine dementia speciﬁc QoL instruments for use in
+care homes. This review highlights that even though
+QoL instruments exist for use in care homes, they
+may not be accessible or feasible for use. There was
+limited information about the psychometric proper-
+ties of most instruments; as a consequence many
+elements were not assessed. COSMIN scores that
+were assessed had relatively low ratings with the
+majority of ratings being poor or fair. The instru-
+ments with the most psychometric evidence were
+QUALID and QUALIDEM. The QUALID instru-
+ment had the most extensive evaluation of the two,
+with seven domains assessed, however, QUALI-
+DEM had better ratings for most of the assessed
+properties with more excellent and good ratings
+compared to QUALID. The QUALIDEM has pre-
+viously been suggested as the best QoL instrument
+to use for people with dementia in care homes due to
+the comprehensive assessment of its measurement
+properties (Aspdenet al., 2014).
+The QOL-AD instrument is one of the most
+widely used QoL instruments due to its good psy-
+chometric properties and apparent ease of use
+(Bowlinget al., 2015). However,ﬁndings from the
+review show limited use of the QOL-AD in care
+settings, with the original QOL-AD only identiﬁed
+in one study, and the nursing home version identi-
+ﬁed in six studies. The QOL-AD NH instrument,
+which is adapted from QOL-AD was assessed in six
+studies; however, the ratings were mainly poor or
+fair. Theseﬁndings are in line with a previous review
+which found that the QOL-AD NH properties were
+poor because of small sample sizes and methodo-
+logical quality of the studies (Aspdenet al., 2014).
+It is widely accepted that measuring QoL in care
+settings is important. This is usually carried out as a
+part of research with the focus being to understand
+changes to QoL over time or to assess outcomes of
+interventions (Clareet al., 2014b; Hoeet al., 2009).
+There is, however, an additional need and potential
+beneﬁt in understanding the QoL of care home
+residents outside of research, in routine care prac-
+tice. The lack of routine measurement of QoL in
+care homes will be in part due to differences in
+the current instruments and a lack of consensus
+about what a QoL instrument should contain.
+The frameworks of QoL in dementia underpinning
+each instrument inﬂuence and shape the instrument
+and its content (Missottenet al., 2016). The instru-
+ments discussed here are based on a small number
+of models. Most are based solely, or in part, on the
+work of Lawton (Missottenet al., 2016), which
+states that QoL in dementia is multidimensional
+and consists of both objective and subjective com-
+ponents. A health-related QoL deﬁnition, which
+only includes aspects of QoL affected by a health
+condition, and the adaptation-coping model, which
+is concerned with adaptation to the consequences
+of dementia (Dröes et al., 2010) have also been
+used. However, it is often not clear what conceptual
+framework instruments are based on, and what as-
+sumptions are made (Bowlinget al., 2015; Missotten
+et al., 2016). This may dissuade some from using
+QoL instruments, and the differences in the content
+of instruments may inﬂuence whether or not speciﬁc
+instruments are used. This, coupled with what it
+is that practitioners, researchers, or clinicians want to
+gain from measuring QoL will inﬂuence the decision
+about what instrument to use. However a fundamen-
+tal problem is likely to be limited access to and
+experience of QoL instruments as well as a lack of
+requirement by regulators to use such approaches.
+Most are difﬁcult to ﬁnd and access online; often
+requiring contacting the original author or register-
+ing with online instrument repositories to request
+access to speciﬁc instruments. This will be difﬁcult
+for care staff who may not be aware of the different
+instruments available and may not have the skills and
+resources needed to identify them.
+Routine use of QoL instruments might be of value
+at an individual resident level and also at an aggregate
+level providing insights into the QoL of residents as
+a whole and indirectly the home as a whole. QoL
+measurement has the potential to improve the pro-
+vision of person-centered or holistic care by encour-
+aging care staff to focus more on the individual and
+less on impairments of function (Edvardssonet al.,
+2014). The inclusion of an instrument to speciﬁcally
+measure QoL in normal care practice, and used in
+conjunction with existing care practices, procedures,
+and documentation, could enhance the opportunity
+to improve care quality by providing more person-
+centered information on residents and providing
+feedback on the effect of changes over time. In the
+US, a comprehensive assessment of a variety of care
+Quality of life instruments in care settings 927
+https://doi.org/10.1017/S1041610218002259 Published online by Cambridge University Press
+
+[W2907902125 PDF PAGE 12]
+features is completed for residents in long-term care
+facilities. The Resident Assessment Instrument
+(RAI-NH) is completed periodically to collect and
+record relevant information about resident care. The
+aim of its use is to inform holistic care and ensure
+good QoL and quality of care. Implementation and
+use of the RAI-NH has been shown to be associated
+with improvements in resident outcomes (Frieset al.,
+1997; Phillipset al., 199

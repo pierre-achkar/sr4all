@@ -1,0 +1,244 @@
+.
+We looked for non-randomized studies in all lan-
+guages (non-randomized controlled trials, controlled
+before-after studies, prospective or retrospective cohorts,
+case-control studies) on adults, adolescents or children
+with asthma diagnosis. Studies assessing treatment with
+LABAs plus ICs (either as two separate inhalers or as a
+single inhaler) compared with ICs monotherapy were
+considered, regardless of the dose (see Additional file 1).
+Co-therapy such as immunomodulators and leukotriene
+modifiers were not excluded. We defined‘severe exacerba-
+tion’ following the American Thoracic Society/European
+Respiratory Society statement [18] which was based on ur-
+gent health care utilization: asthma-related emergency
+department (ED) visits, hospitalizations, intubations, in-
+tensive care unit (ICU) admissions, and use of systemic
+corticosteroids were considered either specific or com-
+bined outcomes.
+Two members of the study team, a physician (GH)
+and a pharmacist (MA), independently reviewed studies
+found in the literature search by examining titles, ab-
+stracts, and full text articles. A third reviewer (MF) re-
+solved discrepancies. A pilot test was performed to
+homogenize criteria among reviewers. Finally, the se-
+lected articles’ reference lists were reviewed to identify
+other possible studies that could be included.
+Data were extracted by agreement of two reviewers
+using a standardized, predefined data collection form,
+including: study and participants characteristics, inter-
+ventions, comparator, outcomes, asthma severity, co-
+medication, and ethics consideration of each study.
+Authors were contacted if clarification was needed.
+The risk of bias in the identified studies was assessed
+using a checklist developed by members of the Cochrane
+Non-Randomised Studies Methods group [19]. We
+assessed 4 categories of potential biases: groups of com-
+parison, reasons for allocation in groups, parts of the
+study that were prospective, and group comparability
+(Additional file 1).
+Analytic strategy
+Reported adjusted OR and 95% confidence intervals
+(95% CI) for the comparison of ICs plus LABAs versus
+ICs alone were considered. Where adjusted ORs were
+not reported, unadjusted ORs were held. To assess the
+risk of severe exacerbation in patients with asthma
+treated with LABAs plus ICs, compared to those treated
+only with ICs, meta-analyses were carried out for indi-
+vidual specific adverse events and combined outcomes.
+Subgroup analyses for children and administration mode
+were planned. The summary OR and 95% CI estimated
+in the meta-analyses, together with ORs from individual
+studies, were presented in forest plots.
+Heterogeneity among studies was evaluated using
+Galbraith plot and I2 statistic categorized as follows: <30%
+not important; 30%-50% moderate; 50%-75% substantial;
+and 75%-100% considerable [19]. If significant heterogen-
+eity was identified among studies, further examination of
+the individual studies was conducted, and random effects
+models (Dersimonian-Laird Method) were used to obtain
+the summary OR estimates. Otherwise, fixed effects
+models were used (Mantel-Haentzel Method). Publication
+bias was assessed by Egger regression asymmetry test and
+funnel plots. The meta-analytic software program used
+was STATA.12.
+Results
+Literature search results
+The literature search identified 4,415 articles (Figure 1).
+After excluding 195 duplicates, 4,220 titles and 1,759
+Hernández et al. Respiratory Research2014, 15:83 Page 2 of 12
+http://respiratory-research.com/content/15/1/83
+
+[W2122586864 PDF PAGE 3]
+abstracts were reviewed, reading fully 220 articles. The
+most frequent reason for exclusion during title and ab-
+stract review was“did not apply to any key question”
+(25.2%), and “other publication type” (42%), respectively;
+and during full text review, presenting“other study de-
+signs” (31.4%) or evaluating “other treatments” (31.4%).
+Detailed reasons for excluding manuscripts at each step
+are displayed in Additional file 1. Seventeen of the po-
+tentially relevant articles were excluded after full text
+reading (characteristics are shown in Additional file 1).
+Finally, 19 studies met the inclusion criteria.
+Characteristics of included studies
+Main characteristics of included studies are displayed in
+Table 1. The majority (16/19) were retrospective obser-
+vational cohorts based on pharmacy claims from insur-
+ance databases. These studies analysed patients with
+asthma who had initiated an inhaled treatment with
+LABAs plus ICs or ICs alone. There was also 1 prospect-
+ive observational cohort, 1 case-control study and 1
+before-after study. All the articles described studies car-
+ried out in either USA (16/19) or UK (3/19). Regarding
+sample size, number of participants varied from 50
+(Nguyen WT et al. 2005) [20] to 514,216 (Guo JJ et al.
+2011) [21]. All articles included have been approved by
+their Ethics Committee
+Assessment of risk of bias in individual studies
+An overview of the risk of bias in individual studies is
+shown in Figure 2. First, all studies compared the
+LABAs plus ICs group with the ICs alone group, as this
+was an inclusion criterion. Therefore, risk of bias in this
+item was not identified. Second, risk related to allocation
+was intermediate since patients were allocated by treat-
+ment decisions and not by location differences, partici-
+pant’s preferences, or based on outcomes. Third, we
+considered the risk related to retrospective design as inter-
+mediate, because the outcomes assessment was retro-
+spective and the generation of hypothesis was prospective.
+Fourth, risk of bias related to groups’ comparability was
+Figure 1Flow chart diagram.
+Hernández et al. Respiratory Research2014, 15:83 Page 3 of 12
+http://respiratory-research.com/content/15/1/83
+
+[W2122586864 PDF PAGE 4]
+Table 1 Characteristics of included studies
+Author and
+publication year
+Study
+design
+Sample
+size (n)
+Age
+(years)
+Administration
+mode
+Follow-up
+period
+Ascertainment of
+asthma
+Outcomes Endpoint
+measureSpecific Combined
+Wells et al., 2012 [22] RC 1,828 12-56 Single inhaler *2.1(2.0) years Asthma treatment ————— 1- Asthma-related hospitalization OR
+asthma-related ED visit OR Systemic
+Corticosteroid use
+aHR
+Jacobs et al., 2012 [23] C-C 181 4-18 Not stated NA Clinical diagnosis 1- ICU admission ————— aOR OR
+2- Deaths3- Intubation4- Positive air pressure use
+Stanford et al., 2012 [24] RC 10,837 65-79 Single inhaler 12 months Claims for asthma 1- Asthma-related
+hospitalization
+1- Asthma-related hospitalization OR
+asthma-related ED visits
+aHR
+2- Asthma-related ED visits
+3- Systemic Corticosteroid
+use
+Guo et al., 2011 [21] RC 514,216 0-40 Single & Separate
+inhalers
+- Claims for asthma ————— 1- Asthma-related hospitalization OR
+asthma-related ED visits OR Asthma-relatedintubations
+aHR
+Stanford et al., 2010 [25] RC 50,428 > 4 Single inhaler *290.4 (102.8)
+days
+Claims for asthma 1- Asthma-related
+hospitalization
+1- Asthma-related hospitalization OR
+asthma-related ED visits
+aHR
+2- Asthma-related ED visits
+Hagiwara et al., 2010 [26] RC 894 12-64 Single inhaler 3-12 months Claims for asthma 1-Asthma-related
+hospitalization
+1- Hospitalization OR ED visits aOR
+2-Asthma-related ED visits 2- Hospitalization OR ED visits OR
+Systemic Corticosteroid use3-Use of SABAs
+Delea et al., 2010 [27] RC 1,744 > 12 Single inhaler 3-12 months Claims for asthma 1- ED visits 1- ED visits OR Hospitalization aOR
+2- ED visits OR hospitalization OR
+Systemic Corticosteroid use
+de Vries et al., 2010 [28] RC 467,639 >18 Not stated 5 years Claims for asthma 1- All mortality; ————— aRR
+2- Asthma-related mortality3-Asthma-related
+hospitalization
+4-GP visits for exacerbation
+Lee et al., 2010 [29] RC 28,074 18-56 Single & Separate
+inhalers
+12 months Claims for asthma 1- Asthma-related
+hospitalization
+————— OR
+2-Asthma-related ED visits
+3-Systemic Corticosteroid
+use
+4- SABAs use
+Hernándezet al. Respiratory Research2014,15:83Page 4 of 12
+http://respiratory-research.com/content/15/1/83
+
+[W2122586864 PDF PAGE 5]
+Table 1 Characteristics of included studies(Continued)
+Thomas et al., 2009 [30] RC 64,348 10-58 Single & Separate
+inhalers
+12 months Claims for asthma
+and asthma
+treatment
+1- Respiratory
+Hospitalization
+1- Asthma-related hospitalization OR
+asthma-related ED visits OR > 2 prescription
+of Systemic Corticosteroid uses OR
+SABA prescription
+aOR
+2- Systemic Corticosteroid
+use
+3- SABAs use
+Stanford et al., 2008 [31] RC 58,270 > 12 Single inhaler 12 months Claim for asthma 1-Asthma-related
+Hospitalization
+1- Asthma-related ED visits OR
+asthma-related Hospitalization
+aOR
+2- Asthma-related ED visits aHR
+Campbell et al., 2008 [32] PC 684 > 18 Single inhaler 24 months Severe asthma ————— 1- Asthma-related hospitalization OR
+asthma-related ED visit OR Systemic
+Corticosteroid use
+aOR OR
+Colice et al., 2008 [33] RC 1,283 6-64 Not stated 12 months Claims for asthma 1- Asthma-related
+hospitalization
+————— OR
+2- Asthma-related ED visits
+Delea et al., 2008 [34] RC 2,269 > 5 Single & Separate
+inhalers
+12 months Claims for asthma 1- Asthma-related
+hospitalization
+1- Asthma-related hospitalization OR ED
+visits OR Systemic Corticosteroid use OR
+alternative study medication
+aOR
+2- Asthma-related ED visits 2- Asthma-related hospitalizations OR ED
+visits OR oral corticosteroid
+3- Oral corticosteroids use 3- Asthma-related hospitalization OR ED
+visits hospitalization
+Friedman et al., 2007 [35] RC 5,503 12-65 Single inhaler 12 months Claims for asthma 1-Asthma-related
+hospitalization
+————— aOR
+2-Asthma-related ED visits
+3- Any ED visits
+Zhang et al., 2007 [36] RC 2,596 15-55 Single & Separate
+inhalers
+12 months Claims for asthma 1- Oral corticosteroid use 1- Asthma-related hospitalization OR
+asthma-related ED visits
+OR
+2- SABA use
+Stempel et al., 2006 [37] RC 9,192 4-17 Single inhaler 12 months Claims for asthma 1- SABA use 1- Asthma-related hospitalization OR
+asthma-related ED visit
+aRR
+2-Corticosteroids use
+O’Connor et al., 2005 [38] RC 2,414 > 15 Single & Separate
+inhalers
+12 months Claims for asthma ————— 1- Ast

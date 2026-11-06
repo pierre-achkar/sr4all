@@ -1,0 +1,160 @@
+thian, T. 1996 America 48.4 (4–89 y) 6(1–60 y) 6 y(1–16 y)
+Thevenet, F . 1993 France 36 ±  14 y 54 ±  58 m 54 ±  58 m
+Etienne, T. 1993 Suisse NR NR NR
+Dogan, R. 1989 Turkey 25.5 y(2–56) infancy/early childhood 4.6 y(4 m-10 y)
+George, S. A. 1979 USA 44.5 y(6–63) NR 10 y
+Sanderson, J. M. 1974 England NR NR 1–15 y
+Spath, F . 1969 Germany 6–67 y NR NR
+Table 1. Characteristics of the studies included in the meta-analysis. Abbreviations: NR, not reported; y, 
+years; m, months; d, day.
+
+[W2187322447 PDF PAGE 5]
+www.nature.com/scientificreports/
+5
+Scientific  RepoRts  | 5:17382 | DOI: 10.1038/srep17382
+Figure 2. Forest plot assessed morbidity of surgery for the treatment of non-CF bronchiectasis. 
+subgroups
+No. of 
+studies RR (95%CI) Heterogeneity
+Statistical 
+method
+(I2%) p
+Morbidity
+Published year < 2010 19 0.156(0.127–0.184) 70.3 < 0.001 random
+Published year ≥ 2010 12 0.15(0.092–0.207) 95.6 < 0.001 random
+Developed countries 8 0.161(0.127–0.195) 69.8 0.002 random
+Developing countries 23 0.154(0.117–0.192) 93.8 < 0.001 random
+Asian 23 0.156(0.118–0.194) 93.7 < 0.001 random
+European/Latin-America 8 0.161(0.127–0.195) 69.4 0.002 random
+Children 5 0.135(0.103–0.167) 0 0.495 fixed
+Adult 26 0.162(0.125–0.198) 93.6 < 0.001 random
+Symptom duration < 5 y 15 0.153(0.102–0.205) 95 < 0.001 random
+Symptom duration ≥ 5 y 8 0.148(0.114–0.181) 65.9 < 0.001 random
+Overall 33 0.167(0.148–0.186) 92.8 < 0.001 random
+Mortality
+Published year < 2010 20 0.024(0.018–0.033) 0 0.349 Fixed
+Published year ≥ 2010 14 0.013(0.004–0.036) 47 < 0.01 Random
+Developed countries 8 0.018(0.009–0.034) 0 0.462 fixed
+Developing countries 26 0.015(0.008–0.028) 45.3 < 0.01 random
+Asian 24 0.014(0.007–0.027) 45.6 < 0.01 random
+European/Latin-America 10 0.02(0.011–0.035) 0 0.457 fixed
+Children 5 0.025(0.012–0.053) 22.1 0.188 fixed
+Adult 29 0.014(0.008–0.025) 44.8 < 0.01 random
+Symptom duration < 5 y 15 0.014(0.005–0.037) 46.7 < 0.01 random
+Symptom duration ≥ 5 y 10 0.023(0.016–0.034) 15.9 0.212 fixed
+Overall 34 0.015(0.009–0.025) 44.1 < 0.01 random
+Table 2. Overall and subgroup meta-analyses of surgical morbidity and mortality to non-CF 
+bronchiectasis. Abbreviations: 95% CI, 95% confidential interval; RR, risk ratio.
+
+[W2187322447 PDF PAGE 6]
+www.nature.com/scientificreports/
+6
+Scientific  RepoRts  | 5:17382 | DOI: 10.1038/srep17382
+(Begg’s test, p =  0.417, Eger’s test, p =  0.921). In the analysis of surgical mortality and symptom changes 
+after surgery, the resultant funnel shape was asymmetrical, indicating publication bias (Supplementary 
+Figure 2–5).
+Discussion
+In this study, we sought to investigate the efficiency and safety of lung resection to patients with 
+non-cystic fibrosis bronchiectasis by conducting meta-analyses. We included 38 articles covering 5541 
+subjects. Findings from meta-analyses showed that the operative morbidity and mortality were 16.7% 
+and 1.5%, indicating that surgical intervention has an acceptable risk profile for patients with non-CF 
+bronchiectasis. Follow-up results showed that 66.5% of patients became asymptomatic and 27.5% of 
+patients alleviated symptoms after surgical treatment, suggesting surgery intervention for the treatment 
+of non-CF bronchiectasis can serve as an effective treatment.
+Studies reported surgical treatment for non-CF bronchiectasis was relatively rare in developed coun -
+tries15,23,26,37–45, especially after the year of 2001, only three studies reported 15,23,26. A possibility is that 
+with the improvements in medical treatment and health insurance, the incidence of non-CF bronchiec -
+tasis is decreased in developed countries. However, despite the advent of antibiotics, it is still a signifi -
+cant clinical problem in developing countries because of tuberculosis, pneumonia, pertussis, and serious 
+rubellainfections14,52.
+The goal of therapy for non-CF bronchiectasis aims to relief symptoms and improve the quality of 
+life53–55. Our study demonstrated that the effects of surgical intervention for treatment of non-CF bron -
+chiectasis were notable, for most of the patients it diminished or eliminated symptoms after lung resec -
+tion. The removal of diseased lung harboring persistent infection and inflammation would not only a 
+benefit to adjacent healthy parenchyma of lung but also to patients’ systemic condition, which would pre-
+vent the progression of disease 7. Vallilo and his colleages demonstrated that patients with symptomatic 
+Figure 3. Forest plot assessed mortality of surgery for the treatment of non-CF bronchiectasis. 
+
+[W2187322447 PDF PAGE 7]
+www.nature.com/scientificreports/
+7
+Scientific  RepoRts  | 5:17382 | DOI: 10.1038/srep17382
+Heterogeneity
+subgroups
+No. of 
+studies RR (95%CI) Z P value (I2%) P Egger p
+Statistical 
+method
+Asymptomatic
+Published year < 2010 23 0.628(0.547–0.708) 15.27 < 0.01 94.9 < 0.01 0.517 Random
+Published year ≥ 2010 12 0.733(0.69–0.777) 32.92 < 0.01 78.6 < 0.01 0.965 Random
+Developed countries 10 0.579(0.425–0.732) 7.39 < 0.01 96.2 < 0.01 0.148 Random
+Developing countries 25 0.711(0.677–0.746) 40.64 < 0.01 79.7 < 0.01 0.115 Random
+Asian/Africa 25 0.714(0.68–0.748) 41.37 < 0.01 79.9 < 0.01 0.151 Random
+European/Latin–America 10 0.563(0.409–0.717) 7.16 < 0.01 96 < 0.01 0.277 Random
+Children 5 0.585(0.440–0.730) 7.9 < 0.01 86.2 < 0.01 0.131 Random
+Adult 26 0.715(0.68–0.749) 40.62 < 0.01 78 < 0.01 0.121 Random
+Symptom duration < 5 y 17 0.696(0.656–0.737) 33.65 < 0.01 76.2 < 0.01 0.458 Random
+Symptom duration ≥ 5 y 11 0.689(0.624–0.754) 20.91 < 0.01 86.4 < 0.01 0.051 Random
+Follow-up period < 5 y 19 0.733(0.703–0.764) 47.61 < 0.01 68.3 < 0.01 0.872 Random
+Follow-up period ≥ 5 y 12 0.561(0.408–0.714) 7.19 < 0.01 96.7 < 0.01 0.001 Random
+overall 35 0.665(0.613–0.717) 25.18 < 0.01 93.4 < 0.01 0.007 Random
+Alleviation
+Published year < 2010 23 0.253(0.175–0.331) 6.35 < 0.01 94.3 < 0.01 0.067 Random
+Published year ≥ 2010 12 0.238(0.167–0.310) 6.5 < 0.01 94.7 < 0.01 0.039 Random
+Developed countries 10 0.385(0.253–0.517) 5.72 < 0.01 95.2 < 0.01 0.67 Random
+Developing countries 25 0.227(0.183–0.271) 10.09 < 0.01 90.4 < 0.01 0.009 Random
+Asian 23 0.193(0.164–0.222) 13.07 < 0.01 76.1 < 0.01 0.601 Random
+European/Latin–America 12 0.415(0.284–0.547) 6.18 < 0.01 95.6 < 0.01 0.719 Random
+Children 5 0.371(0.148–0.594) 3.27 0.001 96.1 < 0.01 0.764 Random
+Adults 26 0.202(0.173–0.231) 13.53 < 0.01 76.7 < 0.01 0.657 Random
+Symptom duration < 5y 20 0.213(0.182–0.244) 13.47 < 0.01 69.7 < 0.01 0.013 Random
+Symptom duration ≥ 5 y 11 0.272(0.183–0.361) 5.99 < 0.01 93.7 < 0.01 0.01 Random
+Follow-up period < 5 y 21 0.227(0.179–0.275) 9.27 < 0.01 90.3 < 0.01 0.014 Random
+Follow-up period ≥ 5 y 9 0.326(0.196–0.455) 4.92 < 0.01 95 < 0.01 0.013 Random
+overall 35 0.275(0.225–0.325) 10.72 < 0.01 94.2 < 0.01 0.01 Random
+Table 3. Overall and subgroup meta-analyses of symptomatic improvement to non-CF bronchiectasis 
+through surgery. Abbreviations: 95% CI, 95% confidential interval; RR, risk ratio.
+Subgroups
+No. of 
+studies Proportion(95% CI) Tau-Squared H Q
+Heterogeneity
+Statistical 
+method(I2%) p
+Air leak > 7 days 33 0.036(0.028–0.048) 0.229 0.592 0.985 34.4 0.001 Random
+Atelectasis 33 0.036(0.025–0.057) 0.425 0.677 0.993 43.6 < 0.01 Random
+Hemorrhage 33 0.018(0.014–0.022) 0 0.468 0.961 0 0.45 Fixed
+Bronchopleural fistula 33 0.016(0.011–0.022) 0.238 0.554 0.98 26.1 0.025 Fixed
+Empyema 33 0.026(0.02–0.036) 0.25 0.585 0.985 33.2 0.001 Random
+Wound infection 33 0.015(0.009–0.024) 0.467 0.622 0.989 38.7 < 0.01 Random
+Cardiac arrhythmias 33 0.014(0.009–0.022) 0.434 0.599 0.986 35.5 < 0.01 Random
+Pneumonia 33 0.023(0.018–0.030) 0.158 0.533 0.976 18.7 0.108 Fixed
+Table 4. Complications after surgery for non-CF bronchiectasis. Abbreviations: 95% CI, 95% confidential 
+interval.
+
+[W2187322447 PDF PAGE 8]
+www.nature.com/scientificreports/
+8
+Scientific  RepoRts  | 5:17382 | DOI: 10.1038/srep17382
+non-cystic fibrosis bronchiectais experience a significant improvement in their quality of life (QOL) after 
+resection of compromised areas in the lung and exercise capacity after operation 8. However, there was 
+still 9.1% proportion of patients who showed no improvement or worse condition. It was reported that 
+an immunocompromised status, Pseudomonas aeruginosa  infection and the extent of residual bronchi-
+ectasis were independent and significant risk factors affecting the surgical outcome in the management 
+of bronchiectasis15. Subgroup analyses showed that patients with symptom duration of more than five 
+years had a relatively lower proportion of no improvement or worse condition, indicating that patients 
+with a late stage of disease still could benefit from surgical treatment.
+Subgroup analysis showed the pooled morbidity was a little higher among adults compared with 
+children. A possible reason for surgical treatment in adults with higher morbidity maybe owing to more 
+comorbidities in adults, such as diabetes and heart disease. Additionally, studies that reported operation 
+treatment to children bronchiectasis were all after 2003. Over the years, the improvement of immuni-
+zation and health care may also account for it. As for the mortality, it wasrelatively higher in children 
+than in adults, possibly due to low immune maturity and tolerance to surgery compared to adults 12. The 
+mortality was relatively higher among patients whose symptom duration was more than five years, pos-
+sibly, accounted forbacterial infection and extent of involved parenchyma. When stratified by published 
+year, post-operative mortality was relatively lower in the recent five years. The improvement of health 
+care and advance of medicine may account for it.
+The safety issue is an important consideration when applying surgical intervention to non-CF bron-
+chiectasis. The most addressed complication was air leak more than seven days and atelectasis, with 
+a proportion of 3.6%. Failure to control peri-operative infection, causing accumulated secretion by 
+intra-tracheal bacteria, might lead to atelectasis. Insufficient blood supply 

@@ -1,0 +1,182 @@
+
+
+REVIEW W4392109527
+TITLE: Whole-family programmes for families living with parental mental illness: a systematic review and meta-analysis
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4392109527 PDF PAGE 1]
+Vol.:(0123456789)
+European Child & Adolescent Psychiatry (2024) 33:3203–3246 
+https://doi.org/10.1007/s00787-024-02380-3
+ORIGINAL CONTRIBUTION 
+Whole‑family programmes for families living with parental mental 
+illness: a systematic review and meta‑analysis
+B. Moltrecht1,2  · Aurelie M. C. Lange3  · H. Merrick4  · J. Radley5 
+Received: 15 August 2023 / Accepted: 8 January 2024 / Published online: 23 February 2024 
+© The Author(s) 2024
+Abstract
+Several interventions have been developed to support families living with parental mental illness (PMI). Recent evidence 
+suggests that programmes with whole-family components may have greater positive effects for families, thereby also reduc-
+ing costs to health and social care systems. This review aimed to identify whole-family interventions, their common char -
+acteristics,  effectiveness and acceptability. A systematic review was conducted according to PRISMA 2020 guidelines. A 
+literature search was conducted in ASSIA, CINAHL, Embase, Medline, and PsycINFO in January 2021 and updated in 
+August 2022. We double screened 3914 abstracts and 212 papers according to pre-set inclusion and exclusion criteria. The 
+Mixed Methods Appraisal Tool was used for quality assessment. Quantitative and qualitative data were extracted and synthe-
+sised. Randomised-control trial data on child and parent mental health outcomes were analysed separately in random-effects 
+meta-analyses. The protocol, extracted data, and meta-data are accessible via the Open Science Framework (https:// osf. io/ 
+9uxgp/). Data from 66 reports—based on 41 independent studies and referring to 30 different interventions—were included. 
+Findings indicated small intervention effects for all outcomes including children’s and parents’ mental health (d c = −0.017, 
+−027; dp = −0.14, −0.16) and family outcomes. Qualitative evidence suggested that most families experienced whole-family 
+interventions as positive, highlighting specific components as helpful, including whole-family components, speaking about 
+mental illness, and the benefits of group settings. Our findings highlight the lack of high-quality studies. The present review 
+fills an important gap in the literature by summarising the evidence for whole-family interventions. There is a lack of robust 
+evidence coupled with a great need in families affected by PMI which could be addressed by whole-family interventions. 
+We recommend the involvement of families in the further development of these interventions and their evaluation.
+Keywords Parental mental illness · Family mental health · Mental health intervention · Mental health prevention · 
+Systematic review · Family programme
+Background
+Parental mental illness (PMI) negatively affects the life and 
+mental health of all family members. Children of parents with 
+mental illness are at increased risk of developing mental health 
+difficulties as well as interpersonal, academic, and social diffi-
+culties in comparison to children growing up with parents who 
+do not experience mental health difficulties. Furthermore, it 
+has been reported that families with parental mental illness are 
+more likely to experience social exclusion and are less likely to 
+ * B. Moltrecht 
+ b.moltrecht@ucl.ac.uk
+ Aurelie M. C. Lange 
+ a.m.c.m.j.g.lange@hva.nl
+ H. Merrick 
+ hannah.merrick@ncl.ac.uk
+ J. Radley 
+ jessica.radley@kcl.ac.uk
+1 Evidence-Based Practice Unit, Anna Freud Centre, 
+University College London, London, UK
+2 Centre for Longitudinal Studies, University College London, 
+London, UK
+3 Centre for Applied Research on Social Sciences and Law, 
+Amsterdam University of Applied Sciences, Amsterdam, 
+The Netherlands
+4 Population Health Sciences Institute, Newcastle University, 
+Newcastle Upon Tyne, UK
+5 King’s College London, Institute of Psychiatry, Psychology 
+and Neuroscience, London, UK
+
+[W4392109527 PDF PAGE 2]
+3204 European Child & Adolescent Psychiatry (2024) 33:3203–3246
+seek help. Due to this need, several psychosocial intervention 
+programmes have been developed and implemented across 
+different settings to support families (mostly parents and their 
+children) living with parental mental illness [1, 2].
+Most studies and reviews investigating the impact of 
+interventions for families affected by PMI have focused on 
+parent-only or child-only interventions [3]. However, recent 
+evidence suggests that programmes with a family component, 
+where both children and parents/carers receive support, may 
+have greater impact as they benefit all family members and 
+can therefore reduce costs to health and social care systems 
+[2]. Qualitative research with parents has also highlighted that 
+parents value whole-family approaches [4]. A few systematic 
+reviews investigating programmes to support families with 
+PMI have been conducted in recent years, reporting small 
+effects of treating and preventing the development of mental 
+illness in children [1, 2, 5]. The majority of systematic reviews 
+[1–3, 5–7] primarily reported on child mental health outcomes 
+and neglected to investigate a more comprehensive picture by 
+also looking at outcomes relating to parental mental health and 
+family functioning. Additionally, none of the recent reviews 
+have investigated or reflected on the available evidence in rela-
+tion to how families experience these whole-family interven-
+tions [7]. Furthermore, a recent systematic review of reviews 
+investigating PMI interventions, highlighted that most studies 
+so far had focused on mothers, and in particular the perinatal 
+period [3].
+Based on the above, the present review focuses on whole-
+family interventions that include at least parents/carers and 
+their children. We aim to provide an overview of the inter -
+ventions available for families affected by PMI, their charac-
+teristics and components, and the existing evidence around 
+the interventions’ effectiveness in improving child and parent 
+mental health outcomes as well as family outcomes. Addition-
+ally, we will investigate how families have experienced the 
+interventions.
+We answer the following research questions:
+1. What types of whole-family interventions are available 
+for families living with parental mental illness?
+2. What are the core components of these whole-family 
+interventions?
+3. What is the evidence base for existing whole-family 
+interventions and their effectiveness in enhancing child 
+and parent mental health outcomes, and family out-
+comes?
+4. How have families experienced taking part in whole-
+family interventions?
+Methods
+The systematic review is reported in line with the PRISMA 
+2020 [8]. All review documents and data are accessible via 
+the project page on the Open Science Framework [9 ].
+Search strategy and selection criteria
+A literature search was conducted in ASSIA, CINAHL, 
+Embase, Medline, and PsycINFO on 28th of January 
+2021, and an updated search was conducted in the same 
+databases on the 3rd of August 2022 (see Supplement 
+material ‘Search strategy’ for details). Identified records 
+were exported into the Rayyan systematic review software 
+[10]. References of relevant literature reviews were further 
+screened for additional publications and manually added. 
+Reports identified during the full-text screening, referring 
+to the same study, were also added retrospectively. Our 
+literature search focused primarily on reports published 
+in peer-reviewed journals; however, we also screened the 
+preprint server PsyArXiv and Google Scholar for studies 
+and reports published elsewhere. Furthermore, we asked 
+third sector organisations in our networks (i.e., Anna 
+Freud National Centre and the Mental Health Foundation) 
+to share relevant reports.
+All abstracts and titles were screened (double-blind) 
+by at least two researchers (HM, BM, KJ, JR, and AL). 
+Four researchers conducted a pilot by screening the same 
+ten reports against the selection criteria which were sub-
+sequently discussed with the team to clarify uncertainties 
+before commencing the rest of the screening (for details 
+and notes on adjustments and agreements made during the 
+pilot screening, see [9]). Authors initially reported disagree-
+ments in 2.6% of the cases. The research team discussed the 
+relevant papers and their eligibility until an agreement was 
+found. Following this, the research team conducted full-text 
+screenings of all remaining reports, with an initial 4% of 
+disagreement amongst raters, which were then resolved.
+We used the following criteria to screen and select 
+studies:
+Inclusion criteria
+• Families where a parent had been clinically diagnosed 
+with one or more mental illnesses, including substance 
+abuse.
+• Children’s age (sample mean) at least 5 years and 
+younger than 24 years. Age of at least 5 years was cho-
+sen as this is the age where most postnatal or parent-
+supporting interventions stop (e.g., health visitors). 
+Most interventions that focus on children younger than 
+
+[W4392109527 PDF PAGE 3]
+3205European Child & Adolescent Psychiatry (2024) 33:3203–3246 
+age 5 focus on postnatal mental illness and the mother–
+child relationship.
+• Psychosocial interventions involving the whole family 
+(at least one parent and one child were involved in at 
+least one element of the programme, either separately 
+or together).
+• Psychosocial intervention designed to support families 
+with parental mental illness.
+• Reporting results for child or parent mental health out-
+comes, family functioning, and/or families’ experiences 
+with whole-family interventions.
+• Studies published in English, German or Dutch.
+Exclusion criteria
+• Interventions were child mental or physical illness was 
+the only referral reason or the only focus of the inter -
+vention.
+• Families affected by rare or specific medical or neuro-
+logical conditions or exposed to tr

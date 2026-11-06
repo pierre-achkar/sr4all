@@ -1,0 +1,226 @@
+tract review, resulting in 28 articles being evalu-
+ated. We excluded another 14 studies: four studies failed
+to comment on the ossific nucleus, five studies reported
+on only patients with ossific nucleus or with osteonecro-
+sis, five studies failed to present numbers for hips with
+ossific nucleus and osteonecrosis. In total, we included
+14 studies in this systematic review. Three studies com-
+mented on the association between ossific nucleus and
+osteonecrosis but could not be included in the meta-
+analysis as they lacked detailed data [5, 13] or used a
+case-control design [3].
+T h ep r e v a l e n c eo fo s t e o n e c r o s i sr a n g e df r o m6t o4 8 %a c r o s s
+the 14 studies. Nine studies (64%) [4, 6 – 8, 12 – 14, 16, 19]
+showed no relationship between the ossific nucleus and
+osteonecrosis; four studies (29%) [1 – 3, 5] claimed a
+protective effect of the ossific nucleus and one study
+(7%) [20] did not comment on a potential relationship.
+Quality of evidence
+We identified one prospective cohort study [12], eleven
+retrospective cohort studies [1 – 4, 7, 8, 13, 14, 16, 19, 20],
+and two case series [5, 6]. Eight studies (57%)
+[1– 3, 7, 8, 14, 16, 20] directly investigated the relation-
+ship between the presence of the ossific nucleus and osteo-
+necrosis. The remaining six studies (43%) [4 – 6, 12, 13, 19]
+reported on this relationship without it being the
+Niziol et al. BMC Musculoskeletal Disorders  (2017) 18:165 Page 2 of 9
+
+[W2607325714 PDF PAGE 3]
+primary objective of the research. Seven studies (50%)
+[ 6 ,8 ,1 2 – 14, 19, 20] reported details about the sam-
+pling frame. The remaining studies did not comment
+on sampling. One study (7%) [20] analyzed a single-
+surgeon’s series, seven studies (50%) [5, 7, 8, 12, 13, 16, 19]
+included patients from two or more surgeons of the same
+institution; the number of surgeons involved in the treat-
+ment of included cases of DDH remained unclear in six
+studies (43%) [1 – 3, 6, 14, 16].
+We found consistency among all studies in that neuro-
+muscular hip disease, teratological dislocation and cases
+with missing imaging were not included. Other exclusion
+criteria were failed surgical treatment prior to admission
+[2, 4, 5, 7, 13, 14, 16] and postoperative septic arthritis
+[13, 19]. There was inconsistency with regard to the
+age threshold below which patients were excluded from
+the research, namely no threshold [1, 3, 5 – 7, 12 – 14, 16],
+one month [8], two months [20], three months [4, 11] and
+six months [19]. Four studies (29%) limited the upper
+age limit of patients included in the research to
+18 months [8, 14], 20 months [20] or 24 months [4].
+The number of participants in single studies varied
+from 23 to 148, the average number being 67. There
+were 166 cases of bilateral DDH (range, 0 – 38). The
+mean age at hip reduction was 8.6 months (range, 0.7 –
+35). Four studies (29%) included patients treated by
+closed reduction only, with a mean age at reduction of
+8.9 months (range, 0.8-35) [1, 14, 16, 20]. Four studies
+(29%) included patients treated by open reduction only,
+with a mean age at reduction of 11.1 months (range, 2.4 –
+24) [3 – 5, 12]. The remaining six studies (43%) included
+patients undergoing either closed or open reduction, with
+no age threshold stated for the preferred method of treat-
+m e n t[ 2 ,3 ,7 ,8 ,1 3 ,1 9 ] .
+Six studies (43%) [1, 7, 8, 12, 14, 16] presented the re-
+lationship between the presence or absence of the ossific
+nucleus and osteonecrosis in a two-by-two table and we
+were able to extract this data from another five studies
+(36%) [2, 4, 6, 19, 20]. Three studies (22%) commented
+on statistical power in that they had 80% power to detect
+differences of 20% [7], 24% [8] and 30% [13] in the
+prevalence of osteonecrosis between patients with and
+without an ossific nucleus (Table 1).
+Confounders and effect modifiers
+All studies identified age at reduction as a potential con-
+founder; however only ten studies (72%) [1 – 3, 5– 8, 12– 14]
+provided supportive statistical analyses. Two studies (14%)
+[6, 14] found that hips reduced after the age of ten months
+were more likely to develop osteonecrosis.
+Carney et al. [1] found an increased risk of osteonecro-
+sis when an adductor tenotomy was omitted during a
+closed reduction ( p = 0.007). Pospischill et al. [13] found
+an increased risk for osteonecrosis if a concomitant oste-
+otomy was done ( p < 0.05).
+The use of harness treatment, preoperative traction
+and adductor tenotomy was not universal across all
+studies. In ten studies (72%) [1 – 3, 6 – 8, 13, 14, 16, 20]
+preoperative traction was employed. However, only five
+studies (36%) [1, 3, 7, 8, 13] provided statistical
+Database Search
+May 2007 - November 2016
+69 Citation(s)
+97 Non-Duplicate
+Citations Screened
+Inclusion/Exclusion
+Criteria Applied
+Articles From Roposch et al 2009
+1966 - April 2007
+28 Citation(s)
+69 Abstracts Excluded
+28 Articles Retrieved
+Inclusion/Exclusion
+Criteria Applied
+5 Articles Excluded
+During Data Extraction
+9 Articles Excluded
+After Full Text Screen
+14 Articles Included
+Fig. 1 Flow diagram showing the search and selection process
+Niziol et al. BMC Musculoskeletal Disorders  (2017) 18:165 Page 3 of 9
+
+[W2607325714 PDF PAGE 4]
+Table 1 Ranking of studies based on their methodological quality according to the GRADE Statement [17]
+Domains of GRADE → Study design Study quality Directness Consistency
+Study Was it a
+cohort study?
+Did the study
+directly compare the
+relationship of ON
+and osteonecrosis?
+Was radiographic
+followup at least
+4 years in all
+included cases?
+Was loss-to-
+followup less
+than 20%?
+Were outcomes
+ascertained blinded
+to outcome?
+Were multivariate
+analyses performed?
+Was a risk ratio
+with confidence
+intervals reported?
+Were all conclusions
+about the relationship
+between ON and
+osteonecrosis
+supported by data?
+Were participants,
+interventions and
+outcome measures
+similar to those
+of interest in clinical
+practice?
+Were estimates
+of effect (results)
+similar to other
+studies?
+Roposch et al. (2011) [ 8] ✓✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓
+Sllamniku et al. (2013) [ 14] ✓✓ ✓ ✓ ✘ ✘ ✓ ✓ ✓ ✓
+Sibinski et al. (2009) [ 16] ✓✓ ✓ ✓ ✘ ✘ ✘ ✓ ✓ ✓
+Pospischill et al. (2011) ✓✘ ✓ ✘✘ ✓ ✓ ✓ ✓ ✓
+Madhu et al. (2013) [ 19] ✓✘ ✘ ✓ ✓ ✘ ✘ ✓ ✓ ✓
+Luhmann et al. (1998) [ 7] ✓✓ ✘ ✓ ✘ ✘ ✘ ✓ ✓ ✓
+Segal et al. (1999) [ 3] ✘✓ ✘ ✓ ✘ ✓ ✓ ✓ ✓ ✘
+Clarke et al. (2005) [ 2] ✓✓ ✘ ✓ ✘ ✘ ✘ ✓ ✓ ✘
+Carney et al. (2004) [ 1] ✓✓ ✘ ✓ ✘ ✘ ✘ ✓ ✓ ✘
+Cooke et al. (2010) [ 20] ✘✓ ✓ ✓ ✘ ✘ ✘ ✘ ✓ ✘
+Agus et al. (2002) [ 12] ✘✘ ✘ ✓ ✘ ✘ ✘ ✓ ✓ ✓
+Konigsberg et al. (2003) [ 6] ✓✘ ✘ ✓ ✘ ✘ ✘ ✘ ✓ ✓
+Tarassoli et al.(2014) [ 4] ✓✘ ✘ ✓ ✘ ✘ ✘ ✘ ✓ ✘
+Zamzam et al. (2009) [ 5] ✓✘ ✘ ✓ ✘ ✘ ✘ ✘ ✓ ✘
+Niziol et al. BMC Musculoskeletal Disorders  (2017) 18:165 Page 4 of 9
+
+[W2607325714 PDF PAGE 5]
+analyses and found no relationship between traction
+and osteonecrosis.
+Five studies (36%) [1, 3, 7, 8, 13] examined the effect
+of failed harness treatment and osteonecrosis and no
+such effect was seen.
+Meta-analysis
+A meta-analysis of 11 studies (1,021 hips) [1, 2, 4, 6 – 8,
+12, 14, 16, 19, 20] showed no protective effect of the
+ossific nucleus on the development of osteonecrosis
+grades I-IV. 121/589 (21%) hips with an ossified nucleus
+developed osteonecrosis compared with 75/432 (17%) in
+the group without an ossific nucleus (relative risk, 0.87;
+95% confidence interval, 0.55-1.38) (Fig. 2).
+An analysis of osteonecrosis grades II – IV included
+six studies (471 hips) [1, 2, 4, 7, 8, 12]. 33/303 (11%)
+hips with an ossific nucleus developed osteonecrosis
+compared with 30/168 (18%) without an ossific nucleus
+(relative risk, 0.67; 95% confidence interval, 0.41-1.08)
+(Fig. 3).
+In 253 hips treated by closed reduction only, the ossific
+nucleus reduced the risk for osteonecrosis of grades II-IV
+by 50%. 14/153 (9%) hips with an ossific nucleus devel-
+oped osteonecrosis compared with 20/100 (20%) in the
+group without an ossific nucleus (relative risk, 0.50; 95%
+confidence interval, 0.26-0.94) (Fig. 4). The reminder of
+the subgroup analyses did not show significant effects
+(Figs. 5, 6 and 7).
+Publication bias
+The generated Begg ’s funnel plots showed points that
+were evenly distributed and symmetrical (Fig. 8). This
+shows that there is minimal publication bias and the
+results of this meta-analysis are credible.
+Discussion
+Studies about the role of the femoral head ossific nucleus
+in preventing osteonecrosis following treatment of DDH
+reported conflicting results, but a 2009 meta-analysis
+concluded that there was no such effect unless only
+osteonecrosis grades II-IV were considered [9]. The meta-
+analysis, limited due to the small number of studies avail-
+able at that time, identified a need for an update as further
+research emerges. We observed a trend in recent years
+towards delaying treatment of DDH in the absence of an
+ossified nucleus [1, 3, 21]. Numerous new publications on
+this topic encouraged us to update the 2009 meta-analysis
+in the hope to find robust conclusions.
+With 11 studies or 1021 infants, this updated meta-
+analysis included twice as many studies and three times
+as many infants as the one published previously [9]. The
+primary outcome, development of osteonecrosis of any
+grade, remained similar with a relative risk of 0.75 (95%
+Fig. 2 Forest plot for the development of osteonecrosis of any grade at two or more years following open or closed reduction. Including the
+data of 11 studies, 1,021 hips were analyzed. There was no statistically significant association between the ossific nucleus and the development
+of osteonecrosis
+Fig. 3 Forest plot for the development of osteonecrosis of grade II or worse at two or more years following open or closed reduction. Including
+the data of six studies there were 471 hips analyzed. There was no statistically significant association between the ossific nucleus and the
+development of osteonecrosis
+Niziol et al. BMC Musculoskeletal Disorders  (2017) 18:165 Page 5 of 9
+
+[W2607325714 PDF PAGE 6]
+confidence interval, 0.46 – 1.21) in the 2009 study, com-
+pared with 0.87 (0.55 – 1.38) in the pre

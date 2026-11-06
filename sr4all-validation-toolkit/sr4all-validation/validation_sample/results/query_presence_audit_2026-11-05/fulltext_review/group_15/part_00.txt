@@ -1,0 +1,168 @@
+
+
+REVIEW W2944555439
+TITLE: Mental health of people detained within the justice system in Africa: systematic review and meta-analysis
+SOURCE_NOTES: [{"annotator": "mert_okur", "field": "keywords_used", "comment": "keywords extracted are correct, but span should include: \n\nh. Search\nsyntax and controlled vocabulary words were modified\nfor each database. Complete search terms for each data-\nbase are in Additional file 1: Appendix S"}]
+EXTRACTION_ERROR: None
+
+[W2944555439 PDF PAGE 1]
+Lovett et al. Int J Ment Health Syst           (2019) 13:31  
+https://doi.org/10.1186/s13033-019-0273-z
+REVIEW
+Mental health of people detained 
+within the justice system in Africa: systematic 
+review and meta-analysis
+Aish Lovett1, Hye Rim Kwon2, Khameer Kidia3,4* , Debra Machando3,5, Megan Crooks6, Gregory Fricchione7, 
+Graham Thornicroft8 and Helen E. Jack3,8,9
+Abstract 
+Worldwide, people with mental disorders are detained within the justice system at higher rates than the general 
+population and often suffer human rights abuses. This review sought to understand the state of knowledge on the 
+mental health of people detained in the justice system in Africa, including epidemiology, conditions of detention, and 
+interventions. We included all primary research studies examining mental disorders or mental health policy related 
+to detention within the justice system in Africa. 80 met inclusion criteria. 67% were prevalence studies and meta-
+analysis of these studies revealed pooled prevalence as follows: substance use 38% (95% CI 26–50%), mood disorders 
+22% (95% CI 16–28%), and psychotic disorders 33% (95% CI 28–37%). There were only three studies of interventions. 
+Studies examined prisons (46%), forensic hospital settings (37%), youth institutions (13%), or the health system (4%). 
+In 36% of studies, the majority of participants had not been convicted of a crime. Given the high heterogeneity in 
+subpopulations identified in this review, future research should examine context and population-specific interven-
+tions for people with mental disorders.
+© The Author(s) 2019. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License 
+(http://creat iveco mmons .org/licen ses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, 
+provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, 
+and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creat iveco mmons .org/
+publi cdoma in/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Introduction
+Investments in mental health care and research are criti -
+cal: globally, psychiatric and neurological disorders com -
+prise approximately 13% of the disability-adjusted life 
+years and nearly one-third of years lived with disability 
+[1]. The prevalence of mental illness is higher among peo-
+ple detained within the justice system (PDJS) compared 
+to the general population [2–9]. In this review, PDJS are 
+defined as people detained or incarcerated in prisons, 
+jails, youth institutions, or forensic inpatient units of 
+hospitals. In accordance with the World Health Organi-
+zation (WHO)’s  definition, a forensic inpatient unit is 
+“exclusively maintained for the evaluation or treatment of 
+people with mental disorders who are involved with the 
+justice system. These units can be located in mental hos-
+pitals, general hospitals, or elsewhere. ” [10]. This review 
+uses an inclusive definition of detention to respond to 
+the scarcity of research on PDJS’s mental health in Africa, 
+particularly for people detained outside of prisons. Inter-
+national systematic reviews on the mental health of PDJS 
+show that populations in prisons are multiple times more 
+likely to have several major mental disorders [2, 4, 5, 9] 
+and have a three to sixfold higher risk of death by suicide 
+[3]. More than 10 million people are held in penal institu-
+tions worldwide [11], and have increased risk of adverse 
+outcomes such as all-cause mortality, suicide, self-harm, 
+violence, and victimization [3]. The prevalence of mental 
+disorders in African countries is of particular concern due 
+to resource constraints for mental health and expansion 
+of the movement to shift resources from institutions to 
+community-based care in low- and middle-income coun-
+tries (LMICs) [12, 13]. In 2017, there were 2.5 total mental 
+health beds per 100,000 population in African countries 
+as a whole, 80% of which were in psychiatric hospitals 
+[10], illustrating a contrast between where most existing 
+mental health resources go (hospitals) and where services 
+may be needed and, in reality, delivered (the community). 
+There is, however, an international movement, including 
+Open Access
+International Journal of
+Mental Health Systems
+*Correspondence:  kkidia@gmail.com 
+3 Kushinga, 8 Collina Close, Borrowdale, Harare, Zimbabwe
+Full list of author information is available at the end of the article
+
+[W2944555439 PDF PAGE 2]
+Page 2 of 41Lovett et al. Int J Ment Health Syst           (2019) 13:31 
+in Africa, to shift resources from a country’s psychiat -
+ric hospital or hospitals to other forms of mental health 
+services [14, 15]. This movement recognizes that most 
+people in low-resource settings have been receiving care 
+in the community (if at all). However, in contexts with 
+inadequate community health care, people previously in 
+institutions may face increased risk of diversion to the 
+justice system [15–18]. As health resources shift to better 
+support mental health care in primary care and outpatient 
+services in some African countries, research is needed on 
+mental health interventions for justice-involved popula-
+tions with elevated prevalence rates.
+However, there has been minimal attention to the men-
+tal health of PDJS in international data collection and 
+guidelines [19]. We surveyed United Nations  (UN) and 
+WHO guidelines on mental health and detained popula-
+tions from the past 15 years (Table  1) and found that the 
+mental health of PDJS has not been present in the major -
+ity of publications. The exclusion of the justice system 
+from research or policy priorities contrasts to consensus 
+in international prison literature which explicitly requires 
+extensive mental health care services (see Table 1).
+Despite the burden of mental disorders among PDJS 
+in Africa, research in this area is sparse [3, 19]. Existing 
+international systematic reviews on the mental health of 
+PDJS have either included studies in only one African 
+country, Nigeria [2], or none at all [4, 5, 20, 21]. Moreover, 
+these reviews do not report methodological bias or ethics 
+procedures data of included studies, and the search crite-
+ria of most do not include institutions that detain justice-
+involved youth or inpatients in forensic psychiatry units 
+[2, 4, 5, 21], even though this is where many people with 
+mental illness may be detained and are similar to prisons 
+in some countries [22]. A recent systematic review on the 
+influence of prison climate on mental health resulted in 
+studies from only high-income countries [21]. Similarly, a 
+review of psychological therapies for PDJS internationally 
+did not result in studies from LMIC countries other than 
+India, Iran, and China [20]. Importantly, however, its 
+search criteria included youth and participants in secure 
+hospitals, while the other systematic reviews include only 
+those in prisons and jails [2, 4, 5, 21].
+Given the paucity of research focused on Africa and 
+the resource constraints of these countries, this review 
+aims to understand the scope of knowledge on the men-
+tal health of PDJS in Africa and to  identify gaps in the 
+literature, in order to inform future research, interven-
+tions, harm reduction, efforts, and policy. Given our 
+study aims, we did not limit our search and selection to 
+a single study design or outcome measure. In contrast to 
+previous reviews investigating only prevalence, specific 
+study types, or restricted to prisons, the broad scope of 
+this review responds to the scarcity of research in African 
+contexts and the systems-wide nature of detention and 
+issues surrounding the mental health of PDJS.
+Methods
+The review followed guidelines of the Preferred Report -
+ing Items for Systematic Review and Meta-analyses 
+(PRISMA) [23], and the meta-analysis of observational 
+studies in epidemiology (MOOSE) [24], both of which 
+are found in Additional file 1: Appendices S1 and S2. The 
+protocol was registered in the International Prospective 
+Register of Systematic Reviews (PROSPERO). The Regis-
+tration Number is CRD42018098852.
+Search strategy and selection criteria
+We searched PubMed, PsycINFO, Embase, Web of Sci -
+ence, and Africa Index Medicus for studies dating from 
+the inception of the database to 16 November 2017, 
+and published in English or French, major research lan-
+guages on the African continent. Because the inception 
+of databases are constantly updated as new articles are 
+digitized, searches were run without date limits. These 
+databases represent major features of this paper: inter-
+national health databases (PubMed, Embase, Web of Sci -
+ence), a psychiatry-specific database (PsycINFO), and an 
+Africa-specific database (African Index Medicus). Africa 
+Index Medicus is managed by the WHO, and is one of 
+two major African health databases. The other is African 
+Journals Online, which is not health specific. Our search 
+strategy included terms related to the following ideas: 
+(1) Africa (defined as the WHO Africa Region [25]), (2) 
+detention or incarceration, and (3) mental health. Search 
+syntax and controlled vocabulary words were modified 
+for each database. Complete search terms for each data-
+base are in Additional file 1: Appendix S3.
+Only primary research studies published in peer 
+reviewed journals in English or French that met the 
+following PI

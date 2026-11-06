@@ -1,0 +1,150 @@
+COS criteria were included. Participants 
+included any people detained by the state, regardless 
+of whether they had been sentenced to a crime. We 
+excluded people formerly detained if data was collected 
+after their release, and excluded people detained for 
+immigration (similar to prior research on detained popu-
+lations) [3]. We included studies that related to a mental 
+illness as defined according to the DSM-V, but included 
+studies that used other diagnostic criteria. Due to the 
+scarcity of systematic research in this area, we included 
+both qualitative and quantitative studies, including sys-
+tematically collected data on policy, health systems, and 
+conditions of detention, such as availability of physical 
+or human resources, services, and the legal process. We 
+included studies in the WHO Africa Region [25] and 
+in any setting in which people were involuntarily held 
+by the government for being accused or convicted of 
+
+[W2944555439 PDF PAGE 3]
+Page 3 of 41
+Lovett et al. Int J Ment Health Syst           (2019) 13:31 
+Table 1 International guidelines on mental health and people detained within the justice system
+Document title, year of publication Purpose How does the document discuss mental health 
+and detention?
+WHO mental health action plan 2013–2020 (2013) [72] An action plan for Member States which outlines ways to pro-
+mote mental health, prevent mental disorders, protect human rights of persons affected by mental health conditions and 
+to reduce mortality, morbidity and disability for people with 
+mental disorders
+Mental health: Large focus on four objectives: strengthening 
+leadership and governance for mental health; expanding service coverage for mental disorders; implementing strategies for promotion and prevention in mental health, and strengthening the evidence base for mental health research
+Detention: Mentions that inappropriate detention is more 
+common for people with mental disorders and encourages col-laboration with judicial sectors in all four objectives. Little is said about addressing the mental health of those that are specifically detained
+Time to deliver, report of the who independent high-level com-
+mission on noncommunicable diseases (2018) [73]
+Report aims to facilitate the implementation of Sustainable 
+Development Goal 3.4, ‘reducing premature mortality from NCDs’ , as progress so far has been inadequate
+Mental health: Recognizes the global impact of mental disorders 
+and specifically discusses mental health in each of its recom-mendations
+Detention: No mention of people detained within the justice 
+system
+World Health Organization assessment instrument for mental 
+health systems (AIMS 2.2) (2005) [74]
+Document provides guidance on data collection for WHO AIMS 
+2.2, a tool for collecting information on key components of a mental health system
+Mental health: Assessment tool assesses the following: policy and 
+legislation, mental health services, mental health in primary health care, human resources, public education and links with other sectors, and monitoring and research
+Detention: Includes the assessment of prison mental health 
+services and forensic inpatient units
+WHO mental health and development: targeting people with 
+mental health conditions as a vulnerable group (2010) [75]
+Report presents evidence showing that people with mental 
+health conditions comprise a vulnerable group and provides recommendations for the implementation of policies that aim to protect this marginalized group
+Mental health: Highlights the need for development programs to 
+pay more attention to people with mental health conditions as they are among the most marginalized and vulnerable groups in society but are often overlooked
+Detention: Recognizes that there is a significant problem to be 
+addressed—people with mental health conditions are directed towards prisons, where they often do not have access to adequate mental health provisions and services
+WHO checklist for evaluating a mental health policy (2005) [76] A checklist for evaluating mental health policies Mental health: Evaluates the process of policy development and 
+the policy’s contents. Emphasizes a multisectoral, human-rights approach to developing policies
+Detention: Suggests consulting with the justice system when 
+developing policies but otherwise does not consider the mental health of detained people
+UN General Assembly, Report of the United Nations High Com-
+missioner for human rights: mental health and human rights (2017) [77]
+To identify some of the main challenges faced by people with 
+mental health conditions or psychosocial disabilities and recommends policies which would support the full realization of human rights of this population
+Mental health: Emphasizes that human rights of persons with 
+mental illnesses are vastly neglected in society. It stresses the importance of changing policies and law to protect the human rights of this vulnerable population
+Detention: No mention of people detained within the justice 
+system
+
+[W2944555439 PDF PAGE 4]
+Page 4 of 41Lovett et al. Int J Ment Health Syst           (2019) 13:31 
+Table 1 (continued)
+Document title, year of publication Purpose How does the document discuss mental health 
+and detention?
+UNOPS technical guidance on prison planning (2016) [78] A guide to prison infrastructure development based on a human 
+rights approach
+Mental health: Recognizes that people detained in prisons with 
+mental health conditions constitute a vulnerable group that may require separate accommodation
+Health in prisons: Recognizes that there is a lack of practical guid-
+ance on prison infrastructure development which takes into consideration the Standard Minimum Rules for the Treatment of Prisoners
+UNODC handbook on prisoners with special needs (2009) [79] Outlines the special needs of eight groups of adults in prisons 
+which have a particularly vulnerable status and provides recommendations for policymakers
+Mental health: Thoroughly describes the needs of people in 
+prisons with mental health conditions and recognizes them as a vulnerable group. Highlights that promotion of mental well-being should be a key element of prison management and policies
+Health in prisons: Recognizes that imprisonment is a dispropor-
+tionately harsh punishment for many people in vulnerable groups. Suggests that their special needs are better addressed away from prisons, as the harsh prison environment would likely exacerbate any existing problems
+United Nations expert group meeting on mental well-being, 
+disability and disaster risk reduction (2014) [80]
+Provides guidelines for countries’ Disaster Risk Reduction (DRR) 
+policies so that they include mental health and disability as a priority
+Mental health: States the need to include mental well-being 
+and mental disabilities in all DRR frameworks, as it optimizes resilience to disasters
+Detention: No mention of people detained within the justice 
+system
+United Nations standard minimum rules for the treatment of 
+prisoners (the Nelson Mandela Rules) (2015) [81]
+Revised version of rules that set out the minimum standards for 
+the treatment of people detained in prisons
+Mental health: Highlights that all individuals with mental condi-
+tions in prisons should have access to the same care they would have in the community and should be transferred to a hospital if required
+Health in prisons: Reaffirms that the punishment caused by 
+imprisonment is by depriving individuals of liberty, so prison systems should not aggravate their suffering further
+
+[W2944555439 PDF PAGE 5]
+Page 5 of 41
+Lovett et al. Int J Ment Health Syst           (2019) 13:31 
+committing a crime. We excluded the settings of house 
+arrest or non-forensic psychiatric hospitals in which peo-
+ple are involuntarily committed for disease alone.
+Data collection
+After the search was conducted and duplicates removed, 
+two researchers (AL, HK—trained undergraduate stu-
+dents) separately screened the titles, abstracts, and full 
+texts of studies to assess whether they met the inclu-
+sion criteria, reconciling differences between each step 
+through discussion. A third reviewer (HJ) acted as a tie 
+breaker if the other screeners could not come to con-
+sensus. Following the full text screen, a backward search 
+was conducted on all articles selected for inclusion. The 
+results of the backward search were screened for inclu-
+sion following the same protocol as the initial search 
+results (Fig. 1). If a paper identified could not be located 
+using multiple university library systems, we attempted 
+to contact the study author. If the author could not be 
+contacted, we excluded this paper as it was not possi-
+ble to access the full text. We did not contact authors to 
+obtain missing data or details on methods.
+Risk of bias assessment
+Risk of bias was assessed using the following separate 
+tools for each study type. Pre-post studies: Quality assess-
+ment tool for quantitative studies [26]; RCTs: Cochrane 
+Collaboration’s tool for assessing risk of bias [27]; qualita-
+tive: Critical Appraisal Skills Program (CASP) Checklist 
+for Qualitative Studies [28]; prevalence: Prevalence Criti-
+cal Appraisal Checklist [29]. We did not assess risk of 
+bias for validation studies or structured reviews of health 
+systems. The small number of these studies included in 
+the review and the methodologic heterogeneity of struc-
+tured reviews or descriptions of health systems make 
+them difficult to compare with a single tool. We did not 
+report a single overall risk of bias score for each study, 
+as these scores typically involve arbitrarily weighting dif-
+ferent domains of risk of bias [30]. Rather, we reported 
+grouped studies into categories of high, medium, and low 
+risk of bias based on the overall assessment generated 
+by the  methods assessment instruments. The methodo-
+logical assessment was used to exclude studies that had 
+either (1) insufficient information on methods or (2) a 
+clear methodological flaw or inconsistency.
+Data ext

@@ -1,0 +1,182 @@
+cessing other types of medical care. Participants were able to get their HIV medications but 
+reported challenges in adherence.
+Sanchez et al. 
+(2020)
+National MSM living with HIV (n = 122) reported decreased access to HIV care and laboratory testing. A smaller 
+percentage reported challenges with ART access and/or adherence.
+Economically Disadvantaged Populations
+Ennis et al. 
+(2021)
+South Publicly insured patients of a community health clinic with HIV or at risk for HIV had lower odds of 
+completing telehealth visits via video than those with private insurance.
+Hickey et al. 
+(2021)
+West Percentage of patients with a monthly visit and odds of viral suppression did not change significantly 
+when comparing time periods during the pandemic to periods prior to the pandemic among 85 unstably 
+housed individuals enrolled in a program to address HIV care barriers.
+Table 4 Summary of Evidence by Study Sample Characteristics
+1 3
+350
+
+[W4289522482 PDF PAGE 8]
+AIDS and Behavior (2023) 27:344–357
+Reference Region1 Summary of Findings Relevant to Research Question
+Spinelli et al. 
+(2020)
+West In a sample of PWH who attend a safety-net clinic, those who attended via telephone had a reduced odds 
+for no-show (compared to in-person) during C19. Patients had increased odds of viral nonsuppression 
+during C19 compared to before C19. Those experiencing homelessness had higher odds of viral nonsup-
+pression during C19.
+Tamargo et al. 
+(2021)
+South In a cohort of underserved PWH (n = 183), only 6% reported missing a clinic visit with an HIV service 
+provider. A small percentage of PWH also reported avoiding pick up their ART (13.2%) and missing at 
+least one dose of ART in the past month (8.2%) due to the pandemic.
+Older Adults
+Algarin et al. 
+(2020)
+South Of a sample of older adults living with HIV (n = 16), all were able to receive their ART. Most individuals 
+reported little impact on their ability to keep HIV care appointments or maintain contact with their case 
+manager.
+Ennis et al. 
+(2021)
+South Older patients of a community health clinic with HIV or at risk for HIV had lower odds of completing 
+telehealth visits via video than younger individuals.
+Nguyen et al. 
+(2021)
+West Impacts reported among a sample of older (≥ 50 years of age) PWH (n = 100) included inability to attend 
+healthcare provider appointments (46%) and missed doses of HIV medications (24%). Those who reported 
+an inability to attend provider appointments had greater odds of missing a dose of their HIV medications.
+People Who Use Substances
+Genberg et al. 
+(2021)
+South Among PWID enrolled in a community-based cohort, 130 of 144 PWH reported being on ART. Of those, 
+86% reported having a 4-week supply and 94% had received information about how to get their medica-
+tions during COVID-19 related restrictions.
+Hochstatter et 
+al. (2020)
+Midwest Percentage of PWH and substance use disorder who missed an ART dose ≥ 2 days of the week increased 
+to 12% during C19, compared to 5% pre-C19. Confidence in one’s ability to keep next appointment with 
+HIV provider decreased.
+Kalichman et 
+al. (2020)
+South Among a cohort of PWH enrolled in an ART study who tested positive for active substance use (n = 162), 
+19% reported missing an appointment with their HIV provider in the last month and 45% of them stated 
+it was due to C19. 45% reported cancellations by a medical provider. Practicing greater C19 protective 
+measures was significantly related to inability to access medications or get to a pharmacy.
+Samples not restricted to specific characteristics2
+Auchus et al. 
+(2021)
+West The percentage of appointments conducted via telehealth at a primary care clinic increased when compar-
+ing 2020 attendance to 2019. Nearly half of all participants (n = 202 PWH) preferred in-person appoint-
+ments, and nearly a quarter reported being more likely to attend in-person (vs. virtual) visits.
+Campbell et al. 
+(2021)
+South There was a 25% increase during C19 in the number of messages exchanged using a mobile health inter-
+vention that provides health services to PWH. The mean member-sent and provider-sent message rate both 
+increased significantly during C19 compared to pre-C19. The most common C19 related message topic 
+was care coordination.
+Cooley et al. 
+(2021)
+Midwest PWH (n = 133) reported greater impacts of the pandemic on medical access than those without HIV 
+(n = 54) amongst a sample of individuals who had previously been enrolled in research studies.
+El-Nahal et al. 
+(2021)
+South Amongst a sample of PWH enrolled in an HIV clinical cohort, participants reported a significant increase 
+in visit completion during C19, compared to pre-C19.
+Ennis et al. 
+(2021)
+South Nearly all patients of a community health clinic with HIV or at risk for HIV completed scheduled tele-
+health visits via video. The odds of completing a video telehealth visit did not differ between PWH and 
+those without HIV .
+Fadul et al. 
+(2021)
+Midwest Only 21% of scheduled visits were missed at an HIV clinic, and over a third of established patient visits 
+(n = 1,167) were telemedicine visits (vs. in-person). The percentage of telemedicine vs. in-person visits 
+did not differ within race, ethnicity, age, or gender categories. Higher VS rates were identified in those 
+who attended visits via telehealth vs. in-person. There was a decrease in medical visit frequency and an 
+increase in gaps in care.
+McGinnis et al. 
+(2021)
+National The number of virtual visits for all PWH enrolled in the Veterans Aging Cohort Study (n = 27,674) 
+with ≥ 1 visit in 2019 or 2020 increased from 27% in 2019 to 64% in 2020. Nearly all these visits were 
+conducted by telephone (vs. video). The percentage of patients who had their VL measured decreased in 
+2020; the percentage taking ART was similar for both years.
+Table 4 (continued) 
+1 3
+351
+
+[W4289522482 PDF PAGE 9]
+AIDS and Behavior (2023) 27:344–357
+to report challenges in accessing healthcare compared 
+to HIV negative men [ 34]. Another study found dispari -
+ties when comparing Black and LatinX patients to White 
+patients, whom they found had a lower odds of completing 
+video telehealth visits (vs. phone only) [31]. This study also 
+found lower odds of completing video visits amongst older 
+adults (compared to younger) and those on public insurance 
+(compared to private)[31]. Another study found that ability 
+to attend appointments via telephone, rather than in-person, 
+improved the odds of visit completion amongst PWH who 
+attended a safety-net clinic in California [28].
+Disparities in which providers were impacted by COVID-
+19 related disruptions were also noted. Qiao et al. (2021) 
+found evidence that less HIV service interruptions may have 
+occurred in geographic areas with a higher percentage of 
+insured individuals. Importantly, existing community-based 
+interventions to improve HIV care engagement helped to 
+ensure continuity of care during the pandemic, including for 
+vulnerable communities such as those experiencing unsta -
+ble housing [24, 28, 33].
+Patient and provider perspectives on and challenges 
+around the use of telehealth varied. Patient-reported advan-
+tages of telemedicine included that it was convenient [ 18, 
+27] and was safer as it reduced opportunity for SARS-
+CoV-2 transmission [ 27]. Disadvantages included lack of 
+access to technology and technical challenges [ 18, 23, 27], 
+unfamiliarity with using video platforms [ 27], and lack of 
+human connection with the HIV service provider [ 18, 27]. 
+Barriers around the use of telemedicine from the provider 
+perspective included lack of patient access to technology [9, 
+29], challenges with reimbursement [ 9], and lack of clarity 
+around telemedicine documentation and on which patients 
+met criteria for the use of telemedicine [ 29]. Workarounds 
+to these barriers included the designation of “telehealth 
+champions”, the use of templates to guide workflows, and 
+the use of telephone visits instead of video [ 29], as well as 
+providing patients’ access to phone cards or data plans [9].
+during the pandemic to time periods previous to the pan -
+demic [24, 28]. For example, Hickey et al. (2021) found no 
+significant difference when comparing the mean number of 
+visits per month. Additionally, one retrospective review of 
+patient data from the southern region found a statistically 
+significant increase in visit completion during the pan -
+demic (either in-person or telehealth) [20]. This included an 
+increase in the percentage of women and Black patients who 
+completed visits, which was attributed in part to the increase 
+in telehealth [20]. Ryan White providers reported anecdotal 
+reductions in “no show” appointments and improved access 
+to “hard to reach populations,” which many attributed to the 
+increased use and availability of telehealth [9].
+Telehealth, along with the use of other technologies, 
+helped to ensure continued access to HIV services during 
+the pandemic. There were increases in the number of clin -
+ics that offered telemedicine services and the percentage of 
+appointments conducted via telemedicine, when compar -
+ing time periods before the pandemic to those during the 
+pandemic [9, 15, 20, 27]. For example, one San Francisco 
+HIV clinic conducted 86.9% of all appointments by tele -
+health from March to June 2020, compared to 5.3% from 
+October 2019 to March 2020 [27]. Another technology that 
+helped increase engagement during the pandemic included 
+a mobile health intervention known as PositiveLinks that 
+allowed sharing of messages between HIV providers and 
+their patients [33].
+Several studies that compared the impacts of COVID-
+19 within certain populations identified disparities in 
+access to and engagement with healthcare services. Three 
+studies found differences in the ability to engage with or 
+access healthcare providers when comparing individuals 
+with vs. without HIV [ 17, 34, 35], including in a popula -
+tion of Black/African American MSM [ 35] and amongst 
+men who identified as LGBTQ [ 34

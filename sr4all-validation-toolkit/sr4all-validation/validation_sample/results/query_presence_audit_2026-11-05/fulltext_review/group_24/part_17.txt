@@ -1,0 +1,198 @@
+ of fracture. On the 
+other hand, lateralization did not appear to increase the 
+risk.
+What is more, incidence of spine fractures may be 
+underreported because it is difficult to ensure that the 
+included studies have not missed any fractures (they are 
+relatively rare by most estimates, are challenging to diag -
+nose with plain radiographs, occasionally are minimally 
+symptomatic, and may be a cause of unidentified pain) 
+[63]. Grammont-design implants reported inhomoge -
+neous prevalence rates from 1% to 10% because of con -
+fusing factors such as small sample size, use of different 
+prostheses in the same series, progressive modifications 
+of RSA design, use of different classification, or inclu -
+sion of preoperative acromial insufficiencies (1–10%) 
+[11, 22, 53, 63], although it appears that a certain rate of 
+acromion fracture was reported in Grammont series and 
+higher rates of spine fractures in lateralized design RSA 
+[20, 36]. Scapular spine fractures lead to inferior func -
+tional and active mobility outcomes, regardless of the 
+treatment modality.
+Infection (1.3%) was reported to be less frequent in 
+RSA than in knee or hip arthroplasty[64], with a trend 
+toward lower infection than previously reported rates 
+(3–6%) [11, 13, 22, 65]. Cutibacterium acnes and Staphy -
+lococcus aureus were the most frequently involved path -
+ogens: these bacteria are typically responsible for late, 
+chronic, relatively low-grade infections, colonizing loose 
+prostheses and, exceptionally, acute postoperative infec -
+tion and are likely to be present in more revision cases 
+than generally suspected [11, 66]. Treatment of acute 
+infection using antibiotics and debridement with reten -
+tion, irrigation, and suction, complemented by intrave -
+nous antibiotics is a choice for infections with symptoms 
+at less than 3 weeks in a stable prosthesis and no growth 
+on preoperative cultures [65]. This regimen is ineffective 
+in chronic or late infections requiring revision, with no 
+clear tendency to use a one-stage or two-stage procedure. 
+However, infections remained the most common reason 
+for component revision of the studies included, and the 
+incidence of infection may increase at longer follow-up 
+periods.
+Postoperative dislocations subsequent to RSA achieved 
+a prevalence of 0.8%, suggesting that one of the main 
+purposes of humeral lateralized design, the increase of 
+prosthetic construction stability, had been obtained. 
+Grammont-style RSA large series and reviews showed 
+higher instability incidence, ranging from 3% to 14% 
+
+[W3178467609 PDF PAGE 11]
+Page 11 of 14
+Ascione et al. J Orthop Traumatol           (2021) 22:27 
+ 
+[2–4, 11, 13, 22, 55, 67], although studies included only 
+glenoid lateralized designs [57].
+Biomechanically, lack of compressive forces between 
+the glenosphere and humeral socket are the main param -
+eters associated with instability, consequent to a loss of 
+tension of the deltoid and the remaining cuff associated 
+with proximal bone resorption in late dislocations. Small 
+glenoid size, the deltopectoral approach, poor subscapu -
+laris muscle condition, revision surgery, younger male 
+patients, association with scapular notching, resorbed 
+tuberosities/proximal bone loss, and inadequate humeral 
+length or version were all reported to be factors relating 
+to higher rates of instability [11, 22, 65, 67, 68].
+Adequate subscapularis repair has been recognized 
+as one of the principal means of preventing instability 
+in Grammont RSA through the deltopectoral approach 
+[1, 47, 48]. Despite this novel design, the role of sub -
+scapularis continues to play a role in RSA stability: four 
+dedicated studies [14, 19, 29, 48], with a total of 986 lat -
+eralized prostheses, showed a significant increase in 
+dislocations in nonrepaired subscapularis RSA (1.6%) 
+compared with repaired tendon groups (0.4%).
+Although the treatment of prosthetic instability can be 
+conservative, revision surgery may be required in recur -
+rent dislocations and in those occurring in the first few 
+months [67].
+Fortunately, neurologic injuries were very rare (0.4%) 
+and had an effect only in cases of incomplete recovery: 
+only one case of the 3114 RSA included led to humeral 
+component revision to resolve a brachial plexus palsy. 
+Other brachial plexus/axillary nerve palsies recovered 
+spontaneously, and no reports of radial or ulnar nerve 
+problems were found.
+Postoperative glenoid or humeral disassembly and pol -
+yethylene disassociations were infrequent and only men -
+tioned as a problem related to the design of the Arrow 
+prosthesis used before 2005, which was resolved after a 
+new implant design [35, 47].
+Limitations and strengths
+Our investigation is an up-to-date systematic review of 
+the literature, which considers implants categorized as 
+humeral onlay lateralized design as compared with origi -
+nal Grammont RSA [18]. To date, no studies have thor -
+oughly investigated this particular design in a systematic 
+review.
+However, we have identified some study limitations. 
+Firstly, given that almost all the studies included were 
+therapeutic case series, this study corresponds to an indi-
+rect level III–IV of evidence, and further comparative 
+studies are clearly needed to investigate at level I–II of 
+evidence.
+Second, the definition of a complication differs sig -
+nificantly among the studies. This may decrease the 
+accuracy of the comparison between the results of this 
+study and those in existing literature. This issue does 
+not affect the accuracy of the analysis in this study, as 
+special attention was paid when collecting data from 
+all the studies included to adequately classify complica -
+tions according to the aforementioned definitions and 
+provide adequate homogenization.
+Thirdly, we intentionally excluded studies regarding 
+revision cases only or only proximal humerus acute 
+fractures; this may result in underestimated rates of 
+complications, but this decision [3 , 11, 13, 22] was 
+taken on the basis of the purpose of analyzing this par -
+ticular design in the most common indications for RSA, 
+and high rates of complications are mainly related to 
+revision/fracture surgery, and not the RSA itself.
+Finally, there are a huge number of factors that can 
+influence the rates considered, and these are not well 
+controlled in the existing evidence: length of follow-up, 
+surgeon’s experience, different rehabilitation protocols, 
+type of glenosphere (eccentric or concentric, medial -
+ized or lateralized), humeral version, degree of bone 
+stock and glenoid erosion, use of cement, or previous 
+surgeries.
+Conclusion
+Complication rates may be regarded as acceptable, 
+7.5%, when implanting a humeral lateralized stem, 
+135–145° NSA and onlay RSA. Low overall rates of 
+instability (0.8%) were reported; the most common 
+postoperative complication proved to be scapular stress 
+fracture (1.8%), suggesting an increase in the force act -
+ing through the deltoid.
+A total rate of 1.9% humeral complications was iden -
+tified, whereas short stems demonstrated no humeral 
+fractures or stem loosening.
+Acknowledgements
+Not applicable.
+Authors’ contributions
+Conceptualization, A.M.R. and F.A.; data curation, A.B.; investigation, K.T. and 
+G.T.; methodology, K.T.; project administration, F.A.; resources, A.D.G.; supervi-
+sion, A.M.R., A.S.P . and F.A.; visualization, A.S.P . and N.C.; writing—original draft, 
+A.B.; writing—review and editing, F.A. All authors read and approved the final 
+manuscript.
+Funding
+No external funds were received for publishing the study.
+Availability of data and materials
+Not applicable.
+Code availability
+Not applicable.
+
+[W3178467609 PDF PAGE 12]
+Page 12 of 14Ascione et al. J Orthop Traumatol           (2021) 22:27 
+Declarations
+Ethics approval and consent to participate
+This project does not infringe the Italian ethical rules and the privacy of the 
+patients.
+Consent for publication
+Not applicable.
+Patient consent
+Not available.
+Competing interests
+Francesco Ascione and Alfonso M. Romano receive fees for consulting from 
+Exactech Inc. The other authors, their immediate family, and any research 
+foundation with which they are affiliated did not receive any financial pay-
+ments or other benefits from any commercial entity related to the subject of 
+this article.
+Author details
+1 Department of Orthopaedic and Trauma Surgery, Ospedale Buon Consiglio 
+Fatebenefratelli, Via A. Manzoni 220, 80123 Napoli, NA, Italy. 2 Orthopedics 
+and Sport Medicine Unit, Campolongo Hospital, Salerno, Italy. 3 Dipartimento 
+Multidisciplinare Di Specialità Medico-Chirurgiche Ed Odontoiatriche, Uni-
+versità Degli Studi Della Campania “Luigi Vanvitelli” , Napoli, Italy. 4 Department 
+of Medicine and Health Sciences, Università del Molise, Campobasso, Italy. 
+Received: 20 January 2021   Accepted: 28 June 2021
+References
+ 1. Boileau P , Watkinson DJ, Hatzidakis AM, Balg F (2005) Grammont reverse 
+prosthesis: design, rationale, and biomechanics. J Shoulder Elbow Surg 
+14:S147–S161. https:// doi. org/ 10. 1016/j. jse. 2004. 10. 006
+ 2. Sirveaux F, Favard L, Oudet D et al (2004) Grammont inverted total 
+shoulder arthroplasty in the treatment of glenohumeral osteoarthritis 
+with massive rupture of the cuff. Results of a multicentre study of 80 
+shoulders. J Bone Joint Surg Br 86:388–395. https:// doi. org/ 10. 1302/ 0301- 
+620x. 86b3. 14024
+ 3. Wall B, Nové-Josserand L, OʼConnor DP , et al (2007) Reverse total shoul-
+der arthroplasty: a review of results according to etiology. J Bone Jt Surg 
+89:1476–1485. https:// doi. org/ 10. 2106/ JBJS.F. 00666
+ 4. Werner CML (2005) Treatment of painful pseudoparesis due to irreparable 
+rotator cuff dysfunction with the delta III reverse-ball-and-socket total 
+shoulder prosthesis. J Bone Jt Surg Am 87:1476. https:// doi. org/ 10. 2106/ 
+JBJS.D. 02342
+ 5. Rojas J, Joseph J, Liu B et al (2018) Can patients manage toileting after 
+reverse total shoulder arthroplasty? A systematic review. Int Orthop 
+42:2423–2428. ht

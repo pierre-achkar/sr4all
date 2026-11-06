@@ -1,0 +1,190 @@
+ which permits use, sharing, 
+adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and 
+the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material 
+in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material 
+is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the 
+permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http:// creat iveco 
+mmons. org/ licen ses/ by/4. 0/.
+Introduction
+Grammont-style reverse shoulder arthroplasty (RSA) has 
+been reported to provide satisfactory clinical results for 
+several shoulder pathologies [1–4], but this design has 
+been found to have several drawbacks inherent to altered 
+joint biomechanics. Firstly, excessive medialization may 
+lead to a slackening of any intact cuff, which could con -
+tribute to undesirable instability, poor restoration, and 
+Open Access
+Journal of Orthopaedics 
+and Traumatology
+*Correspondence:  francescoascione.md@gmail.com
+1 Department of Orthopaedic and Trauma Surgery, Ospedale Buon 
+Consiglio Fatebenefratelli, Via A. Manzoni 220, 80123 Napoli, NA, Italy
+Full list of author information is available at the end of the article
+
+[W3178467609 PDF PAGE 2]
+Page 2 of 14Ascione et al. J Orthop Traumatol           (2021) 22:27 
+weakness of internal and external rotation[1, 5]. Secondly, 
+the contour of the shoulder is somewhat altered, and the 
+physiological wrapping angle of the deltoid decreases 
+from 48° to 8°, contributing to instability in association 
+with an insufficient cuff [6–8]. Finally, the 155° neck-shaft 
+angle (NSA) and glenoid medialization led to peripheral 
+impingement and high rates of scapular notching [1, 4] 
+with the potential for polyethylene wear, glenoid loosen -
+ing, osteolysis, and tuberosity resorption [8, 9].
+Studies have shown that bone lysis, component loos -
+ening, and overall complications frequently regard the 
+humeral side (1.5–10%) [1, 10–13].
+Subsequent RSA designs have attempted to address 
+some of these issues by providing more lateralized 
+reconstruction. Modifications of the stem design have 
+been proposed: (I) a change in the NSA to 145° or 135° 
+to decrease scapular notching, (II) curved and short 
+stems to preserve bone stock and tuberosities, and (III) 
+onlay systems to facilitate conversion from an anatomic 
+arthroplasty. These changes translate into humeral later -
+alization, which presents several advantages. It restores 
+a more natural anatomical position of the humerus and 
+therefore of the lesser and the greater tuberosities, which 
+improves the length/tension of the remaining cuff [1, 14, 
+15], thus increasing compressive forces on the joint and 
+improving stability [15]. A more lateral position of the 
+greater tuberosity increases the abductor lever arm and 
+the wrapping angle of the deltoid [9], which enhances 
+compressive forces [6, 16, 17].
+Medialized implants are now a minority, but the ideal 
+amount of global lateralization and the ideal contribu -
+tion from the glenoid or the humerus remain unknown. 
+Werthel et al. [18] provided a clear definition of humeral 
+lateralization and values of lateralization in the most 
+commonly used, currently available RSA implants. They 
+concluded that restoring anatomical insertion of remain -
+ing cuff, deltoid wrapping angle, and greater tuberos -
+ity lateralization corresponds to high humeral offset 
+implants. Lateralization in both the humerus and the 
+glenoid combines the beneficial effects of each later -
+alization, but the risk is that excessive lateralization may 
+be problematic in smaller patients or in the presence of 
+soft-tissue contractures; resultant joint overstuffing may 
+lead to poor motion, polyethylene wear [15, 16], difficulty 
+in joint reduction, nerve stretching, difficulty with the 
+repair of the subscapularis [14, 19], acromial impinge -
+ment, and/or fractures [20].
+The purpose of the present study, therefore, was to 
+perform a systematic review of the published literature 
+to determine the overall rates of problems, complica -
+tions, reoperations, and revisions after onlay lateralized 
+humeral stem RSA. It was hypothesized that emerg -
+ing reinterventions, problems, and complications are 
+peculiar to new design prostheses and that their signifi -
+cance differs from that of Grammont-style RSA. In this 
+part (part I), a systematic review about complications was 
+conducted.
+Materials and methods
+This systematic review was conducted according to the 
+guidelines of the preferred reporting items for systematic 
+review and meta-analysis (PRISMA) statement (http:// 
+prisma- state ment. org).
+Search strategy
+A systematic review of the available literature was con -
+ducted using synonymous or related expressions for the 
+terms “reverse shoulder arthroplasty, ” “reverse shoul -
+der prosthesis, ” “inverse shoulder arthroplasty, ” “inverse 
+shoulder prosthesis, ” “problems, ” “complications, ” 
+“results, ” and “outcomes” in several combinations. The 
+following databases were assessed: PubMed, Cochrane 
+Reviews, Scopus, and Google Scholar. The search was 
+performed from 1 January 2000 to 14 April 2020. All 
+peer-reviewed journals were considered; randomized 
+controlled trials (RCTs), prospective trials (PRO), and 
+retrospective studies (RE) were included. The search was 
+limited to papers in the English language. Two authors 
+(A.B. and G.T.) independently screened the titles and 
+abstracts, and subsequently performed a full-text selec -
+tion of the articles resulting from the search. All refer -
+ences of the included studies were subsequently searched 
+manually to identify any additional articles that may not 
+have been captured in the initial search. In the event of 
+disagreement, a consensus was reached by discussion, 
+with the intervention of the senior author when neces -
+sary (F.A.).
+Study selection
+For the aforementioned aim, the implants included 
+derived from the study of Werthel et al. [18], with pros -
+theses of minimum 10  mm humeral lateralization 
+compared with Grammont-style RSA, resulting in a 
+10–14.7  mm lateral offset range, 135–145° NSA and all 
+onlay designs.
+To be considered eligible for inclusion, studies needed 
+to (1) include patients who had undergone an onlay 
+humeral lateralized RSA; (2) report data on problems, 
+complications with declared implants; (3) be a published 
+RCT, RE study or PRO trial.
+Studies were excluded if (1) the articles were not in 
+English; (2) it was impossible to extrapolate or calculate 
+the necessary data from the published results; (3) they 
+were a review article or technical note; (4) they involved 
+animal experiments or in  vitro trials; (5) they focused 
+exclusively on acute fractures, revisions, or tumor surgery 
+
+[W3178467609 PDF PAGE 3]
+Page 3 of 14
+Ascione et al. J Orthop Traumatol           (2021) 22:27 
+ 
+series; (6) there was heterogeneous use of Grammont and 
+humeral lateralized arthroplasties in a single cohort.
+Level of evidence
+The Oxford Levels of Evidence as produced by the 
+Oxford Centre for Evidence-Based Medicine were used 
+to categorize methodological quality (http:// www. cebm. 
+net/ ocebm- level- of- evide nce/). This tool classifies sys -
+tematic randomized clinical trials and inception cohort 
+studies as Level II evidence, cohort studies or control 
+arm of randomized trials as Level III evidence, and case 
+series or case–control studies or poor-quality prognostic 
+cohort studies as Level IV evidence.
+Methodological quality assessment
+Methodological evaluation was performed according 
+to the MINORS evaluation [21], which was specifically 
+created to evaluate the quality of nonrandomized surgi -
+cal studies. The checklist includes 12 items, with the last 
+four specific to comparative studies. Scoring was as fol -
+lows: 0, not reported; 1, reported but poorly done and/or 
+inadequate; and 2, reported, well done, and adequate. The 
+highest overall score was 16 for noncomparative studies 
+and 24 for comparative studies.
+Data extraction
+Two authors (A.B. and G.T.) extracted data from all 
+selected original articles; this procedure was repeated 
+by another author (K.C.). If no agreement could be 
+reached, the senior author was consulted (F.A.). Data 
+were extracted from each article included and entered 
+into a spreadsheet for analysis. Pertinent extracted infor -
+mation included the following: author, date and journal 
+of publication, study design and level of evidence, patient 
+demographics (number of shoulders enrolled, gender, 
+age, and follow-up), the prosthetic implant used, the 
+surgical approach, the diagnosis leading to RSA, intra -
+operative complications, and postoperative problems/
+complications, from all studies systematically using a 
+table template. Definition of complication was based on 
+a previously published review [22], with certain modifica-
+tions (Table  1). A 0% rate of complication was reported 
+whenever the authors stated that none of their patients 
+had that problem or complication, whereas the value 
+was left as unreported when authors did not mention the 
+problem or complication.
+Results
+Literature search
+The initial search resulted in 1408 articles. The abstracts 
+of these studies were reviewed to determine the applica -
+bility to the present study as determined by the inclusion 
+and exclusion criteria, including a worksheet adapted 
+from evidence-based guides (Fig. 1).
+A total of 4893 RSA were included from 31 studies [14, 
+19, 20, 23–50].
+Average MINORS scores were 13.7/16 for noncom -
+parative studies and 19.4/24 for comparative studies, thus 
+determining acceptable study quality level.
+Demographic data, surgical technique, and etiology
+Demographics of the reviewed cohort, and

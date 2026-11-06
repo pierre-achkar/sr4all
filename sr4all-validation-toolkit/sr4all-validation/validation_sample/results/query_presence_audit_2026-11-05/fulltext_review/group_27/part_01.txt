@@ -1,0 +1,218 @@
+p. The LOD was 
+defined as the number of disability days (absence from 
+work) due to the current episode of LBP [7, 11–13].
+Study selection process
+All retrieved records were imported to Covidence web-
+based application and duplicate records were removed. 
+Initially, titles and abstracts of all records were screened, 
+then full text of relevant papers were reviewed for eli -
+gibility for inclusion in the review. The study selection 
+process was conducted independently by two reviewers, 
+and any disagreements were resolved by discussion with 
+a third reviewer. The reasons for study exclusions made 
+during the second stage were reported in the PRISMA 
+flow diagram (Fig. 1).
+Quality assessment
+Methodological quality assessment of included studies 
+was conducted independently by two reviewers using the 
+Newcastle–Ottawa scale for cohort studies (Supplemen -
+tal file  3) [27] and any disagreements were resolved by 
+discussion with a third reviewer. Where there was a con -
+flict of interest or potential reviewer bias, the reviewer in 
+question was not involved in the quality assessment. This 
+tool assesses the quality of the sample selection process, 
+comparability of cohorts, and the assessment of outcome. 
+Each study can be given a maximum of one star for each 
+element within the sample selection process and the out -
+come and a maximum of two stars can be given for the 
+comparability section. The sample selection section eval -
+uated the: (1) representativeness of the exposed cohort 
+(representative of populations presenting with acute 
+Recordsi dentified from:
+Databases( n=  354)
+Registers (n = 0)
+Recordsr emoved before 
+screening:
+Duplicate recordsr emoved
+(n = 91).
+Records marked as ineligible by 
+automation tools (n = 0).
+Records removed for other 
+reasons( n=  0).
+Records screened (n = 263) Recordse xcluded (n = 247)
+Reportss ought for retrieval
+(n = 16) Reportsn ot retrieved( n=  0)
+Reportsa ssessed for eligibility
+(n = 16) Reportse xcluded:
+Included patients withc hronic 
+LBP( n=  1).
+No definition of eMRI was 
+provided and no measure of 
+association was reported (n = 1).
+Did not examine the association 
+between eMRI andL OD (n = 7).
+Studies included in review
+(n = 7).
+Reports of included studies
+(n = 7).
+Identification of studiesv ia databases and registers
+IdentificationScreeningIncluded
+Fig. 1 The PRISMA flow diagram of studies in the review
+
+[W3215943560 PDF PAGE 4]
+Page 4 of 12Shraim et al. BMC Musculoskeletal Disorders          (2021) 22:983 
+LBP without red flags and exposed to eMRI scanning), 
+(2) selection of non-exposed cohort, (3) ascertainment 
+of the exposure and (4) demonstration that the outcome 
+was not present at the start of the study. The compara -
+bility section evaluated: (1) whether a study adjusted for 
+the most important factors deliberately and (2) whether a 
+study adjusted for other important risk factors. The out -
+come section evaluated: (1) the method used to assess 
+the outcome, (2) whether the follow-up period was long 
+enough for outcomes to occur and (3) loss to follow up 
+rate. To summarize the risk of bias in each study, we 
+converted the Newcastle-Ottawa scales to the Agency 
+for Healthcare Research and Quality (AHRQ) standards 
+using the following recommended thresholds [28]: (1) 
+good quality (3 or 4 stars in selection domain and 1 or 
+2 stars in comparability domain and 2 or 3 stars in out -
+come/exposure domain); (2) fair quality (2 stars in selec -
+tion domain and 1 or 2 stars in comparability domain and 
+2 or 3 stars in outcome/exposure domain); (3) poor qual -
+ity (0 or 1 star in selection domain OR 0 stars in com -
+parability domain OR 0 or 1 stars in outcome/exposure 
+domain).
+Data extraction
+The following data were extracted: study aim, source of 
+funding, source of data, methods of data collection, study 
+design, setting, follow up duration, population, number 
+of participants, demographics, definition of LBP , defini -
+tion of eMRI, definition of LOD, outcomes of associa -
+tion between eMRI and LOD, strengths and limitations, 
+and conclusion. Data extraction was undertaken inde -
+pendently by two reviewers. Any disagreements were 
+resolved by unanimity after involving a third reviewer. 
+Where there was a conflict of interest or potential 
+reviewer bias, the reviewer in question was not involved 
+in the data extraction. Contacting authors for any missing 
+data was considered. However, all required data was pre -
+sented in the included papers.
+Data analysis
+Meta-analysis was considered but owing to between-
+study heterogeneity in measures of association between 
+eMRI and LOD reported in included studies, formal 
+pooling of the results was not feasible. Therefore, a narra-
+tive synthesis of results was conducted. Narrative synthe-
+sis was presented as reported in the original study and no 
+additional analysis/synthesis were conducted.
+Results
+Study selection
+Search strategies identified 354 records (Medline 
+93, EMBASE 187, CINAHL 74). After the removal 
+of duplicates, 262 reports remained for the title and 
+abstract screening. A total of 248 reports were excluded 
+based on title and abstract. After the full-text screen -
+ing, a further 9 studies did not meet the review inclu -
+sion criteria and were excluded (Fig.  1) [10, 29–36]. 
+Three reports (Shraim et  al., 2015, 2017, and 2019) 
+[6, 7, 13] used the same sample at the same time in 
+the same settings but addressing different objectives. 
+Therefore, a total of 7 studies were included in the qual -
+ity assessment stage of this systematic review (Fig.  1) 
+[6, 7, 10–13, 37].
+Study characteristics
+The characteristics of the included studies are pre -
+sented in Table  1. All included studies were conducted 
+in the United States (US) and used workers’ compen -
+sation (WC) administrative databases. Six studies used 
+a retrospective cohort study design [6 , 7, 11–13, 37], 
+and one study used a prospective cohort study design 
+[10]. Three studies by Shraim and colleagues [6 , 7, 
+13] used the same sample to examine the relationship 
+between different individual-level variables (includ -
+ing eMRI) with neighborhood and state-level variables 
+and LOD in LBP cases (see Table  3 for list of variables 
+included in each study). The sample size ranged from 
+98 to 59,360 with a total number of 64,232 LBP cases 
+in all studies. The proportions of males ranged from 69 
+to 73%. The mean age of participants ranged between 
+39.4 and 41.4 years [6 , 7, 11, 13, 37]. The median age 
+was 34 years in one study [12], and one study included 
+individuals aged 16–61 years but no summary measure 
+of age was provided [10]. All studies included cases 
+with uncomplicated LBP identified using ICD-9 codes 
+[6, 7, 11, 13, 37], nature of injury codes [10], or com -
+binations of body part and nature of injury codes [11]. 
+eMRI was defined as lumbar MRI within 30 days [6 , 
+7, 11, 13, 37] or 6 weeks of seeking medical care [10]. 
+The LOD was defined as the total number of days of 
+continuous paid indemnity (lost wage replacement for 
+temporary total or temporary partial lost days) and 
+truncated at either 1-year [6 , 7, 11, 13, 37] or 2-year of 
+follow-up periods [11, 37].
+Quality assessment
+None of the studies examined in the quality assess -
+ment stage were excluded. All included studies were 
+of good methodological quality. Six studies scored 
+nine stars [6 , 7, 11–13, 37] and one scored eight stars 
+due to 30% loss to follow up [10] (Table  2). The score 
+given to the representativeness of the exposed cohort 
+was based on the study population which may differ in 
+
+[W3215943560 PDF PAGE 5]
+Page 5 of 12
+Shraim et al. BMC Musculoskeletal Disorders          (2021) 22:983 
+ 
+Table 1 Characteristics of included studies
+Study Design Data source & setting Sample size Population
+Shraim 2019 [13] Retrospective cohort A private workers’ compensation admin‑
+istrative and medical billing database, 
+included cases from 49 states
+59,360, all cases from 2002 to 2008 Persons aged 18–65 years, 69% males, mean 
+age = 39.4 years (standard deviation (SD) 
+10.8)
+Shraim 2017 [7] Retrospective cohort A private workers’ compensation admin‑
+istrative and medical billing database, 
+included cases from 49 states
+59,360, all cases from 2002 to 2008 Persons aged 18–65 years, 69% males, mean 
+age = 39.4 years (standard deviation (SD) 
+10.8)
+Shraim 2015 [6] Retrospective cohort A private workers’ compensation admin‑
+istrative and medical billing database, 
+included cases from 49 states
+59,360, all cases from 2002 to 2008 Persons aged 18–65 years, 69% males, mean 
+age = 39.4 years (standard deviation (SD) 
+10.8)
+Webster 2013 [11] Retrospective cohort A private workers’ compensation adminis‑
+trative and medical billing database, and 
+included cases from 45 states
+555, random sample of cases in 2006 Mean age = 41 years; 73.3% males
+Graves 2012 [10] Prospective cohort Washington workers’ compensation pro‑
+gram administrative and medical billing 
+database plus telephone interviews
+955, all cases between July 2002 and April 
+2004
+Persons older than 18 years, 73.3% males
+Webster 2010 [37] Retrospective cohort A private workers’ compensation adminis‑
+trative and medical billing database, and 
+included cases from 45 states
+3264, all cases in 2006 Mean age = 41.4 years, 69.7% males
+Mahmud 2000 [12] Retrospective cohort A private workers’ compensation adminis‑
+trative database and included cases from 
+44 states and District of Columbia
+98, random sample of cases
+Between June 1995 and August 1995
+Persons aged 16–61 years, median 
+age = 34 years, 71.4% males
+Study LBP Definition Exclusion criteria eMRI definition Work disability definition
+Shraim 2019 [13] Uncomplicated LBP cases were identified 
+using ICD‑9 codes during the first 15 days 
+of seeking medical care
+Complicated LBP cases with severe 
+injuries, multiple traumas, or significant 
+non‑injury diagnosis
+Lumbar MRI within first 30 days of seeking 
+medical care
+Number of days of continuous paid indem‑
+nity (lost wage replacement f

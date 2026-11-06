@@ -1,0 +1,222 @@
+Vrdoljak 2021, 
+Croatia [ 76 ] 
+CIR 01/01/2019 to 31/ 
+12/2019 
+01/01/2020 to 31/12/ 
+2020 
+15/03/2020-Mid 
+05/2020; 
+26/10/2020-Mid 
+12/2020 
+2875 vs 2848 Total: ↓ 1% (Apr – Jun: ↓ 24%) 
+Study, 
+Country/ 
+Region 
+Health 
+service 
+setting 
+Pre-pandemic Pandemic Diagnosis rate (i.e. percentage of women diagnosed with breast 
+cancer) 
+Time period Time period Services 
+suspension/ 
+lockdown 
+Pre-pandemic vs Pandemic (data 
+are in proportion (%) unless 
+specified) 
+Absolute change in 
+outcome (unless specified) 
+Bansal 2021, UK 
+[ 49 ] 
+ASI 01/04/2019 to 30/ 
+04/2019 
+01/04/2020 to 30/04/ 
+2020 
+NR 7% vs 5% Absolute change: ↓ 2% 
+Drescher 2022, 
+US [ 56 ] 
+HCS 01/01/2019 to 03/ 
+03/2020 
+Early: 04/03/2020 to 
+31/03/2020; 
+Middle: 01/04/2020 to 
+09/06/2020; 
+Late: 10/06/2020 to 
+31/05/2021. 
+NR NR Incidence rate ratio (95% 
+CI)
+b
+: 
+Pre: 1.00; 
+Early: 0.81 (0.73 – 0.89), p <
+0.001; 
+Middle: 0.57 (0.53 – 0.62), p 
+( continued on next page ) 
+T. Li et al.                                                                                                                                                                                                                                        
+
+[W4313557336 PDF PAGE 9]
+The Breast 67 (2023) 78–88
+86
+above-noted response measures released health system capacity for 
+better COVID-19 containment and mitigation, these measures to some 
+extent compromised the delivery of health care services, including 
+cancer prevention and control strategies, to general populations. Beyond 
+the health system ’ s response, other factors that may have contributed to 
+the reductions were COVID-19 related anxiety and fear of COVID-19 
+infection [ 89 ], and decreased or difficult access to healthcare pro -
+viders imposed by COVID-19 safety protocols [ 35 ]. 
+In keeping with the reduction in screening volume, there was a 
+decrease in the proportion of screen-detected cancers and a relative 
+increase in cases diagnosed clinically through symptomatic pre -
+sentations. This aligns with our review findings on stage at diagnosis of 
+breast cancer. Lower proportions of early-stage and higher proportions 
+of relatively more advanced cases were reported in the pandemic 
+compared to the pre-pandemic period. Concomitantly, greater pro -
+portions of cancers with nodal and distant metastases were found. Even 
+though the stage distributions might raise concerns about potentially 
+worse long-term outcomes, these results should be interpreted with the 
+caveat that these are the percentage of cases from the diagnosed breast 
+cancers, and do not reflect population rates. Moreover, the association 
+between diagnosis delay and prognosis has not been well-established 
+[ 90 ]. While a delay of 3 – 6 months has been found to be associated 
+with worse long-term prognosis and shorter survival [ 91 ], a shorter 
+delay of 6 – 12 weeks may not affect the overall outcome [ 92 ]. It is also 
+possible that diagnosis of the more advanced cancers was less affected 
+by the pandemic as these are more likely to present with symptoms 
+rather than through screening. 
+The reductions in breast screening volume and number of diagnosed 
+breast cancers found in our study were also noted in other systematic 
+reviews of the impact of COVID-19 pandemic related to cancer health -
+care. One review identified significant declines in cancer screening or 
+tests and cancer diagnosis rate, and found an increase in advanced 
+cancers, but this study only included 17 publications [ 4 ]. One 
+meta-analysis with relatively smaller number of papers (13 publica -
+tions) reported incidence rate ratios of 0.10 – 0.63 for cancer screening 
+services [ 5 ]. Another review also identified a remarkable frequency (up 
+to 79%) of delays and disruptions in all cancer care attributed to the 
+pandemic [ 3 ]. 
+We not only found a large reduction in breast screening volumes and 
+breast cancer diagnoses during the pandemic peak, but also found a 
+slight to moderate rebound in these outcomes after the peak, which 
+highlighted a possible recovery of cancer screening and diagnostic ser -
+vices. We further noted a slow persistent recovery or increase in both 
+screening volume and cancer diagnosis where data were available (i.e. 
+studies with longer time period after the onset of the pandemic) [ 33 , 34 , 
+63 , 64 ]. This reduction-rebound trend was also identified in a recent 
+meta-analysis, which also reported decreases in the number of screening 
+examinations of 45% – 52% for cancer screening services [ 93 ]. Moreover, 
+compared to studies which covered short duration of the pandemic, the 
+reduction of screening volume was relatively less substantial in those 
+that covered longer periods [ 15 , 16 , 22 , 30 , 35 , 36 , 40 , 46 , 47 ]. This might 
+provide an insight that the impact of the pandemic on breast cancer 
+screening and diagnosis may not be as sustained as expected. However, 
+this cannot be determined without evidence of long-term outcome such 
+as breast cancer mortality, survival and quality of life. It is therefore 
+essential that ongoing research examines the longer-term impact of the 
+pandemic. 
+This review also found that in studies from the US, non-White women 
+were less likely to have breast cancer screening (than White women) 
+during the pandemic in the context of reduction in screening volume 
+more generally. This is consistent with other research that has shown a 
+disproportionate effect of the pandemic on the health of minority groups 
+[ 94 , 95 ]. These groups could be a focus for ‘catch-up screening ’ during 
+the pandemic recovery to manage any incremental effect from the 
+pandemic on existing disparities. 
+This review has some limitations. Firstly, most of the included 
+studies reported short-term impact and lacked data on long-term health 
+outcomes. It is therefore unknown whether the pandemic will lead to 
+worse longer-term outcomes, such as increased breast cancer mortality 
+rates. Also, we did not extract (secular) trend from the included studies 
+because the majority (94%) of studies reported the pandemic period of 1 
+year or less. Secondly, we used a narrative description without a meta- 
+analysis due to considerable heterogeneity of reported outcomes. We 
+provided the range of relative percentage change for screening volume 
+and number of diagnoses, but we did not provide summary estimates (e. 
+g. medians) due to the variability in reporting of these two outcomes in 
+the included studies. Thirdly, as our review includes studies from all 
+over the world, there is a possibility there may be studies with over -
+lapping populations because many studies used aggregated data. How -
+ever we ruled out superseded publications from same study at data 
+Table 2 ( continued ) 
+Study, 
+Country/ 
+Region 
+Health 
+service 
+setting 
+Pre-pandemic Pandemic Number of breast cancer cases or number of women diagnosed 
+with breast cancer 
+Time period Time period Services 
+suspension/ 
+lockdown 
+Pre-pandemic vs Pandemic (data 
+are frequency (N) unless specified) 
+Relative change in 
+outcome (unless specified) 
+< 0.001; 
+Late: 0.95 (0.91 – 0.98), p =
+0.002. 
+Tachibana 2021, 
+Brazil [ 73 ] 
+ASI 24/03/2019 to 31/ 
+12/2019 
+24/03/2020 to 31/12/ 
+2020 
+26/03/2020 – 21/ 
+06/2020 
+Total: 8.5 (134/15,816) vs 12.4 (128/ 
+10,321) breast cancer per 1000 
+patients submitted to mammograms. 
+During social isolation (24/03 – 21/ 
+06)): 6.4 (36/5661) vs 19.4 (18/927) 
+breast cancer per 1000 patients 
+submitted to mammograms; 
+After social isolation (22/06 – 31/12): 
+9.7 (98/10,155) vs 11.7 (110/9394) 
+per 1000 patients submitted to 
+mammograms. 
+Total: ↑ 3.9 breast cancer per 
+1000 patients submitted to 
+mammograms, p = 0.002. 
+During social isolation (24/ 
+03 – 21/06)): ↑ 13.0 breast 
+cancer per 1000 patients 
+submitted to mammograms, p 
+< 0.001; 
+After social isolation (22/ 
+06 – 31/12): ↑ 2.0 breast 
+cancer per 1000 patients 
+submitted to mammograms, p 
+= 0.165. 
+BCSP = Breast cancer (or cancer) screening program, HCS = Healthcare (or community-based) system/network/database, ASI = A single institution or department, 
+CIR = Cancer or imaging registry, HIC = Health insurance claims, NR = Not reported, CI = Confidence interval. 
+Italics : computed data (see Appendix C ). 
+a
+Study sample also contains in situ tumour, and/or benign tumour cases. 
+b
+Adjusted for the number of weeks for each study period. 
+T. Li et al.                                                                                                                                                                                                                                        
+
+[W4313557336 PDF PAGE 10]
+The Breast 67 (2023) 78–88
+87
+synthesis to minimise the influence. 
+In addition, the studies in our review were generally at high risk of 
+bias, reflecting both the observational nature of the comparisons and the 
+urgency of reporting data to inform timely responses to a global 
+pandemic. Although many studies accounted for seasonal variation by 
+comparing the same calendar months across pandemic periods, other 
+potential confounding of pre-versus-during pandemic comparisons was 
+not commonly considered in the analyses or interpretation of results. 
+Interrupted time series analysis, where temporal trends are assessed 
+through multiple measurements over time, was used relatively infre -
+quently. Although the impact of COVID-19 pandemic is likely to be 
+dominant in the included studies, an interrupted time series approach 
+would provide stronger evidence of the magnitude of changes in breast 
+cancer screening and diagnostic outcomes [ 96 ]. 
+5. Conclusions 
+This systematic review identified considerable reductions in breast 
+screening volume and number of diagnosed breast cancers during the 
+pandemic peak, and a relatively smaller reduction was noted after the 
+peak. Changes in proportions of detection mode and stage at diagnosis 
+were found, with higher proportions of cases diagnosed through symp -
+tomatic presentations and 

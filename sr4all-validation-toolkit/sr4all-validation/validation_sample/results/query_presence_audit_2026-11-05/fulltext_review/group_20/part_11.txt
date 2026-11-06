@@ -1,0 +1,202 @@
+ in tumor samples
+indicated favorable OS in these cases (Fig. 5). And the
+significant prognostic value of TRIM44 mRNA in
+patients with KIRC was also displayed using OSkirc web-
+server (Fig. 6). When combined with all data from 33
+Fig. 3 Forest plot of HR for the relationship between increased TRIM44 expression and DFS
+Table 3 Results of the meta-analysis of high TRIM44 and clinicopathological parameters
+Clinicopathological
+parameter
+Studies(n) OR(95% CI) p-value Heterogeneity
+I2 (%) P Q Model
+Gender (male vs. female) 8 1.00(0.78 – 1.29) 0.990 0.0 0.699 Fixed
+Recurrence (+ vs. -) 3 2.30(1.34 – 3.95) 0.002 14.2 0.312 Fixed
+Tumor depth
+(T3– 4 vs. T1 – 2)
+4 2.72(1.73 – 4.30) < 0.0001 0.0 0.488 Fixed
+Lymph node metastasis
+(+ vs. -)
+10 2.69(1.71 – 4.24) < 0.0001 56.4 0.014 Random
+Distant metastasis
+(+ vs. -)
+3 10.35(1.01 – 106.24) 0.049 90.0 < 0.0001 Random
+TNM stage
+(III-IV vs. I-II)
+7 2.75(2.04 – 3.71) < 0.0001 32.7 0.179 Fixed
+Poorly/undifferentiated vs. well/moderately 6 1.78(1.03 – 3.09) < 0.0001 62.8 0.020 Random
+Vascular invasion (+ vs. -) 3 2.43 (0.85 – 6.94) 0.097 71.7 0.029 Random
+Xiao et al. BMC Cancer          (2020) 20:525 Page 6 of 14
+
+[W3033981438 PDF PAGE 7]
+different types of malignant tumors in GEPIA, the
+Kaplan-Meier analysis suggested that cancer patients
+with a high expression level of TRIM44 exhibited
+poorer OS, compared with cases expressing a low
+level of TRIM44 (Fig. 7).
+For the relationship between TRIM44 mRNA level
+and DFS in human tumors, overexpression of TRIM44
+mRNA could be as an unfavorable prognostic biomarker
+for DFS in patients with ACC, BLCA, and MESO (Fig. 8),
+but as a favorable predictive factor for DFS in cases with
+KIRC (Fig. 8). And when combined with all tumor data
+from the GEPIA database, the pooled results showed
+that cancer patients with a high level of TRIM44 tend to
+have a poor DFS, although there was no statistical differ-
+ence (Fig. 9).
+Publication bias
+The Begg ’s visible plots are shown in Fig. 10,a n dt h e
+p-value of Begg ’st e s tw a s0 . 5 3 1f o rO S .T h e s er e s u l t s
+suggested that there was no publication bias in the
+present meta-analysis.
+Sensitivity analysis
+Figure 11 shows that the pooled results in this meta-
+analysis were relatively robust.
+Discussion
+Ubiquitination is a post-translational protein modifica-
+tion that tags proteins for proteolytic degradation. It is
+involved in intercellular biological behavior, such as
+signal transduction, cell cycle regulation, DNA repair,
+antigen processing, and apoptosis [ 37– 39]. RING finger
+ubiquitin E3 ligases have been previously reported to
+participate in cell-cycle regulation and carcinogenesis in
+malignancy [ 40– 42]. Recent studies have suggested that
+some TRIM proteins, which contain a conserved RING
+finger, B-box, and coiled-coil domains, function as vital
+regulators of carcinogenesis [ 1, 43, 44]. These TRIM
+family proteins are associated with wide biological phe-
+nomena, including cell cycle regulation, transcriptional
+regulation, apoptosis, and carcinogenesis [ 45, 46].
+TRIM-containing protein 44 (TRIM44: 11p13) con-
+tains B-box, coiled-coil domains, and a zinc-finger
+domain, which was discovered in ubiquitin hydrolases
+[6]. TRIM44 protein and mRNA have been reported to
+be significantly upregulated in cancer tissues compared
+to para-cancerous or normal samples. TRIM44 amplifi-
+cation is correlated with unfavorable prognosis and ad-
+vanced clinicopathological parameters of malignancies
+[9, 12, 27]. Increased expression of TRIM44 could pro-
+mote cell proliferation, migration, and invasion, whereas
+down-regulation of TRIM44 could significantly inhibit these
+pathologic features. TRIM44 may act as a cancer-promoting
+gene regulating deubiquitination and stabilization of
+oncogenes.
+Tumor metastasis is a multistep process that starts
+with tumor migration and invasion through endothelial
+barriers via a process known as EMT, which is
+Fig. 4 TRIM44 mRNA expression in different types of human malignancies
+Xiao et al. BMC Cancer          (2020) 20:525 Page 7 of 14
+
+[W3033981438 PDF PAGE 8]
+characterized by loss of cell-cell adhesion and increased
+cell motility [ 47– 49]. Loss of E-cadherin expression, a
+hallmark of EMT, has been noted in many malignancies
+and is associated with increased metastatic potential
+[50, 51]. Cell motility, migration, and invasion are the
+malignant biological behaviors of cancer cells and the
+necessary factors for cancer metastasis. Knockdown of
+TRIM44 inhibited the invasion and migration of human
+NSCLC cells, and it was associated with the downregu-
+lation of mesenchymal markers (such as vimentin and
+N-cadherin) and upregulation of epithelial markers
+(such as E-cadherin) [ 10]. Overexpression of TRIM44
+repressed E-cadherin expression and increased vimentin
+and N-cadherin expression in NSCLC cell lines [ 10].
+Overexpression of TRIM44 induced EMT and increased
+the metastatic potential of lung cancer cells. In HCC cell
+lines, it was found that the ectopic expression of TRIM44
+dramatically increased the expression of mesenchymal
+markers N-cadherin and vimentin, but it decreased the ex-
+pression of epithelial marker E-cadherin; thus, suggesting
+that overexpression of TRIM44 could potentiate the EMT
+program [36]. Overexpression of TRIM44 has been shown
+Fig. 5 Kaplan-Meier plotter of OS for 33 types of malignant tumors
+Xiao et al. BMC Cancer          (2020) 20:525 Page 8 of 14
+
+[W3033981438 PDF PAGE 9]
+to induce a similar change in hallmark characteristics of
+EMT in other cancers, such as ICC and HEC.
+Uncontrolled cell proliferation is the biological character-
+istic of malignant tumors at th e cellular level, and abnormal
+cell cycle regulation is closely related to uncontrolled cell
+proliferation [50]. TRIM44 expression positively affects the
+expression of cyclins and CDKs , suggesting that TRIM44 is
+involved in the regulation of c ell cycle G1/s transformation
+[10, 36]. TRIM44 induced cell proliferation in vitro and
+tumor growth in vivo by acceler ating the G1/S transition via
+the upregulation of cyclins and CDKs. Indeed, ectopic ex-
+pression of TRIM44 promotes cell proliferation by accelerat-
+ing the G1/S-phase transition in HCC. In colony formation
+assays, knockdown of TRIM44 i n Huh7 cells significantly
+decreased the expression levels of cyclin D1 and cyclin E,
+which have been shown to play a crucial role in accelerating
+t h eG 1 / S - p h a s et r a n s i t i o n[36]. p21/p27 was discovered to
+function as a vital cyclin-dependent kinase inhibitor, and
+up-regulated expression of p21/p27 can inhibit cell entry
+into the S phase [ 52, 53]. Knock-down of TRIM44 in glioma
+cells induces an increase in p21/p27 expression,and then it
+inhibited cell division [ 54]. Further, the critical p21/p27
+regulator AKT is inactivated after TRIM44 is knocked
+down, but it is activated in glioma cells that overexpress
+TRIM44 [54].
+TRIM44 overexpression leads to high mTOR activity,
+which is consistent with observations of reduced mTOR sig-
+naling in cancer cell lines after siRNA knockdown of
+TRIM44 [12]. The phosphorylation of downstream mTOR
+substrates, including p-Akt (Ser473) and p-p70S6K (Thr389),
+in TRIM44-knockdown cells was markedly inhibited, indicat-
+ing that TRIM44 functions upstream of the mTOR signaling
+pathway by phosphorylating mTOR. STAT3 participates in
+multiple biological behavior regulation, including cell
+Fig. 6 Kaplan-Meier plotter of OS in multiple analysis webservers
+Fig. 7 Kaplan-Meier plotter of OS for all cancer patients
+Xiao et al. BMC Cancer          (2020) 20:525 Page 9 of 14
+
+[W3033981438 PDF PAGE 10]
+proliferation, apoptosis, and tumorigenesis, and it has been
+reported to be involved in oncogene regulatory pathways, in-
+cluding AKT/mTOR [55– 57].
+TRIM44 could function as an E3 ubiquitin ligase and
+has ubiquitination function. TRIM44 could inhibit the
+role of AMPK in cells by degrading AMPK [ 6, 58].
+AMPK has been reported to inhibit mTOR signaling.
+The upregulated TRIM44 reduced AMPK activity, thus
+relieving the inhibition of AMPK in the mTOR signaling
+pathway, and up-regulating the mTOR signaling from
+other mechanisms.
+TRIM44-induced mTOR signaling, EMT, and cyclin/
+CDK upregulation was reversed by treatment with an in-
+hibitor of the mammalian target of rapamycin (mTOR)
+[10]. Several previous studies have suggested that MAPK
+signaling pathways can induce EMT in cancer cells [ 11,
+59, 60]. Inhibition of MAPK signaling by incubation with
+a signaling inhibitor significantly repressed ICC cell in-
+vasion and metastasis [ 32]. ERK1/2 has been reported to
+be involved in the regulation of EMT in ICC cells.
+TRIM44 could increase the activation of the AKT signal-
+ing pathway and activate ERK1/2; thus, suggesting that
+Fig. 8 Kaplan-Meier plotter of DFS for 33 types of malignant tumors
+Xiao et al. BMC Cancer          (2020) 20:525 Page 10 of 14
+
+[W3033981438 PDF PAGE 11]
+TRIM44 promotes EMT in ICC cells via the ERK-
+MAPK pathway.
+Furthermore, overexpression of TRIM44 has been re-
+ported to be associated with inhibition of apoptosis in
+esophageal cancer [ 12]. Microarray analysis showed that
+TRIM44 knockdown is associated with the dysregulation
+of NUPR1, CDK19, CADM1, INHBA, TNFSF10, and
+DDIT4, which could normally activate the apoptotic cell
+pathways [ 31]. Bax and Bcl-2 are closely related to
+apoptosis. Elevated TRIM44 expression significantly
+repressed Bax and promoted Bcl-2 expression. Thus,
+TRIM44 has a vital role in inhibiting cellular apoptosis.
+NF-κB, functioning as a vital nuclear transcription factor,
+has been reported to be closely related to the inflamma-
+tory response, cellular apoptosis, and stress responses.
+NF-κB is the molecular target of some antitumor drugs
+[61]. The transcription factor NF- κB has been reported to
+inhibit apoptosis and to induce drug resistance in cancer
+cells [62]. Of note, it has been reported that TRIM44 pro-
+motes NSCLC development through activation of NF- κB
+signaling [13]. Previous studies have indicated that cIAP1,
+c-IAP2, and XIAP are the antia

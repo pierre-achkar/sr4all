@@ -1,0 +1,189 @@
+imental studies, independ-
+ently, by all of the authors. The tables were intended to (1)
+facilitate the identification of the lesion/tissue/population
+studied; (2) characterize the control and intervention
+groups; (3) state the outcome measures and methods
+employed for the evaluation of effects; (4) describe in
+detail the method of preparation, composition and proto-
+col of administration of PRP; and (5) present the results
+and rate them as positive or beneficial (+), partially posi-
+tive (±) or negative (impartial) ( −). This assessment was
+not made by the review ’s authors and is in accordance to
+the results presented, when confronted with the selected
+outcome measures. This overall view of the studies ’design
+and contents was followed by annotation of weak points
+that could have negatively affected the generation of qual-
+ity evidence or that could have biased the studies ’ results.
+Experimental studies with in vivo and in vitro ramifica-
+tions had their results presented on separate lines to allow
+for a thorough analysis.
+The risk of bias of the selected clinical trials was pre-
+sented in tables according to PRISMA guidelines, and
+the studies were assigned as having a high or a low risk
+of bias if they exhibited, respectively, more or fewer bias
+criteria. This information, together with the analysis of
+the clinical trials ’ results, was used to verify a possible
+association between these two variables and was also
+presented in tables.
+Results
+Our search parameters yielded 7415 results: 3563 from
+Embase, 2817 from Bireme, 101 from Medline, 122 from
+PubMed and 812 from Google Scholar. Fifteen studies
+were identified in reference lists from the selected arti-
+cles. The titles and abstracts of the retrieved records
+were screened for eligibility, and 5926 studies were thus
+excluded. One thousand five hundred four articles were
+fully assessed. One hundred twenty-three (123) articles
+were selected after the exclusion criteria (i.e., the exclu-
+sion of duplicates, review articles, non-controlled human
+trials, studies in which other tissues were examined and
+experimental studies investigating PRP preparation
+particularities) were applied (Figure 1).
+Among these 123 studies, a relatively homogeneous
+distribution between clinical trials (60 studies or 48.8%)
+and experimental studies (63 studies or 51.2%) was
+observed. These 123 articles yielded 126 results because
+two experimental studies comprised both in vivo and in
+vitro experiments, which were considered separately.
+Clinical trials with PRP
+From the 60 clinical studies included in this review, 11
+(18.3%) [18-28] were conducted in horses, and 49
+(81.7%) [29-77] were conducted in humans. Considering
+both species together, the results of the clinical trials
+were evenly distributed, that is, beneficial effects were
+observed in 28 studies (46.7%) [19,21-23,25,26,28,29,32,
+34-36,38,39,41,49,55,57,58,62,64,69,70,72-76], and nega-
+tive effects were observed in 26 studies (43.3%) [18,30,
+31,33,37,42-45,47,48,50-54,56,59,60,63,65-68,71,77] after
+PRP application (Additional file 1: Table S1).
+Analyzing the species separately, we observed that the
+distribution of results was not homogeneous and that
+positive results were more frequent than negative results
+in the equine species. Seven [19,21-23,25,26,28] of 11
+equine clinical trials yielded positive results (63.6%),
+three [20,24,27] resulted in partially positive results
+(27.3%), and one (9.1%) [18] yielded a negative result. In
+contrast, of the 49 human clinical studies, 21 yielded
+positive results (42.8%) [29,32,34- 36,38,39,41,49,55,57,58,
+62,64,69,70,72-76], while 25 studies (51%) [30,31,33,37,
+42-45,47,48,50-54,56,59,60,63,65-68,71,77] yielded nega-
+tive results, and 3 (6.1%) [40,46,61] resulted in partially
+positive results.
+Although the percentages of negative and positive re-
+sults in the human clinical trials were fairly even, the
+study design distribution among the positively and nega-
+tively evaluated studies was not homogeneous. This dis-
+tribution revealed a negative correlation between a
+rigorous study design and the finding of beneficial re-
+sults associated with the clinical use of PRP. Thirty-five
+studies were classified as RCTs: 34 [29,30,32-40,43,44,46,
+47,49-54,56,57,59,61-63,66-68,70,71,75,77] from the hu-
+man medical literature and one [18] from the equine
+medicine literature. Among them, 12 trials (34.3%)
+[29,32,34-36,38,39,49,57,62,70,75] yielded positive re-
+sults, while 20 RCTs (57.1%) [18,30,33,37,43,44,47,
+50-54,56,59,63,66-68,71,77] yielded negative results, and
+3 RCTs (8.6%) had [40,46,61] mixed results.
+Among the remaining 10 equine clinical trials that
+were not RCTs, seven studies [19,21-23,25,26,28] that
+yielded positive results were uncontrolled trials. Overall,
+2 studies (18.2%) [18,24] had control groups, and eight
+[19,21-23,25-28] uncontrolled case series accounted for
+72.7% of the equine studies. The remaining 15 human
+Brossi et al. BMC Veterinary Research  (2015) 11:98 Page 3 of 17
+
+[W2001221672 PDF PAGE 4]
+studies [31,41,42,45,48,55, 58,60,64,65,69,72-74,76] that
+were not RCTs were controlled retrospective or pro-
+spective cohorts, comparative studies, case control series
+and observational controlled studies.
+Additionally, while 76.9% (20/26) of the studies
+[18,30,33,37,43,44,47,50-54,56,59,63,66-68,71,77] with
+negative results were classified as RCTs, 42.8% (12/28)
+of the studies [29,32,34-36,38,39,49,57,62,70,75] with
+positive results were RCTs.
+Regarding study design, the lack of a true placebo con-
+trol group was the most frequently assigned flaw. Forty-
+three studies (71.7%) [24,29-32,35,38-44,46-55,57-76]
+had control groups that differed from placebo, such as
+hyaluronic acid and corticosteroids, and/or that included
+physiotherapy, excentric exercises, peppering techniques,
+dry needling (or combinations of these techniques) or
+merely lack of PRP application. Nine studies (15%)
+[19-23,25-28] lacked a control group, and all of these
+studies were conducted in horses.
+Poor PRP characterization was a feature of 35 clinical
+studies (58.3%) [20,24,29-33,35-38,42-47,49,50,53,55-60,
+62-64,67,68,71,73,76,77] and was the second most fre-
+quent flaw. Information regarding PRP preparation, acti-
+vation and composition was not always provided in a
+complete manner, and in one clinical trial [60], this in-
+formation was not provided at all. The product name, a
+description of the processing method in detail and a de-
+scription of PRP activation when used (or stated other-
+wise) defined adequate hemoderivative characterization.
+Platelet and leukocyte concentrations, together with
+their concentration factors from baseline levels and an
+analysis of growth factor contents, should ideally have
+been stated. Of 60 clinical trials, eight (13.3%)
+[21,22,25,27,28,51,69,72] provided this standard of
+Figure 1 Flow diagram for identification of published studies. PRISMA 2009.
+Brossi et al. BMC Veterinary Research  (2015) 11:98 Page 4 of 17
+
+[W2001221672 PDF PAGE 5]
+information. Seventeen studies (28.3%) [18,19,23,26,34,
+39-41,48,52,54,61,65,66,70,74,75] provided only average-
+quality information on the employed hemoderivative; no
+data on growth factor content were provided.
+The methods employed for PRP preparation have
+been the object of controversy [1,7]. Of the 60 clinical
+studies, 30 (50%) [18,19,2 3,29,31-36,38,39,46,51,53,54,
+56,57,62-64,67-70,72,73,75-77] employed only one cen-
+trifugation, 19 (31.7%) [ 21,24,25,27,28,42-45,47,49,50,
+52,55,58,59,65,66,71] employed two centrifugations, and
+one [41] employed three centrifugations. Filtration was the
+method of choice for obtaining PRP in one study [22], and
+nine studies [20,26,30,37,40,48,60,61,74] did not state how
+many centrifugations were employed for PRP preparation.
+Of the 30 studies that employed one centrifugation, 18
+yielded positive results (60%) [19,23,29,32,34-36,38,39,57,
+62,64,69,70,72,73,75,76]. Of the 19 studies that employed 2
+centrifugations, 6 yielded positive results (31.6%) [21,25,
+28,49,55,58].
+Regarding PRP activation, 23 studies [18,23,24,29-33,
+35,37,38,41,47,51,53,54,56,57,60,62,63,76,77] did not stipu-
+late whether their product was activated or not. Overall,
+35 studies (58.3%) [19-21,25-28,33,36,39,40,42-46,48-50,
+52,55,58,59,61,65-75] used activators together with PRP.
+Calcium was used in 23 studies [19,21,25,27,28,33,36,39,
+42-45,48-50,52,55,58,59,65,66,69,72] thrombin in five
+[20,61,67,73,74], and calcium and thrombin in combin-
+ation in six [40,46,68,71,73,74]. In two studies [22,64], the
+PRP was not activated.
+Insufficient blinding was the third most common flaw
+in design and was found in 33 studies (55%) [18-31,35,
+37-41,45,48,55,58,60,65,67,69,72-76]. Adequate blinding
+was defined as the outcome assessors, patients and treat-
+ing physicians being blinded to the treatment or inter-
+vention that was applied. Among the 33 non-blinded
+studies encountered in this review, 19 (57.6%) [19,21-23,
+25,26,28,29,35,38,39,41,55,58,69,72-74,76] had favorable
+results associated with PRP intervention, and ten (30.3%)
+[18,30,31,37,45,48,60,65,67,77] yielded negative results.
+The fourth most frequent flaw, occurring in 32 studies
+[18-28,30,35,37,40,43,45,46,51,52,56,58,59,61,64,65,67,70,
+72,75-77] (53.3%), was the enrollment of a smaller-than-
+desired number of subjects. A study was considered to
+have a small sample when this information was
+provided by the respective authors, based on power
+calculations of the selected population. Among the 28
+studies in which PRP had positive effects, 14 (50%)
+[19,21-23,25,26,28,35,58,64,70,72,75,76] had a small
+sample, and among the 26 studies in which PRP inter-
+vention resulted in negative outcomes, 12 (46.1%)
+[18,30,37,43,45,51,52,56,59,65,67,77] enrolled a smaller-
+than-desired sample.
+The adoption of a short follow-up period, that is, an
+observation period of less than 12 months, also occurred
+in 32 studies (53.3%) [20,23,29,32-42,51,53-55,59-61,63,
+65,67-71,73-75,77]. Among the 26 clinical trials wi

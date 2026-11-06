@@ -1,0 +1,211 @@
+at did not use a wearable monitoring device 
+as an intervention to increase physical activity were not 
+included. Studies in which participants in the interven-
+tion group did not receive feedback on their physical 
+activity data, as well as studies in which control groups 
+had access to or received feedback on their physical 
+activity data, were not included.
+Data extraction and quality assessment
+Data were extracted by A- NH following a data extraction 
+template designed for this meta- analysis and verified by 
+a second author (CLH). For each study, the following 
+data were extracted: (1) details on study characteris-
+tics (authors’ names, year of publication, journal, title, 
+country where the study was conducted, number of 
+patients randomised in each group); (2) study design; 
+(3) methodological quality of the study; (4) patient’s 
+characteristics (mean age, sex, pathology); (5) interven-
+tion characteristics (presence or absence of a control 
+group, duration, objective, type of activity tracker); and 
+(6) outcome measures. In order to compute the mean 
+change and mean SD according to the method described 
+in Chapter 8 of the Cochrane Handbook for System-
+atic Reviews of Interventions,32  the following data were 
+extracted: number of randomised patients in each group, 
+mean value pre- intervention and post- intervention in 
+each group, SE and CI.
+The methodological quality of each trial was evaluated 
+using the Cochrane Collaboration tool for assessing the 
+risk of bias in RCTs according to five domains of bias: 
+bias arising from the randomisation process; bias due 
+to deviations from intended interventions; bias due 
+to missing outcome data; bias in measurement of the 
+outcome; and bias in selection of the reported result.33 
+The risk of bias was assessed by two independent authors 
+(A- NH and CLH) according to the ROB tool on three 
+different outcomes (steps count, 6- MWT distance, 
+V̇O2 peak ). If disagreements came out, a consensus was 
+reached through discussion.
+Outcomes
+The primary outcome was change in number of steps per 
+day. Secondary outcomes were change in distance walked 
+in the 6- MWT and V̇O2 peak . All outcomes were calculated 
+as the average difference of the outcome (number of 
+steps per day, distance walked in the 6- MWT and value 
+of the V̇O2 peak ) before and after the intervention in each 
+group.
+Statistical analysis and synthesis
+Effect sizes were calculated as the difference in outcomes 
+between the baseline and end- of- intervention values using 
+the standardised mean difference (SMD). SMD was used 
+in order to standardise the results of the studies because 
+although the studies all assessed the same outcomes, they 
+measured them in different ways due to the different 
+types of wearable activity monitors used and the different 
+lengths of intervention. SMDs were calculated by dividing 
+the mean differences by their respective SDs allowing to 
+express the size of the intervention effect in each study 
+relative to the variability observed in that study. The inter-
+pretation of SMD values was as follows: large effect when 
+the SMD was ≥0.8; moderate effect when the SMD was 
+between 0.5 and 0.79; and small effect when the SMD was 
+between 0.2 and 0.49. When the mean change and SD of 
+change were missing, we followed the calculation method 
+described in Chapter 8 of the Cochrane Handbook for 
+Systematic Reviews of Interventions32  using a correla-
+tion coefficient derived from a study providing the mean 
+change and SD of change as recommended. 34
+Heterogeneity was assessed using I2  and was consid-
+ered significant if p>0.1. Heterogeneity was considered as 
+minimal and might not be important if I2 <40%, moderate 
+if I2  was between 30% and 60%, substantial if I 2  was 
+between 50% and 90% and considerable if I2  was >90%.35 
+Random- effects model with SMD was used due to the vari-
+ability of the assessment and duration of the intervention 
+across the included studies.35
+The results of the meta- analysis are presented graphi-
+cally with forest plots representing the change in number 
+of steps per day, V̇O2 peak  and 6- MWT expressed as the 
+mean differences with corresponding 95% CI between 
+intervention and control groups. One study34 included 
+two different intervention groups using a wearable activity 
+monitor and two different control groups. We combined 
+the two intervention groups and the two control groups 
+following the recommendations and guidelines in the 
+Cochrane Handbook for Systematic Reviews of Interven-
+tions (Chapter 6, Section 6.5.2.10).32
+
+[W4383874798 PDF PAGE 4]
+4
+Heizmann A- N, et al. BMJ Open 2023;13:e069966. doi:10.1136/bmjopen-2022-069966
+Open access 
+Funnel plots were created for any outcomes to explore 
+the publication biases of the studies included in the 
+meta- analysis.36
+Consistency of results was verified through subgroup 
+analysis according to the duration of the interventions: <3 
+months and ≥3 months. The meta- analysis was performed 
+using R Studio (V.1.4.1103) and dmetar package.37
+RESULTS
+Study selection
+The search procedure identified 2039 articles of which 
+1529 were reviewed after removing duplicates. After 
+review of titles and abstracts, 1501 additional articles were 
+not included. After evaluation of the full texts, 12 addi-
+tional references were not included. Finally, 16 articles 
+were included in the meta- analysis, yielding a total of 
+1427 patients (figure 1).
+Characteristics of the patients
+The patient characteristics of the included studies 
+are summarised in table 1. The included studies were 
+published between 2011 and 2022.
+The total number of participants across studies was 1427 
+and ranged from 1838 to 347.39 There were 732 patients in 
+the intervention groups and 695 patients in the control 
+groups. The percentage of men in all trials was 67% (957 
+male participants). The mean age of all participants was 
+62.5±9.9 years and ranged from 53.3 years38 to 76 years.40 
+The mean age in the intervention groups was 61.6±9.8 
+years ranging from 53.3 years38 to 76 years.40 The mean 
+age in the control groups was 63.4±10.1 years ranging 
+from 58.2 years41 to 76 years.40
+Intervention groups
+The intervention consisted of wearing a wearable phys-
+ical activity monitor and receiving daily step goals, a 
+Figure 1 Preferred Reporting Items for Systematic Reviews and Meta- Analysis diagram for the search and selection process.
+
+[W4383874798 PDF PAGE 5]
+5
+Heizmann A- N, et al. BMJ Open 2023;13:e069966. doi:10.1136/bmjopen-2022-069966
+Open access
+Table 1 Characteristics of studies
+Study Year Country Design
+Number of 
+participants
+Mean age 
+intervention
+Mean age 
+control
+% male 
+intervention
+% male 
+control % dropout CVD type
+Houle et al47 2011 Canada RCT 65 58.0 59.0 81.3 75.8 20.7 Coronary artery disease
+Izawa et al46 2012 Japan RCT 126 59.2 59.1 78.8 82.3 18.2 Heart disease, coronary artery 
+bypass grafting, myocardial 
+infarction, valve replacement
+Kaminsky et al 38 2013 USA RCT 18 53.3 59.4 80.0 75.0 28.6 Coronary artery disease, 
+myocardial infarction, heart 
+surgery
+Martin et al45 2015 USA RCT 48 56.5 60.0 53.1 56.3 ? Hypertension
+Mansfield et al 42 2015 Canada RCT 60 64.0 61.5 69.0 57.0 5.0 Stroke without walking 
+limitations
+Frederix et al48 2015 (ePub 
+2013)
+Belgium RCT 80 58.0 63.0 81.0 85.0 17.5 Coronary artery disease
+Frederix et al49 2015 Belgium RCT 139 61.0 61.0 85.5 78.6 10.0 Coronary artery disease, 
+chronic heart failure
+Danks et al 41 2016 USA RCT 37 59.1 58.2 36.8 44.4 5.4 Stroke without walking 
+limitations
+Dasgupta et al 39 2017 Canada RCT 347 60.0 59.4 43.1 91.0 21.0 Hypertension
+Duscha et al 51 2018 USA RCT 32 59.9 66.5 81.2 66.7 21.9 Coronary artery disease
+McDermott et al 50 2018 USA RCT 200 70.1 70.4 45.5 49.5 9.0 Peripheral artery disease
+Kanaï et al43 2018 Japan RCT 57 66.8 62.9 65.2 52.0 12.7 Stroke without walking 
+limitations
+Ozemek et al 34 2020 USA RCT 99 61.7 61.2 73.6 82.6 No 
+information
+Coronary artery disease, 
+myocardial infarction, heart 
+surgery
+Grau- Pellicer et al44 2020 Spain RCT 41 63.0 54.2 67.0 47.1 17.1 Stroke without walking 
+limitations
+Lindman et al 40 2021 USA RCT 50 76.0 76.0 64.0 68.0 0.0 Aortic valve stenosis, 
+transcatheter aortic valve 
+replacement
+Nagatomi et al 52 2022 Japan RCT 30 59.8 67.7 60.0 47.0 0.0 Chronic heart failure with 
+physical frailty
+CVD, cardiovascular disease; RCT, randomised controlled trial.
+
+[W4383874798 PDF PAGE 6]
+6
+Heizmann A- N, et al. BMJ Open 2023;13:e069966. doi:10.1136/bmjopen-2022-069966
+Open access 
+physical activity prescription or exercise training for the 
+duration of the intervention. The duration of the inter-
+vention varied between studies: the duration was <3 
+months in seven studies38 40 42–46  and ≥3 months in nine 
+studies34 39 41 47–52  (online supplemental table 2). In the 
+intervention groups, general advice and guidelines were 
+supplemented with self- monitoring feedback and/or goal 
+setting, and/or encouragement to increase daily physical 
+activity (number of steps, amount of physical activity, 
+duration of walking sessions), and/or personalisation of 
+the rehabilitation programme to improve self- confidence 
+and self- regulation.
+Control groups
+The advice given to patients in the control groups was to 
+exercise according to common guidelines (30–40 min of 
+moderate to vigorous physical activity per day or just stay 
+active). No one received feedback on their activity and no 
+one used a wearable physical activity monitoring device to 
+self- monitor their activity.
+Risks of bias
+The risk of bias in the studies is presented in the online 
+supplemental figures 1 and 2. The number of unclear 
+verdicts was high because the supposedly blinding status 
+of participants or assessors was not always complied with. 
+Two studies were considered to have a high risk of bias: 
+the study by Grau- Pellicer et al44 which raised some high- 
+risk flags as nearly half of the participants in the inter-
+vention group did not use the app for multiple reasons 
+and only

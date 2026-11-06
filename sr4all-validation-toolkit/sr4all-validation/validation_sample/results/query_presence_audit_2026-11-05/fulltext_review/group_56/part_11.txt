@@ -1,0 +1,170 @@
+
+focusing on creating energy efficient algorithms, improving 
+transparency, and ensuring fairness in automated decisions. 
+Furthermore, given the rapid evolution of AI technologies, 
+researchers must remain agile and receptive to new knowl-
+edge and methodologies, ensuring that their work is current 
+and relevant. This dual focus on innovation and responsibil-
+ity is essential for harnessing AI’s potential to foster sustain-
+able development while mitigating its risks.
+For researchers, the insights and methodologies presented 
+offer a foundation for further exploration of the applications 
+of AI in sustainability. This can inspire new research direc-
+tions and foster interdisciplinary collaborations. Moreover, 
+engaging with AI can help sustainability researchers address 
+complex problems that require the analysis of large data-
+sets, or where traditional analytical methods fall short. The 
+predictive power of AI can be harnessed to foresee environ-
+mental trends and their socio-economic impacts, facilitating 
+proactive rather than reactive strategies. This integration also 
+calls for an ethical approach to research, where sustainability 
+researchers must consider the implications of data privacy, 
+the fairness of AI algorithms, and the overall transparency 
+of AI-driven decisions. Collaborations with AI ethicists and 
+social scientists could help address these aspects, ensuring 
+that AI solutions are developed and deployed responsibly 
+and inclusively. Lastly, this new paradigm highlights the 
+necessity for capacity building in AI skills among sustain-
+ability researchers to enable them to use advanced AI tools 
+effectively. Training programs and workshops, interdisci-
+plinary research groups, and collaborative projects can be 
+instrumental in building these capacities, thus ensuring that 
+the sustainability research community is well equipped to 
+use AI in their work effectively. This approach not only 
+enriches the research landscape, but also ensures that tech-
+nological advancements are leveraged towards achieving a 
+sustainable future.
+Policymakers, especially within the EU, can derive ben-
+efits from our study. By understanding the potential appli-
+cations of AI in sustainability, policymakers can identify 
+strategic areas for research funding and policy development 
+that align with the objectives of the EU Green Deal and the 
+SDGs. The application of AI has been shown to improve 
+efficiency and precision in resource management and energy 
+use, policymakers can devise strategies that align well with 
+the goals of the EU Green Deal and the SDGs. For exam -
+ple, AI’s ability to optimize energy grids or predict energy 
+demand can facilitate the transition to renewable energy 
+sources, a key objective of the Green Deal.
+The recommendations for different stakeholders are sum-
+marized in Table 9.
+Furthermore, while our focus has been largely on energy, 
+the implications of AI in agriculture and water management 
+also suggest pathways for policy strategies. AI technologies 
+can aid in the development of precision agriculture prac-
+tices that minimize waste and maximize productivity, or in 
+water management systems that predict and mitigate risks 
+related to water scarcity and quality. The industry sector can 
+also benefit. Businesses can take advantage of these insights 
+to adopt more sustainable practices, integrate AI into their 
+operations to improve efficiency, and innovate in product 
+development. This not only aids in meeting sustainability 
+goals, but also opens up new market opportunities and com-
+petitive advantages in an increasingly eco-conscious global 
+marketplace.
+We hope that our findings will assist researchers, poli-
+cymakers, and practitioners in obtaining a comprehensive 
+Table 8  Key AI challenges
+Challenge Description
+Ethical concerns The impact of AI on privacy, bias, and public policy requires careful ethical consideration
+Automation bias There is a risk that overreliance on AI could lead to the neglect of valuable human insights
+Resource intensity The environmental cost of training extensive AI models involves substantial energy and 
+computational resources
+
+[W4403706069 PDF PAGE 28]
+ Int J Environ Res (2025) 19:1
+1 Page 28 of 36
+overview and deeper comprehension of the application of 
+AI to advance the SDGs and stimulate future research in 
+this field.
+Funding Open Access funding enabled and organized by Projekt 
+DEAL. Open Access funding enabled and organized by Projekt DEAL.
+Data availability Not applicable.
+Declarations 
+Conflict of interest The authors declare no Conflict of interest.
+Ethical approval Not applicable.
+Open Access This article is licensed under a Creative Commons Attri-
+bution 4.0 International License, which permits use, sharing, adapta-
+tion, distribution and reproduction in any medium or format, as long 
+as you give appropriate credit to the original author(s) and the source, 
+provide a link to the Creative Commons licence, and indicate if changes 
+were made. The images or other third party material in this article are 
+included in the article’s Creative Commons licence, unless indicated 
+otherwise in a credit line to the material. If material is not included in 
+the article’s Creative Commons licence and your intended use is not 
+permitted by statutory regulation or exceeds the permitted use, you will 
+need to obtain permission directly from the copyright holder. To view a 
+copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+References
+Abdel-Aty M, Haleem K (2011) Analyzing angle crashes at unsignal-
+ized intersections using machine learning techniques. Accident 
+Analysis & Prevention 43(1):461–470. https:// doi. org/ 10. 1016/j. 
+aap. 2010. 10. 002
+Abdella GM, Kucukvar M, Onat NC, Al-Yafay HM, Bulak ME ( 2020) 
+Sustainability assessment and modeling based on supervised 
+machine learning techniques: The case for food consumption. 
+Journal of Cleaner Production 251, 119661 https://  doi. org/ 10. 
+1016/j. jclep ro. 2019. 119661
+Abu A, Hamdan R, Sani N (2020) Ensemble learning for multidimen-
+sional poverty classification. Sains Malaysiana 49(2):447–459. 
+https:// doi. org/ 10. 17576/ jsm- 2020- 4902- 24
+Adams D, Oh D-H, Kim D-W, Lee C-H, Oh M ( 2021) Deep rein-
+forcement learning optimization framework for a power genera-
+tion plant considering performance and environmental issues. 
+Journal of Cleaner Production 291, https:// doi. org/ 10. 1016/j. jclep 
+ro. 2021. 125915
+Afantitis A, Melagraki G, Tsoumanis A, Valsami-Jones E, Lynch I 
+(2018) A nanoinformatics decision support tool for the virtual 
+screening of gold nanoparticle cellular association using protein 
+corona fingerprints. Nanotoxicology 12(10):1148–1165. https:// 
+doi. org/ 10. 1080/ 17435 390. 2018. 15049 98
+Ahmad AS, Hassan MY, Abdullah MP, Rahman HA, Hussin F, Abdul-
+lah H, Saidur R (2014) A review on applications of ann and svm 
+for building electrical energy consumption forecasting. Renew 
+Sustain Energy Rev 33:102–109. https:// doi. org/ 10. 1016/j. rser. 
+2014. 01. 069
+Ahmad T, Madonski R, Zhang D, Huang C, Mujeeb A ( 2022) Data-
+driven probabilistic machine learning in sustainable smart 
+energy/smart energy systems: Key developments, challenges, 
+and future research opportunities in the context of smart grid 
+paradigm. Renewable & Sustainable Energy Reviews 160, 
+https:// doi. org/ 10. 1016/j. rser. 2022. 112128
+Ahmad T, Zhang D, Huang C, Zhang H, Dai N, Song Y, Chen H ( 
+2021) Artificial intelligence in sustainable energy industry: 
+Status Quo, challenges and opportunities. Journal of Cleaner 
+Production 289, https:// doi. org/ 10. 1016/j. jclep ro. 2021. 125834
+Ahmed N, Islam MN, Tuba AS, Mahdy MRC, Sujauddin M ( 2019) 
+Solving visual pollution with deep learning: A new nexus in 
+environmental management. Journal of Environmental Man -
+agement 248, https:// doi. org/ 10. 1016/j. jenvm an. 2019. 07. 024
+Albaji AO, Rashid RBA, Abdul Hamid SZ (2023) Investigation on 
+Machine Learning Approaches for Environmental Noise Clas-
+sifications. Journal of Electrical & Computer Engineering, 
+1–26 https:// doi. org/ 10. 1155/ 2023/ 36151 37
+Aljawder A, Al-Karaghouli W (2022) The adoption of technology 
+management principles and artificial intelligence for a sustain-
+able lean construction industry in the case of Bahrain. Journal 
+of Decision Systems, 1–30 https://  doi. org/ 10. 1080/ 12460 125. 
+2022. 20755 29
+Aniza R, Chen W-H, Pétrissans A, Hoang AT, Ashokkumar V, 
+Pétrissans M (2023) A review of biowaste remediation and 
+valorization for environmental sustainability: Artificial intel-
+ligence approach. Environmental Pollution 324, https:// doi. org/ 
+10. 1016/j. envpol. 2023. 121363
+Arashpour, M ( 2023) AI explainability framework for environmental 
+management research. Journal of Environmental Management 
+342, https:// doi. org/ 10. 1016/j. jenvm an. 2023. 118149
+Asha P, Natrayan L, Geetha BT, Beulah JR, Sumathy R, Varalak -
+shmi G, Neelakandan S ( 2022) IoT enabled environmental 
+toxicology for air pollution monitoring using AI techniques. 
+Environmental Research 205, https:// doi. org/ 10. 1016/j. envres. 
+2021. 112574
+Table 9  Recommendations for various stakeholders in AI development
+Stakeholder Recommendations
+Researchers Researchers should adhere to the principle of Transparency, by, for example, fostering XAI technologiesand clearly 
+communicating the sustainability impacts, such as energy use and environmental impacts of AI technologies. Further-
+more, exploration of ML techniques should also emphasize Equity, ensuring benefits across all societal segments, 
+and Collaboration, involving diverse teams to address sustainability challenges comprehensively
+Policymakers Policymakers play a crucial role by creating policies that promote Transparency and Accountability, ensuring that AI 
+systems are understandable and their impacts are managed. They should develop clear guidelines on decision-making 
+processes. Regulations should also promote Equity in AI applications, ensuring

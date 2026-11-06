@@ -1,0 +1,234 @@
+ion of 21– 24% (Table 4), accounted for 44% of the
+290 patients from the 11 trials in the overall single session
+analysis, and 74% of the 168 patients from the six trials
+which were used to calculate the weighted pain score
+means for active and sham rTMS based on baseline data
+(Table 6). Since we did not set a lower time limit for
+evaluation of treatment effect after a stimulation session
+in the PICO, these three studies, which fulﬁlled the criteria
+for sham/placebo-controlled RCTs, were included in the
+systematic analysis. In retrospect, given the uncertain
+clinical relevance of a follow-up time of only 5– 15 min for
+estimation of changes in pain score, setting a lower time
+limit for assessment of treatment effect may have been
+advisable. Due to the considerable impact of the three
+studies on the results, we made an additional calculation
+based on the difference in percent between follow-up and
+baseline for active rTMS and sham, respectively, where
+data could be obtained from 10 of 11 studies (Table 4). This
+analysis (254 instead of 168 patients) showed that the
+weighted mean reduction in pain score decreased from 19
+to 16% after active rTMS, with a resulting 13 percentage
+point difference instead of a difference of 15 points, as
+Table : Diagnostic performance of rTMS to predict a response to motor cortex stimulation in patients with chronic neuropathic pain.
+Study Number of
+patients
+Predictive value Comment
+Sensitivity Specificity Positive Negative
+André-Obadia
+ []
+  %( % CI:
+– %)
+%( % CI:
+– %)
+%( % CI:
+– %)
+%( % CI:
+– %)
+Positive response to rTMS: a positive
+score on CPAa
+Positive response to MCS: a positive
+score on CPA
+Hosomi 
+[]
+  %( % CI:
+– %)
+%( % CI:
+– %)
+%( %
+CI: –
+%)
+%( % CI:
+– %)
+Positive response to rTMS:≥% pain
+reduction on VAS (pre-post)
+Positive response to MCS:≥% pain
+reduction on VAS (pre-post)
+%( % CI:
+– %)
+%( % CI:
+– %)
+%( % CI:
+– %)
+%( % CI:
+– %)
+Positive response to rTMS:≥% pain
+reduction on VAS (pre-post)
+Positive response to MCS:≥% pain
+reduction on VAS (pre-post)
+Lefaucheur
+ []
+  %( % CI:
+– %)
+%( % CI:
+– %)
+%( % CI:
+– %)
+%( % CI:
+– %)
+Positive response to rTMS:≥% pain
+reduction on VAS (Δ active – sham)
+Positive response to MCS:≥% pain
+reduction on VAS (pre-post)
+Pommier 
+[]
+  %( % CI:
+– %)
+%( % CI:
+– %)
+%( % CI:
+– %)
+%( % CI:
+– %)
+Positive response to rTMS:≥% pain
+reduction on VAS (after sessions
+rTMS pre-post)
+Positive response to MCS:≥% pain
+reduction on VAS (after months pre-
+post)
+aCPA, Combined Pain Assessement (score− to +).
+CI, confidence interval; MCS, motor cortex stimulation; VAS, Visual Analogous Scale.
+Gatzinsky et al.: Neuromodulation for chronic pain treatment 17
+
+[W3083867998 PDF PAGE 11]
+obtained in the analysis of the six studies presenting
+baseline data. The between group difference, active rTMS
+vs. sham, expressed in percent could be extracted from all
+11 studies (284 patients, Table 4) with a calculated
+weighted mean difference of 12 percentage points. The
+reduction from 15 to 13 to 12 percentage points based on
+the increasing number of patients illustrates the relative
+weight of the three studies with follow-up assessment of
+5– 1 5m i no nt h eo u t c o m e s .
+Multiple sessions of rTMS yield greater pain reduction
+with a more longstanding effect. Our analysis, which was
+based on all 12 studies from which baseline data could be
+extracted, showed that if assessment was performed less
+than 30 days after the last treatment session, the weighted
+mean pain reduction, compared to baseline, was 32% with
+active rTMS at the group level. Compared to single-session
+rTMS, more patients experienced a pain relief exceeding
+the arbitrarily deﬁned threshold of 30% for a clinically
+important reduction in pain. The effect faded, however,
+with time if the stimulation sessions were not repeated
+regularly. In addition, in the multiple-session group sham
+stimulation also resulted in some pain relief, thereby
+reducing the difference in treatment effect between active
+and sham stimulation.
+In a previous review by Lefaucheur et al. from 2014,
+with a recent update 2020, outlining evidence-based
+guidelines on the therapeutic use of rTMS, a level A (deﬁ-
+nite efﬁcacy) recommendation was proposed for high fre-
+quency rTMS of M1 for treatment of NP, despite
+inhomogeneities in outcomes between studies [22, 62]. In
+contrast to the analyses by Lefaucheur et al. and most prior
+guidelines and systematic reviews on the use of neuro-
+modulation techniques in pain treatment, our assessment
+of the level of evidence of effects was based on the GRADE
+system [33, 63]. If the level of evidence of a positive effect is
+of high or moderate certainty it most probably qualiﬁes to
+be used in routine medical care. If the level of evidence is of
+low certainty the use of the technology may be motivated
+provided that there is an acceptable balance between
+beneﬁts and risks, cost-effectiveness and ethical consid-
+erations. Due to this structured and informative approach
+GRADE is increasingly being adopted by organisations
+worldwide and has also been utilised in several recent
+evaluations of neuromodulation techniques for pain
+treatment [8, 24].
+In 2014 O’Connell et al. published an updated version
+based on GRADE of theirﬁrst Cochrane review from 2011
+investigating non-invasive brain stimulation techniques
+for chronic pain [24]. Their literature search was not
+restricted only to NP but included trials of all types of
+chronic pain. The authors found that single doses of high-
+frequency rTMS of M1 resulted in statistically signiﬁcant
+but small short-term effects on chronic pain which did not
+meet the predetermined threshold of minimal clinically
+important difference of 15%. The evidence for multiple-
+dose studies of rTMS was heterogeneous and did not
+demonstrate a signiﬁcant effect. However, in a subsequent
+subgroup analysis that speciﬁcally included patients with
+chronic NP it was found that active rTMS reduced pain by
+20% (95% conﬁdence interval of the relative risk reduction
+was −0.27 to−0.12) in comparison to sham treatment. The
+authors concluded that available studies had not consis-
+tently demonstrated effectiveness, and stated in accor-
+dance with other reviews and meta-analyses that there was
+a need for larger, rigorously designed studies, particularly
+of longer courses of stimulation [64– 66]. The broad con-
+clusions did not change substantially in the last Cochrane
+update from the authors published in 2018, although
+several new studies of high quality using multiple-session
+rTMS with longer follow-up were added. Our systematic
+review included three additional studies of high quality
+with a total of 51 patients [44– 46]. We classiﬁed the overall
+certainty of evidence of outcomes for multiple sessions of
+rTMS based on GRADE as low, instead of very low as
+evaluated by O’Connell et al. Furthermore, in contrast to
+the Cochrane review, our analysis focused solely on the use
+of rTMS for treatment of chronic NP, and also took into
+account the timing aspect for follow-up, i.e. how long after
+the last stimulation session that assessment was done,
+which is important to consider due to the fading of effect
+with time.
+In 2016 The European Academy of Neurology updated
+the guidelines of the European Federation of Neurological
+Societies on central neurostimulation therapy in chronic
+pain [8]. Using the GRADE classiﬁcation it was concluded
+that there is a weak recommendation for multiple sessions
+of high frequency rTMS of M1 in treatment of chronic NP. In
+accordance with our analysis these guidelines indicate that
+rTMS may be used to predict the response to epidural MCS.
+A signiﬁcant pain reduction as a response to a preoperative
+non-invasive rTMS test increases the probability of a good
+MCS therapeutic result [67]. However, since the available
+data is based on a limited number of patients, additional
+placebo-controlled, prospective clinical trials using neu-
+ronavigated rTMS are needed to manifest this relationship
+[13, 68, 69].
+Even though previous studies, meta-analyses and
+systematic reviews have indicated that there is good clin-
+ical evidence for rTMS of M1 for certain types of chronic NP,
+such as trigeminal neuropathic facial pain and central
+post-stroke pain, the treatment is not for all types of NP [22,
+39, 66]. Most of the included RCTs in our systematic
+18 Gatzinsky et al.: Neuromodulation for chronic pain treatment
+
+[W3083867998 PDF PAGE 12]
+analysis using single-session rTMS investigated patients
+suffering from post-stroke pain or pain due to a spinal cord
+injury/lesion. The RCTs investigating multiple sessions of
+rTMS included a large variety of different NP conditions of
+both central and peripheral origin (Table 3). We attempted
+to perform a sub-analysis of outcomes based on distinction
+in the origin of the pain but could not, due to the relatively
+small numbers of patients for each individual pain type,
+discern any signiﬁcant differences or draw anyﬁrm con-
+clusions considering treatment response between the
+investigated conditions (data not shown). Additional data
+is required to bring more clarity in this context.
+Since rTMS, like MCS, may be relevant only to some
+patients, predictive factors for the efficacy on different
+types of NP must be defined in greater detail in future
+research [65, 66, 70]. In addition, standardised protocols
+identifying optimal stimulation parameters for achieving
+best long-term maintenance of treatment effect need to be
+designed and evaluated [52, 64, 71, 72]. Better data on
+health economics, as well as evaluation of the effect on
+HRQoL, ADL and changes in analgesic drug use also are
+needed to provide a more solid basis for the application of
+rTMS in pain management in the long term [73].
+Conclusions
+Use of rTMS as therapy for chronic NP has increased in
+popularity

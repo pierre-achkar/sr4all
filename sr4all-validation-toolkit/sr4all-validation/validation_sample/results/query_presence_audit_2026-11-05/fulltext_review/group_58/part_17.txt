@@ -1,0 +1,115 @@
+ot types. This ranking reflects their limitations in modern automation. 
+4. CONCLUSION 
+The rapid advancement of artificial intelligence and robotics has significantly transformed industries, economies, 
+and societal structures. These technologies have evolved from mere automation tools to complex, adaptive systems 
+capable of cognitive decisio n-making, self-learning, and autonomous operations. Theoretical frameworks in AI and 
+robotics research highlight their role as both dependent and independent variables, illustrating their dual impact on 
+adoption dynamics and broader economic and labor mark et changes. Despite substantial academic interest, critical 
+gaps remain in understanding their implications, particularly in policymaking, ethics, and human resource 
+management. Among the main worries is the effect of  intelligent automation on the workforc e. While AI and 
+robotics have historically eliminated mundane, repetitive tasks, they now challenge skilled professionals in areas 
+such as healthcare, finance, and even creative industries. The adoption of AI -driven decision-making in HRM raises 
+ethical an d operational challenges, including bias in hiring algorithms, data privacy concerns, and the evolving 
+employer-employee relationship. Systematic reviews of existing research indicate a growing need for policy 
+interventions to manage these transitions effe ctively. Furthermore, the integration of AI in robotics has led to 
+significant breakthroughs in autonomous systems, from self -driving vehicles to robotic surgical assistants. These 
+advancements raise fundamental questions about accountability, ethics, and the role of AI in society. The distinction 
+between human and machine intelligence is becoming increasingly blurred, leading to debates about AI 
+consciousness, rights, and moral responsibility. While technological progress offers undeniable benefits, includ ing 
+efficiency, precision, and economic growth, its unchecked expansion poses risks related to job displacement, 
+security, and ethical dilemmas in decision -making. To navigate these challenges, policymakers, researchers, and 
+industry leaders must work coll aboratively to establish evidence -based frameworks that ensure ethical creation and 
+0 1 2 3 4
+Articulated robots
+Cartesian robots
+Delta robots
+Cylindrical Robots
+Rank
+Rank
+
+[W4409676417 PDF PAGE 10]
+Mohammed Quadir Mohiuddin /REST Journal on Data Analytics and Artificial Intelligence, 4(1), March 2025, 259-269 
+ 
+Copyright@ REST Publisher                                                                                                                                           268 
+ 
+application of AI. Legal requirements, ethical standards, and multidisciplinary research efforts are necessary to 
+balance innovation with societal well -being. As AI and rob otics continue to advance, the key focus must remain on 
+sustainable and inclusive growth, ensuring that technological progress benefits humanity rather than exacerbating 
+existing inequalities. In conclusion, the future of AI and robotics depends not only o n technological breakthroughs 
+but also on how society chooses to integrate, regulate, and adapt to these rapidly evolving systems.  
+REFERENCES 
+[1]. Raj, Manav, and Robert Seamans. "Primer on artificial intelligence and robotics." Journal of Organization Design 8, no. 
+1 (2019): 11. 
+[2]. Vrontis, Demetris, Michael Christofi, Vijay Pereira, Shlomo Tarba, Anna Makrides, and Eleni  Trichina. "Artificial 
+intelligence, robotics, advanced technologies and human resource management: a systematic review." Artificial 
+intelligence and international HRM (2023): 172-201. 
+[3]. Mir, Umar Bashir, Swapnil Sharma, Arpan Kumar Kar, and Manmohan Prasad Gupta. "Critical success factors for 
+integrating artificial intelligence and robotics." Digital Policy, Regulation and Governance 22, no. 4 (2020): 307-331. 
+[4]. Rajan, Kanna, and Alessandro Saffiotti. "Towards a science of integrated AI and Robotics." Artifici al intelligence 247 
+(2017): 1-9. 
+[5]. Urias, Müller G., Niravkumar Patel, Changyan He, Ali Ebrahimi, Ji Woong Kim, Iulian Iordachita, and Peter L. 
+Gehlbach. "Artificial intelligence, robotics and eye surgery: are we overfitted?." International Journal of Retina  and 
+Vitreous 5 (2019): 1-4. 
+[6]. Iphofen, Ron, and Mihalis Kritikos. "Regulating artificial intelligence and robotics: ethics by design in a digital 
+society." Contemporary Social Science 16, no. 2 (2021): 170-184. 
+[7]. McKendrick, M., S. Yang, and G. A. McLeod. "Th e use of artificial intelligence and robotics in regional anaesthesia." 
+Anaesthesia 76 (2021): 171-181. 
+[8]. Stai, Bethany, Nick Heller, Sean McSweeney, Jack Rickman, Paul Blake, Ranveer Vasdev , Zach Edgerton et al. 
+"Public perceptions of artificial intelligence and robotics in medicine." Journal of endourology 34, no. 10 (2020): 1041 -
+1048. 
+[9]. Börner, Katy, Olga Scrivner, Leonard E. Cross, Michael Gallant, Shutian Ma, Adam S. Martin, Lisel Record, Haici 
+Yang, and Jonathan M. Dilger. "Mapping the co -evolution of artificial intelligence, robotics, and the internet of things 
+over 20 years (1998-2017)." PloS one 15, no. 12 (2020): e0242984. 
+[10]. Bordot, Florent. "Artificial intelligence, robots and unemploym ent: Evidence from OECD countries." Journal of 
+Innovation Economics & Management 37, no. 1 (2022): 117-138. 
+[11]. Belk, Russell. "Ethical issues in service robotics and artificial intelligence." The Service Industries Journal 41, no. 13 -
+14 (2021): 860-876. 
+[12]. Golubchikov, Oleg, and Mary Thornbush. "Artificial intelligence and robotics in smart city strategies and planned 
+smart development." Smart Cities 3, no. 4 (2020). 
+[13]. Yin, Robert K., and Gwendolyn B. Moore. "The use of advanced technologies in special education: P rospects from 
+robotics, artificial intelligence, and computer simulation." Journal of Learning Disabilities 20, no. 1 (1987): 60-63. 
+[14]. Fox, Maria, Luc De Raedt, Félix Ingrand, and Malik Ghallab. "Robotics and artificial intelligence: A perspective on 
+deliberation functions." AI communications 27, no. 1 (2014): 63-80. 
+[15]. Tussyadiah, Iis. "A review of research into automation in tourism: Launching the Annals of Tourism Research Curated 
+Collection on Artificial Intelligence and Robotics in Tourism." Annals of Tourism Research 81 (2020): 102883. 
+[16]. Ness, Stephanie, Nicki James Shepherd, and Teo Rong Xuan. "Synergy between AI and robotics: A comprehensive 
+integration." Asian Journal of Research in Computer Science 16, no. 4 (2023): 80-94. 
+[17]. Ashrafian, Hutan. "Artificial intelligence and robot responsibilities: Innovating beyond rights." Science and engineering 
+ethics 21 (2015): 317-326. 
+[18]. Brans, Jean-Pierre, Ph Vincke, and Bertrand Mareschal. "How to select and how to rank projects: The PROMETHEE 
+method." European journal of operational research 24, no. 2 (1986): 228-238. 
+[19]. Oubahman, Laila, and Szabolcs Duleba. "Review of PROMETHEE method in transportation." Production Engineering 
+Archives 27 (2021). 
+[20]. Gul, Muhammet, Erkan Celik, Alev Taskin Gumus, and Ali Fuat Guneri. "A fuzzy lo gic based PROMETHEE method 
+for material selection problems." Beni-Suef University Journal of Basic and Applied Sciences 7, no. 1 (2018): 68-79. 
+[21]. Venkata Rao, R., and Bhisma K. Patel. "Decision making in the manufacturing environment using an improved 
+PROMETHEE method." International Journal of Production Research 48, no. 16 (2010): 4665-4682. 
+[22]. Briggs, Th, P. L. Kunsch, and Bertrand Mareschal. "Nuclear waste management: an application of the multicriteria 
+PROMETHEE methods." European Journal of Operational Research 44, no. 1 (1990): 1-10. 
+[23]. Feng, Feng, Zeshui Xu, Hamido Fujita, and Meiqi Liang. "Enhancing PROMETHEE method with intuitionistic fuzzy 
+soft sets." International Journal of Intelligent Systems 35, no. 7 (2020): 1071-1104. 
+[24]. Zhaoxu, Sun, and Han Min. "Mult i-criteria decision making based on PROMETHEE method." In 2010 international 
+conference on computing, control and industrial engineering, vol. 1, pp. 416-418. IEEE, 2010. 
+
+[W4409676417 PDF PAGE 11]
+Mohammed Quadir Mohiuddin /REST Journal on Data Analytics and Artificial Intelligence, 4(1), March 2025, 259-269 
+ 
+Copyright@ REST Publisher                                                                                                                                           269 
+ 
+[25]. Cavallaro, Fausto. An integrated multi -criteria system to assess sustainable energy o ptions: An application of the 
+PROMETHEE method. No. 22.2005. Nota di Lavoro, 2005. 
+[26]. Chen, Chen-Tung, Yuan-Chu Hwang, and Wei -Zhan Hung. "Applying multiple linguistic PROMETHEE method for 
+personnel evaluation and selection." In 2009 IEEE International Confer ence on Industrial Engineering and Engineering 
+Management, pp. 1312-1316. IEEE, 2009. 
+[27]. Adalı, Esra Aytaç, Ayşegül Tuş Işık, and Nilsen Kundakcı. "An alternative approach based on Fuzzy PROMETHEE 
+method for the supplier selection problem." Uncertain supply chain management (2016). 
+[28]. Brans, Jean-Pierre, and Yves De Smet. "PROMETHEE methods." Multiple criteria decision analysis: state of the art 
+surveys (2016): 187-219. 
+[29]. Behzadian, Majid, Reza Baradaran Kazemzadeh, Amir Albadvi, and Mohammad Aghdasi. "PROMETHEE: A  
+comprehensive literature review on methodologies and applications." European journal of Operational research 200, 
+no. 1 (2010): 198-215. 
+[30]. Goswami, Shankha Shubhra. "Outranking methods: Promethee i and promethee ii." Foundations of Management 12, 
+no. 1 (2020): 93-110. 
+ 
+
+END REVIEW W4409676417

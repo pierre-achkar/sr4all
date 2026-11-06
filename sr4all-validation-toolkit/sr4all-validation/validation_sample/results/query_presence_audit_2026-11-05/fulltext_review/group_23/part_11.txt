@@ -1,0 +1,248 @@
+ept in the year 2018. T wenty apps were released in 2017, 
+13 apps in 2018, and 22 apps in 2019.
+The study examined the apps that had been updated over 
+a 5-year period. Thirty-four apps had recent updates in 
+2019 (47%, 34/73) and nineteen apps were last updated in 
+2018 (26%, 19/73), and nine had their last update in 2017 
+(12%, 9/73). Four apps did not have any details regarding 
+their recent updates, all of them from the Apple store (5%, 
+4/73; Figure 2).
+App store categories and functions
+The app marketplaces classified the 73 applications into 
+various categories; 57.5% were categorised as Health & 
+Fitness, 24.7% as Medical, 6.8% as Education, 4.1% each 
+in the Books & Reference, and Lifestyle categories, 1.4% 
+each in Food & Drink and Business categories (Figure 3).
+The primary functions of the applications targeting 
+GORD were summarised using six key categories. Some of 
+the applications included in our study population had more 
+than one functionality, and all applicable categories were 
+assigned to each app. According to the classification design, 
+dietary apps were the most predominant, comprising 60% 
+of the apps in the study sample (60%, 44/73). This was 
+followed by educational/informational apps (49%, 36/73). 
+Patient record/ diary management apps constituted 11% 
+of the apps (11%, 8/73). This was followed by apps for 
+audio-visual enabled studies (3%, 2/73), Social networking 
+apps (1%, 1/73) and self-assessment apps (1%, 1/73). 
+T able 1 shows the primary app functions targeted by the 
+applications in our study sample.
+2014         2015          2016         2017         2018         2019
+40
+30
+20
+10
+0
+2013    2014     2015    2016    2017   2018    2019
+25
+20
+15
+10
+5
+0
+Last updates
+Year of release
+Number of apps released Number of applications1 0 2
+9
+19
+34
+2 3 4
+6
+20
+13
+22
+Year
+Year
+Figure 2 Charts showing last updates of GORD Apps and number 
+of GORD Apps released between 2013 and 2019. GORD, Gastro-
+oesophageal Reflux Disease.
+0             10             20            30             40            50
+App store category
+Health & Fitness
+Medical
+Education
+Books & Reference
+Lifestyle
+Food & Drink
+Business
+Number of Apps
+42
+18
+5
+3
+3
+1
+1
+Figure 3 Chart showing the number of GORD apps in various 
+categories. GORD, Gastro-oesophageal Reflux Disease.
+Table 1 GORD App functions (n=number of applications)
+Category n apps Percentage
+Education & Information tools 36 49%
+Dietary tools 44 60%
+Patient diary tools 8 11%
+Audiovisual tools 2 3%
+Social networking tools 1 1%
+Self assessment tools 1 1%
+GORD, Gastro-oesophageal Reflux Disease.
+
+[W3157282810 PDF PAGE 6]
+mHealth, 2021Page 6 of 9
+© mHealth. All rights reserved. mHealth 2021;7:56 | http://dx.doi.org/10.21037/mhealth-20-126
+Sixty percent of the apps (44/73) asserted to provide 
+advice regarding “acid reflux preventing food” and 
+nutrition, including home remedies and alternative 
+medicine. They also provided a glossary of food items and 
+recipes for mobile users.
+T arget consumers
+A vast majority of apps, 71 (97.3%), were developed targeting 
+the general public. Only 2 apps (2.7%) were targeted at 
+healthcare professionals (including medical students/doctors/
+nurses/allied health care professionals and students).
+EB and MPI involvement
+Of the 73 apps, 11 (15.1%) had a documented EB. T wo 
+apps stated if healthcare professionals were involved in 
+the development, screening or assessing the app content; 
+meaning only 2.73% of the apps (2/73) stated their content 
+had been contributed by medical professionals (individual, 
+group or organisation of health providers), however neither 
+of these specifically named the medical professional(s) 
+involved.
+It was also noted that out of the 36 education & 
+information category apps, only 2 (5.6%, 2/36) had a 
+recorded MPI, and 8 (22.2%, 8/36) had a documented EB. 
+The sole self-assessment app had no recorded EB or MPI. 
+T able 2 shows the number of applications in each category 
+having MPI and EB, along with their commercial interests 
+in the market.
+Evidence standards
+Among the 73 apps, since no applications were for 
+improving the system efficiency, none were assigned 
+Tier 1. 63 applications (86.3%) were classified as Tier 2,  
+8 applications (11%) were Tier 3a and the two applications 
+primarily aimed at medical professionals were not classified 
+under any Tier (Figure 4). The classification of tier 3a could 
+be arguable, since we have assigned that to the apps that 
+offered symptom tracking and managing and the option for 
+the patient to seek medical attention though not directly 
+linked with the app. Only one among the eight applications 
+had MPI in its making, which was also the only app that was 
+evidence based. However, the applications that are available 
+to the users through the NHS apps library are of a superior 
+quality when it comes to symptom tracking and two way 
+communication. One of the apps among the 73 provided 
+Table 2 MPI and EB in GORD apps
+App function n apps % Target Consumer n apps Commercial Interests n apps Median cost range MPI n apps EB n apps
+Education & Information tools 36 49.3 Public 34 Paid apps 3 £1.86 (£0.99–£2.99) Yes 2 Yes 8
+Medical Professionals 2 In App purchases 1 £2.09 per item No 34 Partial 2
+Dietary tools 44 60.27 Public 44 Paid apps 5 £2.19 (£0.99–£3.99) Yes 0 Yes 1
+Medical Professionals 0 In App purchases 1 £0.69–£10.99 per item No 44 Partial 0
+Patient diary tools 8 10.96 Public 8 Paid apps 3 £4.86 (£4.59–£4.89) Yes 1 Yes 1
+Medical Professionals 0 In App purchases 1 £0.89–£4.99 per item No 7 Partial 1
+Audiovisual tools 2 2.74 Public 2 Paid apps 0 – Yes 0 Yes 2
+Medical Professionals 0 In App purchases 2 £9.80 (£1.60–£17.99) No 2 Partial 0
+Social networking tools 1 1.36 Public 1 Paid apps 1 £1.59 Yes 0 Yes 0
+Medical Professionals 0 In App purchases 0 – No 1 Partial 0
+Self assessment tools 1 1.36 Public 1 Paid apps 0 – Yes 0 Yes 0
+Medical Professionals 0 In App purchases 0 – No 1 Partial 1
+MPI, medical professional involvement; EB, evidence base; GORD, Gastro-oesophageal Reflux Disease.
+
+[W3157282810 PDF PAGE 7]
+mHealth, 2021 Page 7 of 9
+© mHealth. All rights reserved. mHealth 2021;7:56 | http://dx.doi.org/10.21037/mhealth-20-126
+DHT Classification
+Tier 3a with MPI
+N/A
+Tier 3a
+Tier 2
+Yes
+No
+63
+8 2
+1
+7
+12.5%
+2.7%
+11.0%
+86.3%
+87.5%
+Figure 4 Pie chart showing the evidence standards classification 
+of DHT s and MPI in Tier 3a applications. DHT , Digital Health 
+T echnology; MPI, medical professional involvement.
+two way communication among peers, and none offered a 
+connection to a medical professional.
+Silberg scoring
+The average Silberg score of the 73 applications in the 
+study was 3.26±1.29 (maximum score of 9). Only eight 
+applications had a score greater than or equal to that of 
+the mean score. The average scoring for each criteria were 
+as follows: Authorship 0.19±0.62, Attribution 0.33±0.71, 
+Disclosure 0.85±0.49 and Currency 1.89±0.46.
+Most of the applications in the study (89.04%) have not 
+credited the authors. 58 applications have an appropriate 
+disclosure of application ownership (79.45%), and only nine 
+applications have been modified in the past month/ same 
+month as the data gathering (12.32%). 
+The gap of information quality is prominent in all 
+variables, including the lack of proper author credentials 
+or affiliations (10.96%), citing the references (19.18%) and 
+disclosure of sponsorship (5.48%). The two variables that 
+scored the highest include the disclosure of the application 
+ownership, and the date of last modification. T able 3 
+summarizes the average score for each criteria.
+Potential safety concerns
+One of the safety concerns that we looked into was the 
+storing of confidential data within the apps. A total of  
+9 applications (12.3%) had the provision to store 
+confidential information in certain forms, including 
+findings from self-assessment, the personal details of the 
+patients including their test results. Only one among the 
+9 stated that the data will be stored to the user’s personal 
+device and no one else will have access to the personal data 
+stored within the app. No other applications mentioned 
+any security measures like passwords or data encryption to 
+protect the confidential data within the app.
+Reviews and ratings
+For the consumers to give ratings on the apps, the app 
+marketplaces provide two methods—a star scoring system 
+where an app is given scores from 1–5 stars (worst to best), 
+and a comment section to post written reviews. The users 
+are usually prompted to rate or review the apps while they 
+use it, and the consumers have the option to give a review 
+depending on their level of satisfaction.
+Only ten applications among the 73 (13.7%) had one or 
+more star ratings. The star rating, and number of ratings 
+received are: 4.0 [122], 2.4 [5], 4.7 [47], 4.8 [8], 3.7 [10], 3.7 
+[12], 3.4 [5], 3.2 [5], 3.5 [2], 5 [1]. The remaining 63 apps 
+had no ratings. 
+Six apps (8.21%) had one or more written reviews. 
+The average length of reviews were 15 words (range, 1–  
+92 words) and the average number of comments were 18. 
+T able 4 shows the number of comments and the average 
+word count in the six applications.
+Table 3 Silberg variables and percentages
+Silberg variables Percentage of apps Mean score
+Authors credited 10.96 0.11
+Author affiliations 2.74 0.055
+Author credentials 2.74 0.055
+Information sources 19.18 0.192
+Provision of references 13.7 0.274
+Disclosure of application  
+ownership
+79.45 0.795
+Disclosure of sponsorship 5.48 0.11
+Last modification in the  
+past month
+12.33 0.123
+Disclosure of date of last 
+modification
+94.52 1.89
+
+[W3157282810 PDF PAGE 8]
+mHealth, 2021Page 8 of 9
+© mHealth. All rights reserved. mHealth 2021;7:56 | http://dx.doi.org/10.21037/mhealth-20-126
+Discussion
+Since the definition of mHealth and the generation of more 
+advanced smartphone technology, interest and downloads of 
+mHealth Apps have exponentially increased. Benefits have 
+been shown in patient monitoring and disease control in 
+certain

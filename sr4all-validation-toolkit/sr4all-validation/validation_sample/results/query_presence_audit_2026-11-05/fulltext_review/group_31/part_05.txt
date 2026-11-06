@@ -1,0 +1,188 @@
+hich caused significant 
+impacts on healthcare systems across the U.S. Differences 
+in state responses (such as stay-at-home orders), as well as 
+adaptations in service delivery by HIV clinics made early 
+in the pandemic, may have also influenced which regions 
+and populations were impacted. Finally, this review only 
+included studies conducted in the U.S., and thus the results 
+may not be generalizable to other countries.
+However, there are several strengths of this study as well. 
+First, the review adhered to rigorous PRISMA standards 
+and was aided by an information specialist. Second, to our 
+This review identified only four articles that compare 
+pre-pandemic viral suppression rates to time periods during 
+the pandemic. This may be due to the fact that impacts on 
+viral suppression rates may take more time to appear clini -
+cally and be reported in the literature than the timeframe 
+covered by this systematic review. While three of the studies 
+that did look at changes in viral suppression rates found no 
+significant changes [ 15, 24, 32], one did find a significant 
+increase in the odds of viral nonsuppression after the ini -
+tiation of shelter-in-place orders within PWH who utilize 
+a safety-net clinic [ 28]. Data on changes in viral suppres -
+sion rates, in addition to participant-reported incidences of 
+missed or cancelled visits and challenges accessing ART, 
+will be important to fully understanding the impacts of the 
+pandemic on the long-term health of PWH. Additionally, 
+data on HIV transmission rates will provide evidence as 
+to whether pandemic-related changes in viral suppression 
+rates led to increased disease transmission. This review also 
+identified only two studies that addressed changes in visit 
+frequency [24, 29], likely because most studies were con -
+ducted in the first year of the pandemic. Additional research 
+looking at changes in the chronicity and frequency of visits 
+during the duration of the pandemic will also be critical to 
+fully understanding its impacts.
+As the U.S. continues to experience waves of COVID-19 
+outbreaks, it will be critical that HIV providers, health sys -
+tems, and policy makers understand the additional burdens 
+that the pandemic puts on PWH. For example, syndemic 
+health problems in PWH, such as substance use, mental 
+health disorders, and malnutrition, coupled with the addi -
+tional challenges introduced by the pandemic, put them at 
+increased risk for adverse outcomes related to the pandemic 
+[40]. Additionally, several studies in this review found that 
+specific communities, including those experiencing home -
+lessness [28], with substance use disorders [25, 30], who are 
+of minority race/ethnicity [ 16, 18], MSM [ 23, 37], or who 
+use public insurance or lost health insurance [ 26, 31], have 
+suffered interruptions in HIV services during the pandemic. 
+This is particularly concerning as those who experience 
+social inequality, stigma, racism, and discrimination have 
+been disproportionately impacted by the pandemic, and 
+interruptions in HIV treatment may make them more sus -
+ceptible to COVID-19 related morbidity and mortality [41].
+Several adaptations in care models for PWH, including 
+telemedicine, messaging applications, and mail order phar -
+macy, were highlighted in this review and have been critical 
+interventions to ensure continuity of care during the pan -
+demic. This is supported by several studies in this review 
+which highlighted minimal impacts on retention/engage -
+ment in care and medication adherence. However, there 
+are severe disparities in which communities have access to 
+the resources needed to utilize telemedicine. For example, 
+1 3
+354
+
+[W4289522482 PDF PAGE 12]
+AIDS and Behavior (2023) 27:344–357
+Consent to Participate  Not applicable.
+Consent for Publication  Not Applicable.
+References
+1. Kaiser Family Foundation. The HIV/AIDS Epidemic in the 
+United States: The Basics. KFF 2021. https://www.kff.org/
+hivaids/fact-sheet/the-hivaids-epidemic-in-the-united-states-the-
+basics/ (accessed October 7, 2021).
+2. National Institutes of Health. Adherence to the Continuum of 
+Care | NIH 2017. https://clinicalinfo.hiv.gov/en/guidelines/adult-
+and-adolescent-arv/adherence-continuum-care (accessed October 
+7, 2021).
+3. National Institute of Health. Initiation of Antiretroviral Therapy 
+| NIH 2019. https://clinicalinfo.hiv.gov/en/guidelines/adult-and-
+adolescent-arv/initiation-antiretroviral-therapy (accessed Octo -
+ber 7, 2021).
+4. Ridgway JP, Schmitt J, Friedman E, Taylor M, Devlin S, McNulty 
+M, et al. HIV Care Continuum and COVID-19 Outcomes Among 
+People Living with HIV During the COVID-19 Pandemic, 
+Chicago, IL. AIDS Behav 2020:1–3. https://doi.org/10.1007/
+s10461-020-02905-2.
+5. Waterfield KC, Shah GH, Etheredge GD, Ikhile O. Consequences 
+of COVID-19 crisis for persons with HIV: the impact of social 
+determinants of health. BMC Public Health. 2021;21:299. https://
+doi.org/10.1186/s12889-021-10296-9.
+6. Mitchell KM, Dimitrov D, Silhol R, Geidelberg L, Moore 
+M, Liu A, et al. The potential effect of COVID-19-related 
+disruptions on HIV incidence and HIV-related mortality 
+among men who have sex with men in the USA: a modelling 
+study. Lancet HIV . 2021;8:e206–15. https://doi.org/10.1016/
+S2352-3018(21)00022-9.
+7. Chenneville T, Gabbidon K, Hanson P, Holyfield C. The Impact 
+of COVID-19 on HIV Treatment and Research: A Call to Action. 
+Int J Environ Res Public Health. 2020;17:4548. https://doi.
+org/10.3390/ijerph17124548.
+8. Prabhu S, Poongulali S, Kumarasamy N. Impact of COVID-19 on 
+people living with HIV: A review. J Virus Erad. 2020;6:100019. 
+https://doi.org/10.1016/j.jve.2020.100019.
+9. Dawson L, Kates. Delivering HIV Care and Prevention in the 
+COVID Era: A National Survey of Ryan White Providers - Issue 
+Brief. KFF 2020. https://www.kff.org/report-section/delivering-
+hiv-care-prevention-in-the-covid-era-a-national-survey-of-ryan-
+white-providers-issue-brief/ (accessed October 8, 2021).
+10. Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, 
+Mulrow CD, et al. The PRISMA 2020 statement: an updated 
+guideline for reporting systematic reviews. BMJ. 2021;372:n71. 
+https://doi.org/10.1136/bmj.n71.
+11. Lobner K. Welch Medical Library Guides: COVID-19 Resources: 
+Research Resources 2021. https://browse.welch.jhmi.edu/covid-
+19/databases (accessed February 16, 2021).
+12. Covidence - Better systematic review management. Covidence 
+2021. https://www.covidence.org/ (accessed February 16, 2021).
+13. Hong QN, Gonzalez-Reyes A, Pluye P. Improving the useful -
+ness of a tool for appraising the quality of qualitative, quantita -
+tive and mixed methods studies, the Mixed Methods Appraisal 
+Tool (MMAT). J Eval Clin Pract. 2018;24:459–67. https://doi.
+org/10.1111/jep.12884.
+14. CDC. HIV in the United States by Region. Cent Dis Control Prev 
+2022. https://www.cdc.gov/hiv/statistics/overview/geograph-
+icdistribution.html (accessed January 30, 2022).
+15. McGinnis KA, Skanderson M, Justice AC, Akgün KM, Tate JP, 
+King JT, et al. HIV care using differentiated service delivery 
+knowledge, this is the first systematic review that synthe -
+sizes data on pandemic-related impacts on HIV healthcare 
+services in the U.S. We believe that this review provides an 
+important snapshot of the impacts of the pandemic thus far 
+on PWH, the challenges they have faced, and the changes 
+providers have made to help ensure continued access to 
+services.
+Conclusions
+This review suggests that COVID-19 has had varying 
+impacts on HIV healthcare service delivery within and 
+across CDC regions, and innovations in care delivery have 
+been critical. Evidence also indicates that these innovations 
+may improve access to and use of these services and should 
+be maintained post-pandemic. Importantly, disparities were 
+found to exist within certain communities in the magni -
+tude of the impacts of the pandemic on HIV healthcare ser-
+vices that could lead to increased morbidity and mortality. 
+It is critical that HIV service providers and health systems 
+understand barriers faced by these communities and imple -
+ment policy and practice changes that help ensure improved 
+and continued access to care. Additional research will also 
+be critical to better understand the impacts of interruptions 
+in care on viral suppression rates. Disease surveillance will 
+also help identify any impacts on HIV transmission rates. 
+Finally, integrating these lessons learned into emergency 
+preparedness plans will help reduce the impacts of future 
+public health emergencies on the availability of services for 
+PWH.
+Acknowledgements  The authors acknowledge information special -
+ist, Stella Seal, Williams H. Welch Medical Library, Johns Hopkins 
+Medicine, who curated the search strategy and performed the initial 
+literature search.
+Author’s Contributions  Conceptualization (Diane Meyer, Jason E. 
+Farley), Data curation (Diane Meyer), Formal analysis (Diane Meyer, 
+Sarah E. Slone, Oluwabunmi Ogungbe, Brenice Duroseau), Writing-
+original draft (Diane Meyer), Writing-review and editing (Diane Mey-
+er, Sarah E. Slone, Oluwabunmi Ogungbe, Brenice Duroseau, Jason 
+E. Farley).
+Funding  The authors received no specific funding for this work.
+Data Availability  All relevant data are within the manuscript and its 
+supporting files.
+Code Availability  Not applicable.
+Declarations
+Conflict of Interest  The authors have no conflicts of interest to declare.
+Ethics Approval  Not applicable.
+1 3
+355
+
+[W4289522482 PDF PAGE 13]
+AIDS and Behavior (2023) 27:344–357
+28. Spinelli MA, Hickey MD, Glidden DV , Nguyen JQ, Oskars -
+son JJ, Havlir D, et al. Viral suppression rates in a safety-net 
+HIV clinic in San Francisco destabilized during COVID-19. 
+AIDS Lond Engl. 2020;34:2328–31. https://doi.org/10.1097/
+QAD.0000000000002677.
+29. Fadul N, Regan N, Kaddoura L, Swindells S. A Midwestern Aca-
+demic HIV Clinic Operation during the COVID-19 Pandemic: 
+Implementation Strategy and Preliminary Outcomes. J Int Assoc 
+Provid AID

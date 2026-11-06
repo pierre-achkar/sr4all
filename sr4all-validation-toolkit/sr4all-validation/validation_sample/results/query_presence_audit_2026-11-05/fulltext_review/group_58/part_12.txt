@@ -1,0 +1,187 @@
+(SCLC): Safety and efficacy 
+analyzed by baseline brain metastasis. J Clin Oncol 41 (16 Suppl): 
+S8582, 2023.
+13. Ahn MJ, Cho BC, Felip E, Korantzis I, Ohashi K, Majem M, 
+Juan‑Vidal O, Handzhiev S, Izumi H, Lee JS , et al: Tarlatamab 
+for patients with previously treated small‑cell lung cancer. New 
+Engl J Med 389: 2063‑2075, 2023.
+14. Choudhury N, Jain P, Dowlati  A, Thompson J, Johnson ML, 
+Mamdani H, Sanborn RE, Schenk EL, Aggarwal R, 
+Sankar K, et al: 698P Interim results from a phase I/II study of 
+HPN328, a tri‑specific, half‑life (T1/2) extended DLL3‑targeting 
+T cell engager in patients (pts) with small cell lung cancer (SCLC) 
+and other neuroendocrine neoplasms (NEN). Ann Oncol 34 
+(Suppl 2): S486, 2023.
+15. Owonikoko TK, Champiat S, Johnson ML, Govindan R, 
+Izumi  H, Lai  WVV , Borghaei  H, Boyer  MJ, Boosman RJ, 
+Hummel  HD, et al : Updated results from a phase 1 study of 
+AMG 757, a half‑life extended bispecific T‑cell engager (BiTE) 
+immuno‑oncology therapy against delta‑like ligand 3 (DLL3), 
+in small cell lung cancer (SCLC). J Clin Oncol  39 (15 Suppl): 
+S8510, 2021.
+16. Wermke M, Kuboki Y, Felip E, Alese OB, Morgensztern D, 
+Sayehli C, Arriola E, Sanmamed MF, Hamed ZO, Song E , et al: 
+OA01.05 Phase I dose escalation trial of the DLL3/CD3 Igg‑like 
+T cell engager BI 764532 in patients with DLL3+ tumors: Focus 
+on SCLC. J Thorac Oncol 18 (Suppl): S45‑S46, 2023.
+17. Blackhall F, Jao K, Greillier L, Cho BC, Penkov K, Reguart N, 
+Majem M, Nackaerts K, Syrigos K, Hansen K , et al : Efficacy 
+and safety of rovalpituzumab tesirine compared with topo ‑
+tecan as second‑line therapy in DLL3‑high SCLC: Results 
+from the phase 3 TAHOE study. J Thorac Oncol 16: 1547‑1558, 
+2021.
+18. Johnson ML, Zvirbule  Z, Laktionov K, Helland A, Cho BC, 
+Gutierrez V , Colinet B, Lena H, Wolf M, Gottfried M , et al : 
+Rovalpituzumab tesirine as a maintenance therapy after 
+first‑line platinum‑based chemotherapy in patients with 
+extensive‑stage‑SCLC: Results from the phase 3 MERU study. 
+J Thorac Oncol 16: 1570‑1581, 2021.
+19. Slim  K, Nini  E, Forestier D, Kwiatkowski  F, Panis Y and 
+Chipponi J: Methodological index for non‑randomized studies 
+(minors): Development and validation of a new instrument. ANZ 
+J Surg 73: 712‑716, 2003.
+20. Morgensztern D, Besse B, Greillier L, Santana‑Davila R, Ready N, 
+Hann CL, Glisson BS, Farago AF, Dowlati A, Rudin CM , et al: 
+Efficacy and safety of rovalpituzumab tesirine in third‑line and 
+beyond patients with DLL3‑expressing, relapsed/refractory 
+small‑cell lung cancer: Results from the phase II TRINITY 
+study. Clin Cancer Res 25: 6958‑6966, 2019.
+21. Lovely B and Hollasch M: DLL3‑targeting agents are poised to 
+fill unmet needs in SCLC. Oncol Live® 24, 2023.
+22. Lin S, Zhang Y, Yao J, Yang J, Qiu Y, Zhu Z and Hua H: DB‑1314, 
+a novel DLL3‑targeting ADC with DNA topoisomerase I inhibitor, 
+exhibits promising safety profile and therapeutic efficacy in preclin‑
+ical small cell lung cancer models. J Transl Med 22: 766, 2024.
+23. Sands JM, Champiat S, Hummel H, Paulson KG, Borghaei H, 
+Bustamante Alvarez J, Carbone DP, Carlisle JW, Choudhury NJ, 
+Clarke JM, et al: Practical management of adverse events in patients 
+receiving tarlatamab, a DLL3‑targeted bispecific T‑cell engager immu‑
+notherapy, for previously treated small cell lung cancer. medRxiv, 2024.
+24. von Pawel J, Schiller JH, Shepherd FA, Fields SZ, Kleisbauer JP, 
+Chrysson NG, Stewart DJ, Clark PI, Palmer MC, Depierre A, et al: 
+Topotecan versus cyclophosphamide, doxorubicin, and vincris ‑
+tine for the treatment of recurrent small‑cell lung cancer. J Clin 
+Oncol 17: 658‑6567, 1999.
+25. Armstrong D and O'Reilly S: Clinical guidelines for managing 
+topotecan‑related hematologic toxicity. Oncologist 3: 4‑10, 1998.
+26. Ding J and Yeong C: Advances in DLL3‑targeted therapies for 
+small cell lung cancer: Challenges, opportunities, and future 
+directions. Front Oncol 14: 1504139, 2024.
+27. Ogawa H, Sakai Y, Nishio W, Fujibayashi Y, Nishikubo M, 
+Nishioka Y, Tane S, Kitamura Y, Sudo T, Sakuma T and 
+Yoshimura M: DLL3 expression is a predictive marker of sensi ‑
+tivity to adjuvant chemotherapy for pulmonary LCNEC. Thorac 
+Cancer 11: 2561‑2569, 2020.
+28. Tully KM, Tendler S, Carter LM, Sharma SK, Samuels ZV , 
+Mandleywala K, Korsen JA, Delos Reyes AM, Piersigilli A, 
+Travis WD, et al: Radioimmunotherapy targeting delta‑like 
+ligand 3 in small cell lung cancer exhibits antitumor efficacy 
+with low toxicity. Clin Cancer Res 28: 1391‑1401, 2022.
+29. Aggarwal RR, Rottey S, Bernard‑Tessier A, Mellado‑Gonzalez B, 
+Kosaka T, Stadler WM, Sandhu S, Yu B, Shaw C, Ju CH , et al: 
+Phase 1b study of tarlatamab in de novo or treatment‑emergent 
+neuroendocrine prostate cancer (NEPC). J Clin Oncol 42 
+(16 Suppl): S5012, 2024.
+30. Ataee MH, Mirhosseini SA, Mirnejad R, Rezaie E, Hosseini HM 
+and Amani J: Design of two immunotoxins based rovalpitu ‑
+zumab antibody against DLL3 receptor; a promising potential 
+opportunity. Res Pharm Sci 17: 428‑444, 2022.
+31. Mansfield AS, Hong DS, Hann CL, Farago AF, Beltran H, 
+Waqar SN, Hendifar AE, Anthony LB, Taylor MH, Bryce AH, et al: 
+A phase I/II study of rovalpituzumab tesirine in delta‑like 
+3‑expressing, advanced solid tumors. NPJ Precis Oncol 5: 74, 2021.
+32. Spigel D, Pietanza  MC, Bauer T, Ready N, Morgensztern D, 
+Glisson BS, Byers LA, Johnson M, Burris H, Robert F , et al : 
+OA05.03 Single‑agent rovalpituzumab tesirine, a delta‑like protein 
+3 (DLL3)‑targeted antibody‑drug conjugate (ADC), in small‑cell 
+lung cancer (SCLC). J Thorac Oncol 12 (Suppl): S260‑S261, 2017.
+33. Calvo E, Spira A, Miguel MD, Kondo S, Gazzah A, Millward M, 
+Prenen H, Rottey S, Warburton L, Alanko T , et al: Safety, phar‑
+macokinetics, and efficacy of budigalimab with rovalpituzumab 
+tesirine in patients with small cell lung cancer. Cancer Treat Res 
+Commun 28: 100405, 2021.
+34. Borghaei H, Paz‑Ares L, Johnson M, Champiat S, Owonikoko T, 
+Lai V , Boyer M, Hummel HD, Govindan R, Steeghs N , et al : 
+OA12.05 phase 1 updated exploration and first expansion data 
+for DLL3‑targeted T‑cell engager tarlatamab in small cell lung 
+cancer. J Thorac Oncol 17 (Suppl): S33, 2022.
+35. Udagawa H, Akamatsu H, Tanaka K, Takeda M, Kanda S, 
+Kirita  K, Teraoka S, Nakagawa K, Fujiwara  Y, Yasuda I, et al: 
+Phase I safety and pharmacokinetics study of rovalpituzumab 
+tesirine in Japanese patients with advanced, recurrent small cell 
+lung cancer. Lung Cancer 135: 145‑150, 2019.
+
+[W4408295411 PDF PAGE 15]
+ONCOLOGY LETTERS  29:  228,  2025 15
+36. Paz‑Ares  L, Ahn M, Felip E, Handzhiev S, Korantzis I, 
+Izumi  H, Ohashi  K, Tarruella  MM, Wolf J, Reck M , et  al : 
+508MO Tarlatamab for patients (pts) with previously treated 
+small cell lung cancer (SCLC): Primary analysis of the phase II 
+DeLLphi‑301 study. Ann Oncol 34: S1664‑S1665, 2023.
+37. Paz‑Ares L, Champiat S, Lai WV , Izumi H, Govindan R, 
+Boyer M, Hummel HD, Borghaei H, Johnson ML, 
+Steeghs  N, et  al : Tarlatamab, a first‑in‑class DLL3‑targeted 
+bispecific T‑cell engager, in recurrent small‑cell lung cancer: 
+An open‑label, phase I study. J Clin Oncol 41: 2893‑2903, 2023.
+38. Pietanza MC, Spigel D, Bauer TM, Ready NE, Glisson BS, 
+Morgensztern D, Robert F, Salgia R, Kochendorfer M, 
+Patel M, et al : 7LBA Safety, activity, and response durability 
+assessment of single agent rovalpituzumab tesirine, a delta‑like 
+protein 3 (DLL3)‑targeted antibody drug conjugate (ADC), in 
+small cell lung cancer (SCLC). Eur J Cancer 51: S712, 2015.
+39. Malhotra J, Nikolinakos P, Leal T, Lehman J, Morgensztern D, 
+Patel  JD, Wrangle  JM, Curigliano G, Greillier L, 
+Johnson ML, et al: A phase 1‑2 study of rovalpituzumab tesirine 
+in combination with nivolumab plus or minus ipilimumab in 
+patients with previously treated extensive‑stage SCLC. J Thorac 
+Oncol 16: 1559‑1569, 2021.
+40. Owonikoko T, Boyer M, Johnson M, Govindan R, Rodrigues L, 
+Blackhall F, Boosman R, Champiat S, Hummel HD, Lai WV, et al: 
+OA11.03 A phase 1 study of AMG 757, half‑life extended bispe‑
+cific T‑cell engager (BiTE ®)Immune therapy against DLL3, in 
+SCLC. J Thorac Oncol 16: S126, 2021.
+41. Champiat S, Boyer M, Paz‑Ares L, Schoenfeld A, Izumi H, 
+Govindan R, Carlisle J, Borghaei H, Johnson ML, Steeghs N, et al: 
+147P Characterizing CRS in phase  I study of DLL3‑targeted 
+T cell engager tarlatamab in small cell lung cancer. Immun 
+Oncol Technol 16 (Suppl 1): S100259, 2022.
+42. Kuboki Y, Gambardella V , Capdevila Castillon J, Alese OB, 
+Morgensztern D, Sayehli CM, Sanmamed MF, Arriola E, Wolf J, 
+Owonikoko  TK , et al : 75MO Phase I trial of the DLL3/CD3 
+IgG‑like T cell engager BI 764532 in patients (pts) with DLL3+ 
+tumors: Focus on Asian pts. Ann Oncol 34 (Suppl 4): S1495, 
+2023.
+Copyright © 2025 Su et al. This work is licensed under 
+a Creative Commons Attribution-NonCommercial-
+NoDerivatives 4.0 International (CC BY-NC-ND 4.0) 
+License.
+
+
+END REVIEW W4408295411
+
+
+REVIEW W4409676417
+TITLE: Impact of Artificial Intelligence and Robotics on Human Resource Management A Systematic Review
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4409676417 PDF PAGE 1]
+Mohammed Quadir Mohiuddin /REST Journal on Data Analytics and Artificial Intelligence, 4(1), March 2025, 259-269 
+ 
+Copyright@ REST Publisher                                                                                                                                           259 
+ 
+REST Journal on Data Analytics and Artificial 
+Intelligence 
+Vol: 4(1), March 2025 
+REST Publisher; ISSN: 2583-5564 
+Website: http://restpublisher.com/journals/jdaai/ 
+DOI: https://doi.org/10.46632/jdaai/4/1/30 
+ 
+Impact of Artificial Intelligence and Robotics on Human 
+Resource Management: A Systematic Review 
+ Mohammed Quadir Mohiuddin  
+University of Technology and Applied Sciences-IBRI, Sultanate of Oman. 
+Corresponding Author Email: qdr_mba@yahoo.co.in 
+ 
+Abstract: Artificial intelligence (AI) and robotics have become central to modern technological 
+advances, shaping industries and transforming human interactions.

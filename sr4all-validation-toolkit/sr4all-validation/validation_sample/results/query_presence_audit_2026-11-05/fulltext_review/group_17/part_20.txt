@@ -1,0 +1,142 @@
+.8) –
+Benveniste et al. ( 2015) 19 (11.8) 1 (0.6) 1 (0.6) 2 (1.2) 2 (1.2) 135 (84.3)
+Bertagna et al. ( 2015) 17 (68) 2 (8) 4 (16) –– 2 (8)
+Shin et al. ( 2015) 21 (77.7) 1 (3.7) 1 (3.7) – 2 (7.4) 2 (7.4)
+*Data was shown as frequency (percentage)
+**Others consisted of invasive mixed mucinous and ductal carcinoma, metaplastic breast cancer, papillary lesion with
+atypia, medullary carcinoma, tubular adenocarcinoma, sarcomatiod tumor, and fibrocarcinoma
+IDC invasive ductal carcinoma, DCIS ductal carcinoma in situ, ILC invasive lobular carcinoma, PC papillary carcinoma, BC
+breast cancer, FIBU focal incidental breast uptake
+Aarstad et al. European Journal of Hybrid Imaging            (2019) 3:16 Page 7 of 12
+
+[W2975642467 PDF PAGE 8]
+Discussion
+Results on the prevalence of FIBU on FDG-PET/CT and the associated risk of malig-
+nancy were reported in this systematic review including eight studies, four of which
+entered the meta-analysis. We found a very low prevalence of FIBU (around 1%) for
+women undergoing FDG-PET/CT, but the risk of malignancy among them was consid-
+erable (about one third). The most frequently detected malignancy was invasive ductal
+carcinoma, which was found in about two thirds of all detected breast cancer patients.
+The importance of further investigations and follow-up for this small group of
+patients is considered remarkable due to the high risk of malignancy in detected FIBU
+lesions (38%) including mostly primary breast cancer (over 80%). Further investigation
+Fig. 3 Pooled prevalence of focal incidental breast uptake in female patients
+Aarstad et al. European Journal of Hybrid Imaging            (2019) 3:16 Page 8 of 12
+
+[W2975642467 PDF PAGE 9]
+of FIBU could therefore contribute to improved survival rate by early diagnosis in initial
+stages. Therefore, we should use the valuable information regarding FIBU offered by
+performed FDG-PET/CT for any other reasons.
+All of the included studies had a retrospective design, and most of them were
+performed using database search for patients with FDG-PET/CT evaluation within a
+specific time-frame. There was a significant loss to follow-up in several studies except
+for the largest one (Minamimoto et al. 2015), which was performed in a screening
+setting. This study (Minamimoto et al. 2015) had the major impact on the result of our
+meta-analysis due to the huge sample size, which heavily influenced the pooled preva-
+lence found in the current review.
+There was a wide spectrum of inclusion criteria in performed studies, which were
+patients undergoing FDG-PET/CT for staging or follow-up of their primary malignancy
+(Bertagna et al. 2015), asymptomatic females (Minamimoto et al. 2015), and mix group
+of patients (Shin et al. 2015; Lim et al. 2013). These different populations under study
+may explain the large variance in rates of malignancies (27% up to 71%) in patients with
+detected FIBUs.
+Also, bias related to timing and period of follow-up may have affected the results.
+More than 30% were lost to follow-up in most of the studies (Shin et al. 2015; Bertagna
+et al. 2015; Chae et al. 2012; Lim et al. 2013), which was partly due to an insufficient
+follow-up period (most studies had a minimum of 2 years for follow-up period as one
+of their exclusion criteria), and partly, it was due to disseminated primary malignancy
+and poor clinical condition that made further investigation irrelevant for the subjects.
+This might have caused an underestimation of patients with potentially malignant
+histological findings. It is worth mentioning that updates of protocols followed by
+increasing use of FDG-PET/CT could have affected our results due to the application
+of different PET/CT techniques over time.
+A previous systematic review and meta-analysis about prevalence and clinical signifi-
+cance of incidental FDG breast uptake were conducted in 2013 by Bertagna et al.
+(2014). They selected 20 articles for their systematic review and found 13 articles
+eligible for meta-analysis; included articles were published until July 2013. Two of the
+studies included in our study (Dunne et al. 2013; Lim et al. 2013) were included in their
+report as well. They reported a pooled prevalence of FIBU for both genders and female
+patients to be 0.40% and 0.82%, respectively. Their reported pooled risk of malignancy
+among patients with FIBU was 48% (range 18 – 100%), which was higher compared to
+the 38.7% (range 27.3 – 43.6%) reported in our study. Two main reasons could justify
+the higher rate of malignancy in the previous review. First, included patients in the
+previous study had a known underlying malignancy, while most of included patients in
+our study were asymptomatic patients without a known history of malignancy.
+Secondly, the majority of analyzed patients with FIBU in the previous review were from
+the USA (6 of 13 studies), while most studies in the current review included patients
+with FIBU (over 90%) from Japan (Minamimoto et al. 2015) and South Korea (Shin et
+al. 2015; Lim et al. 2013). This could affect the results, since it has already been known
+that the incidence of breast cancer is higher in the USA and western countries than in
+Japan and Eastern Asian countries (Global Burden of Disease Cancer C 2017). There-
+fore, it could be expected to have lower rates of breast cancer in our study comparing
+to the previous review. On the other hand, it should be declared that the pooled risk of
+Aarstad et al. European Journal of Hybrid Imaging            (2019) 3:16 Page 9 of 12
+
+[W2975642467 PDF PAGE 10]
+malignancy among patients with FIBU in previous review was out of patients including
+both genders, while we have reported the rate of malignancy out of only female pa-
+tients. Since, the male breast cancers representing approximately 1% of all breast cancer
+worldwide (Gucalp et al. 2018), considering both genders, may have caused an under-
+estimation of the exact rate of further investigated malignancies among patients with
+FIBU.
+Both reviews have high heterogeneity from diversity in methodological aspects
+between studies, which could affect the outcome. Also, the most frequently reported
+malignancy was infiltrating ductal carcinoma in both reviews.
+Fig. 4 Pooled prevalence of further investigated malignancy in patients with focal incidental breast uptake
+Aarstad et al. European Journal of Hybrid Imaging            (2019) 3:16 Page 10 of 12
+
+[W2975642467 PDF PAGE 11]
+The small number of studies included in the meta-analysis as well as the large hetero-
+geneity are limitations of our study. Another limitation is the high bias regarding flow
+and timing, as many patients did not receive a reference standard. Another topic that
+could have been addressed is the SUV max in relation to benign and malignant lesions,
+which has been mentioned in some of the studies (Shin et al. 2015; Chae et al. 2012;
+Kim et al. 2012; Dunne et al. 2013). A significant difference in SUV max has been
+reported between benign and malignant lesions (Kang et al. 2011; Litmanovich et al.
+2009). However, some studies were against the value of these findings due to overlap of
+confidence interval for mean SUV max between benign and malign lesions and lack of
+clinical efficacy (Lim et al. 2013; Chung et al. 2010).
+Advantages of the current study are the update on literature, including studies with
+up-to-date technologies and the focus on FIBU and malignancy rates in women. Due to
+the low rate of male breast cancer worldwide (Gucalp et al. 2018), including both
+genders in the population of study may cause an underestimation of the exact rate of
+FIBU and risk of malignancy.
+Conclusion
+There is an ongoing advancement in technology and an increasing pattern in clinical
+utilization of FDG-PET/CT for oncological and non-oncological patients, which call for
+knowledge on how to tackle incidentally detected FDG uptake on scans. Based on the
+results of the current study, focal incidental FDG uptake in breast occurs rarely (0.79%)
+on FDG-PET/CT in female patients but reflects high probability of malignancy (36.2%).
+Therefore, focal incidental FDG uptake in breast should always be given appropriate
+consideration followed by further relevant clinical investigation.
+Additional file
+Additional file 1: The search terms and overview of search protocol is presented in additional file 1. (PDF 980 kb)
+Abbreviations
+FDG: Fluorine-18-fluorodeoxyglucose; FIBU: Focal incidental breast uptake; PET: Positron Emission Tomography; PET/
+CT: Positron emission tomography integrated with computed tomography
+Acknowledgements
+The authors would like to thank Herdis Foverskov, Librarian (Medical Research Library, University of Southern
+Denmark), for her help with the search strategy. Also, the authors appreciate Charlotte Leboeuf-Yde (Professor in Clin-
+ical Biomechanics, University of Southern Denmark) for her useful and constructive recommendations.
+Authors’ contributions
+EMA, PN, LBL, OG, and MGH contributed to the study concept and design. EMA, PN, and MN-B contributed to the ana-
+lysis and interpretation of data. OG contributed to the statistical analysis. EMA and PN contributed to preparing of ini-
+tial draft. All of the authors contributed to the critical revision of the manuscript for important intellectual content. All
+of the authors approve of the final draft.
+Funding
+This study was supported by the Independent Research Fund of Denmark and the University of Southern Denmark.
+Availability of data and materials
+All data generated or analyzed during this study are included in this published article (and its supplementary
+information files).
+Ethics approval and consent to participate
+Not applicable
+Consent for publication
+Not applicable
+Aarstad et al. European Journal of Hybrid Imaging            (2019) 3:16 Page 11 of 12
+
+[W2975642467 PDF PAGE 12]
+Competing interests
+The authors declare that they have no competing interests.
+Author details
+1Department of Clinical Research, University of Southern Denmark, Odense, Denmark. 2Department of Nuclear
+Medicine, Odens

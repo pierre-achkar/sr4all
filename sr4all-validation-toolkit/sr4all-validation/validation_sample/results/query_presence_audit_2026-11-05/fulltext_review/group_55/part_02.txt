@@ -1,0 +1,423 @@
+aucoma
+Diagnosis of 
+dementia /
+cognitive 
+impairment
+Glaucoma 
+type
+Outcome Variables adjusted
+Keenan 
+et al. 
+2014
+UK Retrospec-
+tive cohort 
+study
+87,658/
+2,535,472
+≥  55 12 ICD-10 ICD-10 POAG AD/VD
+Lee et al. 
+2018
+USA Prospec-
+tive cohort 
+study
+3,877 ≥  6 5 8 ICD-9 NINCDS-
+ADRDA
+Glaucoma AD
+Ou et al. 
+2012
+USA Retrospec-
+tive cohort 
+study
+63,325/
+63,325
+78.5 14 ICD− 9 ICD-9 POAG All-cause 
+dementia
+/AD
+Lin et al. 
+2014
+China Retrospec-
+tive cohort 
+study
+3,979/
+15,916
+71.3 ± 7.08/
+71.3 ± 7.41
+8 ICD− 9-CM ICD-9-CM POAG AD age, sex, hypertension, diabetes, heart failure, 
+stroke, insurance eligibility group, monthly 
+income, urbanization level and Charleston 
+commodities index
+Kessing 
+et al.
+2007
+Denmark Retrospec-
+tive cohort 
+study
+410,544 68.2 4.6 ICD-8
+or ICD-10
+ICD-8
+or ICD-10
+PACG All-cause 
+dementia
+/AD/VD
+age, sex, time from discharge, and a diagno-
+sis of substance use
+Kuo et 
+al. 2020
+China Retrospec-
+tive cohort 
+study
+21,024/
+21,024
+≥  2 0 16 ICD− 9/ICD− 10 ICD-9/
+ICD-10
+Glaucoma All-cause 
+dementia
+/AD/VD
+age, sex, education, marry, hypertension, 
+ischemic heart diseases, hyperglycaemia, 
+congestive heart failure, peripheral vascu-
+lar disease, cerebrovascular disease, and 
+hemiplegia or paraplegia
+Helmer 
+et al. 
+2013
+France Prospec-
+tive cohort 
+study
+8,12 79.7 ± 4.3 3 Eye examination 
+with IOP
+DSM-IV POAG All-cause 
+dementia
+age, sex, education, hypertension, diabetes, 
+history of cardiovascular ischemic disease, 
+history of stroke, familial history of glau-
+coma, and apolipoprotein
+Ekstrom 
+and 
+Kilander 
+2016
+Sweden Retrospec-
+tive cohort 
+study
+1,533 65–74 30 Eye examination Medical chart 
+evaluation
+POAG AD age, gender, participating in the population 
+survey, smoking habits, diabetes mellitus, 
+systemic hypertension, ischemic heart 
+disease
+Ekström 
+and 
+Kilander 
+2014
+Sweden Retrospec-
+tive cohort 
+study
+1,123 65–74 14.0 ± 6.4 Eye examination 
+with IOP
+ICD-9 POAG AD
+Umu-
+nakwe
+et al. 
+2020
+USA Case-con-
+trol study
+24,892/
+1,484,790
+58.9 ± 14.0/
+44.9 ± 14.1
+4.7 ICD-9/ICD-10 ICD-9/
+ICD-10
+POAG VD/AD/
+cognitive 
+impairment
+age, race, and gender
+Table 1 (continued)
+ 
+1 3
+  172  Page 6 of 17
+
+[W4401716223 PDF PAGE 7]
+Aging Clinical and Experimental Research          (2024) 36:172 
+Authors Country Study 
+design
+Sample 
+size 
+(exposed/ 
+control)
+Age (years) Follow-up 
+years
+Diagnosis of 
+glaucoma
+Diagnosis of 
+dementia /
+cognitive 
+impairment
+Glaucoma 
+type
+Outcome Variables adjusted
+Chamard
+et al. 
+2023
+France Case-con-
+trol study
+4,810/
+24,050
+≥  6 0 7 ICD-10 ICD-10 Glaucoma All-cause 
+dementia
+overweight or obesity, diabetes, antihyperten-
+sives, hypolipidemic
+drugs, chronic kidney disease, stroke, 
+coronary heart disease, heart failure, heart 
+rhythm disorders, heart conduction disorders, 
+lower extremity arterial disease, depression 
+or bipolar disorder, psychotic disorders, 
+Diamox, benzodiazepines cDDD levels and 
+anticholinergics cDDD levels.
+Chung et 
+al. 2015
+China Case-con-
+trol study
+264/
+15,276
+76.8 ± 9.6 6 ICD-9 ICD-9 POAG All-cause 
+dementia
+urbanization level, monthly income, 
+geographic region, hypertension, diabetes, 
+hyperglycaemia, tobacco use disorder, and 
+alcohol abuse, and the number of outpatient 
+visits within 1 year prior to index date
+Lai et al. 
+2017
+China Case-con-
+trol study
+6,680 78.0 ± 6.7/
+78.7 ± 6.6
+11 ICD-9 ICD-9 Glaucoma AD age
+Wändell 
+et al. 
+2022
+Sweden Case-con-
+trol study
+7,791/
+1,695,884
+>18 6 ICD-10 ICD10 POAG AD
+Wang et 
+al. 2021
+China Case-con-
+trol study
+116/2,959 69.42 ± 6.77 - Eye examination MMSE
+/MoCA
+Glaucoma Cognitive 
+impairment
+Mullany 
+et al.
+2022
+Australia Case-con-
+trol study
+144/146 ≥  6 5 - Eye examination 
+with IOP
+T- MoCA POAG Cognitive 
+impairment
+Abbreviations  POAG: primary open-angle glaucoma; PACG: primary angle-closure glaucoma; AD: Alzheimer’s disease; VD: vascular dementia; SD: senile dementia; ICD-8/9/10: Interna -
+tional Classification of Diseases, version 8/9/10; MMSE: Mini-mental State Examination; MoCA: Montreal Cognitive Assessment; DSM-IV: Diagnostic Statistical Manual Mental Disorders 
+IV; KCD: Korean Classification of Diseases; NINCDS-ADRDA: National Institute of Neurological and Communicative Disorders and Stroke–Alzheimer’s Disease and Related Disorders 
+Association; MRI: magnetic resonance imaging; IOP: Intra-ocular Pressure; BMI: Body Mass Index
+Table 1 (continued)
+ 
+1 3
+Page 7 of 17   172 
+
+[W4401716223 PDF PAGE 8]
+Aging Clinical and Experimental Research          (2024) 36:172 
+Table 2 Methodological quality assessment results of the included cohort studies
+Author, year NOS selection domain NOS comparability
+domain
+NOS outcome domain Total 
+scores
+Representa-
+tiveness of 
+the exposed 
+cohort
+Selection 
+of the non-
+exposed 
+cohort
+Ascertain-
+ment of 
+exposure
+Outcom 
+not 
+present 
+at start
+Comparability 
+of cohorts on the 
+basis of the design 
+or analysis
+Assessment
+of outcome
+follow-uplong 
+enough for out-
+comes to occur
+(median ≥ 5 years)
+Adequacy 
+of follow-
+up of 
+cohorts
+Crump
+et al. 2024
+☆ ☆ ☆ ☆ ☆☆ ☆ ☆ ☆ 9
+Kim et al. 2023 ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ 8
+Park et al. 2023 ☆ ☆ ☆ ☆ ☆☆ ☆ ☆ 8
+Shang
+et al. 2023
+☆ ☆ ☆ ☆ ☆☆ ☆ ☆ ☆ 9
+Ekström
+et al. 2021
+☆ ☆ ☆ ☆ ☆☆ ☆ ☆ ☆ 9
+Belamkar
+et al.2021
+☆ ☆ ☆ ☆ ☆ ☆ ☆ 7
+Hwang et al. 
+2021
+☆ ☆ ☆ ☆☆ ☆ ☆ ☆ 8
+Su et al. 2016 ☆ ☆ ☆ ☆ ☆☆ ☆ ☆ 8
+Chen et al. 
+2018
+☆ ☆ ☆ ☆ ☆☆ ☆ ☆ 8
+Moon et 
+al.2018
+☆ ☆ ☆ ☆ ☆☆ ☆ ☆ ☆ 9
+Xiao et al. 
+2020
+☆ ☆ ☆ ☆☆ ☆ ☆ ☆ 8
+Keenan
+et al. 2015
+☆ ☆ ☆ ☆ ☆ ☆ 6
+Lee et al. 2018 ☆ ☆ ☆ ☆ ☆ ☆ ☆ 7
+Ou et al. 2012 ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ 8
+Lin et al. 2014 ☆ ☆ ☆ ☆ ☆☆ ☆ ☆ ☆ 9
+Kuo et al. 2020 ☆ ☆ ☆ ☆ ☆☆ ☆ ☆ ☆ 9
+Helmer
+et al. 2013
+☆ ☆ ☆ ☆ ☆☆ ☆ ☆ 8
+Kessing
+et al. 2007
+☆ ☆ ☆ ☆ ☆☆ ☆ 7
+Ekstrom and 
+Kilander 2016
+☆ ☆ ☆ ☆☆ ☆ ☆ 7
+Ekström and 
+Kilander 2014
+☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ 8
+Table 3 Methodological quality assessment results of the included case-control studies
+Author, year Selection Comparability Exposure Total 
+scoresCase defini-
+tion and 
+diagnosis
+Represen-
+tativeness 
+of cases
+Selection 
+of control
+Defini-
+tion of 
+control
+Comparability 
+of case and 
+control
+Identification 
+of exposure 
+factors
+Investiga-
+tion methods 
+of case and 
+control
+Non-
+response 
+rate
+Umunakwe
+et al. 2020
+☆ ☆ ☆ ☆ ☆ 5
+Chamard
+et al. 2023
+☆ ☆ ☆ ☆ ☆ ☆ 6
+Chung et al. 2015 ☆ ☆ ☆ ☆ ☆☆ ☆ ☆ 8
+Lai et al. 2017 ☆ ☆ ☆ ☆ ☆ ☆ ☆ 7
+Wändell et al. 2022 ☆ ☆ ☆ ☆ ☆ ☆ 6
+Wang et al. 2021 ☆ ☆ ☆ ☆ ☆ ☆ 6
+Mullany et al. 2022 ☆ ☆ ☆ ☆ ☆ ☆ 6
+1 3
+  172  Page 8 of 17
+
+[W4401716223 PDF PAGE 9]
+Aging Clinical and Experimental Research          (2024) 36:172 
+to 3.90 (95% CI: 1.50˗10.14). In general, glaucoma was 
+associated with an increased risk of all-cause dementia 
+(OR = 1.31, 95% CI: 1.16˗1.48, P < 0.0001) (Fig. 2). Sen-
+sitivity analysis was performed by the trim-and-fill method, 
+and the combined random-effects model resulted in a log 
+OR = 0.259, 95% CI: 0.125˗0.393. After two iterations with 
+the Linear method, the shear-complement method did not 
+Association between glaucoma and risk of all-cause 
+dementia
+A total of 18 studies evaluated all-cause dementia as an 
+outcome. Of these, 11 studies showed that glaucoma was 
+associated with an increased risk of all-cause dementia, with 
+effect estimates (OR) ranging from 1.09 (95% CI: 1.15˗1.13) 
+Fig. 2 Forest plot and Funnel plot 
+showing the effect of glaucoma 
+on all-cause dementia
+ 
+1 3
+Page 9 of 17   172 
+
+[W4401716223 PDF PAGE 10]
+Aging Clinical and Experimental Research          (2024) 36:172 
+(OR = 1.24, 95% CI: 1.01˗1.52, P = 0.04). Concerning gen-
+der, female glaucoma patients were more likely to develop 
+Alzheimer’s disease (OR = 1.82, 95% CI: 1.47˗2.26, 
+P<0.00001), whereas there was no significant link between 
+male glaucoma patients and dementia. According to age 
+subgroup analyses, glaucoma patients aged ≥  65 or < 65 
+both had a significantly increased risk of all-cause demen -
+tia and Alzheimer’s disease. In addition, we found that the 
+glaucoma patients in Asia had a 29% increased risk of all-
+cause dementia, and a 48% increased risk of Alzheimer’s 
+disease compared to those without the visual condition. 
+In Europe and North America, nevertheless, there was no 
+correlation between glaucoma and dementia. The results 
+from subgroup analyses by sample size and follow-up time 
+showed no statistically significant differences regarding the 
+impact of glaucoma on dementia in the subgroups, and they 
+were not the source of heterogeneity (Table 4).
+Discussion
+Main findings
+The present study comprehensively investigated the associ-
+ation between glaucoma and the risk of incident dementia or 
+cognitive decline and found that glaucoma was an indepen-
+dent risk factor for all-cause dementia, Alzheimer’s disease, 
+vascular dementia and cognitive impairment. Our result is 
+similar to the findings of a recently published systematic 
+review. Xu et al. [ 53] quantified the association between 
+glaucoma and cognitive impairment or dementia, proposing 
+a prevalence of 7.7% for glaucoma patients with mild cog -
+nitive impairment; 3.9–77.8% for cognitive impairment and 
+2.5–3.3% for dementia in glaucoma patients.
+Several meta-analyses have tried to pool the effects of 
+the associations of glaucoma with dementia or cognitive 
+decline. The meta-analysis by Zhao et al. [54]. included only 
+eleven cohort studies published up to 2020 and revealed that 
+glaucoma was not an independent risk factor for dementia. 
+Similarly, Kuźma et al. [ 55] performed a meta-analysis of 
+eight cross-sectional studies involving 175,357 individuals 
+up to 2020 and found no association between glaucoma and 
+dementia. On the contrary, our systematic review and meta-
+analysis is the comprehensive meta-analysis to confirm that 
+glaucoma is linked to dementia, which may contribute to 
+an accurate assessment of whether glaucoma patients are 
+associated with an increased risk of dementia or cognitive 
+impairment.
+Notwithstanding these overall associations, there was 
+a high heterogeneity of effects across all the studies and 
+sensitivity analyses did not reduce the heterogeneity. Our 
+subgroup analysis showed that glaucoma type, gender, ag

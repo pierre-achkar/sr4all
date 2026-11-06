@@ -1,0 +1,186 @@
+ et al. Assessment of mechanical 
+properties of tissue in breast cancer- related lymphedema using 
+ultrasound elastography. IEEE Trans Ultrason Ferroelectr Freq 
+Control 2019;66:541–50.
+ 45 Johnstone J, Hobbins S, Parekh D, et al. Excess subcutaneous 
+tissue may preclude intramuscular delivery when using adrenaline 
+autoinjectors in patients with anaphylaxis. Allergy 2015;70:703–6.
+
+END REVIEW W4317686413
+
+
+REVIEW W4318669076
+TITLE: Mandatory, voluntary, repetitive, or one-off post-migration follow-up for tuberculosis prevention and control: A systematic review
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4318669076 PDF PAGE 1]
+Prisma 2020 Checklist – S1 file
+Section and Topic Item 
+# Checklist item 
+Location 
+where item is 
+reported 
+TITLE 
+Title 1 Identify the report as a systematic review. Title
+ABSTRACT 
+Abstract 2 See the PRISMA 2020 for Abstracts checklist. Abstract
+INTRODUCTION 
+Rationale 3 Describe the rationale for the review in the context of existing knowledge. Introduction, 
+last paragraph
+Objectives 4 Provide an explicit statement of the objective(s) or question(s) the review addresses. Introduction, 
+last paragraph.
+METHODS 
+Eligibility criteria 5 Specify the inclusion and exclusion criteria for the review and how studies were grouped for the syntheses. Methods – 
+selection criteria
+Information sources 6 Specify all databases, registers, websites, organisations, reference lists and other sources searched or consulted to identify studies. Specify the date when each source 
+was last searched or consulted.
+Methods- 
+search strategy
+Search strategy 7 Present the full search strategies for all databases, registers and websites, including any filters and limits used. Suppl.
+Selection process 8 Specify the methods used to decide whether a study met the inclusion criteria of the review, including how many reviewers screened each record and each report retrieved, 
+whether they worked independently, and if applicable, details of automation tools used in the process.
+Methods- 
+selection criteria
+Data collection 
+process 
+9 Specify the methods used to collect data from reports, including how many reviewers collected data from each report, whether they worked independently, any processes 
+for obtaining or confirming data from study investigators, and if applicable, details of automation tools used in the process.
+Methods- 
+selection criteria
+Data items 10a List and define all outcomes for which data were sought. Specify whether all results that were compatible with each outcome domain in each study were sought (e.g. for all 
+measures, time points, analyses), and if not, the methods used to decide which results to collect.
+Methods- data 
+analysis
+10b List and define all other variables for which data were sought (e.g. participant and intervention characteristics, funding sources). Describe any assumptions made about any 
+missing or unclear information.
+Methods- data 
+analysis
+Study risk of bias 
+assessment
+11 Specify the methods used to assess risk of bias in the included studies, including details of the tool(s) used, how many reviewers assessed each study and whether they 
+worked independently, and if applicable, details of automation tools used in the process.
+N/A
+Effect measures 12 Specify for each outcome the effect measure(s) (e.g. risk ratio, mean difference) used in the synthesis or presentation of results. Methods- data 
+analysis and 
+Coverage and 
+yields
+Synthesis methods 13a Describe the processes used to decide which studies were eligible for each synthesis (e.g. tabulating the study intervention characteristics and comparing against the 
+planned groups for each synthesis (item #5)).
+N/A
+13b Describe any methods required to prepare the data for presentation or synthesis, such as handling of missing summary statistics, or data conversions. Methods - 
+Synthesis
+13c Describe any methods used to tabulate or visually display results of individual studies and syntheses. Methods - 
+Synthesis
+13d Describe any methods used to synthesize results and provide a rationale for the choice(s). If meta-analysis was performed, describe the model(s), method(s) to identify the 
+presence and extent of statistical heterogeneity, and software package(s) used.
+Methods - 
+Synthesis
+
+[W4318669076 PDF PAGE 2]
+Section and Topic Item 
+# Checklist item 
+Location 
+where item is 
+reported 
+13e Describe any methods used to explore possible causes of heterogeneity among study results (e.g. subgroup analysis, meta-regression). Methods - 
+Synthesis
+13f Describe any sensitivity analyses conducted to assess robustness of the synthesized results. N/A
+Reporting bias 
+assessment
+14 Describe any methods used to assess risk of bias due to missing results in a synthesis (arising from reporting biases). N/A
+Certainty assessment 15 Describe any methods used to assess certainty (or confidence) in the body of evidence for an outcome. N/A
+RESULTS 
+Study selection 16a Describe the results of the search and selection process, from the number of records identified in the search to the number of studies included in the review, ideally using a 
+flow diagram.
+Results, first 
+paragraph and 
+flow diagram
+16b Cite studies that might appear to meet the inclusion criteria, but which were excluded, and explain why they were excluded. N/A
+Study characteristics 17 Cite each included study and present its characteristics. Table 2
+Risk of bias in 
+studies 
+18 Present assessments of risk of bias for each included study. N/A
+Results of individual 
+studies 
+19 For all outcomes, present, for each study: (a) summary statistics for each group (where appropriate) and (b) an effect estimate and its precision (e.g. confidence/credible 
+interval), ideally using structured tables or plots.
+Table 2
+Results of syntheses 20a For each synthesis, briefly summarise the characteristics and risk of bias among contributing studies. N/A
+20b Present results of all statistical syntheses conducted. If meta-analysis was done, present for each the summary estimate and its precision (e.g. confidence/credible interval) 
+and measures of statistical heterogeneity. If comparing groups, describe the direction of the effect.
+N/A
+20c Present results of all investigations of possible causes of heterogeneity among study results. Resulsts, yields 
+and coverage
+20d Present results of all sensitivity analyses conducted to assess the robustness of the synthesized results. N/A
+Reporting biases 21 Present assessments of risk of bias due to missing results (arising from reporting biases) for each synthesis assessed. N/A
+Certainty of evidence 22 Present assessments of certainty (or confidence) in the body of evidence for each outcome assessed. N/A
+DISCUSSION 
+Discussion 23a Provide a general interpretation of the results in the context of other evidence. Discussion
+23b Discuss any limitations of the evidence included in the review. Discussion – 
+strengths and 
+limitations
+23c Discuss any limitations of the review processes used. Discussion – 
+strengths and 
+limitations
+23d Discuss implications of the results for practice, policy, and future research. Discussion, 2nd 
+paragraph
+OTHER INFORMATION
+Registration and 
+protocol
+24a Provide registration information for the review, including register name and registration number, or state that the review was not registered. Methods, 1st 
+paragraph
+
+[W4318669076 PDF PAGE 3]
+Section and Topic Item 
+# Checklist item 
+Location 
+where item is 
+reported 
+24b Indicate where the review protocol can be accessed, or state that a protocol was not prepared. Methods
+24c Describe and explain any amendments to information provided at registration or in the protocol. N/A
+Support 25 Describe sources of financial or non-financial support for the review, and the role of the funders or sponsors in the review. Financial 
+disclosure 
+section
+Competing interests 26 Declare any competing interests of review authors. Competing 
+interests section
+Availability of data, 
+code and other 
+materials
+27 Report which of the following are publicly available and where they can be found: template data collection forms; data extracted from included studies; data used for all 
+analyses; analytic code; any other materials used in the review.
+Suppl.
+From:  Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ 2021;372:n71. doi:
+10.1136/bmj.n71
+For more information, visit: http://www.prisma-statement.org/ 
+Prisma 2020 for Abstracts Checklist
+Section and Topic Item
+# Checklist item Reported
+(Yes/No) 
+TITLE 
+Title 1 Identify the report as a systematic review. Yes
+BACKGROUND 
+Objectives 2 Provide an explicit statement of the main objective(s) or question(s) the review addresses. Yes
+METHODS 
+Eligibility criteria 3 Specify the inclusion and exclusion criteria for the review. Yes
+Information sources 4 Specify the information sources (e.g. databases, registers) used to identify studies and the date when each 
+was last searched.
+Yes
+Risk of bias 5 Specify the methods used to assess risk of bias in the included studies. No
+Synthesis of results 6 Specify the methods used to present and synthesise results. Yes
+RESULTS 
+Included studies 7 Give the total number of included studies and participants and summarise relevant characteristics of studies. Yes
+
+[W4318669076 PDF PAGE 4]
+Section and Topic Item
+# Checklist item Reported
+(Yes/No) 
+Synthesis of results 8 Present results for main outcomes, preferably indicating the number of included studies and participants for 
+each. If meta-analysis was done, report the summary estimate and confidence/credible interval. If comparing
+groups, indicate the direction of the effect (i.e. which group is favoured).
+Yes
+DISCUSSION 
+Limitations of evidence 9 Provide a brief summary of the limitations of the evidence included in the review (e.g. study risk of bias, 
+inconsistency and imprecision).
+Yes
+Interpretation 10 Provide a general interpretation of the results and important im

@@ -1,0 +1,166 @@
+ media
+influences people’s behaviors and attitudes [ 5, 25]. For example,
+prior work has found that people who held a higher level of trust
+in health information on social media tended to engage in health
+behaviors (e.g., preventive behaviors, like avoiding crowds during
+the COVID-19 pandemic) [ 112]. On the other hand, other work
+has shown that trust in the information found on social media
+negatively influences people’s health behaviors (e.g., by increasing
+vaccine hesitancy) [18]. Given the varied and conflicting evidence
+regarding the consequences of trust, there is a need for a compre-
+hensive synthesis and analysis of this body of literature regarding
+how trust impacts people’s behaviors and attitudes. Accordingly,
+our last research question is: RQ4. What are the consequences
+of trust conceptsin social media?
+In summary, given the complexity and ambiguity of the concept
+of trust in the context of social media, there is a need for a sys-
+tematic review that maps the landscape of literature in this field.
+In conducting such a review, our work seeks to identify common
+themes and challenges in terms of the definition, conceptualiza-
+tion, measurement, antecedents, and consequences of trust in social
+media. To ground our discussion for the remainder of the paper,
+here we list a few key terms that will be used throughout this pa-
+per. Trustee refers to the party or the object to be trusted, whereas
+trustor refers to the party that makes the decision whether or not
+to trust [94]. Trust concepts include the concept of trust, distrust,
+and mistrust.
+Contributions. Our work seeks to demystify, disambiguate, op-
+erationalize, and defamiliarize the commonly-used terms of trust,
+mistrust, and distrust in social media. In so doing, we contribute
+to the development of descriptive power in this research area (i.e.,
+our ability to study, make sense of, and report on issues related to
+trust in social media) and rhetorical power [36] (i.e., communicate
+as a research community about the key qualities of trust concepts ).
+In so doing, we provide “building blocks” for future work that aims
+to make theoretical contributions (e.g., developing frameworks,
+models, and theories around trust in social media) and/or empirical
+contributions through investigations of trust surrounding social
+media. Specifically, we contribute: (1) an understanding of current
+methodological trends in prior research on trust concepts in social
+media, such as research methods used, characteristics of studied
+populations, and social media platforms examined. Characterizing
+these trends will help guide the design of future studies, including
+work that investigates the understudied dimensions of this research
+space; (2) a comprehensive investigation regarding the definitions,
+conceptualizations, and measurements of trust concepts in social
+media. Clarifying these fundamental concepts will help produce rig-
+orous research. By laying out the definitions and conceptualizations,
+we provide conceptual contributions that can help guide research
+to better describe the meaning of trust within social media research
+and name key aspects of the conceptual structure;(3) a synthesized
+understanding of the antecedents of trust in social media, as well
+as the consequences of trust in social media on people’s behaviors
+and attitudes. This understanding provides important insights into
+
+[W4319654023 PDF PAGE 3]
+What Do We Mean When We Talk about Trust in Social Media? A Systematic Review CHI ’23, April 23–28, 2023, Hamburg, Germany
+strategies and interventions for increasing the trustworthiness of
+social media information, users, and platforms. In short, we hope
+that this review will serve as an important resource for guiding
+future studies focused on trust in social media.
+2 METHOD
+Our review includes the following steps: 1) developing the search
+strategy and performing the literature search, 2) conducting a title
+screening, 3) performing an abstract screening, 4) completing a
+full-text screening, 5) running a quality assessment, and 6) extract-
+ing and analyzing the data. Figure 1 provides an overview of our
+searching process and related search results, adapted from a widely
+used flow diagram template, called the Preferred Reporting Items
+for Systematic Reviews and Meta-Analyses (PRISMA) [76].
+2.1 Search Strategy
+Databases: Our database search was conducted from October to
+November 2021. A total of six databases were included: ACM Digi-
+tal Library, IEEE Xplore, SAGE Journals, ScienceDirect (Elsevier),
+Taylor & Francis Online (Tandfonline), and Emerald Insight. These
+databases were chosen because they are well-known digital libraries
+within the fields of social sciences and social media and contain a
+large amount of research related to trust in social media.
+Search Scope and Strings: We used the Boolean “OR” to combine
+alternate terms (case insensitive) within each scope regarding the
+social media platform(s) and used “AND” to join the major trust
+concepts. Specifically, we apply the following search string to the
+metadata (including the title, keywords, and abstract) of the papers
+in each database:
+("social media" OR "facebook" OR "twitter" OR "insta-
+gram" OR "reddit" OR "youtube" OR "whatsapp" OR
+"wechat") AND ("trust" OR "distrust" OR "mistrust")
+2.2 Title Screening
+We screened all search outcomes using a two-step process: a title-
+abstract review and a full-text review. In the first screening step, one
+researcher screened the titles and abstracts of each of the papers,
+dissociating relevant and irrelevant papers based on their congruity
+to our research questions outlined. Although there were 2780 re-
+sults identified in our search, some articles were populated more
+than once across multiple search strings, resulting in 135 duplicate
+articles being removed from our list. Thus, a total of 2,645 papers
+were reviewed. Titles were considered relevant if they included
+keywords relating to trust concepts and social media. Overall, 2178
+papers were excluded based on their title, meaning a total of 467
+papers held relevant titles to our research questions and were to be
+further screened.
+2.3 Abstract Screening
+One researcher read and analyzed the abstracts of the 467 articles
+to discern their relevance to the topic space. In other words, if the
+abstract established that the paper was related to social media and
+trust concepts, the paper was included in the full-text analysis. There
+were 229 articles removed during the abstract review, resulting in
+238 relevant articles remaining for the full-text screening.
+2.4 Full-text Screening
+Two researchers then closely examined the remaining 238 articles
+to determine the final inclusion of papers according to inclusion
+and exclusion criteria constructed by the researchers.
+Inclusion criteria. Studies that satisfied all of the following
+inclusion criteria were included: 1) the paper is based on empirical
+research, and 2) the paper examines trust concepts in social media.
+Exclusion criteria. Studies that met at least one of the following
+exclusion criteria were removed: 1) the article was not written in
+English, 2) the article was not peer-reviewed, 3) the article was
+an abstract, or an extended abstract, 4) the article was secondary
+research, such as review papers.
+The research team held regular meetings (e.g., weekly meetings
+and day-to-day online communication) to validate the inclusion
+and exclusion of articles.
+2.5 Quality Assessment
+We then assessed the quality of each article of the remaining papers
+in our corpus via critical appraisal tools , which provide analytical
+evaluations of the quality of each study through free and online
+checklists and worksheets [21, 54]. Each article was evaluated by
+two researchers independently. Any disagreement regarding the
+quality of the article was discussed until consensus was achieved.
+Three papers were marked as being “poor” based on our critical
+appraisal tools and were removed from the corpus of our review.
+After all the inclusion and exclusion criteria processes, a total of 70
+papers were included in our review 3.
+2.6 Data Extraction and Analysis
+To streamline and systematize the analysis, the research team it-
+eratively developed a protocol to guide data extraction. Our pro-
+tocol collected both general information about the study design,
+as well as specific information relevant to our research questions,
+which aligns with review protocols suggested by prior work [62].
+Specifically, we recorded the following data: the author(s), year of
+publication, study location in which the research was conducted, re-
+search questions (and hypotheses, if any), methodology and sample
+size, characteristics of the studied population, social media platform
+studied, the definition of trust concepts , measurements used in each
+study, antecedents of trust, and consequences of trust. To assess
+the measurement of trust, we extracted all the questions related to
+trust concepts asked in prior work that included both quantitative
+and qualitative studies. We determine the antecedents and conse-
+quences of trust based on the research questions and hypotheses
+(along with the rationale for proposing their hypotheses) provided
+in our surveyed papers.
+Two researchers independently extracted the information from
+each paper and recorded it into spreadsheets. A high inter-rater
+reliability (IRR), with a Cohen’s kappa (𝑘) coefficient of 0.81, was
+achieved. Then the two researchers compared and discussed dis-
+crepancies in data extraction to achieve a consensus.
+We then took several explanatory approaches for data analysis,
+such as frequency analysis. Specifically, variables with similar di-
+mensions across papers were clustered, and the total counts and
+3For a complete list of included papers and a summary of these papers, please refer to
+the supplemental material.
+
+[W4319654023 PDF PAGE 4]
+CHI ’23, April 23–28, 2023, Hamburg, Germany Zhang et al.
+Reasons for full-text exclusion:
+Extended abstract or shortened paper (n = 2

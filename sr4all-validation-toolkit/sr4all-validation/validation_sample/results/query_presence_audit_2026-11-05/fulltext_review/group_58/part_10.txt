@@ -1,0 +1,165 @@
+AMG 757 10 mg, Q2w 40 (40)/ 70 (70)/ 4.9 (2.9‑6.7)/ 14.3 (10.8‑NE)/ (13)
+   28 (31.8) 55 (62.5) 3.9 (2.6‑4.4) NE (12.4‑NE)
+Choudhury et al, 2023  44 HPN328 0.015‑24 mg, Q1w 4 (9.1) NA NA NA (14)
+Owonikoko et al, 2021  40 AMG 757 0.003‑100 mg, Q2w 6 (15) 17 (42.5) NA NA (40)
+Rudin et al, 2017  74 Rova‑T dosage: 0.05‑0.8 mg/kg, administered 11 (16.9) 46 (70.7) 3.1 (2.7‑4.1) 4.6 (3.9‑7.1) (10)
+  every 3 weeks (Q3w) or 6 weeks (Q6w).
+  Follow‑up doses: 0.3 mg/kg or 0.4 mg/kg,
+  administered every 6 weeks (Q6w); 0.2 mg/kg
+  or 0.4 mg/kg, administered every3 weeks (Q3w).
+Champiat et al, 2022  106 AMG 757 0.003‑100 mg, Q2w NA NA NA NA (41)
+Champiat et al, 2023  46/136 AMG 757 0.003‑100 mg, Q2w (BM) vs. AMG 9 (19.5)/ 27 (58.6)/ 3.7 (1.9‑4.8)/ 13.2/15.5 (12)
+  757 0.003‑100 mg, Q2w (not BM) 34 (25) 68 (50) 3.7 (1.9‑5.3)
+Owonikoko et al, 2021  64 AMG 757 0.003‑100 mg, Q2w 23 (38.3) 26 (43.3) NA NA (15)
+
+
+[W4408295411 PDF PAGE 8]
+SU et al:  SAFETY AND EFFICACY OF DLL3 INHIBITORS IN SOLID TUMORS8
+0.49 (95% CI, 0.37‑0.60); 4 studies documented neurological 
+adverse reactions, with a combined incidence of 0.25 (95% 
+CI, ‑0.01‑0.50); 10 studies reported thrombocytopenia, with 
+a combined incidence of 0.23 (95% CI, 0.15‑0.30); 8 studies 
+noted photosensitivity reactions, with a combined incidence 
+of 0.19 (95% CI, 0.11‑0.26); and 8 studies reported peripheral 
+edema, with a combined incidence of 0.28 (95% CI, 0.23‑0.33) 
+(Fig. 6A).
+For different inhibitor types, the pooled AE incidence for 
+Rova‑T was 0.96 (95% CI, 0.94‑0.99) with I²=85.8%, while 
+for tarlatamab (AMG 757) it was 0.90 (95% CI, 0.86‑0.94) 
+with I²=58.6%. BI 764532 had an AE incidence of 0.86 (95% 
+CI, 0.79‑0.93) based on one study (Fig. 6B). These findings 
+suggested variability in AE rates across different inhibitors, with 
+Rova‑T potentially associated with a higher risk compared with 
+tarlatamab and BI 764532. The pooled AE incidence for patients 
+with solid tumors treated with DLL3 inhibitors was 0.93 (95% 
+CI, 0.91‑0.96) (Fig. 6B), with a high heterogeneity indicator 
+(I²=84.8%). Despite this heterogeneity, the forest plot suggested 
+that most studies reported similar AE rates, indicating a consis‑
+tent safety profile across trials. Table VI shows the incidence of 
+AEs by system, with effect sizes, 95% confidence intervals, I² 
+values, and P‑values. The I² values indicate heterogeneity, and 
+the small P‑values (<0.01) suggest significant differences across 
+studies. All systems, including respiratory, skin and immune, 
+nervous, digestive, circulatory, hematopoietic, and non‑specific, 
+exhibited significant heterogeneity.
+Sensitivity analysis. The sensitivity analysis assessed the 
+impact of each study on the combined results by sequentially 
+excluding individual studies. The findings indicated that no 
+single study significantly influenced the pooled results within 
+the 95% CI, confirming the robustness and reliability of the 
+meta‑analysis conclusions. The results of the sensitivity 
+analysis are presented in Fig. S1.
+Discussion
+The present systematic review and meta‑analysis offers valu ‑
+able insights into the safety and efficacy of DLL3 inhibitors 
+for treating solid tumors, particularly NECs such as SCLC. 
+DLL3 is an atypical Notch ligand predominantly expressed 
+in SCLC (5), making it a promising therapeutic target. DLL3 
+inhibitors have demonstrated moderate efficacy in treating 
+advanced solid tumors, particularly in relapsed or refractory 
+cases where conventional treatments have failed (20).
+The present analysis indicated that DLL3 inhibitors had a 
+median OS of 6.54 months, with significant variability. The 
+median PFS was 3.54 months, with a notably longer duration 
+in combined immunotherapy (4.2 months) compared with 
+monotherapy (3.36 months). The DCR and ORR were 57 and 
+21%, respectively, reflecting substantial heterogeneity, and 
+AEs occurred in 93% of cases. These findings align with the 
+TRINITY trial (18), which reported a similar PFS for Rova‑T, 
+suggesting a potential improvement over standard treatments 
+such as topotecan. In the DeLLphi‑300 trial, tarlatamab 
+demonstrated a DCR of 51.4% and a median response duration 
+of 12.3 months (21). The pooled analysis of AEs showed a high 
+incidence rate of 93% (95% CI, 91‑96%), with variability among 
+inhibitors. Rova‑T had a higher rate of AEs (96%) compared 
+Table III. Continued.
+   Objective Disease Median progression‑ Median
+ Total  response control free survival, overall survival,
+First author, year samples Intervention rate, n (%) rate, n (%) months (95% CI) months (95% CI) (Refs.)
+Wermke et al, 2023  90 BI 764532 plan A, fixed dose Q3w; plan B1, fixed NA NA NA NA (16)
+  dose Q1w (days 1, 8, 15 of a 3‑week cycle); plan 
+  B2, initial intervention dose, then fixed dose Q1w
+Kuboki et al, 2023  107 BI 764532 plan A, fixed dose Q3w; plan B1, fixed 18 (16.8) 37 (34.5) NA NA (42)
+  dose Q1w (D1, 8, 15 of 3‑week cycle); plan B2, 
+  initial dose, then Q1w
+Rova‑T, rovalpituzumab tesirine; ivgtt, intravenous glucose tolerance test; DEX, dexamethasone; BM, brain metastasis; NE, not evaluated; w, weeks.
+
+[W4408295411 PDF PAGE 9]
+ONCOLOGY LETTERS  29:  228,  2025 9
+with tarlatamab (90%) and BI 764532 (86%). Despite these 
+high rates, DLL3 therapies markedly reduce off‑target toxici ‑
+ties compared with conventional chemotherapy (22). This is 
+particularly advantageous for patients who have undergone 
+multiple lines of therapy and may be experiencing cumulative 
+toxicities. A recent review demonstrated that while DLL3 
+inhibitors have high AE rates, most events are manageable 
+and classified as grade 1 or 2, in contrast to the higher‑grade 
+toxicities often associated with cytotoxic chemotherapy (23).
+The present findings suggested that DLL3 inhibitors may 
+offer a comparable or potentially more favorable treatment option 
+than topotecan, particularly for relapsed SCLC. Topotecan, a 
+widely used chemotherapeutic agent, demonstrated an ORR of 
+24.3% in a clinical trial involving 107 patients, whereas DLL3 
+inhibitors showed an ORR of 21% (95% CI, 16‑26%). Although 
+the ORR for DLL3 inhibitors was slightly lower, the median PFS 
+and OS for DLL3 inhibitors were 3.54 and 8.73 months, respec‑
+tively, which outperformed the median times to progression 
+(13.3 weeks or ~3.1 months) and median survival (25.0 weeks or 
+~5.8 months) for topotecan (24).
+Furthermore, topotecan is associated with notable toxicity, 
+including grade 4 neutropenia in 37.8% of courses, and high 
+rates of thrombocytopenia and anemia (25). By contrast, DLL3 
+inhibitors exhibit a more manageable safety profile, with fewer 
+severe hematologic toxicities compared with topotecan. This 
+distinct safety profile may provide an advantage for patients 
+who have already undergone multiple lines of therapy and are 
+at risk for cumulative toxicities.
+Overall, while both treatments have limitations, DLL3 
+inhibitors provide a targeted approach that could benefit 
+patients who may not tolerate the hematologic side effects 
+of topotecan. The moderate efficacy observed, coupled with 
+a manageable safety profile, position DLL3 inhibitors as a 
+potential alternative for patients with relapsed SCLC, particu‑
+larly those who are not candidates for intensive chemotherapy 
+regimens such as topotecan.
+The absence of DLL3 in normal tissues minimizes off‑target 
+effects, making DLL3 inhibitors a promising targeted therapy 
+that reduces damage to healthy tissues compared with conven‑
+tional chemotherapy  (9,26). However, the observed variation 
+in response rates across different studies may be attributed to 
+discrepancies in patient populations, such as tumor heterogeneity 
+and prior treatment regimens. Understanding the underlying 
+biological mechanisms that affect DLL3 expression and its role 
+Figure 2. (A) Forest plot and (B) funnel plot for the pooled results of the overall response rate. (C) Funnel plot analysis with the trim‑and‑fill method. CI, 
+confidence interval; ES, effect sizes; SE, standard error.
+
+
+[W4408295411 PDF PAGE 10]
+SU et al:  SAFETY AND EFFICACY OF DLL3 INHIBITORS IN SOLID TUMORS10
+in tumor progression is critical for optimizing the therapeutic 
+use of DLL3 inhibitors. Previous research has indicated that 
+adjuvant chemotherapy serves as a significant independent prog‑
+nostic factor for patients with DLL3‑negative tumors (HR, 0.05; 
+95% CI, 0.01‑0.41; P<0.01). However, this factor was reported to 
+not be significant for patients with DLL3‑positive tumors (HR, 
+0.73; 95% CI, 0.23‑2.27; P=0.58) (27).
+Moderate efficacy coupled with a manageable safety profile 
+suggests that DLL3 inhibitors may be effective in treating refrac‑
+tory NECs, either alone or in combination with other therapeutic 
+agents. For example, combining DLL3 inhibitors with radioim‑
+munotherapy has shown promise in improving treatment efficacy 
+while maintaining acceptable levels of toxicity  (28). Beyond 
+SCLC, DLL3 expression has been detected in other types of NEC, 
+Table IV . Egger's test summary.
+Study identifier Slope (coefficient)a Standard errorb t‑scorec P‑valued
+Objective response rate 0.040962 1.043596 3.81 0.001
+Disease control rate 0.5545577 2.477987 0.07 0.945
+Overall survival 6.518415 2.521691 0.04 0.972
+Progression‑free survival 2.897503 0.7562294 1.94 0.078
+aRepresents the coefficient of the regression line estimated by Egger's test, indicating the degree of correlation between effect sizes and their 
+standard errors. bThe standard error of the regression slope, indicating the precision of the estimated coefficient. cThe t‑statistic associated with 
+the regression coefficient, used to determine if the slope significantly differs from zero (indicating potential publication bias). dThe P‑value 
+associated with the t‑statistic, which assesses the statistical significance of the findings. A P‑value below a certain threshold (commonly 0.05) 
+indicates significant publication bias.
+Table V . P‑value associated with the meta‑regression.
+ Inhibitor  Study   Immuno

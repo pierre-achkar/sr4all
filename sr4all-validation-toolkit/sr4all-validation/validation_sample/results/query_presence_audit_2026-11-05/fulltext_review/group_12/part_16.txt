@@ -1,0 +1,189 @@
+erative pain; however, 
+only two studies have compared muscle-sparing to classic 
+posterolateral thoracotomy approach without identification 
+of any difference (44,45). As summarized by Wildgaard et al. ,  
+no randomized studies evaluating chronic postoperative 
+pain syndromes have identified an advantage of one 
+intraoperative analgesic technique over another in regard 
+to prevention (43). All studies included had methodological 
+concerns preventing any conclusions from being made. A 
+recently published randomized controlled trial analyzed 300 
+patients divided into three groups (TEA, PVB, and INB)  
+and identified that patients who underwent INB had 
+significantly higher rates of chronic pain at 6 months 
+compared to TEA and PVB. Patients who underwent TEA 
+trended toward statistically lower rates of chronic pain, 
+however these were not significantly different than in patients 
+who underwent PVB (46). There have also been several 
+other observational studies which have shown lower rates of 
+chronic postoperative pain associated with the use of TEA 
+(47,48). Nevertheless, larger prospective cohorts are required 
+to adequately assess the pathophysiology, patient-reported 
+outcomes, and factors which contribute to chronic pain in 
+this population, as well as adequate methods of prevention. 
+Opportunities for research
+Pain control following surgery is continuously evolving in 
+the US due to the well-publicized opioid epidemic sweeping 
+this country. Investigations of pain control within thoracic 
+surgery have largely consisted of single institutional studies 
+with heterogeneous methods of approaching postoperative 
+pain. There are a number of unstudied factors which may 
+contribute to a surgeon’s choice of TEA versus PVB versus 
+intercostal block, often relating to the institutional culture 
+and anesthesia group practices. In the authors’ experiences, 
+some anesthesia providers who are less experienced in the 
+technique of preoperative paravertebral catheter placement, 
+thus preferring TEA due to familiarity. Partnering with 
+anesthesiologists and dedicated anesthesia pain services 
+to study the hospital variation in pain regimens may help 
+to make the approach more uniform. Thoracic surgeon 
+preferences for anesthesia are also not well characterized. 
+As new anesthetic technologies emerge, such as LipoB, 
+cost considerations must be considered to provide the best 
+value care for our patients. There are several opportunities 
+for cost-effectiveness research regarding the differences 
+between pain strategies. 
+Nutrition
+Nutritional therapy, or the administration of appropriate 
+nutritional support to meet metabolic requirements, either 
+through enteral or parenteral routes, is a well-recognized 
+target for optimizing outcomes following elective surgery. 
+Nutritional risk assessment, the impact of poor nutritional 
+status, and strategies for nutritional therapy have been 
+extensively studied in gastrointestinal surgery. Literature 
+focusing on elective thoracic surgery is less prolific. It has 
+been well documented that nutritional deficits in the amount 
+of calories, particularly protein calories, has an impact on 
+surgical outcome in the critically ill (49). Most of the data 
+specific to thoracic surgery has focused on the assessment 
+of nutritional risk as a prognostic factor when considering 
+elective thoracic interventions. Surgical nutritional support 
+for thoracic surgery is an area which warrants research focus.
+Review of major guidelines
+There are three major societies which have released 
+extensive nutrition recommendations for elective surgical 
+patients: European Society for Clinical Nutrition and 
+Metabolism (ESPEN) (50); American Society for Parenteral 
+and Enteral Nutrition (ASPEN) (51); and the Australasian 
+society for parenteral and enteral nutrition (AuSPEN) (52). 
+We encourage the readers to review these guidelines, but 
+to summarize the primary tenants of successful surgical 
+nutrition entail:
+(I) Early feeding (within 24 hours following surgery);
+(II) Enteral nutrition preferred over parenteral nutrition;
+(III) Pre-operative nutritional risk assessment;
+(IV) Consideration of immunonutrition supplementation 
+in high-risk surgical patients.
+Despite the importance of surgical nutrition emphasized 
+in these guidelines, especially in high-risk cancer patients, 
+recommendations for the preoperative assessment of 
+patients undergoing lung surgery do not address nutritional 
+assessment or the provision of nutritional support (53,54).
+
+[W2911232401 PDF PAGE 8]
+S544
+© AME Publishing Company. 
+J Thorac Dis 2019;11(Suppl 4):S537-S554 | https://dx.doi.org/10.21037/jtd.2019.01.06
+Stokes et al. Optimizing thoracic surgery risk factors systematic review
+Nutritional risk assessment
+“Nutritional risk” can be a difficult metric to quantify, 
+as many scales have been proposed to assess a patient’s 
+preoperative nutritional status. International guidelines 
+differ on their definitions of malnourishment. Patients at 
+high nutritional risk can be summarized into the following 
+categories: 
+	 Underweight (BMI ≤18.5 kg/m
+2
+) (50);
+	 Weight loss of >10% or >5% over 3 months of 
+total body weight prior to surgery (50);
+	 Obesity (BMI ≥30 kg/m
+2
+) (51).
+Different nutritional risk scores and laboratory values 
+have been proposed to help categorize each patient and help 
+direct therapy. It is important to note that while obesity is 
+often considered a “well-nourished” state, that is likely a 
+mischaracterization of the patient’s overall metabolic health. 
+The association of obesity with a poor nutritional state is 
+well summarized in the most recent ASPEN/Society of 
+Critical Care Medicine (SCCM) guidelines (51).
+Laboratory markers
+Laboratory markers such as the acute phase reactant 
+proteins pre-albumin, albumin, and transferrin have had 
+extensive scrutiny as markers of short- and long-term 
+nutritional status. In the postoperative phase, use of these 
+laboratory markers are not recommended, as changes in 
+levels are not normalized until the acute inflammatory and 
+metabolic response to surgery have subsided (51). Pre-
+operatively, albumin has been established as a prognostic 
+indicator for outcome following both intra-abdominal and 
+thoracic surgeries. It is well-established that low serum 
+albumin (<3.5 gm/dL) is a poor prognostic factor for major 
+intra-abdominal surgery (55). This association has also 
+been demonstrated within thoracic surgery. Inferior overall 
+survival and recurrence-free survival was demonstrated 
+among a cohort of 556 non-small cell lung cancer (NSCLC) 
+patients when serum albumin was less than 4.2 g/dL (56). 
+T wo smaller studies have associated hypoalbuminemia with 
+bronchopleural fistula and prolonged air leak after thoracic 
+surgery (57,58).
+Body mass index (BMI)
+Patient weight is one of the most commonly used 
+assessments of a patient’s metabolic health. For patients 
+with NSCLC, it has been suggested that higher BMI is 
+associated with higher long-term survival due to decreased 
+smoking, higher nutritional reserve, and increased statin 
+use in this population (59). Also, BMI may simple be a 
+surrogate of cancer-related weight loss and cachexia, which 
+would portend poor outcomes.
+BMI as a prognostic sign in lung cancer has been 
+studied in a few analyses. A retrospective analysis of 1,311 
+NSCLC patients demonstrated higher 90-day mortality 
+for underweight patients and significantly longer LOS (60).  
+However, in a more recent study, there was no association with 
+mortality, but underweight patients still had a significantly 
+longer LOS (61). A review of the STS database attempting to 
+identify risk factors for increased mortality also identified low 
+BMI (<25) as an independent risk factor. Unfortunately, they 
+were unable to associate low BMI with a malnourished state 
+due to nearly 40% of the data missing albumin values (not 
+missing at random) but did comment that the low BMI group 
+tended to have a greater burden of comorbid disease (62).  
+It was also shown in this analysis that obesity had a beneficial 
+effect on survival. No studies, to our knowledge, have looked 
+at interventions targeting the low BMI group alone. As 
+mentioned above, this group may be at particularly high-
+risk due to advanced biology of disease, more numerous 
+comorbidities, and tendency to have a higher rate of smoking.
+A recent study in the Annals of Surgical Oncology  looking 
+specifically at skeletal muscle loss associated skeletal muscle 
+area with poor postoperative outcomes, which lends 
+credence to the etiology of poor outcomes in the low BMI 
+population (63). It is reasonable to assume that nutritional 
+interventions in this underweight group should be 
+aggressive given the multiple etiologies of their presenting 
+weight. Overall, BMI is not necessarily useful as a marker 
+of malnutrition but can be used as a factor to consider when 
+predicting a patient’s postoperative clinical course.
+Clinical scoring systems
+Several nutritional scoring systems have been tested in 
+the literature; however, few have been studied specifically 
+within thoracic surgery. The Nutritional Risk Index (NRI) 
+is a tool that was validated by the Veterans Affairs T otal 
+Parenteral Nutrition Cooperative Study Group. NRI uses 
+serum albumin, serum prealbumin, and patient weight to 
+calculate a risk score used to classify their malnutrition (64). 
+Ramos et al.  conducted a study in 219 NSCLC patients and 
+showed NRI as an independent predictor of postoperative 
+complications (61). A review of all the nutritional scoring 
+systems recommended within national guidelines is beyond 
+
+[W2911232401 PDF PAGE 9]
+S545
+Journal of Thoracic Disease, Vol 11, Suppl 4 March 201 9
+© AME Publishing Company. 
+J Thorac Dis 2019;11(Suppl 4):S537-S554 | https://dx.doi.org/10.21037/jtd.2019.01.06
+the scope of this review, but it is clear that, to date, there 
+has been inadequate attention paid to the routine use of 
+nutritional risk assessment in t

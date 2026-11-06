@@ -1,0 +1,336 @@
+empt to identify unpub-
+lished trials [17].
+Two studies reported using a multi-stage protocol to
+contact authors and request data: Selph et al. devised
+and followed a protocol that used both e-mail and tele-
+phone contact with the corresponding authors at defined
+stages over a period of 15 days [16]. Gibson et al. devised
+a similar protocol, although focused on e-mail contact,
+targeting first the corresponding authors and finally the
+last author and statisticians by e-mail and then telephone
+(statisticians were contacted due to the specific focus of
+the case study) [14]. Selph et al. contacted 45 authors
+and 28 (62%) provided study data [16], and Gibson et
+al. contacted 146 authors and 46 (31.5%) provided
+s t u d yd a t a[ 1 4 ] .
+Two studies claimed that e-mail was considered an
+effective method of contact [14, 15]. O ’Leary reported a
+response rate of 73% using e-mail contact, finding that
+more responses were obtained from an institutional
+address compared to a hotmail address (86 vs 57%, p =
+0.02) [15]. Conversely, Reveiz et al. achieved a 7.5%
+response rate from contacting 525 study authors to
+identify RCTs but identified 10 unpublished RCTs and
+links to 21 unregistered and on-going RCTs [18].
+Gibson et al. found that e-mail was most likely to
+receive a reply when compared to letter (hazard ratio
+[HR] = 2.5; 95% confidence interval [CI] = 1.3 – 4.0) but
+that a combined approach of letter and e-mail, whilst
+generating a higher response rate, was not statistically
+different from e-mail alone (73 vs 47%, p =0 . 3 6 . O n e
+hundred forty-six authors were contacted overall and
+46 responded) [14].
+Hetherington et al. sent letters to 42,000 obstetricians
+and paediatricians in 18 countries in an attempt to identify
+unpublished controlled trials in perinatal medicine [17].
+Responses were received from 481 individuals indicating
+they would provide details concerning unpublished stud-
+ies, and 453 questionnaires were completed and returned
+which identified 481 unpublished trials [17].
+Chapter Seven of The Cochrane Handbook offers
+guidance on how to set out requests for studies or study
+data when contacting study authors [13]. The guidance
+suggests considering if the request is open-ended, or
+seeking specific information, and whether (therefore) to
+include a (uncompleted or partially completed) data
+Cooper et al. Systematic Reviews  (2017) 6:234 Page 3 of 16
+
+[W2768314176 PDF PAGE 4]
+collection form or request specific data (i.e. individual
+patient data) [13]. McManus et al. evaluated the use of a
+questionnaire to identify studies, study data and the
+names of relevant authors to contact for a systematic re-
+view [6]. The questionnaire resulted in the identification
+of 1057 references unique to the review, but no unpub-
+lished data were offered [6].
+Two handbooks recommend submitting a list of in-
+cluded studies to authors [9] or topic experts [10] to
+identify any potentially missing studies. The Cochrane
+Table 1 Studies citing handbooks: handbooks citing studies
+Study Cochrane
+(1994) [ 6]
+CRD
+(2008) [ 7]
+Campbell
+(2010) [ 8]
+NICE Handbook
+(2013) [ 9]
+Other source
+Adams et al. [ 25]X X X X N R
+Armstrong et al. [ 31] ✓ XXX X
+Bakkalbasi et al. [ 16]X X X X N R
+Blumle and Antes [ 32] ✓ XXX X
+Bramer et al. [ 24] ✓ XXX X
+Briscoe [ 41] ✓✓ X ✓ X
+Croft [ 33] ✓ XXX X
+Eysenbach et al. [45] X** X X X NR
+Falagas et al. [ 23]X X X X N R
+Gibson et al. [ 14]X X X X N R
+Glanville et al. [ 34] ✓ XXX X
+Glanville et al. [ 38]XXXX N R
+Godin et al. [ 43] ✓ XXX X
+Hay et al. [ 26]X X X X N R
+Hetherington et al. [17] X** X X** X Study predates any handbook
+Hinde et al. [ 2] ✓ XX ✓ X
+Hopewell et al. [ 27]X X X X N R
+Jadad et al. [ 28] X X X X Study predates any handbook
+Janssens et al. [ 20] ✓ XXX N R
+Jones et al. [ 40] ✓✓ X X Institute of Medicine
+Langham et al. [ 30]X X X X N R
+Levay et al. [ 1] ✓ XX ✓ X
+Mahood at al. [ 44] ✓ X ✓ XX
+Mattioli et al. [ 35]X X X X N R
+McManus et al. [ 6]XXXX N R
+Milne and Thorogood [ 36]X X X X N R
+Moher [ 39]X X X X N R
+O’Leary [ 15]X X X XN R
+Papaioannouet al. [3] ✓ X X** X X
+Reveiz et al.[ 18]X X X X
+Robinson et al. [ 21]X X X X N R
+Selph et al. [ 12] ✓ X X X Methods Guide for Effectiveness and
+Comparative Effectiveness Reviews
+Stansfield et al. [ 42] ✓ X ✓ X Collaboration for Environmental Evidence
+Van Enst et al. [ 39] ✓ XXX X
+Wright et al. [ 22] ✓✓✓ X Institute of Medicine
+TOTAL 17 3 3 3 3 other sources
+Studies in italics are ones cited by the handbooks identified using the symbol ‘**’ for informing their guidance
+NR not reported
+Cooper et al. Systematic Reviews  (2017) 6:234 Page 4 of 16
+
+[W2768314176 PDF PAGE 5]
+Handbook suggests including the review ’s inclusion cri-
+teria as a guide to authors [9].
+Claimed advantages
+Five studies claimed that identifying additional published
+or unpublished studies, study data or references is pos-
+sible by contacting study authors [6, 14, 16 – 18]. McMa-
+nus et al. identified 23 references (out of 75 included in
+the review overall) by contacting study authors [6];
+Reveiz et al. identified 10 unpublished RCTs and 21 un-
+registered or on-going RCTs [18]; two studies stated
+that they identified additional study data but did not
+separate their findings from contacting study authors
+from other methods of study identification [14, 16]; and
+Hetherington et al. identified 481 unpublished trials by
+contacting 42,000 obstetricians and paediatricians in 17
+countries [17].
+O’Leary found that more detailed study information was
+provided as a result of contacting study authors [14].
+Claimed disadvantages
+The CRD handbook claims that contacting authors/
+experts offers no guarantee of obtaining relevant informa-
+tion [10]. Selph et al. found that , whilst identifying additional
+studies or study data is possible, contacting study authors is
+challenging and, despite ex tensive effort, missing data
+remains likely [16].
+Hetherington et al. claimed that methodologically
+sound trials were not repo rted through author con-
+tact, even by the investigators responsible for them.
+This was attributed, anecdotally, to the possibility that
+the trials yielded results that the investigators found
+disappointing [17].
+Reveiz et al. reported low response rates. Of 525 study
+authors contacted, only 40 (7.5%) replied [18].
+Two studies and one handbook claimed that contacting
+authors/experts is time consuming for researchers
+[10, 14, 16]. Selph et al. noted that this method is time
+consuming for the study authors too, who must identify
+the data requested [16].
+Table 2 Overview of results
+Method Includes What is the method
+used for
+What the evidence
+says
+Implications of
+evidence
+Claimed
+advantages
+Claimed
+disadvantages
+Resource
+requirements
+Contacting
+study authors
+6 studies Identify: unpublished,
+or on-going studies,
+missing or incomplete
+data, completed but
+unpublished studies
+Expert in field to review
+includes
+Contact original
+investigators
+through study
+report contact
+details— mainly
+e-mail/telephone
+E-mail
+considered
+effective with
+better responses
+from institutional
+addresses
+Additional studies
+identified;
+additional study
+data provided
+No guarantee
+of additional
+or all relevant
+information
+identified
+Challenging
+and time consuming
+Less successful for
+older studies
+Additional
+resources
+needed (may
+need up to
+3 contact
+attempts with
+authors)
+Citation
+chasing
+9 studies Identify: further studies,
+clusters or networks or
+studies
+Backward and
+forward citation
+chasing using 3
+electronic citation
+databases
+Effectiveness of
+electronic
+citation methods
+unclear and
+suggest using all
+3 databases
+Not limited by
+keywords or
+indexing as
+bibliographic
+database
+searching is
+Reliant on the
+currency, accuracy
+and completeness
+of the underlying
+citation network
+Citation
+chasing of 46
+studies = 79 h
+or 40
+studies = 5 days
+Handsearching 12 studies Identify: studies or
+publications not routinely
+indexed in, or identified
+by, searches of
+bibliographic databases,
+including recently
+published studies
+Manual
+examination of
+the contents of
+topic relevant
+journals,
+conference
+proceedings and
+abstracts
+Use experts to
+develop list of
+journals to
+handsearch
+Unique study
+identification,
+increased
+sensitivity;
+identifying
+studies missed or
+not indexed in
+databases
+Studies still missed
+by handsearching;
+time and access to
+resources; low
+precision
+Range
+between
+6 min and 1 h
+per journal
+Searching trial
+registers
+3 studies Identify: unpublished,
+recently completed or
+on-going trialsFind
+adaptations to trial
+protocols reported
+study outcomes
+Comprehensive
+list of registries to
+search
+Should be
+completed as
+complementary
+and not in
+isolation
+Unique study
+identification
+Search interfaces
+lag behind major
+databases
+None reported
+Web searching 5 studies Identify: studies not
+indexed in bibliographic
+databases. Retrieving grey
+literature, study protocols
+and on-going studies
+Relevant websites
+and using search
+engines
+Use advanced
+search functions
+where possible
+Unique study
+identification,
+hints to on-going
+or recently com
+pleted studies
+Difficulties in
+transparent search,
+quality and quantity
+of searches returned
+429 results in
+21 h; google
+searching
+7.9 h; targeted
+web searching
+9-11 h
+Cooper et al. Systematic Reviews  (2017) 6:234 Page 5 of 16
+
+[W2768314176 PDF PAGE 6]
+Gibson et al. claimed that contacting authors/experts
+may be less successful for older studies, given the
+increased possibility that authors ’contact details are out of
+date [14]. Gibson et al. reported a 78% (CI = 0.107 – 0.479)
+reduction in the odds of response if the article was 10 years
+old or older [14].
+Resource requirements
+Gibson et al. claimed that additional resources were
+required to undertake author contact [14]. No specific
+details of the costs or time implications were recorded.
+Gibson et al. recorded the duration between the informa-
+tion request and response [1 4]. This averaged 14 ± 22 days
+(median = 6 days) and was shortest for e-mail (3 ± 3 days;
+median = 1 day) compared to e-mail plus letter (13 ±
+12 days; median = 9 days) and letter only (27 ± 30 days;

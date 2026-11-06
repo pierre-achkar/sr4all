@@ -1,0 +1,384 @@
+ign, and data 
+collection
+Data analysis Results
+Origin of the Data: The Midwest Evaluation of the Adult Functioning of Former Foster Youth (´The Midwest Study´)
+Brown et 
+al., 2015, 
+USA
+Longitudinally explore the 
+relationship between remain-
+ing in foster care beyond age 
+18, behavioral health needs, 
+and receipt of behavioral 
+healthcare services.
+N = 732 adolescents between the 
+ages of 17 and 21, followed lon-
+gitudinally while in, transitioning 
+and after foster care. Quantita-
+tive study: surveys and in-person 
+interviews.
+Descriptive statistics 
+were used to explore the 
+trends in prevalence of 
+behavioral health needs 
+and behavioral healthcare 
+service use over time.
+34,7% of young people who 
+were transitioning out of care 
+reported having substance 
+dependence symptoms. About 
+one year later their percentage 
+was 21,7%.
+Courtney 
+& Hook, 
+2017, USA
+Assess longitudinally the rela-
+tionships between extended 
+foster care and educational 
+attainment and economic 
+well-being.
+N = 732 adolescents, between the 
+ages of 17 and 21, who transi-
+tioned to adulthood from foster 
+care. Quantitative study: surveys 
+and interviews.
+Ordinal logistic regres-
+sion was used to analyze 
+youths’ educational attain-
+ment, predicting attain-
+ment with covariates.
+26% of the youth transitioning 
+care had drug issues and 21% 
+alcohol issues. Youth with drug 
+issues at baseline had 34% lower 
+odds of attaining the next higher 
+level of education.
+Cusick et 
+al., 2012, 
+USA
+Examine a sample of foster 
+youth at the onset of the 
+transition to adulthood and 
+explore how social bonds are 
+related to the risk of arrest 
+during adulthood.
+N = 728 adolescents, between the 
+ages of 17 and 18, who were or 
+had been in foster care and gave 
+consent to access their arrest 
+records. Quantitative study: self-
+reported information, interviews, 
+and official arrest data.
+Competing risks regres-
+sion analysis were used 
+to identify predictors for 
+each competing risk.
+Between the ages 17–18 and 
+24, 46% of former foster youth 
+experience an arrest. Arrests 
+were evenly distributed across 
+drug, nonviolent, and violent 
+crimes columns.
+Dworsky 
+et al., 
+2013, USA
+Estimate longitudinally the 
+incidence of homelessness 
+during the transition to adult-
+hood and identify the risk 
+and protective factors that 
+predict homelessness during 
+transition.
+N = 624 adolescents who had 
+entered foster care before age 16, 
+were still in foster care at age 17, 
+and had been removed home for 
+reasons other than delinquency. 
+Quantitative study: surveys and 
+interviews.
+Researchers used 
+multivariate analysis to 
+estimate the cumulative 
+percentage of youths who 
+become homeless during 
+the transition to adulthood. 
+They also estimate a dis-
+crete time hazard model 
+to predict first reported 
+episode of homelessness.
+Six covariates were associated 
+with a statistically significant 
+increase in the relative risk of 
+becoming homeless: running 
+away while in foster care, greater 
+placement instability, being 
+male, a history of being physi-
+cally abused, engaging more 
+delinquent behaviors, and having 
+symptoms of a mental health 
+disorder.
+Zinn et al., 
+2017, USA
+Examine relationships 
+between foster youths’ 
+individual characteristics, 
+youths’ social connections 
+with individuals and formal 
+institutions, and the devel-
+opment of perceived social 
+support across the transition to 
+adulthood.
+N = 732 adolescents, between the 
+ages of 17 and 21, followed lon-
+gitudinally while in, transitioning 
+and after foster care. Quantita-
+tive study: computer-assisted 
+in-person interviews.
+Mixed-effect growth mod-
+els were used to examine 
+the respective relation-
+ship between the level of 
+perceived social support 
+across the transition to 
+adulthood and social 
+connections.
+Higher attachment insecurity, 
+through its relationship with 
+poor social
+and emotional competence and 
+regulation, could have
+led to subsequent disruptive or 
+delinquent behaviors.
+Origin of the Data: Youth well - being, inclusion, activity, and services in aftercare services of City Division of Social and Health Care in 
+Finland
+Häggman-
+Laitila et 
+al., 2019, 
+Finland
+Discover how the different 
+factors are associated with 
+the coping abilities of young 
+adults once aftercare services 
+come to an end.
+N = 568 Finnish adolescents, 
+between the ages of 15 and 20, 
+who had participated in aftercare 
+services.
+Quantitative study: electronic 
+customer/patient record systems.
+The data were analyzed 
+with BayesiaLab 7.0 tool 
+which was used to identify 
+connections between the 
+variables.
+Young adult’s own heavy 
+drinking behavior during teen 
+years increases the likelihood of 
+problems in relation to coping as 
+a care leaver.
+Häggman-
+Laitila et 
+al., 2020, 
+Finland
+Describe the health behavior 
+of Finnish young people who 
+had left aftercare services by 
+the end of April 2015.
+N = 600 Finnish adolescents, 
+between the ages of 15 and 20, 
+who had participated in aftercare 
+services. Quantitative study: 
+electronic customer/patient record 
+systems.
+Data were analyzed using 
+descriptive statistical 
+methods. Statistical sig-
+nificance was tested using 
+a chi-squared test.
+45% of young people smoked 
+regularly, 8% used snuff regu-
+larly, 10% reported having sexu-
+ally transmitted disease and 69% 
+engaged in substance use.
+Table 4 Summary of Included Studies
+1 3
+328
+
+[W4310080459 PDF PAGE 7]
+Adolescent Research Review (2023) 8:323–337
+Author(s), 
+year, and 
+country
+Aim Sample, design, and data 
+collection
+Data analysis Results
+Toivonen 
+et al., 
+2020, 
+Finland
+Describe the somatic and 
+mental symptoms, medical 
+treatments, and health service 
+use of care leavers.
+N = 600 Finnish adolescents, 
+between the ages of 15 and 20, 
+who had participated in aftercare 
+services. Quantitative study: 
+electronic customer/patient record 
+systems.
+Data were analyzed using 
+descriptive statistical 
+methods. Statistical sig-
+nificance was tested using 
+a chi-squared test.
+Substance abuses were reported 
+by 11% of the care leavers, 2% 
+had history of intoxication.
+Origin of the Data: The National Youth in Transition Database (NYTD)
+Kelly, 
+2020, USA
+Provide an analysis of the risk 
+and protective factors contrib-
+uting to homelessness among 
+a nationwide sample of foster 
+care youth at age 21.
+N = 7082 adolescents, between 
+the ages of 17 to 21, who were 
+aging out of foster care. Quantita-
+tive study: data from database 
+and foster care files.
+Binary logistic regression 
+was used to analyze the 
+incidence of homeless-
+ness among the foster care 
+youth.
+At the age 21, 10.8% of the 
+youth had been referred for 
+substance abuse and 22.1% had 
+been incarcerated.
+Prince et 
+al., 2019, 
+USA
+Estimate the impact of state 
+and individual-level risk and 
+protective factors on adverse 
+19-year-old outcomes among a 
+cohort of transition age youth.
+N = 7449 adolescents, between 
+the ages of 17 to 19, who were 
+aging out of foster care. Quantita-
+tive study:
+data from database and foster 
+care files.
+Data were analyzed 
+assuming a two-level 
+structure and logistic 
+regression models were 
+used to estimate outcomes 
+using random coefficients.
+At age 19, 14.4% of the sample 
+had received a substance abuse
+referral and 22.4% had been 
+incarcerated.
+Shpiegel et 
+al., 2020, 
+USA
+Identify unique patterns of 
+functioning among adolescent 
+mothers aged 19.
+N = 777 adolescents, between the 
+ages of 17 to 19, who were aging 
+out of foster care. Quantitative 
+study: data from database and 
+foster care files.
+Data were analyzed using 
+the two-step cluster analy-
+sis produced five distinct 
+clusters of functioning.
+Risky behaviors were identified, 
+such as substance abuse referrals 
+and incarceration
+(substance abuse and incar-
+ceration clusters; 12% and 11%, 
+respectively).
+Shpiegel & 
+Cascardi, 
+2018, USA
+Evaluate the associations 
+between childbirth at three 
+time points and females’ 
+socioeconomic outcomes and 
+risk indicators at age 21.
+N = 3137 adolescents, between 
+the ages of 17 to 21, who were 
+aging out of foster care. Quantita-
+tive study: data from database.
+Data were analyzed using 
+descriptive statistical 
+methods. To test hypoth-
+esis, chi-square tests and 
+simple logistic regression 
+analyses were performed.
+Rates of homelessness and incar-
+ceration at age 21 were higher 
+among females who had given 
+birth, as compared to those who 
+had not.
+Origin of the Data: The V oices and Visions of Youth in Transition Survey
+Mitchell et 
+al., 2015, 
+USA
+Examine the experiences and 
+thoughts of youth as they 
+transition out of foster care at 
+the ages 17, 19, and 21.
+N = 198 adolescents aged 17 
+years, who were aging out of 
+foster care. Quantitative study: 
+survey and interview.
+SPSS and MAXQDA 
+were used to examine the 
+data using quantitative and 
+qualitative analysis.
+12,5% of males and 12,5% of 
+females reported being confined 
+in a jail, prison, correctional 
+facility, or juvenile or commu-
+nity detention facility.
+Origin of the Data: The three-year residential transitional living program in a state child welfare institute in China
+Liu et 
+al., 2020, 
+China
+Examine the characteristics 
+and wellbeing of aging out 
+foster youth, including their 
+sosio-demographic charac-
+teristics, independent living 
+skills, sources of stress, coping 
+mechanisms, behavioral prob-
+lems, and social support.
+N = 65 adolescents, between the 
+ages of 18 to 26, who were eli-
+gible for a residential transitional 
+living program. Quantitative 
+study: survey.
+Descriptive analysis was 
+conducted to present the 
+profiles of these youth.
+As an anti-stress mechanism 
+8.3% reported attacking others 
+and 4.2% drinking excessively. 
+As a problem behavior 20.8% 
+reported risky sexual behavior, 
+12.5% harming others, 4.2% 
+stealing and 2.1% destroying 
+things.
+Origin of the Data: Growth Beyond the Town- a longitudinal study on youth leaving care
+van Breda 
+2020, 
+South 
+Africa
+Report in a longitudinal 
+perspective young people 
+transitioning out of care and 
+journeying 

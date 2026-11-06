@@ -1,0 +1,175 @@
+ity, previous LBP status, 
+job satisfaction, industry, physical demands at work, 
+and type of first medical visit [10]. Third, the included 
+studies measured LOD using wage replacement data. 
+This may underestimate the observed association 
+between eMRI and increased LOD because termina -
+tion of wage replacement does not necessarily trans -
+late to complete recovery or return to work. Fourth, 
+all included studies were conducted in the US, which 
+may limit the generalizability of the findings to other 
+countries that have different healthcare systems. How -
+ever, these studies have good methodological quality 
+and reported consistent findings related to the review 
+question. Fifth, formal pooling of the results using 
+meta-analysis was not feasible owing to between-study 
+heterogeneity.
+More research is needed to uncover the exact rea -
+sons for ordering the non-indicated eMRI for acute 
+LBP without red flags. This information is useful for 
+developing interventions and strategies to improve 
+adherence to clinical guidelines’ recommendations 
+about the management of patients presenting with 
+acute LBP .
+Conclusions
+eMRI is associated with an increased LOD in patients with 
+acute LBP without red flags. Further research is needed to 
+fully understand the reasons for the use of non-indicated 
+eMRI for patients presenting with LBP . Developing health-
+care interventions to enhance adherence to clinical guide-
+lines may improve disability outcomes among patients 
+with LBP .
+Supplementary Information
+The online version contains supplementary material available at https:// doi. 
+org/ 10. 1186/ s12891‑ 021‑ 04863‑9.
+Additional file 1. Prisma 2020 Checklist.
+Additional file 2. Full search strategy.
+Additional file 3:. Newcastle‑Ottawa quality assessment scale for cohort 
+studies.
+Acknowledgements
+Not applicable.
+Authors’ contributions
+Conceptualization, MS.; Data curation, MAS, ARI, MEE, BAS, and MS.; Formal 
+analysis, MAS, ARI, MEE, BAS, BA, and MS.; Investigation, MS.; Methodology, 
+MS.; Supervision, MS.; Writing – original draft, MAS, ARI, MEE, and BAS.; Writing 
+– review & editing, MAS, ARI, MEE, BAS, BA, and MS. All authors have read and 
+agreed to the published version of the manuscript.
+Funding
+Not applicable.
+Availability of data and materials
+No new data were created or analyzed in this study. Data sharing is not appli‑
+cable to this article.
+Declarations
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare no conflict of interest.
+Author details
+1 College of Medicine, QU Health, Qatar University, Doha, Qatar. 2 NHMRC 
+Centre of Clinical Research Excellence in Spinal Pain, Injury & Health, School 
+of Health & Rehabilitation Sciences, The University of Queensland, Brisbane, 
+QLD 4072, Australia. 3 College of Medicine and Health Sciences, Khalifa 
+University, Abu Dhabi, United Arab Emirates. 4 KU Research and Data Intel‑
+ligence Support Center (RDISC) AW 8474000331, Khalifa University of Science 
+
+[W3215943560 PDF PAGE 12]
+Page 12 of 12Shraim et al. BMC Musculoskeletal Disorders          (2021) 22:983 
+and Technology, Abu Dhabi, United Arab Emirates. 5 Department of Public 
+Health, College of Health Sciences, Qatar University, QU Health, Doha, Qatar. 
+Received: 23 July 2021   Accepted: 8 November 2021
+References
+ 1. Wu A, March L, Zheng X, Huang J, Wang X, Zhao J, et al. Global low 
+back pain prevalence and years lived with disability from 1990 to 2017: 
+estimates from the global burden of disease study 2017. Ann Transl Med. 
+2020;8(6):299.
+ 2. Katz JN. Lumbar disc disorders and low‑back pain: socioeconomic factors 
+and consequences. J Bone Joint Surg Am. 2006;88(Suppl 2):21–4.
+ 3. Xie Y, Bowe B, Mokdad AH, Xian H, Yan Y, Li T, et al. Analysis of the global 
+burden of disease study highlights the global, regional, and national 
+trends of chronic kidney disease epidemiology from 1990 to 2016. Kidney 
+Int. 2018;94(3):567–81.
+ 4. Steenstra IA, Verbeek JH, Heymans MW, Bongers PM. Prognostic fac‑
+tors for duration of sick leave in patients sick listed with acute low 
+back pain: a systematic review of the literature. Occup Environ Med. 
+2005;62(12):851–60.
+ 5. Shaw WS, Pransky G, Fitzgerald TE. Early prognosis for low back dis‑
+ability: intervention strategies for health care providers. Disabil Rehabil. 
+2001;23(18):815–28.
+ 6. Shraim M, Cifuentes M, Willetts JL, Marucci‑Wellman HR, Pransky G. 
+Length of disability and medical costs in low back pain: do state work‑
+ers’ compensation policies make a difference? J Occup Environ Med. 
+2015;57(12):1275–83.
+ 7. Shraim M, Cifuentes M, Willetts JL, Marucci‑Wellman HR, Pransky G. 
+Regional socioeconomic disparities in outcomes for workers with low 
+back pain in the United States. Am J Ind Med. 2017;60(5):472–83.
+ 8. Webster BS, Verma SK, Gatchel RJ. Relationship between early opioid 
+prescribing for acute occupational low back pain and disability duration, 
+medical costs, subsequent surgery and late opioid use. Spine (Phila Pa 
+1976). 2007;32(19):2127–32.
+ 9. Webster BS, Choi Y, Bauer AZ, Cifuentes M, Pransky G. The cascade of 
+medical services and associated longitudinal costs due to nonadherent 
+magnetic resonance imaging for low back pain. Spine (Phila Pa 1976). 
+2014;39(17):1433–40.
+ 10. Graves JM, Fulton‑Kehoe D, Jarvik JG, Franklin GM. Early imaging for acute 
+low back pain: one‑year health and disability outcomes among Washing‑
+ton state workers. Spine (Phila Pa 1976). 2012;37(18):1617–27.
+ 11. Webster BS, Bauer AZ, Choi Y, Cifuentes M, Pransky GS. Iatrogenic con‑
+sequences of early magnetic resonance imaging in acute, work‑related, 
+disabling low back pain. Spine (Phila Pa 1976). 2013;38(22):1939–46.
+ 12. Mahmud MA, Webster BS, Courtney TK, Matz S, Tacci JA, Christiani DC. 
+Clinical management and the duration of disability for work‑related low 
+back pain. J Occup Environ Med. 2000;42(12):1178–87.
+ 13. Shraim M, Cifuentes M, Willetts JL, Marucci‑Wellman HR, Pransky G. Why 
+does the adverse effect of inappropriate MRI for LBP vary by geo‑
+graphic location? An exploratory analysis. BMC Musculoskelet Disord. 
+2019;20(1):574.
+ 14. Boos N, Semmer N, Elfering A, Schade V, Gal I, Zanetti M, et al. Natural 
+history of individuals with asymptomatic disc abnormalities in magnetic 
+resonance imaging: predictors of low back pain‑related medical consulta‑
+tion and work incapacity. Spine (Phila Pa 1976). 2000;25(12):1484–92.
+ 15. Jarvik JJ, Hollingworth W, Heagerty P , Haynor DR, Deyo RA. The longitu‑
+dinal assessment of imaging and disability of the Back (LAIDBack) study: 
+baseline data. Spine (Phila Pa 1976). 2001;26(10):1158–66.
+ 16. Babińska A, Wawrzynek W, Czech E, Skupiński J, Szczygieł J, Łabuz‑Roszak 
+B. No association between MRI changes in the lumbar spine and intensity 
+of pain, quality of life, depressive and anxiety symptoms in patients with 
+low back pain. Neurol Neurochir Pol. 2019;53(1):74–82.
+ 17. Chou R, Fu R, Carrino JA, Deyo RA. Imaging strategies for low‑back pain: 
+systematic review and meta‑analysis. Lancet. 2009;373(9662):463–72.
+ 18. Chou R, Qaseem A, Snow V, Casey D, Cross JT Jr, Shekelle P , et al. Diagnosis 
+and treatment of low back pain: a joint clinical practice guideline from 
+the American College of Physicians and the American pain society. Ann 
+Intern Med. 2007;147(7):478–91.
+ 19. Bernstein IA, Malik Q, Carville S, Ward S. Low back pain and sciatica: sum‑
+mary of NICE guidance. BMJ. 2017;356:i6748.
+ 20. Patel ND, Broderick DF, Burns J, Deshmukh TK, Fries IB, Harvey HB, et al. ACR 
+appropriateness criteria low back pain. J Am Coll Radiol. 2016;13(9):1069–78.
+ 21. Stochkendahl MJ, Kjaer P , Hartvigsen J, Kongsted A, Aaboe J, Andersen M, 
+et al. National Clinical Guidelines for non‑surgical treatment of patients 
+with recent onset low back pain or lumbar radiculopathy. Eur Spine J. 
+2018;27(1):60–75.
+ 22. Jenkins HJ, Downie AS, Maher CG, Moloney NA, Magnussen JS, Hancock 
+MJ. Imaging for low back pain: is clinical use consistent with guidelines? 
+A systematic review and meta‑analysis. Spine J. 2018;18(12):2266–77.
+ 23. Lurie JD, Birkmeyer NJ, Weinstein JN. Rates of advanced spinal imaging 
+and spine surgery. Spine (Phila Pa 1976). 2003;28(6):616–20.
+ 24. Jarvik JG, Hollingworth W, Martin B, Emerson SS, Gray DT, Overman S, 
+et al. Rapid magnetic resonance imaging vs radiographs for patients with 
+low back pain: a randomized controlled trial. JAMA. 2003;289(21):2810–8.
+ 25. Lemmers GPG, van Lankveld W, Westert GP , van der Wees PJ, Staal JB. 
+Imaging versus no imaging for low back pain: a systematic review, 
+measuring costs, healthcare utilization and absence from work. Eur Spine 
+J. 2019;28(5):937–50.
+ 26. Moher D, Liberati A, Tetzlaff J, Altman DG. Preferred reporting items for 
+systematic reviews and meta‑analyses: the PRISMA statement. Plos Med. 
+2009;6(7):e1000097.
+ 27. Wells G, Shea B, DL OC, Peterson J, Welch V, Losos M, et al. The Newcastle‑
+Ottawa scale (NOS) for assessing the quality of nonrandomised studies in 
+meta‑analyses, vol. 2014; 2014.
+ 28. Viswanathan M, Ansari MT, Berkman ND, Chang S, Hartling L, McPheeters 
+LM, et al. Assessing the Risk of Bias of Individual Studies in Systematic 
+Reviews of Health Care Interventions. In:  Agency for Healthcare Research 
+and Quality Methods Guide for Comparative Effectiveness Reviews; 2012.
+ 29. Kummel BM. Nonorganic signs of significance in low back pain. Spine 
+(Phila Pa 1976). 1996;21(9):1077–81.
+ 30. Carragee EJ, Alamin TF, Miller JL, Carragee JM. Discographic, MRI and 
+psychosocial determinants of low back pain disability and remission: a 
+prospective study in subjects with benign persistent back pain. Spine J. 
+2005;5(1):24–35.
+ 31. Kovacs FM, Fernández C, Cordero A, Muriel A, González‑Luján L, Gil 
+del Real MT. Non‑specific low back pain in primary care in the Spanish 
+National Health Service: a prospective study on clinical outcomes and 
+determinants of management. BMC Health Serv Res. 2006;6:57.
+ 32. Bou

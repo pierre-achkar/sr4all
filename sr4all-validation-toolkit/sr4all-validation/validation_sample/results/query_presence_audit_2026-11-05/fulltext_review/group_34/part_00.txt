@@ -1,0 +1,182 @@
+
+
+REVIEW W4313557336
+TITLE: A systematic review of the impact of the COVID-19 pandemic on breast cancer screening and diagnosis
+SOURCE_NOTES: [{"annotator": "mert_okur", "field": "inclusion_criteria", "comment": "extraction is correct, but more exlcusion criteria are mentioned in appendix B"}]
+EXTRACTION_ERROR: None
+
+[W4313557336 PDF PAGE 1]
+The Breast 67 (2023) 78–88
+Available online 5 January 2023
+0960-9776/© 2023 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-
+nc-nd/4.0/).
+A systematic review of the impact of the COVID-19 pandemic on breast 
+cancer screening and diagnosis 
+Tong Li
+a , b , *
+, Brooke Nickel
+b
+, Preston Ngo
+a
+, Kathleen McFadden
+a
+, Meagan Brennan
+c
+, 
+M Luke Marinovich
+a , b , 1
+, Nehmat Houssami
+a , b , 1 
+a
+The Daffodil Centre, The University of Sydney, a Joint Venture with Cancer Council NSW, Sydney, Australia 
+b
+School of Public Health, Faculty of Medicine and Health, The University of Sydney, Sydney, New South Wales, Australia 
+c
+Westmead Breast Cancer Institute, Westmead Hospital, Sydney, Australia   
+ARTICLE INFO  
+Keywords: 
+Breast cancer 
+Screening 
+Diagnosis 
+Mammography 
+COVID-19 
+Pandemic 
+ABSTRACT  
+Background: Breast cancer care has been affected by the COVID-19 pandemic. This systematic review aims to 
+describe the observed pandemic-related changes in clinical and health services outcomes for breast screening and 
+diagnosis. 
+Methods: Seven databases (January 2020 – March 2021) were searched to identify studies of breast cancer 
+screening or diagnosis that reported observed outcomes before and related to the pandemic. Findings were 
+presented using a descriptive and narrative approach. 
+Results: Seventy-four studies were included in this systematic review; all compared periods before and after (or 
+fluctuations during) the pandemic. None were assessed as being at low risk of bias. A reduction in screening 
+volumes during the pandemic was found with over half of studies reporting reductions of ≥ 49%. A majority 
+(66%) of studies reported reductions of ≥ 25% in the number of breast cancer diagnoses, and there was a higher 
+proportion of symptomatic than screen-detected cancers. The distribution of cancer stage at diagnosis during the 
+pandemic showed lower proportions of early-stage (stage 0 – 1/I-II, or Tis and T1) and higher proportions of 
+relatively more advanced cases than that in the pre-pandemic period, however population rates were generally 
+not reported. 
+Conclusions: Evidence of substantial reductions in screening volume and number of diagnosed breast cancers, and 
+higher proportions of advanced stage cancer at diagnosis were found during the pandemic. However, these 
+findings reflect short term outcomes, and higher-quality research examining the long-term impact of the 
+pandemic is needed.   
+1. Introduction 
+On March 11, 2020, the World Health Organization declared coro -
+navirus disease 2019 (COVID-19) a pandemic [ 1 ]. A shutdown or sus -
+pension of many non-essential medical services was imposed for 
+COVID-19 management globally. Concerns about the impact of the 
+pandemic on utilisation of health services have been raised since then 
+[ 2 , 3 ]. Delays and disruptions to cancer screening and treatment have 
+been reported in recently published systematic reviews [ 3 – 5 ]. However, 
+there is no published systematic review specifically focused on breast 
+cancer screening and diagnosis. 
+Breast cancer is the most commonly diagnosed neoplasm in women 
+across the world [ 6 ]. A recent narrative review of modelling studies in 
+seven countries by the COVID-19 and Cancer Global Modelling Con -
+sortium highlighted the potential for COVID-19-related disruptions to 
+affect screening participation [ 7 ]. The possible consequences of 
+screening and diagnostic delays include significant increases in breast 
+cancer morbidity and mortality. To understand the actual impact of the 
+pandemic on breast cancer, this systematic review aims to describe the 
+change in clinical and health services outcomes related to breast 
+screening and diagnosis using real-world data. 
+* Corresponding author. Edward Ford Building, Fisher Road, The University of Sydney, Camperdown, NSW, 2006, Australia. 
+E-mail address: t.li@sydney.edu.au (T. Li).   
+1 
+These authors contributed equally to this work as senior authors. 
+Contents lists available at ScienceDirect 
+The Breast 
+journal homepag e: www.jou rnals.elsevie r.com/the-bre ast 
+https://doi.org/10.1016/j.breast.2023.01.001 
+Received 18 October 2022; Received in revised form 27 December 2022; Accepted 4 January 2023   
+
+[W4313557336 PDF PAGE 2]
+The Breast 67 (2023) 78–88
+79
+2. Materials and methods 
+2.1. Research question 
+How has the COVID-19 pandemic affected breast cancer screening 
+and diagnosis? 
+2.2. Information sources and search strategy 
+We performed a literature search from January 1, 2020 to March 19, 
+2022 in seven electronic databases: Embase, Evidence-Based Medicine 
+Reviews (EBMR), Global Health, Medline, Pre-Medline, CINAHL Com -
+plete and Scopus via three interfaces (Ovid, EBSCOHost and Scopus). 
+The search strategy was reviewed by the search team prior to execution 
+using the PRESS Checklist [8]. We selected medical subject heading 
+terms and free-text keywords across four broad concepts (including 
+breast cancer, screening, diagnosis, and COVID-19) using Boolean op -
+erators ‘and’ and ‘or’ to develop search strategy in each database, and 
+iteratively tested it to ensure a sensitive search. Subject heading terms 
+and keywords differed slightly across databases. The full search strategy 
+is detailed in Appendix A. 
+2.3. Study eligibility criteria 
+Studies were eligible for inclusion if they: included asymptomatic 
+women who attended breast cancer screening programs or services, or 
+women with symptoms, suspicious lesions or newly-diagnosed breast 
+cancer; investigated the COVID-19 pandemic as an exposure; reported 
+comparisons to evaluate a potential change associated with the 
+pandemic; reported outcomes of breast cancer screening (e.g. number of 
+screens) or cancer diagnosis (e.g. stage at diagnosis); and reported 
+observed outcomes. Only studies reported in English were considered. 
+Studies were excluded if they did not report observed changes attributed 
+to the pandemic on screening and/or diagnosis (e.g. hypothetical studies 
+of impact of COVID-19, estimated or projected outcomes). Detailed in -
+clusion and exclusion criteria are available in Appendix B. 
+2.4. Study selection process 
+Titles and abstracts were screened by one author (TL) to determine 
+whether studies met the eligibility criteria for full text assessment, and a 
+sample of 12% was screened independently by another author (BN) to 
+ensure consistent application of eligibility criteria. Any disagreement 
+Fig. 1. PRISMA flow diagram.  
+T. Li et al.                                                                                                                                                                                                                                        
+
+[W4313557336 PDF PAGE 3]
+The Breast 67 (2023) 78–88
+80
+was resolved by discussion and consensus. Full text assessment was 
+conducted by one author (TL) and verified by another author (BN). 
+Discordant results were resolved by discussion/consensus or arbitration 
+by a third reviewer (NH or MLM) if required. The PRISMA flowchart 
+( Fig. 1 ) shows the study identification, screening and inclusion process. 
+2.5. Data extraction 
+Data extraction was performed by one author (TL), with another 
+independent extraction by one of three other authors (PN, BN and KM). 
+Disagreements were resolved by discussion and consensus or with 
+arbitration by a third author (MLM) when needed. 
+The following data were extracted into an Excel spreadsheet using 
+predefined cells: first author, publication year, country or region, pub -
+lication type, study setting, study design, timeframe of COVID-19 
+pandemic and comparator periods, comparison type (pre-to-post, or 
+fluctuation over multiple time points, or both), and outcomes related to 
+three domains (i.e. screening, diagnosis and breast imaging). Details of 
+data extraction are available in Appendix C . 
+2.6. Study appraisal and risk of bias assessment 
+Risk of bias and methodological quality assessment of eligible studies 
+was performed by one author (TL), and a random sample of 12% was 
+independently assessed by another author (MLM) with disagreements 
+resolved by discussion and consensus. We used appraisal criteria 
+adapted from both the NIH quality assessment tool [ 9 ] (items 1 – 6 and 
+9 – 11) and Cochrane EPOC risk of bias tool [ 10 ] (items 7 – 8 and 12) 
+( Appendix D ). Each question was answered as ‘yes ’ , ‘no ’ or ‘not re -
+ported ’ , corresponding to ‘low ’ , ‘high ’ or ‘unclear ’ risk of bias. We rated 
+the overall risk of bias for each individual study as high-risk if one or 
+more of the questions were rated as high; and low if all questions were 
+classified as low. Studies without a high-risk rating but one or more 
+questions with unclear ratings were classified as unclear for overall risk 
+of bias. 
+2.7. Data synthesis 
+Results were presented using a descriptive and narrative approach 
+because the heterogeneity of study outcomes did not support pooling of 
+results. 
+We created summary tables comprising methodological character -
+istics and reported outcomes within each domain for individual studies. 
+We summarised study characteristics, including publication type, study 
+region, study design, comparison type, duration of reported pandemic 
+periods, and whether the pandemic period included 2021 as proportions 
+of the total studies. 
+To synthesise the results for the domains of screening, and diagnosis 
+and breast imaging, we created a table of outcomes that were reported 
+by ≥ 20% of the total number of studies included in each domain. 
+2.8. Registration 
+This

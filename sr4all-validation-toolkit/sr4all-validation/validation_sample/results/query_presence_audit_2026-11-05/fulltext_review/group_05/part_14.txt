@@ -1,0 +1,212 @@
+ical Subject Headings (MeSH)
+such as ‘Informed Consent ’, ‘Research’ and ‘Oceanic
+Ancestry Group ’; and key words such as ‘Indigenous’
+and ‘Aboriginal’ (and derivatives) which were combined
+in various ways depending on the functionality of the
+search engine (see Additional file 1). These were en-
+tered into medical literature databases: Medical Literature
+Analysis and Retrieval System Online (Medline); Scopus;
+Web of Science; Educational Resources Information
+Centre (ERIC); the Cumulative Index for Nursing and
+Allied Health Literature (CINAHL); Excerpta Medical
+Database (EMBASE); and Informit Indigenous Collection
+(IIC). In addition, we searched for resources including
+international ethical guidelines that describe the process
+of seeking consent for resear ch with Indigenous popu-
+lations. Due to the large diversity of Indigenous people
+around the world [1], and the lack of a single clear de-
+finition for an Indigenous population [2], we limited
+the search for research guidelines to international, na-
+tional and local guidelines for colonised countries that
+held guidelines specifically for Indigenous populations
+and published in English. International guidelines that
+were included were sourced from websites of organi-
+sations such as the United Nations Declaration on the
+Rights of Indigenous Peoples (UNDRIP); World Health
+Organisation (WHO); World Medical Association
+(WMA); and the Council for International Organisa-
+tions of Medical Science (CIOMS). National guidelines
+were identified through searching websites such as: The
+Lowitja Institute; the Australian Indigenous Aboriginal
+and Torres Strait Islander Studies (AIATSIS); and the
+Fig. 1 Selection Process for Publications Modified from the PRISMA 2009 Flow Diagram [32]
+Fitzpatrick et al. BMC Medical Ethics  (2016) 17:65 Page 3 of 18
+
+[W2535437281 PDF PAGE 4]
+Australian Aboriginal Health Info-net; the National
+Health and Medical Research Council (NHMRC) of
+Australia; the Health Research Council (HRC) NZ; the
+Canadian Institutes of Health Research (CIHR); and the
+National Institutes of Health (NIH), USA. In addition,
+we identified a number of guidelines that were state
+based, regional or locally created and which had a par-
+ticular focus on seeking consent for research with Indi-
+genous peoples. This search was conducted for the
+most recent and relevant publications from 1979 until
+November 2015. Articles that described in detail or
+evaluated the process of seeking informed consent for
+research specifically with Indigenous participants world-
+wide and published in English were eligible for inclusion.
+Articles were categorised into original research in which
+the process for seeking consent was evaluated; or which
+described in detail the process of seeking consent; or
+guidelines for ethical research (Fig. 1).
+Results
+A total of 1447 articles was found. Of these, 1391 were
+excluded after abstract or full text review because they
+were duplicate publications; not published in English;
+not readily available; or did not evaluate or describe in
+sufficient detail the consent process for research with In-
+digenous people. There were 56 relevant research publi-
+cations, 5 of which evaluated preference for method of
+delivery of information or understanding of information
+provided when seeking consent for research with Indi-
+genous people (Table 1). We identified 13 publications
+that described methods for seeking consent (see Additional
+file 2). In addition, there were 38 guidelines for seeking
+consent for research with Indigenous people. These
+were categorised into international (see Additional file 3);
+national (see Additional file 4) and regional guidelines (see
+Additional file 5). We developed a checklist evaluating
+these guidelines (Table 2).
+Original research evaluating the consent process
+A total of five published research projects was identified
+which evaluated the preference for method of delivery of
+information or understanding of information when seek-
+ing consent for participation in research with Indigenous
+populations in Australia, USA, and Canada [33 – 37]. They
+emphasised the need for involvement of local Indigenous
+people in seeking consent, establishing good relationships
+between researchers and potential participants, cultural
+competence, and clear communication using plain lan-
+guage with visual cues (Table 1).
+Of these five, only one study evaluated both prefe-
+rences for method of delivery of information and under-
+standing of information presented when seeking consent
+for research with an Indigenous population [33] (Table 1).
+This was a pilot study, set in Alice Springs in the Northern
+Territory, Australia, which was designed to evaluate
+mothers’ understanding of an unlicensed pneumococcal
+vaccine trial proposed for their children [33]. Twenty non-
+Aboriginal mothers and 20 mothers who identified as
+Aboriginal were recruited to the study. Eleven of the
+Aboriginal women did not speak English as their first lan-
+guage. Non-Aboriginal mothers had the project informa-
+tion explained to them by a nurse and were provided with
+‘standard consent materials ’ in the form of an information
+booklet containing only English text with time was
+allowed for questions. This process was evaluated by the
+non-Aboriginal mothers through a questionnaire. Aborigi-
+nal mothers had information presented to them by re-
+search team members – two of either a doctor, a nurse or
+a health worker who also identified as Aboriginal. The
+presentation was in plain English using a flip chart con-
+taining text and computer graphics. A 12-page booklet
+containing black and white diagrams and text was also
+provided [33]. Aboriginal mothers were then interviewed
+about the consent process with an Aboriginal health
+worker, supervised by the principle investigator. Responses
+were analysed by two researchers (their ethnicity was
+not specified) who rated their impression of the partici-
+pants’ level of understanding of the consent informa-
+tion. Preference for consent materials and mode of
+delivery was also evaluated. It was concluded that a
+one-off presentation was inadequate to ensure informed
+consent from all participants.
+Aboriginal participants preferred to receive research
+information from a doctor working together with an
+Aboriginal health worker using a flipchart rather than
+the information booklet [33].
+Articles describing the consent process in detail
+We identified 13 articles from Australia, NZ, Paraguay,
+Canada, Malawi, Peru and the USA. These research
+publications describe a variety of methods used to aid
+communication during the con sent process (Additional
+file 2) [4, 29, 30, 38 – 47]. Methods described include:
+using pictorial aids in a flip chart, presented with a
+local Aboriginal researcher to seek consent for re-
+search [30, 38, 45]. Some studies specify that an inter-
+preter presents the research information in local
+Indigenous languages [29, 30, 38 – 41, 47] and some of
+these methods resulted in a high participation rates
+with 81 – 95 % [38, 42, 48], while others despite these
+efforts participation rates varied from 42 – 65 % [29, 44].
+Authors who identify as Indigenous describe a more
+naturalistic approach to research, through an Indigen-
+ous research paradigm, embracing cultural protocol
+through practices such as storytelling [4, 41, 42]. Re-
+searchers only seek oral consent, for fear of creating a
+power imbalance between themselves and the Indige-
+nous community when seeking written consent [43].
+Fitzpatrick et al. BMC Medical Ethics  (2016) 17:65 Page 4 of 18
+
+[W2535437281 PDF PAGE 5]
+Community collaboration and consent is essential in
+order to prevent researchers who are not local to a
+community from making assumptions about how re-
+search and the process for seeking consent should be
+conducted [4, 30, 38 – 42, 45 – 48].
+Guidelines for research with Indigenous communities
+International and national research guidelines have been
+produced by a number of government, health and re-
+search organisations. A total of 38 current guidelines
+that describe in detail methods for seeking consent for
+Table 1 Original Research Evaluating the Consent Process with Indigenous Populations
+Citation (location) Study Title Study Description Key Findings
+Russell et al. 2005
+(Alice Springs, NT,
+Australia) [ 33]
+A pilot study of informed
+consent materials for
+Aboriginal participants in
+clinical trials
+Information about an unlicensed vaccine
+trial for children was provided to 20
+mothers who identified as Aboriginal and
+20 non-Aboriginal mothers using verbal,
+written and visual materials. Preference
+and understanding was evaluated through
+a questionnaire.
+▪ A single presentation to all participants
+was unlikely to enable informed consent;
+▪ Participants identifying as Aboriginal
+preferred a flip chart with visual content
+presented by a doctor with an Aboriginal
+researcher present
+Bull 2010 (Labrador,
+Canada) [ 34]
+Research with Aboriginal
+Peoples: Authentic
+relationships as a precursor
+to ethical research
+A researcher who identifies as Aboriginal
+and local to the community of Labrador
+interviewed 15 community leaders (11
+leaders who identified as Inuit, Innu, or
+Inuit-Metis and 4 non-Aboriginal leaders
+nominated by the community) to
+investigate why authentic research
+relationships are important and how
+they are achieved with people who
+identify as Aboriginal.
+To seek consent, the researcher must:
+▪ Establish a reciprocal relationship with
+the community, involving them in the
+research process and interpretation of results
+▪ Ensure the community understands the
+risks as well as the benefits of participating
+▪ Respect cultural protocol
+▪ Ensure the research is relevant to the
+community
+For this research project:
+▪ Seek “collective consent ” from communities
+▪ Provide the option of oral or written
+consent for individual participants
+▪ The individual consent process was not
+evaluated
+McCabe et al. 2005
+(Navajo Nation:
+Arizona, New Mexico
+& Utah, USA) [ 35]
+The informed consent process
+in a cross-cultur

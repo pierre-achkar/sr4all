@@ -1,0 +1,250 @@
+isease ”)A N D(“dia-
+betes mellitus, type 2 ”[MeSH]) AND (randomized controlled).
+Each search string also contained the synonyms and related key-
+words of the search terms mentioned above. The complete sea-
+r c hs t r i n g sa r ep r o v i d e di nT a b l eS 1 .
+2.2 | Study selection
+Studies were included if they met the following inclusion criteria for
+this network meta-analysis: (a) the trial was a Phase III or IV prospec-
+tive, randomized, controlled, event-driven CV or kidney outcome trial;
+(b) patients were adults with type 2 diabetes mellitus and kidney dis-
+ease; (c) interventions were SGLT2 inhibitors, GLP-1RAs or DPP-4
+inhibitors; and (d) the comparator was an active or placebo control.
+2.3 | Data extraction
+The studies retrieved from the database search were assessed
+for relevance after screening of titles and abstracts. The full
+texts of relevant studies were then assessed for final
+eligibility according to the inclusion and exclusion criteria set for
+this network meta-analysis. Prespecified data were extracted
+from each of the included studies using a standardized Excel data
+extraction sheet by one researcher and were independently
+reviewed by two researchers. The prespecified data extracted for
+each eligible study included study design, intervention character-
+istics, baseline characteristics of interest and study outcomes.
+Any disagreements during data e xtraction were resolved by
+consensus.
+2.4 | Study outcomes
+The outcomes of interest for this network meta-analysis were: a
+kidney-specific composite outcome, defined as doubling of serum cre-
+atinine or a 40% or greater decline in estimated GFR (eGFR), develop-
+ment of ESKD, or death due to kidney disease; kidney disease
+progression, defined as a composite of doubling of serum creatinine
+or 40% or greater decline in eGFR, development of ESKD, or death
+due to kidney disease or CV disease; major adverse CV events
+(MACE), defined as a composite of CV death, nonfatal myocardial
+infarction (MI) or non-fatal stroke; hospitalization for heart failure
+(HHF); and CV death.
+CAO ET AL. 1449
+
+[W4281936323 PDF PAGE 3]
+TABLE 1 Study design and patient population of the included studies
+Study: first
+author, year Intervention (dose)
+Number
+of
+patients
+Patient population (inclusion
+criteria)
+DKD criteria (data
+inclusion criteria for meta-
+analysis)
+Median
+follow-up,
+years
+DPP-4 inhibitors
+Udell 201533 Saxagliptin
+(2.5 mg OD)
+2240 T2DM and renal impairment
+(eGFR 30-50 mL/
+min/1.73 m2)
+eGFR 30-50 mL/
+min/1.73 m2
+2
+Cornel 201634 Sitagliptin
+(100 mg OD)
+3301 Age ≥18 years; T2DM with or
+without CKD
+eGFR 45-59 mL/
+min/1.73 m2 (n = 2518)
+eGFR 30-44 mL/
+min/1.73 m2 (n = 783)
+3
+McGuire 201935
+Rosenstock 201936
+Linagliptin
+(5 mg OD)
+5147 Age ≥18 years; T2DM with or
+without CKD
+eGFR <60 mL/min/1.73 m2 2.2
+Ferreira 202037 Alogliptin
+(6.25-25 mg OD)
+1434 T2DM with or without CKD eGFR <60 mL/min/1.73 m 2 1.5
+GLP-1 RAs
+Marso 201620 Semaglutide
+(0.5-1 mg OW)
+939 Age ≥50 years; T2DM with or
+without CKD
+eGFR <60 mL/min/1.73 m2 2.1
+Mann 201719
+Mann 201838
+Liraglutide
+(1.8 mg OD)
+2158 T2DM with or without CKD eGFR <60 mL/min/1.73 m 2 3.8
+Husain 201939 Semaglutide
+(14 mg OD)
+856 Age ≥50 years; T2DM with or
+without CKD
+eGFR <60 mL/min/1.73 m2 1.3
+Gerstein 201940 Dulaglutide
+(1.5 mg OW)
+2199 Age ≥50 years; T2DM with or
+without CKD
+eGFR <60 mL/min/1.73 m2 5.4
+Bethel 202041 Exenatide
+(2 mg OW)
+3177 T2DM with or without CKD eGFR <60 mL/min/1.73 m 2 3.2
+SGLT2 inhibitors
+Wanner 201642
+Wanner 201843
+Empagliflozin (10-25 mg
+OD)
+1819 T2DM with or without CKD eGFR <59 mL/min/1.73 m 2 3.1
+Neuen 201844 Canagliflozin
+(100-300 mg OD)
+2039 T2DM with or without CKD
+and either age≥30 years with
+established atherosclerotic
+vascular disease or age
+≥50 years with 2 or more CV
+risk factors
+eGFR <60 mL/min/1.73 m2 3.6
+Wiviott 201917 Dapagliflozin (10 mg OD) 1265 Age ≥40 years; T2DM (with a
+glycated HbA1c of at least
+6.5% but below 12.0%), and a
+creatinine clearance of
+≥60 mL per min
+eGFR <60 mL/min/1.73 m2 4.2
+Cannon 202045
+Cherney 202146
+Ertugliflozin (5-15 mg
+OD)
+1807 Age ≥40 years; T2DM (with a
+HbA1c level of 7.0%-10.5%)
+and established
+atherosclerotic CV disease
+eGFR <60 mL/min/1.73 m2 3
+Perkovic 201922 Canagliflozin (100 mg
+OD)
+4401 Age ≥30 years; T2DM (with
+HbA1c level of 6.5%-10.5%)
+and CKD (eGFR of 30 to
+<90 mL/min/1.73 m2)
+eGFR 30 to <90 mL/
+min/1.73 m2
+2.62
+Heerspink 202021 Dapagliflozin (10 mg OD) 2906 CKD (eGFR of 25-75 mL/
+min/1.73 m2 and UACR of
+200-5000 mg/g) with or
+without T2DM (patients with
+CKD + T2DM were included)
+eGFR 25-75 mL/
+min/1.73 m2
+2.4
+Bhatt 202147 Sotagliflozin
+(200-400 mg OD)
+10 584 Age ≥18 years; T2DM with or
+without CKD
+eGFR ≥25 and≤60 mL/
+min/1.73 m2
+1.3
+Abbreviations: CKD, chronic kidney disease; DKD, diabetic kidney disease; DPP-4, dipeptidyl peptidase-4; eGFR, estimated glomerular filtrationrate; GLP-
+1RA, glucagon-like peptide-1 receptor agonist; HbA1c, glycated hemoglobin; OD, once daily; OW, once weekly; SGLT2, sodium-glucose cotransporter2;
+T2DM, type 2 diabetes mellitus; UACR, urine albumin-creatinine ratio.
+1450 CAO ET AL.
+
+[W4281936323 PDF PAGE 4]
+2.5 | Risk-of-bias and quality assessment
+The quality of the included studies and the risk of bias were assessed
+using the Cochrane Risk-of-Bias tool. Any disagreements during
+assessment of risk of bias were resolved by consensus.
+2.6 | Statistical analysis
+Hazard ratios (HRs) and 95% confidence intervals (CIs) were calcu-
+lated for each study to assess the effect sizes. Statistical tests were
+performed using STATA 15.0, as well as the statistical packages
+“netmeta” for network meta-analysis and“gemtc” for Bayesian analy-
+sis in R (version 4.1.2). All tests were two-sided and aP value < 0.05
+was considered statistically significant. The net split results were pres-
+ented as forest plots. The netmeta package on R was used to evaluate
+the consistency between direct and indirect estimates. Potential publi-
+cation bias was estimated using funnel plots and Egger tests.
+A Bayesian network meta-analysis was employed for the sensitiv-
+ity analysis to analyse direct and indirect comparisons and to rank the
+results of the network meta-analysis. A Markov Monte Carlo algo-
+rithm was used to derive inferences from the random-effects Bayes-
+ian network. A total of 100 000 iterations were run for each chain,
+and 5000 burn-ins were used for the outcomes. Every 10th data point
+for 10 000 samples per channel was extracted. Model convergence
+was measured using trace plots and Gelman-Rubin plots.
+3 | RESULTS
+3.1 | Studies included in the network
+meta-analysis
+Out of 377 articles identified in the initial database search, a total of
+20 publications from 16 studies fulfilled the eligibility criteria and
+were included in the final analysis (Figure S1), representing a total of
+46 292 patients. All studies had placebo as the comparator. The major
+characteristics of the included studies are summarized in Table 1,
+including the criteria used to define DKD in each study. The quality
+evaluation of the included studies is presented in Figure S2. The net-
+work profile of the included studies indicates that the SGLT2
+inhibitor-placebo arm had the most comparisons, with seven studies,
+while four studies were included in the DPP-4 inhibitor-placebo arm
+and five in the GLP-1RA-placebo arm (Figure1).
+3.2 | Network meta-analysis of treatment groups
+3.2.1 | Renal outcomes
+Ten of the included studies reported a kidney-specific composite out-
+come (six with SGLT2 inhibitors, three with GLP-1RAs, and one with
+DPP-4 inhibitors), while only four studies reported kidney disease
+progression (all with SGLT2 inhibitors). The within-design heterogene-
+ity was not significant (P = 0.6270), indicating that the network model
+for a kidney-specific composite outcome was acceptable. No publica-
+tion bias was found according to the funnel plot (Figure S3A) and
+Egger test (P = 0.1716).
+The effect size estimates table and forest plots (Table 2 and
+Figure 2A) showed that SGLT2 inhibitors and GLP-1RAs significantly
+reduced the risk of the kidney-specific composite outcome by 36%
+(HR 0.64, 95% CI 0.57-0.71) and 14% (HR 0.86, 95% CI 0.75-0.99),
+respectively, compared with placebo. However, DPP-4 inhibitors did
+not alter the risk of kidney-specific outcome (HR 0.99, 95% CI
+0.83-1.18) compared with placebo.
+There was strong consistency between direct and indirect evi-
+dence for the kidney-specific composite outcome (Figure3A). SGLT2
+inhibitors significantly reduced the risk of the kidney-specific compos-
+ite outcome by 26% compared to GLP-1RAs (HR 0.74, 95% CI
+0.62-0.88) and by 36% compared to DPP-4 inhibitors (HR 0.64, 95%
+CI 0.52-0.79). GLP-1RAs did not significantly alter the risk of the
+kidney-specific composite outcome compared to DPP-4 inhibitors
+(HR 0.87, 95% CI 0.70-1.09; Table2).
+The rankogram (Figure S4A) showed that SGLT2 inhibitors had the
+highest probability of reducing the risk of the kidney-specific composite
+outcome (100% probability of being the best treatment), followed by
+GLP-1RAs (88.5% probability of being the second-best treatment) and
+DPP-4 inhibitors (10.9% probability of being the second-best treatment,
+44.7% probability of being the third-best treatment).
+As all four studies that report ed kidney disease progression
+assessed SGLT2 inhibitors versus placebo, a traditional meta-
+analysis was performed. No publication bias was found according
+to the funnel plot (Figure S3B) and Harbord test (Egger test,
+P = 0.971). SGLT2 inhibitors reduced the risk of kidney disease
+FIGURE 1 Overall network profile. This network meta-analysis
+included four studies that evaluated dipeptidyl peptidase-4 (DPP-4)
+inhibitors, five that evaluated glucagon-like peptide-1 receptor
+agonists (GLP-1Ras) and seven that evaluated sodium-glucose
+cotransporter-2 (SGLT2) inhibitors
+CAO ET AL. 1451
+
+[W4281936323 PDF PAGE 5]
+progression by 30% (HR 0.70, 95% CI 0.63-0.77) compared with
+placebo (Figure S5).
+3.2.2 | CV outcomes
+Fifteen of the included studies reported outcomes for MACE (six
+wit

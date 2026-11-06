@@ -1,0 +1,253 @@
+ncluded. In cases where 
+reading the abstracts was not enough to determine their 
+eligibility according to defined inclusion criteria, the 
+articles were read in full so that they could be included 
+or excluded.
+In order to extract information from the selected 
+studies, an instrument was prepared, including the fol -
+lowing information: authors, year of publication, meth -
+odological design, intervention protocol, intervention 
+groups, sample, time and frequency, and outcome. From 
+that point on, the studies were analyzed and interpreted 
+descriptively and their data were presented based on 
+methodological similarities, grouped according to the 
+final conclusions.
+results
+To obtain the results, after the research based on the key-
+words established in the research protocol, 20 articles were 
+selected in the PubMed platform and 4 in the Scielo, which 
+referred to the proposed theme, totaling 24 articles. Of 
+these, two were eliminated because they were duplicated, 
+five because they did not constitute human studies, seven 
+because they corresponded to literature reviews, two be-
+cause they represented opinion articles, and two because 
+they were not accessible for reading. Thus, six studies were 
+included in our systematic review (Figure 1).
+The studies selected for review of the literature were 
+published between 2008 and 2016, with three studies 
+conducted in India,9,11 Asia; one in Reunion Island,12 East 
+Africa; one in the Dominican Republic,13 Central Ameri-
+ca; and one in Brazil,14 South America. 
+As for characteristics of methodological design, five 
+studies were clinical trials, three of them contemplating 
+the population group between 12 and 80 years,11,12,15 while 
+two did not describe the age of the sample group.9,14 In the 
+case of clinical trials, treatment outcome results with the 
+following types of drugs were assessed: steroidal and non-
+-steroidal anti-inflammatory drugs (SAIDs and NSAIDs), 
+disease-modifying antirheumatic drugs (DMARDs) such 
+
+[W2793912179 PDF PAGE 3]
+TreaTmenT of chikungunya  chronic arThriTis: a sysTemaTic review
+rev assoc MeD Bras 2018; 64(1):63-70  65
+as hydroxychloroquine, chloroquine, ribavirin, immuno-
+-modulators and homoeopathic substance (Table 1).
+Another study, structured as a case report, presented 
+a non-pharmacological strategy using ultrasound, TENS, 
+and laser using a physiotherapeutic approach (Table 1). 
+This study revealed the potential of such techniques in 
+reducing the pain experienced by the patient reported, 
+reflected in the decrease in the use of oral analgesics.14
+Among the pharmacological approach studies analyzed 
+(Table 2), two presented an evaluation for NSAIDs. In both 
+cases, there was improvement in the symptoms of arthritis 
+with arthralgia and edema after using this class of drug. 
+The study conducted in Reunion Island reported an im-
+provement in symptoms in 70% of patients after the use 
+of NSAIDs; however, the doses, frequencies and period of 
+administration were not reported, not even the drug.12 
+The study in the Dominican Republic, in turn, showed 
+improvement of symptoms in 89% of patients who used 
+NSAIDs, including: Naproxen with 550 mg twice daily; ce-
+lecoxib with 400 mg daily, and etoricoxib with 90 mg daily.13 
+The group studied in Reunion Island was also evalu-
+ated for the use of methotrexate, with improvement in 
+symptoms in 75% of cases, and hydroxychloroquine, which 
+did not present benefits. 12 The study performed in the 
+Dominican Republic showed a 72% improvement in the 
+use of SAIDs such as prednisone at a dose of 5-7.5 mg 
+daily and flazacort at a dose of 6 mg daily.13
+Chopra et al.11 conducted a double-blind randomized 
+trial of patients who presented arthritis more than six 
+weeks after CHIKV infection to assess the benefits of chlo-
+roquine over NSAID meloxicam. In the study, the authors 
+found no statistical difference between the two drugs.11 
+FIGURE 1 Flowchart for identification and selection of articles of systematic review on the treatment of arthralgia in the chronic phase  
+of chikungunya.
+Number of articles identified based on 
+descriptors in the PubMed database:
+Chikungunya and treatment and arthralgia = 106
+Chikungunya and treatment and arthritis = 99
+Total = 205
+Number of articles identified based on 
+descriptors in Scielo database:
+Chikungunya and treatment and arthralgia = 4
+Chikungunya and treatment and arthritis = 1
+Total = 5
+Duplicate articles excluded:
+No. = 2
+Literature review articles excluded:
+No. = 7
+Non-human studies excluded:
+No. = 5
+Opinion articles excluded:
+No. = 2 Articles without access to  
+the full text excluded:
+No. = 2
+Articles selected based on theme 
+compatibility from the Scielo database:
+No. = 4
+Articles selected based on theme 
+compatibility from the PubMed database:
+No. = 20
+Articles compatible with the theme 
+from both databases:
+No. = 24
+Articles included in the systematic review:
+No. = 6
+
+[W2793912179 PDF PAGE 4]
+SaleS GMPG et al.
+66  rev assoc MeD Bras 2018; 64(1):63-70
+TABLE 1 Stratification of studies, available from online databases, in January 2017.
+Author, year Country Design Sample Drugs used
+Javelle et al.12 Reunion Island Clinical trial 159, aged 16 to 80 years SAIDs, methotrexate and hydroxychloroquine
+Chopra et al.11 India Clinical trial 70 adults Chloroquine and meloxicam
+Wadhwani15 India Clinical trial 126, aged 12 to 60 years Homeopathy
+Ravichandran and Manian9 India Clinical trial 20 Ribavirin
+Rosario et al.13 Dominican Republic Clinical trial 567 NSAIDs and DMARDs
+Ribeiro et al.14 Brazil Case report 1 Physiotherapeutic approach
+SAIDs: steroidal anti-inflammatory drugs; NSAIDs: non-steroidal anti-inflammatory drugs; DMARDs: disease-modifying antirheumatic drugs. 
+TABLE 2 Detail of the studies with pharmacological approach January, 2017.
+Author, year Study objective Detailed methodology Detailed intervention Outcome
+Javelle et al.12 To analyze and evaluate the 
+clinical and therapeutic 
+spectrum effective for 
+rheumatic disorders after 
+CHIKV
+A retrospective clinical study that 
+evaluated medical records of 
+patients with rheumatic or skeletal 
+muscle pain after CHIKV infection 
+treated at a rheumatology clinic 
+over 6 years with the identification 
+of clinical and laboratory data 
+before and after the treatment
+SAIDs: unspecified dose
+Methotrexate: 15 mg/week
+Hydroxychloroquine:  
+200 mg/day
+Patients treated with SAIDs 
+presented a positive 
+therapeutic response in 70% of 
+the cases; treated with 
+methotrexate, 75%. 
+Hydroxychloroquine did not 
+present benefits
+Chopra et al.11 To evaluate whether 
+chloroquine has greater 
+benefits in relation to 
+meloxicam for the treatment 
+of musculoskeletal pain and 
+post-CHIKV arthritis
+A prospective, randomized, 
+double-blind clinical trial 
+evaluating patients with arthritis 
+for more than 6 weeks after 
+CHIKV infection
+Chloroquine: 250 mg/day
+Meloxicam: 7.5 mg/day
+There was no difference in 
+efficacy between the groups 
+using chloroquine and 
+meloxicam
+Wadhwani15 To observe the effect of 
+homeopathic therapy in the 
+acute phase and post-
+CHIKV chronic arthritis
+A prospective clinical trial that 
+evaluated patients in the acute 
+phase of chikungunya and with 
+chronic arthritis after CHIKV
+The homeopathic medication 
+was used at initial doses three 
+times a day, being reduced to 
+two and one, with improvement
+90% of cases of chronic 
+arthritis achieved cure after an 
+average time of 32.5 days
+Ravichandran 
+and Manian9
+To evaluate the effect of 
+the antiviral drug ribavirin 
+on the clinical outcome of 
+patients with post-CHIKV 
+arthritis
+Prospective clinical trial evaluating 
+patients with post-CHIKV arthritis. 
+One group of patients used the 
+drug for 7 days, and was 
+reevaluated after 4 weeks,  
+while the control group used 
+analgesics freely
+Ribavirin group: 200 mg twice 
+daily for 7 days.
+Control group: analgesics,  
+if necessary
+At the end of 4 weeks, the 
+ribavirin group showed 
+improvement in walking 
+capacity and edema in 70 and 
+80% of the cases, respectively, 
+and relapse of pain in 30%, 
+while the control group 
+presented improvement in 
+walking capacity and edema in 
+30 and 60%, respectively, and 
+70% of recurrence of pain
+Rosario et al.13 To compare the therapeutic 
+difference between patients 
+from the general population 
+and those previously 
+diagnosed with rheumatoid 
+arthritis, after CHIKV 
+infection events
+A retrospective clinical study 
+evaluated the therapeutic use in a 
+group of patients without 
+rheumatic complaints prior to 
+CHIKV infection and patients 
+undergoing treatment for 
+rheumatoid arthritis after CHIKV
+Naproxen: 550 mg twice daily; 
+celecoxib: 400 mg/day; 
+etoricoxib: 90 mg/day; 
+prednisone: 5-7.5 mg/day; 
+deflazacort: 6 mg/day
+The population group that 
+had no previous rheumatic 
+complaints had 89% 
+improvement with NSAIDs, 
+72% with SAIDs
+SAIDs: steroidal anti-inflammatory drugs; NSAIDs: non-steroidal anti-inflammatory drugs; CHIKV: Chikungunya virus.
+
+[W2793912179 PDF PAGE 5]
+TreaTmenT of chikungunya  chronic arThriTis: a sysTemaTic review
+rev assoc MeD Bras 2018; 64(1):63-70  67
+Similarly, the benefits of ribavirin in relation to the 
+control group were evaluated.13 Patients were treated with 
+ribavirin 200 mg twice daily for seven days, and were 
+evaluated four weeks after therapy, while the control group 
+used analgesics freely during the period. One of the main 
+findings of the study was that after four weeks, the riba -
+virin group showed improvement in walking ability in 
+70% of patients, reduction of edema in 80% and recurrence 
+of pain in 30%, while the control group showed improve-
+ment in walking capacity in 30%, edema in 60% and recur-
+rence of pain in 70% of patients.13 
+There was also a prospective clinical study using ho-
+meopathic approach, in which Wadhwani15 evaluated the 
+use of homeopathic medication in the acute phase of 
+chikungunya and chronic arthritis caused by the infection. 
+One of the results that could be observed was that, in 
+addition to the benefit in th

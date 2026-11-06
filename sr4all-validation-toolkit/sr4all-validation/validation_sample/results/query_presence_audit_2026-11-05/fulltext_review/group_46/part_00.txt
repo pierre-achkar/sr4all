@@ -1,0 +1,174 @@
+
+
+REVIEW W4388904117
+TITLE: Efficacy and safety of first-line combination therapy versus monotherapy for vitreoretinal lymphoma: a systematic review and meta-analysis
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4388904117 PDF PAGE 1]
+Gao et al. BMC Ophthalmology          (2023) 23:477  
+https://doi.org/10.1186/s12886-023-03226-3
+RESEARCH
+Efficacy and safety of first-line 
+combination therapy versus monotherapy 
+for vitreoretinal lymphoma: a systematic review 
+and meta-analysis
+Jing Gao1, Xiaoyan Peng2* and Liang Wang1* 
+Abstract 
+Background Vitreoretinal lymphoma (VRL) is usually treated with a combination of intraocular methotrexate (ioMTX), 
+high-dose intravenous methotrexate (HD-MTX), or local radiotherapy (RT) as the first options. The effectiveness 
+and safety of monotherapy like bruton’s tyrosine kinase inhibitors (BTKi) for PVRL remain uncertain.
+Methods A systematic review and meta-analysis of clinical trial data and conference abstracts in VRL patients treated 
+with first-line combination therapy or monotherapy were conducted through a search of PubMed, Embase, and Sco-
+pus databases until December 2022. A total of 24 studies comprising 517 patients were included, and survival data 
+were extracted from 279 patients due to inconsistent units across studies.
+Results The combined treatment group used ioMTX + chemotherapy (in 4 studies), RT + chemotherapy (in 2 stud-
+ies), ioMTX/HD-MTX based regimen (in 2 studies), ioMTX + RT + chemotherapy (in 2 studies), ioMTX + lenalidomide/
+BTKi (in 2 studies) and combination of multiple therapies (in 7 studies). The monotherapy group was mainly treated 
+with oral monotherapies such as BTKi. The combination therapy had a higher overall response rate (ORR) and com-
+plete response rate (CRR) than monotherapy (ORR: 96% vs. 72%, CRR: 92% vs. 63%). Combination therapy also resulted 
+in a longer median progression-free survival (28.8 months vs. 13 months, p = 0.012). However, the combination 
+therapy group had more severe side effects (grade 3/4 toxicity) than the monotherapy group (45% vs. 8%).
+Conclusion The study showed combination therapy had better OR and CR rates, longer survival, and more toxicity 
+than monotherapy. While BTK inhibitors were well-tolerated, long-term effectiveness needs confirmation from pro-
+spective studies. In addition, given the small number of studies of monotherapy for VRL, more studies are needed 
+to validate its effects.
+Trial registration CRD42023400305.
+Keywords Vitreoretinal lymphoma, Combination therapy, Monotherapy, BTK inhibitors, Meta-analysis
+Open Access
+© The Author(s) 2023. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which 
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the 
+original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line 
+to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory 
+regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this 
+licence, visit http://creativecommons.org/licenses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creativecom-
+mons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+BMC Ophthalmology
+*Correspondence:
+Xiaoyan Peng
+74000041@ccmu.edu.cn
+Liang Wang
+wangliangtrhos@126.com
+Full list of author information is available at the end of the article
+
+[W4388904117 PDF PAGE 2]
+Page 2 of 14Gao et al. BMC Ophthalmology          (2023) 23:477 
+Introduction
+Vitreoretinal lymphoma (VRL), also known as intraocu -
+lar lymphoma (IOL), is a rare variant of central nervous 
+system lymphoma (CNSL). It is a extranodal, non-Hodg -
+kin’s lymphoma, typically of the B-cell type, which pre -
+dominantly affects the vitreous and retina of the eye, 
+while also potentially involving the optic nerve without 
+any infiltration of the brain parenchyma. It is important 
+to note that VRL is an exceptionally aggressive lymphoma 
+subtype, often posing significant challenges for diagnosis 
+and treatment.
+VRL is a very rare disease, with only approximately 50 
+new cases reported annually in the United States, mostly 
+affecting elderly patients. Additionally, women appear 
+to be more susceptible than men [1]. Nonetheless, there 
+exists a close association between VRL and CNSL, as 
+some CNSL may ultimately develop an ocular manifesta -
+tion, while most VRL-origin lymphomas may eventually 
+progress to CNSL. Hence, despite its low prevalence, the 
+severity of VRL should not be underestimated, making it 
+crucial to find an appropriate treatment strategy that can 
+minimize the risk of CNS recurrence while alleviating 
+ocular symptoms.
+The first-line treatment for VRL typically includes both 
+local treatment, such as intravitreal injection of chemo -
+therapy, ocular radiotherapy, and systemic therapy based 
+on high-dose (HD) methotrexate (MTX). Nevertheless, 
+the contribution of the combination of these two first-
+line treatments to improved outcomes remains contro -
+versial [2]. In addition to local and systemic treatments, 
+there are currently several other therapeutic modalities 
+that have gained widespread attention in research. Vari -
+ous single agents, including temozolomide, and targeted 
+agents such as Bruton tyrosine kinase inhibitors (BTKi), 
+are also emerging as potential treatment options for VRL 
+[3, 4]. However, the specific advantages and disadvan -
+tages between the two first-line therapy modalities and 
+monotherapy remain unclear. Thus, the objective of this 
+study is to conduct a systematic review and meta-analysis 
+comparing the efficacy and safety of first-line combina -
+tion therapy versus monotherapy, in order to provide rec-
+ommendations for future clinical management.
+Methods
+Search strategy and selection criteria
+This systematic review and meta-analysis adhered to a 
+previously published protocol registered on the PROS -
+PERO registry (CRD42023400305) and followed the 
+PRISMA (Preferred Reporting Items for Systematic 
+Reviews and Meta-Analyses) guidelines [5]. A compre -
+hensive search of the literature was conducted to iden -
+tify articles published in PubMed, Embase, and Scopus 
+up to December 2022. Furthermore, relevant data from 
+conference abstracts were included in the analysis if 
+available. The complete search algorithm is provided in 
+Supplementary Table 1. The outcome measure of interest 
+is the median progression-free survival, which is defined 
+as the duration of time during which 50% of patients 
+remain free of disease progression.
+The inclusion criteria for this review consisted of the 
+following: (1) Prospective and retrospective studies; (2) 
+Studies published in English language; (3) Patients diag -
+nosed with VRL or IOL; (4) Various treatment options, 
+such as monotherapy or MTX-based first-line therapy; 
+(5) Studies reporting extractable endpoints, including 
+the overall response rate (ORR), complete response (CR), 
+partial response (PR), survival data, and adverse events 
+(AEs). Meanwhile, studies meeting any of the following 
+criteria were excluded from this review: (1) Duplicate 
+literature; (2) Reviews, case reports, and cellular or ani -
+mal studies; (3) Non-therapeutic or diagnostic studies; 
+(4) Studies from which data could not be extracted; (5) 
+Updates of previous results; (6) Lymphoma with primary 
+site in the ciliary body or choroid; (7) Articles published 
+earlier than 2010.
+The study selection process can be broadly divided 
+into two stages. First, two investigators (Jing Gao, Lang 
+Wang) independently evaluated the title and abstract of 
+each article to determine its eligibility for inclusion in 
+the meta-analysis. Subsequently, the two investigators 
+compared the full text of the studies that met the crite -
+ria established in the first stage, with any discrepancies 
+resolved through discussion or consultation with a third 
+researcher (Xiaoyan Peng).
+Data analysis
+The data collection process from eligible studies was 
+conducted independently by two authors, with any dis -
+crepancies being resolved through joint discussion with a 
+third author. An Excel sheet was utilized to extract infor -
+mation from the studies, which included the name of the 
+first author, publication year, country, study period, study 
+design (type of study and trial phase), median follow-up 
+time, disease status, sample size, median age, patient gen-
+der, primary intervention, and main outcomes (response, 
+survival, and AEs).
+The ORRs, CRRs, and 3/4 AEs from the included litera-
+ture were analyzed and combined using forest plots. The 
+survival data units were inconsistent among the included 
+literature, and only five studies had results for median 
+progression-free survival (mPFS) [6–10]. Therefore, we 
+pooled extractable survival data from the literature and 
+analyzed them using the Kaplan–Meier method and the 
+log-rank test in order to draw survival curves, make sur -
+vival comparisons, and calculate mPFS for each group. 
+The Engauge digitizing software version 10.8 was used to 
+
+[W4388904117 PDF PAGE 3]
+Page 3 of 14
+Gao et al. BMC Ophthalmology          (2023) 23:477 
+ 
+obtain a portion of the survival data from Kaplan–Meier 
+curves.
+Heterogeneity across studies was assessed using 
+Cochran’s Q test and I2 statistics. A fixed effects model 
+was used for data combination when heterogeneity was 
+not significant (I2 < 50% or p-value > 0.1), and a random 
+effects model was used when heterogeneity was signifi -
+cant. Egger’s test was utilized to investigate publication 
+bias, with P-values indicating

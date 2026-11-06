@@ -1,0 +1,405 @@
+8)
+436 Sleep and Breathing (2022) 26:429–441
+
+[W3165552992 PDF PAGE 9]
+1 3
+with the explanation of Mirbagher et al. [29] that using 
+different psychological measurement tools may contribute 
+to the differences between the results. To date, subjective 
+measurement of depression in patients with SLE has not 
+been unified. We recommend that future investigators con-
+duct rigorous randomized controlled trials in SLE patients 
+to unify depression assessment tool to make the results 
+more comparable across studies. An interesting finding was 
+that the correlation between depression and sleep quality 
+was strongest when SLE patients met the diagnostic criteria 
+of 1982 ACR, followed by 1997 ACR, and weakest when 
+patients with SLE matched both 1982 and 1997 ACR. As 
+is well known, 1997 ACR revised the criterion number 10 
+of 1982 ACR—“Immunologic disorder” by deleting item 
+10(a) and changing item 10(d) [36], and the sensitivity of 
+revised “Immunologic disorder” remained the same, but the 
+specificity decreased [37]. That is, the rate of misdiagno-
+sis of immune abnormalities in 1982 ACR was low, which 
+may lead to patients with immune abnormalities getting 
+closer to a diagnosis of SLE, increasing their psychological 
+burden and affecting their sleep quality. As the diagnostic 
+criteria of SLE will be updated in real time with the pro-
+gress of detection technology and other reasons, we suggest 
+that researchers adopt the latest diagnostic criteria. There is 
+another discovery that depression had a highest relationship 
+with sleep quality in SLE patients in Africa, and lowest cor-
+relation in Europe. It may be because of the poor economic 
+conditions and backward medical conditions in Africa that 
+SLE patients may not get timely and effective treatment, 
+leading to the deterioration of the disease, increased psy-
+chological burden, and restless sleep at night. In contrast, 
+Europe has developed economy, advanced medical level 
+and high medical insurance coverage, so the treatment of 
+SLE patients can be carried out in an orderly manner. This 
+review showed that literature’s quality did not affect the 
+association between depression and sleep quality in patients 
+with SLE and might not be the source of heterogeneity of 
+the pooled correlation coefficient. However, given that the 
+higher the quality of the article, the more reliable the con-
+clusions, we still hope researchers in future studies could 
+write the manuscript according to the highest quality stand-
+ards as possible.
+Fig. 3  Me ta-analysis of the correlation between depression and 7 dimensions of PSQI (N  =  2)
+437Sleep and Breathing (2022) 26:429–441
+
+[W3165552992 PDF PAGE 10]
+1 3
+Since the relationship between depression and sleep quality 
+in SLE patients is considered to be clearer in this meta-anal-
+ysis, the development of strategies to improve sleep quality 
+in patients with SLE underscores the continuing importance 
+of mental health assessments. Previous meta-analysis has 
+reported the safety of therapeutic exercise programs, and exer-
+cise do not adversely affect disease activity, accompany with 
+an interesting finding that exercise-based interventions posi-
+tively influence depression [38]. Therefore, SLE patients may 
+be able to decrease their depression levels through exercise, 
+and thus improve their sleep quality. Lately, sleep hygiene 
+education has shown its own potential as an intervention strat-
+egy to cover the growing public health concerns of an increas-
+ing general population with sleep complaints [39]. Neverthe-
+less, a lack of repeated studies on the use and relevance of 
+sleep hygiene ingredients is still existed.
+However, there are several limitations in this review. 
+First, the data were derived from studies using different 
+designs involving different patient groups (e.g., from dif-
+ferent countries), which may lead to heterogeneity between 
+studies. However, we conducted subgroup analysis and 
+sensitivity analysis to find the source of heterogeneity, and 
+we did find some possible sources. Second, only the stud-
+ies that explored sleep quality by PSQI were included, as 
+PSQI being the most commonly used to assess SLE patient’s 
+sleep quality. Third, the assessment tools of sleep quality and 
+depression included in this review were based on subjective 
+feedback of the patients, which may not be objective enough. 
+Fourth, the included researches in this meta-analysis were 
+mainly cross-sectional designs, the number of included arti-
+cles and total sample size were relatively small. Therefore, 
+more high-quality prospective studies with large sample 
+sizes are needed.
+Conclusion
+This meta-analysis suggests that depression has a moderate 
+correlation with sleep quality in patients with SLE. Patients 
+with poor sleep quality tended to have higher levels of 
+Fig. 4  Me ta-analysis comparing the depression levels in patients with SLE and good sleep quality and patients with SLE and poor sleep quality 
+(N
+ 
+=
+ 
+4)
+438 Sleep and Breathing (2022) 26:429–441
+
+[W3165552992 PDF PAGE 11]
+1 3
+Table 3  Subg roup analysis 
+of the pooled results of the 
+correlation between depression 
+and sleep quality in SLE 
+patients
+HADS-D, Hospital Anxiety and Depression Scale-Depression; CES-D, Center for Epidemiological Studies 
+Depression Scale; HAM-D, Hamilton Rating Scale for Depression; PHQ-9, the nine-item Patient Health 
+Questionnaire; ACR
+ , Amer
+ican College of Rheumatology; CI, confidence interval
+Variables No. of 
+studies
+No. of patients Fisher z (95% CI) P value Heterogeneity
+I2 (%) P value
+Corticosteroids use
+  
+ 
+<
+ 
+100% 5 310 0.57(0.39, 0.74)  
+<
+ 
+0.001 47.3 0.108
+  100% 3 127 0.84(0.66, 1.02)  
+<
+ 
+0.001 0 0.853
+Measurement of depression
+  HADS-D 3 160 0.43(0.27, 0.59)  
+<
+ 
+0.001 0 0.479
+  CES-D 3 180 0.72(0.57, 0.87)  
+<
+ 
+0.001 0 0.415
+  HAM-D 1 56 0.88(0.61, 1.15)  
+<
+ 
+0.001 0 -
+  PHQ-9 1 41 0.76(0.45, 1.08)  
+<
+ 
+0.001 0 -
+Diagnostic criteria of SLE
+  1982 and 1997 ACR
+ 3 160 0.43(0.27, 0.59)  
+<
+ 
+0.001 0 0.479
+  1997 ACR
+ 4 247 0.75(0.62, 0.88)  
+<
+ 
+0.001 0 0.479
+  1982 ACR
+ 1 30 0.86(0.49, 1.24)  
+<
+ 
+0.001 0 -
+Region
+  Europe 3 160 0.43(0.27, 0.59)  
+<
+ 
+0.001 0 0.479
+  Asia 3 147 0.83(0.66, 1.00)  
+<
+ 
+0.001 0 0.859
+  North America 1 100 0.63(0.43, 0.83)  
+<
+ 
+0.001 0 -
+  Africa 1 30 0.86(0.49, 1.24)  
+<
+ 
+0.001 0 -
+Quality
+  High risk 4 236 0.67(0.43, 0.90)  
+<
+ 
+0.001 62.9 0.044
+  Low risk 4 201 0.66(0.44, 0.89)  
+<
+ 
+0.001 50.5 0.109
+Table
+ 
+4
+  Subg
+roup analysis of 
+the pooled results in depression 
+levels between SLE patients 
+with good and poor sleep 
+quality
+CES-D, Center for Epidemiological Studies Depression Scale; HAM-D, Hamilton Rating Scale for Depres-
+sion; HADS-D, Hospital Anxiety and Depression Scale-Depression; ACR
+ , Amer
+ican College of Rheuma-
+tology; SMD, standardized mean difference; CI, confidence interval
+Variables No. of 
+studies
+Pooled SMD (95% CI) P value Heterogeneity
+I2 (%) P value
+Corticosteroids use
+  
+ 
+<
+ 
+100% 2  
+−
+ 
+0.11 (−
+ 
+2.05,
+ 
+−
+ 
+0.18) 0.020 81.6 0.020
+  100% 2  
+−
+ 
+1.55 (−
+ 
+2.67,
+ 
+−
+ 
+0.42) 0.007 73.6 0.052
+Measurement of depression
+  CES-D 2  
+−
+ 
+1.79
+ 
+−
+ 
+2.34,
+ 
+−
+ 
+1.24)  
+<
+ 
+0.001 0 0.341
+  HAM-D 1  
+−
+ 
+1.05 (−
+ 
+1.61,
+ 
+−
+ 
+0.49)  
+<
+ 
+0.001 0 -
+  HADS-D 1  
+−
+ 
+0.66 (−
+ 
+1.13,
+ 
+−
+ 
+0.20) 0.005 0 -
+Diagnostic criteria of SLE
+  1982 and 1997 ACR
+ 1  
+−
+ 
+0.66 (−
+ 
+1.13,
+ 
+−
+ 
+0.20) 0.005 0 -
+  1997 ACR
+ 2  
+−
+ 
+1.31 (−
+ 
+1.86,
+ 
+−
+ 
+0.75)  
+<
+ 
+0.001 39.9 0.197
+  1982 ACR
+ 1  
+−
+ 
+2.21 (−
+ 
+3.24,
+ 
+−
+ 
+1.18)  
+<
+ 
+0.001 0 -
+Region
+  Asia 3  
+−
+ 
+1.07 (−
+ 
+1.60,
+ 
+−
+ 
+0.54)  
+<
+ 
+0.001 63.4 0.065
+  Africa 1  
+−
+ 
+2.21 (−
+ 
+3.24,
+ 
+−
+ 
+1.18)  
+<
+ 
+0.001 0 -
+Quality
+  High risk 2  
+−
+ 
+0.82 (−
+ 
+1.19,
+ 
+−
+ 
+0.45)  
+<
+ 
+0.001 6.9 0.300
+  Low risk 2  
+−
+ 
+1.79 (−
+ 
+2.34,
+ 
+−
+ 
+1.24)  
+<
+ 
+0.001 0 0.341
+439Sleep and Breathing (2022) 26:429–441
+
+[W3165552992 PDF PAGE 12]
+1 3
+depression than those of good sleepers. Awareness of this 
+correlation may prompt rheumatology physicians and nurses 
+to assess and treat depression and improve patients’ sleep 
+quality.
+Acknowledgements W e would like to thank Lifen Mao, Haifang Wang, 
+and Mingjing Fang for their great assistance in data extraction and 
+analysis; thank Xiaoqing Shi and Mingjun Wang for their suggestions 
+in the process of revising the manuscript.
+Authors’ contributions R
+Y and LL searched and checked the databases 
+according to the inclusion and exclusion criteria, extracted the data 
+and assessed their quality. RY analyzed the data and wrote the draft 
+of the paper. LL, LX, WS, MN, and RX gave advice on meta-analysis 
+methodology and revised the paper. All authors contributed to review-
+ing or revising the paper. RX and CS are the guarantors of this work 
+and had full access to all the data in the study and take responsibility 
+for its integrity and the accuracy of the data analysis. All authors read 
+and approved the final manuscript.
+Funding
+ This s
+tudy was supported by Science, Education and Health, 
+Youth Science and Technology Project of Suzhou City (grant nos 
+KJXW2018007); Project of Taizhou Polytechnic College (grant nos 
+TZYKY-19-20, TZYKY-19-12); Science and Technology Development 
+Plan Project of Suzhou City (grant nos SYS2019043 and SYS2018035).
+Declarations 
+Conflict of interest  The aut hors declare that they have no conflict of 
+interest.
+Open Access
+ This ar
+ticle is licensed under a Creative Commons Attri-
+bution 4.0 International License, which permits use, sharing, adapta-
+tion, distribution and reproduction in any medium or format, as long 
+as you give appropriate credit to the original author(s) and the source, 
+provide a link to the Creative Commons licence, and indicate if changes 
+were made. The images or other third party material in this article are 
+included in the article’s Creative Commons licence, unless indicated 
+otherwise in a credit line to the material. If material is not included in 
+the article’s Creative Commons licence and your intended use is not 
+permitted by statutory regulation

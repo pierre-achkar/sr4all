@@ -1,0 +1,168 @@
+).
+47. Mantel, N. & Haenszel, W . Statistical aspects of the analysis of data from retrospective studies of disease. J Natl Cancer Inst. 22, 
+719–748 (1959).
+48. DerSimonian, R. & Laird, N. Meta-analysis in clinical trials. Control Clin Trials. 7, 177–188 (1986).
+49. Egger, M., Davey Smith, G., Schneider, M. & Minder, C. Bias in meta-analysis detected by a simple, graphical test. Bmj  315, 
+629–634 (1997).
+50. Duval, S. & Tweedie, R. Trim and fill: A simple funnel-plot-based method of testing and adjusting for publication bias in meta-
+analysis. Biometrics 56, 455–463 (2000).
+51. Sutton, A. J., Duval, S. J., Tweedie, R. L., Abrams, K. R. & Jones, D. R. Empirical assessment of effect of publication bias on 
+meta-analyses. Bmj 320, 1574–1577 (2000).
+52. Freixinet, J. Surgical indications for treatment of pulmonary tuberculosis. World J Surg.  21, 475–479 (1997).
+
+[W2187322447 PDF PAGE 10]
+www.nature.com/scientificreports/
+10
+Scientific  RepoRts  | 5:17382 | DOI: 10.1038/srep17382
+53. Grimwood, K., Bell, S. C. & Chang, A. B. Antimicrobial treatment of non-cystic fibrosis bronchiectasis. Expert Rev Anti Infect 
+Ther. 12, 1277–1296 (2014).
+54. Feldman, C. Statins for non-cystic fibrosis bronchiectasis. Lancet Respir Med . 2, 431–432 (2014).
+55. Lee, A. L. et al. The short and long term effects of exercise training in non-cystic fibrosis bronchiectasis–a randomised controlled 
+trial. Respir Res. 15, 44 (2014).
+Acknowledgements
+This work was financially supported by grants of the National Science Foundation of China 
+[NSFC81170003, 81370109]; Projects from STCSM [12PJD004, 134119a6400 and 13SG21]. We would 
+like to thank Eli Finkelsztein, currently at Weill Cornell Medical College, for critically proof of the 
+manuscript.
+Author Contributions
+J.F .X. conceived the idea for the manuscript. L.C.F . and S.L. carried out database search and study 
+selection. L.C.F . did the data extraction and analysis with assistance from S.L., H.W .L. and K.F . J.F .X. 
+and L.C.F . wrote the first draft of the manuscript. All authors had full access to all the data in the study 
+and take responsibility for the integrity of the data. All authors read and approved the final manuscript.
+Additional Information
+Supplementary information accompanies this paper at http://www.nature.com/srep
+Competing financial interests: The authors declare no competing financial interests.
+How to cite this article: Fan, L.-C. et al. Efficiency and safety of surgical intervention to patients with 
+Non-Cystic Fibrosis bronchiectasis: a meta-analysis. Sci. Rep. 5, 17382; doi: 10.1038/srep17382 (2015).
+This work is licensed under a Creative Commons Attribution 4.0 International License. The 
+images or other third party material in this article are included in the article’s Creative Com-
+mons license, unless indicated otherwise in the credit line; if the material is not included under the 
+Creative Commons license, users will need to obtain permission from the license holder to reproduce 
+the material. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
+
+END REVIEW W2187322447
+
+
+REVIEW W2289880082
+TITLE: Graviola: A Systematic Review on Its Anticancer Properties
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W2289880082 PDF PAGE 1]
+American Journal of Cancer Prevention, 2015, Vol. 3, No. 6, 128-131 
+Available online at http://pubs.sciepub.com/ajcp/3/6/5 
+© Science and Education Publishing 
+DOI:10.12691/ajcp-3-6-5 
+ 
+Graviola: A Systematic Review on Its Anticancer 
+Properties  
+Patrikios Ioannis*, Stephanou Anastasis, Yiallouris Andreas 
+School of Medicine, European University Cyprus, Nicosia, Cyprus 
+*Corresponding author: i.patrikios@euc.ac.cy 
+Abstract  There has been an  enormous interest in the literature that phyto -compounds have therapeutic and 
+beneficial effects in various diseases including inflammatory associated arthritis, diabetes, hypertension, parasitic 
+infections, and cancer. The leaves from the tropical tree A nnona Muricata, also known as Graviola have been 
+reported to have positive and effective properties against many of the above mentioned diseases. Cancer still remains 
+the number one killer in the Western nations and most treatments for th e disease rely on the use of chemotherapy 
+that utilizes drugs that are also toxic against normal healthy cells. Thus, an alternative approach to anti -cancer 
+therapies should involve the determination of novel drug targets that must be highly effective and specific against 
+cancer development and growth. Additionally, the new generation novel drugs should be non-toxic to the host cells 
+and affordable for the patients.  This review summarizes the recent findings on the effects of Graviola tree extract as 
+a novel anti-cancer agent for the treatment and prevention of cancers; a possible natural anti-cancer candidate agent 
+in line with all the attributes pointed above. 
+Keywords: cell death, apoptosis, necrosis, Graviola, anti-cancer agents, cancer, tumor 
+Cite This Article:  Patrikios Ioannis, Stephanou Anastasis, and Yiallouris Andreas, “Graviola: A Systematic 
+Review on Its Anticancer Properties.” American Journal of Cancer Prevention, vol. 3, no. 6 (2015): 128-131. doi: 
+10.12691/ajcp-3-6-5. 
+1. Natural Extracts against Cancer 
+Natural Plant extracts have been used for centuries by 
+many cultures and civilizations as a basis for treating 
+various diseases. More than 80% of the global population 
+now depends on natural plant extracts through traditional 
+therapies. [1,2,3] Recent investigators have focused on the 
+progression, treatment and prevention of cancer with such 
+compounds but room for improvement still remains. 
+To date, the use of conventional synthetic chemotherapeutic 
+drugs lack the properties to be considered as effective 
+therapeutic agents, with most of those associated with 
+severe side effects and toxicity of  the normal host cells. 
+Whereas an alternative therapeutic approach that uses 
+natural plant extracts is  advantageous vs conventional 
+therapy with limited side effects.  
+ One of the first systematic approaches was carried out 
+in 1950 with the vinca alkaloids (vinblastin and vincristine) 
+discovery, isolated from the Catharanthus roseus G. Don. 
+(Apocynaceae) followed by a number of effective extracts 
+such as Triptolide (Tripterigium wilfordii), Amygdalin 
+(B12), Achyranthes aspera Linn. (Family-Amaranthaceae) 
+etc [4,5,6]. 
+2. Graviola History 
+Graviola belongs to  Annonaceae family, Annona genus 
+and muricata species. Grav iola is a fruit tree with many 
+uses in traditional and alternative medicine. Graviola, 
+soursop, guanábana, guanábano, guanavana, guanaba, 
+corossol épineux, huanaba, toge-banreisi, durian benggala, 
+nangka blanda, cachiman épineux  are altering names for 
+this evergreen plant that is mostly distributed in tropical 
+and subtropical regions of the world.  Graviola is a heart 
+shaped edible fruit and together with its leaves, root and 
+seeds is known to have beneficial properties in alternative 
+medicine [7].  
+The fruits of Graviola are extensively used to make 
+candies, syrups, ice creams, shakes and beverages. A wide 
+range of ethno -medicinal activities in Africa and South 
+America extensively use this plant in their conventional 
+medicine. A number of laboratories have reported 
+Graviola’s for its benifical actions against anticonvulsant, 
+antiparasitic, anti-arthritic, antimalarial, antidiabetic 
+hepatoprotective and andicancer activities. Biological and 
+chemical characterization studies ind icate that 
+annonaceous acetogenins are the main ingredients of 
+Graviola [8,9,10].  
+Nowadays more than 100 annonaceous acetogenins that 
+are generally characterized as a family of natural products 
+with antitumor activities, fr om roots, leaves, barks, fruits 
+and seeds of Graviola have been widely used in alternative 
+medicine for many purposes. In the Peruvian Andes for 
+example, the Graviola leaves are used to combat parasites 
+and treat diabetes. In the Brazilian Amazon the leave s 
+were used to treat liver problems and the leave –  extracted 
+oil is believed to help with rheumatism, neuralgia and 
+arthritis. In the Eastern Andes and Jamaica, Haiti the juice 
+of Graviola was used to stop diarrhea, used as muscle 
+relaxant and lower the intestinal acidity [11-15].  
+
+[W2289880082 PDF PAGE 2]
+129 American Journal of Cancer Prevention  
+ 
+Other reports have demonstrated that Graviola has a 
+number of biological activities such as antifungal, anti -
+bacterial, anti -malarial and antioxidant. Furthermore, it 
+has been showed to have  anti-cancer properties on multi -
+drug resistant cancer cell lines . [16,17,18,19,20] The 
+ability of Graviola to have selective growth inhibition 
+against a variety of cancer cells including lung carcinoma 
+cell lines, breast solid tumor lines, prostate 
+adenocarcinoma, pancreatic carcinoma cell lines, colon 
+adenocarcinoma cell lines, liver cancer cell lines, human 
+lymphoma cell lines, and multi -drug resistant human 
+breast adenocarcinoma will be discussed based on 
+previously published data [21,22,23,24,25,26]. 
+2.1. Composition 
+Graviolas fruit  flesh consists of 80% water, 1% protein, 
+18% carbohydrates and small amount of vitamins B, B2, 
+C, potassium and dietary fiber. [27,28] The main group, 
+annonaceous acetogenin, is a unique set of derivatives of 
+C35 or C37 long chain fatty acids derived from the 
+polyketide pathway ( Figure 1 ). The annonaceous 
+acetogenins found in Graviola include Annocatalin, 
+annohexocin, annomonicin, annomontacin, annomuricatin 
+A & B, annomuricin A thruE, annomutacin, annonacin, 
+annonacinone, annopentocin A thru C, cis-annonacin, cis-
+corossolone,cohibin A thru D,  corepoxylone, coronin, 
+corossolin, corossolone, donhexocin, epomuricenin A & 
+B,gigantetrocin, gigantetrocin A & B, gigantetrocinone, 
+gigantetronenin, goniothalamicin, iso -annonacin, javoricin, 
+montanacin, montecristin, muracin A thru G, 
+muricapentocin, muricatalicin,muricatalin, muri -catenol, 
+u

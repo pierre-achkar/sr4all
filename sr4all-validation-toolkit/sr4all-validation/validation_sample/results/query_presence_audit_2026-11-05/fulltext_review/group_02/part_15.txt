@@ -1,0 +1,183 @@
+oints to an anti-inﬂammatory action via the kynurenic
+acid pathway. Strong suggestions as to the causal rela-
+tionship between inﬂammation and depression/suicidality
+has come from studies demonstrating that cytokines [ 30,
+31] and interferon-b [32] induce depression and suicidality.
+Other recent studies have added to the notion of implicat-
+ing brain immune activation in the pathogenesis of suici-
+dality. For instance, one study showed microglial
+activation of postmortem brain tissue in suicide victims
+[33]. Another study found increased levels of the cytokine
+interleukin-6 in cerebrospinal ﬂuid from patients who had
+attempted suicide [ 34]. Higher levels of inﬂammatory
+markers have been shown in suicidal patients than in non-
+suicidal depressed patients [ 33, 35]. Inﬂammation leads to
+production of both quinolinic acid (an NMDA agonist) and
+kynurenic acid (a NMDA antagonist). An increased
+quinolinic acid to kynurenic acid ratio leads to NMDA
+receptor stimulation. The correlation between quinolinic
+acid and Suicide Intent Scale scores indicates that changes
+in glutamatergic neurotransmission could be speciﬁcally
+linked to suicidality [ 36].
+Small randomized controlled trials have demonstrated
+the efﬁcacy of ketamine in rapidly treating patients with
+both TRD and/or bipolar depression [ 4, 8, 9, 11, 16–18].
+Some studies have also examined suicide items as a sec-
+ondary measure in their depression rating scales [ 4, 7]. In
+total, the studies examining ketamine and TRD have nearly
+consistently demonstrated that ketamine provides relief
+from depressive and suicidal symptoms, starting at 40 min
+and lasting for as long as 5 days. Questions still remain as
+to the long-term effects of this treatment, how much should
+be administered and how often, any serious adverse effects,
+and the mechanism of action.
+Pharmacologically, ketamine has poor bioavailability
+and is best administered via injection [ 37]. In their land-
+mark study, Berman et al. [ 4] found that a subanesthetic
+dose (0.5 mg/kg) rapidly improved depressive symptoms.
+Most of the subsequent studies have delivered ketamine as
+a constant infusion for 40 min at a rate of 0.5 mg/kg.
+Others have examined its efﬁcacy after multiple infusions
+and observed similar results [ 8, 13, 16, 38]. Currently, it is
+recommended that ketamine be administered in a hospital
+setting [39].
+Ketamine is considered to be a safe compound; how-
+ever, it is not without its side effects. Some studies have
+reported symptoms of dissociation and hallucinations,
+although these are usually transient [ 7, 14, 18]. A recent
+study of ketamine administration in 10 patients with
+obsessive–compulsive disorder reported an increase in
+anxiety and suicidal thoughts in two patients [40]. Notably,
+these patients had extensive psychiatric comorbidity, and
+these ﬁndings have not been duplicated. Another potential
+concern is the long-term effects of ketamine. Studies
+Ketamine for Suicidal Ideation 41
+
+[W2126798879 PDF PAGE 6]
+regarding outcomes associated with long-term ketamine
+use are sparse. The current literature refers to patients who
+have abused ketamine as a recreational drug. In this
+population, the long-term consequences have not been
+described, but it is clear that further studies are needed in
+this area [ 3].
+The weaknesses of this review include possible bias in
+the way in which studies were selected for inclusion—
+including publication and selection bias. The literature is
+limited on this topic, as we have noted in this review.
+However, this review includes recent data from several
+randomized controlled trials, including one recent double-
+blind placebo-controlled trial. These trials were conducted
+by different groups and demonstrated similar ﬁndings. It
+must also be noted that differences in patient populations
+were not explored among the papers cited in this review.
+Some aspects of the efﬁcacy of ketamine may be dependent
+on patient age, race, gender, etc., as evidenced by the
+differences in effect sizes noted among the studies, even
+when they used the same dosages and the same measure-
+ment tools. Larger studies with greater numbers of patients
+are needed to assess this further.
+There are still several questions that need to be answered
+if standard clinical use of ketamine as an agent for treatment
+of SI is to be deﬁnitively pursued. Further studies are needed
+to better identify the best dose and delivery method of
+ketamine. Studies should speciﬁcally be conducted to assess
+SI as the primary, not secondary, outcome. Studies are also
+needed to further characterize the long-term beneﬁts (if any)
+and the long-term risks/adverse effects, especially the abuse
+potential [41]. Also, there are no data on prevention of sui-
+cide attempts or death by suicide. More information is also
+warranted to gain a better understanding of the mechanism of
+action of ketamine. This information could provide guidance
+for further drug development, as well as further insight into
+the pathogenesis of suicidality. Additionally, the exploration
+of compounds that function similarly to ketamine warrants
+attention. One of these compounds may be scopolamine, an
+antagonist at cholinergic muscarinic receptor sites. Studies
+have demonstrated effective resolution of depressive
+symptoms within 3 days of treatment with scopolamine in
+some patients [42]. Also, the metabolite norketamine, which
+may be a possible player in the antidepressant and/or
+antisuicidal effect of ketamine [ 43, 44], deserves further
+research. Investigations into ketamine and other promising
+agents for emergent treatment of suicidality merit further
+research and replication in larger studies, in addition to fur-
+ther understanding of the mechanism of action. It should be
+noted that although NMDA antagonism has been proposed as
+the primary mechanism of action, some researchers have
+questioned that and raised the possibility that its stimulant
+action or opiate agonism might be more important than is
+currently appreciated [41].
+5 Conclusion
+There is early preliminary evidence not only for the an-
+tidepressant action but also for the rapid antisuicidal action
+of ketamine. Further research is needed to achieve better
+understanding of the mechanism of action and the most
+appropriate route of administration, to better deﬁne dosing,
+and to examine the long-term adverse effects (including
+abuse potential) and beneﬁts of ketamine, while exploring
+potential similar medications that might provide better side
+effect proﬁles, or that are more easily administered, in
+larger double-blind randomized clinical trials.
+Acknowledgments There are no conﬂicts of interest relevant to this
+report. In addition, no funding source was used in relation to this
+review.
+Open Access This article is distributed under the terms of the
+Creative Commons Attribution Noncommercial License which per-
+mits any noncommercial use, distribution, and reproduction in any
+medium, provided the original author(s) and the source are credited.
+References
+1. Elliott E, et al. Ketamine anaesthesia for medical procedures in
+children. Arch Dis Child. 1976;51(1):56–9.
+2. Hoyer C, et al. Impact of the anesthetic agents ketamine, eto-
+midate, thiopental, and propofol on seizure parameters and sei-
+zure quality in electroconvulsive therapy: a retrospective study.
+Eur Arch Psychiatry Clin Neurosci. 2014;264(3):255–61.
+3. Salvadore G, Singh JB. Ketamine as a fast acting antidepressant:
+current knowledge and open questions. CNS Neurosci Ther.
+2013;19(6):428–36.
+4. Berman RM, et al. Antidepressant effects of ketamine in
+depressed patients. Biol Psychiatry. 2000;47(4):351–4.
+5. Ibrahim L, et al. A Randomized, placebo-controlled, crossover
+pilot trial of the oral selective NR2B antagonist MK-0657 in
+patients with treatment-resistant major depressive disorder. J Clin
+Psychopharmacol. 2012;32(4):551–7.
+6. Ibrahim L, et al. Rapid decrease in depressive symptoms with an
+N-methyl-D-aspartate antagonist in ECT-resistant major depression.
+Prog Neuropsychopharmacol Biol Psychiatry. 2011;35(4):1155–9.
+7. Zarate CA Jr, et al. Replication of ketamine’s antidepressant
+efﬁcacy in bipolar depression: a randomized controlled add-on
+trial. Biol Psychiatry. 2012;71(11):939–46.
+8. Murrough JW, et al. Antidepressant efﬁcacy of ketamine in
+treatment-resistant major depression: a two-site randomized
+controlled trial. Am J Psychiatry. 2013;170(10):1134–42.
+9. Katalinic N, et al. Ketamine as a new treatment for depression: a
+review of its efﬁcacy and adverse effects. Aust N Z J Psychiatry.
+2013;47(8):710–27.
+10. De Gioannis A, De Leo D. Oral ketamine augmentation for
+chronic suicidality in treatment-resistant depression. Aust N Z J
+Psychiatry. 2014;48(7):686.
+11. Price RB, et al. Effects of ketamine on explicit and implicit
+suicidal cognition: a randomized controlled trial in treatment-
+resistant depression. Depress Anxiety. 2014;31(4):335–43.
+12. Ballard ED, et al. Improvement in suicidal ideation after keta-
+mine infusion: relationship to reductions in depression and
+anxiety. J Psychiatr Res. 2014;58:161–6.
+42 L. Reinstatler, N. A. Youssef
+
+[W2126798879 PDF PAGE 7]
+13. Harihar C, Dasari P, Srinivas JS. Intramuscular ketamine in acute
+depression: a report on two cases. Indian J Psychiatry.
+2013;55(2):186–8.
+14. Zigman D, Blier P. Urgent ketamine infusion rapidly eliminated
+suicidal ideation for a patient with major depressive disorder: a
+case report. J Clin Psychopharmacol. 2013;33(2):270–2.
+15. Larkin GL, Beautrais AL. A preliminary naturalistic study of
+low-dose ketamine for depression and suicide ideation in the
+emergency department. Int J Neuropsychopharmacol. 2011;14(8):
+1127–31.
+16. Price RB, et al. Effects of intravenous ketamine on explicit and
+implicit measures of suicidality in treatment-resistant depression.
+Biol Psychiatry. 2009;66(5):522–6.
+17. DiazGranados N, et al. Rapid resolution of suicidal ideation after
+a single infusion of an N-methyl-D-aspartate antagonist in
+patients with treatment-resistant major depressive disorder. J C

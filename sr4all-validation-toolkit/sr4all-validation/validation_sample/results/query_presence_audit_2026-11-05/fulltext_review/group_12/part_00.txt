@@ -1,0 +1,185 @@
+
+
+REVIEW W2895430592
+TITLE: Effect of garlic (Allium sativum) on male fertility: a systematic review
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W2895430592 PDF PAGE 1]
+Journal of Herbmed Pharmacology
+J Herbmed Pharmacol. 2018; 7(4): 306-312.
+Effect of garlic (Allium sativum) on male fertility: a systematic 
+review
+Hadis Musavi1 ID , Malihe Tabnak2, Farzaneh Alaei Sheini3, Maryam Hasanzadeh Bezvan4, Fardin Amidi5, Mojtaba 
+Abbasi6* ID
+1Department of Biochemistry, Faculty of Basic Science, Razi University Kermanshah, Kermanshah, Iran
+2Department of Basic Sciences, East Tehran Branch, Islamic Azad University, Tehran, Iran
+3Department of Biology, Shahrekord Branch, Islamic Azad University, Shahrekord, Iran
+4Department of Microbiology, Shahr-e-Qods Branch, Islamic Azad University, Tehran, Iran
+5Department of Anatomy, School of Medicine, Tehran University of Medical Sciences, Tehran, Iran
+6Veterinary Medicine, Faculty of Veterinary Medicine, Shahrekord Branch, Islamic Azad University, Shahrekord, Iran
+*Corresponding author: Mojtaba Abbasi, Tel: +989131852230, Email:
+Dr_Abbasi_m@yahoo.com
+Implication for health policy/practice/research/medical education:
+This article presented useful information about garlic, especially on fertility and reproduction system which could help 
+pharmacists and scientists in the provision of new drugs.
+Please cite this paper as:  Musavi H, Tabnak M, Alaei Sheini M, Hasanzadeh Bezvan M, Amidi F, Abbasi M. Effect of garlic 
+(Allium sativum) on male fertility: a systematic review. J Herbmed Pharmacol. 2018;7(4):306-312.   doi: 10.15171/jhp.2018.46.
+Introduction: Fertility in men mainly depends on the number, quality, motility, and 
+morphology of the sperms, and disruption of each of these factors leads to infertility. A large 
+number of couples suffer from infertility problems. Among the various therapies, medicinal 
+herbs are used in many countries to treat male infertility. Current systematic review was 
+conducted to study the effects of garlic on male fertility.
+Methods: The information of this systematic review was collected by searching the key words: 
+treatment, fertility, infertility, male, herbal medicine, garlic, Allium sativum, medicinal plant, 
+sperm, sex hormones, testis and spermatogenesis in international databases such as: Web of 
+Science (ISI), PubMed, Scopus and Embase until March 2018. This study was conducted in 
+accordance with the PRISMA statement for systematic reviews and meta- analysis. and the 
+SYRCLE risk of bias tool was used for qualitative assessment.
+Results: A total of 18 experimental studies were included in the study. Thirteen studies 
+evaluated garlic and 5 studies compared garlic effect with adriamycin, titanium dioxide, furan, 
+vitamin E, N-acetylcysteine and cadmium. All studies were conducted in in vivo condition. 
+The results of the studies indicated the potential effect of garlic on enhancing fertility and 
+spermatogenesis, increasing the level of testosterone and improving the testicular structure.
+Conclusion: Garlic can increase fertility probably due to its antioxidant properties. However, 
+more clinical trials are recommended.
+A R T I C L E  I N F O
+Keywords:
+Garlic
+Allium sativum
+Fertility
+Infertility
+Spermatogenesis
+Medicinal plants
+Article History:
+Received: 7 March 2018 
+Accepted: 10 September 2018
+Article Type:
+Review
+A B S T R A C T
+Introduction
+Failure to have a child is an unpleasant event in the lives of 
+infertile people (1). Inability to become pregnant after one 
+year of regular intercourse, without using contraception, 
+is defined as infertility (2). About 30%-50% of the causes 
+of infertility are related to male problems ( 3). Each 
+day, the number of medical reports about the extent of 
+infertility in the world increases, according to a systematic 
+review in this regard, about 48.5 million couples around 
+the world affected by this problem (4). The total mean 
+of infertility in Iran is estimated about 11%-19%, which 
+is more in the age group of 20-39 years ( 5). Infertility is 
+a multi -parameter phenomenon with a wide range of 
+factors that affects spermatogenesis and sperm quality 
+(6). Spermatogenesis is a process in which male sex cells 
+are produced and the disorder in each of these stages 
+can cause infertility (7). Fertility in men depends largely 
+on the number, quality, motility, and morphology of the 
+sperm, and the disruption of each of these factors leads 
+to infertility in men (3). Infertility, as a psychological 
+crisis, imposes a lot of stress on infertile couples and in 
+different ways threatens their mental health. The most 
+http://www.herbmedpharmacol.com doi: 10.15171/jhp.2018.46
+
+
+[W2895430592 PDF PAGE 2]
+Journal of Herbmed Pharmacology, Volume 7, Number 4, October 2018http://www.herbmedpharmacol.com 307
+Effect of garlic on male fertility: a systematic review 
+emotional and psychological problems of infertile couples 
+are disappointment, frustration, fear and anxiety, and are 
+less associated with anger and aggression. However, the 
+rate of divorce and remarriage among infertile couples 
+has risen. In addition to mental problems, the economical 
+treatment of infertility imposes a relative high cost on 
+infertile couples ( 8). 
+Nowadays, various methods are used to treat infertility, 
+including: hormone therapy, surgical procedures, assisted 
+reproductive technology (ART) that include  in vitro 
+fertilization (IVF), intra uterine insemination (IUI), zygote 
+intrafallopian transfer (ZIFT), gamete intrafallopian 
+transfer (GIFT), intracytoplasmic sperm injection (ICSI) 
+and third-party fertilization (donation eggs, donation 
+sperm, uterus, and donated embryos) ( 9).
+ART is one of the costly treatments among infertile 
+couples, but many people are not able to do so because 
+financial problems, and surgical procedures have a 
+lot of stress and complications for the family, and in 
+addition they are expensive ( 8). Hormone therapy is 
+also prohibited in some people, and in many people 
+with impaired hypothalamic-pituitary-gonadal axis 
+function, this treatment is not responsive therefore, due 
+to individual and social problems caused by infertility, 
+couples always try to find low-cost, safe and effective 
+treatments (10). Regarding the problems that have been 
+observed among couples and the high costs of medical 
+interventions, people have turned to complementary 
+medicine ( 11). Among different therapeutic methods, 
+herbs are used in many countries to treat male infertility 
+(1,12,13). Plants are more affordable and accessible than 
+invasive and chemical treatments ( 14). Medicinal herbs 
+with high antioxidant properties are used to treat sperm 
+abnormalities, sexual dysfunction, erectile and ejaculatory 
+disorders ( 1,15). Among the plants that improve male 
+fertility, celery (16), fennel (17), black seed ( 18), German 
+chamomile ( 19), saffron ( 20), Fumaria parviflora  ( 21), 
+Origanum vulgare (22) and carrot (23) can be mentioned. 
+Some plants change the number and motility of the sperm 
+by changing sex hormones. Other plants with androgenic 
+properties affect the hypothalamus-pituitary axis and 
+increase sex hormones ( 24). Garlic with its antioxidant 
+properties, have been shown to increase the weight of the 
+epididymis, seminal vesicles and increases the number of 
+sperms ( 25). Garlic is one of the most potent and most 
+prominent species of plants, which is a part of the onion 
+family (7). Garlic has been known since 5000 years ago. In 
+ancient times, Babylonians, Egyptians, Vikings, Chinese, 
+Greeks, Romans and Hindus used garlic (26). In 3000 BC 
+garlic was used for heart disease, arthritis, uterine disease, 
+pulmonary disease, skin diseases, diarrhea, headache, 
+wound healing and tumor (27,28). It is native to Western 
+Asia, also found in most regions of Iran, especially in the 
+northern regions (29). The perennial plant, has a height of 
+100-300 cm, has flowers in pink or green ( 16). It is used 
+commonly as a medicinal herb and food flavor, and it is one 
+of the herbs that have a long history of medical uses (30).  
+Garlic contains many compounds, including vitamins B2, 
+B6, B1, A and C, a lot of antioxidants, flavonoids, sulfur 
+compounds and allicin ( 7). Allicin (dialkly thiosulfinate) 
+plays a key role in the garlic medicinal properties, 
+however, this compound is not found in fresh garlic, and 
+made by action of allinase on alliin ( S-alkyl-l-cysteine 
+sulfoxide). Ajoene is another important compound in 
+garlic ( Figure 1) ( 31). Garlic protects the liver and has 
+anticholesterolemic, antithrombotic, antihypertensive and 
+antimicrobial activity (30), and consumption of garlic acts 
+like insulin receptor and reduces glucose levels in diabetic 
+patients (3). Solving infertility problem is a fundamental 
+issue in every community’s health system. Considering 
+the complications and limitations of chemical drugs and 
+surgical procedures, and according to the mentioned 
+therapeutic effects of garlic, this systematic review was 
+conducted to investigate the effects of garlic on male 
+fertility.
+Methods
+Study protocol
+Current systematic review was reported in accordance 
+with PRISMA (Preferred Reporting Items for Systematic 
+Reviews and Meta-analyses) guidelines (32). In this study, 
+the search process was done aimed to find studies in 
+English without time limitations.
+Search strategy
+Data were collected by searching the key words: treatment, 
+fertility, infertility, male, herbal medicine, garlic, medicinal 
+plant, sperm, sex hormones and spermatogenesis in 
+international databases such as: Web of Science (ISI), 
+PubMed, Scopus and Embase until March 2018.
+Inclusion criteria
+- To conduct experimental studies or clinical trials
+- Randomization in studies
+- Evaluation of fertility, spermatogenesis or male sex 
+hormones
+- Mentioning of ethical considerations in articles
+Figure 1: The main compounds of garlic.
+
+[W2895430592 PDF PAGE 3]
+Journal of Herbmed Pharmacology, Volume 7, Number 4, October 2018            

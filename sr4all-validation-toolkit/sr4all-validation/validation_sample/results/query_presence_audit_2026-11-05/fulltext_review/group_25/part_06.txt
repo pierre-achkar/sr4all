@@ -1,0 +1,207 @@
+stand the bur-
+den of the disease on working age group [12]. The authors 
+determined that women of working age were just as likely 
+as men to develop KSD. All the analysis carried out by 
+the separate groups consistently reported that amongst 
+adolescent females, the rate of increase was the greatest. 
+Hsi et al. performed analysis of data from a prospective 
+sample, the South Community Cohort Study, which also 
+has confirmed the rise in female KSD [13].
+In another retrospective review, Masterson et al. looked 
+at over half a million Navy personnel and found the inci-
+dence of KSD in women was in fact higher than men (OR 
+1.17, p 
+<
+ 
+0.0001) [14]. Given the strict medical work up 
+required in this area of work, to ensure safe flight status, 
+this analysis included a large number of asymptomatic 
+stones. It has been postulated that this may be one of the 
+explanations why the rising trend is seen in the female 
+population. Indeed, recent follow up data made availa-
+ble from the Olmsted County study reveals that women 
+were more likely to be asymptomatic stone formers [15]. 
+Vaughan et al. reviewed nearly 5000 stone episodes at a 
+US centre and found that compared to women, men were 
+significantly more likely to have a symptomatic recurrence 
+following their initial presentation with stones (HR 1.25, 
+p 
+=
+ 
+0.002) [16].
+Quality of Life
+As part of the evolution for patient centred and holistic 
+care, an increasing number of studies now include quality 
+of life (QoL) as an outcome measure [17]. Four recent 
+studies were identified, which explored this theme [18–21]. 
+Stern et al. evaluated data from the North American Stone 
+Quality of Life Consortium and found that younger, stone 
+patients tolerated stone events less favourably than men 
+[18]. Younger women had a significantly lower health-
+related quality of life (HRQoL) scores compared to older 
+men (OR 1.56, p =
+ 0.0003). Mor
+eover, this difference was 
+consistent across all four domains measured (social func-
+tioning, stone related impact, vitality and emotional func-
+tioning). This would be consistent with recent data from a 
+study by Maccraith et al., which recorded that this group 
+was most likely to have a re-admission to the emergency 
+department after ureteroscopy (URS) [19]. Patel et al. car-
+ried out a survey to explore the impact of KSD on QoL and 
+recorded a worsening trend in females under 40 years of 
+age [20]. Previous evidence has shown that KSD impacts 
+more negatively on care givers than primary income earn-
+ers, and some author groups have speculated that this may  
+offer some explanation to the above findings [18]. Islamoglu  
+evaluated the role of menopause on pain experienced  
+during shockwave lithotripsy (SWL) and reported women 
+post menopause to have significantly lower pain scores 
+than younger women (p 
+<
+ 
+0.001) [21].
+50   Page 2 of 8 Current Urology Reports (2021) 22: 50
+
+[W3203514247 PDF PAGE 3]
+1 3
+T
+able
+ 
+1
+  Summar
+y of included studies with key findings from it
+Author/year Level of 
+evidence
+Sample size Key finding
+Gender gap
+Abufaraj/2020 [10] IIb 34,749 Increasing numbers of previous pregnancies, menopause and female hormone use 
+increases the risk of stone formation
+Vaughan/2019 [16] IIb 3364 Men significantly more likely to have symptomatic recurrence
+Hsi/2018 [13] IIb 42,136 Prevalence of KSD among female has risen
+Masterson/2017 IIb 667,840 Incidence of KSD higher among female navy personnel
+Tundo/2018 [11] IIb 16,658 Women of working age were just as likely as men to develop KSD
+Chen/2019 [12] IIb NR Prevalence of KSD among female has risen
+Kittanamongkolchai/2018 [15] IIb NR Women are more likely to be asymptomatic stone formers
+Quality of life
+Stern/2019 [18] IIb 2052 Quality of life in women is more negatively impacted by stones than in men
+Macraith/2020 [19] III 142 Young women most likely to be re-admitted to ED post-URS
+Patel/2017 [20] III 103 Women under 40 are most adversely affected by KSD on quality of life
+Islamoglu/2019 [21] III 145 Young women most likely to experience SWL-related pain
+Role of hormones
+Nackeeran/2020 [24] IIb 10,193 No correlation between abnormal sex hormone levels and KSD
+Peerapen/2019 [22] III – In canine renal tissue, oestrogen reduces expression of calcium oxalate receptors, 
+reduces crystal-binding capacity and reduces intracellular ATP
+Zhu/2019 [23] III – In rodent models, oestrogen deprivation led to increased calcium oxalate deposition in 
+renal tissue and increased urinary oxalate excretion
+Xiao/2020 [26] IIb 7257 Female diabetics more protected from KSD by ACE inhibitors than male diabetics
+Stone composition
+Kravdal/2019 [27]IIb 1252 Men more likely to have calcium oxalate monohydrate stones; women more likely to 
+form carbonate apatite and struvite stones
+Wang/2020 [28] IIb 1532 Male stone formers younger and more likely to have metabolic disorders; female stone 
+formers more likely to have mixed stone composition and a history of UTI
+Wood/2019 [29] IIb 589 Male stone formers excrete more calcium and oxalate into their urine and have lower 
+urinary pH and higher rates of urine supersaturation with uric acid
+Post-intervention sepsis
+Southern/2019 [32]IIb 3298 Women are more likely to develop sepsis after ureteroscopy, and more likely to have 
+positive pre-operative urine cultures and infection stones
+Lorenzo Soriano/2019
+[33]
+IIb 203 Women are more likely to develop infectious complications after PCNL than men
+Díaz Pérez/2019 [35] III 246 Women are more likely to develop urosepsis after ureteroscopy than men
+Nevo/2017 [34] IIb 1256 Female gender is a risk factor for post URS sepsis
+Baboudijan/2020 [36] III 604 Female gender is a risk factor for post URS sepsis
+Özsoy/2015 [37] III 927 Female gender is a risk factor for post URS sepsis
+Wood/2020 [38] IIb 227 Female gender is a risk factor for post URS sepsis
+Paediatrics
+Schwaderer/2019 [43] III 136 Girls with stones were more likely to have a positive leukocyte esterase test, were sig-
+nificantly shorter and less likely to have biochemical evidence of volume depletion 
+than their male counterparts
+Taisan/2016 [42] IIb 152,925 Lifetime risk of developing KSD among females increased by 45% during study period
+Meiouiet/2019 [44] III 432 Majority of girls had calcium oxalate stones
+Seasonal variation
+Vicedo-Cabrera/2020
+[45]
+IIb 132,597 Men are disproportionately affected by increased ambient temperature than women
+Ordon/2016 [47] IIb 423,396 Men most likely to present with KSD in high ambient temperatures
+Fukuhara/2016 [48] III 491 Men most likely to present with KSD in high ambient temperatures
+Page 3 of 8    50Current Urology Reports (2021) 22: 50
+
+[W3203514247 PDF PAGE 4]
+1 3
+Role of Hormones
+It has been hypothesised that sex hormones may have a sig-
+nificant role in gender differences for KSD, and 5 studies 
+were identified which investigated this further [22–24, 26]. 
+Peerapen et al. investigated the effects of oestrogen in the 
+kidney [22]. They demonstrated that oestrogen (i) reduces 
+surface expression of two calcium oxalate crystal receptors, 
+(ii) reduces crystal binding capability and (iii) reduces intra-
+cellular ATP in renal tubular cells. These may all contribute 
+to a favourable environment within the kidney, thus reducing 
+the risk of stone formation in women of reproductive age. 
+Zhu et al. used rodent models to demonstrate that oestrogen 
+receptor knock-out mice and rats treated with an oestrogen 
+receptor antagonist had increased renal calcium oxalate 
+deposition and increased urinary oxalate excretion, and as 
+a result, the activity of oestrogen in healthy females may be 
+protective against KSD [23].
+Conversely, Nackeeran et al. examined the possible role 
+of sex hormones on the risk of stone formation by measuring 
+the testosterone and oestrogen levels in over 10,000 Ameri-
+can patients who self-reported a history of KSD [24]. They 
+concluded that abnormal testosterone levels (both high and 
+low) did not significantly increase the risk of stone forma-
+tion. They also found no correlation between low oestrogen 
+(in both genders) and KSD. However, given the timings of 
+the study, the sex hormone levels were likely measured after 
+some duration of the stone episode, so does not necessarily 
+represent the levels at the time of stone formation.
+There is some evidence to support a protective role of 
+ACE-inhibitors on stone formation [25]. Xiao et al. per -
+formed a cross-sectional analysis in order to investigate this 
+further amongst a population with type 2 diabetes melli-
+tus (DM) [26]. The protection achieved among women was 
+superior to men. This may be due to androgen-mediated cal-
+cium excretion in male kidneys counteracting the protection 
+derived from ACE inhibitors.
+Stone Composition
+Three studies were identified which investigated the 
+association of stone composition and gender [27–29]. 
+Kravdal et al. analysed a series of over 1250 stones col -
+lected at surgery from a Norwegian population [27]. They 
+found that men were more likely to have calcium oxa-
+late monohydrate stones than women (males, 57.3% vs 
+females, 47.1%, p <
+ 0.001), and w
+omen were more likely 
+to have carbonate apatite (females, 16.2% vs males, 7.8%, 
+p <
+ 0.001) and s
+truvite (females, 10.6% vs males, 3.0%, 
+p <
+ 0.001) s
+tones. Wang et al. performed a similar analy -
+sis of over 1500 stones collected at their tertiary centre 
+[28]. Women were more likely to have mixed composi-
+tion stones (females, 70.9% vs males, 57.0%, p  
+<
+ 
+0.001) 
+and more likely to have a history of urinary tract infection 
+(UTI) (females, 39.1% vs males, 35.7%, p 
+=
+ 
+0.042). They 
+also found that women were statistically more likely to 
+have renal as opposed to ureteric stones (females, 85.2% 
+vs males, 77.4%, p 
+<
+ 
+0.001).
+Wood et al. published an analysis of over 500 stone 
+patients who had 24-h urine collections performed [29]. This 
+showed that men excreted more calcium (mg/day) (males, 
+217.7 vs females, 180.1, p = 0
+.0002) and oxalate (mg/day) 
+(ma

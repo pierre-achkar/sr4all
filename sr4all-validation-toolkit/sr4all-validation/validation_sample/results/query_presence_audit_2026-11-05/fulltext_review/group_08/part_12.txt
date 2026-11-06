@@ -1,0 +1,195 @@
+
+median = 10 days) [14].
+Selph et al. reported that all authors who provided
+data did so by the third attempt, suggesting that
+repeated attempts to elicit studies or study data may be
+ineffective [16].
+Citation chasing
+The handbooks provide a brief overview of the method
+and list some of the tools commonly used [9, 10]. The
+studies typically evaluate the effectiveness of the tools
+used to undertake the search methods. Nine studies
+assessing the use of citation chasing were included [1 – 3,
+19– 24].
+What it is used for
+It is used for identifying further studies, and clusters or
+networks of studies, that cite or are cited by a primary
+study [10].
+What the evidence says
+Two studies provided detail on the application of the
+search method [1, 3]. The studies noted that backward
+citation searching is undertaken by reviewing bibliographies
+of relevant or included studies and forward citation chasing
+is undertaken by checking if a study, already known to be
+relevant, has since been cited by another study [1, 3].
+Three tools for electronic citation searching dominate
+the studies: Web of Science, Scopus and Google Scholar.
+The first two are subscription databases, and Google
+Scholar is presently free [19].
+Claimed advantages
+Four studies claimed that an advantage of citation chasing
+is that it is not limited by keywords or indexing as is bib-
+liographic database searching [2, 3, 20, 21]. Accordingly,
+four studies claimed the following advantages: Robinson
+et al. claimed that a small initial number of studies can
+create a network [21]; Hinde et al. claimed that citation
+searching can help inform researchers of parallel topics
+that may be missed by the focus of bibliographic database
+searches [2]; Janssens and Gwinn claimed that citation
+searching may be valuable in topic areas where there is no
+consistent terminology, so searches focus on links between
+studies rather than keywords [20]; and Papaioannou et al.
+reported that citation searching facilitated ‘serendipitous
+study identification ’ due to the unstructured nature of
+citations [3].
+One study appraised the quality of the studies identified
+through citation searching (and by other search methods)
+[3]. Papaioannou et al. reported that citation searching
+identified high-quality studies in their case study, although
+they do not define which quality appraisal tool was used
+to appraise study quality, so it is not clear if this observa-
+tion is empirically derived [3].
+Claimed disadvantages
+Three studies stated that citation searching is reliant on
+the currency, accuracy and completeness of the under-
+lying citation network [1, 21, 22]. Levay et al. identified
+‘linking lag ’, namely the delay between a study being cited
+and the citation being recorded in a citation database,
+which impacts on the currency of results [1]; Janssens and
+Gwinn stated that the accuracy and efficiency of citation
+searching depends on study authors citing studies, which
+means that selective citation of studies could cause
+relevant studies to be missed in citation searching [20];
+Robinson et al. reported limited returns from citation
+searching where ‘broken citation links ’ created ‘island’
+studies which makes for incomplete citation networks
+and study identification [21].
+Two studies questioned the efficiency of citation search-
+ing [2, 22]. Wright et al. screened 4161 studies to identify
+one study (yield rate of 0.0002) [22], and Hinde et al.
+screened 4529 citations to identify 76 relevant studies (yield
+rate of 0.0168) [2]. Wright et al. specifically recorded the
+time to undertake citation chasing in their study (discussed
+below in resource use), [22] whereas Hinde et al. did not
+report the time taken to search but state that the search
+was ‘very time consuming’[2].
+Two studies claimed that replicability of citation search-
+ing strategies could be affected by the choice of the tools
+used [1, 24]. Levay et al. questioned the replicability of
+Google Scholar, since search returns are controlled by
+Google’s algorithm, meaning that the results returned will
+change over time and cannot be replicated [1]. Bramer et
+al. found reproducibility of citation searching to be low,
+due to inaccurate or incomplete reporting of citation
+search strategies by study authors [24].
+Resource requirements
+Two studies recorded the time taken to citation search,
+and one study commented on the time needed [1, 3, 22].
+Cooper et al. Systematic Reviews  (2017) 6:234 Page 6 of 16
+
+[W2768314176 PDF PAGE 7]
+Levay et al. reported that citation searching the same 46
+studies in Web of Science and Google Scholar took 79 h
+(Web of Science = 4 h and Google Scholar 75 h) to iden-
+tify and de-duplicate 783 studies (Web of Science = 46
+studies and Google Scholar = 737 studies) [1]. Wright et
+al. reported that citation chasing the same 40 studies in
+Web of Science, Medline, Google Scholar and Scopus
+took 5 days in total (2 days to download 1680 results
+from Google Scholar; 1 day to download 2481 results
+from Web of Science, Scopus and Medline; and 2 days
+to screen all the studies) [22]. Both studies commented
+on the administrative burden of exporting studies from
+Google Scholar which accounted for the majority of time
+searching in both cases [1, 22]. Conversely, Papaioannou
+et al. claimed reference tracking and citation searching
+to be minimally time intensive, yielding unique and
+high-quality studies. The number of studies citation
+chased, the time taken to search and the tool used to
+appraise study quality were not reported [3].
+One study provided data on the costs involved in
+citation chasing [1]. Levay et al. reported that the staff
+time to search Web of Science for 4 h cost between £88
+and £136 and the 75 h to search Google Scholar cost
+between £1650 and £2550, based on staff grades ranging
+from £22 – £34 per hour (all UK Sterling: 2012) [1].
+Handsearching
+The handbooks focus on where to handsearch [9, 10], and
+they provide guidance on who should do this [9]. The
+studies have a similar focus but they have sought to evalu-
+ate effectiveness compared with other search methods
+[25– 28] as well as to evaluate the effectiveness and/or the
+efficiency of handsearchers in identifying studies [29, 30].
+Twelve studies were included [25 – 36].
+What it is used for
+It is used for ensuring the complete identification of studies
+or publication types that are not routinely indexed in, or
+identified by, searches of bibliographic databases, including
+recently published studies [10].
+What the evidence says
+Handsearching involves a manual, page-by-page, examin-
+ation of the entire contents of relevant journals, conference
+proceedings and abstracts [9, 10, 27, 31].
+Two handbooks and six studies provide detail on
+selecting journals to handsearch [9, 10, 25, 27, 30 – 33].
+Three strategies were identified, as set out below.
+Using databases (or database search results) to identify
+journals to handsearch The handbooks suggest that
+bibliographic databases can be used to identify which
+journals to handsearch [9, 10]. The Cochrane Handbook,
+with its focus on identifying studies reporting randomised
+controlled trails (RCTs), suggests that searches of The
+Cochrane CENTRAL database, MEDLINE and EMBASE
+can be used to identify journals that return the greatest
+number of studies by study design in the relevant topic
+area of research [9]. Variations of this approach to select-
+ing journals to handsearch were utilised in three studies
+[25, 30, 31]. The CRD Handbook suggests analysing the
+relevant results of the review ’s bibliographic database
+searches in order to identify journals that contain the
+largest number of relevant studies [10].
+Handsearching journals not indexed in bibliographic
+databases The Cochrane Handbook suggests that jour-
+nals not indexed in MEDLINE or EMBASE should be
+considered for handsearching [9]. A study by Blümle et al.
+considered this strategy necessary to obtain a complete
+search [32].
+Contacting experts to identify journals to handsearch
+Two studies contacted experts to develop a list of journals
+to handsearch [30, 31]. Armstrong et al. contacted organisa-
+tions to develop a list of non-i ndexed journals to handsearch
+(in addition to database searching), and Langham et al. used
+a combination of database sear ches, contacting organisa-
+tions and searches of library s helves to identity relevant
+journals (in addition to database searching) [30, 31]. A list of
+possible journals to handsearch was provided to professional
+contacts to appraise and identify any missing journals [30].
+Neither study specifically reports the number of journals
+identified by experts to handsearch, when compared to the
+number of journals to hands earch identified by database
+searching, and there is no discussion of the effectiveness of
+either method in identifying journals to handsearch.
+Five studies explored specifically where or which sections
+of a journal to handsearch [25, 27, 28, 31, 33]. A study by
+Hopewell et al. handsearched full reports, short reports,
+editorials, correspondence sections, meeting abstracts and
+supplements [27]. Hopewell et al. found that, of the 369
+reports uniquely identified by handsearching, 92% were
+abstracts and/or published in the supplement of journals
+[27]; two studies reported the greatest value in searching
+supplement editions of journals [28, 31], since these
+are not routinely indexed in databases [28]. Armstrong
+et al. identified three studies (out of 131) through
+searching supplement editions of journals [31], and
+Jadad et al. identified 162 eligible RCTs from a total of
+2889 abstracts reported in four journals [28]; Croft et
+al. claimed value in searching the correspondence sec-
+tion of journals but they did not record the effect of
+handsearching this section in terms of identification of
+studies [33]; and Adams et al. reported handsearching
+book reviews and identifying one study [25].
+Cooper et al. Systematic Reviews  (2017) 6:234 Page 7 of 16
+
+[W2768314176 PDF PAGE 8]
+Claimed advantages
+Table 3 summarises a claimed advantage o

@@ -1,0 +1,586 @@
+4. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 47]
+47 
+ 
+Zhang (2022)37 Autism 
+diagnosis, 
+specific 
+psychiatric 
+classifications, 
+physical 
+wellbeing 
+The sample 
+consisted of 
+3189 ANGI 
+individuals 
+diagnosed with 
+an eating 
+disorder, 134 of 
+whom were also 
+diagnosed with 
+autism. Of the 
+individuals 
+without autism, 
+1.9% was male 
+and mean birth 
+year was 
+1988.77 (5.54). 
+Of the 
+individuals with 
+autism, 5.2% 
+was male and 
+mean birth year 
+was 1989.04. 
+All participants 
+were Swedish. 
+Genetic ancestry 
+is not reported. 
+Plink. First 
+principal 
+components for 
+polygenic scores 
+built from 10 
+thresholds (p‐
+values: 5 x 
+10−8, 1 x 10−6, 
+1 x 10−4, 0.001, 
+0.01, 0.05, 0.1, 
+0.2, 0.5, 1) 
+Eating disorder 
+severity and 
+persistence, 
+eating disorder 
+treatment, 
+suicidal 
+behaviour and 
+self-harm. 
+Autism 
+diagnostic 
+status. 
+Sex and birth 
+year in 3 year 
+intervals, 10 
+PCs 
+The autism 
+polygenic score 
+was not 
+statistically 
+significantly 
+associated with 
+any ED 
+severity, 
+persistence, 
+and treatment 
+outcomes nor 
+suicidal 
+behaviour and 
+self-harm (OR 
+range: 0.79–
+1.02, β range: 
+−0.34–0.03, 
+IRR range: 
+0.82–1.06). 
+Autism 
+polygenic score 
+was not 
+associated with 
+autism 
+diagnostic status 
+(R2 = 0.0182) 
+FDR 
+General psychopathology 
+Gui (2022)60 Brain measures, 
+general 
+psychopatholog
+y, cognition and 
+The ABCD 
+sample 
+consisted of 
+4722 (2198 
+female, mean 
+Plink, Bayesian 
+approach, no 
+threshold 
+needed 
+Cognitive 
+measures: 
+ABCD: NIH 
+toolbox 
+(consisting of 7 
+Age, sex, 10 
+PCs 
+Cognitive 
+measures: 
+Autism 
+polygenic score 
+was not 
+FDR 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 48]
+48 
+ 
+executive 
+function 
+age = 9.91, SD 
+= 0.62). The 
+UKB sample for 
+intelligence 
+scores consisted 
+of  147175 
+participants 
+(78561 female, 
+mean age = 
+57.9, SD =8.23) 
+and 21523 
+(11180 female, 
+mean age = 
+63.84, SD 
+=7.47). ABCD 
+participants are 
+American and 
+UKB 
+participants are 
+British. Genetic 
+ancestry was 
+restricted to 
+European.  
+tasks and 3 
+composite 
+scores). UKB: 
+fluid 
+intelligence 
+scores.  
+ 
+Behavior: 
+ABCD: CBCL 
+subscales.  
+ 
+Brain imaging: 
+ABCD: 
+morphometric 
+measures 
+(cortical 
+thickness, sulcal 
+depth, are and 
+subcortical 
+volume), 
+diffusion tensor 
+imaging (DTI) 
+and resting-state 
+fMRI 
+associated with 
+cognitive 
+measures in 
+ABCD  (p ≥ 
+.804). autism 
+polygenic score 
+was 
+significantly 
+positively 
+associated with 
+fluid 
+intelligence in 
+UKB (R2 = 
+8,66E-04, p = 
+5,47E-06), and 
+females showed 
+significantly 
+stronger 
+associations 
+than males (p < 
+2.20 × 10−16, r 
+= 0.87). 
+Behavior: The 
+autism 
+polygenic score 
+was 
+significantly 
+positively 
+associated with 
+half of the 
+psychiatric 
+behaviors (10 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 49]
+49 
+ 
+out of 20, the 
+strongest 
+association 
+with CBCL b. 
+Brain imaging: 
+autism 
+polygenic score 
+did not have 
+significant 
+effects on 
+cortical and 
+subcortical 
+structures and 
+resting state 
+fMRI functions 
+in ABCD nor 
+IDPs in UKB 
+Loughnan 
+(2022)61 
+General 
+psychopatholog
+y, cognition and 
+executive 
+function 
+Main analyses 
+were performed 
+on a sample of 
+5,204 children 
+of European 
+ancestry (mean 
+age in months = 
+119.18 (7.48), 
+52.7% male). 
+Supplementary 
+analyses were 
+performed on n 
+= 3,964 of non-
+European 
+ancestry (mean 
+PRSice. no p-
+value threshold 
++ comparison to 
+p-value 
+thresholds 0.01, 
+0.05, 0.1, 0.2, 
+0.3, 0.4, 0.5 
+Diagnostic 
+assessment: 
+KSADS. 
+ 
+Dimensional 
+assessments: 
+CBCL, general 
+behaviour 
+inventory, 
+prosocial 
+behavior survey, 
+PQ-B, UPPS-P 
+for children 
+short scale, 
+BISBAS scale, 
+Age, sex, top 10 
+genetic principal 
+components, 
+household 
+income, highest 
+parental 
+education, and 
+data collection 
+site 
+The autism 
+polygenic score 
+associated with 
+youth-reported 
+KSADS 
+depression 
+symptoms 
+(ΔR2=0.0024, p
+-
+adj = 3.9 × 10−3
+), suicidality 
+symptoms 
+(ΔR2=0.0013, p
+-
+adj = 4.0 × 10−2
+FDR 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 50]
+50 
+ 
+age in months = 
+118.86 (7.46), 
+51.6% male) 
+and on the full 
+sample n = 9168 
+(mean age in 
+months = 
+119.04 (7.47), 
+52.2% male). 
+Participants 
+were American. 
+NIH toolbox 
+cognition 
+battery 
+), and ADHD 
+symptoms 
+(ΔR2=0.0014, p
+-
+adj = 3.7 × 10−2
+), as well as 
+CBCL 
+inattention 
+(ΔR2=0.0016, p
+-
+adj = 1.0 × 10−2
+), crystallized 
+composite score 
+from the NIH 
+Toolbox 
+(ΔR2=0.0014, p
+-
+adj = 3.6 × 10−2
+). No 
+associations 
+were reported 
+with other 
+scales. Only the 
+association with 
+crystallized 
+composite score 
+from the NIH 
+Toolbox® 
+remained 
+significant in 
+multivariable 
+analyses. 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 51]
+51 
+ 
+Pat (2021)62 General 
+psychopatholog
+y 
+The sample for 
+the primary 
+analysis 
+included 4,814 
+ABCD children 
+(2,263 girls; 
+mean age = 
+9.94, SD =0.61 
+years) of 
+European 
+ancestry. 
+Supplementary 
+analyses were 
+performed on 
+1,460 children 
+of African 
+ancestry (726 
+girls; mean age 
+= 9.94, SD 
+=0.60 years). 
+Participants 
+were American. 
+Plink. Main 
+analysis: p < 
+.05, 
+supplementary 
+analyses: other 
+thresholds from 
+p < .5 to .0001 
+P factor and 5 
+specific 
+dimensions 
+constructed 
+from CBCL by 
+confirmatory 
+factor analysis 
+4 PCs and sex The autism 
+polygenic score 
+was not 
+associated with 
+the p factor in 
+children of 
+European 
+descent (r = 
+0.018) nor 
+African ancestry 
+(r = -.011) 
+FDR 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 52]
+52 
+ 
+Riglin (2020)63 General 
+psychopatholog
+y 
+ALSPAC 
+includes a total 
+of 14,901 
+participants, of 
+which about 
+50% is 
+female. Polygen
+ic score 
+analyses were 
+performed on 
+5,518 
+participants. 
+Questionnaires 
+were 
+administered at 
+ages 7/8 and 13. 
+Participants 
+were British. 
+Genetic ancestry 
+was restricted to 
+European.  
+PRSice. p < 
+0.05 
+Parent-reported 
+psychopatholog
+y, behavioral 
+problems, 
+neurodevelopme
+ntal problems: 
+DAWBA. 
+Social 
+communication 
+problems: 
+SCDC, all at 
+age 7/8 and 13. 
+Confirmatory 
+factor analysis 
+was performed 
+and revealed a 
+bifactor model 
+including a 
+general 
+psychopatholog
+y factor “p” as 
+well as three 
+‘specifc’ 
+“emotional”, 
+“behavioural” 
+and 
+“neurodevelopm
+ental” factors 
+Not described The autism 
+polygenic score 
+was not 
+associated with 
+general 
+psychopatholog
+y assessed by 
+factor therapy at 
+age 7 and age 
+13, nor with 
+specific factors 
+(emotional, 
+behavioral, and 
+neurodevelopme
+ntal problems), 
+p ≥  0.313 
+Not reported 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 53]
+53 
+ 
+Schlag (2022)64 General 
+psychopatholog
+y 
+ALSPAC 
+includes a total 
+of 14,901 
+participants, of 
+which about 
+50% is female. 
+Participants 
+were 4, 7, 8, 9, 
+10, 11, 12, 13 or 
+17 years old 
+depending on 
+the outcome 
+measure. For the 
+ALSPAC 
+sample, sample 
+sizes ranged 
+from  3,686 to 
+6,570 depending 
+on outcome 
+measure and 
+age. For the 
+TEDS sample, 
+sample sizes 
+ranged from 
+2,825 to 7,112. 
+Participants 
+were British or 
+Welsh. Genetic 
+ancestry was 
+restricted to 
+European. 
+Plink and PRS-
+CS. nine 
+thresholds 0.001 
+≤ PT < 1 
+ALSPAC: 
+Parent-reported 
+low prosociality 
+(ages 7, 10, 12, 
+13, 17) and peer 
+problems (ages 
+7, 10, 12, 13, 
+17) (SDQ), 
+teacher-reported 
+low prosociality 
+(ages 8, 11) and 
+peer problems 
+(ages 8, 11) 
+(SDQ) 
+Sex, age, 10 
+PCs 
+In the ALSPAC 
+sample, the 
+autism 
+polygenic score 
+was associated 
+with parent-
+reported low 
+prosociality at 
+age 7 (strongest 
+association at 
+GWAS p 
+threshold .7, b = 
+.0468, p = 
+.00044), but no 
+associations at 
+different ages or 
+p value 
+thresholds were 
+reported. In the 
+TEDS sample, 
+autism 
+polygenic score 
+was associated 
+with parent-
+reported low 
+prosociality at 
+age 11 
+(strongest 
+association at 
+GWAS p 
+threshold .9, b = 
+.0551, p = 
+Matric Spectral 
+Decomposition 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2

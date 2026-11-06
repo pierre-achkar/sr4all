@@ -1,0 +1,206 @@
+nals, ensuring a comprehensive 
+review of all relevant literature without bias towards journal 
+impact factors.
+In our systematic review of the intersection between AI 
+and sustainable development, careful selection of keywords 
+was crucial to accurately capture the relevant literature. The 
+keywords chosen span a broad range of concepts associated 
+with both AI technologies and sustainability issues.
+Initially, we identified primary keywords for both 
+domains, including "Sustainability OR SDG OR Sustain-
+able Development Goals" to capture a holistic view of the 
+sustainability domain, and "AI OR artificial intelligence OR 
+a.i. OR Machine Learning OR ML OR Deep Learning" to 
+encompass the range of AI methods used to address various 
+SDGs.
+In the second step, we enriched these broad keywords. 
+For AI keywords, we addressed a gap in the literature con-
+cerning the identification of RL methods used in the con -
+text of the SDGs, as several reviews focused on SL and UL 
+but neglected RL. Therefore, we integrated "Reinforcement 
+Learning" as a separate keyword, while SL and UL are cov-
+ered more broadly with the general terms.
+The sustainability keywords were enriched with environ-
+mental sustainability keywords, focusing on climate action: 
+"Climate Action OR Eco-friendly OR Green OR Envi-
+ronmental." Given that sustainability is a very broad con-
+cept, not all relevant keywords can be included. Therefore, 
+we limited the addition of keywords in the sustainability 
+domain to a maximum of five keywords to maintain focus 
+Records identified from:
+Databases( n =1 218)
+Records removed before
+screening:
+Duplicate recordsr emoved
+(n = 204)
+Records removedf or other 
+reasons( n =1 4) *
+*Abstractl anguagei sn ot English
+Records screened:
+(n =1 195)
+Reports excluded:
+Missing relevant SDG focus
+MissingM L method
+Low Journal Rating  
+(n =1 004)
+Studies included in review:
+(n =1 91)
+Identificationo fs tudies viad atabases 
+noitacifitnedI
+gnineercS
+dedulcnI
+Records identified from core
+literature:
+Identification of studiesv ia
+snowballing
+sdrowyeK
+Artificiali ntelligence OR AI OR a.i OR machinel earning OR ML OR Deep
+Learning OR Reinforcement Learning
+AND
+Sustainability OR ClimateA ction OR SDG OR Sustainable Development
+Goals OR Eco-friendly OR Green OR Environmental 
+In Peer-reviewed, academic journals,c onference paper, English
+Fig. 5  Adapted PRISMA flow (Page et al. 2021)
+
+[W4403706069 PDF PAGE 11]
+Int J Environ Res (2025) 19:1 
+ Page 11 of 36 1
+and manageability. Furthermore, any keyword that did not 
+achieve a consensus of at least 50% among the authors was 
+excluded.
+Our emphasis on environmental keywords is driven by 
+several reasons: First, the foundational role of the biosphere, 
+as illustrated by the Stockholm Resilience Center’s wedding 
+cake model, positions environmental sustainability as the 
+basis upon which societal well-being and economic prosper-
+ity are built. Second, the European Green Deal emphasizes 
+the urgent need to address environmental issues, particu-
+larly climate action, as a critical priority. Third, the litera-
+ture underscores that significant impacts can be achieved in 
+the environmental domain, highlighting the practical focus 
+on areas where AI can produce tangible and quantifiable 
+benefits (Larosa et al. 2023; Camaréna 2020; Vishwakarma 
+et al. 2023; Viet et al. 2022; Vinuesa et al. 2020).
+The keyword selection process is summarized in Table 1.
+Data analysis procedure
+Following the selection of keywords, we systematically 
+analyzed and evaluated the identified studies, examin -
+ing their research methods, findings, and contributions to 
+the field with a focus on quantifying potential reductions 
+in resource consumption and greenhouse gas emissions 
+enabled by different AI technologies. This allowed us to 
+synthesize a comprehensive overview of the current state 
+of research in this area.
+The data analysis procedure was carried out in the fol-
+lowing steps: 
+1. Initial Screening: During the initial screening phase, 
+studies were evaluated based on the inclusion and exclu-
+sion criteria summarized in Table 2. The screening pro-
+cess involved reviewing only the titles and abstracts 
+of the studies to determine their relevance. The inclu -
+sion criteria ensured that only peer-reviewed academic 
+journals and conference proceedings were considered. 
+Articles had to be written in English and fall within the 
+scope of the SDGs or the European Green Deal. Further-
+more, studies needed to have a minimum SJR score of 
+1. The exclusion criteria filtered out non-peer-reviewed 
+sources, articles without full text, those not within the 
+specified context, or lacking AI methodology.
+2. Detailed Analysis:  For studies considered relevant or 
+for those where the relevance was ambiguous based on 
+the title and abstract, the complete article was examined. 
+Table 1  Keyword selection process and their specific rationale
+Step Keyword Rationale for selection
+Step 1 Artificial Intelligence, AI, a.i., Machine Learning, 
+ML, Deep Learning
+These terms aim to cover a broad spectrum of AI technologies pivotal for address-
+ing SDGs, capturing the variety of methods used in AI-driven sustainability 
+solutions
+Step 1 Sustainability, Sustainable Development, SDG These keywords are selected to encompass both the process ("Sustainable Devel-
+opment") and the goal ("Sustainability") of maintaining global socio-economic 
+growth without depleting natural resources, acknowledging their slightly differ-
+ent connotations in the literature. Additionally, "SDG" emphasizes the global 
+commitment towards these goals
+Step 2 Reinforcement Learning We addressed the gap in the literature concerning the identification of RL methods 
+used in the context of the SDGs, as several reviews focused on SL and UL, but 
+neglected RL. Therefore, we integrated RL as a separate keyword
+Step 2 Climate Action, Eco-friendly, Green, Environmental Focused on the environmental aspects of the SDGs, these terms ensure the inclu-
+sion of studies that are involved in ecological preservation and the development 
+of environmentally conscious technologies. "Climate action" aligns directly with 
+SDG 13, targeting climate change mitigation, whereas "Eco-friendly" and "Envi-
+ronmental" broaden the scope of the review to include general environmental 
+stewardship
+Table 2  Inclusion and exclusion 
+criteria used for the initial 
+screening and detailed analysis 
+of the review
+Inclusion criteria Exclusion criteria
+Peer-reviewed academic journals and conference proceedings Not open access or paper without full text
+Articles published between 2017 and 2023 Neither within the SDG context nor 
+within the European Green Deal 
+context
+Articles written in English Missing AI methodology
+Studies with a SJR score of<1
+
+[W4403706069 PDF PAGE 12]
+ Int J Environ Res (2025) 19:1
+1 Page 12 of 36
+Each selected study was then analyzed in detail with a 
+focus on:
+• Research Methods: The type of AI techniques used, 
+such as ANNs.
+• Findings: Key outcomes and results of applying AI 
+technologies in sustainability contexts.
+• SDG Cluster: Determining the relevant SDG Cluster 
+for each article.
+3. Synthesis of Results: The findings from the detailed 
+analysis were synthesized to provide a comprehensive 
+overview of the current research landscape.
+Results
+The subsequent section outlines the findings of our review. 
+It is important to note that the main focus of this study is 
+the intersection of AI and sustainability. Although a related 
+concept, sustainable AI, is an important sub-stream within 
+this context, it is not the main area of research.
+First, we analyzed the studies from a geographical, i.e., 
+continental perspective. Figure 6 illustrates the geographical 
+distribution of the authors who contributed to research on 
+AI applications related to the SDGs. Six continents, Asia, 
+Europe, North America, Africa, Oceania, and South Amer -
+ica, are represented by distinct arcs, with the size of each arc 
+corresponding to the proportion of authors from that region.
+Asia contributes the highest share of authors at 40%, fol-
+lowed by Europe at 26% and North America at 25%. Fewer 
+contributions come from Africa (5%), Oceania (4%), and 
+South America (1%).
+The chords between continents represent co-authorship 
+and collaboration. Asia shows extensive internal collabo-
+ration, with strong links to Europe and North America. 
+Similarly, Europe and North America have robust internal 
+and intercontinental ties, particularly with Asia. In contrast, 
+Africa, Oceania and South America have fewer collaborative 
+connections, primarily linking to Europe and Asia.
+In general, the diagram highlights the dominance of Asia, 
+Europe, and North America in AI related SDG research, 
+while also demonstrating that collaborations are generally 
+stronger within the same continent compared to between 
+different continents.
+Table 3 was created based on a combination of the results 
+of the consensus-based survey of Vinuesa et al. (2020) and 
+the structural framework outlined by Schoormann et al. 
+(2023). To further refine this structure, we adapted it to our 
+clustering approach, allowing for a more tailored representa-
+tion of how AI methodologies align with the SDG clusters.
+The table categorizes the impact of AI on the SDGs by 
+indicating potential positive and negative effects. Each col-
+umn of the table corresponds to a different SDG, represented 
+by its respective number. The columns adjacent to each SDG 
+show percentages reflecting the extent of AI’s impact: one 
+for positive impacts and another for negative impacts on 
+the targets within that specific SDG. For example, a value 
+of 100% in the positive impact column suggests that AI is 
+perceived capable of benefiting all the targets under that 
+particular SDG. In contrast, an 80% in the Negative Impact 
+column suggests that 80% of the targets could potentially 
+experience negative effects due to AI developments. The 
+percentages in the table depicting the impact 

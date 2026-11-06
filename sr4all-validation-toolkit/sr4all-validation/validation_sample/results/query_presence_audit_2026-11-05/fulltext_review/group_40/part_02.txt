@@ -1,0 +1,164 @@
+ibution-NonCommercial-ShareAlike 4.0 International License
+42
+dren. J Ayub Med Coll Abbottabad 2004; 
+16(4):48–50. 
+5. Bahadur BK, Lamichhane N, Mishra CB, 
+Khatri BB, Dhakal S. Comparison of out -
+come of closed reduction and percutaneous 
+pinning and, open reduction and internal 
+fixation with k-wire in Gartland extension 
+type III supracondylar fracture of distal 
+humerus in pediatric population. Med J 
+Pokhara Acad Health Sci 2018; 1(1):1-3. 
+6. Flynn J, Skaggs DL, Waters PM. Rock -
+wood and Wilkins' fractures in children 8th 
+ed. Skaggs DL, Waters PM, editors. Phil -
+adelphia: Lippincott Williams & Wilkins; 
+2014. 
+7. Oetgen ME, Mirick GE, Atwater L, Love -
+joy JF. Complications and Predictors of 
+Need for Return to the Operating Room in 
+the Treatment of Supracondylar Humer -
+us Fractures in Children. Open Orthop J 
+2015;9:134–42. 
+8. Page MJ, McKenzie JE, Bossuyt PM, 
+Boutron I, Hoffmann TC, Mulrow CD, et 
+al. The PRISMA 2020 statement: an updat -
+ed guideline for reporting systematic re -
+views. Syst Rev. 2021;10: 89. 
+9. Shrestha AK, Uprety S, KC G, Paudel S. 
+Functional and radiological outcome after 
+closed reduction and percutaneous pinning 
+versus open reduction and internal fixation 
+in displaced supracondylar fractures in chil-
+dren. J Soc Surg Nepal. 2016;19(2):21-7.
+10. Yaokreh JB, Gicquel P, Schneider L, 
+Stanchina C, Karger C, Saliba E, et al. 
+Compared outcomes after percutaneous 
+pinning versus open reduction in paediat -
+ric supracondylar elbow fractures. Orthop 
+Traumatol Surg Res 2012;98(6):645–51. 
+11. Abousaleh MA, Zeidan AA, Mukhtar I, 
+Keshta AS, Aladraj TH, Shaaban OA, et 
+al. Comparative Effectiveness of Closed 
+Reduction With Percutaneous Pinning and 
+Open Reduction With Internal Fixation in 
+the Operative Management of Pediatric 
+Type III Supracondylar Fractures. Cureus 
+2022; 14(2):e22707. 
+12. Ahmed M, Sahito B, Hamid R, Nida, Ku -
+mar M, Hussain G. Supracondylar Frac -
+ture Humerus (Gartland Type III) Managed 
+with Closed Reduction and Pecutaneous 
+Pinning (CRPP) in Childrens. Prof Med J 
+2020;27(6):1092–6. 
+13. Kitta MI, Ismiarto YD, Saleh MR, Sakti M, 
+Abidin MA, Putra LT. Analysis of radio -
+logical alignment and functional outcomes 
+of pediatric patients after surgery with dis -
+placed supracondylar humerus fracture: 
+A cross-sectional study. Int J Surg Open 
+2020;24:136–42. 
+14. Basaran SH, Ercin E, Bayrak A, Bilgili MG, 
+Kizilkaya C, Dasar U, et al. The outcome 
+and parents-based cosmetic satisfaction fol -
+lowing fixation of paediatric supracondylar 
+humerus fractures treated by closed method 
+with or without small medial incision. Sprin-
+gerplus 2016;5(1):1–5. 
+Wisnawan, et al./ JOINTS (Journal Orthopaedi and Traumatology Surabaya) April 2023; 12(1): 36-42
+
+END REVIEW W4367856516
+
+
+REVIEW W4368340710
+TITLE: Tree Nut and Peanut Consumption and Risk of Cardiovascular Disease: A Systematic Review and Meta-Analysis of Randomized Controlled Trials
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4368340710 PDF PAGE 1]
+Review
+Tree Nut and Peanut Consumption and Risk of Cardiovascular Disease:
+A Systematic Review and Meta-Analysis of Randomized
+Controlled Trials
+Lauren Houston1,2,3,*, Yasmine C. Probst3,4, Mamatha Chandra Singh3,4, Elizabeth P. Neale3,4
+1 The George Institute for Global Health, University of New South Wales, Sydney, New South Wales, Australia;2 School of Medical Sciences, Faculty
+of Medicine, University of New South Wales, Sydney, New South Wales, Australia;3 School of Medical, Indigenous and Health Sciences, Faculty of
+Science, Medicine and Health, University of Wollongong, Wollongong, New South Wales, Australia;4 Illawarra Health and Medical Research
+Institute, University of Wollongong, Wollongong, New South Wales, Australia
+ABSTRACT
+Cardiovascular disease (CVD) is the leading cause of death globally. Habitual consumption of tree nuts and peanuts is associated with
+cardioprotective beneﬁts. Food-based dietary guidelines globally recommend nuts as a key component of a healthy diet. This systematic
+review and meta-analysis were conducted to examine the relationship between tree nut and peanut consumption and risk factors for CVD in
+randomized controlled trials (RCTs) (PROSPERO: CRD42022309156). MEDLINE, PubMed, CINAHL, and Cochrane Central databases were
+searched up to 26 September, 2021. All RCT studies that assessed the effects of tree nut or peanut consumption of any dose on CVD risk
+factors were included. Review Manager software was used to conduct a random effect meta-analysis for CVD outcomes from RCTs. Forest
+plots were generated for each outcome, between-study heterogeneity was estimated using the I2 test statistic and funnel plots and Egger’s
+test for outcomes with/C21 10 strata. The quality assessment used the Health Canada Quality Appraisal Tool, and the certainty of the evidence
+was assessed using grading of recommendations assessment, development, and evaluation (GRADE). A total of 153 articles describing 139
+studies (81 parallel design and 58 cross-over design) were included in the systematic review, with 129 studies in the meta-analysis. The
+meta-analysis showed a signiﬁcant decrease for low-density lipoprotein (LDL) cholesterol, total cholesterol (TC), triglycerides (TG), TC:high-
+density lipoprotein (HDL) cholesterol, LDL cholesterol:HDL cholesterol, and apolipoprotein B (apoB) following nut consumption. However,
+the quality of evidence was“low” for only 18 intervention studies. The certainty of the body of evidence for TC:HDL cholesterol, LDL
+cholesterol:HDL cholesterol, and apoB were“moderate” because of inconsistency, for TG were“low,” and for LDL cholesterol and TC were
+“very low” because of inconsistency and the likelihood of publication bias. Theﬁndings of this review provide evidence of a combined effect
+of tree nuts and peanuts on a range of biomarkers to create an overall CVD risk reduction.
+Keywords: nuts, peanuts, CVD, cholesterol, lipids, apo, blood pressure, meta-analysis
+Statements of Signiﬁcance
+This is theﬁrst systematic review and meta-analysis of randomized controlled trials to provide a comprehensive picture of whether all or some
+types of tree nuts and peanuts are preferential for improving CVD risk and if there is a dose response to the effect.
+Abbreviations: ApoA-I, apolipoprotein A-I; ApoB, apolipoprotein B; BMI, body mass index; CAD, coronary artery disease; CHD, coronary heart disease; CI, conﬁ-
+dence interval; CINAHL, cumulated index to nursing and allied health literature; CVD, cardiovascular disease; DBP, diastolic blood pressure; FDA,Food and Drug
+Administration; GRADE, grading of recommendations assessment, development, and evaluation; HDL, high-density lipoprotein; IV, inverse variance; LDL, low-density
+lipoprotein; MEDLINE, medical literature analysis and retrieval system online; MetS, metabolic syndrome; RCT, randomized controlled trial; SBP,systolic blood
+pressure; SD, standard deviation; SE, standard error; TC, total cholesterol; TG, triglycerides; T2DM, type 2 diabetes mellitus.
+* Corresponding author.E-mail address: lhouston@georgeinstitute.org.au (L. Houston).
+journal homepage: https://advances.nutrition.org/
+https://doi.org/10.1016/j.advnut.2023.05.004
+Received 4 December 2022; Received in revised form 27 April 2023; Accepted 3 May 2023; Available online 5 May 2023
+2161-8313/© 2023 The Authors. Published by Elsevier Inc. on behalf of American Society for Nutrition. This is an open access article under the CC BY license (http://
+creativecommons.org/licenses/by/4.0/).
+Advances in Nutrition 14 (2023) 1029–1049
+
+[W4368340710 PDF PAGE 2]
+Introduction
+Cardiovascular disease (CVD) is the leading cause of death
+globally, accounting for 17.9 million lives lost each year (32% of
+all global deaths) [1]. The high prevalence and mortality rate of
+CVD is not unique to high-income countries but also to low- and
+middle-income countries. Low- and middle-income countries
+account for ~80% of all CVD deaths, with ~40% of these deaths
+deﬁned as premature [2]. Contributing to an increased risk of
+CVD is the consumption of poor diets. As part of a healthy diet,
+food-based dietary guidelines globally recommend nuts as a key
+component, with a typical serving of 15–30 g/d [3,4]. Nuts are
+rich in fats, making them energy-dense, and concern regarding
+the impact of nuts on body weight has been reported in the
+literature [5–8]. A recent review has demonstrated that energy
+compensation may occur following a meal with nuts, which
+mitigates this concern [9]. However, nuts are considered to be
+good sources of unsaturated fatty acids, vitamin E, minerals (for
+example, magnesium and potassium), plant sterols, polyphenols,
+and dietaryﬁbers [10]. Tree nuts are deﬁned as dry fruits that
+contain a seed within the ovary wall that becomes hard at
+maturity. Tree nuts include almonds, Brazil nuts, cashews,
+chestnuts, hazelnuts, macadamias, pecans, pine nuts, pistachios,
+and walnuts. Although peanuts, also known as ground nuts, are
+botanically classiﬁed as a legume rather than a nut, they appear
+in cuisines in a similar way to that of tree nuts and have a similar
+nutrient composition. This review offers the advantage of
+including whole tree nuts, peanuts, and mixed nuts in dietary
+patterns.
+Habitually consuming tree nuts and peanuts has been associ-
+ated with cardioprotective beneﬁts [11]. The effects of nuts have
+been shown via improvements to lipid proﬁles, glucose regula-
+tion, and antioxidant effects [12–14] and their ability to mediate
+inﬂammation, hyperglycemia, and oxidative stress [15]. In addi-
+tion, a considerable amount of evidence has been reported from
+meta-analyses of prospective cohort studies that higher nut con-
+sumption is associated with lower CVD incidence and/or CVD
+mortality [16–21]. However, to date, only 1 meta-analysis of 61
+randomized and nonrandomized controlled intervention trials has
+reported the effects of all tree nuts and dose response on CVD risk
+factors [22]. Since 2015, the consumption of all nuts has remained
+largely

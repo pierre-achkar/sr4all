@@ -1,0 +1,171 @@
+o differential-
+ly affect observed brain-behavior relationships. At this point
+in time, understanding neural activity is largely in a period of
+exploration. At a mechanistic level, our power to predict how
+the brain is associated with behavior is limited. In the context
+of most complex behaviors and traits, including well-being,
+multiple differing relationships might be expected (in possibly
+positive, negative, or nonlinear directions). Given that there is
+not a strong basis on which to interpret the direction of the
+association between well-being and the brain, we can only
+reasonably assess the absolute relationship between these
+variables.
+In addition to neuroimaging limitations, variability in the
+definition and measurement of well-being across studies also
+may have contributed to the widespread findings in the liter-
+ature. Many terms for well-being are employed in the litera-
+ture (e.g., psychological well-being, subjective well-being,
+quality of life, satisfaction, happiness, morale, positive affect,
+affective balance, perceived well-being, perceived life quality,
+elation, sense of well-being, subjective welfare). While many
+of these terms are related, they are not necessarily synony-
+mous. Given the diverse and extensive criteria for well-
+being presented in the literature, it is difficult to determine
+which among the many descriptions capture the most critical
+components of well-being. Even a broad definition of well-
+being such as that used in the current review may not capture
+all facets of well-being.
+Regarding the measurement of well-being, all studies in the
+current review used instruments that have been shown to be
+both reliable and valid (see Appendix1). In addition, many
+measures were validated in multiple cultural populations, sug-
+gesting that the instruments account for cultural differences in
+what constitutes well-being. The measures used also tend to
+show high convergent validity with other well-being-related
+measures, suggesting that they all capture similar constructs.
+Despite these strengths, the inclusion of multiple well-being
+measures may nonetheless add variability to the results. As
+outlined in the introduction, the construct of well-being is
+complex, capturing various elements of positive functioning.
+While all the measures used in the studies included in the
+current review tapped into aspects of positive functioning gen-
+erally (i.e., fell within a broad definition of well-being), the
+specific components of well-being measured in each instru-
+ment differed. Too few studies used the same measure of well-
+being to meaningfully examine the results according to the
+well-being instrument used. In addition, even in cases where
+the same well-being measures were used across studies, there
+were some instances in which scores on the well-being mea-
+sures were calculated differently across studies, making it dif-
+ficult to synthesize findings.
+Variability in the literature also might be explained in part
+by methodological limitations in the included studies. While
+the studies included in the current review were generally
+methodologically sound, some specific methodological issues
+should be noted. First, a problem of circular analyses was
+identified in Luo et al. ( 2014). Specifically, the authors con-
+ducted analyses to explore whether resting-state regional ac-
+tivity was correlated with happiness. To do this, the authors
+selected brain regions that showed significant group differ-
+ences between happy and unhappy groups on the same mea-
+sures of happiness later used in the correlational analyses. This
+is problematic, as the areas used in the region of interest cor-
+relation analyses were not defined independently of the data
+being examined. Second, multiple studies in the current re-
+view either failed to correct for multiple comparisons (Fritz
+et al.,2016; Waytz et al., 2015; Martikainen et al., 2015)o r
+used a liberal significance threshold (Luo et al., 2016;H e r m e s
+et al., 2011), making findings more vulnerable to type I error.
+Differences in sample sizes across studies may also con-
+tribute to variability in reported results. Studies included in the
+current review ranged in size from 16 to 299 participants.
+Small sample sizes are prevalent in neuroimaging work, in
+large part due to logistical limitations. Research indicates that
+the median statistical power in the field of neuroscience gen-
+erally is 21% (Button et al.,2013). Depending on the effect
+being investigated, studies with small samples may not have
+enough power to detect significant effects. Based on the
+790 Cogn Affect Behav Neurosci (2019) 19:779 –796
+
+[W2944727199 PDF PAGE 13]
+literature reviewed, the average relationship between well-
+being and the brain is small (e.g., ~ r = 0.30). Given this
+generally small effect size, larger samples are needed to detect
+a significant relationship between well-being and the brain. As
+a rough guideline based on the studies included in the current
+review, to detect an effect around r = 0.30 with 80% certainty
+requires at least 85 participants (Fig. 6). By this measure, only
+11 of 22 studies included in this review had adequate samples.
+Two additional studies had nearly adequate samples (N = 84).
+Multiple studies in the current review reported no signifi-
+cant relationships between well-being and the brain (Fritz
+et al.,2016; Martikainen et al., 2015;D eP a s c a l i se ta l . ,
+2013;H a g e m a n ne ta l . ,1999). These studies ranged in sample
+size from 16 to 51 participants. Although some studies with
+similarly low sample sizes reported significant findings, the
+null results reported in these studies may reflect inadequate
+power.
+Another significant limitation in the literature is the preva-
+lence of nonindependent cohorts across studies. In particular,
+7 of 22 studies meeting criteria for the current review were
+conducted by Kong and colleagues and consisted of groups of
+highly overlapping participants (as confirmed by the authors).
+Given that approximately one third of the studies that make up
+the body of literature examining well-being and the brain
+come from a single group using highly overlapping samples,
+it is possible that this set of studies could unduly influence the
+results of the current review. In addition to the seven studies
+by Kong and colleagues, two studies in the current review
+were conducted by Luo and colleagues. Notably, the study
+conducted by Luo et al. in 2016 included all 50 participants
+originally included in their 2014 work. This too could poten-
+tially unfairly influence the literature.
+To briefly quantify if any one group unfairly biased the
+current review or was an outlier in terms of observed effects,
+effect sizes were averaged for each group. Given that all of the
+participants in Luo et al. (2014) were included in the group ’s
+later work, only effect sizes from Luo et al. ( 2016)w e r ei n -
+cluded. Averaging across effect sizes resulted in 15 indepen-
+dent effects reported in the literature. Possible publication bias
+was tested using Egger ’s Test of the Intercept (Egger, Davey
+Smith, Schneider, & Minder, 1997), which provides a statis-
+tical test of the relation between sample size and effect size.
+Results of Egger’s test did not show evidence of publication
+bias (z = −0.97, p = 0.33). In addition, three outlier analyses
+(standardized residuals, leave-one-out analysis, visual inspec-
+tion of forest plot) were conducted to verify that no one study
+Fig. 6. Power calculation for detecting a significant relationship between well-being and the brain
+Cogn Affect Behav Neurosci (2019) 19:779 –796 791
+
+[W2944727199 PDF PAGE 14]
+was disproportionately affecting the results. No outliers were
+identified using these methods (see Supplemental Figures 1
+and 2).
+Given the limitations in the literature, it may be premature
+to draw conclusions regarding the association between well-
+being and the brain. Although the current work does not allow
+for definitive conclusions regarding the relationship between
+well-being and the brain to be drawn, it contributes to the field
+in multiple, important ways, nonetheless. First, to our knowl-
+edge, this is the only systematic synthesis of the extant find-
+ings on the neural correlates of well-being. Although the cur-
+rent review highlights the fact that, at this point, our under-
+standing of the relationship between well-being and the brain
+is limited, largely by methodological problems, it also reveals
+some noteworthy patterns of association between well-being
+and the brain that are ripe for further examination.
+Future directions
+It is clear that further work needs to be conducted to clarify
+and confirm the neural correlates of well-being. However,
+based on the findings from the current review, it also is clear
+that the field does not simply need more studies exploring this
+relationship. Rather, a recalibration in the approach to study-
+ing the neural correlates of well-being is needed.
+Future work should aim to sharpen the focus of the field. A
+two pronged, hypothesis-driven approach to investigating the
+neural correlates of well-being may be useful in this endeavor.
+Given the current findings that well-being is associated with
+behaviorally well-studied brain systems (e.g., the salience net-
+work is implicated in emotion-based tasks), one potential area
+of future investigation might examine the behavioral corre-
+lates of well-being.
+At this point in time, well-being is most typically measured
+using self-report measures. Arguably, there is no one or even
+set of behaviors that constitute well-being; rather, well-being
+consists of a constellations of factors. Many studies have ex-
+amined how well-being is related to other variables, including
+demographics, mood, personality, emotion, physical health,
+etc. (Ryan & Deci,2001). These studies often are conducted
+by correlating self-reported measures of well-being with self-
+reported measures of the variable of interest. Few studies have
+been conducted examining how behavioral parad

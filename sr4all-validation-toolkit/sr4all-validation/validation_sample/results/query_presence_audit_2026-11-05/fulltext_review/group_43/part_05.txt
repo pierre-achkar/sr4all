@@ -1,0 +1,201 @@
+A-074Me, which greatly reduced the inci dence 
+of acute pancreatitis [170] . CA-074Me has also been 
+reported to decrease TNF -α expression and inhibit 
+apoptosis induced by coxsackievirus B1 in guinea 
+pigs with polymyositis [171] . CA-074Me inhibits 
+apoptosis and liver injury in fulminant liver failu re 
+[172]. Downregulation of CTSB by CA -074 inhibits 
+breast cancer neovascularization and bone metastases 
+[173]. 
+Endogenous inhibitors  and CTSB.  Cystatins 
+decrease CTSB activity. Cystatins are endogenous and 
+reversible inhibitors of cysteine peptidases and are 
+important players in cancer progression. Cystatins 
+primarily act as inhibitors of cysteine cathepsin . The 
+cystatin family consists of three subfamilies: type I 
+cystatin (stefin family, intracellular inhibitors), type II 
+cystatin (cystatin family, extracellular inhibitors), and 
+type III cystatin (kininogen family) [174] . Stefin A can 
+form complexes with CTSB and  inhibit CTSBs via 
+direct but weak interactions or conformational 
+changes between stefin A and CTSBs, resulting in 
+strong inhibiti on. Stefins A and B inhibit cathepsin 
+activity and play a role in cancer progression. The 
+
+[W4385641853 PDF PAGE 11]
+ Journal of Cancer 2023, Vol. 14 
+ 
+https://www.jcancer.org 
+2354 
+negative correlation between stefin A and CTSB 
+expression is associated with tumor malignancy and 
+metastasis [175]. Changes in the activity of CTSB and 
+the endogenous inhibitor stefin A are associated with 
+tumor progression and prognosis and can be used as 
+prognostic factors in cancer patients.  It has been 
+shown that stefin A produced by myoepithelial cells 
+inhibits early tumor invasion in breast cancer by 
+inhibiting CTSB [176]. In addition, overexpression of 
+stefin A can inhibit the migration, invasion, and 
+proliferation of laryngeal cancer cells via CTSB 
+downregulation [177]. In human esophageal 
+squamous cell carcinoma cells, the combination of 
+stefin A and CA-074Me further reduced the activity of 
+CTSB [178]. In addition, stefin A not only acts by 
+decreasing the activity of tissue proteins but can also 
+be mediated by other mechanisms. Stefin A inhibits 
+TGF-β-induced EMT in lung cancer cells by inhibiting 
+the ERK/MAPK signaling pathway [179].  
+Cystatin C is an endogenous inhibitor of 
+papain-like cysteine and a natural inhibitor of CTSB. 
+An imbalance between CTSB and cystatin C 
+regulation is critical for the degradation of ECM 
+components, leading to various phenomena, such as 
+tumor metastasis [180] . Cystatin C inhibits both the 
+activity and synthesis of CTSB. CTSB has an occluding 
+loop comprising residues 104-126, and blockade of the 
+active site modulates the substrate and 
+inhibitor-binding properties of the enzyme [181] . The 
+reduced binding affinity between CTSB and cystatin 
+C may be caused by changes in glycosylation, the 
+presence of cathepsin activators, or the binding of 
+cathepsins to glycosaminoglycans [182] . The ratio of 
+CTSB/cystatin C in the serum is clinically sign ificant 
+in the prognosis of cancer patients. The CTSB/cystatin 
+C ratio is significantly higher in patients with 
+cholangiocarcinoma than in healthy groups [183]. In 
+esophageal cancer, the cystatin C /CTSB ratio was 
+significantly lower in the esophageal canc er group 
+than in the control group and significantly correlated 
+with the T stage and lymph node metastasis [184]. 
+Cystatin C significantly inhibited SAHA -induced 
+CTSB expression in breast cancer cells [185] . Cystatin 
+C expression was lower in breast cancer tissues than 
+in non-cancerous tissues, and cystatin C expression is 
+significantly lower in cancerous tissues than in CTSB 
+[186]. Cystatin SN (CST1) is a salivary cystatin that 
+forms a tight equimolar complex with cysteine 
+proteases such as cathepsins by binding to their active 
+sites. Heterodimer binding between CST1 and 
+cystatin C was also found to reduce the proteolytic 
+activity and cell invasiveness of CTSB. However, in 
+colon cancer, upregulation of CST1 neutralizes the 
+inhibition of CTSB proteolytic act ivity by cystatin C 
+and contributes to colorectal carcinogenesis [187] . It 
+has also been shown that CST1 impacts cellular 
+senescence during cancer progression. CST1 
+knockdown decreases the activity of extracellular 
+CTSB, which induces increased inhibitory 
+phosphorylation of glycogen synthase kinase 3β 
+(GSK3β), leading to increased glycogen accumulation 
+and cellular senescence [188]. 
+In c onclusion, CTSB is widely involved in the 
+regulation of human malignant tumors and plays an 
+important role in tumor invasion and metastasis, 
+angiogenesis, and cell death. We reviewed the 
+structure and function of CTSB and summarized its 
+expression in different types of tumors and the 
+regulatory mechanisms involved. In addition, the 
+potential role of CTSB in non- neoplastic diseases was 
+discussed. Small molecular inhibitors and microRNA 
+targeting CTSB have been developed to explore the 
+possibility of clinical applicatio n. CTSB, a 
+prodrug-activating enzyme, can cleave doxorubicin 
+prodrugs with less toxicity in vitro and is more 
+effective in vivo. At present, the study of prodrugs is 
+in the early preclinical stage, and clinical evaluation of 
+prodrugs should be further strengthened. 
+Abbreviations 
+AD: Alzheimer’ s disease; AIF: apoptosis - 
+inducing factor ; AIIt: Annexin A2 -S100A10 
+heterotetramer; Aβ: amyloid-β; Cav: Caveolae; CCK: 
+cholecystokinin; CSCs: cancer stem cells;  CST1: 
+cystatin SN; CTSB: cathepsin B; Cyt -C: cytochrome c; 
+E-box: enhancer box; ECM: extracellular matrix; EMT: 
+epithelial-mesenchymal transition; FAK: focal 
+adhesion kinase ; GBM: glioblastoma; GICs: glioma - 
+initiating cells; LMP: lysosomal membrane permea -
+bility; MMP: matrix metalloproteinase; LPS: 
+lipopolysaccharide; NE: neutrophil elastase;  PGCCs: 
+polyploid giant tumor cells; pGlu -Aβ: pyroglutamic 
+acid amyloid beta peptide ; ROS : reactive oxygen 
+species; STAT3: Signal transducer and activator of 
+transcription 3; TGF -β: transforming growth factor -β; 
+TME: tumor microenvironment; uPA: urokinase 
+plasminogen activator; uPAR: urokinase plasminogen 
+activator receptor; VEGF: vascular endothelial growth 
+factor.  
+Acknowledgements  
+We acknowledge E ditage service for the 
+manuscript language edit. 
+Funding 
+This work wa s supported by grants from the 
+National Science Foundation of China (#82173283 and 
+#82103088) and the Foundation of the committee on 
+science and technology of Tianjin (#21JCZDJC00230 
+and 21JCYBJC01070). The funders had no roles in the 
+
+[W4385641853 PDF PAGE 12]
+ Journal of Cancer 2023, Vol. 14 
+ 
+https://www.jcancer.org 
+2355 
+design of the study, data collection, analysis, 
+interpretation, or decision to write and publish the 
+work. 
+Author contributions 
+SZ designed the paper, contributed to 
+manuscript writing, and approved the manuscript 
+before submission. JW and MZ contributed to 
+manuscript writing and approved the manuscript 
+before submission. XY and XZ reviewed the literature 
+and approved the manuscript before submission.  
+Competing Interests 
+The authors have declared that no competing 
+interest exists. 
+References 
+1. Greenbaum LM, Fruton JS. Purific ation and properties of beef spleen 
+cathepsin B. J Biol Chem. 1957; 226: 173-80. 
+2. Mort JS, Buttle DJ. Cathepsin B. Int J Biochem Cell Biol. 1997; 29: 715-20. 
+3. Howie AJ, Burnett D, Crocker J. The distribution of cathepsin B in human 
+tissues. J Pathol. 1985; 145: 307-14. 
+4. Roberts R. Lysosomal cysteine proteases: Structure, function and inhibition of 
+cathepsins. Drug News & Perspectives. 2005; 18: 605-14. 
+5. Chen X, Ren X, Zhu Y, Fan Z, Zhang L, Liu Z, et al. Cathepsin B-Activated 
+Fluorescent an d Photoacoustic Imaging of Tumor. Anal Chem. 2021; 93: 
+9304-8. 
+6. Cavallo-Medved D, Moin K, Sloane B. Cathepsin B: Basis Sequence: Mouse. 
+AFCS Nat Mol Pages. 2011; 2011. 
+7. Fong D, Chan MM, Hsieh WT, Menninger JC, Ward DC. Confirmation of the 
+human catheps in B gene (CTSB) assignment to chromosome 8. Hum Genet. 
+1992; 89: 10-2. 
+8. Aggarwal N, Sloane BF. Cathepsin B: multiple roles in cancer. Proteomics Clin 
+Appl. 2014; 8: 427-37. 
+9. Cavallo-Medved D, Sloane BF. Cell -surface cathepsin B: understanding its 
+functional significance. Curr Top Dev Biol. 2003; 54: 313-41. 
+10. Sentandreu MA, Aubry L, Ouali A. Purification of bovine cathepsin B: 
+proteomic characterization of the different forms and production of specific 
+antibodies. Biochem Cell Biol. 2003; 81: 317-26. 
+11. Mijanovic O, Brankovic A, Panin AN, Savchuk S, Timashev P, Ulasov I, et al. 
+Cathepsin B: A sellsword of cancer progression. Cancer Lett. 2019; 449: 207-14. 
+12. Pislar A, Jewett A, Kos J. Cysteine cathepsins: Their biological and molecular 
+significance in cancer stem cells. Semin Cancer Biol. 2018; 53: 168-77. 
+13. Li J, Maeji M, Balboula AZ, Aboelenain M, Fujii T, Moriyasu S, et al. Dynamic 
+status of lysosomal cathepsin in bovine oocytes and preimplantation embryos. 
+J Reprod Dev. 2020; 66: 9-17. 
+14. Mitr ović  A ,  M ir k ović  B , S osič  I ,  G obec  S ,  K os J . I n h ibition  of  en d op ep tid a se 
+and exopeptidase activity of cathepsin B impairs extracellular matrix 
+degradation and tumour invasion. Biol Chem. 2016; 397: 165-74. 
+15. Liu CL, Guo J, Zhang X, Sukhova GK, Libby P, Shi GP. Cysteine protease 
+cathepsins in cardiovascular disease: from basic research to clinical trials. Nat 
+Rev Cardiol. 2018; 15: 351-70. 
+16. Lawrence RE, Zoncu R. The lysosome as a cellular centre for signalling, 
+metabolism and quality control. Nat Cell Biol. 2019; 21: 133-42. 
+17. Lambeth TR, Dai Z, Zhang Y, Julian RR. A two -trick pony: lysosomal protease 
+cathepsin B possesses surprising ligase activity. RSC Chem Biol. 2021; 2: 
+606-11. 
+18. Hu YB, Dammer EB, Ren RJ, Wang G. The endosomal-lysosomal system: from 
+acidification and cargo sorting to neurodegeneration. Transl Neurodegener. 
+2015; 4: 18. 
+19. Bohley P, Seglen PO. Proteases and proteolysis in the lysosome. Experientia. 
+199

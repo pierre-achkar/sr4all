@@ -1,0 +1,178 @@
+equirements, but it 
+limits exploration of alternative methods. Furthermore, the 
+results indicate that algorithms such as ANN, XGBoost, and 
+similar approaches often seem to outperform other meth-
+ods such as SVMs in terms of accuracy, efficiency, and 
+scalability, as highlighted by several studies (Darko et al. 
+2023; Naseri et al. 2020; Smith and Wong 2022; Wang and 
+Srinivasan 2017; Ye et al. 2020). However, a more thor -
+ough and nuanced analysis should be performed to assess 
+the generalizability of these results, ensuring that potential 
+biases toward popular algorithms do not overshadow other 
+promising approaches.
+Our analysis revealed certain discrepancies compared to 
+the findings of Schoormann et al. (2023), who identified 
+a different distribution of commonly used methods. This 
+variation could likely be attributed to the inclusion of RL, 
+reviewing more recent articles, and using a broader sample 
+of articles in our review.
+We align with the observations of Kar et al. (2022), who 
+also noted a skewed distribution of ML methods in the sus-
+tainability literature, identifying a comparable set of preva-
+lent algorithms (ANN, SVM, CNN, etc.). This alignment 
+underscores that despite variations in keywords, databases, 
+and search parameters, the results of different reviews con-
+sistently indicate a trend towards the use of ANNs and, as 
+highlighted by Kar et al. (2022).
+Among neural architectures, LSTMs, Ensemble Net-
+works, and various types of ANN are prominently adopted, 
+especially in applications such as the prediction of emis-
+sions and power management of renewable energy systems. 
+Although its widespread use could attest to its effectiveness, 
+deeper investigation may be needed to determine whether 
+other architectures may have been underexplored and could 
+potentially yield comparable, or even superior, results. In 
+this sense, hybrid or two-stage approaches, exemplified by 
+the method proposed by Abdella et al. (2020), present inno-
+vative and insightful perspectives that need further explora-
+tion and consideration.
+RQ2: What are the potential future areas of interest 
+in the AI domain for advancing the SDGs?
+The reviewed studies highlight various ML methods, such 
+as ANNs, K-Means clustering, and DRL, being applied in 
+the field of sustainability. These technologies suggest oppor-
+tunities for further research and application, offering sig-
+nificant advances in how we approach environmental and 
+sustainability challenges. For example, replacing traditional 
+LSTM models with Transformer-based models can enhance 
+the processing of complex sequences Brown et al. ( 2020) 
+and maintain precise long-range dependency between out-
+puts and inputs Zhou et al. (2021). In addition, transformer 
+models are designed to compute more rapidly than tradi-
+tional LSTMs by facilitating parallel processing Vaswani 
+et al. (2017). As for RL, there seems to be interest in apply-
+ing both non-neural RL methods, such as Q-Learning and 
+DRL, especially DQN and PPO. Although these studies 
+demonstrate the promising applications of RL in sustain-
+ability, there are other state-of-the-art RL methods that could 
+potentially contribute to this field. These include, but are not 
+limited to, other model-based methods such as Soft Actor-
+Critic (SAC), which uses off-policy learning and entropy 
+regularization to achieve stable and efficient learning (Haar-
+noja et al. 2018), and Twin Delayed Deep Deterministic 
+Policy Gradient (TD3), which addresses the overestimation 
+bias in Q-learning (Woo et al. 2020). These could potentially 
+make significant contributions to the sustainability domain 
+due to their unique characteristics, especially when deal-
+ing with complex systems and scenarios. Therefore, further 
+exploration of these approaches in sustainability contexts 
+would be desirable. In addition, H-DQN incorporates hier -
+archical structures in decision making (Kulkarni et al. 2016), 
+which can be advantageous in managing complex persistent 
+systems with different levels of granularity. Finally, model-
+based RL, which creates a model of the environment for sim-
+ulation and learning, can also be an effective approach when 
+environmental interactions are expensive or limited and were 
+not used in the reviewed literature (Atkeson and Santamaria 
+1997). Furthermore, it is essential to acknowledge the emer-
+gence of innovative trends in AI. This includes the devel-
+opment of generative AI technologies, such as LLMs and 
+foundation models. Models such as open-source LLAMA2 
+(Touvron et al. 2023) exemplify this advance, possessing the 
+ability to generate human-like text and analyze large datasets 
+relevant to climate and sustainability (Brown et al. 2020). 
+These models have the potential to analyze climate data, 
+craft reports, and even propose viable climate interventions, 
+potentially contributing to the often overlooked cluster of 
+"Partnerships and Implementation". Foundation models, pre-
+trained on extensive data and fine-tuned for specific tasks, 
+could facilitate the creation of more accurate and efficient 
+models for predicting climate trends and analyzing the envi-
+ronmental repercussions of different policies. Furthermore, 
+recent advances in LLMs highlight the potential of hybrid 
+learning approaches, which combine unsupervised, super -
+vised, and RL techniques. These integrative approaches are 
+relatively novel in the field and offer substantial benefits 
+despite their complexity and cost. For example, a study high-
+lights that such models can adapt to multiple environments, 
+significantly improving their utility in diverse applications 
+(Mutti et al. 2021). Furthermore, it was shown that unsu-
+pervised pre-training in RL enables agents to quickly adapt 
+to various downstream tasks (Zeng et al. 2022), indicating 
+
+[W4403706069 PDF PAGE 23]
+Int J Environ Res (2025) 19:1 
+ Page 23 of 36 1
+potential benefits for applications in the sustainability sector, 
+where adaptability to new and evolving conditions is cru-
+cial. Such synergistic models could potentially revolution-
+ize applications within the sustainability sector. In the short 
+term, the use of LLMs for roles such as educational aids and 
+analytical tools shows promise, as evidenced in sectors such 
+as medical education (Kung et al. 2023; Gilson et al. 2023). 
+In the medium term, AI’s potential to generate innovative 
+content for scenario planning and impact assessments could 
+be pivotal (Goodfellow et al. 2014).
+Besides these developments, the incorporation of 
+AutoML into AI-driven decision-making processes can 
+further enhance the efficiency and effectiveness of envi-
+ronmental and sustainability-focused systems. AutoML, by 
+automating key stages of the ML pipeline, including data 
+pre-processing, feature selection, and model tuning, signif-
+icantly reduces the need for human expertise and enables 
+the rapid deployment of optimized models across various 
+applications. For example, an AutoML framework was 
+implemented to oversee complex energy systems aiming 
+to achieve net zero carbon emissions. By automating the 
+use of AI models to optimize energy use and grid opera-
+tions, this framework proved successful in a multicampus 
+microgrid setting, resulting in notable improvements in 
+energy efficiency and emission reductions (Moraliyage 
+et al. 2023). Likewise, another AutoML-based system was 
+capable of diagnosing faults in intricate energy systems. 
+This particular framework used 42 input parameters to 
+predict failures with an accuracy of 99.23% (Krzywan -
+ski et al. 2024). Another research highlights the applica-
+tion of AutoML and big data optimization to enhance the 
+design and operational strategies of adsorption cooling 
+and desalination systems. This study introduced an innova-
+tive concept of fluidized bed adsorption to enhance system 
+performance, achieving improved cooling capacity and 
+desalination efficiency through optimized setups (Krzy -
+wanski et al. 2024). In addition, an AI-driven system was 
+developed for a 660 MWe supercritical coal power plant, 
+integrating environmental conditions and operational 
+parameters such as boiler efficiency, turbine heat rate, and 
+flue gas temperature into models such as ANN, SVM, and 
+AutoML. This framework improved strategic-level per -
+formance, achieving a 3.12% point increase in thermal 
+efficiency, equivalent to a reduction of 288.2 kilotons of 
+annual emissions of CO2, SO2, CH4, N2O and Hg (Ashraf 
+et al. 2021). An AI-based framework applied to fluidized 
+bed adsorption systems also effectively predicted heat and 
+mass transfer processes, enabling the optimization of low-
+grade thermal energy conversion. The system used silica 
+gel with aluminum and carbon nanotube additives, which 
+demonstrated a maximum water vapor uptake of 1.654 g/g 
+and a convective heat transfer coefficient of 1212.62 W/
+m2 K. These findings underscore the significant potential 
+for improving energy efficiency in adsorption cooling and 
+desalination applications through AI-driven predictive 
+models (Krzywanski et al. 2023).
+Furthermore, the future implementation of AI for sus-
+tainability must be embedded within a well-developed 
+innovation ecosystem to effectively manage and scale 
+these technologies to maximize impact. This ecosys -
+tem could involve regulatory frameworks, research and 
+development (R&D) infrastructures, financial support 
+mechanisms, industry-academia collaborations, and active 
+stakeholder participation. This ecosystem ensures that AI 
+technologies are not only developed, but also deployed in 
+ways that align with the SDGs. Regulatory frameworks 
+are crucial for providing guidelines and standards that 
+ensure that AI applications adhere to ethical principles 
+and sustainability goals. This includes addressing data 
+privacy, bias in AI algorithms, and the digital divide, as 
+highlighted in the domain of personalized e-learning sys-
+tems (Tripathi et al. 2024). Robust R&D infrastructures 
+facilitate the con

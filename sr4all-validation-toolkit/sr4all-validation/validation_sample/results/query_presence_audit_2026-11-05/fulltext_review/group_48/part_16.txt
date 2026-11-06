@@ -1,0 +1,163 @@
+is far from being fully realized, and there are still many avenues to explore in order
+to unlock its complete potential. As highlighted in this review, the current body of research
+supports SVF’s role in regenerative medicine, but it also highlights the need for further
+study to explore its full potential and tackle existing challenges. Future studies should
+
+[W4391311681 PDF PAGE 11]
+Medicina 2024, 60, 221 11 of 19
+aim to elucidate the precise mechanisms of action of SVF in tissue repair and regeneration.
+Our understanding of the therapeutic effects of SVF has been primarily attributed to the
+ADSCs; however, SVF is a heterogeneous cell population, and the roles of the other cellular
+components remain relatively unexplored. Understanding the individual and synergistic
+roles of all the cellular components of SVF could lead to the development of targeted
+and personalized therapeutic strategies [40,41]. The standardization of SVF preparation
+methods is an important area that requires attention. Current studies have utilized a variety
+of protocols for the extraction and processing of SVF, leading to a wide variation in the
+cellular composition and concentrations. Therefore, the standardization of protocols for
+SVF isolation and processing will be essential to ensure the reproducibility of results across
+different studies and clinical settings [42].
+4.1. Delivery Methods
+Dosage and delivery methods are also aspects that need further investigation. The
+optimal dose and the best route for administration that would maximize the therapeutic
+effect while minimizing potential adverse reactions are yet to be determined [ 43]. The
+route of administration for stromal vascular fraction (SVF) depends on the therapeutic
+target: it can be directly injected into joints for orthopedic conditions, applied to wounds
+for healing, introduced intravenously for systemic diseases, delivered into the spinal canal
+for neurological disorders, or even injected into muscle tissues or brain tissue for specific
+conditions. The chosen route is always based on the condition in question and ongoing
+research [44]. Karina et al. [ 45] showed that the administration of a high dose of SVF
+up to 10 billion cells in a majority of 421 patients through infusion, spinal, and intra-
+articular injection was feasible without causing major adverse events and should be further
+investigated in well-designed phase I-II clinical trials to address the safety and efficacy of
+the therapy.
+Additionally, comprehensive long-term follow-up studies are needed to assess the
+durability of the therapeutic effects of SVF and to monitor for potential side effects or
+complications. While the reviewed studies generally report a favorable safety profile for
+SVF, long-term data will be crucial in solidifying these initial findings [46].
+The use of SVF in regenerative medicine signifies a novel and promising approach
+with potential applications across a broad range of medical disciplines. With its potent
+regenerative, immunomodulatory, and anti-inflammatory effects, SVF has demonstrated
+promising outcomes in orthopedics, cardiology, plastic and reconstructive surgery, and
+more [39]. Importantly, the evidence presented in the reviewed studies suggests a generally
+favorable safety profile for SVF therapy, marking an encouraging advance in regenerative
+medicine [47]. These positive outcomes support the potential of SVF as a versatile therapeu-
+tic tool, even though further research is needed to fully realize its potential and translate
+the findings into routine clinical practice.
+In a study conducted from 2016 to 2019, Cai et al. [48] evaluated the efficacy of SVF gel
+in treating chronic wounds. The results highlighted a 100% wound closure rate within an
+average of 28.3 ± 9.7 days and no recurrences during a 2- to 3-year follow-up. Mechanistic
+examinations suggested the role of certain growth factors in enhancing cell proliferation and
+migration, especially in serum-free conditions [49]. Several challenges, however, remain.
+Standardizing SVF isolation and processing methods, optimizing dosage and delivery
+methods, and long-term follow-up studies are areas that require further exploration. Zhang
+et al. [13] investigated the mid-term prognosis of SVF treatment for knee osteoarthritis
+during a minimum of 5 years, showing that the SVF group had superior VAS and WOMAC
+scores, and indicated enhanced pain management and knee functionality compared to
+the HA group. Additionally, SVF showcased a prolonged effectiveness of 61.5 months
+compared to Na’s 30.3 months. Notably, SVF reduced the risk of clinical failure by2.6 times,
+with BML severity and BMI identified as independent prognostic factors. Moreover, while
+both treatments saw a decline in cartilage volume, the reduction was less pronounced
+in the SVF group, suggesting potential cartilage protective effects [ 13]. Additionally, a
+
+[W4391311681 PDF PAGE 12]
+Medicina 2024, 60, 221 12 of 19
+deeper understanding of the precise mechanisms through which SVF contributes to tissue
+repair and regeneration is crucial. Different extraction methods and protocols have been
+developed to harvest SVF, each with its unique strengths and limitations tailored to specific
+clinical requirements.
+Enzymatic Digestion using Collagenase: This technique is particularly known for its
+efficiency in yielding a high number of SVF cells. By mincing and then digesting adipose
+tissue with collagenase, the embedded SVF cells are released. Though widely recognized
+and practiced, this method does raise concerns, especially pertaining to the potential
+contaminants introduced by animal-derived collagenase. Variations in enzyme quality can
+also be a bottleneck, sometimes leading to inconsistent outcomes [50]. Given these potential
+risks, certain regulatory bodies may have reservations about its applicability, especially in
+human therapeutics [51].
+Mechanical Methods: By leveraging physical forces, such as shaking or ultrasonication,
+SVF cells are extracted from the adipose matrix. This technique’s hallmark is its enzymatic-
+independent approach, making it favorable in regions with rigorous clinical regulations, as
+there is no risk of enzyme-related contamination [52]. However, the trade-off includes a
+comparatively lower cell yield and the potential mechanical stress on the cells, which could
+compromise their viability.
+Water Jet-Assisted Liposuction: A more contemporary method, this technique employs
+high-pressure water jets to dissociate SVF from adipose tissue. Its minimally invasive
+nature is its most notable feature, potentially reducing patient discomfort and procedure
+duration [53]. However, this method comes with caveats, including the need for specialized
+equipment and expertise. Additionally, the high-pressure jets might inadvertently cause
+cell damage, raising questions about the viability of the harvested cells [54].
+4.2. SVF Preparation Steps
+The steps of SVF separation can be summarized as (a) liposuction, (b) mechanical
+separation or shredding, (c) initial filtration, (d) washing, (e) final filtration, (f) SVF and
+adipose graft harvesting, and (g) cell counting and/or characterization (Table 4) [51–54].
+Table 4. Steps of stromal vascular fraction separation.
+Conventional Modified Approach
+Obtaining adipose
+tissue
+- Abdominal fat
+- Reusable Sorenson-type lipoaspiration
+cannula
+- Klein’s Translumination solution: Modified
+- Klein solution (500 mL isotonic, 20 mL
+lidocaine, 2% epinephrine, 2 mL
+bicarbonate)
+- 50 mL Luer lock syringe
+- Abdominal fat
+- Disposable/Re-usable Coleman-style
+cannula
+- Klein’s Translumination solution: Modified
+- Klein solution (500 mL isotonic, 20 mL
+lidocaine, 2% epinephrine, 2 mL bicarbonate)
+- 50 mL Luer lock syringe
+Mechanical
+separation/shredding
+- Shredding of tissue by shaking with glass
+ball (shaking time and strength depend on
+the user)
+- Separation by the effect of gravity in a
+screw-form mechanical separator at standard
+power and time
+Pre-filtration - Polyethylene filtration in a 100 micrometer
+porous polyethylene bag
+- Filtration with the effect of gravity in a
+100-micrometer porous device whose base is
+supported by a metallic or polymeric cage
+Washing - Not available - Washing in the device
+Final filtration purity - Filtration on 10-micrometer porous
+polyethylene filters in 10 mL syringes
+- Final filtration with the rise of adipose tissue
+and SVF to the solution surface in serum
+within the device
+
+[W4391311681 PDF PAGE 13]
+Medicina 2024, 60, 221 13 of 19
+Table 4. Cont.
+Conventional Modified Approach
+Collection of
+SVF/adipose tissue - Available in an equivalent system - Proximal adipose tissue and SVF separation
+reservoir
+Cell counting and
+characterization
+- Cell counting, determination of viability,
+determination of cell characteristics, and
+histochemical identification
+- Cell counting, determination of viability,
+determination of cell characteristics, and
+histochemical identification
+As we continue to explore and understand the individual and synergistic roles of all
+cellular components within SVF, the development of targeted and personalized therapeutic
+strategies becomes a tangible possibility. Considering the rapidly evolving research land-
+scape, large-scale, randomized clinical trials will play a pivotal role in firmly establishing
+the safety and efficacy of SVF therapies [44]. This will help determine the most effective
+way to integrate this novel therapeutic approach into mainstream medical practice. While
+we have only just begun to scratch the surface of the potential applications of SVF in regen-
+erative medicine, the results thus far are encouraging. Medical devices for the preparation
+of AD-SVF are summarized in Table 5 [43–46].
+Table 5. Commercial medical products for AD-SVF preparation [43].
+Product Company Article
+Cha-Station Somnotec
+http://www.somnotec.net (accessed on 15th Novembre 2023) [55]
+Octagone D200 Endecotts Ltd.
+https://www.endecotts.com (accessed on 15th Novembre 2023) [56]
+AdiPrep
+Harvest
+http://

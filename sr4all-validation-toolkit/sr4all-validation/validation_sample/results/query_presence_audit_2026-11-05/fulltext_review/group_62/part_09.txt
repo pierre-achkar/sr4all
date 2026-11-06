@@ -1,0 +1,488 @@
+g 
+mTOR at Ser757, 
+enhances the fusion 
+of autophagosomes 
+with lysosomes
+PC12 cells
+SH‑SY5Y
+ICR
+APP/PS1 trans‑
+genic
+10 μM (48 h)
+25–50 μg/mL 
+(24 h)
+10 mg/kg 
+(30 days)
+30 mg/
+kg/day 
+(3 months)
+Improved the cog‑
+nitive function 
+(decreased escape 
+latency and increased 
+time spent in the tar‑
+get quadrant)
+[153, 
+154]
+Phagocytocis + Autophagy Cannabinoid Cannabidiol Cannabis sativa – 
+Da Ma
+Enhances micro‑
+glial phagocytosis 
+and clearance 
+of Aβ, reduces 
+neuroinflammation, 
+promotes autophagy, 
+and improves 
+mitochondrial energy 
+metabolism
+Upregulation of phago‑
+cytic receptors (Trem2, 
+GPR34, CR3, P2Y6), 
+activation of the PDK1/
+Akt pathway, induc‑
+tion of autophagy 
+(Increases LC3B‑II, p62, 
+Beclin‑1), enhance‑
+ment of mitochondrial 
+function and ATP 
+production, reduction 
+of pro‑inflammatory 
+cytokines
+Primary mouse 
+microglia and BV2
+APP/PS1 trans‑
+genic
+5 µM 
+(12–24 h)
+[158]
+Autophagy + lysosomal 
+function
+Phenolic acid Chlorogenic Acid Lonicera japonica 
+– Jin Yin Hua
+Alleviates cognitive 
+deficits and neuronal 
+damage by modu‑
+lating autophagy 
+and enhancing lysoso‑
+mal function
+Via the mTOR/TFEB 
+signaling pathway, 
+suppressed autophagic 
+processes, by reduced 
+LC3B‑II/LC3B‑I 
+and p62/SQSTM levels, 
+decreased the expres‑
+sion of Beclin‑1 
+and Atg5, increased 
+LysoTracker Red fluo‑
+rescence, and elevated 
+levels of cathepsin D
+SH‑SY5Y
+APP/PS1 double 
+transgenic mice
+6.25–50 µM
+40 mg/
+kg/day 
+(6 months)
+Improved spatial 
+memory (reduced 
+escape latency 
+and increased time 
+spent in the target 
+quadrant)
+[133, 
+152]
+Autophagy + anti‑inflam‑
+mation
+Flavonoid Fisetin Gleditsia sinensis 
+Lam – Zao Jiao Ci
+Promotes autophagy, 
+decreases amyloid 
+and tau, and has anti‑
+inflammation effects, 
+lowers phospho‑
+rylated‑tau levels, 
+and clears sarkosyl‑
+insoluble tau aggre‑
+gates
+Decreases IL‑6, TNF‑α, 
+NF‑κB, increases Bec‑
+lin‑1, LC3‑II, Activates 
+AMPK/SIRT1 signalling, 
+suppressing the TLR4 / 
+MyD88/NF‑κB, inhibits 
+mTORC1 → nuclear 
+translocation 
+of TFEB, up‑regulates 
+autophagy/lysosomal 
+genes (atg9 b, LAMP1), 
+activates Nrf2, increases 
+selective‑autophagy 
+receptors
+Mouse cortical 
+neuron line T4
+Rat primary corti‑
+cal neurons
+HEK‑293 cells
+ICR mice
+5 – 20 µM 
+(24–36 h)
+25–50 mg/
+kg/day 
+(4 weeks)
+Improved locomotor 
+function (hyper‑
+activity curtailed, 
+with fewer rearings)
+Enhanced memory 
+retention (increases 
+step‑down latency, 
+decreases error 
+shocks)
+[156, 
+157]
+
+[W4413867217 PDF PAGE 35]
+Page 35 of 42
+Yuan et al. Chinese Medicine          (2025) 20:138 
+ 
+Table 5 (continued)
+Targeting Group Compounds Structure Species Activities Mechanism Models Dose Behavioral 
+experiment results
+Refs
+Autophagy + anti‑inflam‑
+mation
+Flavonoid Hesperidin Citrus reticulata 
+Blanco – Chen Pi
+Restores cognitive per‑
+formance, anti‑inflam‑
+matory antioxidant, 
+enhances hippocampal 
+neurogenesis, reduces 
+Aβ burden, and rescues 
+cognitive deficits
+Downregulates HMGB1, 
+TLR4/RAGE axis, NLRP3 
+inflammasome, NF‑κB, 
+and downstream IL‑1β, 
+IL‑8, IL‑18, MCP‑1, 
+restores Nrf2 signalling 
+and CAT, SOD, PON‑1, 
+suppresses overac‑
+tive PI3K/Akt/mTOR 
+cascade, increases LC3‑
+II, Beclin‑1, activates 
+the AMPK/BDNF/TrkB/
+CREB axis, upregulates 
+AMPK/CREB signalling
+Primary neural 
+stem cells 
+from embryonic 
+mouse cortex & 
+hippocampus
+Wistar rats
+5xFAD transgenic 
+mice
+10–200 µM
+80 mg/kg/
+day (7 days)
+100 mg/kg 
+(2 months)
+Enhanced recognition 
+and spatial memory 
+(increased sniffing 
+time and discrimina‑
+tion index, decreased 
+escape latency, 
+increased time spent 
+in the target quadrant 
+and distance travelled 
+in the target quad‑
+rant, while overall 
+locomotor activity 
+and rearings were 
+unchanged)
+[208, 
+209]
+Autophagy + Antioxxidant Polyphenol 
+(Lignan)
+Magnolol Magnolia offici-
+nalis – Hou Po
+Lowers amyloid 
+burden, promotes 
+autophagy flux, inhibits 
+apoptosis, and amelio‑
+rates cognitive decline
+Activates PPAR‑γ, acti‑
+vates the AMPK/mTOR/
+ULK1, leading to LC3‑II 
+& Beclin‑1 accumula‑
+tion and p62 degrada‑
+tion; simultaneously 
+down‑regulates Bax 
+& cleaved‑caspase‑9 
+and up‑regulates 
+Bcl‑2, down‑regulating 
+iNOS, IL‑1β and TNF‑α 
+and activates the Nrf2‑
+ARE pathway
+N2a
+BV2
+APP/PS1 trans‑
+genic mice
+Transgenic Caeno-
+rhabditis elegans
+2—10 μM  
+(24 h)
+10—20 mg/
+kg (3 months)
+2.5–10 µM 
+(18–36 h)
+Enhanced spatial 
+working and refer‑
+ence memory (higher 
+spontaneous‑alter‑
+nation percentage, 
+together with shorter 
+acquisition paths, 
+more platform cross‑
+ings, and probe‑trial 
+time + distance 
+in the target quadrant 
+restored to control 
+levels)
+Enhanced explora‑
+tion, recognition, 
+and spatial learning 
+(extended locomotor 
+activity with delayed 
+paralysis, roughly 50% 
+fewer head‑region Aβ 
+deposits, and a chem‑
+otaxis memory index 
+restored toward non‑
+transgenic levels
+[64, 
+210, 
+211]
+Phagocytosis + Anti‑
+inflamation
+Sesquiterpene 
+lactone
+Parthenolide Tanacetum parthe-
+nium – Bai Ju
+Restores microglial 
+phagocytosis, attenu‑
+ates neuro‑inflamma‑
+tion, neuro‑protection, 
+and reduces neuronal 
+apoptosis
+Blocks Akt/MAPK 
+cascade (ERK, JNK, 
+p38), p65, up‑regulates 
+TRIM31, dampens 
+NLRP3‑inflammasome 
+activation; lowers 
+p‑p65, strongly sup‑
+presses IL‑6, IL‑1β, TNF‑α 
+and elevates IL‑10, 
+lowers ROS, boosts SOD 
+activity
+BV2
+HMC3 C57BL/6 J
+APP/PS1
+5 µM (24 h)
+2 mg/kg 
+(7–15 days)
+Improved spatial 
+learning & memory 
+(decreases escape 
+latency, increases
+time in the target 
+quadrant
+and platform cross‑
+ings, but the swim‑
+ming speed remains 
+unchanged)
+[159]
+
+[W4413867217 PDF PAGE 36]
+Page 36 of 42Yuan et al. Chinese Medicine          (2025) 20:138 
+Table 5 (continued)
+Targeting Group Compounds Structure Species Activities Mechanism Models Dose Behavioral 
+experiment results
+Refs
+Antioxidant + Phagocytosis Alkaloid Piperine Piper nigrum – Hu 
+Jiao
+Reduces oxidative 
+stress
+Reduces MDA levels, 
+restores SOD, catalase, 
+and glutathione 
+(GSH), decreases 
+IL‑1β, IL‑6, TNF‑α, 
+and promotes IL‑4, 
+IL‑10. It also reversed 
+microglial activation, 
+shifting the micro‑
+glia from the M1 
+phenotype to the M2 
+phenotype
+C57BL/6 2.5, 5, 
+and 10 mg/kg 
+(15 days)
+Improved cogni‑
+tive perfor‑
+mance (reduced 
+escape latencies 
+and increased time 
+spent in the target 
+quadrant)
+[212]
+Autophagy + anti‑inflam‑
+mation
+Stillbenoid Pterostilbene Pterocarpus 
+marsupium
+Reduces hippocampal 
+neuronal loss, sup‑
+presses neuro‑inflam‑
+mation
+Strengthens Triad3A‑
+mediated ubiquitina‑
+tion remains leading 
+to lysosomal degrada‑
+tion of TLR4, dampen‑
+ing IκB‑α/NF‑κB 
+signalling and lowering 
+IL‑1β & iNOS expression 
+in microglia, directly 
+binds MD2, disrupts 
+MD2–TLR4 interaction, 
+prevents TLR4 dimeriza‑
+tion and downstream 
+NF‑κB activation, par‑
+ticipates TLR4‑mediated 
+inflammatory response 
+and autophagy‑
+dependent Aβ1–42 
+endocytosis
+Swiss‑Kunming 
+mice
+BV‑2
+10 – 40 mg/
+kg (24 h)
+10 µM
+Enhanced working 
+and spatial learning/
+reference memory 
+(alternation rate 
+fully restored 
+in the Y‑maze; train‑
+ing escape latencies 
+shortened; probe‑trial 
+crossings, time, 
+and swim distance 
+in the target quadrant 
+increased; open‑
+field locomotion 
+unchanged, confirm‑
+ing cognitive‑specific 
+benefits)
+[150, 
+151]
+Autophagy + Antioxidant Flavonoid Silibinin Silybinisus labinum 
+L. – Shui Fei Ji
+Antioxidant & neuro‑
+protective, inhibits 
+Aβ aggregation & 
+preserves cognition
+Activates PI3K/Akt 
+(Ser473)/mTOR, lower‑
+ing LC3‑II & Beclin‑1 
+and suppressing 
+excessive autophagy, 
+raises Bcl‑2, cuts Bax, 
+and restores procas‑
+pase‑3, blocking mito‑
+chondrial apoptotic 
+signaling. Scavenges 
+ROS, reducing oxida‑
+tive stress damage, 
+and inhibits Aβ fibril 
+formation
+Primary corti‑
+cal neurons 
+from C57BL/6 mice
+Male C57BL/6 mice
+1–10 µM
+100–200 mg/
+kg/day 
+(3 days)
+Enhanced spatial 
+learning and memory 
+(reduced escape 
+latency and increased 
+time + distance 
+in the target quadrant 
+on the probe trial)
+Improved neuro‑
+logical outcome 
+after ischemia. 
+Enhanced neuronal 
+survival in vitro
+[213]
+
+[W4413867217 PDF PAGE 37]
+Page 37 of 42
+Yuan et al. Chinese Medicine          (2025) 20:138 
+ 
+applicability is constrained by poor bioavailability and 
+dose-dependent toxicity [160– 162].
+To address these obstacles, future research should 
+focus on several key areas: enhancing lysosomal bio -
+genesis, stabilizing lysosomal membrane integrity, and 
+improving lysosomal responsiveness to cellular signals. 
+Concurrently, the development of efficient drug deliv -
+ery systems is essential to improve brain penetration 
+and reduce systemic toxicity. Furthermore, whether 
+these compounds can achieve adequate concentrations 
+in human brain tissue remains to be clarified.
+Overall, phytochemicals demonstrate promising poten-
+tial as lysosome-targeting agents for AD therapy, offering 
+a multi-target strategy to restore lysosomal function and 
+slow neurodegenerative progression. A deeper under -
+standing of their molecular targets, synergistic interac -
+tions, and pharmacokinetics will be critical to facilitate 
+their clinical translation.
+Abbreviations
+AD  Alzheimer disease
+AMPK  Adenosine monophosphate‑activated protein kinase
+APP  Amyloid precursor protein
+Atg  Autophagy‑related gene
+ATP  Adenosine triphosphate
+Aβ  Amyloid beta
+BACE1  Beta‑secretase
+LAMP  Lysosome‑associated membrane proteins
+LC3  Light chain protein‑3
+mTOR  Mechanistic target of rapamycin
+PINK1  PTEN‑induced putative kinase 1
+PSEN  Presenilin‑
+Rab7  Ras‑related protein‑7
+RER  Rough endoplasmic reticulum
+ROS  Reactive oxygen species
+SIRT 1  Sirtuin‑1
+TFEB  Transcription factor EB
+ULK  UNC‑51, Like Autophagy Activating Kinase
+Supplementary Information
+The online version contains supplementary material available at https:// doi. 
+org/ 10. 1186/ s13020‑ 025‑ 01204‑z.
+Additional file 1.
+Additional file 2.
+Additional file 3.
+Additional file 4.
+Acknowledgements
+We want to acknowledge the support of our institution and resources.
+Author contributions
+Man Yuan: Software, Validation, Formal analysis, Writing—review & editing. 
+Trinh Thach Thi Nguyen: Conceptualization, Writing—original draft. Alasdair J. 
+Gibb: 

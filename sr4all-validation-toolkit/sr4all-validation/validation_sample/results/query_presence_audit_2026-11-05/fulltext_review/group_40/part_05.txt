@@ -1,0 +1,190 @@
+ meta-analysis, of which 3 [56,59,60]
+reported a signiﬁcant reduction in TG with the consumption of
+nuts. Subgroup analysis indicated differences related to nut type
+(Supplemental Table 7). However, this signiﬁcant effect should
+be interpreted with caution because of the uneven distribution of
+studies included in the subgroups. When studies assessing the
+effect of nut oils, nut powders, and/or nutﬂours were removed
+from the dose subgroup analysis, results were similar to the
+overall analysis (Supplemental Table 5).
+TC to HDL cholesterol ratio
+A total of 51 strata from 49 studies explored the effect of nut
+consumption on TC:HDL cholesterol. The meta-analysis showed
+that nut consumption was associated with a signiﬁcant decrease
+in TC:HDL cholesterol (Table 2and Figure 5). Six strata from 6
+RCTs [ 53,54,56,57,60,105] were removed from the
+meta-analysis, of which 3 [ 53,54,60] reported a signi ﬁcant
+reduction in TC:HDL cholesterol with the consumption of nuts.
+The subgroup analyses indicated that a similar magnitude of the
+effect was found across the different subgroups (Supplemental
+Table 8). After removing studies assessing the effect of nut oils,
+nut powders, and/or nutﬂours from the dose subgroup analysis,
+results were similar to the overall analysis ( Supplemental
+Table 5).
+LDL cholesterol to HDL cholesterol ratio
+A total of 39 strata from 38 studies explored the effect of nut
+consumption on LDL cholesterol:HDL cholesterol. The meta-
+analysis showed that nut consumption was associated with a
+signiﬁcant decrease in LDL cholesterol:HDL cholesterol (Table 2
+and Figure 6). Two strata from 2 RCTs were removed from the
+meta-analysis, of which both [ 53,54] reported a signi ﬁcant
+reduction in LDL cholesterol:HDL cholesterol with the con-
+sumption of nuts. Variation in the magnitude of the effect was
+observed for nut type, study duration, and health status (Sup-
+plemental Table 9). Although studies with a shorter duration
+(<12 wk) had a larger decrease in LDL cholesterol:HDL choles-
+terol than found for studies of/C21 12 wk, the magnitude of the
+effects in the subgroups is not likely to be clinically signiﬁcant.
+TABLE 2
+Change in outcomes following nut intervention compared to a control
+Outcome Number of
+strata
+Number of
+studies
+Number of
+participants
+Effect estimate Inconsistency
+(I2)%
+LDL cholesterol, mmol/L 126 122 9487 /C0 0.11 (/C0 0.14, /C0 0.07), P < 0.00001 80
+HDL cholesterol, mmol/L 126 122 10,102 0.00 ( /C0 0.01, 0.02),P ¼ 0.59 81
+TC, mmol/L 126 122 9423 /C0 0.13 (/C0 0.18, /C0 0.09), P < 0.00001 87
+TG, mmol/L 122 118 9744 /C0 0.06 (/C0 0.08, /C0 0.03), P < 0.00001 61
+TG:HDL cholesterol 5 5 331 /C0 0.12 (/C0 0.40, 0.15),P ¼ 0.37 0
+TC:HDL cholesterol 51 49 3837 /C0 0.15 (/C0 0.24, /C0 0.07), P ¼ 0.0003 68
+HDL cholesterol:LDL
+cholesterol
+3 3 209 /C0 0.06 (/C0 0.23, 0.11),P ¼ 0.46 53
+LDL cholesterol:HDL
+cholesterol
+39 38 2539 /C0 0.14 (/C0 0.20, 0.08),P < 0.00001 75
+ApoB, mg/dL 39 39 3069 /C0 3.01 (/C0 4.44, /C0 1.58), P < 0.00001 44
+ApoA-I, mg/dL 33 33 2259 /C0 1.02 (/C0 2.53, 0.49),P ¼ 0.19 0
+SBP, mmHg 71 70 6521 /C0 0.05 (/C0 0.83, 0.72),P ¼ 0.89 47
+DBP, mmHg 67 66 6198 /C0 0.10 (/C0 0.53, 0.33),P ¼ 0.65 24
+Abbreviations: ApoA-I, apolipprotein A-1; ApoB, apolipoprotein B; DBP, diastolic blood pressure; HDL, high density lipoprotein; LDL, low density
+lipoprotein; SBP, systolic blood pressure; TC, total cholesterol; TG, triglycerides.
+L. Houston et al. Advances in Nutrition 14 (2023) 1029–1049
+1034
+
+[W4368340710 PDF PAGE 7]
+FIGURE 2. Difference in LDL cholesterol (mmol/L) between nut consumption and control. The diamond indicates a weighted mean difference
+with 95% CIs.
+Abbreviation: IV, inverse variance.
+L. Houston et al. Advances in Nutrition 14 (2023) 1029–1049
+1035
+
+[W4368340710 PDF PAGE 8]
+FIGURE 3. Difference in total cholesterol (mmol/L) between nut consumption and control. The diamond indicates a weighted mean difference
+with 95% CIs.
+Abbreviation: IV, inverse variance.
+L. Houston et al. Advances in Nutrition 14 (2023) 1029–1049
+1036
+
+[W4368340710 PDF PAGE 9]
+For nut type and health status, these results should be interpreted
+with caution because of the small and/or uneven distribution of
+studies included in the subgroups. When studies assessing the
+effect of nut oils, nut powders, and/or nutﬂours were removed
+from the dose subgroup analysis, similar results were found in
+the overall analysis (Supplemental Table 5).
+FIGURE 4. Difference in TGs (mmol/L) between nut consumption and control. The diamond indicates a weighted mean difference with 95% CIs.
+Abbreviation: IV, inverse variance.
+L. Houston et al. Advances in Nutrition 14 (2023) 1029–1049
+1037
+
+[W4368340710 PDF PAGE 10]
+ApoB
+A total of 39 strata from 39 studies explored the effect of nut
+consumption on apoB. The meta-analysis showed that nut con-
+sumption was associated with a signiﬁcant decrease in apoB
+(Table 2 and Figure 7). One stratum from 1 RCT [57] was
+removed from the meta-analysis, though no signiﬁcant ﬁnding in
+relation to apoB and the consumption of nuts was reported.
+Subgroup analysis indicated signiﬁcant subgroup differences
+related to study design, nut type, and health status (Supple-
+mental Table 10). Larger decreases in apoB were observed in
+cross-over studies, compared to parallel studies, although the
+magnitude of the effects in the different subgroups is not likely to
+be clinically signiﬁcant. Other signiﬁcant effects for nut type and
+health status should be interpreted with caution because of the
+small and/or uneven distribution of studies included in the
+subgroups. When studies assessing the effect of nut oils, nut
+powders, and/or nutﬂours were removed from the dose sub-
+group analysis, similar results were found in the overall analysis
+(Supplemental Table 5).
+HDL cholesterol, TG to HDL cholesterol ratio, HDL cholesterol
+to LDL cholesterol ratio, apoA-I, SBP, and DBP
+The meta-analysis showed that consumption of nuts had no
+signiﬁcant effect on HDL cholesterol and did not result in sig-
+niﬁcant differences in TG:HDL cholesterol, HDL cholesterol:LDL
+cholesterol, apoA-I, SBP, and DBP (Table 2 and Supplemental
+Figures 1–6). In the case of the subgroup analyses, a similar
+magnitude of the effect was found across the different subgroups
+for apoA-I (Supplemental Table 11) and SBP (Supplemental
+Table 12). Although there were signiﬁcant subgroup differences
+found for HDL cholesterol (Supplemental Table 13) and DBP
+(Supplemental Table 14) according to health status, these dif-
+ferences should be interpreted with caution because of the un-
+even distribution in the number of participants and studies
+included in the subgroups. Variation in the magnitude of the
+effect was also observed for DBP and study duration (Supple-
+mental Table 14 ). Although a reduction in DBP was only
+observed in studies with a duration of 12 or more weeks, it
+should be noted that the magnitude of this reduction was small
+FIGURE 5. Difference in total cholesterol to HDL cholesterol ratio between nut consumption and control. The diamond indicates a weighted mean
+difference with 95% CIs.
+Abbreviation: IV, inverse variance.
+L. Houston et al. Advances in Nutrition 14 (2023) 1029–1049
+1038
+
+[W4368340710 PDF PAGE 11]
+and not likely to be clinically signiﬁcant. Similar results to the
+original analysis were found when studies assessing the effect of
+nut oils, nut powders, and/or nutﬂours were removed from the
+dose subgroup analysis for HDL cholesterol, TG:HDL cholesterol,
+HDL cholesterol:LDL cholesterol, apoA-I, SBP, and DBP (Sup-
+plemental Table 5).
+Heterogeneity
+Considerable heterogeneity (I2 >75%) was observed for LDL
+cholesterol, HDL cholesterol, and TC (seeTable 2). In addition,
+substantial heterogeneity (I2: 50%–75%) was observed for 4
+measures (TG, TC:HDL cholesterol, LDL cholesterol:HDL
+cholesterol, and HDL cholesterol:LDL cholesterol), moderate
+heterogeneity (I2: 36%–60%) for 2 measures (apoB and SBP),
+whereas low heterogeneity (I2:0 %–35%) was observed for 3
+measures (TG:HDL cholesterol, apoA-I, and DBP).
+Small study effects
+Funnel plots were generated for outcomes with 10 or more
+strata (LDL cholesterol, HDL cholesterol, TC, TG, TC:HDL
+cholesterol, LDL cholesterol:HDL cholesterol, apoA-I, apoB, SBP,
+and DBP) (seeSupplemental Figures 7–16). Egger’s test out-
+comes indicated funnel plot asymmetry for LDL cholesterol (bias:
+/C00.69; 95% CI:/C0 1.10, /C0 0.28; P ¼ 0.001), HDL cholesterol (bias:
+0.58; 95% CI: 0.07, 1.09;P ¼ 0.027), TC (bias:/C0 0.82; 95% CI:
+/C0 1.33, /C0 0.31; P ¼ 0.002), TG (bias: /C0 0.58; 95% CI: /C0 0.86,
+/C0 0.30; P ¼ 0.000), SBP (bias:/C0 0.61; 95% CI:/C0 1.11, /C0 0.12; P ¼
+0.016), and DBP (bias:/C0 0.57; 95% CI:/C0 0.99, /C0 0.14; P ¼ 0.010).
+These results indicate the presence of small study effects, which
+may be caused by publication bias. By comparison, funnel plot
+asymmetry was not detected for TC:HDL cholesterol (bias: 0.42;
+95% CI:/C0 0.33, 1.16; P ¼ 0.266), LDL cholesterol:HDL choles-
+terol (bias: 0.14; 95% CI:/C0 0.63, 0.91; P ¼ 0.713), apoB (bias:
+0.35; 95% CI:/C0 0.20, 0.90; P ¼ 0.205), and apoA-I (bias: 0.42;
+95% CI:/C0 0.34, 1.19;P ¼ 0.268).
+Quality assessment
+Quality assessment is presented for each study in Supple-
+mental Table 3, with full quality assessment available inSup-
+plemental Table 15. The quality of evidence was“low”for n ¼ 18
+intervention studies [ 50,51,53,55,58–60,77,78,82,85,90,100,
+101,122,124,127,146,149,150].
+The certainty of the body of evidence was assessed for studies
+included in meta-analyses using GRADE, with results presented
+inSupplemental Table 16. The certainty of the body of evidence
+for apoA-I was “high.” The body of evidence for TC:HDL
+cholesterol, LDL cholesterol:HDL cholesterol, and apoB was
+downgraded to“moderate”because of inconsistency and for DBP
+because of the likelihood of publication bias. The certainty for
+TG and SBP was downgraded to“low” because of inconsistency
+and the likelihood of publication bias, and the certainty for
+TG:HDL cholesterol was downgraded to “low” because of
+FIGURE 6

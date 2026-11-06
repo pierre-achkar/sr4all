@@ -1,0 +1,343 @@
+owing child, 
+parent, and family outcomes: child internalising problems 
+(i.e., anxiety, depression, and suicidality), child externalising 
+problems (i.e., behavioural problems, conduct problems, and 
+attention-deficit hyperactivity disorder), parent symptoms of 
+mood and anxiety disorders (here summarised as internalis-
+ing), parental substance abuse, other parental psychological 
+symptoms (i.e., psychological distress and global function-
+ing), family functioning (i.e., spouse relationship, sibling 
+relationship, family communication, family conflict, family 
+times, and routines), parenting (i.e., parenting stress, parent-
+ing sense of competence, parenting skills, parenting style, 
+and child abuse), and assessments of the parent–child rela-
+tionship (i.e., communication, and parent–child conflict or 
+observation of interactions).
+Child internalising outcomes
+Twenty-seven studies (75%; 27/36) assessed changes in 
+children’s internalising symptoms (27%; 10/36), includ-
+ing depression (41%; 15/36) and anxiety symptoms (19%; 
+7/36). Of these 27 studies, five studies (18%; 5/27) found no 
+intervention effects, nine studies (33%; 9/27) reported mixed 
+findings and 13 studies (48%; 13/27) reported significant 
+post-intervention effects of reduced internalising symptoms 
+in children. Studies reporting no intervention effects were 
+small pilot studies (ID-t : 2, 22, 25). Of the 13 studies that 
+indicated any positive intervention effects, 8 studies reported 
+effect sizes of which the majority (t  = 5) were small-to-
+medium-effect sizes (d = 0.22–0.42). Studies reporting large-
+effect sizes (d  = 0.95–1.58) were also either small pilot or 
+feasibility trials (ID-t : 7, 16, 26). Seven of the 13 report-
+edly ‘effective’ studies involved an active control condition 
+of which only two (7%; 2/27) reported significant ‘time × 
+group’ effects (ID-t: 15, 35). Three studies that reported sig-
+nificant time effects but no ‘group × time’ effect involved 
+control groups that received a short intervention containing 
+psychoeducational lectures for parents (ID-t: 1,3,6). For the 
+other four studies, three control groups received treatment as 
+usual and one received enhanced care containing six addi-
+tional psychoeducational sessions. Nine studies reported 
+mixed findings (33%; 9/27), where findings differed between 
+reporters (t = 5; i.e., parent, clinician, and child), type of self-
+report measure used (t  = 4), or effects were temporary or 
+disappeared after controlling for baseline measures. In terms 
+of reporter differences, we found that parents and clinicians 
+tended to report greater changes in children’s internalising 
+levels compared to children themselves.
+Child externalising symptoms
+Fewer studies (50%; 18/36) assessed children’s externalis-
+ing problems. Eight studies (22%; 8/36) measured changes 
+in behavioural and externalising symptoms, six (16%; 6/36) 
+assessed conduct symptoms, including aggressive behav -
+iour, three studies (8%; 3/36) measured changes in children’s 
+hyperactivity levels, and one study (2%; 1/36) assessed 
+levels of drug use. Of the 18 studies assessing any type of 
+externalising symptoms, eight studies (44%; 8/18) reported 
+some intervention effects, eight studies (44%; 8/18) found 
+no effects and two studies (11%; 2/18) reported mixed find-
+ings, where the results differed depending on the scale used 
+(CBCL vs YSR) and the respective reporter (child vs parent). 
+Of the eight studies reporting some form of intervention 
+effect, three studies did not provide descriptive statistics or 
+outcomes of statistical tests (ID-t  24, 26, 28). Five studies 
+were small pilot or feasibility trials (ID-t  2,16, 21, 23, 26) 
+of which three studies reported small-to-moderate-effect 
+sizes (d  = 0.39–0.62) and two reported large-effect sizes 
+(d = 0.70–0.95); however, sample size in these studies were 
+small.
+Parental mental health outcomes
+Fifteen studies assessed any parental mental health out-
+comes. For internalising symptoms (t  = 11), three studies 
+(27%; 3/11) reported significantly better parental internal-
+ising outcomes in the intervention group compared to the 
+control group. Six studies (55%; 6/11) reported positive 
+changes over time and two studies (18%; 22/11) reported 
+
+[W4392109527 PDF PAGE 24]
+3226 European Child & Adolescent Psychiatry (2024) 33:3203–3246
+Table 3  Overview of family components
+Study ID Report ID Country Intervention N families Family participants (treatment) Family participants (control) Family component
+1 1 Greece Family Talk Intervention Nt 30
+Nc 32
+Fathers 6
+Mothers 26
+Male offspring 14
+Female offspring 16
+Fathers 6
+Mothers 24
+Male offspring 19
+Female offspring 13
+Parent + partner + child take part
+One parents + child session per 
+child. No sessions with siblings or 
+other family members
+2 73 GER Family Talk Intervention (Group 
+Version)
+Nt 28
+Nc 9
+Father –
+Mother –
+Male offspring 12
+Female offspring 16
+Father –
+Mother –
+Male offspring 4
+Female offspring 5
+One individual family session with 
+parents and child. No informa-
+tion on involvement of siblings or 
+other family members
+3 93
+119
+123
+Finland Family Talk Intervention Nt 53
+Nc 56
+Father –
+Mother –
+Offspring 76
+Father –
+Mother –
+Offspring 69
+Parent + partner + child
+One individual family session with 
+parents and child. No informa-
+tion on involvement of siblings or 
+other family members
+4 186 USA Family Talk Intervention Nt 7 Parent 7
+Partner 7
+Offspring 8
+na 1–2 Family sessions. No informa-
+tion on involvement of siblings or 
+other family members
+5 180 USA Family Talk Intervention Nt+c 28 Parents 54
+Average number of children in 
+family 2
+na 1–2 Family sessions. No informa-
+tion on involvement of siblings or 
+other family members
+6 148
+162
+177
+178
+179
+USA Family Talk Intervention Nt 55
+Nc 44
+Parents 97
+Offspring 78
+Parents 76
+Offspring 54
+1–2 Family sessions. No informa-
+tion on involvement of siblings or 
+other family members
+7 5 USA Mobile-enhanced family-focused 
+therapy (FFT)
+Nt 22 Mother 16
+Father 17
+Male offspring 10
+Female offspring 12
+na 12 Family sessions with child and 
+parent(s). Other family members 
+are invited to take part
+8 8
+20
+34
+70
+USA Coping and promoting strength Nt 70
+Nc 66
+Mothers 107 across both groups
+Fathers 29 across both groups
+113 offspring across both groups
+6 Sessions for all interested family 
+members
+9 132 USA Coping and promoting strength Nt 20
+Nc 20
+Parent 20
+Partner –
+Offspring 20
+Parent 20
+Partner –
+Offspring 20
+6 Sessions for all interested family 
+members
+10 10 UK Young SMILES Nt 18
+Nc 15
+Parent 18
+Partner –
+Male offspring 12
+Female offspring 12
+Parent 15
+Partner –
+Male offspring 7
+Female offspring 9
+None
+
+[W4392109527 PDF PAGE 25]
+3227European Child & Adolescent Psychiatry (2024) 33:3203–3246 
+Table 3  (continued)
+Study ID Report ID Country Intervention N families Family participants (treatment) Family participants (control) Family component
+11 11
+19
+31
+48
+USA Ecologically based family therapy 
+(EBFT)
+Nt 123
+Nc 60
+Mothers 123 across both groups
+Offspring 180 across both groups
+36% included siblings across both groups
+9% included partner across both groups
+10% other family member across both groups
+All children, partners and other 
+caregivers invited. 12 family ses-
+sions focus on needs assessment, 
+problem-solving, communication
+12 21 USA Ecologically based family therapy 
+(EBFT)
+Nt 49
+Nc 19
+Mothers 49
+Partners –
+Offspring –
+Mothers 19
+Partners –
+Offspring –
+All children, partners and other 
+caregivers invited. 12 family ses-
+sions focus on needs assessment, 
+problem-solving, communication
+13 201
+16
+GER Family Group Cognitive-Behav-
+ioural
+Nt 50
+Nc 50
+Parent 50
+Offspring 50
+Siblings 77%
+Parent 50
+Offspring 50
+Siblings 72%
+The first two sessions involve 
+parents and children for the whole 
+session, the remaining 6 sessions 
+start and end in the family- and 
+group- setting but include separate 
+activities for parents and children. 
+Siblings are allowed to join
+14 18
+29
+72
+82
+105
+116
+122
+138
+USA Family Group Cognitive-Behav-
+ioural
+Nt 90
+Nc 90
+Mothers 160 across both groups
+Fathers 20 across both groups
+Female offspring 121 across both groups
+Male offspring 121 across both groups
+8–12 Sessions where parents and 
+children meet together part of the 
+time and separately part of the 
+time. No information on involve-
+ment of siblings or other family 
+members
+15 26 GER Kanu Intervention Nt 41
+Nc 26
+Parents 46
+Partner –
+Offspring 60
+Parents 25
+Partner –
+Offspring 44
+10 Individual sessions involving 
+parent (and partner) and children
+16 45 Canada The Renascent Children’s Pro-
+gramme
+Nt 19 Mother 15
+Father 6
+Grandmother 3
+Uncle 1
+Stepparent 1
+Male offspring 12
+Female offspring 14
+na Parent, guardian or other family 
+member can attend. Gener-
+ally separate groups for parents 
+and children with overlapping 
+activities over 4 days. No specific 
+information about the activities 
+available
+17 62 USA Parent-Adolescent CBT (PA-
+CBT) protocol
+Nt 16
+Nc 8
+Parent 16
+Offspring 16
+Parent 8
+Offspring 8
+All 18 individual sessions with 
+child concluded with a conjoint 
+“check-in” meeting between par-
+ent and teen to enhance positive 
+communication
+18 67 AUS Supporting Kids and Their Envi-
+ronment (SKATE)
+Nt 89 Parents –
+Female offspring 51
+Male offspring 38
+na Letters sent to parents with tasks 
+that children and parents work on 
+together
+
+[W4392109527 PDF PAGE 26]
+3228 European Child & Adolescent Psychiatry (2024) 33:3203–3246
+Table 3  (continued)
+Study ID Report ID Country Intervention N families Family participants (treatment) Family participants (control) Family component
+19 71 UK CBT with mother–child interac-
+tion
+Nt 71
+Nc 69
+Nc 71
+All mothers
+Offspring 71
+All mothers
+Offspring 71
+Offspring 69
+Two sessions with mother and child 
+completing task that are video 
+recorded for later video-feedback
+21 91 USA Fortalezas Familiares (family 
+strengths)
+Nt 13 Mothers 13
+Fathers 10
+Grandmother 1
+na Other caregivers or children are 
+invited to take part. All 12 ses-
+sions include all family members
+22 101 USA P

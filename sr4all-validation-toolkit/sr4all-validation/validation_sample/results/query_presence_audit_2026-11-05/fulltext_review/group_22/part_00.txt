@@ -1,0 +1,119 @@
+
+
+REVIEW W3084988572
+TITLE: Diagnostic value of four neuroendocrine markers in small cell neuroendocrine carcinomas of the cervix: a meta-analysis
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W3084988572 PDF PAGE 1]
+1
+Vol.:(0123456789)Scientific RepoRtS  |        (2020) 10:14975  | https://doi.org/10.1038/s41598-020-72055-x
+www.nature.com/scientificreports
+Diagnostic value of four 
+neuroendocrine markers in small 
+cell neuroendocrine carcinomas 
+of the cervix: a meta‑analysis
+Rui Huang1, Li Yu1, chunying Zheng1, Qingchun Liang2, Suye Suye1, Xue Yang1, Huan Yin1, 
+Zhen Ren1, Liye Shi1, Zhibang Zhang1, Hongliang chen1 & chun fu1*
+Small cell neuroendocrine carcinoma of the cervix (Scnecc ) is a highly invasive cervical cancer. the 
+immunohistochemical criteria is an important aspect for assistant diagnosis of Scnecc . However, 
+which markers can be appropriate selection for diagnosing Scnecc  were not determined. the 
+aim was to systematically evaluate expression levels of four neuroendocrine markers (containing 
+synaptophysin (Syn), neural cell adhesion molecules (CD56), neuron-specific enolase (NSE) and 
+chromograninA (CgA)) and to find out the appropriate selection for diagnosing SCNECC. Four English 
+and three Chinese libraries were retrieved between 1984 and 2020. 23 studies about NSE, 36 studies 
+about Syn, 23 studies about CD56 and 36 studies about CgA (all studies containing 581 patients) 
+were eligible for meta-analyses. The pooled positive expression percentages (95% CI;  I2) were as 
+follows: 84.84% (79.41–90.27%; 76.7%) for Syn, 84.53% (79.43–89.96%; 37.5%) for CD56, 77.94% 
+(69.13–86.76%; 83.5%) for NSE, and 72.90% (67.40–78.86%; 59.7%) for CgA. The positive proportions 
+(95% CI;  I2) ranked top three of simultaneous expressions of two markers were 87.75% (82.03–93.87%, 
+33.3%) for Syn and CD56, 70.92% (50.50–87.68%, 82.7%) for Syn and NSE, 65.65% (53.33–76.98%, 
+73.5%) for Syn and CgA. This confirms that Syn and CD56 are reliable indicators for diagnosing 
+Scnecc.
+Neuroendocrine carcinoma of the cervix (NECC) is an aggressive histological variant of cervical malignancy. 
+Small cell NECC (SCNECC) is the most common and high–grade poorly differentiated histological subtype of 
+ NECC1. SCNECC is associated with adverse outcome in spite of even a small component in mixed carcinomas 
+of the uterine  cervix2. Therefore, accurate initial diagnosis of SCNECC is paramount. SCNECC has its unique 
+growth characteristic that the cancer cells have the capacity to invade the stroma extensively even in the early 
+ stage1,3. This may result in negative cytology and increase the difficulty of clinical diagnosis. Pathomorphologi-
+cal diagnosis is the basis for SCNECC, the immunohistochemical (IHC) criteria is an important aspect for the 
+diagnosis  too3.
+To establish the SCNECC diagnosis, at least one or two positive staining neuroendocrine markers is 
+ recommended1,4–6. IHC staining for neuroendocrine markers include synaptophysin (Syn), neural cell adhe-
+sion molecules (CD56), neuron-specific enolase (NSE) and chromograninA (CgA), positive expression of which 
+indicates the neoplasms arising from cells of the neuroendocrine  system7,8. The above four neuroendocrine 
+markers have been widely used for the assistant diagnosis of SCNECC. However, due to the low incidence of 
+SCNECC, the relative literatures were clinical case reports or case  series1,3. In addition, there are differences in 
+values of positive expression rate among individual studies. Accordingly, the true levels of the four neuroendo-
+crine markers may not be accurate by direct quantitative assessment of each study. It is also difficult to select 
+the appropriate neuroendocrine markers to assist to diagnose SCNECC. Hence we performed a meta–analysis 
+to evaluate the IHC expression of Syn, CD56, NSE and CgA, and aimed to provide an appropriate selection of 
+neuroendocrine markers for assistant diagnosis of SCNECC.
+open
+1Department of Obstetrics and Gynecology, Second Xiangya Hospital, Central South University, Changsha, Hunan, 
+China. 2Department of Pathology, Second Xiangya Hospital, Central South University, Changsha 410011, Hunan, 
+China. *email: fuchun0814@csu.edu.cn
+
+[W3084988572 PDF PAGE 2]
+2
+Vol:.(1234567890)Scientific RepoRtS  |        (2020) 10:14975  | https://doi.org/10.1038/s41598-020-72055-x
+www.nature.com/scientificreports/
+Methods
+Literature search. The study was approved by the Ethics Committee of Second Xiangya hospital. We only 
+retrospectively extracted the clinical and pathological data of patients, which had no impact on the outcome of 
+patients. The study was conducted according to the Preferred Reporting Items for Systematic Reviews and Meta-
+analyses (PRISMA) guidelines. Patients and public were not involved in this study. We interrogated four English 
+libraries (the PubMed, Cochrane library, Web of science, and EMbase databases) and three Chinese libraries (the 
+China National Knowledge Infrastructure (CNKI), VIP , and Wanfang databases) to perform a comprehensive 
+search from inception to 20 January 2020. The broad search strategy used combinations of the following key 
+terms: “Cervical tumor” , “small cell carcinoma” , “neuroendocrine carcinoma” , “neuroendocrine marker” . In order 
+to interpret the results more objectively, the titles and abstracts were carefully screened according to the screen-
+ing flow chart showed in the Fig. 1.
+eligibility criteria. The inclusion criteria were as follows: (i) English or Chinese published clinical studies; 
+(ii) SCNECC patients confirmed by pathological diagnosis without age or racial restrictions; (iii) detailed IHC 
+information with the positive expression rate of at least one of four neuroendocrine markers (Syn, CD56, NSE 
+and CgA). The exclusion criteria were as follows: (i) case report of individual patient; (ii) systematic review or 
+duplicate data; (iii) no detailed messages of IHC staining; (iv) non-SCNECC patients; (v) literature on basic 
+research and animal studies. The research was still included if the study group was SCNECC patients and the 
+control group was non-SCNECC patients.
+All potentially relevant abstracts or full articles were reviewed independently by two researchers. When dis-
+crepancies between researchers occurred for inclusion or exclusion, discussion was conducted and disagreements 
+were resolved by consensus. Quality assessment of all qualified literature was then done.
+Figure 1.  The screening flow chart of literature about small cell neuroendocrine carcinoma of the cervix 
+(SCNECC). n1, n2, n3 and n4 respectively represent the number of the literature about Syn, CD56, NSE 
+and CgA in each screening step. CNKI China National Knowledge Infrastructure; SCNECC small cell 
+neuroendocrine carcinoma of the cervix; Syn synaptophysin; CD56 neural cell adhesion molecules; NSE neuron-
+specific enolase; CgA chromograninA; IHC immunohistochemical staining.
+
+[W3084988572 PDF PAGE 3]
+3
+Vol.:(0123456789)Scientific RepoRtS  |        (2020) 10:14975  | https://doi.org/10.1038/s41598-020-72055-x
+www.nature.com/scientificreports/
+Data extraction. Information including types of studies, name of first author, institution, publication year 
+and clinical data of patients was analyzed in each study.The clinical data were consisted of age, tumor stage, his-
+topathological type, IHC results, treatment and prognosis.
+We searched the definition of IHC positive staining in each study and found three methods of description. 
+The first method only mentioned the positive expression without specific description. The second defined posi-
+tive staining by positive staining percentage of tumor cells. When the staining rate of neuroendocrine markers 
+was more than 5% or 10%, the expression of neuroendocrine markers was positive. The third was definition of 
+positive staining by a four-point scale. Staining was graded as 0, 1 + (less than 5% or 10% tumor cells), 2 + (5% or 
+10–50% tumor cells), 3 + (more than 50% tumor cells) respectively. The positive expression of neuroendocrine 
+markers by any of the above three methods was regarded as positive expression.
+The positive expression rate of individual neuroendocrine marker in one study was defined as follows: number 
+of positive expression SCNECC cases/number of tested SCNECC cases (percentage). In addition, there are 6 
+combinations of the two markers, which are Syn and CD56, Syn and NSE, Syn and CgA, CD56 and NSE, CD56 
+and CgA, NSE and CgA. Similarly, the positive expression rate of two markers can be calculated as followed: 
+number of simultaneous positive expression cases/number of tested cases in one study (percentage). If the study 
+included patients with non-SCNECC, we tried to calculate the sensitivity and specificity of neuroendocrine 
+markers expression.
+Statistical analysis. All raw data extracted from the predetermined studies were managed using MetaProp 
+function in statistical software R 3.5.0. The detailed approach of meta-analysis was shown in Supplementary 
+Fig. 1. The first step was to determine if a transformation of raw rate is needed. The converted rate was calculated 
+with optimum one of the four proportion transform methods (log, logit, arcsine, and dsrsine) if the raw rate 
+does not satisfy the normal distribution. Then the pooled expression proportions with 95% confidence intervals 
+(CIs) of one marker or two markers could be determined using the appropriate transformation to give the effec-
+tive value. A random effect model was selected when p ≤ 0.05 and a fixed effect model was used when p > 0.05.
+Additionally, we also measured the effect of heterogeneity between the included studies using  I2 = 100% × (Q 
+− df)/Q.  I2 value of 25%, 50%, and 75% were considered as low, moderate, and high degrees of heterogeneity 
+respectively. The results of meta-analysis were presented in forest maps. Funnel plot asymmetry was assessed 
+by the Egger’s linear regression test. The results provided publication bias results for this meta-

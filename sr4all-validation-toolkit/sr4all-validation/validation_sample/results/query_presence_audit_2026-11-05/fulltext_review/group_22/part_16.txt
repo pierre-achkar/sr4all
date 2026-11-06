@@ -1,0 +1,139 @@
+n Patients with Colorectal Cancer: a Systematic Review and Meta-Analysis Protocol
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W3135880610 PDF PAGE 1]
+ 
+ 
+The Prognostic Value of PD-1/PD-L1 Expression on Tumor Cells and Tumor-
+Infiltrating Immune Cells in Patients with Colorectal Cancer: a Systematic 
+Review and Meta-Analysis Protocol 
+Fateme Abedinia#, Saeedeh Salehib#, Leila Jananic, Monireh Mohsenzadegand* 
+a Department of Immunology, School of Medicine, Iran University of Medical Sciences, Tehran, Iran. 
+b Department of Immunology, School of Medicine, Tehran University of Medical Sciences, Tehran, Iran. 
+c Department of Biostatistics, School of Public Health, Iran University of Medical Sciences, Tehran, Iran. 
+d Department of Medical Laboratory Science, Faculty of Allied Medical Sciences, Iran University of Medical 
+Sciences, Tehran, Iran. 
+* Corresponding author: Department of Medical Laboratory Science, Faculty of Allied Medical Sciences, 
+Iran University of Medical Sciences, Tehran, Iran. Tel: +982186704681, E-mail: 
+monirehmohsenzadegan@gmail.com 
+# These authors contributed equally. 
+E-mail address of authors: 
+Fateme.abediny@gmail.com 
+salehi_saeedeh@yahoo.com 
+leila.janani@gmail.com 
+monirehmohsenzadegan@gmail.com 
+Abstract 
+Aim: Colorectal cancer (CRC) is one of the most common cancers in the world. However, the role of 
+immune checkpoint molecules, especially Programmed cell death protein 1 (PD -1) and Programmed 
+cell death-ligand 1 (PD -L1), in the progression of CRC remains unclear. This systematic review and 
+meta-analysis will investigate the prognostic significance of PD -1/PD-L1 expression on tumor -
+infiltrating immune cells and tumor cells in patients with colorectal cancer. 
+Methods: This protocol has been prospectively registered in the PROSPERO (registration NO. 
+CRD42020156233). A comprehensive electronic search on PubMed/MEDLINE, Scopus, Web of 
+Science (WOS), Embase and ProQuest will be conducted using a combination of MeSH terms of 
+“programmed cell death 1 ”, “programmed cell death ligand 1 ”, “colorectal” and “cancer” between 1 
+January 1990 and 31 March 2021 with no language limitation. Two independent reviewers will perform 
+study selection, data extraction, and risk of bias assessment.  The Newcastle-Ottawa Scale (NOS) for 
+cohort studies will be used  to assess the risk of bias. In the case of suf ficient data, either random or 
+fixed-effect models, will be used for meta-analysis. Statistical heterogeneity will be evaluated by 2 test 
+with the I2 statistic. “Funnel plot”, “Begg’s statistical test”, and “Egger’s statistical test and graph” will 
+be used to assess publication bias. Stata V.13 software will be employed for meta-analysis. 
+Results and conclusion : According to the meta -analysis of the aggregated data from the relevant 
+primary studies, the relationship between expression of PD -1/PD-L1 and prognostic parameters, 
+including progression-free survival and overall survival, will be reported. The results of the current study 
+will be published in a peer-reviewed journal. 
+ . CC-BY-ND 4.0 International licenseIt is made available under a 
+perpetuity. 
+ is the author/funder, who has granted medRxiv a license to display the preprint in(which was not certified by peer review)preprint 
+The copyright holder for thisthis version posted March 11, 2021. ; https://doi.org/10.1101/2021.03.09.21253153doi: medRxiv preprint 
+NOTE: This preprint reports new research that has not been certified by peer review and should not be used to guide clinical practice.
+
+[W3135880610 PDF PAGE 2]
+ 
+ 
+1. Introduction 
+Colorectal cancer (CRC) is the second most common cancer in men and women after prostate and 
+breast cancer, respectively. It is also the second lethal cancer after lung cancer in the world  (1). The 
+5-year survival rate in patients with CRC is about 64%. However, it relates to several factors, such as 
+the stage of cancer, age, and overall health. For instance, 14% of people who have distant metastases 
+have 5 -year survival (2). Althou gh the rate of death from CRC has been decreasing due to the 
+improvement of screening and treatment, it remains a leading cause of death worldwide for its poor 
+prognosis, especially in the late stages. Therefore, it is crucial to identify biomarkers to imp rove 
+patient’s outcome. 
+The progression of CRC is influenced by complex interactions between tumor 
+microenvironment (TME) and tumor cells. TME employs many mechanisms to suppress the immune 
+system (3); one of them is programmed cell death protein 1/programmed cell death -ligand 1 (PD -
+1/PD-L1) axis, which affects the balance between immune resistance and tumor immune surveillance 
+(4). 
+PD-1 (CD279) is an inhibitory co-receptor expressed on the surface of activated immune cells, 
+including dendritic cells, macrophages, natural killer (NK) cells, and tumor-infiltrating lymphocytes 
+(TILs; e.g., T cells, and B cells) (5). PD-L1 (CD274) - the primary ligand of PD-1 - is expressed by 
+the immune system or cancer cells (6). Immune cells, such as activated lymphocytes (T, B, and NK 
+cells) express PD-L1 on their surface (3). The high expression of PD-L1 on TILs or tumor cells leads 
+to T cell exhaustion and promotes tumor progression (4). 
+The interaction between PD-1 and PD-L1 sends inhibitory signals that block the production 
+of cytotoxic mediators required for the killing of tumor cells and also reduces the proliferation of T 
+cells (7, 8). 
+The relation between unusual expression of PD-L1 and prognosis or response to the treatment 
+has been observed in several cancers. For example, the relationship between PD-L1 expression and 
+prognosis has been detected in different solid tumors, including urothelial carcinoma, non-small cell 
+ . CC-BY-ND 4.0 International licenseIt is made available under a 
+perpetuity. 
+ is the author/funder, who has granted medRxiv a license to display the preprint in(which was not certified by peer review)preprint 
+The copyright holder for thisthis version posted March 11, 2021. ; https://doi.org/10.1101/2021.03.09.21253153doi: medRxiv preprint 
+
+[W3135880610 PDF PAGE 3]
+ 
+ 
+lung cancer (NSCLC), and ovarian cancer (9-11). Furthermore, several studies have investigated the 
+relationship between the expression of PD-1/PD-L1 and survival in patients with CRC; some of them 
+have shown that patients with overexpression of these molecules have better survival than others (12, 
+13), but other studies have illustrated opposite results or no relationship (14, 15).  
+Due to these controversies , several systematic reviews and meta -analyses have been 
+conducted in order to evaluate the prognostic significance of PD-L1 expression in patients with CRC 
+and other cancers. Two meta-analyses have been done in all of the cancers and showed the PD -L1 
+expression is linked to a poor prognosis (16, 17). Another meta-analysis has evaluated the prognostic 
+significance of PD-1 and PD-L1 expressions in immune cells of the tumor microenvironment  and 
+showed the prognostic role of these molecules in the cancers (18). Four studies in 2018 and 2019, 
+have examined the relationship between PD-L1 expression on tumor cells and prognostic parameters 
+in patients with CRC and concluded that PD -L1 overexpression is related to a poor prognosis (19-
+22). Most of these studies consist of English-language articles only; and focused on the expression of 
+PD-L1 on tumor cells. 
+This systematic review and meta-analysis aims to evaluate the association between PD-1/PD-
+L1 expression on both tumor cells and TIICs and prognostic parameters (e.g., overall survival (OS), 
+progression-free survival ( PFS), disease-free survival (DFS), and recurrent-free survival (RFS)) in 
+patients with colorectal cancer. The secondary objective is about evaluating the relationship between 
+PD-1/PD-L1 expression and clinicopathological features (e.g., stage of cancer, tumor location, 
+microsatellite stability status, differentiation grade, vascular or lymphatic invasion). 
+Based on our knowledge, this s tudy, for the first time,  will simultaneously evaluate the 
+association between the expression of both PD -1 and PD -L1 on both tumor cells and TIICs and 
+compare their expression with prognostic parameters in patients with CRC. Moreover, no restriction 
+on publication language will be applied to this study. 
+ . CC-BY-ND 4.0 International licenseIt is made available under a 
+perpetuity. 
+ is the author/funder, who has granted medRxiv a license to display the preprint in(which was not certified by peer review)preprint 
+The copyright holder for thisthis version posted March 11, 2021. ; https://doi.org/10.1101/2021.03.09.21253153doi: medRxiv preprint 
+
+[W3135880610 PDF PAGE 4]
+ 
+ 
+2. Methods 
+This protocol has been prospectively registered in the PROSPERO International prospective register 
+of systematic reviews (registration NO. CRD42020156233). The methods adopted for this review 
+conform to Preferred Reporting Items for Systematic Review and Meta-Analysis (PRISMA) checklist 
+for systematic reviews (23), and the protocol has been adopted to the PRISMA -P 2015 checklist 
+(supplemental file 1) (24). Furthermore, the number of included or excluded original studies during 
+the study selection will be described through the PRISMA flow diagram (figure 1) (23). 
+ 
+Figure 1. PRISMA flow diagram 
+2.1 Inclusion and exclusion criteria 
+1. Study characteristics 
+(1) Only cohort studies will be included in this study. 
+(2) There is no restriction on the language of studies (Google Translate will be used to translate 
+non-English articles appropriately). 
+(3) There is no geographic limitation for the studies. 
+ . CC-BY-ND 4.0 International licenseIt is made available under a 
+perpetuity. 
+ is the author/funder, who has granted medRxiv a license to display the preprint in(which was not certified by peer review)preprint 
+The copyright holder for thisthis version posted March 11, 2021. ; https://doi.org/10.1101/2021.03.09.21253153doi: medRxiv 

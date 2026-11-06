@@ -1,0 +1,179 @@
+y of different anemia treatments
+in CKD patients undergoing dialysis. All superiority, phase II and
+III, nonblinded, single-blinded, noninferiority, and double-blinded
+trials were included. Interventions of interest included 6 HIF-PHIs
+(roxadustat, vadadustat, daprodustat, enarodustat, molidustat, and
+desidustat) and 3 ESAs (rhEPO, DPO and MPG-EPO). The
+exclusion criteria were as follows: 1) participants in the study
+had primary anemia or anemia resulting from blood loss, cancer,
+or infectious diseases, 2) only one drug for treating CKD with
+anemia was studied (for example, comparisons of different doses or
+dosing frequency of the same drug), 3) participants were<18 years
+old, 4) outcome data could not be sourced from authors, 5) the
+control group was a placebo, or 6) ESAs were unknown or EPO and
+DPO combinations were used.
+2.3 Data extraction and quality assessment
+Three authors (Xiuben Du and Minlin You) independently
+extracted data from the original trial reports using a standardized
+method and then veriﬁed the extraction. Disagreements were resolved
+via discussion among reviewers. We contacted the corresponding
+authors and sponsoring pharmaceutical companies of the included
+trials to request missing data. Data extraction was performed using a
+self-designed data extraction method (Longfeng Jiang). The main
+study characteristics included the year of publication, authors, clinical
+trial number, type of study, population characteristics, sample size,
+dosage of drugs, treatment duration, control treatment, race, gender,
+mean age, baseline Hb level, type of replacement therapy, iron
+supplement, deﬁnition of Hb response, and primary and secondary
+outcomes. We assessed sources of bias using the Cochrane
+Collaboration’s risk-of-bias tool, which addresses 9 domains
+(Higgins, 2008). Two authors (Ming Hong and Qinming Zeng)
+independently completed the assessments, and discrepancies were
+discussed with one author (Jing Wang) and resolved by consensus.
+Additionally, the GRADE guidelines were used to assess the quality of
+evidence contributing to each estimated network (Higgins et al.,
+2014).
+2.4 Outcome deﬁnition
+The primary outcome included Hb response associated with
+interventions. The drug acceptability proﬁle was assessed according
+to the reported rate of discontinuation, AEs and SAEs.
+The secondary outcomes included the main reason for
+discontinuation, such as AEs, death, refusal of treatment, content
+withdrawal and kidney transplantation. In addition, the rate of RBC
+transfusion, iron-related parameters included hepcidin levels,
+ferritin, transferrin saturation (TSAT), TIBC, serum iron levels,
+C-reactive protein (CRP) level, low-density lipoprotein (LDL) levels,
+high-density lipoprotein (HDL) levels, total cholesterol levels,
+MACE and all-cause mortality.
+2.5 Cochrane risk-of-bias tool
+The risk of bias was assessed per the Cochrane Handbook and
+PRISMA guidelines for Systematic Reviews of Interventions.
+Additionally, we analyzed the certainty of evidence contributing
+to network estimates of the main outcomes with the GRADE
+framework (Salanti et al., 2014; Brignardello-Petersen et al., 2020).
+2.6 Statistical analyses
+The results are presented in network plots, in which the node
+size is proportional to the patient number, while the line thickness
+between the nodes is proportional to the trial number. The
+differential contributions of direct comparisons to the network
+summary effect are presented in contribution plots
+(Nikolakopoulou et al., 2019 ). Using random-effects pairwise
+FIGURE 1
+Flow chart of the Statistical analyses.
+Frontiers inPharmacology frontiersin.org03
+Huang et al. 10.3389/fphar.2023.1050412
+
+[W4384154607 PDF PAGE 4]
+meta-analysis and network meta-analysis in a frequentist
+environment, the summary odds ratios (ORs) are also calculated
+for binary outcomes and standardized mean differences for
+continuous variables. All comparisons were two-tailed, and a
+p-value <0.05 denoted statistical signi ﬁcance. The synthesis of
+study effect sizes is conducted via a random-effects network
+meta-analysis model. The surface under the cumulative ranking
+(SUCRA) presents the probability (unit: %) of superior effectiveness
+for each intervention compared with a theoretical ideal intervention.
+Thus, interventions were ranked by the SUCRA index.
+Heterogeneity was examined by generating forest plots,
+including summary effects with 95% CIs and 95% prediction
+intervals for all comparisons. Prediction intervals represent CIs of
+the approximate predictive distribution of the future trial,
+considering heterogeneity ( Higgins et al., 2009 ). Via a loop-
+speciﬁc approach, the potential inconsistencies were evaluated
+between the direct and indirect evidence within the network
+(Veroniki et al., 2013 ), and local inconsistencies were also
+calculated using the node-splitting method ( White, 2015 ).
+Further, the design-by-treatment model was used to evaluate
+global inconsistencies of the whole NMA.
+Finally, we used comparison-adjusted funnel plots and Egger’s
+regression to evaluate potentially small study effects and
+publication bias (Egger et al., 1997). We used meta-regression
+to assess the impact of study characteristics (effect modiﬁers) on
+the results. Subgroup analyses were conducted according to mean
+age (>60 or≤60 years), the period of treatment (>24 or≤24 weeks),
+Hb baseline level (>10.5 or≤10.5 g/L), race (US or non US), sample
+size (>500 or≤500 participants), follow-up (with or without), the
+target hemoglobin levels (10– 12 or≥11 g/dl) and dialysis method
+(hemodialysis or renal replacement therapy with both
+hemodialysis and peritoneal dialysis). All analyses were
+conducted using the networkand network graph packages of
+Stata (version 15). The meta-a nalysis was prospectively
+registered with the PROSPERO international prospective
+register of systematic reviews (CRD42022306511) and reported
+by following the Preferred Reporting Items for Systematic Reviews
+and Meta-analyses extension for network meta-analyses (Hutton
+et al., 2015). (Figure 1)
+2.7 Role of the funding source
+The study founder had no role in the study design, data
+collection, analysis, interpretation, writing of the report, or the
+decision to submit.
+FIGURE 2
+Flowchart of the current network meta-analysis.
+Frontiers inPharmacology frontiersin.org04
+Huang et al. 10.3389/fphar.2023.1050412
+
+[W4384154607 PDF PAGE 5]
+3 Results
+3.1 Study characteristics
+Twenty-six eligible articles involving 17,204 patients published
+between 1990 and 2022 were included for pooled analyses
+(Nissenson et al., 2002 ; Vanrenterghem et al., 2002 ; Carrera
+et al., 2010; Bernieh et al., 2014; Brigandi et al., 2016; Holdstock
+et al., 2016; Provenzano et al., 2016; Akizawa et al., 2017; Chen
+et al., 2017; Akizawa et al., 2019; Bailey et al., 2019; Chen et al.,
+2019; Macdougall et al., 2019; M e a d o w c r o f te ta l . ,2 0 1 9; Sinha et al.,
+2019; Akizawa et al., 2020a; Akizawa et al., 2020b; Akizawa et al.,
+2021a; Nangaku et al., 2021a; Akizawa et al., 2021b; Nangaku et al.,
+2021b; Charytan et al., 2021; Csiky et al., 2021; E c k a r d te ta l . ,2 0 2 1;
+Provenzano et al., 2021; Singh et al., 2021). The literature search
+process is shown inFigure 2. These trials studied 9 different anti-
+anemia agents, including 6 different HIF-PHIs and 3 commonly
+used ESAs. There were 27 experiments included in these 25 articles,
+which contained the following comparisons: HIF-PHIs vs EPO
+(n = 11), HIF-PHIs vs DPO (n = 9), MPG-EPO vs rhEPO (n = 2),
+MPG-EPO vs DPO (n = 1), and rhEPO vs DPO (n = 4). Notably,
+one of the studies reported on two experiments that used different
+controls: HIF-PHI vs EPO and HIF-PHI vs DPO. One other study
+reported on two experiments that included incident and prevalent
+DD-CKD controls. The mean age of the patients ranged from
+46.9 to 81 years, and the time of intervention varied from 7 to
+104 weeks. The baseline characteristics of the included RCTs are
+provided in theSupplementary Material (Supplementary
+Table S2).
+3.2 Network meta-analysis results
+We assessed the efﬁcacy and safety of 9 anti-anemia agents for
+use in anaemic CKD dialysis patients, including six different HIF-
+PHIs, rhEPO, DPO and MPG-EPO.Figure 3shows the network of
+FIGURE 3
+Network analysis of eligible comparisons for(A) Hb response(B) Discontinuation, (C) AEs, and(D) SAEs. The circle nodes present the patient
+numbers assigned to the trials, and the widths of lines denote the number of direct head-to-head comparisons available in contributing trials. When no
+head-to-head comparison was conducted, there is no line between the two nodes.
+Frontiers inPharmacology frontiersin.org05
+Huang et al. 10.3389/fphar.2023.1050412
+
+[W4384154607 PDF PAGE 6]
+eligible comparisons for Hb response, discontinuation, AEs
+and SAEs.
+3.3 Efﬁcacy of Hb response and RBC
+transfusion
+Regarding Hb response, our network meta-analysis included
+20 RCTs involving the administration of 6 HIF-PHIs, rhEPO,
+DPO and MPG-EPO in 12,861 DD-CKD patients with anemia.
+No signiﬁcant differences were found between HIF-PHIs and
+ESAs in reaching the Hb foresee n target. A meta-regression
+using restricted maximum likelihood estimators was exploited
+to assess the potential effects of duration, mean age, baseline Hb
+levels, race, sample size, follow-up, target haemoglobin levels
+and dialysis method on the change in Hb levels. The results of
+this meta-regression revealed that mean age had a signiﬁcant
+effect on Hb response ( Supplementary Table S4 ).
+No incoherence was observed between direct and indirect
+estimates.
+Fifteen trials involving 10,314 participants were RCTs with dose-
+adjusted design that contributed to the analysis of the use of RBC
+transfusion as a rescue therapy (Supplementary Figure S1 ).
+Intervention with roxadustat showed a signiﬁcantly lower risk of
+RBC transfusion than rhEPO, with an OR and 95% CI of 0.72
+(0.56– 0.93) (Table 1). No differences were found in the RBC
+transfusion rate between the included HIF-PHIs. Via the same
+moderating variabl

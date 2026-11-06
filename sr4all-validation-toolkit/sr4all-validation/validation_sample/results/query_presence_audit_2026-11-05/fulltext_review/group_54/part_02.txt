@@ -1,0 +1,193 @@
+s,	reviews,	
+editorials,	or	opinion	pieces,	to	maintain	the	focus	on	empirical	research.
+ ● Studies	written	in	languages	other	than	English.
+ ● Studies	that	did	not	explicitly	mention	the	AI	use	within	a	learning	context.
+ ● Excluding	studies	that	are	solely	available	in	abstract	form	and	lack	full-length	publica-
+tions.
+The Screening Process
+In	the	months	of	November	and	December	2023,	we	went	on	a	thorough	hunt	for	the	required	
+information.	We	started	by	searching	through	loads	of	databases	and	found	5,121	articles.	
+After	getting	rid	of	duplicates,	checking	publication	dates	and	titles,	and	looking	at	abstracts	
+to	see	if	they	met	the	eligibility	criteria	for	the	present	study,	we	ended	up	with	128	articles.	
+From	there,	we	excluded	41	studies	because	they	didn’t	really	dive	into	science	education.	
+That	left	us	with	87	articles	that	we	pored	over	super	carefully.	We	made	sure	they	fit	our	
+criteria	and	answered	our	research	questions	before	diving	into	them.	From	the	pool	of	these	
+61	articles,	ten	(13)	studies	were	identified	as	lacking	clear	empirical	evidence	regarding	the	
+use	of	artificial	intelligence	and	were	subsequently	excluded.	This	process	resulted	in	a	final	
+dataset	of	74	articles	that	were	included	in	the	systematic	review.	See	Table	1	for	the	list	of	
+studies	included	in	our	review.	Figure	1	demonstrates	a	quick	preview	of	the	search	strategy	
+and	the	screening	process.
+Coding and Analysis
+We	used	a	mix	of	qualitative	and	quantitative	content	analysis	techniques	to	synthesize	
+the	findings	of	the	empirical	papers.	To	ensure	inter-rater	reliability	in	relation	to	the	qual-
+ity	of	article	coding	procedures,	a	small	random	sample	consisting	of	20	selected	articles	
+was	independently	coded	by	multiple	raters.	The	calculated	reliability	level	exceeded	92%,	
+signifying	a	high	degree	of	agreement	across	coding	categories.	We	conducted	a	compre-
+hensive	examination	of	the	studies	from	various	perspectives.	Firstly,	we	analyzed	the	
+characteristics	of	the	data	set,	including	the	country	where	the	studies	were	conducted,	the	
+journal	name,	the	content	area,	and	the	educational	level.
+Findings
+In	this	comprehensive	review	of	the	literature,	we	carefully	evaluated	seventy-four	(74)	
+empirical	studies	that	deal	with	the	incorporation	of	AI	into	science	education.	Numerous	
+research	approaches,	such	as	mixed,	qualitative,	and	quantitative	approaches,	were	used	
+in	these	studies.	Examining	the	publication	dates	of	the	included	papers	revealed	that	they	
+were	dispersed	over	the	review	study’s	10-year	focal	period	(2014	to	2023).	The	year	2023,	
+with	twenty-seven	(27)	papers,	led	the	way,	demonstrating	researchers’	strong	interest	in	the	
+most	recent	research	on	the	application	of	artificial	intelligence	in	science	education.	This	
+was	followed	by	ten	(10)	studies	in	2022,	eight	(08)	studies	in	2021,	and	nine	(09)	studies	in	
+year	2020.	For	more	information	on	the	year-wise	publication,	see	Fig.	2.
+1 3
+983
+
+[W4400098474 PDF PAGE 8]
+Research in Science Education (2024) 54:977–997
+S# Author(s) Year Country
+1 Aldabe	&	Maritxalar 2014 Spain
+2 Blikstein	et	al. 2014 USA
+3 Hooshya	et	al. 2015 Malysia
+4 Figueiredo	et	al. 2015 Portugal
+5 Kinnebrew	et	al. 2016 USA
+6 Hooshya	et	al. 2017 Malysia
+7 Ledesma	&	García 2017 Mexico
+8 Klebanov	et	al. 2017 USA
+9 Avelino	et	al. 2017 USA
+10 Gonzalez	et	al. 2017 USA
+11 Jaipal-Jamani	&	Angeli 2018 Canada
+12 Balakrishnan 2018 Malysia
+13 García-Gorrostieta	et	al. 2018 Mexico
+14 Anderson	et	al. 2018 USA
+15 Hossain	et	al. 2018 USA
+16 Mao	et	al. 2018 USA
+17 Azcona	et	al. 2019 Ireland
+18 Buenaño-Fernández	et	al. 2019 Spain
+19 Lee	et	al. 2019 USA
+20 Gerard	et	al. 2019 USA
+21 Deo	et	al. 2020 Australia
+22 Mirchi	et	al. 2020 Canada
+23 Nesra	et	al. 2020 China
+24 Hellings	&	Haelermans 2020 Netherland
+25 Forsström	&	Afdal 2020 Norway
+26 Mehboob	et	al. 2020 Pakistan
+27 Koć-Januchta	et	al. 2020 Sweden
+28 Yannier	et	al. 2020 USA
+29 VanLehn	et	al. 2020 USA
+30 Çınar	et	al. 2021 Turkey
+31 Lamb	et	al. 2021 USA
+32 Nawaz	et	al. 2021 Australia
+33 Ferrarelli	&	Iocchi 2021 Italy
+34 Topal	et	al. 2021 Turkey
+35 Maestrales	et	al. 2021 USA
+36 Shute	et	al. 2021 USA
+37 Bertolini	et	al. 2021 USA
+38 Jiao	et	al. 2022 China
+39 AlKanaan 2022 Saudi	Arabia
+40 Lee	et	al. 2022 Taiwan
+41 Su 2022 Taiwan
+42 Celik	&	Ergin 2022 Turkey
+43 Antonenko	&	Abramowitz 2022 USA
+44 Zhai	et	al. 2022 USA
+45 Bosman	et	al. 2022 USA
+46 Alqathani	et	al. 2022 USA
+47 Schulz	et	al. 2022 Germany
+48 Cooper 2023 Australia
+Table 1	Articles	included	in	the	systematic	review
+1 3
+984
+
+[W4400098474 PDF PAGE 9]
+Research in Science Education (2024) 54:977–997
+The	review	process	of	the	present	study	involved	the	consolidation	of	findings	pertaining	
+to	four	distinct	research	questions,	each	of	which	is	presented	separately	in	the	following	
+sections.
+RQ1: Impact on Outcomes Comparison
+The	first	research	question	of	the	current	study	specifically	addressed	the	primary	intention	
+of	this	systematic	research	i.e.,	analyzing	the	reported	impact	of	AI-enhanced	learning	on	
+students’	learning	outcomes	in	science	education.	The	empirical	papers	reviewed	showed	
+that	artificial	intelligence	has	been	used	within	science	education	for	a	variety	of	purposes,	
+such	as	engaging	students	in	the	learning	process	with	a	strong	sense	of	motivation	and	
+interest	(Balakrishnan,	2018),	generating	tests	of	science	subjects	(Aldabe	&	Maritxalar,	
+2014;	Nasution	&	Education,	2023),	scoring	and	providing	personalized	feedback	on	stu-
+dents’	assignments	(Azcona	et	al.,	2019;	Maestrales	et	al.,	2021;	Mirchi	et	al.,	2020),	and	
+predicting	student	performance	(Blikstein	et	al.,	2014;	Buenaño-Fernández	et	al.,	2019;	Jiao	
+et	al.,	2022a,	b).
+AI-based	tools	were	found	to	have	a	positive	influence	on	student’	learning	outcomes	in	
+science-related	courses.	The	experimental	group	that	was	exposed	to	AI	integration	in	their	
+learning	environments	exhibited	significantly	higher	scores	in	their	academic	tests	com-
+S# Author(s) Year Country
+49 Elkhodr	et	al. 2023 Australia
+50 Rodrigues	et	al. 2023 Brazil
+51 Kochmar	et	al. 2023 Canada
+52 Bitzenbauer 2023 Germany
+53 Dahlkempe	et	al. 2023 Germany
+54 Kieser	et	al., 2023 Germany
+55 Küchemann	et	al. 2023 Germany
+56 Wulff	et	al. 2023 Germany
+57 Nasution 2023 Indonesia
+58 Ariely	et	al. 2023 Israel
+59 Daher	et	al. 2023 Israel
+60 Park	&	Kwon 2023 Korea
+61 Boels	et	al. 2023 Netherland
+62 Nja	et	al. 2023 Nigeria
+63 Syed	et	al. 2023 Saudi	Arabia
+64 Weeger	&	Idestam-Almquist 2023 Sweden
+65 Körpeoğlu	&	Yildiz 2023 Turkey
+66 Darayseh 2023 UAE
+67 Alneyadi	&	Wardat 2023 UAE
+68 Darayseh 2023 UAE
+69 Ottenbreit-Leftwich	et	al. 2023 USA
+70 Leitner	et	al. 2023 USA
+71 Cochran	et	al. 2023 USA
+72 Chen	et	al. 2023 USA
+73 Shao	et	al. 2023 USA
+74 Nguyen	et	al. 2023 Vietnam
+Table 1 (continued) 
+1 3
+985
+
+[W4400098474 PDF PAGE 10]
+Research in Science Education (2024) 54:977–997
+Fig. 2	Year-wise	publications
+ 
+Fig. 1	 PRISMA	review	process
+ 
+1 3
+986
+
+[W4400098474 PDF PAGE 11]
+Research in Science Education (2024) 54:977–997
+pared	to	the	control	group	who	experienced	traditional	learning	environments	(Alneyadi	
+&	Wardat,	2023;	Koć-Januchta	et	al.,	2020).	Ledesma	and	García	(2017)	and	Lamb	et	al.	
+(2021)	highlighted	AI’s	capacity	to	identify	complex	concepts	and	enhance	problem-solving	
+skills	significantly	in	subjects	(Lamb	et	al.,	2021;	Ledesma	&	García,	2017).	Ferrarelli	and	
+Iocchi	(2021),	Cochran	et	al.	(2023),	and	Figueiredo	and	Paixão	(2015)	showcased	how	AI	
+is	helpful	in	fostering	improved	subject	understanding	and	heightened	motivation	among	
+students,	particularly	in	physics	and	chemistry	(Ferrarelli	&	Iocchi,	2021;	Figueiredo	et	al.,	
+2016).
+Lee	et	al.	(2022)	argue	that	AI-based	tools	such	as	chatbots	can	help	students	become	
+cognitively	more	active	in	the	learning	process(Lee	et	al.,	2022).	Likewise,	Azcona	(2019)	
+suggests	that	personalized	learning	facilitated	by	AI	can	help	reduce	the	gap	between	lower-	
+and	higher-performing	students.	Moreover,	AI-powered	education	can	empower	students	to	
+predict	their	learning	outcomes	and	strategically	regulate	their	learning	behavior	(Buenaño-
+Fernández	et	al.,	2019).
+The	effectiveness	of	different	AI	models	varied	across	studies.	Nguyen	et	al.	(2023)	
+highlighted	the	performance	disparities	among	AI	models	like	Google	Bard,	ChatGPT,	and	
+Bing	Chat	in	addressing	biology	problems	for	Vietnamese	students	(Nguyen	et	al.,	2023).	
+While	chatbots	positively	influenced	online	learning	experiences,	their	impact	on	academic	
+achievement	remained	variable	(Almasri,	2022a;	Deveci	Topal	et	al.,	2021).	In	essence,	
+these	findings	underscore	the	potential	of	AI	to	augment	science	education	by	enhanc-
+ing	student	understanding,	motivation,	and	engagement.	However,	they	also	underscore	
+the	importance	of	addressing	challenges	related	to	AI’s	adaptability	to	subject	matter	and	
+context	and	the	need	for	continued	exploration	into	AI’s	comparative	impact	on	academic	
+achievement	vis-à-vis	traditional	teaching	methods	in	science	education.	Daher	et	al.	(2023)	
+pointed	to	AI’s	limitations	in	comprehending	specific	subject	matter,	which	could	impact	its	
+effectiveness	in	aiding	student	learning.	Cooper	(2023)	emphasized	the	need	for	educators	
+to	critically	evaluate	and	adapt	AI-generated	resources	to	suit	diverse	teaching	contexts.
+RQ2: Contexts of AI Adoption
+In	our	second	research	question,	we	aimed	to	explore	the	potential	disparities	in	the	uptake	
+of	AI	tools	within	science	education,	considering	differences	among	countries,	educational	
+levels,	and	subject	areas.	The	results	disclosed	that	artificial	intelligence	has	been	incorpo-
+rated	in	a	variety	of	subject	areas	within	science	education,	including	physical	and	natural	
+sciences.	The	studies	reviewed	were	highly	dominated	by	investigations	that	did	not	specify	
+any	particular	domain	of	science	(n =	15,	20.30%),	but	they	preferred	to	use	“Science”	as	the	
+subject	area	in	their	papers.	Next	in	line,	was	the	subject	of	Physics	with	the	second-highest	
+number	of	papers	(n =	10,	13.50%)

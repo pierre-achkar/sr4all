@@ -1,0 +1,232 @@
+
+
+REVIEW W2612224886
+TITLE: Should exercises be painful in the management of chronic musculoskeletal pain? A systematic review and meta-analysis
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W2612224886 PDF PAGE 1]
+1
+Smith BE, et al. Br J Sports Med 2017;0:1–10. doi:10.1136/bjsports-2016-097383
+Abstr A ct
+backgr
+ound  Chronic musculoskeletal disorders are
+ 
+a prevalent and costly global health issue. A new form 
+of exercise therapy focused on loading and resistance 
+programmes that temporarily aggravates a patient’s 
+pain has been proposed. The object of this review 
+was to compare the effect of exercises where pain 
+is allowed/encouraged compared with non-painful 
+exercises on pain, function or disability in patients 
+with chronic musculoskeletal pain within randomised 
+controlled trials.
+Methods Two authors independently selected studies 
+and appr
+aised risk of bias. Methodological quality was 
+evaluated using the Cochrane risk of bias tool, and the 
+Grading of Recommendations Assessment system was 
+used to evaluate the quality of evidence.
+r esults  The liter
+ature search identified 9081 potentially 
+eligible studies. Nine papers (from seven trials) with 
+385 participants met the inclusion criteria. There was 
+short- term significant difference in pain, with moderate 
+quality evidence for a small effect size of −0.27 (−0.54 
+to −0.05) in favour of painful exercises. For pain in the 
+medium and long term, and function and disability in the 
+short, medium and long term, there was no significant 
+difference.
+c onclusion  Protocols using painful exercises offer a 
+small but significant benefit over pain-free exercises in 
+the short term, with moder
+ate quality of evidence. In 
+the medium and long term there is no clear superiority 
+of one treatment over another. Pain during therapeutic 
+exercise for chronic musculoskeletal pain need not be 
+a barrier to successful outcomes. Further research is 
+warranted to fully evaluate the effectiveness of loading 
+and resistance programmes into pain for chronic 
+musculoskeletal disorders.
+Pr O sPE r O r
+egistration  CRD42016038882
+bA ckgr O und
+Musculoskeletal disorders are one of the most 
+prevalent and costly disorders globally. 1 2  Low 
+back pain is considered the leading cause of years 
+lived with disability worldwide, ahead of condi-
+tions such as depression, diabetes, cardiovascular 
+disease and cancer, with a global point prevalence 
+of 9.4%.3 4  Neck pain and other musculoskeletal 
+pain ranks fourth and sixth in terms of years lived 
+with disability, with a global point prevalence of 5% 
+and 8%, respectively
+.5 6 In the UK, an estimated one 
+in four people suffer from chronic musculoskeletal 
+disorders,7 with an estimated economic conse-
+quence of 8.8 million working days lost.8
+Previous systematic reviews have assessed the 
+effectiveness of various interventions for muscu-
+loskeletal disorders, including pharmaceutical 
+therapies,9–12 psychological-based therapies 13–16 
+and physical-based therapies, including manual 
+therapy17–19 and exercise. 16 20–24  These have all 
+presented poor to moderate results in terms of 
+effectiveness at improving pain and function, and 
+have identified limitations in the quality of included 
+trials when drawing conclusions.
+There is a high level of uncertainty and lack of 
+sufficient level 1 evidence on which to base treat-
+ment for people with musculoskeletal disorders. 
+A systematic review of self-management interven-
+tions for chronic musculoskeletal pain concluded 
+that strong evidence existed that changes in the 
+psychological factors, self-efficacy and depression 
+were predictors of outcomes, irrespective of the 
+intervention delivered, and strong evidence existed 
+that positive changes in patients’ pain catastroph-
+ising and physical activity were mediating factors.25 
+Experimental studies have also demonstrated that 
+stimulus context and the emotional response to 
+pain affect the experience of pain,26–28 and have led 
+to the development of desensitisation interventions 
+for chronic musculoskeletal disorders.29–31
+It has been proposed that modern treatment 
+therapies for chronic musculoskeletal pain and 
+disorders should be designed around loading 
+and resistance programmes targeting movements 
+and activities that can temporarily reproduce 
+and aggravate patients’ pain and symptoms.31–33 
+Pain does not correlate with tissue damage, 34 and 
+psychological factors such as catastrophising and 
+fear avoidance behaviours play an important role 
+in the shaping of the physiological responses to 
+pain, and therefore the development and mainte-
+nance of chronic pain.35 It is thought that such an 
+exercise programme could facilitate the reconcep-
+tualisation of pain by addressing fear avoidance and 
+catastrophising beliefs within a framework of ‘hurt 
+not equalling harm’.36 37 Through this, proponents 
+support the prescription of exercises into pain for 
+chronic musculoskeletal pain and disorders.31 37 38  
+We define ‘exercise into pain’ as a therapeutic exer-
+cise where pain is encouraged or allowed.
+No previous systematic reviews have evaluated 
+the effectiveness of exercises into pain for chronic 
+musculoskeletal pain. Therefore the object of this 
+review was to compare the effect of exercises into 
+pain compared with non-painful exercises on pain, 
+function or disability in patients with chronic 
+Should exercises be painful in the management of 
+chronic musculoskeletal pain? A systematic review 
+and meta-analysis
+Benjamin E Smith,1,2 Paul Hendrick,3 Toby O Smith,4 Marcus Bateman,1 Fiona Moffatt,3 
+Michael S Rathleff,5,6 James Selfe,7 Pip Logan2 
+r eview
+t o cite: Smith BE, Hendrick P , 
+Smith 
+TO, et al. Br J Sports 
+Med Published Online 
+First: [please include Day 
+Month Year]. doi:10.1136/
+bjsports-2016-097383
+1Department of Physiotherapy, 
+Derby Teaching Hospitals NHS 
+Foundation Trust, Derby, UK
+2Division of Rehabilitation and 
+Ageing, School of Medicine, 
+University of Nottingham, 
+Nottingham, UK
+3Division of Physiotherapy 
+and Rehabilitation Sciences, 
+School of Health Sciences, 
+Universityof Nottingham, 
+NottinghamUniversity Hospitals 
+(City Campus), Nottingham, UK
+4University of East Anglia, 
+Norwich, UK
+5Research Unit for General 
+Practice in Aalborg, Department 
+of Clinical Medicine at Aalborg 
+University, Aalborg, Denmark
+6Department of Occupational 
+Therapy and Physiotherapy, 
+Department of Clinical Medicine, 
+Aalborg University Hospital, 
+Aalborg, Denmark
+7Manchester Metropolitan 
+University, Manchester, UK
+c orr
+espondence to
+Benjamin E Smith, Department 
+of Physiotherapy, London 
+Road Community Hospital, 
+Derby Teaching Hospitals NHS 
+Foundation Trust, Derby DE1 
+2QY , UK;  
+ benjamin. smith3@ nhs
+. net
+Accepted 1 
+April 2017
+ BJSM Online First, published on June 8, 2017 as 10.1136/bjsports-2016-097383
+Copyright Article author (or their employer) 2017. Produced by BMJ Publishing Group Ltd under licence. 
+group.bmj.com on June 12, 2017 - Published by http://bjsm.bmj.com/Downloaded from 
+
+[W2612224886 PDF PAGE 2]
+2 
+Smith BE, et al. Br J Sports Med 2017;0:1–10. doi:10.1136/bjsports-2016-097383
+r eview
+musculoskeletal pain within randomised controlled trials 
+(RCT s), specifically exercises that were prescribed with instruc-
+tions for patients to experience pain, or where patients were told 
+it was acceptable and safe to experience pain, and to compare 
+any difference in contextual factors and prescription parameters 
+of the prescribed exercise intervention.
+ME th O ds
+This systematic review followed the recommendations of the 
+PRISMA statement,39 and was registered with the International 
+Prospective Register of Systematic Reviews (PROSPERO; http://
+www. crd. york. ac. uk/ prospero/, reference 
+CRD42016038882).
+search strategy
+An electronic database search was conducted on titles and abstract 
+from inception to October 2016 on the following databases: the 
+Allied and Complimentary Medicine Database, the Cumulative 
+Index to Nursing and Allied Health Literature, the Cochrane 
+Library, Embase, Medline, SPORTDiscus and Web of Science. 
+For the keywords and keywords search strategy used, please see 
+table 1. 
+The database searches were accompanied by hand searches 
+of the reference list of included articles, and the grey literature and 
+ongoing trials were searched using the following databases: Open 
+Grey, WHO International Clinical T rials Registry Platform,  Clini-
+calT
+rials. gov and the bjsports-2016-097383 portfolio.
+For inclusion, the studies had to meet the following criteria: 
+adults 
+recruited from the general population with any musculo-
+skeletal pain or disorder greater than 3 months; participants with 
+pain 
+suggestive of non-musculoskeletal pain, for example, head-
+ache, migraine, bowel/stomach pain, cancer, fibromyalgia, chest 
+pain, and breathing difficulties were excluded. Studies had to 
+have a primary treatment arm of therapeutic exercises that was 
+advised to be purposively painful, or where pain was allowed 
+or tolerated. The comparison group had to use therapeutic 
+exercises that were pain-free. Included studies were required to 
+report pain, disability or function. Studies had to be full RCT 
+published in English. Studies that were not randomised or quasi-
+random were excluded.
+study selection
+One reviewer (BES) undertook the searches. Titles and abstracts 
+were screened by one reviewer (BES), with potential eligible 
+papers retrieved and independently screened by two reviewers 
+(BES and PH). Initial inclusion agreement was 81%, and using 
+Cohen’s statistic method the kappa agreement was k=0.47, 
+which is considered ‘fair to moderate’ agreement.40–42 All initial 
+disagreements were due to intervention criteria, specifically the 
+levels of pain during the therapeutic exercises in each interven-
+tion arm,43–50 and were resolved through consensus. Three trials 
+needed further information with regard to their control exercise 
+to ascertain if they met the inclusion criteria, and all three were 
+contacted.51–5

@@ -1,0 +1,195 @@
+ 24-hr follow-up by 5.23 mg; however,
+the difference was not statistically signiﬁcant (MD, 5.23
+mg; HSJK 95% CI, -4.60 to 15.06; I2 = 72%; P = 0.21,
+Fig. 6). Although heterogeneity was above our predeﬁned
+cut-off, subgroup analysis was not performed since each
+subgroup did not containC two studies.
+Adverse events or block-related complications
+The most commonly reported adverse event was nausea
+and vomiting. Eight studies 7,8,10,23,25,27,28,30 assessed
+nausea and vomiting postoperatively in 452 patients (PN
+229, IV 223). Although the risk of postoperative nausea
+and vomiting was increased by 1.57 times with IV
+dexamethasone administration, the difference between the
+groups was not statistically signiﬁcant (RR, 1.57; HSJK
+95% CI, 0.8 to 3.0.7; I 2 = 0%; P = 0.15, Fig. 7). Subgroup
+analysis was not performed since the heterogeneity did not
+meet our predeﬁned threshold.
+Three studies assessed perioperative glucose levels. 8,9,25
+One study 25 reported that three patients who received IV
+dexamethasone suffered from hyperglycemia, whereas no
+occurrences were seen in the PN group. Two studies 8,9
+reported a change in glucose levels from baseline ( n =
+197). Although both studies 8,9 reported a mean increase in
+blood glucose values regardless of route of administration,
+no signiﬁcant difference was observed between the two
+groups (MD, 1.43 mg/C1dL-1; HSJK 95% CI, -2.55 to 5.41;
+I2 = 0%; P = 0.13). Due to the limited number of studies
+included in this outcome, subgroup and sensitivity analysis
+was not performed.
+Ten studies 7-10,22,24-28 (n = 763) assessed nerve-related
+complications at several different follow-up times, with six
+8,9,22,26-28 reporting nerve palsies, paresthesias, and
+numbness (Table 2). In four of these studies, 8,9,22,27 nerve
+injuries were transient and resolved by one month follow-
+up. On the other hand, two studies 26,28 reported numbness
+that persisted beyond one month. In both studies, 26,28 the
+numbness resolved at a later follow-up time. In the IV
+group, 40/378 patients experienced a neurological
+complication vs 47/385 patients in the PN group. Overall,
+no signiﬁcant difference in the risk of developing
+postoperative nerve-related complications was found
+between the two groups (RR, 0.87; HSJK 95% CI, 0.71
+to 1.06; I 2 = 0%; P = 0.13).
+Discussion
+In summary, the results of this meta-analysis suggest that,
+irrespective of dose, the use of PN dexamethasone does not
+appear to provide a signiﬁcant incremental beneﬁt to the
+duration of analgesia or motor blockade when compared
+with the use of IV dexamethasone. Furthermore, our
+ﬁndings suggest that, irrespective of dose, PN
+dexamethasone does not appear to provide a signiﬁcant
+incremental beneﬁt to postoperative pain and cumulative
+opioid consumption at C 24-hr follow-up. Finally, PN
+dexamethasone does not appear to lead to long-term
+neurologic complications.
+The addition of dexamethasone to regional anesthetics
+such as lidocaine, bupivacaine, and other sodium channel-
+blocking anesthetics has been shown to prolong the
+duration of analgesia. 5,11,32-37 Recently, a meta-analysis
+of nine randomized trials by Choi et al .1 found that the
+addition of dexamethasone to regional anesthetics prolongs
+the duration of analgesia by approximately six hours.
+Furthermore, they reported a trend towards decreased
+opioid consumption.1 Although the mechanism involved in
+its prolongation of analgesia is poorly understood, a
+systemic effect is suggested.5 The underlying
+mechanisms may include the inhibition of nociceptive C-
+ﬁbres5,23 and/or an anti-inﬂammatory effect. 5
+As with its mechanism of action, the optimal dose of
+dexamethasone for peripheral nerve blockade also remains
+to be resolved. Woo et al .21 compared the effectiveness of
+differing doses of PN dexamethasone for prolonging the
+duration of analgesia and reported that 5 mg of PN
+dexamethasone provided 24.2 hr of analgesia, while larger
+doses offered no additional beneﬁt.21 Indeed, our ﬁndings
+also show a comparable incremental prolongation of
+analgesia between low-dose and higher dose
+dexamethasone when administered perineurally. There
+are also intriguing reports suggesting that the 95%
+Dexamethasone for peripheral nerve blockade 203
+123
+
+[W2770469834 PDF PAGE 11]
+effective dose may be even as low as 1-2 mg for PN
+dexamethasone and higher than 0.1 mg /C1kg-1 for its IV
+use.17,18 A meta-analysis conducted by De Oliveira et al .19
+found that systemic dexamethasone achieves optimal
+analgesic effects when the dose is greater than 0.1
+mg/C1kg-1; in contrast, higher doses (8-10 mg) of
+dexamethasone provide no additional beneﬁt. Future
+studies should focus on evaluating the dose-dependent
+analgesic effects of PN and IV dexamethasone
+administration.
+The results of our meta-analysis differ from prior
+reviews38,39 which have shown that the use of PN
+dexamethasone signiﬁcantly prolongs the duration of
+analgesia to a greater degree than the use of IV
+dexamethasone. It is noteworthy that both reviews 38,39
+utilized the DerSimonian-Laird random effects model
+which has been found to have higher mean error rates in
+comparison with the HSJK method when substantial
+heterogeneity is present.15 In a review comparing both
+the HSJK and DerSimonian-Laird methods for Cochrane
+Reviews, it was found that 25.1% of ﬁndings that showed
+signiﬁcance using the DerSimonian-Laird method failed to
+show signiﬁcance using the HSKJ method. 15 Our
+utilization of the HSKJ method 15,16 provides a more
+conservative estimate of effect, which more likely reﬂects
+the true difference between PN and IV dexamethasone.
+Furthermore, the prior reviews 38,39 utilized mean and
+standardized mean differences for time-to-event data. Our
+decision to use the ROM for time-to-event data stemmed
+from prior studies 40,41 which have shown equivalence in
+statistical performance with improved clinical
+interpretability. Nevertheless, given the difference in our
+point estimates from prior reviews, 38,39 the validity of our
+choice to use relative differences (i.e., ROM) in preference
+to difference-based methods would need to be conﬁrmed
+by studying the probability of distributions for the duration
+of analgesia.42,43
+Finally, it is extremely important to determine whether
+PN dexamethasone causes neuronal injury. Several
+investigators have addressed this. Williamset al. 44
+evaluated in vitro toxicity of PN adjuvants to ropivacaine
+in a rat model. In their study, the administration of
+supratherapeutic doses of dexamethasone (667lg/C1mL-1)
+for two hours did not result in detectable neuronal cell
+death.44 Similarly, the addition of dexamethasone to
+ropivacaine did not increase neuronal cell death
+compared with ropivacaine alone. 44 Williams et al .45 also
+evaluated in vivo local tissue effects of dexamethasone (66
+lg/C1mL-1) and reported no evidence of behavioural changes
+in their rat model at one or 15 days. 45 Furthermore,
+histopathological examination in these animals revealed no
+changes in the neuronal architecture.45 Although it is
+difﬁcult to translate animal studies to humans, the results
+from our meta-analysis are consistent with these ﬁndings
+since no persistent neurological deﬁcits were reported by
+any of the included RCTs.
+Study strengths and limitations
+Our meta-analysis comes with several notable strengths.
+First, we evaluated and compared the use of PN vs IV
+dexamethasone for peripheral nerve blockade on a variety
+of outcomes. In addition, we incorporated the HSJK
+random effects model into our analysis and generated
+novel results that are potentially more accurate than those
+previously reported. Another strength of this meta-analysis
+is that we obtained additional data from the authors of
+included studies which were not previously made available
+to readers. This allowed us to provide larger estimates of
+effects; however, the conﬁdence intervals for some of our
+point estimates remained large, which limits external
+validity and a true differentiation between PN and IV
+dexamethasone.
+Our review has several limitations. First, our subgroup
+analysis did not show a reduction in heterogeneity to levels
+below those of our predeﬁned threshold values. This may
+have been due to factors such as the formulation of
+dexamethasone, amount/types of local anesthetics,
+inclusion of adjuvants to nerve blocks, and the sites used
+for the peripheral nerve blocks. Furthermore, the deﬁnition
+of outcomes and the methods used for their measurement
+varied across the studies. Additionally, several data points
+were converted from median and IQR to a mean and SD.
+Median and IQR are often reported for data that do not
+follow a normal distribution. As a result, this conversion
+may have skewed the data in a way that reduced accuracy.
+Finally, there may be an inadequate number of patients
+studied to determine the true incidence of rare adverse
+effects of PN dexamethasone.
+Conclusions
+Clinical consensus is lacking with regard to the optimal
+route of administration and dosage of dexamethasone for
+enhancing peripheral nerve blockade. The results of this
+meta-analysis suggest that, irrespective of dose, the use of
+PN dexamethasone does not appear to provide a signiﬁcant
+incremental beneﬁt to the duration of analgesia or motor
+blockade when compared with the use of IV
+dexamethasone. Similarly, PN dexamethasone does not
+appear to provide a signiﬁcant incremental beneﬁt in terms
+of pain control at 24-hr follow-up and opioid consumption
+at [24-hr follow-up, regardless of dose. Furthermore, our
+analysis did not reveal any long-term neurological adverse
+events related to the use of PN dexamethasone. Taken
+204 N. Hussain et al.
+123
+
+[W2770469834 PDF PAGE 12]
+together, the results of our meta-analysis suggest that PN
+and IV dexamethasone provide equivalent analgesic
+beneﬁts and have similar safety proﬁles when used as
+adjuvants for peripheral nerve blockade.
+Acknowledgements We sincerely thank all the corresponding
+authors who graciously provided us with their data for this meta-
+analysis. The authors also tha

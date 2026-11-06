@@ -1,0 +1,476 @@
+eporting frequent mental distress by 1.3 
+percentage points (p < .05). 
+Burgard et 
+al. (2012) 
+U.S. Cross-
+sectional 
+Michigan 
+Recession 
+and 
+Recovery 
+Study 
+(MRRS) 
+Examining the 
+associations 
+between 
+different types 
+of housing 
+instabilitya and 
+several 
+Renters 
+(complete case 
+analysis) 
+Age 19-64 years 
+NRenters = 383b 
+(n = 333 
+excluding renters 
+Behind on rent 
+“Are you currently 
+behind on your rent?” 
+Symptoms of depression 
+PHQ-9 
+ 
+Anxiety attack 
+Anxiety item from the 
+PHQ-brief instrument 
+Renters who were behind on rent had 
+approximately 3.7 times greater odds of 
+exceeding the cut-off for depression 
+compared to renters who had not 
+experienced recent instability (OR = 3.66; 
+95 % CI: 1.15,11.7, p < .05). However, when 
+including participants with previous housing 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprint this version posted November 1, 2023. ; https://doi.org/10.1101/2023.11.01.23297773doi: medRxiv preprint 
+
+[W4388124584 PDF PAGE 18]
+HOUSING INSECURITY AND MENTAL HEALTH AMONG RENTERS 17 
+ 
+Study Country Study 
+Design 
+Data Source 
+& Years of 
+Collection 
+Main 
+Objective of 
+Study 
+Study 
+Population 
+(Analytical 
+Sample) 
+Predictor 
+Operationalization & 
+Measurement 
+Housing Insecurity 
+Outcome 
+Operationalization & 
+Measurement 
+Mental Health 
+Main Findings 
+2009-2010 measures of 
+health 
+with prior 
+housing 
+instability) 
+ 
+Problematic alcohol use 
+AUDIT 
+instability (N = 50), those who were behind 
+on rent were no longer more likely to exceed 
+the cut-off for depression (p-value N/A). The 
+associations between anxiety attacks 
+(OR = 3.03; ; 95 % CI: 0.97, 9.42, p-value 
+N/A) and harmful alcohol use (OR = 2.99; ; 
+95 % CI: 0.45, 20.1, p-value N/A) were not 
+significant. 
+Chambers 
+et al. (2015) 
+[Part b] 
+U.S. Cross-
+sectional 
+Affordable 
+Housing as 
+an Obesity 
+Mediating 
+Environment 
+(AHOME) 
+2011-2012 
+See [Part a] Low-income 
+Latin American 
+renters living in 
+the Bronx, 
+eligible for rental 
+assistance 
+(complete case 
+analysis) 
+Age ≥  18 years 
+N = 371  
+Crowding 
+Perceived household 
+crowding (4 items 
+created by the authors) 
+Symptoms of depression 
+CES-D 10 
+ 
+Hostile affect 
+Items from the hostile 
+affect subscale from the 
+CMHS 
+Perceived crowding was not significantly 
+associated with depressive symptomology 
+(OR = 1.182; 95 % CI: 0.83, 1.69; p-value 
+N/A) but was significantly associated with an 
+increased risk of hostile affect (OR = 1.821; 
+95 % CI: 1.16, 2.85; p < 0.05). 
+Desmond 
+& Kimbro 
+(2015) 
+U.S. Longitudina
+l (Cohort 
+study) 
+Fragile 
+Families and 
+Child 
+Wellbeing 
+Study 
+(FFCWS) 
+1998-2005 
+Examining the 
+consequences 
+of involuntary 
+displacement 
+from housing 
+for low-income 
+urban mothers 
+Low-income 
+urban mothers 
+from rental 
+households (at 
+baseline) who 
+persisted 
+through the 4th 
+wave 
+Age N/A 
+N = 2,676 
+(propensity 
+score weighting) 
+n = 122 
+(matched 
+models) 
+Eviction 
+“In the past 12 months, 
+were you evicted from 
+your home or 
+apartment for not 
+paying the rent or 
+mortgage?”; two 
+categories: early 
+eviction (child age 0-1; 
+2-3), midrange eviction 
+(child age 2-3) and 
+recent eviction” (child 
+age 4-5) 
+Symptoms of depression 
+CIDI-SF (during the 
+fourth wave of the study) 
+Mothers from low-income rental households 
+who experienced a recent eviction were 
+statistically more likely to report depression 
+compared to mothers who did not. 
+Specifically, the predicted probability 
+difference ranged between 0.20-0.21 ( p-
+values ranging from < .01) for both model 
+specifications. Likewise, in the matched 
+models the average treatment effect on the 
+treated ranged between 0.20-0.22 (p-values 
+ranging from <.1 to <.05). 
+The impact of eviction on maternal 
+depression was long-lasting, enduring years 
+after families were evicted, although its 
+influence shrinks over time, indicated by a 
+higher probability of depression even after 
+early evictions (p < .05). Results were 
+robust to sensitivity analysis restricting 
+evictions to those in which it was ensured 
+that the exposure preceded the outcome 
+measurement, indicated by a higher 
+probability of depression for mothers 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprint this version posted November 1, 2023. ; https://doi.org/10.1101/2023.11.01.23297773doi: medRxiv preprint 
+
+[W4388124584 PDF PAGE 19]
+HOUSING INSECURITY AND MENTAL HEALTH AMONG RENTERS 18 
+ 
+Study Country Study 
+Design 
+Data Source 
+& Years of 
+Collection 
+Main 
+Objective of 
+Study 
+Study 
+Population 
+(Analytical 
+Sample) 
+Predictor 
+Operationalization & 
+Measurement 
+Housing Insecurity 
+Outcome 
+Operationalization & 
+Measurement 
+Mental Health 
+Main Findings 
+experiencing midrange evictions ( p < .01). 
+Kim & 
+Burgard 
+(2022) 
+U.S. Longitudina
+l (Panel 
+study) 
+MRRS 
+2009-2011 
+Examining 
+whether 
+housing 
+insecurity is 
+associated 
+with mental 
+health among 
+renters in the 
+aftermath of 
+the Great 
+Recession of 
+2007-09. 
+Renters across 
+all three waves 
+(complete case 
+analysis) 
+Age 19-64 years 
+N = 255 
+(510 
+observations) 
+Eviction 
+If respondents 
+experienced eviction 
+(threatened, in 
+progress, or 
+completed) 
+ 
+Moving in with others 
+If respondents had 
+moved in with others to 
+save on costs 
+ 
+Moved for cost 
+If respondents 
+experienced cost-
+related move 
+ 
+Multiple moves 
+If respondents moved 
+more than twice over 
+follow-up 
+Anxiety attack 
+Anxiety item from the 
+PHQ-brief instrument 
+ 
+Symptoms of depression 
+PHQ-9 
+Respondents who had to move for cost 
+reasons were more likely to experience 
+anxiety attacks at follow-up by 16 
+percentage points (p < .01), with all other 
+individual types of housing instability 
+showing positive but non-significant 
+associations with anxiety attacks (eviction: 
+p < .1; moving in with others and multiple 
+moves p-values N/A). 
+Respondents who experienced eviction over 
+follow-up were more likely to meet criteria 
+for depression at follow-up by 13 percentage 
+points (p < .05). Multiple moves were 
+marginally associated with depression 
+(p < .1). All other specific types of housing 
+instability show positive but non-significant 
+associations with depression ( p-values N/A). 
+Leifheit et 
+al. (2021) 
+U.S. Longitudina
+l (Panel 
+study) 
+Understandi
+ng 
+Coronavirus 
+in America 
+Survey 
+2020 
+Examining 
+which eviction 
+protections 
+were 
+associated 
+with reduced 
+mental distress 
+among renters 
+during the 
+COVID-19 
+pandemic 
+Low-income 
+renters (renting 
+at any wave of 
+the study) and 
+who specified 
+their state of 
+residence 
+Age ≥  18 years 
+N = 2,317 
+(20,853 
+observations) 
+Risk of eviction 
+Time-varying strength 
+of state-level eviction 
+moratorium (none, 
+weak, strong) 
+Mental health and well-
+being 
+PHQ4 
+Moratoriums that blocked landlords from 
+giving notice for evictions (strong) were 
+associated with a relative reduction in 
+mental distress of 13 % (risk ratio = 0.87; 
+95 % CI: 0.76, 0.99; p-value N/A), whereas 
+protections that blocked only court hearings, 
+judgments, and enforcement (weak) did not 
+reduce distress significantly (risk ratio =  
+0.96; 95 % CI, 0.86, 1.06; p-value N/A). 
+Results were robust to a number of 
+sensitivity analyses. 
+Strong moratoriums were associated with 
+larger reductions in mental distress in states 
+with high rental cost burden at baseline than 
+those with lower rental cost burden. 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprint this version posted November 1, 2023. ; https://doi.org/10.1101/2023.11.01.23297773doi: medRxiv preprint 
+
+[W4388124584 PDF PAGE 20]
+HOUSING INSECURITY AND MENTAL HEALTH AMONG RENTERS 19 
+ 
+Study Country Study 
+Design 
+Data Source 
+& Years of 
+Collection 
+Main 
+Objective of 
+Study 
+Study 
+Population 
+(Analytical 
+Sample) 
+Predictor 
+Operationalization & 
+Measurement 
+Housing Insecurity 
+Outcome 
+Operationalization & 
+Measurement 
+Mental Health 
+Main Findings 
+Li et al. 
+(2022) 
+Australia Longitudina
+l (Panel 
+study) 
+Household, 
+Income and 
+Labour 
+Dynamics in 
+Australia 
+(HILDA) 
+2001-2019 
+Examining the 
+impact of 
+tenure 
+instability on 
+mental health 
+and 
+psychological 
+distress 
+among a low-
+income 
+working-age 
+population 
+Low-income 
+private renters 
+Age 25-65 years 
+NRenters = 3,579c 
+(17,163 
+observations) 
+Frequency of 
+transitions 
+Average number of 
+transitions every 5 
+years in the current 
+tenure 
+ 
+Duration of occupancy 
+Number of years in the 
+current dwelling 
+Mental health and well-
+being 
+MHI-5 from the SF-36 
+ 
+Psychological distress 
+K10 
+More frequent transitions were significantly 
+associated with lower levels of mental health 
+(MH: −1.26, 95 % CI: −2.00, −0.51; rescaled 
+K10: −0.92, 95 % CI: −1.84, −0.003; p-value 
+N/A). 
+Longer occupancy was significantly 
+associated with higher levels of mental 
+health, as indicated by positive and 
+significant β 2+ β 3 (p-value N/A). 
+Residential stability was particularly 
+beneficial for renters in early middle 
+adulthood (35–44 years). The study’s 
+sensitivity analyses to reduce residual 
+confounding supported these findings  
+Park & Seo 
+(2020) 
+Korea Longitudina
+l (Panel 
+study) 
+Korean 
+Welfare 
+Panel 
+(KoWePS) 
+2006-2019 
+Examining the 
+associations 
+between 
+residential 
+instability and 
+perceived 
+health status 
+of renters 
+Renters 
+Age ≥  18 years 
+N = 6,119 
+(28,887 
+observations) 
+Residential instability 
+Respondents had 
+experienced overdue 
+rent for two months or 
+more or relocation 
+because they could not 
+pay their rent 
+Overall Depression 
+Depression index 
+q

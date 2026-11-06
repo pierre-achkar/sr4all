@@ -1,0 +1,188 @@
+Services.JP a t h o lI n f o r m(2018) 9:34. doi: 10.4103/
+jpi.jpi_52_18
+41. Al-Janabi S, Huisman A, Nikkels PGJ, ten Kate FJW, van Diest PJ. Whole Slide
+Images for Primary Diagnostics of P aediatric Pathology Specimens: A
+Feasibility Study. J Clin Pathol (2013) 66:218– 23. doi: 10.1136/jclinpath-
+2012-201104
+42. Al-Janabi S, Huisman A, Nap M, Clarijs R, van Diest PJ. Whole Slide Images
+as a Platform for Initial Diagnostics in Histopathology in a Medium-Sized
+Routine Laboratory.J Clin Pathol(2012) 65:1107– 11. doi: 10.1136/jclinpath-
+2012-200878
+43. Al-Janabi S, Huisman A, Vink A, Leguit RJ, Offerhaus GJA, Ten Kate FJW,
+et al. Whole Slide Images for Primary Diagnostics in Dermatopathology: A
+Feasibility Study.J Clin Pathol(2012) 65:152– 8. doi: 10.1136/jclinpath-2011-
+200277
+44. Ordi J, Castillo P, Saco A, Del Pino M, Ordi O, Rodrı́ guez-Carunchio L, et al.
+Validation of Whole Slide Imaging in the Primary Diagnosis of
+Gynaecological Pathology in a University Hospital. J Clin Pathol (2015)
+68:33– 9. doi: 10.1136/jclinpath-2014-202524
+45. US Food & Drug Administration, in: FDA News Release: FDA Allows
+Marketing of First Whole Slide Imaging System for Digital Pathology(2017).
+Available at: https://www. fda.gov/news-events/press-announcements/fda-
+allows-marketing- ﬁrst-whole-slide-imaging-system-digital-pathology
+(Accessed April 10, 2022).
+46. Image Technology News, in: Leica Biosystems Receives FDA Clearance for
+Aperio AT2 DX Digital Pathology System(2019). Available at: https://www.
+itnonline.com/content/leica-biosystem s-receives-fda-clearance-aperio-at2-
+dx-digital-pathology-system (Accessed April 10, 2022).
+Rizzo et al. Issues in WSI Validation Studies
+Frontiers in Oncology | www.frontiersin.org June 2022 | Volume 12 | Article 9185806
+
+[W4283015062 PDF PAGE 7]
+47. Williams BJ, Fraggetta F, Hanna MG, Huang R, Lennerz J, Salgado R, et al.
+The Future of Pathology: What can We Learn From the COVID-19
+Pandemic? J Pathol Inform(2020) 11:15. doi: 10.4103/jpi.jpi_29_20
+Conﬂict of Interest:The authors declare that the research was conducted in the
+absence of any commercial orﬁnancial relationships that could be construed as a
+potential conﬂict of interest.
+Publisher’s Note:All claims expressed in this article are solely those of the authors
+and do not necessarily represent those of their afﬁliated organizations, or those of
+the publisher, the editors and the reviewers. Any product that may be evaluated in
+this article, or claim that may be made by its manufacturer, is not guaranteed or
+endorsed by the publisher.
+Copyright © 2022 Rizzo, Girolami, Marletta, Pantanowitz, Antonini, Brunelli,
+Santonicco, Vacca, Tumino, Moretta, Parwani, Satturwar, Eccher and Munari.
+This is an open-access article distributed under the terms of the Creative Commons
+Attribution License (CC BY). The use, distribution or reproduction in other forums is
+permitted, provided the original author(s) and the copyright owner(s) are credited and
+that the original publication in this journal is cited, in accordance with accepted
+academic practice. No use, distribution or reproduction is permitted which does not
+comply with these terms.
+Rizzo et al. Issues in WSI Validation Studies
+Frontiers in Oncology | www.frontiersin.org June 2022 | Volume 12 | Article 9185807
+
+END REVIEW W4283015062
+
+
+REVIEW W4285231885
+TITLE: Closing the Gap in Primary Care: A Systematic Review and Interpretation
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4285231885 PDF PAGE 1]
+International Journal of Clinical Medicine, 2022, 13, 213-220 
+https://www.scirp.org/journal/ijcm 
+ISSN Online: 2158-2882 
+ISSN Print: 2158-284X 
+ 
+DOI: 10.4236/ijcm.2022.136018  Jun. 20, 2022 213 International Journal of Clinical Medicine 
+ 
+ 
+ 
+ 
+Closing the Gap in Primary Care: A Systematic 
+Review and Interpretation 
+Katon Harwood1, Joe Frye2, Harrison Albo2 
+1School of Osteopathic Medicine, Campbell University, Lillington, USA 
+2Department of Public Health, Clemson University, Clemson, USA 
+ 
+ 
+ 
+Abstract 
+Objective: The United States faces a health care provider shortage yearly in 
+many areas of the country, but most of all the rural areas are most impacted. 
+The aim of this paper is 2-fold: To understand the factors that drive a medical 
+student’s specialty choice through a systematic review article an d how go v-
+ernment initiatives consider what is important to students, to understand 
+how other clinicians can help close the gap in primary care in the United 
+States and what policies or barriers prevent them from doing so. Methods: 
+This paper looks at nationally collected data, as well as meta -analysis reviews 
+on the topic to help the reader better understand the issue of health care pr o-
+vider shortages. Conclusion: We must change the way we look at primary 
+care and rural medicine. Rather than investing money in avenues that yield 
+little return on investment, we as a nation should strategically fund and ad-
+vance the scope of practice for rural medicine to make it attractive and co m-
+petitive for clinicians to pursue. Being in a large deficit of clinical providers  in 
+general in our country, we must try to find new pathways to grow coverage in 
+rural areas before our health care system is no longer equitable. 
+ 
+Keywords 
+Rural Medicine, Healthcare Shortage, Primary Care 
+ 
+1. Introduction 
+Roughly 20% of the United States lives in a rural area yet only 9% of physicians 
+practice medicine there and only 3% of recent medical school graduates plan to 
+do so. [1] [2] Rural areas are defined by the census bureau as any area that is not 
+urban (less than 50,000 pe ople or clusters of less than 2500 people) and contains  
+residents whose income is at least $9000 lower than the per capita income, have 
+How to cite this paper: Harwood, K., Frye, 
+J. and Albo, H. (2022) Closing the Gap in 
+Primary Care: A Systematic Review and 
+Interpretation. International Journal of Clini-
+cal Medicine, 13, 213-220. 
+https://doi.org/10.4236/ijcm.2022.136018 
+ 
+Received:  May 18, 2022 
+Accepted: June 17, 2022 
+Published: June 20, 2022 
+ 
+Copyright © 2022 by author(s) and  
+Scientific Research Publishing Inc. 
+This work is licensed under the Creative 
+Commons Attribution International  
+License (CC BY 4.0). 
+http://creativecommons.org/licenses/by/4.0/   
+  
+Open Access
+
+[W4285231885 PDF PAGE 2]
+K. Harwood et al. 
+ 
+ 
+DOI: 10.4236/ijcm.2022.136018 214 International Journal of Clinical Medicine 
+ 
+limited transportation, limited band width for internet access and have a higher 
+prevalence of chronic diseases such as d iabetes and coronary heart disease than 
+those who live in the urban area. [3] There are many other obstacles and factors 
+that play into why clinicians prefer not t o practice medicine in rural, unde r-
+served areas in addition to the socioeconomic and geographical issues that 
+present themselves there. Some of these influences include  but are not limited to 
+family, economic decisions, career advancement, exposure to rural medicine 
+during college, lifestyle, workload, specialty, and medical resources.  
+As Figure 1  shows, every state in our country to some degree lacks a  number 
+of primary care physicians (PCPs) ; they need to not be considered a shortage 
+area. This is an important issue considering primary care physicians are no r-
+mally the specialty of doctor that provides continuous maintenance care to both 
+rural and urban populations. “Over the next nine years, t he country will be short 
+61,700 to 94,700 doctors, the Association of American Medical Colleges predicts. 
+But the shortage is spread unevenly across the country, with some states suffer-
+ing far more than others.” [3] When you look at the numbers and distr ibution of 
+our country’s healthcare providers that specialize in primary care , you can easily 
+see how health care accessibility has become a major issue for  many rural living 
+individuals in our country. The Institute for Health care Improvement defines an 
+equitable health system as one that is consistent across all settings and prides i t-
+self on a standard of care that does not discriminate. In light of this, the U.S. 
+health system is missing the mark of equity within the rural population.  
+These problems have not been ignored by those in power , and many initi a-
+tives have been taken to mitigate the shortage. Medical schools are adjusting the 
+qualities and backgrounds they look for in candidates, Title VII grants fund  
+ 
+ 
+Figure 1.  Number of PCP’s needed to not be considered a health professional shortage 
+area. 
+
+
+[W4285231885 PDF PAGE 3]
+K. Harwood et al. 
+ 
+ 
+DOI: 10.4236/ijcm.2022.136018 215 International Journal of Clinical Medicine 
+ 
+primary care leadership, faculty development programs and innovative curricula 
+for medical schools concerning primary care medicine and new osteopathic and 
+allopathic medical schools are popping up in rural regions across the country. 
+Although many measure s have been taken, this paper looks to evaluate and u n-
+derstand the specific aims that provide one with a better understanding of how 
+to fix the problems we face in providing primary care to rural communities. 
+The specific aims of this paper are: 
+1) To unde rstand the factors th at drive a medical student’s specialty choice 
+through a systematic review article and how government initiatives take into 
+account what is important to students.  
+2) To understand how other clinicians can help close the gap in primary care 
+in the United States and what policies or barriers prevent them from doing so.  
+In our healthcare system, we cannot simply assign physicians to areas of need , 
+but rather we rely on them to choose where and what they wish to practice. This 
+system has its pros and cons. Looking at what makes a student want to practice a 
+certain specialty in a certain area can be used to a health system’s advantage to 
+help create and fund more desirable locations that fill the needs of our nation. 
+On top of this, healthcare is a team sport, and it is not enough j

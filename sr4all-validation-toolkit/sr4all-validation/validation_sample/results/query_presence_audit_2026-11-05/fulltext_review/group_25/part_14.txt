@@ -1,0 +1,252 @@
+rved.
+  Ann Palliat Med 2021;10(10):10661-10673 | https://dx.doi.org/10.21037/apm-21-2329
+10664
+(6-14), 6 studies of diabetes and stroke (6-9,12-15), 6 studies 
+of overweight and stroke (6-8,11-15), 8 studies of drinking 
+and stroke (6-11,12-14), and 7 studies of smoking and 
+stroke (6-11,13,14) (T able 1 ).
+Results of risk bias evaluation of included studies
+Using Review Manager 5.3’s risk of bias assessment tool to 
+evaluate the quality of the included 10 articles, the results 
+were shown in Figure 2  and Figure 3 . Most aspects of the 
+included RCTS were assessed as having a low risk of bias. 
+Due to the characteristics of face masks used outside the 
+body, it is difficult to blind researchers and subjects during 
+this process. Therefore, the blindness (performance bias) 
+of the participants and personnel included in this study was 
+assessed as high risk. Based on the completeness of the data 
+and the selectivity of the report, it is classified as low risk.
+Hypertension and emergency cerebrovascular disease in the 
+neurology department
+Meta-analysis was performed on 10 RCT s obtained for 
+middle-aged, elderly, and general populations through the 
+literature screening process. “Hypertension” was used as 
+exposure in the analysis, while “non-hypertensive” cases 
+were included in the control group. The exposure/non-
+exposure definitions in all RCT s were similar. In the 10 
+studies, a total of 17,149 patients were included. After 
+heterogeneity testing, the results showed that I
+2
+=91% 
+and P<0.00001, indicating that significant heterogeneity 
+in the literature, so the random effects model was used 
+for analysis. Meta-analysis results showed that OR =2.33, 
+Included Screening
+Identification of studies via databases and registers
+Identification
+Records identified from:
+Databases (n=78)
+Registers (n=148)
+Records removed before screening:
+Duplicate records removed (n=72)
+Records marked as ineligible by 
+automation tools (n=35)
+Records removed for other reasons (n=0)
+Records excluded
+(n=22)
+Reports not retrieved
+(n=56)
+Reports excluded:
+Reason 1: Non-neurological cases (n=15)
+Reason 2: Non-fatal risk factors (n=9)
+Reason 3: Non-randomized-controlled 
+experiments (n=7)
+Records screened
+(n=119)
+Reports sought for retrieval
+(n=97)
+Studies included in review
+(n=10)
+Reports of included studies
+(n=10)
+Reports assessed for eligibility
+(n=41)
+Figure 1 Literature screening process.
+
+[W3207720815 PDF PAGE 5]
+Annals of Palliative Medicine, Vol 10, No 10 October 2021
+© Annals of Palliative Medicine. All rights reserved.
+  Ann Palliat Med 2021;10(10):10661-10673 | https://dx.doi.org/10.21037/apm-21-2329
+10665
+95% CI: 1.83–2.98, Z=6.84, and P<0.00001, so there was 
+a significant difference in postoperative mortality rates 
+between the two groups (P<0.05). Figure 4  shows the forest 
+plot.
+The funnel plot was basically symmetric and most of the 
+data corresponded to points within the 95% CI ( Figure 5 ). 
+The non-safe number was 4,469, indicating that at least 
+4,469 non-positive control results were required in order for 
+the results associated with hypertension and cerebrovascular 
+disease to be above 5k+10=95, suggesting that publication 
+bias was effective.
+Hyperlipidemia and emergency cerebrovascular diseases in 
+neurology
+Meta-analysis was performed on 10 RCT s obtained for 
+middle-aged, elderly, and general populations through the 
+literature screening process. “Hypertension” was used as 
+exposure in the analysis, while “non-hypertensive” cases 
+were included in the control group. The exposure/non-
+exposure definitions in all literature studies were similar. In 
+the 10 studies, 17,339 patients with cerebrovascular disease 
+and 17,567 controls were included. After heterogeneity 
+Table 1 Basic data of included studies
+First author Year
+Types of 
+cerebrovascular 
+diseases
+Risk factors Age (years)
+Total 
+patients/
+case
+Alebeek (9) 2018 Stroke Age, arterial disease, heart disease, chronic systemic 
+disease, thrombus, acute systemic disease, chronic 
+head and neck disease, pregnancy, acute head and neck 
+disease, heart disease, smoking, alcohol consumption, 
+hyperglycemia, hyperlipidemia
+18–50 656
+Li (10) 2015 Stroke Great artery disease, small vessel disease, cardiac 
+embolism, atherosclerosis, diabetes, peripheral 
+vascular disease, hypercholesterolemia, smoking, heart 
+disease, smoking, alcohol consumption, hyperglycemia, 
+hyperlipidemia
+>18 2,555
+Edwrds (11) 2019 Ischemic stroke and 
+transient cerebral 
+ischemia
+Age, recurrent stroke, transient ischemic attack, myocardial 
+infarction
+18–80 26,560
+Bowers (12) 2006 Stroke Brain tumor, cerebral palsy, heart disease, smoking, 
+drinking, hyperglycemia, hyperlipidemia
+>18 100
+MacClellan (13) 2007 Stroke Smoking, oral contraceptive, age, hypertension, diabetes, 
+angina pectoris, smoking, migraine
+15–49 386+614
+O’Donnell (14) 2010 Stroke Age, hyperlipidemia, smoking, diabetes mellitus, 
+hypertension, abdominal obesity, heart disease, smoking, 
+alcohol consumption, hyperglycemia, hyperlipidemia
+>18 3,000
+Topcuoglu (15) 2017 Stroke Migraine, paralysis, infection, hypotension, hyponatremia, 
+insomnia or stress, diabetes, dyslipidemia, smoking, small 
+vessel disease, infarction
+>18 153
+Zuo (16) 2018 Cerebral infarction Smoking history, headache, instability, dizziness, heart 
+disease, smoking, alcohol consumption, hyperglycemia, 
+hyperlipidemia
+>18 353
+NanZhu (17) 2019 Cerebral infarction Alcohol consumption, diabetes, history of stroke, blood 
+sugar, blood potassium levels, heart disease, smoking, 
+alcohol consumption, hyperglycemia, hyperlipidemia
+>70 324
+Dupont (18) 2009 Cerebral infarction 
+and stroke
+Age, hyperlipidemia, smoking, diabetes, hypertension, 
+abdominal obesity, heart disease, smoking, alcohol 
+consumption, hyperglycemia, hyperlipidemia
+>18 208
+
+[W3207720815 PDF PAGE 6]
+Zhang et al. Risk factors of cerebrovascular diseases: meta-analysis
+© Annals of Palliative Medicine. All rights reserved.
+  Ann Palliat Med 2021;10(10):10661-10673 | https://dx.doi.org/10.21037/apm-21-2329
+10666
+detection, the results showed that I
+2
+=97% and P<0.00001, 
+indicating significant heterogeneity in the literature, so 
+the random effects model was used for analysis. Meta-
+analysis results showed that OR=2.65, 95% CI: 1.80–3.91, 
+Z=4.92, and P<0.00001, so there was a significant difference 
+in postoperative mortality rates between the two groups 
+(P<0.05). Figure 6  shows the forest plot.
+ The funnel plot was basically symmetric and most 
+of the data corresponded to points within the 95% CI  
+(Figure 7 ). The non-safe number was 4,469, indicating that 
+at least 4,469 non-positive control results were required 
+in order for the results associated with hypertension and 
+cerebrovascular disease to be above 5k+10=95, suggesting 
+that publication bias was effective.
+Family history of stroke and emergency cerebrovascular 
+disease in neurology
+Meta-analysis was performed on 9 RCT s obtained for 
+middle-aged, elderly, and general populations through the 
+literature screening process. “History of stroke” was used 
+as exposure in the analysis, while “non-history of stroke” 
+cases were studied in the control group. The exposure/
+non-exposure definitions in all studies were similar. In the 
+9 studies, a total of 5,585 patients were included. After 
+heterogeneity testing, the results showed that I
+2
+=85% and 
+P<0.00001, indicating significant heterogeneity in the 
+literature, so the random effects model was used for analysis. 
+Meta-analysis results showed that OR =2.18, 95% CI: 
+Alebeek 2017 
+Bowers 2006
+Dupont 2009
+Edwards 2019 
+Li 201 5 
+MacClellan 2007 
+NanZhu 2019
+O’Donnel 201O 
+Topcuoglu 2017 
+Zuo 2018
+Random sequence generation (selection bias)
+Allocation concealment (selection bias) 
+Blinding of participants and personnel (perforrmance bias)
+Blinding of outcome assessment (detection bias) 
+Incomplete outcome data (attrition bias) 
+Selective reporting (reporting bias)
+Other bias
+Figure 2 Literature risk bias evaluation results.
+Random sequence generation (selection bias)
+Allocation concealment (selection bias) 
+Blinding of participants and personnel (perforrmance bias)
+Blinding of outcome assessment (detection bias) 
+Incomplete outcome data (attrition bias) 
+Selective reporting (reporting bias)
+Other bias
+Low risk of bias Unclear risk of bias High risk of bias
+0%           25%             50%             75%          100%
+Figure 3 Literature bias risk assessment bar chart.
+
+[W3207720815 PDF PAGE 7]
+Annals of Palliative Medicine, Vol 10, No 10 October 2021
+© Annals of Palliative Medicine. All rights reserved.
+  Ann Palliat Med 2021;10(10):10661-10673 | https://dx.doi.org/10.21037/apm-21-2329
+10667
+Figure 4 Forest plot of mortality rates of hypertension and cerebrovascular disease in the two groups.
+1.73–2.73, Z=6.70, and P<0.00001, so there was a significant 
+difference in postoperative mortality rates between the two 
+groups (P<0.05). Figure 8  shows the forest plot.
+The funnel plot was basically symmetric and most 
+of the data corresponded to points within the 95% CI  
+(Figure 9 ). The non-safe number was 5,769, indicating that 
+at least 5,769 non-positive control results were required 
+in order for the results associated with stroke history and 
+cerebrovascular disease to be above 5k+10=95, suggesting 
+that publication bias was effective.
+Overweight and emergency cerebrovascular disease in 
+neurology
+Meta-analysis was performed on 6 RCT s obtained for 
+0.01 0.1 1 10
+SE (log [OR])
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+100
+OR
+Figure 5  Funnel plot of mortality rates of hypertension and 
+cerebrovascular disease in the two groups. SE, standard error; OR, 
+odds ratio.
+Figure 6 Forest plot of mortality rates of hyperlipidemia and cerebrovascular disease in the two groups.
+
+[W3207720815 PDF PAGE 8]
+Zhang et al. Risk factors of cerebrovascular diseases: meta-analysis
+© Annals of Palliative Medicine. All rights reserved.
+  Ann Palliat Med 2021;10(10):10661-10673 | https://dx.doi.org/10.21037/apm-21-2329
+10668
+middle-age

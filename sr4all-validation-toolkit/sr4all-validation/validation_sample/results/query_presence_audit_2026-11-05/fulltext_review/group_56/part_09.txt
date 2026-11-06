@@ -1,0 +1,183 @@
+tinuous improvement and adaptation of 
+AI technologies. For example, the integration of AI in eco -
+system management to model complex ecological interac-
+tions and predict changes (Coccia et al. 2023) requires 
+ongoing research to refine AI models and simulations. 
+Financial support mechanisms, including public funding 
+and private investment, drive innovation and ensure the 
+scalability of successful AI applications. Optimization of 
+renewable energy systems through AI, which improves 
+efficiency and reliability (Raman et al. 2024), exempli-
+fies the need for substantial financial support to support 
+large-scale deployment. Industry-academia collabora-
+tions can spur innovative solutions by combining practi-
+cal insights with cutting-edge research. The role of AI in 
+urban planning, which optimizes land use, transportation 
+systems, and infrastructure development (Regona et al. 
+2024), benefits significantly from such collaborations to 
+address urban challenges effectively. Active stakeholder 
+participation, including local communities, policymakers, 
+and environmental organizations, is essential to align AI 
+solutions with societal needs and values, ensuring broader 
+acceptance and effective implementation. This involve-
+ment is crucial in areas such as agriculture, where AI-
+driven precision farming techniques help optimize yields 
+and reduce waste (Coccia 2017). By framing AI’s role in 
+sustainability within the problem-driven innovation frame-
+work and situating it within a comprehensive innovation 
+ecosystem, it becomes clear that AI is not just a tool but a 
+transformative force driving targeted solutions to pressing 
+environmental challenges. This approach underscores the 
+importance of leveraging advanced technologies such as 
+AI within a supportive ecosystem to create sustainable and 
+resilient systems, aligning technological advances with 
+ecological and social well-being.
+
+[W4403706069 PDF PAGE 24]
+ Int J Environ Res (2025) 19:1
+1 Page 24 of 36
+Long‑term outlook
+Looking further ahead, envisioning LLMs and other AI tech-
+nologies in roles such as "Guidance Counselors" and "Crea-
+tive Assistants" at both individual and government levels 
+could significantly aid in sustainable practices and informed 
+decision making.
+By 2050, AI’s capacity for predictive modeling and real-
+time data analysis will enable governments to anticipate 
+environmental shifts and make proactive adjustments to 
+policies addressing climate change, biodiversity loss, and 
+sustainable agriculture. In addition, AI could help citizens 
+and businesses adopt greener practices by offering person-
+alized guidance on reducing carbon footprints, optimizing 
+energy use, and promoting sustainable consumption. As AI 
+becomes more sophisticated, it will play a critical role in 
+the integration of the SDGs with long-term climate action 
+strategies, accelerating progress toward achieving net zero 
+emissions and promoting social equity.
+In addition, the growing interactions and applicability 
+of AI technologies in fields such as healthcare, agriculture, 
+energy, and transportation will significantly influence and 
+change human behavior. For example, as AI systems offer 
+more efficient solutions and personalized recommendations, 
+individuals and organizations will increasingly adopt sus -
+tainable behaviors by default, integrating eco-friendly prac-
+tices into daily routines. The ability of AI to connect and 
+adapt strategies in multiple sectors will promote systemic 
+changes in how societies address sustainability challenges, 
+leading to greater synergy between different industries 
+and a more holistic approach to environmental and social 
+governance.
+With advances in AI ethics and transparency, future AI 
+systems will also incorporate ethical frameworks to ensure 
+fairness, accountability, and sustainability in decision-mak-
+ing processes. This will be crucial in addressing the potential 
+risks of AI, such as environmental costs and data privacy 
+concerns. In general, the long-term integration of AI in vari-
+ous sectors promises to be a key driver in shaping sustain-
+able behaviors and a resilient future by 2050.
+Challenges and recommendations
+As the exploration of these innovative methods and applica-
+tions continues, it will be essential to address ethical consid-
+erations, challenges, and risks in AI application. DeepMind 
+emphasizes the critical need for comprehensive evaluations 
+of AI models, specifically designed to ensure alignment 
+with human values and goals. These evaluations should 
+also assess the hazardous capabilities of these systems to 
+enhance risk management processes and prevent potential 
+misuse or accidents (Shevlane et al. 2023). This call for cau-
+tion is especially urgent given that existing AI models have 
+already shown the ability to produce potentially harmful and 
+unintended results, such as biased decision making or hal-
+lucination in real-world applications (Ganguli et al. 2022).
+Sustainability, with its broad scope and strategic impor -
+tance, faces similar challenges, necessitating risk assessment 
+for AI models deployed in sustainability enhancement. A 
+2022 survey revealed that 36 % of AI researchers and stake-
+holders expressed concern about AI systems that could cause 
+catastrophic events in this century, comparable to or exceed-
+ing a nuclear war (Michael et al. 2022), highlighting the 
+social and environmental implications of extreme AI risks. 
+AI technologies raise several ethical concerns that must be 
+addressed to ensure that they contribute positively to sustain-
+ability goals. Ethical considerations include the potential for 
+AI to infringe privacy through data misuse, perpetuate biases 
+if not properly managed, and influence public policy in ways 
+that may not align with public interest. Furthermore, the risk 
+of automation bias, where an undue reliance on AI could 
+overshadow human judgment, could lead to overlooking crit-
+ical insights or alternative solutions (Shevlane et al. 2023). 
+Furthermore, the significant resources required to train large 
+AI models pose environmental and economic challenges, 
+as energy consumption and hardware requirements can be 
+substantial, potentially offset by the environmental benefits 
+these models aim to achieve (Ganguli et al. 2022).
+The referred challenges emphasize the importance of 
+Explainable AI (XAI) and AI ethics. XAI refers to meth-
+odologies that aim to make AI solutions understandable by 
+human experts, while AI ethics aims to ensure that the appli-
+cation and impact of AI are in line with ethical norms and 
+values. As AI systems are increasingly integrated into soci-
+ety, the design and operation of these systems with respect 
+to human rights, fairness, transparency, and accountability 
+is essential. Sophisticated strategies in XAI and transpar -
+ent AI ethics are invaluable, possessing the capability to 
+address identified weaknesses and risks (Brasse et al. 2023). 
+For example, these strategies could quickly detect manipu-
+lation or bias, mitigate legal risks by offering rationales for 
+AI-driven decisions, and improve the traceability of results 
+to address social concerns. Therefore, various companies, 
+including Google [243] and IBM IBM (2023), are advanc-
+ing the comprehensibility of their AI systems through XAI 
+platforms.
+Ethical, educational, and security considerations 
+in the application of AI for environmental research
+In the context of the increasing application of AI in envi-
+ronmental fields, several critical considerations should be 
+addressed regarding the general applicability, sustainability, 
+and ethical aspects of AI. The questions raised here are perti-
+nent not only to the technicalities of AI deployment but also 
+
+[W4403706069 PDF PAGE 25]
+Int J Environ Res (2025) 19:1 
+ Page 25 of 36 1
+to broader issues of data safety, accessibility, and regulation, 
+especially with respect to nonexpert users.
+Non‑experts’ readiness for AI implementation 
+in environmental fields
+One of the main challenges for non-experts, such as workers 
+in the environmental sectors, lies in the steep learning curve 
+associated with the implementation and use of AI technolo-
+gies. AI, especially in terms of large-scale data analysis, 
+requires technical knowledge of algorithms, ML models, and 
+data science principles. Although there is growing interest 
+in the use of AI to improve decision making and optimize 
+workflows, the ability of these workers to implement, store, 
+and manage AI-driven metadata, software, and databases 
+remains limited.
+To bridge this gap, automation tools such as AutoML 
+and LLMs have emerged as solutions, as they significantly 
+lower the technical requirements for AI implementation. 
+AutoML automates the process of selecting, tuning, and 
+deploying machine learning models, enabling non-experts 
+to leverage AI without extensive knowledge of the under -
+lying algorithms. Similarly, LLMs simplify complex data 
+analysis and decision-making tasks through natural language 
+processing, allowing workers to interact with AI systems in 
+a more intuitive manner.
+Furthermore, it is essential that educational institutions 
+adjust environmental courses by incorporating data science 
+and AI subjects. These courses do not need to be highly 
+technical but should focus on teaching the fundamental con-
+cepts of AI and data science. The primary goal is to ensure 
+that future workers understand the underlying principles well 
+enough to evaluate and interpret the outputs of automation 
+tools such as AutoML and LLMs. This foundational knowl-
+edge will allow workers to make informed decisions when 
+using AI-driven technologies, ensuring that they can benefit 
+from these tools while maintaining data integrity and ethical 
+standards.
+AI‑processed data security in the Era of quantum 
+computing
+Currently, modern classical informatics technologies provide 
+a relatively secure environment for storing and processing 
+AI-generated metadata. However, the emergence of

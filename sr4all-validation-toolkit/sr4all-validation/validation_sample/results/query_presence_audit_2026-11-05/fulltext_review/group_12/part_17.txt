@@ -1,0 +1,181 @@
+horacic surgery.
+Preoperative nutrition
+The most recent European guidelines do not recommend 
+traditional preoperative fasting prior to surgery, rather 
+limiting fasting of solid foods to six hours and clear liquids 
+to two hours prior to the surgical procedure (50). This 
+recommendation tends to be individualized from institution-
+to-institution regarding the acceptance of current practices 
+by local anesthesia groups. There have only been a handful 
+of studies which have formally investigated preoperative 
+nutrition regimens prior to proceeding to lung resection. Kaya 
+et al.  examined the administration of an immune-modulating 
+nutritional regimen (enriched with arginine, omega-3 
+fatty acids, and nucleotides) for 10 days preoperatively in 
+a randomized design. They were able to demonstrate a 
+lower complication rate and reduced chest tube days in the 
+intervention group. However, the malnourished and patients 
+with metabolic disorders were excluded (65).
+Preoperative nutrition prior to esophageal cancer 
+surgery is another special consideration. This population 
+is notable as it consists of patients who often present 
+with malnutrition, have adequate time before surgery 
+for nutritional optimization due to neoadjuvant therapy, 
+and are at particularly high nutritional risk due to their 
+pathology. In several guideline publications, it is asserted 
+that esophageal cancer patients should receive nutritional 
+supplementation for at least 10–14 days before surgery 
+(50,66). Various routes of nutritional administration have 
+been proposed including gastrostomy, jejunostomy, and 
+via the esophagus facilitated by esophageal stent to assist 
+delivery (67-69). A recently published systematic review 
+by Huddy et al.  summarizes the available literature on 
+these different modalities of preoperative feeding (70). 
+The included studies within the review are primarily small, 
+single-center, studies. No randomized, controlled trials 
+have been conducted comparing different modalities of 
+nutritional support therapy. Ultimately, there is a dearth 
+of quality evidence to recommend a particular route of 
+nutrition administration prior to surgery. As such, practices 
+patterns vary based on institution.
+Immunonutrition has shown promise in gastrointestinal 
+surgeries and is recommended under the American 
+College of Surgeons Strong for Surgery program. A study 
+performed by the Surgical Care and Outcomes Assessment 
+Program (SCOAP) in Washington state demonstrated that 
+immunonutrition regimen per this protocol led to fewer 
+readmissions, reduced LOS, reduced risk of infections, 
+and reduced risk of venous thromboembolism without 
+significant differences in cost (71). Immunonutrition in 
+thoracic surgery appears to have promise, but with limited 
+literature to support its benefit (65). In esophageal cancer 
+patients, a recent, multicenter, randomized controlled 
+study in Australia showed no difference in clinical or 
+patient-reported outcomes following administration of an 
+immunonutrition regimen (72).
+Postoperative nutrition
+Over the last decade, postoperative nutrition has evolved 
+from intensive investigation in gastrointestinal tract 
+surgery to the dictum of “early enteral nutrition” being 
+the international standard of care. As summarized above, 
+major consensus guidelines have established the benefit 
+of initiation of nutrition within 24 hours of surgical 
+intervention. It is recommended that initiation of nutrition 
+be enteral over parenteral barring specific contraindications. 
+T wo meta-analyses comparing enteral versus parenteral 
+routes of nutrition have demonstrated possible decrease in 
+mortality (73) and complications (74), but the aggregated 
+data are considered to be weak.
+A particular thoracic surgery population deserves special 
+mention concerning postoperative nutrition: esophageal 
+surgery. There is ongoing debate over the best method for 
+enteral nutrition delivery postoperatively. The main concern 
+with immediate oral intake (postoperative day one) is the 
+theoretical risk to the fresh surgical anastomosis, lower 
+caloric intake, and risk of aspiration leading to pneumonia. 
+Due to these theoretical risks, many surgeons opt for delay 
+in resumption of postoperative nutrition or nasojejunal 
+or surgically placed jejunostomy tubes to administer 
+post-operative nutrition. However, there has been some 
+prospective data supporting the adoption of early per oral 
+feeding during the first 24 hours after surgery. Weijs et al.  
+found no difference in calories administered, pneumonia 
+rates, and anastomotic leak rates between early and delayed 
+feeding (75). The only randomized trial investigating this 
+question found that early feeding was non-inferior to other 
+forms of enteral delivery (76).
+Opportunities for research
+There are numerous opportunities for future study within 
+
+[W2911232401 PDF PAGE 10]
+S546
+© AME Publishing Company. 
+J Thorac Dis 2019;11(Suppl 4):S537-S554 | https://dx.doi.org/10.21037/jtd.2019.01.06
+Stokes et al. Optimizing thoracic surgery risk factors systematic review
+the field of nutrition during the perioperative period 
+around thoracic surgery. As summarized above, most of the 
+research that has been conducted thus far relate to the use 
+of nutritional risk scores and laboratory values to serve as 
+prognostic indicators for patient outcomes. There remains 
+an opportunity to look at strategies for nutritional support, 
+especially in high-risk thoracic cancer populations.
+Practice patterns for nutritional therapy in thoracic 
+surgery are not well known. It is unclear how much 
+perioperative nutrition is emphasized amongst thoracic 
+surgeons nationwide, and what percentage of patients 
+are receiving a comprehensive nutritional work-up prior 
+to proceeding to the operating room. It is the authors’ 
+experience that nutrition has been relatively neglected on a 
+national scale, and decisions regarding the administration of 
+nutrition are not made until the postoperative period on the 
+surgical ward and intensive care unit.
+Finally, as noted above, the esophageal cancer patient 
+population is a special consideration concerning perioperative 
+nutrition. There are currently no guidelines directing 
+thoracic surgeons on the best regimen and route of nutrition 
+during a patient’s neoadjuvant therapy prior to surgical 
+resection, and following surgery. Investigations into different 
+supplements and routes of feeding are needed to clarify these 
+management strategies.
+Functional fitness and exercise
+National guidelines recommend extensive preoperative 
+pulmonary evaluation prior to lung resection include 
+assessment of lung function through forced expiratory 
+volume (FEV 1), diffusing capacity of the lung for carbon 
+monoxide (DLCO), and exercise testing (53,54,77). 
+Assessment and optimization of a patient’s pulmonary 
+function are critical to prevent postoperative pulmonary 
+complications (PPCs). PPCs have been found to be 
+associated with higher 30-day readmission rates, longer 
+lengths of stay, and reduced overall survival (78).
+Given the high burden of comorbid disease in these 
+patients, pulmonary rehabilitation can be a critical 
+intervention to optimize patients for surgery. It has been 
+described that patients undergoing resection for lung cancer 
+tend to be less active, with more comorbid disease than the 
+average healthy population (79). The efficacy of pulmonary 
+rehabilitation within chronic obstructive pulmonary disease 
+(COPD) has been well characterized (80), a disease process 
+that is very common in the thoracic surgery population. 
+A Cochrane review from 2017 specifically looked at the 
+outcomes following preoperative exercise prior to lung 
+cancer surgery. It identified five randomized studies 
+investigating this question and found that preoperative 
+exercise therapy reduced PPCs, length of intercostal 
+catheter use, LOS, and improved exercise capacity and 
+force vital capacity postoperatively (81). A systematic review 
+conducted a year prior found the same conclusions (82). 
+However, the number of studies available in these meta-
+analyses were low, thus strong recommendations could not 
+be made based on the available evidence. There is currently 
+an enrolling randomized controlled trial, the Precision 
+Exercise Prescription (PEP) study for patients undergoing 
+surgery for lung cancer (1R01CA211705-01A1), led by one 
+of the authors of this review. It is our hope that this study 
+will lend additional evidence to a potentially critical aspect 
+of preparation for lung cancer surgery.
+Exercise training is typically organized into three 
+domains: aerobic exercise training, resistance training, and 
+respiratory muscle training (81). The optimal preoperative 
+regimen has not been clearly identified. There has also been 
+an inability to scale these interventions across resource-
+limited settings as there may not be a highly skilled exercise 
+physical therapist available. 
+Pre-operative exercise
+Pre-operative exercise training prior to lung cancer surgery 
+has been assessed in several randomized clinical trials (83-87).  
+All of these studies suffer from low enrollment numbers 
+and generalizability given the equipment and resources 
+used in their pre-operative exercise program. Systematic 
+reviews and meta-analyses of these trials have demonstrated 
+reduced length of stay and lower PPCs compared to lack of 
+preoperative exercise training (81,82). Current preoperative 
+guidelines for physiologic assessment of resectable patients 
+recommend preoperative and postoperative rehabilitation 
+for patients deemed high-risk after undergoing pulmonary 
+and exercise assessment (53). While the data support this 
+recommendation, the ideal regimen has not been clearly 
+delineated. Prolonged, intensive exercise training programs 
+are not feasible prior to time-sensitive lung cancer surgery 
+as delays may affect cancer-specific survival. The length 
+and content of training, as well as the scalability, ar

@@ -1,0 +1,164 @@
+tion life cycle costing other than the 
+components and elements listed in Table 4, including the risk mitigation, building safety and 
+externalities, insurance and staff retirement, lab and chemicals risks in laboratory, and 
+stationary costs. 
+ 
+Conclusion 
+LCC is most useful tool contributing in Life cycle sustainability assessment. Higher education 
+is one of the important services to produce graduates who will contribute to the communities 
+as human capitals. Therefore, the LCC is a  vital management tool to estimate the cost of 
+products or services during the entire life span. Furthermore, two visual maps were created 
+to characterize the authors and keywords based on research patterns.  In this regard, 77 
+authors have written and published three articles on Life Cycle Costing, with Mathias 
+Finkbeiner the highest publication 32 on top, t he altman, douglas g, liberati, alessandro, 
+moher, david, tetzlaff, Jennifer leading the way with 10 articles each.  Based on VOSviewer 
+software analyzed in recognize the 75 keywords by three occurrences were analyzed, the 
+most used key is “Life Cycle Assessment” 34 occurrence followed by “Life Cycle Costing” and 
+“Life Cycle Cost’’ 23 occurrence, “LCA” 15 occurrence, “LCC” 12 occurrence, and “Life Cycle 
+Costing (LCC)” 8 occurrence.  
+ 
+Based on the findings, there were numerous life cycle costing studies in the literature on the 
+products. However, there has yet a study on the higher education services. Some studies 
+calculated the higher education facilities, especially the dormitories an d building life cycle 
+Pollutions  Air pollution       √     
+  Water 
+pollution 
+  √   √     
+  Soil 
+pollution 
+     √     
+             
+Services  Staff cost Salary,    √  √   √  √ 
+  Utility cost √   √ √  √ √   
+  Room 
+service cost 
+√       √  √ 
+ Lab Cost Laboratory 
+fittings  
+       √   
+Student 
+Costs 
+Facilities 
+costs  
+Tuition fee   √        
+  Transportati
+on  
+ √         
+  Communicat
+ion 
+   √       
+
+[W4405652450 PDF PAGE 18]
+INTERNATIONAL JOURNAL OF ACADEMIC RESEARCH IN ECONOMICS AND MANAGEMENT SCIENCES 
+Vol. 13 , No. 4, 2024, E-ISSN: 2226 -3624 © 2024 
+549 
+cost. However, the education services and facilities calculations were not used in the 
+literature related to the LCC of higher education. Based on the review of methods, there was 
+no comprehensive method used for the higher education or other services. Hen ce, it is 
+important to adopt a method for the higher education life cycle costing. Consequently, we 
+aimed to adopt the methods that used the existing calculations in the literature. According to 
+the literature search, there were some articles that calculat ed the university residential or 
+non-residential buildings’ LCC using different elements in their studies. Finally, based on this 
+review, finding a specific method required for the higher education life cycle costing would 
+involve modification and developm ent of the method in combination with the building life 
+cycle elements and components, such as facilities, services, operations, constructions, lab 
+facilities, safety, and student costs to insure the sustainability of higher education services in 
+sustainable manners.  
+ 
+Acknowledgment 
+We acknowledge the Higher Education Development Program (HEDP) in the Ministry of 
+Higher Education in Afghanistan for the opportunity. We thanks to Universiti Putra Malaysia 
+(UPM) for providing us their resources for conducting this review. 
+ 
+References 
+Al-Karaghouli, A., & Kazmerski, L. L. (2010). Optimization and life-cycle cost of health clinic PV 
+system for a rural area in southern Iraq using HOMER software. Solar Energy, 84(4), 710–
+714. https://doi.org/10.1016/j.solener.2010.01.024 
+Albuquerque, T. L. M., Mattos, C. A., Scur, G., & Kissimoto, K. (2019). Life cycle costing and 
+externalities to analyze circular economy strategy: Comparison between aluminum 
+packaging and tinplate. Journal of Cleaner Production , 234, 477 –486. 
+https://doi.org/https://doi.org/10.1016/j.jclepro.2019.06.091 
+Arpke, A., & Strong, K. (2006). A comparison of life cycle cost analyses for a typical college 
+dormitory using subsidized versus full-cost pricing of water. Ecological Economics, 58(1), 
+66–78. https://doi.org/https://doi.org/10.1016/j.ecolecon.2005.05.019 
+Ayub. M. F. & Abdul Rashid. K. (2016). Review of methodology designed to investigate quality 
+of cost data input in life cycle cost. Malaysian Construction Research Journal (MCRJ) , 
+18(1), 105–121. 
+Barros, M. V., Salvador, R., Piekarski, C. M., de Francisco, A. C., & Freire, F. M. C. S. (2020a). 
+Correction to: Life cycle assessment of electricity generation: a review of the 
+characteristics of existing literature. The International Journal of Life Cycle Assessment , 
+25(1), 55–56. https://doi.org/10.1007/s11367-019-01661-3 
+Barros, M. V., Salvador, R., Piekarski, C. M., de Francisco, A. C., & Freire, F. M. C. S. (2020b). 
+Life cycle assessment of electricity generation: a review of the characteristics of existing 
+literature. The International Journal of Life Cycle Assessment , 25(1), 36 –54. 
+https://doi.org/10.1007/s11367-019-01652-4 
+Bengtsson, M., & Kurdve, M. (2016). Machining Equipment Life Cycle Costing Model with 
+Dynamic Maintenance Cost. Procedia CIRP , 48, 102 –107. 
+https://doi.org/https://doi.org/10.1016/j.procir.2016.03.110 
+Bhochhibhoya, S., Pizzol, M., Achten, W. M. J., Maskey, R. K., Zanetti, M., & Cavalli, R. (2017). 
+Comparative life cycle assessment and life cycle costing of lodging in the Himalaya. The 
+International Journal of Life Cycle Assessment , 22(11), 1851 –1863. 
+https://doi.org/10.1007/s11367-016-1212-8 
+
+[W4405652450 PDF PAGE 19]
+INTERNATIONAL JOURNAL OF ACADEMIC RESEARCH IN ECONOMICS AND MANAGEMENT SCIENCES 
+Vol. 13 , No. 4, 2024, E-ISSN: 2226 -3624 © 2024 
+550 
+Biolek, V., Hanák, T., & Marović, I. (2017). Data Flow in Relation to Life -Cycle Costing of 
+Construction Projects in the Czech Republic. IOP Conference Series: Materials Science 
+and Engineering, 245(7). https://doi.org/10.1088/1757-899X/245/7/072032 
+Bromilow, F. J., & Pawsey, M. R. (1987). Life cycle cost of university buildings. Construction 
+Management and Economics , 5(4), S3 –S22. 
+https://doi.org/10.1080/01446193.1987.10462089 
+Bull, J., Gupta, A., Mumovic, D., & Kimpian, J. (2014). Life cycle cost and carbon footprint of 
+energy efficient refurbishments to 20th century UK school buildings. International 
+Journal of Sustainable Built Environment , 3(1), 1 –17. 
+https://doi.org/https://doi.org/10.1016/j.ijsbe.2014.07.002 
+Cartelle Barros, J. J., Lara Coira, M., de la Cruz López, M. P., & del Caño Gochi, A. (2016). 
+Probabilistic life -cycle cost analysis for renewable and non -renewable power plants. 
+Energy, 112, 774–787. https://doi.org/https://doi.org/10.1016/j.energy.2016.06.098 
+Corona, B., Cerrajero, E., López, D., & San Miguel, G. (2016). Full environmental life cycle cost 
+analysis of concentrating solar power technology: Contribution of externalities to overall 
+energy costs. Solar Energy , 135, 758 –768. 
+https://doi.org/10.1016/j.solener.2016.06.059 
+Costa, D., Quinteiro, P., & Dias, A. C. (2019). A systematic review of life cycle sustainability 
+assessment: Current state, methodological challenges, and implementation issues. 
+Science of the Total Environment , 686, 774 –787. 
+https://doi.org/10.1016/j.scitotenv.2019.05.435 
+Cuéllar-Franca, R. M., & Azapagic, A. (2014). Life cycle cost analysis of the UK housing stock. 
+The International Journal of Life Cycle Assessment , 19(1), 174 –193. 
+https://doi.org/10.1007/s11367-013-0610-4 
+Daşdemir, A., Ertürk, M., Keçebaş, A., & Demircan, C. (2017). Effects of air gap on insulation 
+thickness and life cycle costs for different pipe diameters in pipeline. Energy, 122, 492–
+504. https://doi.org/https://doi.org/10.1016/j.energy.2017.01.125 
+de Jong, P., & Arkesteijn, M. (2014). Life cycle costs of Dutch school buildings. Journal of 
+Corporate Real Estate, 16(3), 220–234. https://doi.org/10.1108/JCRE-08-2013-0019 
+De Menna, F., Dietershagen, J., Loubiere, M., & Vittuari, M. (2018). Life cycle costing of food 
+waste: A review of methodological approaches. Waste Management , 73, 1 –13. 
+https://doi.org/10.1016/j.wasman.2017.12.032 
+Ding, T., Sun, L., & Chen, Z. (2013). Optimal Strategy of Pavement Preventive Maintenance 
+Considering Life-cycle Cost Analysis. Procedia - Social and Behavioral Sciences, 96, 1679–
+1685. https://doi.org/https://doi.org/10.1016/j.sbspro.2013.08.190 
+Edwards, J., Burn, S., Crossin, E., & Othman, M. (2018). Life cycle costing of municipal food 
+waste management systems: The effect of environmental externalities and transfer costs 
+using local government case studies. Resources, Conservation and Recycling, 138, 118–
+129. https://doi.org/https://doi.org/10.1016/j.resconrec.2018.06.018 
+Erling Salicath, J. P. L. and D. F. (2016). Proceedings of the 10th World Congress on Engineering 
+Asset Management (WCEAM 2015) . Wceam 2012 , 287 –296. 
+https://doi.org/10.1007/978-3-319-27064-7 
+Fouche, M., & Crawford, R. H. (2017). Towards an Integrated Approach for Evaluating both 
+the Life Cycle Environmental and Financial Performance of a Building: A Review. Procedia 
+Engineering, 180, 118 –127. 
+https://doi.org/https://doi.org/10.1016/j.proeng.2017.04.171 
+Francini, G., Lombardi, L., Freire, F., Pecorini, I., & Marques, P. (2019). Environmental and Cost 
+
+[W4405652450 PDF PAGE 20]
+INTERNATIONAL JOURNAL OF ACADEMIC RESEARCH IN ECONOMICS AND MANAGEMENT SCIENCES 
+Vol. 13 , No. 4, 2024, E-ISSN: 2226 -3624 © 2024 
+551 
+Life Cycle Analysis of Different Recovery Processes of Organic Fraction of Municipal Solid 
+Waste and Sewage Sludge. Waste and Biomass Valorization , 10(12), 3613 –3634. 
+https://doi.org/10.1007/s12649-019-00687-w 
+Galle, W., Vandenbroucke, M., & De Temmerman, N. (2015). Life Cycle Costing as an Early 
+Stage Feasibility Analysis: The Adaptable Transformation of Willy Van Der Meeren’s 
+Student Residences. Procedia Economics and Finance , 

@@ -1,0 +1,201 @@
+e (PAH) which results in elevated levels 
+of phenylalanine (Phe) and reduced levels of tyrosine 
+[1]. The incidence within Latin American (LATAM) 
+countries is estimated at 1 in 23,000 live births [2]. PKU 
+presents a spectrum of severity, and there are several dif -
+ferent classifications that have been proposed [2]. Sev -
+eral different classification schemes to determine clinical 
+management have been proposed since  PAH deficiency 
+presents a spectrum of severity [1]. Individuals with clas -
+sical PKU have a complete enzyme deficiency resulting 
+in untreated blood Phe levels > 1200 μmol/L (an average 
+Open Access
+*Correspondence:  idadschwartz@gmail.com
+9 Medical Genetics Service, HCPA, Rua Ramiro Barcelos, 2350, Porto Alegre, RS 
+90035-903, Brazil
+Full list of author information is available at the end of the article
+
+[W4288748748 PDF PAGE 2]
+Page 2 of 36Pessoa et al. Orphanet Journal of Rare Diseases          (2022) 17:302 
+normal Phe level is approximately 60  μmol/L), which is 
+considered the severe form of this disorder [1].
+The treatment for PKU is a lifelong dietary restriction 
+of protein supplemented by a Phe-free amino acid forti -
+fied medical food [1], and ongoing monitoring of blood 
+Phe levels to maintain a target range of 120–600 μmol/L 
+for patients ≥ 12  years old, and up to 360  μmol/L for 
+those < 12 years old [3]. If left untreated, the disease can 
+manifest as significant intellectual impairment, neu -
+ropsychiatric disorders, and seizures [4] which place a 
+burden on the individual’s quality of life, their families, 
+and on the public and private healthcare systems [4]. 
+Even patients diagnosed and treated at an early age face 
+significant challenges related to adherence with the Phe-
+restricted diet.
+Latin America comprises of 20 countries that represent 
+a great diversity not only in terms of geography but also 
+demographics, economies, languages, ethnicities, and 
+health care systems [5]. In a recent review from Borrajo 
+[6], newborn screening (NBS) programs were distinc -
+tively implemented in Latin America. While some pro -
+grams date back from the 1980’s, other countries are still 
+implementing regional NBS programs. Additionally, the 
+number of diseases covered varies significantly across 
+programs. Spefically concerning PKU, this genetic dis -
+order is included in the NBS program for 14 countries 
+(Cuba, Costa Rica, Chile, Uruguay, Argentina, Mexico, 
+Brazil, Guatemala, Paraguay, Panama, Ecuador, Peru, 
+Bolivia and Honduras) [6] with on average 92.3% of new -
+borns in those countries screened for PKU. Regarding the 
+availability of PKU treatment, half of the Latin America 
+countries have fully subsidized medical foods by the gov -
+ernment though the special low-protein foods are not 
+available in most of the countries [7].
+Evaluating the unmet needs and burden of PKU on 
+affected individuals is important to determine the impact 
+on the LATAM public and private healthcare system. 
+Recognition that there are many challenges that the 
+patient with PKU faces is the first step in planning for 
+cost-effective intervention scenarios. We therefore con -
+ducted a systematic literature review and meta-analysis 
+to better characterize the impact of PKU in LATAM 
+countries on selected patient-important outcomes as well 
+as at the economic (socioeconomic, healthcare utiliza -
+tion) level.
+Material and methods
+Our review followed recommendations for systematic 
+reviews and meta-analyses of observational studies in 
+epidemiology (MOOSE) [8]. This systematic review has 
+been registered in the PROSPERO (International Pro -
+spective Register of Systematic Reviews) database under 
+the number CRD42020211417.
+Eligibility criteria
+We included any epidemiological observational study (ie, 
+cohort, case-control, nested case-control, cross-sectional 
+studies, case series, case reports, surveys) on patients 
+with PKU or phenylalanine hydroxylase deficiency 
+(PAH), regardless of disease severity, including classi -
+cal, moderate, and mild forms of this disorder, from any 
+LATAM country regardless of whether they reported on 
+any of the pre-defined patient-important outcomes and/
+or economic burden outcomes as defined below. We also 
+included studies on caregivers of PKU patients.
+Studies that only reported disease prevalence or inci -
+dence as well as non-human studies and subjective 
+reports of clinical or observational studies such as letters, 
+editorials and commentaries were excluded.
+Pre-defined patient-important outcomes of interest 
+included:
+• Neurological, neurocognitive and neuropsychiatric 
+impairments: intellectual disability, mental disorders, 
+autism spectrum disorder, motor deficits, speech 
+deficits and language delay, tremor, Attention Deficit 
+Hyperactivity Disorder (ADHD) and hyperactivity, 
+mood, depression, anxiety, phobias, irritability and/
+or aggressiveness, frustration, social isolation;
+• Executive function deficit: working memory, sus -
+tained attention, inhibitory control, processing speed 
+impairments, impairment in visuomotor coordina -
+tion;
+• Other comorbidities such as overweight, osteopenia, 
+osteoporosis, skin problems, headaches, fatigue and 
+sleeping disorder;
+• Quality of life measured by non-validated and vali -
+dated questionnaires, as defined by the included 
+studies; and
+• Patient adherence to clinical recommendations, 
+including frequency of blood testing (ideally biweekly 
+to monthly with targeted Phe concentrations of 
+120–360  μmol/L as recommended by the Ameri -
+can College of Medical Genetics and Genomics 
+(ACMG) guidelines [1] and 120–600  μmol/L for 
+those ≥ 12 years of age by the European guidelines [9] 
+and dietary management including a Phe-restricted 
+diet supplemented by Phe-free amino acid fortified 
+medical foods as well as the use of sapropterin dihy -
+drochloride in patients who are responsive to this 
+pharmacological treatment.
+ Symptoms of being late-treated for the disease, such 
+as seizures, microcephaly, generalized rash, and 
+peculiar-smelling urine, were not investigated as 
+patient-important outcomes for the purposes of this 
+review.
+ Pre-defined economic outcomes of interest included:
+
+[W4288748748 PDF PAGE 3]
+Page 3 of 36
+Pessoa et al. Orphanet Journal of Rare Diseases          (2022) 17:302 
+ 
+• Socioeconomic impact (eg, school / education level, 
+work experience and productivity, marital status, 
+personal independence, living situation, employ -
+ment, social status);
+• Impact of PKU on caregiver health-related quality 
+of life; and
+• Impact of PKU on the healthcare system (eg, direct 
+and/or indirect costs, treatment costs, health care 
+resource use, cost of comedications, hospitaliza -
+tions).
+Data source and searches
+Using Medical Subject Headings (MeSH) based on the 
+terms “phenylketonuria” and “phenylalanine” (Addi -
+tional file  1: Table  1) we performed the search in the 
+global medical literature using Medical Literature Anal -
+ysis and Retrieval System Online (MEDLINE, via Pub -
+Med, from 1946 to September 2021), Excerpta Medica 
+Database (EMBASE, via Elsevier, from 1974 to Septem -
+ber 2021), and Web of Science (to September 2021).
+In the regional and local medical literature, both 
+Spanish and English terms were used to search in 
+Latin American and Caribbean Health Sciences Lit -
+erature (LILACS, 1982 to September 2021), Scientific 
+Electronic Library Online (SciELO, 1997 to Septem -
+ber 2021), SciVerse Scopus via Elsevier (to September 
+2021), the Spanish Bibliographic Index of the Health 
+Sciences (IBECS, 1983 to September 2021), National 
+Bibliography in Health Sciences Argentina (BINACIS, 
+to September 2021), Caribbean Health Sciences Litera -
+ture (MedCarib, to September 2021), National Medi -
+cal Sciences Information Center of Cuba (CUMED, to 
+September 2021), Brazilian Bibliography of Dentistry 
+(BBO, to September 2021), Health Information Loca -
+tor (LIS, to September 2021), Regional Database of 
+Health Technology Assessment Reports of the Ameri -
+cas (BRISA/RedTESA, to September 2021), Nursing 
+Database (BDENF, to September 2021), Index Psychol -
+ogy (IndexPsi, to September 2021), and the WHO Insti -
+tutional Repository for Information Sharing (WHO 
+IRIS, to September 2021). The date the search was con -
+ducted was September 24, 2021 and no starting date 
+restrictions, or language restrictions, were imposed. 
+The search strategy was adapted for each database 
+to achieve more specificity and sensitivity. Duplicate 
+records across databases were removed.
+We searched the gray literature including the Brazilian 
+Digital Library of Theses and Dissertations (BDTD). In 
+addition, reference lists of relevant primary studies were 
+hand searched and experts in the field were contacted to 
+obtain additional unpublished data where feasible.
+Selection of studies
+Reviewers independently screened all titles and 
+abstracts identified by the literature search using 
+online software Covidence (https:// www. covid ence.  
+org), obtained full-text articles of all potentially rele -
+vant studies, and evaluated them against the eligibility 
+criteria. Reviewers resolved disagreement by discus -
+sion or, if necessary, with third party adjudication. We 
+also considered studies reported only as abstracts and 
+we attempted to contact study authors for additional 
+information where needed. We recorded the selec -
+tion process and documented via a PRISMA (Preferred 
+Reporting Items for Systematic Reviews and Meta-
+Analyses) flow diagram (Fig. 1 ).
+Data synthesis and statistical analysis
+We performed a systematic review of studies with pooled 
+analysis of proportions [10, 11], using the method of Stu-
+art-Ord (inverse double arcsine square root) with their 
+respective 95% confidence intervals (CI). Only case series 
+and cross-sectional studies were considered for quantita -
+tive analysis; case reports were excluded. To avoid bias 
+related to the effect of delayed implementation of dietary 
+management in late treated patients, only early-diag -

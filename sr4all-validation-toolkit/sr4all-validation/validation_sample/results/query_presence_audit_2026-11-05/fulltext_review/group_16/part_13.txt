@@ -1,0 +1,180 @@
+, the results will 
+be specific to females with BN/BSD-BPD and could inform 
+treatment and prevention in this population more effectively 
+than research done on both males and females. All of the 
+studies were conducted in Western countries, five in Canada 
+and two in Spain. This creates a westernized prejudice in 
+the conclusions and limits the degree to which the results 
+can be extrapolated to diverse populations and ethnici-
+ties. Furthermore, research suggests that affects epigenetic 
+expression; for example, diet, lifestyle, maternal care, and 
+exposure to environmental toxins are all factors that affect 
+DNA methylation patterns [49]. As Canada and Spain are 
+both developed countries they share many environmental 
+factors that would likely be different in developing coun-
+tries. This further limits the generalizability of the studies 
+included in the present review as many focus on epigenetics, 
+and the epigenetic changes discussed could be influenced 
+by the permissive culture found in both Canada and Spain. 
+Additionally, the ages of the participants ranged from 17 to 
+49 years old, further narrowing the specificity and relevance 
+of the findings.
+Each study had a small sample size (n  = 59 to n = 308, 
+mean n = 126.66 SD = ± 90.31), which hinders the conclu-
+siveness of results through decreasing the confidence inter -
+val of the study, limiting the power of the study, and increas-
+ing the margins of error. This could prevent the existence of 
+effect to be detected and leads researchers to question the 
+clinical significance of the results. In some cases, the small 
+sample size prevented researchers from analysing relation-
+ships of interest (see Table 5).
+It is important to note that the seven studies that met the 
+inclusion were all candidate gene studies. Although these 
+studies do provide valuable information about the gene in 
+question, they do not explain how the gene may influence 
+others, nor do they provide a comprehensive understand-
+ing the genetic complexities of BN/BSD-BDP. As such, 
+
+[W2945028117 PDF PAGE 12]
+810 Eating and Weight Disorders - Studies on Anorexia, Bulimia and Obesity (2019) 24:799–814
+1 3
+when interpreting the results from the present systematic 
+review it must be noted that these genes are only a very small 
+piece of the genetic/epigenetic aetiology of BN/BSD-BPD. 
+Much more research is needed to more fully understand the 
+genetic/epigenetic complexities of BN/BSD-BPD, including 
+identifying additional genetic/epigenetic variables at play 
+and determining the ways in which the genetics/epigenetics 
+discussed in the present review influence other genes.
+BPD and BN/BSD often present alongside many other 
+psychopathologies (e.g., major depressive disorder, major 
+affective disorder, and anxiety disorder) but none of the 
+studies controlled for this potential covariate. Additionally, 
+it would be impossible to control for all confounding vari-
+ables, so many were left unaccounted for (e.g., nutrition and 
+lifestyle).
+It is also important to note that shared genetics/epigenetic 
+variables as well as behavioural traits are observed in BN/
+BSD-BPD are not exclusive to this condition and are also 
+observed in other psychiatric conditions. However, without 
+more robust research regarding the genetics/epigenetic of 
+psychological disorders it is difficult to fully understand the 
+scope of influence the genetic/epigenetic variables exam-
+ined in this study have on BN/BSD-BPD compared to other 
+psychological conditions. As well, in relation to the genetic 
+aspect of the studies, no “neutral” control genes could be 
+included as they often do not exist. Therefore, it is impos-
+sible to be certain that the effects observed are the result of 
+gene specific epigenetic results, rather than genome-wide 
+effects.
+Limitations associated with the use of both the biallelic 
+and triallelic model of the 5-HTTLPR polymorphism exist 
+as results differ depending on the model used. This calls into 
+question the validity of the different models, and creates a 
+need for further research on the nature of the S and L alleles 
+related to this polymorphism so as to correctly identify 
+which model is accurate, or if a different model is needed.
+The studies that included an epigenetic component exam-
+ine it through DNA obtained from blood, rather than from 
+the brain (see Table 5), which call into question the accu-
+racy to which the epigenetic results reflect central brain 
+Table 5  Limitations of the studies included in the systematic review
+Study Study limitations
+Díaz-Marsá et al. [28] Sample 100% female
+Small sample size (n = 100)
+Small sample size of ED groups is too small to allow comparisons of platelet MAO reduction between ED subtypes
+Steiger et al. [32] Sample 100% female
+Small sample size (n = 308)
+Small observed group differences in the mean methylation of the DRD2 promoter gene (~ 1%)
+Measures of DNA methylation obtained through peripheral biomarkers
+Lack of “neutral’ control gene
+Many confounding variables were not assessed or controlled for
+Steiger et al. [24] Sample 100% female
+Small sample size (n = 59)
+Discrepancies in findings when using the biallelic vs triallelic model of the 5-HTTLPR promoter gene
+Measures of DNA methylation obtained through peripheral biomarkers
+Steiger et al. [20] Sample 100% female
+Small sample size (n = 92)
+Discrepancies in findings when using the biallelic vs triallelic model of the 5-HTTLPR promoter gene
+Measures of DNA methylation obtained through peripheral biomarkers
+Steiger et al. [32] Sample 100% female
+Small sample size (n = 96)
+Measures of DNA methylation obtained through peripheral biomarkers
+Lack of “neutral’ control gene
+Treatment of medication use as a unitary effect, rather effect based on medication used
+No control for the confounding effect medication use may have on analyses
+Thaler et al. [33] Sample 100% female
+Small sample size (n = 96)
+Measures of DNA methylation obtained through peripheral biomarkers
+Lack of “neutral’ control gene
+Lack of control groups for the statistical analyses involving multiple comparisons
+Vaz-Leal et al. [43] Sample 100% female
+Small sample (n = 105) made comparisons between cortisol suppressors and cortisol non-suppressors impossible 
+(non-suppressors in control group, n = 0; non-suppressors in ED group, n = 7)
+Use of 24-h urine excretion as the source of data for neurotransmitter activity
+Did not assess potential comorbid psychopathologies in the ED group
+
+[W2945028117 PDF PAGE 13]
+811Eating and Weight Disorders - Studies on Anorexia, Bulimia and Obesity (2019) 24:799–814 
+1 3
+processes. That said, it is often unethical to use more inva-
+sive research methods, and there is increasing evidence that 
+the use of peripheral biomarkers to assess psychopathologi-
+cal disorders provides an acceptable proxy for neurobiologi-
+cal processes, especially in relation to epigenetics [50]. As 
+well, research has recognised a correspondence between 
+brain-derived and blood-derived gene expression signals, 
+indicating that epigenetic patterns observed through periph-
+eral biomarkers are likely an acceptable indication for epige-
+netic patterns occurring in the brain [32, 34, 50].
+Finally, most studies (n  = 3) used BN and BSD inter -
+changeable. Although they do have different diagnostic 
+criteria, evidence suggests that BSD does not significantly 
+differ from BN on many clinical variables [3]. Therefore, 
+this may be acceptable; however, the results are not specific 
+to either BN or BSD.
+Discussion
+The present review identified and appraised seven studies 
+relevant to BN/BSD, BPD, and a genetic/epigenetic compo-
+nent. All the studies indicated differences between individu-
+als with BN/BSD-BPD compared to those with BN/BSD, 
+and HC. When interpreting the findings, it is important to 
+keep in mind the small sample size and nature of the stud-
+ies included in the review. The current research ultimately 
+suggests that BN/BSD-BPD is likely a different condition 
+from both BN/BSD and BPD; however, much more research 
+is needed to confirm this and to clearly understand the aetiol-
+ogy of the condition.
+An evidence-based genetic/epigenetic aetiological model 
+of BN/BSD-BPD will be proposed. It is hoped that this 
+model will not only clearly illustrate the current understand-
+ing of the genetics/epigenetics relevant to this psychopathol-
+ogy, but will also demonstrate that BN/BSD-BPD is likely 
+different from BN/BSD or BPD (as the current research 
+findings suggest). Generally, the genetic/epigenetic aetio-
+logical model of BN/BSD-BPD can be divided into three 
+parts: genetics, epigenetics, and environmental pressures 
+(childhood abuse), where the environmental pressures are 
+largely correlated with the epigenetic effects (see Fig. 2). 
+As the key findings of the papers included in this review 
+have illustrated, individuals with BN/BSD-BPD seem to 
+have genetic differences compared to individuals with BN/
+BSD or HC as they generally display greater frequencies of 
+the “low-functioning” S allele for the 5-HTTLPR gene poly-
+morphism [20, 24] and largely show reduced MAO activity 
+[28, 43]. These individuals also exhibit gene methylation 
+patterns that are significantly different from individuals with 
+BN/BSD and HC. These methylation differences include 
+changes in methylation of the DRD2 gene, BDNF, and the 
+NR3C1 gene. Further, current research suggests individuals 
+with BN/BSD-BPD were more likely to have experienced 
+Fig. 2  A genetic/epigenetic aetiological model of BN/BSD-BPD. The coloured boxes beside the symptom/behaviour indicate which genetic and/
+or epigenetic variable(s) are correlated with it
+
+[W2945028117 PDF PAGE 14]
+812 Eating and Weight Disorders - Studies on Anorexia, Bulimia and Obesity (2019) 24:799–814
+1 3
+childhood abuse (physical and sexual) compared to their 
+counterparts with BN/BSD or HC, and childhood abuse 
+(physical and sexual) was frequently (but not always) associ-
+ated with the methylation differences observed 

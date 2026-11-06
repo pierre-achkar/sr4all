@@ -1,0 +1,140 @@
+em, and have been established 
+as literature search venues (Kumpulainen & Seppänen, 2022). ERIC is an educational 
+database that covers a wide range of educational literature (Robbins, 2001). Additionally, 
+the same keywords were used to search in the database of the Journal of Learning Ana -
+lytics, the official publishing outlet for learning analytics.
+We performed several iterations of search using different combinations of keywords; 
+using the keyword “virtual” severely limited our findings and missed several papers. 
+Some of the authors of the papers used other keywords, e.g., online laboratories, or did 
+not use the keyword "virtual" at all within their keywords and therefore were not cap -
+tured by the initial keywords that included "virtual." Therefore, a decision was made 
+to cast a wide net, and retrieve any article that includes the keyword “lab*” with a wild 
+card and then qualitatively—by the expert eyes of researchers—identify which of such 
+keywords’ articles are about virtual laboratories. After several iterations, the following 
+search formula yielded the best results for capturing all forms of keywords (Table 1):
+( "learning analytics") AND ( lab* OR experiment* OR clinic* OR practical* OR 
+immers*))
+This combination of keywords was selected to be searched in the fields of the title, 
+abstract, or author keywords of articles. The search was conducted within two days of 
+the eighth of November 2021. The returned search resulted in 1069 articles from all 
+specified databases, as follows: 653 articles from Scopus, 248 articles from WoS, 120 
+articles from the ERIC database, and 48 articles from the Journal of Learning Analytics. 
+All articles were uploaded to the Covidence web-based system 1 for analysis. Duplicates 
+Table 1 The used keywords with wildcards to cover all keyword forms
+Lab* Lab, labs, laboratories, laboratory
+Experiment* Experiment, experiments, experimental, experimentation
+Clinic* Clinic, clinics, clinical, clinically, clinician
+Practical* Practical, practicals, practically
+Immers* Immerse, immersing, immersive, immersible
+1 https:// www. covid ence. org/ (last accessed September 2022).
+
+[W4323662854 PDF PAGE 7]
+Page 7 of 20
+Elmoazen et al. Smart Learning Environments           (2023) 10:23 
+ 
+(n = 280) were removed, resulting in 789 articles. Two researchers independently 
+scanned and assessed the first 100 papers’ abstracts, titles, and keywords. The inter-rater 
+agreement showed strong reliability using Cohen’s Kappa test (κ = 0.92), and any con -
+flicts were discussed and resolved, i.e., when the two authors had differing views about 
+the classification of the paper, they discussed it until they reached a consensus.
+The remaining articles were divided and filtered by both researchers. All authors met 
+after filtration to discuss any uncertainties. Based on the inclusion and exclusion criteria, 
+the title and abstract scan yielded 86 publications that were suitable for full-text review 
+(Fig. 1).
+In order to obtain data from the included articles, the relevant information was first 
+collected in a codebook. This was done to reduce the individual differences that existed 
+between the reviewers. The following categories of information were extracted from 
+each article: descriptive statistics, educational settings and levels, disciplines, learning 
+analytics approaches, and the primary conclusions of each study. The first ten studies 
+were coded by two different coders, and then they had a meeting to discuss any conflicts 
+and complete the codebook before continuing to code articles. Finally, the retrieved 
+Fig. 1 The study selection process
+
+[W4323662854 PDF PAGE 8]
+Page 8 of 20Elmoazen et al. Smart Learning Environments           (2023) 10:23 
+papers were checked for quality before beginning the stage of synthesis. At this point, 
+the writers are organizing all of the data within the framework of the review hypothesis 
+(Webster & Watson, 2002). The data analysis gets a comprehensive presentation from a 
+learning analytics perspective.
+Results
+The included studies are listed in the appendix, and each one is given a capital S and a 
+number.
+Descriptive statistics of the reviewed articles
+There are a total of 21 studies that have been incorporated into this review. Before the 
+year 2015, there were no studies utilizing learning analytics in virtual labs. All articles 
+were published between 2015 and 2021. The maximum number of studies per year was 
+five articles in 2021 followed by four articles in 2018. The majority of the reviewed arti -
+cles were presented at conferences (N = 12), whereas the remaining nine articles were 
+published in journals (Fig. 2).
+Educational levels
+The reviewed studies have populations from various educational levels (Fig.  3). The 
+majority of the research in the reviewed articles (57.1%) was conducted in higher edu -
+cation institutions (n = 12) and two of these studies involved postgraduate students in 
+their analysis (Burbano & Soler, 2020; Considine et al., 2021). Six studies (28.6%) were 
+conducted on secondary education, and four of them focused on STEM (science, tech -
+nology, engineering, and math) subjects (de Jong et  al., 2021; Rodríguez-Triana et  al., 
+2021; Sergis et al., 2019; Vozniuk et al., 2015). Only two research projects (9.5%) focused 
+on elementary and middle school students (Metcalf et al., 2017; Reilly & Dede, 2019a). 
+Finally, one study was conducted online as a Massive Open Online Course (MOOC) for 
+students of varying education levels (Hossain et al., 2018).
+Fig. 2 Type and year of the reviewed articles
+
+[W4323662854 PDF PAGE 9]
+Page 9 of 20
+Elmoazen et al. Smart Learning Environments           (2023) 10:23 
+ 
+Subjects
+The reviewed studies covered different disciplines of science, medicine, and engineering 
+(Fig. 4). The medical and dental virtual practices were used in practical-based physiol -
+ogy courses (King et al., 2016), virtual patient cases (Berman et al., 2018), periodontol -
+ogy and oral pathology (Burbano & Soler, 2020) and prosthodontics courses (Chan et al., 
+2021a, 2021b). Chemistry virtual labs were used in concentration experiments (Liu et al., 
+2018) and organic chemistry (Qvist et  al., 2015), while biology labs covered Euglena’s 
+interactive live (Hossain et al., 2018), and molecular biology experiments (Qvist et al., 
+2015). Virtual labs for science classes were available for school students (Metcalf et al., 
+2017; Reilly & Dede, 2019b) and students in science, technology, engineering, and math -
+ematics (STEM) (de Jong et al., 2021; Rodríguez-Triana et al., 2021; Sergis et al., 2019; 
+Vozniuk et  al., 2015). Virtual labs were used in different fields of computer science, 
+namely Java programming (Castillo, 2016), cloud applications (Manske & Hoppe, 2016), 
+and network virtual labs (Venant et al., 2017). The engineering virtual labs covered auto -
+motive engineering (Goncalves et al., 2018), container-based virtual labs (Robles-Gómez 
+et  al., 2019), and building electrical circuits (Considine et  al., 2021). Other practices 
+include digital electronic simulation environments (Considine et al., 2021) and remote 
+labs in the field of image processing (Vahdat et al., 2015).
+Virtual environment
+The authors of the reviewed articles used a wide range of virtual environments. Go-lab 
+was used in STEM education (de Jong et al., 2021; Rodríguez-Triana et al., 2021; Sergis 
+Fig. 3 Educational Levels in the reviewed studies
+Fig. 4 Context of the reviewed studies
+
+[W4323662854 PDF PAGE 10]
+Page 10 of 20Elmoazen et al. Smart Learning Environments           (2023) 10:23 
+et al., 2019) and was combined with other applications such as the GRAASP platform 
+(Vozniuk et  al., 2015) and cloud applications (Manske & Hoppe, 2016). In addition, 
+the EcoXPT system was utilized in science classes. (Metcalf et al., 2017; Reilly & Dede, 
+2019b). In the medical field, the LabTutor platform was used in physiology courses (King 
+et al., 2016), the ASUS virtual patient package (Berman et al., 2018), and the M-Health 
+Smilearning application with TIMONEL platform in the dental field (Burbano & Soler, 
+2020). Chemistry virtual labs were accessible on two platforms: the ChemVLab + tutor 
+(Liu et  al., 2018) and the LabLife3D platform (Qvist et  al., 2015). In the field of biol -
+ogy, virtual labs were available in LabLife3D for molecular biology (Qvist et  al., 2015) 
+and Open edX for Euglena experiments (Hossain et al., 2018). The virtual labs used in 
+computer science were the Magentix 2 platform with virtual hosts (Castillo, 2016), and 
+the network Lab4CE (Laboratory for Computer Education) (Venant et al., 2017). Vari -
+ous engineering fields utilized different virtual lab platforms, such as Falstadat’s Circuit 
+Simulator Applet and Virtual Instrumentation Systems in Reality (VISIR) (Goncalves 
+et  al., 2018), Netlab for building electrical circuits (Considine et  al., 2021), and a con -
+tainer-based virtual laboratory (CVL) using Linux Docker containers (Robles-Gómez 
+et  al., 2019). Other labs included such as DEEDS (Digital Electronics Education and 
+Design Suite) for digital electronic simulation environments (Vahdat et  al., 2015) and 
+the WebLab-Deusto remote lab management system (RLMS) for image processing 
+(Schwandt et al., 2021).
+Perception of virtual labs
+The findings reported that virtual labs are inexpensive, robust (Hossain et al., 2018), and 
+have a very high satisfaction level among students (Castillo, 2016). Students recorded 
+their positive feedback and interest in virtual labs as they simplified complex scientific 
+practices (Hossain et al., 2018; Qvist et al., 2015; Robles-Gómez et al., 2019). Similarly, 
+some post-graduate students preferred remote labs after their experience during the 
+COVID-19 pandemic (Considine et al., 2021). Regarding the teachers, they displayed a 
+positive response regarding learning analytics in virtual labs as they can monitor stu -
+dents’ progress (Qvist et al., 2015; Vozniuk et al., 2

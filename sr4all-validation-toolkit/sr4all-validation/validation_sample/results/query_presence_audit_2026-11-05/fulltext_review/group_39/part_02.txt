@@ -1,0 +1,191 @@
+bservation 
+(OR = 0.13, 95% CI: 0.04–0.44, P < 0.001), EVs treat -
+ment with observation exceeding five days (OR = 0.12, 
+95% CI: 0.07–0.23, P < 0.001) could also improve animal 
+survival. The survival rate of septic animals treated with 
+EVs was higher when observation time exceeded 5 days 
+(OR = 0.12, 95% CI: 0.07–0.23, P < 0.001) (Additional 
+file 1: Fig. S8). Subgroup analysis also showed that antibi -
+otic rehydration (OR = 0.13, 95% CI: 0.04–0.44, P < 0.001) 
+after the establishment of sepsis models improved animal 
+survival (Additional file 1: Fig. S9).
+Publication bias
+Funnel plots were used to assess potential bias among the 
+studies included in the meta-analysis. Additional file  1: 
+Fig. S10 shows that no publication bias was found.
+Discussion
+In this manuscript, existing preclinical EVs research was 
+summarized and analyzed by applying meta‐research 
+methods to summarize the efficacy of EVs in the treat -
+ment of sepsis in animals. Comprehensive analysis 
+confirmed that MSC-EVs treatment may improve the 
+survival rate of sepsis animal models, which provides 
+important clues for human clinical trials. However, more 
+studies are needed to confirm the optimal therapeutic 
+effect of EVs on sepsis.
+The SYRCLE tool was used to assess the methodologi -
+cal quality of the 17 studies included in this meta-anal -
+ysis. In the evaluation process, a lack of clear method 
+description was noted in the methods of many studies, 
+as well as potential bias due to insufficient randomization 
+and lack of blinding. Issues such as these suggest that 
+detailed and specific method description is crucial when 
+conducting experiments. In addition, this review suggests 
+an urgent need for more standardized EVs characteriza -
+tion in preclinical studies of EVs. Providing more com -
+prehensive experimental details will be more conducive 
+to subsequent related research.
+In recent years, EVs have gradually become a safe, 
+feasible alternative for cell therapy due to advantages 
+such as high stability, good permeability, and low 
+immunogenicity and cytotoxicity [41]. EVs are thought 
+Fig. 2 Forest plots summarize the effect of extracellular vesicles therapy on mortality in a preclinical model of sepsis
+
+[W4366188890 PDF PAGE 8]
+Page 8 of 10Yang et al. Journal of Translational Medicine          (2023) 21:262 
+to be released from any cell and are involved in the 
+intercellular transmission of information in physiologi -
+cal and pathological processes by transferring their 
+components (such as proteins, miRNAs, mRNAs, and 
+mitochondria) [42, 43]. Some recent studies have also 
+shown that EVs can inhibit the inflammatory response 
+in the pathological process of sepsis by delivering 
+miRNA, lncRNA or cytokines. For example, Guang 
+et al. [44] found that the functional delivery of endothe -
+lial progenitor cell-derived extracellular vesicles to 
+lncRNA TUG1 could improve sepsis induced by bacte -
+rial outer membrane vesicles by endowing anti-inflam -
+matory macrophages with polarization by impeding 
+miR-9-5p targeting SIRT1 inhibition. Another study 
+found that mesenchymal stromal cell-derived EVs 
+inhibits cytokine release and inflammatory responses 
+during sepsis [17]. However, Yuhan et  al. showed that 
+erythrocyte-derived EVs aggravate inflammation, which 
+may be a potential risk factor for transfusion-related 
+immune regulation [34]. So far, there is no consensus 
+on the therapeutic effect of EVs.
+This article is the first meta-analysis to summarize 
+the efficacy of EVs in treating sepsis. Animal species, 
+models and interventions were classified for subgroup 
+analysis. Our results show that rats treated with EVs 
+without restriction of animal sex are more effective, 
+while Xue-Yi et al. ’s meta-analysis showed that MSCs 
+from male mice had a better effect on sepsis [45]. This 
+may be related to differences in the treatment of MSCs 
+and EVs. More experiments are needed to determine 
+why.
+Subgroup analysis also showed that EVs derived from 
+various stem cells were superior to EVs derived from 
+other cells, which may be related to their lower immu -
+nogenicity and higher immunomedulatory capacity 
+[46]. From the analysis, we can see that different stud -
+ies used different EVs doses and dose units. Even if the 
+meta-analysis results suggest that 100 μg may have a bet -
+ter therapeutic effect, there is an urgent need to compare 
+the efficacy of different doses of EVs in the treatment of 
+sepsis. EVs of the same species are more effective than 
+xenografts, which is related to the highly acute rejec -
+tion caused by natural antibodies and complements 
+[47]. However, the results of subgroup analysis are not 
+yet illustrative, as some subgroups have insufficient ref -
+erences. In addition, although the included studies all 
+referred to injecting EVs into animals after re-suspending 
+EVs with a solution of PBS, none of the studies evaluated 
+the delivery efficiency of EVs, which is an important part 
+of assessing the effectiveness of EVs in the treatment of 
+sepsis. Therefore, future research on EVs treatment needs 
+to standardize the description of EVs in more details for 
+further summary.
+Limitations
+Several potential limitations of this meta-analysis 
+should be considered. Firstly, the current animal mod -
+els of EVs in the treatment of sepsis mainly use small 
+animals such as rats and mice, which may overestimate 
+the effect of EVs in the treatment of sepsis. Secondly, 
+studies with positive results are more likely to be pub -
+lished leading to publication bias. Third, the sample size 
+of the included studies is all small, and larger sample 
+size studies are needed to prove the therapeutic effect 
+of EVs on sepsis. Finally, the use of Engauge software to 
+extract data from the survival curve of the article may 
+cause deviations from the original data.
+Conclusion
+This meta-analysis showed that MSC-EVs treatment 
+may be associated with lower mortality in animal mod -
+els of sepsis, setting important future directions for EVs 
+treatment of sepsis. Subsequent preclinical studies will 
+need to address the standardization of dose, source, 
+and timing of EVs to provide comparable data. In addi -
+tion, the effectiveness of EVs in treating sepsis must be 
+studied in large animal studies to provide important 
+clues for human clinical trials.
+Abbreviations
+EVs  Extracellular vesicles
+MSCs  Mesenchymal stem cells
+SYRCLE  Systematic Review Centre for Laboratory Animal Experimentation
+PRISMA  Preferred Reporting Items for Systematic Reviews and 
+Meta-Analyses
+Supplementary Information
+The online version contains supplementary material available at https:// doi. 
+org/ 10. 1186/ s12967- 023- 04121-7.
+Additional file 1. The detailed search strategy. Figure S1. Forest plot 
+summarizing the association between animal species (rat vs. mouse) and 
+mortality in an EVs-treated sepsis model. Figure S2. Forest plot sum-
+marizing the association between animal gender and mortality in an EVs-
+treated sepsis model. Figure S3. Forest plot summarizing the association 
+between sepsis models (CLP and non-CLP) and mortality after EVs treat-
+ment. Figure S4. The forest plot summarizes the relationship between 
+EVs sources and mortality in the sepsis model. Figure S5. The forest plot 
+summarizes the relationship between the route of EVs administration 
+(intravenous and intratracheal) and mortality in a sepsis model. Figure S6. 
+Forest plot summarizes the relationship between EVs dose and mortality 
+in a sepsis model. Figure S7. Forest plot summarizing the association 
+between EVs species (allogeneic and xenogenic) and mortality in sepsis 
+models. Figure S8. Forest plot summarizing the relationship between 
+observation days and mortality in a sepsis model treated with EVs. Figure 
+S9. Forest plot to summarizing the relationship between fluid rehydration 
+and mortality in a sepsis model treated with EVs. Figure S10. Forest maps 
+test for publication bias.
+Acknowledgements
+Not applicable.
+
+[W4366188890 PDF PAGE 9]
+Page 9 of 10
+Yang et al. Journal of Translational Medicine          (2023) 21:262 
+ 
+Author contributions
+All authors contributed extensively to the work of this paper. TW provided 
+research ideas. SJY conducted a literature analysis search and analyzed the 
+data to compile this article. KLZ, JYH, XL and DSX contributed key data inter-
+pretations. XXC, SML, YHH, CQZ and HW contributed to the study protocol and 
+wrote the article. GHZ, CTZ and HDW resolved any differences through discus-
+sions. JYF revised the article. The corresponding author had full access to all 
+of the data and the final responsibility to submit the article for publication. All 
+authors read and approved the final manuscript.
+Funding
+This study was supported by the National Natural Science Foundation of 
+China (No. 81070125, 81270213, 81670306); the Science and Technology 
+Foundation in Guangdong Province (No. 2010B031600032, 2014A020211002); 
+the National Natural Science Foundation of Guangdong Province (No. 
+2017A030313503); the Science and Technology Foundation in Guang-
+zhou City (No. 201806020084); the Fundamental Research Funds for the 
+Central Universities (No. 13ykzd16, 17ykjc18); the Futian District Health 
+and Public Welfare Research Project of Shenzhen City (No. FTWS2019001, 
+FTWS2021016, FTWS2022026); and the Shenzhen Fundamental Research 
+Program (No. JCYJ20190808101405466, JCYJ20210324115003008, 
+JCYJ20220530144404009).
+Availability of data and materials
+All data generated or analyzed during this study are included in this published 
+article.
+Declarations
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that there are no competing interests.
+Author details
+1 Department of Emergency, The Eighth Affiliated Hospital of Sun Yat-sen Uni-
+versity, Shenzhen 518003, Guangdong, People’s Republic of China. 2 Depart-
+ment of Emergency, Sun Yat-sen Memorial Hospital of Sun Yat-sen University, 
+Guangz

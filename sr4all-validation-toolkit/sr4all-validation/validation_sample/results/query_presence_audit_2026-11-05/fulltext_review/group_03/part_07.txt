@@ -1,0 +1,146 @@
+iolence victims’ experiences of hospital
+care - a literature review.Nordic Journal of Nursing Research and Clinical
+Studies 2008, 87:51– 55.
+48. Lawer D, Lalor J, Begley C:Access to maternity services for women with a
+physical disability: a systematic review of the literature international
+journal of childbirth.2013, 3:203– 217. doi:10.1891/2156-5287.3.4.203.
+49. Begley C, Higgins A, Lalor J, Sheerin F, Alexander J, Nicholl H, Lawler D,
+Keenan P, Tuohy T, Kavanagh R:The strengths and weaknesses of publicly-
+funded Irish health services provided to women with disabilities in relation to
+pregnancy. National Disability Authority: Childbirth and Early Motherhood;
+2010.
+50. Stark E: Coercive control: the entrapment of women in personal life.New York:
+Oxford University Press; 2007.
+51. Finlayson K, Downe S: Why do women not use antenatal services in low
+and middle income countries? a meta-synthesis of qualitative studies.
+PLoS Med 2013, 10:1– 12. doi:10.1371/journal.pmed.1001373.
+52. Walsh-Gallagher D, McConkey R, Sinclair M, Clarke R:Normalising birth for
+women with a disability: the challenges facing practitioners.Midwifery
+2011, 29:294– 299. doi:10.1016/j.midw.2011.10.007.
+53. Kopac CA, Fritz J, Holt RA:Gynaecologic and reproductive services for
+women with developmental disabilities.Clin Excell Nurse Pract1998,
+2:88– 95.
+54. Requejo J, Merialdi M, Althabe F, Keller M, Katz J, Menon R:Care during
+pregnancy and childbirth.In Born too soon: global action report on preterm
+birth. Edited by World Health Organisation. Geneva: World Health
+Organisation; 2012. chapter 4.
+55. Plummer SB, Findley PA: Women with disabilities’ experience with
+physical and sexual abuse: review of the literature and implications for
+the field.Trauma Violence Abuse2012, 13:15– 29. doi:10.1177/
+1524838011426014.
+56. NICE: Pregnancy and complex social factors: a model for service provision for
+pregnant women with complex social factors.London: National Collaborating
+Centre for Women‘s and Children‘s Health; 2010.
+57. Prosman GJ, Lo Fo Wong SH, Lagro-Janssen ALM:Why abused women do
+not seek professional help: a qualitative study.Scand J Caring Sci2013.
+doi:10.1111/scs.12025.
+58. Royal College of Nursing: Pregnancy and disability: RCN guidance for nurses
+and midwives. London: RCN; 2007.
+59. Royal College of Midwives: Maternity care for disabled women: guidance
+paper. London: RCM; 2008.
+doi:10.1186/1471-2393-14-234
+Cite this article as:Breckenridge et al.: Access and utilisation of
+maternity care for disabled women who experience domestic abuse: a
+systematic review. BMC Pregnancy and Childbirth2014 14:234.
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color ﬁgure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at 
+www.biomedcentral.com/submit
+Breckenridge et al. BMC Pregnancy and Childbirth2014, 14:234 Page 13 of 13
+http://www.biomedcentral.com/1471-2393/14/234
+
+END REVIEW W2170745728
+
+
+REVIEW W2187322447
+TITLE: Efficiency and safety of surgical intervention to patients with Non-Cystic Fibrosis bronchiectasis: a meta-analysis
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W2187322447 PDF PAGE 1]
+1
+Scientific  RepoRts  | 5:17382 | DOI: 10.1038/srep17382
+www.nature.com/scientificreports
+Efficiency and safety of surgical 
+intervention to patients with Non-
+Cystic Fibrosis bronchiectasis: a 
+meta-analysis
+Li-Chao Fan1, Shuo Liang1, Hai-Wen Lu1, Ke Fei2,* & Jin-Fu Xu1,*
+No quantitative systematic review was found to report the efficiency and safety of surgical resection 
+in the management of non-cystic fibrosis (non-CF) bronchiectasis. We therefore conducted a meta-
+analysis to assess the effects of operative intervention to patients with non-CF bronchiectasis. 
+PubMed, the Cochrane library and Web of Science databases were searched up to July 8th, 2015. The 
+pooled mortality from 34 studies recruiting 4788 patients was 1.5% (95% CI, 0.9–2.5%). The pooled 
+morbidity from 33 studies consisting of 4583 patients was 16.7% (95% CI, 14.8–18.6%). The pooled 
+proportion of patients from 35 studies, consisting of 4614 patients who were free of symptoms 
+was 66.5% (95% CI, 61.3–71.7%) after surgery. The summary proportion of patients from 35 articles 
+including 4279 participants who were improved was 27.5% (95% CI, 22.5–32.5%), and 9.1% (95% 
+CI, 7.3–11.5%) showed no clinical improvement. In conclusion, our analysis indicated that lung 
+resection in the management of non-CF bronchiectasis is associated with significant improvements in 
+symptoms, low risk of mortality and acceptable morbidity.
+Non-cystic fibrosis (non-CF) bronchiectasis is a respiratory disease characterized by irreversible dilation 
+of bronchi and persistent airway inflammation as a result of a vicious circle of impaired clearance of 
+mucus and bacterial infection1. Patients with non-CF bronchiectasis suffer from chronic cough, purulent 
+sputum, recurrent exacerbations, and progressive airway destruction 2,3. The prevalence of non-CF bron-
+chiectasis was 1,106 cases per 100,000 people from 2000 to 2007 in the United States, with an average 
+annual percentage increase of 8.7%4. Compared with developed countries, the prevalence is even higher 
+among developing countries5. There was a 2.5- to 3.9-fold higher period prevalence in Asians compared 
+with whites and blacks 4. A cross-sectional survey conducted in seven cities in China showed that the 
+prevalence of non-CF bronchiectasis was 1.2 per 100 residents aged 40 years old or above 6.
+Therapies aimed at relieving cough, enhance mucous clearance, reducing exacerbations and improv-
+ing quality of life. Besides medical treatment and respiratory physiotherapy, surgical treatment is an 
+eligible therapy for patients with non-CF bronchiectasis, especially to those with little response to con-
+servative interventions7. Over the years, many studies have reported surgical intervention in the manage-
+ment of patients with non-CF bronchiectasis 8–45. The surgical procedure was aimed at primary resection 
+of the affected area, as assessed by high-resolution computed tomographic (HRCT). Despite advances in 
+thoracic surgery, surgical treatment of bronchiectasis remains controversial. Until now, no quantitative 
+systematic review has investigated the efficiency and safety of surgical resection for the management of 
+non-CF bronchiectasis, which prompted us to systematically assess the effects of operative intervention 
+to patients with non-CF bronchiectasis. The present meta-analysis was undertaken to determine the 
+1Department of Respiratory Medicine, Shanghai pulmonary Hospital, Tongji University School of Medicine, 
+Shanghai, China. 2Department of Thoracic Surgery, Shanghai pulmonary Hospital, Tongji University School of 
+Medicine, Shanghai, China. *These authors contributed equally to this work. Correspondence and requests for 
+materials should be addressed to J.-F.X. (email: jfxucn@gmail.com)
+Received: 23 April 2015
+Accepted: 29 October 2015
+Published: 02 December 2015
+OPEN
+
+[W2187322447 PDF PAGE 2]
+www.nature.com/scientificreports/
+2
+Scientific  RepoRts  | 5:17382 | DOI: 10.1038/srep17382
+efficiency and safety of surgical therapy for non-CF bronchiectasis patients. Efficiency was evaluated by 
+symptom improvement after surgical treatment. Safety was evaluated by the incidence of post-operative 
+mortality and morbidity. Morbidity was defined as post-operative complications, primarily including 
+air leak more than seven days, atelectasis, hemorrhage, bronchopleural fistula, empyema, wound infec-
+tion, cardiac arrhythmias and pneumonia. The primary outcomes include post-operative morbidity and 
+mortality. The secondary outcomes were to evaluate symptom changes after lung resections to bronchi-
+ectasis at follow-up. The post-operative outcomes of symptom changes were categorized as “asympto-
+matic” if they had no symptoms post-operatively; “improved” if they had symptoms but milder than the 
+pre-operative period and “no change or worsen” .
+Methods
+Search strategy. In order to identify all eligible studies, a comprehensive literature search of PubMed, 
+Web of Science and Cochrane library was performed up to July 8th, 2015. The following terms were 
+used: “surgery” or “operative” or “resection” , “bronchiectasis” or “NCFB” or “non-CF bronchiectasis” . The 
+search was done on studies conducted on human subjects, without restriction on language. In addition, 
+the references listed in each selected article were manually searched to identify additional eligible studies.
+Selection criteria. An eligible study should meet the following inclusion criteria: (1) It should be 
+focused on surgical intervention in the management of patients with non-CF bronchiectasis. The diag-
+nosis of bronchiectasis was based on HRCT scanning. Surgical procedures were focused on resection, 
+regardless of incomplete or complete resections. Video assisted thoracoscopic surgery (V ATS) and thora-
+cotomy were both included. Type of surgical procedure included a lobectomy, followed by lobectomy and 
+segmentectomy, pneumonectomy, a bilobectomy and segment resection. (2) It should provide the effect 
+size of mortality or morbidity or symptomatic changes or complications. Operative mortality included 
+patients who died within 30 days or those who died later but during the same hospitalization. Morbidity 
+was defined as post-operative adverse events, such as residual pleural space, prolonged air leak, atelec-
+tasis, bronchopleural fistula, excessive bleeding, respiratory insufficiency and empyema. (3) The type of 
+studies was not limited, regardless of prospective, retrospective or cross-sectional studies. Studies were 
+excluded if one of the following existed: (1) Review articles and editorials; (2) Case reports; (3) Patients 
+with chronic respiratory conditions ot

@@ -1,0 +1,185 @@
+en evaluating IHD prevention ef-
+forts. This pattern is evident in other international
+research, including a large scale intervention in rural
+Maine in the US, that was spread across 23 rural com-
+munities from 1970 to 2010 [27]. Although the interven-
+tion consisted of nurse delivered education focussed on
+behaviour changes, prescription medication and moni-
+toring, cholesterol and BP were the main measured out-
+comes [18, 22]. This study provided some evidence that
+nurse-led education programs can reduce IHD risk fac-
+tors in rural communities, but again, did not compare to
+a control group [27]. The focus on clinical risk factors as
+outcomes, as opposed to behavioural changes may be
+due to the possible bias that can arise from these self-
+reported measures, with clinical risk factor measures
+providing more concrete evidence of the effectiveness of
+the IHD prevention programs.
+Higginbotham et al. [19] identified challenges with
+implementing a whole community intervention, and
+noted resistance when trying to engage the whole com-
+munity, finding that only 35 % of people in the region
+thought IHD was of high concern [19]. Conclusions
+from this study included that when designing interven-
+tions for rural communities, use of existing structures
+and knowledge of the needs and interests of local sub-
+groups is fundamentally important [19]. The authors of
+Alston et al. BMC Public Health  (2016) 16:895 Page 9 of 11
+
+[W2517544132 PDF PAGE 10]
+studies in the US and UK have also emphasized the im-
+portance of early assessment of rural community needs,
+interests and subgroups prior to implementation, when
+focussing on reducing IHD risk factors [7, 9, 32]. Con-
+clusions from a review of international population-level
+interventions to reduce IHD showed that there is no
+‘one size fits all ’ program, and success of interventions
+relies heavily on due consideration of the needs, inter-
+ests, characteristics and location of the community [11].
+This is certainly applicable to the Australian rural con-
+text, which comprises of many diverse and different
+communities across a very large landscape.
+Notable from this review was that only two of the se-
+lected studies were published in the past 5 years, with
+the remainder being eight or more years old, possibly
+limiting the relevance of these studies to when consider-
+ing the current rural health context. The age of the evi-
+dence may be of concern given that Australia has seen
+both significant changes in the burden of IHD, and sub-
+stantial shifts in urbanisation and population character-
+istics over recent decades [33]. Further, advances in
+technology, including e-health and telecommunications,
+may alter the experience and health implications of liv-
+ing in a non-metropolitan area. Therefore, rural popula-
+tions presented in older studies, and the issues they
+faced, may not be comparable to those currently residing
+in rural areas.
+Strengths of this research include that it employed a
+systematic methodology with broad search terms and in-
+cluded all Australian-based studies from 1990 to 2015.
+The comprehensive search strategy and use of three re-
+searchers to screen results increased the chances of all
+appropriate results being identified and included. The
+limitations of this review are that there was also only a
+small sample of studies that met the inclusion criteria,
+which had high heterogeneity and risk of bias in the
+methods, and this made solid conclusions on the effect-
+iveness of interventions in rural areas difficult to de-
+cipher. The review was also limited to Australian studies
+only. While there are important similarities between
+rural populations across comparable countries, rural
+populations may differ significantly in demographic
+characteristics and disadvantage between different
+countries [34].
+Implications for future research
+A major finding from this review is the lack of high
+quality studies assessing the effectiveness of interven-
+tions to reduce IHD burden in rural areas of Australia.
+Priority must be placed on action-orientated prevention
+research in rural communities, with a focus on method-
+ologies such as community-based participatory research
+to empower communities, create tailored strategies and
+address inequalities [35] Future research must have
+specific focus on rigorous methodology, including com-
+parison to control groups, more comprehensive measure-
+ments of changes in modifiable risk factors, and longer
+follow-up time frames in order to assess sustainability of
+such programs in the rural context. . There is significant
+potential for countries with comparable rural health in-
+equalities (for example, geographically large, high income
+countries such as Australia, Canada and the US) to learn
+from international examples [7, 9, 26, 27] and create a
+stronger body of evidence for the prevention of IHD
+among rural populations globally international examples
+and create a stronger body of evidence for the prevention
+of IHD among rural populations globally.
+Conclusions
+There are very few studies on interventions to prevent
+and reduce IHD in regional and remote areas of
+Australia, despite the higher burden in rural areas being
+well documented and this is consistent with inter-
+national observations. Published interventions have gen-
+erally shown encouraging results in reducing IHD risk
+factors or outcomes, although there significant limita-
+tions to quality and external validty among the studies
+identified. More research is needed to determine appro-
+priate, feasible, effective, and cost-effective strategies for
+improving IHD rates in rural areas, and the best ways to
+tailor interventions to the specific needs of rural
+communities.
+Additional files
+Additional file 1: PRISMA checklist. (DOC 62 kb)
+Additional file 2: Planned search terms. (DOCX 22 kb)
+Acknowledgements
+There are no further acknowledgements.
+Funding
+MN, KP, LA and JJ are supported by funding from the National Heart
+Foundation of Australia and Deakin University. SA is supported by funding
+from an Australian National Health and Medical Research Council/National
+Heart Foundation of Australia Career Development Fellowship (APP1045836).
+He is also a researcher on the US National Institutes of Health grant titled,
+“Systems Science to Guide Whole-of- Community Childhood Obesity
+Interventions” (1R01HL115485-01A1) and within a NHMRC Centre for
+Research Excellence in Obesity Policy and Food Systems (APP1041020).
+Availability of data and materials
+As all studies included in this review are published, all data is accessible. A
+copy of the search strategy, including all search terms, is also available upon
+request.
+Authors’ contributions
+LA led the conception of the research questions, study design, searches,
+screening, analysis of results and drafting of the manuscript at all stages, MN
+also contributed to the study design, research questions, and critical revision
+of the manuscript. KP and JJ participated in the screening of studies,
+assessment of quality and revision of the manuscript. SA contributed to the
+conception of research questions and revision of the manuscript. All authors
+read and approved the final manuscript.
+Alston et al. BMC Public Health  (2016) 16:895 Page 10 of 11
+
+[W2517544132 PDF PAGE 11]
+Competing interests
+The authors declare that they have no competing interests.
+Consent for publication
+Not relevant for this study.
+Ethics approval and consent to participate
+Not relevant for this study.
+Additional information
+See supplementary information including a PRISMA checklist (Additional file 1)
+and Search plan (Additional file 2).
+Received: 20 May 2016 Accepted: 18 August 2016
+References
+1. World Health Organisation. Cardiovascular Diseases: The World Health
+Organisation; 2016 [cited 2016 05/07/2016]. Available from: http://www.
+who.int/mediacentre/factsheets/fs317/en/.
+2. Australian Bureau of Statistics. 3303.0 - Causes of Death, Australia, 2013
+Australia: ABS; 2015 [cited 2016 29/02/2016]. Available from: http://www.abs.
+gov.au/ausstats/abs@.nsf/Lookup/by%20Subject/3303.0~2013~
+Main%20Features~Summary%20of%20findings~10000.
+3. Australia Institute of Health and Welfare. What are cardiovascular diseases?
+2013 [cited 2014 04/06/2014]. Available from: http://www.aihw.gov.au/
+cardiovascular-disease/what-is-cvd/.
+4. Australian Bureau of Statistics. HEALTH OUTSIDE MAJOR CITIES Australia:
+ABS; 2011 [cited 2015 10/06/2015]. Available from: http://www.abs.gov.au/
+AUSSTATS/abs@.nsf/Lookup/4102.0Main+Features30Mar+2011.
+5. Australian Institute of Health and Welfare. Trends in Coronary heart disease
+mortality: age groups and populations: Cardiovascular series no. 38.
+Canberra: AIHW C, editor. 2014.
+6. Australian Institute of Health and Welfare. Mortality inequalities in Australia:
+bulletin 124. Canberra: AIHW; 2014.
+7. Levin KA, Leyland AH. Urban – rural inequalities in ischemic heart disease in
+Scotland, 1981 – 1999. Am J Public Health. 2006;96(1):145 – 51.
+8. Kruger O, Aase A, Westin S. Ischaemic heart disease mortality among men
+in Norway: reversal of urban – rural difference between 1966 and 1989.
+J Epidemiol Community Health. 1995;49(3):271 – 6.
+9. Kulshreshtha A, Goyal A, Dabhadkar K, Veledar E, Vaccarino V. Urban – rural
+differences in coronary heart disease mortality in the United States:
+1999– 2009. Public Health Rep. 2014;129(1):19 – 29.
+10. O ’Flaherty M, Allender S, Taylor R, Stevenson C, Peeters A, Capewell S. The
+decline in coronary heart disease mortality is slowing in young adults
+(Australia 1976 – 2006): a time trend analysis. Int J Cardiol. 2012;158(2):193 – 8.
+11. Papadakis S, Moroz I. Population-level interventions for coronary heart
+disease prevention: what have we learned since the North Karelia project?
+Curr Opin Cardiol. 2008;23(5):452 – 61.
+12. World Health Organisation. NCD Global Monitoring Framework 2015.
+Available from: http://www.who.int/nmh/global_monitoring_framework/en/.
+13. World Heart Federation. World Heart Federation: 25 by 2025 Targets.
+Melbourne: World Heart Federatio

@@ -1,0 +1,190 @@
+gh BMI might be due to either a high level
+of body fat or muscle mass, which might influence pain
+in different ways. These issues were not investigated in
+any of the included studies or in previous reviews of risk
+factors.
+Female sex demonstrated inconsistent results across
+two studies in this review, which is in line with the pre-
+vious review of children and adolescents [ 40], as well as
+two other reviews on adults [ 20, 21]. Inconsistent
+findings were also found across two studies for the im-
+pact of perceived stress on neck pain. Only one study in
+our review investigated depression as a risk factor for
+neck pain [ 39] and found no association. This finding is
+contrary to what has been reported in studies among
+children, adolescents and adults [ 17, 20]. There is little
+knowledge on how stress and other mental factors might
+impact neck pain in young adults.
+Most of the investigated risk factors showed no associ-
+ation with neck pain, and most of the studies did not
+add any explanations for their non-significant results.
+One study [ 34] did not report risk estimates of the non-
+significant results, which makes the direction of the
+results unclear. Different study populations hindered dir-
+ectly comparison of the results from this review to previ-
+ous studies of adolescents and adults, which may explain
+some of the inconsistencies in the results. As all the
+identified risk factors in this review are based on few
+studies with low-quality evidence, the findings might be
+spurious and need to be investigated in large studies
+with high quality.
+The classification of risk factors according to the ICF
+framework demonstrated that most research until now
+covered risk factors within daily activities and physical
+body functions, whereas few potential personal and en-
+vironmental risk factors have been investigated. Import-
+antly, factors specifically relevant to the life phase of
+young adulthood, such as educational level and digital
+media, have been less studied.
+All the risk factors identified in the present study
+showed a very low level of evidence according to the
+GRADE framework. The included studies had mainly ex-
+ploratory designs, with serious study limitations, e.g. im-
+precision due to high loss to follow-up, and small
+sample sizes. Few studies reported if neck pain and risk
+factors were measured with valid and reliable measure-
+ments. Neck pain was not defined similarly regarding
+frequency, localisation, duration or intensity. The meas-
+urement assessments for the same risk factors also var-
+ied across studies, which precluded comparison and
+might explain inconsistent results. The high risk of bias
+among these studies should be considered when inter-
+preting the results.
+Strengths
+To our knowledge, this is the first systematic review to
+summarise the evidence of risk factors for neck pain in
+young adulthood. We used a broad search strategy, cov-
+ering various databases, minimising the chance of miss-
+ing relevant articles. The inclusion of prospective cohort
+studies only increased the chance of finding the tem-
+poral sequence between risk factors and neck pain, and
+avoided recall bias compared to retrospective studies.
+The sorting of concepts and constructs according to the
+Jahre et al. BMC Musculoskeletal Disorders          (2020) 21:366 Page 9 of 12
+
+[W3033785922 PDF PAGE 10]
+ICF framework provided an overview of which type of
+constructs and domains that have been explored until
+now.
+Limitations
+One limitation of this study is that we did not have any
+time-oriented requirements of the duration of neck pain.
+Consequently, we might have included studies with pop-
+ulations with both new episodes as well as recurrent
+neck pain. The reason for including studies with partici-
+pants that might have had a previous episode of neck
+pain was the known difficulty of identifying a true pain-
+free population. Recall bias disturbs accuracy when ask-
+ing participants if they previously have experienced an
+episode of neck pain, which makes identifying the first
+ever-episode of neck pain a challenging task [ 42]. Fur-
+ther, by including studies that measured either the risk
+factor nor the outcome in the age 18 – 29 years, we ended
+up including two studies measuring risk factors in ado-
+lescents (15 and 17 years of age) [ 38, 39]. This led to
+slightly younger study samples that we targeted, and did
+not necessarily, investigate risk factors specifically rele-
+vant for the period of young adulthood. In addition, het-
+erogeneity between studies such as lack of standardised
+measurements either of neck pain, risk factors or follow-
+up period made it difficult to combine the findings in a
+meta-analysis, which would have provided more accurate
+results of risk factors for neck pain.
+Implications
+The findings from this systematic review indicate that
+there is a strong need for more high-quality prospective
+cohort studies of neck pain in this important life phase
+in order to elucidate the development of neck pain. Fu-
+ture studies should preferably include individuals who
+are pain-free at baseline or who never have experienced
+a previous episode of neck pain in order to be able to as-
+sess the potential impact of risk factors on the develop-
+ment of neck pain. Standardised methods should be
+used in order to enhance comparison of results as well
+as merging data sets across studies in meta-analysis. Im-
+portantly, future studies need to cover other types of po-
+tential important risk factors, reflecting current trends
+and aspects of young adults. Factors such as risk behav-
+iour [ 8], digital habits [ 43], resilience [ 44], food insecur-
+ity [ 45] friendship [ 46], and loneliness [ 47], are all
+factors suggested to be relevant in young adulthood and
+might be important factors to investigate further in rela-
+tionship with neck pain. More knowledge on significant
+risk factors for the development of recurrent and
+chronic neck pain in young adulthood will form the
+basis for developing effective prevention initiatives. Espe-
+cially, since young adulthood is a period of life when im-
+plementation strategies for changes may be effective,
+and personal, professional and health trajectories are
+shaped and established [ 48, 49].
+Conclusion
+This systematic review, including 56 potential risk fac-
+tors investigated in six prospective studies, did not iden-
+tify confident evidence for any distinct risk factors for
+neck pain in young adults. The main finding is the pau-
+city of high-quality prospective studies investigating risk
+factors for neck pain from a pain-free state in this age
+group. The high number of low-quality studies investi-
+gating a large amount of potential risk factors for neck
+pain with only spurious findings is alarming. Therefore,
+there is a strong need for more high-quality prospective
+studies in this field, in which the study population and
+outcome is clearly defined, and where the rationale for
+each of the selected potential risk factors is provided.
+Supplementary information
+Supplementary information accompanies this paper at https://doi.org/10.
+1186/s12891-020-03379-y.
+Additional file 1: The PRISMA checklist.
+Additional file 2: Search strategies. Search strategies for AMED, Cinahl,
+EMBASE, MEDLINE, PsychINFO, SportsDiscus and Web of Science.
+Additional file 3: Excluded studies. Studies identified in the full-text
+search with reasons for exclusion.
+Abbreviations
+BMI: Body mass index; GBD: Global Burden of Disease Study; GRADE: Grading
+of Recommendations Assessments, Development and Evaluation;
+CI: Confidence interval; ICF: International Classification of Functioning,
+Disability and Health; PRISMA: Preferred Reporting Items for Systematic
+Reviews and Meta-Analyses; QUIPS: Quality in Prognosis Studies assessment
+tool; YLD: Years lived with disabilities
+Acknowledgements
+We thank librarians at Oslo Metropolitan University for collaboration on the
+systematic searches.
+Authors’ contributions
+HJ participated in the conception and the design of the study, selected the
+eligible studies from the systematic searches, the extraction of data, and
+methodological appraisal of studies. She led the interpretation of the results
+and drafted the manuscript. BEØ participated in the conception and the
+design of the study, extraction of data, methodological appraisal of studies,
+interpretation of the results and the writing of the manuscript. KS
+participated in the conception and the design of the study, selected the
+eligibility studies from the systematic searches and the writing of the
+manuscript. MG and KD participated in the conception and the design in the
+study, interpretation of the results and writing the manuscript. All authors
+read and approved the final manuscript for submission.
+Funding
+Oslo Metropolitan University funds HJ through a doctoral research
+fellowship, and BEØ and MG through research positions. The Norwegian
+physiofund supports KS through a doctoral research fellowship, and Keele
+University funds KD through a research position.
+Availability of data and materials
+All data generated or analysed during this study are included in this
+published article (supplementary file 3).
+Jahre et al. BMC Musculoskeletal Disorders          (2020) 21:366 Page 10 of 12
+
+[W3033785922 PDF PAGE 11]
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Author details
+1Department of Physiotherapy, Oslo Metropolitan University, Postboks 4 St.
+Olavs plass, 0130 Oslo, Norway. 2Research and communication unit for
+musculoskeletal health (FORMI), Clinic for Surgery and Neurology, Oslo
+University Hospital, Oslo, Norway. 3Primary Care Centre Versus Arthritis,
+School of Primary, Community and Social Care, Keele University, Keele, UK.
+Received: 3 February 2020 Accepted: 29 May 2020
+References
+1. Algarni AD, Al-Saran Y, Al-Moawi A, Bin Dous A, Al-Ahaideb A, Kachanathu
+SJ. The Prevalence of and Factors Associated with Neck, Shoulder, and Lo

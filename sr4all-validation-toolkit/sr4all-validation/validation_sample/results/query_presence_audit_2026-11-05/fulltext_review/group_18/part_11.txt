@@ -1,0 +1,239 @@
+balance [ 90]
+Low p ≤ .05 1
+Over-commitment [ 90] Low p ≤ .01 1
+Burnout Administrative/organisational
+pressure [ 95]
+Low p ≤ .01 5
+Police stress [ 95] Low p ≤ .01 5
+Emotional Exhaustion (EE) Demand [ 85] High p ≤ 0.05 5
+Job pressure [ 86] Intermediate p ≤ .001 5
+49 h/week = long
+working hours [ 89]
+Intermediate p ≤ .05 5
+Social support [ 85] Intermediate p ≤ 0.05 2
+Lack of support [ 86] Intermediate p ≤ .001 2
+Organisational culture [ 85] Intermediate p ≤ .05 3
+Organisational climate [ 85] Intermediate p ≤ .05 3
+Purba and Demou BMC Public Health         (2019) 19:1286 Page 10 of 21
+
+[W2980327373 PDF PAGE 11]
+Table 3 Organisational Stressor and MW Outcome Associations of Included Studies with Significance level and Effect Size Grade
+(Continued)
+Mental Wellbeing Outcome(s) Organisational Stressor(s) and
+Corresponding Study ID(s)
+Grade Assigned to
+Effect Size
+Significance
+Level
+WHO Occupational
+Stressor Category*
+Decision latitude [ 85] Intermediate p ≤ .05 4
+Internal social stressors [ 82] Low p ≤ .01 2
+Social support from
+co-workers and supervisors [ 91]
+Low p ≤ .05 2
+Social support [ 92] Low p ≤ .05 2
+Perceived workplace
+fairness [ 83]
+Low p ≤ .01 3
+Unfairness of the
+organisation [ 92]
+Low p ≤ .05 3
+Lack of resources [ 94] Low p ≤ .001 5
+Demand [ 94] Low p ≤ .001 5
+Administrative/Organisational
+pressure [ 95]
+Low p ≤ .01 5
+Police stress [ 95] Low p ≤ .01 5
+Overtime work [ 91] None p = ns 5
+Leadership ([ 85, 91] None p = ns 3
+Work conflict [ 85, 91] None p = ns 2
+Autonomy [ 91] None p = ns 4
+Depersonalisation (DP) Decision latitude [ 85]
+Social support [ 85]
+Intermediate
+Intermediate
+p ≤ .05
+p ≤ .05
+5
+2
+Demand [ 85] Intermediate p ≤ .05 5
+Organisational culture [ 85] Intermediate p ≤ .05 3
+Organisational climate [ 85] Intermediate p ≤ 0.05 ♀;
+p =n s ♂
+3
+Social support from
+co-workers and
+supervisors [ 91]
+Low p ≤ .001 2
+49 h/week = long working
+hours [ 89]
+Low p ≤ .05 5
+Demand [ 94] Low p ≤ .001 5
+Lack of resources [ 94] Low p ≤ .001 5
+Leadership [ 91] Low p ≤ .01 3
+Administrative/organisational
+pressure [ 95]
+Low p ≤ .01 5
+Police stress [ 95] Low p ≤ .01 5
+Job pressure [ 86] None p = ns 5
+Overtime work [ 91] None p = ns 5
+Work conflict [ 91] None p = ns 2
+Lack of support [ 86] None p = ns 2
+Leadership [ 85] None p = ns 3
+Autonomy [ 91] None p = ns 4
+Personal Accomplishment (PA) Social support from
+co-workers and
+supervisors [ 91]
+Low p ≤ .01 2
+Job pressure [ 86] Low p ≤ .001 5
+Administrative/organisational
+pressure [ 95]
+Low p ≤ .01 5
+Purba and Demou BMC Public Health         (2019) 19:1286 Page 11 of 21
+
+[W2980327373 PDF PAGE 12]
+and policies, was significantly associated with occupa-
+tional stress (ß = .18, p < .01), however ‘lack of advance-
+ment opportunity ’, (ß = .03, p = ns) was not, following
+adjustment for participant demographics and additional
+exposure variables [ 93].
+The organisational stressor ‘language harassment ’ was
+significantly associated with occupational stress in US
+police officers (ß = .10, p < .01) [ 93], controlling for par-
+ticipant demographics and exposure variables including
+stigma and appearance and feeling invisible. In the same
+study, ‘sexual harassment ’ was significantly negatively as-
+sociated with occupational stress (ß = −.08, p < .05) [ 93].
+Yet, in the study [ 96] conducted on South Korean police
+officers no significant association between occupational
+stress and either ‘language harassment ’ (ß = .07, p = ns)
+or ‘sexual harassment ’ (ß = .01, p = ns) was reported.
+Anxiety
+One high quality study, covering 3272 participants,
+assessed anxiety , and demonstrated that ‘job pressure ’
+was a significant predictor of anxiety symptoms (OR 2.0,
+95%; 95%CI:1.5 – 2.7; p < .001) after adjustment for demo-
+graphics and other exposure variables such as lack of
+support, subjective health complaints, etc., whereas ‘lack
+of support ’ (OR 1.2; 95%CI: 0.9 – 1.7; p = ns) was not [ 86].
+Depression
+Two high quality studies [ 86, 87] covering 4104 partici-
+pants, with 80% ( n = 3272) originating from one study
+[86], assessed depression . Significant associations, graded
+as intermediate (Table 3), were reported between ‘heavy
+workload’ (OR 1.73; 95%CI:1.19 – 2.50; p = .004) and
+‘judgement from peers ’ and depression (OR 2.35; 95%CI:
+1.31– 4.23; p = .004) after controlling for exposure vari-
+ables, such as judgement from peers, little time to spend
+with families, job performance, etc. [ 87]. There was no
+evidence of a significant association between ‘job pres-
+sure’ (OR 1.0, 95%CI:0.7 – 1.4; p = ns)o r ‘lack of support ’
+(OR 1.3, 95%CI:0.9 – 1.99; p = ns) and depression in the
+adjusted models [ 86].
+Psychological distress (PD) and psychiatric symptoms (PS)
+Four high quality studies assessed psychological distress
+(PD) and psychiatric symptoms (PS) [ 82, 84, 89, 90]. These
+covered 1854 police officers, of which 66% ( n = 1226) were
+from one study [ 89].
+The strongest predictor of PS, high effect size grade, was
+‘lack of support from superiors and organisation ’ (OR 3.58,
+95%CI:1.58– 8.13; β =1 . 2 8 ;p = .002), after controlling for
+additional exposure variab les such as inadequate work
+schedule, high mental/intellectual demand, etc. [ 84]. Inter-
+mediate but significant predictors of PS were ‘inadequate
+work schedule ’ (OR 2.84, 95% CI:1.22 – 6.62; β = 1.04,
+p = .016) and ‘high mental/intellectual demand’ (OR 2.56,
+95%CI:1.12– 5.86; β =. 9 4 ,p = .026) in adjusted models [ 84].
+For PD, ‘long working hours ’ (≥ 49 h/week) demon-
+strated a high and significant association (OR 2.05,
+95%CI:1.57– 2.68; p < .05), after controlling for age, gen-
+der, rank, departmental tenure and years of service [ 89];
+while ‘insider social stressors ’- defined as stress arising
+from co-workers and supervisors- displayed an inter-
+mediate but significant association ( β = .45, p < .01) when
+controlling for outsider social stressors (e.g. stressor
+from interactions with civilians/suspects) [ 82]. The odds
+of PD caseness in participants working ‘long working
+hours’, was double that of officers working ‘normal
+working hours ’ (≤48 h/week) following full adjustment
+[89]. ‘Effort-reward imbalance ’ (β = .24, p < .05) and
+‘over-commitment’ (β = .40, p < .01) were low but signifi-
+cant predictors of PD, after adjusting for age, gender,
+marital status and education [ 90].
+Table 3 Organisational Stressor and MW Outcome Associations of Included Studies with Significance level and Effect Size Grade
+(Continued)
+Mental Wellbeing Outcome(s) Organisational Stressor(s) and
+Corresponding Study ID(s)
+Grade Assigned to
+Effect Size
+Significance
+Level
+WHO Occupational
+Stressor Category*
+Police stress [ 95] Low p ≤ .01 5
+Lack of support [ 86] None p = ns 2
+Work conflict [ 91] None p = ns 2
+49 h/week = long
+working hours [ 89]
+None p = ns 5
+Overtime work [ 91] None p = ns 5
+Leadership [ 91] None p = ns 3
+Autonomy [ 91] None p = ns 4
+Suicidal Ideation Job pressure [ 86] None p = ns 5
+Lack of support [ 86] None p = ns 2
+*Note. WHO occupational stressor category: (1) career development, status & pay; (2) Interpersonal relationships; (3) Organisational culture; (4) Parti cipation &
+control; (5) Workload & working hours
+Purba and Demou BMC Public Health         (2019) 19:1286 Page 12 of 21
+
+[W2980327373 PDF PAGE 13]
+Burnout (defined as a composite measure of EE, DP and PA)
+Only one low quality study, assessed burnout as a com-
+posite measure of emotional exhaustion (EE), deperson-
+alisation (DP) and personal accomplishment (PA) [ 95];
+but nine studies assessed associations of organisational
+stressors and EE [ 82, 83, 85, 86, 89, 91, 92, 94, 95]. Of
+the latter, six studies further assessed DP [ 85, 86, 89, 91,
+94, 95] and four of these studies additionally assessed
+PA [ 86, 89, 91, 95]. Seven of the studies investigating EE,
+DP and/or PA were of high quality [ 82, 83, 85, 86, 89,
+91, 94], one of medium quality [ 92], and one of low
+quality [ 95]. The studies covered 10,853 participants,
+30% of which ( n = 3272) were from one study [ 86].
+Burnout (composite measure of EE, DP and PA)
+‘Police stress ’ measured by the Police Stress Survey
+(r = .301, p < .01) and ‘administrative organisational pres-
+sure’ (r = .347, p < .01) were significantly correlated and had
+low associations with burnout, however the authors did not
+adjust for participant demogr aphics or additional exposure
+variables [95].
+Emotional exhaustion (EE) Four of the nine studies-
+three of high [ 85, 86, 94] and one of low [ 95] quality- in-
+vestigating EE demonstrated that the strongest predictor
+of EE was the ‘demand’ inherent in police work. A sig-
+nificant relationship between high ‘demand’ and EE in both
+male (OR 5.97; 95%CI:3.32 – 10.71; p <. 0 5 ) a n d f e m a l e p o -
+lice officers (OR 7.69; 95%CI:4.21 – 14.03; p < .05) was re-
+ported after adjusting for age [ 85]. Job ‘demands’ (β = .22,
+p < .001) and ‘lack of resources ’ (β = .20, p < .001) both ex-
+hibited low but significant rel ationships with EE, after con-
+trolling for both participa nt demographics and other
+exposure variables, including c onscientiousness, emotional
+stability, etc. [ 94]. Intermediate and significant associations
+were reported for ‘job pressure’ and EE (OR 2.1; 95%CI:
+1.8– 2.5; p < .001) [ 86]. The odds of high EE in police offi-
+cers working long hours (> 49 h/ week) were double that of
+officers working normal hours (< 48 h/ week) (OR 1.99,
+95%CI:1.52– 2.59; p <. 0 5 ) [ 89]. However, another study
+found no significant association in adjusted models between
+‘overtime work’ and EE ( β =. 0 7 ,p= ns)[ 91].
+Similar to burnout, ‘police stress ’ (r = .256, p <. 0 1 ) a n d
+‘administrative/organisational pressure ’ (r = .310, p < .01)
+were significantly correlated with EE [ 95]. Low ‘decision
+latitude’ demonstrated intermediate and significant associ-
+ations with EE in both female (OR 2.44; 95%CI:1.38 – 4.30;
+p < .05) and male police officers (OR 3.94; 95%CI:2.02 –
+7.70; p < .05), following adjustment for age [ 85]. Yet, lack
+of ‘autonomy’ was not a significant predictor of EE ( β =
+−.10, p = ns)[ 91].
+Se

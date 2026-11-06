@@ -1,0 +1,144 @@
+ the publisher, the editors and the reviewers. Any product 
+that may be evaluated in this article, or claim that may be made by its 
+manufacturer, is not guaranteed or endorsed by the publisher.
+Supplementary material
+The Supplementary material for this article can be found online 
+at: https://www.frontiersin.org/articles/10.3389/fpubh.2023.1282296/
+full#supplementary-material
+References
+ 1. Nabavi N. Covid-19: pandemic will cast "a long shadow" on mental health, warns 
+England's CMO. BMJ. (2021) 373:n1655. doi: 10.1136/bmj.n1655
+ 2. Maunder RG, Lancee WJ, Balderson KE, Bennett JP , Borgundvaag B, Evans S, et al. 
+Long-term psychological and occupational effects of providing hospital healthcare 
+during SARS outbreak. Emerg Infect Dis . (2006) 12:1924–32. doi: 10.3201/
+eid1212.060584
+ 3. Maunder RG, Leszcz M, Savage D, Adam MA, Peladeau N, Romano D, et al. 
+Applying the lessons of SARS to pandemic influenza: an evidence-based approach to 
+mitigating the stress experienced by healthcare workers. Can J Public Health. (2008) 
+99:486–8. doi: 10.1007/BF03403782
+ 4. Chen Q, Liang M, Li Y , Guo J, Fei D, Wang L, et al. Mental health care for medical 
+staff in China during the COVID-19 outbreak. Lancet Psychiatry. (2020) 7:e15–6. doi: 
+10.1016/S2215-0366(20)30078-X
+ 5. Kisely S, Warren N, McMahon L, Dalais C, Henry I, Siskind D. Occurrence, 
+prevention, and management of the psychological effects of emerging virus outbreaks 
+on healthcare workers: rapid review and meta-analysis. BMJ. (2020) 369:m1642. doi: 
+10.1136/bmj.m1642
+ 6. Wu PE, Styra R, Gold WL. Mitigating the psychological effects of COVID-19 on 
+health care workers. CMAJ. (2020) 192:E459–60. doi: 10.1503/cmaj.200519
+ 7. Tan BYQ, Chew NWS, Lee GKH, Jing M, Goh Y , Y eo LLL, et al. Psychological 
+impact of the COVID-19 pandemic on health Care Workers in Singapore. Ann Intern 
+Med. (2020) 173:317–20. doi: 10.7326/M20-1083
+ 8. Li Z, Ge J, Y ang M, Feng J, Qiao M, Jiang R, et al. Vicarious traumatization in the 
+general public, members, and non-members of medical teams aiding in COVID-19 
+control. Brain Behav Immun. (2020) 88:916–9. doi: 10.1016/j.bbi.2020.03.007
+ 9. Braquehais MD, Vargas-Caceres S, Gomez-Duran E, Nieva G, Valero S, Casas M, 
+et al. The impact of the COVID-19 pandemic on the mental health of healthcare 
+professionals. QJM. (2020) 113:613–7. doi: 10.1093/qjmed/hcaa207
+ 10. Li Y , Scherer N, Felix L, Kuper H. Prevalence of depression, anxiety and post-
+traumatic stress disorder in health care workers during the COVID-19 pandemic: a 
+systematic review and meta-analysis. PLoS One. (2021) 16:e0246454. doi: 10.1371/
+journal.pone.0246454
+ 11. Y ang JM, Y e H, Long Y , Zhu Q, Huang H, Zhong YB, et al. Effects of online 
+mindfulness-based interventions on anxiety, depression, and stress among frontline 
+healthcare workers during the COVID-19 pandemic: a systematic review and meta-
+analysis. J Med Internet Res. (2023) 25:e44000. doi: 10.2196/44000
+ 12. Alzailai N, Barriball KL, Xyrichis A. Impact of and mitigation measures for 
+burnout in frontline healthcare workers during disasters: a mixed-method systematic 
+review. Worldviews Evid-Based Nurs. (2023) 20:133–41. doi: 10.1111/wvn.12633
+ 13. Cochrane. Cochrane handbook for systematic reviews of interventions version 6.3 
+(2023). Available at: www.training.cochrane.org/handbook.
+ 14. CADTH Information Services. Grey matters: a practical tool for searching health-
+related grey literature. (2015).
+ 15. Nelson C, Lurie N, Wasserman J, Zakowski S. Conceptualizing and defining public 
+health emergency preparedness. Am J Public Health. (2007) 97 Suppl 1:S9–S11. doi: 
+10.2105/ajph.2007.114496
+ 16. World Health Organization. Fact sheets: Mental health. Geneva: WHO (2022) 
+Available from: https://www.who.int/news-room/fact-sheets/detail/mental-health-
+strengthening-our-response.
+ 17. Cumpston M, Li T, Page MJ, Chandler J, Welch V A, Higgins JP , et al. Updated 
+guidance for trusted systematic reviews: a new edition of the Cochrane handbook for 
+systematic reviews of interventions. Cochrane Database Syst Rev. (2019) 10:ED000142. 
+doi: 10.1002/14651858.ED000142
+ 18. Hoffmann TC, Glasziou PP , Boutron I, Milne R, Perera R, Moher D, et al. Better 
+reporting of interventions: template for intervention description and replication 
+(TIDieR) checklist and guide. BMJ. (2014) 348:g1687. doi: 10.1136/bmj.g1687
+ 19. Joanna Briggs Institute. Critical appraisal tools. Adelaide: Joanna Briggs Institute 
+(2020).
+ 20. Lakens D. Calculating and reporting effect sizes to facilitate cumulative science: a 
+practical primer for t-tests and ANOV As. Front Psychol. (2013) 4:863. doi: 10.3389/
+fpsyg.2013.00863
+ 21. Uanhoro JO. Effect size calculators (2017). Available at: https://effect-size-
+calculator.herokuapp.com/ (accessed August 2 2023).
+ 22. Lipsey MW , Wilson D. Practical Meta-analysis (applied social research methods). 
+1st ed. Thousand Oaks, California: SAGE Publications (2000).
+ 23. Wilson DB. Practical meta-analysis effect size calcualtor. (2001). Available at: 
+https://www.campbellcollaboration.org/escalc/html/EffectSizeCalculator-Home.php 
+(accessed August 2 2023).
+ 24. Cole CL, Waterman S, Hunter ECM, Bell V , Greenberg N, Rubin GJ, et al. 
+Effectiveness of small group cognitive behavioural therapy for anxiety and depression 
+in Ebola treatment Centre staff in Sierra Leone. Int Rev Psychiatry. (2021) 33:189–97. 
+doi: 10.1080/09540261.2020.1750800
+ 25. De Kock JH, Latham HA, Cowden RG, Cullen B, Narzisi K, Jerdan S, et al. Brief 
+digital interventions to support the psychological well-being of NHS staff during the 
+COVID-19 pandemic: 3-arm pilot randomized controlled trial. JMIR Ment Health. 
+(2022) 9:e34002. doi: 10.2196/34002
+ 26. Difede J, Malta LS, Best S, Henn-Haase C, Metzler T, Bryant R, et al. A randomized 
+controlled clinical treatment trial for world trade center attack-related PTSD in disaster 
+workers. J Nerv Ment Dis. (2007) 195:861–5. doi: 10.1097/NMD.0b013e3181568612
+ 27. Jing H, Zhang L, Liu Y , Zhang C, Zhang Y , Tang R, et al. Effect of a group-based 
+acceptance and commitment therapy program on the mental health of clinical nurses 
+during the COVID-19 sporadic outbreak period. J Nurs Manag. (2022) 30:3005–12. doi: 
+10.1111/jonm.13696
+ 28. Ke YT, Chen HC, Lin CH, Kuo WF , Peng AC, Hsu CC, et al. Posttraumatic 
+psychiatric disorders and resilience in healthcare providers following a disastrous 
+earthquake: an interventional study in Taiwan. Biomed Res Int. (2017) 2017:2981624–7. 
+doi: 10.1155/2017/2981624
+ 29. Klomp RW , Jones L, Watanabe E, Thompson WW . CDC's multiple approaches to 
+safeguard the health, safety, and resilience of Ebola responders. Prehosp Disaster Med. 
+(2020) 35:69–75. doi: 10.1017/S1049023X19005144
+ 30. Leiva-Bianchi M, Cornejo F , Fresno A, Rojas C, Serrano C. Effectiveness of 
+cognitive-behavioural therapy for post-disaster distress in post-traumatic stress 
+symptoms after Chilean earthquake and tsunami. Gac Sanit. (2018) 32:291–6. doi: 
+10.1016/j.gaceta.2017.07.018
+ 31. Osman I, Hamid S, Singaram VS. Efficacy of a brief online mindfulness-based 
+intervention on the psychological well-being of health care professionals and trainees 
+during the COVID-19 pandemic: a mixed method design. Health SA. (2021) 26:1682. 
+doi: 10.4102/hsag.v26i0.1682
+ 32. Waterman S, Cole CL, Greenberg N, Rubin GJ, Beck A. A qualitative study 
+assessing the feasibility of implementing a group cognitive-behavioural therapy-based 
+intervention in Sierra Leone. BJPsych Int. (2019) 16:31–4. doi: 10.1192/bji.2018.7
+ 33. Waterman S, Hunter ECM, Cole CL, Evans LJ, Greenberg N, Rubin GJ, et al. 
+Training peers to treat Ebola Centre workers with anxiety and depression in Sierra 
+Leone. Int J Soc Psychiatry. (2018) 64:156–65. doi: 10.1177/0020764017752021
+ 34. Zhou K, Kong J, Wan Y , Zhang X, Liu X, Qu B, et al. Positive impacts of e-aid 
+cognitive behavioural therapy on the sleep quality and mood of nurses on site during 
+
+[W4389441176 PDF PAGE 24]
+Neil-Sztramko et al. 10.3389/fpubh.2023.1282296
+Frontiers in Public Health 24 frontiersin.org
+the COVID-19 pandemic. Sleep Breath . (2022) 26:1947–51. doi: 10.1007/
+s11325-021-02547-1
+ 35. Fiol-DeRoque MA, Serrano-Ripoll MJ, Jimenez R, Zamanillo-Campos R, Y anez-
+Juan AM, Bennasar-Veny M, et al. A Mobile phone-based intervention to reduce mental 
+health problems in health care workers during the COVID-19 pandemic (PsyCovidApp): 
+randomized controlled trial. JMIR Mhealth Uhealth. (2021) 9:e27039. doi: 10.2196/27039
+ 36. Gnanapragasam SN, Tinch-Taylor R, Scott HR, Hegarty S, Souliou E, Bhundia R, 
+et al. Multicentre, England-wide randomised controlled trial of the 'Foundations' 
+smartphone application in improving mental health and well-being in a healthcare 
+worker population. Br J Psychiatry. (2023) 222:58–66. doi: 10.1192/bjp.2022.103
+ 37. Karakashian M. Countertransference issues in crisis work with natural disaster 
+victims. Psychother Theory Res Pract Train. (1994) 31:334–41. doi: 10.1037/h0090228
+ 38. Leitch ML, Vanslyke J, Allen M. Somatic experiencing treatment with social 
+service workers following hurricanes Katrina and Rita. Soc Work. (2009) 54:9–18. doi: 
+10.1093/sw/54.1.9
+ 39. Mahaffey BL, Mackin DM, Rosen J, Schwartz RM, Taioli E, Gonzalez A. The 
+disaster worker resiliency training program: a randomized clinical trial. Int Arch Occup 
+Environ Health. (2021) 94:9–21. doi: 10.1007/s00420-020-01552-3
+ 40. Pallavicini F , Orena E, di Santo S, Greci L, Caragnano C, Ranieri P , et al. A virtual 
+reality home-based training for the management of stress and anxiety among healthcare 
+workers during the COVID-19 pandemic: study protocol for a randomized controlled 
+trial. Trials. (2022) 23:451. doi: 10.1186/s13063-022-06337-2
+ 41. Powell T, Yuma-Guerrero P . Supporting community health workers after a disaster: 
+findings from a mixed-methods pilot evaluation study of a psychoeducational 
+intervention. Disaster Med Public Health Prep . (2016) 10:754–61. doi: 10.1017/
+dmp.2016

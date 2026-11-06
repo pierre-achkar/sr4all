@@ -1,0 +1,180 @@
+riate to answer the research question?
+Legend: Y-yes, N-no, ?-unclear, C19-COVID-19, ART-anti-retroviral therapy, HIV-human immunodeficiency virus, PWH-people living with 
+HIV, RCT-randomized controlled trial, MSM-men who have sex with men
+1 3
+348
+
+[W4289522482 PDF PAGE 6]
+AIDS and Behavior (2023) 27:344–357
+access other support services such as social workers [18, 36]. 
+These findings primarily came from participant-reported 
+cross-sectional data and included studies conducted at the 
+national level and from all four geographic regions. The 
+percentage of studies reporting decreased or missed HIV 
+healthcare visits or changes in PWH’s ability to attend visits 
+ranged from 6% [ 22] to as high as 46% [ 38]. In the south -
+ern region, six of the seven studies that included quantita -
+tive data on HIV healthcare visits and challenges with care 
+reported less than 20% of study participants had missed a 
+scheduled HIV healthcare visit, did not complete a visit, or 
+had challenges getting care [ 19–22, 25, 31]. Two studies 
+conducted in the midwest region had similar findings, with 
+13.5% of participants in one study reporting changes or loss 
+in medical care [17] and 21% of scheduled HIV clinic visits 
+in another study missed by patients [ 29]. Three studies in 
+total—one each from the western, northeastern, and south -
+ern regions—reported missed or cancelled visits in approxi-
+mately 45% of study participants [18, 35, 38]. Two of these 
+studies were conducted in minority populations [18, 35].
+Participants in three studies—two from the southern 
+region and one from the northeastern region—reported hav-
+ing visits cancelled by their healthcare provider, ranging 
+from 45% [25] to nearly 70% of respondents [ 18]. Several 
+studies also captured PWH who themselves had cancelled or 
+avoided healthcare due to the COVID-19 pandemic, includ-
+ing due to fear of contracting SARS-CoV-2, the virus that 
+causes COVID-19 disease [ 16, 18, 35]. The percentage of 
+respondents who reported cancelling/avoiding medical care 
+due to the pandemic ranged from 18% [16] to 45% [35].
+Two studies from the western region found no changes 
+in HIV healthcare visits when comparing time periods 
+[9, 39].
+Fifteen studies looked at the impacts of the pandemic 
+within specific communities living with HIV , including 
+those who identified as Black or LatinX [ 16, 18], identified 
+as a member of the LGBTQ community or MSM [ 23, 34, 
+37], identified as Black MSM [ 26, 35], were of older age 
+[19, 38], were economically disadvantaged [ 22, 24, 28], or 
+those who reported substance use [21, 25, 30]. Of the other 
+nine studies that reported participant data (e.g., excluding 
+the two studies that used data provided by Ryan White clin-
+ics), seven included varying levels of representation across 
+genders, sexual orientations, races, ethnicities, and other 
+demographic factors [ 15, 17, 20, 29, 31, 32, 36]. Two did 
+not provide a demographic overview of the study sample 
+[27, 33].
+Themes included impacts on retention and engagement 
+in HIV healthcare services, challenges in filling or obtain -
+ing ART prescriptions, and changes in viral suppression 
+rates. Table 4 provides a summary of the relevant findings 
+of each article, organized by study sample characteristics. 
+Supplementary Table 3 provides a more thorough database 
+of specific findings and statistical tests, as they relate to the 
+research questions of this systematic review.
+Retention and engagement in HIV healthcare 
+services
+Studies revealed decreased and missed HIV healthcare visits 
+[18, 22, 25, 29, 35, 37, 38], cancellation of visits by health-
+care providers [ 18, 22, 25, 35], changes in and difficulty 
+accessing medical care [ 17, 21, 34], decreased confidence 
+or ability to manage HIV care [ 30, 36], and an inability to 
+Table 3 Description and quality of evidence assessment for mixed methods studies (n = 5)
+Quality of Evidence 
+Assessmenta
+Study Reference Sample, Sample Size, & Location Q1 Q2 Q3 Q4 Q5
+Auchus et al. (2021) -Patients at a HIV primary care clinic (n = 966 records, n = 202 surveys)
+-San Francisco, CA
+Y Y Y ? ?
+Campbell et al. (2021) -Message exchanges between PositiveLink members (n = 497 patients) 
+and their care team (n = 6,668 exchanges)
+-Virginia
+Y Y Y Y Y
+Dawson & Kates (2020) - Directly funded Ryan White medical provider grantees (n = 161)
+-National
+Y Y Y ? N
+Gwadz et al. (2021) - African American/Black or Latino PWH from low-SES background 
+participating in an existing study (n = 96 surveys, n = 26 interviews)
+-New York City, NY
+Y Y Y Y Y
+Qiao et al. (2021) - Ryan White clinics (n = 27)
+-South Carolina
+Y Y Y Y Y
+aMixed Methods Assessment Tool questions:
+Q1. Is there an adequate rationale for using a mixed methods design to address the research question? Q2. Are the different components of the 
+study effectively integrated to answer the research question? Q3. Are the outputs of the integration of qualitative and quantitative components 
+adequately interpreted? Q4. Are divergences and inconsistencies between quantitative and qualitative results adequately addressed? Q5. Do the 
+different components of the study adhere to the quality criteria of each tradition of the methods involved?
+Legend: Y-yes, N-no, ?-unclear, HIV-human immunodeficiency virus, PWH-people living with HIV, SES-social economic status
+1 3
+349
+
+[W4289522482 PDF PAGE 7]
+AIDS and Behavior (2023) 27:344–357
+Reference Region1 Summary of Findings Relevant to Research Question
+HIV Service Providers
+Dawson & 
+Kates (2020)
+National Almost all (99%) Ryan White providers surveyed (n = 161) reported currently offering telehealth services, 
+compared to only 22% prior to the pandemic. Other services provided included multi-month and mail-
+order prescription services. Providers reported increases in new and uninsured patients, reduced frequency 
+of laboratory visits, and varied impacts on patient retention and ability to meet patients’ healthcare needs.
+Qiao et al. 
+(2021)
+South Over half (56%) of Ryan White clinic program reports analyzed (n = 27) reported partial interruptions in 
+HIV services offered. Clinics reported reducing hours, limiting in-person appointments, stopping home 
+visits and support groups, using telehealth, and assisting with medication pick-up. The severity of service 
+interruption did not correspond to the density of C19 cases. Evidence suggested that areas with no HIV 
+service interruptions had a higher percentage of insured individuals.
+Minority Race and Ethnicities
+Bogart et al. 
+(2021)
+West Among a sample (n = 101) of Black PWH, participants reported cancelling appointments/avoiding care 
+(18%), inability to get HIV medications (6%), and negative impacts on their HIV care or care for other 
+health conditions (22%). Participants who reported more disruptions due to the pandemic (e.g., decreased 
+work, decreased access to transportation) had lower odds of ART adherence.
+Chen et al. 
+(2021)
+Midwest Among a sample of Black MSM and transgender women enrolled in an existing study, those with HIV 
+(n = 90) interviewed earlier in the pandemic (April-June, 2020) reported no significant difference in access 
+to ART compared to those interviewed later (June-July, 2020). However, those exposed to interpersonal 
+violence, who lost insurance, and who experienced a higher financial burden to travel had greater per-
+ceived difficulty in getting ART during the pandemic.
+El-Nahal et al. 
+(2021)
+South Amongst Black PWH enrolled in an HIV clinical cohort, participants reported a significant increase in 
+visit completion during C19, compared to pre-C19.
+Ennis et al. 
+(2021)
+South Black and Hispanic patients of a community health clinic with HIV or at risk for HIV had lower odds of 
+completing telehealth visits via video than White and non-Hispanic individuals.
+Gwadz et al. 
+(2021)
+Northeast A sample of African American/Black and Latino PWH (n = 96) reported cancellations of medical (69.8%) 
+and social worker appointments (60.4%), avoidance of healthcare facilities (41.7%), and an inability to get 
+to a pharmacy (13.5%) or their medications (9.4%). Over half reported an increased desire for ART adher-
+ence during C19, and 39.5% reported increasing how often they took their ART.
+Kalichman et 
+al. (2021)
+South Amongst a sample of African American/Black MSM, those with HIV were significantly more likely than 
+those without HIV to report cancelling a doctor’s appointment or having an appointment cancelled by a 
+clinic or doctor.
+McGinnis et al. 
+(2021)
+National Percentage of PWH who had virtual visits (≥ 1 visit) in 2019 and 2020 was similar across race (Black, 
+White) and ethnicity (Hispanic, not Hispanic). While fewer VL tests were completed in 2020, the percent-
+age of PWH who had VL measured was similar across race/ethnicities. ART coverage was similar across 
+race/ethnicities for both years.
+Spinelli et al. 
+(2020)
+West In a sample of PWH who attend a safety-net clinic, younger (≤ 35 years) and Black patients had increased 
+odds of viral nonsuppression both before and during C19.
+Reported Gender/Sex
+El-Nahal et al. 
+(2021)
+South Amongst women living with HIV enrolled in an HIV clinical cohort, participants reported a significant 
+increase in visit completion during C19, compared to pre-C19.
+McGinnis et al. 
+(2021)
+National Percentage of patients who had virtual visits (≥ 1 visit) in 2019 and 2020 was similar for men and women. 
+Women were more likely to have virtual appointments (vs. in-person) and less likely than men to have VL 
+measured for both years.
+LGBTQ Community and MSM
+McKay et al. 
+(2021)
+National LGTBQ identifying men living with HIV were 55% more likely to report challenges in accessing health-
+care during the pandemic than men who reported being HIV-negative.
+Rhodes et al. 
+(2021)
+South Among a small cohort of racially and ethnically diverse gay and bisexual MSM and transgender women 
+living with HIV (n = 15), participants did not report interruptions in HIV care, but some did have chal-
+lenges ac

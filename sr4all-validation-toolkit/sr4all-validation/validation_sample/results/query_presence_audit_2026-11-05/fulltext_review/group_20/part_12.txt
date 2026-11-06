@@ -1,0 +1,180 @@
+poptotic transcriptional
+targets of NF- κB signaling [ 63]. A previous report has
+shown that the silencing of TRIM44 could decrease the c-
+IAP1, c-IAP2, and XIAP expression levels, especially in
+the presence of doxorubicin [ 36]. High expression of
+TRIM44 could enhance the resistance of HCC cells to
+doxorubicin via accelerating NF- κB activation. Increased
+NF-κB-mediated transcriptional activity was detected in
+TRIM44-transfected breast cancer cells [ 29].
+Elevated TRIM44 protein expression enhanced prolif-
+eration and migration of TGCT cells, while TRIM44
+protein knockdown repressed this biological behavior
+and promoted cell apoptosis.
+Ki67 has been reported to be a promoter of cell prolif-
+eration [ 64]. TRIM44 modulates Ki67 expression and
+promotes HEC cell proliferation. Amplified TRIM44 ex-
+pression was also discovered in melanoma tissues, and
+overexpression of TRIM44 is associated with a malig-
+nant phenotype of melanoma [ 35]. TRIM44 deubiquiti-
+nates and stabilizes TOLL-like receptor 4, which
+activates the AKT/mTOR pathway and induces cellular
+EMT. Moreover, miR-26b-5p is the upstream regulatory
+gene of TRIM44, which acts as a suppressor [ 35].
+Fig. 9 Kaplan-Meier plotter of DFS for all cancer patients
+Fig. 10 Publication bias assessment of TRIM44 expression and OS
+Xiao et al. BMC Cancer          (2020) 20:525 Page 11 of 14
+
+[W3033981438 PDF PAGE 12]
+We believe that this study is the first meta-analysis to
+provide a systematic assessment of the prognostic value
+of TRIM44 in malignancies. Further, we have discussed
+the possible role of TRIM44 in tumor progression.
+Pooled results indicated that the TRIM44 protein level
+could act as a valuable prognostic marker in patients
+with malignancies. Malignancy patients with increased
+tissue TRIM44 expression had a significantly shorter OS
+and a lower DFS rate than patients with low TRIM44
+expression. Furthermore, cancer patients with unfavor-
+able clinicopathological parameters more frequently
+showed overexpression of TRIM44 protein. The GEPIA
+analysis results showed that TRIM44 was frequently
+overexpressed in multiple malignant tumors, and cancer
+patients with increased tissue TRIM44 expression had
+unfavorable prognosis. TRIM44 was involved in the
+malignant biological behavior of tumor cells and played
+an intersection role in the gene regulatory pathways.
+However, there are several possible limitations of our
+research that may interfere with the generalizability of
+these conclusions. First, more samples need to be
+included to confirm the reliability of the conclusion. Sec-
+ond, all patients were from Asian countries, and studies
+including patients from other countries and races are re-
+quired. Third, HRs and the corresponding 95% CIs were
+extracted from the survival curves and this might be less
+accurate than those directly obtained from the studies in
+multivariate analysis. Also, heterogeneity still exists in
+some results of clinicopathological characteristics.
+Conclusion
+The present study demonstrated that the TRIM44 level
+is correlated with disease progression and prognosis in
+patients with malignancies. We found that TRIM44 is
+involved in the malignant biological behavior of tumor
+cells and it plays an intersection role in the gene regula-
+tory pathways. Therefore, TRIM44 may be an important
+molecular marker for determining the malignant proper-
+ties and an attractive therapeutic target for patients with
+malignancies.
+Abbreviations
+TRIM44: Tripartite motif-containing 44; GEPIA: Gene Expression Profiling
+Interactive Analysis; TRIM: Tripartite motif; USPs: Ubiquitin-specific proteases;
+EMT: Epithelial-to-mesenchymal transition; NOS: Newcastle-Ottawa quality
+assessment scale; ACC: Adrenocortical carcinoma; BLCA: Bladder urothelial
+carcinoma; BRCA: Breast invasive carcinoma; CESC: Cervical squamous cell
+carcinoma and endocervical adenocarcinoma; CHOL: Cholangio carcinoma;
+COAD: Colon adenocarcinoma; DLBC: Lymphoid neoplasm diffuse large B-
+cell lymphoma; ESCA: Esophageal carcinoma; GBM: Glioblastoma multiforme;
+HNSC: Head and neck squamous cell carcinoma; KICH: Kidney chromophobe;
+KIRC: Kidney renal clear cell carcinoma; KIRP: Kidney renal papillary cell
+carcinoma; LAML: Acute myeloid leukemia; LGG: Brain lower grade glioma;
+LIHC: Liver hepatocellular carcinoma; LUAD: Lung adenocarcinoma;
+LUSC: Lung squamous cell carcinoma; MESO: Mesothelioma; OV: Ovarian
+serous cystadenocarcinoma; PAA: Pancreatic adenocarcinoma;
+PCPG: Pheochromocytoma and paraganglioma; PRAD: Prostate
+adenocarcinoma; READ: Rectum adenocarcinoma; SARC: Sarcoma; SKCM: Skin
+cutaneous melanoma; STAD: Stomach adenocarcinoma; TGCT: Testicular
+germ cell tumors; THCA: Thyroid carcinoma; THYM: Thymoma; UCEC: Uterine
+corpus endometrial carcinoma; UCS: Uterine carcinosarcoma; UVM: Uveal
+melanoma; GC: Gastric cancer; BC: Breast cancer; EC: Esophageal cancer;
+EMC: Endometrial carcinoma; EOC: Epithelial ovarian cancer; ICC: Intrahepatic
+cholangiocarcinoma; NSCLC: Non-small cell lung cancer; TGTC: Testicular
+germ cell tumor; HCC: Hepatocellular carcinoma; CC: Cervical cancer;
+Fig. 11 Sensitivity analysis of TRIM44 expression and OS
+Xiao et al. BMC Cancer          (2020) 20:525 Page 12 of 14
+
+[W3033981438 PDF PAGE 13]
+OS: Overall survival; DFS: Disease-free survival; NR: Not report; M: Multivariate
+analysis; C: Curves; IHC: Immunohistochemistry; HR: Hazard ratio; OR: Odds
+ratio
+Acknowledgments
+Not applicable.
+Authors’ contributions
+GLX and QXY conceived and designed the study. GLX,HXM and ZWB
+performed the analysis, prepared the figures and tables and wrote the main
+manuscript. YZ and SBL reviewed the manuscript. All authors read and
+approved the final manuscript. GLX,QXY and ZWB contributed equally to this
+work.
+Funding
+This was an unfunded study.
+Availability of data and materials
+Meta-analysis is a secondary analysis, in which all data are fully available
+without restriction and all materials can be found in the included original
+studies.
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Author details
+1Department of General Surgery, the First People ’s Hospital of Neijiang,
+Neijiang 641000, Sichuan Province, PR China. 2Department of Hepatobiliary
+Surgery, The First Affiliated Hospital of Hainan Medical University, Haikou
+570100, Hainan Province, PR China. 3Department of medicine, Southwest
+Medical University, Luzhou 646000Sichuan ProvincePR China.
+Received: 7 January 2020 Accepted: 28 May 2020
+References
+1. Hatakeyama S. TRIM proteins and cancer. Nat Rev Cancer. 2011;11(11):
+792– 804.
+2. Leong PWF, Liew K, Lim W, Chow VTK. Differential display RT – PCR analysis
+of enterovirus-71-infected rhabdomyosarcoma cells reveals mRNA
+expression responses of multiple human genes with known and novel
+functions. 2004;295(1):147 – 59.
+3. Järvinen AK, Autio R, Kilpinen S, Saarela M, Leivo I, Grénman R, Mäkitie AA,
+Monni O. High-resolution copy number and gene expression microarray
+analyses of head and neck squamous cell carcinoma cell lines of tongue
+and larynx. Gene Chromosome Canc. 2008;47(6):500 – 9.
+4. Boutou E, Matsas R, Mamalaki A. Isolation of a mouse brain cDNA expressed
+in developing neuroblasts and mature neurons. Brain Res Mol Brain Res.
+2001;86(1– 2):153– 67.
+5. Yang B, Wang J, Wang Y, Zhou H, Wu X, Tian Z, Sun B. Novel Function of
+Trim44 Promotes an Antiviral Response by Stabilizing VISA. J Immunol. 2013;
+190(7):3613– 9.
+6. Urano T, Usui T, Takeda S, Ikeda K, Okada A, Ishida Y, Iwayanagi T, Otomo J,
+Ouchi Y, Inoue S. TRIM44 interacts with and stabilizes terf, a TRIM ubiquitin
+E3 ligase. Biochem Biophys Res Commun. 2009;383(2):268.
+7. Weissman AM. Regulating protein degradation by ubiquitination. Immunol
+Today. 18(4):1997, 189 – 198.
+8. Toby GG, Gherraby W, Coleman TR, Golemis EA. A novel RING finger
+protein, human enhancer of invasion 10, alters mitotic progression through
+regulation of Cyclin B levels. Mol Cell Biol. 2003;23(6):2109 – 22.
+9. Xiong D, Jin C, Ye X, Qiu B, Jianjun X, Zhu S, Xiang L, Wu H, Yongbing W.
+TRIM44 promotes human esophageal cancer progression via the AKT/mTOR
+pathway. Cancer Sci. 2018;109(10):3080 – 92.
+10. Xing Y, Meng Q, Chen X, Zhao Y, Liu W, Hu J, Xue F, Wang X, Cai L. TRIM44
+promotes proliferation and metastasis in non-small cell lung cancer via
+mTOR signaling pathway. Oncotarget. 2016;7(21).
+11. Zhang C, Liu LX, Dong ZR, Shi GM, Cai JB, Zhang PF, Ke AW, Yu JX, Zhou J, Fan
+J. Up-regulation of 14-3-3zeta expression in intrahepatic cholangiocarcinoma
+and its clinical implications. Tumour Biol. 2015;36(3):1781 – 9.
+12. Ong CA, Shannon NB, Ross-Innes CS, O'Donovan M, Rueda OM, Hu DE,
+Kettunen MI, Walker CE, Noorani A, Hardwick RH, Caldas C, Brindle K,
+Fitzgerald RC. Amplification of TRIM44: pairing a prognostic target with
+potential therapeutic strategy. J Natl Cancer Inst. 2014;106(5):dju050.
+13. Luo Q, Lin H, Ye X, Huang J, Lu S and Xu L. Trim44 facilitates the migration
+and invasion of human lung cancer cells via the NF- κB signaling pathway.
+Int J of Clin Oncol. 2015;20(3):508 – 17.
+14. Wells G, Shea B, O'Connell J. The Newcastle-Ottawa scale (NOS) for
+assessing the quality of nonrandomised studies in meta-analyses. Ottawa
+Health Research Institute Web site. 2014;7(1).
+15. Tang Z, Li C, Kang B, Gao G, Li C, Zhang Z. GEPIA: a web server for cancer
+and normal gene expression profiling and interactive analyses. Nucleic
+Acids Res. 2017;45(W1):W98 – W102.
+16. Dong H, Wang Q, Li N, Lv J, Ge L, Yang M, Zhang G, An Y, Wang F, Xie L, Li
+Y, Zhu W, Zhang H, Zhang M, Guo X. OSgbm: An online consensus survival
+analysis web server for Glioblastoma. Front Genet. 2019;10:1378.
+17. Zhang G, Wang Q, Yang M, Yao X, Qi X, An Y, Dong H, Zhang L, Zhu W, Li
+Y, Guo X. OSpaad: An online tool to perform survival analysis by integrating
+gene expression profiling and long-term follow-up data of 1319 pancreatic
+carcinoma patients. Mol Carcinog. 2020;59(3):304 – 10.
+18. Yan Z, Wang Q

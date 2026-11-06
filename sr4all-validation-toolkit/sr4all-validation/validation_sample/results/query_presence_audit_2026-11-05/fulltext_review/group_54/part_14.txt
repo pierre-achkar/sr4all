@@ -1,0 +1,201 @@
+eration of these points, the recent European Associ -
+ation for the Study of the Liver guideline suggested an al -
+gorithm for the use of VCTE in patients with ALT within 
+5-fold the ULN.48
+ 
+Thus, our study focused on the diagnostic performance 
+of VCTE for significant liver fibrosis in AVT-na ïve CHB pa -
+tients with ALT within 5-fold the ULN. Our results indicated 
+that VCTE showed acceptable performance for the diagno-
+sis of significant liver fibrosis, with a summary sensitivity of 
+0.78 and summary specificity of 0.72; these values were 
+similar to those reported in similar pervious meta-analyses 
+(ranges of sensitivity 0.73–0.81 and specificity 0.66–
+0.82).10-13
+ The HSROC of VCTE for diagnosis of significant 
+liver fibrosis was 0.81 (95% CI, 0.72–0.86). The HSROC is 
+beneficial in the meta-analysis of diagnostic tests by joint 
+analysis of sensitivity and specificity while accounting for 
+the potential imperfections in the sensitivity and specificity 
+of the reference test. This comprehensive approach incor -
+porates both within-study and between-study variability, al -
+lowing for robust and reliable results that simpler models 
+might not provide.
+49
+ 
+However, a HSROC value of 0.81, along with sensitivity 
+values of 0.78 and specificity values of 0.72 respectively, 
+indicates a moderate level of accuracy in diagnosing signif-
+icant liver fibrosis. While this reflects reasonably good di -
+agnostic performance similar to previous meta-analyses, 
+the relative lower accuracy noted by the reviewer could be 
+due to several factors. First, previous studies reported that 
+VCTE performed better for diagnosis of advanced liver fi -
+brosis (F3 and F4) compared to significant fibrosis,
+12,13
+ due 
+to more pronounced changes in LS associated with severe 
+fibrosis and cirrhosis.
+50
+ Second, different studies might use 
+
+[W4400900444 PDF PAGE 9]
+ Mi Na Kim, et al.
+ Vibration-controlled transient elastography for significant fibrosis
+https://doi.org/10.3350/cmh.2024.0371
+S113
+http://www.e-cmh.org
+various thresholds to define significant liver fibrosis, affect -
+ing the pooled diagnostic accuracy. Third, the relatively 
+small sized cohorts and subsequent small number of F2 
+stage patients in the included studies could impact the 
+overall accuracy.
+We also identified the optimal cut-off value of VCTE for 
+diagnosis of significant liver fibrosis, which was reported to 
+be 7.7 kPa. Based on the descriptive statistics of included 
+studies, the cut-off values for diagnosis of significant liver 
+fibrosis ranged from 5.5 to 8.0 kPa. In two previous meta-
+analyses, the reported cut-off value of VCTE were 7.2 and 
+7.25 kPa for diagnosis of significant liver fibrosis, 11,12
+ which 
+were similar to that found in our study. The high specificity 
+of the VCTE cut-off value identified in our study is advanta-
+geous to reduce the likelihood of false-positive results, 
+which in turn minimizes the risk of unnecessary AVT. How -
+ever, the relative low sensitivity of the cut-off values raises 
+concerns about the potential to miss significant liver fibro-
+sis in some patients. It is imperative in clinical practice to 
+adopt a comprehensive approach to patient evaluation for 
+significant liver fibrosis, taking into account the limitations 
+of VCTE sensitivity at this cut-off value. 
+The main strengths of our meta-analysis are comprehen -
+sive search strategy and strict inclusion criteria. However, 
+there are several limitations to be discussed. First, most of 
+the included studies selected cut-off values based on the 
+AUC instead of employing pre-specified values, which may 
+increase the diagnostic accuracy of VCTE for diagnosis of 
+significant liver fibrosis in patients with CHB. Second, suffi -
+cient sensitivity analyses and evaluation of biases beyond 
+publication bias were not conducted due to the small num -
+ber of included studies. This limitation can affect the gener -
+alizability and reliability of the findings. Future research 
+should include a larger number of studies to enable more 
+comprehensive sensitivity analyses and thorough assess -
+ment of various biases. Third, all the included studies were 
+conducted on Asian population, particularly in China, limit -
+ing the generalizability of this study. Fourth, the included 
+studies were retrospective in nature, which may have intro-
+duced bias and limits determinations of causal inference. 
+Finally, a meta-analysis of CHB patients restricted to those 
+with ALT 1- to 2-fold greater than the ULN might be more 
+helpful for deciding AVT initiation in accordance with cur -
+rent treatment guidelines. However, there were no studies 
+specifically investigating this patient group. Instead, we 
+conducted a subgroup analysis including three studies with 
+CHB patients with serum ALT levels within 2-fold the ULN. 
+The results were similar to the main findings. However, due 
+to the small number of included studies in this subgroup 
+analysis, caution is needed in interpreting these results as 
+there is a potential for bias.
+In conclusion, our study demonstrated that VCTE has an 
+acceptable diagnostic performance for significant liver fi -
+brosis in AVT-na ïve CHB patients with ALT within 5-fold the 
+ULN.
+Authors’ contributions
+Conception: Mi Na Kim, Dae Won Jun; Study design: Mi 
+Na Kim, Dae Won Jun, Ji Won Han, Miyoung Choi;
+ 
+Data 
+analysis and interpretation: Mi Na Kim, Jihyun An, Ji Won 
+Han, Eun Hwa Kim, Dae Won Jun, Miyoung Choi; Review 
+of the results: Mi Na Kim, Jihyun An, Eun Hwa Kim, Hee 
+Yeon Kim, Han Ah Lee, Jung Hwan Yu, Young-Joo Jin, 
+Young Eun Chon, Seung Up Kim, Dae Won Jun, Ji Won 
+Han, Miyoung Choi; Drafting of the manuscript: Mi Na Kim; 
+Overall study oversight and guarantor of the manuscript: 
+Dae Won Jun, Ji Won Han, Miyoung Choi. All authors re -
+viewed the paper and approved the final version.
+Acknowledgements
+This study was supported by a faculty research grant of 
+Yonsei University College of Medicine (6-2023-0097). MID 
+(Medical Illustration & Design), as part of the Medical Re -
+search Support Services at Yonsei University College of 
+Medicine, provided exceptional support in medical illustra -
+tion.
+The authors thank the Clinical Practice Guideline Com -
+mittee for Noninvasive Tests (NIT) to Assess Liver Fibrosis 
+in Chronic Liver Disease of the Korean Association for the 
+Study of the Liver (KASL) for providing the opportunity to 
+conduct this research.
+Conflicts of Interest
+The authors have no conflict of interest to declare.
+SUPPLEMENTARY MATERIAL
+Supplementary material is available at Clinical and Mo -
+lecular Hepatology website (http://www.e-cmh.org).
+
+[W4400900444 PDF PAGE 10]
+https://doi.org/10.3350/cmh.2024.0371
+S114
+Clinical and Molecular Hepatology
+Volume_30 Supplement September 2024
+http://www.e-cmh.org
+REFERENCES
+  1. Lin CL, Kao JH. Development of hepatocellular carcinoma in 
+treated and untreated patients with chronic hepatitis B virus 
+infection. Clin Mol Hepatol 2023;29:605-622.
+  2.  Wang T, Smith DA, Campbell C, Mokaya J, Freeman O, Salih H, 
+et al. Hepatitis B virus (HBV) viral load, liver and renal function 
+in adults treated with tenofovir disoproxil fumarate (TDF) vs. 
+untreated: a retrospective longitudinal UK cohort study. BMC 
+Infect Dis 2021;21:610.
+  3.  Lee SK, Kwon JH. HBeAg-positive grey-zone patients: Treat -
+ment beyond guideline recommendations? Clin Mol Hepatol 
+2023;29:825-827.
+  4. Yoo JJ, Park SY, Moon JE, Lee YR, Lee HA, Lee J, et al. Long-
+term prognosis and the need for histologic assessment of 
+chronic hepatitis B in the serological immune-tolerant phase. 
+Clin Mol Hepatol 2023;29:482-495.
+  5. Tapper EB, Lok AS. Use of liver imaging and biopsy in clinical 
+practice. N Engl J Med 2017;377:756-768.
+  6. Oh JH, Sinn DH. Is liver biopsy essential to identifying the im -
+mune tolerant phase of chronic hepatitis B? Clin Mol Hepatol 
+2023;29:367-370.
+  7 . Udompap P, Sukonrut K, Suvannarerg V, Pongpaibul A, 
+Charatcharoenwitthaya P. Prospective comparison of transient 
+elastography, point shear wave elastography, APRI and FIB-4 
+for staging liver fibrosis in chronic viral hepatitis. J Viral Hepat 
+2020;27:437-448.
+  8. Reinson T, Buchanan RM, Byrne CD. Noninvasive serum bio -
+markers for liver fibrosis in NAFLD: current and future. Clin Mol 
+Hepatol 2023;29(Suppl):S157-S170.
+  9. Yu JH, Lee HA, Kim SU. Noninvasive imaging biomarkers for 
+liver fibrosis in nonalcoholic fatty liver disease: current and fu -
+ture. Clin Mol Hepatol 2023;29(Suppl):S136-S149.
+10.  Mingkai L, Sizhe W, Xiaoying W, Ying L, Wu B. Diagnostic 
+performance of elastography on liver fibrosis in antiviral 
+treatment-naive chronic hepatitis B patients: a meta-analysis. 
+Gastroenterol Rep (Oxf) 2022;10:goac005.
+11. Qi X, An M, Wu T, Jiang D, Peng M, Wang W, et al. Transient 
+elastography for significant liver fibrosis and cirrhosis in chron -
+ic hepatitis B: A meta-analysis. Can J Gastroenterol Hepatol 
+2018;2018:3406789.
+12.  Li Y, Huang YS, Wang ZZ, Yang ZR, Sun F, Zhan SY, et al. 
+Systematic review with meta-analysis: the diagnostic accu -
+racy of transient elastography for the staging of liver fibrosis 
+in patients with chronic hepatitis B. Aliment Pharmacol Ther 
+2016;43:458-469.
+13. Chon YE, Choi EH, Song KJ, Park JY, Kim DY, Han KH, et al. 
+Performance of transient elastography for the staging of liver 
+fibrosis in patients with chronic hepatitis B: a meta-analysis. 
+PLoS One 2012;7:e44930.
+14.  Korean Association for the Study of the Liver (KASL). KASL 
+clinical practice guidelines for management of chronic hepati -
+tis B. Clin Mol Hepatol 2019;25:93-159.
+15.  Terrault NA, Lok ASF, McMahon BJ, Chang KM, Hwang JP, 
+Jonas MM, et al. Update on prevention, diagnosis, and treat -
+ment of chronic hepatitis B: AASLD 2018 hepatitis B guidance. 
+Clin Liver Dis (Hoboken) 2018;12:33-34.
+16.  European Association for the Study of the Liver. EASL 2017 
+Clinical Practice Guidelines on the management of hepatitis B 
+virus infection. J Hepatol 2017;67:370-398.
+17. Sarin SK, 

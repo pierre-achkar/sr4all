@@ -1,0 +1,163 @@
+y survival curves with
+random effects.Stat Med(2014) 33:2521–37. doi:10.1002/sim.6111
+12. Yu L, Xu J, Qiao R, Han B, Zhong H, Zhong R. Ef ﬁcacy and safety of
+anlotinib combined with PD-1/PD-L1 inhibitors as second-line and subsequent
+therapy in advanced small-cell lung cancer.Cancer Med12(5):5372–83. doi:10.1002/
+cam4.5360
+13. Xu Y, Wang X, Sun C, Gao Z, He H, Qiu S, et al. A phase II study of
+antiangiogenic therapy (Apatinib) plus chemotherapy as second-line treatment in
+advanced small cell lung cancer.Cancer Med (2022) 12(3):2979–89. doi: 10.1002/
+cam4.5217
+14. Zheng HR, Jiang AM, Gao H, Liu N, Zheng XQ, Fu X, et al. The efﬁcacy and
+safety of anlotinib combined with platinum-etoposide chemotherapy as ﬁrst-line
+treatment for extensive-stage small cell lung cancer: a Chinese multicenter real-world
+study.Front Oncol(2022) 12:894835. doi:10.3389/fonc.2022.894835
+15. Pilz LR, Manegold C, Schmid-Bindert G. Statistical considerations and
+endpoints for clinical lung cancer studie s: can progression free survival (PFS)
+substitute overall survival (OS) as a valid endpoint in clinical trials for advanced
+non-small-cell lung cancer?Transl Lung Cancer Res (2012) 1:26–35. doi: 10.3978/
+j.issn.2218-6751.2011.12.08
+16. Wu JJ, Huang JW, Hsu KH, Huang YH, Chen KC, Tseng JS, et al. Thoracic
+radiotherapy may improve the outcome of extensive stage small cell lung carcinoma
+patients treated withﬁrst-line immunotherapy plus chemotherapy.Anticancer Drugs
+(2022) 33:e842–e9. doi:10.1097/CAD.0000000000001374
+17. Lian A, Ladbury C, Amini A. Stereotactic radiosurgery in a small cell lung cancer
+patient with numerous brain metastases. Cureus (2022) 14:e28431. doi: 10.7759/
+cureus.28431
+18. Zheng HR, Jiang AM, Gao H, Liu N, Zheng XQ, Fu X, et al. The efﬁcacy and
+safety of anlotinib in extensive-stage small cell lung cancer: a multicenter real-world
+study.Cancer Manag Res(2022) 14:2273–87. doi:10.2147/CMAR.S364125
+Wang et al. 10.3389/ﬁmmu.2023.1185577
+Frontiers inImmunology frontiersin.org07
+
+END REVIEW W4377565324
+
+
+REVIEW W4378220627
+TITLE: Fecal microbiota transplantation for the treatment of irritable bowel syndrome: A systematic review and meta-analysis
+SOURCE_NOTES: [{"annotator": "mert_okur", "field": "keywords_used", "comment": "just a reference to Supplementary Table 1 (not visible in this pdf)"}]
+EXTRACTION_ERROR: None
+
+[W4378220627 PDF PAGE 1]
+WJG https://www.wjgnet.com 3185 May 28, 2023 Volume 29 Issue 20
+World Journal of 
+GastroenterologyW J G
+Submit a Manuscript: https://www.f6publishing.com World J Gastroenterol 2023 May 28; 29(20): 3185-3202
+DOI: 10.3748/wjg.v29.i20.3185 ISSN 1007-9327 (print) ISSN 2219-2840 (online)
+META-ANALYSIS
+Fecal microbiota transplantation for the treatment of irritable bowel 
+syndrome: A systematic review and meta-analysis
+Sofie Ingdam Halkjær, Bobby Lo, Frederik Cold, Alice Højer Christensen, Savanne Holster, Julia König, 
+Robert Jan Brummer, Olga C Aroniadis, Perttu Lahtinen, Tom Holvoet, Lise Lotte Gluud, Andreas Munk 
+Petersen
+Specialty type: Gastroenterology 
+and hepatology
+Provenance and peer review: 
+Unsolicited article; Externally peer 
+reviewed.
+Peer-review model: Single blind
+Peer-review report’s scientific 
+quality classification
+Grade A (Excellent): A 
+Grade B (Very good): B 
+Grade C (Good): C, C 
+Grade D (Fair): 0 
+Grade E (Poor): 0
+P-Reviewer: Bao CH, China; 
+Rahmati M, Iran; Wu LH, China
+Received: February 22, 2023 
+Peer-review started: February 22, 
+2023 
+First decision: March 18, 2023 
+Revised: April 6, 2023 
+Accepted: April 18, 2023 
+Article in press: April 18, 2023 
+Published online: May 28, 2023
+Sofie Ingdam Halkjær, Bobby Lo, Frederik Cold, Lise Lotte Gluud, Andreas Munk Petersen, Gastro 
+Unit, Medical Division, Copenhagen University Hospital Hvidovre, Hvidovre 2650, Denmark
+Sofie  Ingdam  Halkjær,  Bobby  Lo, Frederik  Cold,  Andreas  Munk Petersen,  Copenhagen  IBD 
+Center, Copenhagen University Hospital Hvidovre, Hvidovre 2650, Denmark
+Alice Højer Christensen, Department of Gastroenterology, Aleris-Hamlet Hospitals Copenhagen, 
+Søborg 2860, Denmark
+Savanne Holster, Julia König, Robert Jan Brummer, Nutrition-Gut-Brain  Interactions Research 
+Centre,  Faculty  of Medicine  and Health,  School  of Medical  Sciences,  Örebro  University, 
+Örebro 70362, Sweden
+Olga C Aroniadis, Department of Internal Medicine, Division of Gastroenterology, Renaissance 
+School of Medicine,  Stony Brook University  Hospital,  New York, NY 11794-8434,  United 
+States
+Perttu Lahtinen, Department of Internal Medicine, Päijät-Häme Central Hospital, Lahti 15850, 
+Finland
+Perttu Lahtinen, Department of Medicine, University of Helsinki, Helsinki 00014, Finland
+Tom Holvoet,  Department  of Gastroenterology,  University  Hospital  Ghent,  Ghent  9000, 
+Belgium
+Lise Lotte Gluud,  Andreas  Munk Petersen,  Department  of Clinical  Medicine,  University  of 
+Copenhagen, Copenhagen 2200, Denmark
+Andreas Munk Petersen, Department of Clinical Microbiology, Copenhagen University Hospital 
+Hvidovre, Hvidovre 2650, Denmark
+Corresponding  author:  Sofie Ingdam  Halkjær,  MSc, PhD, Senior  Researcher,  Gastro  Unit, 
+Medical Division,  Copenhagen  University  Hospital  Hvidovre,  Kettegård Alle 30, Hvidovre 
+2650, Denmark. sofie.ingdam.halkjaer@regionh.dk
+Abstract
+BACKGROUND 
+Irritable bowel syndrome (IBS) is the most prevalent gastrointestinal  disorder in 
+
+[W4378220627 PDF PAGE 2]
+Halkjær SI et al. FMT in IBS: A meta-analysis
+WJG https://www.wjgnet.com 3186 May 28, 2023 Volume 29 Issue 20
+developed  countries  and reduces  patients’  quality  of life,  hinders  their  ability  to work,  and 
+increases  health  care costs.  A growing  number  of trials  have demonstrated  an aberrant  gut 
+microbiota  composition  in IBS, also known as ‘gut dysbiosis’.  Fecal microbiota  transplantation 
+(FMT) has been suggested as a treatment for IBS.
+AIM 
+To assess the efficacy and safety of FMT for the treatment of IBS.
+METHODS 
+We searched Cochrane Central, MEDLINE, EMBASE and Web of Science up to 24 October 2022 for 
+randomised controlled trials (RCTs) investigating  the effectiveness  of FMT compared to placebo 
+(including autologous FMT) in treating IBS. The primary outcome was the number of patients with 
+improvements  of symptoms measured using a validated, global IBS symptoms score. Secondary 
+outcomes  were changes  in quality-of-life  scores,  non-serious  and serious  adverse  events.  Risk 
+ratios (RR) and corresponding  95%CI were calculated  for dichotomous  outcomes,  as were the 
+mean differences  (MD) and 95%CI for continuous outcomes. The Cochrane risk of bias tool was 
+used to assess the quality of the trials. GRADE criteria were used to assess the overall quality of 
+the evidence.
+RESULTS 
+Eight RCTs (484 participants) were included in the review. FMT resulted in no significant benefit 
+in IBS symptoms three months after treatment compared to placebo (RR 1.19, 95%CI: 0.68-2.10). 
+Adverse events were reported in 97 participants  in the FMT group and in 45 participants  in the 
+placebo group (RR 1.17, 95%CI: 0.63-2.15). One serious adverse event occurred in the FMT group 
+and two in the placebo group (RR 0.42, 95%CI: 0.07-2.60). Endoscopic FMT delivery resulted in a 
+significant improvement in symptoms, while capsules did not. FMT did not improve the quality of 
+life of IBS patients but, instead, appeared to reduce it, albeit non significantly (MD -6.30, 95%CI: -
+13.39-0.79). The overall quality of the evidence was low due to moderate-high  inconsistency,  the 
+small number of patients in the studies, and imprecision.
+CONCLUSION 
+We found insufficient  evidence  to support  or refute  the use of FMT for IBS. Larger  trials  are 
+needed.
+Key Words: Fecal microbiota transplantation; Irritable bowel syndrome; Meta-analysis; Systematic review
+©The Author(s) 2023. Published by Baishideng Publishing Group Inc. All rights reserved.
+Core Tip: We did not find evidence  to support  the use of fecal microbiota  transplantation  (FMT) for 
+irritable  bowel syndrome  (IBS) patients  outside  of clinical  trials in this systematic  review and meta-
+analysis.  We report possible  beneficial  effects when FMT is delivered  by endoscopy  (colonoscopy  or 
+gastroscopy).  FMT appears to be safe compared to placebo in patients with IBS, regardless  of route of 
+administration. Further randomised clinical trials are necessary to clarify the effect, if any, of FMT in IBS.
+Citation: Halkjær SI, Lo B, Cold F, Højer Christensen A, Holster S, König J, Brummer RJ, Aroniadis OC, Lahtinen 
+P, Holvoet  T, Gluud LL, Petersen  AM. Fecal microbiota  transplantation  for the treatment  of irritable  bowel 
+syndrome: A systematic review and meta-analysis. World J Gastroenterol 2023; 29(20): 3185-3202
+URL: https://www.wjgnet.com/1007-9327/full/v29/i20/3185.htm
+DOI: https://dx.doi.org/10.3748/wjg.v29.i20.3185
+INTRODUCTION
+Irritable bowel syndrome (IBS) is the most prevalent gastrointestinal  disorder in developed countries, 
+affecting around 11% of the adult population[1]. The condition reduces patients’ quality of life, hinders 
+their ability  to work, and increases  health care costs[2,3]. A diagnosis  of IBS is based on symptoms, 
+assessed using the Rome criteria, that include abdominal pain and altered bowel habits combined with 
+the absence of organic or structural causes[4]. The criteria have changed over time and the most recent 
+are the Rome  IV criteria [5]. IBS can be sub-categorised  as diarrhoea-predominant,  constipation-
+predominant, mixed, or unclassified[5]. In most patients, IBS is chronic, with symptoms that fluctuate 
+
+[W4378220627 PDF PAGE 3]
+Halkjær SI et al. FMT in IBS: A meta-analysis
+WJG https://www.wjgnet.com 3187 May 28, 2023 Volume 29 Issue 20
+over time.
+The pathogenic  mechanisms  underlying  IBS remain more or less unknown.  Genetics [6,7], dietary 
+habits [8], post-infectious  conditions [9] and psychological  mechanisms [10] are all suspected  to be 
+involved. In recent years an increasing number of trials have demonstr

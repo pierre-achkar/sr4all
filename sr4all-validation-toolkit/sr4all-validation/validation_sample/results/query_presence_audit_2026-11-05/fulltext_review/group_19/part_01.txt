@@ -1,0 +1,179 @@
+by a health care profession-
+al; leading to hospitalization or increased level of care, or
+prompting evaluation) [14]. Secondary outcomes were minor
+vascular complications (groin hematomas < BARC 2), inad-
+vertent artery puncture, groin pain, and puncture time.
+Predefined subgroup analysis was conducted separately for
+patients undergoing pulmonary vein isolation (PVI) proce-
+dure. The review protocol was registered in the PROSPERO
+database under the registration number of CRD42019139143.
+3 Results
+Nine studies involving 8232 patients met our inclusion
+criteria, published between 2013 and 2018. One study was
+randomized and eight were observational, non-randomized
+(Table1)[ 12, 15–22]. The results of the literature search are
+summarized in Fig. 2.
+Compared with the standard technique, the use of US for
+femoral vein puncture significantly reduced the rate of major
+vascular complications from 2.01 to 0.71%. Calculated from
+this, 71% of relative risk reduction (RR = 0.39, 95% CI, 0.17 –
+0.51, p <0 . 0 0 0 1 , F i g .3), the number needed to treat (NNT)
+was approximately 77; that is, the US-guided puncture has to
+be applied in 77 patients to avoid 1 major adverse event.
+Risk of minor vascular complications with US guidance
+showed a reduction from 1.49 to 0.45% (RR = 0.30, 95%
+CI, 0.14–0.62, p = 0.001, Fig. 4). The risk of inadvertent arte-
+rial puncture was reduced from 19.7 to 5.93% (RR = 0.31,
+95% CI, 0.17 –0.58, p = 0.0003) compared with the standard
+group (Fig. 4). The time required for the puncture was shorter
+(mean difference = − 92.1 s, 95% CI, − 142.12 – − 42.07 s,
+p =0 . 0 0 0 3 , F i g .4) and groin pain was less frequent (22.22
+vs. 13.04%, RR = 0.41, 95% CI, 0.41 –0.79, p = 0.0008) in
+the US group (Fig. 4).
+Subgroup analysis of patients undergoing PVI also showed
+significant reduction of major vascular complications (2.07
+vs. 0.87%, RR = 0.27, 95% CI, 0.12 –0.64, p =0 . 0 0 3 ,F i g .5)
+and inadvertent artery puncture (19.28 vs. 6.52%, RR = 0.29,
+95% CI, 0.17 –0.50, p = 0.00001, Fig. 4). Among patients un-
+dergoing catheter ablation for AF, the NNT was 83. The eval-
+uation of secondary outcomes in the subgroup analysis could
+not be performed due to the lack of data.
+Based on the results of Chi 2 and I2 tests, the sample proved
+to be homogenous and consistent, except for data regarding
+inadvertent arterial puncture, where moderate inconsistency
+could be detected. Funnel plot analyses showed no sign of
+possible publication bias.
+4 Discussion
+Our meta-analysis demonstrated that the use of US guidance
+for vascular access among patients undergoing EP procedures
+reduces the relative risk of major vascular complications by
+71% compared with the standard, anatomical landmark-
+guided technique. In addition, US-guided femoral vein punc-
+ture significantly reduced puncture time and improved out-
+comes regarding minor vascular complications, inadvertent
+arterial puncture, and postprocedural groin pain. In the sub-
+group analysis of patients undergoing PVI, the rates of major
+vascular complications and inadvertent artery puncture were
+significantly lower in the US-guided group.
+Procedures involving puncture of major vessels are in-
+creasingly used in various fields of medicine. This is a tenden-
+cy that besides opening possible new treatment options, it also
+exposes patients to a certain risk for complications. Data from
+the American Society of Anesthesiologists Closed Claims
+Project database indicates that the majority of central venous
+catheter placement-associated complications are vascular in-
+juries [23]. In a previous review, the overall complication rate
+Fig. 2 Flowchart of study
+selection
+410 J Interv Card Electrophysiol (2020) 59:407–414
+
+[W2994745611 PDF PAGE 5]
+reached 15% for central venous catheterization [24]. This high
+frequency is partially related to the increasing rate of interven-
+tions requiring anticoagulant and antiplatelet medications, as
+well as to the limitations of the conventional palpation-based
+puncture technique.
+The anatomical orientation points-guided puncture is con-
+sidered to be the standard during femoral venous access, al-
+though examining bony landmarks and femoral arterial pulsa-
+tion may not be sufficient for the localization of the femoral
+vein in a considerable proportion of cases. An analysis of the
+inguinal region computed tomographic scans showed that the
+femoral artery overlaps the femoral vein in two-thirds of the
+patients [25]. These individual variations may lead to unsuc-
+cessful puncture or various complications if direct visualiza-
+tion is not performed.
+The US-guided approach allows direct visualization of fem-
+oral vessels with a higher rate of successful venous puncture.
+An analysis of four studies comparing the US-guided to the
+anatomical landmarks-guided technique for femoral vein can-
+nulation showed that the use of US is associated with improved
+success rate, however, in these reports there were no significant
+differences in the complication rates, puncture time, arterial
+punctures, or hematomas [ 10]. Guidelines for the Prevention
+of Intravascular Catheter-Related Infections— developed by a
+task force comprising members from the Society of Critical
+Care Medicine, the Society for Healthcare Epidemiology of
+America, and the American Society of Critical Care
+Anesthesiologists— recommended the use of US-guidance dur-
+ing central venous catheter insertions [26].
+Electrophysiology procedures may represent a field where
+the safety aspects of the central venous access site are of par-
+amount interest. The most common major complications of
+EP procedures are related to vascular access. These may re-
+quire intervention and result in prolonged hospitalization [ 1,
+27, 28]. The prevalence of these complications varies depend-
+ing on the type of procedure. Vascular access-related compli-
+cations have been described in 0.3 –0.4% of supraventricular
+tachycardia ablations [1, 29], and 0.4–4.7% of premature ven-
+tricular complex/ventricular tachycardia ablations [ 1, 30, 31].
+Patients undergoing AF ablation procedures experience a vas-
+cular access complication rate of 1–13% depending on the
+definition [4, 5, 32, 33].
+Catheter ablation for AF not only has the most commonly
+performed ablation procedure but also has specific consider-
+ations regarding the vascular access complications [ 27, 34].
+Besides the large-bore catheters and multiple access sites
+used for these procedures, in order to prevent ischemic com-
+plications, the recommended treatment comprises uninterrupt-
+ed oral anticoagulant administration [35]. Oral and procedural
+anticoagulation may augment the importance and interfere
+Fig. 3 Major vascular complications. US ultrasound
+Fig. 4 Summary of outcomes of secondary endpoints. AF atrial fibrillation. *Mean difference (95% CI)
+411J Interv Card Electrophysiol (2020) 59:407–414
+
+[W2994745611 PDF PAGE 6]
+with the treatment of injuries suffered during the access and
+result in more frequent bleeding complications [ 27].
+Improving the security of the catheter ablation remains a
+primary goal in electrophysiology. With a potential for easy
+adaptation in the EP laboratory environment, vascular US
+offers a quick and inexpensive technique with a steep learning
+curve. It does not increase the duration of the procedure,
+moreover— as our results showed — puncture time and thus
+the skin-to-skin measured procedure time can be reduced.
+For a detailed description of technical details, we refer to the
+review article of Wiles et al. describing the technique of US-
+guided femoral vein puncture with special regards to its appli-
+cation in the EP laboratory [7, 36]. Despite the obvious ben-
+efits, the routine use of US for femoral vein access has not
+been widely adopted among the electrophysiologists.
+In light of the fact that the number of EP procedures is
+increasing, prevention of vascular access-related complica-
+tions is desirable not only to improve safety outcomes but also
+to reduce additional costs of the management of complications
+[37]. We found that the risk reduction achievable with the US-
+assisted approach is reasonably high and the NNT to prevent
+major vascular complications is relatively low, supporting its
+routine use during femoral vein puncture for vascular access
+in EP procedures.
+Our findings demonstrating benefits of the US guidance for
+EP procedures are in line with the results of a previous meta-
+analysis. Sobolev et al. performed an analysis of 4 trials in-
+cluding a total of 4605 patients comparing US-guided femoral
+vein cannulation in EP procedures to the anatomical
+landmark-based technique. The US-guided femoral vein
+puncture was associated with a 60% reduction of major vas-
+cular bleeding and a 66% reduction of minor vascular com-
+plications [11]. Since the publication of that analysis, several
+observational studies were published that were allowed to
+characterize the effect estimates with higher statistical power.
+Moreover, we could include data from the only randomized,
+controlled trial (RCT) in this field. In the multicenter, prospec-
+tive ultrasound-guided femoral vein accessibility, safety and
+time (ULTRA-FAST) trial, 320 patients undergoing catheter
+ablation for AF were randomized to US-guided vs. conven-
+tional femoral vein puncture [ 12]. The use of US was associ-
+ated with preferable intraprocedural outcomes; however, there
+was no difference in the major complication rates presumably
+due to the lower-than-expected complication rate in the con-
+ventional arm.
+The present meta-analysis has some limitations to be ac-
+knowledged. Firstly, only one randomized study was included
+and the majority of data originate from observational studies.
+This may introduce potential biases and/or effects of unmea-
+sured confounders. In general, observational studies are more
+precise but supposed to be more subject to bias. Importantly,
+we found very similar outcomes in the RCT compared with
+the observational studies. The lack of heterogeneity in this
+aspect supports the

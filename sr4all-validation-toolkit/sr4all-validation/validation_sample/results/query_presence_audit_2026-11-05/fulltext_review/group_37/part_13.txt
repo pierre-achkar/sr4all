@@ -1,0 +1,263 @@
+stance use in outpatient behavioral health settings
+* Screener abbreviations
+AUDIT alcohol use disorders identification test; CAGE cut down, annoyed, guilty, eye opener; ASSIST alcohol, smoking and substance involvement screening test; SMAST short michigan alcoholism screening test
+Author, Year Setting description 
+(number of 
+settings, pediatric/
+adult)
+Screener Substances 
+Screened
+Frequency of 
+Screening
+Administration Method of 
+Screening
+% Screened N (screened)
+Denering and Spear, 
+2012
+University coun-
+seling center (1, 
+adult)
+AUDIT-C* (pre-
+screen) ASSIST* 
+(screen)
+AUDIT-C*: Alcohol 
+ASSIST*: Tobacco, 
+alcohol, cannabis, 
+cocaine, ampheta-
+mine, inhalants, 
+sedatives, hallucino-
+gens, opioids, other 
+drugs
+Intake AUDIT-C*: self 
+ASSIST*: clini-
+cian
+Not Reported 100.0% AUDIT-C*: 6,772 
+ASSIST*: 1534
+Gabel, Radigan, 
+Wang and Sederer, 
+2011
+Outpatient and 
+day treatment (48, 
+pediatric)
+CRAFFT Single 
+cigarette use ques-
+tion Single drug use 
+question
+Cigarettes, alcohol, 
+"street " drugs
+CRAFFT: intake 
+and 1 year Single 
+cigarette and drug 
+question: quarterly
+Self Not Reported Smoking: 85.0% 
+Alcohol/drug: 84.0%
+2095
+Karno, Granholmm 
+and Lin, 2000
+Outpatient Veterans 
+Affairs Mental Health 
+Clinic (1, adult)
+AUDIT* CAGE* Alcohol, "drug use" Intake Self Paper 74.9% 197
+King, Beehler, Wade, 
+Buchholz, Funder-
+burk, Lilienthal and 
+Vair, 2018
+Veterans Affairs 
+outpatient and 
+integrated care (Not 
+Reported)
+AUDIT-C* CAGE* Alcohol Intake Not Reported Not Reported AUDIT-C: 80.4% 
+CAGE: 00.0%
+22,956 at least 1 
+screen
+Ramo, Bahorik, 
+Delucchi, Campbell 
+and Satre, 2018
+Outpatient and par-
+tial hospitalization (2, 
+adult)
+ASSIST* Tobacco, alcohol, 
+marijuana, prescrip-
+tion sedative/ hyp-
+notic pills, cocaine, 
+amphetamines, opi-
+oids, hallucinogens, 
+ecstasy/ MDMA
+Intake Self Computer 48.0% 405
+Satre, Wolfe, Eisen-
+drath and Weisner, 
+2008
+Outpatient (1, adult) Electronic Health 
+Inventory If positive: 
+SMAST*
+Alcohol, cannabis, 
+cocaine, ampheta-
+mines, halluci-
+nogens, ecstasy, 
+sedatives opioids, 
+and tobacco
+Intake Self Computer 75.0% 422
+Silverman, O’Neill, 
+Cleary, Barwick and 
+Joseph, 1992
+Outpatient (1, adult) SMAST* Alcohol Intake Self Not Reported 88.0% 88
+Stanhope, Manuel, 
+Jessell and Halliday, 
+2018
+Community health 
+organizations (27, 
+adult)
+CRAFFT UNCOPE Alcohol, marijuana, 
+“anything else to get 
+high”
+Not Reported Not Reported Not Reported 93.5% 2873
+
+[W4360976162 PDF PAGE 5]
+Page 5 of 9
+Woodward et al. Addiction Science & Clinical Practice           (2023) 18:18 
+ 
+(AUDIT-C) [38, 42, 45], the CRAFFT [36, 43, 46], the 
+Alcohol, Smoking, and Substance Involvement Screening 
+Test (ASSIST) [39, 42, 47], and the Short Michigan Alco -
+hol Screening Test (SMAST) [40, 41, 48] (all N = 2).
+Frequency and methods of screening
+The majority of studies reported screening only at intake 
+(N = 6) [37–42]. One clinic implemented different 
+screening instruments at intake, quarterly, and one year 
+[36], and Stanhope et  al. did not report the frequency 
+of their screening across community mental health 
+organizations. Of the eight studies, five relied solely on 
+self-administration [36, 37, 39–41], one on both self- 
+(prescreen) and clinician- (screen) administration [42], 
+and two did not report how the screening was adminis -
+tered [38, 43]. Additionally, although the majority (N = 5) 
+of authors did not report how information was collected 
+[36, 38, 41–43], two studies utilized an electronic screen 
+[39, 40] and one study relied on paper and pencil [37]. 
+Finally, none of the studies reported the language of their 
+screening instrument(s) [37].
+Screening rate
+One study reported screening all patients [42]. The 
+screening rates of the remaining studies ranged from 
+48 to 93.5% of patients. Screening in adult-only clinics 
+ranged from 48 to 100% of patients [37–40, 42] while 
+screening from clinics with adult and pediatric patients 
+ranged from 84 to 93.5% [36, 43]. The screening rate 
+using an electronic screen ranged from 48 to 75% of 
+patients [39, 40], and the rate for paper/pencil was 74.9%.
+Demographics
+Gender
+Five studies reported on the gender of screened patients 
+[36, 37, 39, 40, 43], and one study reported on gen -
+der across the total study population (patients who did 
+and did not complete the screening) [38]. Of those that 
+reported on the gender of screened patients, the range 
+was 30 to 86% male. In two studies that did not report the 
+gender across the total study population, the studies did 
+report that there were no significant gender differences 
+between patients who did and did not complete screen -
+ing [40, 43].
+Age
+Four studies reported the mean age of screened patients, 
+with a range of 16.6 to 42.9 years [37, 39, 40, 43]. Three 
+studies reported mean age across the total study popula -
+tion, with a range of 36.1 to 53.5 years [38–40]. One addi-
+tional study that did not report mean age across the total 
+study population reported no significant difference in 
+mean age between screened patients and the total study 
+population [43].
+Race
+The three studies that reported on the race of screened 
+patients included predominantly white patients, with 
+these participants ranging from 52.8 to 72% of the sam -
+ple [39, 40, 43]. The next most represented race was 
+Asian, ranging from 9 to 10.5% of the sample. No stud -
+ies reported race across the total study population; how -
+ever, two studies reported no significant racial differences 
+between patients who did and did not complete screen -
+ing [40, 43].
+Ethnicity
+The two studies that reported on the ethnicity of 
+screened patients included predominantly non-Hispanic 
+patients, with these patients ranging from 73 to 93% of 
+the sample [40, 43]. The one study that reported ethnic -
+ity across the total study population (patients who did 
+and did not complete screening) was also largely non-
+Hispanic (94.2%) [38]. Two additional studies reported 
+no significant differences in ethnicity between patients 
+who did and did not complete screening; however, they 
+did not report ethnicity type for the study population [40, 
+43].
+Psychiatric comorbidities
+Though two studies provided descriptive information 
+on psychopathology, neither compared psychopathology 
+between those who were and were not screened in the 
+clinic [37, 38]. Karno et  al. reported rates of depressive 
+disorder (48%), anxiety disorder (15%), bipolar disorder 
+(13%), and schizophrenia/ schizoaffective disorder (11%) 
+in screened patients. King and colleagues found that 
+15.1% of all clinic patients had a trauma/ stressor-related 
+disorder (including post-traumatic stress disorder), and 
+12.9% of all clinic patients had a mood disorder.
+Conclusions
+Our aim in this review was to determine the prevalence 
+and the characteristics of screening practices for sub -
+stance use in outpatient behavioral health clinics. Though 
+we identified only 8 studies that met review criteria, half 
+of these studies reported screening more than 75% of 
+their patient population [36, 41–43].
+The screening rates in the identified studies are com -
+parable to those reported in a recent examination of 
+substance use screening in primary care settings, which 
+found that 71.8% of eligible patients were screened after 
+implementation efforts [49]. However, whether exist -
+ing research on screening for substance use repre -
+sents standard practice in all behavioral health clinics 
+
+[W4360976162 PDF PAGE 6]
+Page 6 of 9Woodward et al. Addiction Science & Clinical Practice           (2023) 18:18 
+remains unclear given limited reporting on this practice. 
+While the 2020 National Mental Health Services Sur -
+vey (N-MHSS) reported that approximately 54% of the 
+4,941 surveyed outpatient mental health treatment facil -
+itates offer screening for tobacco use, it did not specify 
+whether this screening is systematic and routine and did 
+not report on screening for non-nicotine substances (50). 
+Furthermore, the intent to screen for substance use does 
+not always translate into clinical practice. A large survey 
+found that although 93.1% and 78.9% of mental health 
+clinic directors reported having screening guidelines for 
+alcohol and illicit substance use, respectively, only 66.6% 
+and 57.8% of clinic staff reported conducting said screen -
+ing [51].
+Several patient- and clinic-level variables influence 
+the successful implementation of systematic screening. 
+Unfortunately, few studies in the current review reported 
+patient demographic information. We were therefore 
+unable to identify specific patient demographics associ -
+ated with a high prevalence of screening for substance 
+use or demographic differences between patients who 
+were and were not screened to help identify patient 
+groups who did not complete screening. This is notable 
+since research from the primary care setting has found 
+differences in screening for substance use based on 
+demographics. For example, Black and Hispanic patients 
+and adults over the age of 65 may require more assistance 
+to complete electronic screening for substance use due to 
+problems with comprehension or technical issues [52]. 
+In light of increasing overdose deaths among Black and 
+Hispanic youth [53], research examining the barriers to 
+screening for substance use in particular demographic 
+groups is needed to ensure equitable care.
+Clinic factors that influence the successful implementa-
+tion of screening center around the method of screening 
+administration. For most studies in our review, screen -
+ing tools were administered as patient self-report [36, 
+37, 39–41]. This is consistent with recent research in 
+primary care and emergency department settings show -
+ing increased patient comfort with self-report screening 
+compared to clinician-administered screening [54–56], 
+particularly amongst individuals who belong to groups 
+who are more stigmatized for substance use [52, 57, 58]. 
+Another notable finding of our review was the omission 
+of data regarding screening tools 

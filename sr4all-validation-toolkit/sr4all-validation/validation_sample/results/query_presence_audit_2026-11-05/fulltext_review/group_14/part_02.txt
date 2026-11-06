@@ -1,0 +1,176 @@
+l was re stricted
+to fewer but more coherent categories. Similarly, diagnose s
+were re-categorized to balance out their proportions: (1) anx iety
+disorders, and (2) depression and other (erectile dysfuncti on,
+relationship problems, and gambling disorder). Meanwhile, t hose
+numbers among the raw scores that were unclear, i.e., when
+information about a nominal variable was missing, published
+and unpublished manuscripts were obtained and checked so
+that the data matrix was coded in accordance with the clinical
+trials. However, it should be noted that the coding schedule s for
+some of the original datasets were impossible to retrieve, whe reby
+a few cells remained blank. For an overview of the patients’
+sociodemographic variables and the amount of missing data,
+seeTable 1.
+Statistical Analysis
+Given the lack of consensus on how to deﬁne and determine
+non-response in treatment (
+Taylor et al., 2012 ), the RCI was
+chosen based on its widespread use and recognition in the
+scientiﬁc literature for assessing reliable change (
+Jacobson and
+Truax, 1991 ). This was calculated by taking the change score on
+a clinical trial’s primary outcome measure for a speciﬁc patien t
+and dividing it by the standard error of diﬀerence ( Speer, 1992 ),
+i.e., SEdiﬀ = SD1
+√ 2√ 1-r, where SD1 corresponds to the standard
+deviation of a condition at pre-treatment, and r is the reliability
+estimate ( Evans et al., 1998 ). This calculation also takes into
+account possible regression to the mean eﬀects and is often
+referred to as the Edwards and Nunally-method (
+Speer, 1992 ).
+According to Bauer et al. (2004) , diﬀerent ways of calculating the
+RCI yields similar estimates, but here Speer (1992) was chosen
+given that it was used in the study of deterioration by Rozental
+et al. (2017) . The RCI was then worked out separately for the
+primary outcome measure for every clinical trial and using thei r
+respective test-retest reliability rather than internal co nsistency
+(see Table 2), in line with the recommendations by Edwards
+et al. (1978) . Essentially, the RCI sets the boundaries for which
+a change score can be deemed reliable, meaning that it would
+be unlikely (p = 0.05), without a true change actually occurring.
+For example, considering the ﬁrst clinical trial in the curren t
+study, IMÅ, a change score of ± 10.13 is considered reliable on
+the Beck Anxiety Inventory (
+Beck et al., 1988 ). A change score
+that does not exceed ± 10.13 would then be deemed as non-
+response. Hence, using the RCI in this way, the change scores f or
+the primary outcome measure in each clinical trial and for each
+patient was used to classify non-responders, which were dummy
+coded into a nominal variable (1= yes, 0 = no). However, it
+should be noted that a RCI is usually calculated on the basis of a
+standard deviation unit of change equal toz = 1.96.
+Wise (2004)
+argued that this is a relatively conservative estimate, at le ast for
+investigating improvement and deterioration, proposing reli able
+change indexes that represents diﬀerent conﬁdence levels, i. e.,
+z = 1.28 for a moderate change and z = 0.84 for a minor
+change. Although aﬀecting the probability of rejecting the nu ll
+hypothesis, p = 0.10 and 0.20, this could be useful for detecting
+less frequently occurring events, such as deterioration, or to make
+the boundaries of the RCI narrower, as in non-response (i.e.,
+a smaller change score would be required to be classiﬁed as a
+responder, consequently aﬀecting the non-response rate). Again,
+using the clinical trial IMÅ as an example, a change score of ±
+6.62 is regarded as a reliable change for z = 1.28, and 4.94 for
+z = 0.84. In the current study, the non-response rates for each
+clinical trial and the total estimates are presented for each of the
+reliable change indexes in order to facilitate a comparison, w hile
+only z = 1.96 is applied for analyzing possible predictors as it
+should increase power. All of the non-response rates are based
+on data for patients receiving treatment and not some form of
+control condition.
+To investigate possible predictors, binomial logistic regres sion
+was applied with the dichotomized coding of non-response (1
+=yes, 0 = no) used as the dependent variable. All predictors
+were entered into the model in one single block as independent
+variables, as no prior evidence exist with regard to building
+the model. However, in terms of choosing what variables to
+enter, theoretical assumptions or empirical ﬁndings were used
+as guidance to avoid the risk of ﬁnding spurious associations
+and restrict the type-I-error rate (
+Stewart and Tierney, 2002 ).
+Hence, the same variables used for investigating the predicto rs
+of deterioration were implemented ( Rozental et al., 2017 ): (1)
+Frontiers in Psychology | www.frontiersin.org 4 March 2019 | Volume 10 | Article 589
+
+[W2928191556 PDF PAGE 5]
+Rozental et al. Non-response in Internet-Based CBT
+TABLE 1 |Sociodemographics variables of patients included in the in dividual patient data meta-analysis.
+Variable Treatment (n = 2,118) Control ( n = 748) Full sample ( n = 2,866) Missing data
+Gender: n (% female) 1299 (62.1) 501 (67) 1800 (63.4) a 27 (0.9) b
+Age (years): M ( SD) 38 (12.5) 40.6 (13.2) 38.7 (12.8) 29 (1)
+Civil status: n (%) 744 (27)
+Single 497 (33.5) 171 (28.1) 668 (31.9)
+Relationship 986 (66.5) 438 (71.9) 1424 (68.1)
+Children: n (% yes) 554 (53.4) 226 (59) 780 (55) 1,446 (50.5)
+Cohabitant: n (% yes) 306 (66.5) 48 (69.6) 354 (12.4) 2,337 (81.5)
+Highest educational level: n (%) 1,099 (38.3)
+Elementary school 53 (4.5) 33 (5.7) 86 (4.9)
+High school/college 361 (30.5) 169 (28.9) 530 (30)
+University 757 (64) 380 (65.1) 1137 (64.3)
+Postgraduate 12 (1) 2 (0.3) 14 (0.8)
+Employment: n (%) 1,968 (68.7)
+Unemployed 74 (10.8) 19 (9) 93 (10.4)
+Student 99 (14.4) 39 (18.6) 138 (15.4)
+Employed 469 (68.2) 138 (65.7) 607 (67.6)
+Other 13 (1.9) 11 (5.2) 24 (2.7)
+Retired 33 (4.8) 3 (1.4) 36 (4)
+Primary diagnosis: n (%) 88 (3.1)
+Anxiety disorders 1,148 (55.8) 533 (74.1) 1681 (60.5)
+Generalized anxiety disorder 141 (6.8) 138 (19.2) 279 (10)
+Social anxiety disorder 708 (34.4) 257 (35.7) 965 (34.7)
+Anxiety disorder NOS 11 (0.5) 20 (2.8) 31 (1.1)
+Panic disorder (with/without agoraphobia) 86 (4.2) 30 (4.2) 116 (4.2)
+Posttraumatic stress disorder 32 (1.6) 32 (4.5) 64 (2.3)
+Anxiety disorder (with/without depression) 117 (5.7) 56 (7. 8) 173 (6.2)
+Speciﬁc phobia 53 (2.6) 0 (0) 53 (1.9)
+Depression (with/without dysthymia) 475 (23.1) 69 (9.6) 544 (19.6)
+Other 436 (21.2) 117 (16.3) 553 (19.9)
+Erectile dysfunction 39 (1.9) 39 (5.4) 78 (2.8)
+Relationship problems 80 (3.9) 78 (10.8) 158 (5.7)
+Gambling disorder 317 (15.4) 0 (0) 317 (11.4)
+Sick leave: n (% yes) 42 (5.5) 25 (7.6) 67 (6.1) 1,768 (61.7)
+Previous psychological treatment: n (% yes) 575 (54.1) 214 (56.5) 789 (54.7) 1,424 (49.7)
+Previous or ongoing psychotropic medication: n (% yes) 366 (31.7) 156 (33.1) 522 (32.1) 1,239 (43.2)
+Satisfaction with treatment: M ( SD)c 2.9 (1) n.a. 2.9 (1) 1,867 (88.2) e
+Treatment credibility: M ( SD)d 7 (2.4) n.a. 7 (2.4) 1,535 (72.5) e
+Modules completed: M ( SD)f 6.5 (1.3) n.a. 6.5 (1.3) 1,194 (56.4) e
+Time per week: M ( SD)g 3.6 (3.1) n.a. 3.6 (3.1) 1,722 (81.3) e
+n.a., not applicable; NOS, not otherwise speciﬁed.
+aValid percent, i.e., percent of available data, excluding missing data.
+bPercent, i.e., percent of complete dataset, including missing data.
+cSelf-rated 0–5.
+dSelf-rated 0–10.
+eBased on patients receiving treatment.
+f Weighted mean and standard deviation.
+gNumber of hours per week.
+symptom severity at baseline, (2) civil status, (3) age, (4) s ick
+leave, (5) previous psychological treatment, (6) previous or
+ongoing psychotropic medication, (7) educational level, and
+(8) diagnosis. Twopost-hoc and explorative variables were
+also entered: (9) gender, and (10) module completion. Both
+symptom severity at baseline and module completion, a proxy
+for homework adherence, have been put forward as predictors
+for non-response (
+Taylor et al., 2012 ). Meanwhile, albeit not
+speciﬁcally linked to non-response, male gender, lower age, a nd
+lower educational level have previously been shown to predict
+dropout in ICBT (
+Christensen et al., 2009; Waller and Gilbody,
+2009; Karyotaki et al., 2015 ).
+Frontiers in Psychology | www.frontiersin.org 5 March 2019 | Volume 10 | Article 589
+
+[W2928191556 PDF PAGE 6]
+Rozental et al. Non-response in Internet-Based CBT
+TABLE 2 |Test-retest reliabilities used for calculating the RCI.
+Primary outcome Test-retest reliability Time period Population References
+Beck Anxiety Inventory r = 0.81 2 weeks Normal Saemundsson et al., 2011
+Liebowitz Social Anxiety Scale—Self-Report r = 0.93 8 weeks Normal Heeren et al., 2012
+Panic Disorder Severity Scale—Self-Report ρ = 0.94 2 days Patient Lee et al., 2009
+Patient Health Questionnaire − 9 Items r = 0.94 2 weeks Patient Zuithoff et al., 2010
+International Index of Erectile Functioning − 5 Items a r = 0.84 4 weeks Patient Rosen et al., 1997
+Beck Depression Inventory r = 0.77 b Normal Beck and Steer, 1996
+Impact of Event Scale—Revised r = 0.89-0.94c M = 0.92 6 months Patient Sundin and Horowitz, 2002
+Generalized Anxiety Disorder − 7 Items ICC = 0.83 1 week Patient Spitzer et al., 2006
+Penn State Worry Questionnaire r = 0.84 3 weeks Normal Pallesen et al., 2006
+Body Sensations Questionnaire r = 0.89 3 months Patient Arrindell, 1993
+Dyadic Adjustment Scale a r = 0.87 2 weeks Patient Carey et al., 1993
+Snake Anxiety Questionnaire r = 0.78 1 month Normal Klorman et al., 1974
+Montgomery-Åsberg Depression Rating Scale—Self-Report IC C = 0.78 1 week Patient Fantino and Moore, 2009
+Spider Phobia Questionnaire r = 0.94 3 weeks Normal Muris and Merckelbach, 1996
+The NORC Diagnostic Screen for Gambling Problems r = 0.98–0.99d M = 0.98 1 week Patient Gerstein et al., 1999
+RCI, reliable change index; NORC, a National Organization for Res earch at the University of Chicago.
+aReversed scales, higher scores indicate less problems.
+bInformation regarding the time period was unavailable.
+cSeparate estim

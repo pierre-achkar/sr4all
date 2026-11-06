@@ -1,0 +1,171 @@
+
+
+REVIEW W2001221672
+TITLE: Platelet-rich plasma in orthopedic therapy: a comparative systematic review of clinical and experimental data in equine and human musculoskeletal lesions
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W2001221672 PDF PAGE 1]
+RESEARCH ARTICLE Open Access
+Platelet-rich plasma in orthopedic therapy: a
+comparative systematic review of clinical and
+experimental data in equine and human
+musculoskeletal lesions
+Patrícia M Brossi, Juliana J Moreira, Thaís SL Machado and Raquel YA Baccarin *
+Abstract
+Background: This systematic review aimed to present and critically appraise the available information on the
+efficacy of platelet rich plasma (PRP) in equine and human orthopedic therapeutics and to verify the influence of
+study design and methodology on the assumption of PRP ’s efficacy. We searched Medline, PubMed, Embase,
+Bireme and Google Scholar without restrictions until July 2013. Randomized trials, human cohort clinical studies or
+case series with a control group on the use of PRP in tendons, ligaments or articular lesions were included. Equine
+clinical studies on the same topics were included independently of their design. Experimental studies relevant to
+the clarification of PRP ’s effects and mechanisms of action in tissues of interest, conducted in any animal species,
+were selected.
+Results: This review included 123 studies. PRP ’s beneficial effects were observed in 46.7% of the clinical studies,
+while the absence of positive effects was observed in 43.3%. Among experimental studies, 73% yielded positive
+results, and 7.9% yielded negative results. The most frequent flaws in the clinical trials ’designs were the lack of a
+true placebo group, poor product characterization, insufficient blinding, small sampling, short follow-up periods,
+and adoption of poor outcome measures. The methods employed for PRP preparation and administration and the
+selected outcome measures varied greatly. Poor study design was a common feature of equine clinical trials. From
+studies in which PRP had beneficial effects, 67.8% had an overall high risk of bias. From the studies in which PRP
+failed to exhibit beneficial effects, 67.8% had an overall low risk of bias.
+Conclusions: Most experimental studies revealed positive effects of PRP. Although the majority of equine clinical
+studies yielded positive results, the human clinical trials ’results failed to corroborate these findings. In both species,
+beneficial results were more frequently observed in studies with a high risk of bias. The use of PRP in
+musculoskeletal lesions, although safe and promising, has still not shown strong evidence in clinical scenarios.
+Keywords: Platelet-rich plasma, Systematic review, Horse, Tendon, Ligament, Joint
+* Correspondence: baccarin@usp.br
+Department of Internal Medicine, School of Veterinary Medicine and Animal
+Science, University of São Paulo, São Paulo, SP, Brazil
+© 2015 Brossi et al.; licensee BioMed Central. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain
+Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article,
+unless otherwise stated.
+Brossi et al. BMC Veterinary Research  (2015) 11:98 
+DOI 10.1186/s12917-015-0403-z
+
+[W2001221672 PDF PAGE 2]
+Background
+Musculoskeletal lesions are a common consequence of
+physical overstrain, which negatively impacts quality of
+life and athletic performance. Specifically among both,
+equine and human athletes, treating persistent or slow
+healing injuries poses a challenge for clinicians. These
+lesions, which frequently result in inadequate tissue
+reorganization and thus in a high re-injury rate, are
+often related to a long period of incapacity or to an
+unsatisfactory return to performance [1].
+Hemoderivatives have been reported to be beneficial
+in scenarios in which efficient, cost-effective and safe
+forms of orthopedic interventions are necessary to
+restore the normal function and structure of musculo-
+skeletal components and in which health care profes-
+sionals are tempted to explore promising forms of
+therapy. The use of patients ’ own biological materials for
+tissue healing and therapeutic purposes offers a safe and
+interesting alternative to conventional treatments, and
+such materials often lack side effects. Presently, several
+blood-derived products are available for intra-lesional in-
+jection, such as platelet-rich plasma (PRP) or plasma
+rich in growth factors, autologous conditioned serum,
+autologous blood preparations and autologous protein
+concentrate [1-6].
+The rationale behind the injection of autologous blood
+preparations lies in the exploitation of advantageous
+mechanisms of the body ’s natural response to injury,
+whether the platelets ’ability to induce hemostasis and to
+release growth factors [7,8] or the production of anti-
+inflammatory cytokines by blood components [5,9].
+Blood is an important and unique source of cellular and
+protein products that has been explored more inten-
+sively over the last three decades for the production of
+biomaterials for clinical use [4]. A considerable number
+of data have suggested beneficial effects associated with
+their use, but these findings have not been unanimous
+when experimental and clinical trial ’ results have been
+compared.
+Platelet-rich products, in particular, have gained popu-
+larity for their increased concentrations of growth fac-
+tors, but their compositions encompass much more than
+these factors. A myriad of other blood-derived sub-
+stances such as fibrin and leukocytes are contained
+within these products, characterizing PRP as a complex
+and unique mixture, with donor-related properties and a
+yet unrevealed spectrum of active blood components
+[10]. Platelet concentrates with distinct compositions,
+and therefore distinct applications, are referred to as PRP.
+Some authors have proposed a more accurate termin-
+ology, along with a thorough description of the platelet
+concentrate. Using this terminology four different prod-
+ucts can be recognized according to their fibrin architec-
+ture and leukocyte content: pure platelet-rich plasma,
+leukocyte and platelet-rich plasma, pure platelet-rich
+fibrin and leukocyte- and platelet-rich fibrin [11].
+The cellular and molecular content of platelet concen-
+trates also depend on the method or kit used for their
+preparation. Until now, there has been no consensus on
+which processing method yields the best platelet- related
+product for a particular purpose, and patented and non-
+patented technologies and procedures have been used in
+clinical and experimental scenarios [12].
+During athletics, both horses and humans are subjected
+to escalating stresses to their appendicular systems, to
+compete successfully. These increasing demands are ac-
+companied by a multitude of orthopedic lesions, for which
+conventional therapies have proven partially helpful.
+The objectives of this systematic review were to assess
+the effectiveness of PRP in the healing of tendon, ligament
+and articular lesions in equine and human patients, to
+compare the results from clinical and experimental studies
+in both species, and to verify the existence of a relation-
+ship between the study designs and results of clinical tri-
+als. This review also aimed to evaluate critically the
+existing evidence to provide clinicians with high-quality
+information and a more thorough appreciation of the
+effects of the diversity of PRP ’processing techniques.
+Methods
+This systematic review was performed in accordance with
+the PRISMA (Preferred Reporting Items for Systematic
+Reviews and Meta-Analyses) statement, an evidence-
+based, established guideline for systematic reviews pub-
+lished by the CONSORT group [13,14].
+A comprehensive literature search addressing the use
+of hemoderivatives in orthopedic lesions was conducted
+in July 2013 for all relevant articles in English, French,
+German, Spanish and Portuguese without publication or
+date restrictions, and all of the authors (PMB, JJM,
+TSLM, RYAB) were involved. The Embase, Bireme,
+Medline, PubMed and Google Scholar databases were
+used, with the search terms “platelet rich plasma ”,
+“PRP”, “tendon”, “joint”, “articular”, “ligament”, “muscu-
+loskeletal injuries ”, “human” and “equine”. Additional
+studies were identified by searching the reference lists of
+eligible articles. Studies that used PRP in conjunction
+with stem cells or other biomaterials, as regenerative/
+anti-inflammatory therapies for other target tissues (e.g.,
+bone) or in other medical fields (such as ophthalmology,
+craniomaxillofacial or plastic surgery) were excluded.
+Equine clinical studies, because of their scarcity, were
+included independently of their design or level of evi-
+dence if they described the effects of PRP on tendon,
+ligament or articular injuries. Human clinical studies
+were included if they reported the use of PRP in tendon,
+ligament or articular lesions and were either double-
+Brossi et al. BMC Veterinary Research  (2015) 11:98 Page 2 of 17
+
+[W2001221672 PDF PAGE 3]
+blind RCTs or prospective/retrospective cohort studies
+or if they were case series with a control group.
+Experimental studies with PRP conducted in several
+species, both in vivo and in vitro , were selected if they
+were controlled and relevant to the clarification of the
+effects and mechanisms of action of PRP in tissues of
+interest. Studies that used products not derived from
+blood processing, despite an analogous function or a
+similar composition to PRP, were not included [15-17].
+Preliminarily, the abstracts and titles were reviewed to
+select manuscripts for full-text review. Relevant data
+were then extracted from the selected articles based on
+predefined data fields and were sorted in tables corre-
+sponding to clinical and exper

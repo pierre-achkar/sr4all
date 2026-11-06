@@ -1,0 +1,234 @@
+or temporary 
+total or temporary partial lost days) and 
+truncated at the end of the 1‑year follow‑up 
+period
+Shraim 2017 [7] Uncomplicated LBP cases were identified 
+using ICD‑9 codes during the first 15 days 
+of seeking medical care
+Complicated LBP cases with severe 
+injuries, multiple traumas, or significant 
+non‑injury diagnosis
+Lumbar MRI within first 30 days of seeking 
+medical care
+Number of days of continuous paid indem‑
+nity (lost wage replacement for temporary 
+total or temporary partial lost days) and 
+truncated at the end of the 1‑year follow‑up 
+period
+Shraim 2015 [6] Uncomplicated LBP cases were identified 
+using ICD‑9 codes during the first 15 days 
+of seeking medical care
+Complicated LBP cases with severe 
+injuries, multiple traumas, or significant 
+non‑injury diagnosis
+Lumbar MRI within first 30 days of seeking 
+medical care
+Number of days of continuous paid indem‑
+nity (lost wage replacement for temporary 
+total or temporary partial lost days) and 
+truncated at the end of the 1‑year follow‑up 
+period
+Webster 2013 [11] Uncomplicated LBP cases or radiculopathy 
+were identified using ICD‑9 codes
+Complicated LBP cases with severe inju‑
+ries, multiple traumas, chronic or recurrent 
+LBP or prior lumbar surgery, those with 
+limited clinical information, significant 
+non‑injury diagnosis, receipt of nonlumbar 
+MRI, or those with limited clinical informa‑
+tion
+Lumbar MRI within first 30 days of seeking 
+medical care
+Number of days of continuous paid indem‑
+nity (lost wage replacement for temporary 
+total or temporary partial lost days) and 
+truncated at the end of the 2‑year follow‑up 
+period
+
+[W3215943560 PDF PAGE 6]
+Page 6 of 12Shraim et al. BMC Musculoskeletal Disorders          (2021) 22:983 
+Table 1 (continued)
+Graves 2012 [10] Acute LBP was classified according to 
+nature of injury (mild or major sprain/
+strain)
+Cases with incomplete follow‑up inter‑
+views, language limitations, severe injury, 
+lack of information on the severity of the 
+injury and/or disability compensation
+Lumbar MRI within 6 weeks of seeking 
+medical care
+Same as Shraim 2019
+Webster 2010 [37] Uncomplicated LBP cases were identified 
+using ICD‑9 codes during the first month 
+of seeking medical care
+Cases with fractures, concurrent injuries 
+within the first month from the date of 
+injury, those with a work‑related LBP claim 
+in the prior year, those who had lumbar 
+surgery before MRI and those with lump‑
+sum settlements
+Lumbar MRI within first 30 days of seeking 
+medical care
+Same as Webster 2013
+Mahmud 2000 [12] Acute LBP was classified according to 
+nature of injury (mild or major sprain/
+strain)
+Complicated LBP cases with severe inju‑
+ries, multiple traumas, chronic or recurrent 
+LBP , or concurrent workers’ compensation 
+claim
+Lumbar MRI within first 30 days of seeking 
+medical care
+Number of days of continuous paid indem‑
+nity (lost wage replacement for temporary 
+total or temporary) followed by more than 
+7‑day period without indemnity payments, 
+and truncated at the end of the 1‑year 
+follow‑up period
+Abbreviations: WC Workers’ compensation, SD Standard deviation, ICD International classification of disease, LBP Low back pain, eMRI Early magnetic resonance imaging, LOD Length of disability
+
+[W3215943560 PDF PAGE 7]
+Page 7 of 12
+Shraim et al. BMC Musculoskeletal Disorders          (2021) 22:983 
+ 
+characteristics of the general population. One of the 
+current review authors (MS) is an author in three of the 
+included studies, therefore, MS was not involved in the 
+quality assessment and any subsequent data extraction 
+of Shraim and colleagues’ studies [6 , 7, 13]. A total of 2 
+out of the 7 included studies had reviewer disagreement 
+in relation to the outcome score of Newcastle-Ottawa 
+scale. This disagreement was resolved by referring the 
+two studies in question to a third reviewer (BA).
+The association between eMRI and LOD
+All included studies investigated the association between 
+eMRI and LOD. The studies used multivariable analy -
+ses and adjusted for potential confounders. The main 
+variables that all studies consistently adjusted for were 
+age and gender (Table  3). Five studies followed up the 
+patients for a duration of 1 year [6 , 7, 10, 12, 13], and 
+reported unadjusted mean (standard deviation (SD)) 
+of LOD of 142.2 (125.0), 142.2 (125.0), 163.5 (144.6), 
+115 (not reported), and 142.2 (125.0) days in the eMRI 
+group compared to 79.6 (105.1), 79.6 (105.1), 42.6 (86.6), 
+13 (not reported), and 79.6 (105.1) days in the no eMRI 
+group, respectively. One of these studies did not report 
+the SD for the LOD [12]. Two studies [11, 37] followed 
+up patients for a duration of 2 years and reported unad -
+justed means of LOD of 128.5 (95% CI 128.5, 201.5) and 
+133.6 (95% CI 120.0,146.7) days in the eMRI groups 
+compared to 44.4 (95% CI 37.5, 51.4) and 22.9 (95% 
+CI 19.5, 26.2) days in the no eMRI groups, respec -
+tively. Two studies reported unadjusted means of LOD 
+for LBP patients with radiculopathy of 184.0 (95% CI 
+154.8, 213.2) and 215.3 (SD = 127.5) days in the eMRI 
+group compared to 50.0 (95% CI 38.0, 61.9) and 121.3 
+(SD = 142.6) days in the none-eMRI group, respectively 
+(see Table  3) [10, 11]. Three studies reported adjusted 
+geometric mean of LOD of 39.6 (95% CI 36.0, 43.6), 37.7 
+(95% CI 33.2, 42.2), and 37.8 (95% CI 33.9, 41.9) days in 
+the eMRI groups compared to 25.9 (95% CI 23.0, 29.1), 
+24.4 (95% CI 21.4, 28.0), and 28.4 (95% CI 25.4, 31.7) 
+days in the no eMRI groups at 1-year follow up, respec -
+tively [6 , 7, 13]. These three studies reported that the 
+eMRI groups had a higher adjusted mean LOD than 
+the no eMRI groups by 9.4 days (95% CI 8.5, 10.2) [13], 
+13.3 days (95% CI 11.8, 14.8) [7 ], and 13.7 days (95% CI 
+13.0, 14.5) [6 ]. Four studies reported the hazard ratio 
+(HR) as a measure of association between eMRI and 
+work disability. Three studies reported that the eMRI 
+groups had a higher HR of increased LOD than the no 
+eMRI groups by 1.75 (95% CI 1.23, 2.50) [10], 2.91 (95% 
+CI 1.45, 5.84) [12], and 3.13 (95% CI 2.33, 4.17) [11]. Two 
+studies [10, 11] reported that eMRI groups with LBP and 
+radiculopathy had a higher HR of increased LOD than 
+the no eMRI groups with LBP and radiculopathy by 2.08 
+(95% CI 1.67, 2.63) [10] and 3.57 (95% CI 2.33, 5.56) [11]. 
+One study controlled for potential MRI indication bias 
+using the propensity of belonging to the eMRI group, 
+computed based on demographic and severity indicators 
+with adjustment for potential residual confounding of 
+covariates [37]. This study reported that low-propensity 
+eMRI subgroup had a higher HR of increased LOD than 
+the low-propensity no eMRI subgroup and high-propen -
+sity no eMRI subgroup by 3.0 (95% CI 2.6, 3.4) and 2.9 
+(95% CI 2.3, 3.5), respectively [37].
+Discussion
+This systematic review examined the relationship 
+between eMRI for LBP without red flags and LOD. All 
+included studies showed that subjects who received 
+eMRI for LBP had an increased LOD than those who did 
+not receive eMRI. The findings of our systematic review 
+are consistent with the findings of a previous systematic 
+review of two studies which concluded that patients with 
+acute non-specific LBP who received MRI had a higher 
+LOD as compared to the no MRI group [25]. The cur -
+rent systematic review included 7 studies from 5 unique 
+study populations and added further evidence that eMRI 
+is associated with increased LOD in patients with LBP 
+without red flags even after accounting for several factors 
+associated with LOD in this population. The three studies 
+by Shraim and colleagues used the same study popula -
+tion and found that eMRI was associated with increased 
+LOD in patients presenting with acute LBP without red 
+flags after accounting for neighborhood socio-economic 
+characteristics and state-level variables, including WC 
+policy characteristics [6, 7, 13]. One study by Graves and 
+colleagues also showed that eMRI was associated with 
+increased LOD in patients with LBP without red flags 
+after accounting for baseline functional disability, pain 
+severity, quality of life, catastrophizing, work-fear avoid -
+ance, job accommodation, previous LBP status, job satis -
+faction, industry, physical demands at work, and type of 
+first medical visit [10].
+Table 2 Quality assessment of studies using the Newcastle ‑
+Ottawa scale
+Study Selection Comparability Outcome Total 
+Quality 
+Score
+Shraim 2019 [13] **** ** *** 9
+Shraim 2017 [7] **** ** *** 9
+Shraim 2015 [6] **** ** *** 9
+Webster 2013 [11] **** ** *** 9
+Graves 2012 [10] **** ** ** 8
+Webster 2010 [37] **** ** *** 9
+Mahmud 2000 [12] **** ** *** 9
+
+[W3215943560 PDF PAGE 8]
+Page 8 of 12Shraim et al. BMC Musculoskeletal Disorders          (2021) 22:983 
+Table 3 The relationship between eMRI and length of disability among low back pain cases
+Study Follow-up 
+duration 
+(years)
+Study aim Association between eMRI and LOD Variables adjusted for in 
+multivariable analysis
+Study conclusion
+Shraim 2019 [13] 1 “To explore whether the known risk of 
+increased LOD associated with eMRI 
+scanning not adherent to guidelines 
+for occupational LBP varies according 
+to patient and area‑level characteris‑
+tics, and the potential reasons for any 
+observed variations.”
+The eMRI group had a longer mean 
+LOD by 9.4 days (95%  CI1 8.5, 10.2) 
+compared to the no eMRI group.
+Age, gender, tenure, average weekly 
+wage, industry, injury severity, 
+morphine equivalent amount in 
+first 15 days of seeking medical care, 
+lumbar spine surgery, litigation status, 
+neighborhood median household 
+income, state physician density, state 
+orthopedic surgeons’ density, state 
+MRI facility rate, and state workers’ 
+compensation policies on wage 
+replacement rate, waiting period, 
+retroactive period, treating provider 
+choice and change.
+“State WC policies regulating selection 
+of healthcare provider and structural 
+factors affecting quality of medical care 
+modify the impact of eMRI not adherent 
+to guidelines. Targeted healthcare and 
+work di

@@ -1,0 +1,175 @@
+d conflicts of interest to disclose.
+The datasets generated during and/or analyzed during the current study are 
+publicly available.
+Supplemental Digital Content is available for this article.
+a Heilongjiang University of Chinese Medicine, Harbin, China, b Jinan 
+Zhangqiu District Hospital of Traditional Chinese Medicine, Jinan, China,  
+c The Second Affiliated Hospital of Heilongjiang University of Chinese 
+Medicine, Harbin, China.
+* Correspondence: Youpeng Wang, The Second Affiliated Hospital of Heilongjiang 
+University of Chinese Medicine, No. 411, Guogeli Road, Harbin 150009, China 
+(e-mail: 2806543947@qq.com).
+Copyright © 2023 the Author(s). Published by Wolters Kluwer Health, Inc.
+This is an open-access article distributed under the terms of the Creative Commons 
+Attribution-Non Commercial License 4.0 (CCBY-NC), where it is permissible to 
+download, share, remix, transform, and buildup the work provided it is properly 
+cited. The work cannot be used commercially without permission from the journal.
+How to cite this article: Si X, Ma X, Wang Y, Li Y, Liu L, Yang Y, Guo Z, Liang 
+Y, Pan G. Efficacy and safety of Jinhua Qinggan granules in the treatment of 
+coronavirus disease 2019 (COVID-19): A systematic review and meta-analysis. 
+Medicine 2023;102:15(e33545).
+Received: 26 January 2023 / Received in final form: 23 March 2023 / Accepted: 
+27 March 2023
+http://dx.doi.org/10.1097/MD.0000000000033545
+
+[W4365485005 PDF PAGE 2]
+2
+Si et al. • Medicine (2023) 102:15 Medicine
+strains worldwide. Some variants, such as alpha, beta, and 
+gamma have only become prevalent in a few countries, allow-
+ing the delta and omicron strains to compete for dominance 
+on a global scale. [2–4] At present, western medicine is mainly 
+focusing on symptomatic treatment for COVID-19, using α - 
+interferon, antibiotics, antiviral drugs, and hormones. By con-
+trast, China has adopted the strategy of using both Traditional 
+Chinese Medicine (TCM) and western medicine in combina-
+tion as an early intervention. This approach will hopefully be 
+shown to have improved the survival rate of patients and have 
+helped effectively control the spread of the disease. The com-
+bination of traditional Chinese medicine and Western medi-
+cine can effectively reduce the clinical symptoms of COVID-19 
+patients, improve pulmonary infection, and improve patient 
+prognosis.[5–7]
+In the spring of 2020, China began to standardize a popular 
+Chinese herbal medicine (CHM) treatment protocol called “3 
+medicines and 3 traditional Chinese medicine prescriptions.”[8,9] 
+The former refers to Jinhua Qinggan granules, Lianhua Qingwen 
+capsules, and Xuebijing injections, while the latter refers to the 
+TCM prescriptions: Qingfei Paidu decoction, Huashi Baidu 
+decoction, and Xuanfei Baidu decoction.[10] The “China Plan” of 
+traditional Chinese medicine is deeply involved in epidemic pre-
+vention and control, complementing the advantages of Western 
+medicine, showing unique advantages and highlights in preven-
+tion, treatment and rehabilitation, and making important con-
+tributions to comprehensive epidemic control. Jinhua Qinggan 
+granules are a pharmaceutical preparation developed from the 
+optimization of 2 ancient classical TCM prescriptions: Firstly, 
+Maxing Shigan; which has been in use for nearly 2000 years; 
+and secondly, Yinqiao Powder, which has been in use for over 
+300 years. Both these prescriptions form part of the Treatise 
+on Febrile Diseases and are well known for dispersing wind, 
+decongesting lungs, clearing heat, and detoxification. [11] Jinhua 
+Qinggan Granules are composed of 12 traditional Chinese 
+medicines, including: honeysuckle, gypsum, Fritillaria thun-
+bergii, Scutellaria baicalensis, Arctium lappa, Artemisia annua, 
+Anemarrhena asphodeloides, Forsythia suspensa, Ephedra, bit-
+ter almond, mint and licorice. Among the “3 medicines,” Jinhua 
+Qinggan granules are most often used for mild disease cases. 
+These granules were first developed in 2009 and were immedi-
+ately shown to be an effective CHM antiviral when they were 
+used successfully during an outbreak of H1N1influenza in the 
+same year. More recently, they have shown good efficacy in 
+treating mild and moderate cases of COVID-19. The main active 
+ingredients include: scutellarin, chlorogenic acid, ephedrine, 
+kaempferol, luteolin, forsythiaside A, glycyrrhizin, salicylic acid, 
+and caffeic acid.[12,13] Pharmacological studies have shown that 
+CHMs, which naturally contain these compounds, can shorten 
+illness duration, increase the recovery rate of lymphocytes and 
+white blood cells and improve immune status.[10]
+Ren and An showed that prescribing Jinhua Qinggan gran-
+ules is advantageous for relieving symptoms such as fever, 
+fatigue, and diarrhea and improving appetite. Their research 
+also demonstrated that Jinhua Qinggan granules reduced serum 
+C-reactive protein and γ interferon secretion level.[14,15] In addi-
+tion, Duan and Liu research confirmed that Jinhua Qinggan 
+granules not only significantly alleviate symptoms (such as 
+cough and expectoration), but also improve the virus clearance 
+rate (effectively shortening the time for the patient’s nucleic 
+acid test to return to negative) and accelerates the absorption 
+of inflammatory exudates in the lungs. [16,17] Network pharma-
+cology analysis revealed that the main active ingredients of 
+Jinhua Qinggan granules, with the highest comprehensive score 
+in SARS-CoV-2 treatment, targeted the virus’s 3CL hydrolase 
+enzyme with a binding capacity similar to that of ribavirin, 
+but better than that of remdesivir, lopinavir, and ritonavir. In 
+addition, it was found to be associated with pneumonia-related 
+signaling pathways such as Tumor necrosis factor, PI3K/Akt, 
+immune regulation, antivirus, bacterial inflammatory response, 
+and other functions. [18,19] Using data from previous patient 
+studies, we used a meta-analysis system to evaluate the clinical 
+efficacy and safety of Jinhua Qinggan granules combined with 
+conventional Western medicine for the treatment of COVID-19. 
+Therefore, our study is more comprehensive than similar previ-
+ous analyses, as it uses a larger sample size and more complete 
+data, thus producing more reliable results.[20,21]
+2. Methods
+The Preferred Reporting Items for Systematic Reviews and 
+Meta-Analyses (PRISMA) guidelines were followed during this 
+umbrella review.[22]
+2.1. Ethics statement
+This research has been registered on the PROSPERO platform 
+with the registration number CRD42022380582. This study is a 
+secondary analysis of previous experimental results. Therefore, 
+no ethical approval is required.
+2.2. Literature search
+We screened the PubMed, Embase, The Cochrane Library, Web 
+of Science, CNKI, WanFang, and VIP databases, searching for 
+randomized controlled trials (RCTs) relating to the efficacy and 
+safety of Jinhua Qinggan granules used in combination with 
+conventional western medicine in the treatment of COVID-
+19. When setting the search parameters in terms of time, we 
+used the date of inception for each database up until November 
+2022. The retrieval is carried out by searching for specific sub-
+ject heading words and key words in the main body of the arti-
+cle (adjusted according to the characteristics of each database). 
+In addition, the references included in the study were retrieved 
+to supplement the relevant information. More specific meth-
+odology is provided in Supplemental Digital Content 1, http://
+links.lww.com/MD/I808.
+2.3. Inclusion and exclusion criteria
+Inclusion criteria: Study was an RCT; Trial involved treatment 
+of COVID-19 and participants were not restricted by age, sex, 
+nationality, and/or race; The main drug used for the treatment 
+group was Jinhua Qinggan granules; The control group received 
+routine treatment (including nutritional support; oxygen ther -
+apy; antiviral treatment such as interferon, lopinavir/ritonavir 
+or Abidor; anti infection treatment; life support; symptomatic 
+treatment, etc) or placebo.
+Exclusion criteria: Repeated publication of research; Animal 
+experiment; Full text could not be obtained or data were incom-
+plete and the author could not be contacted; Treatment involved 
+nondrug therapy (such as acupuncture, cupping, Qigong, mas-
+sage, etc).
+2.4. Data selection and data extraction
+Firstly, all literature was screened using EndNote 9.0 software 
+(https://endnote.com/) according to the preset inclusion/exclu-
+sion criteria, with duplicate results (i.e., articles included in mul-
+tiple databases) removed. Then, any obviously irrelevant (based 
+on title and abstract) literature was excluded. Finally, the full 
+texts of all remaining literature were read manually and those 
+papers conforming to the requirements were included.
+Working independently, 2 investigators extracted data from 
+the selected articles. The results were cross-referenced and any 
+disagreement was settled through discussion or arbitration by a 
+third investigator. The data extracted included: Basic informa-
+tion–first author, publication journal, sample size, intervention 
+
+[W4365485005 PDF PAGE 3]
+3
+Si et al. • Medicine (2023) 102:15 www.md-journal.com
+measures, control measures, outcome indicators etc; Baseline 
+characteristics and interventions of subjects; Key elements of 
+bias risk assessment.
+2.5. Assessment of bias risk
+The bias risk of each RCT study was evaluated according to the 
+Cochrane Risk of Bias tool, [23] which assesses sequence genera-
+tion, allocation concealment, blinding of participants and per -
+sonnel, blinding of outcome assessment, incomplete outcome 
+data, selective outcome reporting, and other potential threats to 
+validity. Studies were rated in terms of each variable as low risk, 
+high risk, or unclear risk of bias. Two independent assessors 
+conducted this qualitative assessment, and any disagreement 
+was settled by reaching a consensus or by consulting a third 
+researcher.
+2.6. Statistical analysis
+Revman 5.4 (https://training.cochrane.org/o

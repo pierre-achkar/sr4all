@@ -1,0 +1,122 @@
+ not certified by peer review)
+The copyright holder for this preprint this version posted November 1, 2023. ; https://doi.org/10.1101/2023.11.01.23297773doi: medRxiv preprint 
+
+[W4388124584 PDF PAGE 31]
+HOUSING INSECURITY AND MENTAL HEALTH AMONG RENTERS 30 
+ 
+instability as key dimensions of housing. Through a comprehensive search process, a total 455 
+of 22 studies that met the inclusion criteria were included. 456 
+Housing Affordability 457 
+Among the nine studies examining housing a ffordability, six reported significant 458 
+associations between unaffordable rent, more specifically rent burden and reduction in 459 
+housing benefits, and low mental health. The majority of these studies (seven out of nine) 460 
+focused solely on the low-income renter population. Thus, we can conclude from this review 461 
+an association between unaffordable rent and poor mental health for this population. 462 
+Notably, the studies with significant findings a ll took income into account, mitigating the risk 463 
+of conflating the effect of (low) income and unaffordable rent on mental health (Baker, 464 
+Lester, et al., 2020). In addition, previous  publications also suggest that the burden of 465 
+unaffordable housing mainly affects low-income renter and homeowner households, 466 
+whereas high-income households do not experience such effects (Bentley et al., 2011; 467 
+Morris et al., 2017). Renters with economic capital are likely to face fewer challenges related 468 
+to housing insecurity, as they possess various means to compensate for these issues 469 
+(Morris et al., 2017; Routhier, 2019). Moreover, the synthesis indicates that the association 470 
+between unaffordable housing and mental health might differ depending on the context, in 471 
+particular being less pronounced in countries with strong tenure protections. This pattern 472 
+was observed in studies comparing different count ries (Bentley et al., 2016) or exploring the 473 
+consequences of deterioration of rental policie s (Arundel et al., 2022; Reeves et al., 2016). 474 
+These findings are consistent with other research investigating housing across different 475 
+countries, although they are not restricted to the population of renters (Acolin, 2022; Herbers 476 
+& Mulder, 2017; Hulse et al., 2011).  477 
+However, in the current review, the two included studies that examined housing 478 
+affordability interventions (social housing and hous ing assistance) did not reveal differences 479 
+in mental health outcomes compared to either no intervention (Chambers et al., 2015) or 480 
+longitudinally after 6-12 months (Prentice & Scutella, 2020). Recent systematic reviews 481 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprint this version posted November 1, 2023. ; https://doi.org/10.1101/2023.11.01.23297773doi: medRxiv preprint 
+
+[W4388124584 PDF PAGE 32]
+HOUSING INSECURITY AND MENTAL HEALTH AMONG RENTERS 31 
+ 
+encompassing households across different tenure statuses have also reported inconsistent 482 
+evidence regarding the association of interventions promoting affordability and stability with 483 
+improved mental health outcomes (Chen et al., 2022; Dweik & Woodhall-Melnik, 2022). 484 
+Therefore, it remains unclear which specific interventions effectively enhance mental health 485 
+among renters, highlighting the need for further studies in this area. 486 
+Housing Instability 487 
+Among the 14 studies examining housing instability, 12 reported significant 488 
+associations between unstable housing and poor mental health among renters. The 489 
+significant associations were established through a diverse range of measures of housing 490 
+instability, most commonly the risk of evicti on, forced mobility, and frequency of transitions. 491 
+Several studies also demonstrated positive effe cts of stable rental tenure and state eviction 492 
+moratoriums in mitigating these adverse impacts. The absence of a standard definition for 493 
+housing instability is evident from the divers e measures employed in the selected studies. 494 
+However, the fact that many of these measur es demonstrated a significant association with 495 
+renters' well-being emphasizes the importance of including a range of exposure measures in 496 
+a unified definition of housing instability (Cox et al., 2019; Routhier, 2019). This will enable 497 
+future studies to delve more deeply into the multiple pathways through which housing 498 
+instability appears to affect renters’ well-being. 499 
+Strength of evidence  500 
+The findings of this review contribute to the growing body of research on the social 501 
+determinants of mental health (Baumgartner et al., 2023; Compton & Shim, 2015; Lund et 502 
+al., 2018; Marmot & Wilkinson, 2005; Shaw, 2004; Suglia et al., 2015; Swope & Hernández, 503 
+2019; WHO & Calouste Gulbenkian Foundation, 2014). The review provides strong evidence 504 
+to support an association between housing inse curity and impaired mental health, with a 505 
+substantial number of studies addressing each dimension, i.e. housing affordability and 506 
+instability. In the case of housing affordability, the available data primarily concerned 507 
+samples of low-income households, limiting the scope of conclusions to this specific 508 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprint this version posted November 1, 2023. ; https://doi.org/10.1101/2023.11.01.23297773doi: medRxiv preprint 
+
+[W4388124584 PDF PAGE 33]
+HOUSING INSECURITY AND MENTAL HEALTH AMONG RENTERS 32 
+ 
+population group. A significant proportion of the studies employed robust study designs, 509 
+such as longitudinal approaches ( n = 15). For both housing dimensions, the majority of 510 
+studies demonstrated significant associations between measures of housing insecurity and 511 
+overall mental health and depressive symptoms.  512 
+In contrast, the evidence for other mental health outcomes such as anxiety, mental 513 
+health behavior, mental health treatment, suicidal ideation or behavior and psychosocial 514 
+functioning was more limited and inconsistent. Due to the paucity of studies, further research 515 
+is necessary to draw definitive conclusions about the associations of these outcomes with 516 
+housing insecurity. Moreover, most of the outcome measurement tools used in the included 517 
+studies were screening tools and relied on self-report data, and thus did not provide a clinical 518 
+diagnosis or a comprehensive assessment of mental disorders, although most have shown 519 
+good reliability and validity, making them useful for monitoring general mental health 520 
+(Mawani & Gilmour, 2010). However, two studies relied solely on single-item questions (Ali & 521 
+Wehby, 2022; Reeves et al., 2016), while another two studies did not provide sufficient detail 522 
+for an assessment of psychometric properties (Park & Seo, 2020; Sandel et al., 2018).  523 
+Despite a noticeable shift in recent years,  the number of publications specifically 524 
+addressing housing insecurity among renters remains limited. Furthermore, the sample sizes 525 
+were often small due to secondary analyses, leading to low statistical power and hindering 526 
+stratified analysis. Moreover, the included studies that yielded non-significant findings might 527 
+also have been underpowered, and an effect may potentially have become detectable with 528 
+sufficient testing strength (see for example, Rodgers et al., 2019).  529 
+ Although most findings show associations between unaffordable and unstable 530 
+housing and mental health in different populations and contexts, based on the current 531 
+evidence, and due to the methodology of the studi es, it is not possible to draw causal 532 
+conclusions. In particular, it is important to highlight that housing insecurity is intertwined with 533 
+various other variables that might contribute to mental health problems, including 534 
+socioeconomic factors, stress and negative life events, neighborhood disadvantages, and 535 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprint this version posted November 1, 2023. ; https://doi.org/10.1101/2023.11.01.23297773doi: medRxiv preprint 
+
+[W4388124584 PDF PAGE 34]
+HOUSING INSECURITY AND MENTAL HEALTH AMONG RENTERS 33 
+ 
+other social inequality aspects. In addition, the relationship between housing insecurity and 536 
+mental health is likely to be bidirectional. Prev ious research across different tenure statuses 537 
+suggests that pre-existing mental health conditi ons increase the risk of housing insecurity 538 
+outcomes, while housing insecurity also negatively affects mental health (Baker et al., 2013; 539 
+Marçal, 2021; J. Tsai & Huang, 2019). 540 
+Future research directions 541 
+Housing insecurity often manifests across multiple dimensions simultaneously, such 542 
+as affordability, (in-)stability, and quality, and intersects with further social and economic 543 
+disadvantages such as gender, disability, and race (Bentley et al., 2019; Carrere et al., 2022; 544 
+DeLuca & Rosen, 2022; Hulse & Saugeres, 2008; Kirkpatrick & Tarasuk, 2011; Morris et al., 545 
+2017). On a micro-level, these factors can accumulate and reinforce each other, amplifying 546 
+their adverse effects on mental health. Studies further indicate that housing insecurity and its 547 
+impact on mental health also varies on a macro-level, across different social, legal, and 548 
+cultural contexts (Acolin, 2022; Bentley et  al., 201

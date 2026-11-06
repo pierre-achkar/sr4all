@@ -1,0 +1,213 @@
+ral (diet 
+only, PA only, combined diet and PA), dietary supple -
+mentation (inositols, vitamin D, fibre, probiotics), and 
+pharmacological (metformin). Any intervention that 
+could not contribute to the analysis or could not be 
+pooled was excluded from the meta-analysis (e.g., stud -
+ies that are not  sufficiently homogeneous to be com -
+bined under the prespecified interventions, Table  1); 
+and a narrative synthesis was performed to provide a 
+brief summary of these studies and their findings [22]. 
+Where appropriate, summaries of exposure effect for 
+each intervention were provided using a risk difference, 
+performed using Stata software, version 16.0 (StataCorp, 
+College Station, TX, USA). A random-effects  meta-
+analysis  model  was  used  to estimate the effects  of each 
+intervention on GDM and an  I2 value greater than 50% 
+was considered an indication of significant heterogene -
+ity across studies [23]. Furthermore, separate analyses 
+were performed limited to studies where increased body 
+mass index (BMI ≥ 25 kg/m2 or ≥ 24 kg/m2 depending on 
+classification used) was the only risk factor as criteria for 
+intervention and studies that utilised more than one risk 
+factor which may or may not have included BMI. Publi -
+cation bias was investigated using Egger’s test and funnel 
+plots, if there were more than 10 RCTs per meta-analysis.
+Results
+We identified 29,205 results through database searches 
+and an additional 10 through citation searches and refer -
+ence lists: 4,337 were removed as duplicates and of the 
+remaining 24,878 articles, 24,470 were excluded during 
+title and abstract screening. There were 408 full-texts 
+screened against the eligibility criteria, and 84 met the 
+inclusion criteria (Fig.  1). Major reasons for exclusion 
+were: no risk stratification, ongoing RCTs and GDM not 
+a primary/secondary outcome.
+Risk stratification for GDM
+The included studies used different risk stratification 
+strategies incorporating a variety of risk factors to iden -
+tify women at high-risk of developing GDM. The number 
+
+[W4390583438 PDF PAGE 4]
+Page 4 of 16Quotah et al. Diabetology & Metabolic Syndrome            (2024) 16:8 
+of variables ranged from one to sixteen (Additional 
+file 1: Table A5). Fifty-four studies recruited women with 
+increased BMI [24–77], with three of these using addi -
+tional risk factors; polycystic ovary syndrome (PCOS) 
+[41], previous history of GDM [41, 42, 56], family history 
+of diabetes [41, 42], high-risk ethnicity [41] or history 
+of unexplained intrauterine fetal death or macrosomic 
+infant [41].
+Two studies considered a family history of diabetes [78, 
+79], one utilised previous history of GDM [80] and one 
+targeted women who had previously delivered an infant 
+with macrosomia [81]. Three studies used elevated fast -
+ing blood glucose (FBG) [82–84] or/and haemoglobin 
+A1c (HbA1c) [84]. Six studies used a history of PCOS 
+[85–90] with Valdés et  al. [90] additionally specifying 
+pregestational insulin resistance (PIR) with at least one 
+PIR clinical sign or the diagnosis of PCOS.
+Fourteen studies required women to have at least 
+one risk factor for the development of GDM including 
+advanced maternal age [91–99], PCOS [93, 95, 98–100], 
+BMI above a particular threshold (obesity/overweight) 
+[91–97, 99–103], a family history of diabetes [91–96, 
+99–101, 104], signs of glucose intolerance [91, 92, 99], 
+previous GDM [91–102, 104] or previous macrosomic 
+infant [91–94, 96–101, 104]. Seven [94, 97–101, 103] of 
+these specified other factors including high-risk ethnic -
+ity, chronic hypertension, twin pregnancies, abnormal 
+lipid metabolism, glycosuria, previous pregnancy com -
+plications (e.g. gestational hypertension, pre-eclampsia, 
+premature rupture of membranes, small for gestational 
+age (SGA), large for gestational age (LGA), intrauterine 
+growth restriction, low Apgar score, preterm deliveries, 
+fetal anomaly, recurrent abortion, intrauterine fetal death 
+and family history of either GDM or adverse obstetrical 
+outcomes).
+One study enrolled women with two or more GDM 
+risk factors; including pre-pregnancy obesity, PCOS, 
+high-risk ethnicity, previous GDM or macrosomic infant 
+and family history of diabetes [105], while Mohsenzadeh-
+Ledari et al. [106] enrolled participants who had at least 
+three components of the metabolic syndrome. One study 
+used a validated prediction tool (simple scoring system) 
+for identification of women at high-risk of developing 
+GDM; this included history of GDM, maternal age, BMI, 
+ 
+ 
+         
+ Total records iden/g415ﬁed through 
+database searchin g
+Feb 2023
+(n = 29,205)
+Medline n = 5,282
+Embase n = 16,417
+Cochrane Central n = 7,506
+ScreeningIncluded Eligibility Iden/g415ﬁca/g415on
+Records screened for  
+eligibility based on /g415tle and 
+abstract 
+(n = 24,878)
+Records excluded
+(n = 24,470)
+Full-text ar/g415cles excluded, with reasons
+(n = 324)
+- No risk stra/g415ﬁca/g415on= 8 9
+- Ongoing recruitment or recruitment not started = 71
+- Abstract = 26
+- Protocol= 1 2
+- Comments and correspondence= 4
+- Not published= 1 5
+- Prematurely Ended= 11
+- Treatment of GDM= 7
+- Comparison of one interven/g415on with another interven/g415on or no control= 1 5
+- No pregnancy outcomes= 8
+- Foreign language= 7
+- GDM not a primary or secondary outcome= 47
+- Wrong study design= 7
+- Wrong or late interven/g415on= 5
+Studies included in  
+systema/g415c revie w
+(n = 84)  
+Records a/g332er duplicates removed
+(n = 24,878)
+Addi/g415onal records iden/g415ﬁed through 
+hand searches 
+(n = 10 )
+Full-text ar/g415cles assessed for 
+eligibilit y
+(n = 408)
+Fig. 1 PRISMA flow diagram of screening, selection process and inclusion study
+
+[W4390583438 PDF PAGE 5]
+Page 5 of 16
+Quotah et al. Diabetology & Metabolic Syndrome            (2024) 16:8 
+ 
+Asian descent, history of poor obstetric outcome and 
+family history of diabetes [107].
+Characteristics of included studies
+Characteristics of the studies are shown in Additional 
+file 1: Table A4. The majority of the studies (n = 82) were 
+RCTs targeting high-risk women in the antenatal period. 
+Two studies in the preconception period were identified. 
+Among the eighty-four studies included, fifteen were 
+conducted in United States [29–31, 35, 42, 48, 49, 55, 56, 
+61, 62, 66, 71, 74, 84], eight in China [24, 25, 67, 73, 93, 
+95, 96, 99], eight in Italy [38, 39, 44, 59, 63, 78, 82, 83], 
+eight in Australia [36, 47, 57, 58, 72, 75, 80, 107], seven in 
+Iran [65, 68, 69, 88, 94, 98, 106], five in the United King -
+dom [26, 40, 51, 100, 103], four in Finland [60, 91, 92, 
+102], four in the Republic of Ireland [27, 37, 79, 81], four 
+in Denmark [33, 43, 46, 77], three in Norway [54, 85, 86], 
+two in each of India [97, 101], Netherlands [41, 104], New 
+Zealand [28, 64], Brazil [34, 50] and one in each of Can -
+ada [45], France [70], Chile [90], Belgium [53], Spain [32], 
+Bangladesh [89] and the United Arab Emirates [105]. 
+Three studies were multi-country; Norway, Sweden and 
+Iceland [87]; United Kingdom, Republic of Ireland, Aus -
+tria, Poland, Italy, Spain and Belgium [52, 76]; Nether -
+lands, and Denmark [76].
+The sample size of the studies ranged from 40 [86] to 
+2,122 [58] participants and the pooled sample size was 
+22568. Thirty studies included women of all BMI catego -
+ries [78–107], while 54 included pregnant women living 
+with overweight and/or obesity [24–77].
+The intervention design varied between studies (Addi -
+tional file  1: Table  A5). The majority (n = 34) evaluated 
+the effect of combined diet and PA [30–35, 37, 48, 51, 
+53, 55, 56, 58, 59, 61, 63, 65–67, 69–71, 74, 84, 91–93, 95, 
+96, 99, 102, 105–107]. Seven studies focused on modify -
+ing diet only [24, 29, 46, 49, 57, 81, 103], while ten aimed 
+at modifying PA alone [25, 27, 45, 54, 62, 64, 72, 80, 97, 
+104]. A multidisciplinary approach (consisting of conti -
+nuity of care, assessment of weight gain, a brief dietary 
+intervention and psychological approach using solution-
+focused therapy) was used in one study [75]. Nine stud -
+ies based their intervention on the supplement inositol 
+(myo-inositol, d-chiro-inositol or combination of both) 
+[38, 39, 44, 68, 78, 79, 82, 83, 100] while four used probi -
+otic supplementation (Lactobacillus and Bifidobacterium 
+species) [36, 60, 77, 98]. In three studies, the impact of 
+vitamin D was assessed [52, 94, 101] and two evaluated 
+the intake of soluble fibre [42, 73] of which one study 
+additionally provided women with frozen blueberries 
+[42]. Metformin was used as a pharmacological interven -
+tion in eleven RCTs [40, 41, 47, 50, 85–90, 108]. Three 
+studies included more than two arms; Renault et  al. 
+[43] compared PA only and combined diet and PA with 
+standard care, whilst Simmons et  al. [76] compared the 
+effect of diet alone, PA alone, combined diet and PA with 
+standard care. Okesene-Gafa et  al. [28] compared diet 
+alone and probiotic to standard care and placebo arms.
+Risk of bias (quality) assessment
+The overall quality of the included studies varied and is 
+summarised in Fig. 2. Twenty-three studies were assessed 
+as ‘low risk of bias’ [25, 28, 31, 43, 47, 49, 52, 55, 58, 67–
+69, 75–77, 79, 80, 82, 85, 87, 99, 102, 103], 30 as ‘high 
+risk of bias’ [30, 33–35, 37–39, 46, 50, 54, 56, 57, 61, 65, 
+66, 78, 84, 86, 88–90, 93–95, 97, 98, 104–107] and the 
+remaining 31 studies as ‘some concerns’ [24, 26, 27, 29, 
+32, 36, 40–42, 44, 45, 48, 51, 53, 59, 60, 62–64, 70–74, 81, 
+83, 91, 92, 96, 100, 101]. The main source of bias across 
+all studies was the non-adherence to the assigned inter -
+vention regimen.
+Behavioural intervention (diet only, PA only, combined diet 
+and PA)
+In preconception women, the two included studies [55, 
+56] assessed the impact of behavioural intervention 
+(combined diet and PA) on GDM risk and were pooled in 
+a meta-analysis (Additional file 1: Table A6). Diet and PA-
+based interventions prior to pregnancy did not reduce 
+GDM development among those who were considered at 
+higher risk prior to pr

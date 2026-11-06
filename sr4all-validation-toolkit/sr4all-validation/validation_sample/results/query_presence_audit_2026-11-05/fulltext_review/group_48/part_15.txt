@@ -1,0 +1,164 @@
+nducted by Brian et al. [20], which involved 350 participants, a pivotal focus was 
+placed on patients with arthritis undergoing SVF cell therapy. This study stands out for 
+its signiﬁcant ﬁndings, which revealed marked improvements in both pain levels and mo-
+bility among the treated patients, especially notable in those diagnosed with stage III ar-
+thritis. These improvements were not just in cremental but substantial, indicating a pro-
+nounced therapeutic eﬀect of SVF therapy on the symptoms of arthritis [20]. In a prospec-
+tive study by Perdomo-Pantoja et al. [17] with 36 participants, SVF was found to be com-
+parable to bone marrow cells (BMCs) in spinal  fusion, suggesting its viability in spinal 
+surgeries. Similarly, Choi et al. [18] demonstrated a higher early bone fusion rate when 
+using SVF, pointing towards its potential in enhancing spinal fusion outcomes in their 
+prospective study with 10 participants. In pl astic and reconstructive surgery, SVF-en-
+riched fat grafting has shown positive results in improving graft survival and wound heal-
+ing, as reported by Onoi et al. [11]. The pros pective study by Kwon et al. [14], involving 
+20 participants, reported improved outcomes in scar revision surgery following SVF treat-
+ment. The study did not report any complications. 
+Moon et al. [21] explored the use of SVF in  reconstructive surgery, particularly for 
+nasal defect repair. The study demonstrated that tissue-engineered dermis grafts incorpo-
+rating SVF yielded superior scar quality in the alar zone of the nose compared to 
+Figure 1. The figure shows lipoaspirate, centrifuged at 2500 or 3000 rpm, for 4 min at room tempera-
+ture. After centrifugation, upper oil fraction, middle condensed lipoaspirate, lower aqueous fraction,
+and the stromal vascular fraction were observed.
+Table 2. SVF cell content isolated from the aqueous portion.
+Type of Cells Functions Authors, Year [ref.]
+Mesenchymal progenitor/stem cells
+They have the capacity to perform self-renewal and
+differentiation into specific cell lineages, and support
+the maintenance of other cells via paracrine secretion.
+Francis et al., 2018 [27,32]
+Lymphocytes
+They participate in both innate and adaptive immune
+responses with multiple effect or functions.
+They produce antibodies, direct the cell-mediated
+killing of virus-infected and/or tumor cells, and
+regulate immune responses.
+Busato et al., 2020 [28]
+
+[W4391311681 PDF PAGE 9]
+Medicina 2024, 60, 221 9 of 19
+Table 2. Cont.
+Type of Cells Functions Authors, Year [ref.]
+Smooth muscle cells
+They display involuntary contractile activity to control
+the diameter, wall movement, and wall stiffness of
+specific organs.
+Guimarães, 2017 [29]
+Adipose tissue-derived
+stem cells
+They secrete growth factors, cytokines, and
+antioxidant factors into a microenvironment,
+regulating intracellular signaling pathways in
+neighboring cells. Protective outcome via
+anti-inflammatory and immunomodulatory effects.
+Bora et al., 2017 [3]
+Preadipocytes
+They promote the growth of adipose tissue by
+differentiating into mature and metabolically active
+adipocytes.
+Proliferating preadipocytes may also exhibit
+phagocytic activity towards microorganisms and
+behave similarly to macrophage-like cells.
+Matsuo et al., 2020 [30]
+Mφ2 macrophage
+The type 2 macrophage (Mφ2) is produced by the type
+2 T helper immune response and takes on an
+anti-inflammatory role, typically characterized by an
+increase in the production of interleukins (IL-4, IL-5,
+IL-9, and IL-13). It is also directly involved in
+regenerative and tissue repair processes that occur
+after injuries.
+Contreras et al., 2015 [31];
+Dey et al., 2021 [32]
+T cells
+As components of the adaptive immune system with
+major importance, these cells are responsible for
+eliminating infected host cells, activating other
+immune cells, and secreting cytokines that further
+regulate immune responses.
+Dulong et al., 2022 [33]
+Endothelial precursor
+cells and endothelial
+cells
+They differentiate into functional endothelial cells and
+sustain vasculogenesis by incorporating themselves
+into the injured endothelium with the formation of
+functional blood vessels and through the local
+secretion of pro-angiogenic factors, with a paracrine
+effect on the cells that form the vessel. They play a
+critical role in vascular homeostasis as well as
+physiological or pathological processes such as
+thrombosis, inflammation, and vascular wall
+remodeling.
+Resting endothelial cells control blood flow and the
+passage of protein from blood into tissues, as well as
+inhibiting inflammation and preventing coagulation.
+Gulyaeva et al., 2019 [34]
+In the field of orthopedics, SVF has been investigated for the treatment of osteoarthritis
+(OA). In a retrospective study by Kim et al. [12] with 43 participants, SVF implantation was
+found to improve pain and cartilage regeneration in knee OA. Garza et al. [15] reported
+improved pain scores and cartilage regeneration in patients with knee OA following SVF
+implantation, and both studies underscored the absence of complications. Furthermore,
+Zhang et al. [ 13] demonstrated that SVF treatment resulted in better clinical outcomes
+compared to hyaluronic acid therapy in knee OA patients. In the retrospective study
+conducted by Brian et al. [20], which involved 350 participants, a pivotal focus was placed
+on patients with arthritis undergoing SVF cell therapy. This study stands out for its
+significant findings, which revealed marked improvements in both pain levels and mobility
+among the treated patients, especially notable in those diagnosed with stage III arthritis.
+These improvements were not just incremental but substantial, indicating a pronounced
+therapeutic effect of SVF therapy on the symptoms of arthritis [20]. In a prospective study
+by Perdomo-Pantoja et al. [17] with 36 participants, SVF was found to be comparable to
+bone marrow cells (BMCs) in spinal fusion, suggesting its viability in spinal surgeries.
+Similarly, Choi et al. [18] demonstrated a higher early bone fusion rate when using SVF,
+
+[W4391311681 PDF PAGE 10]
+Medicina 2024, 60, 221 10 of 19
+pointing towards its potential in enhancing spinal fusion outcomes in their prospective
+study with 10 participants. In plastic and reconstructive surgery, SVF-enriched fat grafting
+has shown positive results in improving graft survival and wound healing, as reported
+by Onoi et al. [11]. The prospective study by Kwon et al. [ 14], involving 20 participants,
+reported improved outcomes in scar revision surgery following SVF treatment. The study
+did not report any complications.
+Moon et al. [21] explored the use of SVF in reconstructive surgery, particularly for nasal
+defect repair. The study demonstrated that tissue-engineered dermis grafts incorporating
+SVF yielded superior scar quality in the alar zone of the nose compared to traditional
+artificial dermis grafts. This finding is significant as it highlights SVF’s potential in im-
+proving aesthetic outcomes in reconstructive surgery, offering more effective solutions
+for challenging areas like nasal defects [19,21]. Jeon et al. [24] reported increased fat graft
+survival rates in breast reconstruction with SVF. These findings suggest that SVF has broad
+applications in the field of regenerative medicine.
+Cardiology is another area where SVF therapy is being explored. Pre-clinical and
+early-phase clinical trials have shown encouraging results in the use of SVF for myocardial
+ischemia, as mentioned by Bai et al. [ 9]. This highlights the potential of SVF in cardiac
+regenerative medicine, although further research is needed to establish its safety and
+efficacy in larger clinical trials.
+It is worth noting that the reviewed studies have reported generally positive outcomes
+and a favorable safety profile for SVF therapy. Complications were infrequently reported
+across the studies, indicating a relatively low risk associated with SVF treatments. However,
+it is important to interpret these findings with caution due to the limited number of
+participants in some studies and the lack of long-term follow-up data [ 25]. Despite the
+promising results, this review also highlights the need for further research to address the
+limitations and challenges associated with SVF therapy [35–39] (Table 3).
+Table 3. Effect of stromal vascular fraction on tissues.
+Regulation of pro-inflammatory molecules Decreases IL-1b and IL-6 levels.
+Hyaline cartilage extracellular matrix Increases Glycosaminoglycan level.
+Triggering of IL-1Ra Reduces the catabolic effect of IL-1.
+Increasing of ADAMTS-4 and -5 Provides tissue balance (homeostasis).
+Anti-inflammatory Reduces tissue swelling (edema).
+Anti-apoptotic Reduces and stops programmed cell death.
+Increasing of TIMPs-1, -3, and -4 metalloproteinases Provides tissue balance (homeostasis).
+ADAMTS, A disintegrin and metalloproteinase with thrombospondin motifs; TIMPs, tissue inhibitors of
+mMetalloproteinases.
+For instance, the variability in SVF composition and preparation methods, as well
+as the optimal dosage and delivery methods, warrant further investigation. The stan-
+dardization of protocols and rigorous clinical trials will be crucial for establishing the
+safety and efficacy of SVF therapies. The findings indicate positive outcomes in terms
+of pain reduction, tissue regeneration, and improved clinical efficacy. However, further
+research is needed to address the limitations and challenges in order to unlock the full
+therapeutic potential of SVF and establish its role as a mainstream treatment option in
+regenerative medicine.
+Despite the limitations of some studies due to small sample sizes, the overall findings
+support the potential of SVF as a versatile tool in regenerative medicine. However, further
+research is necessary to address challenges such as standardizing SVF isolation and pro-
+cessing methods, optimizing dosage and delivery approaches, and conducting long-term
+follow-up studies to assess durability and potential side effects. The therapeutic potential
+of SVF 

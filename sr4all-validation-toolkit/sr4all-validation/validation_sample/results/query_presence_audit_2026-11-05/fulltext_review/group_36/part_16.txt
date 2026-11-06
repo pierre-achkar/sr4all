@@ -1,0 +1,255 @@
+0
+Medium quality: 5
+Low quality: 0
+Global Mixed Mixed Medium
+Treatment attendance 
+(n = 5)
+31, 32, 43, 44, 54
+High quality: 1
+Medium quality: 3
+Low quality: 1
+Global Inconsistent Mixed Limited–Medium
+Involvement in treatment Treatment credibility 
+(n = 7)
+51, 53, 54, 55, 60, 62, 63
+High quality: 1
+Medium quality: 5
+Low quality: 1
+Global Inconsistent Mixed Limited–Medium
+Engagement (n = 9)
+34, 47, 50, 51, 54, 55, 60, 
+62, 63
+High quality: 2
+Medium quality: 4
+Low quality: 3
+Global Consistent Mixed Medium–Strong
+Parental support (n = 8)
+30, 34, 51, 53, 55, 56, 
+62, 63
+High quality: 1
+Medium quality: 5
+Low quality: 2
+Global Mixed Mixed Medium
+
+[W4323533735 PDF PAGE 6]
+3310 European Child & Adolescent Psychiatry (2024) 33:3305–3319
+Main theme: pre‑treatment client characteristics
+This main theme includes demographics (i.e., subthemes: 
+ethnicity, gender, age), factors associated with the diagnos-
+tic classification and co-morbidity, ‘other problems’, pre-
+treatment motivation, and factors related to the severity of 
+problems. Limited to medium evidence was found for these 
+subthemes, mainly due to inconsistencies in results of dif-
+ferent studies.
+Demographics
+The three subthemes ethnicity, gender, and age did not 
+appear to have a clear association with treatment failure. We 
+found that the influence of ethnicity on treatment failure was 
+inconsistent, with two studies pointing to an increased risk 
+for ethnic minority youth to drop out of treatment [30, 31], 
+and four studies reporting no evidence for any association 
+between ethnicity and treatment failure [32–35].
+Regarding the subtheme gender, most studies showed 
+no association between gender and treatment failure [ 32, 
+35–39]. However, there was one study that found girls to be 
+more likely to be non-responders in treatment [40].
+The subtheme age during treatment was found in various 
+studies as a significant predictor of dropout, with older ado-
+lescents being more likely to drop out [30– 32, 37, 41–45]. 
+However, other studies found youth who drop out of treat-
+ment to be younger [35, 46]. Moreover, in most studies, no 
+evidence for any association between treatment failure and 
+age was found [31, 33, 34, 36, 38–40, 47–49]. In addition, 
+two studies reported that the age of onset was not related to 
+treatment failure [38, 42].
+Table 2  (continued)
+Theme Subtheme (number of 
+studies)
+Study numbers
+Quality (of individual 
+studies)
+Context Consistency Perspective Strength of overall 
+evidence
+Collaboration Therapeutic alliance 
+(n = 11)
+30, 32, 34, 54, 55, 56, 58, 
+61, 63, 64, 65
+High quality: 2
+Medium quality: 5
+Low quality: 4
+Global Inconsistent Mixed Limited–Medium
+Collegial collaboration 
+(n = 2)
+51, 59
+High quality: 0
+Medium quality: 1
+Low quality: 1
+Global Consistent Mixed Medium
+Transparency and com-
+munication (n = 5)
+51, 55, 56, 60, 63
+High quality: 1
+Medium quality: 3
+Low quality: 1
+Global Consistent Mixed Medium–Strong
+Goodness of fit (n = 4)
+51, 55, 56, 63
+High quality: 1
+Medium quality: 2
+Low quality: 1
+Global Consistent Mixed Medium–Strong
+Perspective of practitioner 
+(n = 6)
+47, 51, 54, 55, 56, 63
+High quality: 2
+Medium quality: 2
+Low quality: 2
+Global Consistent Mixed Strong
+Type of practitioner (n = 3)
+43, 45, 46
+High quality: 0
+Medium quality: 2
+Low quality: 1
+Global Inconsistent Single No evidence
+Organizational factors
+Financial coverage (n = 2)
+45, 56
+High quality: 0
+Medium quality: 0
+Low quality: 2
+Global Mixed Mixed Limited–Medium
+Accessibility (n = 2)
+51, 56
+High quality: 0
+Medium quality: 1
+Low quality: 1
+Global Consistent Mixed Medium
+Procedural/referral (n = 6)
+35, 37, 46, 51, 55, 56
+High quality: 1
+Medium quality: 4
+Low quality: 1
+Global Inconsistent Mixed Limited–Medium
+Transition to other services 
+(n = 2)
+41, 51
+High quality: 0
+Medium quality: 2
+Low quality: 0
+Global Consistent Mixed Medium
+aWeighting of related studies: A. study #30 and #40 count as one, B. study #32 and #47 count as different studies, C. study #44 and #58 count as 
+one, D. study #53 and #65 count as one
+
+[W4323533735 PDF PAGE 7]
+3311European Child & Adolescent Psychiatry (2024) 33:3305–3319 
+Classification/comorbidity
+Some studies found that having a co-morbid psychiatric dis-
+order predicted greater dropout and lower rates of remission 
+[44, 47, 50]. Different types of classifications were reported 
+to be related to treatment failure, including conduct disor -
+der [35], social phobia [50], borderline personality traits 
+[51], substance use disorders [37, 45, 52], and co-occurring 
+behavioral disorders [38, 45, 52]. Findings from one study 
+suggested that compared with the other patient groups, 
+mood disorders, especially major depression, were less 
+common among dropouts [37]. On the contrary, there were 
+also various studies that showed no evidence for a relation-
+ship between treatment failure and youth’s classification or 
+comorbidity [30, 32, 36, 39, 40, 48, 53].
+Other problems
+Subtheme ‘other problems’ included various types of prob-
+lems related to school, relationships, or with the law. We 
+found consistent evidence in studies reporting that youth 
+who dropped out showed a lack of stability in their life [35, 
+46, 47], more externalizing behavior, substance use, and 
+problems with the law [32, 33, 36, 37, 47]. In addition, a 
+few studies that included youth with various types of clas-
+sifications reported that dropouts have lower internalizing 
+and higher delinquent and externalizing behavior [31, 35, 39, 
+46]. However, one study on youth with Borderline Person-
+ality Disorder did not find that association [49]. Moreover, 
+inconsistent results were found for the association between 
+treatment failure and intellectual functioning [32, 36, 43, 
+49], self-harming behavior [37, 47] and, problems with 
+developmental issues, such as sexuality [35, 46, 49, 51, 54].
+Pre‑treatment motivation
+Youth’s preconceptions of mental health care and not being 
+open to help were related to treatment failure according to 
+some studies [50, 51, 55]. In addition, their own beliefs 
+about their mental illness and fear of coping with their 
+symptoms prevented youth from being motivated to change 
+[50, 56]. However, other studies refuted this finding and 
+Fig. 2  Descriptive overview of factors related to treatment failure in youth with SEMHP
+
+[W4323533735 PDF PAGE 8]
+3312 European Child & Adolescent Psychiatry (2024) 33:3305–3319
+found no evidence for the association between pre-treatment 
+motivation and dropout [34, 39, 53].
+Severity
+Some studies showed that more severe symptoms (e.g., base-
+line severity, suicide attempt, hospital admittance, duration 
+of illness) led to increased odds of dropout [30, 37, 38, 40, 
+42, 45, 48, 57], while studies also found contrary evidence 
+for severity symptoms in association with treatment failure, 
+such as prior treatment and duration of illness [30, 42, 48]. 
+Other studies found no evidence for this association con-
+cerning the severity of illness in relation to treatment failure 
+[32, 34–36, 39, 47, 49, 50, 58, 59].
+Main theme: family
+The main theme ‘family’ consists of the subthemes ‘family 
+characteristics’ and ‘parental personal problems’. Strength of 
+evidence of these subthemes was limited to medium.
+Family characteristics
+Some studies found an association between dropout and SES 
+[37], marital status [46], youth living with one parent [42], 
+foster care [34, 37], and dysfunctional families [44, 52]. 
+However, other studies refuted these findings and reported 
+that treatment failure was not related to the number of par -
+ents [43], family caregiver structure [30, 35, 52], parenting 
+styles [32], and SES [30, 33, 34, 36].
+Parental personal problems
+Some studies associated the following factors with dropout: 
+psychological characteristics of parents (e.g., internalizing 
+problems, difficulties in empathizing, and modulation of 
+autonomy/dependency) and other responsibilities or conflict 
+over care [51, 53, 56]. However, one study found that more 
+engaged youth reported more family conflicts, thus being 
+more motivated to change [33].
+Category 2. Treatment factors
+Main theme: clinical factors
+The main theme ‘clinical factors’ comprises the type, fre-
+quency and length of treatment, and treatment attendance. 
+Although the strength of evidence was limited for most of 
+the subthemes, the strength of evidence for the subtheme 
+‘type of treatment’ was medium to strong.
+Type of treatment
+Studies reported that the type of treatment [31, 47, 52] and a 
+lack of flexibility within the treatment format [51, 55] were 
+related to dropout. Especially in group treatment, studies 
+showed that youth had difficulties with the group format, 
+because it felt unsafe to open up [50, 60]. Although, there 
+were also studies that found no evidence for the association 
+between the type of treatment and treatment failure, deeper 
+analysis showed that most of these studies involved indi-
+vidual treatment [30, 32, 33, 39, 43, 44, 53, 54].
+Frequency and length of treatment
+Evidence regarding the frequency and length of treatment 
+was mixed. On one hand, for youth with eating disorders, 
+being hospitalized longer and more frequently was a risk for 
+dropout [42, 44, 57]. On the other hand, studies of various 
+other mental health problems reported that the treatment 
+duration of dropouts was lower compared to completers [61], 
+and treatment effectivity increased when treatment was more 
+frequently provided [39].
+Treatment attendance
+Some studies showed that those with a history of missed 
+appointments were more likely to drop out [31, 32, 43, 54]. 
+However, another study found no relation between treatment 
+attendance and ineffective treatment [44].
+Main theme: involvement in treatment
+This main theme includes treatment credibility, engagement 
+in treatment, and parental support. The strength of evidence 
+for the subtheme ‘engagement’ was medium to strong, while 
+the other subthemes were rated limited to medium.
+Treatment credibility
+Treatment credibility can be de

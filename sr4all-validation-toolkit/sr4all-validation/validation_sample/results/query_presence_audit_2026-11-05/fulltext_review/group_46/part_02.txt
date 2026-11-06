@@ -1,0 +1,231 @@
+untry Design Study period Median 
+follow-up 
+time, months 
+(range)
+Disease status Sample size Median age, 
+years (range)
+Gender 
+male/
+female
+Primary intervention Main outcomes
+Hsu, et al 2022 China Retrospective 2013/1–2018/1 / Intraocular lym-
+phoma (IOL)
+12 / 5/7 ioMTX + systemic 
+high-dose MTX
+CR, OR, OS, PFS, 
+AEs
+Ma, et al 2016 China Retrospective 2003/1–
+2013/12
+40.2(4.4–123.3) PIOL 19 57(39–77) 6/13 ioMTX + systemic 
+high-dose MTX
+CR, OR, OS, 
+mPFS, AEs
+Lam, et al 2021 French Retrospective 2011/1–2018/3 61(50–71) PVRL 59 70(39–88) 14/45 IV HD-MTX based 
+systemic  therapy
+CR, OR, mPFS, 
+OS, AEs
+Wang, et al 2021 China Retrospective 2020/5-? 7.5(4–15) VRL 11 61(41–73) 4/7 zanubrutinib
+orelabrutin
+CR, OR, PFS, AEs
+Cheah, et al 2016 United States Retrospective
+database
+2007/10–
+2015/4
+50.4(21.6–91.2) Primary 
+intraocular lym-
+phoma (PIOL)
+11 66(48–72) 2/9 Bilateral RT + MTX-
+based chemotherapy
+CR, OR, AEs, 
+mPFS, OS
+Klimova, et al 2018 Czech Republic Retrospective 2004–2016 56(3–166) PVRL 
+and PCNSL
+20 (10) 20 (10) / multiple combination 
+therapies
+5OS, PFS, OS
+Castellino, et al 2019 United States Retrospective 1990–2018 33.6(1.2–175.2) primary 
+and concurrent
+VRL
+69 65(36–85) 34/35 multiple combination 
+therapies
+mFFS, CNS-
+RFS,OS
+Gozzi, et al 2021 Italy Retrospective 2006/1–
+2020/10
+22(9–58) VRL 22 65(55–72) 10/12 multiple combination 
+therapies
+5OS, PFS
+Kim, et al 2016 United States Retrospective 1994–2010 29(10.2–96.4) primary 
+and concurrent
+IOL
+22 65 8/14 multiple combination 
+therapies
+FFS, OS
+Riemens, et al 2015 Europe Retrospective 1991/1–
+2012/12
+49(15–246) primary 
+vitreoretinal 
+lymphoma 
+(PVRL)
+78 58(38–86) 34/44 multiple combination 
+therapies
+OS, PFS
+Lee, et al 2015 Korea Retrospective 2007/12–
+2014/6
+/ IOL 20 59(34–76) 13/7 multiple combination 
+therapies
+mPFS, OS
+Teckie, et al 2014 United States Retrospective 1999–2011 25(2–150) primary 
+intraocular lym-
+phoma (PIOL)
+18 64(32–82) 7/11 multiple combination 
+therapies
+ORR, 2OS, 2PFS
+Abbreviations: PVRL Primary vitreoretinal lymphoma, PIOL Primary intraocular lymphoma, PCNSL Primary central nervous system lymphoma, VRL Vitreoretinal lymphoma, MTX Methotrexate, ioMTX intravitreal MTX, R-MPV 
+Rituximab, methotrexate, procarbazine, vincristine, rdWBRT reduced-dose whole-brain radiotherapy, Btki Bruton tyrosine kinase inhibitors, OR Overall response, CR Complete response, OS Overall survival, mPFS median 
+progression-free survival, AEs Adverse event, DFS Disease-free survival
+
+[W4388904117 PDF PAGE 7]
+Page 7 of 14
+Gao et al. BMC Ophthalmology          (2023) 23:477 
+ 
+0.15–0.75) for the combination therapy group compared 
+to 8% (95% CI: 0.0–0.20) for the monotherapy group, and 
+the overall pooled value was 31% (95% CI: 0.09–0.53), 
+indicating that less severe toxicity occurred in the mon -
+otherapy group than in the combination therapy group, 
+as depicted in Fig.  6. Moreover, in the combination 
+treatment group, major serious toxic reactions included 
+cataract (pooled value of 43%, 95% CI: 0.26–0.61) and 
+neutropenia (pooled value of 35%, 95% CI: 0.00–0.77), 
+as illustrated in Figure S10 and S11. While in the mono -
+therapy group, only four cases of grade 3/4 toxicity were 
+reported in the literature using temozolomide, which 
+Fig. 2 Forest plot for pooled overall response rate (A) and complete response rate (B) across the combined treatment group and the monotherapy 
+group
+
+[W4388904117 PDF PAGE 8]
+Page 8 of 14Gao et al. BMC Ophthalmology          (2023) 23:477 
+consisted of 3 cases of grade 3 anemia and vomiting and 
+1 case of grade 4 neutropenia and thrombocytopenia.
+The forest plot in Figure S12 shows that central nerv -
+ous system (CNS) relapse was reported in 14 publica -
+tions in the combination therapy group, while only 1 
+publication reported it in the monotherapy group. The 
+incidence rate of CNS relapse was 31% (95% CI: 0.25–
+0.37) in the combination therapy group, with a median 
+follow-up time of 33.6  months (ranging from 0.3 to 
+175.2 months). In the monotherapy group, only one trial 
+provided information on CNS relapse, with a 30% inci -
+dence and a median follow-up time of 8.3 months (rang -
+ing from 2.5 to 21.4 months). Twelve publications in the 
+combination therapy group reported ocular recurrence 
+with a combined incidence of 24% (95% CI, 0.17 to 0.31) 
+(Figure S13), while one publication in the monotherapy 
+group reported ocular recurrence in 2 of 10 patients 
+[25]. However, due to the limited number of studies and 
+small sample size in the monotherapy group, further 
+research is needed to better understand any potential 
+Fig. 3 Forest plot for pooled overall response rate (A) and complete response rate (B) across the combined treatment group and the BTKi group
+
+[W4388904117 PDF PAGE 9]
+Page 9 of 14
+Gao et al. BMC Ophthalmology          (2023) 23:477 
+ 
+differences in ocular recurrence between the two treat -
+ment approaches.
+Discussion
+Intraocular lymphoma, being an uncommon ailment, 
+can be mistakenly identified as uveitis during diagno -
+sis. Additionally, a treatment approach that achieves 
+both effectiveness and safety remains elusive. Moreover, 
+the long-term prognosis for PVRL patients is bleak, as 
+around 60%-80% of them eventually develop PCNSL, as 
+reported in 1999 by Akpek [29]. Treatment modalities for 
+PVRL are variable and include methotrexate-based local/
+systemic therapy, local/whole-brain radiation therapy, 
+various monotherapy and intensive chemotherapy plus 
+hematopoietic stem cell transplantation (IC + ASCT), the 
+optimal treatment modality has not yet been identified.
+Intravitreal methotrexate (ioMTX) is an early pro -
+posed local treatment with a high remission rate but 
+usually a poor prognosis, with most patients experienc -
+ing CNS progression within a short period of time (2004 
+Coupland) [30]. Anthony et  al. designed a small sample 
+single-center retrospective study to investigate the effi -
+cacy of ioMTX alone in the treatment of PVRL [11]. 
+Although all achieved CR or PR, their time until disease 
+recurrence was not promising (mean time to first recur -
+rence was 6.5  months). Based on the anatomical and 
+functional similarities of PVRL to PCNSL at the blood–
+brain barrier (BBB) and blood-retinal barrier (BRB), 
+intravenous high-dose methotrexate injection (IV HD-
+MTX) has also been used as an empirical agent for PVRL 
+treatment and is often combined with ioMTX and local 
+radiotherapy to improve efficacy (Akiyama, de la Fuente) 
+[19, 22].
+Lam et al. gathered data pertaining to 59 patients who 
+were diagnosed with isolated primary vitreoretinal lym -
+phoma (PVRL) from the French LOC network database, 
+in order to examine the effectiveness and adverse effects 
+of intravenous high-dose methotrexate (HD-MTX)-based 
+systemic chemotherapy in treating PVRL patients [8]. 
+Despite the fact that 70% of patients attained a complete 
+response (CR) or unconfirmed complete response (uCR), 
+the relapse rate was not insignificant (with a median 
+Fig. 4 Survival curves in the combined treatment group versus the monotherapy group
+
+[W4388904117 PDF PAGE 10]
+Page 10 of 14Gao et al. BMC Ophthalmology          (2023) 23:477 
+Fig. 5 Survival curves in the combined treatment group versus the monotherapy group in the retrospective study subgroup
+Fig. 6 Forest plot for pooled grade 3/4 adverse events (AEs) across the combined treatment group and the monotherapy group
+
+[W4388904117 PDF PAGE 11]
+Page 11 of 14
+Gao et al. BMC Ophthalmology          (2023) 23:477 
+ 
+follow-up of 61  months, 37% of patients experienced 
+central nervous system recurrence and 58% had ocular 
+recurrence), and the occurrence of grade 3/4 toxicity in 
+53% of patients implied poor tolerability. Furthermore, 
+there are instances of using more than two regimens for 
+treating PVRL. Kaburaki et al. ’s R-MTX + ioMTX + rdW-
+BRT (reduced-dose whole brain radiation therapy) regi -
+men for PVRL resulted in long-term progression-free 
+survival (PFS) and overall survival (OS) (with a 4-year 
+PFS of 74.9% and a 4-year OS of 86.3%), as well as a low 
+overall relapse rate (23.5%) [26]. However, it is important 
+to note that this regimen was associated with significant 
+grade 3/4 hematologic toxicity.
+In addition, intraocular injection of rituximab as 
+another intravitreal treatment for VRL, usually at a dose 
+of 1 mg/0.1 mL, was first used by Kitzmann et al. in 2007 
+and achieved rapid remission in 8 eyes of 5 patients, dem-
+onstrating good tolerability [31]. Subsequently, Hashida 
+et  al. included 13 patients’ 20 eyes in their 2012 study, 
+all of whom exhibited severe corneal epithelial lesions or 
+were unresponsive to repeated ioMTX injections. Fol -
+lowing a course of intraocular rituximab therapy, initial 
+control of retinal lesions was achieved. However, within 
+three months, 11 eyes (55%) of nine patients experi -
+enced ocular relapse, and 9 cases (69%) eventually pro -
+gressed to central nervous system involvement [32]. In 
+2014, Larkin et al. designed a multinational, multicenter 
+study with a larger cohort, consisting of 48 eyes from 
+34 patients. The treatment was based on intravitreal 
+injection of rituximab. Ultimately, complete and partial 
+remission were observed in 31 eyes (64.6%) and 11 eyes 
+(22.9%), respectively, while 12 eyes (25%) suffered com -
+plications, potentially due to rituximab [33]. To assess the 
+therapeutic response and safety of intravitreal rituximab 
+in PVRL patients, Kakkassery et al. conducted a study in 
+2021, enrolling 20 eyes from 15 consecutively diagnosed 
+PVRL patients. No other intravitreal or systemic injec -
+tions were given during treatment. Following therapy, 
+there was a significant reduction in vitreous haze scores, 
+marked improvement in best-corrected visual acuity, and 
+no manifestation of severe adverse effects [34].
+In recent times, various monotherapy regimens have 
+been investigated to identify an effective and safe treat -
+ment combination. Temozolomide (TMZ), a second-
+generation alkylating agent that is w

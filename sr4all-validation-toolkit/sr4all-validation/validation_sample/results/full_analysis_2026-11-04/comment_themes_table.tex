@@ -1,0 +1,26 @@
+\begin{table}[t]
+\centering
+\small
+\caption{AI-assisted coding of all nonempty annotation comments. Counts are unique document--fields within each theme and current resolution status: extracted errors (E error), unresolved extracted fields (E pending), resolved non-error extracted fields (E other), null-present (N missed), unresolved null fields (N pending), and null-absent (N absent). Themes overlap and describe comment content, not independently verified causes.}
+\resizebox{\linewidth}{!}{%
+\begin{tabular}{lrrrrrr}
+\toprule
+Theme & E error & E pending & E other & N missed & N pending & N absent \\
+\midrule
+incomplete value & 172 & 78 & 19 & 0 & 0 & 0 \\
+wrong value & 29 & 13 & 0 & 1 & 0 & 0 \\
+evidence mismatch & 5 & 12 & 3 & 0 & 0 & 0 \\
+ocr layout & 3 & 2 & 0 & 0 & 1 & 0 \\
+query syntax & 8 & 5 & 0 & 1 & 0 & 0 \\
+normalization scope & 72 & 37 & 37 & 103 & 40 & 130 \\
+source inconsistency & 11 & 7 & 0 & 3 & 0 & 0 \\
+source access & 4 & 3 & 7 & 4 & 2 & 183 \\
+presence evidence & 0 & 0 & 0 & 196 & 49 & 28 \\
+absence statement & 3 & 7 & 15 & 52 & 25 & 219 \\
+supporting note & 21 & 14 & 21 & 5 & 4 & 0 \\
+unclear note & 3 & 4 & 2 & 2 & 7 & 1 \\
+other & 8 & 3 & 1 & 0 & 0 & 0 \\
+\bottomrule
+\end{tabular}}
+\label{tab:validation-comment-themes}
+\end{table}

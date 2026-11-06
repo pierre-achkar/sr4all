@@ -1,0 +1,371 @@
+he bias domains were classified as having an unclear 
+or high risk of bias. Any disagreement was solved by consensus using a third author (LLG).
+Data synthesis
+We compared the fixed-effects and random-effects estimates of the intervention effect. If the estimates 
+were similar, we assumed that any small-study effects had a minimal impact on the intervention effect 
+estimate.  If the random-effects  estimate showed a larger statistical  effect, we re-evaluated  whether it 
+
+[W4378220627 PDF PAGE 5]
+Halkjær SI et al. FMT in IBS: A meta-analysis
+WJG https://www.wjgnet.com 3189 May 28, 2023 Volume 29 Issue 20
+was reasonable to conclude that the intervention  was more effective in the smaller trials. If the larger 
+trials appeared to be conducted with greater methodological rigour, or were conducted in circumstances 
+more typical of the use of the intervention  in practice,  we reported the results of meta-analyses  only 
+from the larger trials.
+Based on predictable  clinical  heterogeneity,  we expected  that several  analyses  would show, at a 
+minimum,  moderate  heterogeneity  (I2 > 30%). For random-effects  models  precision  decreases,  and 
+confidence  intervals widen, with increasing  heterogeneity.  We therefore expected the random-effects 
+model would provide the most conservative  (and thus a more accurate)  estimate of the intervention 
+effect. As such, we planned to report the results of our analyses based on meta-analyses  of random-
+effects models.
+Subgroup and sensitivity analysis
+We conducted a number of subgroup analyses: fresh vs frozen FMT; quantity of FMT; route of adminis-
+tration (upper gastrointestinal tract (e.g., capsulated, nasogastric, nasoduodenal, gastric tube) vs colonic (
+e.g., rectal));  type of donor (single  vs mixed);  frequency  of administration  (single  vs multiple);  IBS 
+subtypes (diarrhoea-predominant, constipation-predominant, or mixed type).
+Statistical analyses
+We combined data from individual trials for meta-analysis when the interventions, patient groups, and 
+outcomes  were sufficiently  similar,  using the Review  Manager  version  5.4.1.  Risk ratios  (RR) were 
+calculated  for dichotomous  outcomes with 95%CI. For continuous  outcomes, we calculated  the mean 
+difference (MD) if all studies reported their outcomes using the same scale, and standardised MD with 
+95%CI if the studies used different scales to report their outcomes. We extracted data for all randomised 
+participants  and all participants  with missing outcome data. Missing data were described,  including 
+dropouts and reasons for dropout, as reported by the authors.
+Heterogeneity  was assessed  through  a systematic  examination  of forest  plots and quantified  by 
+calculating  I2 values. The classification  of heterogeneity  levels was established  using the subsequent 
+thresholds:  0%-40% (insignificant),  40%-60%  (moderate),  60%-80%  (substantial),  and > 80% (consid-
+erable). Additionally, the P value for the chi-squared test was included in the evaluation[66].
+The outcomes  reported  in protocols  were compared  with published  trial reports.  In addition,  for 
+direct meta-analyses  with at least 10 randomised  clinical trials, we assessed reporting biases through 
+regression analyses and visual inspection of funnel plots from the pairwise meta-analyses.
+Assessing the certainty of the evidence
+We used the GRADE approach to evaluate the overall certainty of the evidence and we followed the 
+recommendations of the Cochrane Handbook for Systematic Reviews of Interventions[65]. We classified 
+the certainty of evidence as ‘high’, ‘moderate’, ‘low’, or ‘very low’.
+High certainty: We are very confident that the true effect lies close to that of the estimate of the effect.
+Moderate certainty:  We are moderately  confident  in the effect estimate;  the true effect is likely to be 
+close to the estimate of the effect, but there is a possibility that it is substantially different.
+Low certainty:  Our confidence  in the effect estimate  is limited;  the true effect may be substantially 
+different from the estimate of the effect.
+Very low certainty: We have very little confidence in the effect estimate; the true effect is likely to be 
+substantially different from the estimate of the effect.
+RESULTS
+Trial selection
+A search conducted on 24 October 2022 identified 2067 records, which were imported for screening into 
+the computer program Covidence (https://www.covidence.org/ ). Of these records, 840 were removed 
+as duplicates. We screened the titles and abstracts of the remaining 1227. We excluded 1160 reports as 
+non-relevant. In total, 67 records met the criteria for full-text review.
+After reading the full texts, we excluded 45 as they did not fulfil our eligibility criteria. The remaining 
+22 texts, originating from eight different trials, were included in our systematic review (Figure 1)[43,44,
+58-63].
+Supplementary Table 2 contains the complete set of search terms used in each electronic database.
+A summary  of the  trials  can  be found  in Table 1; a full  description  of them  is provided  in 
+Supplementary Table 4.
+
+[W4378220627 PDF PAGE 6]
+Halkjær SI et al. FMT in IBS: A meta-analysis
+WJG https://www.wjgnet.com 3190 May 28, 2023 Volume 29 Issue 20
+Table 1 Characteristics of randomised controlled trials of faecal microbiota transplantation for treating irritable bowel syndrome
+Ref. Trial 
+design Country Sample 
+size
+IBS 
+subtypes
+Inclusion 
+criteria
+Frequency and 
+route of 
+administration
+FMT-content Placebo 
+content Pretreatment Number 
+of donors
+Aroniadis 
+et al[59], 
+2019
+RCT, 
+crossover
+United 
+States
+48 (25 
+FMT vs 
+23 
+placebo)
+IBS-D Moderate-to-
+severe IBS 
+symptoms 
+(IBS-SSS > 
+175)
+3 d of 25 oral 
+capsules
+3 × 25 frozen 
+capsules (0.38 g 
+donor 
+stool/capsule) 
+(Openbiome)
+Non-toxic 
+brown 
+pigment
+PPI for three 
+days
+One donor 
+for one 
+patient 
+(four 
+different 
+donors)
+El-Salhy 
+et al[60], 
+2020
+RCT, 3 
+parallel 
+groups
+Norway 164 
+(54/30 
+gram 
+FMT, 
+55/60 
+gram 
+FMT, 55 
+placebo)
+All 
+subtypes
+Moderate-to-
+severe IBS 
+symptoms 
+(IBS-SSS > 
+175)
+Single treatment 
+via gastroscope 
+to distal 
+duodenum
+Once 30 g or 60 
+gram of frozen 
+feces in sterile 
+saline solution
+Autologous 
+faeces
+None One donor
+Halkjær 
+et al[43], 
+2018
+RCT, 2 
+parallel 
+groups
+Denmark 51 (25 
+FMT, 26 
+placebo)
+All 
+subtypes
+Moderate-to-
+severe IBS 
+symptoms 
+(IBS-SSS > 
+175)
+12 d of 25 oral 
+capsules
+25 FMT 
+capsules (one 
+daily dose 
+containing 
+approximately 
+12 g frozen 
+faecal material)
+Saline, 
+glycerol 
+and food 
+colouring 
+E150
+Bowel 
+cleansing
+Donor mix 
+from four 
+donors 
+Holster et 
+al[61], 
+2019
+RCT, 2 
+parallel 
+groups
+Sweden 16 (8 
+FMT, 8 
+placebo)
+All 
+subtypes
+IBS with 
+small 
+amounts of 
+butyrate-
+producing 
+bacteria
+Single treatment 
+via colonoscopy 
+to the caecum 
+30 g frozen 
+stool in sterile 
+saline and 
+glycerol
+Autologous 
+feces
+Bowel 
+cleansing and 
+4 mg 
+loperamide
+Two 
+donors 
+(three 
+patients 
+received 
+stool from 
+donor 1, 
+the 
+remaining 
+five from 
+donor 2)
+Holvoet 
+et al[44], 
+2021
+RCT, 2 
+parallel 
+groups
+Belgium 62 (43 
+FMT, 19 
+placebo)
+IBS-D and 
+IBS-M
+Refractory 
+IBS with 
+failure of at 
+least three 
+conventional 
+IBS therapies
+Single treatment 
+via nasojejunal 
+administration
+Fresh feces 
+mixed with 
+saline
+Autologous 
+feces
+Bowel 
+cleansing
+Two 
+donors
+Johnsen et 
+al[62], 
+2018
+RCT, 3 
+parallel 
+groups
+Norway 83 (26 
+fresh 
+FMT, 29 
+frozen 
+FMT, 28 
+placebo)
+IBS-D and 
+IBS-M
+Moderate-to-
+severe IBS 
+symptoms 
+(IBS-SSS > 
+175)
+Single treatment 
+administered 
+into the caecum 
+via colonoscopy
+50–80 g fresh or 
+frozen feces 
+mixed with 
+saline and 
+glycerol
+Autologous 
+feces
+Bowel 
+cleansing and 
+8 mg 
+loperamid
+Donor mix 
+from two 
+donors
+Lahtinen 
+et al[58], 
+2020
+RCT, 2 
+parallel 
+groups
+Finland 51 (25 
+FMT, 26 
+placebo)
+IBS-D, 
+IBS-M and 
+IBS-U
+Patients who 
+remained 
+symptomatic 
+despite 
+receiving 
+conventional 
+treatment
+Single treatment 
+administered 
+into the caecum 
+via colonoscopy
+30 g frozen 
+suspension
+Autologous 
+feces
+Bowel 
+cleansing
+One donor
+Singh et al
+[63], 2022
+RCT, 4 
+parallel 
+groups
+United 
+States
+23 (11 
+FMT, 12 
+placebo)
+IBS-D IBS-SSS > 150 
+or > 175
+Single treatment 
+with 19 oral 
+capsules
+Capsule 
+contain 0.75 
+frozen fecal 
+filtrate) 
+(Openbiome)
+Glycerol 
+with brown 
+coloring 
+agent
+Bowel 
+cleansing
+Six donors 
+(unknown 
+if donors 
+were 
+mixed)
+FMT: Fecal microbiota  transplantation;  IBS: Irritable  bowel syndrome;  IBS-C: Constipation-predominant  irritable  bowel syndrome;  IBS-D: Diarrhoea-
+predominant  irritable  bowel syndrome;  IBS-M:  Mixed irritable  bowel syndrome;  IBS-U:  Unclassified  irritable  bowel syndrome;  RCT: Randomised 
+controlled trials; PPI: Proton pump inhibitors.
+Study design and setting
+We included  eight trials that were published  between  2018 and 2022[43,44,58-63]. These were either 
+single-centre  trials [44,60-63] or multicentre  trials [43,58,59] and  were  conducted  in Belgium [44], 
+Denmark[43], Finland[58], Norway[60,62], Sweden[61] and the United States[59,63].
+
+[W4378220627 PDF PAGE 7]
+Halkjær SI et al. FMT in IBS: A meta-analysis
+WJG https://www.wjgnet.com 3191 May 28, 2023 Volume 29 Issue 20
+Figure 1  PRISMA flow diagram for the literature search.
+All participants  in the trials  were diagnosed  with IBS by a physician  and according  to accepted, 
+symptom-based diagnostic criteria (e.g., the Rome criteria)[5]. Participants in the Lahtinen et al[58] trial 
+were diagnosed by a gastroenterologist, Aroniadis et al[59], Halkjær et al[43], Holster et al[61], Holvoet et 
+al[44], Johnsen et al[62] and Singh et al[63] all used the Rome III criteria; El-Salhy et al[60] used the Rome 
+IV criteria.
+Four trials included participants with moderate-to-severe IBS symptoms, indicated by a score of 175 
+or more on the IBS severity scoring system (IBS-SSS)[43,59,60,62]. We are unsure whether Singh et al[63] 
+used a score of 150 or 175 or more on the IBS-SSS, as both are referred to in their article. The remaining 
+three  tri

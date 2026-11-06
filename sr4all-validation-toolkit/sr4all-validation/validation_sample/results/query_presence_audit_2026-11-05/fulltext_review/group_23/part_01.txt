@@ -1,0 +1,409 @@
+sk factor analysis
+[17]. Two of these studies compared myocardial strain to
+LVEF [18, 19]. A linear approach was reported in six studies
+(FS n = 1366, Teichholz LVEF n = 557). Two studies reported
+continuous values and provided prevalences according to their
+local cut-off values upon request [ 14, 16, 20–23].
+Median follow-up from cancer diagnosis until echocardio-
+graphic examination varied between the studies from 9 to 23
+years, as did the proportion of survivors who received radio-
+therapy involving the heart region (5 –52%). Median cumula-
+tive anthracycline dose ranged from 166 to 333 mg/m 2,b u t
+studies used different dose-equivalence ratios.
+Risk of bias assessment
+Figure 2 depicts the risk of bias assessment. Ninety-one per-
+cent of the studies did not report original cohort sizes and thus
+Fig. 1 PRISMA flowchart of
+study selection. Flowchart
+describing the systematic
+literature search and inclusion of
+studies. *Multiple reasons can be
+given per study, references in
+Online Resource 3. **Although
+directly eligible, 2 of these 6
+authors provided additional data
+upon request
+340 J Cancer Surviv  (2022) 16:338–352
+1 3
+
+[W3137098375 PDF PAGE 4]
+Table 1 Characteristics of included studies assessing prevalence and/or risk factors of asy mptomatic left ventricular systolic dysfunction
+1st Author, year
+country, period
+Design, population Original
+cohorta
+(n)
+Prevalencea Risk
+factors
+Eligible
+(n)
+(%
+males)
+Age at
+diagnosis,
+Years since
+diagnosis,
+Attained
+age (years)
+Cumulative
+anthracycline
+dose (mg/m2)
+Heart
+RT
+(n
+(%))
+Current
+CHF (n)
+Dexrazoxane
+(n)
+Outcome
+definition
+Prevalence
+(n (%; 95%
+CI)
+Eligible
+Slieker, 2019b
+Canada, n.m., [13]
+n = 546
+Cross-sectional,
+Last ANT dose
++ ≥ 3 years.
+Attained age < 18 years
+No SCT, CHD
+or familial CMP
+n.m. 467 (54) 3.4 [0.1 –13.2]
+9.2 [5.0–17.2]
+14.1 [5.2–18.8]
+166 [18–699]
+(Cardiotoxic
+doxorubicin
+equivalence)
+49 (10) 0 17 Biplane LVEF < 50%
+GLS Z-score < − 2 (single-view, EchoPac
+software)
+2/338 (0.6; 0–1.8)
+39/435 (9; 6.4–
+11.8)
+Yes
+Li, 2019c
+China, n.m., [14]
+n = 103
+Prospective,
+cross-sectional,
+ANT, treatment
++ ≥ 5 years, attained
+age ≥ 15 years
+n.m. 103 (55) 8.2 ± 5.0 d
+15.2 ± 5.8
+25.0 ± 5.8
+220 [60–675]
+(Conversion
+factor n.m.)
+5 (5) 0 n.m. FS < 27% 1/103 (1.0; 0–4.1) No
+Armenian, 2018b
+California, USA,
+2014–2017 [15]
+n = 221
+cross-sectional,
+ANT, diagnosis
++ ≥ 2y e a r s
+n.m. 193 (52) 11.4 [< 1 –22]e
+15.8 [5.1–44.8]
+26.1 [13.0–59.9]
+235 [25–642]
+(Haematotoxic
+doxorubicin
+equivalence)
+30 (16) 1 n.m. Biplane LVEF < 50% 11/193 (5.7; 3– 9) No
+Pourier, 2017c
+Netherlands, 2006–2010,
+[16]
+n = 340
+Retrospective
+cross-sectional,
+ANT, diagnosis
++ ≥ 5 years,
+asymptomatic,
+no CHD
+n.m. 340 (54) 5.9 [0 –17.5]
+13.7 [4.9–32.0]
+21.3 [6.0–43.0]
+180 [30–600]
+(Doxorubicin
++ daunorubicin)
+49 (14) 0 n.m. FS < 27%
+Teich EF < 50%
+1/340 (0.3; 0–1.3)
+1/340 (0.3; 0–1.3)
+No
+Christiansen, 2016
+Norway, 2007–2011 [17]
+n = 231
+Cross-sectional,
+ALL/lymphoma,
+diagnosis + ≥ 5
+years,
+attained age ≥ 18
+years
+n.m. 231f (51)f 9.3 ± 5.1 f
+21.9 ± 8.0 f
+31.1 ± 7.8 f
+150 [40–485]f
+(Conversion
+factor n.m.)
+52 (23)f
+40 Gyf
+n.m.f n.m.f Biplane LVEF < 50%
+GLS > controls -1.96SD
+EchoPac software
+Not eligiblef Yes
+Armstrong, 2015
+Tennessee, USA, n.m. [18]
+n = 1807
+Prospective
+cross-sectional, ANT
+or RT, diagnosis
++ ≥ 10 years, attained
+age ≥ 18 years
+n.m. 1514 (52) n.m. [0 –>19]e
+22.6 [10.4–48.3]
+31 [18–65]
+n.m. [up to > 600]
+(Conversion factor
+n.m.)
+464 (31) 17 n.m. 3D LVEF < 50%
+GLS > age/sex norm
+GCS > age/sex norm
+(EchoPac software)
+n.m./n.m. (5.8;
+n.m.)
+n.m./n.m. (30;
+n.m.)
+n.m./n.m. (23;
+n.m.)
+Yes
+normal LVEF only n.m. n.m. n.m. n.m. n.m. n.m. GLS > age/sex norm n.m./n.m. (28;
+n.m.)
+Mavinkurve-
+Groothuis, 2010c
+Netherlands,
+2006–2008 [19]
+n = 109
+Prospective
+cross-sectional,
+ANT, diagnosis
++ ≥ 5 years, no
+CHF/CVD/CKD
+n.m. 109 (57) 4.8 [.03 –16.9]
+13.2 [5.0–29.2]
+20 [5.6–37.4]
+180 [50–600]
+(Doxorubicin
++ daunorubicin)
+7 (6.3) 0 n.m. GLS > age/sex norm
+GRS < age/sex norm
+GCS > age/sex norm
+(single view,
+EchoPac software)
+22/92 (24; 16 -
+33)
+4/89 (4.5; 1 –10)
+35/82 (43; 32–54)
+No
+normal LVEF only 49 (57) 5.3 [.03 –16.8]
+10.8 [5.0–26.2]
+16.8 [5.6–34.4]
+180 [50–450] 4 (8.2) 0 n.m. GLS > age/sex norm
+GRS < age/sex norm
+GCS > age/sex norm
+9/45 (20; 9.4 –33)
+2/43 (4.7; 1 –14)
+341J Cancer Surviv  (2022) 16:338–352
+1 3
+
+[W3137098375 PDF PAGE 5]
+Table 1 (continued)
+1st Author, year
+country, period
+Design, population Original
+cohorta
+(n)
+Prevalencea Risk
+factors
+Eligible
+(n)
+(%
+males)
+Age at
+diagnosis,
+Years since
+diagnosis,
+Attained
+age (years)
+Cumulative
+anthracycline
+dose (mg/m2)
+Heart
+RT
+(n
+(%))
+Current
+CHF (n)
+Dexrazoxane
+(n)
+Outcome
+definition
+Prevalence
+(n (%; 95%
+CI)
+Eligible
+10/36 (28; 14 –
+44)
+van der Pal, 2010 b
+Netherlands,
+1996–2004, [20]
+n = 525
+Prospective
+cross-sectional,
+ANT/RT/high
+dose
+cyclo-/ifosfamide,
+diagnosis + ≥ 5
+years,
+attained age ≥ 18
+years
+n.m. 361 (54) 9.7 [0.1 –17.8]
+13.3 [5.1–28.8]
+21.7 [18–42.1]
+250 [33–720]
+(All
+anthracyclines
+added up)
+58 (16) 0 (7 g) n.m. FS < 30% 107/355 (30; 25
+–35)
+Yes
+Hudson 2007b
+Tennessee,
+USA, n.m., [ 21]
+n = 223
+Prospective
+cross-sectional, no
+CHD/CHF/chronic
+illness/trisomy 21/
+anaemia
+n.m. 217 (51) 5.5 [0 –23.6]e
+10.2 [5.5–28.0]
+16.9 [7.5–38.1]
+202 [25–510]
+(Conversion
+factor n.m.)
+60 (28) 0
+(2g)
+n.m. FS < 28% 32/213 (15; 11 –
+20)
+Yes
+Pein, 2004
+France, n.m, [22]
+n = 205
+Cross-sectional, ANT
+diagnosis + ≥ 15 years
+416 205 (58) 5.7 [0 –21]h
+18 [15+]h
+n.m. [n.m.]
+333 [40–600]g
+(Conversion
+factor n.m.)
+106 (52)
+7.7Gy
+0 n.m. FS < 25%
+Teich EF < 50%
+13/205 (6.3;
+3.3–10.1)
+17/205 (8.3;
+4.9–12.5)
+Yes
+von der Weid, 2001
+Switzerland
+1994–1996, [23]
+n = 150
+Prospective,
+cross-sectional,
+ALL, no BMT
+diagnosis + ≥ 5 years
+therapy + ≥ 2 years
+n.m. 140
+(n.m.)
+n.m. [n.m.]
+n.m. [5+]
+n.m. [n.m.]
+n.m. [n.m.] n.m. 0 n.m. FS < 30% 2/140 (1.4; 0–4.3) No
+Numbers are medians [range] unless stated otherwise. Only two studies reported early cancer therapy r elated cardiotoxicity and two reported median RT dose. None reported mitoxantrone dose or infusion
+duration.
+a Data shown for symptomatic survivors, ≥ 5 years from diagnosis, tre ated with anthracyclines
+Authors b provided subgroup data; c converted continuous values into prevalence data
+d Mean ± SD, follow-up from end of therapy
+e≥ 90% were diagnosed before age 21 years
+f Data presented for entire cohort ( n = 231) including non-anthracycline treated CCS, s tudy not included for prevalence estimation g Transient CHF during cancer therapy
+h Mean (range)
+ALL, acute lymphoblastic leukaemia; ANT, anthracyclines; BMT, bone marrow transplant; CHD , congenital heart disease; CHF, congestive heart failure; CKD, chronic kidney disease; CMP, cardiomy-
+opathy; CVD, cardiovascular disease; GCS, global circumferential strain; GLS, global longitudinal strain; GRS, global radial strain; FS, fractional shortening; Heart RT, radiotherapy involving the heart
+region, as defined by individual study; LVEF, left ventricular ejection fraction; SCT, stem cell transplant; Teich EF, left ventricular ejection fractio n according to Teichholz formula; n.m., not mentioned
+342 J Cancer Surviv  (2022) 16:338–352
+1 3
+
+[W3137098375 PDF PAGE 6]
+risk of selection bias remained unclear; in 9% the risk was high.
+Four studies (36%) reported blinded outcome assessment; the
+remainder carried a high risk of detection bias. All six studies
+assessing risk factors in a multivariable analysis had low risk of
+confounding. The risk of study group reporting bias was high in
+73%. Not all studies reported med ian cumulative anthracycline
+dose; only three studies summarized radiotherapy doses involv-
+ing the heart region, and only one reported additional chemother-
+apeutic agents. Follow-up duration was summarized by 91% of
+the studies, and all studies prov ided their outcome definition.
+Risk estimation was not adequate in 17% of the 6 studies
+assessing risk factors. The few studies for each outcome
+prevented formal testing for publication bias. However, as we
+searched all major databases and most studies were not industry
+funded, we judge the risk of publication bias ‘low’.
+Prevalence of asymptomatic systolic dysfunction
+Volumetric methods
+Three studies, all defining an abnormal biplane or 3D LVEF <
+50%, reported a prevalence of 1 –6% (Fig. 3). The prevalence
+was lowest in the study with the shortest median follow-up
+duration (9 years, versus 16 and 23 years). Anthracycline
+doses varied. Not all studies reported a median dose. The
+proportion that received radiotherapy on the heart region var-
+ied from 10 to 31%[ 13, 15, 18]. This observed clinical hetero-
+geneity prevented pooling of results.
+Myocardial strain analysis
+Three studies assessing myocardial strain reported abnor-
+mal GLS, according to vendor-, age- and sex-specific
+cut-off values, in 9 –30% (Fig. 3). The lowest preva-
+lence was again seen in the study with the shortest
+median follow-up duration (9 years, versus 13 and 23
+years). Anthracycline doses varied. Not all studies re-
+ported a median dose. The proportion that received ra-
+diotherapy on the heart region varied from 6 to 31%
+[13, 18, 19]. We did again not pool results from these
+heterogeneous cohorts. Two studies reported GLS in
+subjects with normal LVEF, which was abnormal in
+20–28% (Table 1)[ 18, 19].
+Of note, in one study, only 20% of survivors with abnormal
+LVEF also had abnormal GLS[ 19]. Two studies reported
+higher[19], or lower[ 18] prevalence of abnormal GCS, com-
+pared to the prevalence of abnormal GLS.
+Linear methods
+Prevalence of abnormal FS and Teichholz LVEF varied
+between the six studies from 0.3 to 30%, using different
+definitions of abnormal FS (< 25 to < 30%; Fig. 3). As
+median follow-up duration (10 to 18 years) and
+anthracycline dose (180 –250 mg/m 2) and proportion that
+received radiotherapy involving the heart region (5 –
+28%) varied widely, we did not pool results. No direct
+Fig. 2 Risk of bias summary per
+study. The risk of bias per study is
+indicated for each domain.
+Assessment criteria are shown in
+Online Resource 2.G r e e n=l o 

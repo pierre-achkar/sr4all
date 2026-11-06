@@ -1,0 +1,202 @@
+ clear cell carcinoma), KIRP (Kidney renal papillary
+cell carcinoma), LAML (Acute myeloid leukemia), LGG
+(Brain lower grade glioma), LIHC (Liver hepatocellular
+carcinoma), LUAD (Lung adenocarcinoma), LUSC (Lung
+squamous cell carcinoma), MESO (Mesothelioma), OV
+(Ovarian serous cystadenocarcinoma), PAA (Pancreatic
+adenocarcinoma), PCPG (Pheochromocytoma and para-
+ganglioma), PRAD (Prostate adenocarcinoma), READ
+(Rectum adenocarcinoma), SARC (Sarcoma), SKCM (Skin
+cutaneous melanoma), STAD (Stomach adenocarcinoma),
+TGCT (Testicular germ cell tumors), THCA (Thyroid
+carcinoma), THYM (Thymoma), UCEC (Uterine corpus
+endometrial carcinoma), UCS (Uterine carcinosarcoma)
+and.
+UVM (Uveal melanoma).
+Here, GEPIA was used to show the expression level
+and the prognostic value of TRIM44 in various human
+cancers. A box plot was used to represent the RNA ex-
+pression level in samples. And patients were divided into
+high-expression and low-expression groups according to
+the median expression level of TRIM44, and the Kaplan-
+Meier plots for survival analysis were performed.
+Besides, the prognostic value of TRIM44 in the specific
+type of cancer was explored by some online OS analysis
+webservers, including OSgbm for glioblastoma [ 16],
+OSpaad for pancreatic carcinoma [ 17], OSbrca for breast
+cancer [ 18], OSacc for adrenocortical carcinoma [ 19],
+OSuvm for uveal melanoma [ 20], OScc for cervical can-
+cer [ 21], OSkirc for kidney renal clear cell carcinoma
+[22], OSescc for esophageal squamous cell carcinoma
+[23], OSblca for bladder cancer [ 24], OSlms for leiomyo-
+sarcoma [ 25].
+Statistical analysis
+STATA/SE 14.1 was used to analyze the relationship be-
+tween TRIM44 expression and prognosis as well as the
+clinicopathological features in human cancers. I 2 statis-
+tics and Chi-square Q test were adopted to estimate the
+Fig. 1 Flowchart depicting the steps of the literature search and selection process
+Xiao et al. BMC Cancer          (2020) 20:525 Page 3 of 14
+
+[W3033981438 PDF PAGE 4]
+heterogeneity among enrolled studies. The random-
+effects model was adopted to conduct the meta-analysis
+with significant heterogeneity (I 2 ≥ 50% or P Q < 0.10),
+while the fixed-effects model was used when there was
+no obvious heterogeneity (I 2 < 50% or P Q ≥ 0.10). The
+funnel plot and Begg ’s test were applied to assess publi-
+cation bias, and sensitivity analysis was used to test the
+stability of the analysis results. p < 0.05 indicates a sig-
+nificant difference in this study.
+Results
+Characteristics of eligible studies
+Study collection and screening process are shown in Fig. 1.
+After further discussion and consideration of the selected
+articles, 13 cohort studies published between 2012 and
+2019 were selected for further analysis [ 9, 10, 26– 36]. In
+total, these 13 studies included 1740 patients with a mean
+sample size of 133.8 and a range from 68 to 331. Eleven
+studies presented data on th e association between the
+TRIM44 protein levels and OS, and four studies presented
+data on the link between TRIM44 and DFS. In these stud-
+ies, 12 different kinds of solid tumors were analyzed, in-
+cluding gastric cancer (GC), o steosarcoma, cervical cancer
+(CC), breast cancer (BC), hepat ocellular carcinoma (HCC),
+endometrial carcinoma (EMC), esophageal cancer (EC),
+melanoma, testicular germ cell tumor (TGCT), non-small
+cell lung cancer (NSCLC), intrahepatic cholangiocarcinoma
+(ICC), and epithelial ovarian cancer (EOC). All primary
+cancer tissues and adjacent non -tumor tissue samples were
+collected from patients in Japan and P.R. China. The
+expression of TRIM44 protein in tissue samples was
+measured by immunohistochemistry (IHC). All included
+articles were written in English, and they were of good
+quality. The basic characteristic information is presented in
+Table 1.
+The correlation between increased TRIM44 expression
+and OS
+Eleven studies involving 1547 malignancy patients re-
+ported the HRs for OS. The pooled results for OS are
+displayed in Fig. 2. High expression of TRIM44 protein
+in malignant tissues was found to be strongly associated
+with poor OS (HR = 1.94, 95% CI: 1.60 – 2.35, p < 0.0001 ),
+and the heterogeneity test revealed a mild heterogeneity
+(I2 = 32.6%; P Q = 0.139). The over-expression of TRIM44
+could serve as a poor prognostic factor in human malig-
+nancies. In addition, for OS, the pooled HR values > 1
+were consistently calculated in the subgroup meta-
+analysis stratified by the analysis type, sample size, and
+cutoff value; thus, indicating a significant difference
+among the two groups (Table 2).
+Table 1 Characteristics of included studies
+Author Year Disease Country Sample
+size
+Over-expression
+(N, %)
+Detection
+method
+Evaluation standard of
+TRIM44 overexpression
+End-points
+(analysis type)
+Follow-up NOS
+score
+Kashimoto K 2012 GC Japan 112 28, 25% IHC Final staining scores a ≥ 4 OS (M) NR 8
+Kawabata H 2017 BC Japan 129 67, 52% IHC Final staining scores a ≥ 5 OS (M) ≥ 5 years 9
+Kawaguchi T 2017 EC Japan 68 39, 57% IHC Final staining scores b ≥ 1 OS (M) ≥ 5 years 9
+Li P 2018 EMC China 143 80, 56% IHC Final staining scores a ≥ 4 OS (C) ≥ 5 years 7
+Liu S 2018 EOC China 109 93, 85% IHC Final staining scores a ≥ 3 OS (M),
+DFS (M)
+≥ 5 years 7
+Peng R 2018 ICC China 130 71, 55% IHC Percentage of TRIM44
+positive cells ≥50%
+OS (M) ≥ 5 years 8
+Xing Y 2016 NSCLC China 331 208, 63% IHC Final staining scores c ≥ 4 OS (M),
+DFS (M)
+≥ 5 years 9
+Xiong D 2018 EC China 100 53, 53% IHC Final staining scores c ≥ 4 OS (M) ≥ 5 years 8
+Yamada Y 2017 TGCT Japan 103 41, 40% IHC Intensity score ≥ 1N R N R7
+Zhu X 2016 HCC China 106 73, 69% IHC Final staining scores c ≥ 5 OS (M) ≥ 5 years 8
+Liu S 2019 CC China 122 81, 66% IHC Final staining scores a ≥ 3 OS (M),
+DFS (M)
+≥ 5 years 7
+Wei CY 2019 Melanoma China 197 98, 50% IHC integrated optical density
+value(≥ median value)
+OS (M),
+DFS (M)
+≥ 5 years 7
+Wang H 2018 Osteosarcoma China 90 53, 58.9% IHC Final staining scores a > 5 NR NR 8
+Abbreviations: GC Gastric cancer, BC Breast cancer, EC Esophageal cancer, EMC Endometrial carcinoma, EOC Epithelial ovarian cancer, ICC Intrahepatic
+cholangiocarcinoma, NSCLC Non-small cell lung cancer, TGTC Testicular germ cell tumor, HCC Hepatocellular carcinoma, CC Cervical cancer; OS Overall survival,
+DFS Disease-free survival, NR Not report, M Multivariate analysis, C Curves, IHC Immunohistochemistry, HR Hazard ratio; a the intensity (intensity score: 0, negative;
+1, weak; 2, moderate; 3, strong) and percentage of the total cell population (proportion score:0 < 10%; 10% ≤ 1 ≤ 33%; 34% ≤ 2 ≤ 66%; 67% ≤ 3 ≤ 100%); b staining
+intensity was divided into three steps (scores 0, 1, and 2) in the infiltrated region of each case. When score 0 was defined as negative and score 1 and sco re 2
+were positive; cTRIM44 staining was evaluated based on intensity scores (0, no staining; 1, weak staining; 2, moderate staining; and 3±, strong staining) and
+percentage scores (0, 0%; 1 ≤ 25%; 2, > 25%- ≤ 50%; 3, 50% > −≤ 75%; 4, > 75%)
+Xiao et al. BMC Cancer          (2020) 20:525 Page 4 of 14
+
+[W3033981438 PDF PAGE 5]
+The correlation between increased TRIM44 expression
+and DFS
+Four studies involving 759 cases investigated the associ-
+ation between TRIM44 expression and DFS. Elevated ex-
+pression of TRIM44 indicated an inferior DFS outcome,
+with a combined HR of 2.13 (95% CI 1.24 – 3.65, p<
+0.0001). The combined result indicated that patients
+with elevated TRIM44 protein expression had a worse
+DFS rate compared to patients with lower TRIM44 pro-
+tein expression (Fig. 3).
+The correlation between increased TRIM44 expression
+and clinicopathological parameters
+The pooled odds ratios (ORs) were calculated to assess
+the risk of over-expression of TRIM44 protein under dif-
+ferent clinicopathological features (Table 3). Tumors
+with unfavorable clinicopathological parameters were
+more frequently associated with overexpression of
+TRIM44 protein. These parameters included deeper
+tumor invasion (OR = 2.72, 95% CI: 1.73 – 4.30), poor
+tumor differentiation (OR = 1.78, 95% CI: 1.03 – 3.09),
+Fig. 2 Forest plot of HR for the relationship between increased TRIM44 expression and OS
+Table 2 Pooled HR for OS according to the subgroup analysis
+Categories Studies(n) Number
+of
+patients
+HR (95% CI) p-value Heterogeneity
+I2 (%) P Q Model
+All 11 1547 1.94(1.60 – 2.35) < 0.0001 32.6 0.139 Fixed
+Cutoff value for high expression
+Final staining scores: 4 or 5 7 1118 2.03(1.42 – 2.19) < 0.0001 40.9 0.119 Fixed
+Final staining scores: 3 2 231 4.27(1.83 – 9.95) 0.001 0.0 0.604 Fixed
+Others 2 198 2.10(1.44 – 3.06) < 0.0001 0.0 0.571 Fixed
+Analysis type
+Multivariate 10 1404 2.20(1.66 – 2.93) < 0.0001 39.0 0.098 Fixed
+Survival curves 1 143 8.66(1.10 – 68.22) 0.001 –––
+Sample size
+≥100 10 1479 2.29(1.68 – 3.12) < 0.0001 44.9 0.060 Fixed
+< 100 1 68 2.82(1.04 – 9.13) 0.041 –––
+Xiao et al. BMC Cancer          (2020) 20:525 Page 5 of 14
+
+[W3033981438 PDF PAGE 6]
+poor clinical stage (OR = 2.75, 95% CI: 2.04 – 3.71), dis-
+tant metastasis (OR = 10.35, 95% CI: 1.01 – 106.24),
+lymph node metastasis (OR = 2.69, 95% CI: 1.71 – 4.24),
+and tumor recurrence (OR = 2.30, 95% CI: 1.34 – 3.95).
+However, there was no significant association between
+elevated TRIM44 expression and gender (OR = 1.00, 95%
+CI: 0.78 – 1.29, p = 0.990) or vascular invasion (OR = 2.43,
+95% CI: 0.85 – 6.94, p = 0.097) in patients.
+TRIM44 expression in different cancer types
+The expression level of TRIM44 mRNA from the GEPIA
+in different types of cancers was shown in Fig. 4.A m o n g
+them, the expression of TRIM44 mRNA was significantly
+higher in malignant tissues than in the corresponding
+normal tissues, including CHOL, DLBC, ESCA, STAD,
+and THYM (Fig. 4).
+Validation of the prognostic value of TRIM44 in human
+tumors
+In a survival analysis conducted through the GEPIA
+database, we found that high level of TRIM44 mRNA
+was shown to be significantly associated with unfavor-
+able OS in patients with LAML, LIHC, MESO, and
+STAD (Fig. 5). However, for patients with CHOL or
+KIRC, a high level of TRIM44 mRNA

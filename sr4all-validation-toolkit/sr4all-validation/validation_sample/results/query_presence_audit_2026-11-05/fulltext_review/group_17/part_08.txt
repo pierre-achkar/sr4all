@@ -1,0 +1,452 @@
+ the searches 
+(n = 469)
+PubMed: 161
+Lilacs: 3
+Scopus: 305
+Articles excluded after reading
+titles (n = 93)
+– Not related to the topic
+– Thyroid dysfunction
+– Supplementation
+– Review articles
+– Of/f_icial documents
+Articles excluded after reading 
+the abstracts (n = 83)
+– Supplementation
+– Thyroid dysfunction
+– Adolescent
+– Review articles
+– Others
+Articles excluded after complete 
+reading (n = 54)
+– No prevalence data
+– Supplementation
+– Thyroid dysfunction
+– Adolescent
+– Pathologies
+Articles selected after 
+deleting duplicates 
+n = 243
+Articles selected after 
+reading the titles 
+n = 150
+Articles selected after 
+reading the abstracts 
+n = 67
+Articles selected and included 
+after complete reading 
+n = 13
+SelectionEligibility and inclusion Identi/f_ication
+ Duplicate articles deleted
+n = 226
+
+[W2963718263 PDF PAGE 3]
+Copyright© AE&M all rights reserved.
+308
+Insufficient iodine intake in pregnant women
+Arch Endocrinol Metab. 2019;63/3  
+Table 1. Description of the studies selected for systematic review
+Authors /
+Year Site Study 
+Design Recruitment
+Sample 
+size
+(n)
+Trimester of 
+pregnancy
+Median Urinary 
+Iodine 
+Concentration 
+(UIC) (μg/L)
+Median UIC 
+Classification
+Prevalence 
+of Iodine 
+Deficiency
+Quality of 
+the 
+Studies 
+Included
+Nguyen and 
+cols.  
+(2010) (12)
+Australia Cross-
+sectional
+Pregnant women 
+from any 
+trimester of 
+gestation seen at 
+Canberra 
+Hospital, Australia
+100
+The authors did 
+not mention the 
+trimester of 
+gestation 62 (12-750) Insufficient 84% 12 points
+Caballero 
+(2011) (13) Venezuela Cross-
+sectional
+Pregnant women 
+were selected at 
+the prenatal visit. 
+We selected 300 
+pregnant women, 
+100 women from 
+each quarter
+300
+First trimester  
+(n = 100), second 
+trimester  
+(n = 100) and 
+third trimester  
+(n = 100)
+224.5 Adequate 25% 14 points
+Fuse and 
+cols.
+(2011) (14)
+Japan Cross-
+sectional
+Healthy pregnant 
+women were 
+recruited during 
+the 3 quarters 
+and puerperal 
+with 5 to 6 weeks 
+postpartum 
+without history of 
+thyroid disease 
+attended at 
+Yamaguchi 
+Hospital, 
+Funabashi city
+934
+First trimester  
+(n = 243), second 
+trimester  
+(n = 541), third 
+trimester  
+(n = 466) and 
+postpartum  
+(n = 533)
+219 Adequate 16.1% 16 points
+Çetinkaya 
+and cols. 
+(2012) (15)
+Turkey Cross-
+sectional
+We recruited 
+pregnant women 
+in the three 
+trimesters of 
+gestation at the 
+Medical University 
+of Ataturk, Turkey
+113
+First trimester  
+(n = 30), second 
+trimester (n = 49) 
+and third 
+trimester (n = 34)
+132.8 
+(15.1-291.6) Insufficient 72.6% 9 points
+Shamim 
+and cols. 
+(2012) (16)
+Bangladesh Cross-
+sectional
+We recruit 
+pregnant women 
+from rural areas 
+in northwestern 
+Bangladesh. A 
+randomized, 
+placebo-
+controlled study 
+with vitamin A or 
+beta-carotene 
+supplementation
+2490
+First trimester  
+(≤ 16 weeks,  
+n = 1376) and 
+third trimester  
+(≥ 32 weeks,  
+n = 1114)
+Initial: 66  
+(34 - 133)
+Final: 55  
+(28 -110)
+Insufficient
+Initial: 
+78.85¨%
+Final: 
+82.94%
+16 points
+Bath and 
+cols.
+(2013) (17)
+England Longitudinal
+Pregnant women 
+living in the old 
+Avon area in 
+South West 
+England.
+1040
+First trimester  
+(< 13 weeks) 91.1 
+(53.8 - 143) Insufficient 67% 13 points
+Aguayo and 
+cols. (2013) 
+(18)
+Spain Longitudinal
+Women attending 
+obstetric 
+outpatient 
+appointments in 
+the catchment 
+area of Cruces 
+Hospital
+2104
+First trimester  
+(n = 2104) and 
+second trimester 
+(n = 1322)
+Quarter
+1st 88.5  
+(16 -875)
+2nd 140  
+(21 – 880)
+Insufficient
+Quarter
+1st – 79.8%
+2nd – 54.4%
+16 points
+
+[W2963718263 PDF PAGE 4]
+Copyright© AE&M all rights reserved.
+309
+Insufficient iodine intake in pregnant women
+Arch Endocrinol Metab. 2019;63/3 
+Authors /
+Year Site Study 
+Design Recruitment
+Sample 
+size
+(n)
+Trimester of 
+pregnancy
+Median Urinary 
+Iodine 
+Concentration 
+(UIC) (μg/L)
+Median UIC 
+Classification
+Prevalence 
+of Iodine 
+Deficiency
+Quality of 
+the 
+Studies 
+Included
+Amouzegar 
+and Azizi
+(2013) (19)
+Iran Cross-
+sectional
+Pregnant women 
+referred to the 
+mother and child 
+health care clinics 
+of two maternity 
+hospitals of 
+Tehran
+36
+First trimester  
+(< 15 weeks)
+138.4  
+(24.1 – 404) Insufficient 34.0% 16 points
+Habimana 
+and cols. 
+(2013) (20)
+Democratic 
+Republic of 
+Congo
+Cross-
+sectional
+375 pregnant 
+women attending 
+antenatal 
+consultation, 125 
+women in each of 
+the three 
+maternity units
+225
+225 pregnant 
+women in the 
+three quarters, 75 
+women who gave 
+birth and 75 
+non-pregnant 
+women as 
+controls
+138 (105 – 172) Insufficient 52.3% 13 points
+Katz and 
+cols.
+(2013) (4)
+Canada Cross-
+sectional
+250 pregnant 
+women from a 
+clinical hospital 142
+Second or third 
+trimester of a 
+singleton 
+pregnancy
+221 (142 – 397) Adequate 29.6% 12 points
+Joshi and 
+cols.
+(2014) (21)
+India Cross-
+sectional
+Pregnant women 
+(n = 5256) 
+attended the 
+Jamnabai General 
+Hospital.
+5.256
+First trimester  
+(< 15 weeks)
+297, 14 More than 
+necessary 16.79% 10 points
+Bath and 
+cols.
+(2015) (22)
+England Longitudinal
+230 British 
+pregnant women 
+recruited for the 
+Selenium in 
+Pregnancy 
+intervention
+230
+Pregnant women 
+in the first 
+trimester (12-14 
+weeks), second 
+trimester (20 
+weeks) and third 
+trimester  
+(35 weeks)
+56.8 
+(31.1 – 104) Insufficient 55.7% 15 points
+Delshad 
+and cols. 
+(2016) (23)
+Iran Cross-
+sectional
+Pregnant women 
+attended at 
+maternal and 
+child health 
+centers
+1072
+Singleton 
+pregnancy and in 
+the first, second 
+and third 
+trimester of their 
+pregnancy
+87.3 
+(43.5 – 139.1) Insufficient 78.17% 10 points
+In the evaluation of the methodological quality of 
+the studies, the lowest score was nine and the highest 
+16. The best-evaluated criteria were the study report 
+(main findings described), external validity (the same 
+follow-up time for all individuals, appropriate statistical 
+tests, and outcomes with reliable measures) and internal 
+validity (individuals recruited in the same period). 
+Only two studies presented power and adjustment for 
+confounding factors in the analysis.
+DISCUSSION
+Insufficient iodine intake is an obstacle to social and 
+economic development, reaching approximately 
+2 billion people worldwide (10). To eradicate the 
+disorders caused by deficiency, universal iodination of 
+salt is used as a safe, economical and sustainable strategy 
+to ensure adequate intake worldwide (24).
+Globally, 86.6% of households have access to 
+iodized salt, with the number of people consuming it 
+increasing from 1 billion to approximately 4 billion in 
+the last 10 years (25) In this study, of the evaluated 
+countries, Japan has no legislation for salt iodination, in 
+England and Spain, it is voluntary, and it is mandatory 
+in the others. 
+The highest prevalence of deficiency detected was 
+in Australia (84%), located in Oceania, different from 
+expected, since there is a mandatory salt iodization 
+
+[W2963718263 PDF PAGE 5]
+Copyright© AE&M all rights reserved.
+310
+Insufficient iodine intake in pregnant women
+Arch Endocrinol Metab. 2019;63/3  
+policy  and is surrounded by the Indian and Pacific 
+oceans. However, natural disasters are recurrent in that 
+country, and iodine deficiency can be an ecological 
+phenomenon caused by flooding and soil erosion and, 
+consequently, food crops will be deficient (4).
+Asian countries: Turkey, Bangladesh and Iran showed 
+insufficient iodine intake in pregnant women. Despite 
+the extensive territory, the exponential growth of the 
+population has led to a shortage of basic survival conditions, 
+making access to adequate food difficult. This deficiency 
+may also be a reflection of geographic characteristics such 
+as mountains, floodplains and distance from the sea, 
+restricting access to iodine sources.10 However, in India, 
+iodine intake was more than necessary, demonstrating 
+that monitoring salt iodization is critical, since overeating 
+can be detrimental to health (21).
+In contrast, the lower prevalence of deficiency was 
+observed in Japan, which has no legislation for salt 
+iodization. However, the habit of ingesting dietary sources 
+of iodine, without subjecting them to high temperatures, 
+may justify adequate population status (26).
+Studies in European countries, England and Spain, 
+found insufficient intake. The authors attributed this 
+result to variations in the consumption of dietary 
+sources of iodine and to the fact that pregnant women 
+did not receive supplementation (18,22).
+In Venezuela and Canada, located in South and North 
+America, iodine intake was adequate, demonstrating 
+the success of awareness campaigns conducted in these 
+countries for the consumption of iodized salt to protect 
+the mother from health problems (4,13).
+At the 60th WHO World Health Assembly in 2007, 
+about 31% of the world population had insufficient 
+iodine intake and the most affected regions were Asia 
+and Europe, while in the Americas the intake of fortified 
+salt ensured adequate iodine status (25).
+In Africa, a study in the Democratic Republic of 
+Congo found insufficient iodine intake in the semi-
+urban and rural region, reflecting low socioeconomic 
+status and population location, making access to iodine 
+sources difficult. In addition, in the rural area, the 
+habit of using natural spices instead of fortified salt 
+contributes to this deficiency (20).
+The difference in the prevalence of insufficient iodine 
+intake can be attributed to geographic characteristics, 
+dietary habits and salt iodination policy. This study was 
+geographically representative allowing an overview of 
+the prevalence of insufficient iodine intake in pregnant 
+women in different regions of the world: the overall 
+state of iodine in pregnant women.
+The limitation is that the classification for levels of 
+mild, moderate or severe iodine deficiency in pregnant 
+women is not defined, making it impossible to know 
+the magnitude of the problem.
+In conclusion, pregnant women are a group 
+vulnerable to insufficient iodine intake and the high 
+prevalence observed in this review confirms the severity 
+of this health problem worldwide. Therefore, there is 
+a need for a population classification to guide public 
+policies, as well a

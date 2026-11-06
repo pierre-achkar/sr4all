@@ -1,0 +1,212 @@
+d similar technologies.
+
+[W4385740504 PDF PAGE 7]
+7
+Zhou J, et al. eGastroenterology 2023;1:e100005. doi:10.1136/egastro-2023-100005
+Open access
+Figure 3 Subgroup analysis for MAFLD- related risk of incident CKD by modality of MAFLD diagnosis. (A) Subgroup analysis 
+for MAFLD- related risk of incident CKD by modality of MAFLD diagnosis in cohort studies. (B) Subgroup analysis for MAFLD- 
+related risk of prevalent CKD by modality of MAFLD diagnosis in cross- sectional studies. CKD, chronic kidney disease; ICD- 9- 
+CM, International Classification of Diseases, Ninth Revision, Clinical Modification; MAFLD, metabolic dysfunction- associated 
+fatty liver disease.
+Association between severity of MAFLd and risk of CKd
+The severity of MAFLD was assessed non- invasively as 
+hepatic steatosis alone or presence of both hepatic 
+steatosis and advanced fibrosis (by using non- invasive 
+fibrosis biomarkers). There were only two studies that 
+have assessed the association between MAFLD- related 
+fibrosis and risk of CKD, with a pooled random-  
+effects HR of 1.54 (95% CI 1.15 to 2.07, p=0.004) 
+for the risk of incident CKD in patients with MAFLD 
+from one cohort study, and a random- effects OR of 
+3.28 (95% CI 1.21 to 8.86, p=0.019) for the risk of 
+prevalent CKD in patients with MAFLD from one 
+eGastroenterology: first published as 10.1136/egastro-2023-100005 on 10 August 2023. Downloaded from https://egastroenterology.bmj.com on 7 April 2025 by guest.
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies.
+
+[W4385740504 PDF PAGE 8]
+8
+Zhou J, et al. eGastroenterology 2023;1:e100005. doi:10.1136/egastro-2023-100005
+Open access 
+Figure 4 Subgroup analysis for MAFLD- related risk of incident CKD by CKD definition. (A) Subgroup analysis for MAFLD- 
+related risk of incident CKD by CKD definition in cohort studies. (B) Subgroup analysis for MAFLD- related risk of prevalent CKD 
+by CKD definition in cross- sectional studies. CKD, chronic kidney disease; eGFR, estimated glomerular filtration rate; MAFLD, 
+metabolic dysfunction- associated fatty liver disease.
+cross- sectional study (online supplemental figure 
+S1).
+sensitivity analyses
+To assess the impact of each study on the final outcome, 
+we performed a sensitivity analysis. We use an impact test 
+approach, which excludes each included study individ-
+ually, to test whether excessive impact from individual 
+studies would have a significant impact on the final 
+results. Interestingly, we found that after excluding each 
+eligibility study, the overall effect on MAFLD- associated 
+CKD risk was not significant, as shown in figure 5. This 
+indicates that our results have a certain robustness.
+Publication bias assessment
+The visual inspection and formal statistical tests (p values 
+of 0.743 and 0.711 for the Egger’s test and Begg’s test in 
+cohort studies; and p values of 0.092 and 0.474 for the 
+Egger’s test and Begg’s test in cross- sectional studies, 
+respectively) did not show any statistically significant 
+asymmetry of the funnel plots, thus suggesting that publi-
+cation bias was unlikely.
+dIsCussIOn
+To the best of our knowledge, the present meta- analysis 
+assessing the association between MAFLD and the risk 
+of prevalent and incident CKD is the largest and most 
+eGastroenterology: first published as 10.1136/egastro-2023-100005 on 10 August 2023. Downloaded from https://egastroenterology.bmj.com on 7 April 2025 by guest.
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies.
+
+[W4385740504 PDF PAGE 9]
+9
+Zhou J, et al. eGastroenterology 2023;1:e100005. doi:10.1136/egastro-2023-100005
+Open access
+Table 2 Subgroup analyses examining the associations between MAFLD and the risk of incident (by cohort studies) or 
+prevalent (by cross- sectional studies) CKD
+Cohort studies Cross- sectional studies
+HR (95% CI), I 2  statistics, n- comparisons, 
+participants (n) P value
+OR (95% CI), I 2  statistics, n- comparisons, 
+participants (n) P value
+Total 1.29 (1.17 to 1.41), I2=87.0%, n=7, 726 270 
+participants
+0.001 1.35 (1.11 to 1.64), I2=92.6%, n=10, 119 483 
+participants
+<0.001
+Age
+  ＜60 years 1.24 (1.13 to 1.37), I2=86.3%, n=717 673 
+participants
+0.001 1.03 (0.93 to 1.13), I2=54.2%, n=29 164 participants 0.590
+  ≥60 years 1.64 (1.39 to 1.94), I2=nd, n=6873 participants 0.001 2.53 (1.47 to 4.35), I2=83.2%, n=284 415 participants 0.001
+Male (%)
+  <0.50 1.64 (1.39 to 1.94), I2=nd, n=71 767 participants 0.001 1.20 (0.98 to 1.46), I2=85.2%, n=31 804 participants 0.073
+  ≥0.50 1.24 (1.13 to 1.37), I2=86.3%, n=6873 participants 0.001 1.85 (0.78 to 4.35), I2=67%, n=281 775 participants 0.161
+Country/Continent
+  America 1.14 (1.06 to 1.23), I2=52.6%, n=1, 407 577 
+participants
+0.001 1.03 (0.37 to 2.89), I2=91.4%, n=2, 18 600 
+participants
+0.960
+  Asia 1.35 (1.21 to 1.51), I2=80.2%, n=5, 316 933 
+participants
+0.001 1.08 (0.97 to 1.20), I2=67.8%, n=4, 19 687 
+participants
+0.175
+  Europe 1.49 (1.05 to 2.11), I2=nd, n=1, 1760 participants 0.024 3.46 (1.22 to 9.79), I2=87.2%, n=4, 282 423 
+participants
+0.020
+MAFLD diagnosis
+  ICD- 9- CM 1.14 (1.06 to 1.23), I2=52.6%, n=2, 407 577 
+participants
+0.001 None
+  FibroScan None 3.34 (1.07 to 10.42), I2=89.2%, n=4, 5911 
+participants
+0.038
+  Biomarker panels 1.39 (1.33 to 1.46), I2=nd, n=1, 268 946 
+participants
+<0.001 1.50 (1.22 to 1.85), I2=86.0%, n=2, 288 512 
+participants
+<0.001
+  Ultrasonography 1.37 (1.18 to 1.58), I2 =76.3%, n=5, 49 747 
+participants
+<0.001 1.03 (0.68 to 1.57), I2=79.4%, n=3, 26 032 
+participants
+0.886
+  Imaging or histology None 1.01 (0.97 to 1.06), I2=nd, n=1, 255 participants 0.663
+CKD definition
+  eGFR ≤60 mL/min/1.73 m 2 
+alone
+1.14 (1.06 to 1.26), I2=52.6%, n=2, 407 577 
+participants
+0.001 1.59 (1.12 to 2.25), I2=nd, n=1, 1992 participants 0.009
+  eGFR ≤60 mL/min/1.73 m 2 or 
+presence of albuminuria
+1.36 (1.23 to 1.51), I2=75.6%, n=6, 318 693 
+participants
+<0.001 1.33 (1.08 to 1.63), I2=93.2%, n=9, 318 718 
+participants
+0.007
+Participants’ characteristics
+  Patients with T2DM only 1.32 (1.08 to 1.62), I2=59.6%, n=3, 266 711 
+participants
+0.008 1.50 (1.12 to 2.01), I2=90.8%, n=7, 296 139 
+participants
+0.007
+  Patients with obesity only 1.08 (0.98 to 1.19), I2=nd, n=1, 143 210 
+participants
+0.12 None
+  General population 1.34 (1.19 to 1.50), I2=89.6%, n=4, 316 349 
+participants
+<0.001 1.24 (0.91 to 1.71), I2=95.0%, n=3, 24 571 
+participants
+0.178
+Adjusted or unadjusted models
+  Adjusted1.29 (1.17 to 1.41), I2=87.0%, n=7, 726 270 
+participants
+0.001 1.36 (1.07 to 1.74), I2=88.5%, n=7, 315 075 
+participants
+0.014
+  Unadjusted None 1.34 (0.95 to 1.89), I2=92.2%, n=3, 5635 participants 0.094
+MAFLD alone or MAFLD- related fibrosis
+  MAFLD alone 1.27 (1.15 to 1.40), I2=88.4%, n=7, 725 686 
+participants
+<0.001 1.31 (1.08 to 1.60), I2=93.2%, n=9, 320 573 
+participants
+0.006
+  MAFLD- related fibrosis 1.54 (1.15 to 2.07), I2=nd, n=1, 584 participants 0.004 3.28 (1.21 to 8.86), I2=nd, n=1, 137 participants 0.019
+High study quality
+  Yes 1.36 (1.23 to 1.51), I2=75.6%, n=6, 318 693 
+participants
+<0.001 1.32 (1.05 to 1.66), I2=93.2%, n=8, 39 192 
+participants
+0.017
+  No 1.14 (1.06 to 1.23), I2=52.6%, n=2, 407 577 
+participants
+0.001 1.82 (0.80 to 4.16), I2=67.0%, n=2, 281 518 
+participants
+0.153
+CKD, chronic kidney disease; eGFR, estimated glomerular filtration rate; ICD- 9- CM, International Classification of Diseases, Ninth Revision, Clinical Modification; MAFLD, 
+metabolic dysfunction- associated fatty liver disease; T2DM, type 2 diabetes mellitus.
+eGastroenterology: first published as 10.1136/egastro-2023-100005 on 10 August 2023. Downloaded from https://egastroenterology.bmj.com on 7 April 2025 by guest.
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies.
+
+[W4385740504 PDF PAGE 10]
+10
+Zhou J, et al. eGastroenterology 2023;1:e100005. doi:10.1136/egastro-2023-100005
+Open access 
+Figure 5 Risk of incident CKD in MAFLD: sensitivity analysis. (A) Risk of incident CKD in MAFLD: sensitivity analysis in cohort 
+studies. (B) Risk of prevalent CKD in MAFLD: sensitivity analysis in cross- sectional studies. CKD, chronic kidney disease; 
+MAFLD, metabolic dysfunction- associated fatty liver disease.
+comprehensive assessment of this association to date. 
+In this meta- analysis of 20 observational studies with 
+aggregate data on about 1 million middle- aged individ-
+uals from different countries, we found that MAFLD 
+was significantly associated with an approximately 30% 
+increased risk of both prevalent and incident CKD. In 
+particular, the magnitude of the MAFLD- related risk 
+of incident CKD remained essentially unchanged even 
+after stratification by study country, modality of MAFLD 
+diagnosis, CKD definition or study quality. The risk of 
+incident CKD stage ≥3 remained significant also in those 
+cohort studies where analyses were adjusted for common 
+renal risk factors. Furthermore, the risk of CKD seemed 
+to be higher among patients with MAFLD with greater 
+severity of liver fibrosis (assessed by fibrosis biomarkers). 
+However, additional larger studies are needed to better 
+examine this issue. Thus, the results of our meta- analysis 
+indirectly support the concept that interventions against 
+eGastroenterology: first published as 10.1136/egastro-2023-100005 on 10 August 2023. Downloaded from https://egastroenterology.bmj.com on 7 April 2025 by guest.
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies.
+
+[W4385740504 PDF PAGE 11]
+11
+Zhou J, et al. eGastroenterology 2023;1:e100005. doi:10.1136/egastro-2023-100005
+Open access
+MAFLD might be an effective target for the prevention 
+and treatment of CKD.
+In this meta- analysis, we found that the newly proposed 
+MAFLD definition was able to identify individuals at risk 
+of developing CKD as effectively as the NAFLD defini-
+tion, a finding which has been reported in some

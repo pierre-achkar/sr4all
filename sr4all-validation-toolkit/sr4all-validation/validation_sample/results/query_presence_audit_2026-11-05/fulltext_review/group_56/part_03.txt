@@ -1,0 +1,182 @@
+s, democratizing knowledge 
+access, and aiding comprehensive policy development is 
+emphasized, with a call for proactive regulation over halt-
+ing technological advances (Larosa et al. 2023).
+Furthermore, the literature reveals a substantial focus 
+on the intersection of information systems and AI within 
+sustainability contexts. Studies demonstrate the transforma-
+tive impact of AI on the sustainable energy sector. A frame-
+work for AI-based energy efficiency improvements and the 
+integration of renewable energy into the grid is presented 
+(Schoormann et al. 2023 ). ML applications are explored 
+to optimize energy production and reduce environmen-
+tal impact (Ahmad et al. 2021). The applications of AI in 
+renewable energy, including DL tools for energy demand 
+prediction and smart meter analysis, are reviewed (Rangel-
+Martinez et al. 2021).
+AI applications in sustainable food systems are explored, 
+focusing on precision agriculture, supply chain optimization, 
+and reducing food waste. The role of AI in agriculture, par-
+ticularly in precision farming technologies such as remote 
+sensing, AI-driven irrigation systems, and predictive pest 
+control models, is highlighted (Camaréna 2020). The role 
+of AI in sustainable healthcare is investigated, focusing on 
+diagnostics, patient management, and resource allocation 
+for energy-efficient hospital operations (Vishwakarma et al. 
+2023). The applications of AI in water and wastewater man-
+agement, where AI optimizes treatment processes, monitors 
+water quality, and improves resource management efficiency 
+was evaluated (Viet et al. 2022).
+Regarding predictive technologies, an extensive review 
+of ANN, Support Vector Machines (SVM), and other time 
+series prediction techniques is provided for building energy 
+optimization (Ahmad et al. 2014). AI-based forecasting 
+models are also compared, including regression methods to 
+optimize building energy consumption (Deb et al. 2017). 
+Different AI models, such as regression models and deci-
+sion trees, are explored to predict building energy use, high-
+lighting the critical role of accurate forecasting in building 
+energy management (Zhao and Magoulès 2012). Emerging 
+AI methods in structural engineering are also examined, dis-
+cussing the expanding influence of AI on structural health 
+monitoring, design optimization, and predictive maintenance 
+in construction (Salehi and Burgueño 2018).
+Another study evaluates the effectiveness of various ML 
+models in predicting daily streamflow in a semi-arid river 
+using key hydro-meteorological factors such as rainfall, 
+temperature, and solar radiation. The study applies models 
+including bagging ensemble learning, boosting ensemble 
+learning, Gaussian process regression (GPR), and automated 
+machine learning (AutoML). Among these, bagging ensem-
+ble learning was the most effective, achieving a correlation 
+coefficient of 0.80 and root-mean-square error (RMSE) of 
+218 (Kumar et al. 2024).
+In the social domain, an article explores the implications 
+of ChatGPT and AI on humanity, science, and education. 
+It debates whether ChatGPT-4 represents a revolutionary 
+advancement in machine science or an epistemological 
+threat. The authors discuss AI’s impact on various fields, 
+including education, where it raises concerns over job dis-
+placement, ethics, and biases in AI systems. A critical per -
+spective is given on how AI challenges traditional human 
+roles in knowledge production, with questions raised about 
+the potential for AI to exceed human cognitive capacities 
+and whether AI might blur the line between human and ML 
+in the future (Peters et al. 2024). A similar article links gen-
+erative AI developments with discussions on job displace-
+ment and productivity growth. It explores how AI, particu-
+larly through computational processes and immersive reality, 
+transforms employment and redefines job roles, offering new 
+
+[W4403706069 PDF PAGE 9]
+Int J Environ Res (2025) 19:1 
+ Page 9 of 36 1
+perspectives on workforce skills and operational efficiency. 
+AI is presented as a disruptor of traditional labor practices, 
+challenging the idea that human workers alone are essential 
+for productivity. The text emphasizes that AI is not just an 
+automation tool but part of a larger shift that reconfigures 
+managerial roles, workforce demands, and labor market out-
+comes in a world increasingly driven by ML and autonomous 
+systems (Cramarenco et al. 2023). In addition, an article 
+connects the impact of AI with discussions surrounding the 
+skills and well-being of employees in the global labor mar -
+ket. It examines how AI, particularly through the adoption 
+of new technologies, reshapes employee skills, necessitating 
+up-skilling and re-skilling, and its effect on personal well-
+being. AI is presented as a key driver of change, challenging 
+traditional role and competency roles, while the need for 
+digital skills is emphasized. The text underscores that AI is 
+not merely a tool, but part of a larger shift that redefines both 
+professional and personal dimensions of work, influencing 
+employee satisfaction, mental health, and overall job secu-
+rity in an increasingly automated global economy (Lazaroiu 
+and Rogalska 2023).
+This review adopts a wider approach, including various 
+SDGs to offer a holistic perspective on AI applications in 
+multiple domains. This differs from previous sector-specific 
+reviews, such as those focused on AI and data fusion in envi-
+ronmental monitoring (Holloway and Mengersen 2018), and 
+analyses of pre-2022 algorithms used in this field (Kar et al. 
+2022). The rapid expansion of AI-driven research, particu-
+larly in sustainability, demands continuous updating and 
+reassessment of the literature.
+Furthermore, many of the reviews mentioned were pub-
+lished before 2020 and may not adequately reflect the lat-
+est advancements such as the transformer architecture and 
+LLMs. Furthermore, the predominant focus on SL and UL 
+in the existing literature overlooks the growing relevance 
+of RL, underscoring a significant gap. Given the fast-paced 
+evolution of the field, addressing these gaps is crucial. This 
+involves identifying key sustainability sectors where AI has 
+been applied and pinpointing overlooked areas that may ben-
+efit from AI integration. Furthermore, in light of the rapid 
+advances in AI methodologies, we must consider strate-
+gies to remain at the forefront of long-lasting innovations, 
+ensuring that our research remains relevant and impactful in 
+addressing sustainability challenges.
+To provide a deeper understanding of this research 
+domain, we conducted a comprehensive and structured 
+review of the literature. This review is based on the follow-
+ing research questions.
+• RQ1: What AI methodologies have been implemented to 
+address specific SDGs?
+• RQ2: What are the potential future areas of interest in the 
+AI domain for advancing the SDGs?
+In addressing RQ1, our goal is to provide a detailed over -
+view of various AI methods utilized for different SDGs. This 
+will help to elucidate how AI contributes to the achieve-
+ment of specific sustainability goals, clarifying the current 
+landscape of AI applications in sustainability. For RQ2, our 
+aim is to identify future research directions by uncovering 
+potential applications of AI that have not yet been realized 
+in the context of the SDGs. This question is motivated by 
+the identified gaps in the literature, particularly the need to 
+explore the applications of newer AI methodologies such 
+as RL and the latest advancements in AI technologies. 
+Through exploration of these research questions, our aim is 
+to improve the understanding of existing AI techniques used 
+in the context of the SDGs and to pinpoint prospective direc-
+tions for future research. This will ensure that our work not 
+only reflects the state-of-the-art but also guides future efforts 
+toward more impactful and comprehensive AI applications 
+in sustainability.
+Research methodology
+Sample, sources, and data
+The search included prominent databases such as IEEE 
+Xplore Digital Library, Scopus, Web of Science, ACM 
+Digital Library, and ScienceDirect, using a combination of 
+keywords as depicted in the PRISMA flowchart (Fig. 5). The 
+search period was limited to peer-reviewed academic jour -
+nals and conference proceedings written in English from the 
+start of 2017 to the end of 2023.
+We supplemented our search strategy with a snowball 
+search based on reviews of core literature in this area of 
+interest. This method allowed us to identify and include 
+additional relevant studies that may have been missed in the 
+initial database search or have been published before our 
+cut-off date. The core literature for snowballing was based 
+on reviews by Kar et al. (2022), which analyzed algorithms 
+used before 2022, thus overlapping with our search period. 
+Furthermore, Schoormann et al. (2023) had a focused view 
+on the energy sector, which is a secondary focus of our 
+review, yet many relevant articles were identified.
+In the selection phase, a threshold SJR (SCImago Journal 
+Rank) score of 1 was used to ensure the inclusion of jour -
+nals with a standard level of scientific influence and quality 
+in their academic discipline (González-Pereira et al. 2010). 
+This means that during the initial screening phase, any jour-
+nal with an SJR score below 1 was excluded from further 
+consideration. However, it is important to note that this SJR 
+threshold was specifically used only in the screening phase 
+to narrow down the pool of potentially relevant journals. 
+For the subsequent snowballing phase, which involves fol-
+lowing citation trails to identify additional relevant articles 
+
+[W4403706069 PDF PAGE 10]
+ Int J Environ Res (2025) 19:1
+1 Page 10 of 36
+regardless of the journal’s SJR score, the SJR threshold was 
+not considered. This approach in the snowballing phase 
+allows for the inclusion of potentially valuable studies that 
+could reside in less cited jour

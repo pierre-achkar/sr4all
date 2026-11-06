@@ -1,0 +1,356 @@
+ 63 NA 57 48/63 3/48 53 Case-
+series
+Naguib 1986 mixed_
+p
+mixed_t 190 0/190 28.6 NA NA NA 28.8 NA Non-
+RCT
+Nazir 2015 mixed_
+p
+CAB 19 1/18 27.3 18/19 NA NA NA NA Non-
+RCT
+Niki 2013 0/12/0 CAB 12 11/1 40.5 11/12 NA NA NA NA Case-
+series
+Nissim 1982 0/7/0 BRC 7 NA NA 4/7 NA NA NA NA Case-
+series
+Oksana 2018 0/0/68 mixed_t 68 60/8 41.5 35/68 NA NA 104.7 NA Case-
+series
+Oluwaseun
+2019
+mixed_
+p
+mixed_DA 69 NA NA 29/69 NA 6 NA NA Case-
+series
+Omar 1983 28/16/ mixed_s 44 0/44 26.8 29/44 16/29 41.5 Case-
+Cai et al. Chinese Neurosurgical Journal             (2022) 8:9 Page 7 of 21
+
+[W4223587433 PDF PAGE 8]
+Table 1 Basic characteristics of the included studies (Continued)
+Study name I/A/G a Interventionb No. Male/
+female
+Meanage/
+y
+Biochemical
+cure rate c
+Recurrent
+rated
+Duration
+1
+Duration
+2
+Duration
+3
+Study
+type
+0 series
+Paepegaey
+2017
+0/260/
+0
+CAB 260 135/125 36.2 157/260 14/35 NA NA NA Case-
+series
+Paluzzi 2013 11/42/
+0
+endoscopic_s 53 NA NA 42/53 NA NA Case-
+series
+Panagiotis
+2011
+mixed_
+p
+mixed_DA 79 17/62 35.3 NA 11/26 49 79 NA Case-
+series
+Paul 1983 mixed_
+p
+mixed_s 40 0/40 NA 25/40 9/25 23 Case-
+series
+Pelkonen
+1981
+mixed_
+p
+mixed_s 60 15/45 NA NA NA NA Case-
+series
+Pietro 2005 mixed_
+p
+mixed_s 151 NA NA 93/151 NA NA Case-
+series
+Raverot 2010 mixed_
+p
+mixed_s 94 32/62 37.8 60/94 19/60 138 Case-
+series
+Renata 2013 mixed_
+p
+CAB 61 13/48 34.4 57/61 NA 60 60 NA Case-
+series
+Renata 2015 mixed_
+p
+CAB 32 32/0 42 31/32 NA 24 24 NA Non-
+RCT
+Ronald 1982 22/14/
+0
+mixed_s 36 NA NA NA 1/35 NA Case-
+series
+Rudolf 1985 27/0/0 microscopic_s 27 NA NA 19/27 NA NA Case-
+series
+Safak 2016 0/113/
+0
+endoscopic_s 113 NA NA 51/113 NA 36 Case-
+series
+Safak 2016 19/0/
+10
+endoscopic_s 29 NA NA 15/29 NA 36
+Sandhya
+2018
+mixed_
+p
+mixed_DA 28 0/28 NA 16/18 5/16 12 216 36 Case-
+series
+Sandhya
+2017
+mixed_
+p
+mixed_DA 16 0/16 NA 15/16 NA NA NA NA Case-
+series
+Schlechte
+1985
+mixed_
+p
+microscopic_s 68 0/68 NA 37/68 12/37 60.00 Case-
+series
+Sema 2016 mixed_
+p
+mixed_DA 67 17/50 NA NA 31/67 108.8 76.9 16.1 Non-
+RCT
+Sema 2018 mixed_
+p
+mixed_DA 308 NA 71 NA NA NA NA NA Non-
+RCT
+Shigetoshi
+2009
+17/12/
+0
+endoscopic_s 29 NA NA 21/29 NA NA Case-
+series
+Shrikrishna
+2009
+mixed_
+p
+mixed_DA 39 9/30 NA 14/39 NA NA NA NA Case-
+series
+Shrikrishna
+2010
+0/0/10 CAB 10 5/5 36.1 8/10 NA NA NA NA Case-
+series
+Steven 1996 11/23/
+0
+mixed_s 34 8/26 23.3 9/34 NA NA Case-
+series
+Taizo 1991 mixed_
+p
+mixed_s 35 0/35 NA 22/35 NA NA Case-
+series
+Takakazu
+2002
+mixed_
+p
+mixed_s 32 12/20 32 14/32 NA NA Case-
+series
+Tevfik 2001 mixed_
+p
+mixed_DA 34 4/30 33.1 24/34 NA NA NA NA RCT
+Thomas 2011 45/15/
+0
+mixed_DA 60 NA NA NA 43/60 65 59 6 Case-
+series
+Cai et al. Chinese Neurosurgical Journal             (2022) 8:9 Page 8 of 21
+
+[W4223587433 PDF PAGE 9]
+89.4%, p = 0.000) in the DAs group, respectively (Fig. 2).
+Because of high heterogeneity, subgroup analysis and
+meta-regression analysis were conducted to detect the
+source of high heterogeneity. In the surgery group, al-
+though no significant decrease in heterogeneity was
+found in the subgroup analysis (Supplementary Fig. 2),
+meta-regression analysis detected that gender ( p =
+0.019) and macroprolactinoma ( p = 0.001) were statisti-
+cally significant factors causing heterogeneity. In the
+subgroup analysis, macroprolactinoma patients showed a
+lower biochemical cure rate (0.57 versus 0.66) compared
+with total surgery-treated patients, but in macroprolacti-
+noma patients, the biochemical cure rate was higher
+(0.79 versus 0.66) than total surgery-treated patients
+(Supplementary Fig. 2). And regression analysis identi-
+fied that female patients showed a positive trend in the
+rates compared with male patients. Because the surgery
+group included patients with or without DAs treatment
+history, we conducted subgroup analysis based on DAs
+treatment history to explore the normalization rate of
+surgery treated population without DAs treatment his-
+tory. Results showed similar normalization rates in with-
+out DAs treatment history subgroup (0.69 (0.44,0.94); I2
+= 94.5%, p = 0.000) with that in the whole surgery
+treated population (Supplementary Fig. 8). In the DAs
+group, subgroup analysis was carried out based on de-
+cades, subtypes of prolactinoma, and drug species (Sup-
+plementary Fig. 2), and the giant prolactinoma ( I2 =
+Table 1 Basic characteristics of the included studies (Continued)
+Study name I/A/G a Interventionb No. Male/
+female
+Meanage/
+y
+Biochemical
+cure rate c
+Recurrent
+rated
+Duration
+1
+Duration
+2
+Duration
+3
+Study
+type
+Thomson
+1985
+mixed_
+p
+microscopic_s 77 NA NA 53/77 NA NA Case-
+series
+Timothy
+2015
+mixed_
+p
+endoscopic_s 66 22/44 36.7 45/66 NA 12 Case-
+series
+Vanessa
+2012
+mixed_
+p
+mixed_s 63 18/45 31 29/63 10/29 36 Case-
+series
+Verena 2017 mixed_
+p
+CAB 53 31/22 40 NA NA NA 9 NA Case-
+series
+Wang 1987 mixed_
+p
+BRC 24 NA NA NA 19/24 40.8 58.8 NA Case-
+series
+Wang 2015 132/
+176/0
+endoscopic_s 308 NA NA 261/308 NA NA Case-
+series
+Winnie 2018 mixed_
+p
+mixed_s 31 31/0 40.8 NA NA 41.9 Case-
+series
+Wolfsberger
+2003
+0/11/0 mixed_s 11 11/0 41 8/11 NA 84 Case-
+series
+Xin 2011 mixed_
+p
+mixed_s 87 87/0 38 46/87 9/45 45 Case-
+series
+Yan 2015 mixed_
+p
+mixed_s 99 NA NA 71/99 NA NA Case-
+series
+Yang 2015 mixed_
+p
+mixed_s 9 5/4 NA NA NA NA Case-
+series
+Yan-Long
+2018
+mixed_
+p
+endoscopic_s 52 14/38 37.69 40/52 6/40 13.5 Case-
+series
+Yi 2018 mixed_
+p
+mixed_s 36 11/25 NA 34/36 NA NA Case-
+series
+Yi-Jun 2017 mixed_
+p
+microscopic_s 184 184/0 36.3 57/187 NA NA Case-
+series
+Youichi 1986 mixed_
+p
+microscopic_s 98 16/82 31 45/98 NA NA Case-
+series
+Youngki
+2014
+0/44/0 mixed_DA 44 28/16 36.8 34/44 NA NA NA NA Case-
+series
+aI/A/G: numbers of patients with microprolactinoma/macroprolactinoma/giant prolactinoma; mixed_p: mixed_prolactinoma, data of this part is ins eparable, which
+includes patients with macroprolactinoma, microprolactinoma, and giant prolactinoma; bmixed_t: mixed treatment,treatments within this study include DAs and
+surgery and data of each treatment is available; mixed_s: mixed_surgery, data include patients with microscopic surgery and endoscopic surgery; mi croscopic_s:
+microscopic_surgery; endoscopic_s: endoscopic_surgery; DAs: dopamine agonists; BRC: bromocriptine; CAB: cabergoline; c cured/treated; d replased/cured; e mean
+follow up duration months; NA not applicable, because the data was not provided by included studies. Duration 1: follow up duration (month); Duration 2: DAs
+treatment duration (month), only for studies with DAs; Duration 3: follow-up duration after DAs withdrawal (month), only for studies with DAs; No.: s ample size of
+included study
+Cai et al. Chinese Neurosurgical Journal             (2022) 8:9 Page 9 of 21
+
+[W4223587433 PDF PAGE 10]
+62.3%, p = 0.010) subgroup showed a decrease in im-
+portant heterogeneity (Table 2). Meta-regression analysis
+of the DAs group also showed that giant prolactinoma
+(p = 0.029) and bromocriptine ( p = 0.024) were import-
+ant sources of heterogeneity (Table 4), and their rates
+were lower than the rates in all patients (0.62 versus
+0.78; 0.70 versus 0.78). The funnel plot for the surgery
+group (Supplementary Fig. 3A) showed a symmetric dis-
+tribution on either side of the middle line, but an asym-
+metric distribution for the DAs group. Based on the
+funnel plot, some degree of publication bias was found
+in the DAs group (Supplementary Fig. 3B).
+Cumulative meta-analysis was also conducted to detect
+the changes in the biochemical cure rate over time. Re-
+sults showed an overall increasing trend of the biochem-
+ical cure rate of surgery, and after the year 2000, the
+biochemical cure rate of endoscopic surgery was consist-
+ently higher than that of bromocriptine (Fig. 4A).
+Recurrence rate
+This part consisted of 36 studies [ 4, 6, 93, 100, 102, 105,
+111, 112, 114, 116, 120– 122, 125, 127, 128, 132, 135,
+138, 139, 141, 142, 145, 146, 148, 150, 154– 156] com-
+prising 1215 patients who underwent surgery and 19
+studies [ 24, 27, 34, 39, 41, 47, 59, 62, 64, 68, 75, 82, 84,
+85, 87] comprising 835 patients who used DAs. The re-
+currence rate of surgery was 0.19 (0.15, 0.24) ( I2 =
+83.7%, p = 0.000) and 0.57 (0.48, 0.67) ( I2 = 89.2%, p =
+0.000) for DAs (Fig. 3). Because of the high heterogen-
+eity in surgery and DAs, subgroup analysis was carried
+out based on decades, subtypes of prolactinoma, sub-
+types of surgery, and drug species (Table 3; Supplemen-
+tary Fig. 4). The following significant decreases in
+heterogeneity were detected: 2000 – 2009 ( I2 = 47.1%, p =
+0.093), microprolactinoma ( I2 = 65.6%, p = 0.002),
+microscopic surgery ( I2 = 65.7%, p = 0.020), and endo-
+scopic surgery ( I2 = 0.0%, p = 0.865) for surgery and
+bromocriptine ( I2 = 15.5%, p = 0.277) for DAs (Table 3).
+Meta-regression analysis did not detect any important
+factors with respect to heterogeneity sources (Table 4).
+Cumulative meta-analysis of recurrence rates was car-
+ried out. Results showed that the recurrence rate of DAs
+decreased from 0.86 (0.73, 1.00) in 1991 to 0.57 (0.48,
+0.67) in 2018. In the surgery group, the recurrence rate
+consistently reduced from 0.29 (0.15, 0.43) in 1985 to
+0.18 (0.14, 0.21) in 2018 (Fig. 4B).
+Prolactin level
+A total of 8 studies [ 7, 98, 124, 134, 150] comprising 555
+patients in the surgery group and 27 studies [ 7, 31, 33,
+38, 40, 42– 44, 46, 48, 54, 55, 59, 78, 81, 83, 84, 90] com-
+prising 954 patients in the DAs group were included in
+this part of research. Based on the pooled results, the
+mean differences in the prolactin levels between pre-
+and post-treatment were 396.80 ng/ml (222.33, 571.27)
+(I2 = 99%, p < 0.001) for surgery and 375.26 ng/ml
+(316.21, 434.31) ( I2 = 98%, p < 0.001) for DAs (Supple-
+mentary Fig. 5). Sensitive analysis was conducted to find
+the source of heterogeneity, but no notable decrease in
+heterogeneity was detected.
+Symptom improvement rate
+Improvement rate for vision impairment
+In the surgery group, 114 patients from 11 studies [ 13,
+95, 97, 124, 132, 137, 141, 143, 156] were included, and
+the pooled improvement rate for vision impairment was
+0.68 (0.51, 0.82) ( I2 = 34.8%, p

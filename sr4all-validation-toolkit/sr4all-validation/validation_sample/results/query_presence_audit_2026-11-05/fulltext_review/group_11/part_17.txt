@@ -1,0 +1,195 @@
+er study used the
+Balloon Analog Risk Task and the Game of Dice Task ( Gorini
+et al., 2014 ). Furthermore, one study used the Ultimatum Game
+and the Risk Task, both with monetary outcomes as well as
+cigarette outcomes (
+Fecteau et al., 2014 ). Finally, two studies
+used the Risk Task with points as outcome ( Boggio et al., 2010;
+Sheﬀer et al., 2013 ). In total 18 outcome measures were assessed.
+Eight of the outcome measures were positively aﬀected, nine of
+them were not aﬀected and one was negatively aﬀected. Overall
+anodal tDCS over the left DLPFC decreased the number of cards
+chosen on the Cold Columbia Card Task and decreased the
+number of pumps on the unexploded balloon during the Balloon
+Analog Risk Task, indicating reduced risky decision making.
+Furthermore, anodal tDCS over the right DLPFC decreased
+number of cards chosen during the Hot Columbia Card Task,
+decreased the number of pumps on the unexploded balloon
+during the Balloon Analog Risk Task and increased the number
+of conservative bets during the Game of Dice Task, all indicating
+reduced risk taking. On the other hand decreased number of
+conservative bets during the Game of Dice Task was found after
+one session of tDCS over the left DLPFC, indicating increase d
+risky decision making. Finally, HF-rTMS over the DLPFC did
+not aﬀect risky decision-making during the Risk Task (see
+Table 1).
+Cognitive Bias
+If non-invasive neuromodulation improves executive
+functioning one may hypothesize that cognitive bias (i.e.,
+the implicit measure of automatic cognitive motivational
+processes;
+Wiers et al., 2007 ) decreases. The systematic
+search revealed three studies addressing the eﬀect of non-
+invasive neuromodulation on cognitive biases. One study
+used the aﬀective and motivation versions of the Implicit
+Association Task (
+den Uyl et al., 2015 ). Another study used
+the Alcohol Approach Task ( den Uyl et al., 2016a ), while the
+ﬁnal study used both the Alcohol Approach Task and the
+Implicit Association Task (
+den Uyl et al., 2016b ). In total
+seven outcome measures were assessed. No eﬀect of anodal
+tDCS over the left DLPFC was found on alcohol association
+bias or alcohol approach bias (six outcome measures),
+although one study reported a decrease in reaction time
+during performance of the Aﬀective Implicit Association
+Task after anodal tDCS over the left DLPFC implicating
+improved executive functions (
+den Uyl et al., 2015 ) (see
+Table 1).
+Overall Executive Functioning
+Two studies addressed the eﬀect of non-invasive
+neuromodulation on overall executive functioning by
+means of the Frontal Assessment Battery (
+Da Silva
+et al., 2013; Klauss et al., 2014 ). Anodal tDCS over the
+left DLPFC resulted in a trend signiﬁcant increase in
+executive functioning (
+Da Silva et al., 2013 ), while anodal
+stimulation over the right DLPFC did not result in
+changed executive functioning (
+Klauss et al., 2014 ) (see
+Table 1).
+DISCUSSION
+Summary of Main Findings
+The current systematic review aimed to review and discuss the
+current evidence of the eﬀects of non-invasive neuromodulat ion
+on executive functioning in addictive disorders. Therefore ,
+a systematic search was performed which resulted in 16
+studies addressing the following executive and other cognitive
+functioning domains: attention, cognitive ﬂexibility, re sponse
+inhibition, memory & learning, problem solving, social
+cognition, risk taking, cognitive bias and overall executive
+functioning. As exploration and way of summarizing the
+literature we calculated the number of diﬀerent outcome
+measures within these domains and whether they were
+positively, negatively or not aﬀected. This resulted in
+46 outcome measures that were assessed. Important to
+note is the large variability of stimulation protocols and
+study designs used, complicating comparability of the
+results. For this reason it was impossible to perform a
+meta-analyses.
+The distribution of outcome measures per executive
+functioning domain was not equal. Risk taking was the best
+represented, followed by cognitive bias, response inhibition,
+memory & learning, overall executive functioning and atten tion.
+Less represented were cognitive ﬂexibility, problem solving
+and social cognition. Therefore, considering the proportion
+of positive eﬀects vs. no and negative eﬀects within an
+executive function domain as a summarizing method can only
+be considered explorative. Non-invasive neuromodulation
+seems to be most eﬀective in social cognition (1 out of 1
+outcome measures positive), memory & learning (3 out
+of 5 outcome measures positive), response inhibition (3
+out of 5 outcome measures positive) cognitive ﬂexibility (1
+out of 2 outcome measures positive) and overall executive
+functioning (1 out of 2 outcome measures positive). Non-
+invasive neuromodulation seems less eﬀective in risk taking
+(8 out of 18 outcome measures positive), attention (1 out
+of 5 outcome measures positive) and cognitive bias (1 out
+of 7 outcome measures positive). No eﬀect of non-invasive
+neuromodulation was observed on problem solving. This
+suggests diﬀerential eﬀects of non-invasive neuromodulation
+on diﬀerent executive and cognitive functions, but more
+studies are needed as the existing studies are limited in
+number.
+The results of these studies however should be interpreted
+in light of the goal of neuromodulation, namely improving
+current treatment. In this light one executive functioning
+domain may be more relevant compared to other domains.
+Especially response inhibition may be of high relevance since
+impulsivity (e.g., diminished response inhibition) is related
+to poorer treatment outcome (
+Stevens et al., 2014 ) and re-
+initiation of substance use in individuals trying to abstai n
+Frontiers in Neuroscience | www.frontiersin.org 9 September 2018 | Volume 12 | Article 642
+
+[W2891056675 PDF PAGE 10]
+Schluter et al. Neuromodulation in Substance Use Disorder
+(de Wit, 2009 ). Therefore, improving inhibitory functions may
+prevent an individual from initiating substance use again,
+and hereby reduce the chance for relapse. Attention and
+memory & learning may also be relevant domains because
+abstinence goals and strategies taught during treatment should be
+remembered (
+Domínguez-Salas et al., 2016 ). Cognitive ﬂexibility
+may be relevant in order to apply the learned strategies and
+change habitual behavior (
+Domínguez-Salas et al., 2016 ). In this
+light the eﬀect of non-invasive neuromodulation on executiv e
+functioning seems to be promising for substance dependence
+treatment. Unfortunately it is still uncommon to also include
+outcome measures assessing substance use after non-invasi ve
+neuromodulation interventions. From the studies included in
+the current review seven included at least one measure of
+substance use and/or relapse (
+Da Silva et al., 2013; Sheﬀer
+et al., 2013; Fecteau et al., 2014; Klauss et al., 2014; Del
+Felice et al., 2016; den Uyl et al., 2016a; Huang et al., 2016
+).
+However, for studies applying only one session it is debatable
+whether a change in substance use can be expected, and we
+therefore only discuss the relation of neuromodulation eﬀects
+on executive functions and clinical outcome measures for
+studies including multiple neuromodulation sessions. Three of
+the studies found no eﬀect of non-invasive neuromodulation
+on executive functions, but did ﬁnd a decrease in substance
+use (
+Klauss et al., 2014; den Uyl et al., 2016a; Huang et al.,
+2016). Contrary, another study did ﬁnd a positive eﬀect on
+executive functioning but no eﬀect on substance use ( Del
+Felice et al., 2016 ). Furthermore, one study found a trend
+positive eﬀect on executive functioning, but a trend signiﬁca nt
+increase in relapse ( Da Silva et al., 2013 ). Based on these
+studies it is hard to draw any conclusions on the relationshi p
+between executive functioning and relapse. Therefore, it is
+important that future studies also include substance use measures
+in order to be able to relate eﬀects of neuromodulation
+on executive functioning to substance use or treatment
+outcomes.
+Besides the diﬀerent eﬀects of non-invasive neuromodulation
+on the executive functioning domains there are some other
+factors which are relevant. First, the type of neuromodulation
+may inﬂuence the extent of the eﬀect. For instance, anodal
+tDCS only decreases the membrane potential, hereby enhancing
+neuronal excitability, whereas HF-rTMS actually depolarizes
+neurons and therefore induces activation of the stimulatedtissue
+(
+Hummel and Cohen, 2006 ). Secondly, the side (left vs. right
+side) of stimulation could diﬀerentially contribute to the e ﬀect.
+For example it is postulated that the left DLPFC is related more
+to approach behavior and impulsive behavior whereas the right
+DLPFC is related more to avoidance behavior, or control behavior
+(
+Miller et al., 2013 ). This indicates that left sided stimulation
+may increase impulsive behavior in addicted populations. Indee d,
+HF-rTMS over the left DLPFC increases responsiveness toward
+rewarding stimuli (
+Ahn et al., 2013 ), suggesting a decrease in
+inhibitory functioning due to left-sided HF-rTMS. Therefor e,
+stimulation side is important to consider when setting up
+neuromodulation studies in addictive disorders. Finally,the
+number of stimulation sessions may contribute to the eﬀect of
+non-invasive neuromodulation. Applying multiple sessions of
+non-invasive neuromodulation could induce a summation of
+eﬀects of single session stimulation (
+Valero-Cabré et al., 2008 ),
+thereby resulting in changes in executive functioning wher eas
+a single session may not have a suﬃciently strong eﬀect on
+long-term improvement of executive functioning.
+Altogether, taking the above described contributing facto rs
+into account, future studies are needed that compare the eﬀect
+of diﬀerent types of stimulation, stimulation side (left vs. right)
+and number of stimulation sessions on executive functionin g and
+addiction related outcome measures. Additionally, to under stand
+which subgroups within addictive disorders (e.g., high 

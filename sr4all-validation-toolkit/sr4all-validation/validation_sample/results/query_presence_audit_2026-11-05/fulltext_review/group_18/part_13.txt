@@ -1,0 +1,180 @@
+al stress, whilst‘judgement from peers’ was iden-
+tified as a significant risk factor for depression [ 87]. There
+were a small number of stressors which fell under the Par-
+ticipation and Control category. Low ‘decision latitude’ was
+a significant predictor of EE and DP [ 85], while ‘lacking in-
+fluence’ in one’s work was predictive of occupational stress
+[93]. ‘Autonomy’ was not identified as a significant risk fac-
+tor when investigated in relation to EE, DP and PA [ 91].
+Organisational stressors in the Career Development
+category, included ‘effort-reward imbalance ’ [90], ‘over
+commitment’ [90] and ‘lack of advancement ’ [93]. The
+former two were significant predictors for PD/PS [ 90],
+while the latter was not a significant risk factor for occu-
+pational stress.
+Discussion
+Summary of findings
+This review systematically summarises the organisational
+stressors intrinsic to police work that significantly contribute
+to the adverse MW outcomes of occupational stress, anxiety,
+depression, PS/PD, Burnout, EE, DP, and suicidal ideation.
+The findings are based on the available evidence established
+through a systematic search us ing predefined PICO inclu-
+sion criteria set for this review. Fifteen studies met the inclu-
+sion criteria, covering relationships between 36 different
+organisational stressors with MW outcomes, of which
+twenty-five, including examples such as: organisational cul-
+ture and climate, perceived workplace fairness/unfairness,
+leadership, department issues,job demands, high mental/in-
+tellectual demand, job pressure, heavy workload, long
+working hours, lack of resources and support, ridicule and
+set ups, sexual and language harassment, bias, judgement
+from peers, low decision latitu de, lacking influence, effort-
+reward imbalance and over commitment, were identified as
+statistically significant predictors of MW outcomes and
+demonstrated a strong degre eo fe v i d e n c ew i t hh i g ho r
+intermediate magnitudes of associations with the MW out-
+comes studied..
+Review in the context of previous studies
+The majority of the evidence collated for this review has in-
+dicated the MW outcomes PS/PD [ 82, 84, 89, 90], EE [ 82,
+83, 85, 86, 89, 91, 94, 95]a n dD P[ 85, 86, 89, 91, 94, 95]
+demonstrate the strongest relationships with organisational
+stressors, including lack of support from superiors and or-
+ganisation, long working hours, inadequate work schedule,
+high mental/intellectual dem and, job demand, organisa-
+tional climate, organisati onal culture and low decision
+Table 4 Evidence Synthesis: The MW Outcomes Associated with Organisational Stressors in Police Officers
+Mental Wellbeing Outcome(s) Degree of
+Evidence
+Magnitude of the
+Association
+Study
+ID(s)
+Psychiatric Symptoms (PS) or Psychological Distress
+(PD)
++++ +++ Adams et al. [ 82]; Arial et al. [ 84];
+Houdmont et al. [ 89, 90]
+Emotional Exhaustion(EE) +++ +++ Adams et al. [ 82]; Adebayo et al. [ 83];
+Backteman-Erlanson et al. [ 85];
+Berg et al. [ 86]; Houdmont et al. [ 89];
+Martinussen et al. [ 91]; McCarty et al. [ 92];
+Mostert et al. [ 94]; Xavier et al. [ 95]
+Depersonalisation (DP) +++ +++ Backetman- Erlanson et al. [ 85]; Berg et al. [ 86];
+Houdmont et el [89].; Martinussen et al. [ 91];
+Mostert et al. [ 94]; Xavier et al. [ 95]
+Occupational Stress +++ ++ Crank et al. [ 88]; Morash et al. [ 96];
+Morash et al. [ 93]
+Anxiety + ++ Berg et al. [ 86]
+Depression + ++ Berg et al. [ 86]; Chen et al. [ 87]
+Burnout + ++ Xavier et al. [ 95]
+Personal Accomplishment (PA) +++ ++ Berg et al. [ 86]; Houdmont et al. [ 89];
+Martinussen et al. [ 91]; Xavier et al. [ 95]
+Suicidal Ideation + + Berg et al. [ 86]
+Note. Degree of evidence of included studies by outcome classified as strong, moderate or insufficient. Strong evidence (+++): Consistent findings in more than 2
+studies of high quality. At least one study has adjusted for participant demographics AND additional exposure variables .; moderate evidence (++): Consistent findings in
+2 studies of high quality or one high quality study and one intermediate quality study, or between more than 2 studies of intermediate quality. At least one study has
+adjusted for participant demographics OR additional exposure variables ; insufficient evidence (+): Identification of only one study or inconsistent findings across studies .
+Magnitude of association of included studies by outcome based on RAG threshold: high (+++): ≥4; intermediate (++): 2.0–3.9; low/no association (+): 0–1.9
+Purba and Demou BMC Public Health         (2019) 19:1286 Page 15 of 21
+
+[W2980327373 PDF PAGE 16]
+latitude. Within the wider literature ‘job demand’ is identi-
+fied as an important risk factor for the manifestation of
+MW outcomes, analogous to our review findings. In a sys-
+tematic review covering the general working population,
+there was strong evidence that high job demand was a sig-
+nificant predictor of PD [ 106]. A narrative review of ‘high
+quality’ longitudinal studies, con d u c t e db yd eL a n g ee ta l . ,
+[107] found evidence of causal effects of job demands on
+PS, concluding that the psycho social work environment at
+work is vital for mental health. While this narrative review
+did not consider police perso nnel specifically, its purpose
+was to test the effects of a combination of job characteris-
+tics (demand, control and support) on PS [ 107], all of which
+are inherent in police work [ 35].. Our review did not iden-
+tify any studies investigatin g the impact of job demand on
+depression, anxiety and occup ational stress, however a re-
+view on the general population, demonstrated that high job
+demands are associated with in creased rates of depression,
+anxiety and occupational stress [ 1]. M o r e o v e r ,w i t h i nt h e
+broader law enforcement literature occupational stress and
+burnout have been reported to arise as a result of high job
+demands [108]; and with emotional exhaustion in a recent
+s t u d yo fG e r m a np o l i c eo f f i c e r s[109], illustrating the
+spectrum of MW outcomes associated with exposure to
+this stressor.
+On consideration of other organisational stressors re-
+lated to workload and working hours, job pressure, was
+identified as the strongest predictor of anxiety, PA and
+burnout. This finding is in line with reviews on correc-
+tional officers where job pressure was identified as a sig-
+nificant predictor of burnout [ 110, 111] and with a
+recent study where effort-reward imbalance was posi-
+tively associated with burnout scores in police officers
+[112]. Long working hours was identified as increasing
+the risk of PS/PD, EE and DP in police officers within
+our review. Two reviews were identified that have inves-
+tigated the relationship between atypical working hours
+and MW outcomes in the general working population
+[113, 114] and the results attest similar findings. One
+concluded that working more than 48 h a week in-
+creased the risk of psychological health difficulties [ 113],
+whilst the second concluded that working more than 40
+h per week or more than 8 h a day increased the risk of
+developing symptoms of anxiety or depression [ 114]. No
+systematic review or meta-analyses that examined the
+impact of long working hours on police officers were
+identified.
+The impact of interpersonal relationships was exam-
+ined within our review. Research on correctional officers
+have illustrated that relationships with co-workers and
+the resultant feelings of isolation are significant predic-
+tors of occupational stress [ 110]. Confirming the impact
+of interpersonal relationships on MW, were the results
+of a study conducted on 1206 police officers that
+demonstrated that co-worker discourteous and disres-
+pectful behaviours were significant sources of occupa-
+tional stress [ 115]. However, this study did not formally
+assess associations between stressors and MW out-
+comes. A recent study showed that job resources (team
+support, shared values and perceived fairness) predicted
+wellbeing and decreased EE in police officers [ 109]. Fur-
+thermore, judgement from peers was identified as a sig-
+nificant risk factor for depression, consistent with
+studies on the general working population which provide
+strong evidence of relationships between workplace
+bullying and increased depression symptoms [ 116], anx-
+iety [ 117], and stress related psychological symptoms
+[117]. This emotional demand interpersonal relation-
+ships can pose on police officers is often referred to as
+emotional labour [ 115], where officers have to manage
+the display of their emotions and maintain the appropri-
+ate demeanour expected by both their work and the
+greater public. The presence of such interpersonal rela-
+tionship organisational stressors can have consequential
+effects, given that police officers rely on colleagues in
+their work [ 118].
+In the wider organisational stress literature, high levels
+of social support at work from colleagues and supervi-
+sors have been found to be protective of mental health
+[5, 106, 110, 119]. Systematic reviews on the general
+working population have indicated that low levels of
+support result in increased levels of PD [ 106] and predict
+the onset of depression [ 119]. Another review of 14 lon-
+gitudinal studies revealed that lack of social support en-
+hanced depression [ 120], and a review on correctional
+officers demonstrated increased levels of occupational
+stress resulting from lack of support [ 110]. A study con-
+ducted on a special police force unit demonstrated lack
+of support was a significant risk factor for DP [ 5]. Simi-
+larly, our review identified that low levels of social sup-
+port resulted in an increased risk of a number of MW
+outcomes including occupational stress [ 96], PS/PD [ 84],
+EE [ 86, 91, 92], DP [ 85, 91] and PA [ 91]. Only one study
+in our review investigated the relationship with anxiety
+and found no evidence of an association [ 86], whereas
+no study investigated the relationship between social
+support and depression.
+Lack of support showed no association with suicidal
+ideation, although only o

@@ -1,0 +1,191 @@
+-
+comes, and reported a larger decrease in the interven-
+tion arm ( − 195 kcal 95%CI: − 288.79, − 101.21 vs. -76
+kcal 95%CI: − 171.72, 19.72). Though self-reported, these
+results suggest that behavioural contracts can facilitate
+longer-term dietary change when behaviour specified in
+the contract is specific in relation to dietary behaviour to
+be performed.
+Craighead and Blum [ 45] also reported longer term
+outcomes, and found no significant difference in eating
+inventories between groups. As previously stated, the
+behavioural contracts were exercise specific, therefore
+this does not provide evidence against their use for
+changing dietary behaviours.
+Delivery elements across all studies
+Behaviour change techniques
+Three studies [ 36, 40, 41] compared behavioural contract
+groups with minimal contact/no treatment controls only,
+so it is difficult to infer meaningful results regarding the
+contracts themselves, rather than the intervention as a
+Fig. 3 Meta-analysis of longer term (12 months) weight loss
+Coupe et al. BMC Public Health          (2019) 19:816 Page 7 of 16
+
+[W2951333969 PDF PAGE 8]
+whole. However, as they were all effective in terms of
+weight outcomes, we have identified the four common
+BCTs alongside which the contracts were delivered, which
+were: goal setting (behaviour), feedback on behaviour, self-
+monitoring of behaviour, and social support (unspecified).
+Two studies included a direct comparison of an interven-
+tion with and without a contract; the BCTs used in
+Franzini and Grimes ’ss t u d y[ 42]( s e e Appendix 2 )i n -
+cluded the same common BCTs as the above studies, with
+the exception of 3.1 Social support. The individual BCTs
+in Nyer and Dellande ’s[ 39] study were unavailable.
+Given the focus of the remaining four studies [ 43– 46]
+was on the delivery of the contracts, there were few
+differences within studies between the BCTs delivered to
+intervention and control groups. However, the common
+BCTs across these studies were similar to above: goal
+setting (behaviour), goal setting (outcome), self-
+monitoring of behaviour, feedback on outcome of behav-
+iour, and social support (unspecified).
+Intervention deliverer
+Education level of the intervention deliverer was not re-
+ported in one study [ 44]. Of the remaining nine studies,
+all interventions were delivered by doctorate level or
+medically trained individuals or health care profes-
+sionals, except for one, where the deliverers had mini-
+mum high school education and received 2 days training
+[40]. As the intervention in Kegler et al ’s[ 41] study was
+effective, level of provider education does not seem to
+have affected outcomes.
+Intervention delivery
+The interventions in two studies were delivered to indi-
+viduals alongside web and/or mail support [ 40, 41]
+whereas the others were delivered in group settings. The
+weight outcomes of the groups in Craighead and Blum ’s
+[45] study suggests the importance of delivering the con-
+tract alongside a group intervention. The reasons for this
+are unclear, for example, the group setting may have
+introduced a form of social support, or social pressure,
+which may have enhanced the effect of the contract.
+However, given that the two interventions delivered indi-
+vidually were effective, it is possible that it is not the
+group setting itself that is important, but the ongoing
+contact, regardless of whether this is with a health pro-
+fessional or peers.
+Intervention length
+Of those studies comparing a commitment device inter-
+vention with no intervention, four studies delivered the
+intervention over a minimum of 16 weeks [ 38– 41],
+whereas one was delivered over 11 weeks [ 42]. Given
+that there was no significant difference between the con-
+tract and no contract groups in this study, the length of
+intervention may be important, again suggesting the im-
+portance of ongoing support alongside contract delivery.
+Quality of studies
+As seen in Table 3, quality varied across studies. Four
+trials (40%) described a true randomization procedure,
+and four (40%) stated participants were randomised but
+without describing the method used. The remaining two
+(22%) studies were identified as having a high risk of
+bias in relation to sequence generation. Allocation con-
+cealment was rated as unclear across seven (78%) stud-
+ies; one was rated as high risk, with the remaining two
+(22%) studies identified as low risk of bias. Two (22%)
+studies described adequate blinding procedures, three
+did not, and five (56%) reported insufficient information
+regarding their blinding procedures. Other bias was
+rated as high across six (60%) studies. As can be seen in
+the table, the bias was rated as ‘unclear’ across several
+points and could not be determined, which reflects the
+poor reporting of studies in the aged literature.
+Discussion
+The results suggest that commitment devices may im-
+prove short and longer term weight loss outcomes and
+dietary change when delivered alongside an educational
+weight loss programme, although evidence for longer
+term maintenance of such behaviours is based on only
+two studies. Commitment devices in the included stud-
+ies were all written (handwritten or online), and were
+mostly in the form of behavioural contracts, though
+there were promising results from one study for the use
+of public commitments to weight loss outcomes. No evi-
+dence was identified for the use of verbal commitments.
+These findings suggest that behavioural contracts may
+be useful to health professionals in facilitating dietary
+change among patients seeking weight loss support, and
+may be useful for those who would benefit from an im-
+proved diet e.g. people with diabetes or high cholesterol.
+Commitment devices were effective with individually
+delivered interventions and in group settings, but not
+alongside minimal contact, suggesting that on-going
+contact with either health professionals or peers is needed.
+An important delivery element for behavioural contracts
+in particular is who co-signs or witnesses the contract:
+peers or intervention deliverers had the best effect on out-
+comes. All interventions covered both dietary and physical
+activity behaviours, and the BCTs used most commonly
+alongside successful commitment interventions were goal
+setting (1.1 behaviour & 1.3 outcome), feedback on behav-
+iour (2.2), self-monitoring of behaviour (2.3), feedback on
+outcome of behaviour (2.7), and social support (unspeci-
+fied, 3.1). The professional background of the intervention
+provider did not affect outcomes, as long as they had
+received adequate training.
+Coupe et al. BMC Public Health          (2019) 19:816 Page 8 of 16
+
+[W2951333969 PDF PAGE 9]
+Behavioural contracts were ineffective in increasing
+adherence to physical activity goals in the short or long-
+term. It is unclear why contracts increased adherence to
+dietary changes but did not promote physical activity.
+Dietary goals specified in the contracts may have been
+more acceptable to participants or easier to implement
+than the physical activity goals, which would suggest
+that more work is needed in relation to goal develop-
+ment. Previous work has identified the importance of
+autonomy/ autonomous motivation on physical activity
+behavioural outcomes in the context of Self-
+Determination Theory (SDT) [ 47– 49]. This may explain
+the lack of effect on physical outcomes, as intrinsic mo-
+tives for physical activity may have been undermined by
+the behavioural contract, which may be viewed as a form
+of extrinsic motivation within SDT, even without the fi-
+nancial incentive. Though this is contrary to findings
+around extrinsic and intrinsic motivation in relation to
+weight loss discussed earlier, that particular research in-
+cluded financial incentives attached to achieving weight
+loss goals, rather than specifically increasing physical
+activity levels [ 25]. Another explanation may be that
+changes in diet can have faster results in terms of weight
+loss when compared to increased exercise, and therefore
+people tend to focus on changing their diet alone. This
+is suggested by authors of a recent review of weight loss
+intervention adherence, which also found better adher-
+ence to dietary than physical activity, though they also
+suggest that this may be due to the nature of data collec-
+tion which is usually reliant on self-report and recall
+which is subject to errors [ 50]. This would suggest that
+this phenomenon is relevant to all weight loss interven-
+tions, not just those including contracts.
+The results found regarding the effect of publicity of
+commitment devices is in line with previous research
+which identifies that in order to be effective, commitments
+should be public, or have the ability to be made public,
+and where possible, should be made in groups [ 51– 53].
+Others have suggested that making commitments public
+maximises their effect by adding a form of social conse-
+quence [ 17]. The results from a recent review of goal set-
+ting across all behaviours suggest that goal setting was
+more effective when made publicly than when not made
+publicly [ 53]. In the same review, goal setting alongside a
+personal commitment made in private was less effective
+than goal setting alone, and the addition of a behavioural
+contract to goal setting made no difference to its effective-
+ness. However, the authors did not perform a meta-
+regression to take into account other variations, such as
+study design, population, design and setting. Epton and
+colleagues [ 53] highlight that they did not identify any
+studies targeting low socio-economic populations, who we
+feel would benefit from these soft commitment devices.
+Previous research has identified that to maximise their
+effect, commitment devices such as behavioural con-
+tracts should be used alongside other BCTs [ 51, 52].
+Previous reviews have identified that the inclusion of
+goal setting, self-monitoring of behaviour and social sup-
+port as part of lifestyle interventions are associated with
+improved outcomes [ 54, 55], all of which were identified
+in t

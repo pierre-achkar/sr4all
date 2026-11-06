@@ -1,0 +1,550 @@
+n 
+classes at the pT 
+= 1 threshold 
+(F[3,461.58] = 
+3.26, p = .021; 
+class 3 
+(impulsive/impr
+ecise visual, 
+average auditory 
+emotion 
+recognition) had 
+a significantly 
+reduced autism 
+polygenic score 
+compared to 
+class 1 (average 
+visual, 
+impulsive 
+auditory 
+emotion 
+recognition; p = 
+.005), class 2 
+(averagestrong 
+visual and 
+auditory 
+emotion 
+recognition; p = 
+.002), and class 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 92]
+92 
+ 
+4 (weak visual 
+and auditory 
+emotion 
+recognition; p = 
+.010). No 
+association was 
+observed with 
+any of the other 
+thresholds and 
+for any of the 
+other classes 
+Brain measures 
+Alemany 
+(2021)81 
+Brain measures The sample for 
+the polygenic 
+score analyses 
+consisted of 
+1035 Generation 
+R children 
+between 9 and 
+12 years old. 
+Autistic traits 
+were assessed 
+when children 
+were on average 
+6.1 years. 
+Children (50.3% 
+girls) were MRI 
+scanned at an 
+average age of 
+10.1 years. 
+Participants 
+were Dutch. 
+PRSice. five 
+different P-
+value thresholds 
+(PT) including 
+PT < 0.01, PT < 
+0.05, PT < 0.1, 
+PT < 0.5, and 
+PT < 1 
+Measures of 
+cortical 
+thickness and 
+surface area 
+obtained 
+through 
+structural 
+MRI:global 
+brain 
+morphology 
+measures (total 
+brain volume, 
+cortical gray 
+matter volume, 
+cerebral white 
+matter volume, 
+subcortical gray 
+matter volume, 
+cerebrospinal 
+fluid, 
+Age, sex, child 
+ethnicity, 
+maternal 
+education, 
+maternal 
+smoking and 
+alcohol use 
+during 
+pregnancy, 
+attention 
+problems. 
+Additional 
+analyses with 
+nonverbal IQ 
+The autism 
+polygenic score 
+was not 
+significantly 
+associated with 
+brain correlates 
+detected for 
+autistic traits on 
+the surface-
+based cortical 
+measures after 
+multiple testing 
+correction 
+FDR 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 93]
+93 
+ 
+Genetic ancestry 
+was restricted to 
+European. 
+cerebellum 
+cortex volume, 
+cerebellum 
+white matter 
+volume, 
+amygdala 
+volume). 
+Surface-based 
+measures: 
+vertex-wise 
+analyses of 
+cortical 
+thickness, 
+surface area, 
+and gyrification. 
+Only global and 
+subcortical brain 
+measures that 
+significantly 
+associated with 
+autistic traits 
+were taken into 
+polygenic score 
+analyses  
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 94]
+94 
+ 
+Ecker (2022)82 Brain measures 360 EU-AIMS 
+and LEAPS 
+individuals with 
+autism (71.9% 
+male, mean age 
+= 17.51, SD = 
+5.51) and 279  
+control 
+participants 
+(63.8% male, 
+mean age 17.33, 
+SD = 5.91), split 
+into 254 
+typically 
+developing 
+participants and 
+25 individuals 
+with mild 
+intellectual 
+disability (14 
+males and 11 
+females). 
+Participants 
+were British, 
+Dutch, German 
+and Italian. 
+Genetic ancestry 
+was restricted to 
+European. 
+ PRSice-2. 0.04  individuals’ 
+accumulated 
+degree of 
+neuroanatomical 
+atypicality 
+summarized in a 
+subject-level 
+total 
+neuroanatomical 
+atypicality index 
+(tAIs), which 
+indicates the 
+percentage of 
+vertices outside 
+the neurotypical 
+PI90% (= 
+vertex-level 
+outliers defined 
+as cortical 
+thickness values 
+falling outside 
+of neurotypical 
+90% prediction 
+interval) per 
+individual 
+Four PCs, 
+group, sex, age, 
+age2, full-scale 
+IQ, site, mean 
+cortical 
+thickness 
+The autism 
+polygenic score 
+was 
+significantly 
+associated with 
+total neuro-
+anatomical 
+atypicality index 
+(tAIs: r = 0.11, 
+padj = 0.05) 
+FDR 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 95]
+95 
+ 
+Gui (2021)83 Brain measures 104 BASIS 
+infants (51% 
+female, mean 
+age in months = 
+8.3 (1.2)) with 
+and without a 
+family history 
+of autism, of 
+which 22 
+without family 
+history (11 
+female, mean 
+age in months = 
+8.2 (1.1), 45 
+with family 
+history and 
+typical 
+development 
+(28 female, 
+mean age in 
+months = 8.2 
+(1.2), 20 (11 
+female, mean 
+age in months = 
+8.5 (1.2), with 
+family history 
+and 
+neurdevelopmen
+tal difficulties at 
+age 3 but did 
+not meet criteria 
+for autism, and 
+Range of P 
+value thresholds 
+(.001 < 
+threshold P ≤ 1) 
+ Difference 
+between face 
+and non-face 
+stimuli  N290 
+latency 
+measured 
+through EEG 
+ 5 PCs Higher autism 
+polygenic scores 
+(threshold P = 
+.01; Nagelkerke 
+R2 = 0.054; P = 
+.01) was 
+associated with 
+shorter N290 
+latency to face 
+vs nonface 
+stimuli (β = 
+−3.89; SE = 
+1.94;P = .047) 
+Not needed, 
+only 1 test 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 96]
+96 
+ 
+14 (1 female, 
+mean age in 
+months = 8.1 
+(1.2) with 
+family history 
+of autism and 
+later diagnosis 
+of autism. 
+Participants 
+were British. 
+Genetic ancestry 
+was restricted to 
+European. 
+Gui (2022)60 Brain measures, 
+general 
+psychopatholog
+y, cognition and 
+executive 
+function 
+The ABCD 
+sample 
+consisted of 
+4722 (2198 
+female, mean 
+age = 9.91, SD 
+= 0.62). The 
+UKB sample for 
+intelligence 
+scores consisted 
+of  147175 
+participants 
+(78561 female, 
+mean age = 
+57.9, SD =8.23) 
+and 21523 
+(11180 female, 
+mean age = 
+63.84, SD 
+Plink, Bayesian 
+approach, no 
+threshold 
+needed 
+Cognitive 
+measures: 
+ABCD: NIH 
+toolbox 
+(consisting of 7 
+tasks and 3 
+composite 
+scores). UKB: 
+fluid 
+intelligence 
+scores.  
+ 
+Behavior: 
+ABCD: CBCL 
+subscales.  
+ 
+Brain imaging: 
+ABCD: 
+morphometric 
+Age, sex, 10 
+PCs 
+Cognitive 
+measures: 
+Autism 
+polygenic score 
+was not 
+associated with 
+cognitive 
+measures in 
+ABCD  (p ≥ 
+.804). autism 
+polygenic score 
+was 
+significantly 
+positively 
+associated with 
+fluid 
+intelligence in 
+UKB (R2 = 
+8,66E-04, p = 
+FDR 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 97]
+97 
+ 
+=7.47). ABCD 
+participants are 
+American and 
+UKB 
+participants are 
+British. Genetic 
+ancestry was 
+restricted to 
+European.  
+measures 
+(cortical 
+thickness, 
+sulcal depth, 
+are and 
+subcortical 
+volume), 
+diffusion tensor 
+imaging (DTI) 
+and resting-
+state fMRI 
+5,47E-06), and 
+females showed 
+significantly 
+stronger 
+associations 
+than males (p < 
+2.20 × 10−16, r 
+= 0.87). 
+Behavior: The 
+autism 
+polygenic score 
+was 
+significantly 
+positively 
+associated with 
+half of the 
+psychiatric 
+behaviors (10 
+out of 20, the 
+strongest 
+association with 
+CBCL b. Brain 
+imaging: 
+autism 
+polygenic score 
+did not have 
+significant 
+effects on 
+cortical and 
+subcortical 
+structures and 
+resting state 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 98]
+98 
+ 
+fMRI functions 
+in ABCD nor 
+IDPs in UKB 
+Jansen (2019)84 Brain measures 1138 Generation 
+R participants 
+(mean age = 
+10.2 years, 
+range = 8.72 – 
+11.99, 50.6% 
+boys). 
+Participants 
+were Dutch. 
+Genetic ancestry 
+was restricted to 
+European. 
+ Plink. P = .1 FA and MD, 
+measured using 
+diffusion 
+tension imaging 
+in MRI. 
+Confirmatory 
+factor analysis 
+was applied to 
+model a single 
+latent factor of 
+global FA and 
+MD 
+ Age, sex, 4 PCs The autism 
+polygenic score 
+was not 
+associated with 
+global FA (p ≥ 
+.00998) or MD 
+(p ≥ .21), nor 
+tract-specific 
+FA (p ≥ .00860) 
+or MD (p ≥ .20) 
+FDR 
+Lawrence 
+(2022)85 
+Brain measures The total 
+number of 
+participants was 
+127, of whom 
+30 boys with 
+autism (mean 
+age = 13.45, SD 
+= 2.99), 38 
+typically 
+developing boys 
+(mean age = 
+13.69, SD = 
+2.82), 31 girls 
+with autism 
+(mean age = 
+13.73, SD = 
+Plink. P 0.5. 
+Sensitivity 
+analyses with 
+LDpred.  
+Intrinsic 
+functional 
+connectivity of 
+the salience 
+network 
+measured using 
+MRI 
+site/scanner, 
+full-scale IQ, 
+age. Sex as a 
+grouping 
+variable 
+Youth with 
+autism 
+displayed 
+increasing 
+salience 
+network 
+connectivity 
+with the 
+postcentral 
+gyrus as a 
+function of 
+increasing 
+polygenic risk 
+(MNI peak 
+coordinates: 46, 
+-28, 38 β = 0.43; 
+  
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918

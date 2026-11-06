@@ -1,0 +1,290 @@
+ bias existed [40]. Sensitivity analyses were 
+performed by removing each study individually from 
+the results of the meta-analysis. All statistical analyses 
+were performed using RevMan version 5.4. A differ -
+ence of P < 0.05 (two-sided) was considered statistically 
+significant.
+Results
+Study inclusion
+A total of 850 articles were retrieved from the three data -
+bases according to the search strategy. After the elimi -
+nation of 167 duplicate articles, 553 of 683 articles were 
+initially screened and excluded according to the title and 
+abstract. The full text of the remaining 130 articles was 
+reviewed, and 17 articles were selected to be included in 
+this meta-analysis according to the inclusion and exclu -
+sion criteria [18–34]. The specific filtering steps are 
+shown in Fig. 1.
+Study characteristics
+This meta-analysis ultimately included 17 articles, the 
+basic characteristics of which are shown in Table  1. A 
+total of 395 rodents (rats and mice) were included. Sepsis 
+models were induced mainly by cecal ligation and punc -
+ture (CLP) or by intraperitoneal injection of lipopolysac -
+charide (LPS). EVs were mainly derived from human or 
+mouse bone marrow, adipose mesenchymal tissue, or 
+human umbilical cord blood mesenchymal tissue. Cecal 
+ligation and puncture (CLP) or intraperitoneal injec -
+tion of lipopolysaccharide (LPS) were used in the sepsis 
+model. The EVs used to treat sepsis are derived mainly 
+from stem cells derived from human cord blood mes -
+enchymal tissue or stem cells from different parts of the 
+mouse body, such as bone marrow or adipose mesen -
+chymal tissue. EVs were mainly injected intravenously or 
+intratracheally into mice within 6 h after induction. The 
+injection dose ranged from 0.05 to1000μg. The follow-up 
+time was between 2 to 7 days.
+Risk of bias assessment
+The risk of bias among included studies was assessed 
+by SYRCLE’s RoB tool (Table  2). All of the studies were 
+considered to have RoB risks. Although 10 studies (58%) 
+reported randomization of animals, none showed how 
+random sequences were generated or whether assign -
+ments were adequately concealed. Therefore, the RoB 
+scores in the selection bias component were "unclear" 
+for all studies. None of the studies mentioned whether 
+the animals were raised and evaluated randomly, or 
+whether the researchers were blind to the animal inter -
+vention program. Five studies [18, 24–26, 32] mentioned 
+that assessors were blinded to the animal interventions. 
+Three studies [24, 28, 30] did not have sufficient outcome 
+data. All studies had a low risk of reporting bias. One 
+study [23] may have had a problem with the experimental 
+design, which resulted in a RoB score of "high risk". Oth -
+erwise, no significant issues concerning bias were identi -
+fied that were not covered in the SYRCLE’s RoB tool.
+Effects of extracellular vesicles on sepsis
+A total of 17 reports related to EVs treatment of sepsis 
+were included in this study, all of which reported mor -
+tality. Mortality at the end point was 146 of 195 (74.9%) 
+in the control group and 70 of 201 (34.8%) in the EVs-
+treated group. As shown in Fig. 2, results analysis showed 
+that EVs treatment significantly reduced sepsis mortal -
+ity (OR 0.17, 95% CI: 0.11, 0.26, P < 0.001). Sensitivity 
+analysis was conducted by excluding each study from the 
+results of meta-analysis. The results showed that reduc -
+ing any one study did not make a significant difference to 
+the results.
+Subgroup analysis
+Subgroup analyses were performed to evaluate the effi -
+cacy of EVs in the treatment of sepsis, taking into account 
+the generality and reproducibility of treatment outcomes 
+across different experimental conditions. The use of EVs 
+in rats (OR = 0.37, 95% CI: 0.22–0.62, P < 0.001) was more 
+effective than in mice (OR = 0.49, 95% CI: 0.39–0.61, 
+P < 0.001) (Additional file 1: Fig. S1). Animals that did not 
+limit their sex (OR = 0.19, 95% CI: 0.11–0.33, P < 0.001) 
+had higher survival rates than those that used only male 
+animals (OR = 0.14, 95% CI: 0.06–0.29, P < 0.001) (Addi-
+tional file  1: Fig. S2). Compared with the CLP model 
+(OR = 0.51, 95% CI: 0.41–0.64, P < 0.001), EVs had better 
+therapeutic outcomes in non-CLP models (OR = 0.32, 
+95% CI: 0.20–0.53, P < 0.001) than in CLP models (Addi -
+tional file 1: Fig. S3).
+Among the 17 studies, EVs in 13 of them were derived 
+from MSCs (OR = 0.15, 95% CI: 0.09–0.26, P < 0.001), 
+which had a better therapeutic effect on sepsis compared 
+
+[W4366188890 PDF PAGE 4]
+Page 4 of 10Yang et al. Journal of Translational Medicine          (2023) 21:262 
+Fig. 1 Flow diagram of the study selection
+
+[W4366188890 PDF PAGE 5]
+Page 5 of 10
+Yang et al. Journal of Translational Medicine          (2023) 21:262 
+ 
+Table 1 General characteristics of preclinical studies investigating the efficacy of extracellular vesicles in sepsis models
+CLP Cecal ligation and puncture, IV Intravenous, IT Intratracheal injection, LPS Lipopolysaccharide, NR Not reported, NS Normal saline, PBS Phosphate buffered saline, SD Sprague Dawley, E. coli Escherichia coli, ADSCs 
+Adipose-derived mesenchymal stem cells, BMMSCs Bone marrow mesenchymal stem cells. EPCs Endothelial progenitor cells, RBC Red blood cell, DCs dendritic cells, ADMSCs Adipose-derived mesenchymal stem cells; 
+AECS Amnion epithelial cells, AMSC Amniotic membrane stem cell, ucMSCs Umbilical cord-derived mesenchymal stem cells
+Author Species Gender No. of 
+controls
+No. of 
+treated 
+animals
+Sepsis model EVs 
+source,Compatibility
+Dose Route of 
+administration
+Time of 
+delivery 
+post-sepsis 
+induction
+Fluid 
+treatment 
+after 
+modeling
+Time to 
+observe results 
+after EVs 
+administration
+Control
+Chia-Lo et al. 
+(2018)
+Rat SD Male 19 18 CLP ADSCs, Allogeneic 100 µg IV 3 h NR 5 day NR
+Deng et al. 
+(2020)
+Mouse 
+C57BL/6
+Male 12 12 LPS BMSCs, Allogeneic 100 μg IT 1 h NR 7 day PBS
+Miksa et al. 
+(2006)
+Rat SD Male 16 16 CLP DCs, Allogeneic 1,000 μg IV 0 or 5 h NS 10 day PBS
+Huimin et al. 
+(2022)
+Mouse 
+C57BL/6
+Male 12 12 LPS ADMSCs, Xenogenic 100 μg IT 1 h NR 7 day PBS
+Xiaoyan et al. 
+(2022)
+Mouse 
+C57BL/6
+Male 15 15 CLP ADMSCs, Allogeneic 2 μg/kg IV 4 h Imipenem 7 days PBS
+Yueet al. 
+(2018)
+Mouse CD-1 
+outbred
+Either sex 15 23 CLP EPCs, Xenogenic 2 mg/kg IV 4 h Imipenem 7 days PBS
+Dongxuan 
+et al. (2022)
+Mouse 
+C57BL/6
+Male 7 6 CLP AECs, Xenogenic 1 ×  108 IV 0 h NR 7 days PBS
+Danyang et al. 
+(2021)
+Rat SD Either sex 16 16 CLP MSC, Allogeneic 2 ×  107 IV UR PBS 2 days PBS
+Jia et al. (2021) Mouse 
+C57BL/6
+Male 10 10 CLP BMMSCs, Allogeneic 1.5 ×  109 NR 4 h NR 7 days PBS
+Qin et al. 
+(2021)
+Mouse 
+C57BL/6
+Either sex 10 10 CLP MSCs, Xenogenic 2 μg/g NR 0 h or 6 h NR 10 days NR
+Yuhan et al. 
+(2022)
+Mouse 
+C57BL/6 J
+Either sex 6 6 CLP RBC, Xenogenic 10 μg IV 2 h NR 2 days PBS
+Xiaohong 
+et al. (2015)
+Mouse 
+C57BL/6
+Male 8 8 CLP BMMSCs, Allogeneic 2 μg/g IV 1 h NS 3 days PBS
+Jie et al. (2021) .Mouse 
+C57BL/6
+Male 10 10 CLP MSCs, Xenogenic 30 UL IV 6 h NS 7 days PBS
+Rongxue et al. 
+(2020)
+Mouse 
+C57BL/6
+Male 12 12 CLP MSC, Xenogenic 120 ug IV 3 h NS 3 days PBS
+Yuan et al. 
+(2021)
+Mouse C57 Male 15 15 LPS BMSC, Allogeneic 100 μg IV 1 h NR 2 days PBS
+Fang et al. 
+(2020)
+Mouse C57/
+BL6
+Either sex 6 6 CLP AMSCs, Xenogenic 100 μg IV 4 h NR 2 days PBS
+Mahshid et al. 
+(2021)
+Mouse C57/
+BL6
+Either sex 8 8 E. coli ucMSCs, Xenogenic 1.5 μg/g IV 5 h NR 7 days PBS
+
+[W4366188890 PDF PAGE 6]
+Page 6 of 10Yang et al. Journal of Translational Medicine          (2023) 21:262 
+Table 2 SYRCLE Risk of Bias Assessment for included studies
+H High risk of bias, L Low risk of bias, U Unclear risk of bias
+Author Random 
+sequence 
+generation?
+Groups 
+similar at 
+baseline?
+Allocation 
+concealed?
+Animals 
+randomly 
+housed?
+Blinding of 
+caregivers and/
+or examiners?
+Random 
+selection 
+for outcome 
+assessment?
+Blinding of 
+outcome 
+assessor?
+Incomplete 
+outcome data 
+addressed?
+Free from 
+selective 
+outcome 
+reporting?
+Free from 
+other 
+bias?
+Chia-Lo et al. 
+(2018)
+U U U U U U L U L L
+Deng et al. (2020) U U U U U U U U L L
+Miksa et al. (2006) U U U U U U U U L L
+Huimin et al. 
+(2022)
+U U U U U U U U L L
+Xiaoyan et al. 
+(2022)
+U U U U U U U U L H
+Yueet al. (2018) U U U U U U L H L L
+Dongxuan et al. 
+(2022)
+U U U U U U L U L L
+Danyang et al. 
+(2021)
+U U U U U U U H L L
+Jia et al. (2021) U U U U U U U H L L
+Qin et al. (2021) U U U U U U U U L L
+Yuhan et al. (2022) U U U U U U U U L L
+Xiaohong et al. 
+(2015)
+U U U U U U U U L L
+Jie et al. (2021) U U U U U U L U L L
+Rongxue et al. 
+(2020)
+U U U U U U U U L L
+Yuan et al. (2021) U U U U U U U U L L
+Fang et al. (2020) U U U U U U L U L L
+Mahshid et al. 
+(2021)
+U U U U U U U U L L
+
+[W4366188890 PDF PAGE 7]
+Page 7 of 10
+Yang et al. Journal of Translational Medicine          (2023) 21:262 
+ 
+with EVs derived from other cells (OR = 0.21, 95% CI: 
+0.08–0.55, P < 0.001) (Additional file 1: Fig. S4). The most 
+common method of administration of EVs was intrave -
+nous injection (N = 12; 70.6%). Subgroup analysis showed 
+that intratracheal administration (OR = 0.08, 95% CI: 
+0.02–0.33, P < 0.001), in comparison with intravenous 
+injection (OR = 0.19, 95% CI: 0.11–0.32, P < 0.001), was 
+more likely to improve survival (Additional file 1: Fig. S5). 
+Doses and units of injected EVs varied widely according 
+to factors such as particle number, absolute protein mass, 
+and animal weight. Four studies used the number of EVs 
+particles as a unit of treatment. The remaining 13 studies 
+were divided into < 100  μg, 100  μg, and > 100  μg groups 
+according to the injection volume for subgroup analysis. 
+Injection doses of 100 μg (OR = 0.13, 95% CI: 0.06–0.30, 
+P < 0.001) were found to better improve the survival rate 
+of septic animal models (Additional file  1: Fig. S6). Addi -
+tionally, EVs that were xenogenic (OR = 0.18, 95% CI: 
+0.09–0.36, P < 0.001) were found to be less effective than 
+those that were allogeneic (OR = 0.15, 95% CI: 0.08–
+0.28, P < 0.001) (Additional file  1: Fig. S7). Compared to 
+EVs treatment with fewer than five days of o

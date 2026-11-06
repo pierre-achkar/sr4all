@@ -1,0 +1,180 @@
+als  used other  criteria:  Holster  et al[61] only included  participants  with small  amounts  of 
+butyrate-producing  bacteria in faecal samples, Holvoet et al[44] included participants  with refractory 
+IBS who had experienced  failure  of at least three conventional  IBS therapies,  and Lahtinen  et al[58] 
+included participants who remained symptomatic despite receiving conventional treatment.
+The trials differed  in the IBS subtypes  they investigated.  All subtypes  were included  in the trials 
+conducted by El-Salhy et al[60], Halkjær et al[43] and Holster et al[61]. Aroniadis et al[59] and Singh et al
+[63] included only diarrhoea-predominant participants. Holvoet et al[44] and Johnsen et al[62] included 
+diarrhoea-predominant  or mixed  participants.  Lahtinen  et al[58] included  diarrhoea-predominant, 
+mixed or un-subtyped participants.
+Characteristics of the interventions
+All eight trials used faeces from healthy  donors for the FMT. Supplementary Table 5 describes  their 
+inclusion and exclusion criteria for donors.
+The route of administration  varied between the trials. Three trials used colonoscopy [58,61,62], one 
+used gastroscopy[60], one used the nasojejunal route[44] and three used oral capsules[43,59,63].
+The frequency of administration varied between trials. El Salhy et al[60], Holster et al[61], Holvoet et al
+[44], Johnsen et al[62], Lahtinen et al[58] and Singh et al[63] administered FMT just once. Aroniadis et al
+[59] administered a total of three doses across three consecutive days. Halkjær et al[43] administered a 
+total of 12 doses across 12 consecutive days.
+The volume of FMT administered ranged from approximately 100 mL in the El-Salhy et al[60] trial to 
+300 mL in the Holvoet  et al[44] trial.  The faecal  quantity  varied  from 30 g[58,61] to 50-80 g[62]. The 
+
+[W4378220627 PDF PAGE 8]
+Halkjær SI et al. FMT in IBS: A meta-analysis
+WJG https://www.wjgnet.com 3192 May 28, 2023 Volume 29 Issue 20
+capsule trials used approximately  28.5 g of minimally processed faecal matter[59], 14.25 frozen faecal 
+filtrate[63] and faecal matter derived from approximately 600 g of faeces[43]. Holvoet et al[44] used fresh 
+FMT transplant, Johnsen et al[62] used both fresh and frozen FMT transplant, while the remaining trials 
+used frozen FMT transplants[43,58-61,63].
+Two trials used a single donor for all FMT treatments [58,60]. Holster et al[61], Holvoet et al[44] and 
+Johnsen et al[62] used two donors. Aroniadis et al[59] used four donors, where each participant received 
+a FMT from one donor. Singh et al[63] used six donors, where each participant received a FMT from one 
+donor. Halkjær et al[43] used a FMT donor mix from four donors.
+Six trials included bowel cleansing before transplantation[43,44,58,61-63]. Two trials used loperamide 
+before endoscopy  to retain the transplant [61,62]. One trial used proton pump inhibitors  (PPI) for the 
+three days prior to the transplantation[59].
+Five trials used autologous faeces as an alternative to placebo for the comparison group[44,58,60-62]. 
+In the capsule  trials,  Aroniadis  et al[59] and Singh et al[63] used placebo  capsules  with a non-toxic, 
+brown  pigment  and Halkjær  et al[43] used placebo  capsules  made from saline,  glycerol  and food 
+colouring E150.
+Risk of bias in the studies
+A summary  of the risk  of bias  assessments  is reported  in Figure 2 and bias  assessments  for the 
+individual trials are reported in Supplementary Table 4.
+Overall,  none of the studies  had a high risk of bias in any of the seven dimensions  considered. 
+However, five of the eight trials[44,58,60,62,63] had an unclear bias for the blinding of outcomes, and 
+four out of eight[43,58,60,61] had a similarly unclear bias in terms of how they reported the handling of 
+incomplete data. In both cases this unclear bias was primarily due to a lack of information.
+Effects of the interventions
+A summary of the findings is provided in Table 2 for comparing FMT and placebo in treating IBS. We 
+did not assess publication  bias as this review only consisted of eight trials. Furthermore,  we chose to 
+report the random-effect models’ results despite some of the fixed-effect models being found significant 
+as we did not find any larger trial that was more methodologically rigorous. The significant outcomes of 
+the fixed-effect models were most likely due to the small number of trials available in each analysis and 
+their high heterogeneity.
+The GRADE  rating  for the certainty  of the evidence  examined  was low due to moderate-high 
+inconsistency, small numbers of patients and imprecision.
+Primary outcomes
+Improvement of symptoms: Eight randomised trials, comprising 484 participants,  examined whether 
+IBS symptoms improved after three months. Six trials defined improvement of symptoms as a decrease 
+in IBS-SSS of 50 or more[43,44,59,60,63], while Johnson et al[62] defined it as a decrease of more than 75 
+points. Holster et al[61] used the gastrointestinal symptom rating scale-IBS and defined improvement as 
+a change  of more  than  30%.  Sixty-four  percent  (185/290)  of FMT participants  experienced  an 
+improvement of symptoms after three months compared to 42% (82/194) in the placebo group. A meta-
+analysis showed there was no significant  difference between FMT and placebo (RR 1.19, 95%CI: 0.68-
+2.10, P = 0.54, I2 = 82%; Figure 3).
+Three trials (99 participants) reported on the improvement of symptoms after six months. Thirty per 
+cent (14/47) of FMT participants saw an improvement of their symptoms after six months compared to 
+38% (20/52) of the placebo group (RR 0.88, 95%CI: 0.33-12.39, P = 0.8, I2 = 51%; Figure 3).
+Secondary outcomes
+Adverse events: Seven trials, comprising  450 participants,  reported on the proportion  of participants 
+who experienced adverse events. Thirty-five per cent (97/274) of the FMT group experienced an adverse 
+event compared  to 26% (45/176)  of the placebo group (RR 1.17, 95%CI: 0.63-2.15,  P = 0.62, I2 = 69%; 
+Figure 4).
+The most frequent  adverse events reported  in the trials were mild and transient  symptoms  of the 
+gastrointestinal system.
+Serious adverse events: All eight trials, comprising 501 participants, provided data for serious adverse 
+events. A serious adverse event was reported once in a FMT group and twice in placebo groups. In the 
+FMT group, 0.33 per cent (1/302)  reported  a serious  adverse  event, compared  to 1% (2/199)  in the 
+placebo group (RR 0.42, 95%CI: 0.07-2.60, P = 0.35, I2 = 0%; Supplementary Figure 1).
+Holvoet et al[44] reported that one participant from the placebo group committed suicide 10 d after 
+the transplantation procedure. Aroniadis et al[59] reported one participant from the placebo group was 
+admitted to hospital during week 20 of the trial with acute cholecystitis. Johnsen et al[62] reported that 
+one participant from the FMT group was admitted to hospital after the FMT procedure due to transient 
+vertigo and nausea.
+
+[W4378220627 PDF PAGE 9]
+Halkjær SI et al. FMT in IBS: A meta-analysis
+WJG https://www.wjgnet.com 3193 May 28, 2023 Volume 29 Issue 20
+Table 2 Summarised findings for comparing fecal microbiota transplantation with placebo for the treatment of irritable bowel syndrome
+Anticipated absolute 
+effects
+Outcomes and 
+timeframe Effect in 
+placebo
+Effect 
+difference with 
+FMT (95%CI)
+Relative 
+effect 
+(95%CI)
+Number of 
+participants 
+(trials)
+Certainty of 
+the evidence 
+(GRADE)
+Comments
+Improvement of 
+symptoms after 
+three months
+42 per 100 8 or more per 100 
+(from 13 or fewer 
+to 46 or more)
+RR 1.19 
+(0.68-2.10)
+484 (8 RCTs) ++--1 Low Improvement of symptoms as measured by a 
+validated global IBS symptoms score (e.g., IBS-
+SSS scale from 0, no symptoms, to 500, 
+maximum symptoms) (as defined by each trial)
+Improvement of 
+symptoms after six 
+months
+38 per 100 5 or fewer per 100 
+(from 25 or fewer 
+to 52 or more)
+RR 0.88 
+(0.33-2.39)
+99 (3 RCTs) ++--2 Low Improvement of symptoms as measured by a 
+validated global IBS symptoms score (e.g., IBS-
+SSS scale from 0, no symptoms, to 500, 
+maximum symptoms) (as defined by each trial)
+Adverse events 
+prior to end of trial
+26 per 100 4 or more per 100 
+(from 10 or fewer 
+to 30 or more)
+RR 1.17 
+(0.63-2.15)
+450 (7 RCTs) ++--3 Low Common adverse events were mild and self-
+limiting gastrointestinal symptoms
+Serious adverse 
+events prior to end 
+of trial
+1 per 100 1 or fewer per 100 
+(from 1 or fewer 
+to 2 or more)
+RR 0.42 
+(0.07-2.60)
+501 (8 RCTs) ++--4 Low Serious adverse events included one suicide 
+(placebo), cholecystitis (placebo), and one 
+admission to the hospital due to discomfort after 
+the FMT procedure
+Dropouts due to 
+adverse events 
+prior to end of trial
+1 per 100 1 or fewer per 100 
+(from 1 or fewer 
+to 1 or more)
+RR 0.24 
+(0.03-2.17)
+502 (8 RCTs) ++--5 Low Dropouts due to adverse events include one 
+suicide (placebo) and one for discomfort after 
+the FMT procedure (placebo) 
+Improvement in 
+QoL scores after 
+three months
+NA NA MD -6.30 (-
+13.39 to 
+0.79)
+406 (7 RCTs) ++--6 Low Improvement of quality of life as measured by a 
+validated scale IBS-QoL, where 34 items are 
+summed and averaged for a total score and then 
+transformed to a 0-100 scale for interpretation 
+(high scores indicate better IBS-QoL)
+1Downgraded two levels due to considerable inconsistency (I2 = 82%) and imprecision (267 events).
+2Downgraded two levels due to moderate inconsistency (I2 = 51%) and serious imprecision (34 events).
+3Downgraded two levels due to substantial inconsistency (I2 = 69%) and imprecision (142 events).
+4Downgraded two levels due to serious imprecision (three events) and wide confidence interval.
+5Downgraded two levels due to serious imprecision (two events) and wide confidence interval.
+6Downgraded two levels due to moderate inconsistency (I2 = 45%), heterogeneous method, and a small number of participants.
+Patients or population: Participants diagnosed with irritable bowel syndrome according to a physician’s opinion or an accepted, sympto

@@ -1,0 +1,337 @@
+th
+negative results, 12 (46.1%) [18,30,31,43-45,47,48,50,52,
+56,66] were considered to have sufficient duration.
+Among the 28 studies with positive results, 13 (46.4%)
+[19,21,22,25,26,28,49,57,58,62,64,72,76] were considered
+to have an appropriate follow-up period.
+Inadequacy of the parameters for outcome evaluation
+was a feature of 29 studies (48.3%) [18,24-26,28,29,31,32,
+34,36-39,41,42,51,54,55,57,61-64,67,69,70,74-76]. Among
+the 26 studies with negative results, 8 [18,31,37,42,51,
+54,63,67] adopted inadequate outcome measures (30.8%).
+Among the 28 studies with favorable results, 19 [25,26,
+28,29,32,34,36,38,39,41,55,57,62,64,69,70,74-76] had inad-
+equate outcome measures (67.8%), and nine studies
+[19,21-23,35,49,58,72,73] were classified as having ad-
+equate outcome measures.
+Not only study design but also the evaluation of the
+risk of bias of individual studies showed relationships
+between studies with a higher risk of bias and positive
+(beneficial) results observed after PRP interventions,
+with 67.8% (19/28) [19,21-23,25, 26,28,29,34,38,39,41,55,
+58,69,72-74,76] of high-risk studies having positive
+outcomes. Of the studies rated a low risk, 28.6% had
+favorable outcomes. Among all of the studies in which
+PRP did not positively affect the selected outcomes,
+73.1% (19/26) [18,30,33,37,43,44,47,50-54,56,59,63,66,
+68,71,77] were attributed a low risk of bias (Table 1
+and Figure 2).
+Side effects associated with PRP use in the clinical set-
+ting were observed in two studies (3.3%); in one study
+[18] they referred to swelling at the injection site and in
+another [45] they related to infection after platelet-rich
+fibrin matrix application.
+The majority of in vivo trials were devoted to observ-
+ing the effects of PRP on tendinopathies (29 studies or
+46%) [19-21,24,27,30,32,33, 35,40,43-45,48-54,56-58,60,
+62,-63,65,72,76], followed by articular disorders (18
+studies or 28.6%) [24,25, 28,34,36-39,41,47,55,59,68-70,
+73-75] and ligament disorders (16 studies or 25.4%)
+[18,21-23,26,27,29,31,42,4 6,61,64,66,67,71,77]. The sum
+of recorded lesion locations (63 injury sites) exceeded
+the total number of clinical articles selected because a
+few studies observed the effects of PRP on both
+tendons and ligaments [21,23,27]. Considering 63
+observation points, the injured tissues that were more
+positively affected by PRP treatment in in vivo trials
+were cartilage (20.6%) [25 ,28,34,36,38,39,41,55,69,70,
+73-75] and tendons (17.5% ) [19,21,23,32,35,49,57,58,
+62,72,76] followed by ligaments (9.5%) [21-23,26,29,64].
+Among the studies of arthropathies, 72.2% yielded
+positive results. In addition, 37.9% of the studies of
+tendinopathies yielded positive results, and 37.5% of
+the studies of desmopathies yielded positive results.
+Brossi et al. BMC Veterinary Research  (2015) 11:98 Page 5 of 17
+
+[W2001221672 PDF PAGE 6]
+Table 1 Risk of bias of selected clinical studies
+Random
+sequence
+generation
+(selection
+bias)
+Allocation
+concealment
+(selection
+bias)
+Blinding of
+participants
+and
+personnel
+(performance
+bias)
+Blinding of
+outcome
+assessment
+(detection bias)
+(patient-
+reported
+outcomes)
+Blinding of
+outcome
+assessment
+(detection
+bias) (all-
+cause
+mortality)
+Incomplete
+outcome
+data
+(attrition
+bias) (short-
+term [2-6
+weeks])
+Incomplete
+outcome
+data
+(attrition
+bias) (long-
+term[> 6
+weeks])
+Selective
+repoorting
+(reporting
+bias)
+Risk
+of
+bias
+Garret 2013 + + - + - + + - ↓
+Zuffova
+2013
+-- - - - + + + ↑
+Edinger
+2012
+-- - - - - - - ↑
+Torricelli
+2011
+-- - - - + + + ↑
+Castelijns
+2011
+-- - - - + + + ↑
+Georg 2010 - - - - - + ? - ↑
+Abelanet
+2009
+-- - - - + + - ↑
+Carmona
+2009
+-- - - - + + + ↑
+Waselau
+2008
+-- - - - + + + ↑
+Arguelles
+2008
+-- - - - + + + ↑
+Carmona
+2007
+-- - - - + + + ↑
+Tiwari 2013 ? -- - ? ++- ↑
+Antuna
+2013
+++ - + + + + + ↓
+Magnussen
+2013
+-- - - - + + + ↑
+Mishra 2014 + + - + + + + + ↓
+Krogh 2013 + + - + + + + + ↓
+Patel 2013 + ?? ? ? ++- ↑
+Wasterlain
+2012
+++ - + + + + + ↓
+Jain 2012 + + + + + + + + ↓
+Mardones
+2012
+++ + + + + + + ↓
+Cerza 2012 - - - - - + + + ↑
+Mei-Dan
+2012
++- - - + + + + ↑
+Almeida
+2012
++- - - + + + + ↓
+Spaková
+2012
+-- - - - + + + ↑
+Aksahin
+2012
+-- - + - + + + ?
+Rodeo 2012 + + + + + + + + ↓
+Weber 2012 + - + + + + + + ↓
+Brossi et al. BMC Veterinary Research  (2015) 11:98 Page 6 of 17
+
+[W2001221672 PDF PAGE 7]
+Table 1 Risk of bias of selected clinical studies (Continued)
+Bergeson
+2012
+-- - - + + + + ?
+Cervelin
+2012
+++ ? -+ + + - ↓
+Filardo
+2012
+++ + + + + - + ↓
+Jo 2011 - - - - - + + + ↑
+Randelli
+2011
+++ + + + + + + ↓
+Castricini
+2011
+++ + + + + + + ↓
+Thanasas
+2011
+++ - + + + + + ↓
+Schepul
+2011
+++ + + + + + + ↓
+De Vos
+2011
+++ + + + + + + ↓
+Creaney
+2011
+++ + + + + + + ↓
+Kon 2011 - - - - - + + + ↑
+Jonge 2011 + + + + + + - + ↓
+Gosens
+2011 ?? ++ ++ + + ↓
+Barber 2011 - - - - - + + + ↑
+Horstman
+2011
+++ + + + + + + ↓
+Buford
+2011
+-- - - - + + + ↑
+Vogrin 2010 + + + + + + + + ↓
+Peerboms
+2010
+++ + + + + + + ↓
+De Vos
+2010
+++ + + + + + + ↓
+Radice 2010 - - - - + + + + ?
+Filardo
+2010
+-- - - - + + - ↑
+Nin 2009 + + + + + + + + ↓
+Silva 2009 - - - - - + + + ↑
+Peerboms
+2009 ? ++ + + +- + ↓
+Sanchez
+2008
+-- - - - - ? + ↑
+Everts 2008 + + + + + + + + ↓
+Orrego
+2008
+++ - + + + + + ↓
+Sanchez
+2007
+-- - - - + + + ↑
+Everts 2007 - - - - - + + + ↑
+Brossi et al. BMC Veterinary Research  (2015) 11:98 Page 7 of 17
+
+[W2001221672 PDF PAGE 8]
+Experimental studies with PRP
+In total, 63 experimental studies were included in this
+review: 13 (20.6%) [78-90] were conducted in horses, 16
+(25.4%) [91-106] were conducted in humans and 34
+(54%) [107-140] were conducted in other species.
+Overall, their results contra sted with those of the clinical
+trials. Regarding outcomes, t he homogeneity of the distri-
+bution between beneficial and negative results observed in
+the clinical trials was not mirrored in the experimental sce-
+nario. Among the 63 experimental studies, 46 (73%)
+[81-86,88,90-95,97-103,105-110,112,115,118-122,124-129,
+131,134-137,139,140] yielded positive results, 12 (19%)
+[78,79,87,89,96,104,111,113,116,123,130,133] yielded mixed
+results, and five (7.9%) [80,114,117,132,138] yielded nega-
+tive results. Among the five ex perimental studies with nega-
+tive results, all of them were conducted in vivo; four of
+them included mechanical evaluations among their out-
+come measures [80,117,132,138]. Two studies [114,132] ex-
+hibited side effects associated with PRP administration, and
+one study [114] failed to show improvements during the
+histological evaluation of experimentally induced tendon le-
+sions treated with PRP.
+From the 63 experimental studies, 35 (55.5%)
+[79,80,82-85,90,107,109-114,116-121,123-128,130-133,1-
+35-139] originated from in vivo experiments, 23 (36,5%)
+[81,86-89,91-103,105,108,115,133,139] originated from
+in vitro work, and five (7.9%) [78,96,104,106,122] origi-
+nated from both in vivo and in vitro experiments
+(Additional file 2: Table S2). Considering separately the
+results of the five experiments conducted both in vivo
+and in vitro there are 67 experimental results. From the
+41 in vivo trials, 27 (65.8%) [82-85,90,96,106,107,109,
+110,112,118-122,124-130,134,136,137,139] yielded posi-
+tive results, while 23 of the 26 (88.5%) [81,86,88,
+91-103,105,106,108,115,122,134,140] in vitro experi-
+ments had positive results.
+Considering only equine and human studies, there
+were 23 (79.3%) [81-86,88,90-103,105,106] positive re-
+sults, 5 (17.2%) [78,79,87,89,104] mixed results and one
+(3.4%) [80] negative result.
+Among the 12 experiments with partially positive re-
+sults, nine (75%) [78,79,96,111,113,116,123,130,133] were
+conducted in vivo. Different reasons for adverse outcomes
+were observed. In one experiment [78], the PRP
+Figure 2 Association between risk of bias and clinical studies ’results.
+Table 1 Risk of bias of selected clinical studies (Continued)
+Gardner
+2007
+-- - - - + + + ↑
+Zavadil
+2007
+++ + + + + + + ↓
+Mishra 2006 - - - - - + - + ↑
+Ventura
+2005
+++ - - - + + + ↓
+Brossi et al. BMC Veterinary Research  (2015) 11:98 Page 8 of 17
+
+[W2001221672 PDF PAGE 9]
+preparation resulted in an insufficient increase in growth
+factor content. In two experiments [78,79], side effects re-
+lated to PRP administration were observed. In another
+two experiments [111,130], PRP treatment did not re-
+sult in hyaline cartilage formation. In four studies
+[113,116,123,133], the treated tissues did not satisfac-
+torily withstood mechanical challenges and in one trial
+[96], gene expression was not affected by PRP. In two
+in vitro trials with partially positive results [87,89],
+equine suspensory ligament explants cultured with PRP
+had increased gene expression, but this rate was greater
+when acellular bone marrow was added to the cultures,
+and in one [78] PRP preparation resulted in an insuffi-
+cient increase in growth factor content.
+In total, side effects were observed in five experiments
+[78,79,114,117,132]. One study [114] observed local re-
+actions at different injection sites and concluded that
+PRP was capable of initiating an inflammatory response
+in the absence of an injury. In a second trial [117], a cel-
+lular response around grafts for anterior cruciate liga-
+ment (ACL) reconstruction was noted. In two studies
+[78,79], thrombin-activated PRP elicited both a local and
+a systemic inflammatory response after intra-articular
+injections in horses. Others (132) noticed cellular infil-
+tration and fibroid necrosis 7 days after PRP application
+in a rotator cuff repair model.
+Regarding PRP characterization, 16/63 (25.4%) experi-
+ments [78,79,81,87,88,90,98,100-103,105,113,125,135,140]
+exhibited good product characterization; in 26 studies
+(41.3%) [82,85,86,92-94,96,97,99,104,106-108,111,112,114,
+116,117,122,126,128-130,134,136,137] the hemoderivative
+was satisfactorily described, and in 21 (33.3%) [80,83,
+84,89,91,95,109,110,115,118-121,123,124,127,131-133,138,
+139] experiments, the characterization was considered
+unsatisfactory.
+Activation was employed in 39 experiments (61.9%)
+[78,79,82,85,92,94, 96-108,110,112-114 ,116,117,119-122,
+125-127,129,130,132,134,136, 137,140], and PRP a

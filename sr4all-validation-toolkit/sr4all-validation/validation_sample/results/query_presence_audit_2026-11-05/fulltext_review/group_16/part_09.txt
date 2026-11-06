@@ -1,0 +1,182 @@
+ter likelihood of pre-
+senting with three or more psychiatric diagnoses compared 
+to those without BPD.
+Comorbidity of bulimia nervosa/bulimia spectrum 
+disorders and borderline personality disorder
+BPD presents alongside BN/BSD in approximately 35% 
+of cases [5 ]. As these conditions are often comorbid they 
+share many of the same risk factors, phenotypes, and behav-
+ioural traits including: attachment disturbances [6], adverse 
+childhood experiences [7 ], non-suicidal self-injury [8 ], 
+interpersonal difficulties [4 , 9], and comorbid maladaptive 
+mood and impulse regulation behaviours [10, 11]. In lieu 
+of the large degree to which BPD interferes with interper -
+sonal functioning, sense of self, and quality of life, it can 
+be hypothesized that the 35% of those with BN/BSD and 
+comorbid BPD (BN/BSD-BPD) face unique challenges. As 
+well, it is believed that BN/BSD and BPD behaviour interact 
+to hinder treatment as irregular eating patterns seem to inten-
+sify dysregulated moods, impulsivity, and other maladaptive 
+symptomology, which, in turn, perpetuate the disordered eat-
+ing behaviour as a coping strategy [12]. Little research has 
+focused on the 35% of BN/BSD sufferers with comorbid 
+BPD. As this condition is understudied and sufferers are 
+greatly impacted by the disorder, research focused on under-
+standing the genetic and epigenetic changes pertinent to BN/
+BSD-BPD will likely benefit the care given to these indi-
+viduals, increase sufferer’s quality of life, and lead to better 
+recovery outcomes for this population as efforts can be made 
+to specifically target the individual’s biological changes and 
+associated behaviours and symptoms.
+Biological variables associated with both bulimia 
+nervosa/bulimia spectrum disorder and borderline 
+personality disorder
+In addition to shared behavioural traits, individuals with 
+BN/BSD-BPD are also similar on many genetic and epi-
+genetic variables. This will be discussed below and their 
+prevalence will be investigated in the subsequent research. 
+It is important to note that genome-wide association stud-
+ies reveal connections between the genes relevant to the 
+current research and other psychopathologies; therefore, 
+they are not unique to BN/BSD and BDP symptomology 
+[13]. This does not negate the importance of the genetics/
+epigenetics relevant to BN/BSD-BPD, it is simply impor -
+tant to be aware of the boarder context of the research. 
+Furthermore, it is important to note that it is not known 
+for certain whether these genetic/epigenetic changes are 
+premorbid or if they arise due to BN/BSD-BPD behav-
+iours. However, understanding the genetic variants associ-
+ated with the behaviours and symptoms of BN/BSD-BPD 
+may help explain an individual’s response to treatment 
+and could help improve treatment outcomes in this popu-
+lation [14]. Previous research has found that those with 
+BN/BSD-BPD experience more severe psychopathology, 
+reduced global psychosocial functioning, increased inter-
+personal difficulties, and more frequent hospitalizations 
+compared to BN/BSD individuals without comorbid BPD 
+[15]. Furthermore, psychosocial treatment is thought to 
+be less effective in individuals with BN/BSD-BPD com-
+pared to those with BN/BSD [16], and BN/BSD-BPD is 
+associated with an increased risk of negative long-term 
+outcomes compared to BN/BSD [17]. Understanding the 
+genetic/epigenetic characteristics of BN/BSD-BPD may 
+explain this observed variance in treatment response and 
+could be used to further refine treatment for the individual.
+Serotonin
+It is widely established that central serotonin and eating 
+behavior interact. Both human and animal studies have 
+demonstrated an inverse relationship between serotonin neu-
+rotransmitter activity and food consumption [18 ]. Further, 
+when single photon emission computer tomography was 
+employed to compare serotonin transporter levels in women 
+with BN/BSD and age-matched healthy controls a significant 
+negative correlation between serotonin transporter levels and 
+illness duration in the BN/BSD population was observed 
+(p = 0.042, r = − 0.65), indicating that those with BN/BSD 
+have less serotonin transporter availability than healthy 
+counterparts [19]. Taken together this suggests decreased 
+serotonin activity corresponds with BN/BSD.
+
+[W2945028117 PDF PAGE 3]
+801Eating and Weight Disorders - Studies on Anorexia, Bulimia and Obesity (2019) 24:799–814 
+1 3
+The serotonin system has also been implicated in mood 
+regulation, social behaviour, and impulsivity—all char -
+acteristics of BPD [20]. Other studies have implemented 
+central serotonin in BPD, particularly in relation to chronic 
+feelings of emptiness [21], impulsiveness [22], suicidality, 
+and emotional dysregulation [23]. Thus, decreased central 
+serotonin has been implicated in both BN/BSD and BPD.
+The 5-hydroxytryptamine [5-HT] transporter polymor -
+phism (5-HTTLPR) has been correlated with low transcrip-
+tion of the serotonin transporter protein, increased depres-
+sion after tryptophan depletion (the precursor to serotonin), 
+and clinical manifestations of both BN/BSD and BPD (dis-
+cussed above) [24]. Polymorphisms of this transporter gene 
+in relation to BN/BSD and BPD will be investigated further 
+in the present systematic review.
+Monoamine oxidase
+Monoamine oxidase (MAO) is an enzyme involved in 
+removing the neurotransmitters serotonin, dopamine, nor -
+epinephrine, and epinephrine from the brain [25]. Many 
+studies have used platelet MAO activity as an index of 
+these neurotransmitters, and have used blood levels of these 
+neurotransmitters as a proxy for MAO activity in individu-
+als with BN/BSD and BPD. Lower MAO activity is often 
+observed in individuals with BN/BSD compared to healthy 
+controls [26–28], however, decreased MAO activity is also 
+sometimes seen in AN-R patients and, therefore, cannot be 
+exclusively attributed to BN/BSD [28].
+Low MAO activity has also been correlated to BPD 
+symptoms including impulsiveness, affect dysregulation, 
+sensation seeking, substance abuse, and suicide ideation and 
+attempts [29, 30]. As well, decreased platelet MAO activ -
+ity has been implicated in cluster B personality disorders, 
+including BPD [31]. As low MAO activity has been impli-
+cated in both BN/BSD and BPD, this review will examine 
+its potential role in BN/BSD-BPD.
+Epigenetics
+Epigenetic changes occur when a hereditary susceptibility 
+is activated because of environmental pressures [32]. One 
+common epigenetic mechanism is DNA methylation. DNA 
+methylation occurs when methyl groups are added to the 
+cytosine of CpG islands (frequently found in the regulatory 
+region of most genes) and leads to reduced DNA accessi-
+bility, decreased transcriptional activity, and inhibition of 
+gene expression [33, 34]. DNA methylation is not the only 
+epigenetic modification that occurs in humans, other com-
+mon epigenetic mechanisms include histone modification 
+and noncoding RNA action [35]. The details of these epi-
+genetic regulation mechanisms are beyond the scope of the 
+present systematic review as all of the epigenetic studies 
+included in the review only report epigenetic regulation 
+resulting from DNA methylation; however, it is important 
+to be aware that DNA methylation is not the sole epigenetic 
+change that occurs. Childhood abuse is frequently cited as 
+the “environmental pressure” that is associated with epi-
+genetic effects correlated with BN/BSD and BPD sympto -
+mology and behaviour [32, 33]. Many other factors beyond 
+abuse affect epigenetic regulation, some of these factors 
+include: environmental pollutants, nutritional factors, and 
+maternal behaviour (e.g., nursing behaviour or depression) 
+[36]. Thus, although the epigenetic studies included in this 
+review specifically examine the role of childhood abuse on 
+the observed epigenetic changes, other factors also likely 
+impact the epigenetic patterns observed. Furthermore, when 
+interpreting the results presented in this review it should be 
+noted that variability can exist between methylation levels of 
+CpG sites within the same CpG island and this in turn may 
+elicit differential gene expression [37]. Overall, epigenetic 
+effects are complex and it is nearly impossible to attribute a 
+change to a specific environmental factor, however, correla-
+tion between environmental factor (e.g., abuse) and epige-
+netic changes (e.g., DNA methylation) can be established. 
+The present review will examine methylation of the gluco-
+corticoid receptor promoter gene (NR3C1), brain derived 
+neurotrophic factor (BDFN), and the dopamine receptor 
+gene promoter (DRD2) in women with BN/BSD-BPD.
+The glucocorticoid receptor is central to modulating 
+individuals stress reactivity, and anomalies in this system 
+have been associated with BN/BSD and BPD. Studies have 
+associated BN/BSD with reduced inhibition of the hypo-
+thalamic–pituitary–adrenal stress response (a glucocorticoid 
+receptor modulated response) [32]. As well, hyper-methyla-
+tion of neuro-regulatory genes, including NR3C1, has been 
+correlated with psychopathologies including suicidality, 
+BPD, and BN/BSD [38]. Furthermore, childhood abuse has 
+been associated with increased methylation of various gluco-
+corticoid receptor gene exon-1 promoter variants in human 
+studies [39]. As such, childhood abuse, methylation of the 
+NR3C1, and BN/BSD-BPD may be correlated; this will be 
+examined further in this review.
+BDFN has been implicated in the regulation of food 
+intake and energy homeostasis in the general population, 
+and is observed to be reduced in AN and BN/BSD popula-
+tions [33]. Studies have found that methylation of the BDFN 
+gene differs between BPD and healthy control populations, 
+with increased methylation seen in the BPD population [38]. 
+As well, early developmental stress has been implicated in 
+the hyper-methylation of the BDFN gene [40], again creat-
+ing a potential connection between childhood abuse, BN/
+BSD, and BPD.
+Finally, studies have 

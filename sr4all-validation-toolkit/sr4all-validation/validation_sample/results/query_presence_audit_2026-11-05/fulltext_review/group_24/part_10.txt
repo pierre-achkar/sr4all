@@ -1,0 +1,242 @@
+e not been completely identified [7]. Mean-
+while, psychological/social factors, particular depression, 
+have been observed as the most frequent possible causes of 
+sleep disorders in SLE [8–11]. As one of the most frequently 
+observed neuropsychiatric disorders [12], depression affects 
+35.0% of patients with SLE [13]. In addition, SLE patients 
+have more depressive symptoms than healthy women [14]. 
+Cervilla et al. [14] reported that worse subjective quality 
+of sleep was associated with more depressive symptoms in 
+SLE. Wu et al. [3] also displayed that depressed patients 
+with SLE have poorer sleep quality than that of the general 
+population. However, Moraleda et al. [15] did not find a 
+significant correlation with depression and sleep quality in 
+patients with SLE. Given the importance of a clear associa-
+tion between depression and sleep quality in patients with 
+SLE, it is necessary to conduct a synthesis on the empirical 
+studies addressing this topic.
+The Pittsburgh Sleep Quality Index (PSQI) [16], which 
+consists of 19 items, is the most widely used instrument 
+to evaluate sleep quality in clinical populations. The PSQI 
+assesses seven dimensions: subjective sleep quality, sleep 
+latency, sleep duration, habitual sleep efficiency, use of 
+sleeping medication, sleep disturbances, and daytime dys-
+function. Its clinemetric and clinical properties suggest util-
+ity both in psychiatric clinical practice and research activi-
+ties, and has been widely applied to assess sleep quality in 
+patients with SLE. However, despite having been measured 
+in many studies, the degree of sleep quality in each domain 
+has differed among different samples [3]. To the best of our 
+knowledge, there is no comprehensive review on the rela-
+tionship between depression and sleep quality as assessed 
+by the PSQI in patients with SLE. Thus, with accumulating 
+evidence, we performed a systematic review and meta-anal-
+ysis to answer the following two questions: (i) Is there an 
+association between depression and sleep quality in patients 
+with SLE and (ii) Is the depression level higher in groups 
+with poor sleep quality compared to good sleep quality.
+Methods
+The systematic review and meta-analysis was conducted 
+in accordance with the recommendations of the Preferred 
+Reporting Items for Systemic Review and Meta-Analyses 
+(PRISMA) guidelines [17].
+Search strategy
+Up to January 12, 2021, five English databases were 
+searched, including PubMed, Web of Science, EMBASE, 
+Cochrane Library, and CINAHL. The search terms were 
+combinations of the following: sleep (sleep problems 
+or sleep disturbances or sleep quality or sleep effi-
+ciency or sleep latency or sleep difficulties), depression 
+(depression or major depression disorder or depressive 
+symptoms or mood disorder), and SLE (lupus or SLE 
+or systemic lupus erythematosus). The reference lists 
+of included studies were also reviewed for additional 
+studies.
+Inclusion and exclusion criteria
+Original studies were included if they (1) were cross-sec-
+tional or case–control or longitudinal studies (only the data 
+at baseline were extracted) on patients with SLE patients; 
+(2) reported the association between depression and sleep 
+quality with the Pearson or Spearman correlation coefficient 
+(r), or mean ± s
+tandard deviation (SD) of depression on both 
+good sleep quality group and poor sleep quality group; (3) 
+used PSQI to evaluate sleep quality; (4) used a validated 
+scale to measure depression; (5) were published in the Eng-
+lish language.
+Exclusion criteria were the following: (1) studies were 
+meta-analyses, reviews, case reports, qualitative studies, 
+comments, editorial letters, or conference abstracts; (2) stud-
+ies did not meet the inclusion criteria; (3) studies reported 
+unusable or duplicate data. When there were different stud-
+ies in the same unit and the same sample, the most recent 
+was selected.
+Data extraction and quality assessment
+According to the titles and abstracts, two authors inde-
+pendently decided whether to include articles by read-
+ing the abstract and further full-text examination, and 
+independently extracted the following information from 
+each article: first author, publication year, country, study 
+design, aim, diagnostic criteria of SLE, source of the 
+patient, sample size and percentage of female partici-
+pants, age, disease duration, disease activity, corticos-
+teroids use, cumulative disease damage, measurement, 
+cut-point, prevalence and score of depression, cut-point 
+and score of PSQI, prevalence of poor sleep quality, 
+Pearson’s r or Spearman’s correlation coefficient (r) 
+between depression and sleep quality, depression score 
+both in good and poor sleep quality, and the number of 
+patients in each group (good and poor sleep quality). 
+Quality assessment was conducted alongside data extrac-
+tion using a modified version of the Newcastle–Ottawa 
+Scale (M-NOS) [18]. Studies were judged to be at low 
+risk of bias (≥
+ 3 points) or high r
+isk of bias (<
+ 3 points).
+ 
+Any disagreements in data extraction and quality assess-
+ment were resolved through discussion between the two 
+reviewers or adjudication with a third reviewer.
+430 Sleep and Breathing (2022) 26:429–441
+
+[W3165552992 PDF PAGE 3]
+1 3
+Outcome measures
+The outcomes were depression assessed with validated 
+assessment tools (e.g., Hospital Anxiety and Depression 
+Scale-Depression [HADS-D], the nine-item Patient Health 
+Questionnaire [PHQ-9], Center for Epidemiological Studies 
+Depression scale [CES-D], Hamilton rating scale for depres-
+sion [HAM-D]), and sleep quality assessed by PSQI.
+Statistical analysis
+Meta-analysis was performed with STATA 16. As random-
+effects model was preferable and could provide wider con-
+fidence interval (CI) [19], this model was conducted to pool 
+r and continuous outcomes in this study. For correlation 
+coefficients, Pearson correlation coefficients and Spearman 
+correlation coefficients were all transformed into Pearson 
+correlation coefficients. Pooled estimates of the Pearson 
+coefficients were calculated by Fisher’s exact test r-to-z 
+transformation [ 20]. All of the values were weighted with 
+the inverse of the variance of the correlation coefficients, 
+after which, the pooled r of the overall value were trans-
+formed back for presentation. For the continuous outcomes, 
+we used standardized mean difference (SMD) with 95% 
+CIs. I2 was used to assess between-study heterogeneity, 
+with thresholds of 25% (low heterogeneity), 50% (moder -
+ate heterogeneity), and 75% (high heterogeneity) [21]. As 
+the seven dimensions of PSQI indicated different aspects of 
+sleep quality, this study separately summarized and analyzed 
+7 domains. Sensitivity analysis and subgroup analysis were 
+performed to find the source of heterogeneity. Funnel plots 
+and the Egger’s test were combined to evaluate for publica-
+tion bias if the number of included studies is greater than or 
+equal to 10 [22, 23], as the power of these tests is too low 
+to distinguish chance from real asymmetry if less than 10 
+studies are included [24].
+Results
+Study selection
+After having assessed the studies by selection criteria, data 
+from 9 studies were included, which involves 514 patients 
+with SLE. A flow chart of the study selection process is 
+shown in Fig. 1.
+Study characteristics
+Tables 1 and 2 showed the summary of the included study 
+characteristics. Two took place in Spain [14, 15], and 
+one occurred in each of the following countries: India 
+[25], Canada [26], Thailand [27], Egypt [28], Iran [29], 
+Korea [30], and UK [31]. Two studies had large sample 
+sizes (≥
+ 100 cases) and t
+he others were small sample size 
+(<
+ 100 cases). When e
+valuated by M-NOS, out of 5 pos-
+sible points, one received 4 points, five received 3 points, 
+and three received 2 points.
+Correlation between depression and sleep quality 
+in SLE patients
+As shown in Fig.  2, eight studies [14, 15, 25–28, 30, 
+31] reported r between depression and sleep quality, 
+the pooled z  was 0.66 (95% CI 0.51–0.81, P  = 0
+.043; 
+I2 =  51.7%). The correlation magnitude is moderate 
+(pooled r =
+ 0.580) and signif
+icant, which is reflected 
+by the 95% CI (0.473–0.670) that does not include the 
+value 0, suggesting a positive relationship. Among the 
+seven dimensions of PSQI, depression was associated 
+with subjective sleep quality (pooled r 
+=
+ 
+0.332, 95% CI 
+0.009–0.592, P 
+=
+ 
+0.044; I2 =  0%),  sleep latency (pooled 
+r =
+ 0.412, 95% CI 0.101–0.649, 
+P 
+=
+ 
+0.011; I2 = 0%), sleep 
+dis
+turbances (pooled r  =
+ 0.405, 95% CI 0.094–0.645,
+ 
+P 
+=
+ 
+0.012; I2 =  0%), and da ytime dysfunction (pooled 
+r =
+ 0.503, 95% C
+I 0.214–0.711, P  
+=
+ 
+0.001; I2 = 0%), no 
+significant cor
+relation was found with the other three 
+dimensions-sleep duration, habitual sleep efficiency, and 
+use of sleeping medication (Fig. 3).
+Comparison of depression levels in patients 
+with SLE and good and poor sleep quality
+There were 4 studies that compared depression between good 
+(total sample size
+ =
+ 84) and poor (t
+otal sample size
+ =
+ 129)
+ 
+sleep quality in patients with SLE [25, 27–29]. Compared to 
+good sleepers, patients with SLE and poor sleep quality had 
+higher levels of depression (pooled SMD
+ =
+  −
+ 1.28, 
+95% CI 
+[−
+ 
+1.87,
+ 
+−
+ 
+0.69], P 
+<
+ 
+0.001; I2 = 71%) (Fig. 4).
+Subgroup analysis
+Subgroup analysis was conducted based on corticosteroids 
+use, measurement of depression, diagnostic criteria of SLE, 
+region, and quality. Table 3 indicated that corticosteroids 
+use, measurement of depression, diagnostic criteria of SLE, 
+and region might be the source of heterogeneity in meta-
+analysis of the correlation between the depression and sleep 
+quality in SLE. As shown in Table 4, depression measure -
+ment, SLE diagnostic criteria, and study’s quality may be 
+a source of heterogeneity in meta-analysis comparing the 
+depression level in SLE patients with good and poor sleep 
+quality, but not including corticosteroids use and region.
+431Sleep and Breathing (202

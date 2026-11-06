@@ -1,0 +1,294 @@
+ose Behavioral 
+experiment results
+Refs
+Polyphenol Resveratrol Cuspidatum poly-
+gon – Hu Zhang
+Lowers brain Aβ 
+and hyper‑/acetyl‑
+phosphorylated 
+tau; boosts cellular 
+protein‑clearance 
+capacity
+Lowering BACE1 
+and raising nepri‑
+lysin, higher 20S 
+proteasome subunits 
+and trypsin‑like activ‑
+ity, normalised ubiq‑
+uitinated proteins 
+and Hsp70, activate 
+the AMPK–SIRT1 
+signalling cascade, 
+by increased phos‑
+phorylated AMPK, 
+reduced acetylated 
+p53, and higher 
+phosphorylated 
+CREB and PGC‑1α, 
+promote tau clear‑
+ance through SIRT1‑
+dependent, curbing 
+NF‑κB transcriptional 
+activity and down‑
+regulating BACE1 
+and Aβ genera‑
+tion, decreases LC3 
+and Beclin‑1 level, 
+reduces cathepsin D
+SH‑SY5Y
+Male 3xTg‑AD 
+mice
+25 µM (48 h)
+50 mg/kg/day 
+(12 months)
+100 mg/kg/day 
+(10 months)
+Enhanced explora‑
+tion, recognition, 
+and spatial learning 
+(recovered locomo‑
+tor and centre‑
+zone exploration 
+with quicker 
+head‑dip initiation, 
+higher novel‑
+object preference 
+with a fully restored 
+discrimination index, 
+and probe‑trial 
+time and distance 
+in the target quad‑
+rant)
+[131–133]
+Disaccharide Trehalose Saccharomyces 
+cerevisiae – Jiao 
+Mu
+Stimulates autophagy, 
+promotes the clear‑
+ance of neurotoxic 
+misfolded proteins, 
+and is a potent modu‑
+lator of progranulin 
+expression, which 
+is crucial for lysosomal 
+function
+Promoting 
+the nuclear trans‑
+location of TFEB; 
+also triggers 
+lysosomal enlarge‑
+ment and tran‑
+sient membrane 
+permeabilization, 
+releasing calcium 
+ions and activating 
+PPP3CB/calcineurin, 
+promotes the clear‑
+ance of amyloid 
+plaques and tau 
+aggregates, increas‑
+ing lysosomal pH, 
+and inhibiting 
+mTORC1 signaling
+NSC34 moto‑
+neuronal cell
+primary murine 
+macrophages,
+HEK 293 T 
+and NIH 3T3
+100 mM (48 h)
+0.1 mM 
+to 10 mM 
+(24 h)
+[148, 149, 188]
+
+[W4413867217 PDF PAGE 25]
+Page 25 of 42
+Yuan et al. Chinese Medicine          (2025) 20:138 
+ 
+the degradation of pathogenic proteins, multifaceted 
+actions effectively address pathological features and cog -
+nitive symptoms characteristic of AD, paving the way for 
+developing safe and effective treatments from natural 
+sources.
+Phytochemicals targeting lysosomal regulation 
+of neuroinflammation in AD
+In AD, lysosomal dysfunction in microglia increases 
+cytokine release, attracts immune cells, and activates 
+harmful interactions with astrocytes, exacerbating 
+inflammation. Additionally, contributing factors to the 
+disorder are presenilin mutations, cytokine stimulation, 
+lipid disorders, ATP signaling disruption, impaired lyso -
+somal acidification, enhanced inflammatory responses, 
+and cellular imbalance. Treatments to restore lysoso -
+mal acidification include small molecules and nanopar -
+ticles targeting v-ATPase, TFEB, and mTOR inhibition 
+[8]. When lysosomal function is impaired, Aβ accumu -
+lates, leading to microglial activation, particularly in the 
+hippocampus region, increasing CD68 and CD16/32 
+(markers of pro-inflammatory M1 microglia) [136]. 
+Dysfunction or disruption of autophagy can lead to 
+mitochondrial dysfunction and elevated production of 
+mitochondrial ROS [137].
+Phytochemicals have demonstrated potential for treat -
+ing AD by targeting oxidative stress reduction and neu -
+roinflammation suppression (Table  4). Oxidative stress 
+leads to structural and functional damage to neurons 
+through the accumulation of ROS and disruption of 
+endogenous antioxidant defenses [138]. Antioxidant 
+compounds act by neutralizing ROS, enhancing the activ-
+ity of SOD, GSH-Px, and GPx4, and activating protective 
+signaling pathways including Nrf2/HO-1, Akt/mTOR, 
+and SIRT3, prevent neuronal degeneration, support syn -
+aptic function, and improve learning and memory per -
+formance. Depolymerized proanthocyanidins derived 
+from peanut skins significantly inhibit Aβ42 aggregation, 
+reduce Aβ-induced cytotoxicity, and alleviate cogni -
+tive dysfunction, leveraging their antioxidant properties 
+for therapeutic neuroprotection [139]. Baicalein acts as 
+an inhibitor of BACE1 and acetylcholinesterase, crucial 
+enzymes for Aβ aggregation, and demonstrates strong 
+antioxidant properties with effective blood–brain barrier 
+permeability, underscoring its neuroprotective potential 
+[63]. Crocin inhibits Aβ-induced neuronal apoptosis by 
+suppressing intrinsic apoptotic pathways and caspase-3 
+activation. Its potent antioxidant effects reduce oxidative 
+stress, protecting neurons and enhancing mental func -
+tions [140]. Salidroside improves mitochondrial func -
+tion and reduces oxidative stress through the Nrf2/SIRT3 
+pathway, inhibiting Nrf2 degradation, facilitating SIRT3 
+transcription, and protecting mitochondria, effectively 
+Table 3 (continued)
+Group Compounds Structure Species Activities Mechanism Models Dose Behavioral 
+experiment results
+Refs
+Urolithin A Urolithin A is con‑
+verted from ella‑
+gitannin. 
+Reduction of Aβ 
+and tau pathologies, 
+promotes mitophagy, 
+and restoration 
+of lysosomal function, 
+anti‑inflammatory, 
+improves lysosomal 
+function, induces 
+autophagy
+Regulating cathepsin 
+Z levels, reduc‑
+ing IL‑1β levels 
+in the hippocampus 
+and cortex, improves 
+lysosomal function, 
+reducing lysosomal 
+size and permeability
+APP/PS1, 3xTg‑
+AD, 3xTg‑AD/
+Polβ + / − 
+200 mg/kg/day 
+(5 months)
+25 mg/kg 
+(10 months)
+Improved learning 
+ability (reduction 
+in time to find 
+the hidden platform)
+Improvement 
+in memory ability 
+(increase in sponta‑
+neous alternation)
+Enhanced ability 
+to recognize novel 
+objects (increase 
+in recognition index)
+Improved olfactory 
+function (decrease 
+in latency to find 
+the buried food)
+Enhanced long‑
+term potentiation 
+in the hippocampus
+[61, 134, 135]
+
+[W4413867217 PDF PAGE 26]
+Page 26 of 42Yuan et al. Chinese Medicine          (2025) 20:138 
+countering neurite dystrophy and cognitive dysfunction 
+[141].
+In addition to antioxidant compounds, there are also 
+compounds that possess both anti-inflammatory and 
+antioxidant properties. The overactivation of micro -
+glia and astrocytes often triggers chronic neuroinflam -
+mation in response to Aβ, abnormal tau, and oxidative 
+stress. Neuro-anti-inflammatory compounds exert their 
+effects by inhibiting pro-inflammatory signaling path -
+ways—NF-κB, MAPK, and TLR4/TAK1, thereby reduc -
+ing the production of pro-inflammatory cytokines 
+(TNF-α, IL-1β, IL-6) and inflammatory enzymes (COX-
+2, iNOS). By controlling neuroinflammatory responses, 
+these compounds help protect neurons, maintain a stable 
+neural microenvironment, and limit the spread of dam -
+age within the brain [142–144]. Carnosic acid acts at the 
+interface of mitochondrial dysfunction and neuroinflam -
+mation, reducing oxidative stress and inflammation via 
+activating Nrf2 and enhancing the Nrf2/HO-1/NQO1 
+pathway, inhibiting NF-κB signaling and NLRP3 inflam -
+masome activation, thus preserving mitochondrial func -
+tion and promoting autophagic and mitophagic pathways 
+to clear damaged mitochondria [145]. A recent study 
+highlights osmundacetone, a phytochemical extracted 
+from Rhizoma Osmundae, which directly binds to Aβ, 
+inhibiting its fibrillation process, and also promotes 
+its lysosomal degradation, alleviates oxidative damage 
+by increasing Gpx4 expression and suppressing neu -
+roinflammation by inhibiting NF-κB phosphorylation, 
+enhancing lysosomal clearance of Aβ [146]. α-mangostin 
+attenuates inflammation by inhibiting the TAK1/NF-κB 
+pathway, similar to gastrodin, thereby supporting neuro -
+protective functions [147].
+Network‑based insights into phytochemical modulation 
+of lysosomal dysfunction in AD
+Lysosomal dysfunction in AD involves complex crosstalk 
+among amyloid deposition, oxidative stress, and impaired 
+autophagy signaling. To systematically assess the multi-
+target potential of phytochemicals, a compound–protein 
+interaction network was constructed encompassing three 
+major modules: natural bioactive compounds, inflamma -
+tion, oxidase stress-related pathogenic mediators, and 
+intracellular autophagy–lysosome regulatory proteins.
+The phytochemical constituents targeting lysosomal 
+dysfunction in AD were identified from peer-reviewed 
+literature and natural product databases. The chemical 
+structural information for each compound was retrieved 
+from the PubChem database. Potential protein targets 
+were predicted using the SwissTargetPrediction platform, 
+and only targets with probability scores greater than zero 
+were included. Redundant entries were standardized and 
+removed using the UniProt database. AD–related targets 
+were obtained through systematic searches of the Gen -
+eCards databases using the keyword “ Alzheimer Disease. ”
+A “compound–regulatory protein” network was con -
+structed in Cytoscape 3.9.1 to reveal interactions among 
+natural bioactive compounds, inflammatory mediators, 
+oxidase stress mediators, and autophagy–lysosome path -
+way regulators. The integrated network highlighted two 
+major high-degree clusters: (i) key natural compounds 
+(magnolol, trehalose, salidroside, crocetin, genipin) and 
+(ii) neuro-inflammation/neurodegeneration-related 
+nodes (Aβ, IL-6, IL-1β, TNF-α, ROS). After excluding 
+free nodes, network topology parameters were analyzed 
+in Cytoscape, and core targets were predicted based on 
+median thresholds of betweenness centrality, closeness 
+centrality, and degree, with ranking performed by degree 
+values meeting the criteria were visualized to elucidate 
+the biological processes and signaling pathways impli -
+cated in the multi-target actions of these phytochemicals 
+against lysosomal dysfunction in AD.
+Modularity analysis was performed on the network into 
+two clusters (Fig.  4). Cluster 1 contains 46 phytochemi -
+cals; magnolol, trehalose, and salidroside are central 
+hubs. Cluster 2 contains key pathological and signalling 
+mediators (Aβ, IL-6, IL-1β, TNF-α, ROS) and encom -
+passes 112 intracellular lysosome-related-pathway pro -
+teins (Beclin-1, LC3-II, mTOR, ULK1, p62, AMPK) and 
+forms the principal “bridge” linking Clusters 1. The path-
+ogenic cytokine is infl

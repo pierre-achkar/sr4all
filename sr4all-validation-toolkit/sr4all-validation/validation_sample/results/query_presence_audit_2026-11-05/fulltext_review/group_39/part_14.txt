@@ -1,0 +1,158 @@
+nsory testing and clinical evaluation before and after total knee arthroplasty. Anesth. Analg. 105, 815–821. https:// 
+doi. org/ 10. 1213/ 01. ane. 00002 78091. 29062. 63 (2007).
+ 24. Selfe, J., Whitaker, J. & Hardaker, N. A narrative literature review identifying the minimum clinically important difference for skin 
+temperature asymmetry at the knee. Thermol. Int. 18, 41–44 (2008).
+ 25. Hendiani, J. A. et al. Mechanical sensation and pain thresholds in patients with chronic arthropathies. J. Pain 4, 203–211. https:// 
+doi. org/ 10. 1016/ s1526- 5900(03) 00557-1 (2003).
+ 26. Ammer, K. Temperature of the human knee–a review. Thermol. Int. 22, 137–151 (2012).
+ 27. Umapathy, S., Thulasi, R., Gupta, N. & Sivanadhan, S. Thermography and colour Doppler ultrasound: A potential complementary 
+diagnostic tool in evaluation of rheumatoid arthritis in the knee region. Biomed. Tech. (Berl) 65, 289–299. https:// doi. org/ 10. 1515/ 
+bmt- 2019- 0051 (2020).
+ 28. Hasegawa, M., Kawamura, G., Wakabayashi, H., Sudo, A. & Uchida, A. Changes to patellar blood flow after minimally invasive 
+total knee arthroplasty. Knee Surg. Sports Traumatol. Arthrosc. 17, 1195–1198. https:// doi. org/ 10. 1007/ s00167- 009- 0834-9 (2009).
+ 29. Lahiri, B. B., Bagavathiappan, S., Jayakumar, T. & Philip, J. Medical applications of infrared thermography: A review. Infrared Phys. 
+Technol. 55, 221–235. https:// doi. org/ 10. 1016/j. infra red. 2012. 03. 007 (2012).
+ 30. Y ang, H., Park, H., Lim, C., Park, S. & Lee, K. Infrared thermal imaging in patients with medial collateral ligament injury of the 
+knee–a retrospective study. J. Pharm. 17, 50–54. https:// doi. org/ 10. 3831/ KPI. 2014. 17. 036 (2014).
+ 31. Johnson, J. M. & Kellogg, D. L. Jr. Local thermal control of the human cutaneous circulation. J. Appl. Physiol. 1985(109), 1229–1238. 
+https:// doi. org/ 10. 1152/ jappl physi ol. 00407. 2010 (2010).
+ 32. Marins, J. C. B. et al. Time required to stabilize thermographic images at rest. Infrared Phys. Technol.  65, 30–35. https:// doi. org/ 
+10. 1016/j. infra red. 2014. 02. 008 (2014).
+ 33. Alisi, M. et al. Thermographic assessment of reperfusion profile following using a tourniquet in total knee arthroplasty: A prospec-
+tive observational study. Med. Devices (Auckl) 14, 133–139. https:// doi. org/ 10. 2147/ mder. S3007 26 (2021).
+ 34. Bus, S. A. et al. Guidelines on the prevention of foot ulcers in persons with diabetes (IWGDF 2019 update). Diabetes Metab. Res. 
+Rev. 36(Suppl1), e3269. https:// doi. org/ 10. 1002/ dmrr. 3269 (2020).
+ 35. Ghosh, A., Ray, S., Garg, M. K., Chowdhury, S. & Mukhopadhyay, S. The role of infrared dermal thermometry in the management 
+of neuropathic diabetic foot ulcers. Diabet. Med. 38, e14368. https:// doi. org/ 10. 1111/ dme. 14368 (2021).
+ 36. Ammer, K. Employment of FLIR ONE Infrared cameras in medicine–a literature overview. Thermol. Int. 30, 128–145 (2020).
+ 37. Balshem, H. et al. GRADE guidelines: 3. Rating the quality of evidence. J. Clin. Epidemiol. 64, 401–406. https:// doi. org/ 10. 1016/j. 
+jclin epi. 2010. 07. 015 (2011).
+ 38. Ouzzani, M., Hammady, H., Fedorowicz, Z. & Elmagarmid, A. Rayyan-a web and mobile app for systematic reviews. Syst. Rev. 5, 
+210. https:// doi. org/ 10. 1186/ s13643- 016- 0384-4 (2016).
+Acknowledgements
+We thank Tomer Ben-Shushan, Reference Librarian, The Muriel and Philip Berman Medical Library, The Hebrew 
+University of Jerusalem. These studies were supported in part by The Stuart Roden Family Research Fund, Lon-
+don, UK; The Saul and Joyce Brandman Fund for Cardiovascular Research, The Alexander Grass Family Research 
+Fund, The Dr. Bruce and Baila Waldholtz Research Fund, and The Dr. Martin and Grace Rosman Research Fund, 
+Faculty of Medicine, The Hebrew University of Jerusalem, Israel. This study was chosen for the EFORT Jacques 
+Duparc poster award at the 23rd annual EFORT congress, June 22-24, 2022, Lisbon, Portugal.
+Author contributions
+All authors critically reviewed the manuscript for important intellectual content, approved the final manuscript 
+as submitted and agree to be accountable for all aspects of the work. Specifically: L.G. contributed to the con-
+ception and design of the study, collected the data, performed the screening and data-extraction, conducted 
+the data analysis, was involved in the interpretation, and drafted the initial manuscript. L.K. contributed to the 
+conception of the study, assisted in data extraction, and was involved in the interpretation of the clinical data. 
+G.R. contributed to the conception of the study, assisted in data extraction, and was involved in the interpreta-
+tion of the clinical data. S.D.G. contributed to the conception and design of the study, was part of the screening, 
+involved in the data interpretation, and drafted the initial manuscript. O.H. contributed to the conception and 
+design of the study, collected the data, performed the screening and data-extraction, and was involved in the 
+interpretation of the thermal data.
+
+[W4367055501 PDF PAGE 10]
+10
+Vol:.(1234567890)Scientific Reports |         (2023) 13:6810  | https://doi.org/10.1038/s41598-023-33556-7
+www.nature.com/scientificreports/
+Competing interests 
+The authors received no financial or material support for the research, authorship, and/or publication of this 
+article.
+Additional information
+Supplementary Information The online version contains supplementary material available at https:// doi. org/ 
+10. 1038/ s41598- 023- 33556-7.
+Correspondence and requests for materials should be addressed to L.G.
+Reprints and permissions information is available at www.nature.com/reprints.
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and 
+institutional affiliations.
+Open Access  This article is licensed under a Creative Commons Attribution 4.0 International 
+License, which permits use, sharing, adaptation, distribution and reproduction in any medium or 
+format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the 
+Creative Commons licence, and indicate if changes were made. The images or other third party material in this 
+article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the 
+material. If material is not included in the article’s Creative Commons licence and your intended use is not 
+permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from 
+the copyright holder. To view a copy of this licence, visit http:// creat iveco mmons. org/ licen ses/ by/4. 0/.
+© The Author(s) 2023
+
+END REVIEW W4367055501
+
+
+REVIEW W4367330899
+TITLE: Glial Cell-Targeted Treatments for Bipolar Disorder: A Systematic Review of Available Data and Clinical Perspectives
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4367330899 PDF PAGE 1]
+Open Journal of Medical Psychology, 2023, 12, 94-115 
+https://www.scirp.org/journal/ojmp 
+ISSN Online: 2165-9389 
+ISSN Print: 2165-9370 
+ 
+DOI: 10.4236/ojmp.2023.122006  Apr. 28, 2023 94 Open Journal of Medical Psychology 
+ 
+ 
+ 
+ 
+Glial Cell-Targeted Treatments for Bipolar 
+Disorder: A Systematic Review of Available 
+Data and Clinical Perspectives 
+Julia Wang 
+Lumiere Research Scholar Program, Lumiere Academy, Shanghai, China 
+ 
+ 
+ 
+Abstract 
+This paper is a systematic review of the tre atment of bipolar disorder: a sy s-
+tematic Google Sch olar search aimed at treatment guidelines and clinical tr i-
+als. The search for treatment guidelines returned 375 papers and was last  per-
+formed from June 1, 2022 to August 30, 2022. The literature suggests t hat li-
+thium helps control and alleviate severe mood episodes, and olanzapine is e f-
+fective for acute manic or mixed episodes of bipolar I disorder. Achieving e f-
+fectiveness or remission is better with Cariprazine. Lurasidone improves co g-
+nitive performance. Q uetiapine improves sleep quality and co -morbid anxie-
+ty. Lamotrigine helps delay depression, mania, and mild manic episodes. A n-
+tidepressants are best used in conjunction with mood stabilizers. For co-morbid 
+treatment, carbamazepine and lithium in combinatio n are more effective in 
+the treatment of psychotic mania. Co -morbid anxiety treatment considers ad-
+junctive olanzapine or lamotrigine. Co -morbid bulimia treatment considers a 
+mood stabilizer. Co-morbid fatigue treatment considers a dawn simulator. For 
+diet, pay attention to a healthy diet, patients can ingest probiotics and pay at-
+tention to the balance of fatty acids. 
+ 
+Keywords 
+Astrocytes, Bipolar Disorder, Brain, Cell Size, Density, Glia, Humans, 
+Interneurons, Microglia, Neuroglia, Neurons, Oligodendrocytes, 
+Postmortem, Treatment, pH, Lithium, Lamotrigine, Valproic Acid 
+ 
+1. Introduction 
+Mood swings due to stressful or pleasant events are common in everyday life. 
+However, severe and persistent mood swings can lead to psychological distress 
+and behavioral disturbances that may be symptoms of an underlying mood di s-
+How to cite this paper: Wang, J.L. (2023) 
+Glial Cell-Targeted Treatments for Bipolar 
+Disorder: A Systematic Review of Available 
+Data and Clinical Perspectives . Open Jour-
+nal of Medical Psychology, 12, 94-115. 
+https://doi.org/10.4236/ojmp.2023.122006 
+ 
+Received:  March 20, 2023 
+Accepted: April 25, 2023 
+Published: April 28, 2023 
+ 
+Copyright © 2023 by author(s) and  
+Scientific Research Publishing Inc. 
+This work is licensed under the Creative 
+Commons Attribution International  
+License (CC BY 4.0). 
+http://creativecommons.org/licenses/by/4.0/  
+  
+Open Access
+
+[W4367330899 PDF PAGE 2]
+J. L. Wang 
+ 
+ 
+DOI: 10.4236/ojmp.2023.122006 95 Open Journal of Medical Psychology 
+ 
+order. The classification of mood disorders ranges from monophasic depressive 
+disorder to Type I and Type II bipolar disorders. 
+Falret described bipolar disorder as a distinct entity in the 1850s. In the Dia g-
+nostic and Statistical Manual of Mental Disorders, Fifth Edition ( DSM-5), “

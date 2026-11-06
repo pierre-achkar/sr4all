@@ -1,0 +1,100 @@
+Saxentoff, E.; Troman, C.; Shaw, A.G.; Tedcastle, A.; Majumdar, M.; Mate, R.;
+et al. Sustained detection of type 2 poliovirus in London sewage between February and July, 2022, by enhanced environmental
+surveillance. Lancet 2022, 400, 1531–1538. [CrossRef] [PubMed]
+66. Bandyopadhyay, A.S.; Cavestany, R.L.; Blake, I.M.; Macklin, G.; Cooper, L.V .; Grassly, N.C.; Nery, A.L.; Mach, O. Use of inactivated
+poliovirus vaccine for poliovirus outbreak response. Lancet Infect. Dis. 2023, 24, e328–e342. [CrossRef] [PubMed]
+
+[W4398206054 PDF PAGE 26]
+Pathogens 2024, 13, 435 26 of 31
+67. Vallejo, C.; Pearson, C.A.B.; Koopman, J.S.; Hladish, T.J. Effect of population partitioning on the probability of silent circulation of
+poliovirus. Bull. Math. Biol. 2022, 84, 62. [CrossRef] [PubMed]
+68. Macklin, G.R.; O’Reilly, K.M.; Grassly, N.C.; Edmunds, W.J.; Mach, O.; Santhana Gopala Krishnan, R.; Voorman, A.; Vertefeuille,
+J.F.; Abdelwahab, J.; Gumede, N.; et al. Evolving epidemiology of poliovirus serotype 2 following withdrawal of the serotype 2
+oral poliovirus vaccine. Science 2020, 368, 401–405. [CrossRef]
+69. O’Reilly, K.M.; Grassly, N.C.; Allen, D.J.; Bannister-Tyrrell, M.; Cameron, A.; Carrion Martin, A.I.; Ramsay, M.; Pebody, R.;
+Zambon, M. Surveillance optimisation to detect poliovirus in the pre-eradication era: A modelling study of England and Wales.
+Epidemiol. Infect. 2020, 148, e157. [CrossRef]
+70. Macklin, G.R.; Goel, A.K.; Mach, O.; Tallis, G.; Ahmed, J.A.; O’Reilly, K.M.; Grassly, N.C.; Diop, O.M. Epidemiology of type 2
+vaccine-derived poliovirus outbreaks between 2016 and 2020. Vaccine 2023, 41, A19–A24. [CrossRef]
+71. Auzenbergs, M.; Fountain, H.; Macklin, G.; Lyons, H.; O’Reilly, K.M. The impact of surveillance and other factors on detection of
+emergent and circulating vaccine derived polioviruses. Gates Open Res. 2021, 5, 94. [CrossRef] [PubMed]
+72. Bandyopadhyay, A.S.; Macklin, G.R. Final frontiers of the polio eradication endgame. Curr. Opin. Infect. Dis. 2020, 33, 404–410.
+[CrossRef]
+73. Macklin, G.R.; Peak, C.; Eisenhawer, M.; Kurji, F.; Mach, O.; Konz, J.; Gast, C.; Bachtiar, N.S.; Bandyopadhyay, A.S.; Zipursky, S.;
+et al. Enabling accelerated vaccine roll-out for Public Health Emergencies of International Concern (PHEICs): Novel oral polio
+vaccine type 2 (nOPV2) experience. Vaccine 2023, 41 (Suppl. 1), A122–A127. [CrossRef] [PubMed]
+74. Fine, P .E.M. Population immunity and polio eradication. Pathogens 2024, 13, 183. [CrossRef] [PubMed]
+75. O’Reilly, K.M.; Allen, D.J.; Fine, P .; Asghar, H. The challenges of informative wastewater sampling for SARS-CoV-2 must be met:
+Lessons from polio eradication. Lancet Microbe 2020, 1, e189–e190. [CrossRef] [PubMed]
+76. Bandyopadhyay, A.S.; Gast, C.; Brickley, E.B.; Rüttimann, R.; Clemens, R.; Oberste, M.S.; Weldon, W.C.; Ackerman, M.E.; Connor,
+R.I.; Wieland-Alter, W.F.; et al. A randomized phase 4 study of immunogenicity and safety after monovalent oral type 2 Sabin
+poliovirus vaccine challenge in children vaccinated with inactivated poliovirus vaccine in Lithuania. J. Infect. Dis. 2021, 223,
+119–127. [CrossRef] [PubMed]
+77. Brickley, E.B.; Connor, R.I.; Wieland-Alter, W.; Weiner, J.A.; Ackerman, M.E.; Arita, M.; Gast, C.; De Coster, I.; Van Damme, P .;
+Bandyopadhyay, A.S.; et al. Intestinal antibody responses to 2 novel live attenuated type 2 oral poliovirus vaccines in healthy
+adults in Belgium. J. Infect. Dis. 2022, 226, 287–291. [CrossRef] [PubMed]
+78. Connor, R.I.; Brickley, E.B.; Wieland-Alter, W.F.; Ackerman, M.E.; Weiner, J.A.; Modlin, J.F.; Bandyopadhyay, A.S.; Wright, P .F.
+Mucosal immunity to poliovirus. Mucosal Immunol. 2022, 15, 1–9. [CrossRef] [PubMed]
+79. Famulare, M.; Wong, W.; Haque, R.; Platts-Mills, J.A.; Saha, P .; Aziz, A.B.; Ahmed, T.; Islam, M.O.; Uddin, M.J.; Bandyopadhyay,
+A.S.; et al. Multiscale model for forecasting Sabin 2 vaccine virus household and community transmission. PLoS Comput. Biol.
+2021, 17, e1009690. [CrossRef] [PubMed]
+80. Wong, W.; Gauld, J.; Famulare, M. From vaccine to pathogen: Modeling Sabin 2 vaccine virus reversion and evolutionary
+epidemiology in Matlab, Bangladesh. Virus Evol. 2023, 9, vead044. [CrossRef]
+81. Brouwer, A.F.; Eisenberg, M.C.; Shulman, L.M.; Famulare, M.; Koopman, J.S.; Kroiss, S.J.; Hindiyeh, M.; Manor, Y.; Grotto, I.;
+Eisenberg, J.N.S. The role of time-varying viral shedding in modelling environmental surveillance for public health: Revisiting
+the 2013 poliovirus outbreak in Israel. J. R. Soc. Interface 2022, 19, 20220006. [CrossRef] [PubMed]
+82. Valesano, A.L.; Taniuchi, M.; Fitzsimmons, W.J.; Islam, M.O.; Ahmed, T.; Zaman, K.; Haque, R.; Wong, W.; Famulare, M.; Lauring,
+A.S. The early evolution of oral poliovirus vaccine Is shaped by strong positive selection and tight transmission bottlenecks. Cell
+Host Microbe 2021, 29, 32–43.e34. [CrossRef] [PubMed]
+83. Scott, R.P .; Cullen, A.C.; Chabot-Couture, G. Disease surveillance investments and administration: Limits to information value in
+Pakistan polio eradication. Risk Anal. 2021, 41, 273–288. [CrossRef] [PubMed]
+84. Voorman, A.; O’Reilly, K.; Lyons, H.; Goel, A.K.; Touray, K.; Okiror, S. Real-time prediction model of cVDPV2 outbreaks to aid
+outbreak response vaccination strategies. Vaccine 2023, 41, A105–A112. [CrossRef] [PubMed]
+85. Voorman, A.; Lyons, H.; Bennette, C.; Kovacs, S.; Makam, J.K.; F Vertefeuille, J.; Tallis, G. Analysis of population immunity to
+poliovirus following cessation of trivalent oral polio vaccine. Vaccine 2023, 41, A85–A92. [CrossRef] [PubMed]
+86. Voorman, A.; Lyons, H.; Shuaib, F.; Adamu, U.S.; Korir, C.; Erbeto, T.; Bandyopadhyay, A.S.; Okiror, S. Impact of supplementary
+immunization activities using novel oral polio vaccine type 2 during a large outbreak of circulating vaccine-derived poliovirus in
+Nigeria. J. Infect. Dis. 2024, 229, 805–812. [CrossRef]
+87. Sun, Y.; Keskinocak, P .; Steimle, L.N.; Kovacs, S.D.; Wassilak, S.G. A compartmental simulation model to improve interventions
+for controlling poliovirus outbreaks. In Proceedings of the 2023 Winter Simulation Conference (WSC), San Antonio, TX, USA,
+10–13 December 2023; pp. 1184–1195.
+88. Sun, Y.; Keskinocak, P .; Steimle, L.N.; Kovacs, S.D.; Wassilak, S.G. Modeling the spread of circulating vaccine-derived poliovirus
+type 2 outbreaks and interventions: A case study of Nigeria. Vaccine X 2024, 18, 100476. [CrossRef] [PubMed]
+89. Cheng, E.; Gambhirrao, N.; Patel, R.; Zhowandai, A.; Rycht áˇ r, J.; Taylor, D. A game-theoretical analysis of poliomyelitis
+vaccination. J. Theor. Biol. 2020, 499, 110298. [CrossRef] [PubMed]
+90. Wells, C.R.; Huppert, A.; Fitzpatrick, M.C.; Pandey, A.; Velan, B.; Singer, B.H.; Bauch, C.T.; Galvani, A.P . Prosocial polio vaccination
+in Israel. Proc. Natl. Acad. Sci. USA 2020, 117, 13138–13144. [CrossRef] [PubMed]
+
+[W4398206054 PDF PAGE 27]
+Pathogens 2024, 13, 435 27 of 31
+91. Ren, J.; Maimaiti, H.; Sun, X.; Huang, Z.; Liu, J.; Yang, J.; Li, Z.; Bai, Q.; Lu, Y. Cost-effectiveness of three poliovirus immunization
+schedules in Shanghai, China. Vaccines 2021, 9, 1062. [CrossRef] [PubMed]
+92. Xu, Y.; Liu, Y.; Wang, J.; Che, X.; Du, J.; Zhang, X.; Gu, W.; Zhang, X.; Jiang, W. Cost-effectiveness of various immunization
+schedules with inactivated Sabin strain polio vaccine in Hangzhou, China. Front. Public Health 2022, 10, 990042. [CrossRef]
+[PubMed]
+93. Chang, A.Y.; Aaby, P .; Avidan, M.S.; Benn, C.S.; Bertozzi, S.M.; Blatt, L.; Chumakov, K.; Khader, S.A.; Kottilil, S.; Nekkar, M.; et al.
+One vaccine to counter many diseases? Modeling the economics of oral polio vaccine against child mortality and COVID-19.
+Front. Public Health 2022, 10, 967920. [CrossRef] [PubMed]
+94. Ahmed, N.; Macias-Diaz, J.E.; Shahid, N.; Raza, A.; Rafiq, M. A dynamically consistent computational method to solve numerically
+a mathematical model of polio propagation with spatial diffusion.Comput. Methods Programs Biomed. 2022, 218, 106709. [CrossRef]
+[PubMed]
+95. Alrawajeh, F.A.; Allehiany, F.M.; Raza, A.; Abdelmohsen, S.A.M.; Cheema, T.N.; Rafiq, M.; Mohsin, M. Bio-inspired computational
+methods for the polio virus epidemic model. CMC-Comput. Mater. Contin. 2022, 72, 2357–2374. [CrossRef]
+96. Liu, X.; Rahman, M.U.; Arfan, M.; Tchier, F.; Ahmad, S.; Inc, M.; Akinyemi, L. Fractional mathematical modeling to the spread
+of polio with the role of vaccination under non-singular kernal. Fractals-Complex Geom. Patterns Scaling Nat. Soc. 2022, 30, 17.
+[CrossRef]
+97. Naveed, M.; Baleanu, D.; Raza, A.; Rafiq, M.; Soori, A.H. Treatment of polio delayed epidemic model via computer simulations.
+CMC-Comput. Mater. Contin. 2022, 70, 3415–3431. [CrossRef]
+98. Raza, A.; Baleanu, D.; Khan, Z.U.; Mohsin, M.; Ahmed, N.; Rafiq, M.; Anwar, P . Stochastic analysis for the dynamics of a
+poliovirus epidemic model. CMES-Comput. Model. Eng. Sci. 2022, 136, 257–275. [CrossRef]
+99. Bornaa, C.S.; Seidu, B.; Makinde, O.D. Mathematical analysis of the impact of vaccination and poor sanitation on the dynamics of
+poliomyelitis. Int. J. Nonlinear Sci. Numer. Simul. 2023, 24, 161–169. [CrossRef]
+100. Iqbal, M.S.; Ahmed, N.; Akgül, A.; Satti, A.M.; Iqbal, Z.; Raza, A.; Rafiq, M.; Anjum, R.; Zakarya, M.; Park, C. Analysis of the
+fractional polio model with the Mittag-Leffler kernels. Alex. Eng. J. 2023, 64, 957–967. [CrossRef]
+101. Karaagac, B.; Owolabi, K.M. Numerical analysis of polio model: A mathematical approach to epidemiological model using
+derivative with Mittag-Leffler Kernel. Math. Methods Appl. Sci. 2023, 46, 8175–8192. [CrossRef]
+102. Wang, X.J.; Lin, G. Spreading speeds in two reaction-diffusion models for polio disease.Commun. Nonlinear Sci. Numer. Simul.
+2023, 118, 18. [CrossRef]
+103. World Health Assembly.Global Eradication of Poliomyelitis by the Year 2000; World Health Organization: Geneva, Switzerland, 1988.
+104. Thompson, K.M.; Badizadegan, K. Evolution of global polio eradication strategies: Targets, vaccines, and supplemental immu-
+nization activities (SIAs). Expert Rev. Vaccines, 2024, In press.

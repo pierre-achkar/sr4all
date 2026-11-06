@@ -1,0 +1,163 @@
+. Cell Death Dis. 2021;12:1056.
+ 45. Sun XY, Ding XF, Liang HY, Zhang XJ, Liu SH, Bing-Han, et al. Efficacy of 
+mesenchymal stem cell therapy for sepsis: a meta-analysis of preclinical 
+studies. Stem Cell Res Ther. 2020;11:214.
+ 46. Lombardo E, van der Poll T, DelaRosa O, Dalemans W. Mesenchymal 
+stem cells as a therapeutic tool to treat sepsis. World J Stem Cells. 
+2015;7:368–79.
+ 47. Maeda A, Kogata S, Toyama C, Lo PC, Okamatsu C, Yamamoto R, et al. The 
+innate cellular immune response in xenotransplantation. Front Immunol. 
+2022;13: 858604.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub-
+lished maps and institutional affiliations.
+
+END REVIEW W4366188890
+
+
+REVIEW W4366393059
+TITLE: Utility of Blood-Based Tau Biomarkers for Mild Cognitive Impairment and Alzheimer’s Disease: Systematic Review and Meta-Analysis
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4366393059 PDF PAGE 1]
+Citation: Zabala-Findlay, A.; Penny,
+L.K.; Lofthouse, R.A.; Porter, A.J.;
+Palliyil, S.; Harrington, C.R.; Wischik,
+C.M.; Arastoo, M. Utility of
+Blood-Based Tau Biomarkers for Mild
+Cognitive Impairment and
+Alzheimer’s Disease: Systematic
+Review and Meta-Analysis. Cells
+2023, 12, 1184. https://doi.org/
+10.3390/cells12081184
+Academic Editor: Illana Gozes
+Received: 6 February 2023
+Revised: 4 April 2023
+Accepted: 10 April 2023
+Published: 18 April 2023
+Copyright: © 2023 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+cells
+Systematic Review
+Utility of Blood-Based Tau Biomarkers for Mild Cognitive
+Impairment and Alzheimer’s Disease: Systematic Review and
+Meta-Analysis
+Alex Zabala-Findlay 1,2,† , Lewis K. Penny 1,2,†
+ , Richard A. Lofthouse 1,2 , Andrew J. Porter 1,2 , Soumya Palliyil 1,2 ,
+Charles R. Harrington 1,3,4
+ , Claude M. Wischik 1,3,4 and Mohammad Arastoo 1,2, *
+1 Institute of Medical Sciences, University of Aberdeen, Aberdeen AB25 2ZD, UK
+2 Scottish Biologics Facility, University of Aberdeen, Aberdeen AB25 2ZP , UK
+3 GT Diagnostics, Aberdeen AB24 5RP , UK
+4 TauRx Therapeutics Ltd., Aberdeen AB24 5RP , UK
+* Correspondence: s11ma7@abdn.ac.uk
+† These authors contributed equally to this work.
+Abstract: Objectives: With the development of new technologies capable of detecting low concen-
+trations of Alzheimer’s disease (AD) relevant biomarkers, the idea of a blood-based diagnosis of
+AD is nearing reality. This study aims to consider the evidence of total and phosphorylated tau as
+blood-based biomarkers for mild cognitive impairment (MCI) and AD when compared to healthy con-
+trols. Methods: Studies published between 1 January 2012 and 1 May 2021 (Embase and MEDLINE
+databases) measuring plasma/serum levels of tau in AD, MCI, and control cohorts were screened
+for eligibility, including quality and bias assessment via a modiﬁed QUADAS. The meta-analyses
+comprised 48 studies assessing total tau (t-tau), tau phosphorylated at threonine 181 (p-tau181), and
+tau phosphorylated at threonine 217 (p-tau217), comparing the ratio of biomarker concentrations in
+MCI, AD, and cognitively unimpaired (CU) controls. Results: Plasma/serum p-tau181 (mean effect
+size, 95% CI, 2.02 (1.76–2.27)) and t-tau (mean effect size, 95% CI, 1.77 (1.49–2.04)) were elevated
+in AD study participants compared to controls. Plasma/serum p-tau181 (mean effect size, 95% CI,
+1.34 (1.20–1.49)) and t-tau (mean effect size, 95% CI, 1.47 (1.26–1.67)) were also elevated with moderate
+effect size in MCI study participants compared to controls. p-tau217 was also assessed, albeit in a
+small number of eligible studies, for AD vs. CU (mean effect size, 95% CI, 1.89 (1.86–1.92)) and for
+MCI vs. CU groups (mean effect size, 95% CI, 4.16 (3.61–4.71)). Conclusions: This paper highlights
+the growing evidence that blood-based tau biomarkers have early diagnostic utility for Alzheimer’s
+disease. Registration: PROSPERO No. CRD42020209482.
+Keywords: Alzheimer’s disease; mild cognitive impairment; tau; biomarkers; diagnostics; blood
+1. Introduction
+Alzheimer’s disease (AD) is a debilitating neurodegenerative disease associated with
+progressive cognitive decline. AD is the most common type of dementia and a major global
+burden. Approximately 50 million people were reported to be suffering from dementia in
+2018, and this number is expected to triple by 2050 [1]. Due to an ever-increasing elderly
+population, dementia now kills more people in the U.S. than prostate cancer and breast
+cancer combined and is the leading cause of death in both England and Wales [1].
+Quantiﬁcation of the amounts of total tau (t-tau) and phosphorylated tau (p-tau) have
+been found to correlate with loss of cognition and with neurodegeneration in autopsied AD
+patients [2,3] and in antemortem CSF [4]. For clarity, t-tau is quantiﬁed using antibodies
+to an epitope in the mid region of tau that recognizes all six isoforms of tau in the human
+brain. Several studies have demonstrated that some mid-domain and C-terminal p-tau
+residues are elevated in AD [ 5]. However, the most investigated to date has been tau
+Cells 2023, 12, 1184. https://doi.org/10.3390/cells12081184 https://www.mdpi.com/journal/cells
+
+[W4366393059 PDF PAGE 2]
+Cells 2023, 12, 1184 2 of 16
+phosphorylated at threonine 181 (p-tau181) [6]. A previous systematic review showed that
+t-tau and p-tau were elevated by 2.54 and 1.88-fold, respectively, when comparing AD
+CSF to control CSF [7]. In addition to positron emission tomography (PET) imaging, t-tau
+and p-tau CSF biomarkers are currently being utilized to support the clinical diagnosis of
+patients on the AD continuum and to identify individuals in the preclinical stages of the
+disease [8–10].
+Given that the presymptomatic and prodromal stages of the AD continuum are exten-
+sive, it is important to diagnose AD as early as possible in order to identify the extent of
+disease progression and increase the chance of treating patients with stratiﬁed medicines
+before the advanced progression of the disease renders preventative treatment ineffec-
+tive [10]. Thus, biomarker-based diagnosis at the earliest opportunity is an important goal
+for AD. The ﬁrst detectable changes in CSF biomarkers of t-tau and p-tau arise 17 and
+21 years before the symptomatic onset of AD, respectively, truly highlighting their utility
+as early AD diagnostics [11].
+However, CSF sampling involves potentially dangerous and certainly unpleasant lum-
+bar punctures, while PET imaging is limited to only the best-equipped medical facilities.
+Considering the global burden of AD, CSF sampling and PET imaging are not ideal appli-
+cations to deploy in population-wide screening for early AD diagnostics. For example, it
+was estimated in 2015 that around 480 million people worldwide were at either Braak stage
+2 (early stages of AD/tau pathology) or at more advanced stages [ 12]. Recent advances
+in ultrasensitive technologies and novel approaches now allow tau-based biomarkers to
+be assessed in the peripheral matrix of blood. These approaches include single molecule
+array (SIMOA) immunomagnetic reduction (IMR) and Meso Scale Discovery (MSD) plat-
+forms, as well as next-generation mass spectrometry [13–16]. There has been a plethora of
+studies on blood-based tau biomarkers over the last decade. This timely systematic review
+aims to assess the ratio of biomarker concentrations for t-tau and p-tau in MCI and AD in
+comparison to cognitively unimpaired (CU) controls.
+2. Methods
+2.1. Search Strategy
+Embase and MEDLINE were searched for primary studies published from 1 January
+2012 to 1 May 2021 assessing tau plasma/serum biomarkers in AD patients with a control
+cohort. This primary search included (Alzheimer) AND (plasma OR serum OR blood)
+AND (biomarker OR biological marker) AND (tau OR t-tau OR p-tau OR ttau OR ptau)
+keywords in the title or abstract. Studies were limited to human subjects, publications
+in the English language, and ‘article’ as publication type to limit conference proceedings,
+systematic reviews, or reviews. To reduce the number of studies for screening, titles
+containing words indicating a review or systematic review were excluded (Table 1). Studies
+conducted in Down syndrome populations were excluded. This systematic review was
+registered on the International Prospective Register of Systematic Reviews (PROSPERO)
+on 13 October 2020 (PROSPERO Registration No. CRD42020209482). Additionally, further
+studies were identiﬁed through cross-referencing by identifying citations in eligible studies.
+Study identiﬁcation and reduction were conducted and independently veriﬁed by the
+lead authors.
+Studies were excluded if they did not present plasma or serum tau (t-tau or p-tau)
+concentrations, in mean ± standard deviation (SD) or standard error mean (SEM), or if
+there was no data for either AD or MCI compared to a control group. Furthermore, studies
+were required to specify the diagnostic criteria used to group study participants into CU,
+AD, and/or MCI and follow published criteria.
+
+[W4366393059 PDF PAGE 3]
+Cells 2023, 12, 1184 3 of 16
+Table 1. Keywords used to search for relevant results. *: wildcard operator; ab: terms found in
+abstract or title; ti: terms found in title; af: terms found in all ﬁelds; yr: year of publication.
+Ovid: Embase 1996 to 2021 Week 17, Ovid MEDLINE(R) and Epub Ahead of Print, In-Process
+and Other Non-Indexed Citations, Daily and Versions(R) 1946 to 1 May 2021
+String Number Term
+1 (Alzheimer* AND (plasma OR serum OR blood) AND (biomarker* OR
+“biological marker”) AND (tau* OR t-tau OR -p-tau* OR ttau OR ptau)).ab.
+2 1 NOT (“systematic review” OR review OR summary).ti.
+3 Limit 2 to English language
+4 Limit 3 to humans
+5 Limit 4 to article (Embase only)
+6 Limit 5 to yr = “2012 -Current”
+7 Remove duplicates from 6
+2.2. Data Extraction
+Data were extracted for the CU cohort from those closest in age to the MCI and AD

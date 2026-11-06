@@ -1,0 +1,183 @@
+ant. It is perhaps for
+this reason that, whilst contacting authors is common in
+systematic reviews, it is not a method of study identifica-
+tion that is undertaken as a matter of course [47].
+The concept of contacting authors could also be under-
+stood more broadly than simply contacting with a view to
+requesting known studies or data. Whilst in contact with
+authors, requests for unpublished, linked or forthcoming
+studies are not unreasonable requests, and authors can as-
+sist with the interpretation of specific elements of studies
+or topics, in order to aid the process of critical appraisal.
+Furthermore, Ogilvie et al. found the value in contacting
+experts was the link to better reports of studies already
+identified [48]. This highlights the potential flexibility of
+the search method: it is not only the chance to identify
+known studies or study data but also it offers the oppor-
+tunity to speak with experts.
+Citation chasing
+The advantages and disadvantages (and resource require-
+ments) were most clearly stated for this supplementary
+search method. The handbooks, and some studies,
+s u g g e s t e da n df o u n da d v a n t a g e sa n dd i s a d v a n t a g e si n
+the methods and tools.
+The Cochrane Handbook suggested that there is little
+evidence to support the methodology of citation searching,
+since the citation of studies ‘is far from objective ’[49]. The
+studies included in this review suggested that the reasons
+for ‘non-citation’are unclear and could range from select-
+ive citation (i.e. selective reporting) to pragmatic reasons,
+such as a review of trials being cited instead of each indi-
+vidual trial reviewed [21]. Furthermore, a high number of
+citations for a study should not necessarily be confused as
+an indicator of study quality [50, 51] or a complete citation
+network. Non-citation of studies, or ‘linking lag’[1], forces
+a break in citational networks [1, 2, 21], meaning it
+becomes unclear when (or if all) studies have cited a pri-
+mary study [20]. There is presently no method to assess
+the completeness of citational networks and no certainty
+as to the comprehension of any citation chasing.
+There is little common agreement between the studies
+as to which tool (or combination of tools) is superior in
+citation chasing, since the relative merits of each resource
+depend greatly upon the topic of review, the data range of
+the resource and the currency of the results (c.f. [1, 23, 24,
+52– 54]). A study that evaluated the tools (Web of Science,
+SCOPUS and Google Scholar), how the tools are best
+searched, how the platform hosts select data for inclusion
+and the advantages and disadvantages of use would make
+clearer statements on when (or if) to use which tools.
+There are, undoubtedly, advantages to citation search-
+ing. The citational link is neutral, in the sense that it
+only links the studies but it does not explain the nature
+of the link. This is important, since a citation search will
+identify any study linked to the primary study, including
+erratum studies and studies that dispute or disagree with
+the primary study, and it should also link different publi-
+cation types, such as editorial content, reviews or grey
+literature. This could not only aid interpretation of studies
+but also it could help researchers explore the idea of study
+impact. Furthermore, as reported in the ‘Results’section, a
+citation search links by citation and it is not beholden to
+the use of ‘the correct’search terms or database indexing.
+It may, therefore, as Papaioannou et al. reported, facilitate
+serendipitous study identifi cation [3], suggesting that
+citation chasing is valuable in scoping review topics, to
+aid development of searches, and review searches, in
+order to ensure all studies have been identified.
+The nature of bi-directional citation chasing suggests
+that, given the relative specificity, this method could pos-
+sibly be used to efficiently update systematic reviews using
+known includes as the citations to chase [20]. Researchers
+have had positive, although incomplete, success trialling
+this method, and studies suggest that citation chasing alone
+is not a substitute for standard update searches [55, 56].
+Handsearching
+The evidence on handsearching can be summarised as (1)
+selecting where to handsearch, (2) what to handsearch
+and (3) who does the handsearching. In relation to 1, the
+handbooks advocate selecting journals to handsearch on
+Cooper et al. Systematic Reviews  (2017) 6:234 Page 12 of 16
+
+[W2768314176 PDF PAGE 13]
+the basis of the number of relevant studies included from
+journals identified in database searching. This approach
+means handsearching is a supplementary method to
+database searching, since to undertake handsearching —
+following this method — database searches define the list
+of journals to handsearch.
+Studies included in this review provided empirical evi-
+dence that handsearching journals identified by database
+searching was effective in identifying studies missed by
+poor indexing, lack of study design or omission of key
+search terms, or where sections of journals are not indexed
+on databases. In this way, this approach to selecting
+journals to handsearch could be categorised as a ‘safety net
+search’, since it aims to identify studies missed by deficien-
+cies in literature searching and database indexing. This
+approach to selecting journals to handsearch, even though
+it is effective, could be argued to be a duplication of effort,
+since the journals being handsearched have already
+been ‘searched’ through the bibliographic databases.
+This is likely why the studies recorded low precision
+(compared to database searches) and why handsearching
+takes longer [28].
+The Cochrane Handbook and three studies suggested
+alternative ways to identify journals to handsearch: namely,
+selecting journals not indexed on MEDLINE or EMBASE
+[9, 32] — a suggestion that is easily changed to read ‘pri-
+mary databases’relevant to the field of study (i.e. ERIC for
+reviews of educational topics) — and contacting experts,
+contacting organisations and searches of library shelves
+[30, 31]. Neither the study by Armstrong et al. nor the
+study by Langham et al. listed the journals identified by
+method of identification, so it is not clear if there were
+differences between the list of journals provided by experts
+when compared to those provided by databases [30, 31].
+This review did not identify any studies that compared the
+use of databases to identify journals to handsearch as
+against these alternative methods but such a study may be
+of value if efficiencies could be found in practice.
+It may be that, in reviews in which a comprehensive
+identification of studies is required, identifying journals
+to handsearch should be done both by using databases
+and contacting experts or organisations. The former being
+to cover any deficiencies in the database searching and the
+latter to capture any unique journals or conferences
+known to experts but not indexed in databases.
+Selecting what to handsearch and who should handsearch
+was another notable difference between the handbooks and
+studies. The studies included in this review identified
+studies uniquely from handsearching various sections
+of journals (from abstracts through to book reviews),
+and the studies used volunteers, provided training to
+handsearchers, and used experienced handsearchers to
+handsearch, with varying degrees of success and failure
+since handsearching relates to effectively identifying
+studies when compared to database searching. The
+Cochrane Collaboration arguably has one of the longest
+track-records of handsearching projects (c/f [37]), and
+it is their recommendation that handsearching is the
+page-by-page examination of the entire contents of a journal
+[9, 10] by a well-trained handsearcher [9]. Handsearching is
+commonly referred to and used as a ‘gold standard’com-
+parator to establish effectiveness of other search methods.
+Given that every study included in this review uniquely
+identified studies by handsea rching but also missed studies
+by handsearching too, a reminder of what constitutes hand-
+searching is likely warranted.
+Trial registers
+The handbooks provide guidance on where to search
+and the studies focused on the effectiveness of study
+identification in selected registers and/or the practicalities
+of searching registers. In this way, the studies advance the
+guidance of the handbooks, since they provide empirically
+derived case-studies of searching the registers. The impli-
+cations for searching, however, are clear: searching trial
+registers should still be undertaken in combination with
+bibliographic database searching [38, 57]. Even despite the
+aims of the International Committee of Medical Journal
+Editors [58], comprehensive and prospective registration
+of trials— and keeping the trial data up to date — is still not
+common place. It is unclear what pressure (if any) is put
+upon trial managers who do not prospectively register
+their trials and, in fact, if there is any active penalty if trial
+managers do not do so. Until this issue is resolved, the
+comprehension of registers will remain uncertain and a
+combination of bibliographic database searching (to
+identify published trials) and searches of trial registers
+(to identify recruiting, on-going or completed trials) is
+required.
+The advantages of searching trial registers are worthy
+of discussion. Registered trials include an e-mail address
+for trial managers, which can facilitate author contact,
+and the studies concluded that more consistent searching
+of trial registers may improve identification of publication
+and outcome reporting bias [40, 59]. If trial managers
+were using the portals correctly, it would also be a prac-
+tical method of reporting results and sharing study data,
+perhaps akin to a ‘project website ’, as recommend in the
+Cochrane Handbook [9]. The variability of the search
+interfaces is notably a disadvantage and something upon
+which could be improved. Glanville et al. observed that
+the search 

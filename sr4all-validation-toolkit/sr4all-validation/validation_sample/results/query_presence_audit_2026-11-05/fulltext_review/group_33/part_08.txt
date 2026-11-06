@@ -1,0 +1,182 @@
+um/five.tnum%CI /one.tnum./three.tnum/three.tnum–/three.tnum./one.tnum/two.tnum,p = /zero.tnum./zero.tnum/zero.tnum/one.tnum) and sICH (OR= /one.tnum./nine.tnum/two.tnum, /nine.tnum/five.tnum%CI /one.tnum./three.tnum/one.tnum–
+/two.tnum./eight.tnum/one.tnum,p < /zero.tnum./zero.tnum/zero.tnum/one.tnum). The dose–response meta-analysis revealed risk eﬀects
+of increasing the severity of WML on both HT and ICH. In addition,
+both periventricular WML (PWML) (ﬁve of seven articles) and deepWML
+(DWML) (ﬁve of six articles) were shown to be associated with HT.
+Frontiers in Aging Neuroscience /zero.tnum/one.tnum frontiersin.org
+
+[W4310086140 PDF PAGE 2]
+Wang et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fnagi./two.tnum/zero.tnum/two.tnum/two.tnum./one.tnum/zero.tnum/five.tnum/three.tnum/one.tnum/four.tnum/nine.tnum
+Conclusions: White matter lesions are associated with overall HT and sICH in
+patients with ischemic stroke, and more severe WMLs indicate a h igh risk of HT
+and sICH. In addition, both PWML and DWMLs could be risk factors for HT.
+Systematic review registration: https://www.crd.york.ac.uk/prospero/,
+identiﬁer: PROSPERO CRD/four.tnum/two.tnum/zero.tnum/two.tnum/two.tnum/three.tnum/one.tnum/three.tnum/four.tnum/six.tnum/seven.tnum.
+KEYWORDS
+white matter lesion, leukoaraiosis, hemorrhage transformation, ischemic stroke,
+symptomatic intracerebral hemorrhage (sICH)
+Introduction
+Stroke is a major cause of long-term disability and death
+all over the world ( Béjot et al., 2016 ). Currently, reperfusion
+therapies, including endovascular thrombectomy (EVT) and
+intravenous thrombolysis (IVT), are proven to be eﬀective for
+patients with ischemic stroke as they can signiﬁcantly improve
+clinical outcomes (
+Wardlaw et al., 2012 ; Emberson et al., 2014 ;
+Derex and Cho, 2017 ). However, as a part of the natural course
+of ischemic stroke, hemorrhagic transformation (HT) is also
+one of the mortal complications after reperfusion treatments
+(
+Hornig et al., 1986 ). Based on imaging features, HT ranges
+from smaller petechial hemorrhagic infarction (HI) to more
+conﬂuent parenchymal hematoma (PH), and it can also be
+classiﬁed into symptomatic intracerebral hemorrhage (sICH)
+and asymptomatic hemorrhage according to the National
+Institute of Neurological Disorders and Stroke (NINDS), the
+Safe Implementation of Thrombolysis in Stroke-Monitoring
+Study (SITS-MOST), and the European Co-operative Acute
+Stroke Study-II (ECASS II) criteria (
+National Institute of
+Neurological Disorders Stroke rt-PA Stroke Study Group, 1995 ;
+Hacke et al., 1998 ; Wahlgren et al., 2008 ). Among these subtypes
+of HT, sICH is signiﬁcantly associated with high mortality and
+poor outcomes among those patients (
+Yaghi et al., 2017). Thus, it
+is necessary to explore the association between some preexisting
+clinical features and the risk of HT to better treat patients with
+ischemic stroke.
+According to previous studies, in addition to many clinical
+variables such as age, hypertension, and baseline stroke severity
+measured by the National Institute of Health Stroke Scale
+(NIHSS), neuroimaging markers of cerebral small-vessel disease
+(CSVD) were also found to be associated with HT (
+Emberson
+et al., 2014 ; Lei et al., 2022 ). As a common imaging biomarker
+of CSVD, white matter lesions (WMLs) are characterized
+by focal lesions without associated mass eﬀect within the
+deep, subcortical, periventricular, or infratentorial white matter
+(
+Eikermann-Haerter and Huang, 2021 ), and they can be
+visualized using computed tomography (CT) or magnetic
+resonance imaging (MRI) (
+Bernbaum et al., 2015 ). Existing
+research recognized a critical role played by WML in several
+neurological diseases, including cognitive impairment, dementia
+(
+Prins and Scheltens, 2015 ), and Alzheimer’s disease (AD) ( Van
+Den Berg et al., 2018 ). It has also previously been observed that
+WML can increase the risk of HT in patients with ischemic
+stroke (
+D’anna et al., 2021 ). In recent meta-analyses, WML
+and its severity were proven to be related to HT and sICH
+after IVT treatment in patients with stroke (
+Charidimou et al.,
+2016; Lin et al., 2016 ). An increase in the severity of WML
+was found to indicate a high risk of sICH after reperfusion
+(
+Rastogi et al., 2022 ). However, no current review has explored
+the diﬀerence between the distribution of WMLs, for example,
+deep WML (DWML), and periventricular WML (PWML), and
+their association with HT. In this meta-analysis and systematic
+review, we aimed to comprehensively evaluate and summarize
+the association between WML and HT in patients with ischemic
+stroke, taking both the severity and distribution of WML
+into account.
+Materials and methods
+Search strategy
+This meta-analysis was prepared with reference to the
+Preferred Reporting Items for Systematic Reviews and Meta-
+Analyses (PRISMA) (
+Moher et al., 2009 ) and was conducted
+according to the prespeciﬁed protocol (PROSPERO registration
+number: CRD42022313467) designed in October 2021.
+We searched PubMed, Web of Science, Embase, and
+Cochrane Library databases from inception to 3 November 2021
+for studies on WML and HT in patients with diﬀerent types of
+ischemic stroke. Search terms included “leukoaraiosis” or “white
+matter lesion” or “white matter hyperintensity” or “white matter
+disease” and “hemorrhage transformation” or “intracerebral
+hemorrhage” or “intracranial hemorrhage.” Full search terms
+used in this research are shown in the
+Supplementary material.
+Inclusion and exclusion criteria
+Studies were included for the meta-analysis if they met
+the following criteria: (1) original publications; (2) speciﬁc
+deﬁnitions of WML and HT; (3) studies that included ischemic
+Frontiers in Aging Neuroscience /zero.tnum/two.tnum frontiersin.org
+
+[W4310086140 PDF PAGE 3]
+Wang et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fnagi./two.tnum/zero.tnum/two.tnum/two.tnum./one.tnum/zero.tnum/five.tnum/three.tnum/one.tnum/four.tnum/nine.tnum
+stroke patients with WML; and (4) HT and/or subtypes of HT
+described as outcomes. The exclusion criteria were given as
+follows: (1) duplicate publications or duplicate sets of patients
+in diﬀerent studies; (2) animal studies; (3) abstracts or meetings;
+(4) systematic review and/or meta-analysis; (5) risk estimates
+did not provide directly and could not construct a 2× 2 table;
+(6) no assessment of relevant outcomes; and (7) WML not at
+baseline. During the process of screening eligible research, the
+reviewers were blinded to the authors and institution of the
+studies being reviewed.
+Quality assessment
+The quality of included studies was assessed based on
+the Newcastle–Ottawa Scale (NOS) (
+Stang, 2010 ), a tool for
+assessing the risk of bias in observational studies. An article
+was considered to be of high quality when the NOS score was
+equal to or more than 6. Two authors independently assessed the
+quality of each study. The quality assessment results are shown
+in
+Supplementary Table S2.
+Data extraction
+Two authors independently extracted data from all
+potentially relevant articles, and any disagreements were
+resolved through discussion with a third author. The following
+information was extracted from eligible studies through a
+data extraction sheet: author’s name, year of publication,
+country, study design, sample size, age, gender, stroke type
+based on Trial of Org 10172 in acute stroke treatment (TOAST)
+classiﬁcation, whether ischemic stroke secondary to large vessel
+occlusion (LVO) or not, whether anterior circulation stroke or
+not, radiology, grading scale for WML, the deﬁnition of HT,
+treatment, sample size, number of cases and control, eﬀect
+estimates and conﬁdence intervals for every outcome.
+As for data about WML, the presence, severity, and
+distribution of WML were taken into account. Considering the
+varied subtypes of HT, including PH, HI, sICH, and remote ICH
+(rICH) in patients with ischemic stroke, these subtypes were
+regarded as diﬀerent outcomes in our analysis of the severity of
+WML and the risk of HT. However, the speciﬁc subtype of HT
+was not considered for articles with the distribution of WML, as
+the number of these articles was relatively small.
+Statistical analysis
+Data were pooled in a meta-analysis for no <3 articles
+applying STATA 16.0 and R version 4.0.2. Based on the
+quantity of included articles, we ﬁnally conducted seven groups
+of meta-analysis to quantify the strength of the associations
+between the presence of WML, moderate-to-severe WML,
+severe WML, and HT, and its diﬀerent subtypes (sICH and
+PH). Odds ratios (ORs) and 95%CIs were obtained directly from
+studies or calculated using the number of cases and control.
+Heterogeneity was assessed byI2 and p. P-values < 0.05 were
+considered statistically signiﬁcant. The random-eﬀects model
+with DerSimonian–Laird weights were adopted to quantify the
+strength of the association between the severity of WML and
+HT using ORs and 95%CIs. Subgroup analyses were conducted
+to explore the potential confounding factors, including country,
+study design (prospective/retrospective), stroke type (TOAST
+classiﬁcation; ischemic stroke secondary to large vessel occlusion
+(LVO) or not; anterior circulation stroke or not), treatment
+(IVT/EVT), and the imaging used for evaluating WML (CT
+and/or MRI). In addition, the funnel plot with Egger’s test was
+adopted to assess the publication bias. A sensitivity analysis was
+also conducted to test the contribution of each study to the
+pool results.
+A dose–response meta-analysis was conducted for studies
+presenting WML analyses in ≥ 3 levels of severity of WML. To
+assign “doses” to every WML category, WML measurements
+using diﬀerent rating scales were uniformly classiﬁed into a 0–
+3 severity scale (none, mild, moderate, and severe) based on the
+median WML severity score for each category. We pooled the
+risk estimates using generalized least squares regression (GLST)
+with the restricted cubic spline models and predeﬁned knots
+at the 10th, 50th, and 9

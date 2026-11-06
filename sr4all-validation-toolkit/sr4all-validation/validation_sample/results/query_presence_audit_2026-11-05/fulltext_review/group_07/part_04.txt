@@ -1,0 +1,180 @@
+e experimental study has shown a dysfunction of 
+endogenous analgesia in patients with musculoskeletal pain,86 
+and therefore exercising non-painful body parts with patients 
+with chronic musculoskeletal pain has been recommended.87 
+Figure 4  Forest plot of exercises into pain versus pain-free exercises—short term. Negative values favour painful intervention, whereas positive 
+favour pain-free
+.
+t able 3  GRADE summary of findings table
+summary of results Quality of the evidence ( gr A d E)
+F
+ollow-up
+n umber of 
+participants(trials)
+sMd
+(95%  c I) d esign
+Inconsistency Indirectness Imprecision Quality
+Short term 385 (6 trials) −0.28 (−0.49 to −0.08) Limitations* No inconsistency No indirectness Imprecision† l ow
+⨁⨁◯◯
+Medium term
+173 (3 trials) −0.59 (−1.03 to −0.15) Limitations* No inconsistency No indirectness Imprecision† l ow
+⨁⨁◯◯
+Long term
+345 (5 trials)  0.01 (−0.39 to 0.41) Limitations* Inconsistency‡ No indirectness Imprecision† Very low
+⨁◯◯◯
+sensitivity analysis
+Short term
+215 (3 trials) −0.27 (−0.54 to −0.05) No limitations No inconsistency No indirectness Imprecision† Moderate
+⨁⨁⨁◯
+Medium term  40 (1 trials) −0.32 (−0.95 to 0.31) No limitations Inconsistency§ No indirectness Imprecision† l ow
+⨁⨁◯◯
+Long term
+215 (3 trials) 0.13 (−0.14 to 0.40) No limitations No inconsistency No indirectness Imprecision† Moderate
+⨁⨁⨁◯
+*Lack of blinding of participants and personnel, attrition bias, unable to adequately assess selection bias risk.
+†<400 participants for each outcome.
+‡Large statistical heterogeneity; I2=70%.
+§Only single trial available, <400 participants therefore downgraded for inconsistency and imprecision.
+Short term, ≤3 months; medium term,
+ >3 and<12 months; long term,
+ ≥12 months.
+High quality:
+ further research is unlikely to change our confidence in the estimate of effect.
+Moderate quality: further research is likely to have an important impact on our confidence in the estimate of effect.
+Low quality: further research is very likely to have an important impact on our confidence in the estimate of effect.
+Very low quality: we are uncertain about the estimate.
+GRADE, Grading of Recommendations Assessment, Development and Evaluation; SMD, standardised mean difference.
+group.bmj.com on June 12, 2017 - Published by http://bjsm.bmj.com/Downloaded from 
+
+[W2612224886 PDF PAGE 8]
+8 
+Smith BE, et al. Br J Sports Med 2017;0:1–10. doi:10.1136/bjsports-2016-097383
+r eview
+However, it is worth noting that empirical data within this field 
+are greatly lacking, and this systematic review shows that painful 
+exercises may even improve the clinical outcomes. Additionally, 
+exercise prescription in the included trials was primarily based 
+on strength and conditioning principles, with the exception of 
+Littlewood et al, 52 suggesting a tissue-focused approach, and 
+therefore could still have been giving a ‘hurt is harm’ message to 
+the majority of participants.
+Significant improvements in patient-reported pain can be 
+achieved with a range of contextual factors, such as varying 
+degrees of pain experiences and postrecovery time for thera-
+peutic exercise. In addition to the aspect of pain, an important 
+difference between the intervention arm and the control arm is 
+the higher loads, or levels of resistance, employed with the exer-
+cises into pain, and it is unknown if the difference in responses 
+can be attributable to these two elements of the different exercise 
+programmes. Research has shown a ‘dose response’ to exercise 
+for musculoskeletal pain—the more incremental exercise (with 
+appropriate recovery period) a person does the greater his/her 
+improvements in pain88–90; the short-term benefits of exer -
+cises into pain over pain-free exercises could be explained by 
+this dose effect, or response to load/resistance. However to our 
+knowledge the optimal ‘dose’ of therapeutic exercise for muscu-
+loskeletal pain has not been established. Furthermore, little is 
+known if it is possible or appropriate to identify individuals most 
+suitable to exercise interventions.
+Our review only investigated patient-reported outcome measures 
+of pain and function/disability. It has been hypothesised that exer-
+cise therapy, where it has been advised that the experience of pain 
+is safe and allowed, may address other patient-reported outcome 
+measures—fear avoidance, self-efficacy and catastrophising 
+beliefs37 38—and therefore may lead to improvements in function, 
+quality of life and disability, despite pain levels. Unfortunately 
+none of the trials included in this review recorded the level of pain 
+patients actually experienced during their exercise programme, 
+preventing any detailed attempt to fully explain any mechanisms 
+of effect. This aspect of exercise prescription clearly warrants 
+further investigation in relation to chronic musculoskeletal pain. 
+Any future trials should consider the role of pain with exercises 
+and clearly define the parameters employed to ensure translation 
+of findings into practice and further evaluation of optimal ‘dosage’.
+strengths and limitations of included trials
+We chose not to perform subgroup analyses by anatomical 
+region and/or tissue structures. The labelling of musculoskeletal 
+structures as sources of pain has been debated for many years, 
+with polarising opinions.91 92  However, the diagnostic label -
+ling of patients into tissue-specific pathology characteristically 
+suffers from poor reliability and validity.93–98 A strength of this 
+review is that despite the trials including subjects suffering from 
+musculoskeletal pain at different body locations, there exists 
+low statistical heterogeneity at short-term follow-up and for the 
+sensitivity analyses carried out.
+The overall quality of the included papers can be considered 
+relativity high, with only three domains in the Cochrane risk of 
+bias tool (disregarding blinding of participants) demonstrating 
+clear risk of bias across all domains for all trials. However taking 
+into account other factors assessed with the GRADE analysis, the 
+quality of the evidence was rated as moderate to low. Therefore 
+our results can be considered to have moderate to low internal 
+validity, with future research likely to alter our conclusions.
+The main source of bias within the included trials were 
+blinding; no trial blinded the participants. Knowledge of group 
+assignment may affect participants’ behaviour, for example 
+with patient-reported outcome measures such as pain scales or 
+compliance with therapy interventions.99 However, it is accepted 
+that blinding in physiotherapy and physical intervention trials is 
+difficult to achieve.24
+Another limitation of the included trials is the high level of 
+attrition suffered by some of the trials in both treatment arms. 
+For example Littlewood et al52 suffered from 51% dropout 
+at 12-month follow-up. A high level of attrition can overesti-
+mate the treatment effect size and could bias the results of our 
+meta-analysis. However, we minimised the risk of bias on our 
+results by conducting a sensitivity analysis on trials with a large 
+dropout, identified using the Cochrane risk of bias tool and 
+assessed level of evidence using the GRADE classification.
+l imitations of this review
+For pragmatic reasons one reviewer screened titles and abstracts. 
+An extensive literature search was carried out, with two 
+reviewers independently screening full texts for inclusion, and 
+a sample of the data extraction independently verified. Addi-
+tionally an attempt was made to retrieve unpublished trials; 
+however, it may be that not all trials were retrieved, particularly 
+considering we did not search for papers published in languages 
+other than English and US spelling was used in the search terms. 
+This review excluded trials where participants had a diagnosis of 
+more widespread pain disorders like fibromyalgia.
+cO nclus IO n
+The results of this systematic review indicates that protocols 
+using exercises into pain offer a small but significant benefit over 
+pain-free exercises in the short term, with moderate quality of the 
+evidence for outcomes of pain in chronic musculoskeletal pain 
+Figure 5  Forest plot of exercises into pain versus pain-free exercises—medium term. Negative values favour painful intervention, whereas positive 
+favour pain-free
+.
+Figure 6  Forest plot of exercises into pain versus pain-free 
+exercises—long term.
+ Negative values favour painful intervention, 
+whereas positive favour pain-free. AMED, Allied and Complimentary 
+Medicine Database; CINAHL, Cumulative Index to Nursing and Allied 
+Health Literature.
+group.bmj.com on June 12, 2017 - Published by http://bjsm.bmj.com/Downloaded from 
+
+[W2612224886 PDF PAGE 9]
+9
+Smith BE, et al. Br J Sports Med 2017;0:1–10. doi:10.1136/bjsports-2016-097383
+r eview
+in adults. There appears to be no difference at medium-term or 
+long-term follow-up, with moderate to low quality of evidence, 
+demonstrating pain need not be ruled out or avoided in adults 
+with chronic musculoskeletal pain.
+What are the findings?
+ ► Protocols using exercises into pain for chronic 
+musculoskeletal pain offer a small but significant benefit 
+over pain-free exercises in the short term.
+ ► Adults with musculoskeletal pain can achieve significant 
+improvements in patient-reported outcomes with varying 
+degrees of pain experiences and postrecovery time with 
+therapeutic exercise.
+ ► Pain during therapeutic exercise for chronic musculoskeletal 
+pain need not be a barrier to successful outcomes.
+ ► Protocols using exercises into pain typically have higher 
+loads and dose of exercise.
+c ontributors  BES was responsible for conception and design,  publication 
+screening, acquisition of data, analysis and interpretation, and drafting and 
+revising the manuscript. PH was responsible for conception and design, publication 
+screening, acquisition of data, data interpretation, and reviewing and revising the 
+manuscript. TOS was responsible for conception and design, data interpretation, a

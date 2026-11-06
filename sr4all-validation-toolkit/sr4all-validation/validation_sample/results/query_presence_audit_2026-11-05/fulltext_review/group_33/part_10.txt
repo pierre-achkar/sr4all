@@ -1,0 +1,200 @@
+ﬁbrillation (AF) and/or rheumatic
+heart disease (RHD) population. In the third International
+Stroke Trial (IST-3), pre-existing WML was found to increase
+the risk of sICH (
+Wardlaw et al., 2015 ). In addition to sICH, the
+increased risk of other subtypes of HT in patients with stroke
+complicated with WML was also mentioned.
+Nighoghossian
+et al. (2016) retrospectively analyzed the association between
+WML and PH in elderly patients and presented a positive
+result, and this result was in accordance with
+Shi et al. (2012)
+who found that the rate of PH was two times as high in
+patients with moderate-to-severe LA than in those without.
+Pre-existing brain lesions including WML were also found to
+help predict rICH (
+Drelon et al., 2020 ). However, some reports
+demonstrated the opposite results. For example, a study based
+on 206 patients with ischemic stroke reported that WML did
+Frontiers in Aging Neuroscience /zero.tnum/seven.tnum frontiersin.org
+
+[W4310086140 PDF PAGE 8]
+Wang et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fnagi./two.tnum/zero.tnum/two.tnum/two.tnum./one.tnum/zero.tnum/five.tnum/three.tnum/one.tnum/four.tnum/nine.tnum
+TABLE /one.tnum Relation between the distribution of white matter lesion (WML) and hemorrhagic transformation (HT).
+Study Sample WMH localization Results OR and 95%CI or
+other summary
+measure
+Comment
+Wei et al. (2017) 251 DWMH and PWMH rating DWML + PVH > 1: 2.850 (1.322–6.143) The presence of periventricular or ante rior LA on MRI
+PWML+ DWMH > 0: 2.029
+(1.021–4.029)
+increases the risk of HT
+Neumann-Haefelin et al.
+(2006)
+363 DWMH and PWMH rating DWML + 8 DWML patients (8 in 62)
+had sICH
+LA of the DWM is the important aspect conferring an
+increased risk for sICH
+PWML– 0 PWML patient (0 in 27) had
+sICH
+Shi et al. (2012) 105 DWMH and PWMH rating DWML +
+PWML–
+DWML: 3.43 (1.23–9.57) Patients with only periventricular LA d id not have a
+higher rate of parenchymal hematoma. Moderate or
+severe LA in the DWM was an independent predictor
+of hemorrhagic transformation
+Fiehler et al. (2009) 100 DWMH and PWMH rating DWML– DWML: sensitivity: 0.41
+speciﬁcity: 0.81
+The DWML score and the sum of both ratings were not
+substantially more predictive; the PVML rating seems
+PWML+ PWML: sensitivity: 0.86
+speciﬁcity: 0.65
+to be suﬃcient in order to save time in the acute
+situation
+Chen et al. (2018) 503 DWMH and PWMH DWML + DWML: 1.868 (1.142–3.056) Not only the corrected deep periven tricular
+volume (per 10 ml) white matter hyperintensity volume, but the cor rected
+PWML+ PWML: 1.912 (1.320–2.770)
+(per 10 ml)
+deep white hyperintensity volume was associated with
+the occurrence of rICH
+Jung et al. (2012) 292 PWMH rating PWML + PWML: sICH: 0.92 (mean
+Fazekas score)
+No sICH: 0.89 (mean Fazekas
+score)
+Both the Fazekas and the Scheltens scores revealed
+white matter lesions in the periventricular region to be
+most predictive for clinical outcome and survival
+Tanaka et al. (2020) 455 DWI-ASPECTS + W DWML + DWI-ASPECTS + W: p <
+0.001
+DWI-ASPECTS + W predicted sICH more accurately
+than CT-ASPECTS and DWI-ASPECTS in patients
+who received intravenous rt-PA for acute ischemic
+stroke.
+Qiu et al. (2021) 254 Periventricular TPP and
+subcortical TPP
+Periventricular
+TTP+
+Length of periventricular
+TTP: 4.4740 (1.624–13.837)
+Chronic white matter hypoperfusion was
+independently associated with intracranial hemorrhage
+after thrombolysis. The best discriminating value of
+periventricular TTP was also determined.
++ , relation between WML distribution and ICH; –, no relation betwee n WHM distribution and ICH.
+PVH, periventricular hyperintensity; PWMH, periventricular wh ite matter hyperintensity; DWMH, deep white matter hyperinte nsity; DWI-ASPECTS + W, DWI-ASPECTS including
+early ischemic changes in deep white matter; LA, leukoaraiosis; TTP , transit time to the peak.
+not increase the risk of HT including PH after thrombolysis
+(
+Costello et al., 2012 ). To clarify whether WML at baseline
+might indicate a high risk of HT in patients with ischemic
+stroke, especially after IVT treatment, several meta-analyses
+were already conducted. The presence of WML may increase the
+risk of post-thrombolysis intracerebral hemorrhage in patients
+with ischemic stroke (
+Lin et al., 2016 ). However, Lin et al. (2016)
+failed to classify overall HT and sICH as diﬀerent outcomes.
+Another meta-analysis concluded that the presence of WML
+might increase the risk of post-IVT sICH (
+Charidimou et al.,
+2016). The importance of the severity of WML was also noted
+by prior systematic reviews. Kongbunkiat et al. (2017) reported
+that both the presence and greater severity of WML were related
+to a high risk of sICH. Nevertheless, the severity of WML did not
+inﬂuence the incidence of sICH in patients with acute ischemic
+stroke administered with EVT (
+Huo et al., 2020 ). A recent study
+exploring the association between the severity of WML and
+post-reperfusion outcomes including HT with subgroup analysis
+for the treatment of patients (IVT and/or EVT) suggested the
+eﬃciency of moderate-to-severe WML on the baseline as a
+predictor for sICH, especially after IVT in acute ischemic stroke
+(
+Rastogi et al., 2022 ). Our ﬁndings, which show a correlation
+between the presence of both WML and moderate-to-severe
+WML and an increased risk of HT and sICH, is consistent
+Frontiers in Aging Neuroscience /zero.tnum/eight.tnum frontiersin.org
+
+[W4310086140 PDF PAGE 9]
+Wang et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fnagi./two.tnum/zero.tnum/two.tnum/two.tnum./one.tnum/zero.tnum/five.tnum/three.tnum/one.tnum/four.tnum/nine.tnum
+FIGURE /five.tnum
+Dose–response meta-analysis of the association between WML andHT/sICH. (A) WML severity and HT. (B) WML severity and sICH.
+with the results of these meta-analyses. According to our meta-
+analysis and the dose–response analysis, patients with ischemic
+stroke are at a higher risk of HT and sICH in anticipation of an
+increase in the severity of WML. One unexpected ﬁnding is a
+weak association of severe WML with HT. It is likely due to the
+already increased risk of HT in patients with moderate WML
+as we conducted the meta-analysis of binary data (severe WML
+vs. non-to-moderate WML). This explanation is consistent with
+the result of the dose–response analysis, which showed that the
+risk of HT increased relatively slightly from moderate WML
+to severe WML. Notably, data from
+Benson et al. (2021) had
+a signiﬁcant inﬂuence on a weak association between severe
+WML and HT as the incidence of HT was unexpectedly the
+lowest in patients with severe WML in a retrospective study. The
+anomaly might suﬀer from inadequate sample size. In addition,
+we propose that the grading scale for the severity of WML was
+also a possible confounding factor as
+Benson et al. (2021) used
+the Leukoaraiosis-ASPECTS (L-ASPECTS) scale based on CT
+rather than the traditional Fazekas Scale based on MRI.
+In our subgroup analysis, the type of treatments adopted
+in patients with ischemic stroke was a dominant variable. A
+broadly signiﬁcant association between WML and the risk of
+HT was found in the IVT group, and the result that moderate-
+to-severe WML may be a risk factor for HT in patients with
+EVT, which is in agreement with that obtained by
+Rastogi et al.
+(2022). Previous studies demonstrated that moderate-to-severe
+WML might increase the risk of sICH after IVT ( Charidimou
+et al., 2016 ; Lin et al., 2016 ), which is consistent with the current
+ﬁndings. We also found a more prominent association between
+moderate-to-severe WML and sICH in the EVT treatment
+subgroup, which is consistent with a previous study that found
+deep white matter on diﬀusion-weighted imaging (DWI) to be a
+predictor of sICH after EVT (
+Hao et al., 2019 ). Nevertheless, this
+ﬁnding contradicts a recent study that found moderate-to-severe
+WML to be associated with sICH only in patients receiving
+IVT rather than EVT (
+Rastogi et al., 2022 ). As mechanical
+thrombectomy (MT) has become the standard treatment in
+acute ischemic stroke secondary to a LVO, the majority of the
+studies in our meta-analysis that adopt EVT as the treatment
+were based on the LVO population. The incidence of sICH
+was reported to be higher with EVT in LVO ischemic stroke
+than with IVT in acute ischemic stroke according to previous
+clinical trials (
+Hacke et al., 2008 ; Goyal et al., 2016 ). Therefore,
+it could conceivably be explained that EVT treatment already
+indicated a higher risk of intracerebral hemorrhage than IVT in
+our meta-analysis. In addition, the results obtained from
+Huo
+et al. (2020) that severe WML was not associated with sICH
+after EVT diﬀered from the ﬁndings presented here. Another
+possible explanation for the inconsistency with the result of the
+prior meta-analysis is that certain research classifying WML into
+VSS≤ 4 and VSS > 4 (
+Palumbo et al., 2007 ; Guo et al., 2019 ;
+Luijten et al., 2021 ) were pooled in the severe WML vs. non-to-
+moderate group in our study, while the research of Rastogi et al.
+(2022) only dichotomized the severity of WML into moderate-
+to-severe WML vs. non-to-mild WML. The presence of WML
+was found to increase the risk of spontaneous HT. This result has
+been unable to demonstrate that the risk of post-antithrombotic
+HT is higher than that of spontaneous HT, and it can possibly
+be due to the relatively small number of studies on spontaneous
+HT pooled in the meta-analysis and the lack of quantiﬁcation of
+the severity of WML. However, these ﬁndings in the subgroup
+analysis cannot determine whether patients with ischemic stroke
+complicated with the corresponding severity of WML can
+beneﬁt from IVT or EVT due to the lack of patients in which
+IVT or EVT is withheld. In addition to treatments, imaging used
+in studies was also a possible confounding factor. A previous
+meta-analysis reported that the association between WML and
+the outcomes of intracerebral hemorrhage was signiﬁcant in the
+Frontiers in Aging Neuroscience /zero.tnum/nine.tnum frontiersin.org
+
+[W4310

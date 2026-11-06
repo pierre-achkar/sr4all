@@ -1,0 +1,143 @@
+was 3.54 months (95% CI, 3.17‑3.90 months), with 
+moderate heterogeneity (I²=56.6%; P=0.006) ( Fig. 4A). 
+The funnel plot ( Fig. 4B) and Egger's regression analysis 
+(Table IV) for PFS indicated no publication bias, confirming 
+the robustness of the findings. Meta‑regression analysis 
+was performed using eight covariates: DLL3 inhibitor type, 
+year, region, age, sex, combination with immune checkpoint 
+inhibitors, combination with dexamethasone and study 
+design. The results indicated no statistically significant 
+differences among the P‑values of these variables (Table V). 
+Subgroup analysis revealed that the median PFS for patients 
+receiving combined immunotherapy was 4.2 months (95% 
+CI, 3.46‑4.94), while the median PFS for patients receiving 
+monotherapy DLL3 inhibitors was 3.36 months (95% CI, 
+2.99‑3.72) (Fig. 4C).
+OS. A total of 7 studies reported OS. Using a random‑effects 
+model, the median OS was 6.54 months (95% CI, 
+5.30‑7.79 months) ( Fig. 5A). Significant heterogeneity was 
+present (I²=87.5%), prompting meta‑regression and subgroup 
+analyses to explore potential sources. In the meta‑regression, 
+eight variables were evaluated: DLL3 inhibitor type, year, 
+region, age, sex, combination with immune checkpoint 
+inhibitors, combination with dexamethasone and study design. 
+The meta‑regression indicated that the publication year was 
+statistically significant (Table  V). A sensitivity analysis 
+using the leave‑one‑out method revealed that excluding the 
+study by Johnson  et al  (18) from 2021 significantly reduced 
+heterogeneity, with the I² value decreasing from 87.5 to 35.1%. 
+Table I. Methodological index for non‑randomized studies.
+First author, year Q1 Q2 Q3 Q4 Q5 Q6 Q7 Q8 Scorea (Refs.)
+Mansfield et al, 2021 2 2 2 2 0 2 2 2 14 (31)
+Blackhall et al, 2021 2 2 2 2 0 2 2 2 14 (17)
+Morgensztern et al, 2019 2 2 2 2 0 2 2 2 14 (20)
+Spigel et al, 2017 2 2 2 2 0 2 2 0 12 (32)
+Calvo et al, 2021 2 2 2 2 0 2 1 2 13 (33)
+Borghaei et al, 2022 2 2 2 2 0 2 2 0 12 (34)
+Udagawa et al, 2019 2 2 2 2 0 2 2 1 13 (35)
+Johnson et al, 2021 2 2 2 2 0 2 2 2 14 (18)
+Paz‑Ares et al, 2023 2 2 2 2 0 2 2 0 12 (36)
+Paz‑Ares et al, 2023 2 2 2 2 0 2 2 0 12 (37)
+Pietanza et al, 2015 2 2 2 2 0 2 2 0 12 (38)
+Malhotra et al, 2021 2 2 2 2 0 2 2 1 13 (39)
+Ahn et al, 2023 2 2 2 2 0 2 2 2 14 (13)
+Choudhury et al, 2023 2 2 2 2 0 2 2 0 12 (14)
+Owonikoko et al, 2021 2 2 2 2 0 2 2 0 12 (40)
+Rudin et al, 2017 2 2 2 2 0 2 1 2 13 (10)
+Champiat et al, 2022 2 2 2 2 0 2 2 1 13 (41)
+Champiat et al, 2023 2 2 2 2 0 2 2 0 12 (12)
+Owonikoko et al, 2021 2 2 2 2 0 2 1 1 12 (15)
+Wermke et al, 2023 2 2 2 2 0 2 2 2 14 (16)
+Kuboki et al, 2023 2 2 2 2 0 2 2 0 12 (42)
+aThe items are scored 0 (not reported), 1 (reported but inadequate) or 2 (reported and adequate). Q1, a clearly stated aim: The question 
+addressed should be precise and relevant in light of the available literature; Q2, inclusion of consecutive patients: All patients potentially fit for 
+inclusion (satisfying the criteria for inclusion) have been included in the study during the study period (no exclusion or details about the reasons 
+for exclusion); Q3, prospective collection of data: Data were collected according to a protocol established before the beginning of the study; 
+Q4, endpoints appropriate to the aim of the study: Unambiguous explanation of the criteria used to evaluate the main outcome, which should 
+be in accordance with the question addressed by the study. Also, the endpoints should be assessed on an intention‑to‑treat basis; Q5, unbiased 
+assessment of the study endpoint: Blind evaluation of objective endpoints and double‑blind evaluation of subjective endpoints. Otherwise, the 
+reasons for not blinding should be stated; Q6, follow‑up period appropriate to the aim of the study: The follow‑up should be sufficiently long to 
+allow the assessment of the main endpoint and possible adverse events; Q7, loss to follow up <5%: All patients should be included in the follow 
+up. Otherwise, the proportion lost to follow up should not exceed the proportion experiencing the major endpoint; Q8, prospective calculation 
+of the study size: Information of the size of detectable difference of interest with a calculation of 95% confidence interval, according to the 
+expected incidence of the outcome event, and information about the level for statistical significance and estimates of power when comparing 
+the outcomes.
+
+[W4408295411 PDF PAGE 5]
+ONCOLOGY LETTERS  29:  228,  2025 5
+This suggests that the study by Johnson  et al  (18) contrib ‑
+uted substantially to the heterogeneity, and its exclusion 
+enhanced the consistency of the results ( Fig. 5D). Although 
+the meta‑regression suggested that publication year might be 
+a source of heterogeneity, subgroup analysis (Fig. 5C) showed 
+marked heterogeneity within the 2021 group, indicating that 
+the difference in publication year may not directly explain the 
+OS variation. It is more likely that the inherent limitations 
+of single‑arm studies and their designs contributed to the 
+observed heterogeneity.
+Safety and AEs. All studies reporting trAEs were reviewed. 
+Common AEs associated with DLL3 inhibitors included CRS, 
+respiratory difficulty, pleural effusion, peripheral edema, 
+thrombocytopenia and bone marrow suppression. In the anal ‑
+ysis, 11 studies reported CRS, with a combined incidence of 
+Figure 1. Flow chart of the single‑arm meta‑analysis.
+
+
+[W4408295411 PDF PAGE 6]
+SU et al:  SAFETY AND EFFICACY OF DLL3 INHIBITORS IN SOLID TUMORS6
+Table II. Characteristics of clinical trials included in the single‑arm meta‑analysis.
+First author, year Phase Design Type of tumors Type of inhibitors Total samples Age, years (range) Male sex, n (%) (Refs.)
+Mansfield et al, 2021  I/II Prospective NEC, MTC, GBM,  Rova‑T 145 61 (28‑84) 126 (63) (31)
+   MM, other solid
+Blackhall et al, 2021  III RCT SCLC Rova‑T 287/129 63 (36‑85)/64 (32‑85) 191 (65)/86 (58) (17)
+Morgensztern et al, 2019  II Prospective SCLC Rova‑T 339 62 (24‑86) 170 (50) (20)
+Spigel et al, 2017  I Prospective SCLC Rova‑T 60 NA NA (32)
+Calvo et al, 2021  I Prospective SCLC Rova‑T 31 62 (40‑77) 13 (42) (33)
+Borghaei et al, 2022  I Prospective SCLC Tarlatamab (AMG 757) 102 63 (32‑80) NA (34)
+Udagawa et al, 2019  I Prospective SCLC Rova‑T 29 68 (47‑86) 22 (76) (35)
+Johnson et al, 2021  III RCT SCLC Rova‑T 372/376 64 (39‑94)/64 (38‑85) 258 (69)/239 (64) (18)
+Paz‑Ares et al, 2023  II Prospective SCLC Tarlatamab (AMG 757) 100/88 NA NA (36)
+Paz‑Ares et al, 2023  I Prospective SCLC Tarlatamab (AMG 757) 107 63 (32‑80) 61 (57) (37)
+Pietanza et al, 2015  I Prospective SCLC Rova‑T 79 62 (44‑81) NA (38)
+Malhotra et al, 2021  I/II Prospective SCLC Rova‑T 30/12 61.5 (48‑79)/62 (25‑72) 16 (53)/7 (58) (39)
+Ahn et al, 2023  II Prospective SCLC Tarlatamab (AMG 757) 100/88 64 (35‑82)/62 (34‑80) 72 (72)/62 (70) (13)
+Choudhury et al, 2023  I/II Prospective NEPC, other NEC,  HPN 328 44 NA NA (14)
+   SCLC
+Owonikoko et al, 2021  I Prospective SCLC Tarlatamab (AMG 757) 40 64 (44‑80) NA (40)
+Rudin et al, 2017  I Prospective SCLC Rova‑T 74 61 (55‑69) 42 (57) (10)
+Champiat et al, 2022  I Prospective SCLC Tarlatamab (AMG 757) 106 NA NA (41)
+Champiat et al, 2023  I Prospective SCLC Tarlatamab (AMG 757) 46/136 62 (32‑80)/62 (32‑80) NA (12)
+Owonikoko et al, 2021  I Prospective SCLC Tarlatamab (AMG 757) 64 64 (32‑80) NA (15)
+Wermke et al, 2023  I Prospective SCLC BI 764532 90 60 (32‑78) NA (16)
+Kuboki et al, 2023  I Prospective epNEC, LCNEC,  BI 764532 107 60 (32‑79) 57 (53) (42)
+   SCLC, other solid
+SCLC, small cell lung cancer; NEC, neuroendocrine carcinoma; LCNEC, large cell neuroendocrine carcinoma; epNEC, extrapulmonary neuroendocrine carcinoma; RCT, randomized controlled trial; 
+NEPC, neuroendocrine prostate cancer; Rova‑T, rovalpituzumab tesirine; MTC, medullary thyroid cancer; GBM, glioblastoma; MM, multiple myeloma.
+
+[W4408295411 PDF PAGE 7]
+ONCOLOGY LETTERS  29:  228,  2025 7
+Table III. Original data extracted from included clinical trials.
+   Objective Disease Median progression‑ Median
+ Total  response control free survival, overall survival,
+First author, year samples Intervention rate, n (%) rate, n (%) months (95% CI) months (95% CI) (Refs.)
+Mansfield et al, 2021  145 Rova‑T 0.3 mg/kg, Q6w 15 (10.3) NA 4.1 (2.8‑4.8) 7.1 (5.6‑9.7) (31)
+Blackhall et al, 2021  287/129 Rova‑T 0.3 mg/kg, d1 ivgtt, Q42d vs. topotecan 42 (14.6)/ 103 (35.8)/ 3.0 (2.9‑3.6)/ 6.3 (5.6‑7.3)/ (17)
+  1.5 mg/m2, d1‑5 ivgtt, Q21d 27 (20.9) 56 (43.4) 4.3 (3.8‑5.4) 8.6 (7.7‑10.1)
+Morgensztern et al, 2019  339 Rova‑T 0.3 mg/kg, Q6w 42 (12.4) 236 (69.6) 3.5 (3.0‑3.9) 5.6 (4.9‑6.1) (20)
+Spigel et al, 2017  60 Rova‑T 0.2‑0.4 mg/kg, Q3w or Q6w 11 (18.3) 41 (68.3) NA NA (32)
+Calvo et al, 2021  31 Rova‑T 0.3 mg/kg, Q6W DEX 8 mg bid po 7 (24.1) 22 (70.9) 3.5 (2.4‑4.7) NA (33)
+Borghaei et al, 2022  102 AMG757 0.003‑100 mg, Q2w 25 (24.5) 52 (50.9) 3.5 (2.1‑4.6) 12.3 (7.2‑NE) (34)
+Udagawa et al, 2019  29 Rova‑T 0.2 or 0.3 mg/kg, Q6w, DEX 8 mg bid po 3 (10.3) 16 (55.1) 2.2 (1.2‑3.0) 5.8 (4.1‑9.2) (35)
+Johnson et al, 2021  372/376 Rova‑T 0.3 mg/kg, Q6w, DEX 8 mg 28 (7.5)/ NA 3.7 (2.9‑4.0)/ 8.8 (7.95‑9.53)/ (18)
+  bid po vs. placebo, Q6w, DEX 8 mg bid po 14 (3.7)  1.4 (1.4‑1.5) 9.9 (8.6‑11)
+Paz‑Ares et al, 2023  100/88 AMG 757 10 mg, Q2w vs. AMG 757 10 mg, Q2w 40 (40)/ 70 (70)/55 4.9 (2.9‑6.7)/ 14.3 (10.8‑NE)/ (36)
+   28 (31.8) (62.5) 3.9 (2.6‑4.4) NE (12.4‑NE)
+Paz‑Ares et al, 2023  107 AMG 757 0.003, 0.01, 0.03, 0.1,  27 (25.2) 55 (51.4) 3.7 (2.1‑5.4) 13.2 (10.5‑NE) (37)
+  0.3, 1, 3, 10, 30, 100 mg, Q2w
+Pietanza et al, 2015  79 Rova‑T 0.05, 0.1, 0.2, 0.4, 0.8 mg/kg, Q2w 35 (44.3) NA NA NA (38)
+Malhotra et al, 2021  30/12 Rova‑T 0.3 mg/kg, Q6w, DEX 8 mg bid po + 4th w 8 (26.6)/ NA 4.8 (3.2‑5.3)/ 7.4 (5.0‑9.1)/ (39)
+  nivolumab 360 mg, Q3w + 10th w nivolumab 4 (33.3)  4.1 (1.3‑6.0) 11.0 (2.3‑17.0)
+  480 mg, Q4w vs. Rova‑T 0.3 mg/kg, Q6w,
+  DEX 8 mg bid po + 4th w nivolumab 360 mg,
+  Q3w + 10th w nivolumab 480 mg, Q4w
+Ahn et al, 2023  100/88 AMG 757 10 mg, Q2w vs. 

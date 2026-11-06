@@ -1,0 +1,218 @@
+er. California, CA:
+Alliant International University (2017). 194 p.
+33. Raﬀerty D, Tidman L, Ekas NV. Parenting experiences of fat hers of children
+with autism spectrum disorder with or without intellectual dis ability. J Intellect
+Disabil Res.(2020) 64:463–74. doi: 10.1111/jir.12728
+34. Di Renzo M, Guerriero V , Zavattini GC, Petrillo M, Racinaro L, di
+Castelbianco FB. Parental attunement, insightfulness, and a cceptance of child
+diagnosis in parents of children with autism: clinical implicati ons. Front Psychol.
+(2020) 11:1849. doi: 10.3389/fpsyg.2020.01849
+35. Crane L, Davidson I, Prosser R, Pellicano E. Understanding psychiatrists’
+knowledge, attitudes and experiences in identifying and suppor ting their
+patients on the autism spectrum: online survey. BJPsych Open. (2019) 5:e33.
+doi: 10.1192/bjo.2019.12
+36. McCormack G, Dillon AC, Healy O, Walsh C, Lydon S. Primary
+care physicians’ knowledge of autism and evidence-based inte rventions for
+autism: a systematic review. Rev J Autism Dev Disord. (2020) 7:226–
+41. doi: 10.1007/s40489-019-00189-4
+37. Anderberg E, South M. Predicting parent reactions at diag nostic
+disclosure sessions for autism. J Autism Dev Disord. (2021) 51:3533–
+46. doi: 10.1007/s10803-020-04817-5
+38. Brown HM, Stahmer AC, Dwyer P , Rivera S. Changing the stor y: how
+diagnosticians can support a neurodiversity perspective from t he start. Autism.
+(2021) 25:1171–4. doi: 10.1177/13623613211001012
+Frontiers in Psychiatry /one.tnum/two.tnum frontiersin.org
+
+END REVIEW W4313561074
+
+
+REVIEW W4317686413
+TITLE: What variables should inform needle length choice for deltoid intramuscular injection? A systematic review
+SOURCE_NOTES: [{"annotator": "mert_okur", "field": "keywords_used", "comment": "there is a reference to \"search strategy provided in full in online supplemental\nmaterial A)\" \n\nBut terms cant be found in provided pdf"}]
+EXTRACTION_ERROR: None
+
+[W4317686413 PDF PAGE 1]
+1
+Kearns C, et al. BMJ Open 2023;13:e063530. doi:10.1136/bmjopen-2022-063530
+Open access 
+What variables should inform needle 
+length choice for deltoid intramuscular 
+injection? A systematic review
+Ciléin Kearns    ,1 Claire Houghton,1 Emily Dickinson,1,2  Lee Hatter    ,1 
+Pepa Bruce, 1 Srinidhi Krishnamoorthy,1,2  Mark Weatherall,3 Thomas Hills,1,4 
+Marjan Doppen, 1 Seyed Ali Mirjalili,5 Richard Beasley    1
+To cite: Kearns C, Houghton C, 
+Dickinson E, et al.  What 
+variables should inform needle 
+length choice for deltoid 
+intramuscular injection? A 
+systematic review. BMJ Open 
+2023;13:e063530. doi:10.1136/
+bmjopen-2022-063530
+ ► Prepublication history and 
+additional supplemental material 
+for this paper are available 
+online. To view these files, 
+please visit the journal online 
+(http://dx.doi.org/10.1136/ 
+bmjopen-2022-063530).
+Received 01 April 2022
+Accepted 05 January 2023
+1Medical Research Institute of 
+New Zealand, Wellington, New 
+Zealand
+2Capital and Coast District 
+Health Board, Wellington, New 
+Zealand
+3University of Otago Wellington, 
+Wellington, New Zealand
+4Auckland District Health Board, 
+Auckland, New Zealand
+5University of Auckland, 
+Auckland, New Zealand
+Correspondence to
+Dr Ciléin Kearns;  
+ cilein. kearns@ mrinz. ac. nz
+Original research
+© Author(s) (or their 
+employer(s)) 2023. Re- use 
+permitted under CC BY- NC. No 
+commercial re- use. See rights 
+and permissions. Published by 
+BMJ.
+ABSTRACT
+Objectives (1) Assess the distribution of skin- to- deltoid- 
+muscle distance (SDMD) at the deltoid intramuscular (IM) 
+injection site; (2) its relationship with demographic and 
+anthropometric variables and (3) Consider the findings in 
+relation to clinical guidance on IM injection, such as COVID- 19 
+vaccines.
+Design Systematic review using the Preferred Reporting Items 
+for Systematic Reviews and Meta- Analyses guidelines.
+Data sources MEDLINE, EMBASE,  ClinicalTrials. gov, Cochrane 
+Library, CINAHL and SCOPUS between June and July 2021 
+with no publication date limit.
+Eligibility criteria Studies reporting measurements of the 
+SDMD in living adults aged 16 years and older, at the deltoid IM 
+injection site, published in English were considered.
+Data extraction and synthesis Two independent reviewers 
+performed each stage of screening, data extraction and 
+quality assessments using the Joanna Briggs Institute Critical 
+Appraisal Checklist for analytical cross sectional studies.
+Results 16 105 papers were identified, of which 11 studies 
+were suitable for review, representing 1414 participants. 
+Heterogeneity in the definition of the deltoid IM injection site, 
+locations measured and methods of measurement precluded 
+meta- analysis. Evidence from ultrasound SDMD measurements 
+demonstrated some patients in all but ‘underweight’ body 
+mass index (BMI) categories, may require needles longer than 
+25 mm for successful IM injection. Calliper measurements 
+overestimated SDMD compared with ultrasound. Female sex, 
+higher BMI categories and greater weight in women were 
+associated with greater SDMD.
+Conclusions The reviewed evidence was insufficient to inform 
+definitive needle length ‘cut points’ for IM injection based on 
+demographic or anthropomorphic variables. Contemporary 
+clinical guidance currently based on this evidence, including 
+the site of injection and choice of needle length, may result in 
+subcutaneous administration in a small proportion of recipients, 
+particularly if obese or of female sex.
+PROSPERO registration number CRD42021264625.
+INTRODUCTION
+The deltoid muscle is a common site for 
+intramuscular (IM) injection. Underpene-
+tration of the needle risks failed delivery of 
+drugs, reduced immunogenic response to 
+vaccinations1–3 and can cause adverse events 
+such as local tissue reaction, abscesses and 
+granuloma formation. 2 4–6  Reaching and 
+adequately penetrating deltoid muscle for IM 
+delivery of drugs is of particular importance 
+amidst contemporary global efforts to vacci-
+nate against COVID- 19. As it is not routine 
+clinical practice to confirm IM injections 
+have been delivered into the deltoid muscle, 
+or indeed to assess vaccine response, health-
+care professionals rely on clinical guidance to 
+ensure IM delivery.
+The skin- to- deltoid- muscle distance 
+(SDMD) that must be penetrated for IM 
+injection can vary with age, sex, weight, body 
+mass index (BMI) and other characteristics 
+such as arm dominance. 7–9 Many countries 
+adopt protocols that consider some of these 
+factors when advising how to choose needle 
+length in national IM injection and vaccina-
+tion guidelines, but recommendations are 
+heterogenous.2 10–12
+This study is a systematic review of the distri-
+bution of SDMD and its relationship with 
+demographic and anthropometric variables 
+in adults which could help inform appro-
+priate needle length for IM injection. We 
+consider the findings in relation to clinical 
+guidance on IM injection, and the regulatory 
+STRENGTHS AND LIMITATIONS OF THIS STUDY
+ ⇒ A systematic search of six major electronic data-
+bases reported per the Preferred Reporting Items for 
+Systematic Reviews and Meta- Analyses guidelines.
+ ⇒ Inclusion of additional data and clarification was 
+provided by authors of some of the reviewed publi-
+cations, allowing further interpretation of previously 
+published work and comparison between studies 
+not previously possible.
+ ⇒ Heterogeneity in the definition of the deltoid intra-
+muscular (IM) injection site, locations measured and 
+methods of measurement precluded meta- analysis.
+ ⇒ This review only considered studies relating to 
+adults, the deltoid IM injection site and which were 
+published in English.
+
+[W4317686413 PDF PAGE 2]
+2
+Kearns C, et al. BMJ Open 2023;13:e063530. doi:10.1136/bmjopen-2022-063530
+Open access 
+requirement for the IM delivery of current COVID- 19 
+vaccines.
+METHODS
+The Preferred Reporting Items for Systematic Reviews 
+and Meta- Analyses guidelines13 14  were used to report 
+the process and results. A search strategy was developed 
+with a University Medical Librarian to identify literature 
+reporting SDMD in adults at the deltoid IM injection 
+site, and registered on PROSPERO (CRD42021264625). 
+Studies were reviewed for reports of associations between 
+SDMD and anthropomorphic or demographic vari-
+ables, deltoid muscle point of measurement, methods 
+of measurement and limits of agreement between radio-
+logic and physical measures. Inclusion criteria were non- 
+experimental or experimental clinical trials, in living 
+humans aged 16 years or older, reporting SDMD at the 
+site of IM injection using radiologic or physical evalua-
+tion. Exclusion criteria included cadaveric studies, only 
+reporting participants aged under 16 years, if a publica-
+tion full text was not available in English or unable to be 
+located.
+MEDLINE, EMBASE,  ClinicalTrials. gov, Cochrane 
+Library, CINAHL and SCOPUS were searched between 27 
+June 2021 and 8 July 2021, with no publication date limit 
+(search strategy provided in full in online supplemental 
+material A). Search results were uploaded to Covidence 
+to remove duplicates and manage screening,15 which was 
+performed independently by two reviewers. Disagree-
+ments were discussed until a consensus reached, with 
+arbitration by a third reviewer where necessary. The same 
+method was used for full- text review and data extraction. 
+Quality assessment was done using the Joanna Briggs 
+Institute Critical Appraisal Checklist for analytical cross 
+sectional studies.16 Two reviewers independently deter-
+mined if eight quality criteria were present, decided an 
+overall risk of bias, made prose notes, and gave an overall 
+recommendation for inclusion or exclusion (online 
+supplemental material B). Discordances were reviewed 
+by discussion, and a consensus decision reached. Meta- 
+analysis was precluded by heterogenous study sample 
+characteristics, anatomical sites measured and measure-
+ment methods. Where appropriate, point estimates and 
+CIs for particular comparisons for individual studies, are 
+estimated from report

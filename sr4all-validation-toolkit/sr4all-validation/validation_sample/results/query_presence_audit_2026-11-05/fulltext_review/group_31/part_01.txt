@@ -1,0 +1,248 @@
+me(s); 
+study location; sample description; observable measures; 
+time period of study data collection; data on retention 
+or engagement in HIV healthcare services, medication 
+adherence, and viral suppression; and adaptations in HIV 
+healthcare delivery models made to overcome challenges 
+introduced by the COVID-19 pandemic. After abstraction, 
+studies were organized by the Centers for Disease Con -
+trol (CDC) and Prevention HIV surveillance regions and 
+by study sample characteristics (e.g., economically disad -
+vantaged, older adults, etc.) to facilitate comparisons of 
+COVID-19 impacts.
+Quality of evidence assessment
+The quality of evidence included in this review was assessed 
+independently by two study researchers (DM, OO, BD, or 
+SES) using the Mixed Methods Appraisal Tool (MMAT) 
+[13]. This tool is designed to be used for systematic litera -
+ture reviews that include studies with qualitative, quanti -
+tative, and mixed methods approaches [ 13]. Studies are 
+assessed across five different criteria depending on the study 
+type. These criteria include [13]:
+ ● Qualitative studies: adequacy of research approach 
+used, adequacy of data collection, appropriate deriva -
+tion of data, appropriate interpretation of data, coher -
+ence of data across sources.
+ ● Quantitative (randomized controlled trials) studies: 
+appropriate randomization, comparability of groups 
+at baseline, completeness of outcome data, blinding, 
+adherence of participants to intervention.
+ ● Quantitative (non-randomized) studies: representative -
+ness of the sample to target population, use of appro -
+priate measurements, completeness of outcome data, 
+accountment of confounders, intervention administered 
+as intended.
+ ● Quantitative descriptive studies: relevance of sampling 
+strategy, representativeness of the sample to target pop-
+ulation, use of appropriate measurements, low risk for 
+nonresponse bias, use of appropriate statistical analysis.
+Mixed methods studies: adequate rationale for study 
+design, appropriate integration of study compo -
+nents, appropriate interpretation of data, adequacy in 
+addressing divergencies in study data, adherence to 
+quality criteria for each method used.Any discrepan -
+cies that arose between the two reviewers during the 
+quality assessment process were discussed until con -
+sensus was reached.
+Statistical analysis
+Due to the heterogeneity of study data reported in this sys -
+tematic review, a meta-analysis was not conducted. The 
+results are instead presented according to thematic areas 
+present across studies.
+RESUL TS
+Study selection
+In total, the five database searches yielded 908 articles. After 
+de-duplication, a total of 607 article titles and abstracts 
+were screened. Five hundred and twenty-three studies were 
+excluded during title and abstract screening, and 84 under -
+went full text review. Two additional articles and one report 
+were later screened that were identified through the search 
+of organizational websites and grey literature and review of 
+included article citations. In total, 26 articles were included 
+in the review (Fig. 1).
+Methodological quality of the included studies
+Quality of evidence was assessed using the MMAT. The 
+one qualitative study identified in this review met all five 
+methodological quality criteria (Table 1). Of the twenty 
+quantitative descriptive studies (Table 2), most used a rel -
+evant sampling strategy for the research question (95%), 
+appropriate measurements (90%), and appropriate statisti -
+cal analyses based on the research question (90%). Nearly 
+three-quarters (70%) used a sample representative of the tar-
+get population and 40% had a low risk for nonresponse bias. 
+Of the five mixed methods studies (Table 3), all (100%) had 
+rationale for using a mixed methods design and integrated 
+and interpreted the different study components adequately. 
+Over half (60%) of the studies addressed inconsistencies in 
+the data and adhered to the criteria necessary for the meth -
+ods utilized.
+1 3
+346
+
+[W4289522482 PDF PAGE 4]
+AIDS and Behavior (2023) 27:344–357
+which is also disproportionately impacted by HIV [14]. Five 
+studies used data collected from a nationally representative 
+sample.
+Included studies primarily used convenience sampling 
+and recruited participants from various sources. Several 
+studies used survey responses or other data (e.g., from 
+electronic health records, interviews) from participants 
+who were previously or currently enrolled in clinical tri -
+als or other study cohorts or interventions (n = 12) [15–26] 
+or who were existing HIV clinic patients (n = 7) [27–33]. 
+Three studies recruited participants using social media [34–
+36], one study used participants who completed an separate 
+online survey that linked to a COVID-19 survey [ 37], and 
+Studies characteristics
+Descriptions of the study type, sample, sample size, and 
+study location can be found in Tables 1-3 and Supple -
+mentary Table 3. Most articles (n = 20) were quantitative, 
+non-experimental, descriptive studies and included cross-
+sectional and longitudinal surveys, a time series analysis, 
+and retrospective reviews of electronic health records or 
+other data sources. The articles also included mixed meth -
+ods studies (n = 5) and one qualitative study. Studies were 
+conducted at the city and state levels and included all four 
+U.S. CDC National HIV Surveillance System regions. 38% 
+of studies were conducted in the southern region of the U.S., 
+Table 1 Description and quality of evidence assessment for qualitative studies (n = 1)
+Quality of Evidence Assessmenta
+Study Reference Sample, Sample Size, 
+& Location
+Q1 Q2 Q3 Q4 Q5
+Rhodes et al. (2021) -Participants of the 
+weCare intervention 
+(n = 15)
+-North Carolina
+Y Y Y Y Y
+aMixed Methods Assessment Tool questions:
+Q1. Is the qualitative approach appropriate to answer the research question? Q2. Are the qualitative data collection methods adequate to address 
+the research question? Q3. Are the findings adequately derived from the data? Q4. Is the interpretation of results sufficiently substantiated by 
+data? Q5. Is there coherence between qualitative data sources, collection, analysis, and interpretation?
+Legend: Y-yes, N-no, ?-unclear
+Fig. 1 PRISMA flow diagram
+From: Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD, et al. The PRISMA 2020 statement: an updated guideline for 
+reporting systematic reviews. BMJ 2021;372:n71. doi: https://doi.org/10.1136/bmj.n71
+ 
+1 3
+347
+
+[W4289522482 PDF PAGE 5]
+AIDS and Behavior (2023) 27:344–357
+Two studies utilized data provided by Ryan White clinics one study recruited participants using mailing lists [ 38]. 
+Table 2 Description and quality of evidence assessment for quantitative descriptive studies (n = 20)
+Quality of Evidence 
+Assessmenta
+Study Reference Sample, Sample Size, & Location Q1 Q2 Q3 Q4 Q5
+Algarin et al. 
+(2020)
+-Older adults enrolled in a clinical trial (n = 16 PWH)
+-Miami, FL
+N ? Y N Y
+Bogart et al. 
+(2021)
+- Black Americans participating in an RCT (n = 101 PWH)
+-Los Angeles County, CA
+Y Y Y N Y
+Chen et al. 
+(2021)
+-Black MSM and transgender women enrolled in an existing study (n = 90 HIV+, n = 132 HIV-)
+-Chicago, IL
+Y Y ? N Y
+Cooley et al. 
+(2021)
+- Patients who were previous study enrollees (n = 133 HIV+, 54 HIV-)
+-St. Louis, MO
+Y Y ? N ?
+El-Nahal et al. 
+(2021)
+-Patients enrolled in an HIV clinical cohort with a scheduled visit (Pre-C19 n = 2,010; during 
+C19 n = 1,929)
+-Baltimore, MD
+Y Y Y Y Y
+Ennis et al. 
+(2021)
+-Patients from community healthcare clinics living with or at risk for HIV (n = 4,280 HIV+, 593 
+HIV-; 11,006 encounters)
+-Florida
+Y Y Y Y Y
+Fadul et al. 
+(2021)
+- Visits to an HIV clinic (n = 1,559 scheduled clinic visits, including new patients; 1,167 estab-
+lished patient visits)
+-Nebraska
+Y Y Y Y ?
+Genberg et al. 
+(2021)
+- Members of the AIDS Linked to the IntraVenous Experience cohort (n = 144 HIV+, 295 HIV-)
+-Baltimore, MD
+Y Y Y Y Y
+Hickey et al. 
+(2021)
+- Patients enrolled in POP-UP, a care model for PWH experiencing homelessness (n = 85)
+-San Francisco, CA
+Y ? Y Y Y
+Hochstatter et al. 
+(2020)
+- PWH and substance use disorder at HIV clinics (pre-C19 n = 194 weekly surveys, 60 individu-
+als; during C19, n = 148 weekly surveys, 43 individuals)
+-Wisconsin
+Y N Y ? Y
+Kalichman et al. 
+(2020)
+- PWH (ages 20–37 years) who were also positive for active substance use (n = 162) and cur-
+rently participating in an ART adherence study
+-Atlanta, GA
+Y Y Y Y Y
+Kalichman et al. 
+(2021)
+- African American/Black MSM, recruited through social media and snowball sampling (n = 148 
+HIV + men, 338 HIV- men)
+-Atlanta, GA
+Y Y Y N Y
+McGinnis et al. 
+(2021)
+- Members of the Veterans Aging Cohort Study living with HIV with at least one outpatient visit 
+(n = 27,674 records)
+-National
+Y Y Y Y Y
+McKay et al. 
+(2021)
+- LGBTQ individuals (age 18+) recruited on social media (n = 728 gay/bisexual men)
+-National
+Y Y Y N Y
+Nguyen et al. 
+(2021)
+- Individuals (> 50 years of age) who identified as being HIV+ (n = 100)
+-Palm Springs, CA
+Y N Y N Y
+Sanchez et al. 
+(2020)
+- Responses from the American Men’s Internet Survey (n = 1,051, 122 identified as HIV+)
+-National
+Y Y Y N Y
+Sorbera et al. 
+(2021)
+- PWH who needed ART renewals or follow-up during C19 (n = 211 patients)
+-Brooklyn, NY
+Y Y Y Y Y
+Spinelli et al. 
+(2020)
+- PWH on publicly funded insurance who attend a safety-net clinic (pre-C19 n = 4,153 visits; 
+during C19 n = 1,997 visits)
+-San Francisco, CA
+Y Y Y ? Y
+Tamargo et al. 
+(2021)
+- Participants from the Miami Adult Studies on HIV cohort (n = 183 HIV+, 116 HIV-)
+-Miami, FL
+Y Y Y ? Y
+Wion & Miller 
+(2021)
+- PWH (ages 18+) recruited via social media platforms (n = 85)
+-National
+Y Y Y N Y
+aMixed Methods Assessment Tool questions:
+Q1. Is the sampling strategy relevant to address the research questions? Q2. Is the sample representative of the target population? Q3. Are the 
+measurements appropriate? Q4. Is the risk of nonresponse bias low? Q5. Is the statistical analysis approp

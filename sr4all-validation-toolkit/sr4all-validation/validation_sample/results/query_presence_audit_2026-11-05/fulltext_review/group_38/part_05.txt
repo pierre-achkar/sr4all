@@ -1,0 +1,142 @@
+Two pooled studies [ 18,19], eight case-control studies [ 15,20–26] and one cohort
+study [27] evaluated the association between the maternal consumption of coffee dur-
+ing pregnancy and the risk of AL (Table 6).
+A cohort study [27] (N = 141,216/AL cases = 96) reported no statistically significant
+association between coffee intake during pregnancy and the risk of AL. In the present
+meta-analysis, including five studies [22,24–27] that compared the highest vs. the lowest
+consumption reported for coffee intake during pregnancy, we did not observe a statistically
+significant association for AL (OR = 1.36, 95% CI: 0.97–1.91).
+In a pooled study [ 19] of eight case-control studies (from published [ 20–24] and
+unpublished data), an increased risk of ALL in children whose mother’s coffee intake
+was more than two cups per day in comparison with no consumption (OR = 1.27, 95% CI:
+1.09–1.43, p = 0.005) was reported. A meta-analysis of five studies [20–24] comparing the
+highest vs. the lowest consumption reported a similar result (OR = 1.45, 95% CI: 1.12–1.89).
+Another pooled study [ 18] of eight case-control studies reported an increased risk
+of AML for children whose mothers consumed more than one cup per day (OR = 1.40,
+
+[W4362699264 PDF PAGE 21]
+Int. J. Environ. Res. Public Health 2023, 20, 5428 21 of 28
+95% CI: 1.03–1.92), and the risk increased with increments of one cup per day (OR = 1.18,
+95% CI: 1.01–1.39). A meta-analysis of four studies comparing the highest versus the
+lowest consumption for AML [20,22–24] reported that the association was not statistically
+significant (OR = 1.18, 95% CI: 0.66–2.13) (Table 11, Figure 2a–c).
+Int. J. Environ. Res. Public Health 2023, 20, x FOR PEER REVIEW 22 of 30 
+ 
+ 
+ 
+Figure 2. Meta-analysis of the association between the consumption of coffee during pregnancy 
+and (a) acute leukemia, (b) acute lymphoblastic leukemia and (c) acute myeloid leukemia. Note: 
+the individual estimate (OR) from the studies are represented by the red box, and the black dia-
+mond represents the estimate of the meta-analysis. 
+B. Tea 
+Two pooled analyses [18,19] and five case-control studies [15,20–24] evaluated the 
+association between maternal tea consumption during pregnancy and the risk of AL (Ta-
+ble 7). 
+Overall, the case control studies [15,20–24] did not report any statistically significant 
+associations between maternal tea intake during pregnancy and the risk of childhood AL. 
+Both pooled analyses looked for dose respon ses and interactions, but the findings were 
+null [18,19]. A recent cohort study also adde d tea intake to their model and found no as-
+sociation (data not reported) [27]. A meta-analysis of two [22,24] studies found no statis-
+tically significant association estimate for AL with the highest vs. the lowest consumption 
+of tea (OR = 0.97, 95% CI: 0.80–1.51) (Table 11). 
+C. Soft drinks 
+Three case-control studies [15,16,22] evaluated the association between maternal in-
+take of soft drinks (mostly cola beverages) and AL risk (Table 8). Only one case-control 
+study [22] reported an increased risk with the maternal intake of cola beverages and AL, 
+Figure 2. Meta-analysis of the association between the consumption of coffee during pregnancy
+and (a) acute leukemia [22,24–27], (b) acute lymphoblastic leukemia [20–24] and (c) acute myeloid
+leukemia [20–22,24]. Note: the individual estimate (OR) from the studies are represented by the red
+box, and the black diamond represents the estimate of the meta-analysis.
+B. Tea
+Two pooled analyses [18,19] and five case-control studies [15,20–24] evaluated the associ-
+ation between maternal tea consumption during pregnancy and the risk of AL (Table 7).
+Overall, the case control studies [15,20–24] did not report any statistically significant
+associations between maternal tea intake during pregnancy and the risk of childhood
+AL. Both pooled analyses looked for dose responses and interactions, but the findings
+were null [18,19]. A recent cohort study also added tea intake to their model and found
+no association (data not reported) [ 27]. A meta-analysis of two [ 22,24] studies found
+no statistically significant association estimate for AL with the highest vs. the lowest
+consumption of tea (OR = 0.97, 95% CI: 0.80–1.51) (Table 11).
+
+[W4362699264 PDF PAGE 22]
+Int. J. Environ. Res. Public Health 2023, 20, 5428 22 of 28
+C. Soft drinks
+Three case-control studies [15,16,22] evaluated the association between maternal intake
+of soft drinks (mostly cola beverages) and AL risk (Table 8). Only one case-control study [22]
+reported an increased risk with the maternal intake of cola beverages and AL, especially
+for AML. A meta-analysis of the three studies found marginal association estimates for
+AL with the highest vs. the lowest consumption of cola beverages (OR = 1.23, 95% CI:
+0.97–1.55) (Table 11).
+3.5. Nutrients
+3.5.1. Micronutrient Intake
+Four case-control studies [11,14,28,29] evaluated the association between maternal
+micronutrient intake and the risk of childhood AL (Table 9). Two of these studies from
+the NCCLS reported estimations with micronutrients from food only. One [11] found that
+the total glutathione level was inversely associated with ALL. Another study reported an
+inverse association between the daily vitamin B6 intake dose and the risk of AML [29].
+3.5.2. Supplements of Vitamins and Minerals
+Twenty case-control studies [11,14,28–45] and one pooled study [ 46] evaluated the
+association between vitamin and mineral supplementation during pregnancy and the risk
+of AL in children. The results are compared in Table 10.
+Folic acid supplementation and the risk of AL have been widely studied[11,14,28,29,31,
+40–43,45]. A pooled study [46], which included published [11,14,41–43,45] and unpublished
+data, reported an inverse association between maternal folic acid for ALL (OR = 0.77, 95%
+CI: 0.67–0.88) and AML (OR = 0.52, 95% CI: 0.31–0.89) with supplementation during
+pregnancy versus no supplementation. A meta-analysis performed on two studies [40,41]
+(OR = 0.55, 95% CI: 0.28–1.09) for AL and on six studies [28,29,40,41,43,45] (OR = 0.77, 95%
+CI: 0.59–1.01) for ALL did not yield statistically significant results (Table 11, Figure 3a–c).
+Int. J. Environ. Res. Public Health 2023, 20, x FOR PEER REVIEW 24 of 30 
+ 
+ 
+ 
+Figure 3. Meta-analysis of the association between the supplementation with folic acid during preg-
+nancy and ( a) acute leukemia, ( b) acute lymphoblastic leukemia and ( c) acute myeloid leukemia. 
+Note: the individual estimate (OR)  from the studies are represente d by the red box, and the black 
+diamond represent the estimate of the meta-analysis. 
+ 
+Figure 4. Meta-analysis of the association between the supplementation with iron during pregnancy 
+and (a) acute leukemia and ( b) acute lymphoblastic leukemia. Note : the individual estimate (OR) 
+Figure 3. Meta-analysis of the association between the supplementation with folic acid during
+pregnancy and (a) acute leukemia [40,41], (b) acute lymphoblastic leukemia [28,29,40,41,43,45] and
+(c) acute myeloid leukemia [ 29,40,41]. Note: the individual estimate (OR) from the studies are
+represented by the red box, and the black diamond represent the estimate of the meta-analysis.
+
+[W4362699264 PDF PAGE 23]
+Int. J. Environ. Res. Public Health 2023, 20, 5428 23 of 28
+Supplementation with iron during pregnancy and the risk of childhood leukemia in
+offspring have also been studied [11,14,30,32,34–37,39,43,45]. Most studies have reported
+non-statistically significant associations with AL, ALL, or AML. A meta-analysis of iron
+supplementation during pregnancy in three studies [32,34,35] for AL (OR = 0.94, 95% CI:
+0.65–1.38) and seven studies [30,32,35,39,42,43,45] for ALL (OR = 0.96, 95% CI: 0.76–1.21)
+found no statistically significant results (Table 11, Figure 4a,b).
+Int. J. Environ. Res. Public Health 2023, 20, x FOR PEER REVIEW 24 of 30 
+ 
+ 
+ 
+Figure 3. Meta-analysis of the association between the supplementation with folic acid during preg-
+nancy and ( a) acute leukemia, ( b) acute lymphoblastic leukemia and ( c) acute myeloid leukemia. 
+Note: the individual estimate (OR)  from the studies are represente d by the red box, and the black 
+diamond represent the estimate of the meta-analysis. 
+ 
+Figure 4. Meta-analysis of the association between the supplementation with iron during pregnancy 
+and (a) acute leukemia and ( b) acute lymphoblastic leukemia. Note : the individual estimate (OR) 
+Figure 4. Meta-analysis of the association between the supplementation with iron during pregnancy
+and (a) acute leukemia [32,34,35] and (b) acute lymphoblastic leukemia [30,32,35,39,42,43,45]. Note:
+the individual estimate (OR) from the studies are represented by the red box, and the black diamond
+represent the estimate of the meta-analysis.
+Supplementation with multivitamins during pregnancy has been reported[33,36–38,42–44].
+A pooled analysis [46] that included published [37,38,42,43] and unpublished data reported
+an inverse association for ALL (OR = 0.81, 95% CI: 0.74–0.88) with supplementation during
+pregnancy. A meta-analysis was not performed for this supplementation owing to the
+heterogeneity of the data.
+4. Discussion
+4.1. Summary of the Main Findings
+The main findings of the systematic review suggest that maternal dietary intake rich
+in vegetables, fruits and protein sources (beans and beef) and supplementation with folic
+acid and multivitamins during pregnancy could have a protective effect against childhood
+acute leukemia. The increased intake of cured meats, coffee and/or caffeinated beverages
+could increase the risk of childhood acute leukemia. Some of these findings were confirmed
+by our meta-analysis; a higher maternal consumption of fruits was significantly inversely
+associated with ALL (OR = 0.71, 95% CI: 0.59–0.86). This association was recently found
+in a previous meta-analysis [50] in which fruit (OR = 0.81, 95% CI: 0.67–0.99), vegetables
+(OR: 0.51, 95% CI: 0.28,0.94) and legumes (OR = 0.76, 95% CI: 

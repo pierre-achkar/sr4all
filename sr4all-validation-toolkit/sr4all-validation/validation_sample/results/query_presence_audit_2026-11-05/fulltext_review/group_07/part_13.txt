@@ -1,0 +1,204 @@
+ned the importance of considering potential effect 
+modifiers such as soil type, nutrient status, shading, man-
+agement history and presence/absence of invasive species 
+(Tommy Lennartsson, pers. comm.).
+
+[W2626732669 PDF PAGE 3]
+Page 3 of 6
+Bernes et al. Environ Evid  (2017) 6:16 
+Encouraged by the input from stakeholders, we 
+intend to proceed with a full systematic review of 
+how disturbance-based maintenance or restoration of 
+roadsides affects the diversity of vascular plants and 
+invertebrates. The review will follow the guidelines 
+for systematic reviews in environmental management 
+issued by the Collaboration for Environmental Evi-
+dence [23].
+Objectives
+The primary aim of the proposed systematic review is to 
+clarify how the diversity of vascular plants and inverte-
+brates is affected by roadside maintenance or restoration 
+using various forms of non-chemical vegetation removal. 
+Since current recommendations for roadside management 
+to promote diversity largely draw on studies of semi-natu-
+ral grasslands, we will also investigate whether our findings 
+differ from those on semi-natural grasslands. Our review 
+will largely be based on studies selected from a systematic 
+map of the evidence on how roadside management affects 
+biodiversity and the dispersal of species along roadsides 
+[21]. We will apply no geographical restrictions when col-
+lecting and analysing the evidence.
+Primary question: How does roadside maintenance 
+and restoration implementing non-chemical vegeta -
+tion removal affect the diversity of vascular plants and 
+invertebrates?
+Components of the primary question:
+Population  Roadside habitats and the species 
+of vascular plants and invertebrates 
+found within them.
+Intervention  Maintenance or restoration of road-
+side habitats based on non-chemical 
+vegetation removal such as mowing, 
+grazing, burning, clearance of shrubs 
+and saplings, coppicing, pruning, or 
+mechanical removal of invasive plants.
+Comparator  Non-intervention or alternative forms 
+of the interventions.
+Outcomes  Measures of functional/taxonomic 
+diversity (including abundance) of vas-
+cular plants or invertebrates.
+Methods
+Searches for literature
+Most of the evidence on which the proposed systematic 
+review is to be based will be selected from the recently 
+compiled systematic map of biodiversity impacts of 
+roadside management [21]. The systematic map is 
+based on literature searches using 13 publication data-
+bases, four search engines and about 40 specialist 
+websites and literature reviews. The majority of these 
+searches were performed in October–December  
+2015.
+When deciding whether an article included in the sys -
+tematic map is also eligible for inclusion in the proposed 
+review, we will use the criteria described in the next sec-
+tion. This set of inclusion criteria is a more restrictive 
+version of that used for the systematic map.
+To identify more recently-published literature on the 
+specific topic of the systematic review, we will also per -
+form a search update, using the following subset of the 
+search terms used for the systematic map:
+Population  roadside*, “road side*” , (road* AND 
+(verge* OR edge*)), roundabout*, “traf-
+fic island*” , “median strip*” , “central 
+reservation*” , boulevard*, parkway*, 
+(avenue* AND tree*)
+Outcomes  *diversity, species, abundance, 
+vegetation
+The terms within the ‘population’ and ‘outcomes’ cat -
+egories will be combined using the Boolean operator 
+‘OR’ . The two categories will then be combined using the 
+Boolean operator ‘ AND’ . An asterisk (*) is a ‘wildcard’ 
+that represents any group of characters, including no 
+character.
+The search update will cover literature published in 
+2015 or later, which means that we expect it to add a 
+fairly limited number of articles. When making literature 
+searches for the systematic map, moreover, we found that 
+about 90% of recent studies eventually included as rele-
+vant had been identified through Scopus and/or Trans -
+port Research International Documentation (TRID). 
+Therefore, we consider it sufficient to base the search 
+update on these two resources, with a complementary 
+search in Google Scholar. When searching in Google 
+Scholar, we will examine the first 200 hits (based on rel-
+evance) for appropriate data. No language or document 
+type restrictions will be applied.
+Article screening and study inclusion criteria
+Articles identified during the search update will be evalu-
+ated for inclusion at three successive levels. First, they 
+will be assessed by title. Next, each article found to be 
+potentially relevant on the basis of title will be judged 
+for inclusion on the basis of abstract. Finally, each article 
+found to be potentially relevant on the basis of abstract 
+will be judged for inclusion based on the full text. At all 
+stages of this screening process, the reviewer will tend 
+towards inclusion in cases of uncertainty. The screen-
+ing will be performed by reviewers who participated in 
+the main screening of studies for the systematic map and 
+
+[W2626732669 PDF PAGE 4]
+Page 4 of 6Bernes et al. Environ Evid  (2017) 6:16 
+who are therefore well acquainted with the relevant liter -
+ature and with the criteria for inclusion. The screening of 
+articles from the search update can be seen as a continua-
+tion of the main screening, for which detailed, multi-level 
+consistency checking was performed. Articles identified 
+by the primary reviewer as potentially utilisable based on 
+the full text will also be assessed by a second reviewer, 
+and reviewers will not assess studies authored by them-
+selves. Final decisions on whether to include doubtful 
+cases will be taken by the review team as a whole.
+A list of studies rejected on the basis of full-text assess -
+ment will be provided in an appendix together with the 
+reasons for exclusion.
+In order to be included in the review, studies included 
+in the systematic map or identified during the search 
+update must pass each of the following criteria:
+  • Relevant subjects: Roadsides anywhere in the world. 
+A roadside is defined as the unpaved zone of a road 
+that is exposed to roadside management.
+  • Relevant types of intervention: Maintenance or resto-
+ration of roadsides based on non-chemical vegetation 
+removal such as mowing, grazing, burning, clear-
+ance of shrubs and saplings, coppicing, pruning, or 
+mechanical removal of invasive plants.
+  • Relevant type of comparator: Non-intervention or 
+alternative forms of the interventions.
+  • Relevant types of outcome: Measures of functional/
+taxonomic diversity of vascular plants or inverte-
+brates (including abundance of assemblages and sin -
+gle species). Ratings of intervention effects based on 
+visual assessments of vegetation vitality will not con-
+sidered to be relevant.
+  • Relevant type of study: Primary field studies (reviews 
+and other secondary compilations will not be 
+included). Comparisons can in principle be made 
+both temporally and spatially. Studies with a ‘BA’ 
+(Before/After) design compare data collected at the 
+same site prior to and following an intervention. 
+Other studies may be based on comparison of differ-
+ent parts of a roadside, some that have been subject 
+to a certain kind of management and some that have 
+not. These may be termed as ‘CI’ (Comparator/Inter-
+vention) studies, or ‘BACI’ (Before/After/Compara -
+tor/Intervention) if they present data collected both 
+before and after the intervention.
+  • Language: Full text written in English, Danish, Dutch, 
+French, German, Norwegian, Spanish or Swedish.
+Study quality assessment
+Studies that have passed the relevance criteria described 
+above will be subject to critical appraisal: Based on 
+assessments of their clarity and susceptibility to bias, 
+they will be categorised as having high or low validity 
+(with regard to our review question).
+Studies will be excluded from the review due to low 
+validity if any of the following factors apply:
+  • No true replication (interventions not replicated)
+  • Intervention and comparator sites not well-matched 
+(sites significantly different before intervention)
+  • Severely confounding factors present (e.g. additional 
+treatments carried out at the intervention sites but 
+not at the comparator sites)
+The first two of these criteria deal with susceptibility to 
+selection bias, whereas the last one deals with performance 
+bias, as defined by the CEE guidelines [23]. The guidelines 
+also list two other kinds of bias: detection bias and attri-
+tion bias [23]. We will address detection bias at full-text 
+screening by excluding studies that only report simple ‘rat-
+ings’ of intervention effects based on visual assessments of 
+vegetation vitality (see above), whereas attrition bias is not 
+relevant to our review question—the interventions consid-
+ered could not lead to systematic differences in attrition 
+between intervention and control plots.
+We will also exclude studies that are unclear to such an 
+extent that their validity cannot be judged, for instance 
+due to absence of key information on study design. More 
+specifically, we will categorise a study as having unclear 
+validity if any of the following factors apply:
+  • Methodological description insufficient (e.g. not 
+clear to what extent the study was actually conducted 
+at roadsides)
+  • Intervention data cannot be interpreted (e.g. since 
+they consist of post hoc records such as ‘evidence of 
+mowing’)
+If none of the above five factors apply, the study will be 
+considered to have high validity.
+Detailed reasoning concerning critical appraisal will 
+be recorded in a transparent manner. The quality of each 
+study will be assessed by one reviewer and double-checked 
+by another one. Reviewers will not assess studies authored 
+by themselves. Final decisions on how to judge doubtful 
+cases will be taken by the review team as a whole.
+A list of studies rejected on the basis of quality assess -
+ment will be provided in an appendix together with the 
+reasons for excl

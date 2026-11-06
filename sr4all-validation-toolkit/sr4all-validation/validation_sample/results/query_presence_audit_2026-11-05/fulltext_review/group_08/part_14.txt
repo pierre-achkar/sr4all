@@ -1,0 +1,212 @@
+ checking of a priori outcome measures
+against reported final outcome measures [39, 40].
+Jones et al. suggested that the comparison of registered
+trials (and trial data) against published trials (and data)
+will aid the understanding o f any potential bias in the
+trials [40].
+Jones et al. noted that an advantage of trial registers is
+that they often include contact details for trial investigators,
+thereby facilitating author contact [40].
+Claimed disadvantages
+Two studies concluded that trial registers must be searched
+in combination with other bibliographic resources [38, 39].
+Glanville et al. concluded that trial registers lag behind
+major bibliographic databases in terms of their search
+interfaces [38].
+Resource requirements
+None were reported.
+Web searching
+The handbooks report limited guidance for web searching.
+The CRD Handbook suggests that web searching may be a
+useful means of identifying grey literature [10], and The
+Campbell Handbook provides some guidance on how to
+undertake web searches, inclu d i n gal i s to fg r e yl i t e r a t u r e
+websites [11]. The studies explored the role of web searching
+in systematic reviews. Five studies were included [41– 45].
+What is it used for
+It is used for identifying published or unpublished studies
+not indexed or included in bibliographic databases, or
+studies missed by database (or other) search methods,
+identifying and retrieving grey literature and identifying
+study protocols and on-going studies [10, 11, 42, 45].
+What the evidence says
+The CRD Handbook makes a separation between a search
+of the internet through a ‘search engine ’and searches of
+specific and relevant websites [10]. It considers the latter
+to be more practical than a general search of the World
+Wide Web in systematic reviews [10].
+The Campbell Handbook provides guidance on searching
+using a search engine [11], and Eysenbach et al. reported
+the results of a pilot study to assess the search features
+of 11 search engines for use in searching for systematic
+reviews [45]. 1 The Campbell Handbook suggests that,
+Table 3 Handsearching results (Continued)
+Advantages Disadvantages
+Studies No. identified by handsearching
+but missed by MEDLINE
+Why studies were missed by
+MEDLINE (claimed advantages
+of handsearching)
+No. identified by MEDLINE but
+missed by handsearching
+Why studies were missed
+by handsearching (claimed
+advantages of database
+searching)
+Langham et al. [ 30] 227 out of 710 (32%) Not reported MEDLINE identified 118
+(16.6%) of studies missed by
+Handsearching.
+Not reported
+Mattioli et al. [ 35] 0 out of 25 (0), (all identified
+by handsearching)
+Not reported Specific PubMed Search
+16 out of 25 (64%)
+Sensitive PubMed Search
+9 out of 25 (36%)
+Not reported
+Milne and
+Thorogood [ 36]
+34 out of 82 (41.5%) Not reported Capture/recapture used to
+test. Estimated n = 3 missed
+by handsearching.
+▪ Inadequate indexing or trials
+not indexed on MEDLINE
+▪ Prohibits are not located
+by computerised searches
+Cooper et al. Systematic Reviews  (2017) 6:234 Page 10 of 16
+
+[W2768314176 PDF PAGE 11]
+when using search engines, re searchers should use the
+advanced search function. In some cases, this allows
+searchers to use Boolean logic and employ strategies to
+limit searches, such as precise phrases like “control
+group” [11].
+Godin et al. reported the development and use of a
+web-searching protocol to identify grey literature as part
+of study identification in a systematic review [43]. Godin
+et al. broke their web searching into three parts: first,
+searches using Google for documents published on the
+internet; secondly, searches using custom Google search
+engines; and thirdly, browsing targeted websites of rele-
+vant organisations and agencies [43].
+Claimed advantages
+Two studies identified studies uniquely by web searching
+[43, 45]. Eysenbach et al. identified 14 unpublished,
+on-going or recently finished trials, and at least nine
+were considered relevant for four systematic reviews
+[45]. Godin et al. identified 302 potentially relevant
+reports of which 15 were included in their systematic
+review [43].
+Three studies commented on the types of study or study
+data identified [42, 43, 45]. Eysenbach et al. claimed that
+internet searches may identify ‘hints’ to on-going or
+recently completed studies via grey literature [45]; Godin et
+al. uniquely identified report literature [43]; and Stansfield et
+al. suggested that web search ing may identify studies not
+identified from‘traditional’database searches [42].
+Claimed disadvantages
+Five studies discussed the disadvantages of web searching
+[41– 45]. The studies drew illustrative comparisons be-
+tween database searching and web searching in order to
+highlight the disadvantages of web searching:
+Three studies commented on searching using a web
+search engine: Eysenbach et al. reported that current
+search engines are limited by functionality and that they
+cover only a fraction of the visible web [45]; Mahood et
+al. claimed that their chosen search engines could not
+accommodate either full or modified search strategies, nor
+did they support controlled indexing [44]; and Godin et al.
+claimed that, in contrast to systematic searches of biblio-
+graphic databases, where one search strategy combining
+all search terms would be used, Google searches may
+require several search enquiries containing multiple com-
+binations of search terms [43].
+Three studies commented on the number of studies
+returned through web searching [43 – 45]. Godin et al.
+claimed that searching Google can be overwhelming due
+to the amount of information and lack of consistent
+organisation of websites [43]; Mahood et al. had to limit
+their web searches to title only in order to control search
+returns [44], and Eysenbach et al. recorded recall of between
+0 and 43.6%, finding references to published studies and pre-
+cision for hints to published or unpublished studies ranged
+between 0 and 20.2% [45].
+Three studies commented on the search returns
+[42, 43, 45]. Eysenbach et al. and Stansfield et al.
+commented on the lack of abstracts when web searching,
+which impacts on the precision of web searching and
+volume of studies identified [42, 45], and Godin et al.
+claimed that it was impossible to screen all results from
+a Google search, so researchers were reliant on page
+ranking [43].
+Three studies claimed potential issues with the reliability
+of items identified through web searching [41, 43, 45].
+Godin et al. discussed the possibility of bias created in
+web searching, where search results are presented depend-
+ing on geographic location or previous search history [43];
+Briscoe reported that algorithms used by search engines
+change over time and according to the user, which will
+influence the identification of studies and impact the
+transparency and replicability of search reporting [41];
+and Eysenbach et al. reported identifying a study pub-
+lished on-line that differed in reporting to the copy
+published in the peer-revie wed journal, where adverse
+event data was omitted in the on-line version [45].
+Stansfield et al. claimed that the lack of functionality to
+export search results presented a challenge to web searchers
+[42]. Three studies claimed that web searching presented
+difficulties in transparent search reporting [41, 43, 44].
+Resource requirements
+Two studies discussed time taken to web-search [43, 45].
+Eysenbach et al. reported searching 429 returned search
+result pages in 21 h [45], and Godin et al. reports custom
+Google searching taking 7.9 h and targeted web searches
+taking 9 – 11 h, both timings being specific to the case
+studies in question [43].
+Stansfield et al. discussed planning when to undertake
+web searching [42]. Stansfield et al. linked planning a
+web search to the time-frame and resources available in
+order to inform where to search [42].
+Mahood et al. claimed that large yields of studies can
+be difficult and time consuming to explore, sort, manage
+and process for inclusion [44]. Mahood et al. initially had
+to limit their web searching to title only (as a method to
+control volume) before eventually rejecting their web
+searching due to concerns about reproducibility and
+ability to manage search returns [44].
+No studies reported any data relating to the costs
+involved in web searching.
+Discussion
+The discussion will focus on two elements inherent in
+the research question of this study: how does current
+supplementary search practice compare with recommended
+Cooper et al. Systematic Reviews  (2017) 6:234 Page 11 of 16
+
+[W2768314176 PDF PAGE 12]
+best practice and what are the im plications of the evidence
+for searching using these supplementary methods.
+Contacting study authors
+The advent of e-mail (and more specifically the standar-
+dised reporting of e-mail addresses for corresponding study
+authors) would appear to have improved the efficiency of
+contacting study authors [10, 11], although it is possible
+that it has not altered the effectiveness [46]. Identifying
+additional studies or data (the effectiveness) is conditional
+upon a reply, whatever the method of contact. The guid-
+ance of the handbooks, to consider how best to set out
+requests for studies or study data, is well made but seldom
+explored in the studies themselves. Whilst making contact
+is important, which the studies evaluate exploring tech-
+niques to improve the rate of reply would be a valuable
+contribution to improve the efficiency and effectiveness of
+identifying studies or study data through author contact.
+When to contact study authors is worthy of consider-
+ation, since the studies included in this review reported
+a delay between asking for studies or study data and a
+response. Sufficient time should be allowed between
+identifying the need for author contact, making contact,
+a response being provided and the study or data being
+integrated into the review (with all the methodological
+implications considered). A recognition for the need of this
+method, combined with the realisation that this method
+takes time to yield results, is import

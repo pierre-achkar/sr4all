@@ -1,0 +1,359 @@
+ome measure
+and using the RCI with an intention-to-treat principle. Likewise,
+Probst et al. (2018) showed that in a treatment for tinnitus
+distress, 20.4% could be identiﬁed as non-responders (27.2% if
+using an intent-to-treat analysis where missing data was clas siﬁed
+as non-response), although, in this case, a predetermined cut oﬀ
+was utilized. Based only on these examples, ﬁndings from the
+current study seem to be similar, but it would be useful if
+future clinical trials reported non-response rates more regularly
+to facilitate systematic reviews.
+Frontiers in Psychology | www.frontiersin.org 7 March 2019 | Volume 10 | Article 589
+
+[W2928191556 PDF PAGE 8]
+Rozental et al. Non-response in Internet-Based CBT
+TABLE 3 |Characteristics and non-response rates for the clinical tr ials included in the individual patient data meta-analysis .
+Study Recruitment Screening
+interview
+Primary diagnosis Treatment ( n) Control ( n) Modules/weeks
+or sessions
+Primaryoutcome
+Additionaloutcomes
+Non-response1.96n (%)
+Non-response1.28n (%)
+Non-response0.84n (%)
+IMÅ ( Boettcher
+et al., 2014a )
+Generalpopulation
+SCID-I Panic disorder, social
+anxiety disorder,generalized anxietydisorder, anxiety disorderNOS
+Unguided mindfulnesswith FAQ (42)
+Wait-list withdiscussion forum(46)
+8 modules/8weeks
+BAI BDI, QOLI, ISI 12 (28.6%) 8 (19.0%) 5 (11.9%)
+ACT Smart (
+Lindner
+et al., 2013 )
+Generalpopulation
+SCID-I Panic disorder, social
+anxiety disorder
+Unguided ACT (48),guided ACT (48)
+Wait-list (47) 8 modules/10
+weeks
+LSAS-SR,PDSS-SRa
+PHQ-9, GAD-7,QOLI
+36 (37.5%) 25 (26.0%) 17 (17.7%)
+ACTUA (
+Nyström
+et al., 2017 )
+Generalpopulation
+SCID-I Depression Guided physical activity
+(164), guided behavioralactivation (158)b
+n.a. 8 modules/12
+weeks
+PHQ-9 GAD-7, QOLI c 35 (10.9%) 15 (4.7%) 15 (4.7%)
+ADAM (
+Andersson
+et al., 2011 )
+Generalpopulation
+Semi-structuredinterview, IIEF-5
+Erectile dysfunction Guided CBT (39) Wait-list with
+discussionforum (39)
+7 modules/7weeks
+IIEF-5 IIEF , RAS, BDI,
+BAI
+29 (74.4%) 22 (56.4%) 18 (46.2%)
+Challenger(
+Boettcher et al.,
+2018)
+Generalpopulation
+MINI Social anxiety disorder Unguided CBT with
+smartphone application(68), unguidedbibliotherapy (70)
+Wait-list (69) 9 modules/6
+weeks
+LSAS-SR GAD-7, PHQ-9,
+QOLI, BBQ,Mini-SPIN
+46 (33.3%) 26 (18.8%) 19 (13.8%)
+Stella (
+Andersson
+et al., 2013a )
+Generalpopulation
+SCID-I & II Depression Guided CBT (33), group
+therapy (36), guided CBTas preferred choice (16)
+n.a. 8 modules/8
+weeks, 8 sessions
+BDI MADRS-S, BAI,
+HAM-D, QOLI,
+47 (55.3%) 34 (40.0%) 18 (21.2%)
+Depressionshjälpen(
+Carlbring et al.,
+2013)
+Generalpopulation
+SCID-I Depression Guided CBT (40) Wait-list (40) 7 modules/8
+weeks
+BDI MADRS-S, BAI,
+QOLI, WAI
+13 (32.5%) 8 (20.0%) 7 (17.5%)
+Tellus (
+Ivarsson
+et al., 2014 )
+Generalpopulation
+CAPS Posttraumatic stress
+disorder
+Guided CBT (31) Wait-list with
+support (31) d
+8 modules/8weeks
+IES-R PDS, BDI, BAI,
+QOLI
+6 (19.4%) 3 (9.7%) 3 (9.7%)
+Klara (
+Vernmark
+et al., 2010 )
+Generalpopulation
+SCID-I Depression Guided CBT (29), guided
+CBT via email (30)
+Wait-list (29) 7 modules/8
+weeks
+BDI MADRS-S, BAI,
+QOLI
+8 (13.6%) 7 (11.7%) 3 (5.1%)
+Oroshjälpen (
+Dahlin
+et al., 2016 )
+Generalpopulation
+SCID-I Generalized anxiety
+disorder
+Guided ACT (52) Wait-list (51) 7 modules/9
+weeks
+GAD-7 PSWQ,
+GAD-Q-IV , BAI,MADRS-S,PHQ-9, QOLI
+14 (26.9%) 5 (9.6%) 3 (5.8%)
+Nova 1 (
+Carlbring
+et al., 2011 )
+Generalpopulation
+SCID-I Anxiety disorder
+with/without comorbiddepression
+Guided CBT (53) n.a. 10 modules/10
+weekse
+BAI MADRS-S,
+CORE-OM, QOLI
+30 (56.6%) 21 (39.6%) 13 (24.5%)
+Nova 2 (
+Nordgren
+et al., 2014 )
+Primary care SCID-I Anxiety disorder
+with/without comorbiddepression
+Guided CBT (51) Wait-list (50) 10 modules/10
+weeksf
+BAI MADRS-S,
+CORE-OM, QOLI
+30 (58.8%) 20 (39.2%) 10 (19.6%)
+(Continued)
+Frontiers in Psychology | www.frontiersin.org 8 March 2019 | Volume 10 | Article 589
+
+[W2928191556 PDF PAGE 9]
+Rozental et al. Non-response in Internet-Based CBT
+TABLE 3 |Continued
+Study Recruitment Screening
+interview
+Primary diagnosis Treatment ( n) Control ( n) Modules/weeks
+or sessions
+Primaryoutcome
+Additionaloutcomes
+Non-response1.96n (%)
+Non-response1.28n (%)
+Non-response0.84n (%)
+Origo 1 ( Almlöv
+et al., 2011 )
+Generalpopulation
+SCID-I Generalized anxiety
+disorder
+Guided CBT (44) Wait-list (45) 8 modules/8
+weeks
+PSWQ GAD-Q-IV , STAI,
+BAI, BDI,MADRS-S, QOLI
+15 (34.1%) 10 (22.7%) 6 (13.6%)
+Origo 2 (
+Andersson
+et al., 2012 )
+Generalpopulation
+SCID-I Generalized anxiety
+disorder
+Guided CBT (27) g Wait-list (27) 8 modules/8
+weeks
+PSWQ GADQ-IV ,
+MADRS-S, BDI,BAI, STAI, QOLI
+10 (37.0%) 10 (37.0%) 10 (37.0%)
+Panik 2 (
+Carlbring
+et al., 2005 )
+Generalpopulation
+SCID-I, CIDI Panic disorder Guided CBT (25),
+face-to-face CBT (24)
+n.a. 10 modules/10
+weeks, 10sessions
+BSQ ACQ, MI, BAI,
+BDI, QOLI
+12 (24.5%) 5 (10.2%) 1 (2.0%)
+Pia (unpublished) General
+population
+SCID-I Relationship problems Guided CBT (80) Wait-list with
+discussion forum(78)
+10 modules/10weeks
+DAS MSI, BDI, BAI,
+QOLI
+40 (50.0%) 25 (31.3%) 17 (21.3%)
+Progredi, (
+Ström
+et al., 2013 )
+Generalpopulation
+SCID-I Depression Guided CBT with physical
+activity (24)
+Wait-list (24) 9 modules/9
+weeks
+MADRS-S BDI, BAI, QOLI c 7 (29.2%) 3 (12.5%) 1 (4.2%)
+Fobal orm(
+Andersson et al.,
+2013b)
+Generalpopulation
+SCID-I Speciﬁc phobia Guided CBT (13),
+face-to-face CBT (13)
+n.a. 4 modules/4
+weeks, 2sessionsh
+SNAQ ADIS, FSS, BAI,
+BDI
+2 (7.6%) 1 (3.9%) 1 (3.9%)
+Soﬁe 13(
+Boettcher et al.,
+2013)
+Generalpopulation
+SCID-I Social anxiety disorder Guided CBT with CBM
+(61), Guided CBT withoutCBM (65),
+n.a. 9 modules/9
+weeksi
+LSAS-SR SIAS, SPS,
+MADRS-S, QOLI
+26 (20.6%) 12 (9.5%) 4 (3.2%)
+Soﬁe 9 (
+Kuckertz
+et al., 2014 )
+Generalpopulation
+SCID-I & II Social anxiety disorder Guided CBT (40) Attention b ias
+modiﬁcation (39)
+9 modules/9weeks
+LSAS-SR SIAS, SPS,
+SPSQ, BAI,MADRS-S, QOLI
+9 (22.5%) 7 (17.5%) 3 (7.5%)
+Soﬁe 12 (
+Dagöö
+et al., 2014 )
+Generalpopulation
+SCID-I, MINI Social anxiety disorder Guided CBT with
+smartphone application(24)j
+n.a. 9 modules/9
+weeks
+LSAS-SR k 6 (25.0%) 2 (8.3%) 1 (4.2%)
+Soﬁe 1 (
+Andersson
+et al., 2006 )
+Generalpopulation
+SCID-I Social anxiety disorder Guided CBT (32) Wait-list (32 ) 9 modules/9
+weeks
+LSAS-SR SIAS, SPS,
+SPSQ, BAI,MADRS-S, QOLI
+7 (21.9%) 4 (12.5%) 2 (6.3%)
+Soﬁe 2 (
+Carlbring
+et al., 2007 )
+Generalpopulation
+SCID-I Social anxiety disorder Guided CBT (29) Wait-list (28 ) 9 modules/9
+weeks
+LSAS-SR SIAS, SPS,
+SPSQ, BAI,MADRS-S, QOLI,
+10 (34.5%) 6 (20.7%) 4 (13.8%)
+Soﬁe 3(
+Tillfors et al., 2008 )
+Students SCID-I Social anxiety disorder Guided CBT (19), gui ded
+CBT with group sessions(18)
+n.a. 9 modules/9
+weeks, 5 sessions
+LSAS-SR SIAS, SPS,
+SPSQ, BAI,MADR-S, QOLI
+16 (43.2%) 12 (32.4%) 11 (29.7%)
+Soﬁe 4 (
+Furmark
+et al., 2009 )
+Generalpopulation
+SCID-I & II Social anxiety disorder Guided CBT with
+discussion forum (40),unguided bibliotherapy(40)
+Wait-list (40) 9 modules/9
+weeks
+LSAS-SR SIAS, SPS,
+SPSQ, BAI,MADR-S, QOLI
+34 (42.5%) 20 (25.0%) 12 (15.0%)
+(Continued)
+Frontiers in Psychology | www.frontiersin.org 9 March 2019 | Volume 10 | Article 589
+
+[W2928191556 PDF PAGE 10]
+Rozental et al. Non-response in Internet-Based CBT
+TABLE 3 |Continued
+Study Recruitment Screening
+interview
+Primary diagnosis Treatment ( n) Control ( n) Modules/weeks
+or sessions
+Primaryoutcome
+Additionaloutcomes
+Non-response1.96n (%)
+Non-response1.28n (%)
+Non-response0.84n (%)
+Soﬁe 5 ( Furmark
+et al., 2009 )
+Generalpopulation
+SCID I Social anxiety disorder Guided AR (29), guided
+CBT with discussionforum (29), unguidedbibliotherapy (29),unguided bibliotherapywith discussion forum (28)
+n.a. 9 modules/9
+weeks
+LSAS-SR SIAS, SPS,
+SPSQ, BAI,MADR-S, QOLI
+37 (32.2%) 21 (18.3%) 12 (10.4%)
+Elsa (in preparation) General
+population
+SCID-I Anxiety disorder
+with/without comorbiddepression
+Guided CBT (33) Wait-list with
+support (33)
+8 modules/8weeksl
+BAI MADRS-S,
+CORE-OM,PHQ-9, GAD-7,QOLI
+16 (48.5%) 12 (36.4%) 12 (36.4%)
+Fobal spindel(
+Andersson et al.,
+2009)
+Generalpopulation
+SCID-I Speciﬁc phobia Guided CBT (13),
+face-to-face CBT (14)
+n.a. 5 modules/4
+weeks, 2sessionsh
+SPQ ADIS, FSS, BAI,
+BDI
+3 (11.1%) 1 (3.7%) 0 (0.0%)
+Gamble (
+Carlbring
+et al., 2012 )
+Generalpopulation
+n.a. Gambling disorder Guided CBT with
+discussion forum (317)
+n.a. 8 modules/8
+weeks
+NODS HADS, QOLI 11 (3.5%) 11 (3.5%) 11 (3.5%)
+Total non-responserates
+567 (26.8%) 356 (16.8%)239 (11.3%)
+SCID-I, Structural Clinical Interview for DSM-IV Axis I Disorders ; NOS, Not Otherwise Speciﬁed; FAQ, Frequently Asked Questions; BAI, Beck Anxiety Inventory; BDI, Beck Depression Inventory; QOLI, Qual ity of Life Inventory; ISI, Insomnia
+Severity Index; n.a., not applicable; ACT, Acceptance and Commitment The rapy; LSAS-SR, Liebowitz Social Anxiety Scale–Self-Report; PDSS-SR , Panic Disorder Severity Scale–Self-Report; PHQ-9, Patient Health Q uestionnaire− 9
+Items; GAD-7, Generalized Anxiety Disorder − 7 Items; BA, Behavioral Activation; MADRS-S, Montgomery-Åsberg Depressi on Rating Scale–Self-Report; IIEF-5, International Index of Erectile Func tioning− 5 Items; CBT, Cognitive Behavior
+Therapy; IIEF, International Index of Erectile Functioning; RAS, Rela tionship Assessment Scale; MINI, The MINI-International Neuropsychi atric Interview; BBQ, Brunnsviken Brief Quality of Life Inventory ; Mini-SPIN, Mini-Social Phobia
+Inventory; HAM-D, Hamilton Rating Scale for Depression; WAI, Worki ng Alliance Inventory; CAPS, Clinician-administered PTSD Scale for DSM-IV; IES-R, Impact of Event Scale–Revised; PDS, Posttraumatic Di agnostic Scale; PSWQ, Penn
+State Worry Questionnaire; GAD-Q-IV, Generalized Anxiety Disor der Questionnaire; CORE-OM, Clinical Outcome in Routine Evaluation–Outc ome Measure; STAI, State-Trait Anxiety Inventory; CIDI, Composite Inter national Diagnostic
+Interview; ACQ, Agoraphobic Cognitions Questionnaire; BSQ, Body S ensations Questionnaire; MI, Mobility Inventory; DAS, Dyadic Adjustment S cale; MSI, Marital Status Inventory; SNAQ, Snake Anxiety Questionnair e; ADIS, Anxiety
+Disorders Interview Schedule; FSS, Fear Survey Schedul

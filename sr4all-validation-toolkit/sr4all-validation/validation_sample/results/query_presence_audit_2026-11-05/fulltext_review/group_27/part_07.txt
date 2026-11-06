@@ -1,0 +1,121 @@
+ for controls. ME/CFS and control patients were comparable in 
+age (g = 0.016; p = 0.721) and displayed small difference for educational level (g = − 0.335; p < 0.05).
+Cognitive data. Intellectual efficiency. Intellectual efficiency is regarded as a sum of capacities that evolve 
+over time, in line with the group of peers. These abilities are grouped into different cognitive subdomains, which 
+are language skills, non-language reasoning skills (fluid reasoning), visuo-constructive skills, short-term mem-
+ory and processing  speed81. From the results obtained in these subdomains, one can establish the Intellectual 
+Quotient (IQ). Twelve studies estimated the IQ of EM/CFS patients and controls. Some studies have mainly re-
+lied on the language domain: seven used the National Adult Test Reading; two based their analysis on the verbal 
+comprehension index of the W AIS-R. Finally, three studies estimated IQ from a non-verbal indicator embodied 
+by Raven’s progressive matrices (Table 2). All these tests producing small and no significant effect sizes (Table 2), 
+indicating that people with ME/CFS did not differ from healthy controls on these measures.
+Reaction time. Reaction time is the time between stimulation and response, depending on the path taken 
+by the nervous message and summing the perception of message, it is the integration, and the elaboration of 
+a response. There are three types of reaction time: (1) simple reaction time between a unique stimulus and 
+expected reaction; the response being expected, the motor response takes place before the appearance of the 
+stimulus and "waits" for a trigger; (2) the reaction time of choice, or complex reaction time: time between two 
+stimulus and the induced response; in this case, the preparation of the response takes place only after the appear-
+Table 1.  Descriptive statistics for the study participants. ME/CFS myalgic encephalomyelitis/chronic fatigue 
+syndrome, N number. a Number of education years from age 6.
+ME/CFS Healthy controls
+N studies N participants Mean SD N studies N participants Mean SD
+Sample size 33 1086 33.62 23.2 33 968 29.33 19.44
+Gender
+Female 28 719 25.68 20.25 28 637 22.75 16.6
+Male 28 216 7.45 6.87 28 188 6.71 5.61
+Age (years) 33 1086 39.47 3.92 33 968 39.21 4.43
+Educationa (years) 21 637 14.51 1.11 21 536 15.1 1.16
+
+[W4210837925 PDF PAGE 5]
+5
+Vol.:(0123456789)Scientific Reports |         (2022) 12:2157  | https://doi.org/10.1038/s41598-021-04764-w
+www.nature.com/scientificreports/
+ance of the double stimulus ; (3) semi-complex reaction time: time between a stimulus requiring treatment and 
+an expected  response82,83. Thirteen studies compared the simple reaction time of ME/CFS patients to those of 
+controls and seven analyzed the results relating to choice reaction time (see Table  3). There were significant 
+moderate effect sizes for these two tests, indicating that the ME/CFS group showed an increased reaction time 
+(Table 3). However, the significant high heterogeneity (Q = 54.09, p < 0.005;  I2 = 77.81% for Simple reaction time 
+test and Q = 17.36, p = 0.01;  I2 = 65.43% for Choice reaction time test) between the studies did not allow us to 
+conclude that there is a true group effect. Due to this heterogeneity, regarding Simple reaction time test, we gen-
+erated a funnel plot and used Egger’s regression intercept in order to identify the possible presence of asymmetry 
+due to publication bias. Visual inspection of the figure (see Fig.  2) showed a little asymmetry, but the Egger’s 
+regression was not significant (p = 0.06). Rosenthal’s fail-safe N indicated that 309 additional studies with null 
+results would be required to reveal a difference between CFS patients and controls. For Choice reaction time 
+Table 2.  Intellectual efficiency: Hedge’s g effect sizes for each test, in descending order. WAIS Wechsler adult 
+intelligence scale, ME/CFS myalgic encephalomyelitis/chronic fatigue syndrome, N number.
+Test name N studies N CFS N controls Hedges’g S.E 95% CI p value Q p I2 (%) Study references
+Verbal
+National adult reading test 7 210 164 − 0.07 0.11 − 0.272 to 0.140 0.533 7.35 0.29 18.40
+Cockshell et al.17, Di Clementi 
+et al.57, Fiedler et al.24, Joyce et al.29, 
+Lawrie et al.31, Marshall et al.35, 
+Robinson et al.44
+W AIS-R Verbal 2 34 33 − 0.10 0.24 − 0.571 to 0.364 0.664 0.03 0.86 0.00 Claypoole et al.15, DeLuca et al.20
+Non-verbal
+Standard progressive matrices 3 84 77 − 0.17 0.16 − 0.476 to 0.136 0.276 0.50 0.78 0.00 Michiels et al.39,40,41
+Table 3.  Reaction time: Hedge’s g effect sizes for each test, in descending order. ME/CFS myalgic 
+encephalomyelitis/chronic fatigue syndrome, N number.
+Test name N studies N CFS N controls Hedges’g S.E 95% CI p value Q p I2 (%) Study references
+Simple reaction time (ms) 13 24 403 0.66 0.07 0.520–0.808 0.0001 54.09 0.00 77.81
+Cockshell et al.17, Capuron et al.13, 
+Claypoole et al.15, Fiedler et al.24, Lawrie 
+et al.31, Mahurin et al.32, Majer et al.33, 
+Marcel et al.34, Marshall et al.36, Marshall 
+et al.35, Michiels et al.39,41, Smith et al.51
+Choice reaction time 7 239 282 0.50 0.09 0.323–0.678 0.0001 17.36 0.01 65.43
+Cockshell et al.17, Capuron et al.13, 
+Mahurin et al.32, Majer et al.33, Marshall 
+et al.36, Marshall et al.35, Michiels et al.39
+Figure 2.  Funnel plot of standard error by Hedge’s g for simple reaction time.
+
+[W4210837925 PDF PAGE 6]
+6
+Vol:.(1234567890)Scientific Reports |         (2022) 12:2157  | https://doi.org/10.1038/s41598-021-04764-w
+www.nature.com/scientificreports/
+test, visual inspection of the figure (see Fig.  3) did not show a clear asymmetry, and the Egger’s regression was 
+not significant (p = 0.10). Rosenthal’s fail-safe N indicated that 61 additional studies with null results would be 
+required to reveal a difference between CFS patients and controls.
+Motor functioning. This section groups together motor activity assessments, including reaction time (see supra) 
+as well as the speed of movement associated with dexterity (Grooved Pegboard) and coordination (Finger Tap-
+ping Test). Seven studies assessed speed, dexterity and motor coordination and four evaluated the reaction time 
+linked to movement (Table 4). There was a small to moderate effect size in terms of reaction time, coordination 
+speed related to movement. No effect size was observed for the Grooved Pegboard Test (Table 4). Nevertheless, 
+results related to the Finger Tapping Test could not be interpreted because of the significant moderate hetero-
+geneity (Q = 9.29, p = 0.05;  I2 = 56.96%) between studies. Due to this heterogeneity, we generated a funnel plot 
+and used Egger’s regression intercept in order to identify the possible presence of asymmetry due to publication 
+bias. Visual inspection of the figure (see Fig. 4) did not show a clear asymmetry, and the Egger’s regression was 
+not significant (p = 0.87). Rosenthal’s fail-safe N indicated that 12 additional studies with null results would be 
+required to reveal a difference between CFS patients and controls.
+Processing speed. Ideo-motor speed refers to the time it takes a person to do a mental task. It is the speed with 
+which a person understands and reacts to information, whether by visual means (letters and numbers), hearing 
+(language) or movement. Processing speed is therefore the time we take between the moment we receive the 
+stimulation and when we  respond84. Fourteen studies proposed tests assessing ideo-motor processing speed. 
+Seven tested the processing speed via symbol tests (W AIS and SDMT) with a strong graphic bias. Nine used 
+TMT A with a minor graphic component. Finally, six studies assessed processing speed through the single visual 
+input channel via the Stroop test (in different conditions that do not involve inhibition abilities) (Table 5).
+Statistical analysis showed a moderate to large effect size with respect to processing speed, whether it involved 
+a strong graphomotor act or a grueling reading speed (significant and large effect size mainly for the Color/Word 
+condition in Stroop) (Table 5).
+Figure 3.  Funnel plot of standard error by Hedge’s g for choice reaction time.
+Table 4.  Motor functioning: Hedge’s g effect sizes for each test, in descending order. ME/CFS myalgic 
+encephalomyelitis/chronic fatigue syndrome, N number.
+Test name N studies N CFS N controls Hedges’g S.E 95% CI p value Q p I2 (%) Study references
+Choice movement time 2 101 157 0.45 0.13 0.196–0.701 0.001 0.46 0.50 0.00 Capuron et al.13, Majer et al.33
+Finger tapping test 5 138 135 − 0.44 0.12 − 0.681 to − 0.204 0.0001 9.29 0.05 56.96 Cockshell et al.17, Claypoole et al.15, 
+Michiels et al.40, Neu et al.42,43
+Simple movement time 2 101 157 0.31 0.13 0.064–0.566 0.014 0.44 0.51 0.00 Capuron et al.13, Majer et al.33
+Grooved perboard 2 40 40 0.05 0.22 − 0.383 to 0.478 0.828 0.54 0.46 0.00 Claypoole et al.15, Fiedler et al.24
+
+[W4210837925 PDF PAGE 7]
+7
+Vol.:(0123456789)Scientific Reports |         (2022) 12:2157  | https://doi.org/10.1038/s41598-021-04764-w
+www.nature.com/scientificreports/
+Attention. Attention refers to a cognitive enhancer allowing information to be processed consciously. This is a 
+resource that can be allocated for a prolonged period to a target that could be chosen among many other stimuli 
+(sustained and selective attention) or to several targets simultaneously (divided attention) 85. Nineteen studies 
+proposed tests assessing attention. Thirteen studies proposed an evaluation of attention through the auditory 
+canal via the Paced Auditory Serial Addition Test (PASAT) under different conditions (Table 6) involving sus-
+tained attention skills but inducing executive bias through the involvement of working memory. Six studies used 
+visual canal via the Continuous Performance Test (CPT) and the Rapid Visual information Processing (RVP) 
+(Table 6) allowing the assessment of sustained and selective attention. There is a significant good effect size 
+for PASAT (4 s), witnessing the impact of EM/CFS on sustained attention skills 

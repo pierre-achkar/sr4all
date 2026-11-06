@@ -1,0 +1,189 @@
+ix J.E. Carter, MD;*† Alecs H. Chochinov, MD†‡
+SEE RELATED COMMENTARY , PAGE 297.
+This article has been peer reviewed.
+Can J Emerg Med 2007;9(4):286-95
+Received: June 20, 2006; revisions received: Apr. 3, 2007; accepted: Apr. 16, 2007
+From the *Section of Emergency Medicine, Yale University, New Haven, Conn., the †Section of Emergency Medicine, University of Mani-
+toba and ‡St. Boniface General Hospital, Winnipeg, Man.
+Key words: Nurse practitioner, emergency medicine, health care quality, access and evaluation
+https://doi.org/10.1017/S1481803500015189 Published online by Cambridge University Press
+
+[W2098745922 PDF PAGE 2]
+July • juillet 2007; 9 (4) CJEM • JCMU 287
+Introduction
+Emergency departments (EDs) assume many important
+roles in the health care system beyond their obvious func-
+tions as trauma centres and providers of urgent and emer-
+gent care. National ED census data from the United States
+shows that 60%–80% of ED patients present with non-
+urgent or minor medical problems.1 For years, EDs have
+substituted for unavailable private practitioners and served
+as a primary care provider for the urban poor.2 Access to
+emergency care is not limited to the urban population.
+Rural physicians are called upon to provide increasingly
+demanding hours of emergency coverage as their numbers
+dwindle. Many rural EDs and health centres have been
+forced to limit their hours of service owing to lack of
+physicians, which in turn obliges the area’s population to
+seek emergency care in other more distant communities.
+One suggested solution to these increasing pressures is
+to employ nurse practitioners (NPs). In the urban setting,
+this often represents additional staffing in dedicated non-
+urgent or fast-track areas. In the rural setting, NPs could
+staff low volume EDs in which a physician is on call off-
+site or accessible by telemedicine.3 The concept of an ED
+NP is not new, with literature on the subject dating back 
+almost 30 years,4–11 citing increased quality, cost-
+effectiveness, reduced wait times and improved patient sat-
+isfaction.1 Although the scope of the NP’s practice in the
+ED remains highly variable, he or she must possess the
+knowledge and skills to make autonomous decisions re-
+garding selected patient populations as well as be account-
+able for his or her actions.12,13 NPs are covered by their own
+malpractice insurance and their own license. They may or
+may not be able to prescribe medications.
+The increase in ED volume combined with difficulty in
+recruiting adequate physicians has put mounting pressure
+on hospitals and health care planners to find innovative
+ways to ensure high-quality, efficient care. The NP role has
+thus emerged not only because of academic and profes-
+sional development, but also because of worsening physi-
+cian workforce numbers.14,15 Although a detailed discussion
+of ED overcrowding is beyond the scope of this paper, the
+submission of the Canadian Association of Emergency
+Physicians to the Romanow Commission on the future of
+emergency medicine in Canada described the concept of
+using NPs and other physician extenders as “garnering in-
+terest” and maybe helpful.16 This discussion will focus
+solely on the potential role of the NP in the ED, recogniz-
+ing the potential contribution of other extended providers
+such as physicians’ assistants. This review of the literature
+seeks to answer the question of whether hiring NPs for the
+ED can reduce wait time, improve patient satisfaction and
+provide care of reasonable quality and cost-effectiveness.
+Methods
+We searched MEDLINE and Cinahl for English language
+articles published before November 2006, without limits,
+combining the search terms nurse practitioner or NP, RN
+or Nurse, extended or advanced practice, and emergency.
+This search retrieved 558 articles, of which 281 were se-
+lected manually for further review on the basis of the rele-
+vance of the abstract. Of these, 59 articles met inclusion
+criteria and were assessed for quality. We also performed a
+hand search of references for the included papers. Review
+articles were read for their reference lists. Any missing ar-
+ticles were retrieved and assessed.
+Articles were included if they discussed NPs by training
+or appellation who worked in the ED setting and if they
+addressed 1 of the 4 a priori determined outcomes of inter-
+est: cost, quality, wait times and patient satisfaction. Arti-
+cles could address any combination of adult and pediatric
+patients and did not have to be a direct comparison be-
+tween NPs and another health care provider. For qualita-
+tive and correlational studies, we assessed methodologic
+quality using a tool developed and previously published by
+Estabrooks and colleagues,17 which is shown in Table 1.
+Nurse practitioners in the ED
+que le recours à des IP peut réduire les temps d’attente aux urgences, accroître la satisfaction des
+patients et assurer une qualité de soins égale à celle que fournirait un résident en mi-formation.
+Le coût est plus élevé lorsqu’on le compare à celui de médecins résidents; toutefois, nous n’avons
+pas de données permettant d’établir une comparaison avec le coût de l’embauche de profession-
+nels de la médecine supplémentaires.
+Conclusion :Le milieu médical aurait avantage à examiner plus avant l’utilisation des IP, surtout
+dans les secteurs prioritaires des services achalandés. Dans les régions rurales, les IP pourraient
+prêter main-forte aux médecins surchargés et permettre ainsi d’éviter la fermeture de centres de
+santé. De telles stratégies pourraient améliorer l’accès aux soins et la satisfaction des patients de
+certaines populations urbaines et rurales tout en faisant un usage optimal des ressources médi-
+cales limitées.
+https://doi.org/10.1017/S1481803500015189 Published online by Cambridge University Press
+
+[W2098745922 PDF PAGE 3]
+Good quality was defined as a score of more than 4 points.
+Randomized controlled trials were assessed using the
+Jadad score, for which good quality was defined as a score
+of 3 of more. Scoring of these trials is shown in Table 2.
+Articles were excluded if they were found to be of poor
+quality or if they failed to meet inclusion criteria on de-
+tailed review. Ultimately, 36 papers were included in the
+analysis. A second author independently reviewed the arti-
+cles for appropriateness of inclusion and extracted data.
+The included papers are summarized in Table 3.
+Results
+Cost-effectiveness
+A complete summary of the results by outcome measure can
+be found in Table 4. Principal themes are highlighted in the
+following paragraphs. The ability to ration resources through
+clinical decision rules such as the Ottawa Ankle Rule was
+the same or better for NPs, compared with residents. Sakr
+and colleagues18 showed no difference between NPs and res-
+idents in terms of the rates at which they asked for advice or
+in terms of the scheduling of follow-up, although there was
+more unplanned follow-up in the resident group (8.6% v.
+13.1%, respectively; p = 0.03). Overall cost, however, ap-
+peared to be higher for NP care. Some of the studies, such as
+Sakr and colleagues19 cost per workload unit, did make an
+attempt to factor in more than the salary, although it is un-
+known whether the hidden training costs of residents were
+included. They calculated a revenue cost per workload unit
+of £41.4 in the minor injury unit and £40.01 in the ED. After
+factoring in the cost of a higher rate of scheduled follow-up
+(47% v. 27%), they found a cost consequence of £12.7 in the
+minor injury unit, compared with £9.66 in the ED.18 Another
+cost calculation, this time per hour, also found that the NP
+was slightly more expensive than the senior house officers,
+who would be the traditional care provider in the UK ED
+(the NP cost £12.18 hourly for daytime work, £15.81 for
+evening and Saturdays, and £19.44 on Sundays, while resi-
+dents always cost £14.91 hourly).19 These studies did not
+compare NPs to attending physicians.
+Quality of care
+Several of the studies looking at quality of care examined
+the accuracy of x-ray interpretation. Resident physicians
+and NPs were found to be equally competent, with a trend
+toward greater accuracy with more experience, regardless
+of profession (area under receiver operating characteristic
+curve 83.4% for experienced residents, 79.7% for NPs and
+75.6% for inexperienced residents.20 An Australian ran-
+domized control trial by Chang and colleagues examined a
+rural isolated ED, with satisfaction assessed by phone fol-
+low-up and outcome by blinded follow-up. Protocol was
+followed by the NP for all cases.21 Documentation, accu-
+Carter and Chochinov
+288 CJEM • JCMU July • juillet 2007; 9 (4)
+Table 1. Summary of quality assessment (qualitative and 
+correlational studies) 
+ Studies, n 
+Summary of quality assessment (n = 33) Yes No 
+Design   
+    Prospective studies 25 8 
+    Used probability sampling 5 28 
+Sample   
+    Appropriate or justified sample size 3 30 
+    Sample drawn from more than one site 6 27 
+    Anonymity protected 32 1 
+    Response rate > 60% 33 0 
+Measurement   
+    Reliable measure of effect 32 1 
+    Effect of sufficient magnitude to be 
+    measured 
+33 0 
+    Effect measured rather than self reported 
+    (score 2 points) 
+28 5 
+    Internal consistency ≥ 70% when scale used 4 29 
+    Theoretical model/framework used 6 27 
+Statistical analysis   
+    Correlations analyzed when multiple 
+    effected studied 
+0 33 
+    Management of outliers addressed 1 32 
+Table 2. Summary of quality assessment (randomized controlled trials) 
+ Studies, n 
+Summary of quality assessment, n = 3 Yes No 
+Was the study described as randomized? 3 0 
+Was the method used to generate randomization described and appropriate? 3 0 
+Was the study described as double blind? 0 3 
+Was the method of double blinding described and appropriate? 0 3 
+Was there a description of withdrawals and dropouts? 3 0 
+Deduct one point if the method used to generate randomization was described and inappropriate. — — 
+Deduct one point if the study w

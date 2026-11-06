@@ -1,0 +1,194 @@
+his 
+result review will support improving health care service quality and raising awareness of nursing when providing care for 
+cancer patients within the community.
+Keywords: breast neoplasm, patient discharge, systematic review, unmet supportive care needs
+J Health Sci Med Res 2023;41(1):e2022887
+doi: 10.31584/jhsmr.2022887
+www.jhsmr.org
+
+[W4289544487 PDF PAGE 2]
+Nguyen HTY.Post-discharge Unmet Needs of Breast Cancer
+Journal of Health Science and Medical Research                                                    J Health Sci Med Res 2023;41(1):e2022887
+2
+Introduction
+ Cancer is the leading cause of disease burden 
+around the world, placing enormous physical, emotional, 
+and financial strain on individuals, families, communities, 
+and health systems. Breast cancers occur in every country 
+around the world at all ages after puberty, but increase in 
+incidence later in life. ‘As of the end of 2020, almost eight 
+million women were diagnosed with breast cancer (15.4%), 
+making it the most common cancer in the world’. 1
+ Along with the increasing incidence of breast cancer 
+diagnosis as well as number of survivors nowadays, there 
+has also been a significant change in the treatments and 
+care regimens for this population. Most cancer patients were 
+discharged promptly from the hospital before full recovery, 
+and carry some physical problems (e.g. pain, side effects 
+of chemotherapy/radiotherapy) and psychological trauma 
+back home. 2 Transferring from hospital to home is stressful 
+for patients and their families, and if this transfer fails it can 
+result in adverse outcomes; such as, hospitalization, as well 
+as an additional financial burden for the patients and their 
+families, and health care systems. 3 Hence, the provision of 
+effective and high-quality care for breast cancer patients 
+is not only considered a key point at the time of hospital 
+treatment, but also followed up at the time of hospital 
+discharge, so as to improve quality of life (QoL). 4
+ To understand these problems, two authors; named 
+Hubbard and Wang, defined them as: "unmet supportive 
+care needs". This was the gap between a person’s 
+experience of services and the actual services either 
+required or desired. 5,6 Regarding the viewpoint of health 
+care services, unmet supportive care needs are the disparity 
+between a patient’s expectation from the provided medical 
+service and the real experience of the patient when using 
+it.7
+ In recent years, post-discharge cancer management 
+has gradually shifted its focus to the duties of general 
+practice/primary health care systems and nursing 
+practitioners; including some activities such as, coordination 
+of care between health care facilities, as well as the provision 
+of advice, information, and psychosocial consultancy to 
+patients and their families.8 Therefore, primary nurses play 
+a pivotal role in the caring process for post-discharge 
+cancer patients by providing support to meet the needs of 
+outpatients.9,10
+ Although, there have been several systematic/
+documented reviews previously undertaken to identify 
+unmet care needs of people with breast cancer, most of the 
+previous literature/systematic reviews have mainly focused 
+on the unmet supportive care needs of cancer patients at the 
+time of diagnosis, during treatment or at the end stage 11,12; 
+with these needs having shown a huge difference compared 
+to discharge time. Additionally, other studies have preferred 
+to focus on all people with cancer, regardless of the type 
+of cancer 13, or have only been conducted within a specific 
+area 11; rather than on people with breast cancer.
+ To understand the overall problem, this systematic 
+review was conducted on breast cancer patients after they 
+left the hospital, with two main objectives: 1) to identify the 
+post-discharge unmet supportive care needs of breast 
+cancer patients; 2) to collect related factors that affect 
+unmet supportive care needs of breast cancer patients.  
+Furthermore, the author also wanted to help nurses gain 
+a deeper understanding of their post-discharge patients' 
+needs, so as to create an opportunity to provide valuable 
+and effective care. This strategy may reduce the cost of 
+health services, contribute to more effective care of patients, 
+its longevity, and improve the QoL of patients and their 
+families.
+Material and Methods
+ Search strategy 
+ A literature search of electronic bibliography studies 
+was conducted from June 2021 to September 2021. 
+PubMed, Wiley Online Library, and Science Direct were 
+
+[W4289544487 PDF PAGE 3]
+Journal of Health Science and Medical Research                                                   J Health Sci Med Res 2023;41(1):e2022887
+3
+Nguyen HTY.Post-discharge Unmet Needs of Breast Cancer
+the three main databases used to collect relevant articles 
+for review. The researcher found articles by using Boolean 
+logic, and the terms following the PICo process (Table 1).14
+ Study selection
+ In the first round, a total of 455 articles were imported 
+and processed in Endnote. The researcher then removed 
+16 articles that were duplicated in three databases. From 
+this, 107 studies were reviewed by title and abstract, before 
+retrieval and full-text screening. To minimize bias during 
+the time of study selection, an author and two supervisors 
+independently evaluated the research papers for further 
+consideration; according to the eligibility criteria. Finally, 17 
+studies were included in the review (Figure 1).
+ Eligibility criteria
+ Studies that conformed with the following criteria 
+were included in this review: 1) studies conducted on 
+breast cancer patients; regardless of disease stage and 
+treatment protocol; 2) participants were adults, aged ≥18, 
+who were discharged from the hospital to their home with 
+or without having an appointment in an outpatient clinic; 3) 
+were primary/original research studies; 4) were published 
+in English with available full-text.
+ Studies were excluded if they: 1) were grey literature 
+(e.g., conference abstracts, dissertations, or protocol 
+papers); 2) had irrelevant or non-acceptable study designs; 
+including a systematic review, or meta-analysis that 
+were considered as secondary sources; 3) were studies 
+conducted before 2011.
+ Quality evaluation
+ The Centre for Evidence-Based Management Critical 
+Appraisal of a cross-sectional study with twelve issues, were 
+used to assess the methodological quality of 15 cross-sectional 
+studies, so as to determine to what extent these studies 
+addressed the possibility of bias in their design, conduct, 
+and analysis.15 The studies were included in the review if 
+six or more out of 12 quality criteria were met. 
+ In addition, this review also applied the Critical 
+appraisal checklist for Cohort study, developed by the 
+Joanna Briggs Institute (JBI), with eleven contents to 
+assess the methodological quality of two studies16,17 and to 
+determine the extent to which both studies have addressed 
+the potential for bias in their design, conduct, and analysis.18
+The analysis process was conducted independently by the 
+author as well as two supervisors to reach an agreement; 
+any discrepancies were further discussed.
+Table 1 Search strategy (following PICo process)
+Inclusion criteria Exclusion criteria Derived search terms
+P “Population” Post-discharge breast cancer All types of cancer; breast cancer 
+hospitalization; cancer in end-of-life 
+stage; cancer patients who receiving 
+palliative care 
+((breast cancer) OR (breast 
+neoplasm))
+I “Interest” Unmet supportive care needs 
+(including information; psychological; 
+physical; social domains seperately)
+Quality of life; cancer distress (anxiety 
+and depression)
+((unmet supportive care 
+needs) OR (supportive care 
+needs) OR (care needs))
+Co “Context” Community or outpatient clinics Hospital ((post-discharge) OR 
+(community dwelling))
+PICo process included: P (population); I (Interest); Co (Context)
+
+[W4289544487 PDF PAGE 4]
+Nguyen HTY.Post-discharge Unmet Needs of Breast Cancer
+Journal of Health Science and Medical Research                                                    J Health Sci Med Res 2023;41(1):e2022887
+4
+Figure 1 Study selection flow diagram
+ Data synthesis 
+ Within 17 articles, some main differences; such as, 
+study populations; which were diverse by age and marital 
+status, education level, employed status, cancer stages, 
+long time after discharge, and data collection measures 
+were used. 
+ The top ten unmet supportive care needs of breast 
+cancer participants after discharge from the hospital were 
+then tabulated. The purpose of this synthesis was to 
+create an accessible and evidence-based shortlist of post-
+discharge unmet supportive care needs frequently reported 
+by patients with breast cancer. When synthesizing each 
+issue, items of a different questionnaire that was used to 
+measure the common contents could be consolidated. 
+For example,: "I need local health care services that are 
+available when I require them" (from Cancer Survivors 
+Unmet Needs – CaSUN) and: "Having access to 
+professional counseling (e.g., psychologist, social worker, 
+counselor, nurse specialist) if you, family or friends need 
+it" (from Supportive Care Needs Survey – Short Form 34 – 
+SCNS-SF34) were put into one item labeled: "need to get 
+medical care". However, some items within the scale were 
+consolidated; for example: "being given written information 
+about the important aspects of your care": "being given 
+information (written, diagrams, drawings) about aspects of 
+managing your illness and side-effects at home": "being 
+given explanations of those tests for which you would like 
+explanations" (SCNS-SF34) were a group in information 
+needed. Items were organized into 5 domains: patient and 
+care support, health systems and information, physical and 
+daily living, psychological, and sexuality.
+ Correlate factors: the review concentrated on 
+relationships between post-discharge unmet supportive care 
+needs of breast cance

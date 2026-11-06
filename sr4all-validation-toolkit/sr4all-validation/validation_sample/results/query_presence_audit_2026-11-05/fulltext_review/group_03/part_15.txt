@@ -1,0 +1,409 @@
+11 – no training was provided, 9 – training was provided by citizens of the low-resource 
+country, 3 – pilot studies, 3 – no outcome data or statistical analysis, 1 – trained nurses, 1 – works in progress, 1 
+– developed country, 2 – lab training, 1 – study was conducted across multiple countries, 1 – protocol, 1 – article 
+was retracted.  
+For purposes of this review we operationalized major terms as: training outcomes – outcomes as chosen by the 
+study under review for the outcome of their training pr ogram (ie. skills, knowledge); chronic illness – diseases 
+that are not passed from person to person and that last a long time or progress slowly (World Health 
+Organization, 2016); effective strategies – training that produced statistically significant changes in identified 
+outcomes; low- and middle- outcome countries – countries with a gross national income per capita for the 
+previous year of $12,736 or less (The World Bank, 2015).  
+Data were collected from each manus cript including the coun try where the training was provided, trainers’ 
+country of origin, training length of time, specialty, study type and the outcome that was measured. Data were 
+also collected regarding training outcomes, including pre-training levels, post-training levels, and the statistical 
+significance. Due to the systematic nature of the search, the results were structured to provide more 
+comprehensive information than a narrative review. However, due to the heterogeneity of the results, including 
+study design, sample size, and training outcomes selected by authors, we did not conduct a meta-analysis upon 
+conclusion of the review. As very few studies used a randomized controlled design, and a large amount of 
+heterogeneity existed in the amount of information provided on details surrounding the training program, we 
+chose to provide the information in the results rather than measuring study rigor. 
+3. Results 
+3.1 Study Selection and Data Collection 
+Articles were reviewed for eligibility in a systematic fa shion. After duplicates were removed, 9889 articles 
+remained for review. Fifty-eight articles were assesse d for final eligibility and fully reviewed. Thirty-four 
+additional papers were excluded from the final synthesi s, resulting in twenty-four eligible studies identified 
+based on the pre-determined eligibility criteria. 
+Data collected from the eligible articles are shown in Ta bles 2 and 3. The number of study participants ranged 
+from 12 to 12,795, training duration ranged from one day to three years. There were also a variety of study 
+designs used for the papers reviewed including: 12 pre-post-test, 5 quasi-experimental, 1 randomized control 
+trial, 3 cluster randomized control trials, 1 prospective comparison, and 2 cross-sectional designs. Due to the 
+heterogeneity of the studies reviewed we did not conduct an assessment of the risk of bias. 
+ 
+Table 2. Characteristics of studies meeting eligibility criteria 
+Study 
+Author, 
+Year 
+Country where 
+training was 
+provided 
+Trainer 
+country of 
+origin 
+Participants 
+(Completed) Specialty Training 
+duration Training setting Study design Outcome measured
+Ajuwon, 
+2008 Nigeria Not 
+Specified 133 (97) Research Ethics
+3 rounds of 
+3 days, 7 
+hours/day 
+Workshops, 
+group sessions Pre-Post Test Knowledge 
+Arreola-Ri
+sa, 2007 Mexico Not 
+Specified 
+3726 trauma 
+patients 
+Emergency 
+Medical 
+Services (EMS)
+3 – 11 
+months, 2-3 
+hours/day 
+Classes Quasi-experime
+ntal Mortality rate 
+Autry, 
+2013 Uganda United 
+States 18 (15) Obstetrics and 
+Gynecology 4 weeks Remote, video 
+teaching 
+Randomized 
+Control Trial, 
+Pre-Post Test 
+Two-handed knot 
+tying 
+Baig, 2008 Malawi Scotland 
+and Norway 
+57 Malawi 
+students, 71 
+Univ. of 
+Edinburgh 
+students 
+Psychiatry 2 weeks Classes Quasi-experime
+ntal 
+Student exam 
+performance 
+
+[W2318021330 PDF PAGE 4]
+www.ccsenet.org/gjhs Global Journal of Health Science V ol. 8, No. 11; 2016 
+281 
+ 
+Bedada, 
+2015 Botswana Canada 12 Surgery 3 days Workshops Quasi-experime
+ntal 
+Patient safety and 
+sustainability of 
+MAS program 
+Brown, 
+2000 Honduras Not 
+Specified 87 (79) Ambulatory 
+Care 
+3 ½ day 
+sessions Workshops Pre-Post Test 
+Interpersonal 
+communication, 
+patient satisfaction
+Dizon, 
+2014 Philippines Not 
+Specified 31 Variety of health 
+professionals 1 day 
+Lectures, 
+practice 
+sessions, and 
+small group 
+discussion 
+Pre-Post Test 
+Knowledge and 
+skills in 
+Evidence-Based 
+Practice 
+Dodani, 
+2008 Pakistan United 
+States 80 (56) Healthcare 
+Physicians 9 days 
+Face-to-face and 
+video-teleconfer
+encing 
+Quasi-experime
+ntal, Pre-Post 
+Test 
+Short- and 
+long-term 
+effectiveness of 
+research training 
+Goodwin, 
+2012 India Not 
+Specified 160 (143) Paramedic 
+students 2 days Classes Prospective 
+comparison 
+ACLS cognitive 
+exam scores 
+Goudar, 
+2012 India United 
+States 12795 babies 
+Physicians, 
+Nurse 
+Mid-wives, 
+TBAs 
+1, 3, 5 days
+Trainer of 
+trainers – 
+Didactic and 
+practice sessions
+Cluster 
+Randomized 
+Control Trial 
+Perinatal and 
+neonatal mortality
+Hashmi, 
+2013 Pakistan Not 
+Specified 1227 
+Anesthesiology, 
+Emergency 
+Medicine, 
+Surgical 
+subspecialties 
+2 days 
+Classes 
+(modified 
+current 
+curriculum) 
+Pre-Post Test 
+In-hospital 
+complication and 
+mortality 
+Hoban, 
+2013 Ethiopia 
+United 
+States and 
+Europe 
+111 (69) Health 
+Educators 2 days Lecture and 
+skills practice Pre-Post Test Resuscitation 
+knowledge 
+Husum, 
+2003 
+Cambodia and 
+Iraq Norway 44 (42) 
+Village 
+healthcare 
+workers 
+ 
+3 years Classes Pre-Post Test Health effects and 
+sustainability 
+Husum, 
+2003 
+Cambodia and 
+Iraq Norway 44  Paramedics 3 years Classes Pre-Post Test 
+Pre-hospital 
+physiologic 
+severity levels, 
+trauma mortality, 
+infectious 
+complications 
+Kauye, 
+2014 Malawi United 
+Kingdom 22 
+Primary 
+healthcare 
+workers 
+3, 5 days Training 
+sessions 
+Random 
+allocation with 
+repeated 
+cross-sectional 
+surveys 
+Diagnosis and 
+management of 
+cases 
+Kebede, 
+2012 Ethiopia United 
+States 24 hospitals Hospital CEOs
+3 – 3 week 
+blocks over 
+2 years 
+MHA program Pre-Post Test 
+Adherence to 
+management 
+standards 
+Kulier, 
+2012 
+Argentina, 
+Brazil, Dem. 
+Rep. of Congo, 
+India, 
+Philippines, S. 
+Not 
+Specified 
+60 clinical 
+training units 
+(46) 
+Obstetrics and 
+gynecology 8 weeks 
+e-learning & 
+self-directed 
+course 
+International 
+cluster 
+randomized 
+control trial 
+Knowledge, skills, 
+educational 
+environment 
+
+[W2318021330 PDF PAGE 5]
+www.ccsenet.org/gjhs Global Journal of Health Science V ol. 8, No. 11; 2016 
+282 
+ 
+Africa, 
+Thailand 
+Levine, 
+2011 
+Uganda, El 
+Salvador 
+United 
+States 
+45 (42 initial 
+posttest, 18 at 6 
+month 
+follow-up) 
+Healthcare 
+providers 5 days Lectures and 
+practice Pre-Post Test Knowledge and 
+comfort level 
+Lewin, 
+2005 S. Africa Not 
+Specified 24 clinics Primary care 
+clinic staff 6 weeks 
+Experiential 
+learning 
+sessions 
+Cluster 
+randomized 
+control trial 
+Patient adherence, 
+treatment 
+outcomes 
+Makaniuol
+a, 2012 Nigeria Not 
+Specified 24 
+Teachers who 
+train primary 
+care providers 
+5 days Workshop Pre-Post Test 
+Knowledge, 
+beliefs, and 
+attitudes 
+Tomatis, 
+2011 Peru Not 
+Specified 220 
+Physicians in 
+training, 
+practicing 
+physicians, 
+allied health 
+professionals 
+3 days Lectures and 
+workshops Pre-Post Test 
+Competence and 
+importance to 
+practice 
+vanHeng, 
+2008 Cambodia Europe 21 
+Assistant 
+medical 
+officers, trauma 
+care providers 
+3 weeks Classes Pre-Post Test 
+Self-confidence, 
+surgical skill, 
+teamwork 
+Wang, 
+2014 
+Ghana and 
+Liberia 
+United 
+States 15 Medical doctors 2 days 
+Didactic 
+lectures, hands 
+on practice, 
+discussion 
+sessions 
+Quasi-experime
+ntal Surgical capacity 
+Wee, 2011 Singapore Not 
+Specified 658 Medical 
+students 
+½ academic 
+year 
+Comparison of 
+students who 
+participated in 
+PHS, NHS, or 
+both. 
+Cross-sectional  
+Leadership, 
+communication, 
+teamwork, critical 
+thinking skills  
+ 
+Table 3. Summary of intervention and outcomes for studies meeting eligibility criteria  
+Author, Year Intervention Description  Outcome Measured Statistical Significance 
+Ajuwon, 
+2008 
+Three sets of training workshops lasting 21 hours over 3 
+days. Workshops were facilitated by 7 individuals with 
+previous training and experience in research ethics. 
+Techniques included: lecture, Q&A, group discussion of 
+case studies. Information covered included: research 
+ethics, principles of research ethics, ethics in research 
+design, ethical issues in drug trials, confidentiality, 
+informed consent, conflicts of interest, and scientific 
+misconduct. 
+Knowledge Knowledge of principles of 
+research ethics increased from 
+0.67 to 2.25 out of 3(p<0.05) 
+Application of research ethics 
+increased from 2.64 to 3.05 
+(p<0.05) 
+Knowledge about IRB operations 
+increased from 6.05 to 6.29 out of 
+7 (p<0.05) 
+Arreola-Risa, 
+2007 
+Green Cross – 3 month programs provided by the Green 
+Cross 
+Red Cross – 11 month programs provided by the Red 
+Cross. Taught pre-hospital care skills like rescue and 
+extrication 
+In both programs students went  to classes for 2-3 hours 
+per day 
+Mortality Rate Mortality – decreased from 6.3% 
+to 2.5% (p<0.001) 
+
+[W2318021330 PDF PAGE 6]
+www.ccsenet.org/gjhs Global Journal of Health Science V ol. 8, No. 11; 2016 
+283 
+ 
+Autry, 2013 Three faculty members at  the University of California, 
+San Francisco led the video teaching sessions for 1hour. 
+3:1 student to faculty ratio . A Ugandan faculty member 
+facilitated the teaching sessions only by offering technical 
+support and keeping track of the time. Each intern had 3 
+different teaching sessions with different faculty 
+2 – handed knot tying Score improvement of 50% or 
+more in 6 out of 8 in the 
+intervention group compared with 
+1 out of 7 in the control group 
+(p=0.04) 
+Baig, 2008  Two weeks of theoretical teaching to students in Malawi. 
+Edinburgh students received theoretical teaching spread 
+over 5 months in the 3rd year. 
+Exam in Malawi comparable 
+to that given in Scotland 
+There was no significant 
+difference between the scores on 
+the exams taken by the Malawi 
+stude

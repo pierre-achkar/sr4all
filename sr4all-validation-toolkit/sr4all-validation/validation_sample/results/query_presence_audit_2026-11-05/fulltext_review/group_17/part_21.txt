@@ -1,0 +1,64 @@
+e University Hospital, Odense, Denmark. 3Student Research Committee, Tabriz University of Medical
+Sciences, Tabriz, Iran. 4Department of Radiology, Odense University Hospital, Odense, Denmark. 5Centre for Innovative
+Medical Technology, Odense University Hospital, Odense, Denmark.
+Received: 30 June 2019 Accepted: 29 August 2019
+References
+Benveniste AP, Marom EM, Benveniste MF, Mawlawi O, Fox PS, Yang W (2015) Incidental primary breast cancer detected on
+PET-CT. Breast Cancer Res Treat 151(2):261 – 268
+Bertagna F, Evangelista L, Piccardo A, Bertoli M, Bosio G, Giubbini R etal (2015) Multicentric study on 18F-FDG-PET/CT breast incidental
+uptake in patients studied for non-breast malignant purposes. Revista Espanola de Medicina Nuclear e Imagen Molecular 34(1):24–29
+Bertagna F, Treglia G, Orlando E, Dognini L, Giovanella L, Sadeghi R et al (2014) Prevalence and clinical significance of
+incidental F18-FDG breast uptake: a systematic review and meta-analysis. Jpn J Radiol 32(2):59 – 68
+Brown AM, Lindenberg ML, Sankineni S, Shih JH, Johnson LM, Pruthy S et al (2015) Does focal incidental 18 F-FDG PET/CT
+uptake in the prostate have significance? Abdom Imaging 40(8):3222 – 3229
+Chae EY, Cha JH, Kim HH, Shin HJ, Kim HJ, Oh HY et al (2012) Analysis of incidental focal hypermetabolic uptake in the breast
+as detected by 18F-FDG PET/CT: clinical significance and differential diagnosis. Acta Radiol 53(5):530 – 535
+Chen W, Zhu L, Yu X, Fu Q, Xu W, Wang P (2018) Quantitative assessment of metabolic tumor burden in molecular subtypes
+of primary breast cancer with FDG PET/CT. Diagn Interv Radiol 24(6):336 – 341
+Chung A, Schoder H, Sampson M, Morrow M, Port E (2010) Incidental breast lesions identified by 18F-fluorodeoxyglucose-
+positron emission tomography. Ann Surg Oncol 17(8):2119 – 2125
+Dong A, Wang Y, Lu J, Zuo C (2016) Spectrum of the breast lesions with increased 18F-FDG uptake on PET/CT. Clin Nucl Med 41(7):543–557
+Dunne RM, O'Mahony D, Wilson G, McDermott R, O'Keeffe SA (2013) The role of the breast radiologist in evaluation of breast
+incidentalomas detected on 18-fludeoxyglucose positron emission tomography/CT. Br J Radiol 86(1026):20130034
+Egger M, Smith GD, Schneider M, Minder C (1997) Bias in meta-analysis detected by a simple, graphical test. Bmj. 315(7109):629 –634
+Global Burden of Disease Cancer C (2017) Global, regional, and national cancer incidence, mortality, years of life lost, years
+lived with disability, and disability-adjusted life-years for 32 cancer groups, 1990 to 2015: a systematic analysis for the
+global burden of disease study. JAMA Oncol 3(4):524 – 548
+Gucalp A, Traina TA, Eisner JR, Parker JS, Selitsky SR, Park BH et al (2018) Male breast cancer: a disease distinct from female
+breast cancer. Breast Cancer Res Treat 173(1):1 – 12
+Higgins JP, Thompson SG, Deeks JJ, Altman DG (2003) Measuring inconsistency in meta-analyses. Bmj. 327(7414):557 – 560
+Kang BJ, Lee JH, Yoo Ie R, Kim SH, Choi JJ, Jeong SH et al (2011) Clinical significance of incidental finding of focal activity in
+the breast at 18F-FDG PET/CT. AJR Am J Roentgenol 197(2):341 – 347
+Kim MY, Cho N, Chang JM, Yun BL, Bae MS, Kang KW et al (2012) Mammography and ultrasonography evaluation of
+unexpected focal 18F-FDG uptakes in breast on PET/CT. Acta Radiol 53(3):249 – 254
+Lim S, Lee EH, Park JM, Chang YW, Kim HH, Jeong SH (2013) Role of combined BI-RADS assessment using mammography and
+sonography for evaluation of incidental hypermetabolic lesions in the breast on 18F-FDG PET-CT. Acta Radiol 54(10):1117 –1124
+Litmanovich D, Gourevich K, Israel O, Gallimidi Z (2009) Unexpected foci of 18F-FDG uptake in the breast detected by PET/
+CT: incidence and clinical significance. Eur J Nucl Med Mol Imaging 36(10):1558 – 1564
+Minamimoto R, Senda M, Jinnouchi S, Terauchi T, Yoshida T, Inoue T (2015) Detection of breast cancer in an FDG-PET cancer
+screening program: results of a nationwide Japanese survey. Clin Breast Cancer 15(2):e139 – ee46
+Moher D, Liberati A, Tetzlaff J, Altman DG (2009) Preferred reporting items for systematic reviews and meta-analyses: the
+PRISMA statement. BMJ. 6(7):e1000097
+Nomura S, Hisashige A, Yoneoka D, Kanda M, Miyamoto K, Segawa M et al (2015) An assessment of the characteristics and quality
+of diagnostic accuracy studies for positron emission tomography conducted in Japan: a systematic review. EJNMMI Res 5:6
+Pencharz D, Nathan M, Wagner TL (2018) Evidence-based management of incidental focal uptake of fluorodeoxyglucose on
+PET-CT. Br J Radiol 91(1084):20170774
+Sharma R (2019) Breast cancer incidence, mortality and mortality-to-incidence ratio (MIR) are associated with human
+development, 1990 – 2016: evidence from Global Burden of Disease Study 2016. Breast Cancer 26(4):1 – 18
+Shin KM, Kim HJ, Jung SJ, Lim HS, Lee SW, Cho SH et al (2015) Incidental breast lesions identified by 18F-FDG PET/CT: which
+clinical variables differentiate between benign and malignant breast lesions? J Breast Cancer 18(1):73 – 79
+Sterne J, Egger M, Smith G (2001) Systematic reviews in health care: Investigating and dealing with publication and other
+biases in meta-analysis. BMJ 323(7304):101 – 105 [cited 2015 Jul 28]
+Sterne JA, Egger M (2001) Funnel plots for detecting bias in meta-analysis: guidelines onchoice of axis. J Clin Epidemiol 54(10):1046–1055
+Sterne JA, Harbord RM (2004) Funnel plots in meta-analysis. Stata J 4(2):127 – 141
+Treglia G, Bertagna F, Sadeghi R, Muoio B, Giovanella L (2015) Prevalence and risk of malignancy of focal incidental uptake
+detected by fluorine-18-fluorodeoxyglucose positron emission tomography in the parotid gland: a meta-analysis. Eur
+Arch Otorhinolaryngol 272(12):3617 – 3626
+Valente MA (2018) Endoscopic and histopathological analysis of incidental focal colorectal 18 F-fluorodeoxyglucose uptake in
+PET/CT scan: Colonoscopic evaluation is warranted. Am J Surg 215(3):379 – 381
+Whiting PF, Sterne JA (2012) The revised QUADAS-2 tool. Ann Intern Med 156(4):323 – 324
+Publisher’sN o t e
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Aarstad et al. European Journal of Hybrid Imaging            (2019) 3:16 Page 12 of 12
+
+END REVIEW W2975642467

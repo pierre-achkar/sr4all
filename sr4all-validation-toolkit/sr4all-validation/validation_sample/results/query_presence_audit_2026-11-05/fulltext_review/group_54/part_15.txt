@@ -1,0 +1,215 @@
+Kumar M, Lau GK, Abbas Z, Chan HL, Chen CJ, et 
+al. Asian-Pacific clinical practice guidelines on the manage -
+ment of hepatitis B: a 2015 update. Hepatol Int 2016;10:1-98.
+18.  Sagir A, Erhardt A, Schmitt M, Häussinger D. Transient elas -
+tography is unreliable for detection of cirrhosis in patients with 
+acute liver damage. Hepatology 2008;47:592-595.
+19. Arena U, Vizzutti F, Corti G, Ambu S, Stasi C, Bresci S, et al. 
+Acute viral hepatitis increases liver stiffness values measured 
+by transient elastography. Hepatology 2008;47:380-384.
+20. Higgins JPT, Thomas J, Chandler J, Cumpston M, Li T, Page 
+MJ, et al. Cochrane Handbook for Systematic Reviews of In -
+terventions. 2nd ed. Wiley-Blackwell, 2019.
+21. Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, 
+Mulrow CD, et al. The PRISMA 2020 statement: an updated 
+guideline for reporting systematic reviews. BMJ 2021;372:n71.
+22.  Health Insurance Review & Assessment Service. Insurance 
+Reimbursement Criteria for Liver Disease Medications. HIRA 
+web site, <https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdt-
+CrtrPopup.do?mtgHmeDd=20221101&sno=4&mtgMtrRegSno
+=1&brdScnBltNo=4&brdBltNo=>. Accessed 1 May 2024.
+23.  Whiting PF, Rutjes AW, Westwood ME, Mallett S, Deeks JJ, 
+Reitsma JB, et al. QUADAS-2: a revised tool for the quality 
+assessment of diagnostic accuracy studies. Ann Intern Med 
+2011;155:529-536.
+24. Schneider A, Linde K, Reitsma JB, Steinhauser S, Rücker G. 
+A novel statistical model for analyzing data of a systematic 
+review generates optimal cutoff values for fractional exhaled 
+nitric oxide for asthma diagnosis. J Clin Epidemiol 2017;92:69-
+78.
+25.  Steinhauser S, Schumacher M, Rücker G. Modelling multiple 
+
+[W4400900444 PDF PAGE 11]
+ Mi Na Kim, et al.
+ Vibration-controlled transient elastography for significant fibrosis
+https://doi.org/10.3350/cmh.2024.0371
+S115
+http://www.e-cmh.org
+thresholds in meta-analysis of diagnostic test accuracy stud -
+ies. BMC Med Res Methodol 2016;16:97.
+26.  Lesmana CR, Salim S, Hasan I, Sulaiman AS, Gani RA, 
+Pakasi LS, et al. Diagnostic accuracy of transient elastography 
+(FibroScan) versus the aspartate transaminase to platelet ratio 
+index in assessing liver fibrosis in chronic hepatitis B: the role 
+in primary care setting. J Clin Pathol 2011;64:916-920.
+27. Leung VY, Shen J, Wong VW, Abrigo J, Wong GL, Chim AM, 
+et al. Quantitative elastography of liver fibrosis and spleen 
+stiffness in chronic hepatitis B carriers: comparison of shear-
+wave elastography and transient elastography with liver biopsy 
+correlation. Radiology 2013;269:910-918.
+28.  Seo YS, Kim MY, Kim SU, Hyun BS, Jang JY, Lee JW, et al. 
+Accuracy of transient elastography in assessing liver fibrosis in 
+chronic viral hepatitis: A multicentre, retrospective study. Liver 
+Int 2015;35:2246-2255.
+29.  Huang R, Jiang N, Yang R, Geng X, Lin J, Xu G, et al. Fi -
+broscan improves the diagnosis sensitivity of liver fibrosis in 
+patients with chronic hepatitis B. Exp Ther Med 2016;11:1673-
+1677.
+30. Li Y, Cai Q, Zhang Y, Xie Q, Xu N, Jiang X, et al. Development 
+of algorithms based on serum markers and transient elastog -
+raphy for detecting significant fibrosis and cirrhosis in chronic 
+hepatitis B patients: Significant reduction in liver biopsy. Hepa -
+tol Res 2016;46:1367-1379.
+31. Liang XE, Zhong C, Huang L, Yang S, Zhu Y, Chen Y, et al. 
+Optimization of hepatitis B cirrhosis detection by stepwise ap -
+plication of transient elastography and routine biomarkers. J 
+Gastroenterol Hepatol 2017;32:459-465.
+32. Zhao J, Zhai F, Cheng J, He Q, Luo J, Yang X, et al. Evaluat -
+ing the significance of viscoelasticity in diagnosing early-
+stage liver fibrosis with transient elastography. PLoS One 
+2017;12:e0170073.
+33. Li Q, Chen L, Zhou Y. Diagnostic accuracy of liver stiffness 
+measurement in chronic hepatitis B patients with normal 
+or mildly elevated alanine transaminase levels. Sci Rep 
+2018;8:5224.
+34. Li S, Shi L, Xu X, Wang H, You H, Jia J, et al. Systematic 
+review with meta-analysis: Significant histological changes 
+among treatment-naïve chronic hepatitis B patients with nor -
+mal alanine aminotransferase levels by different criteria. Ali -
+ment Pharmacol Ther 2023;58:648-658.
+35. Nguyen LH, Chao D, Lim JK, Ayoub W, Nguyen MH. Histologic 
+changes in liver tissue from patients with chronic hepatitis B 
+and minimal increases in levels of alanine aminotransferase: 
+a meta-analysis and systematic review. Clin Gastroenterol 
+Hepatol 2014;12:1262-1266.
+36. Castera L. Noninvasive methods to assess liver disease in pa -
+tients with hepatitis B or C. Gastroenterology 2012;142:1293-
+1302.e4.
+37. Erman A, Sathya A, Nam A, Bielecki JM, Feld JJ, Thein HH, 
+et al. Estimating chronic hepatitis C prognosis using transient 
+elastography-based liver stiffness: A systematic review and 
+meta-analysis. J Viral Hepat 2018;25:502-513.
+38. Erman A, Krahn MD, Hansen T, Wong J, Bielecki JM, Feld JJ, 
+et al. Estimation of fibrosis progression rates for chronic hepa -
+titis C: a systematic review and meta-analysis update. BMJ 
+Open 2019;9:e027491.
+39.  Pavlov CS, Casazza G, Nikolova D, Tsochatzis E, Gluud C. 
+Systematic review with meta-analysis: diagnostic accuracy 
+of transient elastography for staging of fibrosis in people with 
+alcoholic liver disease. Aliment Pharmacol Ther 2016;43:575-
+585.
+40. Castera L, Pinzani M. Biopsy and non-invasive methods for 
+the diagnosis of liver fibrosis: does it take two to tango? Gut 
+2010;59:861-866.
+41. Tsochatzis EA, Crossan C, Longworth L, Gurusamy K, Rodri -
+guez-Peralvarez M, Mantzoukis K, et al. Cost-effectiveness of 
+noninvasive liver fibrosis tests for treatment decisions in pa-
+tients with chronic hepatitis C. Hepatology 2014;60:832-843.
+42. Kim SU, Kim JK, Park JY, Ahn SH, Lee JM, Baatarkhuu O, et 
+al. Variability in liver stiffness values from different intercostal 
+spaces. Liver Int 2009;29:760-766.
+43. Cho HJ, Seo YS, Lee KG, Hyun JJ, An H, Keum B, et al. Se -
+rum aminotransferase levels instead of etiology affects the 
+accuracy of transient elastography in chronic viral hepatitis 
+patients. J Gastroenterol Hepatol 2011;26:492-500.
+44. Kim SU, Seo YS, Cheong JY, Kim MY, Kim JK, Um SH, et 
+al. Factors that affect the diagnostic accuracy of liver fibrosis 
+measurement by Fibroscan in patients with chronic hepatitis B. 
+Aliment Pharmacol Ther 2010;32:498-505.
+45. Myers RP, Crotty P, Pomier-Layrargues G, Ma M, Urbanski SJ, 
+Elkashab M. Prevalence, risk factors and causes of discor -
+dance in fibrosis staging by transient elastography and liver 
+biopsy. Liver Int 2010;30:1471-1480.
+46. Wong GL, Wong VW, Choi PC, Chan AW, Chim AM, Yiu KK, 
+et al. Clinical factors associated with liver stiffness in hepatitis 
+B e antigen-positive chronic hepatitis B patients. Clin Gastro-
+enterol Hepatol 2009;7:227-233.
+47. Ji D, Chen Y, Shang Q, Liu H, Tan L, Wang J, et al. Unreliable 
+
+[W4400900444 PDF PAGE 12]
+https://doi.org/10.3350/cmh.2024.0371
+S116
+Clinical and Molecular Hepatology
+Volume_30 Supplement September 2024
+http://www.e-cmh.org
+estimation of fibrosis regression during treatment by liver stiff -
+ness measurement in patients with chronic hepatitis B. Am J 
+Gastroenterol 2021;116:1676-1685.
+48.  European Association for Study of Liver; Asociacion Latino -
+americana para el Estudio del Higado. EASL-ALEH Clinical 
+Practice Guidelines: Non-invasive tests for evaluation of liver 
+disease severity and prognosis. J Hepatol 2015;63:237-264.
+49.  Rosenberger KJ, Chu H, Lin L. Empirical comparisons of 
+meta-analysis methods for diagnostic studies: a meta-epide -
+miological study. BMJ Open 2022;12:e055336.
+50. Mueller S, Sandrin L. Liver stiffness: a novel parameter for the 
+diagnosis of liver disease. Hepat Med 2010;2:49-67.
+
+[W4400900444 PDF PAGE 13]
+ Mi Na Kim, et al.
+ Vibration-controlled transient elastography for significant fibrosis
+https://doi.org/10.3350/cmh.2024.0371http://www.e-cmh.org
+Supplemen tary Figure 1. The forest plot of vibration-controlled transient elastography for the diagnosis of significant liver fibrosis in a 
+subgroup analysis of patients with serum alanine transferase levels within 2-fold the upper limit of normal. CI, confidence interval.
+Study TP FP FN TN Total ≥F2 Cutoff Sensitivity [95% CI] Specificity [95% CI]
+Li, Y. (2016) 134 28 88 57 307 222 6.20 0.60 [0.54-0.67] 0.67 [0.56-0.77]
+Li, Q. (2018) 71 11 23 83 188 94 6.50 0.76 [0.66-0.84] 0.88 [0.80-0.94]
+Huang, R. (2016) 34 33 5 191 263 39 8.00 0.87 [0.73-0.96] 0.85 [0.80-0.90]
+Summary 0.74 [0.59-0.85] 0.82 [0.70-0.89]
+Heterogeniety: Tau
+2
+=0.2592, I
+2
+=85.4% Tau
+2
+=0.2572, I
+2
+=87.5%
+Q=13.71, df=2 ( P<0.01) Q=16.05, df=2 ( P<0.01)0 01 10.25 0.250.5 0.50.75 0.75
+
+[W4400900444 PDF PAGE 14]
+https://doi.org/10.3350/cmh.2024.0371
+Clinical and Molecular Hepatology
+Volume_30 Supplement September 2024
+http://www.e-cmh.org
+Sensitivity
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+0.0 0.2 0.4 0.6
+False Positive Rate
+Study estimate
+Summary point
+HSROC curve AUC=0.83(0.66-0.92)
+95% estimate region
+95% prediction region
+0.8 1.0
+Supplemen tary Figure 2. The hierarchical summary receiver operating characteristic curve of vibration-controlled transient elastogra -
+phy for diagnosis of significant liver fibrosis in a subgroup analysis of patients with serum alanine transferase levels within 2-fold the up -
+per limit of normal. HSROC; hierarchical summary receiver operating characteristic curve; AUC, area under the curve.
+
+[W4400900444 PDF PAGE 15]
+ Mi Na Kim, et al.
+ Vibration-controlled transient elastography for significant fibrosis
+https://doi.org/10.3350/cmh.2024.0371http://www.e-cmh.org
+A
+b
+Supplemen tary Figure 3.  The summary of methodological quality of nine studies according to the Quality Assessment of Diagnostic 
+Studies-2 tool. (A) Overall and (B) study-level of bias.
+Patient Selection
+Index TestReference StandardFlow and Timing
+Patient Selection
+Index Test
+Reference Standard
+Risk of Bias Applicability Concerns
+Huang 2016
+Lesmana 2011
+Leung 2013
+Li, Q 2018
+Li 2016
+Liang 2017
+Seo 2015
+Zhao 20

@@ -1,0 +1,171 @@
+lti-dimensional	assessments	of	chemistry	and	physics.	Journal of Science Education and 
+Technology,	30,	239–254.	https://doi.org/10.1007/s10956-020-09895-9.
+Mansour,	N.	(2009).	Science-technology-society	(STS)	a	new	paradigm	in	science	education.	Bulletin of Sci-
+ence Technology & Society,	29(4),	287–297.	https://doi.org/10.1177/0270467609336307.
+Mavroudi,	A.,	Giannakos,	M.,	&	Krogstie,	J.	(2018).	Supporting	adaptive	learning	pathways	through	the	use	
+of	learning	analytics:	Developments,	challenges	and	future	opportunities.	Interactive Learning Environ-
+ments, 26(2),	206–220.	https://doi.org/10.1080/10494820.2017.1292531
+Mirchi,	N.,	Bissonnette,	V.,	Yilmaz,	R.,	Ledwos,	N.,	Winkler-Schwartz,	A.,	&	Del	Maestro,	R.	F.	J.	P.	(2020).	
+The	virtual	operative	assistant:	An	explainable	artificial	intelligence	tool	for	simulation-based	training	
+in	surgery	and	medicine.	Plos One,	15(2),	e0229596.	https://doi.org/10.1371/journal.pone.0229596.
+Mogea,	T.	(2022).	Students’	critical	thinking	ability	in	English	teaching	and	learning.	Jurnal Pendidikan Dan 
+Sastra Inggris,	2(3),	157–171.
+Nasution	&	Education.	(2023).	Using	artificial	intelligence	to	create	biology	multiple	choice	questions	for	
+higher	education.	Agricultural and Environmental Education,	2(1).
+Nersa,	A.	(2020).	The coverage of children Rights in Amhara television children’ s program
+Nguyen,	P.,	Trương,	H.,	Nguyen,	P.,	Bruneau,	P.,	Cao,	L.,	&	Wang,	J.	(2023).	Evaluation	of	Google	Bard	on	
+Vietnamese	High	School	Biology	Examination.
+Nja,	C.	O.,	Idiege,	K.	J.,	Uwe,	U.	E.,	Meremikwu,	A.	N.,	Ekon,	E.	E.,	Erim,	C.	M.,	&	Umalili,	B.	(2023).	
+Adoption	of	artificial	intelligence	in	science	teaching:	From	the	vantage	point	of	the	African	science	
+teachers.	Smart Learning Environments,	10(1),	42.	https://doi.org/10.1186/s40561-023-00261-x.
+Page,	M.	J.,	McKenzie,	J.	E.,	Bossuyt,	P.	M.,	Boutron,	I.,	Hoffmann,	T.	C.,	Mulrow,	C.	D.,	&	Brennan,	S.	E.	
+(2021).	The	PRISMA	2020	statement:	An	updated	guideline	for	reporting	systematic	reviews.	Interna-
+tional Journal of Surgery,	88,	105906.	https://doi.org/10.1136/bmj.n71.
+Piasecki,	J.,	Waligora,	M.,	&	Dranseika,	V.	(2018).	Google	search	as	an	additional	source	in	systematic	
+reviews.	Science and Engineering Ethics,	24,	809–810.
+Popenici,	S.	A.,	&	Kerr,	S.	(2017).	Exploring	the	impact	of	artificial	intelligence	on	teaching	and	learning	in	
+higher	education.	Research and Practice in Technology Enhanced Learning ,	12(1),	1–13.	https://doi.
+org/10.1186/s41039-017-0062-8.
+Siddaway,	A.	P.,	Wood,	A.	M.,	&	Hedges,	L.	V.	(2019).	How	to	do	a	systematic	review:	A	best	practice	guide	
+for	conducting	and	reporting	narrative	reviews,	meta-analyses,	and	meta-syntheses.	Annual Review of 
+Psychology,	70,	747–770.	https://doi.org/10.1146/annurev-psych-010418-102803.
+Tang,	K.	S.,	&	Cooper,	G.	(2024).	The	role	of	materiality	in	an	era	of	generative	artificial	intelligence.	Science 
+& Education,	1–16.	https://doi.org/10.1007/s11191-024-00508-0.
+1 3
+996
+
+[W4400098474 PDF PAGE 21]
+Research in Science Education (2024) 54:977–997
+Wahyono,	I.	D.,	Fadlika,	I.,	Asfani,	K.,	Putranto,	H.,	Hammad,	J.,	&	Sunarti.	(2019).	New	adaptive	intel-
+ligence	method	for	personalized	adaptive	laboratories.	In	2019 International conference on electri -
+cal, electronics and information engineering (ICEEIE) 	 (pp.	 196–200).	 https://doi.org/10.1109/
+ICEEIE47180.2019.8981477
+Zawacki-Richter,	O.,	Marín,	V.	I.,	Bond,	M.,	&	Gouverneur,	F.	(2019).	Systematic	review	of	research	on	
+artificial	intelligence	applications	in	higher	education–where	are	the	educators?	Journal of Educational 
+Technology in Higher Education,	16(1),	1–27.	https://doi.org/10.1186/s41239-019-0171-0.
+Zhai,	X.,	Haudek,	C.,	Shi,	K.,	Nehm,	L.	H.,	R.,	&	Urban-Lurain,	M.	(2020a).	From	substitution	to	redefi-
+nition:	A	framework	of	machine	learning‐based	science	assessment.	Journal of Research in Science 
+Teaching,	57(9),	1430–1459.	https://doi.org/10.1002/tea.21658.
+Zhai,	X.,	He,	P.,	&	Krajcik,	J.	(2022).	Applying	machine	learning	to	automatically	assess	scientific	models.	
+Journal of Research in Science Teaching,	59(10),	1765–1794.	https://doi.org/10.1002/tea.21773.
+Zhai,	X.,	Shi,	L.,	&	Nehm,	R.	H.	(2021).	A	Meta-analysis	of	machine	learning-based	Science	assessments:	
+Factors	impacting	machine-human	score	agreements.	Journal of Science Education and Technology ,	
+30(3),	361–379.	https://doi.org/10.1007/s10956-020-09875-z.
+Zhai,	X.,	Yin,	Y.,	Pellegrino,	J.	W.,	Haudek,	K.	C.,	&	Shi,	L.	(2020b).	Applying	machine	learning	in	science	
+assessment:	A	systematic	review.	Studies in Science Education,	56(1),	111–151.	https://doi.org/10.108
+0/03057267.2020.1735757.
+Zulyusri,	Z.,	Elfira,	I.,	Lufri,	L.,	&	Santosa,	T.	A.	(2023).	Literature	study:	Utilization	of	the	PjBL	model	in	
+science	education	to	improve	creativity	and	critical	thinking	skills.	Jurnal Penelitian Pendidikan IP A,	
+9(1),	133–143.	https://doi.org/10.29303/jppipa.v9i1.2555.
+Publisher’s Note 	 Springer	Nature	remains	neutral	with	regard	to	jurisdictional	claims	in	published	maps	and	
+institutional	affiliations.
+1 3
+997
+
+END REVIEW W4400098474
+
+
+REVIEW W4400512245
+TITLE: Efficacy and safety of first- versus second-generation Bruton tyrosine kinase inhibitors in chronic lymphocytic leukemia: a systematic review and meta-analysis
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4400512245 PDF PAGE 1]
+Efﬁcacy and safety ofﬁrst- versus
+second-generation Bruton
+tyrosine kinase inhibitors in
+chronic lymphocytic leukemia: a
+systematic review and
+meta-analysis
+Liyuan Ke*, Su Li, Danxue Huang and Yan Wang
+Department of Pharmacy, Cancer Hospital of China Medical University, Liaoning Cancer Hospital &
+Institute, Shenyang, China
+We conducted this ﬁrst systematic review and meta-analysis to assess the
+competitive advantage of 2nd-generation Bruton tyrosine kinase inhibitors
+(BTKi) compared to 1st-generation BTKi in chronic lymphocytic leukemia
+(CLL). The literature search was conducted from PubMed, Web of Science,
+Embase databases, and hematology annual conferences. Data of over
+response rate (ORR), progression-free survival (PFS), and overall survival (OS)
+were extracted to a pool meta-analysis of efﬁcacy; adverse events (AEs) were also
+extracted to a pool meta-analysis of safety. Bias risk assessment and meta-
+analysis were performed by Review Manager 5.3 and STATA 14 software. A total of
+3649 patients from 29 cohorts were included. The results showed that the
+beneﬁts of ORR and 24-month PFS in 2nd-generation BTKi compared to 1st-
+generation BTKi were not signiﬁcant in the whole population but only in the
+relapsed or refractory (R/R) CLL patient subgroup (ORR: 86.4% vs. 76.2%,p =
+0.013; 24-month PFS: 76.9% vs. 67.9%, p = 0.004). Any-grade AEs were
+comparable between 1st- and 2nd-generation BTKi, but grade 3 or higher AEs
+were signiﬁcantly less frequent with 2nd-generation BTKiversus 1st-generation
+BTKi (grade 3 or higher: 53.1% vs. 72.5%;p = 0.002). Headache was more frequent
+with 2nd-generation BTKi, while diarrhea and atrial ﬁbrillation were more
+frequent with 1st-generation BTKi. Only for patients with relapsed or
+refractory CLL did 2nd-generation BTKi have a competitive advantage, while
+adverse effects still need to be considered.
+Systematic Review Registration: https://www.crd.york.ac.uk/PROSPERO,
+Identiﬁer 42022342488.
+KEYWORDS
+Bruton tyrosine kinase inhibitor, chronic lymphocytic leukemia, ef ﬁcacy, safety,
+meta-analysis
+OPEN ACCESS
+EDITED BY
+Andrea Messori,
+Regione Toscana, Italy
+REVIEWED BY
+Melania Rivano,
+Azienda Ospedaliero-Universitaria Cagliari, Italy
+Alessandro Cafaro,
+Scientiﬁc Institute of Romagna for the Study and
+Treatment of Tumors (IRCCS), Italy
+*CORRESPONDENCE
+Liyuan Ke,
+keliyuan1990@126.com
+RECEIVED 08 April 2024
+ACCEPTED 10 June 2024
+PUBLISHED 10 July 2024
+CITATION
+Ke L, Li S, Huang D and Wang Y (2024), Efﬁcacy
+and safety ofﬁrst- versus second-generation
+Bruton tyrosine kinase inhibitors in chronic
+lymphocytic leukemia: a systematic review
+and meta-analysis.
+Front. Pharmacol. 15:1413985.
+doi: 10.3389/fphar.2024.1413985
+COPYRIGHT
+© 2024 Ke, Li, Huang and Wang. This is an
+open-access article distributed under the terms
+of theCreative Commons Attribution License
+(CC BY). The use, distribution or reproduction in
+other forums is permitted, provided the original
+author(s) and the copyright owner(s) are
+credited and that the original publication in this
+journal is cited, in accordance with accepted
+academic practice. No use, distribution or
+reproduction is permitted which does not
+comply with these terms.
+Frontiers inPharmacology frontiersin.org01
+TYPE Systematic Review
+PUBLISHED 10 July 2024
+DOI 10.3389/fphar.2024.1413985
+
+[W4400512245 PDF PAGE 2]
+1 Introduction
+Chronic lymphocytic leukemia (CLL) is the most common type of
+adult leukemia. According to cancer statistics published by the
+American Cancer Society, 20,160 new cases and 4,410 deaths from
+CLL were estimated in 2022 (Siegel et al., 2022). Although CLL is
+difﬁcult to cure and often requires repeated treatment, durable
+remission can be achieved (Shadman, 2023). With the development
+of pathological signaling pathways in CLL, the standard of care for
+treating CLL is no longer limited to chemoimmunotherapy (Hallek
+et al., 2018). The B-cell receptor pathway is actively involved in the
+proliferation and survival of cancer cells, and Bruton tyrosine kinase
+( B T K )i sa ni m p o r t a n tc o m p o n e nt of this signaling pathway (Burger
+and Wiestner, 2018). Over the last few years, covalent and non-covalent
+(pirtobrutinib) BTK inhibitors (BTKi) have been approved for the
+treatment of CLL. Considering thatpirtobrutinib was designed for R/R
+patients who had previously received a BTKi, this review only focuses
+on covalent BTKi. First-generation covalent BTKi include ibrutinib,
+while second-generation covalent BTKi include acalabrutinib,
+zanubrutinib, tirabrutinib, and orelabrutinib. First-generation BTKi
+showed advantages over standard chemoimmunotherapy but was
+limited by cardiovascular side effects. Second-ge

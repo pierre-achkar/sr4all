@@ -1,0 +1,196 @@
+
+
+REVIEW W4386324723
+TITLE: Metallodrugs in the battle against non-small cell lung cancer: unlocking the potential for improved therapeutic outcomes
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4386324723 PDF PAGE 1]
+Metallodrugs in the battle against
+non-small cell lung cancer:
+unlocking the potential for
+improved therapeutic outcomes
+Xianzhi Xu1, Feng Dai2, Yiting Mao1, Kai Zhang1, Ying Qin1 and
+Jiwei Zheng1*
+1School of Stomatology, Xuzhou Medical University, Xuzhou, China,2Department of Cardiology, Afﬁliated
+Hospital of Xuzhou Medical University, Xuzhou, China
+Non-small cell lung cancer (NSCLC) remains a leading cause of cancer
+mortality worldwide. Platinum-based c hemotherapy is standard-of-care but
+has limitations including toxicity and resistance. Metal complexes of gold,
+ruthenium, and other metals have emerged as promising alternatives. This
+review provides a comprehensive analysis of metallodrugs for NSCLC.
+Bibliometric analysis reveals growing interest in elucidating mechanisms,
+developing targeted therapies, and synergistic combinations. Classiﬁcation
+of metallodrugs highlights platinum, gold, and ruthenium compounds, as
+well as emerging metals. Diverse mechanisms include DNA damage, redox
+modulation, and immunomodulation. Preclinical studies demonstrate
+cytotoxicity and antitumor effectsin vitro and in vivo, providing proof-of-
+concept. Clinical trials indicate platinums have utility but resistance remains
+problematic. Non-platinum metallodrugs exhibit favorable safety but modest
+single agent efﬁcacy to date. Drug delivery approaches like nanoparticles show
+potential to enhance therapeutic index. Future directions include optimization
+of metal-based complexes, elucidationof resistance mechanisms, biomarker
+development, and combination therap ies to fully realize the promise of
+metallodrugs for NSCLC.
+KEYWORDS
+non-small cell lung cancer, metallodrugs, chemotherapy, drug resistance, therapeutic
+strategies
+Introduction
+Non-small cell lung cancer (NSCLC), the most prevalent subtype of lung cancer,
+accounts for approximately 85% of all cases and remains a leading cause of cancer-
+related mortality worldwide (Hoang et al., 2019 ; Sung et al., 2021 ). The elevated
+mortality rate of NSCLC stems from challenges such as late-stage diagnosis, limited
+treatment options, and the emergence of drug resistance (Hirsch et al., 2017). Thus, the
+urgent need for innovative therapeutic strategies is evident.
+Current treatment modalities for NSCLC , including surgery, chemotherapy,
+radiotherapy, targeted therapy, and immu notherapy, provide a diverse approach to
+management ( Herbst et al., 2018 ). Signi ﬁcant advances in targeted therapies and
+immunotherapies have resulted in several effective agents that target speci ﬁc
+molecular pathways or modulate immune response against cancer cells ( Hendriks
+OPEN ACCESS
+EDITED BY
+Jianqiang Xu,
+Dalian University of Technology, China
+REVIEWED BY
+Mauro Ravera,
+Università del Piemonte Orientale, Italy
+Adriana Hangan,
+University of Medicine and Pharmacy Iuliu
+Hatieganu, Romania
+*CORRESPONDENCE
+Jiwei Zheng,
+zhengkouqiang@163.com
+RECEIVED 19 June 2023
+ACCEPTED 17 August 2023
+PUBLISHED 31 August 2023
+CITATION
+Xu X, Dai F, Mao Y, Zhang K, Qin Y and
+Zheng J (2023), Metallodrugs in the battle
+against non-small cell lung cancer:
+unlocking the potential for improved
+therapeutic outcomes.
+Front. Pharmacol. 14:1242488.
+doi: 10.3389/fphar.2023.1242488
+COPYRIGHT
+© 2023 Xu, Dai, Mao, Zhang, Qin and
+Zheng. This is an open-access article
+distributed under the terms of the
+Creative Commons Attribution License
+(CC BY). The use, distribution or
+reproduction in other forums is
+permitted, provided the original author(s)
+and the copyright owner(s) are credited
+and that the original publication in this
+journal is cited, in accordance with
+accepted academic practice. No use,
+distribution or reproduction is permitted
+which does not comply with these terms.
+Frontiers inPharmacology frontiersin.org01
+TYPE Systematic Review
+PUBLISHED 31 August 2023
+DOI 10.3389/fphar.2023.1242488
+
+[W4386324723 PDF PAGE 2]
+et al., 2023). Nevertheless, chemotherapy remains a fundamental
+component of NSCLC treatment, especially for patients without
+actionable molecular alterations or those experiencing
+progression following targeted treatments. However, the
+effectiveness of chemotherapy can be compromised due to
+drug resistance, adverse effects, and a narrow therapeutic
+index, emphasizing the need for novel therapeutic agents
+(Zhou et al., 2023).
+Metallodrugs have emerged as a promising class of anti-
+cancer agents, offering uni que mechanisms of action and
+potential to overcome drug resistance ( Mokesch et al., 2020 ;
+Goldberg et al., 2022; Huang et al., 2022). Famous examples such
+as cisplatin have been widely used in treating various cancers,
+including NSCLC, but their clinical utility is limited by toxicity
+proﬁles and the development of resistance mechanisms in cancer
+cells. Consequently, exploration of alternative metal-based
+compounds, such as gold, ruthenium, copper, and iron
+complexes, is underway, as they have demonstrated anti-
+cancer activity in preclinical investigations ( Ude et al., 2019 ;
+Carneiro et al., 2020; Tunes et al., 2020; Lu N. et al., 2022). These
+non-platinum metallodrugs pos sess potential to circumvent
+limitations of platinum-based a gents, exhibiting different
+modes of action, reduced toxici ty, and ability to overcome
+resistance mechanisms ( Kar et al., 2021 ; Komarnicka et al.,
+2021; Li F. et al., 2022; Xiao et al., 2022).
+This review aims to provide a comprehensive analysis of the
+current landscape of metallodrugs in NSCLC treatment. We will
+commence with a bibliometric analysis of metallodrugs in NSCLC
+research from 2010 to 2023, followed by a critical evaluation of
+preclinical study methodologies, and a discussion of the
+controversies and inconsistencies in the research ﬁndings. We
+will highlight the most promising metallodrugs and identify the
+gaps in the current knowledge and the challenges that need
+addressing for future research. Through this consolidated review
+of recent researchﬁndings, we aspire to underscore the potential
+advantages and challenges associated with metallodrug therapy in
+NSCLC and stress the importance of ongoing research and
+collaboration to propel the advancement and clinical
+implementation of these innovative therapeutic agents.
+Methodology
+Search strategy
+PubMed, Scopus, and Web of Science databases were used to
+conduct systematic searches of the literature. The search was
+restricted to articles published between 1 January 2010, and
+1 March 2023, to ensure a focus on the latest developments in
+theﬁeld. The search terms used included “non-small cell lung
+cancer,”“ non-small cell lung cancer, ”“ non-small cell lung
+carcinoma,”“ non-small-cell lung carcinoma,”“ carcinoma, non-
+small cell lung, ”“ NSCLC; ”“ metallodrugs,”“ metallo-drugs,”
+“metal-based drugs, ”“ cisplatin,”“ carboplatin,”“ oxaliplatin,”
+“auranoﬁn,”“ gold complexes,”“ ruthenium complexes,”“ NAMI-
+A,”“ KP1019,”“ KP1339,” and “nanotechnology.” Boolean operators
+(AND, OR) were employed to combine search terms, and
+appropriateﬁlters were applied to reﬁne the search results.
+Inclusion and exclusion criteria
+Consideration was given to the inclusion of articles in this review
+if they met the following criteria: 1) original research articles,
+reviews, or clinical trial reports. 2) studies focused on the use of
+metallodrugs for the treatment of NSCLC; 3) articles published in
+English; and 4) articles with accessible full-text versions. Exclusion
+criteria were as follows: 1) articles not related to the treatment of
+NSCLC with metallodrugs; 2) articles published in languages other
+than English; 3) conference abstracts, editorials, commentaries, or
+letters without sufﬁcient data; and 4) duplicate publications.
+Data extraction
+Two independent reviewers screened the identiﬁed articles’titles
+and abstracts to assess their inclusion eligibility. Any disagreement
+between the reviewers was settled by discussion and, if required,
+through consultation with a third reviewer. The full texts of eligible
+articles were then carefully reviewed, and the following information
+was extracted: 1) study design and objectives; 2) type of metallodrugs
+investigated; 3) mechanisms of action; 4) preclinical or clinical
+ﬁndings; 5) drug delivery systems or nanotechnology approaches;
+and 6) conclusions and future perspectives.
+Results
+Bibliometric analysis of metallodrugs in non-
+small cell lung cancer research from 2010 to
+2023
+The bibliometric analysis (CiteSpace 6.2.R2 (64-bit) Advanced)
+underscores major research areas, which include overcoming
+cisplatin resistance, developing targeted therapies like EGFR
+inhibitors, and exploring the potential synergistic effects of
+combining metal drugs with other treatments such as
+radiotherapy, immunotherapy, and personalized medicine
+(Figure 1). It also reveals a growing interest in understanding the
+molecular characteristics of speciﬁc NSCLC subtypes, such as lung
+adenocarcinoma, and developing novel metal-containing
+complexes.
+With the integration of advanced computational techniques like
+machine learning and data-driven approaches, researchers are
+identifying new metal drug candidates and optimizing treatment
+strategies for NSCLC. The citation bursts (Figure 2) for metastatic
+nonsquamous NSCLC, safety adjuvant cisplatin, and camrelizumab
+plus carboplatin demonstrate a growing interest in understanding
+and developing effective treatments for speciﬁc subgroups of
+patients, evaluating the safety proﬁle and potential toxicities of
+adjuvant therapies, and exploring the combination of immune
+checkpoint inhibitors with traditional chemotherapy agents.
+Continued research in these areas will be essential for improving
+the outcomes of patients with NSCLC and overcoming challenges
+posed by drug resistance, molecular heterogeneity, and treatment-
+related complications. Emphasis on understanding the safety and
+efﬁcac

@@ -1,0 +1,19 @@
+discipline	sampled	observed	submitted_done	missing
+Agricultural and Biological Sciences	4	4	4	0
+Arts and Humanities	1	1	1	0
+Biochemistry, Genetics and Molecular Biology	18	14	14	4
+Business, Management and Accounting	4	2	2	2
+Computer Science	4	3	3	1
+Decision Sciences	2	1	1	1
+Dentistry	10	9	9	1
+Economics, Econometrics and Finance	3	2	2	1
+Engineering	5	4	4	1
+Environmental Science	7	5	5	2
+Health Professions	19	14	14	5
+Immunology and Microbiology	7	4	4	3
+Medicine	243	178	178	65
+Neuroscience	11	8	8	3
+Nursing	4	2	2	2
+Psychology	24	16	16	8
+Social Sciences	14	13	13	1
+Unknown	5	3	3	2

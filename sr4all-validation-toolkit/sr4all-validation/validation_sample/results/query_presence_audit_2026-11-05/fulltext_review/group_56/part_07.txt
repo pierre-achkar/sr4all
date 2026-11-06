@@ -1,0 +1,198 @@
+19). Specifically in the area of DRL, Proxi-
+mal Policy Optimization (PPO) has been investigated to 
+identify sustainable pavement management strategies that 
+result in a possible reduction in the expected impact of 
+global warming by 16% compared to traditional practices. 
+The results underscore the potential of DRL to create envi-
+ronmentally sustainable strategies with fewer training iter -
+ations, which could result in energy savings (Kazemeini 
+and Swei 2023).
+Fig. 10  Mapping of sustainability clusters to RL with its respective methods
+
+[W4403706069 PDF PAGE 20]
+ Int J Environ Res (2025) 19:1
+1 Page 20 of 36
+A DRL optimization framework (DRLOF) using an 
+Advantage Actor-Critic (A2C) agent with two differ -
+ent architectures, separate-A2CN and shared-A2CN, has 
+been proposed for the electric power sector. This approach 
+resulted in a 1.97% increase in power generation and a 1.59% 
+reduction in NOx emissions, demonstrating the potential of 
+DRL to improve performance while ensuring sustainability 
+(Adams et al. 2021). Similarly, Reinforced Extreme Gradi-
+ent Boosting, a combination of RL and Gradient Boosting 
+methods, has been introduced in agricultural applications, 
+applying RL at each node during the Decision Tree con-
+struction process to effectively utilize samples and improve 
+performance (Elavarasan and Vincent 2020) (Table 6).
+Discussion
+Table 7 summarizes our key finding, the AI methodologies 
+identified, the corresponding SDGs, their applications in 
+sustainability, and the reasons for their use.
+The methodologies are categorized into SL, UL, and RL. 
+SL techniques such as ANNs, LSTMs, CNNs, and SVMs 
+are used for tasks such as energy management, emission 
+forecasting, and energy consumption prediction due to 
+their high accuracy and ability to handle complex data. UL 
+methods, including K-Means Clustering and SOMs, are 
+effective for pattern recognition and environmental moni-
+toring. RL approaches, such as DQN and PPO, are used 
+to manage complex systems and improve energy manage-
+ment strategies. In addition, Ensemble Learning methods are 
+utilized for waste management and pollution classification, 
+leveraging multiple models to improve prediction accuracy 
+and robustness.
+Data from Fig.  1 highlighted the growing trend in aca-
+demic publications at the intersection of AI and SDGs. 
+Between 2000 and 2014, research on the role of AI in 
+sustainability was limited, with annual publication counts 
+ranging from 706 to 2,760, reflecting the early develop-
+ment of AI technologies and their minimal application in 
+sustainability-related fields. From 2015 onward, there was a 
+marked increase in research activity, with publication counts 
+increasing to 3,580 in 2015. This shift aligns with the adop-
+tion of the 2030 Agenda for Sustainable Development and 
+the formalization of the 17 SDGs, driving interest in how AI 
+could contribute to global goals. Simultaneously, advance-
+ments in machine learning, data analytics, and automation 
+increased the potential of AI to address challenges such as 
+climate change, poverty, and healthcare. The upward trend 
+accelerated after 2017, with publications nearly doubling 
+from 7,390 in 2017 to 16,100 in 2019. This surge reflects 
+the growing recognition of AI as a transformative tool to 
+achieve the SDGs, supported by developments in deep learn-
+ing, computational power, and data availability. Starting in 
+2020, the publication counts exhibited exponential growth, 
+reaching 31,600 in 2023. This rapid increase is driven by the 
+global urgency to meet the 2030 SDG targets, the influence 
+of the COVID-19 pandemic on AI-driven crisis manage -
+ment, increased funding and policy support for AI research, 
+and the critical role of AI in the fight against climate change.
+The uneven geographical distribution of AI-SDG 
+research, as shown in Fig.  1, could be explained by sev -
+eral key factors. Asia, Europe, and North America lead in 
+Table 6  Overview of articles using RL
+SDG Cluster Algorithm Paper
+C1: Well-being and Poverty Others Damoah et al. (2021)
+C2: Economic Growth and Infrastructure DRL Khakurel et al. (2018), Selukar et al. (2022) Strnad et al. (2019)
+Deep Q-Learning Scott-Fordsmand and Amorim (2023)
+MPC Mani (2022)
+DDQN Li et al. (2022)
+Others Kuenzel et al. (2016)
+C3: Environment and Climate Action DRL Rampini and Re Cecconi (2022), Suanpang et al. (2022), Strnad et al. (2019), 
+Sloane and Zakrzewski (2022), Lundberg and Lee (2017)
+Oke et al. (2021), Muhammad and Hossain (2021), Popper et al. (2021)
+Deep Q-Learning Qi et al. (2019), Pérez-Pons et al. (2021), Walk et al. (2023), Kuutti et al. (2021), 
+Zhou et al. (2021)
+DRL (PPO) Kazemeini and Swei (2023), Toorajipour et al. (2021)
+MPC Li et al. (2021)
+MDP Lekan et al. (2022), Raj and Carvalho (2023)
+DDQN Kuutti et al. (2021)
+Others Kar et al. (2022), Xiang et al. (2021), Hinton et al. (2018), Binas et al. (2019), 
+Perera and Kamalaruban (2021)
+Liu et al. (2022), Adams et al. (2021), Elavarasan and Vincent (2020)
+
+[W4403706069 PDF PAGE 21]
+Int J Environ Res (2025) 19:1 
+ Page 21 of 36 1
+AI-SDG publications due to their advanced economic and 
+technological infrastructure, which supports high levels of 
+research and development. These regions also have access 
+to significant funding, cutting-edge AI tools, and strong 
+academic-industry partnerships, enabling large-scale col -
+laborations and a steady output of research. In contrast, 
+regions like Africa, Oceania, and South America contribute 
+less to AI-SDG research due to limited financial resources, 
+fewer educational opportunities in AI, and restricted access 
+to necessary computational infrastructure and datasets. Fur-
+thermore, researchers in these regions may prioritize local, 
+immediate issues over AI-driven solutions due to practical 
+constraints. This disparity highlights the need for increased 
+collaboration and support to enhance AI research capabili-
+ties in underrepresented regions.
+RQ1: What AI methodologies have been 
+implemented to address specific SDGs
+The review of the literature presented indicates a broad spec-
+trum of ML algorithms applied within the realm of AI aimed 
+at fostering the SDGs. The methodologies implemented span 
+across supervised learning techniques, encompassing LR, 
+Random Forest (RF), and SVM, to more complex DL strat-
+egies, which include a variety of neural networks such as 
+ANNs, LSTM networks, and CNNs. Additionally, the use of 
+RL approaches like DQL and PPO, as well as UL algorithms 
+such as K-means and SOMs, further illustrates the extensive 
+methodological array leveraged in this field.
+ANNs, DRL, and K-Means clustering are notably pre-
+dominant. ANNs are extensively used for various applica-
+tions such as energy management, emission forecasting, and 
+pollutant classification, attributed to their shorter compu-
+tation time, increased accuracy, and generalization capa-
+bilities. DRL methods, exemplified by Deep Q-Network 
+and Proximal Policy Optimization, are effective in energy 
+management and sustainable pavement strategies, providing 
+unique benefits over conventional ML techniques. K-Means 
+clustering is a favored choice for pattern recognition due to 
+its simplicity and efficacy.
+With regard to SL, the diversity of applications in various 
+domains, including agriculture, energy management, and 
+environmental monitoring, is remarkable, showcasing the 
+adaptability of these algorithms. However, an unbalanced 
+distribution of algorithms is evident, with certain special-
+ized methods being heavily favored for specific domains. 
+Table 7  Summary of AI methodologies, their applications, the corresponding SDG, reasons for usage, and corresponding SDGs in sustainability
+Category AI methodology Corresponding SDGs Applications in sustainability Reasons for usage
+SL ANNs 7, 11, 13 Energy management, emission forecasting, 
+pollutant classification
+Short computation time, increased accuracy, 
+generalization capabilities
+SL RNN, LSTM 2, 6, 7 Predicting water and energy requirements, 
+sensor-based agriculture
+Effective in processing and predicting tem-
+poral data with complex sequences with 
+long-range dependencies
+SL CNNs 7, 11 Energy consumption prediction, urban 
+environmental noise monitoring
+Effective in handling spatial data and 
+enhancing prediction accuracy
+SL FNNs, ANFIS 7, 13 Energy management, pollution control Improves precision of predictions by com-
+bining fuzzy logic with neural networks
+SL SVMs 9, 11 Predicting energy consumption, designing 
+sustainable concrete mixes
+Effective in handling non-linear data and 
+providing accurate predictions
+SL RF, XGBoost 2, 7, 12 Sustainable agriculture, predicting electric-
+ity and gas consumption, evaluating 
+environmental footprints
+High performance in prediction tasks due to 
+the ability to decipher complex relation-
+ships and handle large datasets with differ-
+ent types of data
+UL K-Means 11, 13, 15 Pattern recognition, environmental monitor-
+ing
+Simplicity and efficacy in detecting patterns 
+and structures in data
+UL SOMs 11, 13, 15 Environmental monitoring, pattern detection Effective in clustering and visualizing high-
+dimensional data
+RL DQN, PPO 7, 9 Design Energy management systems, iden-
+tify sustainable pavement strategies
+DRL can continuously learn and adapt from 
+real-time data interactions, making it par-
+ticularly effective in environments where 
+conditions change frequently
+Other Ensemble 
+Learning 
+Methods
+11, 12, 13 Waste management, pollution classification Combines multiple models to improve pre-
+diction accuracy and robustness
+Other GA 7, 12 Optimization in sustainable energy and 
+resource management
+Effective in optimization tasks due to its 
+ability to explore a wide solution space
+
+[W4403706069 PDF PAGE 22]
+ Int J Environ Res (2025) 19:1
+1 Page 22 of 36
+For example, ANN is frequently used in environmental 
+applications, whereas XGBoost dominates in the agricul-
+ture and energy sectors. This concentration may reflect 
+domain-specific preferences or data r

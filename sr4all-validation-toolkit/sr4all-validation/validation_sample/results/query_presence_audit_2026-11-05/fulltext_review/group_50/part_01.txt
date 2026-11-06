@@ -1,0 +1,314 @@
+023. The search terms 
+per search engine are given in  sTable 2, available online. Studies were excluded if: 1) The 
+predictor was not an autism polygenic score based on the latest autism GWAS10; 2) The 
+polygenic score was not based on genome-wide results, but included only a selection of SNPs; 
+3) The study was a review; 4) No direct associations between the autism polygenic score and 
+an outcome variable were reported (e.g., polygenic transmission tests (pTDT), interaction 
+effects, genetic correlations, multivariate associations). Abstracts were inspected by MdW. A 
+second reviewer (TP) was involved in case of any doubt regarding inclusion. Figure 1 shows 
+the full selection procedure. 
+  
+ 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 6]
+6 
+ 
+ 
+Figure 1. PRISMA Flow Diagram 
+ 
+Quality assessment 
+To evaluate the quality, validity and generalizability of our included studies, we reviewed 
+each study against a set of quality assessment criteria based on Hayden et al. (2006, 2013)19,20. 
+Criteria were largely similar to Ronald et al. (2019), with one addition in the control of 
+confounders domain, where we stated that the polygenic score p-value threshold should be 
+reported. Detailed descriptions of the quality assessment criteria are provided in the 
+Supplementary Methods. All criteria were rated by reviewers MdW and MM. Since these 
+raters had insufficient specialism in brain-related measures, these specific outcomes were 
+reviewed by an expert (IL). In case of any inconsistencies, criteria were assessed by a third 
+rater (TP). A quality assessment domain was considered to contain a bias if  > 50% of the 
+criteria in that domain were scored negatively.  
+ 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 7]
+7 
+ 
+Systematic review and meta-analyses 
+Data extraction. Results were extracted by authors MdW, and for brain measures by IL. 
+Effect sizes that were not provided in the included papers were requested from corresponding 
+authors via email. If authors did not respond to our request but effect sizes were displayed in 
+Figures, we extracted the results using an online tool (https://automeris.io/WebPlotDigitizer/). 
+All reported effect sizes were transformed to correlation coefficients.  
+ If studies reported results for polygenic scores based on multiple GWAS p-value 
+thresholds, we selected the threshold with the strongest association. Where studies reported 
+multiple models, we selected the effect sizes from models that included covariates that most 
+closely resembled those in other included papers and the requirements for the quality 
+assessment (sex, age, socio-economic status (SES)). 
+ 
+Primary analyses. First, all included studies were systematically reviewed with the 
+significance of individual effect sizes based on how they were reported in the respective 
+studies.  
+ Second, for the meta-analysis, all the extracted effect sizes were transformed into 
+correlation coefficients. Since several studies assessed multiple effect sizes, and samples 
+overlapped between studies, we applied three-level random effects meta-analyses per outcome 
+category using the R package Metafor21. These models account for dependency between 
+effect sizes by incorporating three variance components; sampling variance of extracted effect 
+sizes (level 1), within-sample variance in effect sizes (level 2) and between sample variance 
+(level 3) 22. We tested for overall significant heterogeneity, and heterogeneity within and 
+between studies using the I2 statistic23. We assessed potential publication bias using funnel 
+plots, and by performing and Rosenthal’s Fail Safe N test24. 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 8]
+8 
+ 
+ 
+Secondary analyses. In our systematic review, we additionally describe sex differences. We 
+further performed a series of secondary meta-analyses: 1) differences in the association 
+between the autism polygenic score and autism diagnosis for specific populations (Europe-
+based versus US-based), and 2) subgroup analyses for the associations between the autism 
+polygenic score and ADHD, psychotic spectrum, eating disorders and self-harm and suicide 
+ideation (in specific psychiatric classifications category). 
+ 
+Results 
+ 
+Study characteristics 
+ Studies showed relatively large sample overlap: A total of 57 different samples were 
+used across the 72 studies (pooled N = 720,087). The average percentage of males in the 
+included study samples was 48.3% (25–31) omitted from this percentage due to missing or 
+unclear sex information). Of the included studies 47.2% were performed on child or 
+adolescent (<18 years) participants, 19.4% on adult (> 18 years) participants, 29.2% on a 
+mixed sample of children and adults, and for 2,8% the sample age information was 
+unavailable or unclear. Studies were most often based on participants living in Europe 
+(63.8%), followed by Northern America (25.8%), Asia (5.6%), and Australia (1.4%). The 
+remaining studies (6.9%) were based on participants from multiple continents. Genetic 
+ancestry was mostly European (86.1%), with a limited number of papers including East Asian 
+(5.6%) or trans-ancestry sample analyses (9.7%). Results can be considered to be based on 
+participants of European ancestry, unless described otherwise. Individual study characteristics 
+are presented in Table 1.  
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 9]
+9 
+ 
+Table 1. Characteristics and Results of Included Studies on the Association between the Autism Polygenic Score and Outcome Measures. 
+First author 
+(year), reference 
+Outcome 
+category 
+Sample 
+characteristics 
+PGS calculation 
+method and P 
+threshold 
+Outcome 
+variables 
+Covariates Results Significance 
+threshold 
+Autism diagnosis 
+Debost (2022)32 Autism 
+diagnosis, other 
+A total of 
+22,153 iPsych 
+participants 
+were included in 
+the analyses 
+(10,890 female). 
+Participants 
+were assessed at 
+ages ≥ 5 and ≥ 
+10. Participants 
+were all Danish 
+and genetic 
+ancestry was 
+restricted to 
+European.  
+LDpred and 
+BOLT-LMM. 
+Bayesian 
+approach, no 
+threshold 
+needed 
+First diagnosis 
+of autism at 
+age ≥ 5. 
+Diagnoses of 
+early childhood 
+infection 
+according to 
+ICD-8 or ICD-
+10, including 
+viral, bacterial, 
+fungal, and 
+other infections 
+Sex, calendar 
+period and 10 
+PCs 
+The autism 
+polygenic score 
+was 
+significantly 
+associated with 
+autism 
+diagnosis (HR 
+= 1.34, 95% CI, 
+1.30–1.38) and 
+it showed mixed 
+associations 
+with odds of 
+infection in 
+different 
+quartiles. 
+Not reported 
+Grove (2019)10 Autism 
+diagnosis 
+Polygenic score 
+analyses were 
+carried out on 
+combined 
+iPsych and PGC 
+participants of 
+European 
+ancestry. The 
+sample 
+consisted of 
+Ricopili, Plink. 
+5 x 10−8 , 10−6 
+, 10−4 , 0.001, 
+0.01, 0.05, 0.1, 
+0.2, 0.5 and 1. 
+The reported 
+pooled OR is 
+based on p-
+value threshold 
+.1 
+Autism 
+diagnosis 
+Relevant PCs 
+and indicator 
+variable for 
+genotyping 
+waves 
+The autism 
+polygenic score 
+significantly 
+positively 
+associated with 
+autism 
+diagnosis (R2 = 
+0.0245, 
+P = 5.58 × 10−1
+40), with a 
+Not reported 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 10]
+10 
+ 
+13,076 cases 
+(21.6% female) 
+and 22,664 
+controls (49.3% 
+female). 
+Participants 
+were born 
+between 1981 
+and 2005. 
+iPsych 
+participants are 
+all Danish. PGC 
+participants are 
+American, 
+Swedish and 
+Finnish. Genetic 
+ancestry was 
+restricted to 
+European. 
+pooled 
+polygenic 
+score-based 
+case–control 
+odds ratio 
+(OR) = 1.33 
+(95% CI 1.30 –
+1.36). ORs 
+increased with 
+increasing 
+polygenic 
+scores 
+Hannon 
+(2018)33 
+Autism 
+diagnosis, Other 
+Minerva cohort, 
+a subset 
+of 1,316 iPsych 
+samples, 
+including an 
+equal number of 
+autism cases 
+(52% male, 
+mean 
+gestational age 
+= 39.6 (1.82)) 
+and controls 
+(49.8% male, 
+Plink. Ten 
+different 
+significance 
+thresholds (pT) 
+from 5 × 10−8 
+to 1 to identify 
+the optimal set 
+of SNPs with 
+the largest 
+difference 
+between autism 
+cases and 
+controls 
+DNA 
+methylation 
+from neonatal 
+dried blood 
+samples. 
+Autism 
+diagnosis. 
+The number of 
+non-missing 
+genotypes 
+contributing to 
+the polygenic 
+score, the first 
+five genetic 
+principal 
+components, 
+sex, 
+experimental 
+array number, 
+six cell 
+The autism 
+polygenic score 
+significantly 
+associated with 
+two 
+differentially 
+methylated 
+positions 
+(DMPs) 
+(cg02771117, P 
+= 3.14 × 10−8; 
+cg27411982, P 
+= 8.38 × 10−8) 
+  
+ . CC-BY-NC-ND 4.0 International licenseIt is made 

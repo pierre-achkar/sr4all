@@ -1,0 +1,562 @@
+33.7, 90.9% NA C *57.1% sentenced, 
+42.9% awaiting trial
+SRQ-20 (S), 
+HADS (S)
+84.5% of the respondents had 
+at least one type of psychiat-
+ric morbidity (SRQ and HADS 
+combined). Prevalence of 
+general psychiatric morbid-ity, SRQ-20 score ≥ 5, 80.6%. 
+72.6% and 77.8% were found to be positive for depression 
+and anxiety symptoms 
+respectively on the HADS
+Low
+Schaal et al. 
+2012 [101]
+Preva-
+lence
+Prison Rwanda Y (genocide 
+survivors)
+Random, NS Yes, Yes 269, 48.5, 65.8% 
+(genocide perpetra-tors); 114, 
+46.6, 36.3% 
+(survivors)
+Perpetra-
+tors of the Rwandan genocide, 
+over 18 years 
+in 1994
+C *89.6% convicted, 
+10.4% not sen-tenced
+PTSD Symp-
+tom Scale-Interview (PSS-I) (D), 
+PDS Event 
+Scale (S), 
+Hopkins 
+Symptom 
+Checklist-25 
+(HSCL-25) (S), suicidal-
+ity scale 
+from the 
+MINI (S)
+Diagnostic criteria for PTSD 
+met by 13.5% perpetrators 
+and 46.4% of interviewed survivors (p < 0.001) (PSS-I). 
+Clinically significant anxiety 
+prevalence 35.8% among 
+perpetrators (HSCL-25); 
+58.9% among survivors 
+(p < .001). Depression in both 
+groups (46% survivors vs. 
+41% perpetrators) (HSCL-25). 
+18.6% perpetrators and 
+19.3% survivors had suicide 
+risk (MINI). Perpetrators 
+with more severe depres-
+sion symptoms (HSCL-25) 
+reported high levels of trauma confrontation (PDS) 
+and had not participated in 
+killings
+Low
+*Uche and 
+Princewill 2015 
+“Clinical 
+factors…” [102]
+Preva-
+lence
+Prison Nigeria N Random, Y Yes, Yes 400, 33.8, 98% Awaiting trial; 
+BDI-screen positive for 
+phase 2
+NC/A* awaiting trial BDI (S), SCAN 
+Depression 
+Component 
+(D)
+42% BDI > 10 screen fulfilling 
+the criteria for current 
+depressive disorder. 42% 
+fulfilled SCAN criteria for 
+current depression disorder diagnosis
+Low
+
+[W2944555439 PDF PAGE 13]
+Page 13 of 41
+Lovett et al. Int J Ment Health Syst           (2019) 13:31 
+Table 2 (continued)
+Reference *If 
+same sample 
+as another 
+study in list
+Study design
+Study setting
+Country setting
+Comparison  [If yes (Y), 
+describe;  
+no (N)]
+Strategy, whether sample 
+size calculation 
+was reported 
+for non‑census 
+strategies
+Ethics reporting 
+(documented 
+ethics committee 
+approval; 
+described 
+informed 
+consent 
+procedure)
+Participants characteristics 
+(sample size, 
+mean age, 
+percent male) 
+*Indicates 
+gender 
+as inclusion criteria
+Inclusion criteria 
+(excluding age 
+criteria)
+Trial status category (C = over 50% 
+convicted; NC = over 
+50% not convicted; 
+NC/A = over 50% 
+“awaiting trial”; JI = over 50% youth 
+justice‑involved; 
+U = unclear; 
+NA = not applicable; 
+NS = not stated)
+Assessment 
+instruments 
+(diagnostic 
+or screening 
+tool)
+Primary outcomes (p‑value 
+listed if provided in study)
+Methods 
+risk 
+of bias 
+score
+*Uche and 
+Prince-
+will 2015 
+“Preva-
+lence…” [103]
+Preva-
+lence
+Prison Nigeria N Random, Y Yes, Yes 400, 33.8, 98% Awaiting trial; 
+BDI-screen positive for 
+phase 2
+NC/A *89% awaiting 
+trial, 5% convicted, 
+0.1% assigned 
+legal category of 
+“lunatics,” death row condemned 
+5%, serving life 
+imprisonment jail 
+terms 0.5%
+BDI (S), SCAN 
+depression 
+component 
+(D)
+42% BDI > 10 screen fulfilling 
+the criteria for current 
+depressive disorder. 42% 
+fulfilled SCAN criteria for 
+current depression disorder diagnosis
+Low
+Barrett et al. 
+2007 [52]
+Preva-
+lence
+Forensic 
+ward
+South 
+Africa
+N Census Yes, No 71, NS, 94.4% Psychiatric 
+referrals
+NC *Detained “state 
+patients” accused 
+but found unfit 
+to stand trial or not responsible, 
+referred to forensic 
+ward
+Psychiatric 
+record (D)
+Schizophrenia (35.2%), mental 
+retardation (22.5%) and 
+psychoses other than 
+schizophrenia (11.3%) most prevalent, followed by bipo-
+lar disorder (5.6%). 84.5% not able to stand trial and not 
+accountable; 7% not fit to 
+stand trial and accountable; 
+8.5% not accountable and fit 
+to stand trial
+Medium
+Buchan 1976 
+[104]
+Preva-
+lence
+Forensic 
+ward
+Zimba-
+bwe
+N Census No, No 256, NS, NS Psychiatric 
+referrals
+U *Referrals to 
+hospital
+Psychiatric 
+record (D)
+Prevalence of schizophrenia 
+44%; epilepsy 22%
+High
+Calitz et al. 
+2006 [105]
+Preva-
+lence
+Forensic 
+ward
+South 
+Africa
+N Census Yes, No 514, 30 
+(median), 
+94.6%
+Psychiatric 
+referrals
+NC/A *Awaiting trial, 
+referrals to hospital
+Psychiatric 
+record (D)
+46% psychiatric prevalence. Medium
+du Plessis 
+et al. 2017 [106]
+Preva-
+lence
+Forensic 
+ward
+South 
+Africa
+N Census Yes, No 505, NA, 94% Awaiting trial; 
+psychiatric referrals
+NC/A *Awaiting trial, 
+referrals to hospital
+Psychiatric 
+record (D)
+Those not accountable sig-
+nificantly more likely to have mental illness (p = 0.0001) 
+and be diagnosed with schizophrenia (p = 0.0001), 
+intellectual disability 
+(p = 0.0001), and substance-
+induced psychotic disorder (p = 0.02) than those not 
+accountable. 98% of those found not accountable had 
+mental illness. 66% total 
+sample had known history of substance abuse
+Low
+
+[W2944555439 PDF PAGE 14]
+Page 14 of 41Lovett et al. Int J Ment Health Syst           (2019) 13:31 
+Table 2 (continued)
+Reference *If 
+same sample 
+as another 
+study in list
+Study design
+Study setting
+Country setting
+Comparison  [If yes (Y), 
+describe;  
+no (N)]
+Strategy, whether sample 
+size calculation 
+was reported 
+for non‑census 
+strategies
+Ethics reporting 
+(documented 
+ethics committee 
+approval; 
+described 
+informed 
+consent 
+procedure)
+Participants characteristics 
+(sample size, 
+mean age, 
+percent male) 
+*Indicates 
+gender 
+as inclusion criteria
+Inclusion criteria 
+(excluding age 
+criteria)
+Trial status category (C = over 50% 
+convicted; NC = over 
+50% not convicted; 
+NC/A = over 50% 
+“awaiting trial”; JI = over 50% youth 
+justice‑involved; 
+U = unclear; 
+NA = not applicable; 
+NS = not stated)
+Assessment 
+instruments 
+(diagnostic 
+or screening 
+tool)
+Primary outcomes (p‑value 
+listed if provided in study)
+Methods 
+risk 
+of bias 
+score
+Hayward 
+et al. 2010 [107]
+Preva-
+lence
+Forensic 
+ward
+Malawi N Census No, No 283, 30.4, 91.5% Psychiatric 
+referrals
+U *Detained in 
+hospital
+Psychiatric 
+record (D)
+Prevalence of schizophrenia 
+35.5%; substance misuse 32.5%; 19.8% alcohol and 
+23% illicit substance; depres-
+sion 3%; mania or personality disorder 0%; epilepsy 8.1%
+Medium
+Hemphill and 
+Fisher 1980 [108]
+Preva-
+lence
+Forensic 
+ward
+South 
+Africa
+N Census No, No 604, NS, 100%* Males (though 
+unclear); psychiatric 
+referrals
+NC *Pre-trial referrals 
+to hospital
+Psychiatric 
+record (D)
+52% substance abuse of drugs, 
+alcohol, or both. Prevalence 
+of psychosis (53%), severe 
+psychopathy without 
+psychosis (21%), and non-
+psychotic conditions includ-
+ing neurosis, mild personality disorder, eplepsy and mental 
+retardation (26%). More 
+than 70% of patients with 
+psychopathy screened posi-
+tive for substance abuse of 
+alcohol, drugs or both
+High
+Khoele et al. 
+2016 [109]
+Preva-
+lence
+Forensic 
+ward
+South 
+Africa
+N Census Yes, No 32, 29.8, 0% Women; 
+charged with 
+murder or 
+attempted 
+murder, 
+psychiatric 
+referrals
+NC *Pre-trial referrals 
+to hospital
+Psychiatric 
+record (D)
+59% psychiatric diagnosis; 28% 
+psychotic; 25% mood disor-
+ders; 6% substance disorders; 
+19% attempted suicide
+Medium
+Marais and 
+Subra-maney 
+2015 [53]
+Preva-
+lence
+Forensic 
+ward
+South 
+Africa
+N Census Yes, Yes 114, 32, 87% Psychiatric 
+referrals
+NC *Detained “state 
+patients” accused 
+but found unfit 
+to stand trial or not responsible, 
+referred to forensic 
+ward
+Psychiatric 
+record (D)
+Past psychiatric history (59%); 
+substance abuse history 
+(71%). 69% psychotic dis-
+orders; 44% schizophrenia. Bipolar mania 4%; major 
+depressive disorder 4%; 
+epilepsy 4%. Alcohol the 
+most frequently abused 
+substance (57%); cannabis 
+47%. 37% reported a history 
+of polysubstance abuse
+Medium
+
+[W2944555439 PDF PAGE 15]
+Page 15 of 41
+Lovett et al. Int J Ment Health Syst           (2019) 13:31 
+Table 2 (continued)
+Reference *If 
+same sample 
+as another 
+study in list
+Study design
+Study setting
+Country setting
+Comparison  [If yes (Y), 
+describe;  
+no (N)]
+Strategy, whether sample 
+size calculation 
+was reported 
+for non‑census 
+strategies
+Ethics reporting 
+(documented 
+ethics committee 
+approval; 
+described 
+informed 
+consent 
+procedure)
+Participants characteristics 
+(sample size, 
+mean age, 
+percent male) 
+*Indicates 
+gender 
+as inclusion criteria
+Inclusion criteria 
+(excluding age 
+criteria)
+Trial status category (C = over 50% 
+convicted; NC = over 
+50% not convicted; 
+NC/A = over 50% 
+“awaiting trial”; JI = over 50% youth 
+justice‑involved; 
+U = unclear; 
+NA = not applicable; 
+NS = not stated)
+Assessment 
+instruments 
+(diagnostic 
+or screening 
+tool)
+Primary outcomes (p‑value 
+listed if provided in study)
+Methods 
+risk 
+of bias 
+score
+Matete 1991 
+[110]
+Preva-
+lence
+Forensic 
+ward
+Kenya N Census No, No 51, 28.8, 90.2% Psychiatric 
+referrals
+NC *Detained in hos-
+pital: court referrals to hospital, referred 
+to as “criminal 
+remands”
+Psychiatric 
+record (D)
+86.3% mental illness Medium
+Mbassa 2009 
+[111]
+Preva-
+lence
+Forensic 
+ward
+Cam-
+eroon
+N Random, NS No, No 12, 18.3, 66.7% Convicted of 
+homicide
+C *Convicted, 
+detained in 
+hospital
+Psychiatric 
+record, ICD-10 criteria 
+(D)
+41.7% schizophrenia; delirium 
+25%; personality disorder 
+8.3%
+High
+Menezes 
+2010 [112]
+Preva-
+lence
+Forensic 
+ward
+Zimba-
+bwe
+N Census Yes, Yes 39, 35.0, 87.2 Homicide 
+offense, psychiatric 
+referrals
+NC *Detained in hos-
+pital: court referrals 
+to hospital, referred 
+to as “criminal remands”
+Psychiatric 
+record (D), 
+question-
+naire (S)
+84.61% schizophrenia or 
+psychosis; 2.56% personality 
+disorder; 12.82% epilepsy
+Medium
+Menezes 
+et al. 2007 
+[113]
+Preva-
+lence
+Forensic 
+ward
+Zimba-
+bwe, Eng-
+land, 
+Wales
+Y (referral 
+patients in England 
+and Wales)
+Census Yes, Yes 367, 36.0, 91.8% 
+(Zimbabwe); 
+1966, 29.7, 
+83.6% (Eng-
+land/Wales)
+Psychiatric 
+referrals
+U *Referrals to 
+hospital
+Psychiatric 
+record, ICD-9 
+criteria (D), 
+question-
+naire (S)
+78.7% of patients in Zimbabwe 
+had a mental disorder 
+diagnosis compared with 
+51.5% in England and Wales 
+(p < 0.001). 6.3% had person-
+ality disorder diagnosis in Zimbabwe; 36.6% in England 
+and Wales
+Medium
+Odejide 1981 
+[114]
+Prev

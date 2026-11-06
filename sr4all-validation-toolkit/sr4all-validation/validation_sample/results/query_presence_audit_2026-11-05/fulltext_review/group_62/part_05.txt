@@ -1,0 +1,338 @@
+n memory (higher 
+discrimination index 
+for the novel object)
+Mean lifespan 
+increased in a dose‑
+dependent manner
+[183–
+186]
+Alkaloid β‑asarone Acorus tata-
+rinowii Schott – 
+Shi Chang Pu
+Induces autophagy, 
+enhances learning 
+and memory, and inhib‑
+its the accumulation 
+of Aβ plaques
+Increases LC3 I/II 
+and BECN, increas‑
+ing the expression 
+of PINK1 and Parkin, 
+suppresses APP , 
+PS1, Aβ, and BACE1, 
+while promoting syn‑
+aptophysin (SYN1)
+PC12 cells 12, 24, 36, 72, 
+144 µM (12 h)
+[112, 
+113]
+
+[W4413867217 PDF PAGE 21]
+Page 21 of 42
+Yuan et al. Chinese Medicine          (2025) 20:138 
+ 
+preventing autophagy dysregulation, and promoting a 
+controlled, protective autophagic response [116, 117]. 
+Ligustilide, a butenolide derivative from Angelicae sinen -
+sis, modulates autophagy primarily through its regulation 
+of endoplasmic reticulum (ER) stress pathways by inhib -
+iting the over-activation of GRP78/PERK/CHOP sign -
+aling. Ligustilide reduces excessive ER stress–induced 
+autophagy while promoting balanced autophagic flux. 
+It downregulates Beclin-1 and Atg5, adjusts LC3B-
+II/I ratios, and decreases p62/SQSTM1 accumulation, 
+thereby restoring cellular homeostasis [117].
+Tau pathology and phytochemical regulation of lysosomal 
+function in AD
+Lysosome-mediated autophagy plays a crucial role in 
+tau clearance, in parallel with the ubiquitin–proteasome 
+system. Impaired autophagy contributes to tau accu -
+mulation and downstream neurotoxicity. Dysfunction 
+of the TFEB reduces lysosomal activity and promotes 
+intraneuronal tau aggregation, accompanied by a marked 
+decrease in the interstitial fluid [40, 118]. Primary and 
+iPSC-derived neurons from tauopathy patients demon -
+strate that TFEB-secreting tau forms truncated at the 
+microtubule-binding region through the lysosomal cal -
+cium channel TRPML1; when TFEB is absent, TRPML1 
+activity also declines [119].
+The lysosomal system becomes disrupted when cath -
+epsin D is removed, activating caspase enzymes to cleave 
+tau at the C-terminus, producing a highly toxic truncated 
+tau form, characterized by low solubility and a tendency 
+to aggregate into harmful protein clusters, disrupt -
+ing neuronal function, causing lysosomes enlargement 
+and the loss of its natural acidity; tau fibrils inflict mini -
+mal nanoscale  damage to the lysosomal membrane and 
+weaken it, causing tau fibrils to escape. Then, the Endo -
+somal sorting complex required for transport proteins is 
+recruited to the lysosomal membrane to repair and pro -
+tect it [120]. When tau fibrils escape, they can trigger tau 
+accumulation at the lysosome surface in the cytoplasm, 
+and the loss of NHE6 protein disrupts the endolysoso -
+mal system [121]. When Glucocerebrosidase function 
+is impaired, lysosomes cannot efficiently degrade excess 
+substances, causing tau accumulation and the accumula -
+tion of the lipid lactosylceramide [122].
+ROS chemically modifies the substances, causing them 
+to accumulate into fragments or aggregates that are 
+more toxic than their original forms [12]. Autophagic 
+mutations in the PSEN1 or PSEN2 genes impair lysoso -
+mal degradation, a common cause of early familial AD. 
+Mutations result in lysosomal storage disorders, which 
+share phenotypic features with AD, including neural 
+accumulation of lysosomal vesicles. In AD, the action 
+of cathepsins B and D is often reduced, impairing the 
+breakdown of abnormal proteins and resulting in the 
+intracellular build-up of Aβ [123]. Initiation of the JNK 
+(c-Jun N-terminal kinase) and MAPK pathways contrib -
+utes to cell death and inflammation [29]. When Aβ dam -
+ages the lysosomal membrane and LAMP2A and Rab7 do 
+not function properly, the merging between lysosomes 
+and autophagosomes is hindered [124, 125].
+Compounds that target the recovery of lysosomal 
+function can effectively ameliorate early pathological 
+manifestations of AD, as can be found in Table  3. Stud-
+ies in animal models have shown that impaired lysoso -
+mal acidification precedes pathological manifestations 
+and is considered an early marker of neurodegenera -
+tion [126]. Compounds stimulate lysosomal biogenesis 
+and enhance the expression of LAMP1 and LAMP2, 
+as well as hydrolytic enzymes like cathepsins D and L. 
+They exert their effects by activating the nuclear recep -
+tor PPARα, which promotes the nuclear translocation 
+of TFEB, a master regulator of lysosomal gene expres -
+sion, strengthens the autophagic flux, and supports effi -
+cient degradation of cellular waste materials [127, 128]. 
+3,14,19-triacetyl andrographolide (ADA), a special -
+ized derivative of Andrographis paniculata (Burm. F) 
+Nees, notably enhances lysosomal function by increas -
+ing colocalization between the autophagy marker LC3 
+and lysosome-associated membrane protein 1 (LAMP1), 
+indicating enhanced completion of lysosomal diges -
+tion and removal of damaged cellular structures, reduc -
+ing toxic protein loads within neuronal cells, ADA also 
+supports synaptic protection and improves cognitive 
+function [129]. Cinnamic acid prominently activates 
+TFEB, enhancing lysosomal efficiency and reducing 
+toxic protein accumulation, induces lysosomal biogen -
+esis, enhances lysosomal functions, leading to increased 
+lysosomal markers, by activating the PPARα, increases 
+LAMP2, and improves autophagy (via LC3B), binds to 
+PPARα, and enhances the transcription of TFEB [130]. 
+Oleoylethanolamide, an endogenous lipid amide, strongly 
+activates the TFEB pathway, and oleoylethanolamide 
+significantly enhances lysosomal degradation capac -
+ity, efficiently managing abnormal proteins and cellular 
+structures, while concurrently reducing neuroinflamma -
+tion commonly observed in AD [62]. In addition to the 
+principal compounds, other substances have positively 
+affected lysosomal function, reducing lysosomal mem -
+brane permeability and activating AMPK and SIRT1, 
+which facilitate the lysosomal degradation of abnor -
+mal proteins – resveratrol, urolithin A [61, 131–135]. 
+Compounds represent promising therapeutic strategies 
+through their potent enhancement of lysosomal func -
+tion, including promoting lysosomal biogenesis, boosting 
+enzymatic activity, improving lysosomal-autophagosomal 
+fusion, maintaining lysosomal stability, and increasing 
+
+[W4413867217 PDF PAGE 22]
+Page 22 of 42Yuan et al. Chinese Medicine          (2025) 20:138 
+Table 3 Pharmacologically active compounds modulating lysosomal function
+Group Compounds Structure Species Activities Mechanism Models Dose Behavioral 
+experiment results
+Refs
+Diterpene 
+lactone
+3,14,19‑Triacetyl 
+Andrographolide
+Andrographis pan-
+iculata – Chuan 
+Xin Lian
+Activates autophagy 
+in the brain, restores 
+lysosomal function
+Activates autophagy 
+through the Akt/
+mTOR pathway, 
+decreases p‑Akt 
+and p‑mTOR levels 
+in the hippocampus 
+and cortex, restores 
+lysosomal function 
+by the degradation 
+of autophagosomes 
+(reducing cathep‑
+sin B expression 
+and increasing 
+the co‑localization 
+of LC3 and LAMP1
+3 × Tg‑AD Mice 5 mg/kg 
+(21 days)
+Improved spatial 
+learning and mem‑
+ory (reduced 
+escape latency 
+and increased 
+the number of plat‑
+form crossings
+Enhanced recogni‑
+tion memory 
+in the novel object 
+recognition test
+[129]
+Carboxylic acid Cinnamic acid Cinnamomum 
+cassia Presl – Rou 
+Gui
+Induces lysosomal 
+biogenesis, enhances 
+lysosomal functions, 
+leading to increased 
+lysosomal markers
+Activating the PPARα 
+increases LAMP2 
+and improves 
+autophagy (via LC3B), 
+binds to PPARα, 
+and enhances 
+the transcription 
+of TFEB
+Mouse primary 
+astrocytes 
+and neurons
+5 × FAD mouse
+50, 100, 200 µM 
+(24 h)
+100 mg/kg/day 
+(30 days)
+Enhanced better 
+spatial memory 
+and improved 
+memory accuracy 
+(reduced latency 
+to reach the goal 
+box and fewer errors
+The observed 
+memory improve‑
+ment was not due 
+to changes in physi‑
+cal activity (the open 
+field test showed 
+no significant 
+changes in general 
+locomotor activity 
+(velocity, total 
+distance, movement 
+duration)
+[130]
+
+[W4413867217 PDF PAGE 23]
+Page 23 of 42
+Yuan et al. Chinese Medicine          (2025) 20:138 
+ 
+Table 3 (continued)
+Group Compounds Structure Species Activities Mechanism Models Dose Behavioral 
+experiment results
+Refs
+Alkaloid Corynoxine 
+and Corynoxine 
+isomers—Fe65‑
+EXO‑Cory‑B
+Uncaria rhyncho-
+phylla (Miq.) Jack’s 
+– Gou Teng
+Promoting autophagy 
+and lysosome bio‑
+genesis to reduce Aβ 
+accumulation
+Increases levels 
+of LC3‑II and the deg‑
+radation of APP 
+and APP‑C‑terminal 
+fragments, increases 
+mature cathepsin D 
+and LAMP1 levels. 
+Induced the nuclear 
+translocation 
+of the TFEB
+N2aSwedAPP
+Tg2567 mice
+5xFAD mice
+20 mg/kg/d 
+(2 months)
+Improved motor 
+coordination 
+and balance 
+(increased time 
+spent on the rotat‑
+ing rod)
+Enhanced locomotor 
+activity and explora‑
+tion (increased time 
+spent in the center 
+of the open field)
+Improved spatial 
+learning and mem‑
+ory (reduction 
+in the time to find 
+the hidden platform)
+Enhanced Asso‑
+ciative Learning 
+and Memory 
+(increased freezing 
+behavior in response 
+to the cue tone)
+[187]
+Oleoylethanolamide Increases expres‑
+sion of genes in lipid 
+homeostasis, regula‑
+tors of lysosomal 
+function, microglial 
+phagocytosis, 
+and suppression 
+of neuroinflammation
+Activation of PPARα 
+via its stable analog 
+KDS‑5104 increased 
+the expression 
+of genes involved 
+in lipid homeostasis, 
+including CYP4A, 
+enhanced TFEB, 
+enhances lysoso‑
+mal biogenesis 
+through a mTORC1‑
+independent 
+pathway, increases 
+the microglial uptake 
+of Aβ plaques 
+dependent on PPARα 
+and is mediated 
+by the receptor 
+CD36, reduced lipid 
+droplet accumula‑
+tion in microglia, 
+and reduced 
+the inflammatory 
+response induced 
+by LPS
+Primary micro‑
+glial cultures, 
+BV2 cells, 
+and HeLa cells
+5xFAD mice
+10 mg/kg 
+(2 months)
+Cognitive Improve‑
+ment (increased 
+exploration 
+of novel objects 
+and improved asso‑
+ciative learning)
+[62]
+
+[W4413867217 PDF PAGE 24]
+Page 24 of 42Yuan et al. Chinese Medicine          (2025) 20:138 
+Table 3 (continued)
+Group Compounds Structure Species Activities Mechanism Models D

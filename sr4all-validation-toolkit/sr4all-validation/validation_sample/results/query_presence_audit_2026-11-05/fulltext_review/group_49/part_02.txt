@@ -1,0 +1,382 @@
+t=3)*
+Abstracts screened
+(n = 3347)
+(n=567)*
+Full-text reports assessed for 
+eligibility
+(n = 197)
+(n=15)*
+
+[W4392109527 PDF PAGE 6]
+3208 European Child & Adolescent Psychiatry (2024) 33:3203–3246
+Study characteristics and quality ratings
+Most studies were conducted in the United States (51%; 
+21/41), five in the United Kingdom (12%; 5/41), four in Ger-
+many (9%; 4/41), and the rest in Finland, Australia, Greece, 
+Ireland, Sweden, Canada, Spain, China, and Iran. Children’s 
+ages in the study samples ranged from 3 to 19 years (mean 
+age of 11.4 years). More details about sample characteristics 
+per study, including age, gender, and ethnicity of parents 
+and children, are provided in Table S1 in the supplements. 
+Twenty-seven studies included a control group (65%; 27/41), 
+of which 18 were RCTs, five non-randomised control trials 
+and four feasibility or pilot trials. Eight studies (19%; 8/41) 
+had a single-group design providing quantitative descriptive 
+statistics, and ten studies (24%; 10/41) involved qualitative 
+research methods (two of which were part of an RCT).
+All reports were independently assessed by two research-
+ers (HM and AML) using the MMAT. A total of 1491 rat-
+ings were made by each assessor, and in 68 cases (4%), fur-
+ther discussions and control checks were needed to find an 
+agreement (the MMAT ratings sheet and cases that required 
+more discussion is provided in the supplements). Over one-
+third of the papers (38%; 26/66) had a high-quality rating 
+of four or five stars (80–100% of the items scored as ‘yes’), 
+28% (19/66) were given a medium-quality rating of three 
+stars (60% quality score), and 28% (19/66) had a low rating 
+of one or two stars (20–40% quality score). Two papers were 
+of very low quality (i.e., no stars). A high-quality rating of 
+80–100% was received by 44% of the RCTs (8/18), 50% of 
+the qualitative and mixed method papers (2/4), and 20% of 
+the non-randomised trials (1/5) and 66% (4/6) of the descrip-
+tive quantitative studies. Table 1 presents an overview of the 
+study characteristics.
+Types of whole‑family interventions 
+and components
+Most interventions (46%; 14/30) addressed parental depres-
+sion or substance misuse (30%; 9/30). The remaining inter -
+ventions addressed families affected by anxiety disorders, 
+bipolar disorders, or multiple disorders. Children needed 
+a diagnosis or symptoms of mental illness to be included 
+in seven of the interventions. The majority of the interven-
+tions (86%; 26/30) were outpatient or community-based, 
+one was inpatient, and three used a combination of settings. 
+Most interventions were manualised (90%; 27/30) and had 
+a duration of 3 weeks up to 6 months (80%; 24/30). Two 
+interventions were less than 1 week long, two were up to 9 
+months, and two were unspecified or open-ended. Fifteen 
+(50%; 15/30) of the interventions worked with families 
+individually, thirteen (43%; 13/30) interventions were deliv-
+ered to groups of families, and two (6%; 2/30) interventions 
+included both individual and group components.
+We regarded interventions as having a family component 
+when they included sessions or activities where members 
+from at least two different levels (e.g., parent vs child level) 
+in the family system were involved. Three interventions 
+(10%; 3/30) had no family component where parents and 
+children received treatment separately. Eight interventions 
+(26%; 8/30) consisted of only family components, where 
+all sessions involved a minimum of parents/caregivers and 
+their children. Other interventions offered a combination 
+of parent or child-only components with whole-family 
+components. Intervention programmes differed in terms of 
+who they involved as part of the family, three interventions 
+(10%; 3/30) included parent–child dyads (mostly mothers), 
+and another three (10%; 3/30) involved parent(s) and one 
+child. The remaining interventions (70%; 21/30) stated that 
+siblings, partners, and other family members were invited 
+to take part. Table  2 gives a summary of the intervention 
+characteristics and Table 3 provides an overview of the fam-
+ily components per study and which family members had 
+been involved.
+Intervention components were grouped into five higher 
+level component characteristics: (1) structural compo-
+nents, (2) components from psychotherapeutic frameworks, 
+(3) skills training, (4) psychoeducation, and (5) building 
+resources. Twenty-four of the 30 interventions (80%; 24/30) 
+included one or more of the identified structural compo -
+nents, although it varied what structural components pro-
+grammes included.
+All interventions delivered regular sessions, with two 
+interventions being open-ended and the rest following a 
+fixed schedule. Approximately one-third of the interven-
+tions (30%; 10/30) set homework tasks or encouraged fam-
+ily members to practise between sessions. Some interven-
+tions (30%; 9/30) facilitated parent–child interactions by 
+stimulating parents to spend quality time with their child or 
+by creating positive parent–child moments in the sessions. 
+Relatively few interventions included an assessment (40%; 
+12/30) or goal setting component (20%;6/30). Most interven-
+tions (76%; 23/30) drew on one or more psychotherapeutic 
+frameworks, such as cognitive behaviour therapy or systemic 
+family therapy. The most common frameworks were multi-
+family or group therapy (46%; 14/30), and cognitive behav-
+ioural therapy (50%; 15/30). Many also contained elements 
+of play or creativity (30%; 9/30), such as hand puppets (ID-
+n:118) and drawing (ID-n:67).
+All but one intervention, namely Multiple Family Ther -
+apy (ID-n: 205, 211), contained one or more skills training 
+components. The majority of interventions taught problem-
+solving and coping skills (76%; 23/30) such as relaxation 
+and breathing exercise; communication skills (67%; 20/30), 
+and/or parenting skills (60%; 18/30). Some interventions 
+(30%; 9/30) specifically focused on supporting families with 
+talking about parental mental illness in the family.
+
+[W4392109527 PDF PAGE 7]
+3209European Child & Adolescent Psychiatry (2024) 33:3203–3246 
+Table 1  Overview of included trials and studies
+Study ID Report ID Country N families Age of children Control condition Research design Quality rating
+1 1 Greece Nt 30
+Nc 32
+t 11.7 (2.6)
+c 12.3 (2.7)
+Active RCT a **
+2 73 GER Nt 28
+Nc 49
+M(SD) = 10.41 (2.66) Passive fRCT **
+3 93
+119
+123
+Finland Nt 53
+Nc 56
+11.9 (2.6) Active RCT a
+RCT 
+RCT 
+***
+***
+****
+4 186 USA Nt 7 10.9 (2.0) None QUAND ***
+5 180 USA Nt+c 28 10.5 ( −) Active RCT **
+6 148
+162
+177
+178
+179
+USA Nt 55
+Nc 44
+11.6 (1.9)
+11.5 (2.03)
+Active RCT 
+RCT 
+RCT 
+RCT 
+RCT 
+***
+*****
+***
+***
+****
+7 5 USA Nt 22 15.4 (1.8) None QUAND ****
+8 8
+20
+34
+70
+USA Nt 70
+Nc 66
+t 8.5 (1.8)
+c 8.9 (1.9)
+Active RCT 
+RCT 
+RCT a
+RCT a
+*
+**
+***
+*****
+9 132 USA Nt 20
+Nc 20
+t 9.2 (1.9)
+c 8.7 (1.8)
+TAU RCT a ***
+10 10 UK Nt 20
+Nc 15
+N-qual:
+14 parents
+17 children
+16 facilitators
+5professionals
+t 10.2 (2.1)
+c 10.9 (2.7)
+TAU MIXED (fRCT and QUAL) ***
+11 11
+19
+31
+48
+USA Nt 123
+Nc 66
+11.54 (–) Active RCT 
+RCT 
+RCT 
+RCT 
+*
+***
+–
+**
+12 21 USA Nt 49
+Nc 19
+Not stated Active RCT a *
+13 201
+16
+GER Nt 50
+Nc 50
+Nqual:
+18 parents
+22 young people
+t 11.7 (2.8)
+c 12.0 (2.9)
+TAU RCT a
+QUAL
+***
+*****
+14 18
+29
+72
+82
+105
+116
+122
+138
+USA Nt 90
+Nc 90
+11.5 (2.0) Active RCT a
+RCT 
+RCT 
+RCT 
+RCT 
+RCT 
+RCT 
+RCT 
+*
+**
+*****
+***
+***
+**
+**
+****
+15 26 GER Nt 41
+Nc 26
+t 10.1 (2.3)
+c 10.3 (2.7)
+TAU NRCT a ****
+16 45 Canada Nt 19 9.7 (2.6) None QUAND *****
+17 62 USA Nt 16
+Nc 8
+t 14.7 (1.8)
+c 14.0 (1.7)
+Active fRCT *
+18 67 AUS Nt 89 10.4 (2.4) None QUAND ****
+19 71 UK Nt 69
+Nt 71
+Nc 71
+6–13 years Active RCT a ****
+21 91 USA Nt 13 9–18 years None MM (QUAND and QUAL) **
+
+[W4392109527 PDF PAGE 8]
+3210 European Child & Adolescent Psychiatry (2024) 33:3203–3246
+Table 1  (continued)
+Study ID Report ID Country N families Age of children Control condition Research design Quality rating
+22 101 USA Nt 16
+Nc 14
+12–15 years TAU RCT a **
+23 109 USA Nt 10 9–16 years None QUAND ****
+24 118 GER 375b 5.3 ( −) TAU NRCT **
+25 135 USA Nt 9 11.0 (1.9) None MM
+(QUAND and QUAL)
+*****
+26 143 Spain Nt 15
+Nc 16
+10.6 ( −) Passive NRCT ***
+27 146 USA Nt 98
+Nc 69
+11.2 ( −) TAU RCT a **
+28 173
+176
+USA Nt 77
+Nc 58 parents
+10.4 (2.4) TAU RCT 
+RCT 
+**
+***
+29 164 UK Nt 20 7–14 years None QUAND –
+30 200 USA Nt 45
+Nc 49
+t 14.4 (1.4)
+c 14.7 (1.5)
+TAU RCT a ***
+31 92 USA Nt 25
+Nc 18
+t 12.6 ( −)
+c 10.8 ( −)
+TAU fRCT *****
+32 208 USA Nt 43
+Nc 44
+t 10.4 (3.3)
+c 10.9 (3.3)
+TAU RCT ***
+33 6
+202
+USA Nt 61 youth
+Nc 66 youth
+13.2 (2.7)
+13.3 (2.5) 9–17 years
+Active RCT 
+RCT 
+*****
+****
+34 205
+211
+China Nt 37
+Nc 74
+8–18 years Active NRCT 
+NRCT 
+**
+***
+35 212 Iran Nt 30
+Nc 30
+8–16 years TAU NRCT ***
+36 94 USA NCt 21
+NCc 19
+M = 12.2 (2.8)
+range 9–17
+Active RCT *****
+37 2 Sweden Nqual:
+8 parents
+7 children
+8–17 years None QUAL *****
+38 15 AUS 15 parents
+8 children
+6 siblings
+6 clinicians
+M = 13.1
+(range 9–17)
+na QUAL *****
+40 59
+214
+UK 5 parents
+6 children
+7 service users
+10 facilitators
+101 parent feed-
+back form
+138 young peo-
+ple feedback 
+form
+4–16 years na QUAL
+MM
+****
+****
+41 79 UK 36 parents
+37 children
+30 facilitators
+8–17 years na QUAL *****
+43 206 IRE 23 parents
+7 partners
+15 children
+5–18 years na QUAL *****
+44 213 AUS 10 parents M(SD) = 8.5 (1.4) na QUAL *****
+Note: sample sizes refer to the number of families included unless otherwise specified. Nt sample size treatment group, Nc sample size control 
+group, TAU  treatment as usual, RCT  randomised-controlled trial, fRCT  feasibility or pilot RCT, NRCT  non-randomised trial, QUAND quantita-
+tive descriptive study, QUAL qualitative study, MM mixed method study, UK United Kingdom, IRE Ireland, AUS Australia, GER Germany, USA 
+United States of America
+a Trial included in meta-analysis
+b Sample size not split by group
+
+[W4392109527 PDF PAGE 9]
+3211European Child & Adolescent Psychiatry (2024) 33:3203–3246 
+Table 2  Summary of all included interventions
+Intervention Number 
+of papers 
+included 
+(Report

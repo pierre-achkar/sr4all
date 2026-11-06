@@ -1,0 +1,185 @@
+gy, The First Afﬁliated Hospital of Sooch ow University, Suzhou, China
+Background: Prostate-speciﬁc membrane antigen (PSMA)-targeted
+2-(3-{1-carboxy-5-[(6-[18F] ﬂuoro-pyridine-3-carbony l)-amino]-pentyl}-ureido)-
+pentanedioic acid (18F-DCFPyL) positron emission tomogra phy/computed tomography
+(PET/CT) has shown advantages in primary staging, restagin g, and metastasis detection
+of prostate cancer (PCa). However, little is known about the role of 18F-DCFPyL PET/CT
+in biochemically recurrent prostate cancer (BRPCa). Hence , we performed a systematic
+review and meta-analysis to evaluate 18F-DCFPyL PET/CT as ﬁ rst-line imaging modality
+in early detection of BRPCa.
+Methods:A comprehensive literature search of PubMed, Web of Science , Embase,
+and Cochrane Library was conducted until December 2020. The pooled detection
+rate on a per-person basis and together with 95% conﬁdence in terval (CI) was
+calculated. Furthermore, a prostate-speciﬁc antigen (PSA )-stratiﬁed performance of
+detection positivity was obtained to assess the sensitivit y of 18F-DCFPyL PET/CT in
+BRPCa with different PSA levels.
+Results:A total of nine eligible studies (844 patients) were include d in this meta-analysis.
+The pooled detection rate (DR) of 18F-DCFPyL PET/CT in BRPCa was 81% (95% CI:
+76.9–85.1%). The pooled DR was 88.8% for PSA ≥ 0.5 ng/ml (95% CI: 86.2–91.3%)
+and 47.2% for PSA < 0.5 ng/ml (95% CI: 32.6–61.8%). We also noticed that the regi onal
+lymph node was the most common site with local recurrence com pared with other sites
+(45.8%, 95% CI: 42.1–49.6%). Statistical heterogeneity an d publication bias were found.
+Conclusion: The results suggest that 18F-DCFPyL PET/CT has a relatively high
+detection rate in BRPCa. The results also indicate that imag ing with 18F-DCFPyL
+may exhibit improved sensitivity in BRPCa with increased PS A levels. Considering the
+publication bias, further large-scale multicenter studie s are warranted for validation.
+Keywords: 18F-DCFPyL, prostate-speciﬁc membrane antigen, P ET/CT, biochemically recurrent prostate cancer,
+imaging
+
+[W3157824834 PDF PAGE 2]
+Sun et al. 18F-DCFPyL PET -CT in Prostate Cancer
+INTRODUCTION
+Prostate cancer (PCa) is the most common form of malignant
+tumor among men in the United States and the second most
+common cause of cancer-related deaths in aging men (
+1). After
+patients received the initial treatments, follow-up strateg ies
+including physical examination and prostate-speciﬁc antigen
+(PSA) tests were performed to monitor the progression of
+the disease (
+2). Despite the high success rate of the primary
+treatments, PCa recurrence is relatively common, presentin g
+with a sudden rise or persistently elevated PSA levels. For pos t
+radical prostatectomy (RP), biochemical recurrence (BCR) is
+deﬁned as two consecutive PSA values that are>0.2 ng/ml and
+rising (
+3). For post external beam radiation therapy (EBRT), BCR
+is deﬁned as an increase in the PSA level by 2 ng/ml or more
+above the nadir (
+4). It is reported that BCR will occur in ∼ 20–
+40% of the patients undergoing radical prostatectomy ( 5–7) and
+30–50% of men after EBRT ( 8). Another study also reported
+that 13.9% of PCa patients following brachytherapy developed
+biochemical failure in the ﬁrst decade of follow-up (
+9). Although
+the treatment of men with biochemically recurrent prostate
+cancer (BRPCa) should be based not only on radiographic
+characteristics but also on personal clinical, pathologic, and
+genomic characteristics, and optimal timing of systemic the rapy
+remains controversial (
+10), the early lesion localization of BRPCa
+is still essential to deﬁne disease distribution that could , in turn,
+help urologists make further possible clinical decisions in cluding
+surgery, salvage radiation therapy (RT), androgen deprivati on
+therapy (ADT), or chemotherapy. However, traditional imagin g
+methods such as plain X-ray, CT, MRI, or bone scintigraphy
+are limited by their low sensitivity while detecting early
+recurrent disease (
+11). Developments of imaging techniques may
+enable urologists to localize recurrence or metastasis sit es in
+BCR patients.
+The prostate-speciﬁc membrane antigen (PSMA)
+is speciﬁcally highly expressed in the surface of PCa
+cells (
+12). Recently, PSMA-targeted positron emission
+tomography/computed tomography (PET/CT) is increasingly
+used in PCa diagnostics (
+13, 14). Moreover, PSMA PET/CT has
+greater sensitivity and speciﬁcity for detecting pelvic noda l or
+distant metastases than conventional imaging techniques ( 15).
+Therefore, PSMA radiopharmaceuticals have been increasingly
+used to detect small tumor lesions, lymph node, bone, or visceral
+metastases because of its high sensitivity even at low PSA
+levels. Several PSMA radioligands such as Gallium-68 (68Ga),
+Fluorine-18 (18F), Lutetium-177 (177Lu), or Copper-64 (64Cu )
+are currently available to obtain eﬀective radiotherapeutic s
+for theranostic applications (
+16–20). 68Ga-PSMA PET/CT
+Abbreviations: PSMA, prostate-speciﬁc membrane antigen; PET/CT, positron
+emission tomography/computed tomography; BRPCa, biochemically recurrent
+prostate cancer; CI, conﬁdence interval; DR, detection rate; PSA, prostate-
+speciﬁc antigen; PCa, prostate cancer; BCR, biochemical recurrence ; RP ,
+radical prostatectomy; EBRT, external beam radiation therapy; RT, ra diation
+therapy; PRISMA, Preferred Reporting Items for Systematic Reviews an d
+Meta-analyses; QUADAS-2, quality assessment of diagnostic ac curacy studies;
+18F-DCFPyL, 2-(3-{1-carboxy-5-[(6-[18F] ﬂuoro-pyridine-3 -carbonyl)-amino]-
+pentyl}-ureido)-pentanedioic acid.
+was ﬁrst introduced to predict biochemical recurrence in PCa
+patients after initial therapy (
+21, 22). It was reported that lesions
+suspicious for PCa detected by 68Ga-PSMA PET/CT presented
+with excellent contrast as early as 1 h post-injection with high
+detection rates even at low PSA levels (
+23). However, despite
+the widespread clinical adoption of this agent, there are some
+disadvantages related to its short physical half-life (68 min)
+and decreasing synthesis yields as generators decay. It is a lso
+diﬃcult and expensive to comply with good manufacturing
+practice guidelines, and therefore centralized radiopharmacy
+production and distribution are constrained (
+24). By contrast,
+18F-labeled PSMA agents seem to have more advantages as
+they provide a longer half-life, allowing for later facilitating
+tumor visualization with higher physical spatial resolution (
+25).
+The 2-(3-{1-carboxy-5-[(6-[18F] ﬂuoro-pyridine-3-carbo nyl)-
+amino]-pentyl}-ureido)-pentanedioic acid (18F-DCFPyL), a s a
+novel second-generation PSMA agent, binds with higher aﬃnit y,
+thus allowing earlier detection of local recurrence even at a lower
+PSA level ( 26, 27). To our knowledge, the value of this kind of
+radiotracer is still unclear due to the relatively small siz es of the
+prior studies. Therefore, we performed a meta-analysis to more
+accurately evaluate the diagnostic performance of 18F-DCFPyL
+PET/CT in BRPCa patients.
+MATERIALS AND METHODS
+Search Strategy and Identiﬁcation of
+Eligible Studies
+Two reviewers (Sun and Lin) searched the online databases
+PubMed, Web of Science, Embase, and Cochrane Library to
+identify the relevant articles published until December 2020.
+The study was reported according to the Preferred Reporting
+Items for Systematic Reviews and Meta-Analyses (PRISMA)
+(
+28), and the following keywords were used: “18F-DCFPyL ”
+OR “2-(3-{1-carboxy-5-[(6-[18F]ﬂuoro-pyridine-3-carbo nyl)-
+amino]-pentyl}-ureido)-pentanedioic acid” AND “Biochemically
+recurrent prostate cancer.” Articles in all languages were
+considered relevant for review, and the references of pertinent
+articles were manually screened and checked as well. All
+prospective or retrospective studies investigating 18F-DCFPyL
+PET/CT and BRPCa were included. Exclusion criteria were as
+follows: (I) case series or case reports; (II) review articlesand
+editorial comments; (III) data incomplete or unclear or unus able
+with our study or major mistakes; (IV) republished literature ;
+(V) studies performed on a per-lesion basis.
+Data Extraction
+Two reviewers (Sun and Lin) extracted the following information
+independently from each study, and inconsistencies were
+resolved by discussion until a consensus was obtained. Extracted
+data included country, study period, study design, sample siz e,
+characteristics of participants, technical aspects, and dete ction
+rate (DR) of 18F-DCFPyL PET/CT on a per-person basis.
+Quality Assessment of Diagnostic Accuracy Studies (QUADAS-
+2) (
+29) was used for assessing the quality of articles included in
+this study.
+Frontiers in Oncology | www.frontiersin.org 2 April 2021 | Volume 11 | Article 649171
+
+[W3157824834 PDF PAGE 3]
+Sun et al. 18F-DCFPyL PET -CT in Prostate Cancer
+Statistical Analysis
+All statistical analyses were conducted by Stata (version 15;
+StataCorp, Texas, USA). The heterogeneity between diﬀerent
+articles was determined byI2 index (
+30). When signiﬁcant
+heterogeneity was observed ( I2 > 50%), the random-eﬀect
+model was applied. Based on our clinical experience, subgroup
+analysis according to mean/median PSA before 18F-DCFPyL
+PET/CT scanning was conducted if signiﬁcant heterogeneity
+exists. A PSA-stratiﬁed performance of detection positivitywas
+obtained to assess the sensitivity of 18F-DCFPyL PET/CT in
+BRPCa with diﬀerent PSA levels. Egger’s test was conducted to
+estimate publication bias. All tests with two-sidedP < 0.05 were
+considered statistically signiﬁcant.
+RESULTS
+Characteristics of Included Studies
+As shown in the PRISMA ﬂow diagram (Figure 1), nine studies
+containing 844 patients were ﬁnally included for further met a-
+analysis (
+31–39). The QUADAS-2 shows that the quality of
+all articles included was not completely satisfactory becau se
+some articles did not detail patient selection information
+(Supplementary Materials 1.1 , 1.2).
+Basic characteristics and technical aspects of the involved
+studies were summarized in Tables 1, 2, respectively. On the
+whole, all included stu

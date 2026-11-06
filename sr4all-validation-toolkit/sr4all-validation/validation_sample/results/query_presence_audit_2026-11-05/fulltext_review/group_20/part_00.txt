@@ -1,0 +1,167 @@
+
+
+REVIEW W3032926785
+TITLE: Short-term efficacy and safety of lasmiditan, a novel 5-HT1F receptor agonist, for the acute treatment of migraine: a systematic review and meta-analysis
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W3032926785 PDF PAGE 1]
+RESEARCH ARTICLE Open Access
+Short-term efficacy and safety of
+lasmiditan, a novel 5-HT 1F receptor agonist,
+for the acute treatment of migraine: a
+systematic review and meta-analysis
+Min Hou, Haiyan Xing, Chen Li, Xianfeng Wang, Dongmei Deng, Juan Li, Pan Zhang and Jianhong Chen *
+Abstract
+Background: Migraine has been recognized as one of common diseases in the world whose current treatment
+options are not ideal. Lasmiditan, an oral 5-hydroxytryptamine (HT) 1F receptor agonist, appears more promising for
+the acute treatment of migraine because of considerably better effect profiles with no severe adverse events (AEs).
+This review aimed to systematically evaluate the efficacy and safety of lasmiditan from the results of randomized
+controlled trials (RCTs).
+Methods: PubMed, Cochrane Library, Embase were searched on lasmiditan for the acute treatment of migraine
+from inception of the databases to Feb 1, 2020. Pain free and pain relief, global impression (very much/much
+better), and no/mild disability at 2 h in efficacy; total treatment-emergent adverse events (TEAEs), dizziness, nausea,
+fatigue, paraesthesia and somnolence in safety were extracted from the included studies. A systematic review and
+meta-analysis was performed using Review Manager Software version 5.3 (RevMan 5.3).
+Results: Four RCTs with a total of 4960 subjects met our inclusion criteria. The overall effect estimate showed that
+lasmiditan was significantly superior to placebo in terms of pain free (RR 1.71, 95% CI 1.55 –1.87), pain relief (RR 1.40,
+95% CI 1.33 –1.47), global impression (very much/much better) (RR 1.55, 95% CI 1.44 –1.67), and no/mild disability (RR
+1.15, 95% CI 1.10 –1.20) at 2 h. For the safety, significant number of patients experienced TEAEs with lasmiditan than
+with placebo (RR 2.77, 95% CI 2.53 –3.03), most TEAEs were central nervous system (CNS)-related and included
+dizziness (RR 5.81, 95% CI 4.72 –7.14), nausea (RR 2.58, 95% CI 1.87 –3.57), fatigue (RR 5.38, 95% CI 3.78 –7.66),
+paraesthesia (RR 4.48, 95% CI 3.33 –6.02), and somnolence (RR 2.82, 95% CI 2.18 –3.66).
+Conclusions: This meta-analysis suggests that lasmiditan is effective for the acute treatment of migraine with a
+higher incidence of CNS-related adverse reactions compared with placebo. Long-term, open-label, multi-dose trials
+are required to verify the current findings.
+Keywords: Migraine, Lasmiditan, 5-HT 1F receptor agonist, Meta-analysis
+© The Author(s). 2020 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if
+changes were made. The images or other third party material in this article are included in the article's Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons
+licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+The Creative Commons Public Domain Dedication waiver ( http://creativecommons.org/publicdomain/zero/1.0/) applies to the
+data made available in this article, unless otherwise stated in a credit line to the data.
+* Correspondence: yaojike2017@163.com
+Department of Pharmacy, Daping Hospital, Army Medical University,
+Chongqing 400042, P. R. China
+The Journal of Headache
+                           and Pain
+Hou et al. The Journal of Headache and Pain           (2020) 21:66 
+https://doi.org/10.1186/s10194-020-01138-x
+
+[W3032926785 PDF PAGE 2]
+Background
+Migraine is a common neurological disease that was
+ranked by the Lancet Global Burden of Disease Study as
+the second highest cause of disability in 328 diseases
+from 195 countries between 1990 and 2016, and is be-
+coming a larger component of the global burden of dis-
+ease [ 1]. Statistically, 45.1 million of total years lived
+with disability are suffered from migraine [ 1], which has
+a significant impact on quality of life and increased use
+of health resources [ 2, 3]. It is characterized by
+moderate-severe, unilateral, throbbing headache attacks
+lasting from 4 to 72 h, accompanied by additional symp-
+toms such as nausea, vomiting, phonophobia, and/or
+photophobia [ 4]. However, the exact etiology and patho-
+genesis of migraine currently is unclear. Thus, to find a
+safety, effective and highly specific medication remains a
+challenge and warrants further research.
+In general, the choice of acute treatment is based
+mainly on two classes of medicines: nonspecific (analge-
+sics and nonsteroidal antiinflammatory drugs, NSAIDs)
+and specific drugs (triptans and ergot derivatives) [ 5].
+The triptans, regarded as the gold standard in the mi-
+graine therapy, are a class of selective and effective 5-
+hydroxytryptamine (HT) 1B/1D receptor agonists that have
+replaced ergot derivatives. However, 30% ~ 40% of
+treated patients do not respond to triptans that are also
+endowed with the risk of serious cardiovascular adverse
+events caused by vasoconstriction yielded by 5-HT 1B re-
+ceptor activation [ 6, 7]. Therefore, a new acute therapy
+for migraine is urgently needed, especially for those pa-
+tients unable to achieve optimal outcomes with current
+therapies.
+Lasmiditan, also known as COL-144 and LY573144, is
+a novel 5-HT receptor agonist with high-affinity and se-
+lectivity for the 5-HT 1F receptor, which acts on the tri-
+geminal system without causing vasoconstriction
+because of its low affinity for 5-HT 1B receptors [ 8].
+Representing a new class of migraine medications, lasmi-
+ditan is believed to act both centrally and peripherally,
+and developed as an acute therapy for migraine to ad-
+dress significant unmet needs in patients with cardiovas-
+cular risk factors, those with stable cardiovascular
+disease, or patients who respond poorly to their current
+treatment.
+The U.S. Food and Drug Administration approved las-
+miditan for the acute treatment for migraine with or
+without aura in adults on 11 October 2019 [ 9]. Data
+from phase II and III studies showed significant efficacy
+and high incidence of treatment-emergent adverse reac-
+tions (TEAEs) of this molecule versus placebo in acute
+treatment for migraine. However, up to now, there was
+no systematic review that examined the efficacy and tol-
+erability of lasmiditan. Therefore, in this paper, we per-
+formed this systematic review and meta-analysis to
+evaluate the safety and efficacy of lasmiditan in the treat-
+ment of acute migraine attacks.
+Methods
+Literature search and inclusion criteria
+Two reviewers (MH and HYX) independently searched
+PubMed, Cochrane Library, Embase for articles by enter-
+ing “migraine” or “headache” and “lasmiditan” or “COL-
+144” or “LY573144” or “5-HT1F receptor agonists ” as
+search terms. Then all articles and their reference lists
+were examined to expand potentially relevant articles.
+The bibliographic databases were searched from their re-
+spective inception to Feb 1, 2020. The articles were in-
+cluded in the meta-analysis if they met the following
+criteria: (1) included patients were adults (18 – 65 years of
+age) with migraine with or without aura which had been
+diagnosed according to the International Headache Soci-
+ety criteria (IHS) [ 10, 11]; (2) randomized controlled tri-
+als (RCTs) evaluating the efficacy and safety of
+lasmiditan for the acute treatment of migraine; (3) lasmi-
+ditan and placebo in any formulation or in any dose as
+treatment group and control group respectively; (4) rele-
+vant indexes of the efficacy and safety of lasmiditan were
+provided or could be calculated from original data in the
+articles. Studies were excluded when one of the follow-
+ing issues occurs: (1) subjects were animals; (2) interven-
+tions were drug combinations; and (3) except for RCTs,
+other types of trials such as cross-over designs, healthy
+controlled trials and self-contrast trials. Disagreement
+between two reviewers was settled by consensus or con-
+sultation with a third author (JHC or LC).
+Quality assessment of the included studies
+The methodological quality of included studies was
+assessed by two independent raters using Review Man-
+ager Software version 5.3 (RevMan 5.3) provided by the
+Cochrane Collaboration with a seven-item scale (random
+sequence generation, allocation concealment, blinding of
+participants and personnel, blinding of outcome assess-
+ment, incomplete outcome data, selective reporting and
+other bias) [ 12]. Each of the items involved assigning a
+judgment of high, low, or unclear risk of material bias
+with lower bias indicating better quality. Detailed criteria
+for making judgments about the risk of bias from each
+of the items in the tool are available in the Cochrane
+Handbook [ 13]. Any discrepancies between two re-
+viewers were discussed and settled by consensus or con-
+sultation with a third reviewer (XFW or LC).
+Statistical analysis
+All extracted data syntheses were performed by RevMan
+5.3 (Cochrane Collaboration, Oxford, England), and
+overall effects and safety of lasmiditan for the treatment
+of acute migraine were calculated by risk ratios (RRs)
+Hou et al. The Journal of Headache and Pain           (2020) 21:66 Page 2 of 12
+
+[W3032926785 PDF PAGE 3]
+with 95% confidence intervals (CIs) with a fixed- or
+random-effect model. The heterogeneity analyses were
+conducted by using Chi-square test, I2 values smaller
+than 50% indicate no significant heterogeneity, and are
+acceptable. The fixed-effect model of ana

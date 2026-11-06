@@ -1,0 +1,178 @@
+veral social stressors exhibit intermediate and low
+associations with EE [ 82, 85, 86, 91, 92]. Social support
+from colleagues and superiors is generally associated
+with lower levels of EE [ 85, 86, 91, 92], concluded that
+‘lack of support ’ was significantly associated with EE
+(OR 1.8; 95%CI:1.5 – 2.2; p < .001). Martinussen et al. [ 91]
+(β = −.25, p < .05) and McCarty et al. [ 92]( b = −.44,
+p < .05) demonstrated that as levels of social support in-
+creased levels of EE decreased; while ‘social support ’ was
+significantly associated with EE in both male (OR 3.47;
+95%CI:2.02– 5.96; p < .05) and female police (OR 2.79;
+95%CI:1.73– 4.51; p < .05), after controlling for age [ 85].
+‘Internal social stressors ’ were significantly associated
+with EE ( β = .44, p < .01) when controlling for ‘outsider
+social stressors ’ [82]. Work conflict ( β = .01, p = ns)[ 91]
+was not found to be a significant predictor of EE. In the
+same study, ‘leadership’ was not identified as a signifi-
+cant predictor of EE ( β = −.11, p = ns)[ 85, 91]. Similarly,
+Backteman-Erlanson et al. [ 85] did not identify a signifi-
+cant association between ‘leadership’ and EE in both
+male (OR 0.72, 95% CI:0.53 – 0.99, p = ns) and female po-
+lice officers (OR 0.56, 95% CI:.42 – .75, p = ns).
+In terms of workplace climate and culture, ‘organisational
+climate’ and ‘organisational culture’ showed intermediate
+and significant associationswith EE in both female (climate:
+OR 2.48, 95%CI:1.79 – 3.45; p < .05 & culture: OR 2.28,
+95%CI:1.61– 3.21; p < .05)) and male police (climate: OR
+2.17, 95%CI:1.56– 3.01; p < .05 and culture: OR 2.09, 95%CI:
+1.44– 3.04; p < .05) following adjustment for age [ 85]. Two
+studies, further examined a co mponent of organisational
+c u l t u r eb yi n v e s t i g a t i n g‘overall perceived fairness’ of police
+organisations [83, 92]. The first study, reported that 10% of
+the total variance in EE experienced by participants was at-
+tributed to ‘perceived workplace fairness’;a n dt h a ta s ‘per-
+ceived workplace fairness’ increased levels of EE decreased
+(β = −.23, p <. 0 1 ) [83]. Similarly, the second study demon-
+strated that ‘unfairness of the organisation’ was significantly
+associated with EE (b = .31, p <. 0 5 )[92].
+Depersonalisation (DP) The organisational stressor
+demonstrated to be the strongest predictor of DP was
+low ‘decision latitude ’ and this association was identified
+in both male (OR 2.68; 95%CI:1.37 – 5.24; p < .05) and fe-
+male (OR 1.77, 95%CI:1.05 – 2.99; p < .05) police officers,
+following adjustment for age [ 85]. On the contrary, an-
+other study did not find any evidence of a significant as-
+sociation between lack of ‘autonomy’ and DP ( β = −.04,
+p= ns) after adjustment for confounding [ 91].
+Four studies investigated the impact of high job de-
+mand and pressure on DP [ 85, 86, 94, 95] and three
+found intermediate [ 85] and low [ 94, 95], but significant
+associations. High job ‘demand’ was significantly associ-
+ated with DP ( β = .11, p < .001) after controlling for con-
+founding [ 94], and similarly was a significant predictor
+of DP in both male (OR 1.96, 95%CI:1.20 – 3.20; p < .05)
+and female police officers (OR 2.54, 95%CI:1.57 – 4.13;
+p < .05) after adjusting for age [ 85]. ‘Administrative/
+Purba and Demou BMC Public Health         (2019) 19:1286 Page 13 of 21
+
+[W2980327373 PDF PAGE 14]
+organisational pressure ’ (r = .218, p < .01) and ‘police
+stress’ (r = .165, p < .01) were significantly associated with
+DP [ 95]. Conversely, one study found no evidence of an
+association between ‘job pressure ’ and DP (OR 0.9,
+95%CI:0.8– 1.1; p = ns) in the adjusted model [ 86].
+Analogous to EE, ‘long working hours ’ (OR 1.30; 95%CI:
+1.00– 1.71; p < .05) [ 89]a n d ‘lack of resources ’ (β = .17,
+p < .001) [ 94] were significantly associated with DP,
+while ‘overtime work ’ (β = .06, p = ns) was not [ 91].
+Three studies investigated organisational stressors re-
+lated to interpersonal relationships at work [ 85, 86, 91].
+Similar to EE, high levels of ‘social support ’ from co-
+workers and supervisors resulted in decreased levels of
+DP ( β = −.33, p < .001) [ 91], while the lack of ‘social
+support’ significantly predicts DP in both male (OR 2.18;
+95%CI:1.28– 3.71; p < .05) and female (OR 1.62, 95%CI:
+1.06– 2.48; p < .05) police officers following adjustment
+for age [ 85]. However, one study found no significant
+association between ‘lack of support ’ and DP (OR 0.9,
+95% CI:0.8 – 1.1; p = ns)[ 86] . Similar to EE, there was no
+significant association between ‘work conflict ’ and DP
+(β = .07, p = ns)[ 91].
+Assessing stressors related to organisational culture
+demonstrated that adoption of appropriate ‘leadership’
+significantly decreased DP levels ( β = −.24, p < .01) [ 91],
+but another study found no association between appro-
+priate ‘leadership’ and DP in both male (OR 0.85; 95%CI:
+0.62– 1.15; p = ns) and female police officers (OR 0.94,
+95%CI:0.73– 1.22; p = ns)[ 85]. Poor ‘organisational cul-
+ture’ was identified as a significant risk factor for DP in
+both male (OR 1.59, 95%CI:1.12 – 2.25; p < .05) and
+female police officers (OR 1.49, 95%CI:1.11 – 1.99;
+p < .05), whereas ‘organisational climate ’ was as a signifi-
+cant risk factor for female police officers only (OR 1.64,
+95%CI: 1.22 – 2.19; p < .05) and not for males (OR 1.27,
+95%CI:0.94– 1.73; p = ns)[ 85].
+Personal accomplishment (PA) Of the four studies in-
+vestigating PA, the organisational stressors, social sup-
+port and job pressure were the strongest predictors of
+PA, as examined in two high quality studies [ 86, 91] and
+one low quality study [ 95]. ‘Job pressure ’ was signifi-
+cantly related to PA (OR 1.3, 95% CI:1.1 – 1.6; p < .001),
+after controlling for age, gender, lack of support, anxiety,
+depression, subjective health complaints, suicidal idea-
+tion, EE and DP [ 86]. Similarly, ‘police stress ’ (r = .167,
+p < .01) and ‘administrative/organisational pressure ’
+(r = .152, p < .01) were statistically significant correlated
+with PA, independent of adjustment for confounders
+[95]. Neither ‘long working hours ’ (OR 0.99, 95%CI:
+0.75– 1.32; p = ns)[ 89], nor ‘overtime work ’ (β = .01, p =
+ns)[ 91] were significantly associated with PA.
+After adjusting for leadership, work conflict, overtime
+work, autonomy, work-family pressures, age and gender,
+high levels of ‘social support’ from co-workers and super-
+visors (β = .23, p < .01) and PA [ 91] were significantly cor-
+related. This relationship however was not significant in
+the study conducted by [ 86] (OR 1.1, 95% CI: 0.9 – 1.2; p =
+ns). No significant relationship with PA was observed for
+‘leadership’ (β =. 1 3 , p= ns)[ 91], ‘work conflict ’ (β = −.03,
+p= ns)[ 91]a n d ‘autonomy’ (β =. 0 9 , p= ns)[ 91]i na d -
+justed models.
+Suicidal ideation
+O n eh i g hq u a l i t ys t u d y[86] assessed the association between
+organisational stressors and suicide ideation, covering 3272
+participants. This study revealed that neither ‘job pressure’
+(OR 0.8, 95%CI:0.6 – 1.19; p = ns)n o r ‘lack of support ’ (OR
+1.3, 95%CI:0.9– 1.7; p = ns) were significantly associated with
+suicidal ideation after controlling for confounders [86].
+Evidence synthesis
+Thirty-six organisational stressors were identified, of
+which twenty-five demonstrated significant associations
+with one or more MW outcomes (Table 3). Overall, a
+strong degree of evidence with a high magnitude of associ-
+ations between organisational stressors and MW out-
+comes (Table 4 and Additional file 6: Table S12 and S13),
+was observed for the outcomes of PS/PD [ 82, 84, 89, 90],
+EE [ 82, 83, 85, 86, 89, 91, 94, 95] and DP [ 85, 86, 89, 91,
+94, 95]. Strong evidence of intermediate magnitude was
+identified for studies investigating the relationship be-
+tween organisational stressors and occupational stress [ 88,
+93, 96]a n dP A[ 86, 89, 91, 95]. Studies investigating burn-
+out [ 95], anxiety [ 86] and depression [ 86, 87] provided an
+insufficient degree of evidence, however the magnitude of
+associations was rated as intermediate. The degree of evi-
+dence and the magnitude of associations were insufficient
+and low, respectively, for suicidal ideation [ 86].
+The thirty-six organisational stressors were mapped under
+the amended WHO Organisational Stress-related Hazard
+Categories: organisational culture; workload and working
+hours; working hours; interpers onal relationships; participa-
+tion and control and career development. Within the organ-
+isational culture category stressors included ‘organisational
+climate’ and ‘organisational culture’ both of which were sig-
+nificant predictors of EE [ 85]a n dD P[ 85]. ‘Perceived
+workplace fairness’/‘unfairness of the organisation’ were sig-
+nificant risk factors for EE [ 83, 92]o n l y .‘Department issues’
+was a significant risk factor for occupational stress [ 88],
+while ‘leadership’ was identified as a significant predictor for
+DP only [ 91]. ‘Job demands’ [85, 94], high mental/intellec-
+tual demand [ 84], pressure [ 86, 95] and heavy workload
+[87], were shown to be significant predictors of PS/PD [ 84],
+anxiety [86], burnout [ 95], EE [ 85, 86, 94, 95], DP [ 85, 94,
+95], PA [ 86, 95]a n dd e p r e s s i o n[87].
+Within the Workload and working hours category, ‘long
+working hours ( ≥ 49h/week)’ [89]d e m o n s t r a t e da n
+Purba and Demou BMC Public Health         (2019) 19:1286 Page 14 of 21
+
+[W2980327373 PDF PAGE 15]
+increased risk of PS/PD [ 89], EE [ 89]a n dD P[ 89] however
+did not increase risk of PA [ 89]. A ‘lack of resources’ [94]i n
+the organisation was recognised as increasing the risk of EE
+[94]a n dD P[ 94]. The Interpersonal relationshipscategory
+comprised of stressors including ‘lack of support ’, ‘ridicule
+and set ups ’ and ‘bias’. ‘Lack of support ’ significantly in-
+creased the risk of number of MW outcomes including oc-
+cupational stress [ 96], PS/PD [ 82, 84], EE [ 82, 85, 91, 92],
+DP [85, 91], and PA [ 91]. ‘Ridicule and set ups’ [93, 96], ‘sex-
+ual and language harassment ’ [93]a n d ‘bias’ [93] predicted
+occupation

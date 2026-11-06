@@ -1,0 +1,168 @@
+849–59.
+ 31. Nikayin S, Rabiee A, Hashem MD, Huang M, Bienvenu OJ, Turnbull AE, 
+Needham DM. Anxiety symptoms in survivors of critical illness: a system-
+atic review and meta-analysis. Gen Hosp Psychiatry. 2016;43:23–9.
+ 32. Parker AM, Sricharoenchai T, Raparla S, Schneck KW, Bienvenu OJ, 
+Needham DM. Posttraumatic Stress Disorder in critical illness survivors: a 
+meta-analysis. Crit Care Med. 2015;43:1121–9.
+ 33. Rabiee A, Nikayin S, Hashem MD, Huang M, Dinglas VD, Bienvenu OJ, et al. 
+Depressive symptoms after critical illness: a systematic review and meta-
+analysis. Crit Care Med. 2016;44:1744–53.
+ 34. Morgan A. Long-term outcomes from critical care. Surgery (Oxf ). 
+2021;39(1):53–7.
+ 35. Fontela PC, Abdala FANB, Forgiarini SGI, Forgiarini LA Jr. Quality of life 
+in survivors after a period of hospitalization in the intensive care unit: a 
+systematic review. Rev Bras Ter Intensiva. 2018;30(4):496–507.
+ 36. Griffiths J, Hatch RA, Bishop J, Morgan K, Jenkinson C, Cuthbertson BH, 
+Brett SJ. An exploration of social and economic outcome and associated 
+health-related quality of life after critical illness in general intensive care 
+unit survivors: a 12- month follow-up study. Crit Care. 2013;17:R100.
+ 37. Rylander C. Historic review of long-term outcomes research. CurrOpin 
+Crit Care. 2019;25(5):523–9.
+ 38. Hashem MD, Nallagangula A, Nalamalapu S, Nunna K, Nausran U, Robin-
+son KA, et al. Patient outcomes after critical illness: a systematic review of 
+qualitative studies following hospital discharge. Crit Care. 2016;20(1):345.
+ 39. de Grooth HJ, Parienti JJ, Oudemans-van Straaten HM. Should we rely 
+on trials with disease- rather than patient-oriented endpoints? Intensive 
+Care Med. 2018;44(4):464–6.
+ 40. Calvert M, Kyte D, Mercieca-Bebber R, Slade A, Chan AW, King MT, et al. 
+Guidelines for inclusion of patient-reported outcomes in clinical trial 
+protocols: the SPIRIT-PRO extension. JAMA. 2018;319(5):483–94.
+ 41. Dinglas VD, Cherukuri SPS, Needham DM. Core outcomes sets for stud-
+ies evaluating critical illness and patient recovery. CurrOpin Crit Care. 
+2020;26(5):489–549.
+ 42. Pequeno NPF, Cabral NLA, Marchioni DM, Lima SCVC, Lyra CO. Quality of 
+life assessment instruments for adults: a systematic review of population-
+based studies. Health Qual Life Outcomes. 2020;18(1):208.
+ 43. Spies CD, Krampe H, Paul N, Denke C, Kiselev J, Piper SK, et al. Instruments 
+to measure outcomes of post-intensive care syndrome in outpatient 
+care settings—results of an expert consensus and feasibility field test. J 
+Intensive Care Soc. 2021;22(2):159–74.
+ 44. Wysham NG, Abernethy AP , Cox CE. Setting the vision: applied patient 
+reported outcomes and smart, connected digital healthcare systems to 
+improve patient-centered outcomes prediction in critical illness. Curr 
+Opin Crit Care. 2014;20(5):566–72.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub-
+lished maps and institutional affiliations.
+
+END REVIEW W4229335677
+
+
+REVIEW W4281936323
+TITLE: Comparative efficacy of novel antidiabetic drugs on cardiovascular and renal outcomes in patients with diabetic kidney disease: A systematic review and network meta‐analysis
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4281936323 PDF PAGE 1]
+ORIGINAL ARTICLE
+Comparative efficacy of novel antidiabetic drugs on
+cardiovascular and renal outcomes in patients with diabetic
+kidney disease: A systematic review and network meta-analysis
+Hongwei Cao MD | Tao Liu MM | Li Wang MD | Qiuhe Ji MD
+Department of Endocrinology and Metabolism,
+Xijing Hospital, The Air Force Military Medical
+University, Xi'an, Shaanxi, China
+Correspondence
+Qiuhe Ji, MD, Department of Endocrinology
+and Metabolism, Xijing Hospital, The Air Force
+Military Medical University, Xi'an, Shaanxi
+710032, China.
+Email: jqiuhe@fmmu.edu.cn
+Funding information
+Funding was provided by AstraZeneca China
+in accordance with Good Publication Practice
+(GPP3) guidelines.
+Abstract
+Aims: To conduct a systematic review and network meta-analysis to determine the
+comparative effectiveness of sodium-glucose cotransporter-2 (SGLT2) inhibitors,
+glucagon-like peptide-1 receptor agonists (GLP-1RAs) and dipeptidyl peptidase-4
+(DPP-4) inhibitors in patients with diabetic kidney disease (DKD).
+Methods: Phase III or IV randomized, placebo-controlled trials evaluating SGLT2 inhibi-
+tors, GLP-1RAs or DPP-4 inhibitors in patients with DKD were identified from the
+MEDLINE database. The outcomes of interest were a kidney-specific composite out-
+come, kidney disease progression, major adverse cardiovascular events (MACE), hospi-
+talization for heart failure (HHF) and cardiovascular death. A network meta-analysis was
+conducted to calculate hazard ratios (HRs) and 95% confidence intervals (CIs).
+Results: Sixteen trials representing a total of 46 292 patients were included. SGLT2
+inhibitors significantly reduced the risk of the kidney-specific composite outcome by
+26% compared to GLP-1RAs (HR 0.74, 95% CI 0.62-0.88) and by 36% compared to
+DPP-4 inhibitors (HR 0.64, 95% CI 0.52-0.79). The risk of MACE was significantly
+reduced with SGLT2 inhibitors (by 18%; HR 0.82, 95% CI 0.72-0.93), and with GLP-
+1RAs (by 18%; HR 0.82, 95% CI 0.69-0.96), compared to DPP-4 inhibitors. SGLT2
+inhibitors significantly reduced the risk of HHF by 28% compared to GLP-1RAs
+(HR 0.72, 95% CI 0.56-0.92) and by 41% compared to DPP-4 inhibitors (HR 0.59,
+95% CI 0.49-0.71).
+Conclusions:A clear advantage was demonstrated by SGLT2 inhibitors in reducing
+the risks of CV and renal events in patients with DKD, compared to GLP-1RAs and
+DPP-4 inhibitors. We recommend that SGLT2 inhibitors be considered the treatment
+of choice in patients with DKD.
+KEYWORDS
+diabetic kidney disease, dipeptidyl peptidase-4 inhibitors, glucagon-like peptide-1 receptor
+agonists, network meta-analysis, sodium-glucose cotransporter-2 inhibitors
+Hongwei Cao and Tao Liu contributed equally to this work.
+Received: 18 January 2022 Revised: 24 February 2022 Accepted: 3 March 2022
+DOI: 10.1111/dom.14702
+This is an open access article under the terms of theCreative Commons Attribution-NonCommercial-NoDerivsLicense, which permits use and distribution in any
+medium, provided the original work is properly cited, the use is non-commercial and no modifications or adaptations are made.
+© 2022 The Authors.Diabetes, Obesity and Metabolismpublished by John Wiley & Sons Ltd.
+1448 Diabetes Obes Metab.2022;24:1448–1457.wileyonlinelibrary.com/journal/dom
+
+[W4281936323 PDF PAGE 2]
+1 | INTRODUCTION
+An estimated 463 million people live with diabetes worldwide, with
+type 2 diabetes mellitus accounting for 90% of that total.1 Diabetic
+kidney disease (DKD) is one of the major complications of type 2 dia-
+betes mellitus, occurring in approximately 25% to 50% of adults with
+type 2 diabetes mellitus.2-9 DKD manifests clinically as persistent
+microalbuminuria, reduced glomerular filtration rate (GFR), or both,
+eventually leading to renal impairment and end-stage kidney disease
+(ESKD).2,10 The incidence of kidney disease in patients with type 2 dia-
+betes mellitus substantially increases both cardiovascular (CV) and all-
+cause mortality risk; DKD is the primary cause of the excess mortality
+in patients with type 2 diabetes mellitus.11
+Intensive glycemic control has been shown to reduce the risk of
+development of microalbuminuria; however, there was little or no
+benefit with regard to the risk ofkidney disease progression com-
+pared with standard control.12 The renal protective effects of tradi-
+tional antidiabetic drugs such as insulin, sulphonylureas and
+metformin have not been specificall ys t u d i e di nl a r g ec l i n i c a ls t u d -
+ies. In the past two decades, only re nin-angiotensin-aldosterone
+system (RAAS) blockade has been shown to be effective for
+renoprotection in DKD.13,14 Consequently, pro gression to ESKD
+and CV mortality have been two major unmet medical needs in
+patients with DKD.15
+There is new evidence that novel antidiabetic drug classes such
+as sodium-glucose cotransporter-2 (SGLT2) inhibitors and glucagon-
+like peptide-1 receptor agonists (GLP-1RAs) improve CV and renal
+outcomes in patients with type 2 diabetes mellitus. Several large CV
+outcome trials (CVOTs) studying new antidiabetic drugs in patients
+with type 2 diabetes mellitus who were at high risk of CV disease
+(CVD) or who had existing CVD examined kidney effects as secondary
+outcomes. In the CVOTs, SGLT2 inhibitors (EMPA-REG OUTCOME,
+CANVAS, DECLARE –TIMI 58) 16-18 and GLP-1RAs (LEADER,
+SUSTAIN-6)19,20 significantly reduced the risk of new or worsening
+nephropathy compared with placebo. In addition, large renal out-
+comes trials of SGLT2 inhibitors (CREDENCE, DAPA-CKD)21,22 have
+demonstrated significant benefits of SGLT2 inhibitors, on top of RAAS
+blockade, in reducing the risk of kidney disease progression and devel-
+opment of ESKD. However, it is still unclear which class of drug shows
+the greatest effectiveness in patients with DKD. Therefore, we per-
+formed this systematic review and network meta-analysis to deter-
+mine the comparative effectiveness of SGLT2 inhibitors, GLP-1RAs
+and dipeptidyl peptidase-4 (DPP-4) inhibitors on CV and renal out-
+comes in patients with DKD.
+2 | METHODS
+This systematic review and network meta-analysis was conducted
+according to a prespecified protocol (INPLASY registration number:
+INPLASY2021120070). The results from this network meta-analysis
+are reported according to the Preferred Reporting Items for System-
+atic Reviews and Meta-Analyses (PRISMA) statement.
+2.1 | Search strategy
+We conducted a systematic search of the MEDLINE database (via
+PubMed) using a predefined search strategy to identify relevant
+randomized controlled trials (RCTs) reported in English up to
+July 2021. The following search algorithm was used: ( “sodium-
+glucose transporter 2 inhibitors ” OR “dipeptidyl-peptidase
+IV inhibitors ” OR “glucagon-like peptide 1 ”)A N D( “diabetic
+nephropathies ”[MeSH]) OR “chronic kidney d

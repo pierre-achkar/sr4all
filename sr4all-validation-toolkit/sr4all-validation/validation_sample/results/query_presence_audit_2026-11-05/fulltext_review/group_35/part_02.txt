@@ -1,0 +1,245 @@
+ of the
+study selection process are presented.
+Nutrients 2023, 15, x FOR PEER REVIEW 6 of 18 
+ 
+ 
+Figure 1. PRISMA flow diagram showing the selection of primary studies. 
+3.2. Characteristics of Included Studies  
+Details of included studies are shown in Table 1. Two studies had a cross-sectional 
+design and involved only patients diagnosed with OCD [64,65], while two other cross-
+sectional studies also involved other patients suffering from other psychopathological dis-
+orders (i.e., PD, SAD, GAD, MDE, and AN) (in accordance with the DSM-IV or DSM-5 
+criteria) [66,67]. Two of these studies also had a case-control design [66,65], and one of 
+these was an fMRI study as well [65]. Three other studies had a case-control design 
+[61,68,69], and one of these was also quasi-experimental [49]. Lastly, an observational and 
+longitudinal (3 (group) × 6 (stimulus) repeated measures) study was also included [70].  
+ 
+Figure 1. PRISMA ﬂow diagram showing the selection of primary studies.
+
+[W4319018769 PDF PAGE 6]
+Nutrients 2023, 15, 755 6 of 16
+3.2. Characteristics of Included Studies
+Details of included studies are shown in Table 1. Two studies had a cross-sectional
+design and involved only patients diagnosed with OCD [ 64,65], while two other cross-
+sectional studies also involved other patients suffering from other psychopathological
+disorders (i.e., PD, SAD, GAD, MDE, and AN) (in accordance with the DSM-IV or DSM-5
+criteria) [66,67]. Two of these studies also had a case-control design [65,66], and one of these
+was an fMRI study as well [65]. Three other studies had a case-control design [61,68,69],
+and one of these was also quasi-experimental [49]. Lastly, an observational and longitudinal
+(3 (group) × 6 (stimulus) repeated measures) study was also included [70].
+Table 1. Characteristics of Included Studies.
+Authors Sample Study Design Measures Main Results
+Havnen et al. [64] n = 31 OCD patients Cross-sectional
+Psychopathological Assessment:
+SCID-I; Y-BOCS
+Neuropsychological Assessment:
+Stroop Test
+Physiological Assessment:
+HR and HRV
+HF-HRV negatively correlates with
+Y-BOCS and Stroop test.
+Olbrich et al. [61] n = 51 OCD patients
+n = 28 HC
+Case-control and
+Quasi-experimental
+Psychopathological Assessment:
+GCI; Y-BOCS
+Physiological Assessment:
+HR and HRV
+Signiﬁcantly higher HR in the
+unmedicated OCD-sample in
+comparison to the HC. Moreover,
+HF-HRV Power differentiates
+responders to non-responders.
+Pittig et al. [68]
+n = 82 patients with
+PD, SAD, GAD,
+or OCD
+n = 39 HC
+Case-control
+Psychopathological Assessment:
+ADIS-IV; ASI; PSWQ; Padua
+Inventory-Revised; FQ-S
+Physiological Assessment:
+HR and HRV
+Signiﬁcantly higher HF-HRV
+(baseline) in HC compared with all
+the patients’ categories. No
+signiﬁcant differences in HR
+(relaxation) change between all
+anxiety disorders. Signiﬁcantly
+lower HF-HRV (hyperventilation
+phase) in all anxiety disorders
+compared with HCs.
+Pruneti et al. [66]
+n = 89 patients with
+PD, GAD, MDE,
+AN, or OCD
+n = 34 HC
+Cross-sectional and
+Case-control
+Psychopathological Assessment:
+MMPI-2; SQ; PSQ
+Physiological Assessment:
+sEMG, SCL/SCR, PT, HR
+and HRV
+Signiﬁcantly lower levels of HR in
+OCD patients compared with HC
+and GAD in all of the three phases of
+the PSP . Lower levels of SCR in
+OCDs along with MDE, AN, and
+HCs, compared with PD and GAD.
+OCDs, along GAD, PD, MDE, and
+AN, report signiﬁcantly higher levels
+of sEMG compared with HCs.
+Pruneti et al. [67]
+n = 104 patients
+with GAD, MDE,
+PD, or OCD
+Cross-sectional
+Psychopathological Assessment:
+MMPI-2; SQ; PSQ
+Physiological Assessment:
+sEMG, SCL/SCR, PT, HR
+and HRV
+Signiﬁcant differences between OCD
+and anxious patients (GAD and PD)
+with regards to the SCR values in the
+three phases of the PSP . In addition,
+SCR values in OCD patients fall
+within the typical range in all of the
+phases of the PSP . Only a slight
+reactivity to stress is present but
+characterized by the inability
+to relax.
+Whitton et al. [70]
+n = 25 patients
+with OCD
+n = 21 patients
+non-OCD anxiety
+disorders
+n = 25 HC
+Observational and
+Longitudinal
+Psychopathological Assessment:
+ADIS-IV; OCI-R; DASS-21;
+OBQ-44; DPSS-R; DS-R
+Physiological Assessment:
+facial EMG and EDA
+Greater disgust propensity and
+self-reported disgust to images of
+body waste in OCDs compared to
+HC and anxious participants. No
+group differences in physiological
+responses. After controlling for trait
+disgust, obsessive beliefs positively
+correlates with increased
+self-reported disgust to neutral
+images and increased levator labii
+activity to negative
+non-disgusting images.
+
+[W4319018769 PDF PAGE 7]
+Nutrients 2023, 15, 755 7 of 16
+Table 1. Cont.
+Authors Sample Study Design Measures Main Results
+Pöhlchen et al. [69]
+n = 37 patients
+with OCD
+n = 26 HC
+Case-control
+Psychopathological Assessment:
+Y- BOCS, OCI-R,
+HAM-A, HAM-D
+Physiological Assessment:
+SCR and EMG
+No group differences in SCR,
+pupillometry, or subjective ratings in
+extinction learning and extinction
+recall. Only subtle differences in
+startle responses during extinction
+(higher amplitudes in OCD patients).
+Milad et al. [65]
+n = 21 patients
+with OCD
+n = 21 HC
+Cross-sectional,
+Case-control, and
+fMRI study
+Psychopathological Assessment:
+SCID-IV; Y-BOCS
+Physiological Assessment:
+SCR
+Neural Assessment:
+fMRI BOLD signals
+Impaired extinction recall in OCD
+patients. Regarding the fMRI data,
+patients with OCD showed
+signiﬁcantly reduced activation in
+the vmPFC across training phases as
+well as in the caudate and
+hippocampus during fear
+conditioning, and in the cerebellum,
+posterior cingulate cortex, and
+putamen during extinction recall. In
+addition, the OCD symptom severity
+positively correlated with the
+magnitude of extinction memory
+recall and the functional responses of
+the vmPFC while they negatively
+correlated with the functional
+responses of the dorsal anterior
+cingulate cortex.
+3.3. Results for Obsessive–Compulsive Disorder
+Considering the last decade, one of the most relevant studies for the purpose of this
+review is by Havnen et al. [64]. This research group involved 31 patients aged between
+22 and 54 years old diagnosed with OCD in accordance with the Structured Clinical In-
+terview (SCID) for DSM-IV axis 1 disorders [ 71]. The study analyzed the relationship
+between the obsessive symptoms, the performance obtained at the Stroop Test, and the
+autonomic imbalance in terms of HRV values. The results showed that the frequency band
+of the HRV that reﬂects the activity of the parasympathetic branch of the autonomic ner-
+vous system (ANS) (the HF-HRV) negatively correlates with the scores of the Yale–Brown
+Obsessive–Compulsive Scale (Y-BOCS) (r = −0.319, p = 0.04) that detects obsessions and
+compulsions and the scores of the Stroop Test (r = −0.427, p = 0.02). These authors con-
+ﬁrmed for the ﬁrst time the relationship between executive functions (cognitive inhibition)
+and emotional arousal in a group of patients with OCD. More speciﬁcally, it seems that
+the psychophysiological parameter of the HRV is modulated by the activity of cortical
+frontal areas.
+In the same year, a study by Pittig et al. [68] involved a larger sample size made up
+of 131 participants, including 82 treatment-seeking patients with a primary DSM-IV [72]
+anxiety disorder and 39 non-anxious controls. Participants were diagnosed with a DSM-IV
+criteria for panic disorder (PD) (with or without agoraphobia), social anxiety disorder
+(SAD), generalized anxiety disorder (GAD), or OCD with a clinical severity rating (CSR)
+of four or higher. The most relevant result consists of the evidence that control subjects
+report signiﬁcantly higher baseline HF-HRV than all the patients with anxiety disorders
+combined. Considering the relaxation phase, there were no signiﬁcant differences in HR
+change between all of the patients, while signiﬁcantly lower HF-HRV during the ﬁrst 30 s of
+the hyperventilation phase was found in all anxiety disorders patients combined, including
+OCD patients. The data demonstrated that OCD patients report a similar pattern of HR
+and HRV , responding like the other anxiety disorders.
+A more recent study by Olbrich and colleagues [ 61] points in this direction. These
+authors involved 51 unmedicated OCD patients (subsequently treated with cognitive be-
+havioral therapy (CBT), n = 18; selective serotonin-reuptake inhibitors (SSRIs), n = 11; or
+a combination, n = 22) and 28 healthy controls. A 15-minute resting state electrocardio-
+
+[W4319018769 PDF PAGE 8]
+Nutrients 2023, 15, 755 8 of 16
+gram (ECG) was recorded in order to assess the function of the ANS by using the HRV .
+The main results showed a signiﬁcantly higher HR in the unmedicated OCD-sample in
+comparison to the controls ( F = 8.62, p < 0.001). Moreover, it has emerged that a signif-
+icantly larger HF power can differentiate a group of responders to the therapy from a
+group of non-responders (F = 4.98, p = 0.03). This research group concluded that in OCD
+patients there seems to be an overactivation of sympathetic activity and a decrease in
+parasympathetic activity.
+Opposite results were described in a clinical study conducted by Pruneti and col-
+leagues [66] in which 89 subjects diagnosed with OCD, GAD, PD, major depressive episode
+(MDE), or anorexia nervosa (AN) were involved. The control group consisted of 34 healthy
+subjects. Various psychophysiological parameters were registered, including surface elec-
+tromyography (sEMG), skin conductance level and response (SCL/SCR), peripheral tem-
+perature (PT), and HR, and compared between the groups of patients selected. Every
+physiological parameter was recorded in three different phases: baseline, stress (patients
+were subjected to a mental arithmetic task), and recovery. In contrast to previous studies,
+these authors described lower levels of HR in OCD patients. The comparison between
+groups showed lower levels close to signiﬁcance of HR in the stress phase compared to the
+control group (U = 124, p = 0.06) and in all of the three phases of the registration compared
+with the GAD (U = 79, p = 0

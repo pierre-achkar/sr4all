@@ -1,0 +1,194 @@
+P-1 production 
+in BEAS-2B cells. 
+[85] HCHO Exposure of Calu-3 cells to HCHO or NO2 alone or as a mixture at 
+the ALI had no significant effect on IL-6 or IL-8 secretion. However, 
+the release of IL-8 increased significantly in submerged cultures upon 
+exposure to the mixture of both gases.
+NO2
+HCHO + NO2
+[78] Benzene, 
+toluene and 
+xylenes
+Cellular inflammation was observed after exposure of A549 cells to 
+benzene, but no statistical significance was reported.
+[75] Gasoline VOCs Acute exposure to gasoline VOCs did not inducea  significantI L-1β 
+or TNFα-related pro-inflammatory response in A549 cells.
+Detrimental statistically significant effect reported
+Studied but no statistically significant effect reported
+Statistically significant counterintuitive effect reported
+
+[W4412727192 PDF PAGE 20]
+ Current Environmental Health Reports           (2025) 12:26 
+   26  Page 20 of 40
+Diesel Exhaust Particles (DEP)  The effects of exposure to 
+diesel exhaust particles on cellular inflammation were evalu-
+ated in 7 studies, and 6 of them reported significant effects 
+[70–73, 75, 76]. However, one study did not find significant 
+increases in the levels of the analysed cytokines [74]. On 
+the other hand, particles from gasoline exhaust were tested 
+in one study using bronchial epithelial cells, and significant 
+decreases of IL-6 and IL-8 release were reported [77].
+Particulate Matter (PM) and Secondary Aerosol from Soot 
+Particles (SP) Exposure to brake wear PM was tested in two 
+studies, with significant effects on cellular inflammation 
+found in one study [78] and no statistically significant results 
+reported in the other [79]. Additionally, two studies found 
+significantly increased levels of cytokine release in airway 
+epithelial cells following exposure to urban particulate mat-
+ter (UPM) [80, 81]. The effects of exposure to PM with dif-
+ferent particle sizes were evaluated in 4 studies [82– 85]. 
+Significant upregulations of several pro-inflammatory mark-
+ers (IL-2, IL-6, IL-8, IL-12 and COX-2) were reported in 
+all these studies after exposure of different airway epithelial 
+cell lines to  PM2.5,  PM4,  PMcoarse or  PM10. Pro-inflammatory 
+effects of fine and ultrafine particles were assessed in 3 stud-
+ies [87, 88, 90]. Two studies reported significantly increased 
+levels of cytokines following exposure at high doses [88] or 
+using diseased cellular models [87]. However, no statisti-
+cally significant changes in IL-6 or IL-8 mRNA expression 
+levels were found in one study using aerosol generated from 
+ultrafine carbonaceous particles (C-UFP) [90].
+Two studies assessed the effects of secondary aerosols 
+from soot particles and found significantly induced release 
+of interleukins in both human bronchial epithelial cells [91] 
+and A549 cells [92].
+Combined Aerosols and Gaseous Pollutants
+Studies evaluating the impact of aerosols combined with 
+gaseous pollutants on cellular inflammation of airway epi-
+thelial cells are summarized in Table 9.
+The effect of diesel exhaust on cellular inflammation 
+was assessed in 3 studies [93– 95]. Two studies found sig-
+nificant increases in cytokine release [93, 94], whereas one 
+study reported no significant changes in IL-8 levels after 
+the exposure [95]. Additionally, IL-8 and MMP9 secretions 
+significantly decreased in one study after exposure to diesel 
+exhaust particles combined with  NO2 and  SO2 [96].
+On the other hand, exposure to gasoline-ethanol blends 
+showed significantly increased cytokine levels for two dif-
+ferent cell models in one study [ 101]. Finally, one study 
+assessed the effect of ambient air in summer and winter, 
+reporting significantly higher cellular inflammation after 
+exposure to winter air [102].
+Genotoxicity
+Genotoxicity refers to the capability of an agent to damage 
+the genetic material within a cell, leading to mutations or 
+other genetic alterations [113, 114] causing damage that may 
+lead to adverse health outcomes [115–118]. The single-cell 
+gel electrophoresis assay (Comet assay) is often used for 
+the detection of DNA damage and repair in cells both in 
+vitro and in vivo [119, 120].
+In this review, the genotoxic effects of tested pollutants 
+were assessed by the Comet assay in 7 studies [ 43, 52–54, 
+67, 69, 92], while genes related to DNA damage were ana-
+lyzed using RT-PCR in 5 studies [61, 65, 81, 83, 99]. Addi-
+tionally, other studies developed human 60-mer microarray 
+[87] and transcriptomic [100] analyses. Although changes in 
+gene expression alone do not necessarily imply genotoxicity, 
+this section includes those studies that showed evidence of 
+DNA damage, epigenetic alterations, or activation of DNA 
+repair pathways following exposure to air pollutants.
+Gaseous Pollutants
+Studies included in this review evaluating the genotoxicity 
+induced by the exposure of human airway epithelial cells to 
+gaseous pollutants are summarized in Table 10.
+The genotoxic effects induced by exposure to nitrogen 
+dioxide were investigated in 4 studies [52 –54, 61]. Three 
+studies found a significant association between exposure to 
+ NO2 and increased DNA damage [52–54], whereas another 
+study reported the downregulation of genes related to 
+DNA damage such as ATM [61]. Conversely, an increased 
+expression of these genes was observed in the same study 
+after exposure to ozone.
+Exposure to formaldehyde was genotoxic for A549 cells 
+in one study, particularly at the highest concentrations [65]. 
+In the case of benzene and other VOCs (BTEX), some effect 
+on DNA damage was reported in one study [67], although 
+not statistically significant. However, another study observed 
+a significant concentration-dependent increase of DNA dam-
+age in A549 cells after exposure to benzene [43]. Similarly, 
+exposure to gasoline VOCs significantly increased DNA 
+damage in one study [69].
+Aerosols and Particulate Matter (PM)
+Studies evaluating the genotoxicity induced by the exposure 
+of human airway epithelial cells to aerosols and particulate 
+matter are summarized in Table 11.
+All studies outlined in Table  11 consistently show sta-
+tistically significant genotoxic effects linked to exposure to 
+aerosols and particulate matter of diverse sizes and chemical 
+compositions across various human airway epithelial cell 
+types.
+
+[W4412727192 PDF PAGE 21]
+Current Environmental Health Reports           (2025) 12:26  
+ Page 21 of 40    26 
+Table 8  Effects of exposure to aerosols and particulate matter on cellular inflammation of airway epithelial cells
+Reference Exposure 
+agent(s) Results
+Effect
+Cellular 
+inflammation
+[70] DEPD ose-dependent increases in IL-8 release were reported for A549 and 
+Calu-3 cells exposed to DEP aerosols.G M-CSF release increased by 
+four after exposure to 100 µg/cm2 of DEP.
+[71] DEPS ignificant concentration-dependent increases of IL-6 and IL-8 secretion 
+and gene expression levels upon exposure to DEP. 
+[72] DEPS ignificantly increased IL-8 releases of HBE cells exposed to whole and 
+filtered diesel exhaust at the ALI compared to unexposed cells. Dose-
+dependent increase of IL-8 release reported after exposure of cells to 
+DEP suspension.
+[73] DEPE xposure of PBECs to DEP at the ALI increased IL-8 release 
+significantly. Significantly greater increase of both IL-6 and IL-8 levels 
+in the co-culture of PBECs and THP-1 macrophages compared to PBEC-
+ALI culture.
+[74] DEPN o significant increase in the levels of IL-6, IL-8, TNFα, GM-CSF and 
+MCP-1 upon exposure of the A549, Ea.hy 926, THP-1 and HMC-1 cell 
+tetra-culture to DEP. 
+[75] DEPE xposure of 16HBE14o cells to DEP significantly upregulated IL-8 
+expression levels. A significant influence of the diesel particle filter was 
+reported not only for IL-8 expression, but also for TNF-α and IL-8 
+extracellular release. 
+[76] DEP and 
+PM2.5
+Significant dose-dependent increase in GM-CSF and IL-6 releases after 
+exposure of HNE cells to PM2.5 or DEP. Similar results observed for IL-
+8 and amphiregulin.
+[77] GEPS ignificantly different responses to particle dose increase between CF 
+HBE or BEAS-2B cell lines and normal or distressed HBE cells. The 
+release of IL-6 and IL-8 decreased in BEAS-2B cells, as well as IL-6 in 
+CF-HBE cells. 
+[78] Brake wear 
+PM
+Statistically significant increase found in the release of IL-8 from the co-
+culture of A549, MDMs and MDDCs following exposure to non-
+airborne wear debris.
+[79] Brake wear 
+PM
+The release of IL-8 was higher for "full stop 8x" braking behaviour 
+compared to negative control, but no statistical significance reported.
+[89] Jet-fuel PM Significantly greater fold-increase of TNFα in A549 cells and 
+differentiated THP-1 macrophages cultured at the ALI compared to 
+submerged culture. 
+[80] UPMI n submerged NHBE cell cultures, gene expression levels of IL-6 and 
+IL-8 increased significantly over controls after exposure to UPM. 
+Significant increase of IL-8 was also reported in submerged BEAS-2B 
+cultures, unlike cultures grown at the ALI. 
+[81] UPMS ignificant increases of VEGF concentrations after exposure of both 
+healthy and asthmatic airway epithelial cells to UPM. No statistically 
+significant increases of TGF-β2.
+[83] PM4 Greater sensitivity of diseased over healthy HBE cells reported (p <
+0.01). Levels of IL-6 significantly increased in NHBE cells exposed to 
+PM, but not in COPD-DHBE cells.
+[84] PM2.5 and 
+PM10
+A positive correlation between the deposited dose and the release of 
+cytokines was observed. The release of IL-6 and IL-8 increased 
+significantly in both normal and CF HBE cells after PM exposure.
+[82] PM2.5 
+surrogates
+Small airway epithelial cells grown in S-ALI differentiation media 
+significantly over-expressed IL-2, IL-6 and IL-12 after 24-h exposure to 
+22 µg/cm2 of PM2.5 surrogate suspensions.
+[85] PMcoarse Human bronchial epithelial cells exposed to PMcoarse had significantly 
+increased mRNA levels of IL-8 and COX-2. Such effect was more 
+pronounced in the case of direct-air exposure than for liquid exposure. 
+[87] FP and UFPN o significant c

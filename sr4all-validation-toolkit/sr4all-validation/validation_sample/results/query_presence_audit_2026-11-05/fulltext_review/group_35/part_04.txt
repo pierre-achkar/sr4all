@@ -1,0 +1,128 @@
+ highlighted the difﬁculty of inhibiting the sympathetic
+activation required during stress. Furthermore, the study that investigated the trend of skin
+conductance in a fear extinction task stressed the need to deepen the dissociation between
+neural cognition (in terms of poor inhibition of the vmPFC area) and autonomic activity
+(with fair recovery of conductance) [65].
+Basically, all of the studies analyzed agree on the fact that a psychophysiological
+activation can be observed in patients with OCD, mainly following a cognitive activation.
+In fact, all the research demonstrated the poor ability to inhibit sympathetic activation
+following the performance of a mental task. These results therefore support the various
+theories that explain OCD as a psychopathological disorder where cognitive processes are
+able to generate an emotional arousal that the individual is unable to inhibit. The data seem
+to support the commonly shared idea within the clinic that compulsions are the only way to
+release somatic tension. According to this perspective, the behaviors implemented by OCD
+would fall within one of the strategies, albeit maladaptive, to manage the distress generated
+by thoughts. It is probably for this reason that many studies do not detect signiﬁcant
+differences compared to healthy people and instead highlight a less marked emotionality
+compared to patients suffering from anxiety disorders. Moreover, it is possible that the
+differences noted by the various researchers may be due, at least in part, to the different
+research paradigms implemented and the psychophysiological parameters detected.
+4.1. Study Limitations
+The results of the present study should be interpreted in the light of some limitations.
+First, the inclusion of articles from peer-reviewed journals has caused the exclusion of the
+gray literature. In addition, only studies involving patients diagnosed with OCD and/or
+who reported a clinically signiﬁcant OCD tests score were enclosed. Bearing in mind that
+obsession, ﬁxation, low-calorie diet, and concern for one’s silhouette can bring together
+different mental disorders, this limitation may hinder the drawn conclusions. Lastly, the
+main limitation of the present review is its consideration of OCD and ON together despite
+the fact that the latter disease is not yet included in diagnostic manuals. This choice was
+
+[W4319018769 PDF PAGE 11]
+Nutrients 2023, 15, 755 11 of 16
+made in light of the recent scientiﬁc papers [ 5,11] that have pointed out the presence
+of pathognomonic features of ON that are very similar to those of the OCD spectrum.
+The same researchers claim that future diagnostic manuals will place them within the
+same psychopathological category. However, this speculation remains the most important
+limitation of our work. Despite these considerations, our review sheds light on a possible
+clinically relevant but understudied association between ON and OCD and highlights
+the need for further studies in this regard. Should the scientiﬁc evidence conﬁrm that
+ON is largely overlapping with OCD, it might be worthwhile to further investigate this
+paradoxical condition whereby a “healthy” nutrition can even become harmful.
+4.2. Directions for Future Research
+Our systematic review found a signiﬁcant gap in the literature because there are no
+clinical psychophysiology studies of ON and only a few of OCD. Indeed, it is not easy to
+conduct clinical trials involving patients and carrying out multidimensional assessments.
+Investigating the cognitive, behavioral, and emotional–psychophysiological dimensions
+requires sophisticated tools and equipment as well as specialized personnel for the execu-
+tion and analysis of the data carried out (usually psychologists who are experts in clinical
+psychophysiology and biofeedback). However, in light of the ﬁndings highlighted by this
+review, the need for a multidimensional assessment that can describe the characteristics of
+OCD spectrum disorders on all levels has further importance. Future studies will need to
+consider the various facets of psychological suffering by including psychophysiological
+responses within the diagnostic evaluation. This approach would fall within the recently
+proposed research domain criteria (RDoC) for the study of mental disorders, which aim to
+characterize psychopathology in terms of normal and abnormal biological and behavioral
+processes rather than as categories of discrete symptoms [78]. As far as the physiological
+parameters are concerned, it could also be interesting to investigate the various dissocia-
+tions between the indices recorded. For instance, it might be useful to further investigate
+HRV (especially HF-HRV) and SCR within the same experimental paradigm because it
+is not clear why conductance activity is so inhibited. Several studies in the literature
+demonstrated that SCR reﬂects the cognitive processing of emotional stimuli in healthy
+subjects [79–81]; therefore, this difference with OCD subjects needs to be investigated.
+From a general future perspective, the need to standardize the methods of the psy-
+chophysiological research will emerge. This improvement may eliminate the discrepancies
+that originate from the different procedures implemented by the researchers.
+Lastly, the need to adequately deﬁne the ON is also apparent. The classiﬁcation and
+categorization in the diagnostic manuals of this psychopathological condition would allow
+appropriate investigations at the psychophysiological level to be carried out. Future studies
+are needed to conﬁrm the hypotheses that guided our research in conducting a review on
+OCD with speculative hypotheses on ON. Obviously, the intent of this review was to shed
+light on the ON and guide future studies that can conﬁrm our hypotheses.
+4.3. Clinical Implications
+The current ﬁndings certainly need to be further investigated and explored before
+being generalized to the clinical setting. However, some noteworthy considerations deserve
+to be mentioned.
+All of the studies have demonstrated a low vagal activity which does not allow
+recovery of the autonomic imbalance, although some research demonstrated excessive
+sympathetic activity, while other studies have not. Overall, a ﬁrst clinical implication
+leads mental health specialists to adequately evaluate the management of these patients’
+emotions because sometimes a clear dysregulation may not emerge. In fact, it is possible
+that patients with OCD use behavioral manifestations to ease the anxious tension generated
+by the high activity of their cognitive processes [82]. This mechanism could result in an
+apparent emotional control that hides the real difﬁculties in managing internal states.
+
+[W4319018769 PDF PAGE 12]
+Nutrients 2023, 15, 755 12 of 16
+In addition, the inability to inhibit physiological arousal and to recover autonomic
+balance even in the absence of a clear sympathetic overactivity has been underlined [66,67].
+In any case, this aspect has strong clinical relevance because it highlights the need to
+treat these patients by facilitating vagal activation through psychological interventions
+aimed at favoring relaxation. However, further studies are needed before these results
+can be translated into clinical interventions because the strong involvement of cognitive
+processes in OCD suggest the use of psychotherapy [16,82,83]. In light of these considera-
+tions and of the documented dissociation between cognitive–behavioral and emotional–
+psychophysiological aspects, clinical research needs further investigations before providing
+clinical–therapeutic suggestions.
+5. Conclusions
+In summary, the spectrum of OCD is commonly considered within the neuropsychi-
+atric diseases with structural [84] and neurophysiological [60] alterations. This scientiﬁc
+evidence could support the clinical practice of mental health specialists in the diagnostic
+process. In fact, distinguishing an anxious syndrome from an obsessive syndrome can be
+very useful for clinicians and for patients considering that very often the onset of symp-
+toms is followed by a long period necessary for the diagnosis and the start of the most
+appropriate treatment [85]. Therefore, it is even more important to provide patients with a
+simple and rather short path to diagnosis and treatment initiation, optimally knowing that
+a patient is more likely to respond to a speciﬁc treatment [61].
+The intent of our review was partially satisﬁed by analyzing studies that considered
+patients with OCD. Unfortunately, not having found research on ON in the literature, it is
+only possible to hypothesize similarities between the two conditions. However, according to
+the most recent review that identiﬁes the diagnostic criteria frequently used to identify the
+ON [5–7], the pathognomonic characteristics of OCD seem to have emerged. In particular,
+obsessiveness and compulsions linked to excessive somatic tension seem to unite the
+two disorders. For this reason, it was considered useful to investigate the psychophysiology
+of OCD to study ON as well.
+Considering the impact that a mental disorder can have on the body, it is considered
+important to intercept those mental disorders characterized precisely by a poor mind–body
+integration [86,87].
+Author Contributions: All authors equally contributed to this work. All authors have read and
+agreed to the published version of the manuscript.
+Funding: This research received no external funding.
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: The data presented in this study are available upon reasonable request
+from the corresponding author.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+Abbreviations
+ADIS-IV = Anxiety Disorders Interview Schedule-IV; AN = anorexia nervosa; ANS = au-
+tonomic nervous system; ASI = Anxiety Sensitivity Index; CBT = cognitive behavioral therapy;
+CGI = Clinical Global Impression Scale; CNS = central nervous system; CSR = clinical severity r

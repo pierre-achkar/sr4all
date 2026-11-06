@@ -1,0 +1,171 @@
+I for routine pathology diagnosis still remain. A critical
+appraisal of such issues is important to understand and hopefully
+re-solve. Our systematic review identiﬁed 45 articles that
+speciﬁcally reported problems experienced with WSI usage for
+primary diagnosis during a validation process.
+As expected, technical issues when validating WSI were the
+most frequently reported. T he most commonly mentioned
+technical issue involved scan failures with the need for re-scan
+slides and the consequent prolonging of turn-around-time
+(TAT). When combined with the reported experience by
+participating pathologists that it took them longer to evaluate
+digital slides in order to establish a diagnosis, switching to WSI
+for primary diagnosis has the potential to delay TAT. This
+drawback would need to be offset by some of the other
+workﬂow beneﬁts of digital pathology such as decreased time
+for slide distribution, quicker archival image retrieval, in addition
+to ensuring faster network connections, better workstations and
+improved viewing software.
+Newer scanners with higher throughput capacity and reduced
+image acquisition time have further helped overcome TAT
+issues. The quality of pre-imaging factors can also help re-duce
+the aforementioned limitation of delayed TAT. For example,
+striving to produce uniform histological sections without folds
+and clean, dry slides without artifacts such as air bubbles are
+important to reduce the probability of scan failures. Such pre-
+imaging measures are especially important for the digitization of
+cytology slides (17, 18), where thick smears, three dimensional
+cell groups and obscuring material make it harder for scanners
+without z-stacking capability to achieve optimal focus. For some
+studies, the technical difﬁculty noted when viewing digital slides
+was related to the monitor and input device (speci ﬁcally,
+computer mouse) used. Hanna et al. ( 19)s u g g e s t e dt r y i n g
+different input devices instead of a conventional mouse to
+circumvent problems with digital slide navigation. Similarly,
+Brunelli et al. (14) tested the use of a tablet to improve WSI
+navigation. Although a validation study should not sufﬁce for
+ofﬁcial training of end-users, spending more time training
+pathologists to better use WSI and allowing them to become
+more familiar with this technology can certainly improve their
+ease with utilizing WSI. Alassiri et al. (20) showed that at the
+beginning of their validation study participating pathologists
+were slow-er in assessing cases with WSI, but by the end of
+their validation process they experienced no notable time
+difference when reading cases with either WSI or LM modalities.
+The other important category of shortcomings with WSI that
+emerged in published validation studies was concerned with
+performing certain challenging diagnostic tasks. The most
+frequently reported were misinterpretation regarding grading of
+dysplasia, in a variety of settings including gastrointestinal
+biopsies (21– 23) and melanocytes atypia (24). Such errors were
+related to both downgrading or upgrading lesions (25– 30). Apart
+from the cited discordance related to interpreting gastrointestinal
+dysplasia, other challenging diagnostic areas that were reported in
+validation studies included urothelial dysplasia, cervical dysplasia,
+grading of ovarian and endometrial cancers,in situlesions of the
+breast, and brain pathology. However, in most studies, especially
+the most recent publications, overall diagnostic concordance was
+above the cutoff of 95% recommended in the CAP guidelines for
+WSI vali-dation, and discordances with a potential impact on
+clinical management were often lower than 3% (8, 10, 21, 29– 31).
+TABLE 1 |Characteristics of technical and diagnostic issues of the included studies.
+Technical issue n (%) Diagnostic issue n (%)
+Timing (scanning, viewing) 19 (42%) Grade of dysplasia 8 (18%)
+Scanning failure 9 (20%) Mitotic count 6 (13%)
+Need for higher magniﬁcation 9 (20%) Misinterpretation of diagnosis 4 (9%)
+Storage 7 (15%) Lack of con ﬁdence 3 (6%)
+Lack of multiple focus planes 8 (18%) Identi ﬁcation of microorganisms 3 (6%)
+Color inaccuracy 3 (6%) Legal issues 2 (4%)
+Difﬁculty using mouse 2 (4%) Misinterpretation of in ﬂammatory cells 2 (4%)
+Need for polarization 2 (4%) Identi ﬁcation of tumor invasion 2 (4%)
+Underexposure of images 1 (2%) Misinterpretation of ﬁbrosis 1 (2%)
+Server 1 (2%) Misinterpretation of intraepithelial lymphocytes 1 (2%)
+Workstation ergonomics 1 (2%) Misinterpretation of calciﬁcation and focal atypia 1 (2%)
+Presence of artifacts 1 (2%) Overestimation of blasts ’ count 1 (2%)
+Rizzo et al. Issues in WSI Validation Studies
+Frontiers in Oncology | www.frontiersin.org June 2022 | Volume 12 | Article 9185803
+
+[W4283015062 PDF PAGE 4]
+Another frequently reported area of discordance, as well source of
+dissatisfaction among pathologists, when using WSI relates to
+counting mitoses, such as is required in grading meningiomas
+(32) or breast carcinoma (33, 34) or when diagnosing malignancy
+in a melanocytic lesion (35). Other less frequently reported. but
+still relevant, reported diagnostic difﬁculties with WSI were the
+detection of microorganisms ( 19), discriminating single
+in ﬂammatory cell types in dermatopathology and
+hematopathology (24, 36– 38), assessment of tumor budding
+and tumor pattern of invasion in colon cancer ( 39), and
+overestimation of steatosis and ﬁbrosis in liver cases (40). In
+general, pathologists reported lower diagnostic conﬁdence when
+signing out with WSI. Similar considerations have also been
+observed in the setting of pediatric pathology (41), where WSI
+showed to be at least as reliable as LM, fully satisfying the CAP
+guidelines. Even in this setting the few reported discrepancies
+concerned subtle morphological features, such as identiﬁcation of
+Candida spores and hypha, likely linked to the difﬁcult of the case
+rather than to the classic or digital method of evaluation of the
+slides. Many of these diagnostic concerns are being addressed
+with improvements in WSI technology (e.g. incorporating higher
+resolution cameras and objectives into scanners) and leveraging
+artiﬁcial intelligence (AI) to apply algorithms for speci ﬁc
+(narrow) tasks such as counting mitoses, screening slides for
+microorganisms, and standardizing the grading of dysplasia or
+cancer. Development and deployment of these technologies are
+foreseeably going to increase in the near future, further allowing
+pathologists to beneﬁt from digital supports to proﬁciently reach
+proper histological diagnoses for both adults and
+pediatric patients.
+Additional collateral problems were also reported in
+published validation studies, which were mainly of a technical
+FIGURE 1| Search ﬂow diagram. The diagram was designed according to the template of the PRISMAﬂow diagram from Page et al. (12) available at the PRISMA
+website (www.prismastatement.org).
+Rizzo et al. Issues in WSI Validation Studies
+Frontiers in Oncology | www.frontiersin.org June 2022 | Volume 12 | Article 9185804
+
+[W4283015062 PDF PAGE 5]
+and institution’s organizational nature. Some authors reported
+problems related to the storage of WSI cases, given the huge size
+of WSIﬁles and consequent high demand this has on
+information technology (IT) infra-structure for image
+management (31, 37, 42, 43). Lastly, Ordi et al. (44) and Al-
+Janabi et al. ( 43) reported about the cultural barrier of
+pathologists, including their concerns about legal is-sues and
+resistant mindset to accept WSI over more familiar LM for
+routine primary diagnosis.However, since then we have
+witnessed increased regulatory approval of WSI solutions, such
+as clearances issued by the Food and Drug Administration
+(FDA) in the USA (45, 46) for primary diagnosis which has
+helped increase overall con ﬁdence in the adoption of WSI.
+Moreover, with the rapid shift experienced towards using
+digital pathology to permit re-mote signing-out during the
+Coronavirus Disease 2019 (COVID-19) pandemic many pre-
+pandemic skeptics have since been convinced about the value of
+digital pathology (47).
+CONCLUSIONS
+Digital pathology with WSI is nowadays a reality in many
+laboratories, but there are still some negative aspects that may
+restrain an even wider spread adoption of WSI. When reviewing
+the literature for validation studies highlighting these conﬂicting
+aspects, we found both some technical and diagnostic critical
+issues still remain of concern. The majority of technical points
+could be reasonably overcome by further improvement of
+technology and dedicated training of pathologists. Likewise, the
+diagnostic issues are mainly represented by subtle tasks which
+yield per se an unsatisfactory reproducibility among pathologists
+with conventional glass slides as well. In the near future, the
+development of dedicated and more objective AI tools could be
+of aid to further support pathologists in reducing the gap
+between LM and WSI in order to increase the efﬁciency of the
+diagnostic process and ultimately improve patients’management
+and care.
+DATA AVAILABILITY STATEMENT
+The original contributions presented in the study are included in
+the article/Supplementary Material. Further inquiries can be
+directed to the corresponding author.
+AUTHOR CONTRIBUTIONS
+Conceptualization, IG, SM, LP and AE. Data curation, PR, IG, SM
+and AE. Formal analysis, PR, IG and SM. Methodology, IG, LP
+and AE. Project administration, AE and EM. Supervision, AE and
+EM. Validation, PA, MB, NS, PV, NT, LM, and EM. Writing–
+original draft, PRC, IG and SM. Writing– review & editing, PA,
+M B ,N S ,P V ,N T ,L M ,A P ,S S ,A Ea n dE M .A l la u t h o r s
+contributed to the article and approved the submitted version.
+FUNDING
+This work was supported by grants from Associazione Italiana
+Ricerca sul Cancro (AIRC) Investigator Grant ID 19920 (LM);
+Special Program Metastatic disease: the key unmet need in
+oncology 5 per mille 2018, ID 21147 (LM).
+SUPPLEMENTARY MATERIAL
+The Supplementary Material for this article can be found online
+at: 

@@ -1,0 +1,250 @@
+on 
+Trial name 
+(sub-
+analysis)
+Number 
+of 
+patients Study sites
+Age 
+(mean, 
+years)
+Male 
+percentage 
+(median)
+1 RCT 2015, 
+(Ref 14)
+STICH 1212 Multicenter. 59-61 88-89%
+2 Randomized, 
+double blind, 
+placebo 
+controlled trial 
+2015, 
+(Ref 15)
+TOPCAT 3400 United States, 
+Canada,
+Russia, 
+Republic of 
+Georgia, 
+Brazil, and 
+Argentina
+65.8 50% 
+3 RCT 2016, 
+(Ref 16)
+BASKET-
+PROVE
+2314 Switzerland, 
+Denmark,
+Austria, and 
+Italy
+66 74-76%
+4 RCT 2016, 
+(Ref 17)
+HIJCREATE 
+Trial
+1849 Japan 64 80%
+CM&R 2019 : 1-2 (June)
+
+[W2948798627 PDF PAGE 4]
+14
+of hospitalization was found (71.2% vs. 62.3%; hazard ratio 
+1.25; P=0.003; HF-ACTION trial)9, whereas no difference in 
+all-cause or CV mortality at follow-up was observed (16.3% 
+vs. 16.7%; hazard ratio 0.88; P=0.39; HF-ACTION trial). 9 A 
+“J-shaped phenomenon on blood pressure” was observed only 
+in the preserved left ventricular ejection fraction (LVEF) 
+group, which suggested that excessive blood pressure control 
+had no impact on MACE in CAD patients with hypertension 
+and reduced LVEF (HIJCREATE trial).17 Patients with angina 
+pectoris and preserved ejection fraction had higher rate of 
+impaired QoL, with depression being more prevalent in 
+younger patients (43% age <60 vs. 57% age>60; P<0.01; 
+HF-ACTION trial).15 
+Other Characteristics 
+Sex differences 
+Studies showed that although women had lower rates of CAD 
+compared to men, they were more likely to have certain 
+cardiovascular risk factors including hypertension (66.6% vs. 
+63.2%; P<0.005), dyslipidemia (68.9% vs. 66.3%: P<0.005), 
+and a family history of premature CAD, especially when older 
+(>60 years-of-age; 34.6% vs. 29.3%; P < 0.005). 20 Women 
+were also less likely to have a positive stress test (9.7% vs. 
+15.1%; P<0.001; PROMISE trial).20 
+Exercise
+A cycle ergometer exercise program supervised by primary 
+care nurses increased the functional capacity of coronary 
+patients more than unsupervised walking (ESCAP trial). 5 
+Despite greater peak improvement in VO2 (interaction P value 
+between baseline angina and treatment group, P=0.02) with 
+exercise training, patients with angina pectoris with reduced 
+ejection fraction experienced more adverse outcomes (73.9% 
+vs. 65.2%; hazard ratio 1.22; P=0.01; HF-ACTION trial). 9 
+Follow-up Strategies 
+Patients followed up by a comprehensive team consisting of 
+pharmacist, patient education, primary care physicians, and 
+all-cause mortality was found between 31 days and 2 years in 
+patients with STEMI. In contrast, patients with non-ST 
+segment elevation myocardial infarction (NSTEMI) exhibited 
+a higher mortality rate compared to those with stable ischemic 
+heart disease (SIHD) at 2 years’ follow-up. 8 Interestingly, the 
+prevalence of cardiovascular risk factors and frequency of 
+prior cardiovascular disease incidence remained lower in 
+patients with STEMI compared to those with NSTEMI, SIHD, 
+and recurrent myocardial infarction (MI) at 2 years of follow 
+up.8
+For patients who underwent percutaneous coronary 
+intervention (PCI) procedures, mortality and MACE rates 
+were higher among patients in the urgent PCI group during 
+hospitalization.24 No differences were reported by Yao et al 24 
+after hospital discharge within the urgent PCI, delayed PCI, 
+NSTEMI, and SIHD groups. Patients who received paclitaxel-
+eluting stents (PES) had a higher rate of cardiac death and MI 
+compared to sirolimus-eluting stent (SES) (observational 
+registry).24 Further evidence showed that patients with a 
+higher clinical cardiovascular risk benefited from drug eluting 
+stents (DES) (lower death rates from cardiac causes), whereas 
+no difference in mortality was seen between DES and bare 
+metal stents (BMS) in patients with low to moderate risks 
+(BASKET-PROVE trial).16 Patients who underwent coronary 
+artery bypass grafting (CABG) were more likely to report 
+improvement in angina symptoms compared to those who 
+received medical therapy alone (odds ratio: 0.70; 95% CI: 
+0.55 to 0.90; P < 0.01).16
+Angina Pectoris in Heart Failure Patients
+No correlation was found between resolution of angina 
+symptoms and all-cause mortality in medically treated patients 
+with left ventricular (LV) dysfunction and coronary artery 
+disease (CAD) (STICH trial). 14 Nearly every trial found that 
+reduced LV function was associated with worse QoL and 
+mental health issues such as depression. Among patients with 
+heart failure with reduced ejection fraction, an increased rate 
+Figure 1. Flow chart of literature review and analysis
+Prognosis in Acute Coronary Syndrome CM&R 2019 : 1-2 (June)
+
+[W2948798627 PDF PAGE 5]
+15
+vs.31.5%, P>0.05) or between carvedilol and the metoprolol 
+succinate groups (14.5% vs. 20.3%, P>0.05).12 
+Though more adverse effects have been related to high-
+intensity statin therapy, it has been shown to be more effective 
+than moderate-intensity statin therapy in reducing MACE rate 
+at follow up in patients with ACS (16.8% vs. 10.1%, 
+P=0.021).10 Patients with percent atheroma volume (PA V) had 
+a higher cumulative incidence of MACEs in 2 years of follow-
+up compared with all lower PA V quartiles combined (12%, 
+log-rank test P=0.001, SATURN study).4 
+Discussion
+This systematic review from 2012 to 2017 was undertaken to 
+gain insight into recent developments on the prognosis of 
+patients with ACS (Table 5). Our review included evaluation 
+of medical and interventional treatments in patients with ACS. 
+Consistent with the results of studies conducted prior to 
+2012,25-27 our review shows that patients with STEMI remain 
+at higher risk for all-cause mortality during short-term follow-
+up. However, no difference in prognosis was found beyond the 
+first 30 days in STEMI, NSTEMI, or SIHD patients. 
+Additionally, NSTEMI patients were more likely than those 
+with SIHD to have a higher mortality rate regardless of their 
+clinical presentation. Furthermore, patients with NSTEMI had 
+a poorer long-term prognosis compared to SIHD. 
+The finding of a high cardiac mortality in NSTEMI patients 
+was not unexpected, and several factors may account for the 
+adverse prognosis. A higher mortality during hospitalization 
+and short-term follow up may be explained by age-based 
+variation in ACS. STEMI patients are typically younger and 
+have fewer comorbidities and other cardiac “warning signs” 
+before the onset. NSTEMI and SIHD patients are older and 
+have more advanced CAD. It seems plausible that the 
+variability found between STEMI and NSTEMI or SIHD 
+patients could be attributed, partially, to STEMI patients 
+receiving guideline-recommended pharmacotherapy more 
+often as well as close long-term follow up medical care. 27 
+cardiologist were more likely to adhere to medical therapy 
+(multi-faceted, patient-centered intervention study). 7 The 
+proportions of all-cause death, cardiac death, and cumulative 
+MACEs of patients in the intensive follow-up group were 
+reportedly lower than the control group: these patients had a 
+longer survival (log rank=8.565; P=0.003), lower medical 
+costs (US $582.74 vs. US $999.32; P=0.003), better control of 
+cardiovascular risk factors, and medication adherence. 11 
+According to an observational registry study, independent 
+predictors of death during follow-up were age (HR 1.03: 
+P<0.001), left ventricular ejection function <40% (HR 2.79; 
+P=0.002), diabetes mellitus (HR 2.38; P =0.007), prior 
+coronary artery bypass graft (HR 13.9; P=0.001) and chronic 
+total occlusion (HR 2.93; P=0.003; observational registry). 24 
+Medications
+The incidence of ischemia-driven revascularization or 
+hospitalization in patients with a history of CAD showed no 
+significant differences between ranolazine and placebo. 13 
+Ranolazine did not reduce the frequency of sudden cardiac 
+death, cardiovascular death, and MI (RIVER-PCI trial). 13 
+Based on laboratory and imaging results (post-PCI peak 
+creatine kinase-MB, troponin I levels, site branch occlusion, 
+or flow reduction), no benefits were observed with intra-
+coronary nicorandil infusion.18 Some Chinese herbals such as 
+Dan-hong, were shown to decrease inflammatory or necrosis 
+markers (Scd40L) and improved cardiac function.19
+Dual antiplatelet therapy is standard treatment after PCI. 
+Prasugrel exhibited higher inhibition on platelet reactivity 
+than double-dose clopidogrel, but no difference was observed 
+on the rate of MACEs at follow-up in the TAILOR trial 
+(median of 571 days, myocardial infarction 3.7% vs. 3.8%, 
+P=1; stroke 1.9% vs. 0%, P=1; CV death 3.7% vs. 9.6%, 
+P=0.27 ).23 The incidence of MACEs at 12-month follow up 
+was lower in patients given nebivolol (10 mg daily) compared 
+to the metoprolol group (200 mg once daily) (14.5% vs. 
+31.5%; P=0.03), but no difference was observed between 
+nebivolol and the carvedilol group (25 mg twice daily; 20.3% 
+Table 3. Descriptive information of the included cohort studies and subjects in this review.
+Trial type 
+(Cohort)
+Year of 
+publication Trial name
+Number 
+of 
+patients Study sites
+Age 
+(mean, 
+years)
+Male 
+percentage 
+(median)
+1 Prospective 2013,
+(Ref 18)
+81 Pusan National 
+University 
+Hospital
+65.3-
+66.2
+48.8-62.5%
+2 Prospective 2015, 
+(Ref 19)
+100 China 62 More male 
+31/48 and 
+28/43
+3 Prospective 2016,
+(Ref 20)
+PROMISE 
+sub-
+analysis
+10003 North America 59-62 47%
+4 Retrospective 2017,
+(Ref 21)
+1270 Multicenter, 
+internationally
+70 66-77%
+Ye et al.CM&R 2019 : 1-2 (June)
+
+[W2948798627 PDF PAGE 6]
+16
+STEMI patients also receive more stringent secondary 
+prevention and standard interventions that may further reduce 
+the risk for adverse late-term outcomes. 28 This raises a 
+valuable question of whether interventional or revasculariz-
+ation procedures should be considered in patients with 
+NSTEMI to identify and treat culprit stenosis and to prevent 
+further inflammatory progression of non-culprit lesions. 
+Indeed, cardiovascular events occurring during follow up 
+after percutaneous coronary intervention are equally 
+attributable to recurrence at the site of culprit lesions and non-
+culprit les

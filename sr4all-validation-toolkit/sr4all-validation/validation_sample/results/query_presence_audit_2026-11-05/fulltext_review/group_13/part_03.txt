@@ -1,0 +1,244 @@
+ size, low economic status, inpatient and outpatient health care utilisation, 
+drug consumption, drug 
+addiction cessation
+Representative Medium
+2012 Catastrophic health 
+care spending and
+impoverishment in 
+Kenya
+Chuma, Maina (2012)
+Kenya Health expenditure and 
+utilisation survey, 
+2007
+8,414 households Independent variables: HH economic 
+status, Type of health care utilisation
+Dependent variables:
+• CHE
+• Impoverishment
+CHE = 15.5% (using 
+10% threshold of total 
+budget) and 11.4% 
+(based on ratio of health 
+payment of 40% or more 
+of CTP). Lower income 
+HH was more likely to 
+had CHE. The use of outpatient services leads to CHE more than the use of inpatient services. The poverty level = 54.9% and it increased 2.7% after health care payment.
+Representative Medium
+2012 Measuring the catastrophic and impoverishing effect 
+of household health 
+care spending in 
+Serbia
+Arsenijevic et al. (2012)
+Serbia Serbian Living Standard Measurement 
+Study (LSMS)
+5,557 households Independent 
+variables: HH economic 
+status, residence, HH 
+size, HH head educational 
+level, age, employment, 
+marriage status, gender and presence of member with chronic illness
+Dependent variables:
+• CHE
+• Impoverishment
+CHE = 2%–2.4% 
+(based on total income) and 0.8%–1.1% (base 
+on CTP), significant 
+determinants were 
+rural residence, not married HH head, low education, low economic 
+status, large family size, 
+presence of member 
+with chronic illness
+Representative Medium
+(continued on next page)
+
+[W2920277606 PDF PAGE 12]
+Malays J Med Sci. Jan–Feb 2019; 26(1): 15–43
+www.mjms.usm.my
+26
+Year of 
+publication Title Author Country Survey type Sample size Variables Result (outcome) Representativeness Quality
+2013 Financial burden of HH OOP health expenditure in Vietnam: Findings from the National Living Standard Survey 2002–2010
+Van Minh et al. (2013)
+Vietnam Vietnam Living Standard Survey 2002, 2004, 2006, 2008 and 2010
+45,000, 37,200, 36,756, 36,756 and 46,995 households in 2002, 2004, 2006, 2008 and 2010, respectively
+Independent variables: HH head 
+sex, HH size, presence of a member of > 65 years or less than six years, HH insurance status, HH economic status and 
+residence
+Dependent variables:• CHE
+• Impoverishment
+CHE = 4.7% in 2002, 5.7% in 2004, 5.1% in 2006, 5.5% in 2008 and 3.9% in 2010 (based on ratio of health payment of 40% or more of CTP)The important determinants were presence of HH member over 65 years or less than six years, higher economic quintile and living in rural area. Those who pushed into 
+poverty were 3.4%, 
+4.1%, 3.1%, 3.5%, 2.5% in 2002, 2004, 2006, 2008 and 2010, respectively.
+Representative Good
+2013 Catastrophic health expenditure and entitlement to health services in the occupied Palestinian territory: A retrospective analysis
+Ashour et al. (2013)
+West bank and Gaza (Palestine)
+Palestinian Consumption and Expenditure Survey, 2010
+3,754 households Independent variables: HH head 
+sex, education and work status. HH income, residence and insurance status.Dependent variables:• CHE
+CHE = 2.4% (based on ratio of health payment of 40% or more of CTP). The prevalence was less among insured HH in compare to uninsured ones. CHE significantly differed according to different factors considered (HH head sex, education and work status. HH income and residence)
+Representative Medium
+2013 Health-Related financial catastrophe, inequality and chronic illness in Bangladesh
+Rahman et al. (2013)
+Bangladesh Household survey of 1600 households in Rajshahi city August to November 2011
+1,600 households Independent variables: HH head sex 
+and educational level, presence of a member of > 65 years, HH economic status and type of health care utilised. Dependent variables:• CHE
+CHE = 9% (based on ratio of health payment of 40% or more of CTP). The important determinants were presence of HH member hospitalised or had a chronic illness, number of illness, the economic status and the educational level of the HH head. 
+Represented only the urban householdResponse rate 99.6%
+Medium
+(continued on next page)
+Table 1. ( continued)
+
+[W2920277606 PDF PAGE 13]
+www.mjms.usm.my
+27
+Review Article | Determinants of catastrophic health expenditure
+Table 1. ( continued)
+Year of 
+publication Title Author Country Survey type Sample size Variables Result (outcome) Representativeness Quality
+2013 Assessing the magnitude, distribution and determinants of catastrophic health expenditure in urban Lucknow, 
+North India
+Misra et al. 
+(2013)
+India Household survey in 2011–2012 in urban Lucknow 
+400 households Independent variables: HH economic 
+status, HH size and type of health care utilised. Dependent variables:• CHE
+CHE = 11.5%, 4%, 3%, 2.75% at 10%, 20%, 30% and 40% of HH capacity to pay, respectively. 
+Important determinants 
+were outpatient and inpatient health care utilisation and the economic status of the HH. 
+Urban representation Medium
+2013 Catastrophic health expenditure in un urban city: Seven years after universal coverage policy in Thailand
+Weraphong et al. (2013)
+Thailand A cross sectional survey in Nakhon Sawan Municipality in 2008
+406 sampled households
+Independent variables: HH economic 
+status and type of health care utilised the cost components of treatment and the insurance scheme. Dependent variables:• CHE
+CHE = 7.1% in non-poor and 12.5% poor (based on 10% of total HH income). Important determinants were the use of public and private hospitals and clinics, transportation cost, loss of time cost and civil servants card holder.
+Urban representation Medium
+2013 Household catastrophic medical expenses 
+in Eastern China: 
+Determinants and 
+policy implications
+Li et al. (2013) China Health care 
+utilisation and expense survey, 
+2008
+11,577 households Independent 
+variables: HH economic 
+status, residence, 
+HH size, presence of 
+children or elderly. HH 
+head educational level, 
+presence of a member with chronic illness or 
+being hospitalised and the 
+insurance scheme. 
+Dependent variables:
+• CHE
+CHE = 9.24% to 24.79% (based on ratio of health payment of 
+40% or more of CTP). 
+Important determinants 
+were low economic 
+status, rural residence, hospitalisation, member 
+with chronic illness, 
+presence of elderly or 
+children, large HH size, 
+no or low education of HH head and type of 
+insurance scheme.
+Representative  Medium
+(continued on next page)
+
+[W2920277606 PDF PAGE 14]
+Malays J Med Sci. Jan–Feb 2019; 26(1): 15–43
+www.mjms.usm.my
+28
+Year of 
+publication Title Author Country Survey type Sample size Variables Result (outcome) Representativeness Quality
+2014 Catastrophic health expenditure and rural household impoverishment in China: What role does the new cooperative health insurance scheme play?
+Li et al.  (2014)
+China Fourth NationalHealth Service Survey (NHSS, 2008)
+56,400 households
+Independent variables: HH economic 
+status, presence of elderly or children, HH size, HH head sex, work status and educational level, hospitalisation and 
+presence of a member 
+with chronic illness, insurance status.Dependent variables:• CHE
+• Impoverishment
+CHE = 14.4% (based on ratio of health payment of 40% or more of CTP), poverty = 9.2%. Important determinants were hospitalisation, member with chronic illness, presence of elderly or children, 
+HH head female, no 
+or low education and unemployment of the HH head and type of insurance scheme.
+Representative  Medium
+2014 Correlates of out-of-pocket and catastrophic health expenditures in Tanzania: Results from a national household survey
+Brinda et al. (2014)
+Tanzania National Panel Survey (TZNPS) in 2008–2009
+3,265 households Independent variables: HH size, HH 
+head age, sex, work status and educational level, presence of a member with chronic illness or disability.
+Dependent variables:
+• CHE
+CHE = 18% (based on ratio of health payment 
+of 40% or more of CTP). 
+Significant determinants 
+were large HH size, unemployment or manual labourer HH 
+head, presence of a 
+member with chronic 
+illness or disability.
+Representative Medium
+2014 Out-of-pocket 
+health care 
+expenditure in 
+Turkey: Analysis 
+of the 2003–2008 household budget 
+surveys
+Brown et al. (2014)
+Turkey Turkish Household 
+Budget Surveys 
+(2003–2008)
+800 household 
+surveyed per 
+month in all the 
+years except 
+2003, where 2,200 household 
+surveyed in that 
+year.
+Independent 
+variables: HH size, 
+economic status, presence 
+of elderly or less than 5 
+years children, residence, HH head sex, work status 
+and educational level, 
+presence of a member 
+with illness or disability 
+and insurance status.Dependent variables:
+• CHE
+CHE = 1.2%–17.6% at different years (2003–
+2008) at different cut 
+off points (2.5%, 5%, 
+10%, 15% and 20%) of total HH expenditure. 
+Significant determinants 
+were presence of elderly 
+or less than 5 years 
+children, or presence of a member with illness or 
+disability, no insurance 
+and low education of 
+HH head.
+Representative Medium
+(continued on next page)
+Table 1. ( continued)
+
+[W2920277606 PDF PAGE 15]
+www.mjms.usm.my
+29
+Review Article | Determinants of catastrophic health expenditure
+Table 1. ( continued)
+Year of 
+publication Title Author Country Survey type Sample size Variables Result (outcome) Representativeness Quality
+2014 Financial catastrophe and poverty impacts of out-of-pocket health payments in Turkey
+Narci et al. (2014)
+Turkey Turkish Household Budget Surveys (2004–2010)
+62,886 households in study years
+Independent variables: HH size, 
+economic status, presence of elderly or less than 5 years children, residence, HH head sex, work status and educational level, presence of a member with disability, inpatient care and insurance status.Dependent variables:• CHE
+• Impoverishment
+CHE varied according 
+to different thresholds 
+used and at different years using both methods (capacity to pay and total income method). All the determinants studies had a positive relationship to CHE except the work status of household head. The prevalence of impoverishment was less than 1 in all the 
+studied years.
+Representative Medium
+2014 Catastrophic 

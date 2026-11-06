@@ -1,0 +1,178 @@
+
+First, four retrospective cohorts could not be included in
+any of the meta-analyses performed due mainly to the lack
+of the specific estimator needed, but their results were
+consistent with our findings [21,22,37,38]. Second, out-
+comes of these retrospective cohorts varied substantially,
+from systemic corticosteroids use to deaths. Related to this
+wide range of clinical outcomes, there was a limitation for
+synthesizing them by meta-analysis– mortality, a primary
+outcome of interest, was reported only by one study [28].
+Furthermore, the use of composite endpoints could give
+misleading conclusions because the components have dif-
+ferent relevance [45]. However, not only the composite
+endpoints, but also the individual adverse events which
+compose them have been considered in the meta-analyses.
+Third, internal validity of the summary provided by a
+Figure 6This figure includes Forest plot (a), Galbraith plot (b), and Funnel plot (c) of the asthma-related hospitalization or emergency
+department visits or systemic corticosteroid use.
+Hernández et al. Respiratory Research2014, 15:83 Page 9 of 12
+http://respiratory-research.com/content/15/1/83
+
+[W2122586864 PDF PAGE 10]
+meta-analysis depends on the quality of primary studies.
+Confounding and selection bias could distort the findings
+from observational studies and therefore meta-analyses in-
+cluding them would produce biased estimates also. In our
+systematic review, sensitivity analysis by quality assess-
+ment was not performed as risk of bias was homogeneous
+among studies. Quality assessment was considered moder-
+ate for most of them because the studies were mainly
+comparative, allocation was based on treatment decisions,
+and adjusted by potential confounders. In fact, only few
+unadjusted estimators were included in the meta-analysis,
+and the sensitivity analyses carried out to assess the im-
+pact of excluding them, showed similar summary ORs:
+0.89 (95% CI 0.69-1.15) for asthma-related hospitalization
+and 0.75 (95% CI 0.67-0.85) for asthma-related ED visits.
+Most of the retrospective cohort studies identified in
+this systematic review obtained data from administrative
+medical claims and electronic health records, with defini-
+tions based on medication prescriptions and ICD-9 diag-
+nosis (i.e. asthma codes for inclusion and other respiratory
+conditions for exclusion). The main limitations derived
+from designs of this nature include: a) presence of a pre-
+scription claim does not necessarily indicate that the medi-
+cation was taken; and b) asthma severity criteria were not
+applied in most studies, and in those that did, severity defi-
+nitions were based on medication use instead of spirometry
+or clinical parameters. To balance treatment groups, most
+of the studies made adjustments on baseline risk factors
+and socioeconomic variables by using regression models
+and propensity score matching. Nevertheless, possible con-
+founding factors such as severity and adherence could still
+remain.
+The planned subgroup analysis for children and ad-
+ministration mode (as single or two separate inhalers)
+could not be conducted, and merits further comments.
+Stanford et al. [25] performed an analysis stratified by
+age groups with similar results for adults and children
+aged 4-18 years: OR was 0.917 (95% CI 0.85-0.98) for
+ED visit and 0.88 (95% CI 0.7-1.11) for hospitalization.
+The case-control study by Jacobs et al. [23] showed that
+paediatric LABA use in combination with ICs did not
+increase the likelihood of intensive care unit admission
+among hospitalized children, compared to ICs alone. Re-
+garding administration mode, the little available evidence
+is controversial. The largest retrospective cohort identi-
+fied in this review [21] is remarkable because it showed
+higher risk for single inhalers compared with separate
+inhalers on a combined outcome composed of asthma-
+related hospitalizations, intubations or asthma-related
+ED visits: OR of 1.13 (95% CI 1.09-1.16) among newly
+diagnosed patients, and OR of 1.12 (95% CI 1.10-1.12)
+among those with pre-existing asthma. On the contrary,
+in the study by O’Connor et al. [38] patients receiving
+LABAs plus ICs in a single inhaler were less likely to have
+an ED visit or to be hospitalized, compared with patients
+receiving the same treatment in separate inhalers (OR
+0.69, 95% CI 0.51-.95). Delea et al. [34] showed similar re-
+sults in both administration modes.
+Heterogeneity was substantial (66.5% and 70.5%) in two
+of the four meta-analyses reported. In those conducted
+with asthma-related hospitalization risk, the only study out
+of the confidence limits in the Galbraith plot was deVries
+et al. [28]. This study differs from the other ones in having
+a follow-up period of 5 years, but many other possible rea-
+sons could explain such heterogeneity. In the meta-
+analysis conducted with the combined outcome, the only
+estimator that fell outside the Galbraith plot limits was the
+group with high dose of corticosteroids and salmeterol in
+Campbell et al. [32], with an OR higher than 1. This might
+reflect that despite the adjustments, patients taking high
+corticosteroid doses represented a more severe group.
+Almost two thirds of the studies were performed by
+Glaxo Smith Kline Beecham, while others received in-
+dustry support without describing the extent of involve-
+ment of their sponsors. Usually, publication bias refers
+to the journals’ rejection of studies with negative results.
+Yet safety studies sponsored by the pharmaceutical in-
+dustry could suffer from publication bias in the opposite
+direction, as it is more likely to publish negative results
+and to select the most favourable outcomes. We have
+found no evidence of publication bias in the meta-
+analyses reported, but Egger’s test has limited power
+when the number of studies is low, and funnel plots may
+have subjective interpretation.
+Conclusions
+The current evidence from non-randomized studies shows
+that combined treatment of LABAs and ICs is not associ-
+ated with higher risk of serious adverse events. Our system-
+atic review identified major gaps in the available literature;
+accordingly our key recommendations for further research
+are to conduct prospective cohort studies, to perform
+studies among the paediatric population, and to include
+mortality as a primary outcome. Accumulative valid data is
+needed to allow evidence-based decisions taking into
+account safety of LABAs plus ICs in asthma treatment.
+Additional file
+Additional file 1:The additional file contains the search strategy,
+the inclusion and exclusion criteria, the risk of bias assessment tool
+and information regarding the articles excluded at each step of the
+Systematic Review.
+Abbreviations
+ICs: Inhaled corticosteroids; LABAs: Long-acting beta2–agonists; SABAs: Short
+acting beta agonists; RCT: Randomized clinical trial; FDA: Federal Drug
+Administration; ED: Emergency department; ICU: Intensive care unit
+admissions; CI: Confidence intervals; HR: Hazard ratio.
+Hernández et al. Respiratory Research2014, 15:83 Page 10 of 12
+http://respiratory-research.com/content/15/1/83
+
+[W2122586864 PDF PAGE 11]
+Competing interests
+The authors declare that they have no competing interests.
+Authors’ contributions
+GH contributed to the conception and design of the article, conceptualized and
+oversaw analyses, contributed to the interpretation of data, and wrote the
+article. MA contributed to the reviewing and web search of included and
+excluded articles. AP contributed to the analysis and gave statistical support. OG,
+JA, CC, LL oversaw all aspects and reviewed the article for important intellectual
+content. MF oversaw all aspects, contributed to the conception and design of
+the article, contributed to the statistical analyses, carried out the interpretation
+of data, and contributed to the writing of the article. All the co-authors critically
+revised the manuscript and approved the final draft before submission.
+Acknowledgments
+We would like to thank A. Martin (IMIM Hospital del Mar Medical Research
+Institute) for the English review and editing of the manuscript.
+Members of the ASTRO-LAB group are: Marijn De Bruin, Alexandra Dima
+(ASCoR, University of Amsterdam, The Netherlands); Eric Van Ganse, Laurent
+Laforest, Sandrine Herbage, Manon Belhassen, Marine Ginoux (LBBE, University
+Claude Bernard Lyon 1, France); Stéphane Schück, Nathalie Texier, Sandy
+Leproust, Hélène Le Cloarec (Kappa Santé, France); Richard Hubbard (University
+of Nottingham, England); Alison Bourke, Mary Thompson , Delphine Vial, David
+Ansell (Cegedim Strategic Data, England); Javier Olaiz, Ana Valcarcel Orti (Lyon
+Ingénierie Projet, France) ; and Montse Ferrer, Olatz Garin, Gimena Hernández
+(IMIM - Hospital del Mar Medical Research Institute, Spain).
+Fundings
+Financial support for this study was provided by the Health Research Fund
+(European Union FP7, ASTROLAB project EC HEALTH-F5-2011-282593); the
+Agency for Management of University and Research Grants AGAUR
+(2012FI_B1 00177); and a Fundación Carolina Fellowship. The funding
+agreement ensures the authors’independence in designing the study,
+interpreting the data, and writing and publishing the report. None of these
+organizations had any role in the design or conduction of the study, nor in
+the data collection, management or interpretation, nor in the manuscript
+writing, reviewing, or approval.
+Author details
+1Health Services Research Group. IMIM (Hospital del Mar Medical Research
+Institute), Barcelona Biomedical Research Park, office 144. Doctor Aiguader,
+88 | 08003, Barcelona, Spain.2Universitat Autònoma de Barcelona, Bellaterra,
+Spain. 3CIBER en Epidemiología y Salud Pública, CIBERESP, Madrid, Spain.
+4Pompeu Fabra University (UPF), Barcelona, Spain.5UCBL Unité de
+Pharmacoépidémiologie - UMR 5558 CNRS - Université Claude Bernard, Lyon,
+France.6St George’s University of London, Population Health Sciences and
+Education, London, UK.
+Received: 15 April 2014 Accepted: 14 July 2014
+Published: 19 July 2014
+References
+1. Walters EH, Gibson PG

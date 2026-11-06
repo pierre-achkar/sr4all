@@ -1,0 +1,563 @@
+ 
+<.01, <.05, <.1., 
+<.2, <.5. and 1) 
+Mother-reported 
+questionnaire 
+data at ages 6 
+and 18 months 
+and 3,5, and 8 
+years: Social 
+communication 
+difficulties, 
+repetitive 
+behavior, 
+inattention and 
+hyperactivity, 
+language 
+difficulties and 
+motor 
+difficulties 
+Genotyping 
+batch and 10 
+PCs. Sex 
+differences 
+assessed by 
+adding sex as a 
+grouping 
+variable 
+In association 
+analyses of 
+autism 
+polygenic score 
+and repetitive 
+behaviour, 
+social 
+communication, 
+language 
+difficulties, 
+motor 
+difficulties, 
+hyperactivity 
+and inattention 
+at several ages 
+in childhood, 
+positive 
+associations 
+Bonferroni-
+correction for 
+number of 
+effective tests: 
+.05/16 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 77]
+77 
+ 
+5 years and 8 
+years. The 
+participants 
+were all 
+Norwegian and 
+genetic ancestry 
+was restricted to 
+European. 
+were only 
+reported for 
+language 
+difficulties at 
+18 months 
+(β = .032, 
+CI = 0.012–
+0.052), motor 
+difficulties at 
+3 years 
+(β = .034, 
+CI = 0.012–
+0.057), 
+hyperactivity at 
+8 years 
+(β = .038, 
+CI = 0.013–
+0.063), and 
+inattention at 
+8 years 
+(β = .052, 
+CI = 0.027–
+0.077). No other 
+significant 
+results were 
+reported. 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 78]
+78 
+ 
+Hannigan 
+(2023)76 
+Early 
+neurodevelopme
+nt 
+Sample size 
+varies per 
+outcome 
+measure, with a 
+maximum of 
+10848 males 
+and 9475 
+females  and a 
+minimum of 
+1654 males and 
+1523 females 
+depending on 
+the outcome 
+measure. 
+Participants 
+were assessed at 
+different ages. 
+Participants 
+were 
+Norwegian. 
+Genetic ancestry 
+was restricted to 
+European. 
+PRSice. First 
+Principal 
+components for 
+polygenic scores 
+built from 10 
+thresholds 
+(<5e−8, <1e−6, 
+<1e−5, <.001, 
+<.005, <.01, 
+<.1., <.5. and 
+<1) 
+Age of first 
+walking, motor 
+delays at 18 
+months, age at 
+first words, age 
+at first 
+sentences, rate 
+(age at first 
+sentences – age 
+at first words), 
+language delays 
+at 3 years, 
+concern about 
+development 
+Genotype batch, 
+10 PCs, sex as 
+groupig variable 
+The autism 
+polygenic score 
+was 
+significantly 
+positively 
+associated with 
+age at first 
+walking in 
+females and 
+male/female 
+sample, but not 
+a male sample. 
+It was not 
+associated with 
+motor delays at 
+18 months, age 
+at first words, 
+age at first 
+sentences, rate 
+(age at first 
+sentences-age at 
+first words), 
+language delays 
+at 3 years and 
+concern 
+regarding 
+development 
+expressed by 
+others at 3 years 
+FDR and 
+Bonferroni 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 79]
+79 
+ 
+Fish (2021)77 Early 
+neurodevelopme
+nt 
+264 BASIS-
+STAARS 
+participants that 
+either had a 
+sibling with 
+formal autism 
+diagnosis (n = 
+195) or no 
+autism family 
+history (n = 69). 
+A total of 190 
+infants were 
+included in 
+polygenic score 
+analyses. 
+Measurements 
+were taken at 9, 
+14 and 24 
+months old. 
+Participants 
+were British. 
+Genetic ancestry 
+was restricted to 
+European. 
+PRSice. P = 
+.021 
+ Pupillary light 
+reflex amplitude 
+and latency 
+development (9- 
+to 14-/14- 24-
+month) 
+ 2 PCs, 
+percentage of 
+missing trials, 
+baseline pupil 
+size,  
+Amplitude: No 
+significant 
+association 
+between autism 
+polygenic score 
+and amplitude 
+change (9 to 14 
+months:b = 
+.02,SE 
+=0.08,95%CI=-
+0.14,0.18;14 
+to24 months: b 
+= .07, SE =0.08, 
+95% CI =0.09 
+,0.23).  
+ 
+Latency: higher 
+autism 
+polygenic score 
+was associated 
+with a smaller 
+decrease in 
+latency between 
+9 and 14 months 
+(b = .16, SE = 
+0.08, 95% CI = 
+0.31, 0.002). 
+Within this 
+subset of 
+infants, latency 
+did not 
+significantly 
+Not for primary 
+analyses, 
+Bonferroni 
+correction 
+reported as 
+comparison 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 80]
+80 
+ 
+change between 
+14 and 24 
+months (b = -
+.08, SE = 0.08, 
+95% CI = -0.23, 
+0.08); autism 
+polygenic score 
+was not 
+significantly 
+associated with 
+individual 
+differences in 
+change profile 
+(b = -.14, SE = 
+0.08, 95% CI = 
+-0.29, 0.01) 
+Gui (2020)78 Early 
+neurodevelopme
+nt 
+A total of 335 
+BASIS-
+STAARS 
+participants 
+were included 
+(171 male, mean 
+age in months = 
+14.37 (1.17)), of 
+which 250 with 
+elevated 
+likelihood of 
+autism (131 
+males) and 85 
+with typical 
+likelihood of 
+autism based on 
+LDpred. P = 1 Peak look 
+duration at face 
+stimulus at 14 
+months 
+Number of valid 
+trials, age in 
+months, 5 PCs. 
+Analyses 
+repeated with 
+Phase as 
+covariate 
+The autism 
+polygenic score 
+was not 
+associated with 
+peak-look 
+durations at the 
+face  (F(1,179) 
+= 0.017, p = 
+.898, n2p < 
+0.001) nor mean 
+peak look to all 
+stimuli 
+(F(1,179) = 
+0.341, p = .559, 
+n2p = 0.002) 
+Not reported 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 81]
+81 
+ 
+family history 
+of first-degree 
+relatives. 
+Participants 
+were British. 
+Genetic ancestry 
+was restricted to 
+European. 
+Portugal. 
+(2021)79 
+Early 
+neurodevelopme
+nt 
+510 infants (245 
+female), mean 
+age in days = 
+167.7 (SD 
+=8.59, range = 
+145 – 203). 
+Participants 
+were Swedish. 
+Genetic ancestry 
+was mostly 
+European.  
+PRS-CS. 
+Bayesian 
+approach, no 
+threshold 
+needed 
+Pupillary light 
+reflex 
+Age, sex, year 
+of data 
+collection, 
+number of valid 
+trials 
+The autism 
+polygenic score 
+was not 
+significantly 
+associated with 
+pupillary light 
+reflex relative 
+constriction (b = 
+.01, p = .830), 
+baseline pupil 
+size 
+Not reported 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 82]
+82 
+ 
+Riglin (2022)29 Early 
+neurodevelopme
+nt 
+Primary 
+analyses sample 
+size varied from 
+5880–6328 
+depending on 
+the outcome 
+variable. 
+Participants 
+were assessed at 
+18 months and 2 
+years old. 
+Participants 
+were British. 
+Genetic ancesty 
+was restricted to 
+European. 
+PRSice. First 
+principal 
+component of 
+PGS at various 
+threshold. 
+Motor 
+development: 
+Fine and gross 
+motor skills 
+(Denver 
+Developmental 
+Screening Test), 
+language 
+development 
+(MacArthur 
+Communicative 
+Development 
+Inventory), 
+temperament 
+(Carey 
+Temperament 
+Scale) 
+Not reported The autism 
+polygenic score 
+was not 
+significantly 
+associated with 
+toddler 
+development 
+(domains: 
+motor, 
+language, and 
+temperament, p 
+≥ .06) 
+Bonferroni 
+correction: 
+0.05/11 = 0.005 
+Serdarevic 
+(2020)43 
+Autistic traits, 
+early 
+neurodevelopme
+nt 
+The sample was 
+Generation R 
+and consisted of 
+1174 infants 
+between 9 and 
+20 weeks old. 
+Mean age was 
+12.6 weeks (SD 
+= 20). 48.7% 
+were girls. 
+Mothers were 
+on average 31.3 
+years old. All 
+participants 
+were Dutch. 
+PRSice . Six 
+different p-value 
+thresholds (pTs) 
+with pT , .001, 
+pT , .01, pT , 
+.05, pT , .10, pT 
+, .50, and pT , 1 
+Infant 
+neuromotor 
+scores 
+(modified 
+version of the 
+Touwen’s 
+Neurodevelop
+mental 
+Examination), 
+autistic traits 
+(SRS) 
+Child’s sex, 
+maternal age 
+and maternal 
+education level 
+Children with 
+higher autism 
+polygenic score 
+had higher 
+autistic trait 
+scores at 6 years 
+of age (pT , .50, 
+b = .08, 95% CI 
+= .03, .13, p = 
+.01). A higher 
+autism 
+polygenic score 
+was positively 
+associated with 
+less optimal 
+Bonferroni 
+correction: p = 
+.05/10 = .005) 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 83]
+83 
+ 
+Genetic ancestry 
+was restricted to 
+European. 
+overall 
+neuromotor 
+development 
+during infancy 
+(e.g., with 
+GWAS pT , 1, 
+b = .048, 95% 
+confidence 
+interval [CI] = 
+.007, .090, p = 
+.02) There was 
+a relationship 
+between autism 
+polygenic score 
+and overall 
+muscle tone 
+and, in 
+particular, low 
+muscle tone 
+(e.g., with 
+GWAS pT , 
+.50, b = .068, 
+95% CI = .015, 
+.120, p = .01). 
+Stratified 
+analysis showed 
+that this 
+association was 
+present in boys 
+only. In 
+addition, boys 
+with a higher 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this pr

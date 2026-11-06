@@ -1,0 +1,163 @@
+en Access which fosters wider collaboration and increased citations 
+ 
+maximum visibility for your research: over 100M website views per year •
+  At BMC, research is always in progress.
+Learn more biomedcentral.com/submissions
+Ready to submit y our researc h ?  Choose BMC and benefit fr om: 
+ 22. Begg CB, Mazumdar M. Operating characteristics of a rank correlation test 
+for publication bias. Biometrics. 1994;50(4):1088–101.
+ 23. Labadie BW, Liu P , Bao R, Crist M, Fernandes R, Ferreira L, et al. BMI, irAE, 
+and gene expression signatures associate with resistance to immune-
+checkpoint inhibition and outcomes in renal cell carcinoma. J Transl Med. 
+2019;17(1):386.
+ 24. Kulkarni A, Zhang S, De For T, Patel M. Impact of body mass index on clini-
+cal outcomes of immune checkpoint blockers in advanced non-small cell 
+lung cancer. J Thoracic Oncol. 2019;14(10):S275–6.
+ 25. De Giorgi U, Procopio G, Giannarelli D, Sabbatini R, Bearz A, Buti S, et al. 
+Association of systemic inflammation index and body mass index with 
+survival in patients with renal cell cancer treated with nivolumab. Clin 
+Cancer Res. 2019;25(13):3839–46.
+ 26. Cortellini A, Bersanelli M, Buti S, Cannita K, Santini D, Perrone F, et al. A 
+multicenter study of body mass index in cancer patients treated with 
+anti-PD-1/PD-L1 immune checkpoint inhibitors: when overweight 
+becomes favorable. J Immunother Cancer. 2019;7(1):57.
+ 27. Zhi J, Khozin S, Kuk D, Torres AZ, Sorg R, Lee SE, et al. Association of base -
+line body mass index (BMI) with overall survival (OS) in patients (pts) with 
+metastatic non-small cell lung cancer (mNSCLC) treated with nivolumab 
+(N) and pembrolizumab (P). J Clin Oncol. 2018;36(15_suppl):6553.
+ 28. Richtig G, Hoeller C, Wolf M, Wolf I, Rainer BM, Schulter G, et al. Body mass 
+index may predict the response to ipilimumab in metastatic melanoma: 
+an observational multi-centre study. PLoS ONE. 2018;13(10):e0204729.
+ 29. McQuade JL, Daniel CR, Hess KR, Mak C, Wang DY, Rai RR, et al. Associa-
+tion of body-mass index and outcomes in patients with metastatic mela-
+noma treated with targeted therapy, immunotherapy, or chemotherapy: 
+a retrospective, multicohort analysis. Lancet Oncol. 2018;19(3):310–22.
+ 30. Naik GS, Waikar SS, Johnson AEW, Buchbinder EI, Haq R, Hodi FS, et al. 
+Complex inter-relationship of body mass index, gender and serum cre-
+atinine on survival: exploring the obesity paradox in melanoma patients 
+treated with checkpoint inhibition. J Immunother Cancer. 2019;7(1):89.
+ 31. Motzer RJ, Escudier B, McDermott DF, George S, Hammers HJ, Srinivas S, 
+et al. Nivolumab versus everolimus in advanced renal-cell carcinoma. N 
+England J Med. 2015;373(19):1803–13.
+ 32. Escudier B, Sharma P , McDermott DF, George S, Hammers HJ, Srinivas 
+S, et al. CheckMate 025 randomized phase 3 study: outcomes by key 
+baseline factors and prior therapy for nivolumab versus everolimus in 
+advanced renal cell carcinoma. Eur Urol. 2017;72(6):962–71.
+ 33. Bellmunt J, de Wit R, Vaughn DJ, Fradet Y, Lee JL, Fong L, et al. Pembroli-
+zumab as second-line therapy for advanced urothelial carcinoma. N 
+England J Med. 2017;376(11):1015–26.
+ 34. Ferris RL, Blumenschein G Jr, Fayette J, Guigay J, Colevas AD, Licitra L, et al. 
+Nivolumab for recurrent squamous-cell carcinoma of the head and neck. 
+N England J Med. 2016;375(19):1856–67.
+ 35. Frasca D, Diaz A, Romero M, Thaller S, Blomberg BB. Secretion of autoim-
+mune antibodies in the human subcutaneous adipose tissue. PLoS ONE. 
+2018;13(5):e0197472.
+ 36. Malietzis G, Aziz O, Bagnall NM, Johns N, Fearon KC, Jenkins JT. The role of 
+body composition evaluation by computerized tomography in determin-
+ing colorectal cancer treatment outcomes: a systematic review. Eur J Surg 
+Oncol. 2015;41(2):186–96.
+ 37. Chambard L, Girard N, Ollier E, Rousseau JC, Duboeuf F, Carlier MC, et al. 
+Bone, muscle, and metabolic parameters predict survival in patients with 
+synchronous bone metastases from lung cancers. Bone. 2018;108:202–9.
+ 38. Li P , Sun L, Sun L. Influence of body mass index on survival and prognosis 
+in squamous cell carcinoma of head and neck. Cancer Manag Res. 
+2020;12:3203–10.
+ 39. Zhao B, Zhang J, Mei D, Luo R, Lu H, Xu H, et al. Does high body mass 
+index negatively affect the surgical outcome and long-term survival of 
+gastric cancer patients who underwent gastrectomy: a systematic review 
+and meta-analysis. Eur J Surg Oncol. 2018;44(12):1971–81.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub-
+lished maps and institutional affiliations.
+
+END REVIEW W3034348710
+
+
+REVIEW W3035122294
+TITLE: Executive Functions in Parkinson’s disease with and without Deep Brain Stimulation (DBS): A systematic review
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W3035122294 PDF PAGE 1]
+Dement Neuropsychol 2020 June;14(2):178-185
+178178
+Executive function and DBS in Parkinson’s disease    Arten and Hamdan
+http://dx.doi.org/10.1590/1980-57642020dn14-020012
+Original Article
+Executive Functions in Parkinson’s  
+disease with and without  
+Deep Brain Stimulation (DBS)
+A systematic review
+Thayná Laís de Souza Arten 1 , Amer Cavalheiro Hamdan 2
+ABSTRACT. Given the aging of the world population, it is essential to investigate which methods are most effective 
+for treating the diseases that manifest with age. This study addresses Parkinson’s disease (PD), for which Deep Brain 
+Stimulation (DBS) has been increasingly used to treat the disease. Objective: To investigate Executive Functions (EF) 
+in patients with and without DBS. Methods: A systematic review of the literature was conducted according to the 
+Preferred Reporting Items for Systematic Review and Meta-Analyzes (PRISMA) criteria. Scientific papers published 
+on the Scopus, Web of Science and PsycInfo databases were selected. Results: 13 articles were selected. Results 
+showed no standardization of instruments used to evaluate EF and that, in most studies, lack of a control group may 
+have affected results. Conclusion: Decline in EF was observed in terms of verbal fluency and processing speed in 
+patients with DBS.
+Key words: Parkinson’s Disease, Deep Brain Stimulation, Executive Functions, Neuropsychological Assessment.
+FUNÇÕES EXECUTIVAS NA DOENÇA DE PARKINSON COM E SEM ESTIMULAÇÃO CEREBRAL PROFUNDA (DBS): UMA 
+REVISÃO SISTEMÁTICA
+RESUMO. Observando o envelhecimento da população mundial, é essencial investigar quais métodos são mais eficazes 
+no tratamento das doenças que aparecem com a idade. Este estudo aborda a doença de Parkinson (DP). Na DP 
+tem aumentado o uso da Estimulação Cerebral Profunda (DBS) para o tratamento da doença. Objetivo: Investigar a 
+Função Executiva (FE) em pacientes com e sem DBS. Métodos: Foi realizada uma revisão sistemática da literatura de 
+acordo com os critérios de Principais Itens para relatar Revisão Sistemática e Meta-Análises (PRISMA). Selecionamos 
+artigos científicos publicados nas bases de dados Scopus, Web of Science e PsycInfo. Resultados: 13 artigos foram 
+selecionados. Observou-se que não há padronização nos instrumentos utilizados para avaliar a FE e, na maioria dos 
+estudos, a falta de controle de grupo pode ter afetado os resultados. Conclusão: Observou-se declínio na FE na 
+fluência verbal e velocidade de processamento em pacientes com DBS.
+Palavras-chave: doença de Parkinson, estimulação cerebral profunda, funções executivas, avaliação neuropsicológica.
+A
+ccording to data from World Population 
+Prospects: the 2019 Revision, by 2050, 
+one in six people in the world will be over age 
+65 (16%), up from one in 11 in 2019 (9%). 
+In 2018, for the first time in history, per -
+sons aged 65 or above outnumbered children 
+under five years of age globally. The number 
+of persons aged 80 years or over is projected 
+to triple, from 143 million in 2019 to 426 
+million in 2050.1 This growth will be accom-
+panied by a commensurate increase in Parkin-
+son’s disease (PD) and other neurodegenera-
+This study was conducted at the Department of Psychology at the Federal University of Paraná, Curitiba, PR, Brazil.
+1 Master in Psychology, Department of Psychology, Federal University of Paraná, Curitiba, PR, Brazil. 2 PhD, Department of Psychology, Federal University of 
+Paraná, Curitiba, PR, Brazil.
+Amer Hamdan. Universidade Federal do Paraná – Praça Santos Andrade, 50 – 81531-900 Curitiba PR – Brazil. E-mail: amerc.hamdan@gmail.com
+Disclosure: The authors report no conflicts of interest.
+Received November 06, 2019. Accepted in final form March 06, 2020.
+
+[W3035122294 PDF PAGE 2]
+Dement Neuropsychol 2020 June;14(2):178-185
+179
+Arten and Hamdan     Executive function and DBS in Parkinson’s disease
+tive problems, where PD is one of the most common 
+movement disorders and neurodegenerative disease in 
+the elderly, affecting Executive Functions. 2
+Studying the possible effects of DBS implantation on 
+Executive Functions in Parkinson’s patients is impor -
+tant because Executive Dysfunctions (ED) are the basis 
+for manifestations of cognitive impairment in these 
+patients (due to disruption of striatal dopamine flow). 
+In addition, EF can also be affected by changes such as 
+depression, which is the most frequent mood disorder 
+in PD. 2
+PD was initially described by James Parkinson as 
+“Agitating Paralysis” in 1817. 3  Several drug therapies 
+have been applied since 1867 in the treatment of PD, 
+with dopamine replacement being the most common. 3  
+However, due to the therapeutic limitations of avail -
+able treatments, many studies are being conducted to 
+find alternatives for the treatment of PD. One of these 
+alternatives is the surgical intervention of Deep Brain 
+Stimulation (DBS) implantation. Given this entails brain 
+surgery, it is necessary to determine possible changes 
+caused by the intervention in patient cognition and pos -
+sible impact on their daily lives. It should be noted that 
+the DBS implantation procedure is only recommended 
+when the patient is refractory to medications. 4
+Neurons are structures known 

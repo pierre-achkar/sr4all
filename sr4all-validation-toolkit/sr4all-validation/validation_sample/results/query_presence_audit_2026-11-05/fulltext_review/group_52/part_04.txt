@@ -1,0 +1,213 @@
+ion from COVID-19 due to secondary
+effects and suggested the need to prioritize clinical trials and other studies that could
+resolve the uncertainty about the effects of OPV on COVID and other non-poliovirus
+diseases [93].
+3.1.7. Poliovirus Transmission Modeling Studies Published by Other Groups
+Our review identified nine other studies that presented DEB models of poliovirus trans-
+mission for theoretical populations using different numerical simulation methods [94–102].
+3.2. Trends in Characteristics of Polio Modeling Studies
+Table 1 provides a high-level comparison between the numbers and types of studies
+included in this review compared to those in the prior review for 2000–2019 [1] (with the
+updates discussed above). Notably, the 102 studies identified for the 4.25 years covered
+in this review imply an increase in the annual rate of polio modeling papers published
+over time of approximately 2, 5, 9, 22, and 24 papers/year, respectively, for 2000–2004,
+
+[W4398206054 PDF PAGE 10]
+Pathogens 2024, 13, 435 10 of 31
+2005–2009, 2010–2014, 2015–2019, and 2020–2024.25. Among the modeling groups, KRI
+published the largest number of studies for 2020–2024.25 (46 publications), followed by IC
+(20 publications), and LSHTM (12 publications).
+Table 1. Characteristics of included studies with comparison to results reported for 2000–2019 [1].
+Time Period 2000–2019 [1] 2020–2024.25
+Modeling group (first publication year)
+KRI (2003)
+IC (2006)
+LSHTM (2000) *
+IDM/BMGF (2014/2021) *
+SACEMA (2022) *
+GIT (2024) *
+Other economic analyses (2000)
+Other transmission modeling (2000)
+Count (number excluded)
+78
+44 a,b (1 c)
+17 c (1 b)
+19 (2 a)
+NA
+NA
+9
+23
+Count (number excluded) [References]
+46 [1–46]
+20 (3 d) [47–66]
+12 d,e,f [67–78]
+8 (1 e) [79–86]
+0 (1 f) [67]
+2 [87,88]
+5 [89–93]
+9 [94–102]
+Publication year
+2000–2004
+2005–2009
+2010–2014
+2015–2019
+2020–2024.25
+Count {Rate per year}
+10 {2}
+26 {5}
+45 {9}
+109 {22}
+Count {Rate per year}
+102 {24}
+Study type
+Integrated (DEB and economic)
+DEB
+SC
+IB
+DES, DEB
+DEB, SC
+DEB, IC
+Economic/cost analysis only **
+Risk assessment **
+Vaccine effectiveness **
+Mucosal immunity **
+Reviews **
+Discussions of policy options **
+Perspectives/commentaries **
+Count
+12
+42
+14
+9
+3
+2
+1
+15
+20
+17
+6
+14
+5
+30
+Count
+6 g
+34
+4
+1
+0
+0
+0
+10
+18
+3
+3
+8
+1
+14
+Abbreviations: BMGF, Bill and Melinda Gates Foundation; DEB, differential-equation-based model; DES, discrete-event simulation model; GIT, Georgia
+Institute of Technology; GPEI, Global Polio Eradication Initiative; IB, individual-based model; IC, Imperial College; IDM, Institute for Disease Modeling;
+KRI, Kid Risk, Inc.; LSHTM, London School of Hygiene and Tropical Medicine; SC, stochastic compartmental; SACEMA, South African Centre for
+Epidemiological Modelling and Analysis.
+* Only KRI, IC, IDM included in the prior review as GPEI-partner-supported modeling teams covered under the GPEI Data Shar-
+ing Agreement as of 2019, although LSHTM researchers published studies noted in the prior review [ 1]. Other modeling groups
+added (including LSHTM) reflect the expansion of the GPEI Data Sharing Agreement. BMGF absorbed IDM in 2021, such that
+we continued to include IDM/BMGF studies published by IDM authors in the prior review [ 1] after 2021 as IDM/BMGF (see text).
+** Categories only applicable to studies published by KRI, IC, IDM/BMGF, LSHTM, SACEMA, and GIT.
+a Two IC studies included an IDM coauthor [1].
+b One IC study from the prior review included an LSHTM coauthor [1].
+c LSHTM papers published 2000–2019 are now reclassified (see Methods), including 2 papers with IC coauthors [1] now counted here [111,112], one
+DEB modeling study published in 2001 [ 113] moved from the other transmission models category [ 1], one statistical epidemiological study (Risk
+assessment) [114], four mucosal immunology studies [115–118], nine perspectives/commentaries [119–127].
+d Three LSHTM studies included an IC coauthor [68–70].
+e One LSHTM study included an IDM coauthor [71].
+f One LSHTM paper included a coauthor with both an LSHTM and SACEMA affiliation [67].
+g One game theoretic analysis is counted here as an integrated model instead of an economic or cost model due to its inclusion of a dynamic transmission
+model [89].
+Table 2 summarizes the themes explored in the included studies by all groups with
+publications discussed in the prior section. We identified publications by multiple groups
+for several key themes from the prior review [ 1], as well as several new themes. Given
+the global situation with ongoing poliovirus transmission, particularly for cVDPV2s, we
+
+[W4398206054 PDF PAGE 11]
+Pathogens 2024, 13, 435 11 of 31
+identified publications by all the groups in Table 2 on: outbreak response speed (and
+quality), population immunity, and novel OPV , particularly nOPV2. All groups discussed
+changes in population immunity in multiple publications, albeit with different definitions.
+As in the prior review [1], outbreak response speed and quality represented a major theme,
+with all groups demonstrating the need for improvements in oSIAs. With the use of nOPV2
+in oSIAs starting in 2021, our review identified publications by all groups related to nOPV2,
+many of which included analyses related to nOPV2 use in oSIAs. With respect to OPV
+cessation dynamics, several groups explored the evolution of OPV , which included some
+prospective modeling related to potential bOPV cessation.
+Table 2. Summary of themes explored and specific populations in poliovirus transmission model
+studies by group.
+Modeling Group KRI IC LSHTM IDM
+/BMGF GIT Other
+Theme
+Outbreak response speed/quality [7,12,15,23,25,34–36,44,46] [47,52,53,55,60,62] [70] [84,86] [87,88] [90]
+Expanded age group SIAs [34]
+Population immunity* [7,9–12,14,15,17–23,25,30–36,41–46] [47,52,53] [70,74] [82–86] [87,88]
+OPV cessation dynamics [14,41,42]
+Silent transmission on an IPV [44–46] [52,53] [68,70,71] [80,85]
+background/delayed detection
+of transmission due to IPV use
+Role of IPV after OPV cessation [17,18] [54] [91,92]
+Undetected circulation [11,33,45] [67,69]
+Role of IPV in oSIAs [22,31,44,46] [55,66] [87,88]
+(Environmental) surveillance [10,11,24,33,44,45] [50,51,59–65] [69,71,75] [81,83]
+Vaccine stockpile [40]
+iVDPVs [43]
+Novel OPV (nOPV) [13,15,16,20,22,23,25–27,34–43,46] [55–58] [72,73] [86] [87,88]
+COVID-19/pandemic modeling [19–22]
+Secondary effects of OPV [19,20,28,29] [47] [93]
+GPEI transition/integration [29]
+Containment [12]
+Geographic area modeled for studies with poliovirus transmission models
+Global [7,12,14,15,17,20–22,25,30,31,34,36,41–43]
+Pakistan/Afghanistan [9,19,23,32,33] [47]
+Nigeria [10,11] [87,88]
+Bangladesh [79,80]
+Israel
+United States [18,44–46]
+Hypothetical [35] [67] [89,94–102]
+Abbreviations: BMGF, Bill and Melinda Gates Foundation; GIT, Georgia Institute of Technology; GPEI, Global Polio Eradication Initiative; IC, Imperial
+College; IDM, Institute for Disease Modeling; IPV , inactivated poliovirus vaccine; iVDPV , immunodeficiency-associated vaccine-derived poliovirus;
+KRI, Kid Risk, Inc.; LSHTM, London School of Hygiene and Tropical Medicine; NA, not applicable; nOPV , novel OPV; OPV , oral poliovirus vaccine;
+oSIA, outbreak response SIA; SIA, supplemental immunization activity.
+* Modeling groups use different definitions for population immunity [1].
+Also represented in Table 2 as related to OPV cessation dynamics, we noted multiple
+studies by different groups on the failure of the 2016 globally coordinated cessation of
+OPV2 use for preventive immunization, which included retrospective statistical analyses
+of epidemiological data and poliovirus transmission modeling. With substantial GPEI
+investments in the expansion of environmental surveillance, Table 2 also shows numerous
+studies by different groups related to surveillance. Notably, given multiple publications by
+IC related to its development of DDNS, we broadened the category from environmental
+surveillance to surveillance.
+Most of the modeling groups also published on the topic of IPV use. These publications
+included IPV use for oSIAs, with some studies motivated by actual experiences (e.g., the
+2022 cVDPV2 outbreak in the United States). In addition, multiple groups published
+studies related to the role of IPV use after OPV cessation, but we did not include the
+studies that simply added IPV to RI consistent with the prerequisites for OPV2 cessation in
+Table 2. Not surprisingly, most modeling groups published studies motivated by the global
+experience with the COVID-19 pandemic, including many studies related to disruptions
+in national and GPEI immunization activities. Two groups published studies related to
+undetected circulation in different geographies. Only KRI published studies related to
+the topics of expanded age group SIAs, silent transmission on an IPV background and/or
+delayed detection of transmission due to IPV use, vaccine stockpile, iVDPVs, containment,
+secondary effects of OPV , and GPEI transition and integration.
+
+[W4398206054 PDF PAGE 12]
+Pathogens 2024, 13, 435 12 of 31
+The bottom portion of T able 2 shows the geographic scope covered by 45 studies that included
+poliovirus transmissionmodeling [7,9–12,14,15,17–23,25,30–36,41–47,67,79–81,87–89,94–102]. Not
+surprisingly, two groups published studies on Pakistan, Afghanistan and Nigeria, which
+continue to represent critical geographies for polio eradication. Populations modeled by
+only one group include Bangladesh, Israel, and the United States, and only KRI performed
+global analyses.
+3.3. Modeling in GPEI Annual Reports or SAGE Conclusions and Recommendations
+Table 3 provides excerpts of references to modeling and/or modeling groups and
+the sources for results reported that we identified in the GPEI Annual Reports. These
+discussions of modeling activities and/or references to studies and results published by
+the modeling groups provide some indication that GPEI broadly relied on modeling inputs.
+The rightmost two columns show the modeling group(s) referred to by name or by the
+journal of their public

@@ -1,0 +1,306 @@
+ed summary data. Skinfold calliper 
+measurements were halved to convert to SDMD. 17 Data 
+were manually extracted and cross- checked by a second 
+reviewer from figures in two papers where the authors 
+could not be contacted to request this.9 18 A more compre-
+hensive description of methods is available in online 
+supplemental material.
+Patient and public involvement
+Patients and/or the public were not involved in the 
+design, or conduct, or reporting, or dissemination plans 
+of this research.
+RESULTS
+A summary of how publications were selected for data 
+extraction is presented in figure 1. Some potentially 
+Figure 1 Study flow diagram. SCT, subcutaneous thickness.
+
+[W4317686413 PDF PAGE 3]
+3
+Kearns C, et al. BMJ Open 2023;13:e063530. doi:10.1136/bmjopen-2022-063530
+Open access
+relevant publications were excluded on the grounds 
+of being unable to separate data for ineligible partic-
+ipants <16 years of age19 20 ; not specifying participant 
+counts for reported groups21 ; a high risk of bias due to 
+unreported key aspects of study design and participant 
+characteristics22  and one study for which the SDMD was 
+not a complete measure. 23  For two publications identi-
+fied which required further information to be eligible 
+for inclusion; the authors were able to provide raw data 
+which facilitated this.3 24  Table 1 presents the characteris-
+tics of included studies.
+Skin-to-deltoid-muscle distance
+The mean and range (minimum to maximum) of SDMD 
+extracted from studies reports is shown in figure 2. Poland 
+et al proposed a definition of the needle length required 
+for IM injection to be the SDMD plus five millimetres 
+penetration into the deltoid muscle, to ensure adequate 
+delivery of injected material within muscle tissue.9 Where 
+the vertical line indicating the range for any individual 
+study crosses the dashed red line in figure 2 this indicates 
+participants in that group who would have required a 
+needle longer than 25 mm to achieve IM injection.
+BMI and SDMD
+Seven studies reported mean SDMD measured by ultra-
+sound and mean BMI data (figure 3A), 7–9 24–27  and five 
+studies reported mean SDMD measured by callipers and 
+mean BMI data (figure 3B).3 9 26 28 29  Both figures suggest 
+a positive association between mean SDMD and BMI 
+category. Apart from the category of BMI <20, and BMI 
+20–24.9 for calliper measurements only, at least one partic-
+ipant in every other BMI category would have required a 
+needle longer than 25 mm, based on the requirement of 
+deltoid muscle penetration by 5 mm or greater proposed 
+by Poland et al (figure 3A,B). In figure 3B, the mean 
+needle length required for those in the BMI category of 
+≥35 crossed this threshold also.
+Li et al calculated the Pearson correlation coefficient 
+of BMI and skin fold thickness (double the SDMD) to be 
+0.492 (significant at p=0.013), which indicates a moderate 
+positive association between these variables.29  Shankar et 
+al calculated regression equations and found strong posi-
+tive association between SDMD measured by ultrasound 
+and BMI in both arms.8 Sim et al included SDMD measure-
+ments by ultrasound from points on the upper arm that 
+were below the deltoid area, but also reported positive 
+association between SDMD and BMI in calculated regres-
+sion equations.27
+Weight and SDMD
+Mean weight and SDMD data could be extracted from 
+five papers; review of the data points without formal 
+statistical analysis suggests a positive association. Poland 
+et al reported that all 9 women who were >90 kg, and one 
+woman who was in the 60–90 kg weight (N=86) range 
+would have required a needle longer than 25 mm to 
+ensure IM injection.9 All male participants would have 
+had a successful IM injection using a 25 mm needle 
+regardless of weight. Cook et al noted similar findings 
+but found BMI to be a better correlate of SDMD, and for 
+predicting the required needle length for IM injection in 
+females.
+IM injection site
+The included studies variably defined the point (or area) 
+where SDMD measurements had been made (figure 4), 
+reflecting varied definitions of the deltoid IM injec-
+tion site in clinical guidance. Where multiple sites were 
+measured on the same participants, there was evidence of 
+within- participant variation in SDMD.25 26
+Deltoid region of measurement
+Nakajima et al measured SDMD at four sites separated 
+vertically across the deltoid muscle height (figure 4). 
+The chosen points were used for deltoid IM injection in 
+clinical practice at the time of conduct. Differences in 
+SDMD between the farthest apart sites were significant for 
+both male and female participants, for both ultrasound 
+and calliper measurements.26  The differences in mean 
+SDMD by ultrasound were 1.8 mm (42%) greater in male 
+participants and 4.7 mm (92%) greater in female partic-
+ipants, when comparing the thickest to the thinnest sites 
+measured.
+Nakajima et al 25  made measurements of SDMD in a 
+similar participant demographic at two sites separated 
+vertically across the deltoid muscle height using ultra-
+sound (figure 2). The mean SDMD between the thicker 
+and thinner sites measured was 1 mm (20%) greater for 
+male, and 3 mm (38%) greater for female participants.
+Sim et al used ultrasound to measure the subcuta-
+neous tissue thickness at eight locations on the upper 
+limb, two of which appear to be over the deltoid muscle 
+area used for IM injections, and were separated horizon-
+tally.27  The difference in mean SDMD between these two 
+sites of 0.21 mm was not statistically significant when we 
+performed an unpaired t- test on the reported means.
+Limits of agreement between methods of measurement
+Nakajima et al and Poland et al were the only studies to 
+assess SDMD using multiple methods of measurement in 
+the same group of participants, both using callipers and 
+ultrasound.
+Taking ultrasound measures as the true measure, 
+they reported that callipers overestimated mean SDMD 
+by between 0.3 and 1.0 mm in male participants (3.6–
+16.4%), and between 1.0 and 5.65 mm in female partic-
+ipants (15.6%–48.3%).
+Age and SDMD
+Shankar et al reported regression equations by arm domi-
+nance (right for all participants) which both demon-
+strated an inverse relationship between SDMD and age.8 
+Sim et al also found an inverse correlation between skin 
+to muscle thickness and age, although we note that only 
+the uppermost two out of eight upper arm sites included 
+
+[W4317686413 PDF PAGE 4]
+4
+Kearns C, et al. BMJ Open 2023;13:e063530. doi:10.1136/bmjopen-2022-063530
+Open access 
+Table 1 Characteristics of included studies
+Study, year 
+(Reference) Setting Participants, n Population description
+Population 
+characteristics
+Method of SDMD 
+measurement Site(s) measured Funding
+Methodological 
+quality
+Jutte et al 
+2012 28
+USA 389 College students. 196 division 1 athletes 
+(39 women, 157 men) 
+and 193 recreationally 
+active college athletes 
+(85 women, 108 men). 
+No underlying health 
+conditions were 
+reported.
+Mean of 3 skinfold 
+measurements by 
+callipers
+Half the distance 
+between the deltoid 
+tubercle and the 
+acromioclavicular joint
+None described No concerns
+Nakajima et 
+al 2020 25
+Japan 27 Healthy volunteers 
+during anatomy practice 
+for medical students.
+11 female (mean age 
+22.3 years, mean BMI 
+21.7 kg/m 2 ), 13 male 
+(mean age 22.7 years, 
+mean BMI 21.2 kg/m 2 )
+Ultrasound B- mode 
+measurement made 
+three times avoiding 
+compression by the 
+probe which was held 
+at a 90° angle to the 
+plane of examined sites
+3 finger breadths below 
+the mid- acromion, and 
+the intersection of a 
+line dropping from the 
+middle acromion and 
+a line connecting the 
+most superior point 
+of the anterior and 
+posterior axillary line.
+JSPS KAKENHI 
+under Grant 
+Number 
+18H03072
+No concerns
+Nakajima et 
+al 2017 26
+Japan 30 Healthy volunteers. 15 female (mean age 
+21.8, mean BMI 19.3 kg/
+m 2 ), 15 male (mean age 
+21.0 years, mean BMI 
+20.2 kg/m 2 )
+Mean of 3 
+measurements per site 
+by callipers (divided by 
+2) and by ultrasound 
+B- mode
+(1) The intersection 
+between a 
+perpendicular line 
+drawn from the mid- 
+acromion lateral border, 
+and a line connecting 
+the most superior point 
+of the anterior and 
+posterior axillary folds. 
+(2) 1/3 of the distance 
+from the mid- acromion 
+lateral border to 1). 
+(3) 1/2 the distance 
+from the mid- acromion 
+lateral border to 1), 
+and 4) 2/3 the distance 
+from the mid- acromion 
+lateral border to 1).
+JSPS KAKENHI 
+under Grant No 
+25 293 430
+No concerns
+Continued
+
+[W4317686413 PDF PAGE 5]
+5
+Kearns C, et al. BMJ Open 2023;13:e063530. doi:10.1136/bmjopen-2022-063530
+Open access
+Study, year 
+(Reference) Setting Participants, n Population description
+Population 
+characteristics
+Method of SDMD 
+measurement Site(s) measured Funding
+Methodological 
+quality
+Sim et al 
+2014 27
+Korea 156 People with type 2 
+diabetes.
+Mean age 62.2 years; 
+46.2% female, mean 
+BMI 24.09 kg/m 2 , 
+58.4% participants 
+were overweight, 32.7% 
+used insulin for blood 
+sugar control, and 
+40% had experienced 
+complications of 
+diabetes
+Ultrasound Locations of upper arm 
+insulin administration 
+using an injection site 
+chart developed in a 
+previous study. Sites 
+1 and 2 appear to be 
+over the deltoid around 
+the most superior point 
+of the anterior axillary 
+fold.
+Partially 
+supported by 
+the Becton 
+Dickinson and 
+Company, but 
+no potential 
+conflict of 
+interest relevant 
+to this article 
+was reported.
+Site chart 
+unavailable, 
+unable to confirm 
+exact sites 
+measured relative 
+to anatomical 
+landmarks nor 
+distance between 
+sites.
+Cook et al 
+2006 7
+Australia 256 Convenience sample 
+of ambulant patients 
+aged 65 years and older 
+stratified over 5 BMI 
+groups, who had no 
+underlying upper limb 
+injury or neurological or 
+muscular disease of the 
+upper arm.
+122 female (mean 
+age 71.3 years), 134 
+male (mean age 72.1 
+years). BMI <20 kg/m 2  
+(18 participants), BMI 
+20–24.9 (67 participants), 
+BMI 25–29.9 (87 
+participants), BMI 
+30–34.9 47 participants), 
+BMI ≥35 (37 participants)
+Ultrasound linear array 
+hig

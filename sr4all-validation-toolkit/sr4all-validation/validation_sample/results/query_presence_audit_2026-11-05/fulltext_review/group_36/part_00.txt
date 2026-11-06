@@ -1,0 +1,212 @@
+
+
+REVIEW W4320484636
+TITLE: The influence of N95 and FFP2 masks on cardiorespiratory variables in healthy individuals during aerobic exercise: a systematic review and meta-analysis
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4320484636 PDF PAGE 1]
+ISSN 1806-3756
+© 2023 Sociedade Brasileira de Pneumologia e Tisiologia
+RESUMO
+Objetivo: Diante da atual pandemia de COVID-19, o objetivo deste estudo foi determinar, 
+por meio de uma revisão sistemática e meta-análise, se o uso de máscaras N95/PFF2 
+durante o exercício aeróbico tem impacto significativo na FC, FR, SpO2 e pressão arterial 
+(PA) em indivíduos saudáveis. Métodos: Buscamos no banco de dados MEDLINE 
+estudos publicados em inglês entre 2005 e 2021. Para reduzir o viés e aumentar a 
+confiabilidade, foram considerados para inclusão no estudo somente ensaios clínicos 
+controlados randomizados e ensaios clínicos cruzados randomizados. Os desfechos 
+selecionados foram FC, FR, SpO2 e PA; a percepção de esforço foi avaliada por meio da 
+escala de Borg. Resultados: Oito ensaios controlados foram incluídos na meta-análise. 
+Sete avaliaram FC (p > 0,05), cinco avaliaram FR (p > 0,05), cinco avaliaram SpO 2 e 
+PA (p > 0,05 para ambas) e seis avaliaram a percepção de esforço, com resultados 
+controversos (razões de risco agrupadas para cada variável, por exemplo). Conclusões: 
+Este estudo sugere que as máscaras N95 e PFF2 não têm efeitos significativos na FC, 
+FR, SpO2 e PA durante o exercício aeróbico em indivíduos saudáveis. 
+Descritores: Respiradores N95; Frequência cardíaca; Taxa respiratória; Saturação de 
+oxigênio; Sangue. 
+A influência das máscaras N95 e PFF2 
+sobre variáveis cardiorrespiratórias em 
+indivíduos saudáveis durante o exercício 
+aeróbico: revisão sistemática e meta-análise
+Gustavo Lucas da Silva Lima1,2a, Thiago Casali Rocha1,2a,  
+Gilmar Pereira de Lima da Silva Júnior3a, Marcelo Tarcísio Martins1,2a
+Endereço para correspondência: 
+Gustavo Lucas da Silva Lima. Alameda Salvaterra, 200, Salvaterra, CEP 36033-003, Juiz de Fora, MG, Brasil. 
+Tel.: 55 32 2101-5000. E-mail: gustavo.lucasglsl@gmail.com 
+Apoio financeiro: Nenhum. 
+INTRODUÇÃO
+As máscaras de proteção são equipamentos de proteção 
+individual essenciais para os profissionais de saúde, 
+especialmente para aqueles que lidam diretamente 
+com infecções das vias aéreas, como no caso da atual 
+pandemia de COVID-19.(1-3) Em um estudo realizado em 
+Cingapura em 2020, no qual 30 profissionais de saúde 
+usaram máscaras N95 no atendimento a pacientes 
+com resultado positivo para infecção por SARS-CoV-2, 
+não houve transmissão da doença de paciente para 
+profissional.(4) 
+Em um estudo realizado na Coreia do Sul em 2015, 
+no qual foram investigados 97 pacientes com DPOC que 
+usaram máscaras N95, houve alterações consideráveis na 
+FR, SpO2 e concentração de dióxido de carbono ao final da 
+expiração antes e depois do uso da máscara.(5) Em outro 
+estudo realizado em 2020, jovens sem comorbidades 
+e não fumantes realizaram exercícios físicos aeróbicos 
+usando máscaras N95 durante 75-150 min por semana 
+em média e não apresentaram alterações consideráveis 
+nas concentrações de gases.(6) Kim et al. avaliaram 20 
+jovens saudáveis que realizaram atividades físicas de 
+intensidade baixa a moderada durante 1 h usando quatro 
+modelos diferentes de máscaras N95 e não observaram 
+alterações significativas nas trocas gasosas.(7) 
+Segundo Chandrasekaran et al.,(8) o uso prolongado 
+de máscaras N95 poderia resultar em alterações no 
+metabolismo muscular, estresse cardiorrespiratório, 
+alterações nos sistemas excretor e imunológico, e 
+alterações no cérebro e no sistema nervoso central. Isso 
+ocorre porque as máscaras N95 criam um circuito fechado 
+de reinalação, que resulta em hipóxia hipercápnica.(8-11) 
+Em um estudo realizado por Fikenzer et al.,(12) 12 homens 
+saudáveis realizaram ergoespirometria e cardiografia 
+de impedância antes e depois do uso de máscaras N95, 
+que resultaram em redução significativa de parâmetros 
+de função pulmonar e do pico de resposta do lactato 
+sanguíneo. No entanto, faltam estudos nos quais se 
+analise a correlação entre o uso de máscaras N95/
+PFF2 e possíveis alterações na SpO2, FR, FC, resistência 
+respiratória e pressão arterial (PA) no contexto da atual 
+pandemia de COVID-19.(13-16) 
+O objetivo deste estudo foi determinar, por meio de 
+uma revisão sistemática e meta-análise, os efeitos das 
+máscaras N95/PFF2 na PA, FC, FR, SpO2 e percepção de 
+esforço durante a atividade física aeróbica em indivíduos 
+saudáveis. 
+MÉTODOS
+Estratégia de busca
+Realizamos uma revisão sistemática em conformidade 
+com as diretrizes Preferred Reporting Items for Systematic 
+Reviews and Meta-Analyses. O protocolo do estudo foi 
+1. Faculdade de Ciências Médicas e da 
+Saúde de Juiz de Fora – SUPREMA – 
+Juiz de Fora (MG) Brasil. 
+2. Hospital Maternidade Therezinha de 
+Jesus, Juiz de Fora (MG) Brasil. 
+3. Universidade Paulista – UNIP –  
+Volta Redonda (RJ) Brasil. 
+Recebido: 26 abril 2022. 
+Aprovado: 12 janeiro 2023. 
+Trabalho realizado na Faculdade de 
+Ciências Médicas e da Saúde de Juiz de 
+Fora – SUPREMA – Juiz de Fora (MG) e 
+na Universidade Paulista – UNIP –  
+Volta Redonda (RJ) Brasil. 
+https://dx.doi.org/10.36416/1806-3756/e20220143
+1/11
+J Bras Pneumol. 2023;49(3):e20220143
+REVISÃO SISTEMÁTICA E  
+META-ANÁLISE
+
+[W4320484636 PDF PAGE 2]
+A influência das máscaras N95 e PFF2 sobre variáveis cardiorrespiratórias em indivíduos  
+saudáveis durante o exercício aeróbico: revisão sistemática e meta-análise
+registrado no International Prospective Register of 
+Systematic Reviews (Registro n. CRD42021282318). 
+Pesquisamos o banco de dados MEDLINE em busca 
+de artigos originalmente publicados em inglês nos 
+últimos 15 anos. Foram selecionados para a revisão 
+apenas ensaios clínicos controlados randomizados ou 
+ensaios clínicos cruzados randomizados; portanto, a 
+amostra de estudos tendeu a ser homogênea e evitou 
+vieses comumente observados em estudos transversais 
+e observacionais. Dois avaliadores independentes 
+realizaram buscas no banco de dados MEDLINE e, em 
+caso de divergência entre os dois, um terceiro avaliador 
+foi consultado. As divergências foram resolvidas por 
+consenso. 
+Os termos “N95”, “FFRs”, “ FFP2 ”, “ Effects”, 
+“Physiological”, “Gas” e “Blood” foram usados para 
+identificar estudos relevantes. A lista de descritores 
+MeSH foi usada para identificar variações dos termos 
+supracitados. 
+Critérios de inclusão e exclusão
+Os critérios de inclusão e exclusão estão descritos 
+no Quadro 1. 
+Extração dos dados
+Nosso grupo de pesquisa selecionou previamente 
+as informações para a coleta de dados, pesquisando 
+separadamente nos estudos incluídos o título, nome do 
+autor principal, ano em que o estudo foi realizado, ano 
+em que o estudo foi publicado, país de origem, número 
+de participantes, média/mediana e desvio padrão 
+de cada variável com e sem máscaras, intervenções 
+aeróbicas usadas e desfechos (isto é, FC, FR, SpO2 e 
+PA como desfechos primários e resistência respiratória 
+e percepção de esforço, avaliada por meio da escala de 
+Borg, como desfechos secundários). Todos os autores 
+coletaram os dados de modo independente. Para avaliar 
+os artigos, dois avaliadores que não faziam parte de 
+nosso grupo de pesquisa estabeleceram estratégias 
+de busca e realizaram análises críticas. Após a leitura 
+dos artigos na íntegra, foram excluídos da revisão os 
+estudos com vieses metodológicos, sem correlação 
+direta com o tópico de interesse ou sem dados brutos. 
+Análise estatística
+Para a meta-análise e o cálculo do risco de viés, 
+usamos os seguintes programas: Review Manager, 
+versão 5.4 (RevMan 5 ; Cochrane Collaboration , 
+Oxford, Reino Unido); Microsoft Excel; MedCalc 
+(MedCalc Software Ltd, Oostende, Bélgica). Foram 
+realizadas análises estatísticas fixas e aleatórias; os 
+estudos foram considerados homogêneos. O IC95% 
+foi calculado para cada estudo individualmente e, 
+em seguida, para todos os estudos selecionados. 
+A média e o desvio padrão de cada estudo foram 
+identificados, e o nível de significância adotado foi de 
+p ≤ 0,05. O coeficiente I 2 foi calculado para avaliar 
+a heterogeneidade dos estudos incluídos. Quando I2 
+foi maior que 50%, optamos por usar um modelo de 
+efeitos aleatórios para parear os resultados; quando 
+I2 foi menor que 50%, criamos um modelo de efeitos 
+fixos. O risco de viés de publicação foi avaliado por 
+meio da observação de assimetria no gráfico de funil. 
+RESULTADOS
+Seleção dos estudos
+Identificamos 879 estudos envolvendo o uso de 
+máscaras faciais; entretanto, após a aplicação dos 
+critérios de inclusão e exclusão (Quadro 1), restaram 
+apenas 20 estudos. Outros 10 estudos foram excluídos 
+depois de lidos na íntegra, em virtude da presença 
+de vieses metodológicos, da ausência de correlação 
+direta com o tópico de interesse ou da ausência de 
+dados brutos. Dos 10 estudos restantes, apenas 8 
+apresentavam os dados brutos antes e depois da 
+intervenção para a análise estatística e, portanto, 
+puderam ser incluídos na meta-análise. Os estudos 
+analisados envolveram 306 voluntários na faixa 
+etária de 7 a 64 anos, 68,95% dos quais eram do 
+sexo masculino. A Figura 1 mostra o fluxograma do 
+processo de seleção de estudos. 
+Intervenções e achados
+Dos 10 estudos incluídos na revisão sistemática, 8 
+avaliaram a PA, 9 avaliaram a FC, 5 avaliaram a FR 
+e 5 avaliaram a SpO2. A maioria dos ensaios clínicos 
+Quadro 1. Critérios de inclusão e exclusão. 
+Critérios de inclusão
+Desenho: ensaios clínicos controlados randomizados ou ensaios clínicos cruzados randomizados
+Idioma: inglês
+Com humanos apenas
+Intervenção: uso de máscaras N95/PFF2
+Critérios de exclusão
+Intervenção: pouco clara, mal descrita ou inadequada
+Forma de publicação: resumo apenas
+Principais variáveis analisadas
+FC
+FR
+Pressão arterial
+Saturação de oxigênio (SpO2)
+Percepção de esforço (avaliada por meio da escala de Borg)
+J Bras Pneumol. 2023;49(3):e202201432/11
+
+[W4320484636 PDF PAGE 3]
+Lima GLS, Rocha TC, Silva GPL Jr, Martin

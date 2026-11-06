@@ -1,0 +1,182 @@
+exposure to penicillin in allergic pregnant women with 
+syphilis: efficacy and safety. World Allergy Organ J . (2021) 14:100549. doi: 10.1016/j.
+waojou.2021.100549
+ 39. Newman L, Kamb M, Hawkes S, Gomez G, Say L, Seuc A, et al. Global estimates of 
+syphilis in pregnancy and associated adverse outcomes: analysis of multinational antenatal 
+surveillance data. PLoS Med. (2013) 10:e1001396. doi: 10.1371/journal.pmed.1001396
+ 40. Adamson PC, Loeffelholz MJ, Klausner JD. Point-of-care testing for sexually 
+transmitted infections: a review of recent developments. Arch Pathol Lab Med. (2020) 
+144:1344–51. doi: 10.5858/arpa.2020-0118-RA
+ 41. Toskin I, Murtagh M, Peeling RW , Blondeel K, Cordero J, Kiarie J. Advancing 
+prevention of sexually transmitted infections through point-of-care testing: target 
+product profiles and landscape analysis. Sex Transm Infect. (2017) 93:S69–80. doi: 
+10.1136/sextrans-2016-053071
+ 42. Workowski KA, Bolan GA. Bolan,Centers for Disease Control and Prevention. 
+Sexually transmitted diseases treatment guidelines, 2015. MMWR Recomm Rep. (2015) 
+64:1–137.
+ 43. Workowski KA, Bachmann LH, Chan PA, Johnston CM, Muzny CA, Park I, et al. 
+Sexually transmitted infections treatment guidelines, 2021. MMWR Recomm Rep. (2021) 
+70:1–187. doi: 10.15585/mmwr.rr7004a1
+ 44. Tsai S, Sun MY , Kuller JA, Rhee EHJ, Dotters-Katz S. Syphilis in pregnancy. Obstet 
+Gynecol Surv. (2019) 74:557–64. doi: 10.1097/OGX.0000000000000713
+ 45. Tucker JD, Y ang LG, Zhu ZJ, Y ang B, Yin YP , Cohen MS, et al. Integrated syphilis/
+HIV screening in China: a qualitative analysis. BMC Health Serv Res. (2010) 10:58. doi: 
+10.1186/1472-6963-10-58
+
+[W4393042487 PDF PAGE 14]
+Zhang et al. 10.3389/fpubh.2024.1268653
+Frontiers in Public Health 14 frontiersin.org
+ 46. Tucker JD, Y ang LG, Y ang B, Zheng HP , Chang H, Wang C, et al. A twin response 
+to twin epidemics: integrated HIV/syphilis testing at STI clinics in South China. J Acquir 
+Immune Defic Syndr. (2011) 57:e106–11. doi: 10.1097/QAI.0b013e31821d3694
+ 47. Phiri S, Zadrozny S, Weiss HA, Martinson F , Nyirenda N, Chen CY , et al. Etiology 
+of genital ulcer disease and association with HIV infection in Malawi. Sex Transm Dis. 
+(2013) 40:923–8. doi: 10.1097/OLQ.0000000000000051
+ 48. The Cochrane CollaborationMutua FM, M'Imunya MJ, Wiysonge CS. Genital 
+ulcer disease treatment for reducing sexual transmission of HIV . Cochrane Database Syst 
+Rev. (2012) 15:CD007933. doi: 10.1002/14651858.CD007933
+ 49. Zetola NM, Klausner JD. Syphilis and HIV infection: an update. Clin Infect Dis. 
+(2007) 44:1222–8. doi: 10.1086/513427
+ 50. Sheffield JS, Sánchez PJ, Wendel GDJ, Fong DW , Margraf LR, Zeray F , et al. 
+Placental histopathology of congenital syphilis. Obstet Gynecol. (2002) 100:126–33. doi: 
+10.1016/s0029-7844(02)02010-0
+ 51. Mwapasa V , Rogerson SJ, Kwiek JJ, Wilson PE, Milner D, Molyneux ME, et al. Maternal 
+syphilis infection is associated with increased risk of mother-to-child transmission of HIV 
+in Malawi. AIDS. (2006) 20:1869–77. doi: 10.1097/01.aids.0000244206.41500.27
+ 52. Hall HI, Holtgrave DR, Maulsby C. HIV transmission rates from persons living 
+with HIV who are aware and unaware of their infection. AIDS. (2012) 26:893–6. doi: 
+10.1097/QAD.0b013e328351f73f
+ 53. Marks G, Crepaz N, Janssen RS. Estimating sexual transmission of HIV from 
+persons aware and unaware that they are infected with the virus in the USA. AIDS. 
+(2006) 20:1447–50. doi: 10.1097/01.aids.0000233579.79714.8d
+
+END REVIEW W4393042487
+
+
+REVIEW W4396599116
+TITLE: The effectiveness of personalised surveillance and aftercare in breast cancer follow-up: a systematic review
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4396599116 PDF PAGE 1]
+Vol.:(0123456789)
+Supportive Care in Cancer (2024) 32:323 
+https://doi.org/10.1007/s00520-024-08530-2
+REVIEW
+The effectiveness of personalised surveillance and aftercare in breast 
+cancer follow‑up: a systematic review
+Marissa C. van Maaren1,2 · Jolanda C. van Hoeve1,2 · Joke C. Korevaar3,4 · Marjan van Hezewijk5 · 
+Ester J. M. Siemerink6 · Anneke M. Zeillemaker7 · Anneleen Klaassen‑Dekker1,2 · Dominique J. P . van Uden8 · 
+José H. Volders9 · Constance H. C. Drossaert10 · Sabine Siesling1,2 · on behalf of the NABOR project group
+Received: 17 November 2023 / Accepted: 27 April 2024 / Published online: 2 May 2024 
+© The Author(s) 2024
+Abstract
+Purpose Breast cancer follow-up (surveillance and aftercare) varies from one-size-fits-all to more personalised approaches. 
+A systematic review was performed to get insight in existing evidence on (cost-)effectiveness of personalised follow-up.
+Methods PubMed, Scopus and Cochrane were searched between 01–01-2010 and 10–10-2022 (review registered in 
+PROSPERO:CRD42022375770). The inclusion population comprised nonmetastatic breast cancer patients ≥ 18 years, after 
+completing curative treatment. All intervention-control studies studying personalised surveillance and/or aftercare designed 
+for use during the entire follow-up period were included. All review processes including risk of bias assessment were per -
+formed by two reviewers. Characteristics of included studies were described.
+Results Overall, 3708 publications were identified, 64 full-text publications were read and 16 were included for data extrac-
+tion. One study evaluated personalised surveillance. Various personalised aftercare interventions and outcomes were studied. 
+Most common elements included in personalised aftercare plans were treatment summaries (75%), follow-up guidelines 
+(56%), lists of available supportive care resources (38%) and PROs (25%). Control conditions mostly comprised usual care. 
+Four out of seven (57%) studies reported improvements in quality of life following personalisation. Six studies (38%) found 
+no personalisation effect, for multiple outcomes assessed (e.g. distress, satisfaction). One (6.3%) study was judged as low, 
+four (25%) as high risk of bias and 11 (68.8%) as with concerns.
+Conclusion The included studies varied in interventions, measurement instruments and outcomes, making it impossible to 
+draw conclusions on the effectiveness of personalised follow-up. There is a need for a definition of both personalised surveil-
+lance and aftercare, whereafter outcomes can be measured according to uniform standards.
+Keywords Personalised follow-up · Breast cancer · Surveillance · Aftercare
+ * Marissa C. van Maaren 
+ m.c.vanmaaren@utwente.nl
+1 Department of Health Technology and Services Research, 
+Technical Medical Centre, University of Twente, P.O. 
+Box 217, 7500 AE Enschede, the Netherlands
+2 Department of Research and Development, Netherlands 
+Comprehensive Cancer Organisation (IKNL), Utrecht, 
+the Netherlands
+3 Netherlands Institute for Health Services Research (NIVEL), 
+Utrecht, the Netherlands
+4 The Hague University of Applied Sciences, The Hague, 
+the Netherlands
+5 Institution for Radiation Oncology, Arnhem, the Netherlands
+6 Department of Internal Medicine, ZGT, Hengelo, 
+the Netherlands
+7 Department of Surgery, Alrijne Hospital, Leiden, 
+the Netherlands
+8 Department of Surgery, Canisius Wilhelmina Hospital, 
+Nijmegen, the Netherlands
+9 Department of Surgery, Diakonessenhuis, Utrecht, 
+the Netherlands
+10 Department of Psychology, Health & Technology, University 
+of Twente, Enschede, the Netherlands
+
+[W4396599116 PDF PAGE 2]
+ Supportive Care in Cancer (2024) 32:323
+323 Page 2 of 20
+Abbreviations
+ASC  Assessment of Survivor Concerns 
+questionnaire
+BMI  Body mass index
+CaSUN-C  Cancer Survivor Unmet Needs-Chi-
+nese Scale
+EORTC QLQ-C30  European Organisation for the 
+Research and Treatment of Cancer 
+Quality of Life questionnaire-30 
+questions
+FACT-B  Functional Assessment of Cancer 
+Therapy-Breast
+FACT-G  Functional Assessment of Cancer 
+Therapy-General
+ICHOM  International Consortium for Health 
+Outcomes Measurement
+LRR  Locoregional recurrence
+PAP  Papanicolaou test
+PHQ-9  Patient Health Questionnaire-9 
+questions
+PRISMA  Preferred Reporting Items for Sys-
+tematic Reviews and Meta-Analyses
+PROMS  Patient-reported outcome measures
+QoL  Quality of life
+RCT   Randomised controlled trial
+ROB  Risk of bias
+RoB2  Risk of bias tool for randomised 
+studies
+ROBINS-I  Risk of bias tool for nonrandomised 
+studies
+SPBC  Second primary breast cancer
+SF-36  Short Form Health Survey-36 
+questions
+WHOQOL-BREF  World Health Organisation Quality 
+Of Life-Brief Version
+Introduction
+While breast cancer incidence has grown over time—up to 
+2.3 million diagnoses in 2020 worldwide [1 ]—mortality 
+rates have declined [2 , 3]. Consequently, this results in a 
+large number of breast cancer survivors in follow-up care, 
+consisting of two parts: surveillance and aftercare. Sur -
+veillance aims to detect asymptomatic locoregional recur -
+rences (LRR) or second primary breast cancers (SPBC) 
+using mammograms and physical examination. The ulti-
+mate aim is to curatively treat patients. The ultimate aim 
+is to curatively treat patients. As distant recurrences are 
+in most cases not curable, and the early detection of dis-
+tant recurrences does not improve prognosis, surveillance 
+does not actively aim to detect these. Aftercare aims to 
+detect diagnosis- or treatment-related side effects and sub-
+sequently use interventions to reduce these and improve 
+quality of life (QoL).
+Although in some countries guidelines advise to person-
+alise follow-up [4, 5], current guidelines in, for example, the 
+Netherlands and Belgium still advise similar surveillance 
+schedules for all patients [6 , 7]. This is probably due to a 
+lack of clinical evidence that adapting surveillance schedules 
+according to risk profiles is effective. However, it is widely 
+known that differences in individual characteristics largely 
+influence LRR and SPBC risks [8]. Furthermore, about 50% 
+of LRRs and 25% of SPBCs are detected by patients them-
+selves due to symptoms, outside of scheduled surveillance 
+visits [9 ]. Moreover, patients’ beliefs and expectations of 
+surveillance are often not realistic, including

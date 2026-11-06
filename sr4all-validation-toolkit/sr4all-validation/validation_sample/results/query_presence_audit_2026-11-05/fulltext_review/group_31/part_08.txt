@@ -1,0 +1,290 @@
+r patients and a range of variables; 
+
+
+[W4289544487 PDF PAGE 5]
+Journal of Health Science and Medical Research                                                   J Health Sci Med Res 2023;41(1):e2022887
+5
+Nguyen HTY.Post-discharge Unmet Needs of Breast Cancer
+including, demography; physical group, disease/treatment-
+related, and psychosocial issues. Each significant, statistical 
+correlation between variables and unmet supportive care 
+needs was extracted and shown in a table; with each 
+correlation responsible for one “point”.
+Results
+ Characteristics of included studies 
+ Fourteen cross-sectional studies (82.3%), one 
+longitudinal study (5.9%), one retrospective (5.9%) and one 
+prospective (5.9%) study were admitted into the review (see 
+Table 2). However, 11 Asian, 4 European (among these, 
+one study included cooperation conducted between Asian 
+and European countries)19, one British, and one North 
+American study conducted in post-discharge breast cancer 
+patients. In regard to the study sample characteristics, the 
+mean age ranged from 43.0 to 59.1 years, S.D.=12.1. The 
+percentage of breast cancer participants who were already 
+married ranged from 63.3% to 92.3%. Between 22.6% and 
+48.4% of participants were employed, with the lowest rate 
+being in Uchida’s study20, and the highest rate in the articles 
+of Wang and Cheng.21,22 Regarding the highest education 
+level that women with breast cancer overall achieved, the 
+range fluctuated from 14.2% to 92.2%. Additionally, almost 
+70% of breast cancer participants were in stage I and II 
+of their diagnosis period; over 90% received surgery and 
+100% were administered more than two treatment method 
+before discharge (e.g., surgery and radiology, surgery, and 
+chemotherapy, etc.).
+Table 2 Characteristics of included studies
+No.
+Reference and 
+published year; 
+study types
+Location Participant characteristics
+Unmet supportive 
+care needs 
+assessment
+No. 
+of 
+cites
+1 Cheng et al.9 (2014)
+Cross-sectional
+Singapore 150 breast cancer survivors, aged ≥21, 
+6 months – 5 years post-discharge
+SCNS-SF34 a 60
+2 So et al.24 (2014) 
+Cross-sectional
+China 163 breast cancer women, aged ≥18, 
+finished treatment within a year
+SCNS-SF34 a 44
+3 Akechi et al.27 (2011) 
+Cross-sectional
+Japan 408 participants aged >20 SCNS-SF34 a 38
+4 Pauwels et al.7 (2013) 
+Cross-sectional
+Belgium 465 participants (account 68.2%); aged 
+18-65; non-metastatic breast cancer; 
+3 weeks – 6 months post-discharge
+The care need 
+questionnaire 
+33
+5 Lam et al.19 (2011) 
+Cross-sectional
+Hong Kong 
+and Germany
+384 Chinese women and 292 German 
+women; aged ≥18; having follow-up 
+appointment in outpatient clinic
+SCNS-SF34 a 33
+6 Uchida et al.20 (2011) 
+Cross-sectional
+Japan 87 participants; aged ≥20 SCNS-SF34 a 26
+7 Cheng et al.25 (2016) 
+Cross-sectional
+Singapore 250 patients aged 21 or above and had 
+completed primary cancer treatment from 
+6 months to 5 years previously
+SCNS-SF34 a 25
+8 Park & Hwang 23 (2012)
+Cross-sectional
+South Korea 1080 participants with stages I-III; age 
+range 20-80; no metastasis 
+evidence; no recurrence
+SCNS-LF59 b 21
+9 Edib et al.28 (2016) 
+Cross-sectional
+Malaysia 117 breast cancer patients in all ages 
+and stages; ≥1 year after treatment
+SCNS-SF34 a 19
+
+[W4289544487 PDF PAGE 6]
+Nguyen HTY.Post-discharge Unmet Needs of Breast Cancer
+Journal of Health Science and Medical Research                                                    J Health Sci Med Res 2023;41(1):e2022887
+6
+No.
+Reference and 
+published year; 
+study types
+Location Participant characteristics
+Unmet supportive 
+care needs 
+assessment
+No. 
+of 
+cites
+10 Hubbard et al. 5 (2015)
+(Cross-sectional + 
+Interview)
+UK 44 participants; post-discharge breast 
+cancer and living in rural area
+SCNS-SF34 a 11
+11 Fong & Cheah 29  (2016) 
+Cross-sectional
+Malaysia 101 females aged ≥18; post-treatment 
+breast cancer with any stages
+SCNS-SF34 a 7
+12 Lo-Fo-Wong et al. 17 
+(2020) 
+Prospective design
+Netherlands 746 breast cancer patients; ≥15 months 
+after diagnosis
+SCNS-SF34 a 6
+13 Burris et al.16 (2015) 
+Longitudinal study
+USA 90 participants with I-III stages; 3-10 
+weeks post-discharge
+CaSUN c 6
+14 Martínez Arroyo et al. 26  
+(2019)
+Cross-sectional
+Spain 450 breast cancer patients completed 
+primary treatment at least 1 month
+CaSUN c 4
+15 Wang et al. 21 (2018)
+Cross-sectional
+China 264 breast cancer patients aged 18 
+or more
+SCNS-SF34 a 
+(Chinese version)
+4
+16 Cheng et al. 22 (2018)
+Cross-sectional
+Singapore 113 and 137 cancer survivors post-
+discharge after 2 periods, including: 
+6 months to 2 years, and 2 years to 5 
+years, respectively
+SCNS-SF34 a 5
+17 Shih et al.10 (2020) 
+Cross-sectional
+China 350 participants living over 2 years, aged 
+>20; and be currently disease-free without 
+any recurrence or metastasis
+CaSUN c
+(Chinese version)
+1
+aSCNS-SF34=Supportive Care Needs Survey Short Form 34, bSCNS-LF59=Supportive Care Needs Survey – Long Form 59,
+cCaSUN=Cancer Survivors’ Unmet Needs
+Table 2 (continued)
+ According to the data collecting procedure, seven 
+studies gathered patient information via mail, telephone, 
+or home in-depth interviews, while ten articles gathered 
+data through in-person contacting with cancer patients 
+in outpatient clinics, for which they regularly visited for 
+check-ups. The most common study-specific measure/
+questionnaire to assess unmet supportive care needs was 
+the SCNS-SF34 (with twelve studies), and the second was 
+the CaSUN (three studies). Some other studies collected 
+data by using specific measures; such as, the Care Need, 
+or SCNS-SF59 tools. 7,23
+ Unmet supportive care needs of post-discharge 
+breast cancer patients
+ Approximately 32.4% to 84.0% of breast cancer 
+participants reported that they experienced at least one 
+unmet supportive care need after leaving the hospital. The 
+study that kept the highest proportion was conducted by 
+So et al.24 , and the lowest percentage was by Cheng et al. 25 , 
+respectively.
+ By analyzing the overall studies, so as to identify 
+each domain of post-discharge unmet supportive care 
+needs of women with breast cancer; the psychological 
+
+[W4289544487 PDF PAGE 7]
+Journal of Health Science and Medical Research                                                   J Health Sci Med Res 2023;41(1):e2022887
+7
+Nguyen HTY.Post-discharge Unmet Needs of Breast Cancer
+domain accounted for the highest percentage; with the rate 
+ranging from 4.0 to 78.8%. Standing in the next positions 
+included: health system and information (4.0-69.6%); patient 
+and supportive care (4.0-56.5%); physical and daily living 
+(9.7-55.6%); and sexuality domain (2.0-33.4%). This result 
+shows that the percentage of unmet supportive care needs 
+was quite high for most contents.
+ Extracted data showed a total item of unmet needs 
+reported by at least 32.4% of participants using all unmet 
+need measures from included studies. Each item was 
+ranked based on the number of studies that addressed it 
+(denoted by n) and then by the prevalence rate of breast 
+cancer patients who experienced these unmet needs. Based 
+on this rubric, the most frequently unmet supportive care 
+needs identified by post-discharge breast cancer patients 
+were defined; with the most frequent being within the 
+psychological domain (Table 3).
+ Breast cancer patients expressed fear as to their 
+cancer spreading or coming back; which was denoted in 
+12 articles (n=12) and accounted for 10.0-78.8%
+ The nine remaining unmet supported care needs 
+in the list belonged to the health system and information 
+domain. Up to 10.0% of participants required access to 
+medical staff for discussions of all aspects of their condition, 
+treatment, and follow-up (n=11); and for professional 
+counseling, if they/family/friends required it (n=11). Breast 
+cancer patients reported unmet supportive care needs for 
+information related to disease and treatment time concerning 
+the management of  their illness and side effects occurring 
+at home (n=10; 14.7-63.6%); about benefits and side effects 
+Table 3 Top ten unmet supportive care needs of post-discharge breast cancer patients
+Unmet need Domain No. of 
+endorsements
+Prevalence 
+range References
+Fears about the cancer spreading or 
+coming back
+Psychological 12 10.0-78.8% [5],[9],[10],[16],[17],[19],[20],
+[22],[23],[24],[25],[27]
+Having one member of hospital staff with 
+whom you can talk to about all aspects of 
+your condition, treatment, and follow-up
+Health system and 
+Information
+11 10.4-74.3% [5],[9],[19],[20],[23],[24],[25],
+[26],[27],[28],[29]
+Being informed about things you can do 
+to help yourself get well
+Health system and 
+Information
+11 10.8-66.9% [9],[10],[16],[17],[19],[20],
+[23],[24],[25],[26],[27]
+Having access to professional counseling 
+if you/family/friends need it
+Health system and 
+Information
+11 11.6-57.6% [5],[9],[10],[19],[20],[23],[24],
+[25],[26],[27],[29]
+Being given information about managing 
+your illness and side effects at home
+Health system and 
+Information
+10 14.7-63.6% [9],[10],[16],[19],[20],[23],
+[24],[26],[28],[29]
+Being adequately informed about benefits 
+and side effects of treatments before you 
+choose to have them
+Health system and 
+Information
+9 23.3-47.9% [5],[10],[19],[20],[23],[24],
+[26],[28],[29]
+Being informed about cancer which is 
+under control or diminishing
+Health system and 
+Information
+8 20.8-62.0% [5],[19],[20],[23],[24],[26],
+[27],[29]
+Being given written information about 
+important aspects of your care
+Health system and 
+Information
+8 11.3-54.7% [5],[9],[19],[20],[23],[24],
+[26],[28]
+Being informed about your test results as 
+soon as feasible
+Health system and 
+Information
+7 12.0-63.2% [16],[19],[23],[24],[26],[28],
+[29]
+Being given explanations of those tests 
+for which you would like explanation
+Health system and 
+Information
+5 29.7-49.5% [19],[24],[26],[28],[29]
+
+[W4289544487 PDF PAGE 8]
+Nguyen HTY.Post-discharge Unmet Needs of Breast Cancer
+Journal of Health Science and Medical Research                                                    J Health Sci Med

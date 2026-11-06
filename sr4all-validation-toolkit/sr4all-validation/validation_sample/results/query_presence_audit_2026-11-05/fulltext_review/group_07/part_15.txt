@@ -1,0 +1,191 @@
+na
+*Correspondence:
+Ai-Ping Lu
+aipinglu@hkbu.edu.hk
+Specialty section:
+This article was submitted to
+Ethnopharmacology,
+a section of the journal
+Frontiers in Pharmacology
+Received: 01 April 2017
+Accepted: 10 July 2017
+Published: 25 August 2017
+Citation:
+Zhang C, He X-J, Li L, Lu C and
+Lu A-P (2017) Effect of the Natural
+Product Triptolide on Pancreatic
+Cancer: A Systematic Review of
+Preclinical Studies.
+Front. Pharmacol. 8:490.
+doi: 10.3389/fphar.2017.00490
+Effect of the Natural Product
+Triptolide on Pancreatic Cancer: A
+Systematic Review of Preclinical
+Studies
+Chi Zhang1, Xiao-Juan He1, 2, Li Li1, Cheng Lu1, 2 and Ai-Ping Lu2*
+1 Institute of Basic Research in Clinical Medicine, China Acad emy of Chinese Medical Sciences, Nanxiaojie, Beijing, Chin a,
+2 School of Chinese Medicine, Hong Kong Baptist University, K owloon Tong, Hong Kong
+Objective: Triptolide (TL), a natural product isolated from Tripteryg ium wilfordii Hook
+F (TwHF), shows potent anticancer effects in vitro and in vivo . We aimed to summary
+the biochemical mechanisms through which TL has been shown t o induce apoptosis,
+autophagy and inhibit angiogenesis in pancreatic cancer (P C).
+Methods: We undertook a systematic review of preclinical evidence. W e searched
+electronic databases. The potential mechanisms and the und erlying signaling pathways
+have been accumulated as well.
+Results:We screened 116 abstracts for eligibility and included 17 pr eclinical studies in
+the analysis. Details of the animals and cell lines were prov ided in 16 studies (94.1%).
+Six studies (75.0%) randomly assigned animals to treatment or control groups and only 1
+study (12.5%) reported on blinding. The majority of the TL’s research ﬁeld has focused on
+its pro-apoptotic effects through downregulation of inhib itory pathways and upregulation
+of apoptotic pathways. The studies have shown that TL is effe ctive both in vitro and
+in vivo against PC cells.
+Conclusion: This study provides a systematic summary of TL’s anti-pancr eatic cancer
+proﬁle and the underlying mechanisms of with special emphas is on the apoptosis,
+autophagy, angiogenesis and related molecular pathways. I mproved study quality
+in terms of treatment allocation methods reporting, random ization and blinding will
+accelerate needed progress toward trials.
+Keywords: triptolide, pancreatic cancer, biochemical mechanisms, systematic review
+INTRODUCTION
+Pancreatic cancer (PC) is a highly lethal malignancy with few eﬀective treatments (
+Manuel,
+2010). Only 10–20% of patients receive a diagnosis at a stage that i s amenable to
+surgical resection and possible cure ( Michalski et al., 2007 ). Gemcitabine, which works
+as a nucleoside analog for deoxycytidine triphosphate, is used a s a ﬁrst line treatment
+for PC ( Di et al., 2010 ). However, like any chemotherapy, chemoresistance is the maj or
+impediment for treating PC ( Rivera et al., 2009 ). Undoubtedly, novel treatment strategies
+are clearly needed. Many potential treatments are being teste d in the preclinical stage. One
+in particular, a natural product called triptolide (TL), has sh own promise as an anticancer
+
+[W2748573035 PDF PAGE 2]
+Zhang et al. Triptolide for Pancreatic Cancer
+drug for many diﬀerent types of cancer, including PC ( Wang
+et al., 2016 ). TL is an extract from the plant Tripterygium
+wilfordii Hook F (TwHF), also known as the thunder god vine
+or lei gong teng in Chinese (
+Kupchan et al., 1972 ). TwHF grows
+widely in the mountainous regions of southeast and southern
+China and has been used as a novel immunosuppressive and anti-
+inﬂammatory agent, particularly for treating rheumatoid arthritis
+(RA) (
+Lv et al., 2015 ). The biological activities of TwHF have been
+broadly investigated, as evidenced by the more than 54,152 a nd
+1,116 publications (related to this herb) that are available in the
+China National Knowledge Infrastructure (CNKI) Databases and
+PubMed, respectively.
+TL is a diterpenoid triepoxide that was isolated from the
+roots of TwHF in 1972 ( Figure 1; Kupchan et al., 1972; Wang
+et al., 2016 ). Although TL has not undergone extensive clinical
+testing, it shows broad spectrum anticancer eﬀects, includin g
+proliferation inhibition, apoptosis induction and metastasi s
+inhibition. TL plays its anticancer roles through inhibited and
+activated biochemical mechanisms ( Manzo et al., 2012 ). There
+is a need to brieﬂy summarize these mechanisms, particularly to
+focus on the pathways.
+This systematic review aims to generate preclinical data on
+the eﬀect of TL on PC, summarize the biochemical mechanisms
+through which TL has been shown to induce apoptosis and
+autophagy and inhibit angiogenesis in PC, evaluate the quality
+of prior studies (in term of treatment allocation methods,
+reporting, randomization and blinding), and investigate how
+recent advancements in TL could bring it to the forefront of
+chemotherapy for PC.
+METHODS
+Information Sources and Search Strategy
+The systematic review was in line with recommendations from
+the Preferred Reporting Items for Systematic Reviews and Meta-
+Analyses (PRISMA) statement. Pubmed, Embase, China National
+Knowledge Infrastructure (CNKI), Wanfang, and Sionmed were
+searched using the search terms “Triptolid, ” “Minnelide (a
+water-soluble prodrug of triptolide), ” “pancreatic cancer.”The
+search covered the period from their inception (Pubmed 1966,
+Embase 1974, CNKI 1979, Wanfang 1960, and Sionmed 1978)
+to 01 March 2017. No language restriction was applied. All
+relevant references were checked for additional and unpublished
+citations.
+Eligibility Criteria, Study Selection, and
+Data Collection
+Preclinical studies that have investigated the eﬀect of TL on
+PC fulﬁlled the inclusion criteria. Only full publications were
+Abbreviations: FasL, Fas Ligand; FasR, Fas Receptor; FADD, Fas-Associated
+protein with Death Domain; DISC, Death-inducing signaling complex ; DcR3,
+Decoy Receptor 3; Bid, BH3 interacting-domain death agonist; tB id, truncated
+BH3 interacting-domain death agonist; MAC, Mitochondrial Apopto sis-Induced
+Channel; LTB4, Leukotriene B4; NF- κ B, nuclear factor kappa-light-chain-
+enhancer of activated B cells; PARP-1, poly (ADP-ribose) polymerase- 1; PC,
+pancreatic cancer; RA, rheumatoid arthritis; Sp1, speciﬁcity protein 1; SR,
+systematic review; TwHF, Tripterygium wilfordii Hook F.
+FIGURE 1 | Chemical structures of TL ( Wang et al., 2016 ).
+considered. All studies were assessed by two investigators (CZ
+and XJH). When a study was reported in several publications,
+we analyzed only the most complete set of data to avoid double
+counting cases. Two authors independently reviewed the articles
+obtained from the search. To ascertain the extent to which TL
+can impart its anticancer eﬀects upon PC cells, we investigated
+which pathways and mechanisms are aﬀected by it. A comparison
+was performed, and discrepancies were resolved through
+dialog.
+RESULTS
+Study Characteristics
+After screening 116 citations, we reviewed 66 potentially relevant
+full-text articles and identiﬁed 17 primary publications. Of t hese,
+there were 16 English language papers and 1 was published
+in Chinese. Eight studies (47.1%) with had bothin vitro and
+in vivo assessments ( Table 1) provided explicit information in
+the methods section concerning the number of animals allocat ed
+to each treatment group, and they accounted for all animals
+in their results. Six animal studies (75.0%) randomly assigned
+animals to treatment groups or control groups, and one study
+(12.5%) reported that it used a blinded pathologist (
+Phillips
+et al., 2007 ). Details of the animals and cell lines (i.e., the
+source) were provided in 16 studies. One study that used an
+animal model (athymic mice) was extremely detailed (
+Wang
+et al., 2012 ). None of the studies speciﬁed or provided a power
+calculation or sample size determination. The results listed
+the main characteristics of the relevant pathways and included
+references.
+Apoptosis Pathways
+The proapoptotic eﬀects of TL start at the level of competitive
+decoy receptor 3 (DcR3) binding. DcR3 is downregulated by
+TL in PC cells (
+Wang et al., 2012 ). As a result, more Fas
+ligand (FasL) will be available for binding to Fas receptor (Fa sR),
+increasing the strength of pro-apoptotic signaling. Furtherm ore,
+TL can upregulate FADD and FasL, thereby producing a powerful
+apoptotic signal (
+Wang et al., 2012 ).
+Frontiers in Pharmacology | www.frontiersin.org 2 August 2017 | Volume 8 | Article 490
+
+[W2748573035 PDF PAGE 3]
+Zhang et al. Triptolide for Pancreatic Cancer
+TABLE 1 | Summary of 17 preclinical studies identiﬁed.
+References In vitro/
+in vivo
+Cell culture/Disease model Endpoint studied Animal
+allocationand Flowdescribed
+Randomized Blinded Main ﬁndings
+Banerjee et al.,
+2013
+Both MIA-PaCa2 was obtained from the ATCC.
+Female nude mice (4–6 weeks old) were used(Charles River Laboratories).
+To study the effect of OGT inhibition on PCcells.
+Yes Yes Unclear The authors observed that
+down-regulation of Sp1 bymithramycin, siRNA, TL resulted indecreased NF–κ B activity in both cell
+lines and animal models.
+Chen et al., 2013 Both MIA PaCa-2 cells derived from a primary
+pancreatic tumor were obtained fromAscites-derived AsPC-1.Three de-identiﬁed human tumors wereimplanted subcutaneously into SCID animals(Jackson Laboratory).
+Mcl-1 and miR-204 expression in PC cellsin vitroand in vivo.
+Yes Unclear Unclear TL mediated miR-204 increase
+causes PC cell death via loss ofMcl-1.
+Wang, 2012 In vitro ASPC-1 was purchased from the ATCC. To detect the expression changes of PARP
+and caspase-3.
+NA NA NA The proliferation of AsPC-1 cells was
+inhibited by TL.
+Borja-Cacho et al.,
+2010
+In vitro MIA-PaCa2 and PANC-1 cells were obtainedfrom the ATCC.
+To explore cell viability, apoptosis,caspase-3 and caspase-9 activities, andpoly(ADP)-ribose polymerase cleavage.
+NA NA NA TL and TNF-related
+apoptosis-inducing ligand decreasedthe cell viability in all the cell lines andincreased apoptotic cell death as aresult of caspase-3 and caspase-9activation.
+Ding et al., 

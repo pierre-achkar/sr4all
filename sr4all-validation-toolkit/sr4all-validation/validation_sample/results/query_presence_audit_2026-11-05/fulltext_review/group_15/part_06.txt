@@ -1,0 +1,507 @@
+p‑value 
+listed if provided in study)
+Methods 
+risk 
+of bias 
+score
+Atilola 2012 
+“Preva-lence and 
+corre-
+lates…” [6]
+Preva-
+lence
+Youth 
+Institu-
+tion
+Nigeria Y (school-
+going ado-
+lescents, 
+age and 
+gender matched, 
+randomly 
+selecter)
+Census Yes, Yes 60 (in remand 
+home), 60 (school-
+going), 12.5* 
+(pooled), 66.6%* 
+(pooled)
+*Only pooled 
+statistics 
+given
+NA NC *77% in home 
+due to maltreat-
+ment/neglect, 
+10% classified as 
+“offenders,” 13% beyond parental 
+control
+K-SADS-PL (D) 63% remanded participants 
+had at least one lifetime psy-
+chiatric disorder compared 
+to 23% control (p < .001); 
+22% had at least one cur-
+rent psychiatric disorder compared to 3% control 
+(p < .004) (K-SADS-PL)
+Medium
+Atilola et al. 
+2016 [50]
+Preva-
+lence
+Youth 
+Institu-tion
+Nigeria Y (within-
+institution com-parison of 
+“criminal 
+code” 
+vs. other 
+groups)
+Random, NS Yes, Yes 178, 15.19, 
+61.8% (total participants, pooled)
+NA NC *19.1% classified 
+“young offenders,” 73.6% care and protection of 
+state, 7.3% beyond 
+parental control
+K-SADS (D) Lifetime prevalence rate of 
+abuse of/dependence on any substance was 22.5%. 12.3% alcohol abuse/dependence; 
+17.9% other substance abuse/
+dependence. Higher propor-
+tion of participants who were remanded under the ‘young 
+offender’ category met criteria 
+for lifetime substance use disorder compared with those 
+under the care and protection 
+and beyond-parental-control 
+category (p = 0.004). Length 
+of staying on the streets or by self was associated with 
+problematic use (abuse or dependence) (p = 0.007) 
+(K-SADS)
+Low
+*Atilola et al. 
+2017 “Cor-
+relations…” [123]
+Preva-
+lence
+Youth 
+Institu-
+tion
+Nigeria N Random, NS Yes, Yes 165, 14.3, 75% NA NS *Remanded 
+youth: criminal code, neglected/
+in care of state, or 
+beyond parental 
+control
+SDQ (S), Ped-
+sQo (S)
+18% abnormal SDQ score 
+suggesting presence of psy-
+chiatric disorder; 27% had 
+‘highly probable’ psychopa-
+thology (SDQ). Negative cor-
+relation (p < 0.001) between 
+total SDQ scores and overall 
+self-reported quality of life 
+(PedsQo)
+Low
+
+[W2944555439 PDF PAGE 20]
+Page 20 of 41Lovett et al. Int J Ment Health Syst           (2019) 13:31 
+Table 2 (continued)
+Reference *If 
+same sample 
+as another 
+study in list
+Study design
+Study setting
+Country setting
+Comparison  [If yes (Y), 
+describe;  
+no (N)]
+Strategy, whether sample 
+size calculation 
+was reported 
+for non‑census 
+strategies
+Ethics reporting 
+(documented 
+ethics committee 
+approval; 
+described 
+informed 
+consent 
+procedure)
+Participants characteristics 
+(sample size, 
+mean age, 
+percent male) 
+*Indicates 
+gender 
+as inclusion criteria
+Inclusion criteria 
+(excluding age 
+criteria)
+Trial status category (C = over 50% 
+convicted; NC = over 
+50% not convicted; 
+NC/A = over 50% 
+“awaiting trial”; JI = over 50% youth 
+justice‑involved; 
+U = unclear; 
+NA = not applicable; 
+NS = not stated)
+Assessment 
+instruments 
+(diagnostic 
+or screening 
+tool)
+Primary outcomes (p‑value 
+listed if provided in study)
+Methods 
+risk 
+of bias 
+score
+*Atilola 
+et al. 2017 “Status…” 
+[124]
+Preva-
+lence
+Youth 
+Institu-
+tion
+Nigeria N Random, NS Yes, Yes 165, 14.3, 75.2% NA NS *Remanded 
+youth: criminal code, neglected/
+in care of state, or 
+beyond parental control
+SDQ (S), 
+CRAFFT (S), question-
+naire (S), 
+Audit Proto-
+col (S)
+18.2% general psychiatric 
+morbidity by SDQ ≥ 17; 
+44.6% prevalence SDQ ≥ 15; 
+15.8% alcohol/substance use disorder (CRAFFT > 2). 34.3% of the operational staff at the 
+institutions had educational 
+backgrounds relevant to 
+psychosocial services for 
+children/adolescents. Less 
+than a quarter (22.4%) ever 
+received any training in child mental health services 
+(questionnaire and Audit 
+protocol)
+Low
+*Adegunloye 
+et al. 2010 [125]
+Preva-
+lence
+Youth 
+Institu-tion
+Nigeria N Census No, No 53, 17.3, 100% NA JI * Detained in 
+borstal institution in juvenile justice 
+system
+GHQ-12 (S), 
+MINI-KID 
+(D)
+67.9% current psychiatric dis-
+order (MINI-KID). GHQ scores not reported
+Low
+*Ajiboye et al. 
+2009 (same sample as 
+Adegun-
+loye) [126]
+Preva-
+lence
+Youth 
+Institu-tion
+Nigeria N Census No, Yes 53, 17.3, 100% NA JI * Detained in 
+borstal institution in juvenile justice 
+system
+GHQ-12 (S), 
+MINI-KID 
+(D)
+67.9% current psychiatric dis-
+order (MINI-KID). GHQ scores not reported
+Low
+*Issa et al. 
+2009 (same 
+sample as 
+Adegun-
+loye) [127]
+Preva-
+lence
+Youth 
+Institu-tion
+Nigeria N Census Yes, Yes 53, 17.3, 100% NA JI * Detained in 
+borstal institution in juvenile justice 
+system: classified 
+“juvenile offenders” 
+or those “in need of correction”
+GHQ-12 (S) 49.1% GHQ-positive (> 3 on 
+GHQ-12), indicating possible 
+psychiatric morbidity
+Medium
+
+[W2944555439 PDF PAGE 21]
+Page 21 of 41
+Lovett et al. Int J Ment Health Syst           (2019) 13:31 
+Table 2 (continued)
+Reference *If 
+same sample 
+as another 
+study in list
+Study design
+Study setting
+Country setting
+Comparison  [If yes (Y), 
+describe;  
+no (N)]
+Strategy, whether sample 
+size calculation 
+was reported 
+for non‑census 
+strategies
+Ethics reporting 
+(documented 
+ethics committee 
+approval; 
+described 
+informed 
+consent 
+procedure)
+Participants characteristics 
+(sample size, 
+mean age, 
+percent male) 
+*Indicates 
+gender 
+as inclusion criteria
+Inclusion criteria 
+(excluding age 
+criteria)
+Trial status category (C = over 50% 
+convicted; NC = over 
+50% not convicted; 
+NC/A = over 50% 
+“awaiting trial”; JI = over 50% youth 
+justice‑involved; 
+U = unclear; 
+NA = not applicable; 
+NS = not stated)
+Assessment 
+instruments 
+(diagnostic 
+or screening 
+tool)
+Primary outcomes (p‑value 
+listed if provided in study)
+Methods 
+risk 
+of bias 
+score
+*Yusuf et al. 
+2011 (same sample as 
+Adegun-
+loye) [128]
+Preva-
+lence
+Youth 
+Institu-tion
+Nigeria N Census No, Yes 53, 17.3, 100% NA JI * I Detained in 
+borstal institution in juvenile justice 
+system
+GHQ-12 (S), 
+MINI-KID 
+(D)
+50.9% had MINI-KID lifetime 
+psychiatric diagnoses. Majority (62.3%) had psychi-
+atric problems in the past 
+12 months. When all lifetime and current psychiatric 
+diagnoses were collapsed, 
+98.1% had ‘any psychiatric 
+disorder. 49.1% GHQ-12 > 3, 
+indicating possible psychiat-
+ric morbidity
+Low
+Bella et al. 
+2010 [51]
+Preva-
+lence
+Youth 
+Institu-tion
+Nigeria N NS No, Yes 59, 11.7, 60% NA NC *90% under care 
+and protection of state, 7% beyond 
+parental control, 
+3% criminal 
+code/“youth 
+offenders”
+K-SADS (D) 100% had significant psycho-
+social needs presenting as difficulty with their primary 
+support, social environment, 
+or education systems. 97% 
+demonstrated some form of 
+psychopathy
+Medium
+*Olashore 
+et al. 2016 [129]
+Preva-
+lence
+Youth 
+Institu-tion
+Nigeria N Census Yes, Yes 148, 17.1, 100% NA JI * Detained in 
+borstal institution under criminal code or beyond 
+parental control; 
+40.8% detained for 
+“non-delinquent 
+reason”
+MINI-KID (D) 56.5% met the criteria for 
+conduct disorder (MINI-KID). Number of siblings (p = 0.010) and previous his-
+tory of detention (p = 0.043) 
+were independent predic-
+tors of CD
+Low
+*Olashore 
+et al. 2017 
+[130]
+Preva-
+lence
+Youth 
+Institu-tion
+Nigeria N Census Yes, Yes 148, 17.1, 100% NA JI * Detained in 
+borstal institution under criminal code or beyond 
+parental control; 
+40.8% detained for 
+“non-delinquent 
+reason”
+MINI-KID (D) 56.5% met the criteria for 
+conduct disorder (MINI-KID). Substance use, depression, or oppositional defiant disor-
+der not significantly associ-ated with “offender” status. 
+CD is associated (p < .001) 
+with “offender” status
+Low
+
+[W2944555439 PDF PAGE 22]
+Page 22 of 41Lovett et al. Int J Ment Health Syst           (2019) 13:31 
+Table 3 All other study designs
+Reference 
+*If same 
+sample 
+as another 
+study in list
+Study 
+design
+Study Setting
+Country setting
+Comparison [If yes (Y), 
+describe; 
+no (N)]
+Strategy, Whether 
+sample size 
+calculation 
+was reported 
+for non‑
+census 
+strategies
+Ethics reporting 
+(documented 
+ethics 
+committee 
+approval; 
+described 
+informed consent 
+procedure)
+Participants 
+characteristics 
+(sample size, 
+mean age, 
+percent male) 
+*Indicates 
+gender 
+as inclusion criteria
+Inclusion criteria 
+(excluding 
+age criteria)
+Trial status category (*1) (C = over 50% 
+convicted; NC = over 
+50% not convicted; 
+NC/A = over 50% 
+“awaiting trial”; JI = over 
+50% youth justice‑
+involved; U = unclear; 
+NA = not applicable; 
+NS = not stated)
+Assessment 
+instruments 
+(diagnostic 
+or screening 
+tool)
+Primary outcomes 
+(p‑value listed 
+if provided in study)
+Methods risk of bias 
+score
+Eseadi et al. 
+2017 [42]
+Pre-post Prison Nigeria Y (15 treatment, 
+15 control group not 
+receiving intervention)
+Census Yes, Yes 15, NS, 100% 
+(treatment); 
+15, NS, 100% 
+(control)
+BDI score ≥ 29 NS *But 84% awaiting trial 
+in the prison population 
+from which the sample 
+was selected
+BDI (S) Significant treatment by 
+time interaction effect 
+for cognitive behavioral 
+coaching program on depression as measured 
+by BDI (p = 0.000). 
+Significant decrease from pre to post-test BDI 
+score (p = 0.000) for the 
+CBC group compared to control
+Low
+Onyechi et al. 
+2017 [43]
+Pre-post Prison Nigeria Y (10 treatment, 
+10 control 
+group not 
+receiving 
+intervention)
+Census Yes, Yes 10, NS, 100% 
+(treatment); 10, NS, 100% 
+(control)
+High scorers 
+on CDS-12
+NS CDS-12 (S) After the cognitive behav-
+ioral intervention, pris-
+oners in the treatment 
+group has significantly 
+lower post-intervention 
+CDS-12 scores than 
+the control group’s 
+post-intervention scores (p = 0.00)
+Medium
+Martyns-
+Yellowe 1993 [44]
+RCT Prison Nigeria Y (18 partici-
+pants each in treatment groups 
+receiving Flu-
+penthixol or 
+Clopenthixol 
+injections)
+Census No, No 18, NS, 100%* 
+(Flupenthixol treatment); 18, NS, 100%* 
+(Clopenthixol 
+treatment)
+Males; schizo-
+phrenia diagnosis; vagrant peo-
+ple removed from public 
+places by 
+law enforce-
+ment
+U *Detained in prison 
+asylum after “removed from streets”
+BPRS (Brief 
+Psychiatric Rating Scale) (S)
+57.1% drop in BPRS 
+symptoms in the Flupenthixol group (p < 0.001) and 43.4% 
+drop in the Clopen-
+thixol group (p < 0.01). 
+Flupenthixol group had

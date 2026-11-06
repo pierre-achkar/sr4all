@@ -1,0 +1,345 @@
+urgery. 24 At pre-treatment, the ortho -
+gnathic surgery group had a statistically poorer 
+profile attractiveness as graded by the orthodontists 
+in comparison to the camouflage group. Following 
+treatment, the camouflage and orthognathic surgery 
+groups reported significant improvement in profile 
+
+[W4285411096 PDF PAGE 7]
+Australasian Orthodontic Journal Volume 38 No. 2 2022  189
+CEPHALOMETRIC PARAMETERS IN TREATING BORDERLINE CLASS III MALOCCLUSION
+Table II. Characteristics of the included studies.
+Study Study design Study setting Participants Mean age Gender
+Stellzig-Eisenhauer, 
+Lux and Schuster 
+200214
+Retrospective 
+study
+Departments of 
+Orthodontics of the 
+Universities of Frankfurt, 
+Heidelberg, and 
+Würzburg, Germany.
+Total sample: 175 
+CG: 87 
+SG: 88
+Overall: NA 
+CG: NA 
+SG: NA 
+*Sample of adult 
+patient
+Overall: M: 82; 
+F: 93
+Eslami et al. 
+201815
+Retrospective 
+study
+Private practice orthodontic 
+office in Iran
+Total sample: 65
+CG: 36 
+SG: 29
+Overall: NA 
+CG: 23.5 ± 4.8, 
+SG: 24.8 ± 3.1
+Overall: M: 27; 
+F: 38 
+CS: M: 15; F: 21 
+SG: M: 12; F: 17
+Benyahia et al. 
+201121
+Retrospective 
+study
+Orthodontics unit at the 
+CHIS dental consultation 
+and treatment center in 
+Rabat, Morocco, and the 
+Clairval CHP maxillofacial 
+and esthetic clinic in 
+Marseille, France
+Total sample: 47
+CG: 22 
+SG: 25
+Overall: NA 
+CG: NA 
+SG: NA 
+*Sample of adult 
+patient
+Overall: NA 
+CG: NA 
+SG: NA
+Kochel et al. 
+201122
+Retrospective 
+study
+Department of Orthodontics 
+of the University of 
+Wuerzburg in Germany 
+and from 7 cooperative 
+private practices
+Total sample: 69
+CG: 28 
+SG: 41
+Overall: NA 
+CG: Mean 27.6, 
+Median 23.6 
+SG: Mean 26.3, 
+Median 24.2
+Overall: NA 
+CG: NA 
+SG: NA
+Tseng et al. 
+201123
+Retrospective 
+study
+Taiwan Total sample: 80
+CG: 40 
+SG: 40
+Overall: 23 years 
+range, 18–34
+Overall: M: 40; 
+F: 40
+Watanabe et al. 
+202024
+Retrospective 
+study
+Brazil Total sample: 60
+CG: 30 
+SG: 30
+Overall: NA 
+CG: 
+18.5 ± 4.4 
+SG: 20.1 ± 2.4
+Overall: M: 29; 
+F: 31 
+CS: M: 13; F: 17 
+SG: M: 16; F: 14
+Note: CG: Camouflage group, SG: Surgical group, M: Male, F: Female, NA: Not available.
+Table III. Risk of bias of included studies.
+Author and year Study 
+design Setting Participants 
+criteria
+Sample 
+size
+Variable 
+description
+Outcome 
+measurement
+Statistical 
+test
+Total 
+score
+Quality of 
+the studies
+Stellzig-Eisenhauer, Lux 
+and Schuster 2002 14
+√ X √ X √ √ √ 5 Moderate
+Eslami et al. 2018 15 √ √ √ X √ √ √ 6 High
+Benyahia et al. 2011 21 X X √ X √ √ √ 4 Moderate
+Kochel et al. 2011 22 X X √ X √ √ √ 4 Moderate
+Tseng et al. 2011 23 √ X √ X √ √ √ 5 Moderate
+Watanabe et al. 
+202024
+√ √ √ √ √ √ √ 6 High
+Note: The quality of the studies will be categorized as weak (3 and less), moderate (4 or 5) and high quality (6 or more) by two independent reviewers.
+
+[W4285411096 PDF PAGE 8]
+190  Australasian Orthodontic Journal Volume 38 No. 2 2022
+SIVARAJAN, ZAKARIA, AZMILY, WEY, EL-GHAFOUR AND SALAH FAYED
+Table IV. Cephalometric cut off values for Class III camouflage or surgery.
+Measurement 
+Study
+Holdaway 
+angle
+1) Wits appraisal, (2) M/M ratio, 
+(3) saddle angle, and (4) mand MLD Overjet Wits 
+appraisal
+L1-MP 
+angle
+Mx/Mn 
+ratio Overbite Gonial 
+angle
+(1) Wits appraisal, (2) length 
+of the anterior cranial base, (3) 
+maxillary/mandibular (M/M) 
+ratio, and (4) lower gonial angle.
+Stellzig-
+Eisenhauer  
+et al. 200214
+NA NA NA NA NA NA NA NA The critical score was -0.023
+(above can be treated by 
+camouflage-below can treated 
+by surgery)
+(score = -1.805 + 0.209 · 
+Wits + 0.044 · S-N + 5.689 · 
+M/M ratio - 0.056 · Golower)
+Eslami et al. 
+201815
+10.3°
+(above can 
+be treated by 
+camouflage-
+below can 
+treated by 
+surgery)
+NA NA ≤-5.8 mm 
+(treated by 
+surgery)
+NA NA NA NA NA
+Benyahia  
+et al. 201121
+7.2°
+(above can 
+be treated by 
+camouflage-
+below can 
+treated by 
+surgery)
+NA NA NA NA NA NA NA NA
+Kochel et al. 
+201122
+NA The critical score was 0.251
+(above can be treated by 
+camouflage-below can treated by 
+surgery)
+(score = –10.988 + 0.243 · 
+Wits + 0.055 · M/M ratio + 0.068 
+· NSAr – 0.589 · mand MLD)
+NA NA NA NA NA NA NA
+Tseng et al. 
+201123
+NA NA ≤–4.73 mm
+(treated by 
+surgery)
+≤–11.18 mm
+(treated by 
+surgery)
+≤80.8°
+(treated by 
+surgery)
+≤65.9%
+(treated by 
+surgery)
+≤–0.18 mm
+(treated by 
+surgery)
+≥120.8°
+(treated by 
+surgery)
+NA
+Note: NA, Not available.
+
+[W4285411096 PDF PAGE 9]
+Australasian Orthodontic Journal Volume 38 No. 2 2022  191
+CEPHALOMETRIC PARAMETERS IN TREATING BORDERLINE CLASS III MALOCCLUSION
+attractiveness. At a post-treatment assessment, both 
+groups reported similar attractiveness based on profile 
+silhouettes generated from the lateral cephalograms.24
+Discussion
+Summary of evidence
+At the time of registration with OSF/Center for Open 
+Science, there was no other identified systematic 
+review which investigated the cephalometric cut-
+off values and complications associated with 
+orthodontic camouflage and orthognathic surgery 
+in Class III malocclusion cases. There is still clinical 
+uncertainty in deciding the appropriate management 
+of borderline orthognathic Class III cases which has 
+prompted the need to identify potential threshold 
+indicators. The decision was mostly dependent on 
+the clinician’s experience and limited evidence. The 
+current review aimed to provide an insight into the 
+cephalometric indicators that might be used as a 
+guide in the decision-making process associated with 
+borderline Class III malocclusion management, its 
+complications and aesthetic perceptions.
+A systematic analysis conducted in 2011 that aimed 
+to predict the outcome of orthodontic treatment in 
+Class III malocclusion cases was identified during 
+the literature search; however, it concentrated on the 
+orthodontic/orthopaedic care of growing subjects, 
+which was outside the scope of this review.25 Overall, 
+only retrospective studies were found to match 
+the selection criteria and were appraised using the 
+modified version of the STROBE checklist which 
+ensured a clear presentation of general reporting for 
+descriptive observational cross-sectional studies.
+Commonly identified skeletal sagittal parameters 
+used to discriminate treatment modalities in Class III 
+cases are the ANB angle and Wits appraisal. Due to 
+doubts on the validity of the ANB angle in measuring 
+sagittal jaw relations, 26,27 the Wits appraisal has 
+been supplemented. The literature revealed that the 
+surgical group tended to have a smaller ANB angle 
+and Wits appraisal value compared to the camouflage 
+group. Other studies found that the Wits appraisal 
+was the most useful predictor to distinguish patients 
+prior to treatment whether independently 15,23 or in 
+combination with other parameters. 14,22 A recent 
+study which performed a discriminant analysis 
+found that those with a Wits appraisal of more than 
+−5.8 mm may be successfully treated by orthodontics 
+alone.15 An earlier study using a ROCs analysis found 
+−11.18 mm to be the Wits threshold. 23 The purpose 
+of the Wits appraisal is to dissociate the maxilla-
+mandibular relationship from the cranial base 27 
+and so the rotation of the jaw complex relative to 
+the cranial base does not affect the severity of the 
+jaw disharmony. The identification of a functional 
+occlusal plane can be a challenge and considered a 
+potential source of error, and so the validity of the 
+Wits appraisal deserves to be questioned.
+The Holdaway angle in an ideal face is 7°–15° when 
+facial convexity is normal. 28 The more forward the 
+position of soft tissue Pogonion in relation to the 
+upper lip, the more concave is the lateral profile, 
+indicating a more severe Class III discrepancy. 
+Previous studies have suggested that the Holdaway 
+angle is a decisive factor. 15,21 The studies suggested 
+that a patient with a greater Holdaway angle than 
+the threshold, reflected a more convex profile which 
+could be successfully treated by orthodontics alone. 
+After following a stepwise discriminant analysis, one 
+study found that the Holdaway angle was the sole 
+decisive parameter.21
+A Class III malocclusion is likely to have a level of 
+dental compensation which helps to maintain function 
+and masks the underlying skeletal discrepancy. Lower 
+incisor angulation was found to be a discriminating 
+factor in a study which used the ROC analysis 23 with 
+a cut-off value of 80.8°. The use of overjet, overbite, 
+maxillary-mandibular ratio and gonial angle as cut-off 
+discriminants was recommended by only one study.23 
+A study by Kerr et al.13 advocated the use of the ANB 
+angle to determine treatment options differentiating 
+camouflage or surgery. However, the study was 
+excluded from the present review because the control 
+group consisted of young patients who were still 
+exhibiting potential growth. None of the other studies 
+reported the use of the ANB angle as a determining 
+cut-off factor.
+Asymmetry is also a consideration for surgical 
+intervention in Class III malocclusion cases as these 
+patients may present with a level of mandibular 
+deviation. One study 22 considered the implication 
+of mandibular asymmetry in distinguishing possible 
+treatment between the two groups by applying a 
+multivariate equation. Both studies that used the 
+discriminant analysis equation had a high success rate 
+(91.3– 92%) for correctly classifying the predicted 
+treatment plan. 14,22 The addition of the transverse 
+
+[W4285411096 PDF PAGE 10]
+192  Australasian Orthodontic Journal Volume 38 No. 2 2022
+SIVARAJAN, ZAKARIA, AZMILY, WEY, EL-GHAFOUR AND SALAH FAYED
+component to the discriminant analysis equation 
+improved the outcome of correctly classifying the 
+surgical groups from 86.4% to 92.7%. The input of 
+selected parameters into an equation may increase 
+the accuracy of the prediction compared to a single 
+parameter. However, this takes a little longer because 
+each measurement must be entered into the formula 
+to determine the outcome.
+It is appreciated that the decision to choose surgery in 
+borderline cases is not solely reliant on cephalometric 
+values and in

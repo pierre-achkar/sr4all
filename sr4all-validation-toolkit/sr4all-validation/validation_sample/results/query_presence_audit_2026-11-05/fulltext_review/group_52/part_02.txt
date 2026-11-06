@@ -1,0 +1,123 @@
+ata through the end of 2018
+and prospective inputs consistent with available information about recent programmatic
+performance and updated plans. The third special issue of the journal Risk Analysis on
+Global Poliovirus Risk Management and Modeling, published in February 2021 [ 6], in-
+cluded many of these studies, several of which appeared online in 2020. In January 2020
+(prior to the COVID-19 pandemic), the KRI update of its integrated model reported the
+GPEI was off-track with respect to achieving its polio eradication goals [161] and attributed
+this primarily to the low quality of OPV SIAs [7]. For this integrated model update [7], KRI
+reflected on key differences between the optimistic and ideal risk management assumptions
+it used prior to 2016 [163,164] and actual performance and plans after 2016 [8]. Due to its
+expectation of ongoing transmission of WPV1 in Pakistan and Afghanistan [7], KRI built on
+its prior Pakistan and Afghanistan modeling [165–168] to update its DEB model for these
+countries (as a single epidemiological reservoir) and identified pSIA strategies that could
+end WPV1 transmission within the timeline of the 2019–2023 GPEI strategic plan [9]. KRI
+also developed a DEB model of poliovirus transmission for northeast Nigeria to character-
+ize the transmission of WPV1 that occurred in Borno and Yobe in 2016 [10]. Using this DEB
+as the basis for an SC model, KRI characterized the confidence of no circulation or unde-
+tected WPV1 transmission as a function of time for Borno and Yobe [11], which the Africa
+Regional Commission for the Certification of Poliomyelitis Eradication used to support
+its regional certification in 2020 [169]. KRI also updated its characterization of post-OPV
+cessation risks related to the misuse or inadvertent use of OPV after homotypic cessation,
+and updated its probability estimates for the need to restart OPV2 production and use in
+preventive immunization [12]. To support integrated analyses, KRI published updated
+cost estimates for poliovirus immunization and valuations of polio health outcomes [13],
+including consideration of health opportunity costs [5]. With global certification of WPV3
+eradication in 2019 [170] and reductions of bOPV pSIAs, in late 2020, KRI published a DEB
+modeling study of the expected reductions of VAPP and cVDPV cases and vaccine dose
+requirements for a policy of globally coordinated cessation of type 3 OPV (OPV3) before
+type 1 OPV (OPV1) compared to ongoing bOPV use [14].
+Following the May 2020 GPEI publication of an addendum to its 2019–2023 strategic
+plan that emphasized the use of nOPV2 for oSIAs [171], KRI applied its global model to
+explore the impacts of using nOPV2 compared to Sabin mOPV2 for oSIAs and reported
+that even with ideal characteristics, nOPV2 would not likely end all type 2 outbreaks and
+transmissions [15], which it also discussed in a commentary [16]. Considering pre-COVID-
+19 conditions, KRI updated its 2010 integrated analysis of the health and economic benefits
+of the GPEI [ 172] based on the status of the GPEI and its plans as of 2019 [ 17], which
+included consideration of the possibility of ending WPV1 transmission in Pakistan and
+Afghanistan [9]. KRI also applied its integrated model to consider the health and economic
+
+[W4398206054 PDF PAGE 6]
+Pathogens 2024, 13, 435 6 of 31
+impacts of IPV or tOPV in RI with or without OPV use for oSIAs for different control and
+eradication scenarios for 2019–2029 [18].
+After the emergence of COVID-19, a high-profile suggestion to use OPV to prevent
+COVID-19 in the United States [ 173,174] motivated KRI to perform a health economic
+analysis that estimated VAPP risks and costs with no anticipation of expected benefits for
+reducing COVID-19 [19] (and associated letter [175]). KRI explored the impact of disrup-
+tions caused by the COVID-19 pandemic on global polio eradication in a 2021 study [20],
+which included updating its assumptions related to long-range exportations. In 2021,
+KRI published two studies related to the hypothetical emergence of a novel poliovirus in
+2020 to simulate a pandemic with poliovirus (instead of COVID-19) and demonstrated
+the consequences of policy decisions for control or eradication using nonpharmaceutical
+interventions [21] and vaccines [22]. KRI also updated its characterization of poliovirus
+transmission in Pakistan and Afghanistan post-COVID-19 to explore the impacts of differ-
+ent vaccine options for oSIAs (e.g., mOPV2, tOPV) in the context of the cocirculation of
+WPV1 and cVDPV2 [23]. A separate KRI study estimated the expected costs of poliovirus
+surveillance and immunization campaign quality monitoring for Pakistan and Afghanistan
+for 2019–2023 [24].
+Outbreak response emerged as a theme for several KRI publications during this period.
+In 2021, KRI characterized the trade-offs of different OPV2 vaccines (i.e., mOPV2 or nOPV2)
+for oSIAs and the consequences of delaying oSIAs to wait for nOPV2 instead of using
+available mOPV2 [25]. This analysis emphasized the importance of responding quickly and
+well with available vaccine supplies (i.e., mOPV2) and anticipated that delays in waiting
+for nOPV2 would likely lead to over a thousand paralytic cases and greater global cVDPV2
+transmission [25]. Despite this analysis, countries in the WHO African region chose to delay
+oSIAs to wait for nOPV2, which increased the number and spread of reported cVDPV2
+cases and motivated KRI to ask, “What kind of world do we want?” in a commentary [26].
+A separate commentary raised questions about the effectiveness of a nOPV2 for oSIAs and
+highlighted the increasingly complicated polio endgame [27].
+Following up on discussions of secondary vaccine effects of OPV raised prior to the
+development of COVID-19 vaccines [19], KRI published a systematic review of secondary
+health effects of vaccines and policy insights for health economic analyses [28] and sepa-
+rately discussed the challenges of assessing the benefits and costs of non-polio and shared
+activities for polio and non-polio interventions in polio health economic analyses [29].
+In 2022, following the publication of a new GPEI strategic plan for 2022–2026 [176], KRI
+published 2 analyses related to questions asked by GPEI partners during the development
+of the plan about the overall cases of polio prevented by poliovirus vaccines and GPEI [30]
+and the health and economic consequences of a shift to control in 2022 [31] (as an update to
+a 2007 KRI analysis of control vs. eradication [177]). Although KRI performed these studies
+in response to specific questions raised by GPEI partners, GPEI did not subsequently refer
+to the results of these studies.
+With new milestones [104] established in the new plan [176], KRI again updated its
+DEB model for Pakistan and Afghanistan [32]. Assuming the application of a pSIA strategy
+that KRI identified as successful for ending WPV1 transmission in its model [32], KRI used
+this analysis as the basis for an SC model to characterize the confidence of no undetected
+WPV1 transmission as a function of time [33]. The Global Commission for Certification of
+Poliomyelitis Eradication (GCC) used these results [32,33] to support a potential shortening
+of the time required to certify the end of indigenous WPV1 transmission after the last
+reported case or positive environmental sample to less than 3 years, depending on the
+quality of the surveillance and immunization information [178].
+In 2022, KRI removed its assumptions related to OPV restart as a policy option in its
+global integrated model for consistency with observed experience. This change implied
+the potential use of OPV vaccines available for oSIAs for the full model time horizon of
+prospective models, and ended KRI characterization of the probability of OPV restart as a
+metric to characterize OPV cessation failure [34]. One application of the KRI global model
+
+[W4398206054 PDF PAGE 7]
+Pathogens 2024, 13, 435 7 of 31
+published in late 2022 showed the trade-offs of different OPV2 vaccine options and oSIA
+characteristics (i.e., scope, timeliness, quality) [34], which identified aggressive options that
+could potentially lead to a high probability of cVDPV2 transmission dying out by the end of
+the model time horizon and characterized the low chances of success for thestatus quo GPEI
+strategy and policies. A separate study applied a DEB model of a hypothetical population
+with cocirculation of types 1 and 2 and demonstrated the advantages of coadministration
+of both types (e.g., tOPV or bOPV and nOPV2) compared to sequential or alternating
+strategies [35]. KRI also performed a look-back analysis to learn from its prior prospective
+modeling of oSIAs for managing OPV2 cessation [36].
+In 2023, KRI explored the complexity of modeling the increase in vaccine options
+(i.e., nOPVs, different IPV formulations) and the dynamics of starting and/or stopping
+OPV in national immunization programs after OPV cessation [ 37]. KRI commented on
+polio eradication hurdles [ 38] and the need for updating expectations for nOPV2 [ 39].
+KRI also reviewed the experience with the OPV2 stockpiles and discussed the challenges
+of forecasting vaccine demand given uncertainty about prospective national, regional,
+and global policies [40]. With ongoing discussions about potential global coordination of
+bOPV cessation, KRI also applied its global integrated model to characterize the expected
+outcomes of coordinated global cessation of bOPV use in 2027 without bOPV pSIAs [41],
+as suggested by the 2022–2026 strategic plan [176]. In addition to exploring the expected
+annual paralytic cases by type over time, KRI also explored the worst-case scenarios [42].
+In the context of low expectations of successful bOPV cessation, a related health economic
+analysis anticipated a relatively low value of antiviral drugs [43].
+Finally, in 2023–2024, KRI published a DEB model of the cVDPV2 transmission and
+IPV oSIA for the imported cVDPV2 outbreak that occurred in 2022 in New York State [44].
+KRI use

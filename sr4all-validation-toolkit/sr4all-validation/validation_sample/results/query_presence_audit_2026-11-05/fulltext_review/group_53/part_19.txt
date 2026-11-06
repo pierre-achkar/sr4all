@@ -1,0 +1,183 @@
+[MD]: 204.74 ml, P = 0.0003) and longer hospital stay (MD: 2.05 days, P < 0.00001). LC did not affect delayed 
+gastric emptying (OR: 1.33, P = 0.21), postoperative bleeding (OR: 1.28, P = 0.42), and operative time (MD: 3.47 minutes, P = 0.51). 
+Among the patients with LC, Child-Pugh B or C class increased blood loss (MD: 293.33 ml, P < 0.00001), and portal hypertension 
+increased postoperative mortality (OR: 2.41, P = 0.01); the other outcomes were not affected.
+Conclusions: Robust evidence with high certainty suggests LC of any severity with or without portal hypertension results in at least 
+a fourfold increase in mortality and a twofold increase in morbidity after pancreatoduodenectomy. Whether such risks increase with 
+the severity of the liver disease or decrease with optimization of underlying liver disease should be the focus of future research.
+Keywords: liver cirrhosis, morbidity, mortality, pancreatoduodenectomy
+INTRODUCTION
+Pancreatoduodenectomy (PD) is recognized as a technically 
+complex operation with a conspicuous risk of morbidity; 
+hence, there is an ongoing effort to predict and reduce the 
+risk of morbidity after PD. 1–3 PD remains the only curative 
+treatment for pancreatic and periampullary cancers which 
+occur more frequently in patients with liver cirrhosis than 
+those without cirrhosis. 4,5 Consequently, it is not uncommon 
+to encounter a patient with liver cirrhosis and with an indi-
+cation for PD. This means a high-risk operation in a high-
+risk patient as liver cirrhosis is a recognized risk factor for 
+postoperative complications; the more severe the liver cirrho-
+sis, the higher the risk of early postoperative morbidity and 
+mortality.6,7
+The knowledge base regarding postoperative morbidity and 
+mortality outcomes after PD in patients with liver cirrhosis is 
+poorly developed. Such knowledge is valuable to multidisci-
+plinary teams when formulating the management plan for a 
+patient with liver cirrhosis who requires PD. The outcomes 
+of PD in patients with liver cirrhosis have been evaluated by 
+several observational studies providing a robust rationale for 
+conducting a comparative meta-analysis. Considering that 
+cirrhosis is a prognostic factor rather than an intervention, 
+performing a randomized controlled trial is not possible 
+in this setting as cirrhosis cannot be randomized; hence, a 
+meta-analysis of observational studies serves as the best evi-
+dence. In view of the above, we aimed to conduct a systematic 
+review and meta-analysis to compare short-term outcomes of 
+PD between patients with liver cirrhosis and those without 
+cirrhosis.
+5
+3
+25June2024
+Downloaded from http://journals.lww.com/aosopen by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX
+1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 10/23/2024
+
+[W4400021234 PDF PAGE 2]
+Hajibandeh et al • Annals of Surgery Open (2024) 3:e454 Annals of Surgery Open
+2
+METHODS
+This study was protocoled (PROSPERO registration number: 
+CRD42024531188), conducted, and reported in compliance 
+with Preferred Reporting Items for Systematic Reviews and 
+Meta-Analyses statement standards.8
+Eligibility Criteria
+Study Design
+All prospective and retrospective comparative observational 
+studies were considered for inclusion. As explained previously, a 
+randomized controlled trial is not feasible in this setting because 
+cirrhosis cannot be randomized.
+Population
+All patients aged 18 years or older who underwent open or min-
+imally invasive PD due to either benign or malignant indications 
+were considered eligible for inclusion.
+Prognostic Factor of Interest and Comparison
+Liver cirrhosis of any severity was considered as the prognostic 
+factor of interest, and no liver cirrhosis was considered as the 
+comparison.
+Outcomes
+Postoperative mortality and major complications (Clavien–
+Dindo ≥3) were considered as primary outcomes. The second-
+ary outcomes included intraoperative blood loss, operative 
+time, grade B-C postoperative pancreatic fistula, postopera-
+tive bleeding, delayed gastric emptying, and length of hospital 
+stay.
+Search Methods
+A comprehensive search strategy was created by 2 independent 
+authors with experience in evidence synthesis using proper 
+search limits, keywords, thesaurus headings, and operators 
+(Appendix I, http://links.lww.com/AOSO/A363). The search 
+strategy had no language restrictions and was last run on March 
+20, 2024. The reference lists of relevant systematic reviews and 
+original studies were also evaluated to find more eligible studies.
+Study Selection and Data Extraction
+The title and abstract of the identified articles were screened, 
+and the full texts of relevant articles were retrieved by 2 inde-
+pendent authors who included the studies that met the eligibility 
+criteria. An electronic data collection proforma was evaluated 
+based on randomly selected studies and included information 
+on the name of the first author, year of publication, name of 
+journal, type of study design, description of the included popu-
+lation, sample size of each study, age, gender, Child-Pugh class, 
+model for end-stage liver disease (MELD) score, portal hyper -
+tension, and the already mentioned outcomes. The 2 indepen-
+dent authors discussed and resolved disagreements during study 
+data extraction, and a third independent author was consulted 
+if required.
+Risk of Bias Assessment
+Two independent authors evaluated the methodological quality 
+of the included studies using the Quality In Prognosis Studies 
+tool, which evaluates the risk of bias in studies of prognostic fac-
+tors in terms of study participation, study attrition, prognostic 
+factor measurement, outcome measurement, study confounding, 
+and statistical analysis and reporting.9
+Data Analysis
+Review Manager 5.4 software was used for meta-analysis. The 
+odds ratio (OR) and mean difference (MD) were calculated as 
+summary measures for dichotomous and continuous outcomes, 
+respectively. The random effects modeling was used for analy-
+ses and forest plots with 95% confidence intervals (CIs) were 
+constructed to present the results. Individual patients were con-
+sidered as the unit of analysis. Meta-regression analysis was 
+modeled to evaluate the effect of differences in Child-Pugh 
+class, MELD score, and portal hypertension in cirrhotic patients 
+among the included studies on the primary outcomes. The sta-
+tistical heterogeneity was measured as I 2 using the Cochran Q 
+test (χ2) and it was classified as low heterogeneity when I 2 was 
+0–25%, moderate heterogeneity when I2 was 25–75%, and high 
+heterogeneity when I2 was 75–100%. The risk of publication 
+bias was evaluated by constructing funnel plots for outcomes 
+reported by at least 10 studies.
+Additional Analyses
+The following comparisons were made among the patients 
+with liver cirrhosis: (1) patients with Child-Pugh B or C disease 
+versus patients with Child-Pugh A and (2) patients with portal 
+hypertension versus patients without portal hypertension.
+Sensitivity Analyses
+To evaluate the consistency and robustness of the results, a sen-
+sitivity analysis was performed for the outcomes reported by 
+a minimum number of 4 studies: (1) leave-one-out analysis to 
+investigate the effect of each study on the pooled outcomes; (2) 
+Separate analysis of studies with low overall risk of bias.
+Certainty of Evidence
+Certainty of evidence was judged based on the recommended 
+standards and domains by the GRADE system.10
+RESULTS
+Literature Search Results
+The search of electronic databases produced 278 articles, of 
+which 266 articles were excluded directly because they were 
+not relevant to the subject of this study. After reviewing the full 
+text of the remaining 12 articles, 1 more article was excluded 
+because it was a review article. Consequently, 11 comparative 
+studies11–21 including a total of 18,184 patients were included. 
+Among the included population, 1001 patients had liver cirrho-
+sis and 17,183 patients did not have liver cirrhosis. The study 
+flow chart is shown in Figure 1. The baseline characteristics of 
+the included studies and included populations are shown in 
+Tables 1 and 2, respectively.
+Risk of Bias Assessment
+Supplementary Figure 1, http://links.lww.com/AOSO/A363 
+highlights the outcomes of methodological quality assessment 
+based on the Quality In Prognosis Studies tool. All the included 
+studies were judged to be of low risk of bias in terms of study 
+participation, study attrition, outcome measurement, and sta-
+tistical analysis and reporting. The risk of bias due to prognos-
+tic factor measurement was judged to be low in 10 studies and 
+unclear in 1 study. The risk of bias due to study confounding 
+was judged to be low in 6 studies and unclear in 5 studies.
+Downloaded from http://journals.lww.com/aosopen by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX
+1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 10/23/2024
+
+[W4400021234 PDF PAGE 3]
+Pancreatoduodenectomy in Liver Cirrhosis • Annals of Surgery Open (2024) 3:e454 www.annalsofsurgery.com
+3
+Primary Outcomes
+Postoperative Mortality
+Analysis of 17,619 patients from 9 studies showed that the 
+risk of postoperative mortality was higher in patients with 
+liver cirrhosis (OR: 3.94, 95% CI = 2.73–5.69, P  < 0.00001) 
+(Fig. 2A). The statistical between-study heterogeneity was low 
+(I2 = 0%, P = 0.75) and the GRADE certainty of the evidence 
+was high (Supplementary Table 1, http://links.lww.com/AOSO/
+A363). Meta-regression showed that the risk of postoperative 
+mortality was not influenced by the differences in Child-Pugh 
+class (coefficient: 0.01, P  = 0.685), MELD score (coefficient: 
+0.037, P = 0.933) and portal hypertension (coefficient: 0.014, 
+P = 0.536) in cirrhotic patients among the included studies 
+(Table 3 and Supplementary Figure 2, http://links.lww.com/
+AOSO/A363).
+FIGURE 1. Study PRISMA flow diagram
+TABLE 1.
+Baseline Characteristics of the Included Studies
+Study Country Journal Design Population
+Sample Size
+Total 

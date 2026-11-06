@@ -1,0 +1,550 @@
+tic, 
+orthographic, 
+autism, 
+linguistic, 
+sentences, 
+comprehension
+, working 
+memory, 
+working, 
+syntactic, verb, 
+visual word, 
+english and 
+word form. Sex 
+was associated 
+with autism 
+polygenic score 
+(N = 32,256, t = 
+3.55, p = 3.84 × 
+10−4 ). non-
+right-
+handedness 
+was positively 
+associated with 
+autism 
+polygenic score 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 108]
+108 
+ 
+vs. right-
+handedness, β 
+= 0.05, p = 
+0.004. No 
+associations 
+were found 
+with unilateral 
+brain measures 
+(p > .0304). 
+Phe-WAS: out 
+of 3238 
+outcome 
+measures, 
+autism 
+polygenic score 
+only 
+association 
+with “Hearing 
+difficulty/probl
+ems with 
+background 
+noise” (N = 
+31,728, β = 
+0.06, adjusted 
+p = 2.7 × 10−3 
+), “Townsend 
+deprivation 
+index at 
+recruitment” 
+(N = 32,229, β 
+= 0.03, 
+adjusted p = 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 109]
+109 
+ 
+2.75 × 10−3 ), 
+“Qualifications
+: College or 
+University 
+degree” (N = 
+32,054, β = 
+0.05, adjusted 
+p = 5.55 × 10−3 
+) and “Long-
+standing 
+illness, 
+disability or 
+infirmity” (N = 
+31,751, β = 
+0.06, adjusted 
+p = 1.53 × 10−2 
+)  
+Wendt (2020)89  Phe-WAS The total sample 
+with available 
+phenotype data 
+included in the 
+phe-WAS 
+consisted of 311 
+children 
+between 8-10 
+years (55.9% 
+male), 491 
+children 
+between 11 and 
+17 years (47.9% 
+male) and 324 
+18 and over 
+ PRSice. P = 
+0.0001 to p = 1 
+in 0.000005 
+increasements 
+491 
+neurodevelopme
+ntal phenotypes 
+ Age, sex, 10 
+PCs 
+The autism 
+polygenic score 
+was 
+significantly 
+associated with 
+the emotional 
+intelligence 
+phenotype 
+PEITANG 
+(Penn 
+Emotional 
+Identification 
+Test (PEIT) 
+recognition of 
+angry emotions; 
+FDR + 
+Bonferroni (P < 
+3.63x10-6) 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 110]
+110 
+ 
+(44.5% male). 
+Participants 
+were American. 
+Genetic ancestry 
+was restricted to 
+European. 
+z-score = 5.28, 
+R2 = 1.06%, p = 
+1.38 × 10−7 , P-
+value threshold 
+= 0.4487) in 
+children aged 
+11-17 years old. 
+In models 
+covaried for 
+angry emotion 
+recognition, 
+autism PRS was 
+significantly 
+associated with 
+the ability to 
+recognize 
+happiness (z-
+score = -2.41, 
+R2 = 0.221%, p 
+= 0.016, pdiff = 
+6.41 × 10−4 ) 
+and neutral 
+emotions (z-
+score = -2.05, 
+R2 = 0.159%, p 
+= 0.041, pdiff = 
+0.433; Fig 3). 
+autism PRS was 
+associated with 
+reaction time for 
+anger trials (z-
+score = -2.08, 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 111]
+111 
+ 
+R2 = 0.138%, p 
+= 0.038), fear 
+trials (z-score = 
+-2.06, R2 = 
+0.161%, p = 
+0.018), and 
+happy trials (z-
+score = 2.21, R2 
+= 0.356%, p = 
+0.027 
+Other 
+Cullen (2021)68 Cognition and 
+executive 
+function, other 
+The sample 
+included 4,934 
+individuals. Of 
+these, 1,858 
+were from 
+monozygotic 
+twin pairs and 
+3,076 were from 
+dizygotic twin 
+pairs (1,596 
+same-sex pairs 
+and 1,480 
+opposite-sex 
+pairs). 
+Participants 
+were born 
+between 1994 
+and 1996 and 
+were British or 
+Welsh. Genetic 
+ancestry was 
+LDpred. No 
+threshold, 
+Bayesian 
+approach 
+Gestational age 
+at birth and 
+cognition at four 
+(PARCA) 
+5 PCs, genotype 
+chip, plate, sex, 
+and SES 
+The autism 
+polygenic score 
+was not 
+significantly 
+associated with 
+gestational age 
+at birth (b = -
+.012, SE = .014, 
+p = .384) or 
+cognition at age 
+4 (b = .007, SE 
+= .014, p = 
+.614) 
+Bonferroni 
+correction 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 112]
+112 
+ 
+restricted to 
+European. 
+Debost (2022)32 Autism 
+diagnosis, other 
+A total of 22153 
+iPsych 
+participants 
+were included in 
+the analyses, 
+10890 of whom 
+were female. 
+Participants 
+were assessed at 
+ages ≥ 5 and ≥ 
+10. Participants 
+were all Danish 
+and genetic 
+ancestry was 
+restricted to 
+European.  
+LDpred and 
+BOLT-LMM. 
+Bayesian 
+approach, no 
+threshold 
+needed 
+First diagnosis 
+of autism at age 
+≥ 5. Diagnoses 
+of early 
+childhood 
+infection 
+according to 
+ICD-8 or ICD-
+10, including 
+viral, bacterial, 
+fungal, and 
+other infections 
+Sex, calendar 
+period and 10 
+PCs 
+The autism 
+polygenic score 
+was 
+significantly 
+associated with 
+autism diagnosis 
+(HR = 1.34, 
+95% CI, 1.30–
+1.38) and it 
+showed mixed 
+associations 
+with odds of 
+infection in 
+different 
+quartiles. 
+Not reported 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 113]
+113 
+ 
+Hannon 
+(2018)33 
+Autism 
+diagnosis, Other 
+Minerva cohort, 
+a subset of 1316 
+iPsych samples, 
+including an 
+equal number of 
+autism cases 
+(52% male, 
+mean 
+gestational age 
+= 39.6 (1.82)) 
+and controls 
+(49.8% male, 
+mean 
+gestational age 
+= 39.6 (1.2)). 
+Birth years for 
+cases and 
+controls range 
+from 1998 to 
+2002. 
+Participants are 
+all Danish. 
+Genetic ancestry 
+was not 
+reported. 
+Plink. Ten 
+different 
+significance 
+thresholds (pT) 
+from 5 × 10−8 
+to 1 to identify 
+the optimal set 
+of SNPs with 
+the largest 
+difference 
+between autism 
+cases and 
+controls 
+DNA 
+methylation 
+from neonatal 
+dried blood 
+samples. 
+Autism 
+diagnosis. 
+the number of 
+non-missing 
+genotypes 
+contributing to 
+the polygenic 
+score, the first 
+five genetic 
+principal 
+components, 
+sex, 
+experimental 
+array number, 
+six cell 
+composition 
+variables, 
+smoking score, 
+gestational age, 
+and birth weight 
+The autism 
+polygenic score 
+significantly 
+associated with 
+two DMPs  
+(cg02771117, P 
+= 3.14 × 10−8; 
+cg27411982, P 
+= 8.38 × 10−8) 
+at P < 1 × 10−7 
+and 49 DMPs 
+associated at a 
+more relaxed 
+“discovery” P 
+value threshold 
+(P < 5 × 10−5). 
+The autism 
+polygenic score 
+also 
+distinguished 
+autism cases 
+from controls 
+(R2 = 3.12%, P 
+= 9.49E-13) 
+P < 1 × 10−7 
+Havdahl 
+(2022)48 
+Specific 
+psychiatric 
+classifications, 
+physical 
+wellbeing, other 
+The total sample 
+included up to 
+14,539 MoBa 
+mothers (mean 
+age = 30.00, SD 
+= 4.45) and 
+14,897 fathers 
+PRSice. P < .05 Pregnancy-
+related factors 
+related to 
+maternal 
+lifestyle and 
+health 
+behaviors, 
+Genotyping 
+batch, 10 PCs 
+Maternal autism 
+polygenic score 
+was associated 
+with higher 
+odds of 
+experiencing 
+lifetime 
+P < .002 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 114]
+114 
+ 
+(mean age = 
+32.46, SD = 
+5.13) depending 
+on the outcome 
+measure. 
+Participants 
+were 
+Norwegian. 
+Genetic ancestry 
+was restricted to 
+European.  
+metabolism, 
+immune 
+system, other 
+physical health 
+conditions, and 
+(indications 
+for) medication 
+use.  
+depression (OR 
+1.12 (1.08 to 
+1.16), p= 9.70 × 
+10−9) and 
+depression/anxi
+ety symptoms 
+(OR 1.13 (1.06 
+to 1.19), p = 
+3.62 × 10−5).  
+Weak evidence 
+for association 
+with migraine 
+(OR 1.10 (1.02 
+to 1.18), p = 
+.009) and 
+urinary tract 
+infection (OR 
+1.08 (1.02 to 
+1.14), p = .005) 
+during 
+pregnancy. No 
+significant 
+associations 
+with other 
+pregnancy-
+related factors. 
+Paternal 
+autism 
+polygenic score 
+was not 
+significantly 
+associated with 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 115]
+115 
+ 
+any pregnancy-
+related factors 
+measured in 
+fathers 
+Kalman 
+(2021)90 
+ Other 12,977 PGC and 
+ConLiGen 
+participants with 
+bipolar disorder 
+coming from 34 
+cohorts (41.41% 
+male). 
+Participants 
+were European, 
+North American 
+or Australian. 
+Genetic ancestry 
+was restricted to 
+European.  
+PR-CS. Six 
+polygenic score 
+thresholds (with 
+φ = 1 × 10−1, 
+1 × 10−2, 
+1 × 10−3, 
+1 × 10−4, 
+1 × 10−5, and 
+1 × 10−6) 
+Age at bipolar 
+disorder onset 
+and polarity at 
+onset of bipolar 
+disorder 
+Gender, bipolar 
+disorder subtype 
+and 8 PCs 
+Higher autism 
+polygenic score 
+(β = −0.34 years 
+per 1 s.d. 
+increase in 
+polygenic score, 
+s.e. = 0.08, P = 
+9.85 × 10−6 ) 
+was associated 
+with an earlier 
+a

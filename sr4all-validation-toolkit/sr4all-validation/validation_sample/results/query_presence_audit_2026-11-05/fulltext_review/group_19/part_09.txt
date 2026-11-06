@@ -1,0 +1,284 @@
+cale) was 70.59, SD 6.16.
+Both greater degree of perceived parental
+control and lower levels of self-esteem were
+significant predictors of impostor fears.
+Parental care score, pa rental educational
+and occupational level and subject's mental
+health and demographic information did not
+show a significant relationship to impostor
+scores. A post-hoc regression analysis
+indicated, however, that in addition to
+parental protection, lower care and poorer
+mental health was significantly related to
+increasing levels of impostor scores and
+(continued on next page)
+Bravata et al.: Impostor Syndrome: a Systematic ReviewJGIM 1267
+
+[W2996390330 PDF PAGE 17]
+Table 1. (continued)
+Reference (Year
+of
+publication)
+Country Study Purpose Population Sample Size/
+Response Rate
+(RR)
+Gender
+(% women)
+Age
+(mean)
+Study Design Main Findings
+with subjects having attended private school
+reporting lower levels of impostor feelings.
+In addition, subjects classified as impostors
+were found to report significantly higher
+GHQ scores (poorer mental health) than
+non-impostors.
+Thompson
+(1998)(70)
+Australia Clarify the affective
+and attributional
+behavior of impostors
+following success
+and failure feedback
+College students
+(Psychology)
+164
+RR – 65%
+77% 20yrs Cross sectional
+survey
+Prevalence: 48.8%; Mean IP score (Clance
+20 item scale) was 73.05, SD 6.68.
+Using the 62-cutoff score, 48.8% of
+respondents were cla ssified as impostors
+with 51.2% classified a non-impostor on
+CIPS. While a higher percentage of females
+(50.8%) relative to males (39%) were
+classified as impostors, this difference did
+not reach statistical significance. Age was
+negatively associated with impostor fears.
+Imposters felt greater humiliation and guilt
+after failure than success; there was no sig
+difference in these in either the
+success/failure condition for non-imposters.
+Imposters attributed poor performance to
+internal factors to a greater extent than
+non-imposters. Imposters reported lower
+academic and global self-esteem than
+non-imposters. There was no difference in
+GPA between imposters and non-imposters.
+Thompson
+(2000)(71)
+Australia To assess the connection
+between impostor fears
+and perfectionistic
+concern over mistakes
+College students
+(Psychology)
+60
+RR – not
+stated
+82% 21yrs Cross sectional
+survey
+Prevalence: Not assessed in this study.
+Imposters reported less control (p <0.005),
+greater anxiety (p <0.002), more negative
+affect and greater concern over mistakes (p
+<0.01), than non-imposters when
+performing tasks.
+Vergauwe
+(2015)(72)
+Belgium Examine the trait-relatedness
+of the IP and the potential impact
+of IP on relevant work attitudes
+and organizational citizenship
+behavior
+White collar
+workers
+201
+RR – not
+stated
+58% 36yrs Cross-sectional
+survey
+Prevalence: 20%; Mean IP score (Clance 16
+item scale) was 57.93, SD 6.96.
+No significant sex differences in mean
+impostor tendencies. Impostor tendencies
+are positively related to neuroticism,
+maladaptive perfectionism and negatively to
+conscientiousness and adaptive
+perfectionism. No signi ficant relationships
+were observed between impostor tendencies
+and openness or agreeableness.
+Significant moderation effects on were
+found in the present study for job
+satisfaction and organi zational citizenship
+behavior.
+Villwock et al.
+(2016)(73)
+USA To assess gender and
+other demographics
+associated with IP and
+evaluate weather IP is associated
+with burnout
+Medical Students 138
+RR – 5.28%
+56% 18-24yrs
+-
+43%,
+Cross sectional
+survey
+Prevalence: 49% of females and 23.7% of
+males displayed IS (Young Imposter Scale).
+White and Asian race/ethnicity is associated
+with lower rates of IS (30%) compared with
+other races (73%). Female gender was not
+(continued on next page)
+Bravata et al.: Impostor Syndrome: a Systematic Review JGIM1268
+
+[W2996390330 PDF PAGE 18]
+Table 1. (continued)
+Reference (Year
+of
+publication)
+Country Study Purpose Population Sample Size/
+Response Rate
+(RR)
+Gender
+(% women)
+Age
+(mean)
+Study Design Main Findings
+25-30yrs
+-
+50%
+significantly associated with burnout.
+Students with IS had increased levels of
+exhaustion, emotional exhaustion,
+cynicism, and depersonalization. Fourth
+year students had higher level of IS than
+other years.
+Want & Kleitman
+(2006) (74)
+Australia To examine parental rearing
+styles and objective confidence
+in relation to impostor
+phenomenon and self-
+handicapping tendencies
+Mixed
+occupations
+including doctors,
+lawyers,
+executives,
+graduate
+students,
+small business
+owners
+115
+RR – not stated
+62% 39yrs Cross sectional
+survey
+Prevalence: Not Stated; Mean IP score
+(Clance 20 item scale) was 53.61, SD
+13.22.
+Self-handicapping tendencies correlate
+positively with feeli ngs of impostorism.
+Impostor scores correlate negatively with
+paternal care/warmth, they show no
+significant correlation with maternal
+care/warmth. Impostors c o r e sc o r r e l a t e
+positively with both mat ernal and paternal
+overprotection scores. A similar pattern of
+correlations is evident for the
+Self-Handicapping Scale, yet there are
+significant negative co rrelations between
+self-handicapping and both parental
+care/warmth scores. Higher impostor scores
+correlate with lower confidence levels, but
+not with the accuracy score of the test.
+There are no significant correlations
+between age and eithe r self-handicapping or
+imposter feelings.
+Bravata et al.: Impostor Syndrome: a Systematic ReviewJGIM 1269
+
+[W2996390330 PDF PAGE 19]
+assessment for impostor syndrome — thereby potentially
+invalidating these tools for minority populations.29
+Employed Populations. Nineteen of the included articles
+described impostor syndrome among employed
+populations.9, 11, 14, 15, 26, 32, 37, 38, 40, 44, 46 –48, 53, 58, 59, 62,
+72, 74 Five of these were of nurses and physicians, 9, 40, 44, 46, 62
+the rest included managers, teachers, and accountants, among
+others. Given the tendency of people with impostor syndrome to
+aggressively pursue achievement while not being able to accept
+recognition when success is achieved, affected employees may
+experience increased levels of stress, burnout, and decreased job
+performance and satisfaction over time.26, 37, 72 Employees who
+persistently question their professional legitimacy are at higher
+risk for experiencing adverse psychological outcomes with
+implications to career retention, advancement, and job
+performance. Moreover, impostor feelings among employees is
+associated with fear of failure, fear of success, and low self-
+esteem.58 Employees who report more impostor feelings report
+less career planning and motivation to lead.58, 60
+Bechtoldt found that supervisors across a variety of indus-
+tries scoring high on impostorism were more inclined to
+delegate both routine and challenging tasks to subordinates
+who doubted their own professional abilities. 11
+Crawford et al. found a significant relationship between
+impostor syndrome and self-reported conflict managing
+work/life balance among community college employees; how-
+ever, this relationship was minimized if employees perceived
+greater organizational support.26 This suggests a role for man-
+agers and executives in mitigating the effects of impostor
+syndrome on employees.
+Together, these findings suggest that individuals who strug-
+gle with impostor syndrome may be limited in their ability to
+fully develop their professional potential and may be a signif-
+icant contributor to burnout both among healthcare profes-
+sionals and others.
+Diagnostic Tools
+Several tools have been developed to assess impostor syn-
+drome. The preponderance of included articles used the
+Clance Imposter Phenomenon Scale (or its German transla-
+tion),75 a 20-item scale on a 5-point Likert scale related to self-
+assessed competency, praise, and success. Six studies 16, 27, 29,
+45, 49, 61 used the Harvey Impostor Phenomenon Scale
+(HIPS),76 a 14-item questionnaire on a 7-point Likert scale
+regarding personality traits (where a higher score indicates
+greater identification with impostor syndrome). Two used the
+Leary Imposter Scale,55, 56 two used self-developed question-
+naires,15, 19 one45 used the Perceived Fraudulence Scale, 1 and
+one used the Young Imposter scale. 73
+There is considerable variation in how researchers interpret
+specific scores on the impostor syndrome diagnostic scales.
+For some, a score of < 40 on the CIPS denotes no impostorism,
+40–59 mild, 60 –79 moderate, and > 80 as severe impostor
+feelings.75 Others recommend using a score of 62 on the
+Figure 3 Distribution of mean age among the included studies. Presents the distribution of mean age for the included studies.
+Figure 2 Included studies by publication year. Presents the distribution of the included studies by year of publication.
+Bravata et al.: Impostor Syndrome: a Systematic Review JGIM1270
+
+[W2996390330 PDF PAGE 20]
+CIPs77 or use the median CIP score in their population 25 to
+distinguish impostors from non-impostors. We note the cutoffs
+used, when reported.
+Prevalence
+Few of the included studies were designed to assess the
+prevalence of impostor syndrome, which varied widely from
+9 to 82% largely depending on the screening tool and cutoff
+used to assess symptoms. For example, Chae et al. 18 found
+that the prevalence of impostor syndrome among 654 Korean
+Catholics varied from 24% using a CIPS cutoff of 62 to 39%
+using a cutoff of 58. We suspect that the included literature on
+the prevalence of impostor syndrome may be subject to pub-
+lication bias (i.e., the tendency of journals to publish studies
+with positive findings rather than negative findings) since all
+of the included studies reported some participants endorsing
+impostor feelings.
+Predictors of Impostor Syndrome
+Gender Effects. Thirty-three articles compared the rates of
+impostor syndrome by gender. 10, 14, 18, 21, 23, 25, 27, 28, 32, 35 –
+39, 42, 43, 45 –50, 54, 57, 62, 63, 68, 70, 72, 73 Sixteen of these found
+that women reported statistically significantly higher rates of
+impostor feelings than men.23, 28, 33, 35 –39, 42, 43, 46, 50, 57, 62, 63,
+73 Hutchins and 

@@ -1,0 +1,262 @@
+2003 Referral to speciality 
+care:
+Total utilisation of clini-
+cal services Utilisation 
+not consistent with 
+guideline
+Baseline Year:
+Total Utilisa-
+tion: 12.0%
+Utilisation not 
+guideline 
+consistent: 
+9.5%
+Intervention Year: Total 
+utilisation 8.6%, Uti-
+lisation not guideline 
+consistent 7.1%
+BaselineYear:
+Total utilisa-
+tion 5.9%
+Utilisation not 
+guideline 
+consistent 
+4.0%
+Intervention Year:
+Total utilisation 7.1%
+Utilisation not guideline 
+consistent 5.6%
+NR 105/1218† 59/828† –
+
+[W4296161506 PDF PAGE 9]
+2859European Spine Journal (2022) 31:2851–2865 
+1 3
+Study characteristics
+Population The sample sizes included in intervention 
+phases of the studies ranged from 1101 to 245,710 and 
+total number of patients included in the review was 
+258,329. Cluster sizes ranged from 4 through to 54, with 
+the number of clusters in one study [8 ] being unclear. 
+Attempts to contact authors for further information were 
+not successful. Two studies examined patients with acute 
+LBP, and [8, 11] two studies examined patients where the 
+majority [39] or all [40] had less than three months of 
+pain. In two studies [41, 42], the duration of pain was 
+unclear.
+Interventions All six studies [8 , 11, 39–42] incorpo-
+rated education and/or workshop component interventions 
+for clinicians, with three studies [8 , 40, 42] incorporating 
+audit and/or feedback components, with three studies [11, 
+40, 42] incorporating some form of passive dissemination 
+of materials to clinicians. One study [40] implemented 
+changes in (electronic) medical records systems to remind 
+clinicians of guideline-based approach. One US-based 
+study [41] further worked with hospital administrators 
+and educating them regarding negative impact on profits 
+of non-adherent approaches and also implemented shared 
+decision-making with patients.
+Comparator Five studies [8 , 11, 39, 41, 42] used a no-
+intervention control for clinicians and one study [ 40] used 
+passive dissemination of guidelines. One study imple-
+mented patient education materials in a control group [8 ].
+Outcomes Two studies [39, 41] reported data on spine 
+surgery consultations [39] or spine surgery rates [41], and 
+four studies reported referral more widely to specialist or 
+secondary care but did not specifically report surgical con-
+sultation rates [8, 11, 40, 42]. Three studies reported a sig-
+nificant reduction in surgery rates [41] or secondary referral 
+rates [11, 40], one study [8] reported a change in specialist 
+referral rates (increase in control, decrease in intervention), 
+but it was not significant (Fig.  2). Two studies reported no 
+significant change in spine surgeon visits [39], referral rates 
+[11] or specialist consultations [42].
+Study design  All included studies were cluster ran -
+domised controlled trials. Four studies had public or not-
+for-profit funding [8, 39, 41, 42], and one study [40] received 
+funding from a medical insurer foundation and professional/
+community organisations and one study [11] did not report 
+funding sources.
+Risk of bias and GRADE assessment
+Five studies [11, 39–42] were rated as low risk of bias 
+and one [ 8] as having some concerns (Table  3). Consid -
+ering individual domains, there was low risk of bias for 
+the measurement of outcome, and some concerns in the 
+remaining domains (Table 3). GRADE assessment was not 
+Fig. 2  Forest plot for the meta-analysis investigating the effective-
+ness of implementation interventions vs control group (standard prac-
+tice control group according to the EPOC guidelines) for the referral 
+to secondary care. See also Table  1 for more detail on the included 
+studies. There was very-low quality evidence for no effect of inter -
+ventions on changing secondary referral rates. The outcome spine 
+surgery referral or rates could only be assessed via meta-analysis of 
+p-values and thus a forest plot was not possible (see “Results”). For 
+this outcome, there was evidence for benefit of a reduction of surgery 
+referral (p = 0.021, n = 2 studies, Risk of Bias: low), but this effect did 
+not remain significant on sensitivity analysis. The number of events 
+relative to the total participants are adjusted for the intraclass cluster 
+coefficient during the analysis and displayed here
+
+[W4296161506 PDF PAGE 10]
+2860 European Spine Journal (2022) 31:2851–2865
+1 3
+implemented for the surgical referral or rate outcome as 
+meta-analyses could not be conducted. For secondary refer-
+ral, the certainty of the evidence was rated for meta-analytic 
+outcomes as very low. Main reasons for downgrading the 
+evidence were study quality, imprecision and inconsist-
+ency. Publication bias and/or small study bias could not be 
+assessed because fewer than 10 studies were included [31], 
+but the majority of studies were funded by not-for-profit 
+entities leading us to expect that publication bias is unlikely 
+to impact the evidence.
+Quantitative analysis
+Six studies [8 , 11, 39–42] were included in quantitative 
+analysis, two for surgical referral and four for secondary 
+referral. Two studies [39, 41] reported surgery referral or 
+surgery rates and the other studies [8, 11, 40, 42] reported on 
+the outcome secondary referral (which may not exclusively 
+include surgical referral).
+For surgical referral or rates, we performed a combination 
+of P values as only Cherkin et al. [39] reported an effect size 
+(adjusted OR: 1.11; 95% CI [0.53, 2.32]) whereas the other 
+study [41] did not. In this analysis, there was evidence for 
+benefit of a reduction of surgery referral in at least one study 
+(p = 0.021, Fisher’s method, n = 2 studies, risk of bias: low; 
+GRADE assessment not possible as meta-analysis unable to 
+be performed). However, sensitivity analysis with Stouffer’s 
+method did not show a significant effect (p  = 0.053) when 
+applying an alpha level of 0.05.
+For studies reporting the outcome of secondary referral, 
+we performed a meta-analysis with four studies (Fig.  2) [8, 
+11, 40, 42]. A conservative ICC value of 0.015 was assumed 
+for all studies that had no estimate and for the other stud-
+ies the published estimate. Overall, meta-analysis revealed 
+a non-significant OR 1.07; [95% CI (0.55, 2.06), I2 = 73.0%, 
+95% CI (23.9%, 90.4%), n  = 4 studies, GRADE: very low]. 
+We performed sensitivity analyses on secondary referral 
+(Table 4). First, we checked if there were potential outliers 
+Table 3  Risk of bias for cluster randomised trials using the Cochrane ROB2 tool
+Author Year Domain 1a
+randomisation
+Domain 1b
+timing of ran-
+domisation
+Domain 2
+deviations 
+from interven-
+tions
+Domain 3
+missing outcome 
+data
+Domain 4
+measure-
+ment of 
+outcome
+Domain 5
+selection of 
+result
+Overall
+Cherkin [39] 2018 Low Low Low Low Low Low Low
+Goldberg [41] 2004 Low Low Low Low Low Low Low
+Coombs [42] 2021 Low Low Low Low Low Low Low
+Dey [11] 2001 Low Low Low Low Low Low Low
+Riis [40] 2016 Low Low Low Low Low Low Low
+Schectman [8] 2003 Some concerns Some concerns Some concerns Some concerns Low Some concerns Some concerns
+Table 4  Sensitivity analyses
+NE not estimable
+Outcome Type of sensitivity 
+analysis
+Excluded influential 
+studies
+Meta-analytic result 
+of main analysis (OR,  
+95% CI, I2, 95% CI, 
+number of studies)
+Result of sensitivity 
+analysis (OR, 95% CI, 
+I2, 95% CI, number of 
+studies)
+Likely impact 
+on meta-analytic 
+result
+Secondary referral Outlier and influential 
+study analysis
+Dey et al. [11]
+Riis et al. [40]
+1.07;
+[0.55; 2.06]
+I2 = 73.0%
+[23.9%; 90.4%]
+N = 4
+1.13;
+[0.63; 2.05]
+I2 = 0.0%
+[NE]
+N = 2
+No relevant change
+Secondary referral Only studies with low 
+ROB
+Schectman et al 1.07;
+[0.55; 2.06]
+I2 = 73.0%
+[23.9%; 90.4%]
+N = 4
+1.04;
+[0.43; 2.51]
+I2 = 79.9%
+[36.4%; 93.7%]
+N = 3
+No relevant change
+Secondary referral ICC = 0.001 for Schect-
+man et al. [8]
+None 1.07;
+[0.55; 2.06]
+I2 = 73.0%
+[23.9%; 90.4%]
+N = 4
+1.10;
+[0.60; 2.03]
+I2 = 75.5%
+[32.3%; 91.1%]
+N = 4
+No relevant change
+
+[W4296161506 PDF PAGE 11]
+2861European Spine Journal (2022) 31:2851–2865 
+1 3
+or influential studies and what the impact of the removal of 
+these studies would have on the overall summary effect size. 
+We identified two influential studies [11, 40]. The removal 
+of these studies had a slight effect in favour of the control 
+group OR 1.13; [95% CI (0.63, 2.05), I 2 = 0%, 95% CI (not 
+estimable), n = 2 studies). A sensitivity analysis was done to 
+check if a value of the ICC would change the results which 
+was not the case. One further sensitivity analysis was done 
+by only including trials with a low risk of bias. This did not 
+alter the results (Table 4). A sensitivity analysis for the study 
+[41] where some data extraction occurred from an image is 
+not applicable as the meta-analysis was performed using the 
+p-value for this study (which was extracted from the text). 
+We conclude that the results of the main analysis are robust 
+regarding the performed sensitivity analyses.
+Discussion
+This review examined the effects of various interventions 
+on optimising guideline-adherent surgery referral and rates 
+for low back pain patients. To the best of our knowledge, 
+our study is the first systematic review to consider inter -
+ventions to improve guideline-adherent surgery and surgi-
+cal referral in back pain patients. All six included studies 
+were cluster RCTs examining clinician level interventions. 
+There was some evidence for impact of the interventions on 
+spine surgery rates or referral (two studies included), but this 
+effect did not persist with sensitivity analysis. In consider -
+ing referral to secondary care (four studies) we found very 
+low-quality evidence that the interventions had no impact on 
+the outcomes of interest. Individually, two studies [40, 41] 
+showed a significant impact on the outcomes of interest here 
+whereas the remainder did not.
+Informing future efforts for guideline‑adherent 
+surgical referral for back pain
+Clinician education and/or workshops were a key component 
+of the interventions in all studies [8 , 11, 39–41] with two 
+studies [8, 

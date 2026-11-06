@@ -1,0 +1,98 @@
+7, 26, 433–441. [CrossRef]
+9. Moher, D.; Liberati, A.; Tetzlaff, J.; Altman, D.G.; Group, P . Preferred reporting items for systematic reviews and meta-analyses:
+The PRISMA statement. PLoS Med. 2009, 6, e1000097. [CrossRef]
+10. Fowkes, F.; Fulton, P . Critical appraisal of published research: Introductory guidelines. Brit. Med. J. 1991, 302, 1136–1140.
+[CrossRef]
+11. Jensen, C.D.; Block, G.; Buffler, P .; Ma, X.; Selvin, S.; Month, S. Maternal dietary risk factors in childhood acute lymphoblastic
+leukemia (United States). Cancer Causes Control 2004, 15, 559–570. [CrossRef]
+12. Sarasua, S.; Savitz, D.A. Cured and broiled meat consumption in relation to childhood cancer: Denver, Colorado (United States).
+Cancer Causes Control 1994, 5, 141–148. [CrossRef] [PubMed]
+13. Petridou, E.; Ntouvelis, E.; Dessypris, N.; Terzidis, A.; Trichopoulos, D. Maternal Diet and Acute Lymphoblastic Leukemia in
+Young Children. Cancer Epidem. Biomar. 2005, 14, 1935–1939. [CrossRef]
+14. Kwan, M.L.; Block, G.; Hudes, M.L.; Chu, L.W.; Buffler, P .A. Maternal diet and risk of childhood acute lymphoblastic leukemia.
+Public Health Rep. 2009, 124, 503–514. [CrossRef] [PubMed]
+15. Ross, J.A.; Potter, J.D.; Reaman, G.H.; Pendergrass, T.W.; Robison, L.L. Maternal exposure to potential inhibitors of DNA
+topoisomerase II and infant leukemia (United States): A report from the Children’s Cancer Group. Cancer Causes Control 1996,
+7, 581–590. [CrossRef]
+16. Peters, J.M.; Preston-Martin, S.; London, S.J.; Bowthan, J.D.; Buckley, J.D.; Thomas, D.C. Processed meats and risk of childhood
+leukemia (California, USA). Am. J. Epidemiol. 1994, 5, 195–202. [CrossRef]
+17. Singer, A.W.; Carmichael, S.L.; Selvin, S.; Fu, C.; Block, G.; Metayer, C. Maternal diet quality before pregnancy and risk of
+childhood leukaemia. Br. J. Nutr. 2016, 116, 1469–1478. [CrossRef]
+18. Karalexi, M.A.; Dessypris, N.; Clavel, J.; Metayer, C.; Erdmann, F.; Orsi, L.; Kang, A.Y.; Schuz, J.; Bonaventure, A.;
+Greenop, K.R.; et al. Coffee and tea consumption during pregnancy and risk of childhood acute myeloid leukemia: A Childhood
+Leukemia International Consortium (CLIC) study. Cancer Epidemiol. 2019, 62, 101581. [CrossRef]
+19. Milne, E.; Greenop, K.R.; Petridou, E.; Bailey, H.D.; Orsi, L.; Kang, A.Y.; Baka, M.; Bonaventure, A.; Kourti, M.; Metayer, C.; et al.
+Maternal consumption of coffee and tea during pregnancy and risk of childhood ALL: A pooled analysis from the childhood
+Leukemia International Consortium. Cancer Causes Control 2018, 29, 539–550. [CrossRef]
+20. Menegaux, F.; Ripert, M.; Hemon, D.; Clavel, J. Maternal alcohol and coffee drinking, parental smoking and childhood leukaemia:
+A French population-based case-control study. Paediatr. Perinat. Epidemiol. 2007, 21, 293–299. [CrossRef]
+21. Menegaux, F.; Steffen, C.; Bellec, S.; Baruchel, A.; Lescoeur, B.; Leverger, G.; Nelken, B.; Philippe, N.; Sommelet, D.;
+Hemon, D.; et al. Maternal coffee and alcohol consumption during pregnancy, parental smoking and risk of childhood acute
+leukaemia. Cancer Detect Prev. 2005, 29, 487–493. [CrossRef]
+22. Bonaventure, A.; Rudant, J.; Goujon-Bellec, S.; Orsi, L.; Leverger, G.; Baruchel, A.; Bertrand, Y.; Nelken, B.; Pasquet, M.;
+Michel, G.; et al. Childhood acute leukemia, maternal beverage intake during pregnancy, and metabolic polymorphisms. Cancer
+Causes Control 2013, 24, 783–793. [CrossRef] [PubMed]
+23. Milne, E.; Royle, J.A.; Bennett, L.C.; de Klerk, N.H.; Bailey, H.D.; Bower, C.; Miller, M.; Attia, J.; Scott, R.J.; Kirby, M.; et al.
+Maternal consumption of coffee and tea during pregnancy and risk of childhood ALL: Results from an Australian case-control
+study. Cancer Causes Control 2011, 22, 207–218. [CrossRef] [PubMed]
+24. Orsi, L.; Rudant, J.; Ajrouche, R.; Leverger, G.; Baruchel, A.; Nelken, B.; Pasquet, M.; Michel, G.; Bertrand, Y.; Ducassou, S.; et al.
+Parental smoking, maternal alcohol, coffee and tea consumption during pregnancy, and childhood acute leukemia: The ESTELLE
+study. Cancer Causes Control 2015, 26, 1003–1017. [CrossRef]
+25. Petridou, E.; Trichopoulos, D.; Kalapothaki, V .; Pourtsidis, A.; Kogevinas, M.; Kalmanti, M.; Koliouskas, D.; Kosmidis, H.;
+Panagiotou, J.P .; Piperopoulou, F.; et al. The risk profile of childhood leukaemia in Greece: A nationwide case-control study.Br. J.
+Cancer. 1997, 76, 1241–1247. [CrossRef]
+26. Clavel, J.; Bellec, S.; Rebouissou, S.; Menegaux, F.; Feunteun, J.; Bonaiti-Pellie, C.; Baruchel, A.; Kebaili, K.; Lambilliotte, A.;
+Leverger, G.; et al. Childhood leukaemia, polymorphisms of metabolism enzyme genes, and interactions with maternal tobacco,
+coffee and alcohol consumption during pregnancy. Eur. J. Cancer. Prev 2005, 14, 531–540. [PubMed]
+27. Madsen, C.N.; Henriksen, T.B.; Ramlau-Hansen, C.H.; Parner, E.T.; Olsen, J.; Bech, B.H. Coffee intake during pregnancy and
+childhood acute leukemia-A cohort study. Cancer Epidemiol. 2020, 67, 101747. [CrossRef]
+28. Bailey, H.D.; Miller, M.; Langridge, A.; de Klerk, N.H.; van Bockxmeer, F.M.; Attia, J.; Scott, R.J.; Armstrong, B.K.; Milne, E.
+Maternal dietary intake of folate and vitamins B6 and B12 during pregnancy and the risk of childhood acute lymphoblastic
+leukemia. Nutr. Cancer 2012, 64, 1122–1130. [CrossRef]
+
+[W4362699264 PDF PAGE 27]
+Int. J. Environ. Res. Public Health 2023, 20, 5428 27 of 28
+29. Singer, A.W.; Selvin, S.; Block, G.; Golden, C.; Carmichael, S.L.; Metayer, C. Maternal prenatal intake of one-carbon metabolism
+nutrients and risk of childhood leukemia. Cancer Causes Control 2016, 27, 929–940. [CrossRef]
+30. Bonaventure, A.; Simpson, J.; Ansell, P .; Roman, E.; Lightfoot, T. Prescription drug use during pregnancy and risk of childhood
+cancer - is there an association? Cancer Epidemiol. 2015, 39, 73–78. [CrossRef]
+31. Abudaowd, O.A.G.; Subki, S.; Alsaaedi, R.; Alsiyoufi, A.; Al-Khotany, B.; Altaifi, R.; Al-Kadi, H. Breast feeding and its association
+with childhood leukemia: A retrospective casecontrol study among children attending King Abdulaziz University Hospital in
+Jeddah, Saudi Arabia. Med. Sci. 2021, 25, 2624–2634.
+32. McKinney, P .A.; Juszczak, E.; Findlay, E.; Smith, K.; Thomson, C.S. Pre- and perinatal risk factors for childhood leukaemia and
+other malignancies: A Scottish case control study. Br. J. Cancer 1999, 80, 1844–1851. [CrossRef]
+33. Robison, L.L.; Buckley, J.D.; Daigle, A.E.; Wells, R.; Benjamin, D.; Arthur, D.C.; Hammond, G.D. Maternal drug use and risk of
+childhood nonlymphoblastic leukemia among offspring. An epidemiologic investigation implicating marijuana (a report from
+the Childrens Cancer Study Group). Cancer 1989, 63, 1904–1911. [PubMed]
+34. Van Steensel-Moll, H.A.; Valkenburg, H.A.; Vandenbroucke, J.P .; van Zanen, G.E. Are maternal fertility problems related to
+childhood leukaemia? Int. J. Epidemiol. 1985, 14, 555–559.
+35. Kwan, M.L.; Metayer, C.; Crouse, V .; Buffler, P .A. Maternal illness and drug/medication use during the period surrounding
+pregnancy and risk of childhood leukemia among offspring. Am. J. Epidemiol. 2006, 165, 27–35. [CrossRef] [PubMed]
+36. Linabery, A.M.; Puumala, S.E.; Hilden, J.M.; Davies, S.M.; Heerema, N.A.; Roesler, M.A.; Ross, J.A.; Children’s Oncology, G.
+Maternal vitamin and iron supplementation and risk of infant leukaemia: A report from the Children’s Oncology Group. Br. J.
+Cancer 2010, 103, 1724–1728. [CrossRef] [PubMed]
+37. Schuz, J.; Weihkopf, T.; Kaatsch, P . Medication use during pregnancy and the risk of childhood cancer in the offspring.Eur. J.
+Pediatr. 2007, 166, 433–441. [CrossRef] [PubMed]
+38. Shaw, A.K.; Infante-Rivard, C.; Morrison, H.I. Use of medication during pregnancy and risk of childhood leukemia (Canada).
+Cancer Causes Control 2004, 15, 931–937. [CrossRef]
+39. Wen, W.; Shu, X.O.; Potter, J.D.; Severson, R.K.; Buckley, J.D.; Reaman, G.H.; Robison, L.L. Parental medication use and risk of
+childhood acute lymphoblastic leukemia. Cancer 2002, 95, 1786–1794. [CrossRef]
+40. Ajrouche, R.; Rudant, J.; Orsi, L.; Petit, A.; Baruchel, A.; Nelken, B.; Pasquet, M.; Michel, G.; Bergeron, C.; Ducassou, S.; et al.
+Maternal reproductive history, fertility treatments and folic acid supplementation in the risk of childhood acute leukemia: The
+ESTELLE study. Cancer Causes Control 2014, 25, 1283–1293. [CrossRef]
+41. Amigou, A.; Rudant, J.; Orsi, L.; Goujon-Bellec, S.; Leverger, G.; Baruchel, A.; Bertrand, Y.; Nelken, B.; Plat, G.; Michel, G.; et al.
+Folic acid supplementation, MTHFR and MTRR polymorphisms, and the risk of childhood leukemia: The ESCALE study (SFCE).
+Cancer Causes Control 2012, 23, 1265–1277. [CrossRef]
+42. Dockerty, J.D.; Herbison, P .; Skegg, D.C.; Elwood, M. Vitamin and mineral supplements in pregnancy and the risk of childhood
+acute lymphoblastic leukaemia: A case-control study. BMC Public Health 2007, 7, 136. [CrossRef] [PubMed]
+43. Milne, E.; Royle, J.A.; Miller, M.; Bower, C.; de Klerk, N.H.; Bailey, H.D.; van Bockxmeer, F.; Attia, J.; Scott, R.J.; Norris, M.D.; et al.
+Maternal folate and other vitamin supplementation during pregnancy and risk of acute lymphoblastic leukemia in the offspring.
+Int. J. Cancer 2010, 126, 2690–2699. [CrossRef] [PubMed]
+44. Ognjanovic, S.; Blair, C.; Spector, L.G.; Robison, L.L.; Roesler, M.; Ross, J.A. Analgesic use during pregnancy and risk of infant
+leukaemia: A Children’s Oncology Group study. Br. J. Cancer 2011, 104, 532–536. [CrossRef] [PubMed]
+45. Thompson, J.R.; Gerald, P .F.; Willoughby, M.L.; Armstrong, B.K. Maternal folate supplementation in pregnancy and protection
+against acute lymphoblastic leukaemia in childhood: A case-control study. Lancet 2001, 358, 1935–1940. [CrossRef]
+46. Metayer, C.; Milne, E.; Dockerty, J.D.; Clavel, J.; Pombo-de-Oliveira, M.S.; Wesseling, C.; Spector, L.G.; Schuz, J.; Petridou, E.;
+Ezzat, S.; et al. Maternal supplementation with folic acid and other vitamins and risk of leukemia in offspring: A Childhood
+Leukemia International Consortium study. Epidemiology 2014, 25, 811–822. [CrossRef] [PubMed]
+47. Higgins, J.P .T.; Green, S.; Cochran

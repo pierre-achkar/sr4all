@@ -1,0 +1,267 @@
+pendently searched 
+each database (Pubmed and Web of Science) for publications. Any uncertainty regarding 
+the selection of a given article was resolved after screening by a third reviewer (IH) and 
+discussed in the working group, if needed. Th e final eligibility criteria for the included 
+Figure 1. Search Strategy.
+
+[W4362699264 PDF PAGE 4]
+Int. J. Environ. Res. Public Health 2023, 20, 5428 4 of 28
+Table 1. Inclusion and exclusion criteria.
+General inclusion criteria
+All studies describing the maternal dietary factors and their influence on the incidence of
+acute leukemia in children and adolescents were included in the systematic review. The risk
+factors considered were maternal nutrition (food and beverages) and supplement use during
+pregnancy. Pooled analysis including new data was also included in the review.
+General exclusion criteria
+• Studies on animals
+• Studies on the genetic aspects
+• Full text not available
+• Studies without original data (editorial, review, reports, guidelines)
+Exclusion criteria based on content
+• Studies of leukemia in children who already have other concomitant disorders (e.g., Down
+syndrome, congenital malformations)
+• Studies of the association between radiation and leukemia (e.g., prenatal boot setting for
+X-rays during pregnancy; living near a nuclear power station)
+• Studies of the association between environmental exposure and leukemia (e.g., air pollution,
+exhaust fumes, pesticides)
+• Studies on the association between infectious diseases and leukemia (maternal infections
+during pregnancy, illness of the child in the early years of life, presence in the nursery)
+Exclusion criteria based on study scope and data quality
+• Small studies (e.g., fewer than 50 cases)
+• Insufficient quality based on the checklist of Fowkes et al.
+Table 2. PICOS criteria for inclusion and exclusion of studies.
+Parameter Criterion
+Participants Children and adolescents diagnosed with acute leukemia
+Interventions Maternal dietary intake (including food groups and caffeinated beverages) and supplements
+Control/comparator group Healthy children and adolescents
+Outcomes Childhood acute leukemia
+Study design Observational studies with a comparison group (cohort studies, case-control studies)
+Subsequently, quality control of the selected articles was performed using the checklist
+by Fowkes et al. to ensure the inclusion of high-quality studies [10]. This checklist includes
+questions on the study design and sample, control group characteristics, quality of measure-
+ments and outcomes, completeness and influences of distortions. A major flaw identified
+for a given criterion is flagged by the sign ++. The + sign was applied to a criterion with
+a minor flaw. In case of no flaws, nil (0) was applied. If a study scored ++ on more than
+one criterion of this checklist, it was excluded (Figure 1). The quality control results of the
+selected articles are shown in Supplementary Table S2.
+Table 3. Overview of the included studies.
+Extracted Factors
+(Maternal Factors during Pregnancy) Number of Included Articles 1 References
+Food group intake (vegetables, fruits, cereals and grains, meats, diary) 7 [11–17]
+Coffee intake 11 [15,18–27]
+Tea intake 7 [15,18,19,21–24]
+Soft drink intake (cola drinks) 3 [15,16,22]
+
+[W4362699264 PDF PAGE 5]
+Int. J. Environ. Res. Public Health 2023, 20, 5428 5 of 28
+Table 3. Cont.
+Extracted Factors
+(Maternal Factors during Pregnancy) Number of Included Articles 1 References
+Micronutrient intake (glutathione, carotenoids, folates, etc.) 4 [11,14,28,29]
+Supplements of vitamins and minerals (folic acid, iron, etc.) 21 [11,14,28–46]
+1 A total of 36 studies were included in total (1 prospective cohort study, 3 pooled analysis studies and
+32 case-control studies).
+2.6. Data Extraction
+Table 4 summarizes the included studies by name, design, sample size, age at diagnosis
+and country of study population. The extracted key data from all included studies, effect
+estimates (RR, OR, or HR, 95% CI) and tested confounding variables are presented in
+Tables 5–10. The results from the pooled studies were also included, as reported in the
+summary tables.
+2.7. Quantitative Meta-Analysis
+A quantitative analysis of the risk of AL, ALL, or AML in children was performed to
+determine the risk factors that met the eligibility criteria for the meta-analysis. For each
+included factor, the choice of performing an additional quantitative analysis was based on
+the number (at least two studies) and homogeneity of the included studies (e.g., results
+from studies restricted to infants or from univariate analysis with no adjustments were not
+pooled with the rest of the results) and overlapping study data were also excluded. We
+used the adjusted odds ratio (OR) reported in case-control studies and the relative risk (RR)
+reported in cohort studies to calculate the overall effect. The analyses were conducted using
+the Generic Inverse Variance method, in which the weight of each study was equivalent
+to the inverse of the variance of the effect estimate [ 47]. A random-effects model was
+used if there was evidence of heterogeneity. Some exposures were reported at different
+levels; consequently, we calculated an estimate for binary exposure status (exposed vs. not
+exposed) by pooling exposed cases and controls across all levels of exposure. I2 statistics
+were used to assess heterogeneity, where 0% indicated perfect homogeneity and 100%
+complete heterogeneity [48]. Data were analyzed using Review Manager (RevMan) V .5.4.1,
+Cochrane, London, UK [49]. The results are summarized in Table 11.
+
+[W4362699264 PDF PAGE 6]
+Int. J. Environ. Res. Public Health 2023, 20, 5428 6 of 28
+Table 4. Characteristics of the included studies.
+Study/Reference Location and Study Period Leukemia Type Age Range (Years) Cases/Controls Control Source Maternal Exposure
+Variable(s)
+Source(s)/Assessment
+Tool
+Cohort
+Madsen et al. [27] Denmark, 1996–2002 Acute leukemia 0–14 96/Cohort 141, 216 Coffee and tea
+consumption Health registries
+Case control
+Abudaowd et al. [31] Saudi Arabia, 2008–2019 ALL, AML 1–19 74/148
+Community controls
+matched on age
+and gender
+Use of supplements Structured telephone
+interview
+Ajrouche et al. [40]
+(ESTELLE a) France, 2010–2011 ALL, AML 0–14 747/1421
+Population controls
+matched on age
+and gender
+Use of supplements Structured telephone
+questionnaires
+Amigou et al. [41]
+(ESCALE a) France, 2003–2004 ALL, AML 0–14 764/1681
+Randomly selected from
+French households with
+a landline telephone
+Use of supplements Standardized telephone
+interview
+Bailey et al. [28]
+(Aus-ALL b) Australia, 2003–2007 ALL 0–14 333/695
+Prospectively recruited
+by random digit dialing
+and matched on age,
+sex and residence
+Micronutrients and
+supplements
+Mailed,
+self-administered
+questionnaires and
+Food Frequency
+Questionaries
+Bonaventure et al. [22]
+2013 (ESCALE a) France, 2003–2004 ALL, AML 0–14 764/1681 Randomly selected with
+a landline telephone
+Coffee, tea and cola
+drink consumption
+Interviewed with
+standardized
+questionnaires
+Bonaventure et al. [30]
+2015 (UKCCS c) UK, 1991–1996 ALL, AML 0–14 864/2524
+Community controls
+matched on sex, month
+and year of birth and
+region of residence
+Use of supplements Primary care (general
+practice) records
+Clavel et al. [26]
+(ADELE a) France, 1995–1999 ALL, AML 0–14 247/288
+Hospitalized controls
+(for diseases other than
+cancer or birth defects)
+matched on age, gender
+and center
+Coffee consumption
+Interviewer-
+administered
+questionnaire
+
+[W4362699264 PDF PAGE 7]
+Int. J. Environ. Res. Public Health 2023, 20, 5428 7 of 28
+Table 4. Cont.
+Study/Reference Location and Study Period Leukemia Type Age Range (Years) Cases/Controls Control Source Maternal Exposure
+Variable(s)
+Source(s)/Assessment
+Tool
+Dockerty et al. [42] New Zealand, 1990–1993 ALL 0–14 97/303 Randomly from birth
+records, on age and sex Use of supplements
+Interviewer-
+administered
+questionnaire
+Jensen et al. [11]
+(NCCLS d)
+Northern California,
+1995–1999 ALL 0–14 138/138
+Community controls
+matched on age, sex,
+Hispanic ethnicity and
+maternal race
+Dietary intake,
+micronutrient and
+supplement use
+Interviewer-
+administered
+questionnaire
+Kwan et al. [35]
+(NCCLS d) California, 1995–2002 Acute leukemia 0–14 311/398
+Community controls
+matched on age, sex,
+Hispanic ethnicity and
+maternal race
+Use of supplements
+Interviewer-
+administered
+questionnaire
+Kwan et al. [14]
+(NCCLS d) California, 1995–2002 ALL 0–14 282/359
+Community controls
+matched on age, sex,
+Hispanic ethnicity and
+maternal race
+Dietary intake and
+micronutrients
+Interviewer-
+administered
+questionnaire
+Linabery et al. [36]
+(COG e) USA, Canada, 1996–2006 ALL, AML <1 year 443/324
+Community controls
+matched on birth year
+and location of
+residence
+Use of supplements Telephone interviews
+McKinney et al. [32] Scotland, 1976–1994 Acute leukemia 0–14 144/716
+Community controls
+matched on age, sex,
+region (for four studies)
+Use of supplements
+Interviewer-
+administered
+questionnaire
+Menegaux et al. [20]
+(ELECTRE a) France, 1995–1998 ALL, AML 0–14 534/567
+Community controls
+matched on age, sex,
+region
+Coffee consumption
+Self-administered
+standardized
+questionnaire
+Menegaux et al. [21]
+(ADELE a) France, 1995–1999 ALL, AML 0–14 280/288
+Hospitalized controls
+(for diseases other than
+cancer or birth defects)
+matched on age, gender
+and center
+Coffee and tea
+consumption
+Interviewer-
+administered
+questionnaire
+Milne et al. [43]
+(Aus-ALL b) Australia, 2003–2007 ALL 0–14 416/1361
+Prospectively recruited
+by random digit dialing
+and matched on age,
+sex and residence
+Use of supplements
+Mailed,
+self-administered
+questionnaires and
+Food Frequency
+Questionaries
+
+[W4362699264 PDF PAGE 8]
+Int. J. Environ. Res. Public Health 2023, 20, 5428 8 of 28
+Table 4. Cont.
+Study/Reference Location and Study Period Leukemia Type Age Range (Years) Cases/Controls Control Source Maternal Exposure
+Variable(s)
+Source(s)/Assessment
+Tool
+Milne et al. [23]
+(Aus-ALL b) Australia, 2003–2007 ALL 0–14 393/1249
+Prospectively recruited
+by random digit dialing
+and matched on ag

@@ -249,3 +249,9 @@ AGENTS.md
 *.jsonl
 *.json
 paper/
+
+# ignore all pdf
+*.pdf
+
+# Generated validation package archives
+/sr4all-validation-toolkit/sr4all-validation/validation_sample/packages/*.zip

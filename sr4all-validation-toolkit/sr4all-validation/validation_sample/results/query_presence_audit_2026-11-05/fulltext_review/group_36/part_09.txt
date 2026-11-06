@@ -1,0 +1,483 @@
+alosporin resistance or non-susceptibility. 
+Among the five results, one study observed a reduction in AMR rates in the post-PCV10/13 period, one ob-
+served an increase and three (60%) observed no change (Table 5).
+There were two results from one study on the changes in macrolide resistance or non-susceptibility, both 
+of which observed no change (Table 5).
+There were nine results from three studies on the changes in other antibiotic resistance or non-susceptibil-
+ity, which included multidrug resistance. Among the nine results, three (33%) studies observed reductions 
+in AMR rates in the post-PCV10/13 period and six (67%) observed no change (Table 5).
+The numbers of results were too small to assess changes in AMR rates for other isolates by population factors.
+DISCUSSION
+This systematic review on the impact of PCV10 or PCV13 on AMR in IPD, OM, NPC and other (sputum 
+or mixed invasive and non-invasive pneumococcal) found no evidence of a consistent pattern in change in 
+AMR following introduction of PCV. While most studies found reductions or no change in AMR rates, in a 
+minority of studies AMR increased in the period following PCV use, which varied across studies from one 
+to seven years post PCV introduction. There were variations in antimicrobial use across studies settings, as 
+assessed by methods described in the study and DDD data, which meant that data were too varied to allow 
+a detailed analysis because of heterogeneity between studies.
+
+[W4321164441 PDF PAGE 12]
+Reyburn et al. 
+RESEARCH THEME 1: PREVENTION AND 
+MANAGEMENT OF PNEUMONIA AND DIARRHOEA  
+IN CHILDREN – EVIDENCE SYNTHESIS
+2023  •  Vol. 13  •  05001  12  www.jogh.org •  doi: 10.7189/jogh.13.05001
+Table 2. Percentage of estimates by the direction of change (increase, decrease or no change) in antimicrobial resistance rates for IPD isolates by the population level risk factor and family of 
+antibiotic
+Penicillins Macrolides Cephalosporins Others
+Increase, 
+n (%*)
+Decrease, 
+n (%*)
+P-value† No 
+change,  
+n (%‡)
+Increase, 
+n (%*)
+Decrease, 
+n (%*)
+P-value† No 
+change,  
+n (%‡)
+Increase, 
+n (%*)
+Decrease, 
+n (%*)
+P-value† No 
+change,  
+n (%‡)
+Increase, 
+n (%*)
+Decrease, 
+n (%*)
+P-value† No 
+change,  
+n (%)
+Defined daily doses per 1000 inhabitants per day for any antibiotic§
+High, 20+ 1 (50) 1 (50) 0.81 5 (71) 0 3 (100) 0.08 3 (50) 1 (33) 2 (67) 0.08 1 (25) 7 (70) 3 (30) 0.45 5 (33)
+Low, <20 3 (60) 2 (40) 2 (28) 2 (67) 1 (33) 1 (25) 3 (100) 0 0 6 (86) 1 (14) 1 (13)
+World Bank Country income status (2021 classification)
+LIC 0 0 0.89 2 (100) 0 0 0.20 0 0 0 0.47 0 0 0 0.34 1 (100)
+LMIC 0 0 0 0 0 0 0 0 0 0 0 0
+UMIC 7 (54) 6 (46) 3 (19) 3 (60) 2 (40) 5 (50) 3 (75) 1 (25) 1 (20) 7 (88) 1 (13) 4 (33)
+HIC 2 (50) 2 (50) 5 (56) 1 (20) 4 (80) 4 (44) 2 (50) 2 (50) 1 (20) 9 (69) 4 (31) 5 (28)
+PCV valency
+PCV10 3 (50) 3 (50) 0.86 2 (25) 1 (50) 1 (50) 0.75 3 (60) 2 (100) 0 0.21 0 4 (100) 0 0.214 1 (20)
+PCV13 6 (54) 5 (45) 8 (42) 3 (38) 5 (62) 6 (43) 3 (50) 3 (50) 2 (25) 12 (71) 5 (29) 9 (35)
+Time since PCV introduction
+<3 y 3 (60) 2 (40) 0.71 4 (44) 1 (25) 3 (75) 0.43 2 (33) 2 (100) 0 0.21 0 4 (100) 0 0.10 3 (43)
+3+ y 6 (50) 6 (50) 6 (33) 3 (50) 3 (50) 7 (54) 3 (50) 3 (50) 2 (25) 12 (57) 9 (43) 11 (34)
+PCV – pneumococcal conjugate vaccine, IPD – invasive pneumococcal disease, y – year
+*Denominator includes only estimates which increased or decreased in the post-PCV period and excludes estimates which did not change.
+†P-value for χ2 test comparing increased vs. decreased.
+‡Denominator includes all estimates; increased, decreased and no change, in the post-PCV period.
+§Data on the defined daily doses of antibiotics consumed per 1000 inhabitants per day for any antibiotic for countries were extracted from WHO report.
+Table 3. Results of studies displaying the rates of resistant or non-susceptible otitis media isolates in the pre- and post-PCV10/13 periods
+ID
+Author
+Country
+Penicillin family (penicillin, amoxicillin, 
+amoxicillin-clavulanate (augmentin), 
+ampicillin, dicloxacillin, nafcillin, and 
+piperacillin-tazobactam (zosyn))
+Cephalosporin family (all antibiotics 
+starting with Cef)
+Macrolide family (erythromycin,  
+roxithromycin, azithromycin and  
+clarithromycin)
+Other
+Pre-PCV antibiotic 
+resistance
+Post-PCV antibiotic 
+resistance
+P-value for 
+comparison of pre- 
+vs post- antibiotic 
+resistnace
+Increase, decrease 
+either P < 0.05 
+or +/− 5%
+Pre-PCV antibiotic 
+resistance
+Post-PCV antibiotic 
+resistance
+Percent change in 
+antibiotic resistance
+Increase, decrease 
+either P < 0.05 
+or +/− 5%
+Pre-PCV antibiotic 
+resistance
+Post-PCV antibiotic 
+resistance
+Percent change in 
+antibiotic resistance
+Increase, decrease 
+either P < 0.05 
+or +/− 5%
+Pre-PCV antibiotic 
+resistance
+Post-PCV antibiotic 
+resistance
+Percent change in 
+antibiotic resistance
+Increase, decrease 
+either P < 0.05 
+or +/− 5%
+14 Hoshino, 
+2017 [23] Japan Penicillin 
+R: 25%
+Penicillin 
+R: 4.5% P = 0.038 No change
+PCV – pneumococcal conjugate vaccine, R – resistant
+
+[W4321164441 PDF PAGE 13]
+PCV impact on pneumococcal antimicrobial resistance
+RESEARCH THEME 1: PREVENTION AND 
+MANAGEMENT OF PNEUMONIA AND DIARRHOEA  
+IN CHILDREN – EVIDENCE SYNTHESIS
+www.jogh.org •  doi: 10.7189/jogh.13.05001 13 2023  •  Vol. 13  •  05001
+Table 4. Results of studies displaying the rates of resistant or non-susceptible nasopharyngeal carriage isolates in the pre- and post-PCV10/13 periods
+ID Author Country
+Penicillin family (penicillin, amoxicillin, 
+amoxicillin-clavulanate (augmentin), 
+ampicillin, dicloxacillin, nafcillin, and 
+piperacillin-tazobactam (zosyn))
+Cephalosporin family (all antibiotics start-
+ing with Cef)
+Macrolide family (erythromycin, roxithro-
+mycin, azithromycin and clarithromycin) Other
+Pre-PCV 
+antibiotic 
+resistance
+Post-PCV 
+antibiotic 
+resistance
+P value for 
+comparison 
+of pre- vs 
+post- antibiotic 
+resistance
+Increase, 
+decrease either 
+P < 0.05 or +/− 5%
+Pre-PCV 
+antibiotic 
+resistance
+Post-PCV 
+antibiotic 
+resistance
+Percent change 
+in antibiotic 
+resistance
+Increase, 
+decrease either 
+P < 0.05 or +/− 5%
+Pre-PCV 
+antibiotic 
+resistance
+Post-PCV 
+antibiotic 
+resistance
+Percent change 
+in antibiotic 
+resistance
+Increase, 
+decrease either 
+P < 0.05 or +/− 5%
+Pre-PCV 
+antibiotic 
+resistance
+Post-PCV 
+antibiotic 
+resistance
+Percent change 
+in antibiotic 
+resistance
+Increase, 
+decrease either 
+P < 0.05 or +/− 5%
+16 Kobayashi, 
+2020 [25] Kenya
+Pneumo-
+coccal 
+isolates 
+from Kibera 
+children
+Pneumo-
+coccal 
+isolates 
+from Kibera 
+children
+Pneumo-
+coccal 
+isolates 
+from Kibera 
+children
+Pneumo-
+coccal 
+isolates 
+from Kibera 
+children
+Pneumo-
+coccal 
+isolates 
+from Kibera 
+children
+Pneumo-
+coccal 
+isolates 
+from Kibera 
+children
+Pneumo-
+coccal 
+isolates 
+from Kibera 
+children
+Pneumo-
+coccal 
+isolates 
+from Kibera 
+children
+Pneumo 
+coccal 
+isolates 
+from Kibera 
+children
+Pneumo 
+coccal isolates 
+from Kibera 
+children
+Pneumo 
+coccal isolates 
+from Kibera 
+children
+Pneumo 
+coccal 
+isolates 
+from Kibera 
+children
+Penicillin R: 
+2.4% (n = 12)
+Penicillin R: 
+2.7% (n = 12) χ2 P = 0.618 No 
+change
+Ceftriaxone 
+R: 0% (n = 0)
+Ceftriaxone 
+R: 0% (n = 0) χ2 P = NA No 
+change
+Erythro-
+mycin R: 
+1.6% (n = 8)
+Erythro-
+mycin R: 
+3.8% (n = 17)
+χ2 P = 0.042 No 
+change
+Chloram 
+phenicol R: 
+1.8% (n = 9)
+Chloram 
+phenicol R: 
+3.2% (n = 14)
+χ2 P = 0.182 No 
+change
+Levofloxacin R: 
+0% (n = 0)
+Levofloxacin R: 
+0% (n = 0) χ2 P = NA No 
+change
+Tetracycline R: 
+17.0% (n = 85)
+Tetracycline R: 
+12.8% (n = 57) χ2 P = 0.187 No 
+change
+Cotrimoxazole 
+R: 86.2% 
+(n = 430)
+Cotrimoxazole 
+R: 90.1% 
+(n = 401)
+χ2 P = 0.029 Increase
+Clindamycin R: 
+0.2% (n = 1)
+Clindamycin R: 
+2.7% (n = 12) χ2 P = 0.001 Increase
+Pneumo-
+coccal 
+isolates 
+from Lwak 
+children
+Pneumo-
+coccal 
+isolates 
+from Lwak 
+children
+Pneumo-
+coccal 
+isolates 
+from Lwak 
+children
+Pneumo-
+coccal 
+isolates 
+from Lwak 
+children
+Pneumo-
+coccal 
+isolates 
+from Lwak 
+children
+Pneumo-
+coccal 
+isolates 
+from Lwak 
+children
+Pneumo-
+coccal 
+isolates 
+from Lwak 
+children
+Pneumo-
+coccal 
+isolates 
+from Lwak 
+children
+Pneumo 
+coccal 
+isolates 
+from Lwak 
+children
+Pneumo 
+coccal  
+isolates  
+from Lwak 
+children
+Pneumo 
+coccal  
+isolates  
+from Lwak 
+children
+Pneumo 
+coccal 
+isolates 
+from Lwak 
+children
+Penicillin R: 
+1.8% (n = 3)
+Penicillin R: 
+0.0% (n = 0) χ2 P = 0.235 No 
+change
+Ceftriaxone 
+R: 0.0% 
+(n = 0)
+Ceftriaxone 
+R: 0.0% 
+(n = 0)
+χ2 P = NA No 
+change
+Erythro-
+mycin R: 
+0.6% (n = 1)
+Erythro-
+mycin R: 
+0.0% (n = 0)
+χ2 P = 0.474 No 
+change
+Chloram 
+phenicol R: 
+2.6% (n = 4)
+Chloram 
+phenicol R:3.3% 
+(n = 6)
+χ2 P = 0.757 No 
+change
+Levofloxacin R: 
+0.0% (n = 0)
+Levofloxacin R: 
+0.0% (n = 0) χ2  P = NA No 
+change
+Tetracycline R: 
+18.4% (n = 30)
+Tetracycline R: 
+11.6% (n = 21) χ2 P = 0.001 Decrease
+Cotrimoxazole 
+R: 5.6% (n = 9)
+Cotrimoxazole 
+R: 5.5% (n = 10) χ2 P = 1.00 No 
+change
+Clindamycin R: 
+0.0% (n = 0)
+Clindamycin R: 
+0.0% (n = 0) χ2 P = NA No 
+change
+31 Turner, 
+2020 [37] Cambodia
+Penicillin 
+R: 81.0% 
+(n = 265)
+Penicillin 
+R: 65.6% 
+(n = 231)
+Decrease
+Ceftriaxone 
+R: 18.3% 
+(n = 60)
+Ceftriaxone 
+R: 11.1% 
+(n = 39)
+Decrease
+Erythro-
+mycin R: 
+52.3% 
+(n = 171)
+Erythro-
+mycin 
+R: 47.2% 
+(n = 166)
+Decrease
+Multi-drug 
+resistant R: 
+63.9% (n  = 241)
+Multi-drug 
+resistant R: 
+63.9% (n = 225)
+No 
+change
+Chloram 
+phenicol R: 
+12.2% (n = 40)
+Chloram 
+phenicol R: 
+11.1% (n = 39)
+No 
+change
+Clindamycin R: 
+40.4% (n = 132)
+Clindamycin R: 
+33.5% (n = 118) Decrease
+
+[W4321164441 PDF PAGE 14]
+Reyburn et al. 
+RESEARCH THEME 1: PREVENTION AND 
+MANAGEMENT OF PNEUMONIA AND DIARRHOEA  
+IN CHILDREN – EVIDENCE SYNTHESIS
+2023  •  Vol. 13  •  05001  14  www.jogh.org •  doi: 10.7189/jogh.13.05001
+ID Author Country
+Penicillin family (penicillin, amoxicillin, 
+amoxicillin-clavulanate (augmentin), 
+ampicillin, dicloxacillin, nafcillin, and 
+piperacillin-tazobactam (zosyn))
+Cephalosporin family (all antibiotics start-
+ing with Cef)
+Macrolide family (erythromycin, roxithro-
+mycin, azithromycin and clarithromycin) Other
+Pre-PCV 
+antibiotic 
+resistance
+Post-PCV 
+antibiotic 
+resistance
+P value for 
+comp

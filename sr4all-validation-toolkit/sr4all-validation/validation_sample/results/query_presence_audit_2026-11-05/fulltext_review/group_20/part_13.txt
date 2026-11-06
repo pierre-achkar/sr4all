@@ -1,0 +1,169 @@
+, Sun X, Ban B, Lu Z, Dang Y, Xie L, Zhang L, Li Y, Zhu W, Guo X.
+OSbrca: a web server for breast Cancer prognostic biomarker investigation
+with massive data from tens of cohorts. Front Oncol. 2019;9:1349.
+19. Xie L, Wang Q, Nan F, Ge L, Dang Y, Sun X, Li N, Dong H, Han Y, Zhang G,
+Zhu W, Guo X. OSacc: gene expression-based survival analysis web tool for
+adrenocortical carcinoma. Cancer Manag Res. 2019;11:9145 – 52.
+20. Wang F, Wang Q, Li N, Ge L, Yang M, An Y, Zhang G, Dong H, Ji S, Zhu W,
+Guo X. OSuvm: An interactive online consensus survival tool for uveal
+melanoma prognosis analysis. Mol Carcinog. 2020;59(1):56 – 61.
+21. Wang Q, Zhang L, Yan Z, Xie L, An Y, Li H, Han Y, Zhang G, Dong H, Zheng
+H, Zhu W, Li Y, Wang Y, Guo X. OScc: an online survival analysis web server
+to evaluate the prognostic value of biomarkers in cervical cancer. Future
+Oncol. 2019;15(32):3693 – 9.
+22. Xie L, Wang Q, Dang Y, Ge L, Sun X, Li N, Han Y, Yan Z, Zhang L, Li Y,
+Zhang H, Guo X. OSkirc: a web tool for identifying prognostic biomarkers in
+kidney renal clear cell carcinoma. Future Oncol. 2019;15(27):3103 – 10.
+23. Wang Q, Wang F, Lv J, Xin J, Xie L, Zhu W, Tang Y, Li Y, Zhao X,
+Wang Y, Li X, Guo X. Interactive online consensus survival tool for
+esophageal squamous cell carcinom a prognosis analysis. Oncol Lett.
+2019;18(2):1199 – 206.
+24. Zhang G, Wang Q, Yang M, Yuan Q, Dang Y, Sun X, An Y, Dong H, Xie L,
+Zhu W, Wang Y, Guo X. OSblca: a web server for investigating prognostic
+biomarkers of bladder Cancer patients. Front Oncol. 2019;9:466.
+25. Wang Q, Xie L, Dang Y, Sun X, Xie T, Guo J, Han Y, Yan Z, Zhu W, Wang Y,
+Li W, Guo X. OSlms: a web server to evaluate the prognostic value of genes
+in Leiomyosarcoma. Front Oncol. 2019;9:190.
+26. Li P, Yin H, Meng F, Liu S, Ma R. High TRIM44 expression in endometrial
+carcinoma is associated with a poorer patient outcome. Pathol Res Pract.
+2018;214(5):727– 31.
+27. Kashimoto K, Komatsu S, Ichikawa D, Arita T, Otsuji E. Overexpression of
+TRIM44 contributes to malignant outcome in gastric carcinoma. Cancer Sci.
+2012;103(11):2021– 6.
+28. Kawaguchi T, Komatsu S, Ichikawa D, Hirajima S, Nishimura Y, Konishi H,
+Shiozaki A, Fujiwara H, Okamoto K, Ts uda H. Overexpression of TRIM44
+is related to invasive potential and malignant outcomes in esophageal
+squamous cell carcinoma. Tumour Biology the Journal of the
+International Society for Oncodevel opmental Biology & Medicine.2017;
+39(6):568835656.
+29. Hidetaka K, Kotaro A, Kazuhiro I, Ikuko S, Keiichi K, Takeshi F, Akihiko O,
+Toshiaki S, Kuniko H, Satoshi I. TRIM44 Is a Poor Prognostic Factor for Breast
+Cancer Patients as a Modulator of NF- κB Signaling. Int J Mol Sci. 2017;18(9):
+1931.
+30. Wang H, Zi-Ling F, Gong-Hao Z, Xin M. <em>TRIM44</em>, a crucial target
+of miR-410, functions as a potential oncogene in osteosarcoma.
+Oncotargets Therapy. 11:3637 – 47.
+Xiao et al. BMC Cancer          (2020) 20:525 Page 13 of 14
+
+[W3033981438 PDF PAGE 14]
+31. Yamada Y, Takayama K, Fujimura T, Ashikari D, Obinata D, Takahashi S, Ikeda
+K, Kakutani S, Urano T, Fukuhara H. A novel prognostic factor TRIM44
+promotes cell proliferation and migration, and inhibits apoptosis in
+testicular germ cell tumor. Cancer Sci. 2017;108(1):32 – 41.
+32. Peng R, Zhang PF, Zhang C, Huang XY, Ding YB, Deng B, Bai DS, Xu YP.
+Elevated TRIM44 promotes intrahepatic cholangiocarcinoma progression by
+inducing cell EMT via MAPK signaling. Cancer Med. 2018;7(3):796 – 808.
+33. Liu S, Meng F, Ding J, Ji H, Lin M, Zhu J, Ma R. High TRIM44 expression as a
+valuable biomarker for diagnosis and prognosis in cervical cancer. Biosci Rep.
+2019;39(3):BSR20181639.
+34. Shuang L, Hexuan Y, Hongying J, Jiaqi Z, Rong M. Overexpression of TRIM44
+is an independent marker for predicting poor prognosis in epithelial ovarian
+cancer. Exp Ther Med. 2018.16(06):3034 – 40.
+35. Wei C, Wang L, Zhu M, Deng X, Wang D, Zhang S, Ying J, Yuan X, Wang Q,
+Xuan T. TRIM44 activates the AKT/mTOR signal pathway to induce
+melanoma progression by stabilizing TLR4. J Exp Clin Cancer Res. 2019;38(1):
+137.
+36. Zhu X, Wu Y, Miao X, Li C, Yin H, Yang S, Lu X, Liu Y, Chen Y, Shen R, Chen
+X, He S. High expression of TRIM44 is associated with enhanced cell
+proliferation, migration, invasion, and resistance to doxorubicin in
+hepatocellular carcinoma. Tumour Biol. 2016;37(11):14615 – 28.
+37. Raboy B, Parag HA, Kulka RG. Conjugation of [125I] ubiquitin to cellular
+proteins in permeabilized mammalian cells: comparison of mitotic and
+interphase cells. EMBO J. 1986;5(5):863 – 69.
+38. Fiore PPD, Polo S, Hofmann K. Opinion: When ubiquitin meets ubiquitin
+receptors: a signalling connection. 2003;4(6):491 – 7.
+39. Wilkinson KD, Urban MK, Haas AL. Ubiquitin is the ATP-dependent proteolysis
+factor I of rabbit reticulocytes. J Biol Chem. 1980;255(16):7529 – 32.
+40. Burger MA. A Novel RING-Type Ubiquitin Ligase Breast Cancer-Associated
+Gene 2 Correlates with Outcome in Invasive Breast Cancer. Cancer Res.
+2005;65(22):10401– 12.
+41. Shabbeer S, Omer D, Berneman D, Weitzman O, Alpaugh A, Pietraszkiewicz
+A, Metsuyanim S, Shainskaya A, Papa MZ, Yarden RI. BRCA1 targets G2/M
+cell cycle proteins for ubiquitination and proteasomal degradation.
+Oncogene. 2013;32(42):5005 – 16.
+42. Ryu YS, Lee Y, Lee KW, Hwang CY, Maeng JS, Kim JH, Seo YS, You KH, Song B,
+Kwon KS. TRIM32 Protein Sensitizes Cells to Tumor Necrosis Factor (TNF α)-
+induced Apoptosis via Its RING Domain-dependent E3 Ligase Activity against
+X-linked Inhibitor of Apoptosis (XIAP). J Biol Chem. 2011;286(29):25729 – 38.
+43. Nisole S, Stoye JP, Sa BA. TRIM family proteins: retroviral restriction and
+antiviral defence. Nature Reviews Microbiology. 2005;3(10):799 – 808.
+44. Di K, Linskey ME, Bota DA. TRIM11 is overexpressed in high-grade gliomas
+and promotes proliferation, invasion, migration and glial tumor growth.
+Oncogene. 2013; 32(42):5038 – 47.
+45. Ozato K, Shin D, Chang T, Morse HC. TRIM family proteins and their
+emerging roles in innate immunity. Nat Rev Immunol. 2008;8(11):849 – 60.
+46. McNab FW, Rajsbaum R, Stoye JP, Garra AO. Tripartite-motif proteins and
+innate immune regulation. 2011;23(1):46 – 56.
+47. Jou J, Diehl AM. Epithelial-mesenchymal transitions and
+hepatocarcinogenesis. J Clin Invest. 2010;120(4):1031 – 34.
+48. Acloque H, Adams MS, Fishwick K, Nieto MA, Bronner-Fraser M. Epithelial-
+mesenchymal transitions: the importance of changing cell state in
+development and disease. CELL. 2009;119(6):871.
+49. Connor KM, Hempel N, Nelson KK, Dabiri G, Gamarra A, Belarmino J, Van De
+Water L, Mian BM, Melendez JA. Manganese superoxide dismutase
+enhances the invasive and migratory activity of tumor cells. Cancer Res.
+2007;67(21):10260– 67.
+50. Zeisberg M, Neilson EG. Biomarkers for epithelial-mesenchymal transitions. J
+Clin Invest. 2009; 119(6):1429 – 37.
+51. Williams GH, Kai S. The cell cycle and cancer. P Natl Acad Sci USA. 2012;
+226(2):352– 64.
+52. Somasundaram K, Zhang H, Zeng YX, Houvras Y, Peng Y, Zhang H, Wu GS, Licht
+JD, Weber BL, Eldeiry WS. Arrest of the cell cycle by the tumour-suppressor
+BRCA1 requires the CDK-inhibitor p21. Nature. 1997;389(6647):187–90.
+53. Fillies T, Woltering M, Brandt B, Van Diest J, Werkmeister R, Joos U, Buerger
+H. Cell cycle regulating proteins p21 and p27 in prognosis of oral squamous
+cell carcinomas. Oncol Rep. 2007;17(2):355 – 9.
+54. Zhou X, Yang Y, Ma P, Wang N, Yang D, Tu Q, Sun B, Xiang T, Zhao X and
+Hou Z. TRIM44 is indispensable for glioma cell proliferation and cell cycle
+progression through AKT/p21/p27 signaling pathway. J of Neuro-Oncol.
+2019;145(1– 2).
+55. Yu H, Kortylewski M, Pardoll D. Crosstalk between cancer and immune cells:
+role of STAT3 in the tumour microenvironment. Nat Rev Immunol. 2007;7(1):
+41– 51.
+56. Yu C, Meyer D, Campbell G, Larner A, Carter-Su C, Schwartz J and Jove R.
+Enhanced DNA-binding activity of a Stat3-related protein in cells
+transformed by the Src oncoprotein. Science. 269(5220):81 – 3.
+57. Kortylewski M and Yu H. Stat3 as a Potential Target for Cancer
+Immunotherapy. J Immunother. 1995; 30(2):131 – 9.
+58. Pineda CT and Potts PR. Oncogenic MAGEA-TRIM28 ubiquitin ligase
+downregulates autophagy by ubiquitinating and degrading AMPK in
+cancer. Autophagy. 2015;11(5):844 – 6.
+59. Santamaria PG, Nebreda AR. Deconstructing ERK signaling in tumorigenesis.
+Mol Cell. 2010;38(1):3 – 5.
+60. Huang X, Ke A, Shi G, Zhang X, Zhang C, Shi Y, Wang X, Ding Z, Xiao Y, Yan
+J. αB-crystallin complexes with 14 – 3-3ζ to induce epithelial-mesenchymal
+transition and resistance to sorafenib in hepatocellular carcinoma.
+Hepatology. 57(6):2235 – 47.
+61. Lai Y, Lin VTG, Zheng Y, Benveniste EN, Lin F. The adaptor protein TRIP6
+antagonizes Fas-induced apoptosis but promotes its effect on cell
+migration. Mol Cell Biol. 2010;30(23):5582 – 96.
+62. Bentires-Alj M, Barbu V, Fillet M, Chariot A, Bours V. NF-kappa B transcription
+factor induces drug resistance through MDR1 expression in cancer cells.
+ONCOGENE. 2003;22(1):90 – 7.
+63. Lin MT, Chang CC, Chen ST, Chang HL, Su JL, Chau YP and Kuo ML. Cyr61
+expression confers resistance to apoptosis in breast cancer MCF-7 cells by a
+mechanism of NF-kappa B-dependent XIAP up-regulation. J Biol Chem.
+2004;279(23):24015– 23.
+64. Scholzen T, Gerdes J. The Ki-67 protein: from the known and the unknown.
+J Cell Physiol. 2000;182(3):311 – 22.
+Publisher’sN o t e
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Xiao et al. BMC Cancer          (2020) 20:525 Page 14 of 14
+
+END REVIEW W3033981438
+
+
+REVIEW W3034348710
+TITLE: Association between body mass index and survival outcomes for cancer patients treated with immune checkpoint inhibitors: a systematic review and meta-analysis
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W3034348710 PDF PAGE 1]
+An et al. J Transl Med          (2020) 18:235  
+https://doi.org/10.1186/s12967-020-02404-x
+RESEARCH
+Association between body mass index 
+and survival outcomes for cancer patients 
+treated with immune checkpoint inhibitors: 
+a systema

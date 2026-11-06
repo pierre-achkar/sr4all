@@ -1,0 +1,208 @@
+17
+High                             Unclear                         Low
+Patient Selection
+Index Test
+Reference Standard
+Flow and Timing
+High                                                                        Unclear                                                                   Low
+0% 0%25% 25%50% 50%75% 75%100% 100%
+Risk of Bias Applicability Concerns
+
+[W4400900444 PDF PAGE 16]
+https://doi.org/10.3350/cmh.2024.0371
+Clinical and Molecular Hepatology
+Volume_30 Supplement September 2024
+http://www.e-cmh.org
+Standard Error
+0
+0.145
+0.29
+0.435
+0.58
+0.5 1 1.5 2 2.5 3 3.5
+Diagnostic odds ratio (log scale)
+4
+Supplemen tary Figure 4. The funnel plot used to assess publication bias.
+
+END REVIEW W4400900444
+
+
+REVIEW W4401220964
+TITLE: Spontaneous bone regeneration in segmental mandibular defects: A systematic review
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4401220964 PDF PAGE 1]
+e758
+Med Oral Patol Oral Cir Bucal. 2024 Nov 1;29 (6):e758-67. Spontaneous regeneration of mandibular defects
+Journal section: Oral Surgery
+Publication Types: Review
+Spontaneous bone regeneration in segmental mandibular defects: 
+A systematic review
+Tai Wei 1, Ying-Ying Fan 2, Shu Li 2, Ye-Jun Cai 3, Xin Peng 4, Peng Ye 2
+1 PhD, Peking University School and Hospital of Stomatology First Clinical Division
+2 DDS, Department of Stomatology, Beijing Hospital, National Center of Gerontology, Institute of Geriatric Medicine, Chinese 
+Academy of Medical Sciences
+3 MD, Department of Stomatology, Beijing Hospital, National Center of Gerontology, Institute of Geriatric Medicine, Chinese 
+Academy of Medical Sciences.
+4 DDS, Department of oral and maxillofacial surgery, Peking University School and Hospital of Stomatology
+Correspondence:
+Beijing Hospital, No. 1 
+Da Hua Road, Dong Dan
+Beijing 100730, China
+derrickye@yeah.net
+Received: 15/05/2024
+Accepted: 01/07/2024
+Abstract
+Background: Rehabilitation for segmental mandibular defect is vital for mastication function and facial aesthetics. 
+Interestingly spontaneous bone regeneration after segmental mandibulectomy sporadically occurs to avoid further 
+bony rehabilitation. This study aimed to assess the potential of spontaneous bone regeneration in the treatment of 
+mandibular defects.
+Material and Methods: An electronic search was conducted using the PubMed, EMBASE, Wiley Online Library, 
+and Cochrane Library databases to identify eligible studies. Critical appraisal of the included articles was done 
+using the Joanna Briggs Institute critical appraisal checklist.
+Results: A total of 35 studies, including 60 patients, that investigated spontaneous bone regeneration after segmen-
+tal mandibulectomy were included. Among these patients, 39 (65%) were male and 21 (35%) were female, with 
+a mean age of 20.81 ± 16.38 years. Periosteum was completely and partially preserved during mandibulectomy 
+in 25 and 13 patients, respectively. Continuous bone regeneration between mandibular stumps was observed in 
+53 (88.3%) patients during follow-up. Although the mandibular stump was not stabilized in 13 (21.67%) patients, 
+continuous bony regeneration still occurred, with a mean recovery period of 30.29 months. This was significantly 
+greater than the overall average recovery time of 19.87 months.
+Conclusions: Spontaneous bone regeneration could occur in segmental mandibular defects, particularly in young 
+patients with intact periosteum and rigid mandibular stump fixation.
+Key words: Bone regeneration, treatment, mandibular defect, systematic review.
+doi:10.4317/medoral.26712
+Wei T, Fan Y, Li S, Cai Y, Peng X, Ye P. Spontaneous bone regeneration in 
+segmental mandibular defects: A systematic review. Med Oral Patol Oral 
+Cir Bucal. 2024 Nov 1;29 (6):e758-67.
+Article Number:26712           http://www.medicinaoral.com/
+© Medicina Oral S. L. C.I.F . B 96689336 - pISSN 1698-4447 - eISSN: 1698-6946
+eMail:  medicina@medicinaoral.com 
+Indexed in: 
+Science Citation Index Expanded
+Journal Citation Reports
+Index Medicus, MEDLINE, PubMed
+Scopus, Embase and Emcare 
+Indice Médico Español
+Introduction
+Critical sized defects are bony defects that do not 
+heal spontaneously, requiring surgical intervention 
+(1), and are derived from a variety of pathological 
+causes, including oral cancer, trauma, and infections. 
+Segmental mandibular defects are commonly criti -
+cal sized, and their reconstruction poses a challenge 
+for oral and maxillofacial surgeons. Mandibular re -
+habilitation is vital for mastication, speech, and fa -
+cial aesthetics, particularly in young patients. Free 
+
+[W4401220964 PDF PAGE 2]
+e759
+Med Oral Patol Oral Cir Bucal. 2024 Nov 1;29 (6):e758-67. Spontaneous regeneration of mandibular defects
+studies were manually searched for potential studies 
+that could be included.
+ -Study selection
+Titles and abstracts of the studies were independently 
+reviewed by two authors (T.W, Y.Y.F). Full-text evalua-
+tion was subsequently performed if the title and abstract 
+met the eligibility criteria. In case of any discrepancies, 
+a fourth reviewer was consulted to achieve a consensus.
+- Data extraction
+For each included study, the following details were col-
+lected: publication details (first author and year of pub-
+lication), patient details (sex and age), pathological di -
+agnosis, type of mandibulectomy, operative approach, 
+periosteal status, mandibular stump stabilization, bone 
+regeneration, and the follow-up period. Incomplete data 
+were indicated as “not mentioned” (N.M.).
+- Study risk of bias assessment
+The Joanna Briggs Institute (JBI) critical appraisal 
+checklist for case reports was used independently by 
+two authors (Y.Y.F and T.W) for critical appraisal of 
+the selected articles (5). The following eight domains 
+were evaluated for each article: clear description of 
+patient demographic characteristics; presentation of 
+the patient’s history in a chronological timeline; clear 
+depiction of the clinical condition upon presentation; 
+detailed description of diagnostic tests and assessment 
+methods, including their results; clear description of 
+intervention(s) and treatment procedures; clear depic -
+tion of the post-intervention clinical condition; identi -
+fication and description of adverse and unanticipated 
+events; and presence of takeaway lessons in the report.
+- Data synthesis methods
+Detailed quantitative synthesis of the results of the in -
+cluded studies was performed and presented in this sys-
+tematic review.
+Results
+- Study selection
+The initial comprehensive search yielded 2,678 articles. 
+After removing 30 duplicates and implementing the in -
+clusion and exclusion criteria, 66 articles were screened 
+for full text. Unavailability of full text or insufficient 
+data resulted in the exclusion of further 26 studies. A 
+manual search of the references of the selected articles 
+yielded six additional articles. Thus, a total of 34 arti -
+cles were included in the final qualitative synthesis (3-4, 
+6-37). The study selection process is illustrated in Fig. 1.
+- Demographic and clinicopathological data
+The included articles, published between 1946 and 
+2022, comprised 27 case reports and seven case series. 
+Sixty patients were reported in a total of 34 eligible 
+studies, including 39 (65%) males and 21 (35%) females, 
+with a male-to-female ratio of 1.86:1. The mean and me-
+dian ages were 20.81 ± 16.38 years and 15 years, respec-
+tively, ranging from 8 months to 73 years.
+bone grafts harvested from the iliac crest or rib are 
+commonly used to reconstruct mandibular defects. 
+However, an uneventful recovery cannot be assured 
+in cases requiring adjuvant radiation and those with 
+defects greater than 5 cm. Pedicled bone grafts, in -
+cluding the vascularized fibula free flap, have supe -
+rior osteogenic capacity in large mandibular defects 
+but have a lower growth potential compared to the 
+contralateral mandibular stump (2). This may result 
+in facial deformities in the long term, restricting the 
+use of pedicled bone grafts in mandibular reconstruc -
+tion. Interestingly, spontaneous bone regeneration has 
+been observed in a few pediatric and adult patients 
+who underwent mandibulectomy without simultane -
+ous rehabilitation. Secondary reconstructive surgery 
+could even be avoided in a few cases (3-4).
+The present review analyzed the demographic and clini-
+copathological data of patients undergoing spontaneous 
+bone regeneration after segmental mandibulectomy and 
+evaluated the potential of spontaneous bone regenera -
+tion as an alternative treatment for segmental mandibu -
+lar defects.
+Material and Methods 
+- Registration and protocol
+A comprehensive search for reviews on the topic was 
+conducted in the International Prospective Register of 
+Systematic Reviews (PROSPERO) database, but no rel-
+evant studies were identified. The protocol for our sys -
+tematic review was registered with PROSPERO (No. 
+CRD42023439100).
+The Preferred Reporting Items for Systematic Reviews 
+and Meta-Analyses (PRISMA) statement was used as a 
+guide for reporting the results of this systematic review.
+- Eligibility criteria
+Inclusion criteria: Based on the PICOS principle, the in-
+clusion criteria for this systematic review were: (P) pa -
+tients with segmental mandibular defects; (I) mandibu -
+lectomy without simultaneous bony reconstruction; (C) 
+not applicable; (O) spontaneous bone regeneration; and 
+(S) case reports and case series.
+Exclusion criteria: The exclusion criteria were reviews, 
+letters to the editor, unpublished data, and articles with-
+out a clear description of the outcome for segmental 
+mandibular defects.
+- Information sources
+Comprehensive electronic searches without any date 
+restrictions were conducted up to August 2023 using 
+the Cochrane Library, PubMed, EMBASE, and Wiley 
+Online databases.
+- Search strategy
+Search terms included the following Medical Subject 
+Heading (MeSH) terms and free text words: “mandible” 
+and “bone defect” in combination with “bone regenera -
+tion” and “spontaneous.” The references of the inc

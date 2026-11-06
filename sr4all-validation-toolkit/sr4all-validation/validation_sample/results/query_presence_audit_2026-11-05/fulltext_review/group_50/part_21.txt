@@ -1,0 +1,146 @@
+ophrenia, improved the prediction of autism diagnostic status. 
+Rare genetic variants are not captured by typical polygenic scores, but have been suggested as 
+factors of high influence on autism diagnostic status115. In line, Antaki et al. (2022)114 showed 
+that a genetic score containing a combination of common and rare genetic factors significantly 
+increased statistical power over separate common and rare variant scores. Schendel et al. 
+(2022)36 argue that psychiatric family history and polygenic scores only minimally correlate 
+and should therefore be considered separate, mostly uncorrelated, measures of autism’s 
+genetic etiology. Lastly, although we do not find significant sex differences in the association 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 147]
+147 
+ 
+of the autism polygenic score with outcome variables, there is building evidence for a 
+different genetic makeup for men and women with autism. Autistic women on average have a 
+higher number of genetic mutations116, higher mean polygenic load87,114 and more rare copy 
+number variants (CNV) load117. However, a potentially male-biased clinical view on the 
+manifestation of autism might explain diagnostic differences, and subsequently observed 
+genetic differences118 
+ In conclusion, we show that the autism polygenic score as a standalone variable 
+associates consistently with autism diagnostic status and dimensional autistic traits, but is 
+unable to capture the spectrum’s complex phenotypical and etiological differences and its 
+genetic overlap with other traits and conditions. We propose considering the current autism 
+polygenic score as a complementary measure in research, with improvements needed for a 
+more robust understanding of autism’s polygenic underpinnings.   
+ 
+References 
+1. Bottema-Beutel K, Kapp SK, Lester JN, Sasson NJ, Hand BN. Avoiding Ableist 
+Language: Suggestions for Autism Researchers. Autism Adulthood. 2021;3(1):18-29. 
+doi:10.1089/aut.2020.0014 
+2. Zeidan J, Fombonne E, Scorah J, et al. Global prevalence of autism: A systematic review 
+update. Autism Res. 2022;15(5):778-790. doi:10.1002/aur.2696 
+3. Tick B, Bolton P, Happé F, Rutter M, Rijsdijk F. Heritability of autism spectrum 
+disorders: a meta-analysis of twin studies. J Child Psychol Psychiatry. 2016;57(5):585-
+595. doi:10.1111/jcpp.12499 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 148]
+148 
+ 
+4. Martini MI, Kuja-Halkola R, Butwicka A, et al. Sex Differences in Mental Health 
+Problems and Psychiatric Hospitalization in Autistic Young Adults. JAMA Psychiatry. 
+2022;79(12):1188-1198. doi:10.1001/jamapsychiatry.2022.3475 
+5. Buijsman R, Begeer S, Scheeren AM. ‘Autistic person’ or ‘person with autism’? Person-
+first language preference in Dutch adults with autism and parents. Autism. 
+2023;27(3):788-795. doi:10.1177/13623613221117914 
+6. Taboas A, Doepke K, Zimmerman C. Preferences for identity-first versus person-first 
+language in a US sample of autism stakeholders. Autism. 2023;27(2):565-570. 
+doi:10.1177/13623613221130845 
+7. Bougeard C, Picarel-Blanchot F, Schmid R, Campbell R, Buitelaar J. Prevalence of 
+Autism Spectrum Disorder and Co-morbidities in Children and Adolescents: A 
+Systematic Literature Review. Front Psychiatry. 2021;12. Accessed September 18, 2023. 
+https://www.frontiersin.org/articles/10.3389/fpsyt.2021.744709 
+8. Gidziela A, Ahmadzadeh YI, Michelini G, et al. A meta-analysis of genetic effects 
+associated with neurodevelopmental disorders and co-occurring conditions. Nat Hum 
+Behav. 2023;7(4):642-656. doi:10.1038/s41562-023-01530-y 
+9. Tick B, Colvert E, McEwen F, et al. Autism Spectrum Disorders and Other Mental Health 
+Problems: Exploring Etiological Overlaps and Phenotypic Causal Associations. J Am 
+Acad Child Adolesc Psychiatry. 2016;55(2):106-113.e4. doi:10.1016/j.jaac.2015.11.013 
+10. Grove J, Ripke S, Als TD, et al. Identification of common genetic risk variants for autism 
+spectrum disorder. Nat Genet 2019 513. 2019;51(3):431-444. doi:10.1038/s41588-019-
+0344-8 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 149]
+149 
+ 
+11. Willoughby EA, Polderman TJC, Boutwell BB. Behavioural genetics methods. Nat Rev 
+Methods Primer. 2023;3(1):1-16. doi:10.1038/s43586-022-00191-x 
+12. Martin AR, Daly MJ, Robinson EB, Hyman SE, Neale BM. Predicting Polygenic Risk of 
+Psychiatric Disorders. Biol Psychiatry. 2019;86(2):97-109. 
+doi:10.1016/j.biopsych.2018.12.015 
+13. Wray NR, Lin T, Austin J, et al. From Basic Science to Clinical Application of Polygenic 
+Risk Scores: A Primer. JAMA Psychiatry. 2021;78(1):101-109. 
+doi:10.1001/jamapsychiatry.2020.3049 
+14. Polderman TJC, Benyamin B, de Leeuw CA, et al. Meta-analysis of the heritability of 
+human traits based on fifty years of twin studies. Nat Genet. 2015;47(7):702-709. 
+doi:10.1038/ng.3285 
+15. Du Rietz E, Coleman J, Glanville K, Choi SW, O’Reilly PF, Kuntsi J. Association of 
+Polygenic Risk for Attention-Deficit/Hyperactivity Disorder With Co-occurring Traits 
+and Disorders. Biol Psychiatry Cogn Neurosci Neuroimaging. 2018;3(7):635-643. 
+doi:10.1016/j.bpsc.2017.11.013 
+16. Green A, Baroud E, DiSalvo M, Faraone SV, Biederman J. Examining the impact of 
+ADHD polygenic risk scores on ADHD and associated outcomes: A systematic review 
+and meta-analysis. J Psychiatr Res. 2022;155:49-67. 
+doi:10.1016/j.jpsychires.2022.07.032 
+17. Mistry S, Harrison JR, Smith DJ, Escott-Price V, Zammit S. The use of polygenic risk 
+scores to identify phenotypes associated with genetic risk of schizophrenia: Systematic 
+review. Schizophr Res. 2018;197:2-8. doi:10.1016/j.schres.2017.10.037 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 150]
+150 
+ 
+18. Ronald A, de Bode N, Polderman TJC. Systematic Review: How the Attention-
+Deficit/Hyperactivity Disorder Polygenic Risk Score Adds to Our Understanding of 
+ADHD and Associated Traits. J Am Acad Child Adolesc Psychiatry. 2021;60(10):1234-
+1277. doi:10.1016/j.jaac.2021.01.019 
+19. Hayden JA, Côté P, Bombardier C. Evaluation of the Quality of Prognosis Studies in 
+Systematic Reviews. Ann Intern Med. 2006;144(6):427-437. doi:10.7326/0003-4819-144-
+6-200603210-00010 
+20. Hayden JA, van der Windt DA, Cartwright JL, Côté P, Bombardier C. Assessing Bias in 
+Studies of Prognostic Factors. Ann Intern Med. 2013;158(4):280-286. doi:10.7326/0003-
+4819-158-4-201302190-00009 
+21. Viechtbauer W. Conducting Meta-Analyses in R with the metafor Package. J Stat Softw. 
+2010;36:1-48. doi:10.18637/jss.v036.i03 
+22. Assink M, Wibbelink CJM. Fitting three-level meta-analytic models in R: A step-by-step 
+tutorial. Quant Methods Psychol. 2016;12(3):154-174. doi:10.20982/tqmp.12.3.p154 
+23. Harrer M, Cuijpers P, Furukawa T, Ebert D. Doing Meta-Analysis with R: A Hands-on 
+Guide. Chapman and Hall/CRC; 2021. Accessed December 20, 2023. 
+https://www.taylorfrancis.com/books/mono/10.1201/9781003107347/meta-analysis-
+mathias-harrer-pim-cuijpers-toshi-furukawa-david-ebert 
+24. Rosenthal R. The file drawer problem and tolerance for null results. Psychol Bull. 
+1979;86(3):638-641. doi:10.1037/0033-2909.86.3.638 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 151]
+151 
+ 
+25. Klei L, McClain LL, Mahjani B, et al. How rare and common risk variation jointly affect 
+liability for autism spectrum disorder. Mol Autism. 2021;12(1):1-13. doi:10.1186/S13229-
+021-00466-2/FIGURES/5 
+26. Klein L, D’Urso S, Eapen V, Hwang LD, Lin PI. Exploring polygenic contributors to 
+subgroups of comorbid conditions in autism spectrum disorder. Sci Rep. 2022;12(1):3416. 
+doi:10.1038/s41598-022-07399-7 
+27. Mattheisen M, Grove J, Als TD, et al. Identification of shared and differentiating genetic 
+architecture for autism spectrum disorder, attention-deficit hyperactivity disorder and case 
+subgroups. Nat Genet. 2022;54(10):1470-1478. doi:10.1038/s41588-022-01171-3 
+28. Morneau‐Vaillancourt G, Andlauer TFM, Ouellet‐Morin I, et al. Polygenic scores 
+differentially predict developmental trajectories of subtypes of social withdrawal in 
+childhood. J Child Psychol Psychiatry. 2021;62(11):1320-1329. doi:10.1111/jcpp.13459 
+29. Riglin L, Tobarra-Sanchez E, Stergiakouli E, et al. Early manifestations of genetic 
+liability for ADHD, autism and schizophrenia at ages 18 and 24 months. JCPP Adv. 
+2022;2(3):e12093. doi:10.1002/jcv2.12093 
+30. Trost B, Thiruvahindrapuram B, Chan AJS, et al. Genomic architecture of autism from 
+comprehensive whole-genome sequence

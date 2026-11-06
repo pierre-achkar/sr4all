@@ -1,0 +1,215 @@
+t (HVOT); digit span test (DST); Stroop test Chinese Victoria version; Verbal Fluency 
+test.
+Subthalamic Nucleus DBS (bilateral) – STN
+Houvenaghel, JF. et al. 2016 18 10 (male)
+15 (female)
+25 total PD group
+12 (male)
+13 (female)
+25 total DBS group
+Verbal Fluency (animals) and Phonemic Fluency (letter p); Nelson’s simplified version of 
+the Wisconsin Card Sorting Test (MCST); Trail Making Test; Stroop Test.
+Subthalamic Nucleus DBS (bilateral) – STN
+Foley, J. et al. 2017 19 17 (male)
+11 (female)
+28 total DBS group
+Stroop; Hayling Sentence Completion Test; Brixton Spatial Anticipation Test; Elevator 
+Counting and Distraction subtests from the Test of Everyday Attention (EC, EC-D); 
+Nelson Modified Card Sorting Test (MCST), and Trail Making Test (TMT-B/A); Symbol 
+Search (SS) and Digit Symbol Coding (DSC) of WAIS-III.
+Subthalamic Nucleus DBS (bilateral) – STN
+continues
+
+[W3035122294 PDF PAGE 5]
+Dement Neuropsychol 2020 June;14(2):178-185
+182
+Executive function and DBS in Parkinson’s disease    Arten and Hamdan
+Table 1. List of articles included in the systematic review criteria (continuation).
+Authors and year Sample Neuropsychological Instruments used Location
+Ardouin, C. et al. 19997 49 STN DBS: 24 (male), 25 (female)
+13 GPi: 9 (male), 4 (female)
+62 total DBS group
+Wisconsin Card Sorting Test; Verbal Fluency (fruits or furniture); Literal Fluency (letter V 
+or R); Graphic and motor series; Stroop Test; Trail Making Test.
+Subthalamic Nucleus DBS (bilateral) – STN
+Globus pallidus internal – GPi
+Witt, K. et al. 20048 17 (male)
+6 (female)
+23 total DBS group
+Digit Span (forward and backward); Verbal Fluency (female/male, first name, animals/
+plants); Literal Fluency (K/N or L/M), Stroop, Random Number Generation Task (RNGT).
+Subthalamic Nucleus DBS (bilateral) – STN
+Funkiewiez, A. et al. 20049 43 (male) 
+34 (female)
+77 total DBS group
+Wisconsin card sorting test (WCST); Category and Literal Fluency; Graphic and Motor 
+Series; Grober and Buschke test.
+Subthalamic Nucleus DBS (bilateral) – STN
+Castelli, L. et al. 200610 38 (male)
+27 (female)
+65 total DBS group
+Raven Color Matrices; Bi-syllabic Word Repetition Test (BWR); Corsi’s Block-Tapping 
+Test (CBT); Paired- Associate Learning (PAL), a Wechsler Memory Scale subtest; Trail 
+Making Test Part B; Nelson Modified Card Sorting Test (MCST); Wisconsin Card Sorting 
+Test; Phonemic and category verbal fluency tasks.
+Subthalamic Nucleus DBS (bilateral) – STN
+Fraraccio, M. et al. 200811 9 (male)
+6 (female)
+15 total DBS group
+Rey Auditory Verbal Memory Test; Wechsler Memory Scale; Rey Osterreith Figure/Taylor 
+Figure, WAIS-Digit Span (forward and backward); Tower of London; Wisconsin Card 
+Sorting Test; Stroop; Symbol Digital Modalities Test; Hooper Visual Organizational Test; 
+Rey Figure/Taylor Figure; Boston Naming Test; Controlled Oral Word Association Test.
+Subthalamic Nucleus DBS (bilateral) – STN
+Mikos, A. et al. 200912 12 (male) 7 (female)
+19 total PD group
+20 (male) 4 (female)
+24 total DBS group
+43 total sample
+Verbal Fluency (Word and Animals); Digit Span Backward; Boston Naming Test; Hopkins 
+Verbal Learning Test-Revised (HVLT-R), Logical Memory subtest of the WAIS; Trail 
+Making Test; Stroop Test; Judgment of Line Orientation Test; Benton 
+Subthalamic Nucleus DBS (unilateral) – STN 
+Right (3), left (8). 
+Globus pallidus internal GPi
+Right (5), left (8)
+Castelli, L. et al. 201013 16 (male) 15 (female)
+31 total PD group
+17 (male) 10 (female)
+27 total DBS group
+58 total sample
+Raven Color Matrices; Bi-syllabic Words Repetition test; Corsi’s Block Tapping; Paired 
+Associate Learning; Trail Making B, Nelson Modified Card Sorting test, Phonemic and 
+Category Verbal Fluency.
+Subthalamic Nucleus DBS (bilateral) – STN
+
+[W3035122294 PDF PAGE 6]
+Dement Neuropsychol 2020 June;14(2):178-185
+183
+Arten and Hamdan     Executive function and DBS in Parkinson’s disease
+In summary: [1] Verbal Fluency – Decrease in ver -
+bal fluency test scores 8,10,17,19  no reduction in verbal flu -
+ency after STN stimulation. 11,14  [2] Memory – One of 
+the studies showed no changes after STN DBS in mem -
+ory or verbal learning, both of which remained stable 
+after implantation. 10  On the other hand, there was an 
+improvement in the results of a verbal memory test per -
+formed 6 months after the operation when reapplied 
+12 months after the DBS procedure in other studies. 14,17  
+[3] Processing speed –Significantly reduced after DBS, 
+representing the most important predictor of decline 
+in verbal fluency tests. 19  [4] Inhibitory control – Stroop 
+test worsened after stimulation and Random Number 
+Generation Task (RNGT) counting after stimulation 
+worsened in one study. 8  These effects may be induced 
+by stimulation of the associative territory of the STN, 
+but there was no significant difference between groups 
+with and without DBS. 8  In another study, there was a 
+significant reduction in obsessive-compulsive character -
+istics after STN DBS. 10  [5] Global Functioning – There 
+was no global deterioration in neuropsychological func -
+tion attributable to STN-DBS, confirming that mild 
+postoperative cognitive decline is transient. 9,10,14,17  [6] 
+Apathy – The apathy score changed significantly, show -
+ing an increasing proportion of apathetic patients over 
+time. 9,19  [7] Depression – Levels fluctuated, but not sig -
+nificantly, 9  or remained the same, after implantation. 17  
+The condition may appear with greater latency and be 
+related to dopaminergic treatment decrease and loss of 
+the antidepressant effect of Levodopa. However, mood 
+was often significantly reduced postoperatively. 14,17  [9] 
+Social – after implantation, the motor benefit allowed 
+some patients to be more autonomous in life, facilitating 
+social situations. 10
+DISCUSSION
+The results found in the present study suggest that 
+generally, after the implementation of Deep Brain Stim -
+ulation (DBS), in most studies, there was a decrease in 
+the executive functions of Verbal Fluency, Processing 
+Speed and some modification in apathy levels. However, 
+the studies also suggest that there was a decrease in 
+the degree of anxiety and, in a single case, there was an 
+improvement in memory scores and obsessive-compul -
+sive symptoms (related to inhibitory control).
+When comparing DBS implant surgical interven -
+tions and Internal Globus Pallidus lesions, we observed 
+an improvement in motor function for both DBS and 
+Internal Pallidus Globe (GPi) lesion surgery. There was 
+also a slight, significant improvement in mood, but no 
+improvement in language, memory or other cognitive 
+functions, indicating that the few cognitive changes 
+detected by neuropsychological tests were subtle. Verbal 
+fluency deficits were found after STN, but not GPi stim -
+ulation, and were not associated with executive deficits 
+generally found in GPi lesions. 7  These results may be 
+related to the methodology used for patient evaluation, 
+such as the absence of a standard evaluation protocol, 
+and the frequent non-standardization of these instru -
+ments. Moreover, the lack of control groups in most 
+evaluations may also have contributed to the inconclu -
+sive results (no comparison with healthy groups).
+The implications of the results obtained in the litera -
+ture may have a direct impact on the choice of whether 
+to perform DBS implantation surgery. However, as the 
+results are inconclusive about improvement/worsening 
+or a possible impact on patient cognition, it is not pos -
+sible to infer whether motor improvement offsets cogni -
+Table 2. List and frequency of instruments used.
+Instruments Used in articles
+Verbal Fluency Tasks – Semantic 9
+Verbal Fluency Tasks – Phonemic 10
+Wisconsin Cards Sorting Test (WCST) 4
+Stroop Test 7*
+Trail Making Test (TMT) 7
+Digit Span Forward and Backward 6
+Frontal Assessment Battery (FAB) 2
+Hayling Sentence Completion Test 1
+Tower of London 1
+Luria graphic and motor series 18 2
+Random Number Generation Task (RNGT). 1
+Nelson Modified Card Sorting Test (MCST) 4
+Brixton Spatial Anticipation Test 1
+Grober and Buschke test 1
+Boston Naming Test (BNT)* 4*
+Controlled Oral Word Association Test 1
+Attentive Matrices 1
+Symbol Digital Modalities 1
+The judgment of Line Orientation 1
+Elevator Counting and Distraction subtests from the 
+Test of Everyday Attention (EC, EC-D);
+1
+Rey´s Auditory Verbal Learning Test (RAVLT) 2*
+*Chinese version of the test
+
+[W3035122294 PDF PAGE 7]
+Dement Neuropsychol 2020 June;14(2):178-185
+184
+Executive function and DBS in Parkinson’s disease    Arten and Hamdan
+tive risk for implant candidates. Thus, further research 
+in the area is required using more advanced evaluation 
+methods, such as fMRI, PET, etc., in addition to tradi -
+tional neuropsychological testing techniques. Thus, it 
+would be possible to achieve more satisfactory results 
+on the subject and thus contribute to the literature and 
+objectively instrumentalize the choice of patients wish -
+ing to undergo surgery, despite the difficulty conducting 
+research involving the use of neuroimaging.
+Therefore, this study aimed to outline the main 
+instruments used in patients diagnosed with PD and 
+their frequency in studies, to know the material that 
+has been used in the evaluation of these patients. In 
+addition, we also sought to determine the possible 
+cognitive effects, and their impacts on the patient’s 
+daily life, that may appear after implementation of 
+DBS in PD. It should be noted that, even after so many 
+years of research on Parkinson’s disease and the use of 
+various techniques for treating the disease, there are 
+still no conclusions regarding the cognitive impacts 
+of any of them, information of great importance  
+to patients.
+Considering the small number of articles on the 
+topic of interest (Executive Functions and Parkinson’s 
+Disease), it is necessary to interpret these data with cau -
+tion. Sample sizes were small and, in 12 of the 13 cases, 
+there was no healthy control group, precluding mean -
+ingful comparisons. In addition, the

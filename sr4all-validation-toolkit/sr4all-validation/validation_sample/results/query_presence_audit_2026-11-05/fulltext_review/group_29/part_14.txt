@@ -1,0 +1,407 @@
+p-rank scores for all outcomes, indicating that
+they have a greater probability than the other treatments of reducing
+risks of both CV and renal events.
+(A)
+Kidney-specific composite outcome MACE
+(B)
+SGL T2i vs Placebo 
+Direct estimate
+Indirect estimate
+Network estimate
+SGL T2i vs GLP-1 RA 
+Direct estimate
+Indirect estimate
+Network estimate
+SGL T2i vs DPP4i 
+Direct estimate
+Indirect estimate
+Network estimate
+GLP-1 RA vs Placebo 
+Direct estimate
+Indirect estimate
+Network estimate
+DPP4i vs Placebo 
+Direct estimate
+Indirect estimate
+Network estimate
+GLP-1 RA vs DPP4i 
+Direct estimate
+Indirect estimate
+Network estimate
+Number of
+studies
+Direct
+evidence
+Fixed effect
+modelComparison HR I-squared 95% CI
+7
+0
+0
+2
+1
+0
+1.00
+0
+0
+1.00
+1.00
+0
+0.64
+0.64
+0.74
+0.74
+0.64
+0.64
+0.86
+0.86
+0.99
+0.99
+0.87
+0.87
+(0.57, 0.71)
+(0.57, 0.71)
+(0.62, 0.88)
+(0.62, 0.88)
+(0.52, 0.79)
+(0.52, 0.79)
+(0.75, 0.99)
+(0.75, 0.99)
+(0.83, 1.18)
+(0.83, 1.18)
+(0.70, 1.09)
+(0.70, 1.09)
+0
+0
+15 .157.0
+SGL T2i vs Placebo 
+Direct estimate
+Indirect estimate
+Network estimate
+SGL T2i vs GLP-1 RA 
+Direct estimate
+Indirect estimate
+Network estimate
+SGL T2i vs DPP4i 
+Direct estimate
+Indirect estimate
+Network estimate
+GLP-1 RA vs Placebo 
+Direct estimate
+Indirect estimate
+Network estimate
+DPP4i vs Placebo 
+Direct estimate
+Indirect estimate
+Network estimate
+GLP-1 RA vs DPP4i 
+Direct estimate
+Indirect estimate
+Network estimate
+Number of
+studies
+Direct
+evidence
+Fixed effect
+modelComparison HRI-squared 95% CI
+5
+0
+0
+4
+5
+0
+1.00
+0
+0
+1.00
+1.00
+0
+0.83
+0.83
+0.95
+0.95
+0.81
+0.81
+0.87
+0.87
+1.03
+1.03
+0.85
+0.85
+(0.76, 0.91)
+(0.76, 0.91)
+(0.82, 1.10)
+(0.82, 1.10)
+(0.71, 0.92)
+(0.71, 0.92)
+(0.78, 0.98)
+(0.78, 0.98)
+(0.93, 1.13)
+(0.93, 1.13)
+(0.73, 0.99)
+(0.73, 0.99)
+0.32
+0.64
+0.00
+15 2.18.0
+(C) (D)
+CV death HHF
+SGL T2i vs Placebo 
+Direct estimate
+Indirect estimate
+Network estimate
+SGL T2i vs GLP-1 RA 
+Direct estimate
+Indirect estimate
+Network estimate
+SGL T2i vs DPP4i 
+Direct estimate
+Indirect estimate
+Network estimate
+GLP-1 RA vs Placebo 
+Direct estimate
+Indirect estimate
+Network estimate
+DPP4i vs Placebo 
+Direct estimate
+Indirect estimate
+Network estimate
+GLP-1 RA vs DPP4i 
+Direct estimate
+Indirect estimate
+Network estimate
+Number of
+studies
+Direct
+evidence
+Fixed effect
+modelComparison HRI-squared 95% CI
+6
+0
+0
+2
+5
+0
+1.00
+0
+0
+1.00
+1.00
+0
+0.86
+0.86
+0.97
+0.97
+0.85
+0.85
+0.88
+0.88
+1.01
+1.01
+0.87
+0.87
+(0.76, 0.97)
+(0.76, 0.97)
+(0.78, 1.22)
+(0.78, 1.22)
+(0.71, 1.02)
+(0.71, 1.02)
+(0.73, 1.07)
+(0.73, 1.07)
+ (0.89, 1.15)
+(0.89, 1.15)
+(0.69, 1.10)
+(0.69, 1.10)
+0
+0.83
+0.00
+15 2.18.0
+SGL T2i vs Placebo 
+Direct estimate
+Indirect estimate
+Network estimate
+SGL T2i vs GLP-1 RA 
+Direct estimate
+Indirect estimate
+Network estimate
+SGL T2i vs DPP4i 
+Direct estimate
+Indirect estimate
+Network estimate
+GLP-1 RA vs Placebo 
+Direct estimate
+Indirect estimate
+Network estimate
+DPP4i vs Placebo 
+Direct estimate
+Indirect estimate
+Network estimate
+GLP-1 RA vs DPP4i 
+Direct estimate
+Indirect estimate
+Network estimate
+Number of
+studies
+Direct
+evidence
+Fixed effect
+modelComparison HRI-squared 95% CI
+5
+0
+0
+2
+5
+0
+1.00
+0
+0
+1.00
+1.00
+0
+0.64
+0.64
+0.72
+0.72
+0.59
+0.59
+0.88
+0.88
+1.08
+1.08
+0.82
+0.82
+(0.56, 0.73)
+(0.56, 0.73)
+(0.56, 0.92)
+(0.56, 0.92)
+(0.49, 0.71)
+(0.49, 0.71)
+(0.72, 1.09)
+(0.72, 1.09)
+(0.94, 1.24)
+(0.94, 1.24)
+(0.64, 1.05)
+(0.64, 1.05)
+0
+0.73
+0.52
+0.5 2 1
+FIGURE 3 Comparison between treatments for (A) kidney-specific composite outcome, (B) major adverse cardiovascular events (MACE),
+(C) cardiovascular (CV) death and (D) hospitalization for heart failure (HHF). DPP-4, dipeptidyl peptidase-4; GLP-1RA, glucagon-like peptide-1
+receptor agonist; SGLT2, sodium-glucose cotransporter-2 inhibitor
+1454 CAO ET AL.
+
+[W4281936323 PDF PAGE 8]
+4.2 | Risks associated with the use of DPP-4
+inhibitors
+The results presented in this study strengthen the data from previous
+meta-analyses which showed that DPP-4 inhibitors did not signifi-
+cantly alter CV and renal risks compared to placebo.23,25 A compara-
+tive cohort study that used data from clinical practice in 13 countries
+also concluded that SGLT2 inhibitors were associated with improved
+CV benefits compared to DPP-4 inhibitors.26 Overall, it appears that
+DPP-4 inhibitors confer limited benefits and may not increase the risk
+of cardiorenal outcomes in patients with DKD.
+4.3 | Mechanism of action of SGLT2 inhibitors
+Overall, this study proves the superiority of SGLT2 inhibitors in
+reducing the risk of CV and renal events, not only compared to pla-
+cebo, but also compared to GLP-1RAs and DPP-4 inhibitors. Sev-
+eral possible mechanisms have been proposed to explain the
+benefits of SGLT2 inhibitors. SGLT2 inhibitors block SGLT2
+cotransporters in the renal proximal tubule, resulting in increased
+glycosuria and a mild natriuretic and diuretic effect.27 This leads to
+metabolic benefits including improved glycemic control, weight loss
+and blood pressure improvementsthat confer CV and renal protec-
+tion.28 It has been proposed that SGLT2 inhibitors improve ventric-
+ular loading conditions (due to natriuretic and diuretic effects),
+optimize cardiac metabolism, thus improving cardiac efficiency and
+output and inhibit the Na+/H+ exchanger (NHE 1) in the myocar-
+dium, thus providing favourable effects on the risk of heart fail-
+ure.29,30 The net result of these processes is a reduced risk of CV
+and renal outcomes with SGLT 2 inhibition, as seen in major
+CVOTs16-18 and renal outcome trials 19,20 and confirmed in this
+meta-analysis. SGLT2 inhibitors also lower the reabsorption of
+sodium in the renal proximal tubule, thus restoring glomerular feed-
+back and reducing intraglomerular pressure.31 While this may result
+in an acute decrease in eGFR levels, eGFR stability is seen in the
+long run, leading to a nephroprotective effect.31
+4.4 | Latest updates in guideline recommendations
+for the management of DKD
+The latest Standards of Medical Care in Diabetes guidelines from
+the American Diabetes Association (ADA) recommend the use of
+SGLT2 inhibitors in patients with stage 3 CKD or higher and type 2
+diabetes mellitus regardless of glycemic control, to slow the pro-
+gression of CKD and to reduce CV risks.32 The results of this meta-
+analysis lend further support to these recommendations. The ADA
+suggests the use of GLP-1RAs with proven CV benefit if SGLT2
+inhibitors are not tolerated or contradicted. GLP-1RAs are
+suggested “for CV risk reduction if such risk is a predominant prob-
+lem, as they reduce risks of CV events and appear to possibly slow
+CKD progression.” The results of this meta-analysis do not confirm
+the CV risk reduction benefits of GLP-1RAs in patients with DKD;
+although GLP-1RAs slightly reduced CV and renal risks compared
+to placebo, the decrease was not statistically significant for most
+outcomes.
+4.5 | Study limitations
+To the best of our knowledge, this is the first analysis to evaluate
+SGLT2 inhibitors, GLP-1RAs and DPP-4 inhibitors specifically in
+patients with DKD. This meta-ana lysis also includes the latest
+high-quality data from recent CVOTs and renal outcome trials.
+While results from this network meta-analysis are fairly compre-
+hensive, the study does have some limitations. Firstly, as
+expected, there may be certain differences across RCTs in the
+patient population, stage of CKD (although data were specifically
+extracted for patients with eGFR <90 mL/min/1.73 m2), types of
+drugs within each drug class, drug dose and duration of treat-
+ment. These factors may cause heterogeneity and thus potentially
+impact results of the meta-analysis. Secondly, as we used data
+from subgroup analyses of CVOTs, there is a concern that the
+patients with DKD may not have been fully randomized. Thirdly,
+the criteria used to define DKD were different in each study
+included in the analysis.
+5 | CONCLUSIONS
+SGLT2 inhibitors show a clear advantage in reducing the risks of
+both CV and renal events in patients with DKD, compared to
+GLP-1RAs and DPP-4 inhibitors. GLP-1RAs also show CV and
+renal outcome benefits, compared to placebo, but the benefit was
+not better than SGLT2 inhibitors or DPP-4 inhibitors for most
+outcomes. In contrast, DPP-4 inhi bitors did not improve either
+CV or renal outcomes. Based on the results of this meta-analysis,
+we recommend that SGLT2 inhibitors should be considered the
+treatment of choice in patients with type 2 diabetes mellitus and
+kidney disease.
+AUTHOR CONTRIBUTIONS
+All authors contributed to the meta-analysis design, data analysis and
+to the drafting, review and final approval of the manuscript.
+ACKNOWLEDGMENTS
+Editorial assistance was provided by Syed Abdul Haseeb (MS, CMPP)
+and Akshaya Srinivasan (PhD) of MediTech Media, Asia Pacific.
+CONFLICT OF INTEREST
+All authors have no conflict of interest to declare.
+PEER REVIEW
+The peer review history for this article is available athttps://publons.
+com/publon/10.1111/dom.14702.
+CAO ET AL. 1455
+
+[W4281936323 PDF PAGE 9]
+DATA AVAILABILITY STATEMENT
+Data will be made available upon reasonable request.
+ORCID
+Qiuhe Ji https://orcid.org/0000-0002-4008-2974
+REFERENCES
+1. Saeedi P, Petersohn I, Salpea P, et al. Global and regional diabetes
+prevalence estimates for 2019 and projections for 2030 and 2045:
+results from the International Diabetes Federation Diabetes Atlas, 9th
+edition. Diabetes Res Clin Pract. 2019;157:107843.
+2. Afkarian M, Zelnick LR, Hall YN, et al. Clinical manifestations of kid-
+ney disease among US adults with diabetes, 1988-2014.JAMA. 2016;
+316(6):602-610.
+3. Jitraknatee J, Ruengorn C, Nochaiwong S. Prevalence and risk fac-
+tors of chronic kidney disease among type 2 diabetes patients: a
+cross-sectional study in primary care practice. Sci Rep. 2020;10(1):
+6205.
+4. Duan JY, Duan GC, Wang CJ, et al. Prevalence and risk factors of
+chronic kidney disease and diabetic kidney disease in a central Chi-
+nese urban population: a cross-sectional survey.BMC Nephrol. 2020;
+21(1):115.
+5. Hussain S, Habib A, Najmi AK. Limited knowledge of chronic kidney
+disease among type 2 diabetes mellitus patients in India.Int J En

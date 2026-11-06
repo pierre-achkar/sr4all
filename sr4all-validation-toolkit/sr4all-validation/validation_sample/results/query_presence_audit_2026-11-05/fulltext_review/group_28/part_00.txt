@@ -1,0 +1,177 @@
+
+
+REVIEW W4223587433
+TITLE: Are dopamine agonists still the first-choice treatment for prolactinoma in the era of endoscopy? A systematic review and meta-analysis
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4223587433 PDF PAGE 1]
+RESEARCH Open Access
+Are dopamine agonists still the first-choice
+treatment for prolactinoma in the era of
+endoscopy? A systematic review and meta-
+analysis
+Xiangming Cai 1, Junhao Zhu 2, Jin Yang 2, Chao Tang 3, Zixiang Cong 3 and Chiyuan Ma 1,2,3,4*
+Abstract
+Background: For prolactinoma patients, dopamine agonists (DAs) are indicated as the first-line treatment and
+surgery is an adjunctive choice. However, with the development of surgical technique and equipment, the effect of
+surgery has improved. The aim of this study was to assess the efficacy and safety of surgery versus DAs in patients
+with different types of prolactinomas.
+Methods: A systematic search of literature using Web of Science, PubMed, Cochrane Library, and Clinical Trial
+databases was conducted until July 12, 2019. Prolactinoma patients treated with DAs (bromocriptine or
+cabergoline) or surgery (microscopic or endoscopic surgery) were included. Outcomes included the biochemical
+cure rate, recurrence rate, prolactin level, improvement rates of symptoms, and incidence rates of complications. A
+random-effects model was used to pool the extracted data. Qualitative comparisons were conducted instead of
+quantitative comparison.
+Results: DAs were better than surgery in terms of the biochemical cure rate (0.78 versus 0.66), but surgery had a
+much lower recurrence rate (0.19 versus 0.57). Full advantages were not demonstrated in improvement rates of
+symptoms and incidence rates of complications with both treatment options. In microprolactinoma patients, the
+biochemical cure rate of endoscopic surgery was equal to the average cure rate of DAs (0.86 versus 0.86) and it
+surpassed the biochemical cure rate of bromocriptine (0.86 versus 0.76). In macroprolactinoma patients, endoscopic
+surgery was slightly higher than bromocriptine (0.66 versus 0.64) in terms of the biochemical cure rate.
+Conclusion: For patients with clear indications or contraindications for surgery, choosing surgery or DAs
+accordingly is unequivocal. However, for patients with clinical equipoise, such as surgery, especially endoscopic
+surgery, in microprolactinoma and macroprolactinoma patients, we suggest that neurosurgeons and
+endocrinologists conduct high-quality clinical trials to address the clinical equipoise quantitatively.
+Keywords: Prolactinoma, Dopamine agonists, Bromocriptine, Cabergoline, Microscopic surgery, Endoscopic surgery
+© The Author(s). 2022 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if
+changes were made. The images or other third party material in this article are included in the article's Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons
+licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+The Creative Commons Public Domain Dedication waiver ( http://creativecommons.org/publicdomain/zero/1.0/) applies to the
+data made available in this article, unless otherwise stated in a credit line to the data.
+* Correspondence: machiyuan_nju@126.com
+4School of Medicine, Nanjing University, Nanjing, China
+Full list of author information is available at the end of the article
+Cai et al. Chinese Neurosurgical Journal             (2022) 8:9 
+https://doi.org/10.1186/s41016-022-00277-1
+CHINESE MEDICAL ASSOCIATION
+߶ٳ
+4&/&630463(*$"-40$*&5:
+
+[W4223587433 PDF PAGE 2]
+Background
+Prolactinomas are the most common type of hormone-
+secreting pituitary tumors and they represent 40% of all
+pituitary tumors [ 1]. Dopamine agonists (DAs), includ-
+ing bromocriptine and cabergoline, are recommended as
+the first-line treatment for most prolactinomas. Surgery
+is only an adjunctive choice when resistance or intoler-
+ance to DAs occurs or severe complications, such as pi-
+tuitary apoplexy or cerebrospinal fluid leak, develop [ 2].
+However, with the development of surgical technique
+and equipment, especially endoscopic surgery, it is time
+to reassess the relationship between DAs and surgery.
+Only few retrospective studies [ 3– 8] have compared the
+efficacy and safety between surgery and DAs in some
+specific subgroups of prolactinoma patients. And few
+meta-analyses discussed the difference among treat-
+ments for prolactinoma in some outcomes, mostly re-
+mission rates and recurrence rates [ 9– 11]. As far as we
+know, no meta-analysis discussed comprehensive effi-
+cacy (remission and symptom relief) and safety (relapse
+and complications) for various treatments of a full
+spectrum of prolactinoma patients. Because of the lack
+of a large sample-sized study comparing these two
+methods in all prolactinoma patients, we conducted this
+meta-analysis to compare the efficacy and safety of sur-
+gery versus DAs in all prolactinoma patients with a focus
+on the following outcomes: biochemical cure rate, recur-
+rence rate, symptom improvement rates, and incidence
+rates of complications.
+Methods
+This study was conducted in accordance with PRISMA
+(Preferred Reporting Items for Systematic Review and
+Meta-Analysis) [ 12].
+Literature research
+Web of Science, PubMed, Cochrane Library, and Clinical
+Trial databases were independently searched until Sep-
+tember 3, 2019, by Cai and Zhu. Search strategy com-
+bined MESH terms including “Prolactinoma,”
+“Dopamine Agonists, ”“ Microscopy,” and “Endoscopy”
+with free-text words including “Microprolactinoma,”
+“Macroprolactinoma,”“ Giant prolactinoma, ”“ Bromo-
+criptine,”“ Cabergoline,” and “Surgery” (Supplementary
+file 1). Studies were restricted to the English language in
+this research.
+Inclusion criteria
+The eligibility criteria consisted of the following items:
+(1) only studies that included patients who had been di-
+agnosed with prolactinoma. Prolactinomas are classified
+by the size of the tumor as microprolactinoma (< 10
+mm), macroprolactinoma ( ≥ 10 mm), and giant prolacti-
+noma (> 40 mm) [ 13]; (2) required treatments included
+surgery (microscopic surgery or endoscopic surgery) or
+DAs (bromocriptine or cabergoline). Patients in the DAs
+group only received DAs, but patients in the surgery
+group may have received DAs before surgery; (3) in-
+cluded studies reported the data of at least one available
+outcome that was assessed in this study.
+Exclusion criteria
+We excluded the following studies: (1) papers that
+assessed other pituitary tumors; (2) studies that utilized
+other DAs, gamma knife surgery, or radiation therapy;
+(3) studies that included less than 10 patients.
+Extraction of data
+Following data were extracted from each paper: author,
+year of publication, subtype of prolactinoma, interven-
+tion, size of sample, gender proportion, mean age, and
+mean follow-up duration. We also assessed the biochem-
+ical cure rate, recurrence rate, and the following vari-
+ables before and after treatment: prolactin level, visual
+impairment, headache, menstrual disturbance, galactor-
+rhoea, adrenocorticotropic hormone (ACTH) insuffi-
+ciency, thyroid-stimulating hormone (TSH) deficiency,
+hypopituitarism (one or more deficiencies), and diabetes
+insipidus. Recurrence was defined as the observation of
+hyperprolactinemia after a period of normalization after
+surgery and withdrawal of DAs. The assessment of hor-
+monal deficiencies was performed by calculating the
+presence of hormonal deficiencies after treatment. The
+extraction of data was independently carried out by Cai
+and Zhu.
+Quality assessment
+The same two reviewers (Cai and Zhu) assessed risk of
+bias for included studies independently. ROB 2
+Cochrane risk of bias tool was used for the randomized
+controlled trials (RCTs) and ROBINS-I tool for non-
+randomized controlled trials (non-RCTs) [ 14, 15]. As no
+available text-book quality guidelines for case-series
+studies, we used a tool developed by Moga et al. to as-
+sess case-series studies [ 16]. No cutoff scores were pro-
+vided within this tool, so we gave one point to each
+“yes” answer and zero to each “no” and “unclear”
+answer.
+Statistical analysis
+To conduct a meta-analysis of single rates, STATA Ver-
+sion 12.0 and MetaAnalyst Beta 3.13 were applied separ-
+ately for assessing the biochemical cure rate, recurrence
+rate, and other parameters. A RE (random-effects) model
+using Mantel-Haenszel heterogeneity method was also
+used in these two programs. RevMan Version 5.0 was
+used to evaluate the pooled mean difference between
+pre- and post-treatment prolactin levels using the RE
+Cai et al. Chinese Neurosurgical Journal             (2022) 8:9 Page 2 of 21
+
+[W4223587433 PDF PAGE 3]
+model. With this procedure, I-squared values were cal-
+culated to assess the heterogeneity of pooled results.
+Subgroup analysis and meta-regression analysis of mean
+age, gender, publication year, subtypes of prolactinoma,
+subtypes of surgery, and drug species were conducted to
+discover the sources of heterogeneity. A funnel plot was
+used to evaluate the publication bias. As the indications
+for surgery and DAs were significantly different from
+each other, we only conducted qualitative comparison
+instead of formal quantitative comparison in the meta-
+analysis.
+Results
+Included studies
+Based on our search strategy, 4373 papers were identi-
+fied in the databases. From these 4373 papers, 4174 pa-
+pers were excluded after screening the titles and
+abstracts (Fig. 1). The remaining 199 full-text articles
+were assessed for 

@@ -1,0 +1,224 @@
+l. Diagnostic Pathology  (2018) 13:12 Page 2 of 11
+
+[W2797182287 PDF PAGE 3]
+/C15What types of tests, platforms, and scoring
+algorithms are currently being used?
+/C15How has the validity of these tests, platforms, and
+scoring algorithms been tested?
+Methods
+The SLR was conducted in accordance with the methods
+outlined in the Preferred Reporting Items for Systematic
+Reviews and Meta-Analyses (PRISMA) guidelines.
+Systematic searches were conducted in MEDLINE®
+(via PubMed) and Embase® (via embase.com) for studies
+published in English between January 1, 2010 and
+September 15, 2016. Medical Subject Headings (MeSH),
+EMTREE terms, and free-text terms were used and
+combined, where appropriate, with Boolean operators
+(“AND”, “OR,” and “NOT”). Key search terms included
+text variations on biomarkers of interest, such as
+“programmed death-ligand, ”“ PDL1,”“ PD-L1,” and
+relevant validation metrics, such as “Sensitivity and
+Specificity” (MeSH) and “valid*.” (The MEDLINE search
+strategy is provided in a supplementary appendix.) Two
+searches were run; the second supplementary search
+used the same core algorithm but with some additional
+terms (for example “correlat*” and “immunohistochem-
+istry” [MeSH]) to ensure the search was comprehensive.
+Supplementary searches were undertaken to capture
+‘grey’ literature— data from sources not indexed in the
+electronic databases. To capture such evidence, proceed-
+ings from the three most recent meetings of the follow-
+ing six subject-specific conferences were searched:
+1. American Society of Clinical Oncology (ASCO)
+2. European Society for Medical Oncology (ESMO)
+3. Society for Immunotherapy of Cancer (SITC)
+4. International Cancer Immunotherapy Conference
+5. American Association of Cancer Research (AACR)
+6. International Association for the Study of Lung
+Cancer (IASLC)
+Study selection was based on criteria that were defined
+a priori and are summarized in Table 1. The titles and
+abstracts of records retrieved via the literature searches
+were first appraised by a single reviewer, and 10% of the
+screening decisions made at this level were checked by
+second reviewer to confirm their accuracy, as a quality
+control measure. Relevant studies that passed this first
+round of screening then underwent full-text screening,
+which was conducted by two reviewers to confirm each
+inclusion and exclusion decision. Any discrepancies at
+the abstract and full-text level were resolved in discus-
+sion with a third reviewer where necessary.
+Data abstraction of the included studies was
+performed using a predefined data abstraction template
+designed in Microsoft Excel®. For each included study,
+Table 1 Criteria for Study Selection
+Criteria Inclusion Criteria Exclusion Criteria Rationale
+Population(s) Patients with bladder/urothelial cell, lung,
+gastric, or ovarian cancer
+ Ongoing studies
+ Interim analyses
+ Studies of other oncology
+indications
+Population criteria were designed to reflect
+cancer populations that are candidates for
+PD-L1 expression testing
+Interventions/
+Comparators
+Diagnostic tests targeting the PD-1/PD-L1
+pathway
+N/A To survey the range of tests currently in use, all PD-L1
+tests or studies looking at diagnostics used in PD-1/PD-L1
+immunotherapy trials were considered
+Outcomes PD-L1 test-validation metrics.
+Information on PD-L1 test-scoring
+algorithms or cutoffs was also
+captured from those studies that
+reported on test performance
+Studies that did not report
+outcomes of interest for the
+study population
+As the review aimed to evaluate how well different tests
+performed against validation criteria, studies reporting
+outcomes relating to validation metrics were prioritized. It
+was also considered important to capture data relating to
+the tests ’ characteristics (scoring algorithms and test
+cutoffs) in order to determine the comparability of
+different tests
+Time Indexed databases: January 1 2010
+to September 15, 2016)
+Grey literature: Three most recent
+meetings (January 2013 up to
+November 2016).
+Studies published prior to 2010 or
+after the final search date in 2016
+Date limits were applied to reflect the very recent/current
+nature of this field of research
+Study Design  Randomized trials
+ Observational studies
+ Diagnostic or clinical validation
+studies
+ Animal studies
+ Case reports
+ Editorials
+Study design criteria reflected the nature of the studies
+reporting on test-validation metrics of PD-L1 tests for use
+in human population.
+Other PD-L1 tests required to be
+commercially available
+ English language only
+ Geographic emphasis on the
+US, EU5, and Japan
+ Articles that were either not published
+in English or outside the
+geographic locations of interest
+ Publications on noncommercially
+available tests
+Commercially available tests were prioritized to ensure
+that review was relevant to current practice. The
+geographic emphasis reflects the countries in which PD-1
+/PD-L1 immunotherapies are currently licensed. Most
+evidence in this field is published in English so language
+limits were designed to reflect this.
+Abbreviations: EU5 European Union 5, N/A not applicable, PD-1 programmed death receptor 1, PD-L1, programmed death ligand 1, US United States
+Udall et al. Diagnostic Pathology  (2018) 13:12 Page 3 of 11
+
+[W2797182287 PDF PAGE 4]
+data were captured by a single investigator, with
+validation of the accuracy and completeness of this
+abstraction being performed by a second reviewer. Any
+discrepancies were resolved in a discussion with a third
+investigator. Specific key information was abstracted
+from included studies on the following: patient popula-
+tion, type of test, test developer, test platform, test-
+scoring algorithms, test thresholds/cutoffs, and test-
+validation metrics. Due to the variety of study designs
+considered in this review, it was not possible to under-
+take a risk-of-bias assessment using a single standardized
+tool. Heterogeneity in the studies also meant that a
+quantitative meta-analysis of their data was not appro-
+priate; therefore, the evidence abstracted from included
+studies was qualitatively synthesized and key trends
+were summarized.
+Results
+Search results
+The indexed database searches yielded 950 records. After
+removing publications duplicated between databases, 589
+abstracts remained and were screened, of which 57 met
+the criteria for detailed review of their associated full-text
+publications. Of these 57 publications subjected to full-
+text screening, 12 were eligible for inclusion in the SLR, as
+they reported on PD-L1 test validation metrics for
+commercially available tests. An additional eight studies
+were identified from the supplementary search and 10
+conference abstracts also met the eligibility criteria. There-
+fore, a total of 30 references (collectively representing 26
+unique study populations and four linked publications)
+were included in the review. The study screening and
+selection process is illustrated in Fig. 1.
+All 26 included studies reported on test validation
+metrics associated with PD-L1 tests in lung cancer. One
+of the studies also reported data relating to bladder/
+urothelial cell cancer [ 3]. No evidence relating to gastric
+or ovarian cancer was identified.
+Lung cancer
+Types of PD-L1 antibody tests identified in the SLR
+Across the 26 included studies, eight antibodies for
+detecting PD-L1 expression in patients with lung cancer
+were identified, as follows:
+/C15PD-L1 IHC 22C3 pharmDx by Dako (referred to
+hereafter by the antibody 22C3): 3 studies [ 4–6]
+/C15PD-L1 IHC 28 –8 pharmDx by Dako (referred to
+hereafter by the antibody 28 –8): 7 studies [ 6–12]
+/C15VENTANA PD-L1 (SP263) Rabbit Monoclonal
+Primary Antibody by Roche (referred to hereafter by
+the antibody SP263): 6 studies [ 6–8, 13–15]
+Fig. 1 Screening and Study Selection
+Udall et al. Diagnostic Pathology  (2018) 13:12 Page 4 of 11
+
+[W2797182287 PDF PAGE 5]
+/C15VENTANA PD-L1 (SP142) Assay by Roche
+(referred to hereafter by the antibody SP142): 9
+studies [ 3, 6, 8, 9, 16–20]
+/C15PD-L1 (E1L3N®) XP® Rabbit mAb #13684 by Cell
+Signaling Technology [CST] (a reagent provider): 9
+studies [ 8, 11, 15, 20–25]
+/C154059 by ProSci, Inc.: 1 study [ 26]
+/C15h5H1 by Advanced Cell Diagnostics: 1 study [ 27]
+/C159A11 (developer not reported): 1 study [ 8]
+In all cases, PD-L1 expression was evaluated using an
+immunohistochemistry (IHC) platform. One of the
+studies specified that diaminobenzidine tetrahydrochlo-
+ride was used as the reagent to produce the “brown
+staining” for the IHC process [ 8]. Three studies evalu-
+ated results derived from alternative test platforms as
+well as IHC. Two studies [ 8, 20] measured PD-L1
+expression using quantitative fluorescence (QIF) and an-
+other study looked at fluorescence in-situ hybridization
+(FISH) [ 12].
+The antibodies manufactured by Dako and Roche had
+all been originally developed and validated to support a
+therapeutic drug in the context of a clinical trial. These
+antibodies were evaluated in eight studies as follows:
+/C15Three studies looked at the IHC-SP142 (Roche),
+developed alongside atezolizumab [ 3, 16, 17]
+/C15Two studies looked at IHC-SP263 (Roche), developed
+alongside durvalumab [ 14, 28]
+/C15Two studies looked at IHC-22C3 (Dako), developed
+alongside pembrolizumab [ 4, 5]
+/C15One study looked at IHC-28-8 (Dako), developed
+alongside nivolumab [ 10]
+Test-scoring algorithms and thresholds used among the PD-
+L1 tests
+The thresholds and scoring systems used to determine
+PD-L1 positivity varied between the antibodies and across
+studies. Eleven studies [ 4, 7, 10– 12, 14, 19– 21, 23, 28]i n -
+vestigated dichotomous cutoffs (representing the propor-
+tion of cells with PD-L1 expressed) for PD-L1 positivity
+using different antibodies (the thresholds used in these
+studies are summarized in Table 2). Amongst these 11
+studies, nine [ 4, 6, 9– 11, 19, 20, 22, 27] set thresholds a
+priori (for example, based on cutoffs used in previously
+published research) and two studies [ 4, 13] attempted to
+establish an optimal threshold based on the study findings.
+In one stud

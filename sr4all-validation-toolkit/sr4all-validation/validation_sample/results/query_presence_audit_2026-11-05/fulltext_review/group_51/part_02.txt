@@ -1,0 +1,191 @@
+men 0.00419%
+Adverting adverse birth outcomes, 
+total costs, and QALYs
+Huntington et al. 
+(35)
+The United Kingdom
+I Universal repeat syphilis screening in late pregnancy.
+II Repeat screening for high-risk women only.
+Pregnant women
+0.035% at the start of 
+pregnancy,
+0.0017%
+with syphilis during pregnancy
+The cost to avoid adverse birth 
+outcomes and the number needing 
+to be screened/treated to avoid 
+adverse birth outcomes.
+Romero et al. (36) Brazil
+I On-site ICS test and treatment on the same day.
+II Off-site VDRL+TPHA test and treatment at the follow-up visit.
+Pregnant women aged between 
+10 and 49 years
+1.2%
+Mother-to-child syphilis 
+transmission,
+adverting adverse birth outcomes, 
+DALYs lost, and ICER
+Rodriguez et al. 
+(18)
+South Africa, Kenya, 
+Colombia, and 
+Ukraine
+I HIV and syphilis screening at the first ANC visit. Rapid HIV and syphilis test at the 
+first ANC visit.
+II HIV and syphilis tests at the first ANC visit and repeat screening during late ANC 
+and at delivery.
+III Rapid HIV and syphilis test at the first ANC visit and repeat screening during late 
+ANC and at delivery.
+Pregnant women
+1.2% in Kenya, 2.0% in 
+South Africa, 0.41% in 
+Colombia, and 2.5% in Ukraine
+Total Cost, total DALYs, incremental 
+cost, and ICER
+ANC, Antenatal care; CER, Cost-effective ratio; DALY , Disability-adjusted life year; HIV , Human immunodeficiency virus; ICS, Immunochromatographic strip; ICER, Incremental cost-effective ratio; MTCT, Mother-to-child transmission; POC, Point-of-care; RPR, 
+Rapid plasma reagin; RST, Rapid syphilis tests; TPHA, Treponema pallidum hemagglutination assay; and VDRL, Venereal disease research laboratory test.
+
+[W4393042487 PDF PAGE 7]
+Zhang et al. 10.3389/fpubh.2024.1268653
+Frontiers in Public Health 07 frontiersin.org
+pregnant women (24 and 28–32 weeks, respectively). A majority of the 
+studies (N = 13, 76%) were cost-utility analyses (CUAs); of which, 
+outcome measures used disability-adjusted life years (DALYs) (N = 12) 
+or quality-adjusted life years (QALYs) (N = 1). Four studies performed 
+cost-effectiveness analysis using incremental cost per case averted as 
+an outcome. Of the 17 studies, four studies evaluated interventions 
+using different screening methods, including rapid plasma reagin 
+(RPR), rapid syphilis test, immunochromatographic strip test (ICS), 
+and treponema pallidum hemagglutination assay (TPHA); seven 
+studies assessed the combination of syphilis test and treatment 
+interventions; and three studies focused on repeat screening 
+intervention. In addition, four studies mixed interventions to integrate 
+syphilis and HIV testing.
+Table  4 presents information on the following categories: 
+perspective, time horizon, currency and reference year, discount rate, 
+costs included, and main results. In addition to the four unreported 
+studies’ research perspectives, four were social perspectives, eight were 
+health system perspectives, and one was provider perspective. The cost 
+of most studies included testing, counseling, treatment, and labor 
+costs. Of the included studies, 10 had a lifetime horizon, one had a 
+gestation period, one had a 4-year time horizon, and one had a 20-year 
+time horizon. The currency used in most of the studies was the US 
+dollar, and only one study used the United Kingdom pound sterling. 
+Among the included studies, two studies did not report the discount 
+rate, and one study did not need to report the discount rate due to less 
+than 1-year time horizon. The discount rate of 10 studies was 3%, two 
+studies were 5%, and one study was 3.5%. One study used 3% for effect 
+discount and 5% for cost discount.
+Cost-effectiveness of the different tests
+Vickerman et al. (25) estimated the cost-effectiveness of using the 
+rapid POC syphilis tests compared with rapid plasma reagin (PRP) in 
+the Mwanza antenatal syphilis screening. POC tests saved more 
+disability-adjusted life years (DALYs) than the RPR test but were less 
+cost-effective than the RPR test unless the cost of POC was $0.63. 
+Rydzak et  al. assessed the cost-effectiveness of three screening 
+strategies, namely, conventional two-step screening using an RPR test 
+followed by a Treponema pallidum hemagglutination assay (TPHA) 
+confirmatory test, single-visit rapid RPR, and single-visit rapid 
+immunochromatographic strip (ICS) compared with no screening. 
+They found that compared with no screening, single visits with ICS 
+was a cost-saving strategy of US$170,303 per 1,000 women over their 
+lifetime (28). Owusu-Ediusei et al. compared the health and economic 
+outcomes of four testing/screening algorithms, namely, the dual-POC 
+test, RPR+TPHA algorithm, an onsite PRP testing, and ICS testing, 
+and the results showed that the dual-POC test was the most cost 
+saving (saved $30,000) in resource-poor and high prevalence 
+settings (29).
+Cost-effectiveness of syphilis tests and 
+treatments
+The scaling-up of syphilis screening and treatment strategy was 
+likely to be  highly cost-effective in a wide range of settings ( 31). 
+Larson et al. (22) reported on a model-based study and found that 
+syphilis screening was only cost-effective for reducing adverse birth 
+outcomes if positive patients were treated. ICS testing and subsequent 
+treatment strategy were proved to be highly cost-effective compared 
+with no testing and no treatment in Sub-Saharan Africa and low- and 
+middle-income countries in Asia and Latin America (30–33). The ICS 
+test, which involved the same-day treatment of those testing positive, 
+was cost-effective compared to PRP/TPHA that needed patients 
+returning for results and treatment in high maternal syphilis 
+prevalence settings such as the Republic of South Africa and Brazil 
+(26, 36). Terris-Prestholt et al. (21) assessed the cost-effectiveness of 
+maternal syphilis screening using rapid syphilis tests (RSTs) detecting 
+only treponema pallidum antibodies (single RSTs) or both treponemal 
+and non-treponemal antibodies (dual RSTs). They found that the 
+single RST and treatment should be the best approach unless the price 
+of the dual RST was significantly reduced (21).
+Cost-effectiveness of repeat syphilis screening
+Albright et al. (32) estimated the cost-effectiveness of universal 
+third-trimester syphilis repeat screening in the United  States 
+compared to no-repeat screening, and they found that the repeat 
+screening approach was at a high healthcare cost to prevent adverse 
+outcomes. The universal repeat screening was also proved to be not 
+cost-effective in the United  Kingdom setting of a low syphilis 
+prevalence (35). However, Hersh et al. (34) reported that the strategy 
+of screening all women during the first and third trimesters was cost-
+effective and improved maternal and neonatal outcomes in the 
+United States.
+Cost-effectiveness of integrated HIV and syphilis 
+screening
+The integrated screening strategy using a rapid syphilis test as a 
+part of prenatal HIV test would prevent CS cases and stillbirths and 
+would be cost-effective in Haiti (27). In addition, Bristow et al. (17) 
+found that a dual HIV and syphilis test was even cost-saving. Owusu-
+Edusei et  al. assessed the health and economic outcomes of four 
+different strategies of HIV and syphilis screening in pregnant women, 
+namely, no screening, screening for HIV only, screening for syphilis 
+only, and screening for both HIV and syphilis. The results showed that 
+prenatal HIV screening, including syphilis screening, would 
+be  substantially more cost-effective than HIV screening alone in 
+China (19). Rodriguez et al. ( 18) modeled and evaluated the cost-
+effectiveness of dual maternal HIV and syphilis testing during ANC 
+and retesting during late ANC strategies in high and low HIV 
+prevalence countries, and they found that the dual rapid diagnosis test 
+was cost-saving compared with individual HIV and syphilis tests. The 
+strategy of retesting during late ANC with a dual rapid diagnostic test 
+was evaluated to be  cost-effective compared with the strategy of 
+screening syphilis and HIV with the dual rapid diagnosis test in the 
+first ANC visit (18).
+Discussion
+Pregnant women infected with syphilis not only endanger their 
+own health but also cause intrauterine infection of the fetus, resulting 
+in abortion, premature birth, stillbirth, or delivery of CS children, 
+which greatly endangers the health of the offspring (37, 38). Based on 
+the prevalence and harm of CS, the WHO put forward a global action 
+plan for eliminating CS in 2007 and formulated corresponding 
+strategies (9). Syphilis screening during pregnancy and treatment of 
+positive pregnant women can effectively reduce MTCT and improve 
+the eugenic rate. Studies have shown that pregnant women with 
+
+[W4393042487 PDF PAGE 8]
+Zhang et al. 10.3389/fpubh.2024.1268653
+Frontiers in Public Health 08 frontiersin.org
+TABLE 4 The perspective, time horizon, currency and reference year, discount rate, costs included, and main results of the 17 studies.
+Perspective Time horizon Currency and 
+reference year
+Discount rate Costs included Results
+Vickerman et al. (25) Not reported Not reported 2005 US $ Not reported
+Cost for RPR intervention(including start-up, 
+shaker, centrifuge, fridge, training, total drug, RPR 
+test, other supplies, laboratory staff, medical and 
+other staff, and transport for requisitions); cost for 
+POC test intervention (included POC test and 
+penicillin).
+In addition to the definitive test, all POC 
+tests saved more DALY than the RPR test 
+on average and averted adverse birth 
+outcomes. Except for Bioline, all POC tests 
+were less cost-effective than RPR tests.
+Blandfod 2007 (26)
+The perspective of the Eastern 
+Cape Provincial Department 
+of Health
+The period of gestation 2002 US $ Not applicable
+Total test costs (supplies, labor), supply costs, labor 
+costs, and treatment costs
+On-site ICS averted most CS cases, with an 
+incremental cost-effectiveness ratio of $114 
+per case compared to off-site RPR/TPHA.
+Schackman et al. (27) Societal perspective
+A normal 

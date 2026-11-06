@@ -1,0 +1,190 @@
+ctiva-
+tion was not mentioned in 23 experiments (36.5%)
+[80,81,83,84,86- 91,93,95,109,111,11 5,118,123,124,130,
+133,135,138,139]. One study [128] stated that the
+hemoderivative was not activated.
+For the preparation of PRP in experimental studies a
+single centrifugation was the method chosen for PRP
+preparation in 29 experiments (46%) [81,83,84,86-91,94,
+97,98,100,103-105,109-111,113,118-121,124,125,128,133,
+139]. Two centrifugations were used in 29 (46%)
+[80,82,92,95,96,99,101,106-108,112,114-117,122,123,126,
+127,129-132,134-138,140] experiments, one and two
+centrifugations were used in one experiment [93] and 3
+centrifugations were employed in two experiments
+[85,102]. Filtration was used to obtain PRP in two trials
+[78,79]. Among the 29 experiments that employed one
+centrifugation, 25 yielded positive results (86.2%)
+[81,83,84,86,88,90,91,94,97,98,100,102,103,105,109,110,1-
+18-121,124,125,127,139,140]. Of the 29 experiments
+that employed two centrifugations, 20 yielded positive
+results (75%) [82,92,94-96,99,101,106-108,112,115,122,
+127,131,134-137,140].
+Among the 67 experimental results, 17 were con-
+ducted in humans [91-106], 15 in rabbits [113-127], 13
+in horses [78-90], ten in rats [128-137], five in sheep
+[96,104,110-112], three in pi gs [138-140], three in dogs
+[107-109] and one in mice [96]. The number of species
+exceeds the number of experiments because, in a few
+cases, in vivo and in vitro trials of a same experiment
+yield two results in the species count down.
+Thirty-five experiments (55.5%) [80,81,83-85,88,90-97,
+102,104-106, 108,110,116,119-121,124,125,128,129,131-
+137] were related to tendon disorders, 16 (25.4%)
+[78,79,82,98-101,103,111,112,115,123,126,127,130,140]
+to cartilage, ten (15.9% ) [87,89,107,109, 113,117,118,122,
+138,139] to ligament lesions, one (1.6%) [86] to both
+ligament and tendon disorders, and one (1.6%) [114] to
+several potential injury tissues. PRP yielded positive
+results in 85.7% of the experiments with tendons (30 tri-
+als) [81,83-85,88,90-95,97,102 ,104-106,108,110,119-121,
+123,124,128,129,131,134-137], 68. 7% (11 trials) of those
+with cartilage [82,98-101,103,112,115,126,127,140], and
+50% of those with ligaments (five trials) [107,109,
+118,122,139].
+Discussion
+The use of hemoderivatives for tissue healing has gained
+increasing popularity for the treatment of musculoske-
+letal lesions. Among these derivatives, PRP has already
+been established as a part of the repertoire of possibil-
+ities for the treatment of orthopedic conditions
+[4,6,10,141-147].
+Despite widespread acceptance of its ambulatory use, re-
+search continues for the purpose of providing convincing
+evidence of clinical benefits associated with this hemoderi-
+vative’s administration. Uncontrolled or biased reports of
+PRP’s efficacy have been excessive and have not strength-
+ened the existing evidence, suggesting (but not definitively
+demonstrating) the beneficial effects of PRP.
+The overall quality of the study design was less than
+ideal in the majority of the selected studies and the qual-
+ity was inversely correlated with the performance of PRP
+in clinical trials. Rigorous study design and a low risk of
+bias were associated with negative outcomes in PRP clin-
+ical trials. Because a high-quality study design was a
+much more common feature of human studies and a
+rare feature of equine studies, it was not surprising to
+find more negatively affected outcomes in human clin-
+ical trials and positive outcomes in equine clinical trials.
+Other authors have emphasized the importance of well-
+designed clinical studies for the evaluation of PRP ’s
+Brossi et al. BMC Veterinary Research  (2015) 11:98 Page 9 of 17
+
+[W2001221672 PDF PAGE 10]
+efficacy and limitations and these authors have warned
+about their scarcity [141,146,148-156], but the present
+review presented a quantitative link between study
+design and outcome.
+Accordingly, 76.9% of the studies with negative results
+were classified as RCTs, while RCTs comprised only
+42.8% of the studies with positive results. While the in-
+clusion of studies with different designs can be a subject
+to debate if, in one hand, the inclusion of RCTs, cohorts
+and controlled case series caused heterogeneity of our
+study sample, on the other, the diversity and the large
+number of studies included allowed for comparisons and
+for the establishment of a quantitative relationship be-
+tween study design and outcome after PRP intervention.
+This relationship was more consistent in the human
+clinical trials, given the scarcity of RCTs and controlled
+studies in the equine species. As expected, the majority
+of less than ideally- designed equine studies yielded posi-
+tive results, and the only negative result among equine
+clinical trials originated from the only equine RCT. The
+same was true for including data of clinical and experi-
+mental studies, but, again, the comparison between re-
+sults of PRP´s efficacy with these different
+methodologies revealed important results.
+Another purpose of the current review was to analyze
+and summarize the most common flaws in study design
+and to evaluate their implications in the results of PRP
+interventions. The most striking feature contributing to
+the debatable quality of the clinical trials included in this
+review was the lack of a true placebo control group. This
+observation referred mainly to the human clinical trials
+because the majority of the equine clinical trials lacked a
+control group, thereby preventing comparison.
+Because several of the selected studies adopted sub-
+jective outcome measures and lacked a true placebo
+control group, their results could have been impacted.
+However, a gold standard treatment, if one exists, can be
+assigned to the control group for comparison with a
+new proposed treatment. Then, researchers would be
+comparing two active treatment groups, without a pla-
+cebo group [157]. This comparison was frequently ob-
+served in this review, and PRP ’s effectiveness was often
+compared with that of hyaluronic acid, corticosteroids,
+autologous blood injections, no treatment, dry needling,
+physiotherapy or combinations of these therapies. Never-
+theless, treatment controls, such as sham acupuncture
+and intra-articular hyaluronic acid, have a greater effect
+size than the average placebo effect [158]. Although con-
+trol groups were often assigned to some sort of treatment
+in the selected articles, we could not identify relationships
+between positive or negative results and the lack of a true
+placebo group. In addition, as other authors [159] have
+mentioned, the use of PRP combined with other biological
+therapies could pose a challenge to the evaluation of PRP ’s
+individual effects and confound interpretation of the
+results. Therefore, studies that chose to do so were not in-
+cluded in this review.
+Poor hemoderivative characterization was the second
+most common flaw contributing to the assignment of
+study design as not ideal. Inconsistencies associated with
+PRP preparation and administration have contributed to
+the lack of strength and to the disparities of the generated
+evidence regarding PRP ’s efficacy, in both clinical and ex-
+perimental studies [160]. The most important conse-
+quence of the confounding diversity of the methods
+employed for PRP processing was the difference in result-
+ing final products, which precluded a comparison of the
+treatment’s results [143,149,156]. Similar to any autolo-
+gous blood-derived product, PRP has unique, non-
+reproducible and donor-related features that can
+jeopardize a comparison of the results [161,162]. There-
+fore, the hemoderivate composition should be verified and
+clearly presented [81,163] to minimize these effects.
+This review confirmed the existing diversity of prep-
+aration methods, commercial or laboratorial, for
+obtaining PRP , as already indicated by other researchers
+[12,81,149,156,164-166]. These methods might include
+single, double or triple centrifugations, filtration and
+plateletpheresis, with and without the aid of activating
+agents. Most of the selected clinical studies employed
+one centrifugation step, and more positive results were
+observed with this method. Previous studies have dem-
+onstrated that a double centrifugation method resulted
+in higher platelet concentrations [167,168], but caused
+more alterations in platelet morphology and was more
+sensitive to small errors during preparation [168,169]
+compared with the single centrifugation method. This
+trend toward more positive outcomes with PRP pre-
+pared with one centrifugation step must be confirmed
+with further research. Overall, PRP characterization
+was more adequate in the experimental studies than in
+the clinical trials.
+Another controversial topic in PRP preparation has been
+the need for activation– or the lack of it [163,170-172]. Until
+a consensus is reached, comparing activated to non-activated
+products is inevitable. Most of the clinical and experimental
+studies activated PRP before i njection, and clinically more
+positive outcomes were observed without PRP activation.
+The percentages of clinical and experimental studies that
+employed activation were similar. Experimentally, there was
+no relationship between the use of activation before PRP ad-
+ministration and favorable or unfavorable outcomes.
+The administration protocols also varied greatly among
+the studies - clinical and experimental - regarding injec-
+tion or application techniques, volume of hemoderivative
+employed and timing and frequency of administration.
+Again, all of these variables limited our ability to compare
+the results from different articles [148,166].
+Brossi et al. BMC Veterinary Research  (2015) 11:98 Page 10 of 17
+
+[W2001221672 PDF PAGE 11]
+Poor blinding was the third most frequent negative
+feature of the studies designs. Blinding limits bias in out-
+come evaluation, and whenever feasible, outcome asses-
+sors should not be aware of the treatment allocations of
+the patients in a clinical study [173]. Blinding of out-
+come assessors is one of the 

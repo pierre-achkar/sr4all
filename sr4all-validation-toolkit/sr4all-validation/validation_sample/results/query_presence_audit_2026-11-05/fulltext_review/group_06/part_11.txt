@@ -1,0 +1,106 @@
+Sure Start preschool sample. British journal of psychology (London, 
+England : 1953) 100, 773-797, doi:10.1348/000712609x406762 (2009). 
+62 Egger, M., Juni, P., Bartlett, C., Holenstein, F. & Sterne, J. How important are 
+comprehensive literature searches and the assessment of trial quality in systematic 
+reviews? Empirical study. Health Technology Assessment 7, 76, doi:10.3310/hta7010 
+(2003). 
+63 Diamond, A. Executive functions. Annual Review of Psychology  64, 135-168 (2013). 
+64 Chalmers, I. et al. How to increase value and reduce waste when research priorities are 
+set. The Lancet 383, 156-165, doi:http://dx.doi.org/10.1016/S0140-6736(13)62229-1. 
+65 Ioannidis, J. P. et al.  Increasing value and reducing waste in research design, conduct, 
+and analysis. Lancet 383, 166-175, doi:10.1016/s0140-6736(13)62227-8 (2014). 
+66 Open Science Collaboration. Estimating the reproducibility of psychological science. 
+Science 349, doi:10.1126/science.aac4716 (2015). 
+67 Munafò, M. R. et al.  A manifesto for reproducible science. Nature Human Behaviour 
+1, 0021, doi:10.1038/s41562-016-0021 (2017). 
+68 Duckworth, A. L. & Kern, M. L. A meta-analysis of the convergent validity of self-
+control measures. Journal of Research in Personality 45, 259-268, 
+doi:http://dx.doi.org/10.1016/j.jrp.2011.02.004 (2011). 
+69 Zhou, Q., Chen, S. H. & Main, A. Commonalities and differences in the research on 
+children’s effortful control and executive function: A call for an integrated model of 
+self-regulation. Child Development Perspectives 6, 112-121 (2012). 
+70 Shonkhoff, J. P. & Phillips, D. A. in From Neurons to Neighbourhoods. The Science 
+of Early Childhood Development   (eds J. P. Shonkhoff & D. A. Phillips)  93-123 
+(National Academy Press, 2001). 
+71 Kelley, T. L. Interpretation of Educational Measurement .  (World Books, 1927). 
+72 Credé, M., Tynan, M. C. & Harms, P. D. Much Ado About Grit: A Meta- Analytic 
+Synthesis of the Grit Literature. Journal of Personality and Social Psychology, No 
+Pagination Specified, doi:10.1037/pspp0000102 (2016). 
+ 34 
+not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+The copyright holder for this preprint (which wasthis version posted March 10, 2017. ; https://doi.org/10.1101/115691doi: bioRxiv preprint 
+
+[W2595724917 PDF PAGE 35]
+ 
+ 
+73 Ponitz, C. C., McClelland, M. M., Matthews, J. & Morrison, F. J. A structured 
+observation of behavioral self-regulation and its contribution to kindergarten 
+outcomes. Developmental Psychology 45, 605-619 (2009). 
+74 Cameron, C. E. et al.  Fine motor skills and executive function both contribute to 
+kindergarten achievement. Child Dev 83, 1229-1244, doi:10.1111/j.1467-
+8624.2012.01768.x (2012). 
+75 Grindal, T. et al.  The added impact of parenting education in early childhood 
+education programs: A meta-analysis. Children and Youth Services Review 70, 238-
+249, doi:http://dx.doi.org/10.1016/j.childyouth.2016.09.018 (2016). 
+76 Olds, D. et al. Effects of home visits by paraprofessionals and by nurses: age 4 follow-
+up results of a randomized trial. Pediatrics 114, 1560 - 1568 (2004). 
+77 Iglehart, J. K. Prioritizing Comparative-Effectiveness Research -- IOM 
+Recommendations. The New England Journal of Medicine, NEJMp0904133 (2009). 
+78 Fiore, L. D. & Lavori, P. W. Integrating Randomized Comparative Effectiveness 
+Research with Patient Care. New England Journal of Medicine 374, 2152-2158, 
+doi:doi:10.1056/NEJMra1510057 (2016). 
+79 Blair, C. & Raver, C. C. Closing the achievement gap through modification of 
+neurocognitive and neuroendocrine function: results from a cluster randomized 
+controlled trial of an innovative approach to the education of children in kindergarten. 
+PLoS One 9, e112393, doi:10.1371/journal.pone.0112393 (2014). 
+80 Fewell, Z., Davey Smith, G. & Sterne, J. A. The impact of residual and unmeasured 
+confounding in epidemiologic studies: a simulation study. Am J Epidemiol 166, 646-
+655, doi:10.1093/aje/kwm165 (2007). 
+81 Smaldino, P. E. & McElreath, R. The natural selection of bad science. Royal Society 
+Open Science 3, doi:10.1098/rsos.160384 (2016). 
+82 Watts, D. J. Should social science be more solution-oriented? Nature Human 
+Behaviour 1, 0015, doi:10.1038/s41562-016-0015 (2017). 
+ 
+ 35 
+not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+The copyright holder for this preprint (which wasthis version posted March 10, 2017. ; https://doi.org/10.1101/115691doi: bioRxiv preprint 
+
+END REVIEW W2595724917
+
+
+REVIEW W2601615751
+TITLE: Breastfeeding effects on DNA methylation in the offspring: A systematic literature review
+SOURCE_NOTES: [{"annotator": "arno", "field": "snowballing", "comment": "WRONG PDF"}, {"annotator": "arno", "field": "objective", "comment": "WRONG PDF"}, {"annotator": "arno", "field": "research_questions", "comment": "WRONG PDF"}, {"annotator": "arno", "field": "keywords_used", "comment": "WRONG PDF"}, {"annotator": "arno", "field": "inclusion_criteria", "comment": "WRONG PDF"}, {"annotator": "arno", "field": "exclusion_criteria", "comment": "WRONG PDF"}, {"annotator": "arno", "field": "n_studies_initial", "comment": "WRONG PDF"}, {"annotator": "arno", "field": "n_studies_final", "comment": "WRONG PDF"}, {"annotator": "arno", "field": "year_range", "comment": "WRONG PDF"}, {"annotator": "arno", "field": "databases_used", "comment": "WRONG PDF"}, {"annotator": "mert_okur", "field": "objective", "comment": "This is a checklist for systematic reviews, no actual objectives"}, {"annotator": "mert_okur", "field": "research_questions", "comment": "This is a checklist for systematic reviews, no actual research questions"}, {"annotator": "mert_okur", "field": "keywords_used", "comment": "this is a checklist for systematic reviews, no actual keywords used"}, {"annotator": "mert_okur", "field": "inclusion_criteria", "comment": "this is a checklist for systematic reviews, no actual inclusion criteria"}, {"annotator": "mert_okur", "field": "exclusion_criteria", "comment": "this is a checklist for systematic reviews, no actual exclusion criteria"}, {"annotator": "mert_okur", "field": "n_studies_initial", "comment": "this is a checklist for systematic reviews, no actual n_studies initial"}, {"annotator": "mert_okur", "field": "n_studies_final", "comment": "this is a checklist for systematic reviews, no actual n_studies_final"}, {"annotator": "mert_okur", "field": "year_range", "comment": "this is a checklist for systematic reviews, no actual year range"}, {"annotator": "mert_okur", "field": "databases_used", "comment": "this is a checklist for systematic reviews, no actual database used"}, {"annotator": "pierre", "field": "objective", "comment": "The PDF is a PRISMA checklist rather than the titled review and does not report this review-specific information."}, {"annotator": "pierre", "field": "research_questions", "comment": "The PDF is a PRISMA checklist rather than the titled review and does not report this review-specific information."}, {"annotator": "pierre", "field": "keywords_used", "comment": "The PDF is a PRISMA checklist rather than the titled review and does not report this review-specific information."}, {"annotator": "pierre", "field": "inclusion_criteria", "comment": "The PDF is a PRISMA checklist rather than the titled review and does not report this review-specific information."}, {"annotator": "pierre", "field": "exclusion_criteria", "comment": "The PDF is a PRISMA checklist rather than the titled review and does not report this review-specific information."}, {"annotator": "pierre", "field": "n_studies_initial", "comment": "The PDF is a PRISMA checklist rather than the titled review and does not report this review-specific information."}, {"annotator": "pierre", "field": "n_studies_final", "comment": "The PDF is a PRISMA checklist rather than the titled review and does not report this review-specific information."}, {"annotator": "pierre", "field": "year_range", "comment": "The PDF is a PRISMA checklist rather than the titled review and does not report this review-specific information."}, {"annotator": "pierre", "field": "databases_used", "comment": "The PDF is a PRISMA checklist rather than the titled review and does not report this review-specific information."}]
+EXTRACTION_ERROR: None
+
+[W2601615751 PDF PAGE 1]
+PRISMA 2009 Checklist
+Section/topic # Checklist item Section 
+reported
+TITLE 
+Title 1 Identify the report as a systematic review, meta-analysis, or both. Title
+ABSTRACT 
+Structured summary 2 Provide a structured summary including, as applicable: background; objectives; data sources; study eligibility 
+criteria, participants, and interventions; study appraisal and synthesis methods; results; limitations; conclusions and
+implications of key findings; systematic review registration number. 
+Abstract
+INTRODUCTION 
+Rationale 3 Describe the rationale for the review in the context of what is already known. Introduction
+Objectives 4 Provide an explicit statement of questions being addressed with reference to participants, interventions, 
+comparisons, outcomes, and study design (PICOS). 
+Introduction 
+(3rd parag.)
+METHODS 
+Protocol and registration 5 Indicate if a review protocol exists, if and where it can be accessed (e.g., Web address), and, if available, provide 
+registration information including registration number. 
+Eligibility criteria 6 Specify study characteristics (e.g., PICOS, length of follow-up) and report characteristics (e.g., years considered, 
+language, publication status) used as criteria for eligibility, giving rationale. 
+Study 
+selection and 
+data 
+collection
+Information sources 7 Describe all information sources (e.g., databases with dates of coverage, contact with study authors to identify 
+additional studies) in the search and date last searched. 
+Search 
+strategy
+Search 8 Present full electronic search strategy for at least one database, including any limits used, such that it could

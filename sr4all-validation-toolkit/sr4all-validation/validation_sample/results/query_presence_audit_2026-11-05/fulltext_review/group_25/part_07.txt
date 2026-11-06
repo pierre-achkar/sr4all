@@ -1,0 +1,301 @@
+les, 43.2 vs females, 34.20, p  <
+ 0.0001) int
+o their urine 
+than women, had a lower pH than women (males, 6.03 vs 
+females, 6.20, p =
+ 0.0001) and w
+ere more likely to have 
+supersaturation of uric acid in their urine than women (mg/
+day) (males, 1.03 vs females, 0.70, p <
+ 0.0001). The latter is
+ 
+consistent with existing literature highlighting that women 
+are less at risk of high urate levels than men, resulting in a 
+male predominance in uric acid stones and gout [30]. The 
+basis for this may be hormonal, and they found multiple 
+mechanisms by which the expression and activity of uric 
+acid transporters are affected by oestrogen, which goes some 
+way to explain the gender difference in pathology related to 
+hyperuricaemia.
+Post‑intervention Sepsis
+Sepsis is the leading cause of KSD-related mortality [31]. 
+Seven studies were identified, which investigated sepsis 
+post-KSD intervention [32–38]. It has previously been 
+demonstrated that women have higher sepsis rates after 
+ureteroscopy (URS) than men [39]. Southern et al. con-
+firmed this in a retrospective analysis of over 3000 URS 
+cases (OR 1.6, CI 1.19–2.15) [32]. Another study recorded 
+a significantly higher rate of post-operative sepsis after per-
+cutaneous nephrolithotomy (PCNL) in women (OR 7.8, 
+p 
+=
+ 
+0.001) [33]. Overall, all the studies determined female 
+gender to be a risk factor for developing sepsis post-stone 
+surgery [32–38].
+Gender Difference in Paediatrics
+The prevalence of KSD is also increasing in the paediatric 
+setting [40]. A large contributing factor for this is considered 
+to be the paralleled rise of body mass index (BMI) in this age 
+group [41]. Three studies were identified, which investigated 
+gender differences in paediatric KSD [42–44]. Taisan et al. 
+reported findings from a longitudinal study over a 30-year 
+period and found the overall risk of KSD doubled in chil-
+dren [42]. Furthermore, the lifetime risk of developing KSD 
+among females increased by 45% during the study period 
+(1997–2012). Both this study and one by Schwadrerer et al. 
+recorded that girls were most likely to experience KSD in 
+adolescence [42, 43]. This age group is increasingly affected 
+50   Page 4 of 8 Current Urology Reports (2021) 22: 50
+
+[W3203514247 PDF PAGE 5]
+1 3
+by KSD which is consistent with findings from NHNES [10]. 
+Meiouiet et al. studied stone composition in 432 paediatric 
+calculi [44]. Girls had calcium oxalate stones in 72.3% of 
+cases compared to 42.7% in boys (p
+ 
+<
+ 
+0.00001).
+KSD and Ambient Temperature
+Three studies were identified, which investigated gen-
+der differences in the setting of warmer seasons [45, 47, 
+48]. Vicedo-Cabrera et al. analysed data from admission 
+to emergency department (ED) across 68 centres in a 
+US state between 1997 and 2015 [45]. When the highest 
+ambient temperatures were recorded, a significantly higher 
+proportion of men were admitted with KSD (males, RR 
+1.73 vs females, RR 1.15, p < 0
+.001). This is consistent 
+with previous evidence highlighting the seasonal variation 
+in KSD events as well as a recent population-based time 
+series analysis in Canada (RR
+ =
+ 1.64 v
+s 1.22, p 
+=
+ 
+0.006) 
+[46, 47]. Fukuhara et al. also reported that more ageing and 
+male patients presented with acute stone disease when the 
+ambient temperature was high [48]. It is difficult however 
+to determine whether the cause is related to occupational 
+behaviour or whether there may be a truly physiological 
+cause. The latter may be because there are more aqua-
+porin channels in the proximal collecting tubule and thin 
+descending loop of Henle in men, which causes greater 
+water reabsorption and therefore more concentrated urine 
+[49]. This is consistent with a previous study which showed 
+that men have a lower urine volume in hot weather than 
+women [46].
+Limitations and Future Research
+This review offers insight into the evolving changes in 
+the global burden of KSD and the gender differences 
+that exist within it (Table 2 ). The heterogeneity of stud-
+ies precludes a formal meta-analysis. Furthermore, the 
+nature of included studies introduces several limitations. 
+Cause-effect conclusions are difficult to establish in cross-
+sectional studies and case control studies, such as where 
+patients record stone events are subject to recall bias.
+In addition to the abovementioned possible causes for 
+the changes to the gender gap, the rise in obesity among 
+women, which is greater than among men, is likely a con-
+tributing factor. Studies have shown obesity in women 
+leads to significantly greater supersaturation of calcium 
+oxalate [50]. Goldfarb et al. reported findings from a twin 
+registry and revealed the heritable component of KSD to 
+be greater in men than women [51]. Their findings support 
+the theory that environmental risk factors play a greater 
+role in women.
+Data from the Nurses’ Health Study (NHS) I and II 
+showed long-term (>
+ 2 
+months) antibiotic usage is an inde-
+pendent risk factor for KSD [52]. Given the proportionally 
+higher volume of women who require long-term antibiot-
+ics for chronic UTI, this may be another under-recognized 
+contributor to the epidemiological changes observed. More 
+needs to be done on standardizing the outcome parameters 
+and evaluating the QoL of these patients [53].
+Conclusion
+Recent literature demonstrates a temporal change in the 
+disease burden of KSD among men and women. The latter, 
+especially adolescent females, are more likely to develop 
+KSD in their lifetime compared to previous eras. Determin-
+ing causation is complex, and continued research is war-
+ranted. As our knowledge of risk factors for KSD deepens, 
+it should be mirrored in the dissemination of patient educa-
+tion to help remedy these global trends. Clinicians should 
+strive to deliver a personalised stone approach as much as 
+possible.
+Table 2  Summar y of findings on gender differences on different areas of interest
+Theme Summary
+Gender gap Rise in prevalence of KSD is greater among women than men
+Stone composition Men more likely than women to have metabolic disorders (obesity, type 2 diabetes mellitus) and present at a younger age 
+than women
+Men excrete more calcium and oxalate into their urine than women, have a lower urine pH and are more likely to have 
+uric acid supersaturation than women
+Quality of Life Women’s quality of life is more affected by KSD than men, with worse QoL in most domains
+Role of hormones Oestrogen produces a favourable renal environment to protect against nephrolithiasis, while oestrogen antagonists cause 
+increased oxalate excretion and deposition
+Post procedure sepsis Women are more likely to develop sepsis after procedures such as ureteroscopy and percutaneous nephrolithotomy
+Paediatrics Prevalence of KSD is rising among children. In paediatric setting, females most likely to suffer KSD during adolescence
+Ambient temperature Men have a bigger increase in stone presentations during warm weather than their female counterparts
+Page 5 of 8    50Current Urology Reports (2021) 22: 50
+
+[W3203514247 PDF PAGE 6]
+1 3
+F
+unding
+ Open access funding pr
+ovided by University of Bergen (incl 
+Haukeland University Hospital).
+Compliance with Ethical Standards 
+Conflict of Interest Nil.
+H
+uman and Animal Rights and Informed Consent This ar
+ticle does not 
+contain any studies with human or animal subjects performed by any 
+of the authors.
+Open Access
+ This ar
+ticle is licensed under a Creative Commons Attri-
+bution 4.0 International License, which permits use, sharing, adapta-
+tion, distribution and reproduction in any medium or format, as long 
+as you give appropriate credit to the original author(s) and the source, 
+provide a link to the Creative Commons licence, and indicate if changes 
+were made. The images or other third party material in this article are 
+included in the article's Creative Commons licence, unless indicated 
+otherwise in a credit line to the material. If material is not included in 
+the article's Creative Commons licence and your intended use is not 
+permitted by statutory regulation or exceeds the permitted use, you will 
+need to obtain permission directly from the copyright holder. To view a 
+copy of this licence, visit http://
+ 
+creat
+ 
+iveco
+ 
+mmons.
+ 
+org/
+ 
+licen
+ 
+ses/
+ 
+by/4.
+ 
+0/.
+References
+ 1 .  Scales CD Jr , Smith AC, Hanley JM, Saigal CS. Urologic Dis-
+eases in America Project. Prevalence of kidney stones in the 
+United States. Eur Urol. 2012;62(1):160–5.  https://
+ 
+doi.
+ 
+org/
+ 
+10. 
+1016/j.
+ 
+eururo.
+ 
+2012.
+ 
+03.
+ 
+052. Epub 2012 Mar 31. PMID: 22498635; 
+PMCID: PMC3362665.
+ 2
+. Eisner BH, Goldf
+arb DS. A nomogram for the prediction of 
+kidney stone recurrence. J Am Soc Nephrol. 2014;25(12):2685–
+7. https://
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+1681/
+ 
+ASN.
+ 
+20140
+ 
+60631. Epub 2014 Aug 7. 
+PMID: 25104802; PMCID: PMC4243365.
+ 3
+. Ant
+onelli JA, Maalouf NM, Pearle MS, Lotan Y. Use of the 
+national health and nutrition examination survey to calculate the 
+impact of obesity and diabetes on cost and prevalence of urolithi-
+asis in 2030. Eur Urol. 2014;66:724–9.
+ 4
+. Saig
+al CS, Joyce G, Timilsina AR. Urologic Diseases in America 
+Project. Direct and indirect costs of nephrolithiasis in an employed 
+population: opportunity for disease management? Kidney Int. 
+2005;68(4):1808–14. https://
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+1111/j.
+ 
+1523-
+ 
+1755.
+ 
+2005. 
+00599.x
+. PMID: 16164658.
+ 5.
+ Ger
+aghty RM, Cook P, Walker V, Somani BK. Evaluation of the 
+economic burden of kidney stone disease in the UK: a retrospec-
+tive cohort study with a mean follow-up of 19 years. BJU Int. 
+2020;125(4):586–94. https://
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+1111/
+ 
+bju.
+ 
+14991 (Epub 
+2020 Jan 24 PMID: 31916369).
+ 6.
+ Jones P
+, Karim SS, Gamage KN et al. Do lifestyle factors includ-
+ing smoking, alcohol, and exercise impact your risk of develop-
+ing kidney stone disease? Outcomes of a systematic review. J 
+Endourol. 2020; https://
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+1089/
+ 
+end.
+ 
+2020.
+ 
+0378. Epub 
+ahead of print. PMID: 32808537.
+ 7
+. P
+ing

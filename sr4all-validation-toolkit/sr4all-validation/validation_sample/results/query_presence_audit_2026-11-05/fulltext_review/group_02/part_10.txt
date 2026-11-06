@@ -1,0 +1,209 @@
+hma-related hospitalization OR ED
+visits
+aOR aHR
+Nguyen et al., 2005 [20] B-A 50 4-17 Single inhaler 12 months Enrolled patients 1- Asthma-related
+hospitalization
+————— aRR
+2- Asthma-related ED
+visits
+RC: Retrospective Cohort;C-C: Case-control study;PC: Prospective cohort;B-A: Before-after study; * = Mean (SD);SABA = Short- Acting Beta-Agonist;ED = Emergency Department;HR = Hazard Ratio;OR = Odds Ratio;
+aHR = Adjusted HR;aOR = Adjusted OR.
+Hernándezet al. Respiratory Research2014,15:83Page 5 of 12
+http://respiratory-research.com/content/15/1/83
+
+[W2122586864 PDF PAGE 6]
+not identified in most cases because ORs were adjusted
+for potential confounders and studies compared outcome
+variables at baseline. Only the study of Colice et al. [33]
+had not done either of these two procedures (red mark on
+Figure 2).
+Meta-analyses results
+Of the 19 studies identified, 6 were not included in the
+meta-analyses performed (4 retrospective cohorts, the
+case-control, and the before-after study) because they
+did not provide any of the specific estimators assessed.
+The most commonly reported outcomes were emergency
+department (ED) visit and asthma-related hospitalization
+(reported in 9 and 8 studies, respectively), followed by sys-
+temic corticosteroid use (4 studies). There were also two
+commonly combined outcomes: asthma-related hospitali-
+zations, asthma-related ED visits or systemic corticoster-
+oid (5 studies); and asthma-related hospitalizations or
+asthma-related ED visits (9 studies). The latter meta-
+analysis was not reported because it presented consider-
+able heterogeneity (I2 =9 3 % ) .
+Subgroup analyses concerning age and administration
+mode (single or separate inhalers) could not be per-
+formed due to the lack of studies providing disaggre-
+gated information for these groups. The three studies
+focused on children and adolescents had different de-
+signs (case-control, before-after and retrospective), and
+only two of the four retrospective cohorts which in-
+cluded adults and children stratified their analysis by age
+subgroups. Regarding administration mode, 10 studies
+included only users of fixed-dose LABAs plus ICs in a
+single inhaler, three studies did not provide this informa-
+tion, and only three of the six studies which included
+LABAs plus ICs both as single or two separate inhalers
+performed disaggregate analysis (Guo et al. [21], Delea
+et al. [34], and O’Connor et al. [38]).
+Asthma-related hospitalizations
+Figure 3 shows the Forest plot (Figure 3a), Galbraith plot
+(Figure 3b), and Funnel plot (Figure 3c) of the asthma-
+related hospitalization meta-analysis. Estimators of this
+outcome were provided by 8 of the retrospective co-
+horts. Overall, these studies included 624,303 patients.
+Results from the study by Delea et al. [34] were included
+as 2 different estimators because specific ORs for single
+and separate inhalers (instead of an overall OR) were
+provided. The ORs of the individual studies ranged from
+0.72 (95% CI 0.55-0.95) reported by Stanford et al. [24]
+to 4.52 (95% CI 0.28-72.53) reported by Delea et al. [34].
+The summary OR was 0.88 (95% CI 0.69-1.12). Random
+effect models were used due to substantial heterogeneity
+(I2 = 66%). The Galbraith plot (Figure 3b) showed that
+all points except the study corresponding to deVries
+et al. [28] fell within the confidence limits. However, this
+has a considerable weight due to the large sample size
+(n = 467,639). The Funnel plot (Figure 3c) seems sym-
+metric and Egger’s test was non-significant, which sug-
+gests that there was no publication bias.
+Asthma-related ED visits
+The forest plot of the risk of asthma-related ED visits
+was constructed from 9 studies including 153,799 pa-
+tients (Figure 4). All the ORs of the individual studies
+were lower than 1 and the overall summary OR was 0.75
+(95% CI 0.66-0.84). A fixed effect model was used
+Was there a comparison between  
+2 or more groups of participants 
+receiving treatment? 
+Were participants allocated to 
+groups? 
+Which part of the study was 
+prospective? 
+On what variables was 
+comparability between groups 
+assessed? 
+Wells et al. 2012 
+Jacobs et al. 2012 
+Stanford et al. 2012 
+Guo et al. 2011 
+Stanford et al. 2010 
+Hagiwara et al.2010 
+Delea et al.2010 
+de Vries et al.2010 
+Lee et al.2010 
+Thomas et al.2009 
+Stanford et al.2008 
+Campbell et al. 2008 
+Colice et al. 2008 
+Delea et al.2008 
+Friedman et al.2007  
+Zhang et al. 2007 
+Stempel et al.2006  
+O´Connor et al.2005 
+Nguyen et al.2005  
+Figure 2Risk of bias assessment in individual studies.
+Hernández et al. Respiratory Research2014, 15:83 Page 6 of 12
+http://respiratory-research.com/content/15/1/83
+
+[W2122586864 PDF PAGE 7]
+Forest plot
+Galbraith plot
+Funnel plot
+Figure 3This figure includes Forest plot (a), Galbraith plot (b), and Funnel plot (c) of the asthma-related hospitalization meta-analysis.
+Figure 4This figure includes Forest plot (a), Galbraith plot (b), and Funnel plot (c) of the asthma-related emergency department visits.
+Hernández et al. Respiratory Research2014, 15:83 Page 7 of 12
+http://respiratory-research.com/content/15/1/83
+
+[W2122586864 PDF PAGE 8]
+because there was no heterogeneity. Galbraith plot
+showed that most studies fell within the confidence limits,
+and the Funnel plot suggested no publication bias.
+Asthma-related systemic corticosteroid use
+Four studies (105,855 patients in total) provided estima-
+tors of asthma-related systemic corticosteroid use risk
+(Figure 5). Results from the study by Thomas et al. [30]
+were included as four separate estimators because ORs
+were provided for each age group. The summary OR
+was 1.02 (95% CI 0.94-1.10), calculated with a fixed ef-
+fects model as no heterogeneity was found. All studies
+fell inside the confidence limits of Galbraith plot, and
+the funnel plot appeared symmetric.
+Combined outcome of asthma-related hospitalizations,
+asthma-related ED visits or systemic corticosteroid use
+Data from 5 studies were available for severe asthma
+exacerbations meta-analysis (Figure 6), defined as
+asthma-related hospitalizations, asthma-related ED visits
+or systemic corticosteroid use. Overall, these studies in-
+cluded 69,939 patients and the summary OR was 0.95
+(95% CI 0.9-1). Results from the study by Campbell
+et al. [32] were included as two separate estimators be-
+cause ORs were provided for both low and high cortico-
+steroid doses. The latter is the only individual estimator
+above 1 (OR = 1.42; 95% CI 0.92-2.19). A random effects
+model was used, as substantial heterogeneity was found
+(I2 = 70%). Figure 6b shows that estimators provided by
+Campbell et al. [32], Hagiwara et al. [26], and Delea
+et al. [34] fell just outside the confidence limits. Simi-
+larly, three estimators are placed outside the triangle in
+the funnel plot. As there are only 5 studies included in
+this meta-analyses, Egger’s test cannot be interpreted.
+Discussion
+To date, less than 10% of all systematic reviews have ad-
+verse events’ assessment as a primary objective [39]. Our
+findings support the relevance and suitability of perform-
+ing systematic reviews of harms to provide valuable infor-
+mation on these risks. This systematic review identified 19
+studies which met the inclusion criteria: 16 retrospective
+cohorts, 1 prospective cohort, 1 case-control, and 1
+before-after study (1,165,342 participants). The meta-
+analyses performed (69,939-624,303 participants accord-
+ing to the outcome considered) showed that the LABAs/
+ICs combined treatment was not associated to a higher
+risk of adverse events, when compared with ICs alone.
+The OR ranged from 0.75 to 1.02 for the different out-
+comes explored, which is congruent with findings from
+meta-analyses of RCTs assessing asthma-related serious
+Figure 5This figure includes Forest plot (a), Galbraith plot (b), and Funnel plot (c) of the asthma-related systemic corticosteroid use.
+Hernández et al. Respiratory Research2014, 15:83 Page 8 of 12
+http://respiratory-research.com/content/15/1/83
+
+[W2122586864 PDF PAGE 9]
+adverse events for salmeterol (0.95; 95% CI 0.52-1.73) [8]
+and formoterol (0.53; 95% CI 0.28-1.0) [10].
+This consistency between our results and those from
+meta-analyses of RCTs reinforces the evidence available
+on this topic. It is well known that RCTs are the gold
+standard in evaluating efficacy and safety of emerging
+therapies. However, their poor external validity [40] is a
+particular concern for long term chronic conditions that
+affect large and heterogeneous patient populations, such
+as asthmatics. In fact, it has been estimated that only
+1.2% [41] or 5% [42] of the usual care asthma population
+could have been eligible for a typical asthma RCT. In this
+context, despite potential issues regarding observational
+studies’ internal validity, they are gaining widespread rec-
+ognition [43,44] providing valuable information on treat-
+ment effectiveness and safety, especially in long-term
+outcomes.
+To our knowledge, this is the first systematic review of
+non-randomized studies including children and adults
+with asthma to assess adverse events of LABAs, as the
+only systematic review of observational studies previ-
+ously published was limited to adult patients (asthma-re-
+lated hospitalizations OR = 0.85; 96%CI 0.74-0.97) [17].
+It included mainly unpublished studies identified from a
+pharmaceutical company’s research register. Since then,
+the publication of 12 observational studies permitted the
+inclusion of a larger number of patients. In comparison
+with systematic reviews of salmeterol and formoterol
+RCTs (with 15,309 and 13,366 patients, respectively),
+synthesis of non-randomized studies provides results
+from larger representative asthma samples, more accurate
+reflection of the usual clinical practice, and longer follow-
+up periods. The follow-up periods of studies included in
+our systematic review ranged from 3 months to 5 years,
+being in most cases 1 year (12 studies), an adequate frame
+of time for the assessment of adverse events [19].
+We identified several limitations on our review process.

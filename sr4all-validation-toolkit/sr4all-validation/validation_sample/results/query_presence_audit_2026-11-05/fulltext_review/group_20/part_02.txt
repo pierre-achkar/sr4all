@@ -1,0 +1,191 @@
+s on mi-
+graine, the expression of 5-HT 1F receptor mRNA in neu-
+rons of the trigeminal ganglia led to the suggestion that
+5-HT1F receptors could be a therapeutic target for mi-
+graine [ 20]. As expected, it became the potential new
+class of anti-migraine therapy with no vascular activity
+and the related issues on the vascular and neuronal as-
+pects of migraine pathogenesis. So far two selective 5-
+HT1F agonists, LY334370 and lasmiditan, have been
+studied in clinical trials for the acute treatment of mi-
+graine. LY334370 was efficient with a much higher rate
+of asthenia, dizziness, somnolence, and parestesia than
+placebo for attenuating migraine attacks through select-
+ive trigeminovascular neuronal inhibition [ 21]. Unfortu-
+nately, the LY334370 project withdrew because of
+toxicity in animals [ 22]. Admittedly, the efficacy of
+LY334370 and lasmiditan also proved that vasoconstric-
+tion was not essential for anti-migraine therapy.
+The U.S. FDA approval was based on positive results
+from two pivotal phase III trials (SAMURAI and SPAR-
+TAN), in which lasmiditan signifcantly improved the
+proportions of patients achieving freedom from head-
+ache pain and freedom from the most bothersome
+symptoms (photophobia, phonophobia or nausea) com-
+pared with placebo [ 9]. The current study is the first
+meta-analysis, to the best of our knowledge, to evaluate
+the efficacy and safety of lasmiditan for the treatment of
+acute migraine attacks. The results suggested the use of
+lasmiditan (daily doses from ≤50 mg to 400 mg) for
+Fig. 6 Meta-analysis of the disability (no/mild) at 2 h after therapy with lasmiditan compared with placebo. The diamond indicates the estimated
+relative risk with 95% confidence interval for the pooled patients. M-H, Mantel-Haenszel; CI, confidence interval
+Hou et al. The Journal of Headache and Pain           (2020) 21:66 Page 9 of 12
+
+[W3032926785 PDF PAGE 10]
+patients who had at least a 1-year history of disabling
+migraine with or without aura was associated with sig-
+nificantly more pain freedom and pain relief at 2 h. Fur-
+thermore, lasmiditan also showed benefits over placebo
+at 2 h in terms of the proportion of patients in global
+impression of change ratings and disability level ratings.
+The findings of this systematic review confirmed that
+lasmiditan was superior to placebo in relieving migraine,
+however, as feared earlier, there was some concern about
+the relatively high incidence of CNS-related AEs (espe-
+cially dizziness, nausea, and fatigue) as the published re-
+views discussing by Peer C et al [ 23] and David K et al
+[24]. The CNS-related AEs were reported in all included
+studies, and remarkably increased with increasing doses
+compared with placebo. Most adverse events affected
+the CNS probably due to the drugs lipophilic structure
+which leads to high permeability through the blood
+brain barrier [ 25], which prompted that the future
+development of 5-HT 1F agonists could give more atten-
+tion to the safety profile.
+For the long-term efficacy and safety of lasmiditan, a
+phase III GLADIATOR study involved patients who had
+completed SPARTAN or SAMURAI [ 26], and received
+lasmiditan 100 mg or 200 mg to be used as their frst
+treatment (within 4 h of pain onset) for every new mi-
+graine attack with moderate to severe pain. The interim
+safety and efficacy results were consistent with the previ-
+ous researches, which showed a benefit of lasmiditan for
+reducing both the headache pain and most bothersome
+symptoms of migraine attacks. It is interesting to note
+that TEAEs over time generally showed a decrease in
+the incidence of these events with subsequent treated
+migraine attacks, and no new serious safety findings
+were observed, with no deaths occurring and no other
+trends with regard to serious AEs reported during treat-
+ment with lasmiditan for up to 1 year. Despite the most
+Table 2 Comparison of main TEAEs between different doses of lasmiditan and placebo
+Outcome or Subgroup Studies Participants Risk Ratio (M-H, Fixed, 95% CI) PI 2
+Dizziness 4 7125 5.81 [4.72, 7.14] <0.00001 67%
+<50 mg 1 130 1.75 [0.77, 3.99] 0.18 /
+50 mg 2 1467 4.55 [2.70, 7.67] <0.00001 70%
+100 mg 3 2695 5.75 [4.10, 8.06] <0.00001 69%
+200 mg 3 2677 6.59 [4.72, 9.21] <0.00001 57%
+400 mg 1 156 64.94 [4.03, 1047.06] 0.003 /
+Nausea 3 6995 2.58 [1.87, 3.57] <0.00001 0%
+50 mg 2 1467 2.63 [1.20, 5.75] 0.45 0%
+100 mg 3 2695 2.37 [1.42, 3.94] 0.0009 41%
+200 mg 3 2677 2.54 [1.54, 4.21] 0.0003 0%
+400 mg 1 156 13.48 [0.76, 239.65] 0.08 /
+Fatigue 4 7125 5.38 [3.78, 7.66] <0.00001 29%
+<50 mg 1 130 1.19 [0.40, 3.58] 0.75 /
+50 mg 2 1467 3.52 [1.62, 7.64] 0.001 0%
+100 mg 3 2695 6.99 [3.62, 13.48] <0.00001 0%
+200 mg 3 2677 6.77 [3.51, 13.07] <0.00001 0%
+400 mg 1 156 9.83 [2.34, 41.31] 0.002 /
+Paraesthesia 4 7125 4.48 [3.33, 6.02] <0.00001 13%
+<50 mg 1 130 20.78 [1.29, 334.92] 0.03 /
+50 mg 2 1467 2.24 [0.98, 5.14] 0.06 0%
+100 mg 3 2695 3.90 [2.43, 6.26] <0.00001 21%
+200 mg 3 2677 5.03 [3.17, 7.99] <0.00001 0%
+400 mg 1 156 8.60 [2.02, 36.58] 0.004 /
+Somnolence 3 6995 2.82 [2.18, 3.66] <0.00001 0%
+50 mg 2 1467 2.86 [1.60, 5.09] 0.04 0%
+100 mg 3 2695 2.59 [1.70, 3.95] <0.00001 0%
+200 mg 3 2677 2.92 [1.92, 4.42] <0.00001 0%
+400 mg 1 156 4.91 [1.08, 22.40] 0.0004 /
+Hou et al. The Journal of Headache and Pain           (2020) 21:66 Page 10 of 12
+
+[W3032926785 PDF PAGE 11]
+frequently reported TEAEs were associated with the
+CNS, there were no serious accidents or injuries result-
+ing from a CNS-related AEs during long-term intermit-
+tent treatment. Further research should be needed to
+support these results, and verify the efficacy and safety
+of lasmiditan.
+Compared to previous studies [ 27, 28] aimed to
+summarize the evidence on lasmiditan for the acute
+treatment of migraine, this study provided a systematic
+and more detailed assessment on the efficacy and safety
+of lasmiditan. Indeed, this first meta-analysis covered a
+greater number of studies and larger sample size to ob-
+tain more precise estimates on the efficacy and safety.
+The results showed some new valuable information
+about lasmiditan. First, we proved that lasmiditan (daily
+doses from ≤50 mg to 400 mg) was effective for the acute
+treatment migraine with some dose-effect relationship.
+Then, we analyzed the safety profile of lasmiditan by
+comparing TEAEs across different doses, which ap-
+peared to be mostly dose-related in the increased risk.
+These more detailed findings will provide some refer-
+ences for clinical application of lasmiditan, specially for
+the subpopulation of patients with relative risk factors
+and/or disease.
+Limitations
+While this review was systematic and comprehensive,
+several limitations should be taken into account. First,
+although a total of 4960 participants were included in
+our meta-analysis, it was based on only four RCTs. That
+funnel plots were not performed to detect publication
+bias of the meta-analysis due to the small number of
+RCTs. However, all of these four trials were multicenter
+and high-quality RCTs. Second, the definitional standard
+of some efficacy and safety indicators were various and
+resulted in some heterogeneity in this meta-analysis,
+such as headache pain relief when defined as a reduction
+of moderate or severe pain to mild or no pain in Färk-
+kilä M et al study [ 17], however, also included a reduc-
+tion in headache severity from mild at baseline to none
+in Kuca B et al and Goadsby PJ et al trials [ 18, 19].
+Third, this meta-analysis only focused on the short-term
+pain responses and side effects after a single dose during
+clinical trials and neglected the long-term efficacy and
+safety due to the limited data. The long-term efficacy
+and safety of lasmiditan remains unknown and needs to
+be validated following continued dosing. Furthermore,
+the safety evaluation period was not completely consist-
+ent in our included studies, ranging from 24 h to 48 h,
+which might contribute to heterogeneity. Fourth, an-
+other interesting aspect is the efficacy and tolerability of
+lasmiditan in patients with cardiovascular contraindica-
+tions to triptans. However, the subgroup analysis was
+not performed due to the limited number of patients
+with pre-existing cardiovascular conditions in these in-
+cluded studies.
+Conclusions
+This meta-analysis suggested that lasmiditan are effect-
+ive for the acute treatment of migraine, however, with a
+higher incidence of CNS-related adverse reactions com-
+pared with placebo. It is critical to weigh the benefits
+against the risk of AEs in clinical application of lasmidi-
+tan. More long-term, open-label, multi-dose trials with
+larger sample sizes are needed before a definitive conclu-
+sion about the efficacy and safety of lasmiditan for mi-
+graine in the future.
+Supplementary information
+Supplementary information accompanies this paper at https://doi.org/10.
+1186/s10194-020-01138-x.
+Additional file 1: Meta-analysis of the total TEAEs and main AEs after
+therapy with lasmiditan compared with placebo. Figure S1 , total TEAEs;
+Figure S2 , dizziness; Figure S3 , nausea; Figure S4 , fatigue; Figure S5 ,
+paraesthesia; Figure S6 , somnolence. The diamond indicates the
+estimated relative risk with 95% confidence interval for the pooled
+patients. M-H, Mantel-Haenszel; CI, confidence interval.
+Abbreviations
+5-HT: 5-hydroxytryptamine; CNS: Central nervous system; IHS: The
+International Headache Society criteria; RCTs: Randomized clinical trials;
+RR: Relative risk; CI: Confidence intervals; M-H: Mantel-Haenszel;
+PRISMA: Preferred reporting items for systematic reviews and meta-analyses;
+TEAEs: Treatment-emergent adverse events
+Acknowledgments
+The authors thank Dr. Ji Ming Wang (Cancer and Inflammation Program,
+Center for Cancer Research, National Cancer Institute at Frederick, Frederick,
+MD 21702, USA) for reviewing the manuscript.
+Authors’ contributions
+JHC and MH conceived and designed this study. MH and HYX carried out
+the searches, identified studies for inclusion and extracted relevant data. CL,
+XFW, DMD, JL and PZ revised the manuscript for intelle

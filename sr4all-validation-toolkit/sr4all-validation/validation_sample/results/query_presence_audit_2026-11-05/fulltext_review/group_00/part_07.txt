@@ -1,0 +1,237 @@
+ery low - - 0.90 (0.07, 1.73)
+OUTCOME: TREATMENT FAILURE Risk Ratio
+7 Acute RCT Study quality
+ranges from low to
+high
+Consistent
+(I2= 0%)
+Infants and young children (≤24m) with acute
+diarrhea, not severely malnourished, in LMICs
+Moderate 50 57 0.53 [0.40, 0.70]
+2 Persistent RCT Only two studies, of
+low and high
+quality
+Consistent
+(I2= 0%)
+Infants and young children (≤36m) with persistent
+diarrhea, not severely malnourished, in LMICs
+Low 4 11 0.17 [0.06, 0.48]
+Gaffeyet al.BMC Public Health2013,13(Suppl 3):S17
+http://www.biomedcentral.com/1471-2458/13/S3/S17
+Page 8 of 16
+
+[W1634166831 PDF PAGE 9]
+were consistent in direction (Figure 2). No effect of lac-
+tose-free liquid feeds was shown in the pooled results
+from three studies on stool output [16,34,35] or from
+three studies on weight change [16,35,36], but the evi-
+dence from seven studies [16,23,32-36] showed a statisti-
+cally significant reduction of 47% in the risk of treatment
+failure (RR: 0.53; 95%CI: 0.40 to 0.70; p<0.0001). Effect
+sizes and their statistical significance varied across studies
+but were consistent in direction with the exception of
+one study (Figure 3). The overall quality of evidence for
+all four outcomes was assessed as moderate.
+Persistent diarrhea
+Two studies compared lactose-free to lactose-containing
+liquid feeds among children with persistent diarrhea and
+without severe malnutrition: one compared lactase-treated
+milk with regular milk [37] and the other compared
+lactose-free semi-elemental formulas to regular milk [38].
+No data were available for the outcomes of diarrhea dura-
+tion or stool output. Data on weight gain were available
+only from the study of semi-elemental formulas and
+showed a large and statistically significant effect of these
+formulas compared to milk (SMD: 0.90; 95%CI: 0.07 to
+1.73; p=0.03), but this evidence was assessed as very low
+quality because of the study’s high and differential attrition
+rates across study groups (Additional File 2). The pooled
+result from both studies showed a large and statistically
+significant effect of lactose-free liquid feeds in reducing
+the risk of treatment failure (RR: 0.17; 95%CI: 0.06 to 0.48;
+p=0.0008), but the overall quality of this evidence was
+assessed as low.
+3. Lactose-free liquid feeds versus lactose-containing
+mixed diets
+Acute diarrhea
+Two trials compared lactose-free liquid feeds to lactose-
+containing mixed diets among non-malnourished children
+with acute diarrhea: one compared lactose-hydrolyzed
+milk to a combination of regular milk and wheat noodles
+[35] and the other compared soy-based formula to a mix-
+ture of potato and carrot flours, milk powder, sugar and
+vegetable oil [39]. Data available from the single study
+reporting on duration, stool output and weight change
+reported a statistically sign ificant increased duration
+(SMD: 0.75; 95%CI: 0.22 to 1.28; p=0.006) and increased
+stool output (SMD: 0.62; 95%CI: 0.09 to 1.14; p=0.02)
+with lactose-free liquid feeds compared to mixed diets
+(Table 4), but the overall quality of evidence for all three
+outcomes was assessed as low given that no other studies
+were included in the analysis. The pooled result from both
+studies showed no significant difference in the risk of
+treatment failure, with the quality of evidence for this out-
+come also assessed as low given the low number of studies
+included and the heterogeneity of their effect estimates.
+Persistent diarrhea
+Two trials conducted among malnourished, weaned chil-
+dren with persistent diarrhea compared soy-based formula
+with a mixture of rice, lentils, and yogurt, with the later
+trial also adding diluted buffalo milk to the mixed diet
+[40,41]. No statistically significant effects of the soy-based
+formula were shown in the single study reporting on dura-
+tion [41] or in the pooled results from both studies for
+stool output, weight gain or treatment failure. The quality
+of evidence was assessed as low for all outcomes, given the
+low number and the heterogeneity of the study-specific
+estimates included.
+4. Commercially prepared or specialized ingredients
+versus home-available ingredients
+Acute diarrhea
+Nine trials conducted among children with acute diar-
+rhea compared diets that contained commercial prepara-
+tions or specialized ingredients with diets comprised of
+home-available foods and ingredients.
+The commercial/specialized diets under study
+included proprietary cow’s milk-based, rice-based, soy-
+based, or lactose-free casein-based formulas in seven
+studies [17,23,39,42-45]; lactose-hydrolyzed cow ’s milk
+with or without wheat noodles in one study [35]; and
+locally available foods combined with soy protein isolate
+in one study [46]. The home-available diets under study
+Figure 2 Effect of lactose-free versus lactose-containing liquid feeds on duration of diarrhea
+Gaffey et al. BMC Public Health2013, 13(Suppl 3):S17
+http://www.biomedcentral.com/1471-2458/13/S3/S17
+Page 9 of 16
+
+[W1634166831 PDF PAGE 10]
+included regular cow’s milk with [35] or without wheat
+noodles [23,35] in two studies; chicken-containing for-
+mulations in two studies [17,44]; rice and lentils or
+beans in two studies [42,46]; porridges made from
+wheat, potato, maize or carrot flours in two studies
+[39,43]; and boiled rice alone in one study [45]. All stu-
+dies excluded children with severe malnutrition.
+The pooled results from three studies reporting on
+duration [35,42,45], four studies reporting on stool out-
+put [17,35,44,45], five studies reporting on weight gain
+[17,35,42,44,45] and eight studies reporting on treatment
+failure [23,35,39,42-46] showed no statistically significant
+effect of commercial/specialized diets compared to home
+available diets on any outcome (Table 5). The overall
+quality of evidence was assessed as moderate for all four
+outcomes.
+When we restricted these analyses to only those studies
+in which both the intervention and control diets were
+both lactose-free, no statistically significant effects of the
+commercial/specialized diets were shown with respect to
+duration, stool output or treatment failure, but the pooled
+result from three studies reporting on weight gain
+[17,44,45] showed a statistically significant reduction in
+weight gain with commercial/specialized diets compared
+to home-available diets (SMD: -0.30; 95%CI: -0.55 to
+-0.04; p=0.02) (Additional File 4).
+Persistent diarrhea
+Six studies conducted among children with persistent
+diarrhea compared diets containing commercial prepara-
+tions or specialized ingredients with diets comprised of
+home-available foods and ingredients.
+The commercial/specialized diets included proprietary
+rice-based, soy-based, lactose-free whey-based, or amino
+acid-based formulas in four studies [18,38,40,41];
+lactose-hydrolyzed milk in one study [37]; and locally
+available foods combined with lactalbumin hydrolysate
+in one study [47]. The home-available diets included a
+rice, lentil and yogurt mixture with or without diluted
+buffalo milk in two studies [40,41]; chicken-containing
+formulations in two studies [18,47]; and cow’sm i l ki n
+two studies [37,38].
+The pooled result from three studies reporting on
+duration [18,41,47] and on stool output [18,40,41]
+among moderately or severely malnourished children
+showed no statistically significant effects of commercial/
+specialized diets compared to home-available diets. The
+overall quality of evidence for both outcomes was
+assessed as moderate. No statistically significant effects
+were shown from the pooled results of four studies
+reporting on weight gain [18,37,40,41] or the five studies
+reporting on treatment failure [18,37,38,40,41]. The pooled
+results for weight gain and treatment failure included two
+studies conducted among children who were normal or
+moderately malnourished ch ildren [37,38], two studies
+among moderately or severely malnourished children
+[40,41], and one study among only severely malnourished
+children [18]. Stratifying the studies by nutritional status,
+there continued to be no statistically significant effects
+among moderately or severely malnourished children, or
+among only severely malnourished children, but a signifi-
+cant increase in weight gain and a significant decrease in
+treatment failure risk was shown among normal or moder-
+ately malnourished children [37,38]. However, the overall
+quality of evidence for this stratum was assessed as very
+low, as in the analysis of the same two studies in the
+Figure 3 Effect of lactose-free versus lactose-containing liquid feeds on risk of treatment failure
+Gaffey et al. BMC Public Health2013, 13(Suppl 3):S17
+http://www.biomedcentral.com/1471-2458/13/S3/S17
+Page 10 of 16
+
+[W1634166831 PDF PAGE 11]
+Table 4 Quality assessment of studies on lactose-free liquid feeds versus lactose-containing mixed diets
+QUALITY ASSESSMENT SUMMARY OF FINDINGS
+Number
+of
+studies
+Diarrhea
+mode
+Design Limitations Consistency Generalizability to population of
+interest
+Overall
+quality of
+evidence
+Number of events
+in intervention
+group
+Number of
+events in
+control group
+Effect size (95%
+CI)
+OUTCOME: DURATION OF DIARRHEA Standardized
+Mean Difference
+1 Acute RCT Single study of high
+quality
+- Non-malnourished infants and young
+children (≤24m) with acute diarrhea in
+LMICs
+Low - - 0.75 [0.22, 1.28]
+1 Persistent RCT Single study of moderate
+quality
+- Malnourished weaned infants and young
+children (≤36m) with persistent diarrhea
+in LMICs
+Low - - 0.28 [-0.35, 0.90]
+OUTCOME: STOOL OUTPUT Standardized
+Mean Difference
+1 Acute RCT Single study of high
+quality
+- Non-malnourished infants and young
+children (≤24m) with acute diarrhea in
+LMICs
+Low - - 0.62 [0.09, 1.14]
+2 Persistent RCT Only two studies, both of
+moderate quality
+Heterogeneous
+(I2= 50%)
+Malnourished weaned infants and young
+children (≤36m) with persistent diarrhea
+in LMICs
+Low - - 0.22 [-0.33, 0.78]
+OUTCOME: WEIGHT GAIN Standardized
+Mean Difference
+1 Acute RCT Single study of high
+quality
+- Non-malnourished infants and young
+children (≤24m) with acute diarrhea in
+LMICs
+Low - - 0.21 [-0.31, 0.72]
+2 Persistent 

@@ -1,0 +1,161 @@
+ be 
+repeated. 
+Search 
+strategy
+Study selection 9 State the process for selecting studies (i.e., screening, eligibility, included in systematic review, and, if applicable, 
+included in the meta-analysis). 
+Study 
+selection and 
+data 
+collection
+Data collection process 10 Describe method of data extraction from reports (e.g., piloted forms, independently, in duplicate) and any processes
+for obtaining and confirming data from investigators. 
+Study 
+selection and 
+data 
+collection
+Data items 11 List and define all variables for which data were sought (e.g., PICOS, funding sources) and any assumptions and 
+simplifications made. 
+Study 
+selection and 
+data 
+
+[W2601615751 PDF PAGE 2]
+PRISMA 2009 Checklist
+collection
+Risk of bias in individual 
+studies 
+12 Describe methods used for assessing risk of bias of individual studies (including specification of whether this was 
+done at the study or outcome level), and how this information is to be used in any data synthesis. 
+Summary measures 13 State the principal summary measures (e.g., risk ratio, difference in means). 
+Synthesis of results 14 Describe the methods of handling data and combining results of studies, if done, including measures of consistency
+(e.g., I2) for each meta-analysis. 
+Risk of bias across studies 15 Specify any assessment of risk of bias that may affect the cumulative evidence (e.g., publication bias, selective 
+reporting within studies). 
+Additional analyses 16 Describe methods of additional analyses (e.g., sensitivity or subgroup analyses, meta-regression), if done, 
+indicating which were pre-specified. 
+RESULTS 
+Study selection 17 Give numbers of studies screened, assessed for eligibility, and included in the review, with reasons for exclusions 
+at each stage, ideally with a flow diagram. 
+Results (2nd 
+parag.); 
+Figure 1
+Study characteristics 18 For each study, present characteristics for which data were extracted (e.g., study size, PICOS, follow-up period) 
+and provide the citations. 
+Human 
+studies; 
+Animal 
+studies; Table
+1
+Risk of bias within studies 19 Present data on risk of bias of each study and, if available, any outcome level assessment (see item 12). Human 
+studies; 
+Animal 
+studies; 
+Discussion
+Results of individual studies 20 For all outcomes considered (benefits or harms), present, for each study: (a) simple summary data for each 
+intervention group (b) effect estimates and confidence intervals, ideally with a forest plot. 
+Human 
+studies; 
+Animal 
+studies; Table
+1
+Synthesis of results 21 Present results of each meta-analysis done, including confidence intervals and measures of consistency. 
+Risk of bias across studies 22 Present results of any assessment of risk of bias across studies (see Item 15). 
+Additional analysis 23 Give results of additional analyses, if done (e.g., sensitivity or subgroup analyses, meta-regression [see Item 16]). 
+DISCUSSION 
+
+[W2601615751 PDF PAGE 3]
+PRISMA 2009 Checklist
+Summary of evidence 24 Summarize the main findings including the strength of evidence for each main outcome; consider their relevance to 
+key groups (e.g., healthcare providers, users, and policy makers). 
+Discussion 
+(1st parag.)
+Limitations 25 Discuss limitations at study and outcome level (e.g., risk of bias), and at review-level (e.g., incomplete retrieval of 
+identified research, reporting bias). 
+Discussion 
+(1st-3rd parag.)
+Conclusions 26 Provide a general interpretation of the results in the context of other evidence, and implications for future research. Discussion 
+(1st, 4th-9th 
+parag.)
+FUNDING 
+Funding 27 Describe sources of funding for the systematic review and other support (e.g., supply of data); role of funders for 
+the systematic review. 
+From:   Moher D, Liberati A, Tetzlaff J, Altman DG, The PRISMA Group (2009). Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement.  PLoS Med 6(7): e1000097.
+doi:10.1371/journal.pmed1000097 
+For more information, visit: www.prisma  -  statement.org. 
+
+END REVIEW W2601615751
+
+
+REVIEW W2603793177
+TITLE: Effects of neighbourhood and household sanitation conditions on diarrhea morbidity: Systematic review and meta-analysis
+SOURCE_NOTES: [{"annotator": "pierre", "field": "snowballing", "comment": "The supplied PDF is a PRISMA checklist (pp.1\u20132), with no report of citation searching. This follows the same no-reported-use convention as the other checklist-only records; the main article remains unavailable in this source."}, {"annotator": "pierre", "field": "objective", "comment": "The supplied PDF is only a two-page PRISMA checklist supplement; it points to sections in the article but does not include the article text."}, {"annotator": "pierre", "field": "research_questions", "comment": "The supplied PDF is only a two-page PRISMA checklist supplement; it points to sections in the article but does not include the article text."}, {"annotator": "pierre", "field": "keywords_used", "comment": "The supplied PDF is only a two-page PRISMA checklist supplement; it points to sections in the article but does not include the article text."}, {"annotator": "pierre", "field": "inclusion_criteria", "comment": "The supplied PDF is only a two-page PRISMA checklist supplement; it points to sections in the article but does not include the article text."}, {"annotator": "pierre", "field": "exclusion_criteria", "comment": "The supplied PDF is only a two-page PRISMA checklist supplement; it points to sections in the article but does not include the article text."}, {"annotator": "pierre", "field": "n_studies_initial", "comment": "The supplied PDF is only a two-page PRISMA checklist supplement; it points to sections in the article but does not include the article text."}, {"annotator": "pierre", "field": "n_studies_final", "comment": "The supplied PDF is only a two-page PRISMA checklist supplement; it points to sections in the article but does not include the article text."}, {"annotator": "pierre", "field": "year_range", "comment": "The supplied PDF is only a two-page PRISMA checklist supplement; it points to sections in the article but does not include the article text."}, {"annotator": "pierre", "field": "databases_used", "comment": "The supplied PDF is only a two-page PRISMA checklist supplement; it points to sections in the article but does not include the article text."}]
+EXTRACTION_ERROR: None
+
+[W2603793177 PDF PAGE 1]
+S1. PRISMA 2009 Checklist
+Section/topic # Checklist item Reported 
+on page #
+TITLE 
+Title 1 Identify the report as a systematic review, meta-analysis, or both. 1
+ABSTRACT 
+Structured summary 2 Provide a structured summary including, as applicable: background; objectives; data sources; study eligibility criteria, 
+participants, and interventions; study appraisal and synthesis methods; results; limitations; conclusions and 
+implications of key findings; systematic review registration number. 
+2-3
+INTRODUCTION 
+Rationale 3 Describe the rationale for the review in the context of what is already known. 4-5
+Objectives 4 Provide an explicit statement of questions being addressed with reference to participants, interventions, comparisons,
+outcomes, and study design (PICOS). 
+5-6
+METHODS 
+Protocol and registration 5 Indicate if a review protocol exists, if and where it can be accessed (e.g., Web address), and, if available, provide 
+registration information including registration number. 
+N/A
+Eligibility criteria 6 Specify study characteristics (e.g., PICOS, length of follow-up) and report characteristics (e.g., years considered, 
+language, publication status) used as criteria for eligibility, giving rationale. 
+6-7
+Information sources 7 Describe all information sources (e.g., databases with dates of coverage, contact with study authors to identify 
+additional studies) in the search and date last searched. 
+6-7
+Search 8 Present full electronic search strategy for at least one database, including any limits used, such that it could be 
+repeated. 
+6, S2
+Study selection 9 State the process for selecting studies (i.e., screening, eligibility, included in systematic review, and, if applicable, 
+included in the meta-analysis). 
+7-8
+Data collection process 10 Describe method of data extraction from reports (e.g., piloted forms, independently, in duplicate) and any processes 
+for obtaining and confirming data from investigators. 
+8
+Data items 11 List and define all variables for which data were sought (e.g., PICOS, funding sources) and any assumptions and 
+simplifications made. 
+8
+Risk of bias in individual 
+studies 
+12 Describe methods used for assessing risk of bias of individual studies (including specification of whether this was 
+done at the study or outcome level), and how this information is to be used in any data synthesis. 
+8-9
+Summary measures 13 State the principal summary measures (e.g., risk ratio, difference in means). 9
+Synthesis of results 14 Describe the methods of handling data and combining results of studies, if done, including measures of consistency 
+(e.g., I2) for each meta-analysis. 
+9-10
+Page 1 of 2 
+
+[W2603793177 PDF PAGE 2]
+S1. PRISMA 2009 Checklist
+Section/topic # Checklist item Reported 
+on page #
+Risk of bias across studies 15 Specify any assessment of risk of bias that may affect the cumulative evidence (e.g., publication bias, selective 
+reporting within studies). 
+10
+Additional analyses 16 Describe methods of additional analyses (e.g., sensitivity or subgroup analyses, meta-regression), if done, indicating 
+which were pre-specified. 
+9-10
+RESULTS 
+Study selection 17 Give numbers of studies screened, assessed for eligibility, and included in the review, with reasons for exclusions at 
+each stage, ideally with a flow diagram. 
+10-11
+Study characteristics 18 For each study, present characteristics for which data were extracted (e.g., study size, PICOS, follow-up period) and 
+provide the citations. 
+12-14
+Risk of bias within studies 19 Present data on risk of bias of each study and, if available, any outcome level assessment (see item 12)

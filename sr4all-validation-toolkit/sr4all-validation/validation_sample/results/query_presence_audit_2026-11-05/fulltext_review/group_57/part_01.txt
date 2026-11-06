@@ -1,0 +1,491 @@
+uded. The
+exclusion criteria were letters to editors, articles belonging to only
+the adult population, not full-text articles, absence of genetic
+diagnosis of RTT and experimental studies (for example murine
+studies). From our initial research, all the studies reporting the
+presence of one or more endocrinopathies in RTT patients were
+subsequently reviewed individually, hence, we focused on: the type
+of endocrinopathy, incidence and/or prevalence, speci ﬁcg e n e
+Pepe et al. 10.3389/fendo.2024.1477227
+Frontiers inEndocrinology frontiersin.org02
+
+[W4403920514 PDF PAGE 3]
+mutation, presence or absence of epilepsy, and eventually
+anticonvulsant drugs.
+Titles and abstracts of all retrieved articles were screened by four
+authors (R.C., G.L., C.L., T.A.) to identify articles for full-text
+review. All authors assessed the eligibility of all full-text articles.
+2.1 Data items
+The following information was extracted from the included
+studies: bibliographic data (ﬁrst author, publication year, country),
+study characteristics (study desi gn), participant characteristics
+(sample size, gender, age at onset, Rett mutation, epilepsy),
+outcome (prevalence of endocrinopathies). Equations
+3 Results
+We identiﬁed 1750 records. After duplicates and not in English
+full-text removal, we screened 1090 records, from which were
+viewed 1090 full-text studies, andﬁnally included 22 articles (19,
+23–43) after title, abstract, and PICO evaluation (Figure 1). As
+above mentioned, we did not carry out meta-analyses since the
+studies included were not homogeneous in terms of the type of
+study design, number of cohorts, age, and race difference among
+populations. Five studies were observational-retrospective, four
+were cross-sectional, three were case reports or series, three were
+survey, three were prospective, two comprehended case-control,
+and ﬁnally one study for descriptive-transversal and longitudinal
+population-based study. The sample population consisted of
+multiethnic groups or single ethnic groups. Nine studies (40.90%)
+were from the USA, seven (31.82%) from Europe, three (13.64%)
+from Australia and the remaining three studies (13.64%) were from
+Taiwan, Japan, and Brazil. Thirteen (59.10%) studies were
+published after 2012. Only two studies included male patients
+together with a female population. Seven studies included
+exclusively RTT patients < 18 years old while the other articles
+involved both adults and adolescents. Interestingly only one study
+included FOX1 gene mutation together withMeCP2 and CDKL5
+mutations, and two studies reported patients withCDKL5 mutation
+and MeCP2. The main endocrinopathies described in the selected
+studies were malnutrition and bone alterations (8/24) followed by
+puberty onset disorders and obesity (7/24). Short stature was
+identiﬁed in 6/24 studies, menstrual irregularities in 5/24, thyroid
+disorders were presented in 2/24 studies, and hyperprolactinemia in
+only 1/24 study. Finally, seizure disorders were described as RTT
+comorbidities in fourteen studies (63.60%). The main
+characteristics of the included studies are reported inTable 1.
+FIGURE 1
+PRISMA 2020ﬂow diagram of the study
+Pepe et al. 10.3389/fendo.2024.1477227
+Frontiers inEndocrinology frontiersin.org03
+
+[W4403920514 PDF PAGE 4]
+TABLE 1 The Table summarizes the main data of the studies reporting endocrine disorders in Rett syndrome patients.
+PAPER,
+YEAR,
+COUNTRY
+DESIGN N.
+PATIENTS
+AGE
+OF
+EVALUATION
+SEX/
+RACE
+GENETIC ENDOCRINOPATHIES EPILEPSY
+Pepe et al., 2024
+(23)
+Italy
+Retrospective
+observational
+study
+51 9.65 ±5.9 years 47 female,4
+male
+Caucasian
+MeCP2
+(74.5%),
+CDKL5
+(21.6%),
+FOXG1
+(3.9%)
+Short stature(47.1%), Menstrual
+irregularities (46.2%), Malnutrition
+(25.5%), Obesity (19.6%), Bone
+alterations (19.6%), Precocious
+puberty (15.4%),
+Hyperprolactinemia (13.7%),
+Thyroid alterations(9.8%).
+Epilepsy
+disorders
+(72.5%)
+Stagi et al., 2014
+(24)
+Italy
+Case-control
+Control: 146
+age-matched
+healthy
+Caucasian
+girls
+45 8.6 ± 5.3 years 45 female,0
+male
+Caucasian
+MeCP2 (97%),
+CDKL5 (13%)
+Thyroid alterations:
+- 17.7% showed FT4 levels higher
+than the upper references limit.
+- 26.7% showed FT3 levels higher
+than the upper references limit
+- 10.2% showed TSH high levels
+Epilepsy
+disorders
+(29%)
+Wong et al., 2021
+(25)
+Taiwan
+Cross-
+sectional
+44 17.03 ± 10.52 years
+54.55% <18 years
+44 female,0
+male
+Taiwanese
+MeCP2 (100%) Short stature41.6%
+Malnutrition 37.5%
+Obesity 4.1%
+N/A
+Huppke et al.,
+2001 (26)
+Germany
+Prospective 38 Median 7.1 years
+(range 2.1 to
+17 years)
+38 female,0
+male
+Caucasian
+(from
+Germany)
+N/A Short stature 91.1% N/A
+Tarquinio et al.,
+2012 (27)
+USA
+Observational
+study
+From the
+multicenter
+RTT Natural
+History
+Study (RNHS)
+816 345 <10 yo
+252 > 10 yo
+816 female,0
+male
+Caucasian
+88%
+African
+American
+6%
+Asian 5%
+American
+Indian1%
+MeCP2 (92%) Severe somatic growth de ﬁcit with
+microcephaly (29.2%)
+Precocious puberty12%
+Late-onset puberty3%
+N/A
+Reilly et al., 2001
+(28)
+Australia
+Retrospective
+Observational
+study
+59 2.1-44.9 years old
+(Mean: 12.6 years
+SD 11.04 years).
+59 female,0
+male
+Caucasian
+N/A Malnutrition 26% Epilepsy
+disorders
+(62.7%)
+Schwartzman
+et al., 2008 (29)
+Brazil
+Descriptive
+and
+transversal
+study
+27 Between the ages
+of 2.6 and
+21.8 years
+27 female,0
+male
+Brasilian
+N/A Short stature 48.1%
+Malnutrition 37%
+Obesity 7.4%
+Epilepsy
+disorders
+(69.2%)
+Czerwonogrodzka-
+Senczyna et al.,
+2023 (30)
+Poland
+Case-control
+Control: 22
+healthy female
+49 8.7 ± 4.9 years 49 female,0
+male
+Polish
+Common
+MeCP2
+mutations 51%
+Malnutrition 38.78%
+Obesity 10.2%
+N/A
+Motil et al., 2012
+(31)
+USA
+Survey
+From the
+North
+American
+RTT database
+983 0 –5 y: 12%;
+6–10 y: 22%;
+11–14 y: 12%;
+15–19 y: 17%;
+20–29 y: 24%;
+30+ y: 13%
+983 female,0
+male
+N/A
+MeCP2
+mutations 87%
+Short stature45%
+Malnutrition 38%
+Bone diseases37%
+Obesity 9%
+Epilepsy
+disorders
+(81%)
+Knight et al., 2012
+(32)
+Australia
+Longitudinal
+population-
+based data
+From the
+Australian
+population-
+based Rett
+Syndrome
+Database.
+213 Born from 1976 213 female,0
+male
+N/A
+MeCP2
+mutations 100%
+Malnutrition 21.5%
+Delayed menarche9%
+Precociuos puberty 6%
+Obesity 4.2%
+N/A
+(Continued)
+Pepe et al. 10.3389/fendo.2024.1477227
+Frontiers inEndocrinology frontiersin.org04
+
+[W4403920514 PDF PAGE 5]
+TABLE 1 Continued
+PAPER,
+YEAR,
+COUNTRY
+DESIGN N.
+PATIENTS
+AGE
+OF
+EVALUATION
+SEX/
+RACE
+GENETIC ENDOCRINOPATHIES EPILEPSY
+Baş et al.,2013
+(33)
+Turkey
+Case report 1 6 years 1 female
+Turkish
+MECP2: C455G
+P152R,
+missense
+mutation
+Precocious puberty Epilepsy
+disorders
+Killian et al., 2013
+(19)
+USA
+Retrospective
+observational
+Through the
+multicenter
+RTT Natural
+History
+study (RNHS)
+802 Born from 1943
+to 2010
+802 female,0
+male
+American
+Indian 0.7%
+Asian 4.4%
+Native
+Hawaiian
+0.3%
+Black 4.2%
+White 86.9%
+Mixed black
+and white
+1.6%
+Missing
+demographic
+data 1.9%
+MeCP2
+mutations 100%
+Delayed menarche19%
+Premature menarche13%
+Precociuos puberty 10%
+N/A
+Bernstein et al.,
+2019 (34)
+Germany
+Case series 2 11 and 34 years 2 female,0
+male
+Caucasian
+A novel MeCP2
+a variant:
+c.1162_1172del;
+p.Pro388 in
+both patients
+Precocious puberty Epilepsy
+disorders
+(100%)
+Yang et al., 2021
+(35)
+China
+Case report
+and
+literature
+review
+1 8 years 1 female,0
+male
+Chinese
+De novo MeCP2
+variant
+c.1157_1197del
+Precocious puberty Epilepsy
+disorders
+Hamilton et al.,
+2012 (36)
+USA
+Anonymous
+web-
+based survey.
+21 10-25 years
+(average 17.1)
+21 female,0
+male
+Caucasian
+86%
+N/A Premenstrual Syndrome 71%
+Dysmenorrhea 76%
+N/A
+Humphrey et al.,
+2020 (37)
+USA
+Retrospective
+cross-sectional
+chart review
+and
+prospective
+survey.
+77 12-55 years 77 female,0
+male
+Black or
+African
+American
+9%
+Caucasian
+88%
+Other, not
+speciﬁed 3%
+MeCP2 64.9%
+Unknown (not
+tested/results
+unavailable/
+unknown
+pathogenicity)
+35.1%
+Dysmenorrhea 61%
+Catamenial seizure 22.1%
+Epilepsy
+disorders
+61%
+Motil et al., 2015
+(38)
+USA
+Cross-
+sectional,
+prospective
+50 15.5 ± 9.7 y
+(2-38 y)
+50 female,0
+male
+Caucasian
+64
+African
+American
+16%
+Hispanic
+14%
+Asian 6%
+MeCP2 90% Low bone mineral content 59%
+Low bone mineral density45%
+(decreased bone formation rather
+than increased bone resorption)
+Osteocalcin concentrations for all
+age groups were signiﬁcantly lower,
+whereas the concentrations of bone
+alkaline phosphatase J were
+signiﬁcantly higher in the RTT
+cohort than their respective values
+Epilepsy
+disorders
+66%
+Jefferson et al.,
+2014 (39)
+Australia
+Clinical trial
+From the
+Australian
+Rett
+Syndrome
+Database
+(ARSD)
+97 Mean age 15 yo
+(4–30.5 years)
+97 female,0
+male
+N/A
+MeCP2 90% Fractures 31.7%
+Low mineral density:
+- Lombar 41.3%
+- Total 44.6%
+- Femoral 78%
+Epilepsy
+disorders
+75.3%
+(Continued)
+Pepe et al. 10.3389/fendo.2024.1477227
+Frontiers inEndocrinology frontiersin.org05
+
+[W4403920514 PDF PAGE 6]
+4 Discussion
+In the last two decades, there has been growing evidence that
+RTT is not only a neurological disorder but potentially affects
+several organs and apparatus ( 44). RTT has a complex and
+heterogeneous clinical appearance ( 17). Although neurological
+conditions are predominant, the disease also affects various non-
+neurological organs. A possible explanation for this multisystemic
+involvement may be related to the ubiquitous presence ofMeCP2 in
+peripheral tissues. Multi-system comorbidities, e.g. gastrointestinal,
+orthopedic, endocrine, or cardiac issues could be more or less
+prevalent. Notably, endocrine disorders are more frequent in RTT
+than in the general population even if systematic data are still
+limited and not univocal. We selected studies published in the last
+24 years, focusing on the prevalence and type of endocrinopathies
+reported in RTT patients.
+4.1 Short stature
+Short stature is reported as one of the most common
+endocrinological ﬁndings in RTT population. Indeed, growth
+failure is among the supportive diagnostic criteria of RTT, usually
+observed as decreased velocity of head growth, height, and weight for
+age (3). To the best of our knowledge, thisﬁnding wasﬁrst described
+in 1992 by Thommessen et al., reporting a stature below the -2
+standard deviation scores (SDs) for sex and age in RTT girls (45).
+Growth velocity is

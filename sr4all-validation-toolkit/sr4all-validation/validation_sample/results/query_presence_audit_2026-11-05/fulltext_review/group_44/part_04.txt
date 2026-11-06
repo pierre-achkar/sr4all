@@ -1,0 +1,160 @@
+ et al., 2020). Targeted nanocarriers can lead to the
+more precise delivery of metallodrugs, minimizing damage to
+healthy tissue and improving overall therapeutic outcomes.
+Drug delivery systems have been shown to signiﬁcantly improve
+the therapeutic potential of metallodrugs by enhancing their
+pharmacokinetic properties, tumor targeting, and intracellular
+Frontiers inPharmacology frontiersin.org10
+Xu et al. 10.3389/fphar.2023.1242488
+
+[W4386324723 PDF PAGE 11]
+delivery while minimizing their toxicity. These advancements are
+expected to facilitate the translation of novel metallodrugs into
+clinical practice and improve their therapeutic outcomes in
+NSCLC patients. As drug delivery systems continue to evolve,
+they are anticipated to play an increasingly important role in
+optimizing the use of metallodrugs to treat various cancers,
+including NSCLC.
+Stimuli-responsive materials have been employed in drug
+delivery systems to enable the controlled and targeted release of
+metallodrugs in response to speciﬁc physiological or pathological
+stimuli, such as pH, temperature, enzymes, or redox conditions. For
+example, pH-responsive polymeric nanoparticles have been
+developed for the targeted delivery of cisplatin, demonstrating
+enhanced tumor penetration and controlled drug release in
+response to the acidic tumor microenvironment (Jia et al., 2022).
+This approach can further improve the therapeutic index of
+metallodrugs by ensuring selective release at the tumor site and
+minimizing off-target effects. Additionally, stimuli-responsive drug
+delivery systems can help overcome various biological barriers, such
+as drug resistance and limited penetration, further enhancing the
+therapeutic potential of metallodrugs.
+Despite the signiﬁcant progress made in developing advanced
+drug delivery systems for metallod rugs, several challenges still
+need to be addressed. These include optimizing the
+physicochemical properties of nanocarriers, controlling drug
+release kinetics, and ensuring biocompatibility and safety.
+Moreover, the translation of these novel drug delivery systems
+from preclinical research to clinical applications requires extensive
+in vivo studies, regulatory approval, and thorough evaluation of
+their therapeutic ef ﬁcacy, safety, and cost-effectiveness.
+Nevertheless, the continued dev elopment and optimization of
+drug delivery systems hold great promise for enhancing the
+therapeutic potential of metallodrugs in the treatment of
+NSCLC and other malignancies.
+Discussion
+Future perspectives and challenges
+Metallodrugs are ushering in a new era for NSCLC treatment.
+Distinct from traditional therapeutics, these metal-based agents harness
+unique properties like redox potential and coordination chemistry,
+enabling targeted interv entions in NSCLC-speci ﬁc molecular
+pathways. Unlike natural compounds, the speciﬁcity of metallodrugs
+is paramount due to their inherent metallic characteristics and potential
+side effects. As precision oncology evolves, pinpointing biomarkers for
+metallodrug responsiveness becomes crucial, emphasizing their
+distinctiveness from other drug classes.
+Artiﬁcial intelligence (AI) and machine learning (ML) are
+revolutionizing metallodrug research. They identify patterns
+linking metallodrug properties to therapeutic outcomes, guiding
+the design of these agents for optimal efﬁcacy and safety.
+Collaboration across disciplines is vital, given the challenges
+unique to metallodrugs, such as therapy resistance stemming
+from their metal core: a concern not shared with natural
+compounds.
+The pharmacological trajectory of metallodrugs, inﬂuenced by
+their metal core, demands tailored evaluations. Moreover, their
+intricate design may command higher pricing, necessitating
+strategies for affordability without compromising their metal-
+centric beneﬁts.
+In summary, metallodrugs offer a promising avenue in NSCLC
+treatment, distinguished by their metal-based properties. Their
+potential, coupled with the challenges they present, underscores
+the need for specialized research and application approaches, setting
+them distinctly apart in the therapeutic landscape.
+Author contributions
+All authors contributed signiﬁcantly to the conception, design,
+and planning of the review. XX performed the bibliometric analysis,
+FD focused on the classiﬁcation of metallodrugs, and YM researched
+the mechanisms of action. KZ analyzed preclinical and clinical
+studies, while YQ reviewed drug delivery systems. All authors
+contributed to the article and approved the submitted version.
+Conﬂict of interest
+The authors declare that the research was conducted in the
+absence of any commercial orﬁnancial relationships that could be
+construed as a potential conﬂict of interest.
+Publisher’s note
+All claims expressed in this article are solely those of the authors
+and do not necessarily represent those of their af ﬁliated
+organizations, or those of the publisher, the editors and the
+reviewers. Any product that may be evaluated in this article, or
+claim that may be made by its manufacturer, is not guaranteed or
+endorsed by the publisher.
+References
+Anthony, E. J., Bolitho, E. M., Bridgewater, H. E., Carter, O. W. L., Donnelly, J. M.,
+Imberti, C., et al. (2020). Metallodrugs are unique: opportunities and challenges of
+discovery and development.Chem. Sci.11 (48), 12888– 12917. doi:10.1039/d0sc04082g
+Asperti, M., Cantamessa, L., Gryzik, M., Bugatti, M., Codenotti, S., Denardo, A., et al.
+(2023). The modulation of iron metabolism affects the Rhabdomyosarcoma tumor
+growth in vitro and in vivo. Clin. Exp. Med.5. doi:10.1007/s10238-023-01012-5
+Bergamo, A., and Sava, G. (2011). Ruthenium anticancer compounds: myths and
+realities of the emerging metal-based drugs.Dalton Trans.40 (31), 7817– 7823. doi:10.
+1039/c0dt01816c
+Carboni, S., Zucca, A., Stoccoro, S., Maiore, L., Arca, M., Ortu, F., et al. (2018). New
+variations on the theme of gold(III) C∧N∧N cyclometalated complexes as anticancer
+agents: synthesis and biological characterization.Inorg. Chem. 57 (23), 14852– 14865.
+doi:10.1021/acs.inorgchem.8b02604
+Carneiro, T. J., Martins, A. S., Marques, M. P. M., and Gil, A. M. (2020). Metabolic
+aspects of palladium(II) potential anti-cancer drugs.Front. Oncol. 10, 590970. doi:10.
+3389/fonc.2020.590970
+ClinicalTrials, (2023b). RK-ES001A. Available at:https://clinicaltrials.gov/ct2/show/
+NCT05471484.
+Frontiers inPharmacology frontiersin.org11
+Xu et al. 10.3389/fphar.2023.1242488
+
+[W4386324723 PDF PAGE 12]
+Cui, X. Y., Park, S. H., and Park, W. H. (2022). Anti-cancer effects of auranoﬁni n
+human lung cancer cells by increasing intracellular ROS levels and depleting GSH levels.
+Molecules 27 (16), 5207. doi:10.3390/molecules27165207
+Delgobo, M., Gonçalves, R. M., Delazeri, M. A., Falchetti, M., Zandoná, A.,
+Nascimento das Neves, R., et al. (2021). Thioredoxin reductase-1 levels are
+associated with NRF2 pathway activation and tumor recurrence in non-small cell
+lung cancer.Free Radic. Biol. Med.177, 58– 71. doi:10.1016/j.freeradbiomed.2021.10.020
+Devanabanda, B., and Kasi, A. (2023a).“Carboplatin,” in StatPearls. Treasure island
+(FL) (StatPearls Publishing, St. Petersburg, FL, USA).
+Devanabanda, B., and Kasi, A. (2023b).“Oxaliplatin,” in StatPearls. Treasure island
+(FL) (StatPearls Publishing, St. Petersburg, FL, USA).
+Dwyer, B. G., Johnson, E., Cazares, E., McFarlane Holman, K. L., and Kirk, S. R.
+(2018). Ruthenium anticancer agent KP1019 binds more tightly than NAMI-A to
+tRNAPhe. J. Inorg. Biochem.182, 177– 183. doi:10.1016/j.jinorgbio.2018.02.019
+Elgar, C. E., Yusoh, N. A., Tiley, P. R., Kolozsvári, N., Bennett, L. G., Gamble, A., et al.
+(2023). Ruthenium(II) polypyridyl complexes as FRET donors: structure- and
+sequence-selective DNA-binding and anticancer properties. J. Am. Chem. Soc. 145
+(2), 1236– 1246. doi:10.1021/jacs.2c11111
+Elie, B. T., Casini, A., Messori, L., and Contel, M. (2018). A heterometallic ruthenium-
+gold complex displays antiproliferative, antimigratory, and antiangiogenic properties
+and inhibits metastasis and angiogenesis-associated proteases in renal cancer.J. Biol.
+Inorg. Chem. 23 (3), 399– 411. doi:10.1007/s00775-018-1546-8
+Figueroa-DePaz, Y., Pérez-Villanueva, J., Soria-Arteche, O., Martínez-Otero, D.,
+Gómez-Vidales, V., Ortiz-Frade, L., et al. (2022). Casiopeinas of third generations:
+synthesis, characterization, cytotoxic activity and structure-activity relationships of
+mixed chelate compounds with bioactive secondary ligands.Molecules 27 (11), 3504.
+doi:10.3390/molecules27113504
+Frei, A., Zuegg, J., Elliott, A. G., Baker, M., Braese, S., Brown, C., et al. (2020). Metal
+complexes as a promising source for new antibiotics.Chem. Sci. 11 (10), 2627– 2639.
+doi:10.1039/c9sc06460e
+Freire Boullosa, L., Van Loenhout, J., Flieswasser, T., De Waele, J., Hermans, C.,
+Lambrechts, H., et al. (2021). Auranoﬁn reveals therapeutic anticancer potential by
+triggering distinct molecular cell death mechanisms and innate immunity in mutant
+p53 non-small cell lung cancer.Redox Biol.42, 101949. doi:10.1016/j.redox.2021.101949
+Fu, Y., Kong, Y., Li, X., Cheng, D., Hou, Y., et al. (2023). Novel Pt(IV) prodrug self-
+assembled nanoparticles with enhanced blood circulation stability and improved
+antitumor capacity of oxaliplatin for cancer therapy. Drug Deliv. 30 (1), 2171158.
+doi:10.1080/10717544.2023.2171158
+Galvez, L., Theiner, S., Grabarics, M., Kowol,C .R . ,K e p p l e r ,B .K . ,H a n n ,S . ,e ta l .( 2 0 1 8 ) .
+Critical assessment of different methods for quantitative measurement of metallodrug-protein
+associations.Anal. Bioanal. Chem.410 (27), 7211– 7220. doi:10.1007/s00216-018-1328-8
+Gandhi, L., Camidge, D. R., Ribeiro de Oliveira, M., Bonomi, P., Gandara, D., Khaira,
+D., et al. (2011). Phase I study of Navitoclax (ABT-263), a novel Bcl-2 family inhibitor,
+in patients with small-cell lung cancer and other solid tumors.J. Clin. Oncol.29 (7),
+909– 916. doi:10.1200/JCO.2010.31.6208
+Glans, L., Ehnbom, A., de Kock, C., Martínez, A., Estrada, J., Smith, P. J., et al. (2012)

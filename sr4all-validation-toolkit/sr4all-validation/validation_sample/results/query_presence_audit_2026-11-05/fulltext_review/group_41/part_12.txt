@@ -1,0 +1,270 @@
+and cultural orien-
+tations and potential influence are not mentioned in 
+the research.31 51–53  Other studies were rated low- quality 
+because they lacked study objectives, clearly stated data 
+collection and analysis procedures, and participant 
+ethical review guidelines.29 30 54 55
+Study characteristics
+Tables 2 and 3 summarise the characteristics of the 
+included studies. Seventeen articles published between 
+2007 and 2022 were included for review. The study 
+design included two- arm RCT (n=4), 43–46  two- arm NRCT 
+(n=1),24  two- arm quantitative quasi- experimental study 
+(n=3),47–49  mixed- method design with a single group 
+pretest–post- test design and a qualitative component 
+(n=1),51 a cross- sectional study (n=1)50 and a qualitative 
+study (n=7).28–30 51–55  There were 3312 participants in this 
+study whose mean age ranged from 63 to 88 years. Sample 
+sizes ranged from 10 to 986 from nursing homes, commu-
+nities, hospitals, clinics, and senior centres.
+Synthesis of quantitative evidence
+A meta- analysis was performed to examine the effect of 
+interventions on ACP completion, as several studies were 
+available for statistical pooling.44–46 48  The forest graph 
+is shown in figure 2. Other outcomes, including quality 
+of life concerns, ACP engagement, surrogate decision- 
+maker appointment, knowledge, healthcare utilisation, 
+behavioural intention, readiness, preferences for end- of- 
+life care, the certainty of end- of- life care and AD- relative 
+outcomes, are not available for statistical aggregation and 
+are therefore presented through narrative synthesis.
+ACP completion
+A pooled analysis of these four studies showed that the 
+intervention significantly improved ACP document 
+completion (MD: 1.49, 95% CI: 1.17 to 1.91, p=0.33, 
+I2 =12%). 44–46 48
+Quality of life concerns
+Three studies used End- of- Life Questionnaire (QOLC- E) 
+to measure participants' quality of life concerns.48–50  One 
+result exhibited no statistically significant improvement 
+in the QOLC- E subscores (p>0.05) after the ACP inter-
+vention48; but another demonstrated significant differ-
+ences in the care and support subscale (p=0.016) and the 
+value of life subscale of mQOLC- E (p=0.012). 49 In addi-
+tion, the average score of frail group is significantly lower 
+than that of the non- frail group (p<0.001), and all groups 
+agree that existential distress, food- related concerns and 
+value of life are the most undesirable subscales.50 One 
+using the 12- item Short- Form Health Survey (SF- 12) 
+found no significant distinction in participants' quality 
+of life scores (p>0.05)43; however, another using the 
+Comprehensive Quality of Life Outcome scale found a 
+
+[W4378717225 PDF PAGE 6]
+6
+Wang X, et al. BMJ Open 2023;13:e068130. doi:10.1136/bmjopen-2022-068130
+Open access 
+Table 3 Summary of characteristics of qualitative results of included studies
+Author, year
+Participants, 
+setting Methodology/methods Phenomenon of interest Theme
+Ingravallo et 
+al29  (2018)
+Older adults 
+(n=30) and 10 
+family members
+Nursing homes
+Qualitative, face- to- face 
+interviews
+This study explored the attitudes of 
+NH residents and family members 
+toward ACP and their opinions as to 
+the right time to broach the subject, 
+how it should be approached, and 
+the content of ACP .
+Three themes: (1) life in the NH; (2) 
+plans and attitudes towards ACP; (3) 
+contents and manner of ACP
+Fan et al53  
+(2019)
+Older adults 
+(n=28)
+A long- term care 
+institution
+Thematic analysis,
+in person- to- person 
+interviews, using an 
+ACP booklet
+To explore the experiences and 
+processes of ACP discussions in 
+older residents of a long‐term care 
+institution.
+Three themes: (1) a way to gain 
+a good death; (2) uncertainty in 
+decision‐making; (3) the role of 
+families in the ACP decisions
+Combes et 
+al52  (2021)
+Frail elders 
+(n=10) and eight 
+family members
+Community
+Thematic analysis, in- 
+depth interviews
+To explore the barriers and enablers 
+to ACP engagement with frail elders.
+Four themes: (1) ACP is unclear; (2) 
+lack of relevance; (3) importance of 
+family, relationships and home;
+(4) engagement strategies
+Bernard et 
+al54  (2020)
+Volunteers 
+(n=439)
+Group clinics
+Thematic analysis, 
+questionnaire
+This study aimed to better 
+understand the barriers faced by 
+older patients regarding talking to 
+their family members and family 
+physicians about ACP .
+Eight themes: (1) they were too 
+young for ACP; (2) the topic is too 
+emotional; (3) ACP is the MD’s 
+responsibility; (4) fear of negative 
+impact on the relationship with MD; 
+(5) not enough time in appointments; 
+(6) concern about family dynamics; 
+(7) it is not a priority; (8) a lack of 
+knowledge about ACP
+Yap et al30  
+(2018)
+Older 
+adults(n=30)
+Community
+Thematic analysis, 
+semistructured interview
+The purpose of this study was to 
+identify factors that influence the 
+engagement of Chinese Australians 
+with ACP .
+Three themes: (1) knowledge; (2) 
+attitudes; (3) needs
+Yonashiro- 
+Cho et al 31  
+(2016)
+Older adults 
+(n=34)
+A large urban 
+area
+Grounded theory,
+three focus groups
+The purpose of this study is to 
+explore the knowledge, attitudes 
+and preferences of older Chinese 
+Americans towards ACP .
+Three themes: (1) knowledge of 
+advance directives; (2) health as a 
+factor in end- of- life decision- making 
+and communication;
+(3) communication of end- of- life care 
+preferences
+Glaudemans 
+et al55  (2020)
+Older adults 
+(n=22) and eight 
+family members
+Nursing homes
+Grounded theory, 
+semistructured interview
+To explore older people’s and their 
+families’ experiences with ACP in 
+primary care.
+Three themes: (1) openness and 
+trust; (2) timing and topics;
+(3) roles of family
+Litzelman et 
+al51  (2017)
+Patients (n=86)
+Hospital
+Thematic analysis, 
+semistructured interview
+The purpose of these interviews was 
+to explore patient experiences with 
+an emphasis on the discussions 
+patients may have had with CCAs 
+that were focused on ACP and 
+the designation of healthcare 
+representatives.
+Three themes: (1) the importance of 
+ACP conversations and how their 
+CCA facilitated these conversations; 
+(2) the usability of the GW cards; (3) 
+their feelings towards their CCA
+ACP , advance care planning; GW cards, Go Wish card; CCAs, care coordinator assistants; MD, The Medical Doctor; NH, nursing home.
+Figure 2 Forest plot of pooled results for advance care planning completion.
+
+[W4378717225 PDF PAGE 7]
+7
+Wang X, et al. BMJ Open 2023;13:e068130. doi:10.1136/bmjopen-2022-068130
+Open access
+statistically significant association between the change 
+in comprehensive QOL and the presence of ACP discus-
+sions (p=0.01).24
+ACP Engagement
+One study used a validated ACP Engagement Survey to 
+measure engagement in the ACP process. 44 This study 
+revealed that ACP Behaviour Change and Action scores 
+increased significantly (p<0.001), and 98.1% of experi-
+ment participant groups reported that ACP participation 
+(behaviour change or action) scores increased over time, 
+compared with 89.5% in the control group only.44
+Surrogate decision-maker appointment
+One study that used oral counselling to investigate 
+patient surrogate decision- maker appointments discov-
+ered that the intervention group (94%) appointed more 
+surrogate decision- makers than the control group (67%) 
+(p<0.001).43
+Knowledge
+One study used a standardised scale of palliative care 
+knowledge and attitudes to measure palliative care knowl-
+edge and attitudes in participants and found that the 
+experimental group had a higher level of knowledge 
+(p=0.014) after an intervention.47 Of the two studies that 
+used a self- developed instrument to assess participants' 
+knowledge scores about ACP, one study observed no 
+significant association between the change in knowledge 
+score and the presence of ACP discussion (p>0.01) 24 ; 
+while in another study, the intervention group was much 
+more likely to correctly answer six of the eight knowledge 
+items, suggesting the intervention group scored signifi-
+cantly higher than the control group (p=0.01).45
+Healthcare utilization
+One study found a significant difference (p=0.026) 
+between the level of goal setting and the time to a first 
+inpatient stay.50 Specifically, those who began goal setting 
+had a lower risk of an inpatient stay than those who 
+did not start goal setting, while there was no difference 
+between those who completed goal setting and those who 
+did not begin goal setting.50 Another study discovered 
+that current ACP interventions did not reduce the use 
+of healthcare (p>0.05).49 The participants in the experi-
+mental group reported that 91.2% had visited the emer-
+gency department, 93.0% had been hospitalised and 
+84.2% had visited the outpatient department.49
+Behavioural intention
+A study using a self- developed behavioural intention 
+scale to assess patients' behavioural changes in ACP.45 
+This research found that the intervention group had a 
+significantly higher behavioural intention in three out 
+of the four behavioural intention items, suggesting that 
+the intervention group showed substantially higher ACP 
+behavioural intention scores than the control group.45
+Readiness
+Two studies using a validated tool to examine partici-
+pants’ ACP readiness discovered that the intervention 
+group’s readiness has improved.24 46  One study reported 
+that the readiness score was significantly associated with 
+ACP discussions (p=0.01).24  Another study found that the 
+increase in readiness over time was significantly different 
+between the two groups (p=0.0056).46
+Preferences for end-of-life care
+Two studies used a self- developed questionnaire to assess 
+patients' preference for end- of- life care and found no 
+statistically significant difference between the two groups 
+for life- sustaining treatment outcomes (p>0.05),49 50 while 
+the frail group was more willing to involve their physicians 
+and families in hospice preferences.50 However, other 
+studies indicated that experimental group more wished 
+to receive cardiopulmonary resuscitation, 

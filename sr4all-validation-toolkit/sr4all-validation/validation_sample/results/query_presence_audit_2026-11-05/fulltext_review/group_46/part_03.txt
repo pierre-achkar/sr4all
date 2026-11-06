@@ -1,0 +1,204 @@
+ell-tolerated, has 
+been found to have good penetrative capacity into the 
+central nervous system and cerebrospinal fluid (CSF) 
+(Reni, 2007) [35]. Baron et  al. conducted a retrospec -
+tive study using TMZ for the treatment of PVRL, which 
+produced encouraging results (with an ORR of 81%, 
+mPFS of 12 months, and a central nervous system [CNS] 
+relapse rate of 23.8%) [3]. Bruton tyrosine kinase (BTK) 
+is a crucial mediator molecule in B-cell proliferation, 
+and its inhibitors have the potential to serve as therapeu -
+tic agents in various B-cell malignancies. However, it is 
+yet to be determined whether such inhibitors can offer 
+therapeutic benefit to patients with primary vitreoreti -
+nal lymphoma (PVRL). To address this, Soussain et  al. 
+designed a multicenter, open-label phase II clinical trial 
+aimed at evaluating the efficacy of Ibrutinib as a sin -
+gle agent in patients with both primary central nervous 
+system lymphoma (PCNSL) and PVRL [23]. Of the 14 
+patients with PVRL included in the study, 86% achieved 
+remission after 2  months of treatment, with a median 
+progression-free survival (PFS) value of 22.7  months. 
+Moreover, single-agent combination intraocular metho -
+trexate (ioMTX) regimens have also been investigated. 
+Zhang et al. sequentially tried a regimen of R2 (lenalido -
+mide plus rituximab) + ioMTX induction, lenalidomide 
+maintenance therapy, and ZR (zanubrutinib plus rituxi -
+mab) + ioMTX to further investigate the optimal treat -
+ment strategy for PVRL [24, 27].
+Moreover, a prospective study designed by Soussain 
+et al. evaluating the feasibility of intensive chemotherapy 
+(consisting of high-dose thiotepa, busulfan and cyclo -
+phosphamide) plus hematopoietic stem cell transplanta -
+tion as a treatment modality for relapsed or refractory 
+CNS lymphoma and intraocular lymphoma with an ulti -
+mate 3-year overall survival rate of 63.7%. demonstrating 
+the benefit of IC + ASCT in patients with relapsed PVRL, 
+but this modality is only indicated for younger relapsed 
+patients younger than 60  years of age who are well tol -
+erated, and its safety is difficult to guarantee in patients 
+older than 60 years of age [36].
+In this meta-analysis, we compared the efficacy and 
+safety of combination therapy versus monotherapy 
+regimens for the treatment of VRL. In the combina -
+tion therapy group, specific interventions included 
+ioMTX + chemotherapy (in 4 studies), RT + chemother-
+apy (in 2 studies), ioMTX/HD-MTX based regimen (in 
+2 studies), ioMTX + RT + chemotherapy (in 2 studies), 
+ioMTX + lenalidomide/BTKi (in 2 studies) and combina -
+tion of multiple therapies (in 7 studies). In the monother-
+apy group included in our study, interventions included 
+Pomalidomide, Temozolomide, and BTKi.
+We found that patients receiving combination ther -
+apy demonstrated a higher ORR and CRR as well as 
+a relatively longer median progression-free survival 
+(PFS) compared to those receiving monotherapy. 
+BTKi, as a single agent, achieved an ORR that approxi -
+mated that of the combination group, suggesting a 
+strong potential for the treatment of VRL. The analy -
+sis also explored whether the number of treatment 
+approaches in the combination group had an impact 
+on survival time. Interestingly, the results showed that 
+there were no significant survival differences between 
+
+[W4388904117 PDF PAGE 12]
+Page 12 of 14Gao et al. BMC Ophthalmology          (2023) 23:477 
+treatment regimens combining three approaches ver -
+sus those combining two or less approaches. This sug -
+gests that the number of treatment approaches may 
+not be the primary factor influencing survival time in 
+patients receiving combination therapy for the condi -
+tion under study. Moreover, this study investigated the 
+potential influence of demographic and clinical char -
+acteristics on survival time, including age, gender, and 
+whether the onset of the condition was bilateral. The 
+study results indicated that none of these factors dem -
+onstrated a significant association with survival time. 
+In further subgroup analysis, we found that ioMTX 
+plus monotherapy did not show superior survival com -
+pared to other combination therapies, suggesting that 
+MTX-based systemic chemotherapy regimens may be 
+more effective when combined with ioMTX compared 
+to lenalidomide and BTKi, but the data on ioMTX plus 
+monotherapy is limited and requires more data to con -
+firm its true benefits.
+In addition, we also observed that the combination 
+therapy group exhibited a higher incidence of grade 3/4 
+toxicities. Grade 3/4 toxicities mainly included ocular 
+and systemic toxicities, with ocular toxicities mainly con-
+sisting of cataracts and keratitis, and systemic toxicities 
+mainly consisting of neutropenia and anemia. We found 
+that the combination therapy group had more significant 
+grade 3/4 toxicities than the monotherapy group, sug -
+gesting that the safety of monotherapy may be better than 
+that of combination therapy. Furthermore, we observed 
+similar recurrence rates between the two groups. 
+Whether it was a combination therapy or monotherapy, 
+the CNS recurrence rate was approximately 30%. How -
+ever, the ocular recurrence rate appeared to be relatively 
+higher in the combination therapy group, but the num -
+ber of studies included in the monotherapy treatment 
+group was limited, and further research is needed to bet -
+ter understand the potential differences between the two 
+treatment methods in terms of ocular recurrence.
+In general, these results suggest that a treatment 
+approach that combines efficacy and safety still needs to 
+be explored to achieve better management of intraocular 
+lymphoma. The long-term efficacy of systemic therapy 
+with one drug alone is not satisfactory, and the combi -
+nation of systemic and local therapy for intraocular lym -
+phoma is the future trend. The use of single drugs such 
+as BTK inhibitors and temozolomide in combination 
+with high-dose systemic MTX chemotherapy regimens 
+may also be a potential new research direction. Future 
+research may focus on identifying the optimal treatment 
+combination that can provide VRL patients with a longer 
+period of remission, extended survival time, and preven -
+tion of recurrence in the central nervous system and ocu-
+lar region.
+The limitations of this article stem from the rarity of 
+VRL, which results in a relatively small sample size. Addi-
+tionally, the diverse treatment methods employed across 
+various studies introduce significant heterogeneity, lead -
+ing to some conclusions drawn from the combined data 
+lacking statistical support. Moreover, the average fol -
+low-up time in the literature involving the use of new 
+BTKi-like drugs is not yet long and may lead to some 
+uncertainty in the results. Furthermore, the number of 
+studies on oral monotherapy for VRL is small and more 
+prospective studies are needed to facilitate a more robust 
+comparison between the two groups. Nonetheless, our 
+analysis provides a comprehensive summary of the effi -
+cacy and safety of various VRL treatment methods and 
+serves as a valuable reference for further exploration of 
+more optimal solutions.
+Conclusion
+Based on the available evidence, first-line combination 
+therapy for VRL appears to be more effective than mono-
+therapy, with higher OR and CR rates and longer median 
+progression-free survival. However, combination ther -
+apy also has higher rates of grade 3/4 toxicity compared 
+to monotherapy. While BTK inhibitors as monotherapy 
+for VRL appear to be well tolerated, further studies are 
+needed to confirm their long-term efficacy. Prospective 
+studies are necessary to evaluate the optimal treatment 
+approach for VRL.
+Supplementary Information
+The online version contains supplementary material available at https:// doi. 
+org/ 10. 1186/ s12886- 023- 03226-3.
+Additional file 1. 
+Additional file 2. 
+Additional file 3. 
+Additional file 4. 
+Additional file 5. 
+Additional file 6. 
+Additional file 7. 
+Additional file 8. 
+Additional file 9. 
+Additional file 10. 
+Additional file 11. 
+Additional file 12. 
+Additional file 13. 
+Additional file 14. 
+Additional file 15. 
+Acknowledgements
+Not applicable.
+
+[W4388904117 PDF PAGE 13]
+Page 13 of 14
+Gao et al. BMC Ophthalmology          (2023) 23:477 
+ 
+Authors’ contributions
+JG and LW were involved in the literature searching, screening and data collec-
+tion. XYP assessed the quality of included studies. JG was involved in running 
+the software. All authors were involved in the development of tmanuscript 
+and have read and approved the final version.
+Funding
+This work was supported by grants from the National Natural Science 
+Foundation of China (grant No.82170181), Beijing Hospitals Authority Youth 
+Programme (code: QML20200201), and Beijing Natural Science Foundation 
+(No.7222027) to Liang Wang.
+Availability of data and materials
+The datasets used and/or analysed during the current study are available from 
+the corresponding author on reasonable request.
+Declarations
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare no competing interests.
+Author details
+1 Department of Hematology, Beijing Tongren Hospital, Capital Medical Univer-
+sity, Beijing 100730, China. 2 Department of Ophthalmology, Beijing Tongren 
+Hospital, Capital Medical University, Beijing 100730, China. 
+Received: 3 April 2023   Accepted: 16 November 2023
+References
+ 1. Chan CC, Rubenstein JL, Coupland SE, et al. Primary vitreoretinal 
+lymphoma: a report from an international primary central nerv-
+ous system lymphoma collaborative group symposium. Oncologist. 
+2011;16(11):1589–99. https:// doi. org/ 10. 1634/ theon colog ist. 2011- 0210.
+ 2. Soussain C, Malaise D, Cassoux N. Primary vitreoretinal lymphoma: a diag-
+nostic and management challenge. Blood. 2021;138(17):1519–34. https:// 
+doi. org/ 10. 1182/ blood. 20200 08235.
+ 3. Baron M, Belin L, Cassoux N, et al. Temozolomide is effective and well 

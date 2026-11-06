@@ -1,0 +1,410 @@
+uestionnaire, symptoms 
+experienced by 
+individuals over past 
+week 
+Residential instability significantly increased 
+overall depression level when comparing 
+renters with and without exposure to 
+residential instability (p < .001). 
+Pevalin 
+(2009) 
+UK Longitudina
+l (Panel 
+study) 
+British 
+Household 
+Panel 
+Survey 
+(BHPS) 
+1991-2008 
+Investigating 
+whether 
+repossessions 
+and evictions 
+increase the 
+likelihood of 
+common 
+mental illness 
+and examining 
+patterns over 
+time 
+Renters (at 
+baseline, 
+complete case 
+analysis) 
+Age N/A 
+NRenters = 3,899d 
+(person/years = 
+22,744) 
+Eviction 
+Respondents who had 
+moved since their last 
+interview were asked 
+why they had moved; 
+one possible response 
+was “eviction” 
+Common mental illness 
+GHQ-12 
+Evicted renters exhibited elevated levels of 
+common mental illness immediately prior to 
+the event, but there was no significant 
+association between the eviction event and 
+an increased risk of mental illness after the 
+event (OR: .97, 95 % CI: .76, 1.20; p-value 
+N/A). 
+Sandel et 
+al. (2018) 
+U.S. Cross-
+sectional 
+Household-
+level surveys 
+and medical 
+record audits 
+by Children’s 
+Health 
+Watch 
+Evaluating 
+how housing 
+instability 
+relates to 
+caregiver and 
+child health 
+among low-
+Caregivers of 
+small children in 
+low-income 
+rental 
+households 
+ 
+Behind on Rent 
+“During the last 12 
+months, was there a 
+time when you were 
+not able to pay the 
+mortgage or rent on 
+Maternal depressive 
+symptoms 
+3-item screening test 
+developed for maternal 
+depression 
+Compared with caregivers in stable housing, 
+caregivers who were behind on rent had 
+increased adjusted odds of maternal 
+depressive symptoms (aOR: 2.71; 95 % CI: 
+2.51, 2.93; p-value N/A). 
+Compared with caregivers in stable housing, 
+caregivers with multiple moves had 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprint this version posted November 1, 2023. ; https://doi.org/10.1101/2023.11.01.23297773doi: medRxiv preprint 
+
+[W4388124584 PDF PAGE 21]
+HOUSING INSECURITY AND MENTAL HEALTH AMONG RENTERS 20 
+ 
+Study Country Study 
+Design 
+Data Source 
+& Years of 
+Collection 
+Main 
+Objective of 
+Study 
+Study 
+Population 
+(Analytical 
+Sample) 
+Predictor 
+Operationalization & 
+Measurement 
+Housing Insecurity 
+Outcome 
+Operationalization & 
+Measurement 
+Mental Health 
+Main Findings 
+2009-2015 income renter 
+households. 
+Age N/A 
+ 
+N = 22,324 
+time?” 
+ 
+Multiple moves 
+More than one move in 
+the past 12 months. 
+increased adjusted odds of maternal 
+depressive symptoms (aOR: 3.67; 95 % CI: 
+3.22, 4.17; p-value N/A). 
+Tsai et al. 
+(2021) 
+U.S. Longitudina
+l (Cohort 
+study) 
+2017/2018 Assessing 
+housing and 
+mental health 
+outcomes for a 
+cohort of 
+eviction court 
+participants 
+Renters (at 
+baseline) with a 
+residential 
+eviction case at 
+the New Haven 
+Eviction Court in 
+2017/18  
+Age ≥  18 years 
+N = 89e 
+Residential mobility 
+after eviction 
+Participants who had 
+to move vs. did not 
+have to move after 
+eviction court 
+Mental health and well-
+being 
+MCS from the SF-12v2 
+ 
+PTSD 
+PCL-5 
+ 
+Depression and anxiety 
+PHQ-4 
+ 
+Psychological distress 
+Subscales from the BSIf 
+ 
+Quality of Life 
+Q-LES-Q-SF 
+ 
+Suicidal ideation 
+If participants had 
+suicide attempts in the 
+past 2 years 
+ 
+Receipt of any mental 
+health or substance 
+abuse treatment 
+If participants received 
+any treatment for mental 
+health, alcohol, or drug 
+problems in the past 30 
+days 
+There were no significant changes in mental 
+health symptoms, suicidal ideation, or 
+utilization of mental health treatment 
+services between groups over time 
+(baseline to 1, 3, 6, and 9 months; p-values 
+N/A). 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprint this version posted November 1, 2023. ; https://doi.org/10.1101/2023.11.01.23297773doi: medRxiv preprint 
+
+[W4388124584 PDF PAGE 22]
+HOUSING INSECURITY AND MENTAL HEALTH AMONG RENTERS 21 
+ 
+Study Country Study 
+Design 
+Data Source 
+& Years of 
+Collection 
+Main 
+Objective of 
+Study 
+Study 
+Population 
+(Analytical 
+Sample) 
+Predictor 
+Operationalization & 
+Measurement 
+Housing Insecurity 
+Outcome 
+Operationalization & 
+Measurement 
+Mental Health 
+Main Findings 
+Vasquez-
+Vera et al. 
+(2022) 
+Spain Cross-
+sectional 
+Survey of 
+the Living 
+Conditions of 
+Renters in 
+the 
+Barcelona 
+Metropolitan 
+Area 
+2019 
+Analyzing by 
+gender the 
+relationship of 
+forced 
+displacements 
+due to 
+neglected 
+housing 
+insecurity with 
+the physical 
+and mental 
+health of 
+renters in 
+Barcelona in 
+2019 
+Renters living in 
+Barcelona city, 
+without formal 
+eviction 
+Age ≥  18 years 
+N = 1,605g 
+Neglected housing 
+insecurity 
+Had to move in the last 
+5 years due to legal 
+(LHI) or economic 
+(EHI) housing 
+insecurity 
+Mental health and well-
+being 
+Short version of the 
+WEMWBS 
+The probability of worse mental health 
+outcomes was greater in those affected by 
+economic housing insecurity, followed by 
+those affected by legal housing insecurity, 
+both compared to those who have not been 
+affected by housing insecurity. In those 
+affected for economic reasons, this 
+association was significant even after 
+adjusting for socioeconomic and other 
+housing variables, in women PR: 1.17 (95 % 
+CI: 1.03, 1.33; p-value N/A), in men PR: 
+1.21 (95 % CI: 1.01, 1.43; p-value N/A) but 
+not significant in those affected for legal 
+reasons, in women PR: 1.1 (95 % CI: 1.0, 
+1.3; p-value N/A), in men PR: 1.0 (95 % CI: 
+0.8, 1.2; p-value N/A). 
+Vifor et al. 
+(2023) 
+Australia Longitudina
+l (Panel 
+study) 
+HILDA 
+2001-2018 
+Examining 
+how the links 
+between 
+forced housing 
+mobility and 
+mental well-
+being may 
+vary according 
+to states of 
+employment 
+and housing 
+tenure 
+insecurity 
+Private renters 
+(at baseline) 
+Age ≥  15 years 
+NRenters = 10,580 
+for SF-36 
+(44,534 
+observations) 
+NRenters = 7,413 
+for K10 
+(16,542 
+observations) 
+Residential mobility 
+Three categories of 
+mobility in the last 
+year: forced housing 
+mobility (moves due to 
+eviction, property no 
+longer available, living 
+in government housing 
+with no choice but to 
+move, or moves made 
+by those who had 
+reported difficulty 
+paying rent during the 
+year) vs. voluntary vs. 
+non-housing-related 
+mobility 
+Mental health and well-
+being  
+MHI-5 from the SF-36 
+ 
+Psychological distress 
+K10 
+ 
+Role limitation, emotional 
+Role-emotional from the 
+SF-36 
+ 
+Social functioning 
+Social functioning from 
+the SF-36 
+Forced housing mobility reduced the mental 
+health score by 1.2 (p < .01) and increased 
+the psychological distress score by 0.6 
+(p < .01) for private renters compared to an 
+absence of mobility (within-person effects). 
+The odds of experiencing a high social 
+functioning (OR: 0.8, p < .01) were 
+significantly lower when a forced move 
+occurred compared to when a move did not 
+occur. No significant differences in the odds 
+of experiencing a role-emotional impairment 
+were observed (OR: 0.9, p < .1). 
+Notes: AUDIT Alcohol Use Disorders Identification Test; BSI Brief Symptom Inventory; CES-D 10 Center for Epidemiologic Studies – Depression Scale;  CIDI-SF Composite International Diagnostic 
+Interview Short-Form; CMHS Cook-Medley Hostility Scale; GAD-2 Generalized Anxiety Disorder Scale-2; GHQ-12 12-item General Health Questionnaire; K10 Kessler Psychological Distress Scale; 
+MCS Mental Health Component Summary Score; MHI-5 Mental Health Scale; PCL-5 Posttraumatic Stress Disorder Checklist for DSM-5;  PHQ Patient Health Questionnaire; Q-LES-Q-SF Quality of 
+Life Enjoyment and Satisfaction Questionnaire-Short Form; SF-36 Short Form 36 Health Survey; SF-12v2  Abbreviated version of SF-36, version 2; WEMWBS Warwick-Edinburgh Mental Wellbeing 
+Scale; References for each mental health measurement test are provided in S5 Appendix. 
+a the study examined eight types of housing instability; however, only the variable “behind on rent” was analyzed separately for  the group of renters. 
+b NTotal =894 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprint this version posted November 1, 2023. ; https://doi.org/10.1101/2023.11.01.23297773doi: medRxiv preprint 
+
+[W4388124584 PDF PAGE 23]
+HOUSING INSECURITY AND MENTAL HEALTH AMONG RENTERS 22 
+ 
+Study Country Study 
+Design 
+Data Source 
+& Years of 
+Collection 
+Main 
+Objective of 
+Study 
+Study 
+Population 
+(Analytical 
+Sample) 
+Predictor 
+Operationalization & 
+Measurement 
+Housing Insecurity 
+Outcome 
+Operationalization & 
+Measurement 
+Mental Health 
+Main Findings 
+c NTotal = 7,059 (42,067 observations)  
+d NTotal = 12,390 (139,928 person/years) 
+e NTotal = 121, the final analytical example was smaller due to loss to follow-up and N = 2 participants reporting that they moved before appearing at eviction court. 
+f The specific BSI subscale was unclear due to conflicting information. In the text, the authors mentioned the depression, anxie ty, and psychoticism subscales, whereas in the tables, reference 
+hostility, paranoia, and psychoticism subscales were referenced.  
+g All persons not identifying with binary gender were excluded due to a very small number of cases ( N = 32) 
+ 306 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprint this version posted November 1, 2023. ; https://doi.org/10.1101/2023.11.01.23297773doi: medRxiv preprint 
+
+[W4388124584 PDF PAGE 24]
+HOUSING INSECURITY AND MENTAL HEALTH AMONG R

@@ -1,0 +1,201 @@
+tocol. Nurs Open 
+2021;8:997–1001. 
+ 40 Joanna Briggs Institute. The JBI manual for evidence synthesis. 
+2020. Available: https://wiki.jbi.global/display/MANUAL/JBI+Manual+ 
+for+Evi dence+Synthesis [Accessed 18 Mar 2021].
+ 41 Stern C, Lizarondo L, Carrier J, et al. Methodological guidance for 
+the conduct of mixed methods systematic reviews. JBI Evidence 
+Synthesis 2020;18:2108–18. 
+ 42 Rodgers M, Sowden A, Petticrew M, et al. Testing methodological 
+guidance on the conduct of narrative synthesis in systematic 
+reviews: effectiveness of interventions to promote smoke alarm 
+ownership and function. SAGE Journals 2009;15. 
+ 43 Overbeek A, Korfage IJ, Jabbarian LJ, et al. Advance care planning 
+in frail older adults: a cluster randomized controlled trial. J Am Geriatr 
+Soc 2018;66:1089–95. 
+ 44 Sudore RL, Schillinger D, Katen MT, et al. Engaging diverse 
+english- and Spanish- speaking older adults in advance care 
+planning: the prepare randomized clinical trial. JAMA Intern Med 
+2018;178:1616–25. 
+ 45 Lin L- H, Cheng H- C, Chen Y- C, et al. Reply to the comments on 
+“effectiveness of a video- based advance care planning intervention 
+in hospitalized elderly patients: a randomized controlled trial.” Geriatr 
+Gerontol Int 2021;21:969–70. 
+ 46 Lum HD, Dukes J, Daddato AE, et al. Effectiveness of advance care 
+planning group visits among older adults in primary care. J Am 
+Geriatr Soc 2020;68:2382–9. 
+ 47 Sung H- C, Wang S- C, Fan S- Y , et al. Advance care planning program 
+and the knowledge and attitude concerning palliative care. Clin 
+Gerontol 2019;42:238–46. 
+ 48 Chan WCH, Yu TK. Conducting an advance care planning group 
+among older adults living in residential care homes: an initiative 
+of social workers in Hong kong. Health Soc Care Community 
+2021;29:1960–70. 
+ 49 Deng R, Zhang J, Chen L, et al. The effectiveness of a modified 
+advance care planning programme. Nurs Ethics 2020;27:1569–86. 
+ 50 Chan HYL, Pang SMC. Quality of life concerns and end- of- life care 
+preferences of aged persons in long- term care facilities. J Clin Nurs 
+2007;16:2158–66. 
+ 51 Litzelman DK, Inui TS, Schmitt- Wendholt KM, et al. Clarifying values 
+and preferences for care near the end of life: the role of a new lay 
+workforce. J Community Health 2017;42:926–34. 
+ 52 Combes S, Gillett K, Norton C, et al. The importance of living 
+well now and relationships: a qualitative study of the barriers and 
+enablers to engaging frail elders with advance care planning. Palliat 
+Med 2021;35:1137–47. 
+ 53 Fan S- Y , Sung H- C, Wang S- C. The experience of advance care 
+planning discussion among older residents in a long- term care 
+institution: a qualitative study. J Clin Nurs 2019;28:3451–8. 
+ 54 Bernard C, Tan A, Slaven M, et al. Exploring patient- reported 
+barriers to advance care planning in family practice. BMC Fam Pract 
+2020;21:94. 
+ 55 Glaudemans JJ, Willems DL, Wind J, et al. Preventing unwanted 
+situations and gaining trust: a qualitative study of older people and 
+families’ experiences with advance care planning in the daily practice 
+of primary care. Fam Pract 2020;37:519–24. 
+ 56 Scherrens A- L, Beernaert K, Robijn L, et al. The use of behavioural 
+theories in end- of- life care research: a systematic review. Palliat Med 
+2018;32:1055–77. 
+
+END REVIEW W4378717225
+
+
+REVIEW W4380047383
+TITLE: Efficacy and safety of consolidation durvalumab after chemoradiation therapy for stage III non-small-cell lung cancer: a systematic review, meta-analysis, and meta-regression of real-world studies
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4380047383 PDF PAGE 1]
+Efﬁcacy and safety of
+consolidation durvalumab after
+chemoradiation therapy for stage
+III non-small-cell lung cancer: a
+systematic review, meta-analysis,
+and meta-regression of
+real-world studies
+Yatong Zhang1,2,3,4† , Yumei Tian5† , Li Zheng1,6, Xuelin Sun2,3,4,
+Zinan Zhao2,3,4, Yujing Zheng2,3,4 and Jinhui Tian1*
+1Evidence-Based Medicine Center, School of Basic Medical Sciences, Lanzhou University, Lanzhou, China,
+2Department of Pharmacy, Beijing Hospital, Beijing, China,3National Center of Gerontology, Institute of
+Geriatric Medicine, Chinese Academy of Medical Sciences, Beijing, China,4Beijing Key Laboratory of
+Assessment of Clinical Drugs Risk and Individual Application (Beijing Hospital), Beijing, China,5School of
+Nursing, Hunan University of Medicine, Huaihua, Hunan, China,6Department of Pharmacy, China
+Aerospace Science and Industry Corporation 731 Hospital, Beijing, China
+Background: The current review aimed to pool real-world evidence on the
+efﬁcacy and toxicity of consolidation durvalumab for stage III unresectable
+non-small cell lung cancer (NSCLC) after curative chemoradiotherapy.
+Methods: PubMed, CENTRAL, ScienceDire ct, Embase, and Google Scholar
+were searched for observational studies reporting the use of durvalumab for
+NSCLC till 12th April 2022. Twenty-three studies with 4,400 patients were
+included.
+Results: The pooled 1-year overall survival (OS) and progression-free survival rates
+(PFS) were 85% (95% CI: 81%– 89%) and 60% (95% CI: 56%– 64%) respectively.
+Pooled incidence of all-grade pneumonitis, grade ≥3 pneumonitis and
+discontinuation of durvalumab due to pneumonitis were 27% (95% CI: 19%–
+36%), 8% (95% CI: 6% – 10%) and 17% (95% CI: 12% – 23%) respectively. The
+pooled proportion of patients experiencing endocrine, cutaneous,
+musculoskeletal, and gastrointestinal adverse events was 11% (95% CI: 7%–
+18%), 8% (95% CI: 3%– 17%), 5% (95% CI: 3%– 6%), and 6% (95% CI: 3%– 12%),
+respectively.
+Conclusion: Meta-regression indicated tha tp e r f o r m a n c es t a t u ss i g n iﬁcantly
+inﬂuenced PFS, while age, time to durvalumab, and programmed death-ligand
+1 status signiﬁcantly affected pneumonitis rates. Real-world evidence suggests
+that the short-term efﬁcacy and safety of durvalumab are consistent with that
+of the PACIFIC trial. The congruence of results lends support to durvalumab
+use in improving outcomes of unresectable stage III NSCLC.
+Systematic Review Registration:https://www.crd.york.ac.uk/prospero/display_
+record.php?ID=CRD42022324663, identiﬁer CRD42022324663.
+OPEN ACCESS
+EDITED BY
+Ting Xu,
+University of Texas MD Anderson Cancer
+Center, United States
+REVIEWED BY
+Luis Mas,
+Instituto Nacional de Enfermedades
+Neoplásicas (INEN), Peru
+Cinzia Antognelli,
+University of Perugia, Italy
+Hashem Obaid Alsaab,
+Taif University, Saudi Arabia
+*CORRESPONDENCE
+Jinhui Tian,
+tianjinhui_1@126.com
+†These authors have contributed equally
+to this work
+RECEIVED 21 November 2022
+ACCEPTED 25 May 2023
+PUBLISHED 08 June 2023
+CITATION
+Zhang Y, Tian Y, Zheng L, Sun X, Zhao Z,
+Zheng Y and Tian J (2023), Efﬁcacy and
+safety of consolidation durvalumab after
+chemoradiation therapy for stage III non-
+small-cell lung cancer: a systematic
+review, meta-analysis, and meta-
+regression of real-world studies.
+Front. Pharmacol.14:1103927.
+doi: 10.3389/fphar.2023.1103927
+COPYRIGHT
+© 2023 Zhang, Tian, Zheng, Sun, Zhao,
+Zheng and Tian. This is an open-access
+article distributed under the terms of the
+Creative Commons Attribution License
+(CC BY). The use, distribution or
+reproduction in other forums is
+permitted, provided the original author(s)
+and the copyright owner(s) are credited
+and that the original publication in this
+journal is cited, in accordance with
+accepted academic practice. No use,
+distribution or reproduction is permitted
+which does not comply with these terms.
+Frontiers in Pharmacology frontiersin.org01
+TYPE Systematic Review
+PUBLISHED 08 June 2023
+DOI 10.3389/fphar.2023.1103927
+
+[W4380047383 PDF PAGE 2]
+KEYWORDS
+immunotherapy, immune checkpoint inhibitors, survival, pneumonitis, real-world, lung
+cancer
+Introduction
+Lung cancer is one of the leading causes of cancer-related
+death worldwide (Bray et al., 2018). Non-small cell lung cancer
+(NSCLC) represents about 80% of all lung cancer cases. Over 30%
+of NSCLC cases are detected in a locally-advanced stage which is
+often unresectable (Siegel et al., 2012). Around 25% of NSCLC
+patients are diagnosed as stage III disease. This heterogeneous
+group of patients is primarily treated with curative platinum-
+based chemoradiotherapy (CRT) regardless of histology and
+molecular subtype (Xiao and Hong, 2021 ). While concurrent
+CRT (cCRT) improves survival rates, the prognosis of stage III
+NSCLC remains poor, with a median progression-free survival
+(PFS) of 8 months and a 5-year overall survival (OS) of 15%– 30%
+(Yoon et al., 2017).
+The PACIFIC trial ( Antonia et al., 2017 )t h a ta i m e dt o
+explore better therapeutic op tions for NSCLC, has provided a
+new standard of management of unresectable stage III NSCLC
+patients. This phase 3 randomized controlled trial (RCT)
+examined the ef ﬁcacy of consolidation durvalumab, a
+p r o g r a m m e dd e a t h - l i g a n d1( P D - L 1 )i m m u n ec h e c k p o i n t
+inhibitor (ICI), following curative cCRT for stage III disease.
+Recently released 5-year results of the trial indicate an OS of
+42.9% and PFS of 33.1% with consolidation durvalumab therapy
+(Faivre-Finn et al., 2021 ). These outcomes have validated the
+survival bene ﬁts offered by durvalumab as compared to CRT
+alone thereby establishing a new standard-of-care. Durvalumab
+has now been approved by healthcare authorities around the
+globe for the management of unresectable stage III disease
+(Ettinger et al., 2019).
+It is well-known that patients enrolled in clinical trials are not
+entirely representative of patients seen in clinical practice. The
+rigorous inclusion criteria of RCTs often exclude the elderly,
+those with comorbidities, and with poor performance status
+leading to the inclusion of a younger and healthier patient
+population who may endure treat ment-related adverse events
+with clinical beneﬁts (Blonde et al., 2018). Therefore, the results
+of pivotal RCTs often lack external validity and need to be
+complemented by real-world data that include heterogeneous
+patient population (Pasello et al., 2020), and may provide more
+detailed information on the a

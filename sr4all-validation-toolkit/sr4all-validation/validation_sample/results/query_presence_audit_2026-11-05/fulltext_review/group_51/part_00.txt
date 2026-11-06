@@ -1,0 +1,190 @@
+
+
+REVIEW W4393042487
+TITLE: The cost-effectiveness of syphilis screening in pregnant women: a systematic literature review
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4393042487 PDF PAGE 1]
+Frontiers in Public Health 01 frontiersin.org
+The cost-effectiveness of syphilis 
+screening in pregnant women: a 
+systematic literature review
+Meng Zhang , Hongyan Zhang , Xiaoqing Hui , Huimin Qu , 
+Junfen Xia , Feng Xu , Cannan Shi , Junjian He , Yuan Cao  and 
+Mengcai Hu *
+Department of Health Care, The Third Affiliated Hospital of Zhengzhou University, Zhengzhou, 
+Henan, China
+Introduction: The cost-effectiveness study of syphilis screening in pregnant 
+women has not been synthesized. This study aimed to synthesize the economic 
+evidence on the cost-effectiveness of syphilis screening in pregnant women 
+that might contribute to making recommendations on the future direction of 
+syphilis screening approaches.
+Methods: We systematically searched MEDLINE, PubMed, and Web of Science 
+databases for relevant studies published before 19 January 2023 and identified 
+the cost-effectiveness analyses for syphilis screening in pregnant women. 
+The methodological design quality was appraised by the Consolidated Health 
+Economic Evaluation Reporting Standards (CHEERS) 2022 checklist.
+Results: In total, 17 literature met the eligibility criteria for a full review. Of the 17 
+studies, four evaluated interventions using different screening methods, seven 
+assessed a combination of syphilis testing and treatment interventions, three 
+focused on repeat screening intervention, and four evaluated the interventions 
+that integrated syphilis and HIV testing. The most cost-effective strategy 
+appeared to be  rapid syphilis testing with high treatment rates in pregnant 
+women who were positive.
+Discussion: The cost-effectiveness of syphilis screening for pregnancy has 
+been widely demonstrated. It is very essential to improve the compliance with 
+maternal screening and the treatment rates for positive pregnant women while 
+implementing screening.
+KEYWORDS
+syphilis, screening, cost-effectiveness, pregnant women, review
+Introduction
+Syphilis is caused by the Treponema pallidum bacterium, which can be  transmitted 
+vertically from mother to child during pregnancy. In 2016, an estimated 98,800 cases of 
+maternal syphilis infections occurred worldwide ( 1). The rate of syphilis among 
+reproductive-age women increased, leading to an increase in the rate of congenital syphilis 
+(CS) (2). More than half of the pregnancies among women with active syphilis result in adverse 
+pregnancy outcomes that can be avoided (3). Historical data show that untreated syphilis 
+during pregnancy can lead to 25% late abortion or stillbirth, 13% premature or low birthweight, 
+11% neonatal death, and 20% classic symptoms and signs of syphilis-infected infants (4–6). 
+To achieve the goal of eliminating CS, the World Health Organization regards the provision 
+OPEN ACCESS
+EDITED BY
+Ellie Jordan Putz,  
+Agricultural Research Service (USDA),  
+United States
+REVIEWED BY
+Rogério Valois Laurentino,  
+Federal University of Pará, Brazil
+Domenico Marino,  
+Mediterranea University of Reggio Calabria,  
+Italy
+*CORRESPONDENCE
+Mengcai Hu  
+ baojianbuhmc@163.com; 
+ zdsfybjb@163.com
+RECEIVED 01 August 2023
+ACCEPTED 23 February 2024
+PUBLISHED 21 March 2024
+CITATION
+Zhang M, Zhang H, Hui X, Qu H, Xia J, Xu F, 
+Shi C, He J, Cao Y and Hu M (2024) The cost-
+effectiveness of syphilis screening in pregnant 
+women: a systematic literature review.
+Front. Public Health 12:1268653.
+doi: 10.3389/fpubh.2024.1268653
+COPYRIGHT
+© 2024 Zhang, Zhang, Hui, Qu, Xia, Xu, Shi, 
+He, Cao and Hu. This is an open-access 
+article distributed under the terms of the 
+Creative Commons Attribution License 
+(CC BY). The use, distribution or reproduction 
+in other forums is permitted, provided the 
+original author(s) and the copyright owner(s) 
+are credited and that the original publication 
+in this journal is cited, in accordance with 
+accepted academic practice. No use, 
+distribution or reproduction is permitted 
+which does not comply with these terms.
+TYPE Systematic Review
+PUBLISHED 21 March 2024
+DOI 10.3389/fpubh.2024.1268653
+
+[W4393042487 PDF PAGE 2]
+Zhang et al. 10.3389/fpubh.2024.1268653
+Frontiers in Public Health 02 frontiersin.org
+of syphilis screening and treatment in antenatal care (ANC) services 
+as one of several prevention strategies (7).
+The incidence rate of CS seems to be  decreasing in several 
+countries with the approaches to prevent syphilis advocated by the 
+WHO ( 8, 9). Although syphilis is preventable and treatable, the 
+incidence of CS is on a steady rise in high-income countries such as 
+Australia and the United  States ( 10, 11). Mother-to-child 
+transmission (MTCT) of syphilis can occur at any time during 
+gestation if syphilitic pregnant women cannot be identified and 
+treated. In addition to syphilis testing in early pregnancy, high-risk 
+pregnant women also need to be  tested again at 28 weeks of 
+gestation and delivery ( 12).
+The prevalence of syphilis has been proven to be closely associated 
+with HIV epidemiologically ( 13). This may be  because the two 
+infections have a common route of transmission, and syphilitic genital 
+ulcer increases the probability of HIV infection (14). However, the 
+coverage for HIV screening is several times higher than for syphilis, 
+and newborns who do not acquire HIV infection still have a high risk 
+of syphilis infection (15, 16). HIV antenatal screening integrated with 
+syphilis testing can not only improve the maternal syphilis screening 
+rate but also prove to be cost-effective due to the inexpensive penicillin 
+treatment (17–19).
+Several studies have indicated that the screening and treatment 
+of maternal syphilis as a public health intervention reduces adverse 
+pregnancy and birth outcomes and medical costs and improves the 
+quality of life of pregnant women and newborns ( 20–22). Health 
+policymakers should make rational use of resources based on 
+different incidence rates and social and economic development in 
+different regions. The economic value obtained from the integration 
+of cost and clinical effect is one of the most important outcomes in 
+the evaluation of the comparative effects of medical interventions. 
+Although the high cost-effectiveness of the screening approach 
+depends on the high incidence rate generally, the cost-effectiveness 
+of maternal screening has been proven in areas with low syphilis 
+incidence (18).
+Evidence-based estimates of the cost-effectiveness of screening 
+pregnant women for syphilis help make the case for rational allocation 
+of health resources, improve the efficiency of intervention approaches, 
+and make progress toward elimination. Previous estimates have 
+assessed the cost-effectiveness of screening pregnant women for 
+syphilis based on the local syphilis prevalence, screening strategies, 
+and economic levels. We  performed a systematic review of the 
+published evidence on the cost-effectiveness of syphilis screening in 
+pregnant women with respect to the extent to which the evidence on 
+the cost-effectiveness of screening has changed. In addition to this, 
+we aimed to estimate the optimal screening strategies and extract 
+information from cost-effectiveness analyses across different studies 
+to provide a scientific basis for the formulation of a suitable syphilis 
+screening strategy.
+Methods
+Search strategy
+We searched MEDLINE, PubMed, and Web of Science for the 
+cost-effectiveness of syphilis antenatal screening literature from the 
+earliest available data in each database to 19 January 2023. We adopted 
+the Preferred Reporting Items for Systematic Review and Meta-
+analysis (PRISMA) statement for this systematic review ( 23). To 
+identify relevant economic assessments, we used the following terms: 
+syphilis, treponema pallidum , pregnancy, antenatal, vertical 
+transmission, mother-to-child transmission, screening, test, diagnose, 
+cost-effectiveness, economic, cost-utility, and cost–benefit (Table 1). 
+The search strategy was composed of medical subject title (MeSH) 
+terms, free text terms, and AND/OR terms. Duplicates were excluded 
+using the software EndNote X9.
+Inclusion and exclusion criteria
+We selected eligible studies using the following reported inclusion 
+criteria: cost-effectiveness studies based on clinical trials or model-
+based assessments related to syphilis antenatal screening, papers 
+evaluating syphilis testing approach economic value, and papers 
+written in English or Chinese.
+The economic assessments included in this review were cost-
+effectiveness, cost-utility, or cost–benefit analyses. The outcomes 
+of these studies would include at least one of the following: cost 
+per diagnosis of syphilis in pregnant women, cost per averted 
+adverse birth outcomes, cost per quality-adjusted life years 
+(QALY), and the total cost of screening pregnant women for 
+syphilis approaches. We excluded the studies that focused solely 
+on cost analyses or exclusively assessed the cost-effectiveness of 
+syphilis treatment.
+Data extraction and quality assessment
+Two independent reviewers summarized the retrieved results and 
+extracted the information of interest. The differences between the two 
+were discussed and resolved. Data extracted included analysis type, 
+country, target population, sample size, intervention, incidence, 
+perspective, outcomes, and costs.
+The economic assessments of the methodological quality of 
+syphilis screening in pregnant women were evaluated by the 28-item 
+Consolidated Health Economic Evaluation Reporting Standards 
+(CHEERS) 2022 checklist (24). For the list, each item was scored using 
+“Y es” if the article met the quality criterion, “Not applicable” if the item 
+does not apply to a particular economic evaluation, and “Not 
+reported” if the information is otherwise not reported.
+TABLE 1 Proposed keywords for the literature search.
+Themes Proposed keywords
+Screening
+Screening OR Tes

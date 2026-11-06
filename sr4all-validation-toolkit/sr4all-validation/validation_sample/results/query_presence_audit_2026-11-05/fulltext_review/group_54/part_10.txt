@@ -1,0 +1,151 @@
+-generation provided a
+signiﬁcant difference of AEs, particularly in less than grade 3 or
+higher AEs, less than any-grade and grade 3 or higher atrial
+ﬁbrillation, less than grade 3 or high diarrhea, and more than
+any-grade headache. Clinicians should consider these results and
+patients’ comorbidities when selecting 2nd-generation BTKi
+treatment regimen.
+Data availability statement
+The original contributions presented in the study are included in
+the article/Supplementary Material; further inquiries can be directed
+to the corresponding author.
+Author contributions
+LK: conceptualization, data curation, formal analysis,
+methodology, writing – original draft, and writing – review
+and editing. SL: data curation, formal analysis,
+methodology, and writing – review and editing. DH: data
+curation, formal analysis, methodology, and writing – review
+and editing. YW: supervision, validation, and writing – review
+and editing.
+Funding
+The author(s) declare that no ﬁnancial support was
+received for the research, auth orship, and/or p ublication of
+this article.
+Conﬂict of interest
+The authors declare that the research was conducted in the
+absence of any commercial orﬁnancial relationships that could be
+construed as a potential conﬂict of interest.
+Publisher’s note
+All claims expressed in this article are solely those of the authors
+and do not necessarily represent those of their af ﬁliated
+organizations, or those of the publisher, the editors, and the
+reviewers. Any product that may be evaluated in this article, or
+claim that may be made by its manufacturer, is not guaranteed or
+endorsed by the publisher.
+Supplementary material
+The Supplementary Material for this article can be found online
+at: https://www.frontiersin.org/articles/10.3389/fphar.2024.1413985/
+full#supplementary-material
+Frontiers inPharmacology frontiersin.org09
+Ke et al. 10.3389/fphar.2024.1413985
+
+[W4400512245 PDF PAGE 10]
+References
+Abushukair, H., Syaj, S., Ababneh, O., Qarqash, A., Schinke, C., Thanendrarajan, S.,
+et al. (2022). First-versus second-generation Bruton tyrosine kinase inhibitors in
+Waldenström’s Macroglobulinemia: a systematic review and meta-analysis. Am.
+J. Hematol. 97 (7), 942– 950. doi:10.1002/ajh.26552
+Awan, F. T., Schuh, A., Brown, J. R., Furman, R. R., Pagel, J. M., Hillmen, P., et al.
+(2019). Acalabrutinib monotherapy in patients with chronic lymphocytic leukemia who
+are intolerant to ibrutinib.Blood Adv. 3 (9), 1553– 1562. doi:10.1182/bloodadvances.
+2018030007
+Barr, P. M., Owen, C., Robak, T., Tedeschi, A., Bairey, O., Burger, J. A., et al. (2022).
+Up to 8-year follow-up from RESONATE-2:ﬁrst-line ibrutinib treatment for patients
+with chronic lymphocytic leukemia. Blood Adv. 6 (11), 3440 – 3450. doi:10.1182/
+bloodadvances.2021006434
+Brown, J. R., Byrd, J. C., Ghia, P., Sharman, J. P., Hillmen, P., Stephens, D. M., et al.
+(2022). Cardiovascular adverse events in patients with chronic lymphocytic leukemia
+receiving acalabrutinib monotherapy: pooled analysis of 762 patients.Haematologica
+107 (6), 1335– 1346. doi:10.3324/haematol.2021.278901
+Brown, J. R., Eichhorst, B., Hillmen, P., Jurczak, W., Kaźmierczak, M., Lamanna, N.,
+et al. (2023). Zanubrutinib or ibrutinib in relapsed or refractory chronic lymphocytic
+leukemia. N. Engl. J. Med.388 (4), 319– 332. doi:10.1056/NEJMoa2211582
+Burger, J. A., Barr, P. M., Robak, T., Owen, C., Ghia, P., Tedeschi, A., et al. (2020).
+Long-term efﬁcacy and safety ofﬁrst-line ibrutinib treatment for patients with CLL/SLL:
+5 years of follow-up from the phase 3 RESONATE-2 study.Leukemia 34 (3), 787– 798.
+doi:10.1038/s41375-019-0602-x
+B u r g e r ,J .A . ,S i v i n a ,M . ,J a i n ,N . ,K i m ,E . ,K a d i a ,T . ,E s t r o v ,Z . ,e ta l .( 2 0 1 9 ) .
+Randomized trial of ibrutinib vs ibrutinib plus rituximab in patients with chronic
+lymphocytic leukemia.Blood 133 (10), 1011 – 1019. doi:10.1182/blood-2018-10-
+879429
+Burger, J. A., Tedeschi, A., Barr, P. M., Robak, T., Owen, C., Ghia, P., et al. (2015).
+Ibrutinib as initial therapy for patients with chronic lymphocytic leukemia.N. Engl.
+J. Med. 373 (25), 2425– 2437. doi:10.1056/NEJMoa1509388
+Burger, J. A., and Wiestner, A. (2018). Targeting B cell receptor signalling in cancer:
+preclinical and clinical advances.Nat. Rev. Cancer18 (3), 148– 167. doi:10.1038/nrc.
+2017.121
+Byrd, J. C., Brown, J. R., O’Brien, S., Barrientos, J. C., Kay, N. E., Reddy, N. M., et al.
+(2014). Ibrutinib versus ofatumumab in previously treated chronic lymphoid leukemia.
+N. Engl. J. Med.371 (3), 213– 223. doi:10.1056/NEJMoa1400376
+Byrd, J. C., Furman, R. R., Coutre, S. E., Flinn, I. W., Burger, J. A., Blum, K., et al.
+(2020b). Ibrutinib treatment forﬁrst-line and relapsed/refractory chronic lymphocytic
+leukemia: ﬁnal analysis of the pivotal phase ib/II PCYC-1102 study.Clin. Cancer Res.26
+(15), 3918– 3927. doi:10.1158/1078-0432.CCR-19-2856
+Byrd, J. C., Furman, R. R., Coutre, S. E., Flinn, I. W., Burger, J. A., Blum, K. A., et al.
+(2013). Targeting BTK with ibrutinib in relapsed chronic lymphocytic leukemia.N.
+Engl. J. Med.369 (1), 32– 42. doi:10.1056/NEJMoa1215637
+Byrd, J. C., Hillmen, P., Ghia, P., Kater, A. P., Chanan-Khan, A., Furman, R. R., et al.
+(2021b). Acalabrutinib versus ibrutinib in previously treated chronic lymphocytic
+leukemia: results of the ﬁrst randomized phase III trial. J. Clin. Oncol. 39 (31),
+3441– 3452. doi:10.1200/JCO.21.01210
+Byrd, J. C., Wierda, W. G., Schuh, A., Devereux, S., Chaves, J. M., Brown, J. R., et al.
+(2020a). Acalabrutinib monotherapy in patients with relapsed/refractory chronic
+lymphocytic leukemia: updated phase 2 results.Blood 135 (15), 1204– 1213. doi:10.
+1182/blood.2018884940
+Byrd, J. C., Woyach, J. A., Furman, R. R., Martin, P., O’Brien, S., Brown, J. R., et al.
+(2021a). Acalabrutinib in treatment-naive chronic lymphocytic leukemia.Blood 137
+(24), 3327– 3338. doi:10.1182/blood.2020009617
+Cull, G., Burger, J. A., Opat, S., Gottlieb, D., Verner, E., Trotman, J., et al. (2022).
+Zanubrutinib for treatment-naïve and relapsed/refractory chronic lymphocytic
+leukaemia: long-term follow-up of the phase I/II AU-003 study. Br. J. Haematol.
+196 (5), 1209– 1218. doi:10.1111/bjh.17994
+Danilov, A. V., Herbaux, C., Walter, H. S., Hillmen, P., Rule, S. A., Kio, E. A., et al.
+(2020). Phase ib study of tirabrutinib in combination with idelalisib or entospletinib in
+previously treated chronic lymphocytic leukemia.Clin. Cancer Res.26 (12), 2810– 2818.
+doi:10.1158/1078-0432.CCR-19-3504
+Eichhorst, B., Robak, T., Montserrat, E., Ghia, P., Niemann, C. U., Kater, A. P., et al.
+(2021). Chronic lymphocytic leukaemia:ESMO clinical practice guidelines for diagnosis,
+treatment and follow-up.Ann. Oncol. 32, 23– 33. doi:10.1016/j.annonc.2020.09.019
+Estupiñán, H. Y., Berglöf, A., Zain, R., and Smith, C. I. E. (2021). Comparative analysis
+of BTK inhibitors and mechanisms underlying adverse effects.Front. Cell Dev. Biol.9,
+630942. doi:10.3389/fcell.2021.630942
+Farooqui, M. Z., Valdez, J., Martyr, S., Aue, G., Saba, N., Niemann, C. U., et al. (2015).
+Ibrutinib for previously untreated and relapsed or refractory chronic lymphocytic
+leukaemia with TP53 aberrations: a phase 2, single-arm trial.Lancet Oncol. 16 (2),
+169– 176. doi:10.1016/S1470-2045(14)71182-9
+Ghia, P., Pluta, A., Wach, M., Lysak, D., Kozak, T., Simkovic, M., et al. (2020).
+ASCEND: phase III, randomized trial of acalabrutinib versus idelalisib plus rituximab or
+bendamustine plus rituximab in relapsed or refractory chronic lymphocytic leukemia.
+J. Clin. Oncol.38 (25), 2849– 2861. doi:10.1200/JCO.19.03355
+Guo, Y., Liu, Y., Hu, N., Yu, D., Zhou, C., Shi, G., et al. (2019). Discovery of
+Zanubrutinib (BGB-3111), a novel, potent, and selective covalent inhibitor of Bruton’s
+tyrosine kinase. J. Med. Chem.62, 7923– 7940. doi:10.1021/acs.jmedchem.9b00687
+Hallek, M., Cheson, B. D., Catovsky, D., Caligaris-Cappio, F., Dighiero, G., Döhner,
+H., et al. (2018). iwCLL guidelines for diagnosis, indications for treatment, response
+assessment, and supportive management of CLL.Blood 131, 2745– 2760. doi:10.1182/
+blood-2017-09-806398
+Higgins, J. P., Altman, D. G., Gøtzsche, P. C., Jüni, P., Moher, D., Oxman, A. D., et al.
+(2011). The Cochrane Collaboration’s tool for assessing risk of bias in randomised trials.
+BMJ 343, d5928. doi:10.1136/bmj.d5928
+Huang, X., Qiu, L., Jin, J., Zhou, D., Chen, X., Hou, M., et al. (2018). Ibrutinib versus
+rituximab in relapsed or refractory chronic lymphocytic leukemia or small lymphocytic
+lymphoma: a randomized, open-label phase 3 study.Cancer Med. 7 (4), 1043– 1055.
+doi:10.1002/cam4.1337
+Jiang, D., Song, Z., Hu, Y., Dong, F., and Zhao, R. (2022). Risk of bleeding associated
+with BTK inhibitor monotherapy: a systematic review and meta-analysis of randomized
+controlled trials.Expert Rev. Clin. Pharmacol.15 (8), 987– 996. doi:10.1080/17512433.
+2022.2106968
+Langerbeins, P., Zhang, C., Robrecht, S., Cramer, P., Fürstenau, M., Al-Sawaf, O., et al.
+(2022). The CLL12 trial: ibrutinib vs placebo in treatment-naïve, early-stage chronic
+lymphocytic leukemia. Blood 139 (2), 177– 187. doi:10.1182/blood.2021010845
+Liberati, A., Altman, D. G., Tetzlaff, J., Mulrow, C., Gøtzsche, P. C., Ioannidis, J. P. A.,
+et al. (2009). The PRISMA statement for reporting systematic reviews and meta-
+analyses of studies that evaluate healthcare interventions: explanation and elaboration.
+BMJ 339, b2700. doi:10.1136/bmj.b2700
+M a t o ,A .R . ,N a b h a n ,C . ,T h o m p s o n ,M .C . ,L a m a n n a ,N . ,B r a n d e r ,D .M . ,H i l l ,B . ,e ta l .
+(2018). Toxicities and outcomes of 616 ibrutinib treated patients in the United States: a
+realworld analysis.Haematologica103 (5), 874– 879. doi:10.3324/haematol.2017.182907
+Munir, T., Brown, J. R., O’Brien, S., Barrientos, J. C., Barr, P. M., Reddy, N. M., et al.
+(2019). Final analysis from RESONATE: up to six years of follow-up on ibrutinib in
+patients with previously treated chronic lymphocytic leukemia or small lymphocytic
+lymphoma. Am. J. Hematol.94 (12), 1353– 1363. doi:10.1002/ajh.256

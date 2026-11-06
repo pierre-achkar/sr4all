@@ -1,0 +1,195 @@
+prevention
+Fig. 13 The effects of antenatal metformin intervention on GDM 
+prevention
+
+[W4390583438 PDF PAGE 11]
+Page 11 of 16
+Quotah et al. Diabetology & Metabolic Syndrome            (2024) 16:8 
+ 
+used vitamin D interventions, there is a need for further 
+well-designed trials using larger cohorts among pregnant 
+women identified as high-risk.
+No effect of probiotics on the development of GDM in 
+higher-risk women was found, consistent with the results 
+of a Cochrane review [11]. However, in contrast, a recent 
+meta-analysis (n = 10) showed a significant reduction 
+of GDM with probiotic supplementation in the general 
+antenatal population [117]. Furthermore, metformin was 
+not found to be effective in preventing GDM in higher 
+risk pregnant women. This is consistent with a previ -
+ous meta-analysis in which the use of metformin started 
+at conception or before 20  weeks of pregnancy did not 
+reduce GDM when BMI was the only risk factor, or 
+another selective risk assessment strategy such as PCOS 
+and/or PIR was used [39]. A Cochrane systematic review 
+of metformin use to prevent the development of type 2 
+diabetes mellitus (T2DM) (n = 20 RCTs) in individuals 
+at increased risk supported efficacy in prevention (with 
+or without behavioural interventions) when taken over a 
+minimum of at least a 1-year [118]. This may imply that 
+given the relatively short period of gestation, women  at 
+increased risk might  benefit from  metformin interven -
+tion if commenced during the preconception period. 
+Moreover, our analysis highlights the limited evidence for 
+metformin interventions (n = 2) in women with multiple 
+risk factors, and the significant heterogeneity between 
+them. Again, further research is needed as a potential 
+effect of prolonged preconception metformin use in pre -
+venting GDM in such a population cannot be discounted.
+Several different approaches for the identification of 
+women at higher risk were utilised in the included stud -
+ies for this review. Notably, only one study used a vali -
+dated tool to identify risk while five studies intervened 
+in women with ≥ 2 GDM risk factors. Our finding that 
+interventions with women who had multiple risk factors 
+reduced GDM prevalence supports the use of multiple 
+risk factor clustering or validated tools to screen for risk 
+of GDM. One such tool for identifying which women 
+living with obesity are at higher risk of GDM develop -
+ment early in pregnancy has been developed [119] and 
+is currently being validated. Better identification of risk 
+amongst women with obesity, most of whom will not 
+develop GDM, should facilitate interventions to be tar -
+geted at those most likely to benefit [119].
+This review highlights the paucity of interventions tar -
+geting higher risk women in the preconception period, 
+mirroring a lack of interventions globally in individuals 
+preparing for pregnancy [120]. Moreover, we found no 
+evidence of benefit of preconception behavioural inter -
+ventions on the development of GDM in the two iden -
+tified studies. The current interest in the importance of 
+improving preconception health has stimulated recent 
+attempts [121]. NiPPeR, a double-blind multicentre 
+RCT in healthy women planning pregnancy, examined 
+the effect of a nutritional formulation containing myo-
+inositol, probiotics, and multiple micronutrients taken 
+preconception and throughout pregnancy, on gestational 
+glycaemia and preterm delivery [17]. Whilst preterm 
+delivery was reduced, there was no effect on the preva -
+lence of GDM [17]. Additionally, NiPPeR did not dem -
+onstrate any benefit of the intervention in women with 
+overweight or obesity or those with documented dysgly -
+caemia; however, the trial was not powered to detect dif -
+ferences between subgroups [17]. Appropriately designed 
+RCTs which encompass behavioural, supplementation 
+and pharmacological interventions in high-risk women 
+contemplating pregnancy are needed to evaluate the role 
+of these interventions at the population level.
+Strengths and limitations
+To date, this study represents the largest review on this 
+subject, with the inclusion of recently published stud -
+ies targeting higher risk antenatal populations. A robust 
+comprehensive search strategy was utilised using well-
+defined eligibility criteria. The screening, risk of bias 
+assessment and data extraction were performed indepen-
+dently in duplicate. However, meta-analyses were limited 
+by the quality and methodological variability of studies 
+available. There was considerable variation in criteria for 
+risk stratification and the gestational age at which the 
+intervention was introduced across the trials. The inclu -
+sion of studies using different GDM diagnostic crite -
+ria may also have contributed to heterogeneity between 
+studies. Due to the limited number of studies in women 
+with multiple risk factors, a subgroup analysis compris -
+ing other types of intervention (e.g., diet only, PA only, 
+dietary supplements, preconception interventions) could 
+not be performed. Potential publication bias for com -
+bined diet and PA intervention effects was found. There -
+fore, the interpretation of the findings is limited by the 
+possible bias from selective reporting. Moreover, exclu -
+sion of non-English studies may contribute to publication 
+bias.
+Recommendations for further research and practice
+Further large-scale studies are needed, with higher meth-
+odological quality in women with multiple risk factors 
+for GDM to determine if interventions, whether behav -
+ioural, dietary supplement or pharmacological, are more 
+effective in reducing GDM and improving other related 
+pregnancy outcomes than unselected population-based 
+approaches or a single risk factor strategy. Future studies 
+in the preconception period should consider risk strati -
+fication to identify women who may derive greater ben -
+efit. We report here that a variety of strategies were used 
+
+[W4390583438 PDF PAGE 12]
+Page 12 of 16Quotah et al. Diabetology & Metabolic Syndrome            (2024) 16:8 
+to identify women at risk of GDM. Validation of groups 
+of risk factors or predictive tools to identify high-risk 
+populations should therefore be considered to harmonise 
+risk assessment and develop effective preventative inter -
+ventions to improve maternal and infant health in those 
+women who would benefit the most.
+Conclusion
+This study suggests that identification of women at high-
+risk of developing GDM in early pregnancy and targeted 
+intervention using combined diet and physical activity, 
+inositol or vitamin D reduces GDM, indicating that a tar-
+geted approach provides a promising strategy. The results 
+should be interpreted with caution due to differences in 
+risk stratification strategies, diagnostic criteria for GDM, 
+gestational age for intervention, and in intervention 
+design. Further RCTs using validated prediction tools or 
+multiple risk factors to target high-risk women for inter -
+ventions before and during pregnancy are required.
+Abbreviations
+BMI  Body mass index
+DCI  D-chiro-inositol
+DCI-IPG  D-chiro-inositol-containing inositolphosphoglycan
+FBG  Fasting blood glucose
+GDM  Gestational diabetes mellitus
+HbA1c  Haemoglobin a1c
+LGA  Large-for-gestational age
+OGTT   Oral glucose tolerance test
+PA  Physical activity
+PCOS  Polycystic ovary syndrome
+PIR  Pregestational insulin resistance
+PRISMA  Preferred reporting items for systematic reviews and meta-analyses
+RCTs  Randomised controlled trials
+RoB 2  The Cochrane risk-of-bias tool for randomised trials
+SGA  Small for gestational age
+T2DM  Type 2 diabetes mellitus
+Supplementary Information
+The online version contains supplementary material available at https:// doi. 
+org/ 10. 1186/ s13098- 023- 01217-4.
+Additional file 1: Table A1. Literature search strategy (MEDLINE). 
+Table A2. Literature search strategy (EMBASE). Table A3. Literature search 
+strategy (Cochrane Library). Table A4. Characteristics of the included 
+studies. Table A5. Summary of criteria used for GDM risk stratification and 
+intervention characteristic. Table A6. Pregnancy outcomes. Table A7. 
+Eggers test of publication bias for antenatal interventions. Figure A1. Fun-
+nel plots of publication bias for antenatal interventions.
+Acknowledgements
+OFQ is supported by King Abdulaziz University, Jeddah, Saudi Arabia.
+Author contributions
+Concept and design: OFQ, ACF and SLW. Literature search: OFQ, KGN, AA, GSC, 
+AP and NV. Quality assessment and data extraction: OFQ & DA. Data analysis 
+and interpreting data: OFQ. Critical discussion and manuscript drafting: OFQ. 
+Revising manuscript: OFQ, ACF, SLW, LP and NH. Manuscript submission: OFQ. 
+All authors read and approved the final manuscript.
+Funding
+Not applicable.
+Availability of data and materials
+All data generated or analysed during this study are included in this published 
+article and its supplementary information files.
+Declarations
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare no conflict of interest.
+Author details
+1 Department of Women and Children’s Health, School of Life Course and Pop-
+ulation Sciences, King’s College London, London, UK. 2 Department of Clinical 
+Nutrition, Faculty of Applied Medical Science, King Abdulaziz University, 
+Jeddah, Saudi Arabia. 3 Department of Nutrition and Dietetics, Cambridge Uni-
+versity Hospitals NHS Foundation Trust, Cambridge, UK. 4 Department of Nutri-
+tional Sciences, School of Life Course Sciences and Population Sciences, King’s 
+College London, London, UK. 5 Population Health Sciences Institute, Newcastle 
+University, Newcastle Upon Tyne, UK. 6 School of Population Health, Royal Col-
+lege of Surgeons in Ireland, Dublin, Ireland. 
+Received: 6 September 2023   Accepted: 13 November 2023
+References
+ 1. Wang H, Li N, Chivese T, Werfalli M, Sun H, Yuen L, et al. IDF diabetes 
+atlas: estimation of global and regional gestational diabetes mellitus 
+prevalence for 20

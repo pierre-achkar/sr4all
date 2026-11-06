@@ -1,0 +1,251 @@
+earch of interven-
+tions focusing on developing resuscitation- assisted eutha-
+nasia or suicide was excluded, but studies of interventions 
+promoting the ACP or communicating AD were included. 
+ACP is considered an interactive process, so the relevant 
+results (such as ACP process outcomes, action outcomes 
+and care outcomes) should be included in the standard.38 
+Intensive care unit patients were not included because 
+they could not make plans for the future in most cases.39 
+Because there were insufficient resources for translation, 
+articles in non- English languages were deleted. Table 1 
+lists the inclusion and exclusion standards in detail. After 
+searching for and removing duplicate entries, all records 
+were sent to reference manager software (Zotero). Two 
+reviewers independently evaluated titles and abstracts 
+to out irrelevant research and kept papers that met the 
+inclusion criteria. Abstracts and titles will be classified as 
+‘certainly not relevant’ or ‘possibly relevant’. Take note 
+of the reason for exclusion. If there was any uncertainty 
+or dispute, it was resolved with the assistance of a third 
+review author.
+Data extraction
+One reviewer used standardised JBI data extraction 
+methods to extract quantitative and qualitative data from 
+the included papers and discussed those findings with the 
+second reviewer.40 The quantitative information extracted 
+was the authors, year, participant, setting, design, inter-
+vention, result and outcome. The retrieved qualitative 
+information encompassed the population, method, 
+setting, cultural knowledge, study objectives- related 
+data analysis and specifics regarding the phenomena of 
+interest. The author’s interpretations of the qualitative 
+data analysis, which included topics and subtopics, were 
+also obtained. Two reviewers independently evaluated 
+these extractions' level of ‘confidence’ (defined as clear, 
+believable and unsupported) using illustrations (ie, direct 
+citation of participant voices, field observation records or 
+other data).40
+Quality appraisal
+Two independent reviewers used the JBI Critical Appraisal 
+tools,40 comprising checklists for randomised controlled 
+trial (RCT), quasi- experimental study, non- randomised 
+controlled trial (NRCT) and qualitative research to 
+Figure 1 Preferred Reporting Items for Systematic Reviews and Meta- Analyses flow diagram of the study selection process.
+
+[W4378717225 PDF PAGE 4]
+4
+Wang X, et al. BMJ Open 2023;13:e068130. doi:10.1136/bmjopen-2022-068130
+Open access 
+Table 2 Summary of characteristics of quantitative results of included studies
+Author, year Participants, setting Design Intervention Results Outcome measures
+Sudore et al 44  
+(2018)
+Volunteers(n=986)
+Primary care clinic
+RCT Online PREPARE 
+Programme plus AD, 15 
+months
+ACP Behaviour Change and Action scores increased significantly 
+(p<0.001).
+ACP engagement
+Overbeek et al 43  
+(2018)
+Volunteers (n=201)
+Care home and 
+community
+RCT Adjusted Respecting 
+Choices ACP programme,12 
+months
+There were no statistically significant differences between the 
+intervention and control group in change scores. Of intervention group 
+participants, 93% completed an AD, and 94% appointed a decision- 
+maker. Of control participants, 34% completed an AD, and 67% 
+appointed a decision- maker (p<0.001).
+Change in quality of life
+AD completion
+Surrogate decision- maker 
+appointment
+Sung et al 47  
+(2019)
+Older residents (n=57)
+Care institution
+Experimental 
+design
+Group patient education,
+(duration 30 min),6 months
+At post- test, the experimental group had greater knowledge (p=0.014), 
+as well as more positive attitudes overall (p=0.025).
+Knowledge and attitude 
+scales
+Chan and Yu 48  
+(2021)
+Volunteers(n=304)
+Residential care home
+Experimental 
+design
+Six sessions per week
+(6–8 participants/group; 
+mean duration 90 min),
+21 months
+No significant improvement in QOLC- E subscores following the 
+ACP intervention (p>0.05). No significant difference was found in 
+other outcomes. AD- related outcomes: the ACP group enhanced 
+participants’ awareness of AD and more willing to complete AD, and 
+more participants communicated with family members about AD.
+QOLC
+Preferences for EOL care
+AD- related outcomes
+Lin et al45  (2021) Patients(n=82)
+Medical centre
+RCT 2- Week video- supported 
+nurse- led (5 min), 6 days
+ACP knowledge and behavioural intentions: the intervention group 
+showed a significantly higher ACP knowledge score (p=0.01). The rate 
+of AD signing was 33.3% in the intervention group and 9.3% in the 
+control group (p=0.01).
+The signing of AD forms
+Knowledge of ACP
+Behavioural intention
+Lum et al 46  
+(2020)
+Patients(n=110)
+Seniors Clinic
+RCT Talks group visits, 2 
+sessions (8–10 participants/
+group; mean duration 
+120 min), 6 months
+At 6 months, 71% of ENACT participants had an ACP document in 
+the EHR compared with 45% of control arm participants (p<0.001), 
+which is a 26% difference. ENACT participants trended toward higher 
+readiness to engage in ACP compared with control at 6 months.
+ACP documents
+Readiness
+Deng et al 49  
+(2020)
+Older adults (n=74)
+Nursing homes
+Experimental 
+design
+Two sessions per month
+(duration 60 min),2 months
+There was a significant difference in the care and support subscale 
+(p=0.016) and the value of life subscale of mQOLC- E (p=0.012). There 
+were no differences in the use of healthcare services and preference for 
+EOL care between the two groups (p>0.05).
+Preferences for EOL care
+QOLC
+Healthcare utilisation
+Certainty of EOL care
+Litzelman et al51  
+(2017)
+Patients (n=117)
+Hospital
+Mixed method ACP educational
+Intervention, 1 year
+Those who started goal setting had decreased risk of an inpatient stay 
+compared with those with no goal setting.
+Healthcare utilisation
+Okada et al 24  
+(2022)
+Older adults (n=200)
+Hospital
+NRCT One- on- one meetings for 
+ACP discussions(60 min), 
+6 months
+There was only a small change in knowledge scores before and 
+after the intervention, with no significant difference between the two 
+groups. ACP engagement and readiness was significantly higher in 
+the intervention group than in the control group at 6 months (p<0.05). 
+Comprehensive QOL was significantly higher in the intervention group 
+than in the control group (p<0.001).
+Knowledge
+QOLC
+Readiness
+Chan and 
+Pang 50  (2007)
+Older residents (n=287)
+Long- term care homes
+A cross- 
+sectional 
+survey
+NG The mean QOLC- E score of the vulnerable group was significantly 
+lower than the non- vulnerable group (p<0.001). Considerable numbers 
+were uncertain about their end- of- life care preferences and they 
+preferred their physician to be their surrogate.
+QOLC
+Preferences for EOL care
+ACP , advance care planning; AD, advance directive; ENACT, ENgaging in Advance Care Planning Talks; EOL, end- of- life; mQOLC- E, Quality- of- life Concerns in the End of Life Questionnaire ; NRCT, 
+non- randomised controlled trial; QOLC, quality of life concerns; RCT, randomised controlled trial.
+
+[W4378717225 PDF PAGE 5]
+5
+Wang X, et al. BMJ Open 2023;13:e068130. doi:10.1136/bmjopen-2022-068130
+Open access
+evaluate the quality of the included papers. The check-
+list only accepts answers in the form of ‘Yes’, ‘No’ or 
+‘Unclear’. All ‘Yes’ responses indicate high quality, one 
+or two ‘Unclear’ or ‘No’ responses indicate moderate 
+quality, and more than two ‘Unclear’ or ‘No’ responses 
+indicate low quality. This method rates the literature as 
+low, moderate and high quality. Any disagreements in the 
+research were discussed until an agreement was reached.
+Data synthesis and integration
+This study used a convergent segregated approach to 
+synthesise and integrate quantitative and qualitative data 
+because the review examined different dimensions of a 
+phenomenon of interest. 41 42  A statistical meta- analysis 
+of quantitative data was performed using the Cochrane 
+Collaboration’s Review Manager V.5.4 programme to 
+obtain a summary estimate of the effect. Using I- square 
+statistic and χ2  test to evaluate heterogeneity. The results 
+were presented in narrative summaries when it could not 
+do statistical pooling. Qualitative research findings were 
+gathered using the meta- aggregation approach based on 
+the JBI methodology.40 The extract findings (Level 1) 
+were compiled into statements. Then, these findings with 
+similar meaning (at least two findings per category) are 
+combined to create the categorisation (Level 2). Finally, 
+a comprehensive set of synthesised findings for evidence- 
+based practice was developed by synthesising these cate-
+gories (at least two for each synthesised finding) (Level 
+3).40
+Patient and public involvement
+Patients and the public were not involved in the develop-
+ment of this study.
+RESULT
+Study selection
+A total of 12 158 articles were retrieved. There were 1934 
+duplicate articles removed, and 9617 papers were deleted 
+based on title and abstract. The full text of the 90 arti-
+cles screened was reviewed, and 17 were finally included 
+(figure 1).
+Methodological quality
+The methodological quality evaluation of the included 
+studies is shown in online supplemental appendix 2. Only 
+five were rated moderate quality for the included quan-
+titative studies (n=10), while the others were rated low 
+quality. There were four RCTs, all of which lacked infor-
+mation on participant blinding43–46  and three on treat-
+ment assignment blinding.44–46  The remaining six studies 
+were categorised into three quasi- experimental studies, 
+one mixed study, one NRCT and one cross- section 
+survey. Four studies were unclear whether participants 
+received similar treatment or care besides the exposure 
+or intervention of interest.47–50  Two studies lack infor-
+mation regarding study methodologies, control groups 
+and multiple outcome measurements. 24 51  Four studies 
+were rated as moderate quality and others as low quality 
+for the qualitative component of the included studies 
+(n=8). Those studies were rated as moderate quality 
+because the researcher’s theoretical 

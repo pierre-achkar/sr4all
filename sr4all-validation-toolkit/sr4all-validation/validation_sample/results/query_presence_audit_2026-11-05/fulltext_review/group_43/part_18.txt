@@ -1,0 +1,201 @@
+ The
+Lysholm score mainly evaluates activities of daily living, with a score below 65 indicating poor outcomes and
+a score of 95-100 indicating excellent outcomes. Risberg et al. 
+[27]
+ reported poor sensitivity of the Lysholm
+score in detecting changes over time, but it has shown reliability in patients with various knee
+disorders 
+[25]
+. In our meta-analysis, the pooled estimate indicated no significant difference between the
+surgical and non-surgical cohorts. Reijman et al. 
+[19]
+ found that the early reconstruction cohort achieved a
+higher Lysholm score than the rehabilitation cohort, while Irrgang 
+[25]
+ reported slightly better results in the
+surgical cohort compared to the conservative cohort. Conversely, Sandberg et al. 
+[21]
+ reported no difference
+between both cohorts.
+The KT1000 is frequently employed to measure the laxity in the ACL, quantifying the anterior motion of the
+tibia over the fixed femur 
+[28]
+. A normal value should not exceed 3 mm, with values exceeding 3 mm
+indicative of knee laxity 
+[29]
+. Our analysis favored the surgical cohort over the conservative cohort in this
+outcome.
+The IKDC score is a subjective knee evaluation form comprising multiple items based on patients’ reported
+outcomes. Our analysis of the IKDC score revealed higher values in the reconstruction cohort.
+Patient activity was assessed using the Tegner activity scale, a one-item grading system based on sports
+activities and work. Scores range from 0 to 10, with 0 indicating a disabling knee injury and 10 signifying
+high-activity sports. Liow et al. 
+[30]
+ demonstrated the superiority of early reconstruction over late
+reconstruction, as patients in the early reconstruction cohort returned to a higher activity level than those in
+the delayed reconstruction cohort, with mean scores of 5 and 4, respectively. However, our analysis did not
+reveal any significant differences in activity levels between the early reconstruction cohort and the delayed
+reconstruction and rehabilitation cohorts.
+Regarding stability outcomes, the incidences of giving way and the pivot shift test were significantly higher
+in the reconstruction cohort, while the surgical cohort showed a significantly lower incidence of reinjury and
+reoperation.
+In 2014, Smith et al. 
+[31]
+ published a meta-analysis that found limited differences between isolated ACL
+reconstruction and rehabilitation concerning clinical outcomes. However, this evidence was based on poor
+methodology and was insufficient to make a clinical decision regarding the optimal management option.
+They recommended non-surgical treatment before surgical reconstruction in all patients with ACL rupture.
+In contrast, Reijman et al. 
+[19]
+ reported that patients in the early reconstruction cohort exhibited significant
+improvements in knee function, pain perception, and the ability to participate in sports compared to those
+in the rehabilitation and delayed reconstruction cohort. Furthermore, half of the patients in rehabilitation
+required surgical reconstruction after unsuccessful rehabilitation. The KANON trial 
+[11,12]
+ reported that the
+percentage of patients who underwent reconstruction after two years of follow-up was 39%, increasing to
+51% after five years of follow-up.
+This meta-analysis represents the most recent and highest-quality evidence comparing surgical
+management with rehabilitation in patients with ACL rupture.
+Limitation
+The major limitation of our study was the presence of heterogeneous data among studies for some
+outcomes. However, we addressed this issue using the validated Cochrane's leave-one-out method. The
+source, if heterogeneity is complex, may be ascribed to variations in sample sizes, patient demographics
+(e.g., age, gender, body mass index, and duration from injury to intervention), and operative parameters
+(e.g., type of surgery and surgical expertise of orthopedic surgeon), among others. These variations could
+have indirectly impacted the extent of heterogeneity and, accordingly, the conclusions of the pooled
+endpoints.
+Conclusions
+In light of this comprehensive meta-analysis, encompassing six meticulously selected RCTs, the evidence
+firmly supports the comparison of surgical management versus rehabilitation in individuals with ACL
+rupture. Through rigorous inclusion criteria and meticulous evaluation of diverse outcome measures, this
+study provides compelling insights into the effectiveness of both treatment approaches, elevating the level
+of confidence in our findings.
+The KOOS and Lysholm score showed no significant differences between cohorts, except for the quality-of-
+life scale favoring the surgical group. The KT1000 measurement favored surgical management for knee
+laxity. The IKDC score demonstrated higher values in the reconstruction cohort. Stability outcomes showed
+higher incidences of giving way and positive pivot shift tests in the surgical cohort but a lower incidence of
+reinjury and reoperation. These findings align with previous research, emphasizing the efficacy of early
+surgical intervention for improved knee function, pain relief, and sports participation.
+2023 Dahduli et al. Cureus 15(8): e43370. DOI 10.7759/cureus.43370
+11
+ of 
+13
+
+[W4385781584 PDF PAGE 12]
+In conclusion, based on the wealth of the most recent and highest-quality evidence available, surgical
+management, particularly early reconstruction, emerges as the unequivocally superior approach for
+individuals with ACL rupture. The compelling evidence presented in this meta-analysis, in conjunction with
+the consistent findings from previous studies, leaves little doubt regarding the efficacy of early surgical
+intervention in optimizing outcomes for these patients.
+Additional Information
+Disclosures
+Conflicts of interest:
+ In compliance with the ICMJE uniform disclosure form, all authors declare the
+following: 
+Payment/services info:
+ All authors have declared that no financial support was received from
+any organization for the submitted work. 
+Financial relationships:
+ All authors have declared that they have
+no financial relationships at present or within the previous three years with any organizations that might
+have an interest in the submitted work. 
+Other relationships:
+ All authors have declared that there are no
+other relationships or activities that could appear to have influenced the submitted work.
+Acknowledgements
+Omar S. Dahduli contributed to the conception and design. Abdullah M. AlHossan contributed to the
+acquisition of data, analysis and interpretation of data, drafting the article, and reviewing it critically for
+important intellectual content. Mohammed A. Al Rushud contributed to the acquisition of data and analysis
+and interpretation of data. Muath M. Alneghaimshi contributed to the acquisition of data and analysis and
+interpretation of data. Ali AlAseeri contributed to the conception and design. Saad F. Alotaibi contributed to
+the acquisition of data and analysis and interpretation of data. Mohammed K. AlNour contributed to the
+acquisition of data and analysis and interpretation of data. Saud AlBatati contributed to drafting the article
+and reviewing it critically for important intellectual content. All authors read and approved the final
+manuscript. Also, all authors agree to be accountable for all aspects of the work in ensuring that questions
+related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.
+References
+1
+. 
+Spindler KP, Warren TA, Callison JC Jr, Secic M, Fleisch SB, Wright RW: 
+Clinical outcome at a minimum of
+five years after reconstruction of the anterior cruciate ligament
+. J Bone Joint Surg Am. 2005, 87:1673-9.
+10.2106/00004623-200508000-00002
+2
+. 
+Bohn MB, Petersen AK, Nielsen DB, Sørensen H, Lind M: 
+Three-dimensional kinematic and kinetic analysis
+of knee rotational stability in ACL-deficient patients during walking, running and pivoting
+. J Exp Orthop.
+2016, 3:27. 
+10.1186/s40634-016-0062-4
+3
+. 
+Meuffels DE, Poldervaart MT, Diercks RL, et al.: 
+Guideline on anterior cruciate ligament injury
+. Acta Orthop.
+2012, 83:379-86. 
+10.3109/17453674.2012.704563
+4
+. 
+van Yperen DT, Reijman M, van Es EM, Bierma-Zeinstra SM, Meuffels DE: 
+Twenty-year follow-up study
+comparing operative versus nonoperative treatment of anterior cruciate ligament ruptures in high-level
+athletes
+. Am J Sports Med. 2018, 46:1129-36. 
+10.1177/0363546517751683
+5
+. 
+Ardern CL, Webster KE, Taylor NF, Feller JA: 
+Return to sport following anterior cruciate ligament
+reconstruction surgery: a systematic review and meta-analysis of the state of play
+. Br J Sports Med. 2011,
+45:596-606. 
+10.1136/bjsm.2010.076364
+6
+. 
+Evans J, Nielson JL.: 
+Anterior Cruciate Ligament Knee Injury
+. In: StatPearls [Internet] (ed): StatPearls
+Publishing, Treasure Island, FL; 2023.
+7
+. 
+Lohmander LS, Ostenberg A, Englund M, Roos H: 
+High prevalence of knee osteoarthritis, pain, and
+functional limitations in female soccer players twelve years after anterior cruciate ligament injury
+. Arthritis
+Rheum. 2004, 50:3145-52. 
+10.1002/art.20589
+8
+. 
+von Porat A, Roos EM, Roos H: 
+High prevalence of osteoarthritis 14 years after an anterior cruciate ligament
+tear in male soccer players: a study of radiographic and patient relevant outcomes
+. Ann Rheum Dis. 2004,
+63:269-73. 
+10.1136/ard.2003.008136
+9
+. 
+Neyret P, Donell ST, DeJour D, DeJour H: 
+Partial meniscectomy and anterior cruciate ligament rupture in
+soccer players. A study with a minimum 20-year followup
+. Am J Sports Med. 1993, 21:455-60.
+10.1177/036354659302100322
+10
+. 
+Dargo L, Robinson KJ, Games KE: 
+Prevention of knee and anterior cruciate ligament injuries through the use
+of neuromuscular and proprioceptive training: an evidence-based review
+. J Athl Train. 2017, 52:1171-2.
+10.4085/1062-6050-52.12.21
+11
+. 
+Frobell RB, Roos EM, Roos HP, Ranstam J, Lohmander LS: 
+A randomized trial of treatment for acute
+anterior cruciate ligament tears
+. N Engl J Med. 2010, 363:331-42. 
+10.1056/NEJMoa0907797
+12
+. 
+Frobell RB, Roos HP

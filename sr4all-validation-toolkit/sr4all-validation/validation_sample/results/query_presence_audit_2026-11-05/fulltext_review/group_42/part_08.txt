@@ -1,0 +1,169 @@
+this goes in the 
+way of the potential ‘efficacy’ of wearable devices as just 
+wearing them and knowing physical activity metrics are 
+recorded would increase physical activity.
+Conclusion
+Interventions using wearable physical activity monitoring 
+devices with feedback to help patients with CVD increase 
+their daily walking activity may be effective at the end of 
+cardiac rehabilitation at short (<3 months) and medium 
+(≥3 months) terms when referring to mean daily steps.
+Our meta- analysis focused on the impact of wearable 
+physical activity monitors used directly post- rehabilitation 
+and not on their impact if used long after the end of a 
+rehabilitation programme. Therefore, we could not know 
+if the increased physical activity lasts after the end of the 
+wearable physical activity monitoring device intervention 
+and, if not, how long it is maintained. This suggests that 
+more studies are necessary to investigate the long- term 
+sustainability of these positive effects and to be careful on 
+the conclusions we draw especially as the heterogeneity 
+was high and the effects small to moderate.
+Author affiliations
+1INSERM U1059- SAINBIOSE, Jean Monnet University, Mines Saint- Etienne, Saint- 
+Etienne, France
+2Clinical Research Unit, Innovation, Pharmacology, Saint- Etienne University Hospital, 
+Saint- Etienne, France
+3Campus Health and Innovation, Jean Monnet University, Saint- Etienne, France
+4Department of Physiology, Saint- Etienne University Hospital, Saint- Etienne, France
+5Department of Vascular and Therapeutic Medicine, Saint- Etienne University 
+Hospital, Saint- Etienne, France
+Contributors A- NH is the first and corresponding author and acting as guarantor. 
+A- NH, CLH, CC and SL conceived and designed the study. A- NH and CLH acquired 
+data. A- NH and CLH analysed and interpreted data with the help of CC and SL. A- 
+NH, CLH and CC drafted the initial and final manuscripts. SL, DH and FR performed 
+critical revisions of the manuscript. All authors approved the final version of the 
+manuscript.
+Funding The authors have not declared a specific grant for this research from any 
+funding agency in the public, commercial or not- for- profit sectors.
+Competing interests None declared.
+Patient and public involvement Patients and/or the public were not involved in 
+the design, or conduct, or reporting, or dissemination plans of this research.
+Patient consent for publication Not required.
+Ethics approval Ethical approval was not be required because this study retrieved 
+and synthesised data from already published studies.
+Provenance and peer review Not commissioned; externally peer reviewed.
+Data availability statement Data are available upon reasonable request.
+Supplemental material This content has been supplied by the author(s). It has 
+not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been 
+peer- reviewed. Any opinions or recommendations discussed are solely those 
+of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and 
+responsibility arising from any reliance placed on the content. Where the content 
+includes any translated material, BMJ does not warrant the accuracy and reliability 
+of the translations (including but not limited to local regulations, clinical guidelines, 
+terminology, drug names and drug dosages), and is not responsible for any error 
+and/or omissions arising from translation and adaptation or otherwise.
+Open access This is an open access article distributed in accordance with the 
+Creative Commons Attribution Non Commercial (CC BY- NC 4.0) license, which 
+permits others to distribute, remix, adapt, build upon this work non- commercially, 
+and license their derivative works on different terms, provided the original work is 
+properly cited, appropriate credit is given, any changes made indicated, and the use 
+is non- commercial. See: http://creativecommons.org/licenses/by-nc/4.0/.
+ORCID iD
+Anne- Noëlle Heizmann http://orcid.org/0000-0002-2895-4530
+REFERENCES
+ 1 World Health Organization. Cardiovascular diseases (Cvds). 2021. 
+Available: https://www.who.int/news-room/fact-sheets/detail/ 
+cardiovascular-diseases-(cvds)
+ 2 Ekelund U, Tarp J, Steene- Johannessen J, et al. Dose- response 
+associations between Accelerometry measured physical activity 
+and sedentary time and all cause mortality: systematic review and 
+Harmonised meta- analysis. BMJ 2019:l4570. 
+ 3 Li J, Siegrist J. Physical activity and risk of cardiovascular 
+disease—A meta- analysis of prospective cohort studies. IJERPH 
+2012;9:391–407. 
+ 4 ANSES. Actualisation des Repères Du PNNS - Révisions des 
+Repères Relatifs À L’Activité physique et À La Sédentarité. 2016. 
+Available: https://www.anses.fr/fr/system/files/NUT2012SA0155Ra. 
+pdf
+ 5 Suaya JA, Shepard DS, Normand S- LT, et al. Use of cardiac 
+rehabilitation by Medicare beneficiaries after myocardial infarction or 
+coronary bypass surgery. Circulation 2007;116:1653–62. 
+ 6 Bracewell NJ, Plasschaert J, Conti CR, et al. Cardiac rehabilitation: 
+effective yet underutilized in patients with cardiovascular disease. 
+Clin Cardiol 2022;45:1128–34. 
+ 7 Centers for Disease Control and Prevention (CDC). Receipt of 
+outpatient cardiac rehabilitation among heart attack survivors--
+United States, 2005. MMWR Morb Mortal Wkly Rep 2008;57:89–94.
+ 8 Guiraud T, Granger R, Gremeaux V, et al. Telephone support oriented 
+by Accelerometric measurements enhances adherence to physical 
+activity recommendations in noncompliant patients after a cardiac 
+rehabilitation program. Arch Phys Med Rehabil 2012;93:2141–7. 
+ 9 Franco MR, Tong A, Howard K, et al. Older people’s perspectives on 
+participation in physical activity: a systematic review and thematic 
+synthesis of qualitative literature. Br J Sports Med 2015;49:1268–76. 
+ 10 Moschny A, Platen P , Klaassen- Mielke R, et al. Barriers to physical 
+activity in older adults in Germany: a cross- sectional study. Int J 
+Behav Nutr Phys Act 2011;8:121. 
+ 11 Spiteri K, Broom D, Bekhet AH, et al. Barriers and Motivators of 
+physical activity participation in middle- aged and older adults—A 
+systematic review. J Aging Phys Act 2019;27:929–44. 
+ 12 Alharbi M, Gallagher R, Neubeck L, et al. Exercise barriers and the 
+relationship to self- efficacy for exercise over 12 months of a lifestyle- 
+change program for people with heart disease and/or diabetes. Eur J 
+Cardiovasc Nurs 2017;16:309–17. 
+ 13 Lee M- S, Flammer AJ, Lerman LO, et al. Personalized medicine in 
+cardiovascular diseases. Korean Circ J 2012;42:583. 
+ 14 Minich DM, Bland JS. Personalized lifestyle medicine: relevance 
+for nutrition and lifestyle recommendations. ScientificWorldJournal 
+2013;2013:129841. 
+ 15 Sullivan AN, Lachman ME. Behavior change with fitness technology 
+in sedentary adults: A review of the evidence for increasing physical 
+activity. Front Public Health 2016;4:289. 
+ 16 McMahon SK, Lewis B, Oakes M, et al. Older adults’ experiences 
+using a commercially available monitor to self- track their physical 
+activity. JMIR Mhealth Uhealth 2016;4:e35. 
+ 17 Harris T, Limb ES, Hosking F , et al. Effect of Pedometer- based 
+walking interventions on long- term health outcomes: prospective 
+4- year follow- up of two randomised controlled trials using routine 
+primary care data. PLOS Med 2019;16:e1002836. 
+ 18 Lynch EA, Jones TM, Simpson DB, et al. Activity monitors for 
+increasing physical activity in adult stroke survivors. Cochrane 
+Database of Systematic Reviews July 27, 2018. 
+ 19 Herkert C, Kraal JJ, van Loon EMA, et al. Usefulness of modern 
+activity Trackers for monitoring exercise behavior in chronic cardiac 
+patients: validation study. JMIR Mhealth Uhealth 2019;7:e15045. 
+
+[W4383874798 PDF PAGE 11]
+11
+Heizmann A- N, et al. BMJ Open 2023;13:e069966. doi:10.1136/bmjopen-2022-069966
+Open access
+ 20 Broers ER, Gavidia G, Wetzels M, et al. Usefulness of a lifestyle 
+intervention in patients with cardiovascular disease. Am J Cardiol 
+2020;125:370–5. 
+ 21 Williams SL, French DP . What are the most effective intervention 
+techniques for changing physical activity self- efficacy and physical 
+activity behaviour--and are they the same Health Educ Res 
+2011;26:308–22. 
+ 22 Knittle K, Nurmi J, Crutzen R, et al. How can interventions increase 
+motivation for physical activity? A systematic review and meta- 
+analysis. Health Psychol Rev 2018;12:211–30. 
+ 23 Greaves CJ, Sheppard KE, Abraham C, et al. Systematic review 
+of reviews of intervention components associated with increased 
+effectiveness in dietary and physical activity interventions. BMC 
+Public Health 2011;11:119. 
+ 24 Morris JN, Hardman AE. Walking to health. Sports Med 
+1997;23:306–32. 
+ 25 Murtagh EM, Nichols L, Mohammed MA, et al. The effect of walking 
+on risk factors for cardiovascular disease: an updated systematic 
+review and meta- analysis of randomised control trials. Prev Med 
+2015;72:34–43. 
+ 26 Paula TP , Viana LV, Neto ATZ, et al. Effects of the DASH diet and 
+walking on blood pressure in patients with type 2 diabetes and 
+uncontrolled hypertension: A randomized controlled trial. J Clin 
+Hypertens 2015;17:895–901. 
+ 27 Franssen WMA, Franssen GHLM, Spaas J, et al. Can consumer 
+Wearable activity Tracker- based interventions improve physical 
+activity and Cardiometabolic health in patients with chronic 
+diseases? A systematic review and meta- analysis of randomised 
+controlled trials. Int J Behav Nutr Phys Act 2020;17:57. 
+ 28 Hall KS, Hyde ET, Bassett DR, et al. Systematic review of the 
+prospective Association of daily step counts with risk of mortality, 
+cardiovascular disease, and Dysglycemia. Int J Behav Nutr Phys Act 
+2020;17:78. 
+ 29 Ferguson T, Olds T, Curtis R, et al. Effectiveness of Wearable 
+activity Trackers to increase physical activity and improve health: a 
+systematic review of systematic reviews and meta- analyses. Lancet 
+Digit Health 2022;4:e615–26. 
+ 30 Hodkinson A, Kontopantelis E, Zghebi SS, et al. Association 
+between patient factors and the effectiveness of Weara

@@ -1,0 +1,113 @@
+.:(0123456789)Scientific Reports |         (2022) 12:2157  | https://doi.org/10.1038/s41598-021-04764-w
+www.nature.com/scientificreports/
+The idea of a complete screening is to tend towards the identification of potentially typical cognitive disorders 
+which can embody diagnostic call points. This would, in the long term, establish a limited duration assessment 
+of allowing minimizing the fatigue bias particularly inherent in the pathology. In sum, the determination of the 
+presence of cognitive disorders in the ME/CFS seems closely related to the modalities of neuropsychological 
+assessment. Therefore, it seems sound to consider that the determination of a robust cognitive picture of ME/CFS 
+will require a comprehensive neuropsychological battery integrating the intrinsic complexity of the pathology.
+This meta-analysis, based on compliance with rigorous methodological criteria, leads to the idea of a common 
+cognitive phenotype in patients with ME/CFS. Nevertheless, we highlighted limits regarding the heterogeneity 
+between some studies, in particular concerning reaction time or, to a lesser extent, visual short-term memory. 
+Another limitation is the small number of studies for some cognitive processes like visual short-term memory. 
+Although these limitations do not invalidate the main findings, the idea of a common cognitive profile in patients 
+with ME/CFS needs further research to have a strong specific profile in the future.
+For these reasons, original studies dealing with neuropsychological profile of ME/CFS are crucially needed. 
+Our literature review and meta-analysis supports the view of the heterogeneity of cognitive profile in ME/CFS. 
+It also makes it possible to deduce the potential mechanism through the description of a well-defined syndrome 
+framework integrating disorders with variable expression and the constant preservation of instrumental func -
+tions. In the context of clinical neuropsychology research in the field of ME/CFS, it is needed for protocols to 
+include a comprehensive evaluation of cognitive functions, and the choice of sensitive tests avoiding as much as 
+possible testing bias and whose number for each function group evaluated must be consistent with their respec-
+tive complexity (Table 12). It also appears, given the heterogeneity in the expression of cognitive disorders, to 
+work on larger cohorts in order to categorize with precision the different cognitive impairment profiles emerging 
+from this diverse symptomatology. With this in mind, it also appears important to integrate an assessment of the 
+patient levels of depression, fatigue and pain.
+Future research also need to include brain imaging to assess the hypothesis of a possible neurological dysfunc-
+tion at the origin of the cognitive disorders in ME/CFS. Indeed, visuospatial processing and memory are thought 
+to be supported by the fronto-temporo-parietal and occipital  areas120–122. This could therefore be compared to 
+imaging data reflecting hypometabolism concerning the posterior associative  areas123,124. The mechanisms under-
+lying cognitive dysfunction in ME/CFS are unclear. Neuroinflammation can be visualized through PET brain 
+imaging using a radioligand for translocator protein (TSPO), a protein belonging to mitochondrial permeability 
+transition pore (MPTP) complex and produced when microglia become  activated125. This approach showed a 
+correlation between cognitive impairment in ME/CFS patients and PET-signal, especially in a region between 
+mid-pons and  thalamus126, so supporting the hypothesis of neuroinflammation in ME/CFS.
+Finally, in order to obtain a solid estimate of the cognitive symptomatology, future research should systemati-
+cally report psychotropic drugs  treatment127 in the process of patient inclusion and in the treatment of data, in 
+order to avoid bias in data interpretation. The categorization of various forms of dysfunction will allow in the 
+Table 11.  Henri Mondor battery for the neuropsychological assessment of patients with chronic fatigue and 
+cognitive complaints. BDI beck depression inventory, VAS visual analogic scale, FCSRT free and cued recall 
+selective reminding test, TMT trail making test, DO Dénomination Orale (Deloche & Hannequin, 1997).
+Pain, fatigue, depression Memories
+BDI II (depression) Forward digit span
+V AS (Pain) FCSRT
+V AS (fatigue) Rey figure recall (3 min)
+Executive functions and attention Instrumental functions
+Backward digit span Praxies
+FCSRT Boston naming test or DO 80 (French speaking patients)
+TMT A & B
+Stroop (GREFEX version) Dichotic listening
+« P » and « Animal » fluencies Word and sentences conditions
+Rey figure (copy)
+Zazzo’s cancellation test
+Table 12.  Take home message.
+1 Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) commonly associates with cognitive complaints
+2 Neuropsychological testing is required for appropriately descripting and quantifying the cognitive impairment in ME/CFS patients
+3 ME/CFS-associated cognitive impairment typically affects visuo-spatial immediate memory, reaction time, reading speed and the 
+speed of the graphic gesture;
+4 Episodic verbal and visual memories and attentional abilities may be also impaired
+5 Instrumental functions appear constantly preserved
+
+[W4210837925 PDF PAGE 14]
+14
+Vol:.(1234567890)Scientific Reports |         (2022) 12:2157  | https://doi.org/10.1038/s41598-021-04764-w
+www.nature.com/scientificreports/
+future offering cognitive remediation support adapted to each problem. It will also be important to consider 
+other symptoms such as fatigue, pain and morbid interactions between them. Indeed, multi-domain disorders 
+(fatigue, pain, cognition) have an impact on the professional, family and social sphere of patients. This induces 
+significant effects on the mood level. This phenomenon is accentuated by the difficulties in recognizing the 
+arduousness of the experience in this context of multiple but invisible disability. The future objective could be to 
+study the representation of the pathology among all the members constituting the environment of the patients 
+(professionals, caregivers) and in patients themselves. This is to quantify the impact cognitive disorders on the 
+patient’s representation of his pathology, but also on his mood. Could also be approached the impact of issues of 
+representation on the thymic sphere and the impact of mood on the feeling of fatigue and pain. Chronic fatigue 
+syndrome is a multiple entry  entity68, with multiple symptomatology and patients must be the subject of a clinical 
+reading at the height of the complexity of the pathology.
+Received: 3 January 2021; Accepted: 23 November 2021
+References
+ 1. Estévez-López, F . et al. Prevalence and incidence of myalgic encephalomyelitis/chronic fatigue syndrome in Europe—The Euro-
+epiME study from the European network EUROMENE: A protocol for a systematic review. BMJ Open 8, e020817 (2018).
+ 2. Jason, L. A., Sunnquist, M., Brown, A., Evans, M. & Newton, J. L. Are myalgic encephalomyelitis and chronic fatigue syndrome 
+different illnesses? A preliminary analysis. J. Health Psychol. 21, 3–15 (2016).
+ 3. Fukuda, K. The chronic fatigue syndrome: A comprehensive approach to its definition and study. Ann. Intern. Med. 121, 953 
+(1994).
+ 4. Strand, E. B. et al. Myalgic encephalomyelitis/chronic fatigue Syndrome (ME/CFS): Investigating care practices pointed out to 
+disparities in diagnosis and treatment across European Union. PLoS ONE 14, e0225995 (2019).
+ 5. Carruthers, B. M. et al. Myalgic encephalomyelitis: International Consensus Criteria. J. Intern. Med. 270, 327–338 (2011).
+ 6. Clayton, E. W . Beyond myalgic encephalomyelitis/chronic fatigue syndrome: An IOM report on redefining an illness. JAMA  
+313, 1101 (2015).
+ 7. Abbey, S. E. & Garfinkel, P . E. Chronic fatigue syndrome and depression: Cause, effect, or covariate. Clin. Infect. Dis. 13, S73–S83 
+(1991).
+ 8. Jason, L. A. et al. A community-based study of chronic fatigue syndrome. Arch. Intern. Med. 159, 2129 (1999).
+ 9. Holmes, G. P . Chronic fatigue syndrome: A working case definition. Ann. Intern. Med. 108, 387 (1988).
+ 10. Barrows, D. M. Functional capacity evaluations of persons with chronic fatigue immune dysfunction syndrome. Am. J. Occup. 
+Ther. 49, 327–337 (1995).
+ 11. Beaumont, A. et al. Reduced cardiac vagal modulation impacts on cognitive performance in chronic fatigue syndrome. PLoS 
+ONE 7, e49518 (2012).
+ 12. Busichio, K., Tiersky, L. A., Deluca, J. & Natelson, B. H. Neuropsychological deficits in patients with chronic fatigue syndrome. 
+J. Int. Neuropsychol. Soc. 10, 278–285 (2004).
+ 13. Capuron, L. et al. Cognitive dysfunction relates to subjective report of mental fatigue in patients with chronic fatigue syndrome. 
+Neuropsychopharmacology 31, 1777–1784 (2006).
+ 14. Christodoulou, C. et al. Relation between neuropsychological impairment and functional disability in patients with chronic 
+fatigue syndrome. J. Neurol. Neurosurg. Psychiatry 64, 431–434 (1998).
+ 15. Claypoole, K. H. et al. A twin study of cognitive function in chronic fatigue syndrome: The effects of sudden illness onset. 
+Neuropsychology 21, 507–513 (2007).
+ 16. Cockshell, S. J. & Mathias, J. L. Cognitive functioning in chronic fatigue syndrome: A meta-analysis. Psychol. Med. 40, 1253–1267 
+(2010).
+ 17. Cockshell, S. J. & Mathias, J. L. Cognitive deficits in chronic fatigue syndrome and their relationship to psychological status, 
+symptomatology, and everyday functioning. Neuropsychology 27, 230–242 (2013).
+ 18. Constant, E. L. et al.  Cognitive deficits in patients with chronic fatigue syndrome compared to those with major depressive 
+disorder and healthy controls. Clin. Neurol. Neurosurg. 113, 295–302 (2011).
+ 19. Cook, D. B., O’Connor, P . J., Lange, G. & Steffener, J. Functional neuroimaging correlates of mental fatigue induced by cognition 
+among chronic fatigue syndrome patients and controls. Neuroimage 36, 108–122 (2007).
+ 20. DeLuca, J., Johnson, S. K. & Natelson, B.

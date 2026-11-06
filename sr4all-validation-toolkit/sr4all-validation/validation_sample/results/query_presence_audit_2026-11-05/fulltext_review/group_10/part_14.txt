@@ -1,0 +1,202 @@
+(subcutaneous or intravenous)  
+and instruments used, as well as make recommendations for clinical and research appli-
+cations in this area for patients aged 16 years and older.
+methods: We searched Medline, EMBASE, and The Cochrane Library. Sifting of titles 
+was performed by two reviewers, and the assessment of full-text articles by three. From a 
+database which contained 3,770 unique results, 67 full texts were reviewed. Eventually, 17 
+studies were found to meet the inclusion criteria, and included in this review. Due to data 
+heterogeneity, a narrative, descriptive synthesis of the evidence was undertaken.
+Results: Most studies were carried out in the USA/North America, used a prospective 
+observational design and involved patients with common variable immune deficiency. 
+Four studies measured the burden of receiving IVIg therapy and 13 measured SCIg 
+therapy. A wide range of measures, primarily designed to measure aspects of treatment 
+satisfaction (e.g., life quality index or a slightly modified version) and HRQoL (e.g., The 
+Short Form-36) had been used.
+conclusion: Lack of a parallel control group in most studies meant that changes in out-
+comes could be due to factors other than changes in the treatment regimen. However, 
+overall, PID patients appeared to report little Ig treatment burden and were satisfied 
+with either modality. However, patient preference appeared to be the delivery of the 
+Ig treatment in the patient’s home and SCIg was preferred after switching from IVIg 
+
+[W2811165447 PDF PAGE 3]
+2
+Jones et al.
+PID and Ig Treatment Burden
+Frontiers in Immunology  |  www.frontiersin.org July 2018  |  Volume 9  |  Article 1308
+therapy. Individual differences appeared to affect treatment preference and therefore 
+understanding the decision support needs of PID patients facing IG treatment choices 
+would be valuable. Using a questionnaire specifically designed to measure the burden of 
+Ig treatment from the patient’s perspective is recommended in future research.
+Keywords: systematic review, primary immunodeficiencies, P i D, immunoglobulin treatment, burden of treatment, 
+health-related quality of life
+i N t RODU cti ON
+Primary immunodeficiencies (PIDs) are a group of heterogene-
+ous rare disorders whereby the immune system is missing or not 
+working properly. Consequently, for people living with a PID this 
+means that they have a reduced or absent natural defense against 
+viruses, bacteria, or fungi and will be susceptible to frequent infec-
+tions (
+1
+–
+3
+), which can have a profound negative impact upon their 
+health-related quality of life (HRQoL) (
+2
+).
+Immunoglobulin replacement therapy (Ig) is the only treat-
+ment for most PID patients. It involves undergoing a blood-based 
+infusion at regular intervals to raise the antibodies needed to 
+fight off infection. It can be administered either intravenously 
+or subcutaneously. Although it is generally accepted that Ig 
+treatment can dramatically improve HRQoL (
+2
+, 
+4
+), it may also 
+be associated with a substantial treatment burden. Burden of 
+treatment (BoT) is a concept which can be defined as the conse-
+quences of receiving treatment (these may be medication, thera-
+pies, or other interventions). It describes the “work of being a 
+patient”—everything the patient needs to do to treat and manage 
+their illness, for example, undergoing tests and investigations, 
+visiting doctors, adhering to treatment regimens, and making 
+lifestyle changes (
+5
+, 
+6
+).
+Intravenous Ig treatment (IVIg) is typically administered in 
+hospital and can be infused two, three, or four weekly lasting 
+approximately 2–4 h per visit. The precise length of infusion will 
+be dependent on dose and tolerance of the individual, although 
+the three-weekly interval is most common. Subcutaneous Ig 
+treatment (SCIg) is typically administered in the home but can 
+be administered in the hospital depending on patients’ individual 
+needs. Because it is harder for tissues to accept larger volumes of 
+the product quickly via the SC route, it often means that patients 
+will require more frequent infusions of smaller quantities, leading to 
+an increased number of injections and localized reactions to needle 
+injections (
+7
+, 
+8
+).
+Rationale
+While there are numerous studies which have tried to measure the 
+HRQoL of patients with a PID [e.g., Ref. (
+2
+, 
+3
+, 
+9
+, 
+10
+)], less attention 
+has focused upon the burden of Ig treatment. BoT is an important 
+concept because it may negatively affect adherence to treatment, 
+HRQoL, disease management, and health care outcomes such as 
+hospitalizations and survival (
+5
+). The outcomes of a 2015 system-
+atic review reported that SCIg was associated with better treatment 
+satisfaction compared to IVIg and therefore that switching trained 
+patients with antibody deficiency from IVIg to SCIg may be advan-
+tageous (
+11
+).
+OBJ ective  a ND R e S ea R c H QU e S ti ON
+The purpose of this systematic review was to (i) systematically 
+identify studies that measured the burden of Ig treatments 
+on the HRQoL of patients with primary immunodeficiencies,  
+(ii) appraise and synthesize this evidence in relation to the different 
+modes of Ig administration available and the instruments used 
+and, and (iii) to make recommendations for future clinical and 
+research applications in this area.
+m ethods
+Study Design
+Inclusion Criteria
+Included studies had to recruit adults (aged ≥ 16 years) receiving 
+immunoglobulin replacement therapy for a PID and report a 
+measure of the BoT from the patient’s perspective. Where both 
+children and adults were recruited, studies were only included if 
+data for adults could be extracted separately from data on chil-
+dren (or their parents and the samples were not mixed). Studies 
+using HRQoL or treatment satisfaction questionnaires or qualita-
+tive assessments of treatment burden were eligible. Studies with 
+comparative or non-comparative (e.g., before and after) designs 
+were eligible. Studies were excluded if they reported data from 
+the clinician or health service perspective only, were editorials, 
+letters, systematic reviews, conference abstracts, or if they were 
+published in languages other than English.
+Search Strategy: Data Sources
+On 18th August 2015, we conducted searches on Medline (includ-
+ing Medline in Process), EMBASE, and The Cochrane Library. This 
+was subsequently updated on 27th October 2017. Citations were 
+imported into EndNote and duplicates deleted prior to scrutiny. 
+The searching process aimed to identify studies which reported 
+data on the burden of immunoglobulin therapy, from the patient’s 
+perspective for primary immunodeficiencies.
+The search strategy was developed by an information specialist 
+(Mark Clowes) who undertook electronic searching to create a 
+database of citations using the EndNote reference management 
+system. The search process was recorded in detail with lists of 
+databases searched, date search run, limits applied, number of hits, 
+and duplication as per PRISMA guidelines (http://www.bmj.com/
+content/339/bmj.b2700).
+The initial search consisted of terms relating to Ig therapy for 
+PID. Due to the large number of different types of primary immu-
+nodeficiencies with over 250 being identified as of 2011 (
+12
+), it 
+was not practical to search for every single type so instead we used 
+
+[W2811165447 PDF PAGE 4]
+3
+Jones et al.
+PID and Ig Treatment Burden
+Frontiers in Immunology | www.frontiersin.org July 2018 | Volume 9 | Article 1308
+a combination of umbrella terms for the major categories and 
+specific terms for some of the most common types.
+Further searches were conducted to identify studies 
+mea suring:
+(i) the quality of life (QoL) of patients living with PID and
+(ii) the BoT for those undergoing IGT.
+QoL terms were based on a search filter devised by  
+http://nicedsu.org.uk/wp-content/uploads/2016/03/TSD9-
+HSUV-values_FINAL.pdf.
+BoT terms were based on previous studies: http://www.ncbi.
+nlm.nih.gov/pmc/articles/PMC3692487/bin/pmed.1001473.s007.
+doc and (6).
+The unduplicated searches found a total of 4,002 results. 
+After de-duplication of results from all the searches, the database 
+contained 3,770 unique results. Results were imported in discrete 
+sets with labels added to help identify which facet(s) of the topic 
+they included. This accelerated the sifting process by allowing each 
+set of results to be reviewed separately and in accordance with 
+appropriate criteria for the topic of the article. No date limits were 
+set on any of the searches. However, it was expected that most of 
+the evidence would be recent. We did not limit results to English 
+language studies but those in other languages were imported and 
+screened separately. The MEDLINE search strategy is reported in 
+Appendix A1 in Supplementary Material. Similar searches were 
+conducted of EMBASE (and EMBASE Classic) and The Cochrane 
+Library. Reference lists of relevant papers were also screened and 
+citation searches run.
+Study Selection and Data Extraction
+Initial sifting of the search results was performed by one reviewer 
+(Georgina L. Jones), and subsequently updated by Katharina 
+S. Vogt. Assessment of full-text articles against the inclusion 
+criteria was undertaken by three reviewers (Duncan Chambers, 
+Katharina S. Vogt, and Georgina L. Jones) and uncertainties 
+were resolved by discussion and consensus. Data on study and 
+patient characteristics, outcome measures, and study findings 
+were extracted from included studies by three reviewers (Duncan 
+Chambers, Katharina S. Vogt, and Georgina L. Jones). Data 
+extraction forms were developed in advance and tested on a 
+small sample of studies prior to the main data extraction process. 
+No formal assessment of quality (risk of bias) of the included 
+studies was conducted because of the wide range of included 
+study types, most of which have no generally accepted tools for 
+quality assessment.
+Data Synthesis
+As this was not an effectiveness review and due to the heterogeneity 

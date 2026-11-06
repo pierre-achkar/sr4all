@@ -1,0 +1,215 @@
+usion.
+Data extraction strategy
+Mean outcomes and measures of variation and uncertainty 
+(standard deviation, standard error, confidence intervals) 
+will be extracted from tables and graphs, using image anal-
+ysis software (WebPlotDigitizer) when necessary. Where 
+
+[W2626732669 PDF PAGE 5]
+Page 5 of 6
+Bernes et al. Environ Evid  (2017) 6:16 
+multi-year series of outcomes are available, we will extract 
+all data and use either cross-year means or, if there are suf-
+ficient studies, look for time trends in responses. Data on 
+interventions and other potential effect modifiers will also 
+be extracted from the included articles. All extracted data 
+will be double-checked by a second reviewer.
+It may in some cases be useful to ask authors of rele -
+vant articles to supply data in digital format. This will pri-
+marily be done for articles less than 10  years old where 
+useful data have been published in graphs from which 
+they are difficult to extract accurately enough, or when it 
+is known or assumed that considerable amounts of rele-
+vant but unpublished data may be available in addition to 
+the published results. If raw data are provided, summary 
+statistics will be calculated by us. Extracted data records 
+will be made available as an additional file.
+Potential effect modifiers and reasons for heterogeneity
+To the extent that data are available, the following poten-
+tial effect modifiers will be considered and recorded:
+Roadside data
+Type, timing and intensity/frequency of roadside man -
+agement
+Goals of the management (e.g. conservation/restora-
+tion of biodiversity)
+Roadside manager
+Width, aspect and slope of roadside
+Type and structure of roadside vegetation
+Soil type
+Nutrient status of the soil
+Shading, e.g. by trees
+Road data
+Road type (width, type of surface)
+Time elapsed since the road (or roadside) was con-
+structed
+Traffic (no. of vehicles per day)
+Road maintenance (e.g. salting, gritting, dust control, 
+snow clearance)
+Study setting
+Geographical coordinates
+Altitude
+Mean annual temperature and precipitation
+Vegetation, land use and history of land use in the sur-
+roundings of the road
+Study design
+Time interval between most recent roadside-manage -
+ment activity and data sampling
+Spatial setup of interventions and sampling
+Data on geographical coordinates, altitude and climate 
+will be searched for in external sources if not available in 
+the included articles. A final list of modifiers and causes 
+of heterogeneity to be recorded will be established as the 
+review proceeds.
+Data synthesis and presentation
+A narrative synthesis of data from all studies included 
+in the review will describe the quality of the results 
+along with the study findings. Tables will be produced 
+to summarise these results. The findings in our system-
+atic map also indicate that sufficiently many studies 
+report similar kinds of outcome such that meta-analy-
+sis will be possible in some cases. In these cases effect 
+sizes (mainly standardised mean differences) will be 
+calculated, weighted appropriately and analysed using 
+random-effects models. Meta-regressions or subgroup 
+analysis of categories of studies will be performed where 
+a sufficient number of studies report common sources 
+of heterogeneity. Analysis of sensitivity and publication 
+bias will be carried out where possible. Overall manage-
+ment effects will be presented visually in plots of mean 
+effect sizes and variance. Any major knowledge gaps 
+identified by the review will be highlighted and dis-
+cussed. Details of the quantitative analysis will only be 
+known when full texts have been assessed for their con-
+tents and validity.
+Authors’ contributions
+The manuscript was drafted by CB. All authors read and approved the final 
+manuscript.
+Author details
+1 Mistra Council for Evidence-Based Environmental Management, Stockholm 
+Environment Institute, Box 24218, 104 51 Stockholm, Sweden. 2 NERC Centre 
+for Ecology and Hydrology, Maclean Building, Benson Lane, Crowmarsh 
+Gifford, Wallingford, Oxfordshire OX10 8BB, UK. 3 Department of Physical 
+Geography, Stockholm University, 106 91 Stockholm, Sweden. 4 Ghent Univer-
+sity, Forest & Nature Lab, Geraardsbergsesteenweg 267, 9090 Melle-Gontrode, 
+Belgium. 
+Acknowledgements
+The authors wish to thank J-O Helldin, Tommy Lennartsson, Mats Lindqvist, 
+Anders Sjölund and Henrik Smith for valuable comments on the proposed 
+review.
+Competing interests
+The authors declare that they have no competing interests.
+Funding
+The review will be financed by the Mistra Council for Evidence-Based Environ-
+mental Management (EviEM).
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub-
+lished maps and institutional affiliations.
+Received: 11 July 2016   Accepted: 31 May 2017
+
+
+[W2626732669 PDF PAGE 6]
+Page 6 of 6Bernes et al. Environ Evid  (2017) 6:16 
+•  We accept pre-submission inquiries  
+•  Our selector tool helps you to ﬁnd the most relevant journal
+•  We provide round the clock customer support 
+•  Convenient online submission
+•  Thorough peer review
+•  Inclusion in PubMed and all major indexing services 
+•  Maximum visibility for your research
+Submit your manuscript at
+www.biomedcentral.com/submit
+Submit your next manuscript to BioMed Central 
+and we will help you at every step:
+References
+ 1. Auestad I, Rydgren K, Austad I. Road verges: potential refuges for declin-
+ing grassland species despite remnant vegetation dynamics. Annales 
+Botanici Fennici. 2011;48(4):289–303.
+ 2. Kleijn D, Baldi A. Effects of set-aside land on farmland biodiversity: com-
+ments on Van Buskirk and Willi. Conserv Biol. 2005;19:963–6.
+ 3. Lindborg R, Plue J, Andersson K, Cousins SAO. Function of small habitat 
+elements for enhancing plant diversity in different agricultural land-
+scapes. Biol Conserv. 2014;169:206–13.
+ 4. Auffret AG, Cousins SAO. Past and present management influences 
+the seed bank and seed rain in rural landscape mosaic. J Appl Ecol. 
+2011;48:1278–85.
+ 5. Tscharntke T, Tylianakis J, Rand T, Didham R, Fahrig L, Batáry P , et al. 
+Landscape moderation of biodiversity patterns and processes—eight 
+hypotheses. Biol Rev. 2012;87:661–85.
+ 6. Vandermeer J, Perfecto I. The agricultural matrix and a future paradigm 
+conservation. Conserv Biol. 2007;21:274–7.
+ 7. Egoh B, Bengtsson J, Lindborg R, Bullock J, Dixon A, Rouget M. The 
+importance of grasslands in providing ecosystem services: opportunities 
+for poverty alleviation. In: Potschin M, Haines-Young R, Fish R, Turner R, 
+editors. Routledge Handbook of Ecosystem Services. London: Routledge; 
+2015.
+ 8. Lemaire G, Hodgson J, Chabbi A. Grassland productivity and ecosystem 
+services. Wallingford: CABI; 2011.
+ 9. Habel J, Dengler J, Janišová M, Török P , Wellstein C, Wiezik M. European 
+grassland ecosystems: threatened hotspots of biodiversity. Biodivers 
+Conserv. 2013;22:2131–8.
+ 10. Wilson JB, Peet RK, Dengler J, Pärtel M. Plant species richness: the world 
+records. J Veg Sci. 2012;23:796–802.
+ 11. Eriksson O, Cousins SAO, Bruun H-H. Land-use history and fragmenta-
+tion of traditionally managed grasslands in Scandinavia. J Veg Sci. 
+2002;13:743–8.
+ 12. Lennartsson T, Gylje S. Infrastrukturens biotoper – en refug för biologisk 
+mångfald. Uppsala: Centrum för Biologisk Mångfald; 2009.
+ 13. Stenmark M. Infrastrukturens gräs- och buskmarker. Hur stora arealer gräs 
+och buskmarker finns i anslutning till transportinfrastruktur och bidrar 
+dessa till miljömålsarbetet?. Jönköping: Jordbruksverket; 2012.
+ 14. Jordbruksstatistisk sammanställning 2016. Jönköping: Swedish Board of 
+Agriculture; 2016. http://www.jordbruksverket.se/omjordbruksverket/
+statistik/jordbruksstatistisksammanstallning/jordbruksstatistisksammanst
+allning2016.4.4a82b0a7155953b608a84f0c.html. Accessed 25 May 2017.
+ 15. The good verge guide. Salisbury: Plantlife; 2016. http://www.plantlife.org.
+uk/uploads/documents/Road_verge_guide_17_6.pdf.
+ 16. Queiroz C, Beilin R, Folke C, Lindborg R. Farmland abandonment: 
+threat or opportunity for biodiversity conservation? Front Ecol Environ. 
+2014;12:288–96.
+ 17. Milberg P , Bergman K-O, Cronvall E, Eriksson Å, Glimskär A, Islamovic A, 
+et al. Flower abundance and vegetation height as predictors for nectar-
+feeding insect occurrence in Swedish semi-natural grasslands. Agric 
+Ecosyst Environ. 2016;230:47–54.
+ 18. Rydgren K, Nordbakken J-F, Austad I, Auestad I, Heegaard E. Recreat-
+ing semi-natural grasslands: a comparison of four methods. Ecol Eng. 
+2010;36:1672–9.
+ 19. Lindborg R, Bengtsson J, Berg Å, Cousins S, Eriksson O, Gustafsson T, et al. 
+A landscape perspective on conservation of semi-natural grasslands. Agri 
+Ecosyst Environ. 2008;125:213–22.
+ 20. Bernes C, Bullock J, Jakobsson S, Rundlöf M, Verheyen K, Lindborg R. 
+How are biodiversity and dispersal of species affected by the manage-
+ment of roadsides? A systematic map protocol. Environ Evid. 2016;5:4. 
+doi:10.1186/s13750-016-0055-x.
+ 21. Bernes C, Bullock JM, Jakobsson S, Rundlöf M, Verheyen K, Lindborg R. 
+How are biodiversity and dispersal of species affected by the manage-
+ment of roadsides? A systematic map. Environ Evid. 2017 (submitted).
+ 22. Grime JP . Plant strategies and vegetation processes. Chichester: Wiley; 
+1979.
+ 23. CEE. Guidelines for systematic reviews in environmental management. 
+Version 4.2. Bangor: Collaboration for Environmental Evidence; 2013.
+
+END REVIEW W2626732669
+
+
+REVIEW W2748573035
+TITLE: Effect of the Natural Product Triptolide on Pancreatic Cancer: A Systematic Review of Preclinical Studies
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W2748573035 PDF PAGE 1]
+ORIGINAL RESEARCH
+published: 25 August 2017
+doi: 10.3389/fphar.2017.00490
+Frontiers in Pharmacology | www.frontiersin.org 1 August 2017 | Volume 8 | Article 490
+Edited by:
+Thomas Efferth,
+Johannes Gutenberg-Universität
+Mainz, Germany
+Reviewed by:
+Somiranjan Ghosh,
+Howard University, United States
+Zhenzhou Jiang,
+Jiangsu Key Laboratory of Drug
+Screening and Jiangsu Center for
+Pharmacodynamics Research and
+Evaluation, Chi

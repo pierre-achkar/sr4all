@@ -1,0 +1,194 @@
+low NE, Hudson MM,
+Armstrong GT, et al. Individual prediction of heart failure among
+childhood cancer survivors. J Clin Oncol. 2015;33(5):394 –402.
+https://doi.org/10.1200/JCO.2014.56.1373.
+28. Armstrong GT, Oeffinger KC, Chen Y, Kawashima T, Yasui Y,
+Leisenring W, et al. Modifiable risk factors and major cardiac
+events among adult survivors of childhood cancer. J Clin Oncol.
+2013;31(29):3673–80. https://doi.org/10.1200/JCO.2013.49.3205.
+29. Chen Y, Chow EJ, Oeffinger KC, Border WL, Leisenring WM,
+Meacham LR, et al. Traditional cardiovascular risk factors and in-
+dividual prediction of cardiovascular events in childhood cancer
+survivors. J Natl Cancer Inst. 2020;112(3):256 –65. https://doi.org/
+10.1093/jnci/djz108.
+30. Moon TJ, Miyamoto SD, Younoszai AK, Landeck BF. Left ven-
+tricular strain and strain rates are decreased in children with normal
+fractional shortening after exposure to anthracycline chemotherapy.
+Cardiol Young. 2014;24(5):854 –65. https://doi.org/10.1017/
+S1047951113001182.
+31. Stokke TM, Hasselberg NE, Smedsrud MK, Sarvari SI, Haugaa
+KH, Smiseth OA, et al. Geometry as a confounder when assessing
+ventricular systolic function: comparison between ejection fraction
+and strain. J Am Coll Cardiol. 2017;70(8):942 –54. https://doi.org/
+10.1016/j.jacc.2017.06.046.
+32. Tuzovic M, Wu PT, Kianmahd S, Nguyen KL. Natural history of
+myocardial deformation in children, adolescents, and young adults
+exposed to anthracyclines: systematic review and meta-analysis.
+Echocardiography. 2018;35(7):922 –34. https://doi.org/10.1111/
+echo.13871.
+33. Border WL, Sachdeva R, Stratton KL, Armenian SH, Bhat A, Cox
+DE, et al. Longitudinal changes in echocardiographic parameters of
+cardiac function in pediatric cancer survivors. JACC: CardioOncol.
+2020;2(1):26–37. https://doi.org/10.1016/j.jaccao.2020.02.016.
+34. Leerink JM, van der Pal HJH, Kremer LCM, Feijen EAM,
+Meregalli PG, Pourier MS, et al. Refining the 10-year prediction
+of left ventricular systolic dysfunction in long-term survivors of
+childhood cancer. JACC: Cardio Oncol. 2021;3(1):62 –72. https://
+doi.org/10.1016/j.jaccao.2020.11.013.
+35. Thavendiranathan P, Negishi T, Somerset E, Negishi K, Penicka M,
+Lemieux J, et al. Strain-guided management of potentially
+cardiotoxic cancer therapy. J Am Coll Cardiol. 2020;77:392 –401.
+https://doi.org/10.1016/j.jacc.2020.11.020.
+36. Tierney ESS, Hollenbeck-Pringle D, Lee CK, Altmann K, Dunbar-
+Masterson C, Golding F, et al. Reproducibility of left ventricular
+dimension versus area versus volume measurements in pediatric
+patients with dilated cardiomyopathy. Circ Cardiovasc Imaging.
+2017;10(11):e006007. https://doi.org/10.1161/CIRCIMAGING.
+116.006007.
+37. Thavendiranathan P, Grant AD, Negishi T, Plana JC, Popovic ZB,
+Marwick TH. Reproducibility of echocardiographic techniques for
+sequential assessment of left ventricular ejection fraction and vol-
+umes: application to patients undergoing cancer chemotherapy. J
+Am Coll Cardiol. 2013;61(1):77–84. https://doi.org/10.1016/j.jacc.
+2012.09.035.
+38. Armstrong GT, Plana JC, Zhang N, Srivastava D, Green DM, Ness
+KK, et al. Screening adult survivors of childhood cancer for cardio-
+myopathy: comparison of echocardiography and cardiac magnetic
+resonance imaging. J Clin Oncol. 2012;30(23):2876 –84. https://
+doi.org/10.1200/jco.2011.40.3584.
+39. Thavendiranathan P, Negishi T, Cote MA, Penicka M, Massey R,
+Cho GY, et al. Single versus standard multiview assessment of
+global longitudinal strain for the diagnosis of cardiotoxicity during
+cancer therapy. JACC Cardiovasc Imaging. 2018;11(8):1109 –18.
+https://doi.org/10.1016/j.jcmg.2018.03.003.
+40. Voigt JU, Pedrizzetti G, Lysyansky P, Marwick TH, Houle H,
+Baumann R, et al. Definitions for a common standard for 2D speck-
+le tracking echocardiography: consensus document of the EACVI/
+ASE/Industry Task Force to standardize deformation imaging. Eur
+Heart J Cardiovasc Imaging. 2015;16(1):1 –11. https://doi.org/10.
+1093/ehjci/jeu184.
+41. Liu JE, Barac A, Thavendiranathan P, Scherrer-Crosbie M. Strain
+imaging in cardio-oncology. JACC: CardioOncol. 2020;2(5):677 –
+89. https://doi.org/10.1016/j.jaccao.2020.10.011.
+Publisher’sn o t e Springer Nature remains neutral with regard to jurisdic-
+tional claims in published maps and institutional affiliations.
+352 J Cancer Surviv  (2022) 16:338–352
+1 3
+
+END REVIEW W3137098375
+
+
+REVIEW W3148386947
+TITLE: Advanced Life Support vs. Basic Life Support for Patients With Trauma in Prehospital Settings: A Systematic Review and Meta-Analysis
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W3148386947 PDF PAGE 1]
+SYSTEMATIC REVIEW
+published: 26 March 2021
+doi: 10.3389/fmed.2021.660367
+Frontiers in Medicine | www.frontiersin.org 1 March 2021 | Volume 8 | Article 660367
+Edited by:
+Koichiro Shinozaki,
+Feinstein Institute for Medical
+Research, United States
+Reviewed by:
+Noriyuki Hattori,
+Chiba University, Japan
+Kazuyuki Miyamoto,
+Showa University, Japan
+*Correspondence:
+Yutaka Kondo
+kondokondou2000@yahoo.co.jp
+Specialty section:
+This article was submitted to
+Intensive Care Medicine and
+Anesthesiology,
+a section of the journal
+Frontiers in Medicine
+Received: 29 January 2021
+Accepted: 01 March 2021
+Published: 26 March 2021
+Citation:
+Kondo Y, Fukuda T, Uchimido R,
+Kashiura M, Kato S, Sekiguchi H,
+Zamami Y, Hifumi T and Hayashida K
+(2021) Advanced Life Support vs.
+Basic Life Support for Patients With
+Trauma in Prehospital Settings:
+A Systematic Review and
+Meta-Analysis. Front. Med. 8:660367.
+doi: 10.3389/fmed.2021.660367
+Advanced Life Support vs. Basic Life
+Support for Patients With Trauma in
+Prehospital Settings: A Systematic
+Review and Meta-Analysis
+Yutaka Kondo1*, Tatsuma Fukuda2, Ryo Uchimido3, Masahiro Kashiura4, Soichiro Kato5,
+Hiroshi Sekiguchi2, Yoshito Zamami6, Toru Hifumi7 and Kei Hayashida8
+1 Department of Emergency and Critical Care Medicine, Junten do University Urayasu Hospital, Chiba, Japan, 2 Department of
+Emergency and Critical Care Medicine, University of the Ryu kyus, Okinawa, Japan, 3 Department of Intensive Care Medicine,
+Tokyo Medical and Dental University, Tokyo, Japan, 4 Department of Emergency and Critical Care Medicine, Jichi M edical
+University Saitama Medical Center, Saitama, Japan, 5 Department of Trauma and Critical Care Medicine, Kyorin Uni versity
+School of Medicine, Tokyo, Japan, 6 Department of Clinical Pharmacology and Therapeutics, Inst itute of Biomedical
+Sciences, Tokushima University Graduate School, Tokushim a, Japan, 7 Department of Emergency and Critical Care Medicine,
+St. Lukes International Hospital, Tokyo, Japan, 8 Department of Emergency Medicine, Feinstein Institutes for Medical
+Research, Northwell Health, New York, NY, United States
+Background:Advanced Life Support (ALS) is regarded to be associated wit h improved
+survival in pre-hospital trauma care when compared to Basic Life Support (BLS)
+irrespective of lack of evidence. The aim of this study is to a scertain ALS improves survival
+for trauma in prehospital settings when compared to BLS.
+Methods:We searched PubMed, EMBASE, and the Cochrane Central Regist er of
+Controlled Trials for published controlled trials (CTs), a nd observational studies that were
+published until Aug 2017. The population of interest were ad ults ( >18 years old) trauma
+patients who were transported by ground transportation and required resuscitation in
+prehospital settings. We compared outcomes between the ALS and BLS groups. The
+primary outcome was in-hospital mortality and secondary ou tcomes were neurological
+outcome and time spent on scene.
+Results:We identiﬁed 2,502 studies from various databases and 10 stu dies were
+included in the analysis (two CTs, and eight observational s tudies). The outcomes were
+not statistically signiﬁcant between the ALS and BLS groups (pooled OR 1.14; 95% CI
+0.95 to 1.36 for mortality, pooled OR 1.12; 95% CI 0.88 to 1.42 for good neurological
+outcomes, pooled mean difference −0.96; 95% CI −6.64 to 4.72 for on-scene time)
+in CTs. In observational studies, ALS prolonged on-scene ti me and increased mortality
+(pooled OR 1.56; 95% CI: 1.31 to 1.86 for mortality, and poole d mean difference, 1.26;
+95% CI: 0.07 to 2.45 for on-scene time).
+Conclusions:In prehospital settings, the present study showed no advant ages of ALS
+on the outcomes in patients with trauma compared to BLS.
+Keywords: ﬁrst aid, emergency medical services, resuscitation, mortality, injury
+
+[W3148386947 PDF PAGE 2]
+Kondo et al. ALS vs. BLS for Trauma
+INTRODUCTION
+Advanced Life Support (ALS) is widely accepted as the standard
+of prehospital care in patients with cardiac arrest caused
+by internal diseases (
+1–3). ALS procedure includes invasive
+interventions, such as endotracheal intubation for airway
+management, and intravenous catheters for drug and ﬂuid
+delivery. ALS is also used to resuscitate trauma patients in
+prehospital settings.
+On the contrary, an observational study using two large
+registry data sets reported that prehospital ALS procedures in
+patients with trauma were not associated with increased survival
+rate (
+4). Furthermore, other studies reported that prehospital
+ALS increased the spending time on the scene and thus delayed
+deﬁnitive in-hospital care (
+5, 6). Rapid transportation to the
+hospital is required as in-hospital surgery is typically neede d to
+improve the prognosis of trauma patients.
+Some researchers argue that basic life support (BLS) is
+more beneﬁcial for trauma because of rapid transportation ( 5).
+Prehospital BLS consists of non-invasive interventions tha t are
+easy to perform, require little added on-scene time, and can o ften
+be performed en routeto a medical facility by minimally trained
+emergency medical staﬀ. Thus, the beneﬁts of prehospital ALS on
+trauma have not been clearly established yet (
+7–9).
+The aim of the present study is to clarify if ALS improves
+survival in patients with trauma in prehospital settings
+when compared to BLS by conducting a systematic review
+and meta-analysis.
+METHODS AND ANALYSIS
+Ethics and Approval
+This syst

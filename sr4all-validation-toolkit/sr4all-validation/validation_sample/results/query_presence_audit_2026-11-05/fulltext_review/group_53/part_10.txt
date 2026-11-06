@@ -1,0 +1,132 @@
+tients with poor prognoses had a PPL sent, 
+with a median survival of 31.5 days following discharge.(44)
+What are the facilitators of, and barriers to, this communication? 
+Facilitators
+Findings from four high-quality studies suggest that communication of poor prognosis 
+worked well when there was direct clinician-to-clinician contact, either over the phone, or in 
+person.(25,26,34,40) There is high quality evidence that sharing of this information was 
+more likely to occur when the patient was clinically complex or very sick, if the clinician had a 
+particular concern about them, or if a palliative care review had taken place within the days 
+leading up to discharge.(31,38) Clinicians in a high quality UK study reported improved 
+information sharing when shared registers and electronic records were in use.(30) A high 
+quality American study suggested that some providers of primary care proactively called 
+their secondary care colleagues for prognostic information.(40)
+Barriers
+There is medium-high quality evidence that uncertainty in identifying patients with poor 
+prognosis was a barrier to sharing information, especially for junior doctors.(26,28) Nurses in 
+a high quality Netherlands-based study sometimes had to persuade physicians to provide a 
+statement on life expectancy for insurance coverage, but some felt it should not  be included 
+in a written handover.(26) High quality evidence suggests that disagreements within clinical 
+teams about prognosis (26,44) and a reluctance to encroach on GPs’ professional autonomy 
+were also barriers.(30,36) Not receiving any information at all, or receiving it too late, was 
+often cited as a significant impediment to care provision by primary care teams in two high 
+quality studies.(24,25) High quality evidence also suggests that a lack of standardised 
+communication pathways and an inability to share electronic records across institutions 
+contributed to delayed or no information sharing.(38,39)
+
+
+[W4399086352 PDF PAGE 14]
+How acceptable and useful is this communication to patients, family/carers and clinicians?
+High quality studies report that prognostic information shared by hospital clinicians was 
+useful to GPs in determining the palliative phase for their patients,(20,32) initiating ACP 
+conversations,(37) and knowing how to present treatment options and guide patients though 
+decision-making.(40) In three studies, ranging from low to high quality, GPs reported that 
+prognosis was poorly communicated from secondary care.(7,17,42) Suggested 
+improvements from a high quality study included less detail about treatment specifics and 
+more about patient coping and management plans.(25) The views of patients and those 
+close to them were not represented in any of the included studies.
+What is the impact of this communication on patient care?
+According to a high quality study, primary care providers value information about prognosis, 
+and a lack of communication can result in discontinuous and lower quality patient care.(39) A 
+complex intervention of medium quality, designed to improve interprofessional collaboration, 
+led to better perceptions of collaboration by both patients and family physicians, as well as 
+decreased hospital admissions and Emergency Department attendances.(18) Watanabe et 
+al.(45) reported in a conference abstract (low quality evidence) the outcomes of a 
+standardised shared care letter for patients with colorectal cancer, concluding that the letter 
+increased communication and care coordination, although the full study results were not 
+published. Another conference abstract, of medium quality, reported the findings of a local 
+audit of poor prognosis letters (PPLs) sent to GPs by surgical teams.(28) Of 16 PPLs sent, 
+nine patients were added to a GP palliative care register or equivalent and four were directly 
+admitted to a nursing home or hospice. No results were given for the outcomes of patients 
+who did not have a PPL sent. 
+Discussion
+Summary
+Primary care clinicians highly value receiving prognostic information from their secondary 
+care colleagues and use this to enhance the care they provide for patients. This sharing of 
+information is an example of informational continuity (46) and allows primary care clinicians 
+to identify patients with palliative care needs. However, the communication of poor prognosis 
+
+
+[W4399086352 PDF PAGE 15]
+from secondary care to primary care is limited, with a number of barriers including cultural 
+issues around the identification of patients with a limited life expectancy and systemic factors 
+related to information-sharing.
+Strengths and limitations
+To our knowledge, this is the first systematic review to explore the sharing of poor prognosis 
+from secondary care to primary care. Our search strategies were comprehensive, and the 
+inclusion of both qualitative and quantitative studies provides rich insights into the views on, 
+and experiences of, both primary and secondary care clinicians regarding information-
+sharing practices and requirements. A transparent and replicable process was achieved 
+through the use of explicitly defined criteria for study selection, systematic methods for data 
+extraction and synthesis, and prospective protocol registration. 
+Only study reports written in English and published since 2000 were included, so our 
+findings may not apply in all country settings and are relevant to more recent practice. 
+However, there is evidence that systematic reviews based on a search of English language 
+literature tend to produce similar results to those obtained from reviews without language 
+restrictions.(47) Due to pragmatic reasons, full text screening was only carried out by the first 
+author. This was also justified by the lack of conflict between two independent authors at the 
+title and abstract screening stage. Although we acknowledge that conference abstracts have 
+not been subject to the same level of peer review as published studies, according to Scherer 
+and Saldanha,(48) only 37% of studies presented at conferences are published in full and, 
+therefore, “restricting a systematic review search to only the published literature would 
+amount to the loss of an immense amount of information.” This is an area of emerging 
+research, so the inclusion of conference abstracts was also important to capture current and 
+recent work, along with clinical or quality improvement innovations.
+The depth of narrative synthesis was limited by the focus of the studies identified and the 
+nature of available evidence, which addressed diverse aspects of information-sharing. The 
+views of patients and those close to them were not represented in any of the included 
+studies. 
+Comparison with existing literature
+Although the focus of this review is the communication of information from secondary care to 
+primary care, it is clear that improved communication between primary and secondary care, 
+in both directions, is required for well-coordinated care. This is reflected in the National 
+Palliative and End of Life Care Partnership for England’s six ambitions for palliative and end-
+of-life care, which highlights the importance of continuity of care, requiring “individuals and 
+organisations to think and work in a joined up way so that each is aware and acts in full 
+
+
+[W4399086352 PDF PAGE 16]
+knowledge of the other.”(49) Our review echoes the national framework report in highlighting 
+shared records as a potential way to address continuity, allowing bidirectional information 
+sharing between primary and secondary care (along with other care providers). In England, 
+Electronic Palliative Care Coordination Systems (EPaCCS) have been developed to facilitate 
+this cross-organisation information sharing but have yet to reach their potential due to 
+difficulties with digital interoperability and poor engagement.(50) 
+Several of the factors identified to affect the communication of poor prognosis at hospital 
+discharge, such as insufficient or delayed transfer of information, have been previously 
+identified in a systematic review of information transfer at hospital discharge in more general 
+terms, suggesting that these barriers are not limited to the sharing of prognostic 
+information.(51) 
+Identification of patients who have a limited life expectancy can be challenging. Our review 
+suggests that a lack of appropriate identification and uncertainties about prognosis are 
+barriers to effective communication about patients with a poor prognosis. The Gold 
+Standards Framework proactive identification guidance (52) has been proposed as an 
+effective screening tool for use in secondary care settings,(53) although research suggests 
+that healthcare professionals struggle to convey the results of this screening to patients and 
+their loved ones.(54) Etkind and Koffman (55) postulate that prognostic uncertainty can be a 
+source of patient distress, leading to over-investigation and increased healthcare resource 
+use.
+Implications for research and practice
+The communication of poor prognosis from secondary to primary care is highly valued, but 
+rarely occurs. One of the main barriers is the identification of patients with a poor prognosis 
+or who have palliative care needs. Hospital teams should be encouraged and supported to 
+identify these patients. A review by the palliative care team during an admission should 
+always be communicated in the discharge summary. Ideally this should be a brief summary 
+of the discussions had with the patient, their family and persons close to them, which may 
+include prognosis, the results of advance care planning conversations, along with advice on 
+symptom control, if appropriate.
+Clinicians working in secondary care should be reassured that their primary care colleagues 
+welcome information regarding prognosis and use this information to plan and coordinate 
+care more effectively. 
+Further research is required to understand the information needs of primary care clinicians in 
+this

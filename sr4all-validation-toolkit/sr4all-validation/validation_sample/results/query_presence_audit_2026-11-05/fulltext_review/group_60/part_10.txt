@@ -1,0 +1,182 @@
+reduced 
+its oxidative potential. In another study, exposure to DEP 
+increased IL-8 release and ROS generation in Calu-3 
+cells [70], which is consistent with findings of other 
+toxicological studies on lung epithelial cells [141– 143]. 
+At the same time, the oxidative aggression induced by 
+air pollution described above can finally deplete cellular 
+antioxidants faster than they are produced, further 
+contributing to a redox imbalance [144]. However, 
+several studies included in this review report significant 
+upregulations of antioxidant enzymes such as HMOX1, 
+SOD1 or SOD2 following exposure of airway epithelial 
+cells to gases [59, 61, 68], particulate matter [71, 73, 75, 
+83, 84] and a combination of both [96]. Such increase 
+of antioxidant gene expression might be explained by a 
+temporary adaptive response to the oxidative aggression 
+from air pollutants, as has been previously reported in 
+several in vitro and in vivo studies [145– 147]. However, 
+it would be expected that these antioxidant levels decay as 
+the oxidative aggression persists.
+Ghio et  al.  argue that differentiation of bronchial 
+epithelial cells at the ALI is associated with a diminished 
+biological response from exposure to urban particulate 
+matter (UPM), as there is a significant decrease in the 
+gene expression of HMOX1 and IL-8 [80]. However, 
+the authors did not assess the variation of any marker of 
+oxidative damage, and intracellular ROS levels were not 
+Fig. 5  Schematic representation of several molecular pathways 
+involved in the biologic responses induced by air pollution in human 
+airway epithelial cells. AhR = aryl hydrocarbon receptor; ROS = reac-
+tive oxygen species; Keap1 = kelch-like ECH-associated protein 
+1; Nrf2 = nuclear factor erythroid 2–related factor 2; SOD = super-
+oxide dismutase; CAT = catalase; GPx = glutathione peroxidase; 
+TLRs = toll-like receptors; MAPKs = mitogen-activated protein 
+kinases; ERKs = extracellular signal-regulated kinases; JNKs = c-Jun 
+N-terminal kinases; p38s = p38 mitogen-activated protein kinases; 
+AP-1 = activator protein 1; IKK = inhibitor of nuclear factor-κB (IκB) 
+kinase; NF-κB = nuclear factor kappa B; MDA = malondialdehyde; 
+8-OHdG = 8-hydroxy-2'-deoxyguanosine; H2AX = H2A histone fam-
+ily member X
+
+[W4412727192 PDF PAGE 30]
+ Current Environmental Health Reports           (2025) 12:26 
+   26  Page 30 of 40
+analysed either. These assessments would be useful to draw 
+proper conclusions about the impact of differentiation on 
+the potential oxidative stress state of the cell.
+In the case of gaseous pollutants, a higher induction 
+of antioxidant response was reported in this review after 
+exposure to  NO2 compared to  O3, based on the higher 
+upregulation of HMOX1 in primary HBE cells a mechanism 
+of compensation to the oxidative aggression [61]. It has 
+been reported that  NO2 deposits mainly in the terminal 
+bronchioles, whereas  O3 deposits in the proximal airways 
+[148, 149]. However, both gases interact with components 
+from the epithelial lining fluid (ELF) barrier [150– 152]. 
+This might be a potential mechanism for toxicity as well, 
+but such interactions are almost impossible to reproduce 
+in vitro.
+Other common air pollutants like polycyclic aromatic 
+hydrocarbons (PAHs) are able to activate the AhR, leading 
+to increased expression of cytochrome P450 enzymes 
+like CYP1A1 that can generate excessive ROS during 
+metabolism [153, 154]. This upregulation of CYP1A1 
+induced by air pollution was reported in two studies included 
+in this review after exposure to biodiesel exhaust [95] and 
+jet-fuel particulate matter [89].
+The Interplay Between NF‑κB and Nrf2 
+and the Three‑tiered Oxidative Stress Response 
+to Air Pollution Exposure
+Nuclear factor-κB (NF-κB) are a family of inducible tran-
+scription factors that regulate a large array of genes involved 
+in different processes of the immune and inflammatory 
+responses [155]. The ROS-mediated activation of the canon-
+ical NF-κB signalling pathway [156] has been described as 
+a critical step in the inflammatory response to particulate 
+matter [157, 158].
+This transcription factor can be triggered by the activa-
+tion of the IKK complex [159] or the MAPKs cascade [160], 
+both induced by ROS overproduction (Fig. 6). Additionally, 
+intracellular accumulation of ROS induces the transloca-
+tion of NF-κB and other transcription factors, leading to an 
+increased production of pro-inflammatory mediators and 
+a final response of pulmonary and systemic inflammation 
+[161]. Evidence from one study included in this review sup-
+ports these observations, as Ji et al.  identified significantly 
+increased expression of NF-κB after exposure of primary 
+bronchial epithelial cells to DEP, which induced inflam-
+matory effects by the upregulation of IL-8 and TNFα [73]. 
+Fig. 6  Cellular damage induced by generation of reactive oxygen species and antioxidant defense system. Adapted from Rahman et al. 2006 
+[136]
+
+[W4412727192 PDF PAGE 31]
+Current Environmental Health Reports           (2025) 12:26  
+ Page 31 of 40    26 
+On the other hand, Fig.  5 illustrates the activation of the 
+nuclear factor erythroid 2-related factor 2 (Nrf2) through 
+ROS-mediated modification of kelch-like ECH-associated 
+protein 1 (Keap1). It is important to highlight that there is a 
+complex interplay between NF-κB and Nrf2 through multi-
+ple molecular interactions, and any imbalance between these 
+pathways is associated with a significant number of diseases 
+[162]. These transcription factors have opposing effects on 
+cellular processes, since NF-κB promotes inflammation and 
+oxidative stress and Nrf2 activates antioxidant and cytopro-
+tective genes [163]. Moreover, both NF-κB and Nrf2 are 
+regulated by redox sensitive factors, and the absence of 
+Nrf2 is associated with oxidative stress leading to increased 
+cytokine production, since NF-κB is more readily activated 
+in oxidative environments [164].
+These complex molecular mechanisms mentioned above 
+were discussed in two studies included in this review through 
+the concept of the three-tiered hierarchical oxidative stress 
+response to diesel exhaust particle exposure. Initially, Nrf2 
+translocation and antioxidant gene expression increase, as 
+a defence mechanism to oxidative aggression from ROS 
+production induced by DEP. As the production of ROS 
+increases, an oxidative stress state is induced because oxi -
+dative aggression overcomes antioxidant defences, causing 
+damage to macromolecules and pro-inflammatory effects. 
+Finally, a cytotoxic response is often reflected by an increase 
+in extracellular LDH release, likely due to membrane leak -
+age or necrosis, and upregulation of pro-apoptotic genes 
+(FAS and CASP7) [71, 74].
+Oxidative Damage to Macromolecules Induced 
+by Reactive Oxygen Species (ROS) in Airway 
+Epithelial Cells
+As part of this oxidative aggression to macromolecules 
+through the three-tiered oxidative stress concept, increased 
+levels of ROS and oxidant pollutants can interact with poly-
+unsaturated fatty acids (PUFAs) in cell membranes leading 
+to lipid peroxidation. These interactions create lipid radicals 
+and hydroperoxides, which decompose to form reactive alde-
+hydes such as malondialdehyde (MDA) [165]. Subsequently, 
+oxidized lipids can activate inflammatory pathways contrib-
+uting to local and systemic inflammation [166, 167]. Offer 
+et al. reported significant concentration-dependent increases 
+of both MDA and IL-8 release in A549 and Ea.hy926 cells 
+after exposure to secondary organic aerosols (SOA) from 
+soot particles [92]. Moreover, after the exposure to SOA 
+from soot particles and naphthalene, the authors observed a 
+greater release of IL-8 and higher percentage of DNA breaks 
+compared with exposure to SOA from soot particles and 
+β-pinene. Even though no direct association was reported, it 
+is reasonable to think that such increase in cytokine release 
+could have been induced by all the ROS-dependent pathways 
+described in Fig.  5 as well as from lipid peroxidation and 
+overproduction of MDA.
+Another outcome derived from the oxidative damage of 
+air pollutants are the genotoxic effects, such as mutagen-
+esis [168] and the formation of double strand breaks (DSB) 
+[169]. Koehler et al. observed DNA fragmentation after  NO2 
+exposure, possibly induced by the generation of reactive 
+nitrogen species [ 52–54]. In these studies, exposure dura -
+tion seems to have a strong influence on genotoxicity, though 
+similar time-dependent effects were observed during pro-
+longed exposure to synthetic air. This suggests that results 
+on genotoxicity may be biased by cell dehydration effects.
+Oxidative stress might also contribute to DSB indirectly 
+through histone modifications that potentially increase 
+the susceptibility of DNA to alterations in the chromatin 
+structure [170]. However, some histone modifications like 
+H2AX phosphorylation are considered sensitive biomark -
+ers for genotoxicity, since they are part of the DNA damage 
+response and help recruit repair factors to DSBs [169, 171, 
+172]. Some disparities about the effects of gasoline exhaust 
+on H2AX phosphorylation have been reported in this review, 
+which significantly increased after five days in one study 
+[99] and decreased in another study at longer exposure peri-
+ods [100]. This highlights the crucial role of the cell model 
+and culture conditions used in toxicological tests for a better 
+interpretation of the genotoxic effects.
+The Role of Alveolar Macrophages and Neutrophils 
+in Airway Hyperreactivity and Inflammation
+The mechanism inducing ROS production through the acti-
+vation of alveolar macrophages (AMs) and their ability to 
+phagocytose particulate matter in vivo and in vitro has been 
+reported in several studies [173, 174]. These macrophages 
+are activated, produce proinflammatory cytokines, and 
+undergo apoptosis after being in contact with particulate 
+matter [175]. Two studies included in this review reported 
+statistically s

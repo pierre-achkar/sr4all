@@ -1,0 +1,160 @@
+
+
+REVIEW W4392777015
+TITLE: A Systematic Review and Meta-Analysis: Research Using the Autism Polygenic Score
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4392777015 PDF PAGE 1]
+1 
+ 
+A Systematic Review and Meta-Analysis: Research Using the Autism Polygenic Score  
+ 
+M.M. de Wit, M.J. Morgan, I. Libedinsky, C. Austerberry, S. Begeer, A. Abdellaoui, A. 
+Ronald* and T.J.C. Polderman* 
+*Joint senior authors 
+ 
+Affiliations: 
+Melanie M. de Wit: Department of Clinical, Neuro and Developmental Psychology, Vrije 
+Universiteit Amsterdam, Amsterdam Public Health Research Institute, Amsterdam, the 
+Netherlands. 
+Morgan J. Morgan:  Department of Psychology, Faculty of Health and Medical Sciences, 
+University of Surrey, Guildford, United Kingdom 
+Ilan Libedinsky: Department of Complex Trait Genetics, Center for Neurogenomics and 
+Cognitive Research, Amsterdam Neuroscience, Vrije Universiteit Amsterdam, Amsterdam, 
+the Netherlands. 
+Chloe Austerberry: Centre for Family Research, Department of Psychology, University of 
+Cambridge, Cambridge, United Kingdom 
+Sander Begeer: Department of Clinical, Neuro and Developmental Psychology, Vrije 
+Universiteit Amsterdam and Amsterdam Public Health Research Institute, Amsterdam, the 
+Netherlands. 
+Abdel Abdellaoui: Department of Psychiatry, Amsterdam UMC,  University of Amsterdam, 
+Amsterdam, The Netherlands 
+Angelica Ronald: Department of Psychology, Faculty of Health and Medical Sciences, 
+University of Surrey, Guildford, United Kingdom 
+Tinca J.C. Polderman: Department of Clinical, Neuro and Developmental Psychology, Vrije 
+Universiteit Amsterdam, Amsterdam, the Netherlands. Department of Child and Adolescent 
+Psychiatry and Psychosocial Care, Amsterdam UMC, Vrije Universiteit Amsterdam, 
+Amsterdam, The Netherlands, Amsterdam Public Health Research Institute, Amsterdam, the 
+Netherlands. 
+Acknowledgements 
+We thank our EGAL (Environmental and Genetic Influences on Autism across the Lifespan) 
+panel for their valuable input. 
+ 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+NOTE: This preprint reports new research that has not been certified by peer review and should not be used to guide clinical practice.
+
+[W4392777015 PDF PAGE 2]
+2 
+ 
+Financial support 
+This work was supported by ZonMw (TP, SB and MdW: grant number 60-63600-98-834) 
+ 
+Disclosures 
+Authors declare they have nothing to disclose. 
+ 
+ 
+Abstract 
+Objective: Genetic factors play a substantial role in the etiology of autism and its co-
+occurrence with other conditions and traits. The autism polygenic score, derived from the 
+latest autism case-control meta-genome-wide association studies, captures some of the 
+accumulated influence of common genetic variants on autism. We reviewed and meta-
+analyzed published studies that assessed the relationship between this autism polygenic score 
+and autism diagnosis, and autistic, behavioral and neurobiological traits. Method: 
+Systematically searching public databases, we identified 72 studies and > 750 outcome 
+measures. Included studies received a quality assessment. Results: The majority of included 
+studies were rated as good quality. The autism polygenic score was most strongly associated 
+with autism diagnosis (meta-analytic r = .162, 95% CI .066 – .258). The autism polygenic 
+score was also significantly associated with autistic traits but to a lesser degree than for autism 
+(meta-analytic r = .042 (95% CI .004 – .081). Associations with other outcomes were 
+inconsistent and meta-analytic effect sizes were generally small (median r = .03). 
+Conclusion: We conclude that the current autism polygenic score is consistently associated 
+with autism diagnostic status and autistic traits, but overlap between autism and other traits 
+and conditions is not, from publications to date, explained significantly by the autism 
+polygenic score. When compared to other mental conditions, autism is phenotypically and 
+etiologically heterogeneous, which might drive the relatively modest associations observed 
+with the autism polygenic score to date.  
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 3]
+3 
+ 
+Introduction 
+Autism Spectrum Disorder (ASD; from here on autism as per Bottema-Beutel1) is a complex 
+neurodevelopmental condition that is characterized by atypical social interaction and 
+communication, repetitive behavior and focused interests, and sensory sensitivities. The 
+prevalence of autism is estimated at 1-2% of the population worldwide2. Genetic factors 
+substantially contribute to autism’s etiology. For example, a meta-analysis of twin and family 
+studies indicated that autism is approximately 64 – 91% heritable3. 
+ Autism shows considerable co-occurrence with developmental, psychiatric and 
+somatic conditions and a range of other traits. The incidence of other psychiatric diagnoses in 
+autistic individuals is estimated around 70%4. Autistic individuals1 also have increased 
+liability for a range of physical conditions7. Shared genetic influences between autism, autistic 
+traits and neurodevelopmental, psychiatric and physical conditions may explain part of this 
+phenotypic co-occurrence8,9. 
+ Genome-wide association studies (GWASs) assess the relationship between a large 
+number of common genetic variants spread across the human genome and phenotypic 
+outcomes of interest. The latest autism meta-GWAS by Grove et al. (2019)10 identified 5 
+independent common genetic loci that were significantly associated with autism and revealed 
+a single nucleotide polymorphism (SNP)-based heritability, which reflects the proportion of 
+phenotypic variance that is explained by additive effects of genomic variants included in the 
+GWAS, of 11.8%. However, many common genetic loci beyond those that are genome-wide 
+significant are involved in autism’s etiology10.  
+ Polygenic scores use the summary statistics from GWAS to capture part of the 
+combined influence of common genetic influences on an outcome. They reflect the effect of 
+ 
+1 *We use a combination of identity-first and person-first language to accommodate to 
+everyone’s preferences5,6. 
+ 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 4]
+4 
+ 
+multiple genetic variants with small individual effects in a single value. They are calculated 
+by summing together an individual’s common genetic variants, weighted by their effect size. 
+Polygenic scores are one of the tools that can be employed to increase understanding of the 
+genetic basis of complex traits such as autism, and overlap with other traits11, amongst many 
+other popular methods in molecular genetic studies12. In addition to their scientific value, 
+polygenic scores have potential clinical value in the future in addition to existing diagnostic 
+tools13. However, at present, most psychiatric polygenic scores are not accurate for 
+individuals, and bioethical issues relating to the application of polygenic scores need to be 
+carefully planned13. 
+ Although psychiatric phenotypes have long been among the most studied in genetics14, 
+only few studies systematically studied reported polygenic score associations for a specific 
+neuropsychiatric classification with related traits and conditions15–18. These studies report 
+consistent associations between the ADHD polygenic score and ADHD diagnosis (OR range 
+1.22% to 1.76%), as well as other traits and diagnoses15,16,18 and between the schizophrenia 
+polygenic score and other traits and disorders17. 
+ The latest autism GWAS led to a wealth of studies assessing the relationship between 
+the autism polygenic score and autism diagnosis, autistic traits, and a wide variety of other 
+related traits. Here, we systematically reviewed and meta-analyzed all published studies that 
+assessed the relationship between the autism polygenic scores and all available outcome 
+measures, in order to understand whether the current autism polygenic score can explain 
+phenotypic and genetic overlap between autism and co-occurring conditions and traits.  
+ 
+ 
+Methods 
+ . CC-BY-NC-ND 4.0 International licenseIt is made available under a 
+ is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)
+The copyright holder for this preprintthis version posted March 9, 2024. ; https://doi.org/10.1101/2024.03.08.24303918doi: medRxiv preprint 
+
+[W4392777015 PDF PAGE 5]
+5 
+ 
+This study was pre-registered with PROSPERO Framework under reference number 
+CRD42022307993. Primary analyses were carried out according to the preregistration. We 
+performed additional analyses, of which details are described under ‘secondary analyses’.  
+ 
+Study Selection 
+We aimed to include all studies assessing the relationship between the autism polygenic score 
+based on the most recent GWAS results10 and autism diagnostic status, autistic traits, and 
+behavioral and neurobiological traits. A first systematic search of PubMed, Web of Science, 
+Psychinfo and Scopus for published, peer-reviewed studies in the English language was 
+performed on November 2, 2022 and a second search on January 6, 2

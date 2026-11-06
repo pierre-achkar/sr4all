@@ -1,0 +1,218 @@
+ND gender)
+genderqueer
+genderfluid
+“trans wom* ”
+“trans m* ”
+transwom*
+transm*
+“gender affirmation ”
+(mtf or ftm)
+(transfeminine or transmasculine)
+“sex* reassignment ”
+(gender identity disorder or GID)
+transsex*
+transex*
+gender dysphori*
+exp *bisexuality/
+exp *homosexuality/
+exp * “Sexual and
+Gender Minorities ”/
+exp * “Transgender
+Persons”/
+Set B: concept of
+“repair”
+“reparative therap* ”
+“reparative effort * ”
+“reparative practice * ”
+Set C: concept of
+“reorientation”
+“reorientation therap* ”
+“sexual reorientation ”
+“gender reorientation ”
+“gender identity reorientation ”
+Set D: concept of
+“change efforts ”
+“sexual orientation change ”
+“gender identity change ”
+“gender expression change ”
+“psychological attempts to change a person ’s gender
+identity from transgender to cisgender ”
+PACGI
+Set E: others “ex-gay”
+“gender acceptance therap* ”
+“reintegrative therap* ”
+“gay cure therap* ”
+“sexual attraction fluidity exploration ”
+Note: SOGIECE sexual orientation and gender identity and expression change efforts, SGM sexual and gender minorities
+*Two sets to be combined using AND Boolean, to improve specificity
+Kinitz et al. Systematic Reviews           (2021) 10:14 Page 5 of 8
+
+[W3119440185 PDF PAGE 6]
+policy and legislation that can have bearing on
+SOGIECE prevention or enforcement of bans.
+2. When — i.e., the age and calendar year when SGM
+are exposed to SOGIECE. This is relevant to inform
+policy regarding minor and adult protections. Age
+will be considered based on numerical presentation
+or categorically using such terms as “minor,”
+“youth,”and “adult.”
+3. Under what circumstances — i.e., reasons and
+motivations for attending SOGIECE, whether
+forced or compelled to attend or attending
+voluntarily.
+4. How — i.e., the types of activities constituting
+SOGIECE.
+These primary and secondary outcomes will be pre-
+sented in summary results tables and narrative form, as
+appropriate.
+Synthesis of results
+Results of the systematic review will be presented in a
+final report that will be structured according the specific
+objectives identified above, corresponding to the scope
+and nature of SOGIECE, and the type of data charted.
+Quantitative data will be synthesized to the extent pos-
+sible given the likely heterogeneity of studies selected. A
+meta-analysis is likely not possible due to the variability
+of populations (e.g., differing age groups, gender iden-
+tities, gender modalities) and definitions of SOGIECE
+used [ 2, 7, 23]. Results will therefore be presented using
+a narrative synthesis with tables [ 38]. Specifically, tables
+will be used to display prevalence rates among different
+subpopulations of SGM, along with other characteristics
+such as geographic area, population demographics (e.g.,
+age, religious background), and year of study/article pro-
+duction. Analysis of social location and equity factors,
+such as socioeconomic status, race/ethnicity, gender,
+and sexual orientation, will be conducted to better
+understand the nuances of SOGIECE and its impacts
+across and within various SGM subpopulations. The
+identification of potential disparities within this area will
+help to inform equity-oriented and population-tailored
+responses to SOGIECE, including supports for those
+who have experienced SOGIECE. Qualitative data will
+be appraised and combined in the narrative presentation
+as these data relate to the relevant section — scope and
+nature. In addition, results will be highlighted and dis-
+cussed narratively per their relevance and potential to
+inform policy.
+In the final section of the synthesis, we will discuss the
+limitations of the current literature as per the findings of
+the review as well as the limitations of the current study.
+Given the dearth of literature discussing SOGIECE, it is
+likely that there will be several challenges in clearly
+identifying robust reports that can independently answer
+our research questions. Reports are likely to omit various
+populations and demographics impacted by SOGIECE
+and to inadequately present information related to the
+outcomes under study.
+Discussion
+This proposed systematic review of the prevalence and
+scope of SOGIECE will be the first of its kind conducted
+to date. Two prior systematic reviews have been pub-
+lished on the topic of conversion therapy, to the know-
+ledge of our co-author team [ 39, 40]. One of these
+reviews was focused solely on gender minorities and
+used a relatively limited set of search terms [ 39, 41]. The
+other review was solely focused on sexual minorities and
+did not examine estimates of prevalence [ 40]. We believe
+that it is beneficial to simultaneously review literature on
+SOGIECE targeting sexual orientation, gender identity,
+and gender expression, given overlap between SGM pop-
+ulations (i.e., some sexual minorities are trans; some
+gender minorities are queer, bisexual, lesbian, gay), the
+unspecific nature of some SOGIECE (i.e., some practi-
+tioners conflate sexual orientation and gender identity,
+or primarily target non-conforming gender expressions),
+and the potential to attend SOGIECE with a practitioner
+who targets more than one of: sexual orientation, gender
+identity, and gender expression.
+Results from this review will provide the prevalence of
+SOGIECE across international jurisdictions and
+summarize associations between social characteristics
+(gender, gender identity, sexual orientation, age, race,
+disability, socioeconomic position, religiosity) and
+SOGIECE exposure. Ecologic factors, such as time,
+place, and study methods, are expected to modify esti-
+mates of SOGIECE prevalence. Particularly useful to in-
+form preventative strategies to stop the harm associated
+with SOGIECE, this study aims to identify the ages at
+which SGM are first exposed to these practices, in what
+settings they take place, and the precipitants of an indi-
+vidual experiencing SOGIECE.
+Dissemination
+The impetus for this systematic review is the need for
+policy makers and legislators to have readily available,
+scientifically robust, and synthesized evidence to inform
+policy changes involving SOGIECE. Findings from the
+proposed systematic review will be beneficial to legisla-
+tors in Canada and other countries and jurisdictions
+considering SOGIECE bans, such as Australia and
+Ireland [ 42–44]. Furthermore, identifying the scope and
+nature of SOGIECE will assist health care providers,
+SGM community leaders and advocates, and SGM
+people themselves when determining supports needed
+for those who have experienced these practices. This
+Kinitz et al. Systematic Reviews           (2021) 10:14 Page 6 of 8
+
+[W3119440185 PDF PAGE 7]
+systematic review will be published in an open-access,
+international journal that will provide evidence for coun-
+tries considering or implementing federal, provincial, or
+municipal bans on SOGIECE. In addition, our findings
+will be shared with Canadian policy leaders and inform a
+community-based strategic planning meeting involving
+survivors, researchers, service providers, and politicians.
+Lastly, findings will be presented at relevant national
+and international conferences.
+Supplementary Information
+The online version contains supplementary material available at https://doi.
+org/10.1186/s13643-020-01563-8.
+Additional file 1. PRISMA-P Checklist
+Additional file 2. Medline search strategy was peer-reviewed using the
+Peer Review of Electronic Search Strategies (PRESS) checklist
+Additional file 3. Sample Medline search strategy – PRESS validated.
+Additional file 4. Risk of bias tool
+Acknowledgements
+Thank you to Dr. Margaret Sampson at the Children ’s Hospital of Eastern
+Ontario for your time in reviewing this protocol and search strategy and to
+Jonathan Beaumier for your support in an early discussion of the protocol
+and insight when adapting the risk of bias assessment.
+Amendments
+Any amendments made to this protocol will be recorded in PROSPERO.
+Authors’ contributions
+TS conceived and designed the study. TS and DJK contributed equally to this
+work. DJK, ED, OF, FA, TG, and TS co-developed the rationale and contrib-
+uted to the first draft of search terms. DG and TS developed and refined the
+search strategy. DJK, TS, and ED adapted the risk of bias assessment and con-
+tributed to the first draft of the protocol. TS, OF, HK, FA, and AA contributed
+to the dissemination plan for the review. All authors contributed to the refin-
+ing of the research question and to the critical revision of this manuscript.
+The guarantor of the review is Travis Salway, PhD, who leads a program of
+research with a substantive focus on SOGIECE at Simon Fraser University. All
+authors read and approved the final manuscript.
+Funding
+Canadian Institutes of Health Research (PCS – 168193)
+Availability of data and materials
+All data and materials included in the study are available from the cited
+primary data sources.
+Ethics approval and consent to participate
+Ethics approval is not required for a systematic review of publicly available
+literature.
+Consent for publication
+This study uses secondary (published) data; as such, consent will not be
+required.
+Competing interests
+The authors declare that they have no competing interests
+Author details
+1Division of Social and Behavioural Health Sciences, Dalla Lana School of
+Public Health, University of Toronto, Toronto, Canada. 2Faculty of Health
+Sciences, Simon Fraser University, Blusson Hall 10506; 8888 University Dr.,
+Burnaby, B.C. V5A 1S6, Canada. 3British Columbia Centre for Disease Control,
+Vancouver, Canada. 4Centre for Gender and Sexual Health Equity, Vancouver,
+Canada. 5Université de Montréal, Montréal, Canada. 6Centre de recherche en
+santé publique, Montreal, Canada. 7University of British Columbia Biomedical
+Branch Library, Vancouver, Canada. 8University of Toronto Faculty of Law,
+Toronto, Canada. 9School of Nursing, University of British Columbia,
+Vancouver, Canada. 10School of Social Work, The University of British
+Columbia, Vancouver, Canada. 11Institute for Mental Health Policy Research,
+Centre for Addiction and Mental Healt

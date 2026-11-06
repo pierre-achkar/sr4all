@@ -1,0 +1,824 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SR4ALL Extraction Validation</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+<style>
+  :root {
+    --bg: #F4F5F7;
+    --panel: #FFFFFF;
+    --ink: #23272E;
+    --ink-soft: #5C6470;
+    --line: #E2E5EA;
+    --accent: #2F5D8A;        /* petrol blue: interactive elements */
+    --accent-soft: #E8F0F8;
+    --ok: #2E7D4F;
+    --ok-soft: #E4F3EA;
+    --warn: #B0771A;
+    --warn-soft: #FBF1DD;
+    --bad: #B03A3A;
+    --bad-soft: #F9E7E7;
+    --hl: #FFE9A8;            /* PDF highlight */
+    --mono: ui-monospace, "SF Mono", "Cascadia Code", Menlo, Consolas, monospace;
+    --sans: -apple-system, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+  }
+  * { box-sizing: border-box; }
+  html, body { height: 100%; margin: 0; }
+  body { font-family: var(--sans); color: var(--ink); background: var(--bg); font-size: 14px; }
+
+  /* ---------- layout ---------- */
+  #app { display: grid; grid-template-rows: 48px 1fr; height: 100vh; }
+  header {
+    display: flex; align-items: center; gap: 14px; padding: 0 14px;
+    background: var(--ink); color: #fff;
+  }
+  header .brand { font-weight: 700; letter-spacing: .04em; font-size: 13px; }
+  header .brand span { color: #9DBBD8; }
+  header .meta { font-size: 12px; color: #B9BEC7; }
+  header .spacer { flex: 1; }
+  header button {
+    background: transparent; color: #fff; border: 1px solid #4A5160;
+    border-radius: 6px; padding: 5px 11px; font-size: 12px; cursor: pointer;
+  }
+  header button:hover { border-color: #9DBBD8; }
+  header button.primary { background: var(--accent); border-color: var(--accent); }
+
+  #main { display: grid; grid-template-columns: 230px minmax(0,1fr) 460px; min-height: 0; }
+
+  /* ---------- doc list ---------- */
+  #doclist { border-right: 1px solid var(--line); background: var(--panel); overflow-y: auto; min-height: 0; }
+  #doclist .lhead { padding: 10px 12px 6px; font-size: 11px; text-transform: uppercase;
+    letter-spacing: .08em; color: var(--ink-soft); position: sticky; top: 0; background: var(--panel); }
+  .docitem { padding: 8px 12px; cursor: pointer; border-left: 3px solid transparent; }
+  .docitem:hover { background: var(--accent-soft); }
+  .docitem.active { border-left-color: var(--accent); background: var(--accent-soft); }
+  .docitem .did { font-family: var(--mono); font-size: 12px; }
+  .docitem .dstat { font-size: 11px; color: var(--ink-soft); margin-top: 2px; display: flex; gap: 6px; align-items: center; }
+  .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--line); display: inline-block; }
+  .dot.done { background: var(--ok); }
+  .dot.part { background: var(--warn); }
+  .badge-shared { font-size: 10px; background: var(--accent-soft); color: var(--accent);
+    padding: 1px 5px; border-radius: 4px; font-weight: 600; }
+
+  /* ---------- pdf pane ---------- */
+  #pdfpane { display: grid; grid-template-rows: 40px 1fr; min-width: 0; min-height: 0; background: #63676E; }
+  #pdfbar { display: flex; align-items: center; gap: 10px; padding: 0 12px;
+    background: var(--panel); border-bottom: 1px solid var(--line); }
+  #pdfbar .pg { font-size: 12px; color: var(--ink-soft); }
+  #pdfbar input[type=number] { width: 52px; padding: 3px 5px; border: 1px solid var(--line); border-radius: 5px; }
+  #pdfbar button { background: #fff; border: 1px solid var(--line); border-radius: 5px;
+    padding: 4px 9px; cursor: pointer; font-size: 12px; }
+  #pdfbar button:hover { border-color: var(--accent); color: var(--accent); }
+  #pdfSearch { flex: 1 1 100px; width: 140px; min-width: 80px; padding: 4px 7px; border: 1px solid var(--line); border-radius: 5px; }
+  #pdfscroll { overflow: auto; min-height: 0; padding: 14px 0; }
+  .pagewrap { position: relative; margin: 0 auto 14px; background: #fff;
+    box-shadow: 0 2px 10px rgba(0,0,0,.35); }
+  .pagewrap canvas { display: block; }
+  .textLayer { position: absolute; inset: 0; overflow: hidden; line-height: 1;
+    opacity: 0.25; }
+  .textLayer span { position: absolute; white-space: pre; color: transparent;
+    transform-origin: 0 0; cursor: text; }
+  .textLayer span::selection { background: rgba(47,93,138,.35); }
+  .textLayer span.hl { background: var(--hl); color: transparent; border-radius: 2px; }
+  #pdfmsg { color: #EDEDED; text-align: center; padding: 40px 20px; font-size: 13px; }
+
+  /* ---------- annotation pane ---------- */
+  #annopane { border-left: 1px solid var(--line); background: var(--panel);
+    overflow-y: auto; min-height: 0; padding: 14px 14px 80px; }
+  #annopane h2 { font-size: 13px; margin: 4px 0 2px; font-family: var(--mono); }
+  #annopane .doctitle { font-size: 12.5px; color: var(--ink-soft); margin-bottom: 12px; line-height: 1.4; }
+  .secttl { font-size: 11px; text-transform: uppercase; letter-spacing: .08em;
+    color: var(--ink-soft); margin: 18px 0 8px; display: flex; align-items: center; gap: 8px; }
+  .secttl::after { content: ""; flex: 1; height: 1px; background: var(--line); }
+
+  .fieldcard { border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px;
+    margin-bottom: 10px; background: #fff; }
+  .fieldcard.activecard { border-color: var(--accent); box-shadow: 0 0 0 2px var(--accent-soft); }
+  .fieldcard .fname { font-weight: 600; font-size: 12.5px; display: flex; align-items: center; gap: 8px; }
+  .fieldcard .fname .locate { margin-left: auto; background: var(--accent-soft); color: var(--accent);
+    border: none; border-radius: 5px; padding: 3px 9px; font-size: 11.5px; cursor: pointer; font-weight: 600; }
+  .fieldcard .fname .locate:hover { background: var(--accent); color: #fff; }
+  .flabel { font-size: 10.5px; text-transform: uppercase; letter-spacing: .06em;
+    color: var(--ink-soft); margin: 8px 0 3px; }
+  .fvalue, .fspan { font-family: var(--mono); font-size: 12px; background: #F7F8FA;
+    border: 1px solid var(--line); border-radius: 6px; padding: 7px 9px;
+    white-space: pre-wrap; word-break: break-word; max-height: 140px; overflow-y: auto; }
+  .fspan { background: #FBFAF4; }
+
+  .judge { display: flex; gap: 6px; margin-top: 10px; }
+  .judge button { flex: 1; border: 1px solid var(--line); background: #fff; border-radius: 6px;
+    padding: 6px 4px; font-size: 12px; cursor: pointer; font-weight: 600; color: var(--ink-soft); }
+  .judge button .key { font-size: 10px; opacity: .55; font-weight: 400; }
+  .judge button.j-correct.sel { background: var(--ok-soft); border-color: var(--ok); color: var(--ok); }
+  .judge button.j-partial.sel { background: var(--warn-soft); border-color: var(--warn); color: var(--warn); }
+  .judge button.j-incorrect.sel { background: var(--bad-soft); border-color: var(--bad); color: var(--bad); }
+  .judge button.j-present.sel { background: var(--warn-soft); border-color: var(--warn); color: var(--warn); }
+  .judge button.j-absent.sel { background: var(--ok-soft); border-color: var(--ok); color: var(--ok); }
+  .judge button:hover { border-color: var(--accent); }
+
+  .followup { margin-top: 9px; display: grid; gap: 7px; }
+  .followup select, .followup input, .followup textarea {
+    width: 100%; border: 1px solid var(--line); border-radius: 6px; padding: 6px 8px;
+    font-size: 12px; font-family: var(--sans); }
+  .followup textarea { font-family: var(--mono); min-height: 54px; resize: vertical; }
+  .ncomment { display: block; width: 100%; height: 54px; margin-top: 7px; resize: none;
+    border: 1px solid var(--line); border-radius: 6px; padding: 6px 8px;
+    font-size: 12px; font-family: var(--mono); }
+  .followup .row2 { display: grid; grid-template-columns: 1fr 90px; gap: 7px; }
+  .hint { font-size: 11px; color: var(--ink-soft); }
+
+  /* ---------- overlays ---------- */
+  #setup { position: fixed; inset: 0; background: var(--bg); display: flex;
+    align-items: center; justify-content: center; z-index: 50; }
+  #setup .card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px;
+    padding: 30px 34px; width: 480px; box-shadow: 0 10px 40px rgba(0,0,0,.08); }
+  #setup h1 { font-size: 17px; margin: 0 0 4px; }
+  #setup .sub { color: var(--ink-soft); font-size: 13px; margin-bottom: 20px; }
+  #setup label { display: block; font-size: 12px; font-weight: 600; margin: 14px 0 5px; }
+  #setup input[type=text] { width: 100%; padding: 8px 10px; border: 1px solid var(--line);
+    border-radius: 6px; font-size: 14px; }
+  #setup .pick { display: flex; align-items: center; gap: 10px; }
+  #setup .pick .st { font-size: 12px; color: var(--ink-soft); }
+  #setup button.big { width: 100%; margin-top: 22px; background: var(--accent); color: #fff;
+    border: none; border-radius: 8px; padding: 11px; font-size: 14px; font-weight: 600; cursor: pointer; }
+  #setup button.big:disabled { background: #B9C4CF; cursor: default; }
+  #setup button.pickbtn { background: #fff; border: 1px solid var(--line); border-radius: 6px;
+    padding: 7px 12px; cursor: pointer; font-size: 12.5px; }
+  #toast { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%);
+    background: var(--ink); color: #fff; padding: 9px 16px; border-radius: 8px; font-size: 13px;
+    opacity: 0; transition: opacity .25s; pointer-events: none; z-index: 99; }
+  #toast.show { opacity: 1; }
+  #guidelines { position: fixed; inset: 0; display: none; align-items: center; justify-content: center;
+    padding: 20px; background: rgba(35,39,46,.55); z-index: 80; }
+  #guidelines.open { display: flex; }
+  #guidelines .card { position: relative; max-width: 620px; max-height: 90vh; overflow-y: auto;
+    background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 24px 28px;
+    box-shadow: 0 10px 40px rgba(0,0,0,.2); }
+  #guidelines h2 { margin: 0 36px 16px 0; font-size: 17px; }
+  #guidelines h3 { margin: 18px 0 6px; font-size: 13px; }
+  #guidelines p, #guidelines li { font-size: 13px; line-height: 1.45; }
+  #guidelines ul { margin: 6px 0 0; padding-left: 20px; }
+  #closeGuidelines { position: absolute; top: 12px; right: 14px; border: 0; background: transparent;
+    color: var(--ink-soft); font-size: 22px; cursor: pointer; }
+  #progressbar { height: 3px; background: var(--accent); width: 0%; transition: width .3s; }
+  @media (max-width: 1100px) { #main { grid-template-columns: 190px minmax(0, 1fr) 360px; } #pdfbar { gap: 5px; padding: 0 6px; } #pdfbar button { padding-left: 5px; padding-right: 5px; } #pdfSearch { width: 100px; } }
+  kbd { background: #EDEFF2; border: 1px solid var(--line); border-bottom-width: 2px;
+    border-radius: 4px; padding: 0 4px; font-size: 11px; font-family: var(--mono); }
+</style>
+</head>
+<body>
+
+<div id="setup">
+  <div class="card">
+    <h1>SR4ALL Extraction Validation</h1>
+    <div class="sub">Manual validation of LLM-extracted methodological fields against source PDFs.</div>
+
+    <label>Your annotator ID</label>
+    <input type="text" id="annName" placeholder="e.g. pierre" autocomplete="off">
+
+    <label>Annotation package folder</label>
+    <div class="pick">
+      <button class="pickbtn" id="pickFolder">Select folder…</button>
+      <span class="st" id="pickStatus">contains tasks.jsonl and pdfs/</span>
+    </div>
+    <input type="file" id="folderInput" webkitdirectory multiple style="display:none">
+
+    <label>Resume from a previous export <span style="font-weight:400;color:var(--ink-soft)">(optional)</span></label>
+    <div class="pick">
+      <button class="pickbtn" id="pickResume">Load annotations file…</button>
+      <span class="st" id="resumeStatus">none</span>
+    </div>
+    <input type="file" id="resumeInput" accept=".jsonl,.json" style="display:none">
+
+    <button class="big" id="startBtn" disabled>Start annotating</button>
+    <button class="pickbtn" id="guidelinesBtn" style="width:100%;margin-top:10px">Guidelines</button>
+    <div class="hint" style="margin-top:14px">
+      Judgments save automatically in this browser. Use <b>Export</b> regularly to download your
+      annotations file — that file is what gets merged across annotators.
+    </div>
+  </div>
+</div>
+
+<div id="app" style="display:none">
+  <header>
+    <div class="brand">SR4ALL <span>/ validation</span></div>
+    <div class="meta" id="hdrMeta"></div>
+    <div class="spacer"></div>
+    <div class="meta">
+      <kbd>1</kbd><kbd>2</kbd><kbd>3</kbd> judge &nbsp; <kbd>J</kbd>/<kbd>K</kbd> field &nbsp; <kbd>N</kbd>/<kbd>P</kbd> doc &nbsp; <kbd>L</kbd> locate
+    </div>
+    <button id="exportBtn" class="primary">Export annotations</button>
+    <button id="headerGuidelines">Guidelines</button>
+  </header>
+  <div id="progressbar"></div>
+  <div id="main">
+    <nav id="doclist"></nav>
+    <section id="pdfpane">
+      <div id="pdfbar">
+        <button id="prevPg">&#8593; Prev</button>
+        <button id="nextPg">Next &#8595;</button>
+        <span class="pg">Page <input type="number" id="pgInput" min="1" value="1"> / <span id="pgTotal">–</span></span>
+        <span style="flex:1"></span>
+        <button id="zoomOut">−</button>
+        <button id="zoomIn">+</button>
+        <button id="clearHl">Clear highlight</button>
+        <input type="search" id="pdfSearch" placeholder="Search PDF text" aria-label="Search PDF text">
+        <button id="searchPrev" title="Previous search result">&#8593;</button>
+        <button id="searchNext" title="Next search result">&#8595;</button>
+        <span class="pg" id="searchStatus"></span>
+      </div>
+      <div id="pdfscroll"><div id="pdfmsg">Select a document.</div></div>
+    </section>
+    <aside id="annopane"></aside>
+  </div>
+</div>
+
+<div id="toast"></div>
+
+<div id="guidelines" role="dialog" aria-modal="true" aria-labelledby="guidelinesTitle">
+  <div class="card">
+    <button id="closeGuidelines" aria-label="Close guidelines">&times;</button>
+    <h2 id="guidelinesTitle">SR4ALL Annotator Guidelines</h2>
+    <h3>About this task</h3>
+    <p>The SR4ALL Dataset uses an automated system to extract information about how systematic reviews were conducted. Your task is to compare these extracted fields with the content of the original paper. This will show which information was extracted correctly and which information was missed or extracted incorrectly.</p>
+    <p>The annotation tool displays one paper at a time. For each field, it shows either an extracted value with its evidence passage or an empty field for which no value was extracted.</p>
+    <h3>What you need to do</h3>
+    <p>For each paper:</p>
+    <ol><li>Read the field name, extracted value, and evidence passage shown in the tool.</li>
+      <li>Find and read the relevant passage in the PDF.</li>
+      <li>Choose the annotation option that best describes the extraction.</li>
+      <li>Add a comment when the extraction is partial, incorrect, or unclear.</li>
+      <li>If an empty field was missed, enter the supporting text and PDF page number.</li></ol>
+    <p>Review every field before moving to the next paper. Export your annotations regularly so that you have a backup.</p>
+    <h3>Annotation options</h3>
+    <p><b>Fields with an extracted value</b></p>
+    <ul><li><b>Correct:</b> The extracted value is fully supported by the paper, and the evidence passage supports that value.</li>
+      <li><b>Partial:</b> The extracted value is generally correct, but a small part is missing or inaccurate.</li>
+      <li><b>Incorrect:</b> The extracted value is wrong or unsupported, or the evidence passage does not support it.</li></ul>
+    <p><b>Empty fields</b></p>
+    <p>An empty field means that the system did not extract a value.</p>
+    <ul><li><b>Not in PDF:</b> The paper does not report the requested information.</li>
+      <li><b>Present in PDF (missed):</b> The paper reports the requested information, but the system did not extract it.</li></ul>
+    <p>For <b>Present in PDF (missed)</b>, enter the supporting text and PDF page number.</p>
+    <h3>General annotation rules</h3>
+    <ul><li>Use the source PDF only.</li>
+      <li>Judge each field independently.</li>
+      <li>Check both the extracted value and its evidence passage. A correct value with unrelated or insufficient evidence is not fully correct.</li>
+      <li>Do not infer information that the paper does not state.</li>
+      <li>The same passage may support more than one field.</li>
+      <li>Use Search and Locate in PDF to find text, but always check the passage yourself.</li>
+      <li>Ignore harmless OCR, spacing, punctuation, and line-break differences.</li>
+      <li>Add a short comment whenever your decision may not be obvious to another annotator.</li></ul>
+    <h3>Rules for specific fields</h3>
+    <p><b>Research questions</b></p>
+    <ul><li>A research question does not need a question mark.</li>
+      <li>It must be presented as a question or clearly identified as a research question.</li>
+      <li>An objective is not automatically a research question.</li>
+      <li>Example: "The aim was to assess treatment X" is an objective.</li>
+      <li>Example: "We asked whether treatment X was effective" is a research question.</li></ul>
+    <p><b>Inclusion and exclusion criteria</b></p>
+    <ul><li>Judge the two fields separately.</li><li>The same passage may support both fields.</li>
+      <li>Do not create an exclusion criterion by simply negating an inclusion criterion.</li>
+      <li>Example: "English-language studies were included" does not by itself prove that non-English studies were excluded.</li></ul>
+    <p><b>Boolean queries</b></p>
+    <p>Check each query separately. The terms, operators, parentheses, order, and database name must match the PDF. A list of keywords is not a Boolean query.</p>
+    <p><b>Snowballing</b></p>
+    <p>When snowballing is extracted as "false," the tool may not show an evidence passage. Check the PDF to see whether snowballing was used. If it was used, mark the extraction as <b>Incorrect</b> and add a comment with the supporting text and page number. If it was not used, mark the extraction as <b>Correct</b>. No comment is required.</p>
+    <h3>Shared documents</h3>
+    <p>Some papers are marked as shared. The same paper is assigned to every annotator. Shared documents are used to measure how consistently different annotators apply these guidelines.</p>
+    <p>Annotate shared documents independently. Do not compare or discuss your annotations with the other annotators until everyone has submitted their work.</p>
+  </div>
+</div>
+
+<script>
+"use strict";
+pdfjsLib.GlobalWorkerOptions.workerSrc =
+  "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js";
+
+/* ============ constants ============ */
+const ERROR_TYPES = ["truncated / partial value", "wrong value", "value not supported by span",
+  "hallucinated span", "OCR corruption", "wrong normalization", "other"];
+const TOOL_VERSION = "1.0";
+
+/* ============ state ============ */
+const S = {
+  annotator: null,
+  tasks: [],            // [{doc_id, pdf, title, shared, fields:[{name,value,evidence_span}], null_fields:[...]}]
+  pdfFiles: {},         // filename -> File
+  ann: {},              // doc_id -> {fields:{}, null_fields:{}, ts}
+  cur: -1,              // index into tasks
+  activeField: 0,       // index into flat field list of current doc
+  pdf: null, pageDivs: [], pageText: [], scale: 1.35, rendered: new Set(),
+  searchMatches: [], searchIndex: -1,
+};
+
+const $ = (id) => document.getElementById(id);
+const toast = (msg) => { const t = $("toast"); t.textContent = msg; t.classList.add("show");
+  setTimeout(() => t.classList.remove("show"), 1800); };
+const lsKey = () => "sr4all_ann_" + S.annotator;
+
+function toggleGuidelines(show) { $("guidelines").classList.toggle("open", show); }
+$("guidelinesBtn").onclick = () => toggleGuidelines(true);
+$("headerGuidelines").onclick = () => toggleGuidelines(true);
+$("closeGuidelines").onclick = () => toggleGuidelines(false);
+$("guidelines").onclick = (e) => { if (e.target.id === "guidelines") toggleGuidelines(false); };
+
+/* ============ setup ============ */
+let folderFiles = null, resumeData = null;
+$("pickFolder").onclick = () => $("folderInput").click();
+$("folderInput").onchange = (e) => {
+  folderFiles = [...e.target.files];
+  const hasTasks = folderFiles.some(f => f.name === "tasks.jsonl");
+  $("pickStatus").textContent = hasTasks
+    ? `✓ ${folderFiles.length} files, tasks.jsonl found`
+    : "✗ tasks.jsonl not found in folder";
+  checkReady();
+};
+$("pickResume").onclick = () => $("resumeInput").click();
+$("resumeInput").onchange = async (e) => {
+  const f = e.target.files[0]; if (!f) return;
+  const txt = await f.text();
+  resumeData = txt.trim().split("\n").map(l => JSON.parse(l));
+  $("resumeStatus").textContent = `✓ ${resumeData.length} documents loaded`;
+};
+$("annName").oninput = checkReady;
+function checkReady() {
+  $("startBtn").disabled = !($("annName").value.trim() &&
+    folderFiles && folderFiles.some(f => f.name === "tasks.jsonl"));
+}
+$("startBtn").onclick = async () => {
+  S.annotator = $("annName").value.trim().toLowerCase().replace(/\s+/g, "_");
+  const taskFile = folderFiles.find(f => f.name === "tasks.jsonl");
+  const txt = await taskFile.text();
+  S.tasks = txt.trim().split("\n").map(l => JSON.parse(l));
+  for (const f of folderFiles)
+    if (f.name.toLowerCase().endsWith(".pdf")) S.pdfFiles[f.name] = f;
+  // restore: localStorage first, then resume file on top
+  try { const saved = localStorage.getItem(lsKey()); if (saved) S.ann = JSON.parse(saved); }
+  catch (e) { console.warn(e); }
+  if (resumeData) for (const r of resumeData) S.ann[r.doc_id] = importDoc(r);
+  persist();
+  $("setup").style.display = "none";
+  $("app").style.display = "grid";
+  $("hdrMeta").textContent = `annotator: ${S.annotator} · ${S.tasks.length} documents`;
+  renderDocList();
+  const firstOpen = S.tasks.findIndex(t => docStatus(t.doc_id) !== "done");
+  openDoc(firstOpen >= 0 ? firstOpen : 0);
+};
+function importDoc(r) {
+  const d = { fields: {}, null_fields: {}, ts: r.ts || null };
+  for (const f of (r.field_judgments || []))
+    d.fields[f.name] = { judgment: f.judgment, error_type: f.error_type || "", comment: f.comment || "" };
+  for (const f of (r.null_field_judgments || []))
+    d.null_fields[f.name] = { judgment: f.judgment, found_text: f.found_text || "", page: f.page || "", comment: f.comment || "" };
+  return d;
+}
+
+/* ============ persistence / export ============ */
+function persist() {
+  try { localStorage.setItem(lsKey(), JSON.stringify(S.ann)); }
+  catch (e) { toast("Warning: could not save locally — export now!"); }
+}
+function docStatus(docId) {
+  return docProgress(docId).status;
+}
+function docProgress(docId) {
+  const t = S.tasks.find(x => x.doc_id === docId);
+  const a = S.ann[docId];
+  if (!a) return { status: "todo", remaining: t.fields.length + t.null_fields.length };
+  const needF = t.fields.length, needN = t.null_fields.length;
+  const gotF = t.fields.filter(f => a.fields[f.name]?.judgment).length;
+  const gotN = t.null_fields.filter(f => a.null_fields[f]?.judgment).length;
+  const remaining = (needF - gotF) + (needN - gotN);
+  if (remaining === needF + needN) return { status: "todo", remaining };
+  return { status: remaining === 0 ? "done" : "part", remaining };
+}
+$("exportBtn").onclick = () => {
+  const lines = S.tasks.map(t => {
+    const a = S.ann[t.doc_id] || { fields: {}, null_fields: {} };
+    return JSON.stringify({
+      doc_id: t.doc_id, annotator: S.annotator, shared: !!t.shared,
+      status: docStatus(t.doc_id), ts: a.ts || null, tool_version: TOOL_VERSION,
+      field_judgments: t.fields.map(f => ({ name: f.name,
+        judgment: a.fields[f.name]?.judgment || null,
+        error_type: a.fields[f.name]?.error_type || null,
+        comment: a.fields[f.name]?.comment || null })),
+      null_field_judgments: t.null_fields.map(n => ({ name: n,
+        judgment: a.null_fields[n]?.judgment || null,
+        found_text: a.null_fields[n]?.found_text || null,
+        page: a.null_fields[n]?.page || null,
+        comment: a.null_fields[n]?.comment || null })),
+    });
+  });
+  const blob = new Blob([lines.join("\n") + "\n"], { type: "application/x-ndjson" });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url; a.download = `annotations_${S.annotator}.jsonl`; a.click();
+  URL.revokeObjectURL(url);
+  toast("Exported annotations_" + S.annotator + ".jsonl");
+};
+
+/* ============ doc list ============ */
+function renderDocList() {
+  const el = $("doclist");
+  el.innerHTML = `<div class="lhead">Documents</div>`;
+  S.tasks.forEach((t, i) => {
+    const progress = docProgress(t.doc_id);
+    const st = progress.status;
+    const label = st === "done" ? "done" : `${st === "todo" ? "todo" : "incomplete"} (${progress.remaining} remaining)`;
+    const div = document.createElement("div");
+    div.className = "docitem" + (i === S.cur ? " active" : "");
+    div.innerHTML = `<div class="did">${t.doc_id}</div>
+      <div class="dstat"><span class="dot ${st === "done" ? "done" : st === "part" ? "part" : ""}"></span>
+      ${label}${t.shared ? ' <span class="badge-shared">shared</span>' : ""}</div>`;
+    div.onclick = () => openDoc(i);
+    el.appendChild(div);
+  });
+  const done = S.tasks.filter(t => docStatus(t.doc_id) === "done").length;
+  $("progressbar").style.width = (100 * done / S.tasks.length) + "%";
+}
+
+/* ============ pdf rendering (lazy, continuous) ============ */
+let io = null;
+async function loadPdf(t) {
+  const scroll = $("pdfscroll");
+  scroll.innerHTML = `<div id="pdfmsg">Loading PDF…</div>`;
+  S.pdf = null; S.pageDivs = []; S.pageText = []; S.rendered = new Set();
+  S.searchMatches = []; S.searchIndex = -1; $("searchStatus").textContent = "";
+  const fname = t.pdf.split("/").pop();
+  const file = S.pdfFiles[fname];
+  if (!file) { scroll.innerHTML = `<div id="pdfmsg">PDF not found in package: ${fname}</div>`; return; }
+  const buf = await file.arrayBuffer();
+  S.pdf = await pdfjsLib.getDocument({ data: buf }).promise;
+  $("pgTotal").textContent = S.pdf.numPages;
+  scroll.innerHTML = "";
+  if (io) io.disconnect();
+  io = new IntersectionObserver(entries => {
+    for (const e of entries) if (e.isIntersecting) renderPage(+e.target.dataset.pg);
+  }, { root: scroll, rootMargin: "600px" });
+  for (let p = 1; p <= S.pdf.numPages; p++) {
+    const w = document.createElement("div");
+    w.className = "pagewrap"; w.dataset.pg = p;
+    w.style.width = "600px"; w.style.height = "800px"; // placeholder before render
+    scroll.appendChild(w); S.pageDivs[p] = w; io.observe(w);
+  }
+  renderPage(1);
+  scroll.onscroll = () => {
+    const mid = scroll.scrollTop + scroll.clientHeight / 3;
+    for (let p = 1; p < S.pageDivs.length; p++) {
+      const w = S.pageDivs[p];
+      if (w.offsetTop <= mid && w.offsetTop + w.offsetHeight > mid) { $("pgInput").value = p; break; }
+    }
+  };
+  // pre-extract text of all pages in background for locate()
+  extractAllText();
+}
+async function renderPage(p) {
+  if (!S.pdf || S.rendered.has(p)) return;
+  S.rendered.add(p);
+  const page = await S.pdf.getPage(p);
+  const vp = page.getViewport({ scale: S.scale });
+  const w = S.pageDivs[p];
+  w.style.width = vp.width + "px"; w.style.height = vp.height + "px";
+  w.innerHTML = "";
+  const canvas = document.createElement("canvas");
+  canvas.width = vp.width * devicePixelRatio; canvas.height = vp.height * devicePixelRatio;
+  canvas.style.width = vp.width + "px"; canvas.style.height = vp.height + "px";
+  const ctx = canvas.getContext("2d");
+  ctx.scale(devicePixelRatio, devicePixelRatio);
+  w.appendChild(canvas);
+  await page.render({ canvasContext: ctx, viewport: vp }).promise;
+  const tl = document.createElement("div");
+  tl.className = "textLayer";
+  tl.style.width = vp.width + "px"; tl.style.height = vp.height + "px";
+  w.appendChild(tl);
+  const tc = await page.getTextContent();
+  const textDivs = [];
+  await pdfjsLib.renderTextLayer({ textContentSource: tc, container: tl, viewport: vp, textDivs }).promise;
+  w._textDivs = textDivs; w._items = tc.items;
+  if (w._pendingHl) { applyHighlight(p, w._pendingHl); delete w._pendingHl; }
+}
+async function extractAllText() {
+  const pdf = S.pdf;
+  for (let p = 1; p <= pdf.numPages; p++) {
+    if (S.pdf !== pdf) return; // doc switched
+    const page = await pdf.getPage(p);
+    const tc = await page.getTextContent();
+    // stripped lowercase text + map stripped-index -> item index
+    let stripped = "", searchable = "", map = [], searchMap = [];
+    tc.items.forEach((it, idx) => {
+      for (const ch of it.str.toLowerCase()) {
+        searchable += ch; searchMap.push(idx);
+        if (!/\s/.test(ch)) { stripped += ch; map.push(idx); }
+      }
+      searchable += " "; searchMap.push(idx);
+    });
+    S.pageText[p] = { stripped, map, searchable, searchMap, nItems: tc.items.length };
+  }
+  updateSearchMatches();
+}
+
+/* ---------- locate & highlight ---------- */
+const stripLower = s => s.toLowerCase().replace(/\s+/g, "");
+function findSpan(span) {
+  const probes = [];
+  const full = stripLower(span);
+  if (full.length) probes.push(full);
+  if (full.length > 90) { probes.push(full.slice(0, 90)); probes.push(full.slice(Math.floor(full.length/2)-45, Math.floor(full.length/2)+45)); }
+  if (full.length > 40) probes.push(full.slice(0, 40));
+  for (const probe of probes) {
+    for (let p = 1; p < S.pageText.length; p++) {
+      const pt = S.pageText[p]; if (!pt) continue;
+      const i = pt.stripped.indexOf(probe);
+      if (i >= 0) return { page: p, from: pt.map[i], to: pt.map[Math.min(i + probe.length - 1, pt.map.length - 1)] };
+    }
+  }
+  return fuzzySpan(span);
+}
+function editDistance(a, b) {
+  const row = Array.from({ length: b.length + 1 }, (_, i) => i);
+  for (let i = 1; i <= a.length; i++) {
+    let prior = row[0]; row[0] = i;
+    for (let j = 1; j <= b.length; j++) {
+      const old = row[j];
+      row[j] = a[i - 1] === b[j - 1] ? prior : 1 + Math.min(prior, row[j - 1], old);
+      prior = old;
+    }
+  }
+  return row[b.length];
+}
+function fuzzySpan(span) {
+  const target = (span.toLowerCase().match(/[a-z0-9]+/g) || []).filter(w => w.length >= 4);
+  if (!target.length) return null;
+  let best = null;
+  for (let p = 1; p < S.pageText.length; p++) {
+    const pt = S.pageText[p]; if (!pt) continue;
+    const pageWords = [...pt.searchable.matchAll(/[a-z0-9]+/g)];
+    for (let start = 0; start < pageWords.length; start++) {
+      const first = pageWords[start][0];
+      if (editDistance(target[0], first) > Math.max(1, Math.floor(target[0].length * .3))) continue;
+      let score = 0, end = start;
+      for (let ti = 0; ti < target.length && start + ti < pageWords.length; ti++) {
+        const distance = editDistance(target[ti], pageWords[start + ti][0]);
+        if (distance <= Math.max(1, Math.floor(target[ti].length * .3))) score += 1 - distance / target[ti].length;
+        end = start + ti;
+      }
+      if (score >= 2 && (!best || score > best.score)) {
+        const fromChar = pageWords[start].index;
+        const endWord = pageWords[end];
+        const toChar = endWord.index + endWord[0].length - 1;
+        best = { page: p, from: pt.searchMap[fromChar], to: pt.searchMap[toChar], score };
+      }
+    }
+  }
+  return best;
+}
+function updateSearchMatches() {
+  const query = stripLower($("pdfSearch").value || "");
+  S.searchMatches = []; S.searchIndex = -1;
+  if (query) for (let p = 1; p < S.pageText.length; p++) {
+    const pt = S.pageText[p]; if (!pt) continue;
+    let from = 0, i;
+    while ((i = pt.stripped.indexOf(query, from)) >= 0) {
+      S.searchMatches.push({ page: p, from: pt.map[i], to: pt.map[Math.min(i + query.length - 1, pt.map.length - 1)] });
+      from = i + Math.max(1, query.length);
+    }
+  }
+  $("searchStatus").textContent = S.searchMatches.length ? `0 / ${S.searchMatches.length}` : (query ? "no matches" : "");
+}
+async function showSearchMatch(step) {
+  if (!S.searchMatches.length) return;
+  S.searchIndex = (S.searchIndex + step + S.searchMatches.length) % S.searchMatches.length;
+  const hit = S.searchMatches[S.searchIndex];
+  clearHighlights(); gotoPage(hit.page); await renderPage(hit.page); applyHighlight(hit.page, hit);
+  $("searchStatus").textContent = `${S.searchIndex + 1} / ${S.searchMatches.length}`;
+}
+function clearHighlights() {
+  document.querySelectorAll(".textLayer span.hl").forEach(s => s.classList.remove("hl"));
+}
+function applyHighlight(p, range) {
+  const w = S.pageDivs[p];
+  if (!w || !w._textDivs) { if (w) w._pendingHl = range; return; }
+  if (range.from < 0) return;
+  // pdf.js may create more divs than items (line breaks); map item index -> div conservatively
+  const n = Math.min(w._textDivs.length, w._items.length);
+  for (let i = range.from; i <= range.to && i < n; i++)
+    w._textDivs[i]?.classList.add("hl");
+  // if div count > item count, also try proportional block (best effort)
+  if (w._textDivs.length !== w._items.length) {
+    const ratio = w._textDivs.length / w._items.length;
+    for (let i = Math.floor(range.from * ratio); i <= Math.ceil(range.to * ratio) && i < w._textDivs.length; i++)
+      w._textDivs[i]?.classList.add("hl");
+  }
+}
+async function locate(span) {
+  if (!S.pdf) return;
+  // wait briefly if text extraction still running
+  for (let tries = 0; tries < 20 && S.pageText.length - 1 < S.pdf.numPages; tries++)
+    await new Promise(r => setTimeout(r, 150));
+  const hit = findSpan(span);
+  if (!hit) { toast("Span not found — search manually"); return; }
+  clearHighlights();
+  gotoPage(hit.page);
+  await renderPage(hit.page);
+  applyHighlight(hit.page, hit);
+  if (hit.from < 0) toast(`Best-guess page ${hit.page} (no exact match)`);
+}
+function gotoPage(p) {
+  p = Math.max(1, Math.min(S.pdf ? S.pdf.numPages : 1, p));
+  const w = S.pageDivs[p];
+  if (w) $("pdfscroll").scrollTo({ top: w.offsetTop - 10, behavior: "smooth" });
+  $("pgInput").value = p;
+}
+$("prevPg").onclick = () => gotoPage(+$("pgInput").value - 1);
+$("nextPg").onclick = () => gotoPage(+$("pgInput").value + 1);
+$("pgInput").onchange = () => gotoPage(+$("pgInput").value);
+$("clearHl").onclick = clearHighlights;
+$("pdfSearch").oninput = updateSearchMatches;
+$("pdfSearch").onkeydown = (e) => { if (e.key === "Enter") { e.preventDefault(); showSearchMatch(e.shiftKey ? -1 : 1); } };
+$("searchPrev").onclick = () => showSearchMatch(-1);
+$("searchNext").onclick = () => showSearchMatch(1);
+$("zoomIn").onclick = () => rezoom(S.scale + 0.15);
+$("zoomOut").onclick = () => rezoom(Math.max(0.6, S.scale - 0.15));
+function rezoom(sc) { S.scale = sc; const t = S.tasks[S.cur]; if (t) loadPdf(t); }
+
+/* ============ annotation pane ============ */
+function ensureAnn(docId) {
+  if (!S.ann[docId]) S.ann[docId] = { fields: {}, null_fields: {}, ts: null };
+  return S.ann[docId];
+}
+function flatFields(t) {
+  return [...t.fields.map(f => ({ kind: "field", ...f })),
+          ...t.null_fields.map(n => ({ kind: "null", name: n }))];
+}
+function openDoc(i) {
+  S.cur = i; S.activeField = 0;
+  const t = S.tasks[i];
+  renderDocList();
+  renderAnnoPane(t);
+  loadPdf(t);
+}
+function renderAnnoPane(t) {
+  const a = ensureAnn(t.doc_id);
+  const pane = $("annopane");
+  pane.innerHTML = "";
+  const h = document.createElement("div");
+  h.innerHTML = `<h2>${t.doc_id}</h2><div class="doctitle">${escapeHtml(t.title || "")}</div>`;
+  pane.appendChild(h);
+
+  const flat = flatFields(t);
+  let sectShown = { field: false, null: false };
+  flat.forEach((f, fi) => {
+    if (!sectShown[f.kind]) {
+      const s = document.createElement("div");
+      s.className = "secttl";
+      s.textContent = f.kind === "field"
+        ? "Extracted fields — is the value correct?"
+        : "Empty fields — is the information in the PDF?";
+      pane.appendChild(s); sectShown[f.kind] = true;
+    }
+    pane.appendChild(f.kind === "field" ? fieldCard(t, a, f, fi) : nullCard(t, a, f, fi));
+  });
+  updateActiveCard();
+}
+function fieldCard(t, a, f, fi) {
+  const st = a.fields[f.name] || {};
+  const card = document.createElement("div");
+  card.className = "fieldcard"; card.dataset.fi = fi;
+  card.onclick = () => { S.activeField = fi; updateActiveCard(); };
+  card.innerHTML = `
+    <div class="fname">${f.name}
+      <button class="locate" title="Highlight evidence span in PDF (L)">Locate in PDF</button></div>
+    <div class="flabel">Extracted value</div>
+    <div class="fvalue">${escapeHtml(fmtVal(f.value))}</div>
+    <div class="flabel">Evidence span (verbatim)</div>
+    <div class="fspan">${escapeHtml(f.evidence_span || "—")}</div>
+    <div class="judge">
+      <button class="j-correct ${st.judgment === "correct" ? "sel" : ""}">correct <span class="key">1</span></button>
+      <button class="j-partial ${st.judgment === "partial" ? "sel" : ""}">partial <span class="key">2</span></button>
+      <button class="j-incorrect ${st.judgment === "incorrect" ? "sel" : ""}">incorrect <span class="key">3</span></button>
+    </div>
+    <div class="followup" style="display:${st.judgment && st.judgment !== "correct" ? "grid" : "none"}">
+      <select class="etype">
+        <option value="">— error type —</option>
+        ${ERROR_TYPES.map(e => `<option ${st.error_type === e ? "selected" : ""}>${e}</option>`).join("")}
+      </select>
+      <textarea class="cmt" placeholder="comment (optional)">${escapeHtml(st.comment || "")}</textarea>
+    </div>`;
+  card.querySelector(".locate").onclick = (e) => { e.stopPropagation(); locate(f.evidence_span || String(f.value || "")); };
+  card.querySelectorAll(".judge button").forEach(b => b.onclick = (e) => {
+    e.stopPropagation();
+    setFieldJudgment(t, f.name, b.classList.contains("j-correct") ? "correct"
+      : b.classList.contains("j-partial") ? "partial" : "incorrect", card, fi);
+  });
+  card.querySelector(".etype").onchange = (e) => {
+    ensureAnn(t.doc_id).fields[f.name].error_type = e.target.value; persist();
+  };
+  card.querySelector(".cmt").onchange = (e) => {
+    ensureAnn(t.doc_id).fields[f.name].comment = e.target.value; persist();
+  };
+  return card;
+}
+function setFieldJudgment(t, name, j, card, fi) {
+  const a = ensureAnn(t.doc_id);
+  a.fields[name] = { ...(a.fields[name] || {}), judgment: j };
+  a.ts = new Date().toISOString();
+  persist();
+  card.querySelectorAll(".judge button").forEach(b => b.classList.remove("sel"));
+  card.querySelector(".j-" + j).classList.add("sel");
+  card.querySelector(".followup").style.display = j !== "correct" ? "grid" : "none";
+  renderDocList();
+  if (j === "correct") advanceField(fi);
+}
+function nullCard(t, a, f, fi) {
+  const st = a.null_fields[f.name] || {};
+  const card = document.createElement("div");
+  card.className = "fieldcard"; card.dataset.fi = fi;
+  card.onclick = () => { S.activeField = fi; updateActiveCard(); };
+  card.innerHTML = `
+    <div class="fname">${f.name} <span class="hint" style="margin-left:auto">extracted: null</span></div>
+    <div class="judge">
+      <button class="j-absent ${st.judgment === "absent" ? "sel" : ""}">not in PDF <span class="key">1</span></button>
+      <button class="j-present ${st.judgment === "present" ? "sel" : ""}">present in PDF (missed) <span class="key">2</span></button>
+    </div>
+    <div class="followup" style="display:${st.judgment === "present" ? "grid" : "none"}">
+      <div class="row2">
+        <input class="ftext" placeholder="paste the text you found" value="${escapeAttr(st.found_text || "")}">
+        <input class="fpage" type="number" min="1" placeholder="page" value="${escapeAttr(st.page || "")}">
+      </div>
+    </div>`;
+  const comment = document.createElement("textarea");
+  comment.className = "ncomment";
+  comment.placeholder = "comment (optional)";
+  comment.value = st.comment || "";
+  card.appendChild(comment);
+  card.querySelectorAll(".judge button").forEach(b => b.onclick = (e) => {
+    e.stopPropagation();
+    setNullJudgment(t, f.name, b.classList.contains("j-absent") ? "absent" : "present", card, fi);
+  });
+  card.querySelector(".ftext").onchange = (e) => {
+    ensureAnn(t.doc_id).null_fields[f.name].found_text = e.target.value; persist(); };
+  card.querySelector(".fpage").onchange = (e) => {
+    ensureAnn(t.doc_id).null_fields[f.name].page = e.target.value; persist(); };
+  card.querySelector(".ncomment").onchange = (e) => {
+    ensureAnn(t.doc_id).null_fields[f.name].comment = e.target.value; persist(); };
+  return card;
+}
+function setNullJudgment(t, name, j, card, fi) {
+  const a = ensureAnn(t.doc_id);
+  a.null_fields[name] = { ...(a.null_fields[name] || {}), judgment: j };
+  a.ts = new Date().toISOString();
+  persist();
+  card.querySelectorAll(".judge button").forEach(b => b.classList.remove("sel"));
+  card.querySelector(".j-" + j).classList.add("sel");
+  card.querySelector(".followup").style.display = j === "present" ? "grid" : "none";
+  renderDocList();
+  if (j === "absent") advanceField(fi);
+}
+function advanceField(fi) {
+  const t = S.tasks[S.cur];
+  const flat = flatFields(t);
+  if (fi + 1 < flat.length) { S.activeField = fi + 1; updateActiveCard(); }
+}
+function updateActiveCard() {
+  document.querySelectorAll(".fieldcard").forEach(c => c.classList.remove("activecard"));
+  const c = document.querySelector(`.fieldcard[data-fi="${S.activeField}"]`);
+  if (c) { c.classList.add("activecard"); c.scrollIntoView({ block: "nearest", behavior: "smooth" }); }
+}
+
+/* ============ keyboard ============ */
+document.addEventListener("keydown", (e) => {
+  if ($("app").style.display === "none") return;
+  if (["INPUT", "TEXTAREA", "SELECT"].includes(document.activeElement.tagName)) return;
+  const t = S.tasks[S.cur]; if (!t) return;
+  const flat = flatFields(t);
+  const f = flat[S.activeField];
+  const card = document.querySelector(`.fieldcard[data-fi="${S.activeField}"]`);
+  if (e.key === "j" || e.key === "J") { S.activeField = Math.min(flat.length - 1, S.activeField + 1); updateActiveCard(); }
+  else if (e.key === "k" || e.key === "K") { S.activeField = Math.max(0, S.activeField - 1); updateActiveCard(); }
+  else if (e.key === "n" || e.key === "N") { if (S.cur + 1 < S.tasks.length) openDoc(S.cur + 1); }
+  else if (e.key === "p" || e.key === "P") { if (S.cur > 0) openDoc(S.cur - 1); }
+  else if ((e.key === "l" || e.key === "L") && f && f.kind === "field") locate(f.evidence_span || String(f.value || ""));
+  else if (f && card && ["1", "2", "3"].includes(e.key)) {
+    if (f.kind === "field") {
+      const j = { "1": "correct", "2": "partial", "3": "incorrect" }[e.key];
+      setFieldJudgment(t, f.name, j, card, S.activeField);
+    } else if (e.key === "1" || e.key === "2") {
+      setNullJudgment(t, f.name, e.key === "1" ? "absent" : "present", card, S.activeField);
+    }
+  }
+});
+
+/* ============ utils ============ */
+function fmtVal(v) {
+  if (v === null || v === undefined) return "null";
+  if (typeof v === "object") return JSON.stringify(v, null, 1);
+  return String(v);
+}
+function escapeHtml(s) { return String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])); }
+function escapeAttr(s) { return escapeHtml(s).replace(/'/g, "&#39;"); }
+</script>
+</body>
+</html>

@@ -1,0 +1,164 @@
+tion
+charge was funded by the University of Witten/Herdecke.
+Availability of data and materials
+The data supporting the conclusions of this article is included within the
+article (and its additional files).
+About this supplement
+This article has been published as part of BMC Geriatrics Volume 17
+Supplement 1, 2017: The Evidence Base of Frequently prescribed drugs in older
+Patients: A series of systematic reviews as a basis for recommendations in the
+PRIMA-eDS-tool to reduce inappropriate polypharmacy. The full contents of the
+supplement are available online at https://bmcgeriatr.biomedcentral.com/arti-
+cles/supplements/volume-17-supplement-1.
+Authors’ contributions
+AGS, AS, YM conceptualised the SR and performed the database searches.
+CS, LS, MK, AR and SW performed the SR. CS, LS and MK drafted the
+manuscript, supported by AS. IK reviewed the recommendation. All authors
+read and approved the final manuscript.
+Ethics approval and consent to participate
+Not applicable
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Publisher’sN o t e
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Author details
+1Institute of General Practice and Family Medicine, University of Witten/
+Herdecke, Alfred-Herrhausen-Straße 50, 58448 Witten, Germany.2NIHR School
+for Primary Care Research, Manchester Academic Health Science Centre,
+University of Manchester, Manchester, UK.3Department of Geriatrics,
+University Hospital Parc de Salut Mar, Barcelona, Spain.4Duodecim Medical
+Publications Ltd, Helsinki, Finland.
+Published: 16 October 2017
+References
+1. Go AS, et al. Prevalence of diagnosed atrial fibrillation in adults: national
+implications for rhythm management and stroke prevention: the
+AnTicoagulation and Risk Factors in Atrial Fibrillation (ATRIA) Study. JAMA.
+2001;285(18):2370– 5.
+2. Benjamin EJ, et al. Impact of atrial fibrillation on the risk of death: the
+Framingham Heart Study. Circulation. 1998;98(10):946– 52.
+3. Wolf PA, Abbott RD, Kannel WB. Atrial fibrillation as an independent risk
+factor for stroke: the Framingham Study. Stroke. 1991;22(8):983– 8.
+4. Hart RG, et al. Antithrombotic therapy to prevent stroke in patients with
+atrial fibrillation: a meta-analysis. Ann Intern Med. 1999;131(7):492– 501.
+5. Roskell NS, et al. Major bleeding in patients with atrial fibrillation receiving
+vitamin K antagonists: a systematic review of randomized and observational
+studies. Europace. 2013;15(6):787– 97.
+6. Kirchhof P, et al. 2016 ESC Guidelines for the management of atrial
+fibrillation developed in collaboration with EACTS. Eur Heart J. 2016;37(38):
+2893– 962.
+7. Renom-Guiteras A, Meyer G, Thurmann PA. The EU(7)-PIM list: a list of
+potentially inappropriate medications for older people consented by experts
+from seven European countries. Eur J Clin Pharmacol. 2015;71(7):861– 75.
+The Author(s)BMC Geriatrics2017, 17(Suppl 1):223 Page 96 of 157
+
+[W2767010212 PDF PAGE 25]
+8. NICE, Atrial fibrillation: management . 2014.
+9. Salvi F, et al. Adverse drug events as a cause of hospitalization in older
+adults. Drug Saf. 2012;35(Suppl 1):29– 45.
+10. Gamra H, et al. Use of antithrombotics in atrial fibrillation in Africa, Europe,
+Asia and South America: insights from the International RealiseAF Survey.
+Arch Cardiovasc Dis. 2014;107(2):77– 87.
+11. Murphy NF, et al. A national survey of the prevalence, incidence, primary care
+burden and treatment of atrial fibrillation in Scotland. Heart. 2007;93(5):606– 12.
+12. Hajjar ER, Cafiero AC, Hanlon JT. Polypharmacy in elderly patients. Am J
+Geriatr Pharmacother. 2007;5(4):345– 51.
+13. Hovstadius B, et al. Increasing polypharmacy - an individual-based study of
+the Swedish population 2005-2008. BMC Clin Pharmacol. 2010;10:16.
+14. Barat I, Andreasen F, Damsgaard EM. The consumption of drugs by 75-year-old
+individuals living in their own homes. Eur J Clin Pharmacol. 2000;56(6– 7):501– 9.
+15. Glaeske G, Schicktanz C. BARMER GEK Arzneimittelreport 2013. 2013.
+16. Higgins JP, Green S, Cochrane handbook for systematic reviews of
+interventions. Version 5.1.0 [updated March 2011] The Cochrane
+Collaboration. 2011.
+17. Liberati A, et al. The PRISMA statement for reporting systematic reviews and
+meta-analyses of studies that evaluate healthcare interventions: explanation
+and elaboration. BMJ. 2009;339:b2700.
+18. Martinez YM, R-GA, Reeves D, Ediriweera de Silva RE, Esmail A, Kunnamo I,
+Rieckert A, Sommerauer C, Sönnichsen A. A set of systematic reviews to
+help reduce inappropriate prescribing to older people: study protocol. BMC
+Geriatrics. 2017;17(1).
+19. Shea BJ, et al. Development of AMSTAR: a measurement tool to assess the
+methodological quality of systematic reviews. BMC Med Res Methodol.
+2007;7:10.
+20. Shea BJ, et al. AMSTAR is a reliable and valid measurement tool to assess
+the methodological quality of systematic reviews. J Clin Epidemiol. 2009;
+62(10):1013– 20.
+21. Guyatt GH, et al. Going from evidence to recommendations. BMJ. 2008;
+336(7652):1049– 51.
+22. Guyatt GH, et al. What is“quality of evidence” and why is it important to
+clinicians? BMJ. 2008;336(7651):995– 8.
+23. Guyatt GH, et al. GRADE: an emerging consensus on rating quality of
+evidence and strength of recommendations. BMJ. 2008;336(7650):924– 6.
+24. Qaseem A, et al. The development of clinical practice guidelines and
+guidance statements of the American College of Physicians: summary of
+methods. Ann Intern Med. 2010;153(3):194– 9.
+25. Kunnamo, I., Methodology Handbook for EBM Guidelines, its Evidence
+Summaries, and EBMeDS Decision Support Rules. 2016.
+26. Sharma M, et al. Efficacy and Harms of Direct Oral Anticoagulants in the
+Elderly for Stroke Prevention in Atrial Fibrillation and Secondary Prevention
+of Venous Thromboembolism: Systematic Review and Meta-Analysis.
+Circulation. 2015;132(3):194– 204.
+27. Agarwal S, Hachamovitch R, Menon V. Current trial-associated outcomes with
+warfarin in prevention of stroke in patients with nonvalvular atrial fibrillation: a
+meta-analysis. Arch Intern Med. 2012;172(8):623– 31. discussion 631-3
+28. Ruff CT, et al. Comparison of the efficacy and safety of new oral
+anticoagulants with warfarin in patients with atrial fibrillation: a meta-
+analysis of randomised trials. Lancet. 2014;383(9921):955– 62.
+29. Briceno DFV, Spinetto PV, Cyrille N, Massera D, Bader E, Manheimer E, Aagaard
+P, Ferrick K, Gross J, Kim SG, Krumerman A, Palma E, Guttenplan N, Romero J,
+Fisher J, Garcia M, Natale A, Di Biase L. Left Atrial Appendage Occlusion Device
+and Novel Oral Anticoagulants Versus Warfarin for Stroke Prevention in
+Nonvalvular Atrial Fibrillation: Systematic Review and Meta-Analysis of
+Randomized Controlled Trials. Circ Arrhythm Electrophysiol. 2015;8(5):1057– 64.
+30. Lega JC, et al. Consistency of safety and efficacy of new oral anticoagulants
+across subgroups of patients with atrial fibrillation. PLoS One. 2014;9(3):e91398.
+31. Adam SS, et al. Comparative effectiveness of warfarin and new oral
+anticoagulants for the managementof atrial fibrillation and venous
+thromboembolism: a systematic review. Ann Intern Med. 2012;157(11):796– 807.
+32. Sardar PC, Chatterjee S, Chaudhari S, Lip GYH. New oral anticoagulants in
+elderly adults: evidence from a meta-analysis of randomized trials. J Am
+Geriatr Soc. 2014;62(5):857– 64.
+33. Holster IL, et al. New oral anticoagulants increase risk for gastrointestinal bleeding:
+a systematic review and meta-analysis.Gastroenterology. 2013;145(1):105– 12. e15
+34. Aguilar MI, Hart R. Oral anticoagulants for preventing stroke in patients with
+non-valvular atrial fibrillation and no previous history of stroke or transient
+ischemic attacks. Cochrane Database Syst Rev. 2005;3:CD001927.
+35. Coleman CI, et al. Effect of pharmacological therapies for stroke prevention
+on major gastrointestinal bleeding in patients with atrial fibrillation. Int J
+Clin Pract. 2012;66(1):53– 63.
+36. Lip GY, Edwards SJ. Stroke prevention with aspirin, warfarin and
+ximelagatran in patients with non-valvular atrial fibrillation: a systematic
+review and meta-analysis. Thromb Res. 2006;118(3):321– 33.
+37. Andersen LV, et al. Warfarin for the prevention of systemic embolism in
+patients with non-valvular atrial fibrillation: a meta-analysis. Heart. 2008;
+94(12):1607– 13.
+38. Segal JB, et al. Prevention of thromboembolism in atrial fibrillation. A meta-
+analysis of trials of anticoagulants and antiplatelet drugs. J Gen Intern Med.
+2000;15(1):56– 67.
+39. Hart RG, Pearce LA, Aguilar MI. Meta-analysis: antithrombotic therapy to
+prevent stroke in patients who have nonvalvular atrial fibrillation. Ann Intern
+Med. 2007;146(12):857– 67.
+40. Dogliotti A, Paolasso E, Giugliano RP. Current and new oral antithrombotics
+in non-valvular atrial fibrillation: a network meta-analysis of 79 808 patients.
+Heart. 2014;100(5):396– 405.
+41. Cooper NJ, et al. Mixed comparison of stroke prevention treatments in
+individuals with nonrheumatic atrial fibrillation. Arch Intern Med. 2006;
+166(12):1269– 75.
+42. Assiri A, et al. Mixed treatment comparison meta-analysis of aspirin, warfarin,
+and new anticoagulants for stroke prevention in patients with nonvalvular
+atrial fibrillation. Clin Ther. 2013;35(7):967– 84. e2
+43. Lin LL, Lim WS, Zhou HJ, Khoo AL, Tan KT, Chew AP, Foo D, Chin JJ, Lim BP.
+Clinical and Safety Outcomes of Oral Antithrombotics for Stroke Prevention
+in Atrial Fibrillation: A Systematic Review and Network Meta-analysis. J Am
+Med Dir Assoc. 2015;16(12):1103.e1– 19.
+44. Aguilar MI, Hart R, Pearce LA. Oral anticoagulants versus antiplatelet therapy
+for preventing stroke in patients with non-valvular atrial fibrillation and no
+history of stroke or transient ischemic attacks. Cochrane Database Syst Rev.
+2007;3:CD006186.
+45. Taylor FC, Cohen H, Ebrahim S. Systematic review of long term
+anticoagulation or antiplatelet treatment in patients with non-rheumatic
+atrial fibrillation. BMJ. 2001;322(7282):321– 6.
+46. Ca

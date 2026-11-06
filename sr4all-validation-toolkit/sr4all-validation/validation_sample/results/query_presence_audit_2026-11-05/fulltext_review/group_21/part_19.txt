@@ -1,0 +1,184 @@
+ due to the non-invasive mode of this technique.
+Both single and multiple sessions of high-frequency rTMS
+targeting M1 result in statistically significant pain reduc-
+tion. The effect compared to sham stimulation is, however,
+moderate and highly variable. Multiple, consecutive ses-
+sions of rTMS give a better and more longstanding pain
+relief and are therefore mainly utilised clinically today [58,
+74]. Single-session rTMS may be suitable as a test to predict
+a positive pain-relieving response of epidural MCS which
+can facilitate the selection of appropriate patients for im-
+plantation of epidural electrodes [8, 17, 22, 67]. Somato-
+topic, navigated rTMS for appropriate electrode placement
+has the potential to further improve the outcomes in this
+respect [15, 52, 75]. Additional critical appraisal of the ef-
+ﬁcacy of rTMS for different types of NP is needed. There are
+still major knowledge gaps concerning the long-term ef-
+fects of rTMS on HRQoL and analgesic medication use, as
+well as lack of data on the cost-effectiveness of this therapy
+in pain treatment. These important outcome variables need
+to be addressed more consistently in future studies to
+consolidate a routine use of rTMS in chronic pain
+management.
+Acknowledgements: We would like to thank Magnus Pet-
+tersson, biostatistician (PStat®), Statistikkonsulterna for
+help with the statistical analysis.
+Research funding:Authors state no funding involved.
+Author contributions : All authors have accepted
+responsibility for the entire content of this manuscript
+and approved its submission.
+Conﬂict of interest:Authors state no conﬂict of interest.
+References
+1. Langley PC, Van Litsenburg C, Cappelleri JC, Carroll D. The burden
+associated with neuropathic pain in Western Europe. J Med Econ
+2013;16:85– 95.
+2. Smith BH, Torrance N. Epidemiology of neuropathic pain and its
+impact on quality of life. Curr Pain Headache Rep 2012;16:
+191– 8.
+3. van Hecke O, Austin SK, Khan RA, Smith BH, Torrance N.
+Neuropathic pain in the general population: a systematic review
+of epidemiological studies. Pain 2014;155:654– 62.
+4. Bates D, Schultheis BC, Hanes MC, Jolly SM, Chakravarthy KV,
+Deer TR, et al. A comprehensive algorithm for management of
+neuropathic pain. Pain Med 2019;20:S2– 12.
+5. Jones RC 3rd, Lawson E, Backonja M. Managing neuropathic pain.
+Med Clin 2016;100:151– 67.
+6. Deer TR, Mekhail N, Provenzano D, Pope J, Krames E, Leong M,
+et al. The appropriate use of neurostimulation of the spinal cord
+and peripheral nervous system for the treatment of chronic pain
+and ischemic diseases: the neuromodulation appropriateness
+consensus committee. Neuromodulation 2014;17:515– 50.
+7. Dworkin RH, O’Connor AB, Kent J, Mackey SC, Raja SN, Stacey BR,
+et al. Interventional management of neuropathic pain: NeuPSIG
+recommendations. Pain 2013;154:2249– 61.
+8. Cruccu G, Garcia-Larrea L, Hansson P, Keindl M, Lefaucheur JP,
+Paulus W, et al. EAN guidelines on central neurostimulation
+therapy in chronic pain conditions. Eur J Neurol 2016;23:
+1489– 99.
+9. Deer TR, Mekhail N, Petersen E, Krames E, Staats P, Pope J, et al.
+Neuromodulation Appropriateness Consensus Committee. The
+appropriate use of neurostimulation: stimulation of the
+intracranial and extracranial space and head for chronic pain.
+Neuromodulation 2014;17:551– 70.
+10. Levy R, Deer TR, Henderson J. Intracranial neurostimulation for
+pain control: a review. Pain Physician 2010;13:157– 65.
+11. Abreu V, Vaz R, Rebelo V, Rosas MJ, Chamadoira C, Gillies MJ,
+et al. Thalamic deep brain stimulation for neuropathic pain:
+efﬁcacy at three years’follow-up. Neuromodulation 2017;20:
+504– 13.
+12. Farrell SM, Green A, Aziz T. The current state of deep brain
+stimulation for chronic pain and its context in other forms of
+neuromodulation. Brain Sci 2018;8:158.
+13. Henssen DJHA, Kurt E, van Cappellen van Walsum AM, Arnts I,
+Doorduin J, Kozicz T, et al. Long-term effect of motor cortex
+stimulation in patients suffering from chronic neuropathic pain:
+an observational study. PloS One 2018;13: e0191774. https://
+doi.org/10.1371/journal.pone.0191774.
+Gatzinsky et al.: Neuromodulation for chronic pain treatment 19
+
+[W3083867998 PDF PAGE 13]
+14. Im SH, Ha SW, Kim DR, Son BC. Long-term results of motor cortex
+stimulation in the treatment of chronic, intractable neuropathic
+pain. Stereotact Funct Neurosurg 2015;93:212– 8.
+15. De Ridder D, Perera S, Vanneste S. State of the art: novel
+applications for cortical stimulation. Neuromodulation 2017;20:
+206– 14.
+16. Kurt E, Henssen DJHA, Steegers M, Staal M, Beese U, Maarrawi J,
+et al. Motor cortex stimulation in patients suffering from chronic
+neuropathic pain: summary of expert meeting and premeeting
+questionnaire, combined with literature review. World Neurosurg
+2017;108:254– 63.
+17. Lima MC, Fregni F. Motor cortex stimulation for chronic pain:
+systematic review and meta-analysis of the literature. Neurology
+2008;70:2329– 37.
+18. Lefaucheur JP. The use of repetitive transcranial magnetic
+stimulation (rTMS) in chronic neuropathic pain. Neurophysiol
+Clin 2006;36:117– 24.
+19. Lefaucheur JP, Drouot X, Nguyen JP. Interventional
+neurophysiology for pain control: duration of pain relief following
+repetitive transcranial magnetic stimulation of the motor cortex.
+Neurophysiol Clin 2001a;31:247– 52.
+20. Rollnik JD, Wüstefeld S, Däuper J. Repetitive transcranial
+magnetic stimulation for the treatment of chronic pain– a pilot
+study. Eur Neurol 2002;48:6– 10.
+21. Pascual-Leone A, Tormos JM, Keenan J, Tarazona F, Cañete C,
+Catalá MD. Study and modulation of human cortical excitability
+with transcranial magnetic stimulation. J Clin Neurophysiol 1998;
+15:333– 43.
+22. Lefaucheur JP, Andr´e-Obadia N, Antal A, Ayache SS, Baeken C,
+Benninger DH, et al. Evidence-based guidelines on the
+therapeutic use of repetitive transcranial magnetic stimulation
+(rTMS). Clin Neurophysiol 2014;125:2150– 206.
+23. Mulla SM, Wang L, Khokhar R, Izhar Z, Agarwal A, Couban R, et al.
+Management of central poststroke pain: systematic review of
+randomized controlled trials. Stroke 2015;46:2853– 60.
+24. O’Connell NE, Wand BM, Marston L, Spencer S, DeSouza LH. Non-
+invasive brain stimulation techniques for chronic pain. Cochrane
+Database Syst Rev 2014;4:CD008208.
+25. DosSantos MF, Oliveira AT, Ferreira NR, Carvalho ACP, Rosado de
+Castro PH. The contribution of endogenous modulatory systems
+to TMS- and tDCS-induced analgesia: evidence from PET studies.
+Pain Res Manag 2018:14. Article ID 2368386.
+26. Lamusuo S, Hirvonen J, Lindholm P, Martikainen IK, Hagelberg N,
+Parkkola R, et al. Neurotransmitters behind pain relief with
+transcranial magnetic stimulation– positron emission
+tomography evidence for release of endogenous opioids. Eur J
+Pain 2017;21:1505– 15.
+27. Andr´e-Obadia N, Mertens P, Gueguen A, Peyron R, Garcia-Larrea
+L. Pain relief by rTMS. Differential effect of currentﬂow but no
+speciﬁc action on pain subtypes. Neurology 2008;71:833– 40.
+28. Andre-Obadia N, Peyron R, Mertens P, Mauguiere F, Laurent B,
+Garcia-Larrea L. Transcranial magnetic stimulation for pain
+control. Double-blind study of different frequencies against
+placebo, and correlation with motor cortex stimulation efﬁcacy.
+Clin Neurophysiol 2006;117:1536– 44.
+29. Moisset X, Lefaucheur JP. Non pharmacological treatment for
+neuropathic pain: invasive and non-invasive cortical stimulation.
+Rev Neurol (Paris) 2019;175:51– 8.
+30. Lefaucheur JP, M´enard-Lefaucheur I, Goujon C, Keravel Y, Nguyen
+JP. Predictive value of rTMS in the identiﬁcation of responders to
+epidural motor cortex stimulation therapy for pain. J Pain 2011;12:
+1102– 11.
+31. Liberati A, Altman DG, Tetzlaff J, Mulrow C, Gøtzsche PC, Ioannidis
+JP, et al. The PRISMA statement for reporting systemic reviews
+and meta-analyses of studies that evaluate health care
+interventions: explanation and elaboration. J Clin Epidemiol
+2009;62:e1– 34.
+32. Boudin F, Nie JY, Bartlett JC, Grad R, Pluye P, Dawes M. Combining
+classiﬁers for robust PICO element detection. BMC Med Inf Decis
+Making 2010;10:29.
+33. Atkins D, Best D, Briss PA, Eccles M, Falck-Ytter Y, Flottorp S, et al.
+GRADE Working Group. Grading quality of evidence and strength
+of recommendations. BMJ 2004;328:1490– 4.
+34. Andre-Obadia N, Magnin M, Garcia-Larrea L. On the importance of
+placebo timing in rTMS studies for pain relief. Pain 2011;152:
+1233– 7.
+35. Hirayama A, Saitoh Y, Kishima H, Shimokawa T, Oshino S, Hirata
+M, et al. Reduction of intractable deafferentation pain by
+navigation-guided repetitive transcranial magnetic stimulation
+of the primary motor cortex. Pain 2006;122:22– 7.
+36. Jett´e F, Cote I, Meziane HB, Mercier C. Effect of single-session
+repetitive transcranial magnetic stimulation applied over the
+hand vs. leg motor area on pain after spinal cord injury.
+Neurorehabilitation Neural Repair 2013;27:636– 43.
+37. Lefaucheur JP, Drouot X, Keravel Y, Nguyen JP. Pain relief induced
+by repetitive transcranial magnetic stimulation of precentral
+cortex. Neuroreport 2001b;12:2963– 5.
+38. Lefaucheur JP, Drouot X, Menard-Lefaucheur I, Keravel Y, Nguyen
+JP. Motor cortex rTMS in chronic neuropathic pain: pain relief is
+associated with thermal sensory perception improvement. J
+Neurol Neurosurg Psychiatry 2008;79:1044– 9.
+39. Lefaucheur JP, Drouot X, Menard-Lefaucheur I, Zerah F, Bendib B,
+Cesaro P, et al. Neurogenic pain relief by repetitive transcranial
+magnetic cortical stimulation depends on the origin and the site
+of pain. J Neurol Neurosurg Psychiatry 2004;75:612– 6.
+40. Pleger B, Janssen F, Schweinkreis P, Volker B, Maier C, Tegenthoff
+M. Repetitive transcranial magnetic stimulation of the motor
+cortex attenuates pain perception in complex regional pain
+syndrome type I. Neurosci Lett 2004;356:87– 90.
+41. Saitoh Y, Hirayama A, Kishima H, Shimokawa T, Oshino S, Hirata
+M, et al. Reduction of intractable deafferentation pain due to
+spinal cord or peripheral lesion by high-frequency repetitive
+transcranial magnetic stimulation of the primary motor cortex. J
+Neurosurg 2007;107:555– 9.
+42. A

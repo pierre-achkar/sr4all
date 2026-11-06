@@ -1,0 +1,193 @@
+epend-
+ent cytotoxicity [56, 60], except for EpiAirway™ cells in 
+Table 4  Cytotoxic effects of gaseous pollutants on airway epithelial cells
+Reference Exposure 
+agent(s) Results Effect
+Cell viability/Cytotoxicity
+[51] NO2 Significant concentration-dependent decrease in cell viability 
+after 1-hour exposure. Less than 50% viability for both A549 
+cells and skin fibroblasts after exposure to the highest 
+concentration of NO2. Dose-dependent cytotoxic effects 
+following the exposure of A549 cells to 10000 µg/m3 NO2.
+[52] NO2 No significant decrease in cell viability.
+[53] NO2 No influence on cell viability or proliferation (95-100% 
+viability in all experiments).
+[54] NO2 No increase in caspase-3 activity.
+[56] O3 Statistically significant increase in cytotoxicity over the last 
+2 weeks at high exposure concentrations. Higher 
+susceptibility of chronically inflamed mucosa.
+[57] O3 Significant reduction in cell viability of A549 cells after 2-
+hour exposure to 400 µg/m3 O3.
+[60] O3 Statistically significant increases in LDH levels after 9 and 
+24-hour exposures of A549 cells to O3 or aged SynUrb54. 
+No increase in cytotoxicity for EpiAirway™  cells.
+[62] O3 Dose-dependent decrease in cell viability for both cell types 
+after exposure to 1000 µg/m3 O3.
+NO2 Dose-dependent decrease down to 50% viability for HFBE-
+21 cells after 1-hour exposure to 150-2400 µg/m3 NO2.
+[63] HCHO Significant decrease in cell viability after 30-minute 
+exposure to 75 µg/m3 HCHO. 
+[64] HCHO No significant cytotoxic effects after 30-minute exposure to 
+50 µg/m3 HCHO.
+[65] HCHO No significant changes in cell viability.
+[66] HCHO No significant effects on cell viability after exposure of both 
+gases at the ALI alone or as a mixture of 200 µg/m3 HCHO 
+and 800 µg/m3 NO2. 
+Significant decrease in cell viability after exposure of 
+submerged cultures to the mixture of gases.
+NO2
+HCHO + NO2
+[67] Benzene, 
+toluene and 
+xylenes
+Concentration-dependent decrease in cell viability after 1-
+hour hanging drop benzene exposure, but no statistical 
+significance reported.
+[69] Gasoline VOCsS ignificant dose-dependent reduction in A549 cell viability 
+after exposure to gasoline VOCs. Highest increase in 
+cytotoxicity immediately after exposure to 337 ppm (64%) 
+and 24 hours after exposure (54%).
+[68] NO2 Significant decrease of 67% in A549 cell viability after 
+exposure to NO2, and significant concentration-dependent 
+decreases of 47%, 77% and 86% after exposure to 
+ethylbenzene. Significant increase of 9% in cytotoxicity 
+(NO2) and concentration-dependent increases of 9%, 20% 
+and 36% (ethylbenzene).
+Ethylbenzene
+Detrimental statistically significant effect reported
+Studied but no statistically significant effect reported
+
+[W4412727192 PDF PAGE 16]
+ Current Environmental Health Reports           (2025) 12:26 
+   26  Page 16 of 40
+one study [60]. One study shows significantly reduced cell 
+viability of A549 cells [57]. Similarly, one study observed 
+a substantial decrease in cell viability for two different cell 
+types, but the authors did not report any statistical analyses 
+[62].
+Volatile Organic Compounds (VOCs) The cytotoxic effects 
+of different volatile organic compounds (VOCs) were tested 
+in 7 studies, including 4 studies focused on formaldehyde 
+[63–66], one study on benzene, toluene and xylenes [67], 
+one study on gasoline VOCs [69], and another study on eth-
+ylbenzene [68 ]. Results suggest that there is a detrimental 
+effect of VOCs on A549 cells, since significant cytotoxic 
+effects were reported after exposure to gasoline VOCs [69] 
+or ethylbenzene [68]. However, no statistical significance 
+was reported for benzene, toluene and xylenes using a hang-
+ing drop exposure method [67]. Finally, only one study was 
+able to report statistically significant cytotoxicity following 
+formaldehyde exposure [63].
+Aerosols and Particulate Matter (PM)
+A summary of the studies evaluating the cytotoxicity of 
+aerosols and particulate matter on airway epithelial cells is 
+provided in Table 5.
+Diesel Exhaust Particles (DEP) The cytotoxicity of diesel 
+exhaust particles was evaluated in 7 studies. Three studies 
+reported statistically significant cytotoxic effects of DEP 
+[70–72], while 4 studies did not find significant variations 
+following DEP exposure [73–76]. Moreover, no significant 
+differences in cytotoxicity were observed following DEP 
+filtration [75].
+Particulate Matter (PM) and Secondary Aerosol from Soot Par‑
+ticles (SP) The cytotoxicity of particulate matter (PM) from 
+brake wear debris was evaluated in two studies [78, 79]. No 
+significant differences between the particle-exposed group 
+and incubator controls were reported. Similarly, no decrease 
+in cell viability was observed in A549 cells and THP-1 mac-
+rophages exposed to jet-fuel particulate matter [89].
+On the other hand, the impact of fine and coarse par -
+ticulate matter was tested in 4 studies [82–85]. Cytotoxicity 
+increased significantly after exposure to  PM4 [83] and both 
+ PM2.5 and  PM10 [84] in healthy and diseased human bron-
+chial epithelial cell cultures. Additionally, cell viability of 
+Small Airway Epithelial Cells (SAECs) decreased signifi-
+cantly after exposure to  PM2.5 surrogates of urban environ-
+ment [82]. A slight increase of cytotoxicity of ALI cultures 
+was reported following exposure to  PMcoarse, although this 
+effect did not reach statistical significance [85].
+Cell cultures exposed repeatedly to fine particles (FP) and 
+ultra-fine (UFP) particles experienced a significant reduction 
+of cell viability in one study [87]. Interestingly, the cytotoxic 
+response was exacerbated by exposure to UFP in the case of 
+diseased human bronchial epithelial cells (COPD-DHBE). 
+However, aerosol generated from carbonaceous ultrafine 
+particles (C-UFP) did not induce cytotoxic effects on A549 
+cells [90], and the effects of UFP from aviation and road 
+traffic emissions were not statistically significant [88].
+Finally, the impact of exposure to secondary organic 
+matter and aerosols derived from soot particles (SPs) was 
+assessed in two studies [91, 92]. The cytotoxicity increased 
+significantly for NHBE cells after exposure to high concen-
+trations of coated SPs, whereas cells exposed to particle-free 
+air did not experience substantial increases [91]. Moreo-
+ver, exposure to SPs with aerosols from naphthalene and 
+β-pinene had significant concentration-dependent cytotoxic 
+effects on A549 cells [92].
+Combined Aerosols and Gaseous Pollutants
+A summary of the studies evaluating the combined cytotoxic 
+effects of aerosols and gaseous pollutants on airway epithe-
+lial cells is provided in Table 6.
+The cytotoxicity of diesel exhaust was assessed in 4 
+studies, and significant effects were reported in 3 studies 
+[93–95]. Additionally, a notable decrease in cell viability 
+was found in one study, but no statistical analyses were con-
+ducted [97].
+The combined effect of diesel exhaust particles (DEP) 
+with  NO2 and  SO2 was evaluated in one study, but no cyto-
+toxic effects were found for primary bronchial epithelial 
+cells (PBECs) at any exposure dose [96]. Cytotoxicity 
+changed not only after exposure to diesel exhaust, but also 
+to biodiesel and triacetin/biodiesel mixtures [95]. In fact, 
+significantly different responses were reported in this study 
+between the different emission compounds.
+Gasoline exhaust emissions increased cytotoxicity in 
+A549 cells [98], MucilAir™ tissues [99] and BEAS-2B 
+cells [99, 100]. However, no significant differences between 
+control and exposed BEAS-2B cell cultures were observed 
+after exposure to gasoline-ethanol blend exhaust for five 
+days [100]. On the other hand, one study from Bisig et al. 
+reported significant cytotoxic effects of ambient air on 
+human bronchial cells [102].
+Cellular Inflammation
+Cellular inflammation is a complex defence biological process 
+that involves the release of inflammatory mediators such as 
+cytokines and chemokines, which can be quantified in the cul-
+ture media using well-established methods [111], such as the 
+Enzyme-linked immunosorbent assay (ELISA) [112].
+
+[W4412727192 PDF PAGE 17]
+Current Environmental Health Reports           (2025) 12:26  
+ Page 17 of 40    26 
+Table 5  Cytotoxic effects of aerosols and PM on airway epithelial cells
+Reference Exposure 
+agent(s) Results Effect
+Cell viability/Cytotoxicity
+[70] DEPS tatistically significant decrease of cell viability observed for 
+A549 cells after both aerosol and liquid exposures. Significant 
+increase of cytotoxicity of A549 cells dependent on the mass of 
+DEP deposited.
+[71] DEPS tatistically significant and time-related increase in LDH release 
+after exposure to 3.4 and 5 µg/cm2 DEP.
+[72] DEPD ecrease to around 75% of the viability of unexposed 16HBE14o 
+cells after exposure to filtered or whole diesel exhaust at the ALI. 
+Exposure of bronchial epithelial cells to both 2.5 and 12.5 µg/cm2
+DEP suspensions significantly decreased cell viability to around 
+86%.
+[73] DEPN o significant differences in cell viability and cytotoxicity of 
+PBEC and THP-1 after exposure to 12.7 µg/cm2 DEP.
+[74] DEPN o statistically significant changes in cell viability compared to 
+control cells after exposure of the tetra-culture to 0.04, 0.08 and 
+0.24 µg/cm2 DEP.
+[75] DEPN o statistically significant differences found between filtered air 
+and DEP exposures for extracellular LDH activity. Very low 
+expression levels of Caspase-7 (CASP7) and FAS reported, 
+indicating absence of a pro-apoptotic effect.
+[76] DEPN o release of LDH in human nasal epithelial cells (HNE) after particle exposure.
+PM2.5
+[77] GEPI ncreased cytotoxicity for all cell models compared to particle-
+free air exposure, and significant correlation with particle dose 
+observed in all models except in cystic fibrosis epithelia.
+[78] Brake wear PM Increasing tendency for cytotoxicity in A549 cells, macrophages 
+and dendritic cells, but no statistically significant changes.
+[79] Brake wear PM No significant differences 

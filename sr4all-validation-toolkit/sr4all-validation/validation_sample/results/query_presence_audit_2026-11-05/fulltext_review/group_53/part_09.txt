@@ -1,0 +1,187 @@
+d out independently by two authors (either TP, AM, SC, EG, SWDM or SM), with 
+disagreements resolved by discussion. Publications assessed as high quality were 
+considered more credible and relevant and were given priority during data synthesis. Given 
+the scarcity and diffuse nature of the evidence identified, publications assessed as low 
+quality were also included.
+Data synthesis
+Data synthesis used a narrative approach, following the framework outlined by Popay et 
+al.(15) Narrative synthesis is “an approach to the systematic review and synthesis of findings 
+from multiple studies that relies primarily on the use of words and text to summarise and 
+explain the findings of the synthesis.”(15) This was chosen to synthesise studies with 
+heterogeneous research design and context, including a mix of qualitative or quantitative 
+findings. Whereas conventional systematic reviews address narrowly focused questions, 
+presenting a summary of the data, narrative syntheses provide interpretation and critique, 
+aiming to deepen understanding.(16)
+
+
+[W4399086352 PDF PAGE 9]
+The narrative synthesis involved the following three iterative stages:
+1. Developing a preliminary synthesis. LP created a textual description of each study 
+from the data extraction forms. Study descriptions were grouped together and 
+tabulated based on the research questions the results answered, followed by an 
+inductive thematic analysis to identify the relevant data across the studies in 
+answering each research question.(15)
+2. Exploring relationships within and between studies. LP constructed an interpretive 
+synthesis by identifying factors that might explain differences in study findings, 
+seeking to understand how and why interventions have or do not have an effect by 
+interrogating the reported facilitators and barriers to the communication of poor 
+prognosis between secondary care and primary care. The synthesis sought to 
+explore the differences and similarities between the studies, including methodological 
+approaches, context, the characteristics of the populations being studied, and results. 
+The synthesis was further refined through discussion of the review results and their 
+implications with the co-authors, who are from clinical and social science academic 
+backgrounds.
+3. Assessing the robustness of the synthesis. Methodological quality of the primary 
+studies was assessed by LP using the MMAT (14) and integrated into the narrative 
+synthesis, as described above.  
+Patient and public involvement
+A patient and public involvement advisory panel of seven people with experience of being a 
+current or bereaved carer for someone at the end of life helped to shape the review 
+questions. 
+Results
+After de-duplication, the electronic searches and hand-searching identified 23,853 individual 
+studies (see Figure 1). A total of 23,653 studies were excluded at title or abstract level. Two 
+hundred publications were screened at full text, of which 30 met the eligibility criteria and 
+were included in the synthesis.(7,17–45)
+Characteristics of included evidence
+The included studies were 23 original articles and 7 conference abstracts or project reports, 
+using qualitative, quantitative, and mixed-methods. Studies were conducted between 2000 
+and 2022, in: Australia (n = 2), Belgium (n = 1), Canada (n = 3), France (n = 1), the 
+
+
+[W4399086352 PDF PAGE 10]
+Netherlands (n = 8), New Zealand (n = 1), UK (n = 10) and USA (n = 4). Supplementary 
+Table S1 summarises the included publications. 
+Quality of studies
+The methodological quality of the studies was mixed (Table 2). Overall, the studies were 
+assessed to have considerable risk of bias, primarily due to insufficient or inadequate 
+reporting. Eighteen of the 30 included studies met all possible appraisal criteria.
+Table 2. Methodological quality of included studies (high quality, medium quality, low 
+quality)
+First Author Mixed Methods Appraisal Tool Criteria
+Qualitative
+Criteria 1.1 1.2 1.3 1.4 1.5
+Farquhar 
+(2005)
+Yes Yes Yes Yes Yes
+Flierman Yes Yes Yes Yes Yes
+Mason Yes Yes Yes Yes Yes
+Mitchell Yes Yes Yes Yes Yes
+Oosterink Yes Yes Yes Yes Yes
+Pocock Yes Yes Yes Yes Yes
+Scheerens Yes Yes Yes Yes Yes
+Schichtel Yes Yes Yes Yes Yes
+Schoenborn Yes Yes Yes Yes Yes
+Silveira Yes Yes Yes Yes Yes
+Stegmann Yes Yes Unknown No Yes
+Quantitative randomized controlled trials
+Criteria 2.1 2.2 2.3 2.4 2.5
+Aubin Yes Yes No Unknown No
+Quantitative descriptive
+Criteria 4.1 4.2 4.3 4.4 4.5
+Abbioui* Unknown Unknown Unknown No Unknown
+Babington Yes Yes Yes Yes Yes
+Broese Yes Unknown Yes No Yes
+Engel (2020) Yes Unknown Yes No Yes
+Engel (2022) Yes Unknown Yes Yes Yes
+Ermers Yes Yes Yes Yes Yes
+Farquhar 
+(2002)
+Yes Unknown Yes Yes Yes
+Hodgekiss* Yes Yes Yes Yes Yes
+Lang* No No Yes Unknown Yes
+Ledeboer Yes Yes Yes Yes Yes
+Miller Yes Yes Yes Yes Yes
+Moth Yes Yes Unknown Unknown Yes
+Rowlands Unknown Unknown Yes Yes Yes
+Mixed-methods
+Criteria 5.1 5.2 5.3 5.4 5.5
+
+
+[W4399086352 PDF PAGE 11]
+Shen Yes Yes Yes Yes Yes
+Sinnarajah* No Unknown No No Unknown
+Tanner Yes Yes Unknown Unknown No
+University 
+Hospitals 
+Bristol*
+No Unknown Yes No No
+Watanabe* No Unknown Yes No No
+ 
+Focus and nature of available evidence
+Few studies investigated poor prognosis communication from secondary care to primary 
+care as their primary focus. Most focused on general communication, with indirect evidence 
+of poor prognosis communication. Fourteen studies focused on cancer patients. The number 
+of studies relevant to each review question is presented in Table 3; of the 30 included 
+studies, only five assessed or considered the impact of secondary-to-primary care 
+communication of poor prognosis on patient care.  
+Table 3. The number of studies addressing each review question
+Review question Number of studies 
+answering each review 
+question
+How is poor prognosis communicated from secondary care 
+to primary care?
+25
+What are the facilitators of, and barriers to, this 
+communication? 
+14
+How acceptable and useful is this communication to 
+patients, family/carers and clinicians?
+20
+What is the impact of this communication on patient care? 5
+How is poor prognosis communicated?
+The sharing of information about poor prognosis was described in a range of ways including 
+written information following outpatient clinics,(17,19,24,25,32,33,42) discharge 
+summaries,(22,24–26,31) shared electronic records,(23) telephone(26,40,42) and face-to-
+face handover.(26) Two studies evaluated interventions designed for sharing poor prognosis 
+information; (28,44) two others evaluated standardised interventions for shared care 
+between oncologists and GPs.(18,45)
+
+
+[W4399086352 PDF PAGE 12]
+Letters
+Letters from hospital specialists (usually oncology) to GPs rarely contained information about 
+prognosis or whether treatment intent was curative or palliative. In a high quality study, 
+Babington et al.(19) found that, although 72% of patients had a letter sent to their GP after 
+an initial oncology consultation, only 20% of these letters contained any information about 
+prognosis. An Australian high quality study found that, although the terms “metastatic” or 
+“stage IV cancer” were included for 93% of the 272 included patients with metastatic cancer, 
+the words “incurable” or “palliative” appeared less frequently (34% and 64% 
+respectively).(33) A “general qualitative remark” about prognosis was included for 8% 
+patients and a quantitative estimate of prognosis was included for 11% of patients. This was 
+corroborated by Stegmann et al.,(42) in a study of medium quality, whose GP participants 
+cited a lack of information about the curative or palliative intent of treatment in letters from 
+hospital specialists.
+Discharge summaries
+The sharing of poor prognosis was not commonplace in hospital discharge communication, 
+even for patients seen by palliative care teams during their admission. A recent, high quality 
+retrospective review of medical records (22) found that although information regarding a 
+limited life expectancy was present in the medical record for 70% of all patients, nearly half 
+of discharge letters did not share any information about limited life expectancy. Inclusion of 
+information regarding a poor prognosis was more likely in discharge letters for patients with 
+cancer, but this difference was not statistically significant. 
+In another high quality study, 22.8% of discharge summaries for patients receiving inpatient 
+palliative care consultation did not contain palliative care-related pre-agreed code words or 
+phrases.(31) Code words were more likely to be present if the patient was closer to 
+discharge, and if they were male and older.
+Telephone
+A high quality American study found that primary care providers would often call a hospital 
+specialist in order to find out more about the prognosis of their patients.(40) The GPs and 
+oncology specialists participating in a Dutch study of medium quality, mentioned that it was 
+often difficult to contact each other by telephone because of limited availability.(42)
+Standardised written interventions
+Two studies report low-medium quality evidence on standardised, written interventions for 
+facilitating shared care between oncologists and GPs.(18,45) Both studies described the 
+sharing of prognosis as one element of the overall intervention, but neither reported on how 
+
+
+[W4399086352 PDF PAGE 13]
+this particular information had been provided by the oncologist or on how this had impacted 
+on patient care.  
+Poor prognosis letter
+The Poor Prognosis Letter (PPL) was developed to be sent by the secondary care team to 
+the GP when discharging patients thought to be in the last year of their life. It tells the GP 
+what conversations have already been had in hospital, so they can support them going 
+forward, as well as any practical care which is needed. Two low-to-medium quality audits 
+found that a minority of surgical patients with a life expectancy of less than one year 
+received PPLs on discharge; (28,44) 55% of pa

@@ -1,0 +1,195 @@
+osts to €2.90 per nursery pig, €2.80 per 
+fattening pig, and €195 per sow per year. Due to the low 
+numbers of studies on pathogens other than PRRSV, the 
+ranges mainly reflect the significant worldwide impact 
+of PRRSV. It is, therefore, unfeasible to compare and 
+rank the various pathogens according to their economic 
+importance. Furthermore, converting absolute economic 
+outcomes to a single currency complicates the interpret -
+ability and comparability of the study outcomes, as dif -
+ferences exist in the relative importance of the economic 
+losses suffered by farmers from countries of different 
+income levels. Preferably, outcomes would be reported in 
+a relative manner, such as the percent decrease in profits 
+due to disease. However, most often information on farm 
+profits in a non-diseased scenario is lacking.
+Nearly all studies reported neutral or positive impacts 
+of implementing an intervention. This suggests that for a 
+wide range of production systems and disease scenarios, 
+implementing an intervention on a farm with endemic 
+respiratory diseases increases farm profits. There may 
+be an outcome reporting bias, with only the favourable 
+interventions reported that can undermine the validity of 
+systematic reviews [ 61]. However, we have no evidence 
+that this is the case in our systematic review. Apparently, 
+Table 4 Economic impact of vaccination against endemic respiratory diseases in pigs
+Study Economic out-
+come in euros
+Unit Ref-
+er-
+ence
+Co-infections
+Rapp-Gabrielson et al. (2007)1 12.91, 7.82, 9.57 Increased value per carcass for three different vaccines (compared to control) [87]
+Kaalberg et al. (2017)2 3.67 Benefit per finisher [89]
+Duivon et al. (2018)2 2.16 Benefit per finisher [90]
+Porcine reproductive and respiratory syndrome virus
+Zhang et al. (2014) 2.3–4.5 Benefit-cost ratio [57]
+Moura et al. (2022) 1.83 Benefit-cost ratio [29]
+Kim et al. (2017) Difference in medication costs not significant [41]
+Linhares et al. (2015) 32,345 Difference in opportunity costs between modified-live virus vaccination and field-
+virus inoculation for a 1,000 sow breeding herd
+[44]
+Zhang et al. (2017) 155.20-316.68 Increased net profits per farm (two-sow breeder; five-pig fattener; single-sow, three-
+pig farrow-to-finish)
+[23]
+Thomann et al. (2020) 1) 211–422
+2) 184–335
+Median annual benefits per sow of (1) vaccinating sows and piglets and (2) Vaccinat-
+ing only sows
+[91]
+Quezada-Fraide et al. (2021) 2.14 Difference in costs per weaned pig between vaccinating sows and piglets and vac-
+cinating sows only
+[93]
+Mycoplasma hyopneumoniae
+Maes et al. (1998) Difference in curative parental medication costs not significant [42]
+Pallarés et al. (2000) Difference in medication costs not significant [43]
+Kyriakis et al. (2001) 0.46, 0.36 Reduced medication cost per pig for two different vaccination schemes (compared 
+to control)
+[80]
+Stipkovits et al. (2003) 1) -0.02, -0.06
+2) 0.03, 0.08
+Difference in margin over feed and medication costs per kg of finishing pig mar-
+keted for vaccinating (1) once or (2) twice (compared to 2 control groups)
+[84]
+Maes et al. (2003) 1.17 Additional return to labour per pig [83]
+Holyoake and Callinan (2006) 4.91 Increase in profit per pig [85]
+Miller et al. (2001) 1) 4,978
+2) 13,056
+Increased annual profits for farms (1020 fatteners placed) shipping (1) by target 
+weight or (2) on fixed date
+[81]
+Porcine circovirus 2
+Young et al. (2011) 7.57 Return on investment from vaccination per pig [24]
+Alarcon, Rushton, Nathues, et al. 
+(2013)
+1) 24,853
+2) 97,206
+Mean expected value of vaccination after 5 years for a (1) moderately affected farm 
+(100 sows), (2) severely affected farm (100 sows)
+[33]
+Reported outcomes were adjusted for inflation up until the year 2023 and converted to euros as a common currency
+1 Pigs were vaccinated against Mycoplasma hyopneumoniae
+2 Pigs were vaccinated against Mycoplasma hyopneumoniae  and porcine circovirus type 2
+
+[W4387696559 PDF PAGE 15]
+Page 15 of 18
+Boeters et al. Porcine Health Management            (2023) 9:45 
+most studies looked at the effects of vaccination, with 
+very few studies considering long-term sustainable inter -
+ventions. Where several countries are making efforts to 
+eliminate endemic respiratory diseases completely [ 62, 
+63], economic research on long-term interventions (such 
+as improvement of management practices, housing con -
+ditions or biosecurity measures) would provide valuable 
+information for countries starting with or expanding the 
+elimination of endemic respiratory pathogens. Besides 
+the low number of studies on an intervention other than 
+vaccination, comparison and ranking of interventions was 
+also made unfeasible by the variation in the expression of 
+results. Future research should use more standardised 
+approaches for economic analyses of interventions with 
+similar outcome metrics. For instance, in human health 
+economics, comparison of control programs is mainly 
+done by determining the cost-effectiveness (e.g. costs per 
+disability-adjusted life-year) or cost-benefit ratio [ 59]. In 
+the case of interventions requiring a large initial invest -
+ment, calculations of the payback period or return on 
+investment might be preferred [ 59].
+Although the benefits from a standardised approach 
+seem clear from discussing the limitations in the exist -
+ing research, developing such an approach poses a chal -
+lenge. The choice for a specific economic method is often 
+dependent on the data available for the study, as well as 
+the purpose of the study outcomes and the nature of the 
+decision (whether researchers estimate the economic 
+impact at the micro-scale or macro-scale, and for a short- 
+or long-term, etc.). Consequently, the richness in meth -
+ods could be an advantage, rather than only a limitation, 
+as it will allow better alignment of the studies to the 
+decision process required. It would therefore be of great 
+interest to investigate why different methods or out -
+comes were chosen over others. Moreover, the industry-
+level economic burden of respiratory diseases in pigs is 
+not limited to the direct costs, but also includes indirect 
+costs, such as costs suffered by non-affected farms due 
+to biosecurity investments or fluctuations in availability 
+and prices of inputs and outputs. Most studies included 
+in this systematic review focused on farm-level economic 
+impacts, whereas methods well suited to study indus -
+try effects, such as the partial equilibrium analysis and 
+econometric models, have not yet been explored. Like -
+wise, economic analyses of the impact of policies to con -
+trol PRDC pathogens were not found through the search. 
+Therefore, there is currently no clarity on which indirect 
+cost and revenue components from the PRDC seem to 
+be most impactful at industry level. An approach that 
+enhances the understanding of the economic burden of 
+endemic respiratory disease for the entire industry would 
+ideally include a range of economic methods, that cap -
+tures both the economic impact on the farm, and on the 
+(national or international) industry. Such an approach 
+is being taken by the Global Burden of Animal Diseases 
+programme and is being tested in different parts of the 
+world [ 62, 63].
+Lastly, restricting the review to only peer-reviewed 
+English literature ensures a certain quality of the work 
+but can also narrow the scope of the review and the 
+results. Including “grey” literature during the search, 
+such as conference abstracts and industry reports, would 
+mostly provide additional cost estimations by non-aca -
+demic organisations or companies. This could assist with 
+reducing publication bias, but it is important to ensure 
+that the study is relevant to the research question and 
+that it is of sufficient quality to be included in the review 
+[64]. In this case, several non-peer-reviewed sources 
+were identified, but oftentimes these entailed works in 
+progress, pilot studies, or works that did not contain ade -
+quate or complete information (e.g. explicit information 
+on cost or revenue components). This, together with the 
+fact that searching for abstracts is resource-intensive and 
+availability is usually compromised, advocated for the 
+inclusion of peer-reviewed records only.
+In conclusion, respiratory diseases represent a signifi -
+cant economic burden in pig production, as highlighted 
+by the range in economic impact provided in this sys -
+tematic review. Future research should improve the con -
+sistency and comparability of economic assessments by 
+ensuring the inclusion of high impact cost and revenue 
+components and expressing results similarly. Regardless, 
+the outcomes from this systematic review provide insight 
+in the variation in studies, their methods, their advan -
+tages and limitations, and the reported impacts from the 
+endemic respiratory disease complex for pig production 
+systems worldwide.
+Abbreviations
+A. pleuropneumoniae  Actinobacillus pleuropneumoniae
+JSHAP  Journal of Swine Health and Production
+M. hyopneumoniae  Mycoplasma hyopneumoniae
+PCV-2  Porcine circovirus 2
+PRDC  Porcine respiratory disease complex
+PRRSV  Porcine reproductive and respiratory syndrome virus
+SIV  Swine influenza virus
+Supplementary Information
+The online version contains supplementary material available at https://doi.
+org/10.1186/s40813-023-00342-w.
+Supplementary file S1. Terms used to build the full search strings. - File 
+provides a table of the terms that were used in the search for eligible 
+literature
+Supplementary file S2. List of eligible studies. - File provides the full list of 
+studies included in the systematic review
+Supplementary file S3. Economic methods and cost components per 
+study. - File provides full details on which economic method was applied 
+and which cost components were considered per study
+Supplementary file S4. Reported economic outcomes per study. - File 
+provides the economic outcomes in their original valuta as reported in 
+each disease-focused and intervention

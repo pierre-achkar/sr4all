@@ -1,0 +1,272 @@
+dity Morbidity 
+statistics 
+Mortality 
+statistics 
+[27] Prospective, 
+multicentre 
+database 
+1997-
+1998 
+Major non 
+cardiac 
+(abdominal, 
+vascular, 
+orthopaedic) 
+23,340 Readmission P<0.001 P<0.001 
+[47] Prospective, 
+multicentre 
+database 
+2015-
+2016 
+Infrainguinal 
+bypass, open 
+AAA 
+88,791 Post op MI P<0.08 - 
+[56] Prospective 
+two centre 
+1995-
+1998 
+Elective open 
+AAA repair 
+113 Adverse cardiac 
+event 
+P=0.001 - 
+[60] Prospective 
+multicentre 
+database 
+2001-
+2004 
+Open AAA 
+repair 
+11,415 - - OR 2.1 
+95% CI 
+1.7-2.6 
+P<0.001 
+[64] Prospective 
+multicentre 
+database 
+2006-
+2007 
+and 
+2009-
+2010 
+AAA 14,524 Increased length 
+of stay 
+OR 1.78 
+95% CI 
+1.46-2.16 
+P<0.001 
+OR 3.54 
+95% CI 
+2.65-4.73 
+P<0.001 
+Readmission OR 1.47 
+95% CI 
+1.11-1.94 
+P<0.006 
+[70] Prospective 
+single 
+centre 
+1987-
+1988 
+AAA repair 
+ 
+72 Post operative 
+cardiac failure 
+P=0.004 P<0.001 
+[71] Prospective 
+single 
+centre 
+1991-
+2001 
+Open TAA 854 - - Or 1.85 
+95% CI 
+1.09-3.15 
+P=0.03 
+[72] Prospective 
+multicentre 
+database 
+2002-
+2014 
+EVAR-c and 
+primary open 
+6429 Major adverse 
+cardiac event 
+OR 1.5 
+CI 95% 
+0.98-2.34 
+- 
+[73] Prospective 
+multicentre 
+database 
+2009-
+2015 
+Open AAA 
+repair and 
+EVAR 
+33,332 30d readmission P<0.05 - 
+[74] Prospective 
+multicentre 
+database 
+2005-
+2010 
+Infrainguinal 
+bypass 
+18,645 Cardiac event P=0.007 P<0.0001 
+ Pneumonia P=0.014 
+Prolonged 
+intubation 
+P=0.011 
+Reintubation P=0.014 
+Sepsis P=0.011 
+Re-operation P=0.022 
+LOS >9 days P=0.0001 
+[75] Prospective 
+multicentre 
+database 
+2013-
+2016 
+Arterial 
+reconstruction 
+for 
+revascularisation 
+2906 Major adverse 
+limb event 30d 
+after 
+revascularisation 
+OR 1.10  
+[76] Prospective 
+multicentre 
+database 
+2011-
+2013 
+Infrainguinal 
+bypass 
+1,055 - - OR 4.46 
+95% CI 
+1.20-
+16.57 
+P<0.025 
+
+[W4398188902 PDF PAGE 11]
+J. Clinical Surgery and Research                                                                                                                                                                  Copy rights@ Lucinda Cruddas. et all. 
+ 
+Auctores Publishing LLC – Volume 4(1)-064 www.auctoresonline.org  
+ISSN: 2768-2757   Page 11 of 14 
+for “heart failure” and “thyroid surgery”, 86 articles for “heart failure” 
+and “asymptomatic caro tid endarterectomy”, 206 articles for “heart 
+failure” and “hernia”, 118 articles for “heart failure” and 
+“cholecystectomy”, 276 articles for “heart failure” and “laparoscopy”, 
+253 articles for “heart failure” and “laparotomy”, 186 articles for “heart 
+failure” and “peripheral angioplasty”,  90 articles for “heart failure” and 
+EVAR”, 87 articles for “heart failure” and “neck of femur”, 1168 articles 
+for “heart failure” and “aortic aneurysm”, and 145 articles for “heart 
+failure” and “lower extremity revascular isation”. Articles were screened 
+and duplicates removed. This led to the final inclusion of 47 articles. One 
+study was included for thyroid surgery, 4 studies were included for 
+asymptomatic carotid endarterectomy, 3 studies were included for hernia 
+surgery, 4 studies were included for cholecystectomy, 3 studies were 
+included for laparoscopy, 3 studies were included for laparotomy, 2 
+studies were included for peripheral angioplasty, 9 studies were included 
+for EVAR, 5 studies were included for neck of femur fracture repairs, 4 
+studies were included for aortic aneurysm (AAA) repair, 3 studies were 
+included for lower extremity revascularisation, and 1 study was included 
+for noncardiac surgery. There were no studies which examined the 
+relationship of outcomes of patients with heart failure undergoing breast 
+surgery. One study assessed the relationship between heart failure and 
+outcomes in both abdominal aortic aneurysm and hip/knee replacement. 
+Two studies assessed the relationship between heart failure and outcomes 
+in both open and endovascular abdominal aneurysm repair. Two papers 
+looked at the relationship between heart failure and outcomes in all 
+vascular operations (EVAR, peripheral bypass, open AAA repair).  
+Results are demonstrated in Table 4 for low -risk surgeries, Table 5 for 
+intermediate risk surgeries, and Table 6 for high-risk surgeries.  
+Discussion: 
+Patients undergoing low, intermediate and high risk non-cardiac surgeries 
+are at risk of increased morbidity and mortality [6, 26,27].  
+Heart failure and low risk surgeries: 
+There are limited studies on the outcomes of patients with heart failure 
+undergoing low risk surgery. A large prospective, multi -centre national 
+study of patients undergoing thyroid surgery showed that congestive heart 
+failure was associated with increased risk of complications and return to 
+the operating theatre (OR 6.83, 95% CI 1.81-25.80) [28]. In asymptomatic 
+patients undergoing carotid endarterectomy (CEA), patients with 
+congestive heart failure have been shown to have an increased risk of 
+post-operative stroke and death [29,30,31].  In a large multicentre national 
+prospective study, congestive heart failure was also a predictor of post -
+operative myocardial infarction in asymptomatic patients undergoing 
+CEA (P<0.001) [32]. Routine cardiology consultation may be of benefit 
+in patients prior to surgery for asymptomatic CEA to reduce perioperative 
+cardiac complications and mortality [33]. There is no literature to assess 
+the impact of heart failure on the perioperative outcomes of breast 
+surgery. 
+Heart failure and intermediate risk surgeries: 
+General surgery: 
+Heart failure has b een shown to be associated with increased hospital 
+length of stay (p<0.04) [34] and mortality (p<0.002) [35] in inguinal and 
+ventral hernia repairs. One prospective multicentre study demonstrated 
+that heart failure was associated with increased rates of wo und, 
+pulmonary, urinary tract and cardiac complications following hernia 
+surgery (OR 4.3 95% CI 1.5-12.6) [36]. Heart failure has also been shown 
+to impact on the perioperative and postoperative course of patients 
+undergoing cholecystectomy. Patients with heart failure have been shown 
+to have increased hospital length stays (p<0.001) [37], and increased rates 
+of pneumonia and reintubation (p<0.01) [38,39] and post -operative 
+readmission at 30 days (p<0.0001) [40]. This is the case in both elective 
+and emergency procedures.  
+Individuals with heart failure who undergo elective laparoscopic sigmoid 
+resection for diverticular disease have been shown to suffer greater 
+perioperative complications including pneumonia, pulmonary embolism, 
+thrombosis, cardiac failure or infarction and renal failure (OR 3.27 95% 
+CI 1.37 -7.8 p<0.008) [41]. In a large prospective study assessing the 
+outcomes of bariatric surgery, patients with heart failure have been shown 
+to be more likely to suffer from post -operative DVT and PE [42]. H eart 
+failure is likely to impact on the outcomes of intermediate laparoscopy 
+and laparotomy. A large, prospective, multicentre study revealed that 
+patients with heart failure are more likely to suffer post -operative 
+mortality (OR 3.5 95% CI 2.59 -4.63) and complications including 
+haemorrhage, wound, pulmonary, cardiac, sepsis, renal and 
+thromboembolic, following elective left colonic resection, with 
+colostomy or ileostomy for diverticulitis [43]. Post -operative morbidity 
+following elective colectomy via lapa rotomy for colon cancer has been 
+shown to be significantly higher in patients with heart failure (OR 3.0 CI 
+95% 1.42-6.32 P=0.003) [44]. Heart failure may also be associated with 
+a higher risk of surgical site infection following laparotomy (OR 1.9 95% 
+CI 1.29-3.04) [45]. In damage control laparotomy, individuals with heart 
+failure may be at higher risk of post-operative mortality (OR 11.4 95% CI 
+1.01-128.03) [46].  
+Vascular: 
+In all vascular procedures, classified as high and intermediate risk, 
+patients wit h heart failure were more likely to suffer post -operative 
+myocardial infarction [47,48]. Pre-operative cardiac assessment does not 
+appear to improve outcomes [49]. Patients with heart failure may be at 
+increased risk of unplanned 30-day re-admission (OR 1.6 CI 95% 1.1-2.5) 
+[50] and increased mortality (OR 1.62 95% CI 1.32-1.98) [51] following 
+endovascular peripheral angioplasty. In both elective and emergency 
+endovascular aneurysm repair (EVAR), large prospective multi -
+institutional studies have demonstrated that heart failure is associated with 
+increased risk of postoperative myocardial injury, pneumonia, heart 
+failure, limb ischaemia, renal dysfunction, bowel complications, 
+reoperation, surgical site infection, stroke, prolonged intubation, 
+respiratory com plications and discharge to a facility 
+[47,48,51,53,54,55,56,57,58,59]. A large prospective multicentre 
+database study has also demonstrated that heart failure is an independent 
+predictor of mortality in patients undergoing EVAR (P<0.05) [60,61]. 
+Patients who are deemed unfit for open repair of their aneurysm and 
+subsequently have EVAR, commonly have heart failure, and suffer 
+greater post-operative cardiopulmonary complications and perioperative 
+mortality [62]. Patients with heart failure who had a thoracic endovascular 
+aortic repair (TEVAR) have also been shown to be at increased risk of 
+discharge to a facility [63] (p<0.05).  
+Orthopaedic: 
+In individuals who underwent surgical fixation for a neck of femur 
+fracture, heart failure was a risk factor for 30 -day mortality 
+[64,65,66,67,68,69]. Heart failure was also demonstrated as a risk factor 
+for post -operative complications including: pneumoni a (p=0.003) [68]; 
+renal insufficiency (p=0.40) [68]; myocardial infarction (p=0.50) [68]; 
+AKI (p<0.05) [69]; extended length of stay (p<0.001) [68]; and 
+readmission (p<0.001) [68].  
+Heart failure and high-risk surgeries: 
+
+[W4398188902 PDF PAGE 12]
+J. Clinical Surgery and Research                                                                                                                                                                  Copy rights@ Lucinda Cruddas. et 

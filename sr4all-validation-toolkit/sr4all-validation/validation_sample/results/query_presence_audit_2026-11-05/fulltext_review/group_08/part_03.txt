@@ -1,0 +1,197 @@
+ies for major
+bleeding and Cooper et al. [41] reported on major and
+fatal bleeding episodes. Dogliotti et al. [40] found a
+higher risk of bleeding for VKA vs. placebo (OR 3.63,
+95% CI 1.84– 9.06) as did Assiri et al. (RR 3.12 (1.05–
+9.96)) [42], whereas Cooper et al. [41] reported only a
+non-significant difference and Lin et al. [43] found only
+a slightly increased risk (RR1.14 (0.46– 2.78)).
+Intracranial bleeding Only two SRs examined intracra-
+nial bleeding. Aguilar et al. [34] found a trend favouring
+placebo (OR 2.38, 95% CI 0.54– 10.5). Hart et al. [4]
+found a low overall incidence of intracranial haemor-
+rhage, with six cases in warfarin patients compared to
+three in those on placebo (not significantly different).
+The NMA by Lin et al. [43] showed a trend in favour of
+placebo (RR 1.25 (0.98– 1.59)).
+Gastrointestinal bleeding Only one SR reported on
+gastrointestinal bleeding, the risk of which was compara-
+tively greater for warfarin than for placebo (OR 3.21, 95%
+CI 1.32– 7.82) [35]. The NMA by Lin et al. [43] found an
+increased risk for warfarin which was not significant with
+wide confidence intervals (RR 6.66 (0.28– 100)).
+Myocardial infarction Only one SR reported data on
+myocardial infarction. Aguilar et al. [34] found a trend
+in favour of warfarin (OR 0.87, 95% CI 0.32– 2.42), like-
+wise the NMA by Lin et al. [43].
+VKAs vs. PAIs
+We identified eight SRs that included a comparison be-
+tween VKA and PAI [4, 35– 39, 44, 45]. Between them,
+these eight SRs included 13 unique original studies.
+Most of the individual studies used ASA as the
+The Author(s)BMC Geriatrics2017, 17(Suppl 1):223 Page 81 of 157
+
+[W2767010212 PDF PAGE 10]
+antiplatelet drug. Additionally, five SRs performed a
+NMA including a comparison of VKA vs. PAI [40– 43,
+46]. For a better comparability, results of the meta-
+analysis for RCTs only are described for Lin et al. [43].
+The results of these 13 SRs are displayed in Additional
+file 4: Table S4.
+There was one additional SR comparing warfarin to
+any other antithrombotic treatment including PAI but
+also NOACs [27]. We did not consider this SR in our
+analysis because it was not possible to differentiate be-
+tween the effects of PAI and NOACs.
+Effectiveness outcomes
+Stroke/SE The included SRs reporting on the outcome
+stroke found an advantage for warfarin compared to PAI
+[4, 38, 39, 44, 45]. Hart et al. [4] reported a reduction of
+stroke by 36% (95% CI 14%– 52%) for warfarin. In the
+update of the review in 2007, four additional studies
+were included for the comparison of warfarin vs. PAI
+but with similar results for the outcome stroke/SE (RRR
+37% (95% CI 23 to 48%)) [39]. Aguilar et al. [44] and Se-
+gal et al. [38] reported a reduction of stroke for warfarin
+(OR 0.68, 95% CI 0.54– 0.85, and 0.64, 95% CI 0.43– 0.96,
+respectively). Taylor et al. [45] found a trend for warfarin
+compared to PAI for fatal stroke (OR 0.74, 95% CI 0.39–
+1.40) and a distinct advantage for non-fatal stroke (OR
+0.68, 95% CI 0.46– 0.99).
+Andersen et al. [37] reported only SE and found a ad-
+vantage for warfarin compared to PAI (OR 0.50, 95% CI
+0.33– 0.75).
+Ischemic stroke Four SRs reported on ischemic stroke
+and found effects for warfarin compared to PAI (OR
+0.53, 95% CI 0.41– 0.68 [44]; RR 0.59, 95% CI 0.40– 0.86
+[36]; RRR 46%, 95% CI 27– 60% [4]; and 52%, 95% CI 41
+to 62% [39]).
+The included NMAs found likewise a higher risk for
+ischemic stroke associated with ASA compared to war-
+farin (RR 1.85, 95% CI 1.25– 2.58 [41]) and likewise a
+lower risk for warfarin compared to ASA [40, 43].
+Dogliotti et al. found in their NMA a lower risk of all
+strokes for warfarin compared with PAI (OR 0.51, 95%
+CI 0.41– 0.65) [40]. Assiri et al. [42] compared warfarin
+to ASA and to ASA plus clopidogrel and found for both
+comparisons a reduction of stroke associated with war-
+farin (compared to ASA RR 0.43 (95% CI 0.33– 0.57),
+compared to ASA + clopidogrel: 0.60 (95% CI 0.42 –
+0.85)). Cameron et al. [46] found a similar result for war-
+farin compared to ASA + clopidogrel (OR 0.52, 95% CI
+0.38– 0.70) and for warfarin compared to low dose ASA
+(<100 mg) (OR 0.53, 95% CI 0.36– 0.79).
+Mortality Six SRs provided data on risk of mortality [4,
+36, 38, 39, 44, 45]. All six found no significant difference
+between VKAs and PAIs (OR 0.99, 95% CI 0.83– 1.18
+[44]; OR 0.96, 95% CI 0.58– 1.58 [38]; OR 0.83, 95% CI
+0.46– 1.50 [45]; RR 0.87, 95% CI 0.67– 1.13 [36]; and RRR
+8%, 95% CI– 21 to 30%) [4]; and RRR 9%, 95% CI– 19 to
+30 [39]).
+The NMA by Dogliotti et al. [40] favoured VKAs (OR
+0.77, 95% CI 0.58– 0.98). However, Assiri et al. [42] and
+Lin et al. [43] found only a trend in favour of warfarin
+compared to ASA (RR 0.85, 95% CI 0.70– 1.02 and RR
+0.94 (0.72– 1.23)) or to ASA plus clopidogrel (RR 0.90,
+95% CI 0.70– 1.18).
+Safety outcomes
+Major bleeding Seven SRs reported on major bleeding
+[4, 36– 39, 44, 45]. One SR reported significantly de-
+creased major bleeding with ASA compared to warfarin
+(RR 0.58, 95% CI 0.35– 0.97) [36]. Three SRs reported no
+significant difference between VKA and PAI regarding
+risk of major bleeding [37, 38, 45]. Three reviews fo-
+cused on extracranial haemorrhage [4, 39, 44]. Aguilar et
+al. [44] showed no significant difference comparing VKA
+to PAI (OR 0.97, 95% CI 0.74– 1.28), while Hart et al. [4]
+found an increased risk of extracranial haemorrhage for
+warfarin compared to ASA (RR 2.0 (1.2– 3.4)). However,
+in the update of 2007 including four additional studies,
+the difference was not significant (RRR– 70%, 95% CI–
+234 to 14%) [39] (= a risk increase of 70%).
+The NMA of Dogliotti et al. [40] reported an increased
+risk of major bleeding for VKA compared to ASA (OR
+1.71, 95% CI 1.05– 3.23), while Cooper et al. [41], Lin et
+al. [43] and Assiri et al. [42] found no significant differ-
+ences. Three NMA compared warfarin with ASA plus
+clopidogrel and found no significant differences regard-
+ing major bleeding [42, 43, 46]). Cameron et al. [46]
+showed no difference in major bleeding for warfarin
+compared to low dose ASA (OR 0.95, 95% CI 0.53– 1.67)
+and a non-significant reduction compared to ASA 100–
+300 mg (OR 0.56, 95% CI 0.18– 1.61).
+Intracranial and gastrointestinal bleeding We identi-
+fied three SRs reporting on intracranial bleeding. Aguilar
+et al. [44] reported a doubling of the risk for PAI com-
+pared to VKA (OR 1.98, 95% CI 1.20– 3.28) and likewise
+Hart et al. [4] found twice as many intracranial haemor-
+rhages with warfarin compared to ASA (RR 2.1, 95% CI
+1.0– 4.6), with a similar result in the update of 2007
+(RRR – 128%, 95% CI – 399% to −4%) (= a risk increase
+of 128%) [39]. Coleman et al. also reported an increased
+rate of gastrointestinal bleedings with VKAs compared
+to PAIs (OR 1.92, 95% CI 1.08– 3.41) [35].
+The Author(s)BMC Geriatrics2017, 17(Suppl 1):223 Page 82 of 157
+
+[W2767010212 PDF PAGE 11]
+The NMA of Assiri et al. [42] showed no difference
+for warfarin vs. ASA plus clopidogrel (rate ratio 1.03
+(0.15– 7.59)) and a non-significant increase of intracra-
+nial bleeding with warfarin compared to ASA (rate ratio
+1.95 (0.45– 9.29)), both with wide confidence intervals.
+Myocardial infarction Two SRs reported on myocardial
+infarction and found a trend in favour of warfarin. Agui-
+lar et al. [44] reported an OR of 0.69 (95% CI 0.47– 1.01)
+and Taylor et al. [45] an OR of 0.83 (95% CI 0.46– 1.50),
+neither showing a significant advantage for either VKAs
+or PAI.
+NOACs vs. VKAs
+We identified sixteen SRs comparing NOACs to warfarin
+[28, 29, 31– 33, 47– 54]. All reviews performed a quantita-
+tive synthesis. There was high overlap between the SRs in
+the studies included, with a total of eight unique original
+studies represented. All sixteen SRs included publications
+related to three registered trials of dabigatran, apixaban
+and rivaroxaban (RE-LY, ARISTOTLE and ROCKET AF,
+respectively) [55– 57], and six included no further studies
+aside from these three. The other SRs additionally in-
+cluded the SPORTIF III and SPORTIF V (ximelagatran),
+ENGAGE AF-TIMI 48 (edoxaban), J-ROCKET AF (rivar-
+oxaban) and/or PETRO (dabigatran) [58– 62] trials. The
+doses of the NOACs reported correspond to the doses
+used in the single trials: dabigatran 2 × 150mg/day and
+dabigatran 2 × 110mg/day, apixaban 2 × 5mg/d, rivaroxa-
+ban 20 mg/day, edoxaban 2 × 60mg/day and edoxaban
+2 × 30mg/day. All SRs were very similar in their inclusion
+and exclusion criteria and the research questions they ad-
+dressed. However, there was some heterogeneity in the
+outcomes included, especially for the outcomes major
+bleeding and gastrointestinal bleeding (see Additional file
+5: Table S5). All authors used a random effect model for
+their meta-analyses with the exception of Testa et al. [52].
+There were three other SRs comparing either warfarin to
+any other antithrombotic treatment including NOACs
+[27] or comparing NOACs to any other antithrombotic
+treatment [32, 63]. We did not consider any of these re-
+views in this analysis because the comparator arm in-
+cluded a mix of either NOACs and PAI or VKA and PAI
+making it impossible to differentiate between the two. The
+event rates for each systematic review is summarised in
+Additional file 6: Table S6.
+Effectiveness outcomes
+Most of the SRs reported on outcomes of stroke/sys-
+temic embolism (SE), ischemic stroke, haemorrhagic
+stroke, mortality and myocardial infarction. For each
+outcome we summarised the pooled estimates of treat-
+ment effects from the meta-analyses in the different
+studies and conducted a qualitative synthesis of these
+results. Many of the SRs included a number of the same
+individual original studies, making it inappropriate to at-
+tempt to combine across them to obtain a global esti-
+mate of effect.
+Stroke/SE Twelve SRs reported stroke/SE as an out-
+come [28– 30, 47, 48, 50– 54, 64, 65]. All found effects
+favouring NOACs compared to warfarin except the sub-
+group for low dose NOACs in the SR of Jia et al. [54]
+(see Fig. 2 and Table 2). Senoo et al. [65] showed a sub-
+stantial advantage for NOACs (RR 0.45 (95% CI

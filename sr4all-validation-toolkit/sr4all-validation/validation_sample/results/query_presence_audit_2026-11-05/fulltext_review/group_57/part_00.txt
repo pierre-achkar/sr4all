@@ -1,0 +1,191 @@
+
+
+REVIEW W4403920514
+TITLE: Endocrine disorders in Rett syndrome: a systematic review of the literature
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4403920514 PDF PAGE 1]
+Endocrine disorders in Rett
+syndrome: a systematic review
+of the literature
+Giorgia Pepe1† , RobertoCoco1† , DomenicoCorica1,
+Giovanni Luppino1, Letteria AnnaMorabito1, CeciliaLugarà1,
+Tiziana Abbate1, GiuseppinaZirilli1, TommasoAversa1*,
+Stefano Stagi2 and MalgorzataWasniewska1
+1Unit of Pediatrics, Department of Human Pathology of Adulthood and Childhood, University of
+Messina, Messina, Italy,2Department of Health Sciences, University of Florence, Florence, Italy
+Background: Rett syndrome (RTT) is an X-linked progressive neurodevelopmental
+disorder that involves mainly girls and is the second most frequent cause of genetic
+intellectual disability. RTT leads to neurological regression between 6 and 18
+months of life and could be associated with a variable neurological impairment.
+However, RTT affects not only neurological function but also wide aspects of non-
+neurological organs. Recent data showed that the endocrine system is often
+involved in RTT patients, including disorders of growth, bone health, thyroid,
+puberty onset, and weight abnormalities However, systematic data on
+endocrinopathies in RTT are scarce and limited.
+Objective: This review aims to analyze the prevalence and type of endocrine
+comorbidities in RTT population, to allow a precocious diagnosis and appropriate
+endocrinological management.
+Methods: Systematic research was carried out from January 2000 to March
+2024 through MEDLINE via PubMed, Scopus, and the Cochrane Library.
+Results: After the selection phase, a total of 22 studies (1090 screened) met the
+inclusion criteria and were reported in the present review. Five studies were
+observational-retrospective, four were cross-sectional and case report or series,
+three were survey, prospective, and case-control, and ﬁnally one study for
+descriptive-transversal and longitudinal population-based study. The sample
+population consisted of multiethnic groups or single ethnic groups. The main
+endocrinopathies reported were malnutrition, bone alterations, and alterations of
+puberty onset.
+Conclusions: Our analysis shows that endocrinopathies are not rare in RTT
+patients. Therefore, in the context of a multidisciplinary approach, accurate
+screening and monitoring for endocrinopathies should be recommended in all
+RTT patients, to improve clinical practice, healthcare management, and,ﬁnally,
+patients’ quality of life.
+KEYWORDS
+Rett syndrome, endocrinopathy, MECP2 deletion, CDKL5 deletion, epilepsy
+Frontiers inEndocrinology frontiersin.org01
+OPEN ACCESS
+EDITED BY
+Sally Radovick,
+The State University of New Jersey,
+United States
+REVIEWED BY
+Federica Tamburrino,
+S.Orsola University Hospital, Italy
+Thea Giacomini,
+Giannina Gaslini Institute (IRCCS), Italy
+*CORRESPONDENCE
+Tommaso Aversa
+taversa@unime.it
+† These authors have contributed equally to
+this work
+RECEIVED 07 August 2024
+ACCEPTED 15 October 2024
+PUBLISHED 31 October 2024
+CITATION
+Pepe G,Coco R,Corica D,Luppino G,
+Morabito LA,Lugarà C,Abbate T,Zirilli G,
+Aversa T,Stagi S andWasniewska M (2024)
+Endocrine disorders in Rett syndrome: a
+systematic review of the literature.
+Front. Endocrinol. 15:1477227.
+doi: 10.3389/fendo.2024.1477227
+COPYRIGHT
+© 2024 Pepe, Coco, Corica, Luppino,
+Morabito, Lugarà, Abbate, Zirilli, Aversa, Stagi
+and Wasniewska. This is an open-access article
+distributed under the terms of theCreative
+Commons Attribution License (CC BY).The
+use, distribution or reproduction in other
+forums is permitted, provided the original
+author(s) and the copyright owner(s) are
+credited and that the original publication in
+this journal is cited, in accordance with
+accepted academic practice. No use,
+distribution or reproduction is permitted
+which does not comply with these terms.
+TYPE Systematic Review
+PUBLISHED 31 October 2024
+DOI 10.3389/fendo.2024.1477227
+
+[W4403920514 PDF PAGE 2]
+1 Introduction
+Rett syndrome (RTT; OMIM ID 312750) is a severe
+neurodevelopmental disorder that has been identi ﬁed almost
+exclusively in females, mainly after 6 months of age (1). It affects
+about 1 in 15,000 newborns (2). It is the second genetic cause of
+intellectual disability in girls after Down syndrome (3). In 90–95%
+of the cases, mutations in Methyl-CpG binding protein 2 gene are
+responsible for most typical RTT and a smaller proportion of
+atypical RTT. On the other hand, patients with Rett phenotype
+together with early-onset epilepsy caused by mutations in the
+cyclin-dependent kinase-like 5 gene (CDKL5)( 4). Another gene
+known asFOXG1 has been associated with atypical RTT or a RTT-
+like phenotype, and may manifest with preserved function and
+speciﬁc clinical features (5). In 1999 the ﬁrst mutations in the
+methyl-CpG binding protein-2 (MeCP2) gene were described. The
+MeCP2gene codes for the methyl-CpG binding protein-2 (MeCP2)
+which is involved in the long-term silencing of genes and is
+expressed in all tissues ( 6). Mutations in the MeCP2 gene,
+primarily causing a loss of function, are mainly responsible for
+RTT, a disorder affecting the X chromosome (7). Since roughly 95%
+of the mutations occur (de novo), prenatal testing and/or genetic
+counseling for Rett syndrome is often not helpful.MeCP2 plays a
+pivotal role in brain functioning and neuronal development, both at
+the beginning of neuronal differentiation and thereafter (8).
+RTT patients begin life apparently‘healthy’. However, from 6 to
+18 months of age, they undergo regression of early milestones, with
+deterioration of motor skills, eye contact, speech, and motor
+control, deceleration of hea d growth, and development of
+distinctive repetitive, purposeless hand movements ( 9). A
+spectrum of neurological issues, including anxiety, breathing
+problems (respiratory dysrhythmias), and seizures, usually
+develop over time (10). The clinical phenotype of RTT is highly
+variable and can be classiﬁed into two main categories: typical
+(classic) RTT and atypical (variant) RTT. Diagnostic criteria for
+typical RTT require a period of regression, followed by recovery or
+stabilization, and ful ﬁllment of all the main criteria (loss of
+purposeful hand skills, loss of spoken language, gait
+abnormalities, and stereotypic hand movements) ( 3). Further
+manifestations can include auti stic features, intermittent
+breathing abnormalities, autonomic nervous system dysfunction,
+cardiac abnormalities, and sleep disturbances. In addition to typical
+or classical RTT, some individuals may present with many, but not
+all the clinical features of RTT, thus there are‘variant’or ‘atypical’
+RTT (11). These include three main variants: preserved speech,
+early onset seizure, and congenital variants (12). Troﬁnetide is at the
+moment the only disease-modifying therapy for RTT approved by
+FDA since 2023, and it is a potential effective and safe therapeutic
+opportunity ( 13). Different pharmacologic drugs, including
+glatiramer acetate and dextromethorphan have been investigated
+in small clinical trials but with modest beneﬁts (14). Gene therapy,
+which is nowadays in the drug development phase, may promise
+new cure opportunities (15).
+Initially, RTT was considered a purely nervous system
+pathology, but in recent years it has emerged as a complex and
+heterogeneous multisystemic disease, with a variety of clinical
+appearances ( 16). Although neurological conditions are
+predominant, the disease affects not only the central nervous
+system but also a wide array of non-neurological organs. Recent
+studies showed that multisystemic comorbidities, like
+gastrointestinal, orthopedic, endocrine, or cardiac issues, may be
+more or less prevalent in RTT patients (17). Concerning endocrine
+disorders in RTT, data are few and contrasting. Even if
+endocrinopathies are less common among comorbidities, they
+seem to be signi ﬁcantly more frequent than in the general
+population. Endocrine disorders have a considerable impact
+mainly on growth, weight, menstrual cycles, and bones. Some
+authors reported low bone mineral content as the most common
+endocrine disorder in RTT (18), followed by alterations in the
+timing of pubertal onset and menarche (19). Furthermore, thyroid
+function is a matter of great concern in these patients, considering
+the effect of thyroid hormones (TH) on proper mammalian brain
+development (20).
+Overall, data on endocrinopathies in RTT patients is still scarce
+and univocal. This systematic review aims to describe the
+prevalence and type of the main endocrine comorbidities,
+focusing especially but not exclusively on pediatric age, providing
+a proposal for endocrinological management of RTT patients.
+2 Methods
+We performed the review fo llowing the PRISMA 2020
+guidelines (21). Systematic research was performed, covering the
+last 24 years (from January 2000 to March 2024), according to the
+PRISMA statement, through MEDLINE via PubMed, the Cochrane
+Library, and Scopus databases, to ﬁnd studies reporting
+endocrinopathies in patients with genetic diagnosis of Rett
+syndrome. The research was based on the combination of“Rett
+syndrome” with all the following keywords:“thyroid”, “growth”,
+“short stature ”, “obesity ”, “malnutrition ”, “puberty ”,
+“menstruation”, “menstrual irregularities”, “hyperprolactinemia”
+and “bone” to include a variety of results. No speciﬁc registers of
+RTT population were used for the systematic research. Literature
+before 2000 was not included because the main causative genetic
+mutation in RTT was identiﬁed in 1999 (7, 22).
+The settled inclusion criteria were: articles written in English,
+belonging to the categories of a review, clinical study, clinical trial,
+clinical trial protocol, multicenter study, randomized controlled
+trial, and observational study, which report endocrinopathies in
+genetically conﬁrmed RTT in pediatric or mixed population (both
+adolescents and adults patients). Due to the rarity of studies in this
+ﬁeld, case reports and small cohorts were also incl

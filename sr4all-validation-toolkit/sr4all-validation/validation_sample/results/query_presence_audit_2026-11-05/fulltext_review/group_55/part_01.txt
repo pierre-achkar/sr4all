@@ -1,0 +1,314 @@
+s-checked. Discussions were cross-verified 
+by a third researcher in the event of disagreement. When 
+screening literature, first read the title and abstract, and after 
+excluding irrelevant literature, further, read the full text to 
+determine what is ultimately included. (1) Basic informa -
+tion: first author, publication year, country, study type; (2) 
+Characteristics of included studies: sample size, gender, 
+age, follow-up years, diagnostic criteria for glaucoma, 
+dementia, or cognitive impairment, and adjusted covariates; 
+(3) Key elements of risk of bias assessment; and (4) Effect 
+sizes and their 95% confidence intervals (CI) after control -
+ling for confounding factors.
+Data synthesis
+Following the PRIMA 2020 guidelines, the selection process 
+was documented using a “flow diagram” showing the num-
+ber of references excluded at each step. Reasons for study 
+exclusion after full-text assessment are reported in detail. In 
+addition, the extracted data were tabulated and summarized 
+in text. Moreover, the results of the statistical analysis are 
+presented in both tables and figures (detailed below).
+Assessment of risk of bias
+To determine the validity of the included studies, two inde-
+pendent investigators assessed the risk of bias (RoB) using 
+the Newcastle-Ottawascale Scale (NOS) [ 24] and cross-
+checked the results. In the case of any disagreement, a third 
+party was consulted to assist in the decision. The evaluation 
+was conducted in three parts with eight items, with scores 
+ranging from 0 to 4 indicating low quality, 5 to 6 indicat -
+ing medium quality, and 7 to 9 indicating high quality. Each 
+study was assigned a risk of bias rating - high, moderate, or 
+low - based on responses to each question.
+Statistical analysis
+All statistical analyses were conducted by using RevMan 
+5.3 and State 17.0 software. The primary outcome indicators 
+were the pooled odds ratios (OR) and 95% confidence 
+interval (95% CI) with adjusted confounders. We formally 
+assessed between-study heterogeneity (chi-square test, 
+α = 0.1) to determine the share of variation across studies 
+due to heterogeneity rather than chance (Higgins’ I 2 statis-
+tic) and interpreted heterogeneity as potentially insignificant 
+(40%), moderate (30-60%), significant (50-90%), or consid-
+erable (75-100%), in line with Cochrane recommendations 
+[25]. If P > 0.05 or I 2 < 50%, there was no statistical het -
+erogeneity between studies, and a fixed-effects model was 
+selected. When clinical or statistical heterogeneity occurred, 
+a random-effects meta-analysis was used. An α-level of 0.05 
+was used to determine statistical significance. We visually 
+examined funnel plot asymmetry and performed Egger’s 
+regression test to detect statistical publication bias (Lin et 
+al., 2018). To confirm the robustness of the overall results, 
+we performed a sensitivity analysis by rerunning the meta-
+analysis while omitting one study at a time, or by trim-and-
+fill method. Given that the study region, type of glaucoma, 
+type of dementia, gender, age, sample size, and follow-up 
+time could affect the findings of the study, we performed 
+subgroup analyses to explore sources of heterogeneity.
+Results
+Literature search
+In summary, the search retrieved 4,216 records from elec -
+tronic databases. No additional articles were included 
+based on reference screening and expert consultation. After 
+removing duplicates, 3,467 publications were initially 
+screened by reading the titles and abstracts of the literature. 
+Using the above inclusion/exclusion criteria, the full texts 
+of 54 articles were evaluated, and 27 studies were eventu -
+ally included. There were twenty cohort studies [26–45] and 
+seven case-control studies [46–52] involving 9,061,675 par-
+ticipants (Fig. 1). The detailed exclusion list is provided in 
+Supplementary Table 2.
+Main characteristics of included studies
+Across the included studies, there were 9,061,675 partici -
+pants aged 18 years or older, with the proportion of male 
+participants ranging from 35.01 to 54.66%. The study popu-
+lations were from China ( n = 8) [33, 34, 36, 40, 42, 48, 49, 
+51] the United States ( n = 5) [31, 32, 38, 39, 46], Sweden 
+(n = 5) [26, 30, 44, 45, 50], Korea ( n = 3) [27, 28, 35], the 
+United Kingdom ( n = 2) [ 28, 37], Australia ( n = 1) [ 52], 
+France ( n = 2) [ 43, 47], and Denmark ( n = 1) [ 41]. These 
+articles were published from 2007 to 2024, with sample 
+1 3
+Page 3 of 17   172 
+
+[W4401716223 PDF PAGE 4]
+Aging Clinical and Experimental Research          (2024) 36:172 
+Methodology quality assessment
+The NOS scale was used to assess the quality of the 
+included studies, and the results are presented in Tables 2 
+and 3. Twenty-one studies [ 26–36, 38–45, 48, 49] with a 
+quality score ≥ 7 were classified as high quality, five [ 37, 
+47, 50–52] with a quality score of 6, and one [ 46] with a 
+quality score of 5 was classified as moderate quality. In 
+terms of study population selection, four cohort studies [32, 
+33,, 36, 41] had dementia at baseline selection, three case-
+control studies [49, 51, 52] did not specify the definition of 
+the control group, and one case-control study [ 52] did not 
+explicitly describe the selection of the control population. 
+In terms of comparability, six cohort studies [28, 32, 36–38, 
+44] and five case-control studies [ 45, 48, 49, 51, 52] were 
+at risk of bias due to incomplete adjustment for confound -
+ing factors. Regarding outcomes, two studies [ 42, 43] were 
+at risk of bias due to insufficient follow-up time. The mean 
+quality score of the 27 studies was 7.59, indicating overall 
+high methodological quality (Table 3).
+sizes ranging from 509 to 2,623,130, and the mean follow-
+up time varied from 3 to 14 years.
+Most of these studies used the International Classifica -
+tion of Diseases-9 (ICD-9) or International Classification 
+of Diseases-10 (ICD-10) diagnosis codes as glaucoma and 
+dementia diagnostic criteria. However, seven studies [ 30, 
+31, 43, 44, 45,, 51, 52] used ophthalmologic examinations 
+to assess glaucoma, one [ 36] used self-administered ques -
+tionnaires only to determine glaucoma, and four [32, 36, 51, 
+52] used MMSE/McOA scores to diagnose dementia and 
+cognitive impairment. All studies examined the association 
+between glaucoma and dementia or cognitive impairment 
+as a dichotomous variable among the outcome indicators. 
+In 24 studies [ 26–45, 47, 50], the outcome measures were 
+dementia and cognitive impairment in three [ 46, 51, 52]. 
+The main characteristics of the included studies are sum -
+marized in Table 1.
+Fig. 1 PRISMA flow diagram of 
+the study selection process
+ 
+1 3
+  172  Page 4 of 17
+
+[W4401716223 PDF PAGE 5]
+Aging Clinical and Experimental Research          (2024) 36:172 
+Authors Country Study 
+design
+Sample 
+size 
+(exposed/ 
+control)
+Age (years) Follow-up 
+years
+Diagnosis of 
+glaucoma
+Diagnosis of 
+dementia /
+cognitive 
+impairment
+Glaucoma 
+type
+Outcome Variables adjusted
+Crump 
+et al.
+2024
+Sweden Retrospec-
+tive cohort 
+study
+32,339/
+226,896
+- 22 ICD− 9/ICD− 10 ICD-9/
+ICD-10
+POAG/
+PACG
+All-cause 
+dementia
+/AD/VD
+age, sex, birth country, education, income, 
+hypertension, diabetes, hyperlipidemia, isch-
+emic heart disease, and Charlson Comorbid-
+ity Index at index date
+Kim et 
+al. 2023
+Korea Prospec-
+tive cohort 
+study
+875/
+3,500
+≥  55 8 ICD-10 ICD-10 POAG/
+PACG
+All-cause 
+dementia
+/AD
+age, gender, sex, residence, and household 
+income
+Park et 
+al. 2023
+Korea Retrospec-
+tive cohort 
+study
+788,961 ≥  4 5 10.9 ± 2.7 ICD-10 ICD-10 Glaucoma All-cause 
+dementia
+/AD/VD
+age, sex, and income level, diabetes, hyper-
+tension, dyslipidemia, stroke, chronic heart 
+disease, depression, smoking status, drinking 
+habits, body mass index, diabetic retinopathy, 
+age-related macular degeneration, and visual 
+acuity
+Shang et 
+al. 2023
+UK Retrospec-
+tive cohort 
+study
+6,386/
+87,602
+63.4 ± 4.0/
+62.0 ± 4.0
+10.7–11.7 ICD-10 ICD-10 Glaucoma All-cause 
+dementia
+age, gender, education, income, cooked veg-
+etables intake, raw vegetables intake, fresh 
+fruits intake, dried fruits intake, smoking, 
+alcohol consumption, physical activity, BMI, 
+cholesterol and glucose
+Ekström 
+et al. 
+2021
+Sweden Retrospec-
+tive cohort 
+study
+264/
+1,269
+65–74 13 Perimetry ICD-10 POAG AD age, a time-dependent variable, and compet-
+ing events
+Belam-
+kar et 
+al.2021
+UAS Retrospec-
+tive cohort 
+study
+509 67.5 10 Eye examination 
+with IOP
+DSM-5 POAG AD
+Hwang et 
+al. 2021
+USA Retrospec-
+tive cohort 
+study
+601/
+571
+75.2 ± 4.8/
+74.4 ± 4.9
+6–8 ICD-9 MRI/
+MMSE
+Glaucoma All-cause 
+dementia
+/AD/VD
+age, sex, race, education, cardiovascular and 
+dementia risk factors, smoking status, alcohol 
+intake, physical activity level, total choles-
+terol level, diabetes mellitus status, hyperten-
+sion statue. and cardiovascular diseases
+Su et al.
+2016
+China Retrospec-
+tive cohort 
+study
+6,509/
+26,036
+59 10 ICD-9-CM ICD-9-CM POAG、
+PACG
+All-cause 
+dementia
+age, gender, hypertension, diabetes, coronary 
+heart disease, hyperglycaemia, and head 
+injury
+Chen et 
+al. 2018
+China Retrospec-
+tive cohort 
+study
+15,317/
+61,268
+62.1 ± 12.5 4.92 ± 3.29 ICD-9-CM ICD-9 POAG
+(NTG)
+AD age, gender, hypertension, diabetes, hyper-
+glycaemia, coronary artery disease, and 
+stroke
+Moon et 
+al.
+2018
+Korea Retrospec-
+tive cohort 
+study
+1,469/
+7,345
+≥  1 8 12 KCD KCD POAG AD age, sex, residential area, income, Charleston 
+comorbidity index, hypertension, diabetes 
+mellitus, hyperglycaemia and ischemic
+Xiao et 
+al. 2020
+China Retrospec-
+tive cohort 
+study
+1,062 71.5 ± 7.4 5.2 self-report 
+questionnaire
+DSM-IV/
+MMSE
+Glaucoma All-cause 
+dementia
+/AD
+age, sex, education year, cigarette smoking, 
+alcohol consumption, hypertension, diabetes 
+mellitus, BMI, depression, and heart
+Table 1 Basic characteristics of the included studies
+1 3
+Page 5 of 17   172 
+
+[W4401716223 PDF PAGE 6]
+Aging Clinical and Experimental Research          (2024) 36:172 
+Authors Country Study 
+design
+Sample 
+size 
+(exposed/ 
+control)
+Age (years) Follow-up 
+years
+Diagnosis of 
+gl

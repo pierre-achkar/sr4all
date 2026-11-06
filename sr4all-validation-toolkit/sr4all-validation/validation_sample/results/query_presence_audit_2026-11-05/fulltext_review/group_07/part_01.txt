@@ -1,0 +1,204 @@
+3 All three responded with further information, 
+and after discussion there was consensus to include two of the 
+three trials.51 52
+d ata extraction
+The following data were extracted from the included articles: 
+trial design, participant information, intervention and control 
+exercise, setting, follow-up periods and outcome data.54 The 
+data were independently extracted and transcribed to a standard 
+table by one reviewer (BES), and then 25% of the data were 
+independently checked by a second reviewer (PH). Effectiveness 
+was judged in the short term (≤3 months from randomisation), 
+medium term (>3 and<12 month
+s) and long term (≥12 months), 
+as recommended by the 2009 Updated Method Guidelines for 
+Systematic Reviews in the Cochrane Back Review Group.55
+Quality assessment
+Each included study was appraised independently by two 
+reviewers (BES and PH) for methodological quality using the 
+Cochrane risk of bias tool for randomised clinical trials.56 The 
+tool was originally developed in 2008, and updated in 2011, 
+and is based on seven key bias domains57: sequence generation 
+and allocation concealment (both within the domain of selection 
+bias or allocation bias), blinding of participants and personnel 
+(performance bias), blinding of outcome assessors (detection 
+bias), incomplete outcome data (attrition bias) and selective 
+reporting (reporting bias).56 For each domain the reviewers 
+judged the risk of bias as ‘high’, ‘low’ or ‘unclear’. Percentage 
+agreement between the two reviewers for the individual risk of 
+bias domains for the Cochrane risk of bias tool was 86%, with a 
+kappa of κ=0.76, which is considered ‘substantial or good’,40–42 
+and disagreements were resolved through consensus.
+We used the Grading of Recommendations Assessment, Devel-
+opment and Evaluation (GRADE) system to rate the overall 
+quality of the body of evidence in each pooled analysis.58 We 
+t able 1  Search strategy
+1 Randomised controlled trials as
+2 Topic/
+3 randomised controlled trial.pt
+4 controlled clinical trial.pt
+5 or/1-3
+6 Exp Pain
+7 Exp Musculoskeletal Disease
+8 Exp Musculoskeletal Pain
+9 Or/5-7
+10 Rehabilitation
+11 Bone
+12 Joint
+13 Muscle
+14 Exp Exercise therapy
+15 Physiotherapy
+16 Physical therapy
+17 Physical-therapy
+18 Exp Exercise Or/9-17
+19 (exercise adj7 pain$).af
+20 High load
+21 Loaded$
+22 Resistance$
+23 Eccentric$
+24 Concentric$
+25 Weight loaded
+26 Weight-loaded
+27 Weight resistance
+28 Weight-resistance
+29 High-load
+30 Heavy load
+31 Heavy-load
+32 Direction$ preference
+33 Directional-preference
+34 Or/19-33
+35 4 and 8 and 18 and 34 (limited to English)
+group.bmj.com on June 12, 2017 - Published by http://bjsm.bmj.com/Downloaded from 
+
+[W2612224886 PDF PAGE 3]
+3
+Smith BE, et al. Br J Sports Med 2017;0:1–10. doi:10.1136/bjsports-2016-097383
+r eview
+did not evaluate the publication bias domain in this review as 
+it is not recommended to assess funnel plot asymmetry with a 
+meta-analysis of fewer than 10 trials.59 A GRADE profile was 
+completed for each pooled estimate. Where only single trials 
+were available, evidence from studies with <400 participants 
+was downgraded for inconsistency and imprecision and rated as 
+low-quality evidence. Three reviewers assessed these factors for 
+each outcome and agreed by consensus (BES, PH and TOS).
+The quality of evidence was defined as the following: (1) high 
+quality—further research is unlikely to change our confidence in 
+the estimate of effect; the Cochrane risk of bias tool identified 
+no risks of bias and all domains in the GRADE classification were 
+fulfilled; (2) moderate quality—further research is likely to have 
+an important impact on our confidence in the estimate of effect, 
+and one of the domains in the GRADE classification was not 
+fulfilled; (3) low quality—further research is likely to have an 
+important impact on our confidence and is likely to change the 
+estimate; two of the domains were not fulfilled in the GRADE 
+classification; and (4) very low quality—we are uncertain about 
+the estimate; three of the domains in the GRADE classification 
+were not fulfilled.60 61
+statistical analysis
+Clinical heterogeneity was assessed through visual examination 
+of the data extraction table on details related to participant char-
+acteristics, intervention, study design and process in the included 
+studies. Based on this assessment, the reviewers judged there to 
+be low clinical heterogeneity and accordingly it was appropriate 
+to perform a meta-analysis where feasible. The primary outcome 
+was a measure of pain, disability or function. As pain scores were 
+reported on different scales, we used the standardised mean 
+difference (SMD).62 We a priori defined effect size interpreta-
+tion as 0.2 for a ‘small’ effect size, 0.5 for a ‘medium’ effect size 
+and 0.8 for a ‘large’ effect size, as suggested by Cohen (1988).63 
+If data were not available, the associated corresponding author 
+was contacted. Failing this, the mean and SD were estimated, 
+assuming normal distribution, from medians and IQRs.64 Statis-
+tical between-study heterogeneity was assessed with the I 22 
+statistic. We considered 0%–25% as low, 26%–74%  moderate 
+and 75% and over as high statistical heterogeneity
+.65 When 
+outcomes presented with low statistical heterogeneity, data were 
+pooled using a fixed-effects model.66 When analyses presented 
+with moderate or high statistical heterogeneity, a DerSimonian 
+and Laird random-effects model was adopted.67
+All data analyses were performed using the OpenMetaAnalyst 
+software.68
+sensitivity analysis
+A sensitivity analysis was performed for the primary and 
+secondary analyses using only trials that presented with a low 
+risk of bias.56 In addition we carried out a sensitivity analysis 
+to assess the impact of studies where mean and SD were esti-
+mated from medians and IQRs, and outcome measures of pain 
+were pooled scores set within pain domains from patient-re-
+ported outcome measures, for example, the Shoulder Pain and 
+Disability Index (SPADI).69
+rE sults
+study identification
+The search results are presented in figure 1. The database search 
+produced 9081 results, with no additional findings from refer -
+ence list searches or unpublished searches. After duplicates were 
+removed, 37 papers were appropriate for full-text review.
+After full-text review, 28 articles were excluded, 5 were due to 
+participants not meeting the criteria, 26 because the intervention 
+did not meet the criteria, 3 because of study design not meeting 
+criteria, and 1 due to inappropriate outcome measures. Some 
+articles were excluded for multiple reasons. Therefore nine arti-
+cles were included in the final review. Of the included articles, 
+there were two occurrences of the same trial reporting different 
+time points over two publications.43 70–72
+c haracteristics of included trials
+A summary of the characteristics and main findings of the 
+included trials can be found in table 2.
+The two occurrences 
+of the same trial reporting different time 
+points over two articles were analysed as single trials to prevent 
+multiplicity in analyses.43 70–72 All trials investigated home-based 
+exercises, had a roughly even composition of women and men 
+(46% women), with similar mean ages of participants (mean age 
+47, range 19–83). One trial included low back pain,43 72 three 
+included shoulder pain,47 52 70 71  two included Achilles pain 73 74 
+and one included plantar heel pain.51
+Three trials used a Visual Analogue Scale to measure pain, 43 
+70–72 74 two trials used the SPADI, 47 52 one used the Knee Injury 
+and Osteoarthritis Outcome Score (KOOS), 73 and one used the 
+Foot Function Index (FFI) including pain at worse and pain on 
+first step on a numerical rating scale (0–10).51
+Where pain outcomes were included within patient-reported 
+outcome measures, these data were extracted. 47 52 73  T wo trials 
+that used the SPADI had insufficient data in the publication to 
+complete a meta-analysis for pain,47 52 and both were contacted 
+and asked to supply pain domain data. Littlewood et al52 replied 
+and provided all the available data; however, Maenhout et al47 
+did not respond. One trial reported outcomes in medians and 
+IQRs,74 and was contacted and asked for further data. They 
+were unable to supply this, so the mean and SD were estimated 
+assuming normal distribution.64
+Figure 1  PRISMA 2009 flow diagram.
+group.bmj.com on June 12, 2017 - Published by http://bjsm.bmj.com/Downloaded from 
+
+[W2612224886 PDF PAGE 4]
+4 
+Smith BE, et al. Br J Sports Med 2017;0:1–10. doi:10.1136/bjsports-2016-097383
+r eview
+t able 2  Characteristics of included trials
+study characteristics Participant char acteristics Intervention and setting Outcome data/results
+Aasa et al (2015)43
+Michaelson et al (2016)72
+2 groups:
+1. High-load lifting exercise2. Low-load motor control exercises
+70 patients recruited from occupational healthcare services in Sweden (mean age 42, 56% female); inclusion criteria included: (a) adults with low back pain >3
+ months’ duration and (b) 
+with or without leg pain
+Physiotherapy clinic, sports centre and home setting1.
+ n=35; group exercises based at a sports centre (5 participants in each 
+group), with pain up to 50 mm V isual Analogue Scale acceptable, such that 
+the pain subsided after each set of exercises; 12 treatment sessions over an 8-week period (weeks 1–4, 2 sessions per week; weeks 5–8, 1 session per week); 60
+ min in duration; no home exercises
+2.
+ n=35; pain-free individual exercises at a physiotherapy centre; 12 treatment 
+sessions over an 8-week period (weeks 1–4, 2 sessions per week; weeks 5–8, 1 session per week); 20–30
+ min in duration; exercises involved improving 
+control around joint neutral positions;
+ in supine, four-point kneeling, sitting, 
+and/or standing positions; Plus home exercises, 10 repetitions 2–3× a day
+Main outcome assessed at baseline, 2-month and 12-month follow-up was 7 day 
+average pain on a V
+isual Analogue Scale (0–100 mm) and Roland-Morris Disability 
+Questionna

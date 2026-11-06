@@ -1,0 +1,165 @@
+
+
+REVIEW W4362699264
+TITLE: Role of Maternal Diet in the Risk of Childhood Acute Leukemia: A Systematic Review and Meta-Analysis
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W4362699264 PDF PAGE 1]
+Citation: Blanco-Lopez, J.; Iguacel, I.;
+Pisanu, S.; Almeida, C.C.B.;
+Steliarova-Foucher, E.; Sierens, C.;
+Gunter, M.J.; Ladas, E.J.; Barr, R.D.;
+Van Herck, K.; et al. Role of Maternal
+Diet in the Risk of Childhood Acute
+Leukemia: A Systematic Review and
+Meta-Analysis. Int. J. Environ. Res.
+Public Health 2023, 20, 5428.
+https://doi.org/10.3390/
+ijerph20075428
+Academic Editors: Zisis Kozlakidis and
+María M. Morales Suárez-Varela
+Received: 20 February 2023
+Revised: 23 March 2023
+Accepted: 5 April 2023
+Published: 6 April 2023
+Correction Statement: This article
+has been republished with a minor
+change. The change does not affect
+the scientific content of the article and
+further details are available within the
+backmatter of the website version of
+this article.
+Copyright: © 2023 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+International  Journal  of 
+Environmental Research
+and Public Health
+Review
+Role of Maternal Diet in the Risk of Childhood Acute Leukemia:
+A Systematic Review and Meta-Analysis
+Jessica Blanco-Lopez 1, *,†
+ , Isabel Iguacel 2,†
+ , Silvia Pisanu 3
+ , Claudia Choma Bettega Almeida 4,
+Eva Steliarova-Foucher 1, Ciska Sierens 5, Marc J. Gunter 6, Elena J. Ladas 7, Ronald D. Barr 8
+ , Koen Van Herck 5
+and Inge Huybrechts 1
+1 International Agency for Research on Cancer, 69007 Lyon, France
+2 Faculty of Health Sciences, University of Zaragoza, 50009 Zaragoza, Spain
+3 Department of Biomedical Sciences, Section of Microbiology and Virology, University of Cagliari,
+09124 Cagliari, Italy
+4 Department of Nutrition, Federal University of Paraná, Curitiba 1299, Brazil
+5 Department of Public Health and Primary Care, Ghent University, 9000 Ghent, Belgium
+6 Faculty of Medicine, School of Public Health, Imperial College London, London SW7 2AZ, UK
+7 Division of Hematology, Oncology, and Stem Cell Transplantation, Department of Pediatrics,
+Columbia University Irving Medical Center, New York, NY 10032, USA
+8 Departments of Pediatrics, Pathology and Medicine, McMaster University, Hamilton, ON L8S 4L7, Canada
+* Correspondence: blancoj@iarc.who.int; Fax: +33-(0)4-72-73-85-75
+† These authors contributed equally to this work.
+Abstract: Many studies have investigated the etiology of acute leukemia, one of the most common
+types of cancer in children; however, there is a lack of clarity regarding preventable risk factors.
+This systematic review and meta-analysis aimed to summarize the current evidence regarding the
+role of maternal dietary factors in the development of childhood leukemia. All epidemiological
+studies published until July 2022 that evaluated maternal dietary risk factors for childhood acute
+leukemia were identified in two electronic databases (PubMed and Web of Science) without limits of
+publication year or language. A total of 36 studies (1 prospective cohort study, 32 case-control studies
+and 3 studies with pooled analysis) were included. The published risk estimates were combined into
+a meta-analysis, using the Generic Inverse Variance method. The maternal consumption of fruits
+(two or more daily servings vs. less) was inversely associated with acute lymphoblastic leukemia
+(odds ratio = 0.71; 95% CI, 0.59–0.86), whereas maternal coffee intake (higher than two cups per
+day vs. no consumption) was associated with an increased risk of acute lymphoblastic leukemia
+(odds ratio = 1.45; 95% CI, 1.12–1.89). Despite these findings, more high-quality research from cohort
+studies and the identification of causal factors are needed to develop evidence-based and cost-effective
+prevention strategies applicable at the population level. Review Registration: PROSPERO registration
+no. CRD42019128937.
+Keywords: acute lymphoblastic leukemia; acute myeloid leukemia; maternal diet; prevention;
+risk factor
+1. Introduction
+Acute leukemia is one of the most frequently diagnosed cancers among children
+and adolescents. Its worldwide incidence is approximately 46 cases per million per year
+in children aged 0–14 years and approximately 29 cases per million in adolescents aged
+15–19 years [1]. In many populations of children aged 0–14 years, almost 80% of cases have
+acute lymphoblastic leukemia (ALL), while 15% have acute myeloid leukemia (AML) [2].
+The etiology of childhood acute leukemia is linked to X-ray radiation exposure, specific
+forms of chemotherapy and some genetic syndromes [3]. However, all these risk factors
+together may explain only 10% of cases [4]. Although acute leukemia is the most common
+cancer in children and adolescents, it is a rare disease; therefore, studying its etiology
+Int. J. Environ. Res. Public Health 2023, 20, 5428. https://doi.org/10.3390/ijerph20075428 https://www.mdpi.com/journal/ijerph
+
+[W4362699264 PDF PAGE 2]
+Int. J. Environ. Res. Public Health 2023, 20, 5428 2 of 28
+remains challenging. Nonetheless, a causal mechanism for the most common variant (ALL)
+has been proposed, which incorporates both antenatal and postnatal factors [5].
+Considering the differential incidence of acute leukemia by geographic region world-
+wide, the potential roles of lifestyle and environmental factors in its etiology have been
+proposed [1]. A peak incidence occurs at approximately two-five years of age, and it is
+reasonable to assume that factors in the prenatal or perinatal period affect the pathogenesis
+of childhood leukemia [3,6]. Indeed, several studies have demonstrated an increased risk
+of leukemia due to maternal smoking and alcohol consumption during pregnancy [ 7,8].
+However, little is known about the impact of other lifestyle factors such as the mother’s
+overall diet during pregnancy on the risk of childhood leukemia.
+The current systematic review and meta-analysis focused on the role of maternal diet
+in the risk of childhood acute leukemia. It provides an overview of existing data linking
+the influence of maternal diet, supplementation and the consumption of non-alcoholic
+beverages to the development of acute leukemia in children. We used combined evidence
+to assess the potential impact of maternal diet on the risk of childhood acute leukemia.
+2. Materials and Methods
+2.1. Definition of the Outcome
+The main outcome of our systematic review is acute leukemia (AL) incidence in
+children aged 0–14 years and adolescents aged 15–19 years. The leukemia types considered
+included acute lymphoblastic leukemia (ALL) and acute non-lymphoblastic leukemia
+(ANLL), mainly acute myeloid leukemia (AML).
+2.2. Definition of the Risk Factors
+The exposures included maternal dietary and non-alcoholic drink intake and supple-
+ments consumed during the peri-pregnancy period.
+2.3. Systematic Review Registration
+Details of the protocol for this systematic review were registered on PROSPERO,
+registration number CRD42019128937.
+2.4. Search Strategy
+To identify the maternal dietary factors that have been studied in relation to childhood
+leukemia risk, we performed a multi-tiered electronic search of PubMed and Web of Science.
+First, an explorative search for studies on leukemia in infants, children and adolescents
+was conducted in December 2017; this was not restricted by language or publication date.
+A total of 66 studies were identified in this search. Based on the results of this first search,
+we were able to narrow down the keywords further and perform a more targeted search
+in July 2022, which focused on some identified maternal exposures such as dietary intake
+(food groups and micronutrients), consumption of non-alcoholic beverages (coffee, tea and
+soft drinks) and supplements used during pregnancy, and no limit of publication year or
+language restriction was used. For all constructs, database-specific thesauri were used to
+identify the relevant synonyms. The search strategy is illustrated in Figure 1.
+2.5. Selection of the Studies and Quality Assessment
+Studies were eligible for inclusion if they reported effect estimates (relative risk (RR),
+odds ratio (OR) or hazard ratio (HR) and 95% confidence intervals (CI)) or if they provided
+sufficient data to calculate the estimates for different levels of exposure.
+Table 1 lists the inclusion and exclusion criteria used in the review. The PRISMA
+guidelines were followed [9] (Supplementary Table S1). All references found through the
+search questions (Figure 1) were imported into the Endnote software program (Version
+x8, Clarivate Analytics, Philadelphia, PA, USA). Two authors independently searched
+each database (Pubmed and Web of Science) for publications. Any uncertainty regarding
+the selection of a given article was resolved after screening by a third reviewer (IH) and
+
+[W4362699264 PDF PAGE 3]
+Int. J. Environ. Res. Public Health 2023, 20, 5428 3 of 28
+discussed in the working group, if needed. The final eligibility criteria for the included
+studies are listed according to the PICOS (Table 2), and the selected studies included for
+each extracted factor are summarized in Table 3.
+Int. J. Environ. Res. Public Health 2023, 20, x FOR PEER REVIEW 3 of 31 
+ 
+ 
+ 
+Figure 1. Search Strategy. 
+2.5. Selection of the Studies and Quality Assessment 
+Studies were eligible for inclusion if they reported effect estimates (relative risk (RR), 
+odds ratio (OR) or hazard ratio (HR) and 95% confidence intervals (CI)) or if they provided 
+sufficient data to calculate the estimates for different levels of exposure.  
+Table 1 lists the inclusion and exclusion cr iteria used in the review. The PRISMA 
+guidelines were followed [9] (Supplementary Table S1). All references found through the 
+search questions (Figure 1) were imported into the Endnote software program (Version 
+x8, Clarivate Analytics, Philadelphia, PA , USA). Two authors inde

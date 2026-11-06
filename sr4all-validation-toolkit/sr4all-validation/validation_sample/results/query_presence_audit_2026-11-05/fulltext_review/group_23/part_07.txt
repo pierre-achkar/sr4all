@@ -1,0 +1,198 @@
+e only one CBAs and one CTs were included as the CTs
+group, random sequence generation could not be performed and
+was rated high risk selection bias in these two studies. The risk
+of bias assessment of the observational studies was done usin g
+RoBANS (Figure 2B).
+Outcomes
+The CTs design group with 3,928 patients (two studies) reported
+in-hospital mortality as a primary outcome with 1,966 patients in
+the ALS group and 1,962 patients in the BLS group ( Figure 3A).
+Of these, 319 patients (16.2%) died in the ALS group and
+273 patients (13.9%) died in the BLS group. The pooled OR
+of mortality was not statistically signiﬁcant (OR 1.14; 95%
+CI 0.95 to 1.36) (Figure 3A). When comparing neurological
+outcomes and time spent on scene, there were no signiﬁcant
+diﬀerences between the ALS and BLS groups. The pooled OR
+was 1.12 (95% CI: 0.88 to 1.42) for neurological outcomes,
+and−0.96 (95% CI: −6.64 to 4.72) for time spent on scene
+(Figures 4, 5A).
+The OS design group which had 97,062 patients (eight studies)
+reported in-hospital mortality as a primary outcome and of thes e,
+54,982 patients belonged to the ALS group and 42,080 patients
+belonged to the BLS group (Figure 3B). Of these, 11,494 patients
+(20.9%) died in the ALS group and 6786 patients (16.1%) died
+in the BLS group. The pooled OR of mortality was statistically
+Frontiers in Medicine | www.frontiersin.org 4 March 2021 | Volume 8 | Article 660367
+
+[W3148386947 PDF PAGE 5]
+Kondo et al. ALS vs. BLS for Trauma
+FIGURE 2 | Risk of bias summary in included studies: (A) based on the criteria recommended by the Cochrane Collabora tion for RCTs, and (B) based on the Risk of
+Bias Assessment Tool for Nonrandomized Studies for observa tional studies.
+signiﬁcant in favor of BLS (pooled OR 1.56; 95% CI: 1.31 to 1.86 )
+(Figure 3B). None of the studies included information regarding
+neurological outcomes. Time spent on scene was signiﬁcantly
+prolonged in the ALS group (pooled mean diﬀerence, 1.26; 95%
+CI: 0.07 to 2.45) (Figure 5B).
+Heterogeneity
+No statistically signiﬁcant heterogeneity in short-term mortality
+was observed between the ALS and the BLS groups in the
+CTs group (I2 = 0%; χ 2 = 1.00; p = 0.32) whereas the OS
+design groups showed statistical heterogeneity (I 2 = 74.0%; χ 2
+= 26.65; p ≤ 0.001). No statistically signiﬁcant heterogeneity
+in neurological outcomes was observed between the ALS and
+the BLS groups in the CTs design group (I2 = 0%; χ 2 =
+0.00; p = 0.97). A statistical heterogeneity was observed in
+time spent on scene (minutes) in the CTs design group ( I2 =
+95.0%; χ 2 = 18.95; p ≤ 0.001) and the OS group ( I2 = 55.0%;
+χ 2 = 4.49; p = 0.11).
+Publication Biases, and Quality of Evidence
+We tested for the presence of publication biases for the primary
+outcome. A visual inspection of the funnel plots suggested no
+existence of publication biases in the in-hospital mortalityCTs
+design group whereas the OS design group showed publication
+biases (Supplementary Material 2 ).
+The quality of evidence was rated as moderate due to the high
+risk of biases for the eﬀect of ALS on the in-hospital mortality
+compared with BLS in the CTs design groups. The grade for in-
+hospital mortality in the OS design group was rated very low, due
+to an inconsistency, which the Cochrane chi-square test reve aled
+to be a signiﬁcant heterogeneity, and due to a publication bia s.
+The quality of evidence was rated as moderate for the eﬀect of
+ALS on neurological outcome, compared with BLS. The quality
+of evidence was rated as moderate due to high risk of biases for
+the eﬀect of ALS on time spent on scene compared with BLS in
+the CTs design groups and the grade in the OS design group was
+rated low (Table 2).
+DISCUSSION
+In this systematic review, we have summarized the available
+evidence from CTs that compared to the BLS group, the
+ALS group showed no signiﬁcant improvement on in-hospital
+mortality, neurological outcomes, and time spent on scene in
+patients with trauma in the CTs design group. Moreover, the
+OS design groups showed increased mortality and time spent on
+scene in the ALS group.
+Our results of CTs are consistent with the results of a previous
+meta-analysis which was reported in 2011 and ALS care was not
+associated with increased survival in trauma patients (
+32). The
+authors retrieved data from 9 trials including 16,857 patien ts
+that met their inclusion criteria ( 23, 25–27, 33–37) and included
+helicopter transportation. In the present study, we excluded
+helicopter transportation because resource was very limited, and
+it could aﬀect results; tracheal intubation or chest compress ions
+are diﬃcult to perform in a ﬂying helicopter. In the studies
+that met our criteria, the patients were mostly transported by
+Frontiers in Medicine | www.frontiersin.org 5 March 2021 | Volume 8 | Article 660367
+
+[W3148386947 PDF PAGE 6]
+Kondo et al. ALS vs. BLS for Trauma
+FIGURE 3 | Forest plot of the comparison: ALS vs. BLS for in-hospital mo rtality (A) Controlled trials; (B) Observational studies. ALS, advanced life support, BLS,
+basic life support, IV , inverse variance weighted method, CI, conﬁdence interval.
+FIGURE 4 | Forest plot of the comparison: ALS vs. BLS for neurological o utcomes. ALS, advanced life support; BLS, basic life suppor t; IV , inverse variance weighted
+method; CI, conﬁdence interval.
+ambulance and there was no diﬀerence in outcomes between the
+ALS and BLS groups.
+We performed meta-analysis using observational studies to
+conﬁrm the robustness of results. Regarding the OS design gro up,
+ALS prolonged time spent on scene and increased in-hospital
+mortality compared to BLS, although certainty of evidence was
+very low. A previous study showed that ALS was associated
+with an increased mortality rate compared to BLS (
+31). In this
+previous study, the time spent on scene was higher for ALS than
+for BLS providers (18.5 min vs. 13.5 min,p = 0.005) (
+31); this can
+aﬀect mortality. Another observational study reported that a n
+increase in total prehospital time was associated with increa sing
+in-hospital mortality in trauma patients ( 38). These results are
+correlated with our OS design group results.
+Our ﬁndings showed no ALS advantages in both CTs and
+OS groups. Previous studies regarding ALS procedures reported
+that endotracheal intubation in prehospital settings has not
+been shown to reduce mortality and morbidity in severe
+trauma patients. Moreover, performing ALS procedures in a
+diﬃcult task under trying conditions and could be harmful
+(
+27, 39–41). Endotracheal intubation by unskilled practitioners
+could result in adverse events and result in low quality of
+chest compressions with signiﬁcant interruptions (
+39). The
+value of prehospital IV ﬂuid resuscitation has also been
+questioned (
+42–44). IV infusions of crystalloid may promote
+hemorrhage by diluting coagulation factors and by lowering
+blood viscosity (
+42). Theoretically, these previous reports of
+ALS procedures in prehospital settings may support our
+Frontiers in Medicine | www.frontiersin.org 6 March 2021 | Volume 8 | Article 660367
+
+[W3148386947 PDF PAGE 7]
+Kondo et al. ALS vs. BLS for Trauma
+FIGURE 5 | Forest plot of the comparison: ALS vs. BLS for on-scene spend ing time (A) controlled trials; (B) observational studies. The unit of number in mean is
+minutes. ALS, advanced life support; BLS, basic life suppor t, IV , Inverse variance weighted method; CI, conﬁdence interval .
+TABLE 2 | Summary of ﬁnding table.
+Outcomes Anticipated absolute effects* (95% CI) Relative effe ct
+(95% CI)
+No. of
+participants
+(studies)
+Certainty of the
+evidence (GRADE)
+Risk with BLS Risk with ALS
+Mortality (CTs) 139 per 1,000 156 per 1,000
+(133 to 180)
+OR 1.14
+(0.95 to 1.36)
+3,928 (2 studies) ⊕ ⊕ ⊕ ⃝ Moderate
+Mortality (OS) 161 per 1,000 231 per 1,000
+(201 to 263)
+OR 1.56
+(1.31 to 1.86)
+97,062
+(8 studies)
+⊕ ⃝ ⃝ ⃝ Very low
+Disability of CNS (CTs) 273 per 1,000 296 per 1,000
+(248 to 348)
+OR 1.12
+(0.88 to 1.42)
+1,394 (2 studies) ⊕ ⊕ ⃝ ⃝ LOW
+On-scene time (CTs) The mean total
+time on scene was
+0
+MD 0.96 lower
+(6.64 lower to 4.72
+higher)
+- 3,034 (2 studies) ⊕ ⊕ ⊕ ⃝ Moderate
+On-scene time (OS) The mean
+on-scene time
+was 0
+MD 1.26 higher
+(0.07 higher to
+2.45 higher)
+- 1,258 (3 studies) ⊕ ⊕ ⃝ ⃝ LOW
+*The risk in the ALS group (and its 95% conﬁdence interval) is based on th e assumed risk in the BLS group and the relative effect of the ALS (and i ts 95% CI).
+CI, conﬁdence interval; BLS, basic life support; ALS, advanced life support; GRADE, The Grading of Recommendations Assessment, Development and Evaluation, RCT, randomized
+control trial; OS, observational study; OR, odds ratio; CNS, central ne rve system; MD, mean difference.
+ﬁndings. However, caution is required to interpret our resul ts.
+Recently, ALS equipment has improved; tracheal intubation
+using a video laryngoscope are being introduced. In the
+future, ALS may improve clinical outcomes due to advances in
+resuscitation equipment.
+There are number of strengths in the present study. A major
+strength of this analysis is that the present study was evalua ted
+by the quality of the evidence by the GRADE approach, which
+is widely accepted, and which oﬀers an objective system for
+rating quality of evidence in systematic reviews and clinical
+practice guidelines. The other strength of this study is that could
+include both CTs and OS design. Our ﬁndings therefore become
+more robust.
+The present study has several limitations. First, the meta-
+analyses were based on data from only two CTs and eight
+observational studies. Two CTs are not enough and observational
+studies have a limited ability to control for confounding va riables,
+and the retrospective designs must be interpreted with particu lar
+attention. More severe patients might include in the ALS group
+than the BLS group in OS design. Thus, we judged the quality of
+the evidence provided by the observational studies as “very low.”
+Second, procedures of ALS or eligible populations were varied
+Frontiers in Medicine | www.frontiersin.org 7 March 2021 | Volume 8 | Art

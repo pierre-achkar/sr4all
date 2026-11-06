@@ -1,0 +1,250 @@
+meta’ packages in R for the evaluation of publica -
+tion bias. Egger’s test evaluated funnel plot asymmetry. P -
+value <0.05 was considered to indicate the existence of 
+publication bias. 
+All statistical analyses were performed using R for Win -
+dow (Version 4.3.1; R Foundation for Statistical Computing, 
+Vienna, Austria).
+RESULTS
+Study selection
+A flow diagram of our study selection process is present -
+ed in Figure 1. A total of 1,352 records were retrieved utiliz -
+ing our primary search strategy, of which 125 were exclud -
+ed due to duplication. In addition, 1,165 other irrelevant 
+articles were excluded based on the titles and abstracts. 
+After excluding the studies that did not fulfill the eligibility 
+criteria, eight studies were finally selected.
+Study characteristics
+The characteristics of the included studies are described 
+in Table 1.
+26-33
+ These studies were published between 2011 
+and 2018. All the studies were conducted in Asian coun -
+tries and had a cross-sectional design.
+Diagnostic performance of VCTE for significant 
+liver fibrosis
+Eight studies (comprising 2,003 AVT-na ïve CHB patients) 
+evaluated the diagnostic performance of VCTE for signifi -
+cant liver fibrosis. The sensitivity was 0.60–0.95, and 
+specificity was 0.31–0.88. The summary sensitivity and 
+specificity were 0.78 (95% CI, 0.66–0.86) and 0.72 (95% 
+CI, 0.60–0.82), respectively (Fig. 2). As shown in Figure 3, 
+the summary HSROC was 0.81 (95% CI, 0.72–0.86). 
+A subgroup analysis was conducted for CHB patients 
+with serum ALT levels within 2-fold the ULN. The summary 
+Table 1. Characteristics of the studies included in the meta-analysis
+Study Region Study 
+period Design Subjects 
+(n)
+Age 
+(years)
+a
+Male 
+(%)
+Alanine aminotransferase 
+(IU/mL)
+a HBV DNA
+a Fibrosis stage (%)
+F0 F1 F2 F3 F4
+Lesmana et al.
+26
+ (2011) Indonesia 2008–2010 Cross-sectional 117 40.6 53.8 47.6 6.1 (log 10 copies/mL) 2.6 35 38.5 20.5 3.4
+Leung et al.
+27
+ (2013) China 2011–2012 Cross-sectional 226 48.8 65 69 5.6 (log IU/mL) 17 23 25 20 15
+Seo et al.
+28
+ (2015) Korea 2006–2014 Cross-sectional 567 45 66.7 48 NA 28.4 26.8 24.3 20.5
+Huang et al.
+29
+ (2016) China 2010–2013 Cross-sectional 263 33.5 60.8 44.1 NA 6.5 78.7 9.5 4.2 1.1
+Li et al.
+30
+ (2016) China 2013–2015 Cross-sectional 307 40.4 73.3 38.8 4.67 (log 10 copies/mL) 27.7 54.1 10.8 7.5
+Liang et al.
+31
+ (2017) China NA Cross-sectional 236 30.8 79.7 71.5 NA 3 24.6 32.6 22 17.8
+Zhao et al.
+32
+ (2017) China NA Cross-sectional 99 37.7 64.6 46.7 NA NA 81.8 18.2 NA NA
+Li et al.
+33
+ (2018) China 2013–2015 Cross-sectional 188 37 62.8 39 5.4 (log10 copies/mL) 5.9 44.1 28.7 6.4 14.9
+a
+Variables are expressed as mean or median.
+HBV, hepatitis B virus; NA, not applicable.
+
+[W4400900444 PDF PAGE 7]
+ Mi Na Kim, et al.
+ Vibration-controlled transient elastography for significant fibrosis
+https://doi.org/10.3350/cmh.2024.0371
+S111
+http://www.e-cmh.org
+sensitivity and specificity were 0.74 (95% CI, 0.59–0.85) 
+and 0.82 (95% CI, 0.70–0.89), respectively (Supplementary 
+Fig. 1). As shown in Supplementary Figure 2, the summary 
+HSROC was 0.83 (95% CI, 0.66–0.92).
+Optimal cut-off value of VCTE for the diagnosis 
+of significant liver fibrosis
+The optimal cutoff value of VCTE for the diagnosis of sig -
+nificant liver fibrosis was identified using the data from six 
+studies that provided a single cut-off value and two studies 
+that each provided two cut-off values. The cut-off values 
+ranged from 5.5 to 8.0 kPa in the previous studies. The op -
+timal cut-off value for VCTE was 7.7 kPa with a sensitivity 
+of 0.64 (95% CI, 0.50–0.76) and specificity of 0.83 (95% 
+CI, 0.72–0.90). With this cut-off value of VCTE, the area 
+under the receiver operating characteristic curve (AUC) 
+was 0.78 (95% CI, 0.67–0.86).
+Methodological quality
+The results of quality assessment of the included studies 
+using the QUADAS-2 tool are shown in Supplementary 
+Figure 3. All the studies had low risk of bias.
+Publication bias
+The results of publication bias analysis are shown in the 
+funnel plot (Supplementary Fig. 4). Application of Egger’s 
+test revealed that significant publication bias was not found 
+in the included studies ( P=0.356).
+DISCUSSION
+In this study, we performed a systematic review and me -
+ta-analysis, which included eight studies (comprising 2,003 
+AVT-naïve CHB patients) to investigate the diagnostic per -
+formance of VCTE for significant liver fibrosis in AVT-na ïve 
+CHB patients with ALT within 5-fold the ULN. The summary 
+sensitivity, specificity, and HSROC of VCTE for diagnosis 
+of significant liver fibrosis were 0.78, 0.72, and 0.81, re -
+spectively. In addition, we identified the optimal cut-off val -
+ue of VCTE as 7.7 kPa for diagnosis of significant liver fi -
+brosis in these patients. 
+Several guidelines recommend that AVT can be consid -
+ered in CHB patients with elevated HBV-DNA levels who 
+do not have ALT levels that are sufficiently elevated to meet 
+Sensitivity
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+0.0 0.2 0.4 0.6
+False Positive Rate
+Study estimate
+Summary point
+HSROC curve AUC=0.81(0.72-0.86)
+95% estimate region
+95% prediction region
+0.8 1.0
+Figure 3. The hierarchical summary receiver operating character -
+istic curve of vibration-controlled transient elastography for diag -
+nosis of significant liver fibrosis. HSROC; hierarchical summary 
+receiver operating characteristic curve; AUC, area under the 
+curve.
+Figure 2. The forest plot of vibration-controlled transient elastography  for the diagnosis of significant liver fibrosis. CI, confidence interval.
+Study TP FP FN TN Total ≥F2 Cutoff Sensitivity [95% CI] Specificity [95% CI]
+Zhao, J. (2017) 13 24 5 57 99 18 7.04 0.72 [0.47-0.90] 0.70 [0.59-0.80]
+Seo, Y. S. (2015) 289 42 117 119 567 406 7.80 0.71 [0.67-0.76] 0.74 [0.66-0.81]
+Liang, X. E. (2017) 163 45 8 20 236 171 5.50 0.95 [0.91-0.98] 0.31 [0.20-0.44]
+Li, Y. (2016) 134 28 88 57 307 222 6.20 0.60 [0.54-0.67] 0.67 [0.56-0.77]
+Li, Q. (2018) 71 11 23 83 188 94 6.50 0.76 [0.66-0.84] 0.88 [0.80-0.94]
+Leung, V. Y. F. (2013) 106 17 30 73 226 136 6.90 0.78 [0.70-0.85] 0.81 [0.72-0.89]
+Lesmana, C. (2011) 44 16 29 28 117 73 5.85 0.60 [0.48-0.72] 0.64 [0.48-0.78]
+Huang, R. (2016) 34 33 5 191 263 39 8.00 0.87 [0.73-0.96] 0.85 [0.80-0.90]
+Summary 0.78 [0.66-0.86] 0.72 [0.60-0.82]
+Heterogeniety: Tau
+2
+= 0.5577, I
+2
+=88.1% Tau
+2
+=0.6083, I
+2
+=91.1%
+Q=58.87, df=7 ( P<0.01) Q=78.38, df=7 ( P<0.01)0 01 10.25 0.250.5 0.50.75 0.75
+
+[W4400900444 PDF PAGE 8]
+https://doi.org/10.3350/cmh.2024.0371
+S112
+Clinical and Molecular Hepatology
+Volume_30 Supplement September 2024
+http://www.e-cmh.org
+the AVT initiation criteria if the patients have significant in -
+flammation or bridging fibrosis/cirrhosis.
+14-17
+ A recent meta-
+analysis reported that the pooled proportion of significant 
+fibrosis was 32% in AVT-na ïve CHB patients with ALT with -
+in the ULN.
+34
+ Another meta-analysis demonstrated that 
+48% of AVT-na ïve CHB patients with ALT levels 1- to 2-fold 
+greater than the ULN had significant liver fibrosis.
+35
+ Given 
+that there is a substantial proportion of significant liver fi -
+brosis among AVT-na ïve CHB patients with normal or mini -
+mally elevated ALT levels, the diagnosis of significant liver 
+fibrosis in these patients is crucial due to an increasing 
+clinical need to better align the timing of AVT with CHB.
+Numerous studies have validated the high diagnostic ac -
+curacy of VCTE for significant fibrosis and cirrhosis across 
+various liver disease including viral hepatitis, compared to 
+the gold standard of liver biopsy.
+7-9
+ VCTE has advantages 
+of its non-invasiveness, the ease of use, and ability to pro -
+vide immediate results, which make it particularly useful in 
+routine clinical practice and for monitoring disease progres -
+sion or response to therapy.
+36
+ 
+While VCTE was initially studied in patients with chronic 
+hepatitis C,
+37,38
+ it has also been proven to be useful in pa -
+tients with CHB, with evidence largely drawn from studies 
+conducted in Asian countries where CHB is prevalent. Sev-
+eral meta-analyses reported that the summary AUC of 
+VCTE for the diagnosis of significant fibrosis in patients 
+with CHB ranged from 0.81 to 0.86. 11,13,39
+ However, the pre -
+vious meta-analyses included individual studies of patients 
+at various stages of CHB, including those receiving AVT, 
+which did not allow for an accurate assessment of the per -
+formance of VCTE specifically in AVT-na ïve patients. 
+In addition, liver stiffness (LS) improvement during AVT 
+does not necessarily correlate with cirrhosis improvement 
+in histology or imaging modality for several reasons. First, 
+LS reflects the physical properties of the liver and can im-
+prove relatively quickly during antiviral therapy, whereas 
+histological changes in fibrosis take longer to manifest. 
+Second, decline in LS during antiviral therapy is a combi -
+nation of resolution of hepatic inflammation, and regression 
+of fibrosis. Finally, in cases of severe fibrosis or cirrhosis, 
+irreversible changes may have occurred, where LS shows 
+some improvement but histological fibrosis and cirrhosis 
+remain.
+40,41
+A recent meta-analysis reported the acceptable diagnos -
+tic performance of VCTE for significant fibrosis particularly 
+in AVT-na ïve CHB patients.
+10
+ The analysis of 23 studies 
+(comprising 3,879 AVT-na ïve CHB patients) demonstrated 
+that the pooled sensitivity and specificity of VCTE were 
+0.76 and 0.79, respectively. The summary AUC of VCTE 
+was 0.84. However, the study included patients with ALT 
+more than 5-fold the ULN. Elevated ALT levels have been 
+reported to overestimate the value of VCTE. 18,19,42,43
+ Kim et 
+al.
+44
+ found that value of VCTE tended to increase with ALT 
+levels. In addition, higher ALT levels were found to contrib -
+ute to the discordance of diagnostic results between VCTE 
+and liver biopsy.45
+ Thus, several previous studies excluded 
+patients with ALT levels more than 5-fold the ULN to inves -
+tigate the diagnostic performance of VCTE in CHB.
+46,47
+ In 
+consid

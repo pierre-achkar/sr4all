@@ -1,0 +1,171 @@
+PDF PAGE 9]
+Original Article
+Einwoegerer & Domingueti
+Cystatin C and cardiovascular event or mortality
+Arq Bras Cardiol. 2018; 111(6):796-807
+Although cystatin C is a more sensitive marker for detecting 
+the early stages of CKD than creatinine, especially in groups at 
+risk for CKD, such as patients with diabetes mellitus and renal 
+transplant recipients, it has some limitations.32,33 High doses of 
+glucocorticoids and hyperthyroidism may result in increased 
+serum levels of cystatin C, whereas hypothyroidism may result 
+in a decrease.34 Some factors, such as age, male gender, body 
+weight, smoking, C-reactive protein, cancer, inflammatory 
+processes and steroid therapy may also influence serum levels 
+of cystatin C, limiting its assessment in clinical practice.35
+Renal weight and volume decrease gradually between the 
+ages of 30 and 90 years, resulting in a natural decline of renal 
+function with increasing age.36 Thus, elderly patients have a 
+lower GFR, which may be associated with higher levels of 
+cystatin C and an increased risk of cardiovascular events. 28  
+As most of the studies that performed the multivariate 
+regression analysis [66.66% (n = 4)] 15,17,18,23 included age in 
+this analysis, and nonetheless found a significant association 
+between high levels of cystatin C and the development 
+of adverse outcomes, it is possible to conclude that this 
+association is age-independent. It should be noted that the two 
+studies20,25 that were included in the meta-analysis are among 
+these studies that included age in the multivariate regression 
+analysis, indicating that the association between high levels 
+of cystatin C and any cause-related mortality observed in 
+meta-analysis is age-independent.
+All selected studies have described the renal function of 
+patients as being normal.  The estimated GFR calculated by 
+the MDRD formula, greater than 60 mL/min/1.73 m2, was 
+used as a criterion for normal renal function in 66.67% of 
+the studies, and 8.33% used serum creatinine levels below 
+115 μmol/L.  The estimated GFR is a better marker for 
+renal function evaluation than serum creatinine, because it 
+undergoes interference of muscle mass, gender, age, physical 
+activity and diet.  Moreover, unlike GFR, serum creatinine 
+is not able to detect the presence of chronic renal disease 
+early because its levels increase only when renal disease is 
+already at an advanced stage. 31 The inclusion of individuals 
+with estimated GFR greater than 60 mL/min/1.73 m 2 by 
+most studies, including studies of the meta-analysis, supports 
+the information that the association between high levels of 
+cystatin C and the risk of cardiovascular events or mortality is 
+not dependent on the renal function of the patient evaluated 
+by creatinine-based estimated GFR, which is a marker that 
+has good sensitivity for the detection of renal dysfunction in 
+the early stages.
+Immunonephelometry and immunoturbidimetry were the 
+most commonly used methods [75% (n = 9)] for the laboratory 
+dosage of cystatin C and were even used by the studies 
+included in the meta-analysis.  These methods have good 
+precision, specificity, adequate time to result, and minimum 
+amount of sample required, being the methods of choice for 
+cystatin C37,38 dosage. Therefore, the use of these methods by 
+most of the studies included in the systematic review brings 
+greater reliability to the results.
+The sample size of the studies ranged from 127 to 
+4,663 individuals, with most of them having more than 
+400 individuals [58.33% (n = 7)].8,15,17,18,20,23,24 The study7 that 
+obtained the smallest sample size still included more than 
+100 individuals, which can be considered a significant number 
+if the follow-up is performed for an adequate time.39 It should 
+be noted that this study found a significant difference between 
+patients who developed fatal or non-fatal cardiovascular events 
+and those who did not develop these events.
+This systematic review had some limitations, such as the 
+population studied, which varied widely among the studies.  
+Only one study24 included healthy elderly subjects, while the 
+population of the other studies consisted of patients at risk 
+for cardiovascular events,15 with STEMI and NSTEMI,7,16 with 
+stable CAD, 17,18 SCA, 17 patients undergoing percutaneous 
+coronary intervention, 19 with CHF , 20,21  with CHF who 
+underwent coronary angiography, 8 with stable angina and 
+AMI,22 and with a history of AMI that had angiographic 
+evidence of stenosis greater than 50%. 23 This variation may 
+lead to bias in the results, because cardiovascular impairment 
+varied among the populations at the beginning of the studies, 
+which may influence cystatin C levels, since patients with 
+CHF or AMI could present higher levels of cystatin C at the 
+beginning of the study if compared to patients who only 
+present risk of cardiovascular events. 23 Since most studies 
+evaluated a population at risk of cardiovascular events or who 
+already have some degree of cardiovascular impairment, it 
+is possible to suggest that cystatin C is an interesting marker 
+for assessing the risk of cardiovascular events or mortality in 
+these population groups and may complement the currently 
+available markers.
+In addition to the variation of the study population, follow-up 
+time, patient classification, and outcomes also varied widely 
+across studies. The follow-up time ranged from six months to 
+ten years, and three studies (25%)7,16,22 followed the patients 
+for less than 15 months and four studies (33.33%)15,18,20,24 have 
+followed for more than nine years. The prevalent time of follow-up 
+of the studies was three to six years [41.67% (n = 5)].8,17,19,21,23 
+The follow-up time should be adequate for the outcome to be 
+observed, and should be greater for the detection of mortality 
+than for cardiovascular events. The study22 with shorter follow-up 
+(6 months) found higher levels of cystatin C among patients who 
+developed fatal and non-fatal cardiovascular events compared 
+to patients who did not develop these outcomes, indicating 
+that even shorter follow-up time was sufficient for the detection 
+of both outcomes and for the observation of a significant 
+association with Cystatin C levels. Both studies included in 
+the meta-analysis assessed the outcome for all-cause mortality.  
+One of them followed the patients for three years and the other 
+for ten years, with these times being adequate for the evaluation 
+of the outcome.
+Patients classification to carry out the statistical analysis 
+also varied considerably among the studies. Only five studies 
+(41.66%),8,17,18,20,23 including the studies of the meta-analysis, 
+classified patients according to quartiles of cystatin C, which is 
+the best classification to establish a cutoff point above which 
+the risk of developing cardiovascular events or mortality 
+would be higher.
+Despite these study limitations, of the articles selected 
+in this systematic review, 11 have excellent methodological 
+quality and only one has good quality.
+804
+
+[W2888207460 PDF PAGE 10]
+Original Article
+Einwoegerer & Domingueti
+Cystatin C and cardiovascular event or mortality
+Arq Bras Cardiol. 2018; 111(6):796-807
+1. Organização Pan Americana de Saúde. (OPAS-OMS). [Internet]. 
+[Acesso em 2018 abr 10]. Disponível em: https://www.paho.org/bra/
+index.php?option=com_content&view=article&id=5253:doencas-
+cardiovasculares&Itemid=839 
+2. De Backer G, Ambrosioni E, Borch-Johnsen K, Brotons C, Cifkova R, Dallongeville 
+J, et al; European Society of Cardiology Committee for Practice Guidelines. 
+European guidelines on cardiovascular disease prevention in clinical practice: 
+third joint task force of European and other societies on cardiovascular disease 
+prevention in clinical practive (constituted by representatives of eight societies and 
+by invited experts). Eur J Cardiovasc Prev Rehabil. 2003;10(4):S1-10.
+3. Bi M, Huang Z, Li P , Cheng C, Huang Y, Chen W. The association between 
+elevated cystatin C levels with myocardial infarction: a meta-analysis. Int J 
+Clin Exp Med. 2015:8(11):20540-7.
+4. Wang M, Zhang L, Yue R, You G, Zeng R. Significance of cystatin C for early 
+diagnosis of contrast-induced nephropathy in patients undergoing coronary 
+angiography. Med Sci Monit. 2016;22:2956-61.
+5. Lameire N,  Vanholder R,  Biesen WV , Benoit  D. Acute kidney injury in 
+critically ill cancer patients: an update. Crit Care. 2016;20(1):209. 
+6. Bongartz LG, Cramer MJ, Braam B. The cardiorenal connection. 
+Hypertension. 2004;43(4):e14.
+7. Abid L, Charfeddine S, Kammoun S, Turki M, Ayedi F . Cystatin C: a prognostic 
+marker after myocardial infarction in patients without chronic kidney 
+disease. J Saudi Heart Assoc. 2016;28(3):144-51.
+8. Dupont M, Wu Y, Hazen SL, Tang WH. Cystatin C identifies patients with 
+stable chronic heart failure at increased risk for adverse cardiovascular 
+events. Circ. Heart failure. 2012;5(5):602-9.
+9. Li R, Hao P , Chen Y, Zhang Y. Association of cystatin C level and cardiovascular 
+prognosis for patients with preexisting coronary heart disease: a meta-
+analysis. Chin Sci Bulletin. 2014;59(5-6):539-45.
+10. Bi M, Huang Z, Li P , Cheng C, Huang Y, Chen W. The association between 
+elevated cystatin C levels with myocardial infarction: a meta-analysis. Int J 
+Clin Exp Med. 2015;8(11):20540-7.
+11. Lee M, Saver JL, Huang WH, Chow J, Chang KH, Ovbiagele B. Impact of 
+elevated cystatin C level on cardiovascular disease risk in predominantly 
+high cardiovascular risk populations: a meta-analysis. Circ Cardiovasc Qual 
+Outcomes. 2010;3(6):675-83.
+12. Luo J, Wang LP , Hu HF , Zhang L, Li YL, Ai LM, et al. Cystatin C and 
+cardiovascular or all-cause mortality risk in the general population: a meta-
+analysis. Clin Chim Acta. 2015 Oct 23;450:39-45.
+13. Moher D, Liberati A, Tetzlaff J, Altman DG; PRISMA Group. Preferred 
+reporting items for systematic reviews and meta-analyses: The PRISMA 
+Statement. PLoS Med. 2009;6(7):e1000097.
+14. Wells GA, Shea B, O’Con

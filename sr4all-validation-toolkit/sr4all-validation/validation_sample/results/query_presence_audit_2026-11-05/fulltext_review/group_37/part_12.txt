@@ -1,0 +1,189 @@
+ 
+to 100%, with half of the studies successfully screening more than 75% of their patient population. There were limited 
+data on patient demographics for individuals who were and were not screened (e.g., gender, race) and screening 
+practices (e.g., electronic versus paper/pencil administration).
+Conclusions The results of this systematic review suggest that successful screening for substance use in behavioral 
+health settings is possible, yet it remains unclear how frequently screening occurs. Given the high rates of comorbid 
+SUD and psychopathology, future research is necessary regarding patient and clinic-level variables that may impact 
+the successful implementation of substance use screening.
+Trial registry A methodological protocol was registered with the PROSPERO systematic review protocol registry (ID: 
+CRD42020188645).
+Keywords Screening, Substance use, Substance use disorder, Behavioral health, Outpatient
+Introduction
+Substance use disorders (SUD) pose a substantial societal 
+burden in the United States. In 2020 alone, an estimated 
+28.3 million people aged 12 or older met criteria for a 
+past-year alcohol use disorder, while 18.4 million peo -
+ple aged 12 or older experienced a past-year illicit drug 
+use disorder [1] Risky substance use and SUD are asso -
+ciated with substantial disability and mortality, with an 
+estimated 480000 tobacco-related deaths and 95000 alco-
+hol-related deaths annually in the United States [2, 3]. Of 
+particular concern, drug-related overdose deaths have 
+risen over the past years, increasing from 70,630 deaths 
+in 2019 to 92000 deaths in 2020 [4, 5].
+Prior research has established psychopathology as a 
+significant risk factor for developing a SUD [6–9]. For 
+example, individuals with depression are approximately 
+*Correspondence:
+Amy M. Yule
+amy.yule@bmc.org
+1 Department of Psychiatry, Massachusetts General Hospital, Harvard 
+Medical School, Boston, MA 02114, USA
+2 Private Clinical Practice, Rockville, MD, USA
+3 Department of Psychiatry, Boston Medical Center, 850 Harrison Avenue, 
+Boston, MA 02118, USA
+
+[W4360976162 PDF PAGE 2]
+Page 2 of 9Woodward et al. Addiction Science & Clinical Practice           (2023) 18:18 
+2 times more likely to develop a SUD, and those with 
+attention deficit hyperactivity disorder exhibit a 2.3 times 
+greater risk [10]. Furthermore, individuals with one or 
+more psychiatric diagnoses experience greater SUD 
+severity [11, 12]. The sequelae of co-occurring SUD and 
+psychiatric disorders include increased odds of addi -
+tional psychopathology [15], hospitalizations [16], suicide 
+attempts [13, 17, 18], overdose [19–21], criminal behav -
+ior [22], and homelessness [23]. Additionally, adults with 
+co-occurring disorders report overall lower quality of life 
+[24] and lower social and occupational functioning [13, 
+25, 26].
+Despite the imposed burden of comorbid SUD and 
+psychopathology, in 2019, 51.4% of individuals in the 
+United States with co-occurring disorders received no 
+treatment, 38.7% received mental health treatment only, 
+7.8% received treatment for both mental health and SUD, 
+and 1.9% received SUD treatment only (27). Given that 
+many treatment-seeking individuals with co-occurring 
+SUD and psychopathology obtain mental health treat -
+ment rather than substance use treatment, screening for 
+substance use concerns in behavioral health settings is 
+necessary to identify individuals at the greatest risk for 
+maladaptive outcomes.
+To this end, both the Substance Abuse and Mental 
+Health Services Administration (SAMHSA) and the 
+National Institute for Health and Clinical Guidance 
+(NICE) have urged mental health providers to routinely 
+administer patient self-report questionnaires to screen 
+for substance use [28, 29]. Most efforts to integrate sub -
+stance use screening into clinical care have focused on 
+primary care settings [30–33]. As such, the success of 
+substance use screening tools in other outpatient settings 
+remains unclear. Because behavioral health clinics gen -
+erally have both fewer ancillary supports to assist with 
+screening compared to primary care, as well as high staff  
+turnover rates [34, 35], research is needed on screen -
+ing for substance use in these settings. Hence, we aim to 
+summarize the extant literature on systematic screening 
+for substance use in behavioral health, with a focus on the 
+prevalence of screening within these clinics, characteris -
+tics of the screening tools used, and screening practices.
+Methods
+A methodological protocol was registered with the 
+PROSPERO systematic review protocol registry (ID: 
+CRD42020188645).
+Search strategy
+We conducted a search based upon Preferred Report -
+ing Items for Systematic Reviews and Meta-Analyses 
+(PRISMA) guidelines of peer-reviewed literature within 
+the PubMed, Embase, and PsycINFO databases through 
+May 22, 2020 with no restrictions for the start date. We 
+examined both the prevalence and frequency of sub -
+stance use screening in outpatient behavioral health 
+clinics as well as the characteristics of the outpatient 
+behavioral health clinics that screen for substance use. 
+We searched each database using various combinations 
+of search terms that can be found in the Additional file  1. 
+Bibliographies of reviewed articles were also examined 
+for additional studies to ensure that no relevant articles 
+were omitted.
+Inclusion criteria were quantitative studies examining 
+substance use screening in outpatient adult and pediat -
+ric behavioral health clinics published in English. This 
+included general psychiatric clinics, community mental 
+health organizations, university counseling centers, and 
+other specialty services. Studies were only included if 
+they implemented systematic screening for substance use 
+and reported the percentage of patients who completed 
+the screener. Editorials, commentaries, opinion papers, 
+chapters, and research studies that recruited partici -
+pants to complete screening tools were excluded. Studies 
+examining screening for substance use only in integrated 
+behavioral health settings within primary care, emer -
+gency rooms, or inpatient settings were also excluded. If 
+studies examined screening for substance use in behav -
+ioral health-only clinics alongside integrated behavio -
+ral health settings they were included if they stratified 
+screening rates by clinic type.
+Selection of studies
+Two reviewers independently screened the titles and 
+abstracts of all papers. Any disagreements were resolved 
+by consensus, and irrelevant titles were excluded. A 
+record was kept of all irrelevant and duplicate articles. 
+The full text of the remaining papers was reviewed by the 
+two investigators and included/excluded. A third senior 
+investigator reviewed all the included papers to confirm 
+they met inclusion/exclusion criteria.
+Data extraction, analysis, and synthesis
+Data were extracted from the quantitative studies by one 
+reviewer and discussed with the senior reviewer. The fol -
+lowing variables were extracted: Setting, sample size, 
+percentage of patients screened, patient demographics, 
+language of screening tool, screener administered, sub -
+stances screened, date of study, frequency of screening, 
+and method of screening (computer, paper, self-report, 
+clinician report, etc.).
+Results
+Our initial search yielded 362 non-duplicate arti -
+cles  (Fig. 1). Eighty-four articles were determined to be 
+potentially relevant and therefore reviewed in full. Of the 
+
+[W4360976162 PDF PAGE 3]
+Page 3 of 9
+Woodward et al. Addiction Science & Clinical Practice           (2023) 18:18 
+ 
+84 potentially relevant articles, 76 articles were excluded 
+based on eligibility criteria (see Fig. 1). Eight articles were 
+included in the final review  (Table  1). The most com -
+mon reasons for exclusion after full-text review were 
+that the article reported on data from a sample recruited 
+for a research study (N = 23), the authors did not report 
+the percentage of patients screened (N = 13), or screen -
+ing was implemented in a non-behavioral health setting 
+(N = 11). The 8 articles included in this systematic review 
+were published between 1992 and 2018. The sample sizes 
+ranged from 88 to 22,956 screened patients.
+Setting
+Six of the eight studies were conducted in behavioral 
+health clinics within a larger healthcare system, two of 
+which took place in Veterans Affairs (VA) facilities [36–
+41]. The two studies that were not conducted in health -
+care systems were conducted in a university counseling 
+center [42] and community mental health organizations 
+[43]. All studies were conducted in the United States. 
+Four studies were single-site [37, 40–42], three studies 
+included multiple sites ranging from 2 to 48 [36, 39, 43], 
+and one study did not report the number of sites [38]. 
+The majority of the studies (62.5%) were conducted in 
+adult clinics [37, 39, 40, 42, 44], with one study focused 
+on college students [42]. Two studies included pediatric 
+patients [36, 43], and one study did not report age [41].
+Screener and substances screened
+All of the studies screened for alcohol, the majority 
+screened for drugs (N = 6) [36, 37, 39, 40, 42, 43], and 
+half of the studies screened for tobacco (N = 4) [36, 39, 
+40, 42]. Of those that screened for drugs, two studies 
+administered screeners which did not differentiate type 
+of substance [36, 37]. Of the remaining four, all specifi -
+cally queried about marijuana/cannabis [39, 40, 42, 43], 
+and three screened for other drugs, including opioids [39, 
+40, 42]. A range of 1 to 5 screeners was used to assess 
+for substance use. Additionally, one study administered 
+both a pre-screening instrument and a screening instru -
+ment [42]. The most commonly used screeners were 
+the Alcohol Use Disorders Identification Test-Concise 
+Fig. 1 PRISMA diagram
+
+[W4360976162 PDF PAGE 4]
+Page 4 of 9Woodward et al. Addiction Science & Clinical Practice           (2023) 18:18 
+Table 1 Studies reporting systematic screening for sub

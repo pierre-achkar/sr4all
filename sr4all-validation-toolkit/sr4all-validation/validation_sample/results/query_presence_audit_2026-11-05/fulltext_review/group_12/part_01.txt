@@ -1,0 +1,270 @@
+http://www.herbmedpharmacol.com308 
+Musavi et al
+Exclusion criteria 
+- Absence of proper sampling method in studies
+- Evaluation of fertility in female, not male, samples
+- Not mentioning moral considerations
+Selection of studies and data extraction
+The articles’ information was reviewed independently by 
+two authors based on inclusion and exclusion criteria. 
+Finally, both of authors classified the information and, in 
+cases that the information was inconsistent, the comments 
+of the third author were used. The information obtained 
+from the articles was entered into the checklist considering 
+the quality approval of the articles. The checklist 
+contained: author’s name, year of the study, type of study, 
+molecular change, type of sample, type of administration, 
+dosage, part of plant and period of extract administration. 
+SYRCLE risk of bias tool was used for assessment of the 
+quality. This tool is an advanced and improved model of 
+the past quality assessment tools that is specific to animal 
+and pre-clinical studies (33) and solve some of defects of 
+the previous tools that was related to clinical trials. 
+Results
+In the first stage of search, 980 articles were found. 
+After removing duplicates and unrelated articles, 18 
+experimental studies included in this systematic review 
+(Figure 2).
+Thirteen studies evaluated garlic and 5 studies compared 
+garlic effects with other drugs. A study compared aged 
+garlic extract with adriamycin, a study compared aged 
+garlic extract with titanium dioxide, a study compared 
+garlic oil extract with furan, a study compared garlic blue 
+extract with vitamin E and N-acetyl cysteine   and a study 
+compared garlic extract and onion with cadmium .
+Qualitative assessment showed that most studies were in 
+high risk for bias. In most of these studies, randomization 
+in animal housing, randomization in sampling, researcher 
+and statistical analyzers blinding were not me n tioned 
+clearly (Table 1).
+In 10 studies garlic extract was prescribed as crude 
+plant and powder for animals. The maximum sample 
+size was 62 mice and the lowest sample size was 10 mice 
+that were examined in experimental studies. All studies 
+were conducted in the in vivo condition. The control 
+group received distilled water, normal saline or powder 
+containing starch, and the treatment group received 
+aged garlic extract, adriamcyin, titanium dioxide, garlic 
+oil, N-acetylcyseinne, vitamin E, cadmium, cooked 
+garlic or garlic juice. The treatment period varied 
+from 7 to 120 days and complications such as impaired 
+spermatogenesis, apoptosis, abnormal sperm, decreased 
+sperm motility, seminal vesicle disorder, increased blood 
+cholesterol, leukocytosis, decreased testicular weight, 
+decreased Leydig cells, increased prostate weight and 
+increased cortisol were mentioned in the studies. All of 
+these complications were reported as chemical substances 
+toxicity. Further information is presented in Table 2. 
+Discussion
+The present study was a systematic review of the effects of 
+garlic on fertility. In general, in this paper, 18 studies were 
+reviewed. Thirteen studies were conducted on the effect of 
+garlic on fertility treatment. Due to the lack of side effects, 
+as well as containing flavonoids, vitamins, fructose and 
+sulfur compounds, garlic can help with neutralizing free 
+radicals (1). Sulfur compounds in garlic, with a direct effect 
+on the metabolism of cytochrome P450 and glutathione 
+-s-transferase, have a protective effect on spermatogenesis. 
+In addition to sulfur compounds, garlic has antioxidant 
+properties and can increase fertility by reducing lipid 
+peroxidation ( 32). Given the above mentioned factors, 
+garlic is recommended for the treatment of infertility. In 
+a study by Asadpour et al it was indicated that garlic has 
+antioxidant activity due to presence of vitamin E, which 
+prevents oxygen peroxide ( 49). Also, the results of the 
+study by Nasr showed that garlic antioxidant properties 
+can reduce the toxicity of harmful drugs on the testes and 
+increase the spermatogenesis and fertility in men ( 35).
+In the study by Akabawy and Sherif, it was concluded 
+that garlic inhibited caspase-3 and cytochrome P450 
+2E1 (CYP2E1) enzymes, which had a toxic effect on the 
+testes and, by decreasing these two enzymes, improved 
+the testicular performance and spermatogenesis ( 37). 
+ 
+6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2: Trend of screening and choosing articles based on PRISMA guidelines 
+ 
+Thirteen studies evaluated garlic and 5 studies compared garlic effects with other drugs. A study compared 
+aged garlic extract with adriamycin, a study compared aged garlic extract with titanium dioxide, a study 
+compared garlic oil extract with furan, a study compared  garlic blue extract with vitamin E and N -acetyl 
+cysteine and a study compared garlic extract and onion with cadmium. 
+Records identified through 
+database searching  
+(n = 968) 
+Screening Included Eligibility Identification 
+Additional records identified 
+through other sources  
+(n = 12) 
+Records after duplicates removed  
+(n = 85) 
+Records screened  
+(n = 85) 
+Records excluded  
+(n = 65) 
+Full-text articles assessed 
+for eligibility 
+(n = 20) 
+Full-text articles excluded, 
+with reasons 
+(n =2) 
+Studies included in 
+qualitative synthesis 
+(n = 18) 
+ 
+6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2: Trend of screening and choosing articles based on PRISMA guidelines 
+ 
+Thirteen studies evaluated garlic and 5 studies compared garlic effects with other drugs. A study compared 
+aged garlic extract with adriamycin, a study compared aged garlic extract with titanium dioxide, a study 
+compared garlic oil extract with furan, a study compared  garlic blue extract with vitamin E and N -acetyl 
+cysteine and a study compared garlic extract and onion with cadmium. 
+Records identified through 
+database searching  
+(n = 968) 
+Screening Included Eligibility Identification 
+Additional records identified 
+through other sources  
+(n = 12) 
+Records after duplicates removed  
+(n = 85) 
+Records screened  
+(n = 85) 
+Records excluded  
+(n = 65) 
+Full-text articles assessed 
+for eligibility 
+(n = 20) 
+Full-text articles excluded, 
+with reasons 
+(n =2) 
+Studies included in 
+qualitative synthesis 
+(n = 18) 
+Figure 2 . Trend of screening and choosing articles based on 
+PRISMA guidelines.
+
+[W2895430592 PDF PAGE 4]
+Journal of Herbmed Pharmacology, Volume 7, Number 4, October 2018            http://www.herbmedpharmacol.com309 
+Musavi et al
+Hammami and Abdelmalik ( 38) concluded that garlic 
+contains phytoestrogens, which have a direct effect on 
+estrogen. It is a precursor to testosterone production, so 
+it is possible that garlic stimulates the sexual cells and 
+sex hormones (38,43). The results in the study by Oi et al 
+indicated that garlic supplementation boosts LH from the 
+pituitary gland, and this stimulates testosterone secretion 
+from the testicles ( 46). Nonetheless, in the study by 
+Bahrami et al ( 7), it was recommended that the cooked 
+garlic has better therapeutic effects and, while affecting the 
+reproduction of the sexual cells in testes and epididymis, 
+improves spermatogenesis ( 7).
+Due to presence of dialyldisulfide in its biochemical 
+structure, garlic affects the hypothalamic-pituitary 
+axis. Diallyldisulfide stimulates the basophilic cells and 
+secretion of LH sex hormones by affecting the anterior 
+pituitary. LH stimulates Leydig cells in the testes, which 
+in turn is a precursor to secretion and regulation of 
+testosterone ( 50). Also, diallyldisulfide reduces oxygen 
+free radicals, enhances and strengthens the blood-testis 
+barrier and increases the circulation in the testicles, thus 
+protects the sexual organs ( 39). By increasing blood flow 
+to the testicles (due to the consumption of garlic), phenol 
+and phenolic glycosides are released which increase the 
+glutathione peroxidase enzyme. The role of this enzyme 
+is to protect sperms in testicular and epididymal tissue 
+(51). The enzyme protects the sperm from the damage of 
+free radicals by placement in the plasma membrane and 
+the nucleus of sperm, epididymal fluid and epididymis, 
+and leads to ultimate maturation and development of the 
+sperm (52). Also, garlic can repair and protect the DNA 
+of the sperm, in addition to sperm maturation through 
+vitamins C, B, E, which are its potent antioxidants ( 53). 
+Approximately 45%-50% of infertility has a male cause, 
+but nevertheless, 30-45% is due to idiopathic causes ( 54). 
+Typically, infertility in men is indicated by oligozoospermia, 
+asthenozoospermia, or teratozoospermia and varicocele 
+(55). Recent studies have shown that, in physiological 
+conditions, reactive oxygen species play a very important 
+role in intracellular messaging processes. On the other 
+hand, during the last decade, reactive oxygen species have 
+been implicated in the development of male infertility, 
+due to excessive production of reactive oxygen species 
+or reduced ability of the antioxidant system of the genital 
+system and sperm. In pathological conditions, reactive 
+oxygen species result in male infertility through disruption 
+of the spermatogenesis process, sperm function and 
+structure, mobility, survival, acrosome reaction, sperm-
+to-oocyte coupling and even reduced fertilization and 
+implantation ( 56).
+Conclusion
+Probably, due to the antioxidant power and the absence of 
+side effects of garlic, it can be useful in enhancing fertility. 
+Due to the limited number of clinical studies, there is no 
+definite overall and reassuring result. In order to ensure 
+the effects of this plant and its compounds, clinical studies 
+with a larger statistical population, as well as an increase 
+Table 1. Risk of bias for animal studies, using the SYRCLE risk of bias tool
+Study
+1 2 3 4 5 6 7 8 9 10
+Selection
+bias 1
+Selection
+bias 2
+Selection
+bias 3
+Performance
+bias 1
+Performance
+bias 2
+Detection 
+bias 1
+Detection 
+bias 2
+Attrition 
+bias
+Reporting 
+bias
+Other 
+potentia

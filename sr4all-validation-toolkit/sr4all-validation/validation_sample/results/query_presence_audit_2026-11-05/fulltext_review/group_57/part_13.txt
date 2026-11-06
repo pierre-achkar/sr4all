@@ -1,0 +1,246 @@
+ic, 2014) 
+(Bull et al., 2014) 
+(de Jong & Arkesteijn, 2014) 
+(Han et al., 2014) 
+House Stock 
+School Building 
+School Building 
+Building Energy 
+2015 4 (Seo et al., 2015) 
+(Galle et al., 2015) 
+(Spickova & Myskova, 2015) 
+(Tabrizi & Sanguinetti, 2015) 
+Carbon Liquefaction 
+Process 
+Students Residence  
+General 
+Students Residence  
+2016 8 (Cartelle Barros et al., 2016)  
+(J. Kim et al., 2016)  
+(Bengtsson & Kurdve, 2016) 
+(Ayub. M. F. & Abdul Rashid. K, 2016) 
+(Goh & Sun, 2016). 
+(Corona et al., 2016)  
+(Martinez-Sanchez et al., 2016)  
+(Erling Salicath, 2016) 
+Power Plant  
+hydrate inhibitor injection 
+Machining Equipment 
+General  
+Building  
+Solar Energy 
+Food Waste Management 
+Public Assets - School 
+2017 11 (He et al., 2017) 
+(Sun et al., 2017) 
+(Daşdemir et al., 2017)  
+(Yang et al., 2017) 
+(Xu et al., 2017) 
+(Haque et al., 2019) 
+(Fouche & Crawford, 2017) 
+(Biolek et al., 2017) 
+(Max & Mi, 2017) 
+(Bhochhibhoya et al., 2017) 
+(Trigaux et al., 2017) 
+Electrical Vehicle  
+Hydrogen Station  
+Pipeline 
+Cement Manufacturing  
+LID- BMP 
+submersible pumps energy  
+Building  
+Construction  
+Energy 
+Lodging 
+Lead refining  
+2018 5 (Edwards et al., 2018) 
+(L. Huang et al., 2018a)  
+(De Menna et al., 2018)  
+(Shan et al., 2018) 
+(Teshnizi et al., 2018) 
+municipal food waste 
+university dormitories 
+food waste 
+Students Well Being in 
+Building  
+
+[W4405652450 PDF PAGE 10]
+INTERNATIONAL JOURNAL OF ACADEMIC RESEARCH IN ECONOMICS AND MANAGEMENT SCIENCES 
+Vol. 13 , No. 4, 2024, E-ISSN: 2226 -3624 © 2024 
+541 
+University residential 
+towers  
+2019 10 (Zhang et al., 2019) 
+(J. Li et al., 2019)  
+(Albuquerque et al., 2019)  
+(Lv et al., 2019) 
+(Xiao et al., 2019)  
+(Lai et al., 2019) 
+(Kianian et al., 2019) 
+(Z. Huang et al., 2019)  
+(Francini et al., 2019)  
+(Mahbub & Sharma, 2019) 
+General  
+Solid Waste Management  
+Ammonium & Tinplate   
+Sanitary ware 
+biogas  
+energy  
+Manufacturing Technology  
+Residential Building  
+Municipal Solid Waste  
+Water Sources  
+2020 6 (S. Li et al., 2020)  
+(Shea et al., 2020)  
+(Liu et al., 2020)  
+(Xue et al., 2020) 
+(Barros et al., 2020b)  
+(Kaewunruen et al., 2020)  
+Building  
+University building 
+Electricity 
+Carbon emissions  
+Campus Building 
+Electricity Generation 
+High-speed railway   
+Total 58   
+ 
+Based on the literature, (Fig2) quantifies the chronological contribution of the published 
+articles on LCC, specifically for higher education, in different journals according to the year of 
+publication. The year 2017 had the highest contribution with 11 related papers, 2019 with 10 
+articles, 2016 with 8 papers, the 2020 with 6 articles , 2018 with 5 papers each year, 2015 and 
+2014 with 4 papers, 2012 with 3 papers, 2010, 2011, and 2013 with 2 papers per each year, 
+and 2009 with one related paper. 
+ 
+ 
+Figure 2. The Chronological contribution of papers by years 
+ 
+Here is still confusion according to the methodology of life cycle costing; no product or 
+service-specific method for life cycle costing was shown. However, there were general 
+0
+2
+4
+6
+8
+10
+12
+2008 2010 2012 2014 2016 2018 2020 2022
+The Number of Publications Per Year 
+
+[W4405652450 PDF PAGE 11]
+INTERNATIONAL JOURNAL OF ACADEMIC RESEARCH IN ECONOMICS AND MANAGEMENT SCIENCES 
+Vol. 13 , No. 4, 2024, E-ISSN: 2226 -3624 © 2024 
+542 
+guidelines for constructions, such as ISO 15686-5 (Schau et al., 2011). Nevertheless, some of 
+the authors practiced and adopted their methods in line with the life cycle assessment 
+methodology (Cuéllar-Franca & Azapagic, 2014) . LCC is a crucial estimation technique that 
+evaluates the cost of product or service throughout the entire life span. It is dependent on 
+authors to use the methods for cost calculations. Some articles utilized the ISO 2006 (ISO, 
+2006) standards. Others used specific standards for building constructions like the British 
+standards while for bridge construction, BS 5400 was extensively used in Malaysia (Ayub. M. 
+F. & Abdul Rashid. K, 2016). There was no evidence of consensus or a proper method for cost 
+calculation. The most used approach was the net present value (NPV) for calculating the total 
+cost of the products and services. For example, for building’s life cycle costing, the NPV 
+estimated the costs in design phases, construction period, maintenance and repair costs, 
+replacement cost, energy cost, and enduring cost (Kneifel, 2010; Li et al., 2020).   
+ 
+LCC itself is a widely confirmed and accepted method in researches involving buildings and 
+other sectors. Applying the LCC, the practitioners must consider the various foundations of 
+uncertainties, like life period, running costs in the future, discount rate,  remaining costs and 
+others (Li et al., 2020). Table 4 describes the classifications of life cycle costing in the current 
+literature, which used diverse methods.  
+ 
+Table 4 
+The Classifications for life cycle costing methods used and techniques 
+    
+Life Cycle 
+Cost 
+Used 
+Methods 
+Authors 
+1 Net 
+Present 
+Value 
+Approach 
+( Bhochhibhoya et al., 2017; Biolek et al., 2017; Bull et al., 2014; Corona et al., 2016; Daşdemir 
+et al., 2017; Han et al., 2014; Haque et al., 2017, 2019; Huang et al., 2019; Kianian et al., 2019; 
+Lee et al., 2009; Li et al., 2019; Li et al., 2020; Liu et al., 2020; Mahbub & Sharma, 2019; Max 
+& Mi, 2017; Shan et al., 2018; Shea et al., 2020; Spickova & Myskova, 2015; Sun et al., 2017; 
+Teshnizi et al., 2018; Xiao et al., 2019) 
+2 Using Life 
+Cycle 
+Assessm
+ent 
+Approach
+es 
+(Barros et al., 2020 ; Fouche & Crawford, 2017;  Hong et al., 2012; Huang et al., 2018; 
+Kaewunruen et al., 2020; Lv et al., 2019; Martinez -Sanchez et al., 2016; Trigaux et al., 2017; 
+Xue et al., 2020; Yang et al., 2017). 
+3 LCA & 
+NPV 
+(Bhochhibhoya et al., 2017; Francini et al., 2019; He et al., 2017; Li et al., 2020; Teshnizi et al., 
+2018; Xiao et al., 2019; Xu et al., 2017). 
+4 Case 
+Studies  
+(Albuquerque et al., 2019; Bengtsson & Kurdve, 2016; de Jong & Arkesteijn, 2014; Erling 
+Salicath, 2016; Han et al., 2014; Hong et al., 2012; Hoogmartens, Van Passel , Van Acker, & 
+Dubois, 2014; Kim et al., 2016; Kneifel, 2010; Li & Guo, 2012). 
+5 LCC as 
+Approach 
+(De Menna et al., 2018; Fouche & Crawford, 2017; Massarutto et al., 2011; Xue et al., 2020).  
+6 CBA (Ding et al., 2013; Huang et al., 2019; Xue et al., 2020). 
+7 Other  (Al-Karaghouli & Kazmerski, 2010; Cartelle Barros et al., 2016; Cuéllar -Franca & Azapagic, 
+2014; Edwards et al., 2018; Galle et al., 2015; Kimoto et al., 2013; Seo et al., 2015; Tabrizi & 
+Sanguinetti, 2015; Uygunoğlu & Keçebaş, 2011; Wang et al., 2012; Zhang et al., 2019). 
+Based on Table 3 , most of the studies used the NPV for the life cycle costing. NPV is an 
+investigative index inv estigates for future investment. However, some of the authors used 
+the life cycle assessment approaches ISO 14040 (ISO, 2006) to calculate the total cost. A small 
+
+[W4405652450 PDF PAGE 12]
+INTERNATIONAL JOURNAL OF ACADEMIC RESEARCH IN ECONOMICS AND MANAGEMENT SCIENCES 
+Vol. 13 , No. 4, 2024, E-ISSN: 2226 -3624 © 2024 
+543 
+number of authors used the LCA and NPV mixed method to calculate the life cycle cost, 
+several papers used the case study and LCC as a costing approach, and a large number of 
+articles used different methods for their calculations. According to literature, c ost-benefit 
+analysis (CBA) was widely used for calculating the cost of the product or process as a decision-
+making tool (Ding et al., 2013; Hoogmartens et al., 2014; Z. Huang et al., 2019) . In some 
+studies, CBA was a valuation method used for life cycle costing (Huang et al., 2019).  
+ 
+Visual Map 
+Co- Authorship 
+The number of articles is represented by the size of each circle or frame in the visual maps ; 
+for example, the tiny circles or frames means three articles per author; as the circle or frame 
+gets larger, it often showed a high quantity of articles by an author. The circle or frame color 
+depict the typical year of publication s; the color of yellow denotes a relatively new theme, 
+while the purple color denotes the oldest. Fig 3 demonstrates the sum of authors who have 
+written at least three publications about LCC is 19. Matthias Finkbeiner published the highest 
+numbers of articles 17, zamagni, alessandra 7, Martínez-Blanco Julia 6, Berger Markus, Inaba 
+Atsushi 4 articles,  Sharaai Amir Hamzah and sonnemann, guido 5, berger, markus, inaba, 
+atsushi, kurian, Mathew, matsuno, yasunari, traverso, marzia 4, ciroth, andreas, guinée, 
+jeroen, heijungs, reinout, hunkeler, david, kara, sami, klöpffer, walter, lehmann, annekatrin, 
+reddy, v ratna, ren, jingzheng  authors publish at least 3 articles respectively.  
+ 
+ 
+Figure 3: Co-Authorship 
+ 
+The visual map indicate the biggest the circle is the highest of the number co-authorship of 
+publications by authors and the smaller circle is the low number of publications during the 
+period, the smaller circle is at least indicate the 3 article published by authors. Here is strong 
+network among the authors that published the article with co -authors, here is no single 
+author that publish and article in LCC alone. The yellow color is indicate the newest 
+publication and the blue is the eldest of the articles.  
+
+
+[W4405652450 PDF PAGE 13]
+INTERNATIONAL JOURNAL OF ACADEMIC RESEARCH IN ECONOMICS AND MANAGEMENT SCIENCES 
+Vol. 13 , No. 4, 2024, E-ISSN: 2226 -3624 © 2024 
+544 
+Co-Occurrence of keywords 
+Based on VOSviewer software analyzed in recognize in Figure 4 the 92 keywords by three 
+occurrences. Moreover, the most used key is “Life Cycle Assessment” 24 occurrence followed 
+by “Life Cycle Cost’’ 22 and  “Life Cycle Costing” 18 occurrences, “LCA” 11 occurrences, “LCC” 
+10 occurrences, “Life Cyc le Costing (LCC)” , Sustainability, “Life Cycle Costs , “Education’’ 6 
+occurrences, “Life Cycle Sustainability Assessment’’, “Life Cycle Analysis”, “energy efficiency” 
+5 occurrence, and  “life -cycle costing” ,“ life -cycle cost”, “life -cycle assessment”, “green 
+building” 4 occurrence, and the rest is 3 occurrences respe

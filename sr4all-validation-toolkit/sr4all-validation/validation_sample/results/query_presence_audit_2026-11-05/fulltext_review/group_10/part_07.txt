@@ -1,0 +1,372 @@
+
+causes such as post-partum, gastro-intestinal bleeding or 
+exsanguination during pelvic surgery (21 studies). The 
+REBOA concept was used in all studies as a hemorrhage 
+control and resuscitation adjunct for prompt hemorrhage 
+control.
+Hemodynamic instability (transient or non-responding to 
+fluid therapy) was present in 79.3% (1175/1482) of the total 
+studied population. The studies with patients with estab-
+lished hemorrhagic shock [systolic blood pressure (SBP) 
+below 90 mmHg] due to trauma 90.9% (791/870), rAAA 
+91.7% (355/387) and other 12.9% (29/225) were respectively 
+described. Overall reported mortality within the group that 
+was hemodynamically stabilized with REBOA was 49.2% 
+(613/1246). Reported mortality among studies concern-
+ing trauma was 63.0% (545/865). Meta-analysis revealed 
+a significant difference in mortality (p < 0.001) of REBOA 
+compared with the mortality of patients treated with other 
+means. It showed a risk difference of 0.27 (0.14–0.49) favor-
+ing REBOA (Fig. 2 ). In studies regarding rAAA mortal-
+ity was 39.1% (61/156) and for miscellaneous causes 3.1% 
+(7/225). There were no episodes of mortality reported 
+among studies on post-partum hemorrhage, gastrointestinal 
+bleeding, or with the use of balloon occlusion during pelvic 
+and sacral surgery. Additional information can be found in 
+supplemental Tables 1, 2 and 3.
+The effects of REBOA
+The effect on SBP in hemodynamic instability, as seen in 
+Table 2 , was a significant increase of SBP by a mean of 
+78.9 mmHg in trauma (Fig. 3), 56.1 mmHg in rAAA and 
+52.4 mmHg other types of patients in established hemor-
+rhagic shock, among the 23 studies [10, 12, 22, 25, 29–31, 
+34, 36, 40, 41, 44, 45, 47, 48, 52, 55, 58, 59, 62, 66, 71, 
+97, 104, 105, 111] reporting pre-REBOA and post-REBOA 
+SBP values.
+
+[W2804296463 PDF PAGE 4]
+538 B. L. S. Borger van der Burg et al.
+1 3
+REBOA balloon occlusion times were adequately 
+reported in 35 studies [10, 12, 23, 25, 26, 29–34, 36, 38–41, 
+43–45, 47, 48, 55, 58, 62, 66, 68–71, 82, 83, 97, 101, 104, 
+105]. Occlusion times within the zones of occlusion were 
+described in 15 studies examining Zone I occlusion times, 
+where 196 patients had a median occlusion time of 58.4 min. 
+Only three studies reported on occlusion in zone 2, with a 
+mean of 43.6 min. The remaining nineteen studies examined 
+223 patients undergoing Zone III occlusion, with a median 
+occlusion time of 55.2 min.
+Of the studies included for review, 81 (92.0%) reported 
+adequate data regarding arterial access and REBOA bal-
+loon deployment (Table 1). The femoral artery was the 
+most commonly reported access site (96.8% of the patients) 
+for REBOA, followed by direct aortic access (2.2% of the 
+patients). Interestingly the largest study in our review, Norii 
+et al (n = 452), did not report information on the access sites 
+utilized [92]. Iatrogenic injuries related to REBOA use were 
+3.7% (32/870), 2.6% (10/387) and 5.3% (12/225) respec-
+tively on trauma, rAAA and miscellaneous causes (p = 0.21).
+Medline
+(n =2 06)
+Embase
+(n = 301)
+Studies a/g332er duplicates removed
+(n = 440)
+Studies screened
+(n =1 07)
+Studies excludedb ased on 
+/g415tle/abstract
+(n=333)
+Full-text studies assessed 
+for eligibility
+(n =7 7)
+Full-texts tudies excluded
+(n = 30)
+Incomplete informa/g415on/ 
+outcome
+No pa/g415ents included
+Non Rupture
+Studies included in 
+qualita/g415ve synthesis
+(n = 130)
+Studies included in 
+quan/g415ta/g415ve synthesis 
+(systema/g415c review)
+(n = 113)
+Excluded (n=17)
+Nr. too small
+Lack of objec/g415ve descrip/g415on
+Web of 
+Science
+(n = 206)
+Cochrane
+(n = 206)
+Central&  Emcare
+(n = 80)
+Excluded (n=24)
+No ABO, ABO adjunct for 
+crossclamping or 
+no (preven/g415on of)H D instability
+Studies included in 
+qualita/g415ve synthesis
+(n = 89)
+Studies added / snowball eﬀect
+(n = 53)
+Fig. 1  PRISMA flow chart for the systematic review. n indicates number, ABO aortic balloon occlusion, HD hemodynamic
+
+[W2804296463 PDF PAGE 5]
+539
+A systematic review and meta-analysis of the use of resuscitative endovascular balloon occlusion…
+1 3
+Table 1  Included studies in systematic review
+Reference Year Study type N
+Balloon (Tot)
+Aortic zone 
+placement
+Shock Mortality (in-
+hosp)
+AO related 
+iatrogenic 
+injury
+Risk of bias OXLE
+Case report (28)
+ Armour 1978 rAAA 1 I Y 0 Nil NA V
+ Bell-Thomas 2003 PPH 1 III Y 0 Nil NA V
+ Cakir 2014 rAAA 1 I Y 0 Nil NA V
+ D’Hondt 2008 R aneurysma 
+aortobifem 
+graft
+1 III Y 0 Nil NA V
+ Green 2014 Trauma abd-
+pel. hem
+1 III N 0 Nil NA V
+ Harma 2004 PPH 1 III Y 0 Nil NA V
+ Heimbecker 1964 rAAA 1 III Y 0 Nil NA V
+ Hesse 1962 rAAA 1 III Y 1/1 Nil NA V
+ Hill 2010 UGI bleeding 1 I Y 0 Nil NA V
+ Howard 1972 rAAA 1 III Y 0 Nil NA V
+ Karkos 2001 UGI bleeding 1 I Y 0 Nil NA V
+ Lai 2008 rAAA 1 I Y 0 Nil NA V
+ Lee 2016 GI bleeding 1 I Y 0 Nil NA V
+ Malina 2005 rAAA 1 I Y 0 Nil NA V
+ Masamoto 2009 PPH 1 III N 0 Nil NA V
+ Matsuoka 2001 Trauma abd-
+pel. Hem
+1 I Y 0 Nil NA V
+ Menke 2010 r-Para-anasto-
+motic iliac 
+aneur
+1 III Y 0 Nil NA V
+ Namura 2001 rAAA 1 III Y 0 Nil NA V
+ Ozgiray 2009 Pelvic bleed-
+ing peri-OK
+1 III N 0 Nil NA V
+ Paull 1995 PPH 1 III N 0 Nil NA V
+ Pettersson 2003 r. pseudo 
+aneurysma 
+aorta asc
+1 I Y 0 Nil NA V
+ Schumacher 2004 rAAA 1 II Y 0 Nil NA V
+ Shigesato 2015 UGI 1 I Y 0 Nil NA V
+ Smith 1972 rAAA 1 III Y 0 Nil NA V
+ Soda 2010 Pelvic bleed-
+ing peri-OK
+1 III N 0 Nil NA V
+ Uchida 2014 Trauma abd-
+pel. hem
+1 III Y 0 Nil NA V
+ Wolf 1986 Trauma abd-
+pel. hem
+1 III Y 0 Nil NA V
+ Xiong 2014 Pelvic bleed-
+ing peri-OK
+1 III N 0 Nil NA V
+ Total 28 22/28 1/28 0
+Case series (25)
+ Arthurs 2006 rAAA 3 I N 0/3 Nil High IV
+ Brenner 2013 Trauma abd-
+pel. hem
+6 Ix4, IIIx2 Y 2/6 Nil High IV
+ Delalieux 2010 rAAA 1 (18) U Y U (7/18) Nil High IV
+ Greenberg 2000 rAAA 2 (3) I Y 0/2 Nil High IV
+ Guo 2009 rAAA 4 (26) II/III Y U (7/26) Nil High IV
+
+[W2804296463 PDF PAGE 6]
+540 B. L. S. Borger van der Burg et al.
+1 3
+Table 1  (continued)
+Reference Year Study type N
+Balloon (Tot)
+Aortic zone 
+placement
+Shock Mortality (in-
+hosp)
+AO related 
+iatrogenic 
+injury
+Risk of bias OXLE
+ Gupta 1989 Trauma abd-
+pel. Hem
+21 I Y 14/21 1× fem a 
+thrombosis
+High IV
+ Hinchliffe 2001 rAAA 2 (20) I Y U (9/20) Nil High IV
+ Hughes 1954 Trauma abd-
+pel. hem
+2 I Y 2/2 Nil High IV
+ Irahara 2015 Trauma abd-
+pel. hem
+14 I Y 9/14 Nil High IV
+ Lagana 2006 rAAA 3 (30) II Y U (3/30) NR High IV
+ Lee 2008 rAAA 3 (52) U Y U (28/52) Nil IV
+ Martinelli 2010 Trauma abd-
+pel. hem
+13 III Y 7/13 1x fem a 
+thrombosis, 
+1x balloon 
+rupture
+High IV
+ Matsuda 2003 rAAA 11 (11) III Y 3/11 3x bal. 
+rupture, 2x 
+embolic 
+complication
+High IV
+ Mayer 2009 rAAA 19 I Y U 1x embolic 
+complication
+High IV
+ Ng 1977 rAAA 5 III Y 3/5 Nil High IV
+ Ogura 2015 Trauma abd-
+pel. hem
+35 I Y 16/35 Nil High IV
+ Ohki 2000 rAAA 9 I Y U Nil High IV
+ Philipsen 2009 rAAA 12 I Y 1/12 Nil High IV
+ Sensenig 1981 rAAA 3 I/II/I Y 0/3 Nil Low IV
+ Sovik 2012 PPH 6 III Y 0/6 1x Aortic 
+injury
+High IV
+ Taheri 1988 rAAA 2 III N/Y 0/2 Nil Low IV
+ Wang 2013 Trauma abd-
+pel. hem
+5 III Y U Nil High IV
+ Xue-Song 2010 Pelvic bleed-
+ing peri-OK
+9 III N 0/9 Nil High IV
+ Yang 2008 Pelvic bleed-
+ing peri-OK
+12 III N 0/12 Nil High IV
+ Zhang 2007 Pelvic bleed-
+ing peri-OK
+5 III N 0/5 Nil High IV
+ Total 207 (341) 177/207 57/161 10
+Cohort study (36)
+ Alsac 2005 rAAA 1 (37) I Y U (14/37) Nil High
+ Anain 2007 rAAA 12 (40) I Y 5/12 Nil High IV
+ Carafiello 2012 rAAA 4 (42) U Y U (13/42) Nil High IV
+ Coppi 2006 rAAA 4 (124) II Y U (73/142) Nil High IV
+ Dalainas 2006 rAAA 28 II 5/20 8/28 Nil High IV
+ Djavani G 2011 rAAA 2 (29) U Y 1/2 Nil High IV
+ DuBose 2016 Trauma 46 (114) Ix33, IIx1, 
+IIIx8
+21/46 13/46 2x embolism, 
+1xpseudo 
+aneurysm
+High IV
+ Gerassimidis 2008 rAAA 2 (41) U Y U (15/41) Nil High IV
+ Holst 2009 rAAA 23 (90) I Y U (24/90) 
+(BOA corr 
+sign,30d)
+2x SMA 
+coverage
+High IV
+
+[W2804296463 PDF PAGE 7]
+541
+A systematic review and meta-analysis of the use of resuscitative endovascular balloon occlusion…
+1 3
+Table 1  (continued)
+Reference Year Study type N
+Balloon (Tot)
+Aortic zone 
+placement
+Shock Mortality (in-
+hosp)
+AO related 
+iatrogenic 
+injury
+Risk of bias OXLE
+ Hörer 2015 Trauma/Other 11 NA
+2x iatr, 2 gyn, 
+7 trauma
+Y 4/11 3 × (2× perf. 
+(iliaca/fem), 
+uncontroled 
+ECMO 
+removal
+High IV
+ Hörer 2017 Trauma 96 Ix86, IIx3, 
+IIIx3
+43/65 54/96 13 (miscella-
+neous)
+High IV
+ Ioannidis 2012 rAAA 1 (20) U Y U (10/20) Nil High IV
+ Karkos 2008 rAAA 2 (41) U Y U (17/41) Nil High IV
+ Larzon 2005 rAAA 13 (41) I Y U (14/41) Nil High IV
+ Low 1986 Trauma 
+Abd-pelvic/
+rAAA//oth
+22 (15/5/2) I Y 17/22 Overall
+13/15 Trauma
+1/5 rAAA 
+2/2 Other
+5x perc access 
+failure, 1x 
+cut down 
+failure
+High IV
+ Luo 2013 Pelvic bleed-
+ing peri-OK
+45 III N 0/45 3x fem a 
+thrombosis
+High IV
+ Matsumara 2017 Trauma 106 Ix99, IIx5, 
+IIIx2
+Y 38/106 Nil Low III
+ Mayer 2012 rAAA 62 (268) 
+(EVAR only)
+I Y U (48/268) Nil High III
+ Mehta 2005 2005 rAAA 7 (30) I Y U (7/30) Nil High IV
+ Mehta 2013 2013 rAAA 23 (136) I Y U (32/136) Nil High IV
+ Moore 2006 rAAA 7 (20) (EVAR 
+only)
+II Y 1/7 Nil High IV
+ Moore 2015 Trauma abd-
+pel. hem
+24 Ix19, IIIx5 Y 15/24 Nil High IV
+ Mukherjee 2014 rAAA 3 (47) I Y U (12/55) High IV
+2014 rAAA (hybrid 
+group)
+8 I 3/8 0/8 Nil Low IV
+ Nedeau 2012 rAAA 11 (74) U Y U (30/74) Nil High IV
+ Norii 2015 Trauma abd-
+pel. hem
+452 U Y 343/452 Nil High III
+ Ockert 2007 rAAA 2 (58) U Y U (18/58) Nil High IV
+ Peppelen-
+bosch
+2005 rAAA 7 (100) II Y U (37/100) Nil High IV
+ Raux 2015 rAAA 32 (72) II/III Y 22/32 Nil Low III
+ Resch 2003 rAAA 5 (21) U Y U (4/21) Nil High IV
+ Saito 2014 Blunt trauma 24 I-III Y 17/24 5× failure of 
+infl
+1× iliac injury
+Low IV
+ Sarac 2011 rAAA 3 (32) U Y 0/3 Nil High IV
+ Starnes 2010 rAAA 11 (179) U Y 7/11 Nil High IV
+ Takagi 2003 Aortic Arch 
+repair (rup-
+tured only)
+8 I Y 3/8 Nil High IV
+ Tang 2010 Pelvic bleed-
+ing peri-OK
+120 III N 0/120 3x fem a 
+embolism, 
+5x puncture 
+site hema-
+toma
+High III
+ Veith 2002 rAAA 10 (31) U Y U (3/31) Nil High IV
+ Veith 2003 rAAA 10 (36) I Y U (26/36) Nil High IV
+ Total 1247 (2659) 976/1216 555/1057 44
+
+[W2

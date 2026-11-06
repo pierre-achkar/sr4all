@@ -1,0 +1,177 @@
+ontrolled/clinical trials 
+in adults with low back pain of interventions to optimise surgery rates or referrals to surgery or secondary referral were 
+included. Bias was assessed using the Cochrane ROB2 tool and evidence certainty via Grading of Recommendations 
+Assessment, Development and Evaluation (GRADE). A random effects meta-analysis with a Paule Mandel estimator plus 
+Hartung–Knapp–Sidik–Jonkman method was used to calculate the odds ratio and 95% confidence interval, respectively.
+Results Of 886 records, 6 studies were included (N  = 258,329) participants; cluster sizes ranged from 4 to 54. Five studies 
+were rated as low risk of bias and one as having some concerns. Two studies reporting spine surgery referral or rates could 
+only be pooled via combination of p values and gave evidence for a reduction (p = 0.021, Fisher’s method, risk of bias: low). 
+This did not persist with sensitivity analysis (p  = 0.053). For secondary referral, meta-analysis revealed a non-significant 
+odds ratio of 1.07 (95% CI [0.55, 2.06], I2 = 73.0%, n = 4 studies, Grading of Recommendations Assessment, Development 
+and Evaluation [GRADE] evidence certainty: very low).
+Conclusion Few RCTs exist for interventions to improve guideline-adherent spine surgery rates or referral. Clinician educa-
+tion in isolation may not be effective. Future RCTs should consider organisational and/or policy level interventions.
+PROSPERO registration CRD42020215137.
+Keywords Randomised controlled trial · Meta-analysis · Systematic review · Implementation science · Back pain · Low 
+back pain · Sciatica · Radicular pain · Chronic pain · Controlled before-after studies · Interrupted time series analysis · 
+Surgery · Operative procedures · Fusion · Discectomy · Decompression
+Strengths and limitations of this study
+• Strength: systematic review and meta-analytic approach.
+• Strength: the analytical methods explore the heterogene-
+ity in the main data estimates, by sensitivity analyses to 
+examine outliers, outcome type, and assumptions on ICC 
+values.
+• Strength: implemented the most appropriate adjust-
+ment for the sample sizes of the included cluster RCTs 
+for meta-analysis and used more efficient meta-analytic 
+methods accounting for the smaller number of included 
+studies.
+• Limitation: limited evidence base and the differences of 
+the interventions within included studies.
+• Limitation: the outcomes examining secondary (special-
+ist) referral are likely not solely surgical referral.
+ * Daniel L. Belavy 
+ daniel.belavy@hs-gesundheit.de; belavy@gmail.com
+Extended author information available on the last page of the article
+
+[W4296161506 PDF PAGE 2]
+2852 European Spine Journal (2022) 31:2851–2865
+1 3
+Introduction
+Low back pain (LBP) is the leading cause of disability 
+worldwide [1]. It is estimated that up to 90% of people will 
+suffer from LBP during their lifetime [2 ]. The societal cost 
+of LBP is reported to be in excess of $USD100 billion per 
+year in the USA [3 ], more than $AUD9 billion per year 
+in Australia [4 ] and approximately €50 billion per year 
+in Germany [5 ]. The development and resultant adoption 
+of evidence-based clinical guidelines has been shown to 
+reduce costs and may lead to improved patient outcomes: 
+randomised controlled trials have reported either signifi-
+cant [6 –8] or non-significant [9 –11] reductions in costs 
+favouring guideline adherent approaches. Patient outcomes 
+have been seen to improve in some [10, 12, 13], but not all 
+[14, 15] randomised controlled studies trialling guideline-
+consistent approaches.
+International evidence-based clinical practice guide-
+lines provide recommendations on specialist referral for 
+back pain. The majority (69%) of international evidence-
+based clinical guidelines recommend specialist refer -
+ral, including that of a neurosurgeon, in cases of serious 
+radiculopathy, whereas 54% further recommend specialist 
+referral if there is no improvement over time [16]. Con-
+versely, neurosurgical referral is not recommended in 
+patients with non-specific LBP [16]. Recommendations 
+regarding the use of surgery for non-specific and radicular 
+LBP are debated and subsequently 47% of guidelines do 
+not provide any recommendation for or against. Of those 
+that do provide recommendations, half are against the use 
+of surgery for non-specific LBP [16].
+Currently, clinical practice guidelines are not always 
+followed. For example, increasing rates of surgical proce-
+dures for LBP have been observed internationally [17– 19], 
+despite no underlying change in the prevalence of the con-
+dition. Further, investigations of referral of patients to sec-
+ondary specialist care show that these referrals can occur 
+unnecessarily: three prior studies noted unnecessary or 
+inappropriate referral in 10% (14 of 139) [20], 19% (10 of 
+54) [21], and 41% (12 of 29) [22] of the acute LBP patients 
+included. Beyond the additional cost to healthcare systems 
+of secondary care consultation, surgical management of 
+LBP carries more potential harms than conservative man-
+agement [18]. Overall, the data suggest that there is poten-
+tial for cost savings and harm reduction by implementing 
+changes in clinical practice to approach guideline-conform 
+surgery and surgery referral in primary care. To date, no 
+systematic review has assessed this topic.
+Our aim was to systematically review and meta-analyse 
+the randomised controlled or clinical trials (RCTs) that 
+examined to the implementation of evidence-based guide -
+lines on surgery rates or surgical/secondary referral for 
+low back pain. In addition, to potentially inform future 
+work, we also collated information on prospective non-
+randomised interventional studies relevant to the review.
+Materials and methods
+This review was completed in accordance with Preferred 
+Reporting Items for Systematic Reviews and Meta-Anal-
+yses (PRISMA) [23]. The review was registered prospec-
+tively with PROSPERO (CRD42020215137). The statisti-
+cal code, data and extraction sheet are available at https://  
+www. doi. org/ 10. 17605/ OSF. IO/ APMH2.
+Information sources and search strategy
+Five online databases (MEDLINE [no limits], EMBASE 
+[excluding MEDLINE], CINAHL [excluding MEDLINE], 
+Web of Science Core Collection [excluding MEDLINE], 
+CENTRAL [excluding MEDLINE, EMBASE and trial 
+registrations]) were electronically searched for research 
+published from database inception to 22nd of June 2020 
+and then revised on the  10th September 2021. The search 
+terms and search strategy can be found in Supplementary 
+Table 1. To locate additional relevant records, we also 
+searched Google Scholar and included the reference lists 
+of relevant systematic reviews (identified via the Cochrane 
+Database of Systematic Reviews and Google Scholar) pub-
+lished in the last 10 years. The reference lists of included 
+studies were checked for potentially relevant articles. In 
+addition, forward citation tracking of included studies was 
+performed by adding articles that cited the included stud-
+ies in Web of Science to screening. Furthermore, refer -
+ence lists (double screened) of studies excluded solely for 
+not being an RCT (e.g. interrupted time series analyses, 
+controlled before and after studies) were also screened for 
+potentially relevant articles.
+Study selection
+All results of the search were screened to exclude duplicates. 
+Two independent reviewers (KE, XC) who were blinded for 
+each other’s assessment screened the titles and abstracts of 
+the remaining studies against a predetermined eligibility 
+criteria. The full-text reports of articles deemed potentially 
+eligible after this first screening were screened once again by 
+both independent reviewers using the previously mentioned 
+inclusion and exclusion criteria. Any disagreements were 
+adjudicated by SDT and discussed with the project team as 
+necessary.
+
+[W4296161506 PDF PAGE 3]
+2853European Spine Journal (2022) 31:2851–2865 
+1 3
+Eligibility criteria
+Inclusion criteria followed the Participants, Interventions, 
+Comparators, Outcomes and Study design (PICOS) frame-
+work [23].
+Participants: adults (≥ 18 yrs of age) with LBP. See 
+Supplemental Data 1 for further detail on definitions.
+Interventions: No limitation was placed on interven-
+tions, and these were classified according to procedures 
+[24] used by the Cochrane Effective Practice and Organi-
+sation of Care (EPOC) group into professional, financial, 
+organisational, patient oriented, structural or regulatory 
+interventions.
+Comparators: were, per Cochrane EPOC procedures 
+[24], no intervention control group, standard practice con-
+trol group and/or untargeted activity.
+Outcomes: Surgical referral (including referral to sec-
+ondary care if deemed to have surgical component) or 
+surgery rates were included outcomes. See Supplemental 
+Data 1 for further detail on definitions.
+Study design: only full-text peer-reviewed journal arti-
+cle (grey literature excluded) with a parallel arm (individ-
+ual- or cluster-designed) randomised controlled or clinical 
+trial design were eligible.
+Data collection and data items
+Data extraction was completed by two independent asses-
+sors (xxxx). Extracted information included: publica-
+tion information (i.e. author, title, year, journal), study 
+design, cluster details for cluster randomised trials (e.g. 
+number of clusters), number of participants, participant 
+characteristics (e.g. age and sex), intervention details (e.g. 
+duration, type, frequency), outcome measures (e.g. surgi-
+cal rates), study funding, and author conflict of interest. 
+Where available, we extracted participants’ pain intensity, 
+disability, and any adverse events from included trials. 
+Extracted data were the number or percentage of surgery 
+use or referrals and the total number of participants or 
+appointment sessions. When data were presented in figures 
+only, data were extracted by generating a screenshot and 
+using ImageJ (version 1.48v https:// imagej. nih. gov/ ij/) to 
+measure the le

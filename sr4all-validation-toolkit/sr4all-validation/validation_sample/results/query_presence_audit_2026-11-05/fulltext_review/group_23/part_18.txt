@@ -1,0 +1,237 @@
+e. Of these, one -third will 
+still need a second intestinal resection in 5 years after 
+the first procedure [2]. 
+ Since most patients develop the disease 
+between adolescence and early adulthood, frequent 
+resections may develop short bo wel syndrome (SBS) 
+and/or intestinal failure (IF). The risk factors for such 
+situations are young age at diagnosis and first surgery, 
+a disease with stenosis, family history of inflammatory 
+bowel disease, smoking, and postoperative 
+complications [3]. 
+ For these reasons, the CD is one of the most 
+common causes of IF with the need for home 
+parenteral nutrition (HPN). In the UK alone, it accounts 
+for 25% of all causes of IF, while in Japan, a study 
+revealed an incidence of IF of 3.6; 6.1, and 8.5% in 
+10, 15, a nd 20 years of illness, respectively. This 
+situation is extremely morbid, with an important 
+impact on quality of life [3]. 
+ In the last decade, the frequent use of 
+biological agents in the treatment of CD has brought 
+promising results, expecting a reductio n in long -term 
+surgical procedures with their use [4]. It still lacks data 
+to support this hypothesis [ 5]. However, a population -
+based cohort study found a 2.2 -fold lower risk for 
+surgical intervention in the era of use of biological 
+agents when compared t o the era without the use of 
+these drugs [4, 5]. 
+ Therefore, the present study aimed to discuss 
+the epidemiological and pathological aspects of 
+intestinal failure with short bowel syndrome in CD 
+disease, with a focus on nutritional, drug, and surgical 
+management. 
+ 
+Methods 
+Study Design 
+ The rules of the Systematic Review -PRISMA 
+Platform (Transparent reporting of systematic reviews 
+REVIEW ARTICLE 
+
+
+[W3161649018 PDF PAGE 2]
+MedNEXT J Med Health Sci 2(2) (2021) 77-86 
+ Vol 2 Iss 2 Year 2021               Hayslan Theobaldo Boemer et al.,/2021          
+ 
+Page 78 of 86 
+and meta -analysis-HTTP: //www.prisma -
+statement.org/) were followed [6]. 
+ 
+Data sources and research strategy 
+ The search strategies for this systematic 
+review were based on the keywords (MeSH Terms): 
+“Intestinal failure. Short bowel syndrome. Crohn's 
+disease. Nutritional support”. The research was carried 
+out in October 2018 to May 2019 and developed based 
+on SCOPUS, PUBMED, and SCIENCE DIRECT, including 
+the National Institutes of Health RePORTER Grant 
+database and clinical trial records. Also, a combination 
+of the keywords with the booleans "OR", AND and the 
+operator "NOT" were used to target the scientific 
+articles of interest. The title and abstracts were 
+examined under all conditions. 
+ 
+Study Quality and Bias Risk 
+ The quality of the studies was based on the  
+ 
+GRADE instrument [ 7] and the risk of bias was 
+analyzed according to the Cochrane instrument [ 8]. 
+Two independent reviewers carried out research and  
+study selection. Data extraction was performed by 
+reviewer one and fully reviewed by reviewer two. A 
+third investigator decided on some conflicting points 
+and made the final decision to choose the articles. 
+Only studies reported in English have been evaluated. 
+ 
+Results and Discussion 
+ A total of 155 articles were found involving the 
+Intestinal Failure and Short Bowel Syndrome in Crohn’s 
+Disease. Initially, duplication of articles was excluded. 
+After this process, the abstracts were evaluated and a 
+new exclusion was performed, removing articles that 
+did not include the theme of this article. A total of 65 
+articles were evaluated in full and 20 were  included in 
+the systematic review (Figure 1). 
+  
+Figure 1. Study Eligibilit
+ 
+Records identified through 
+database searching (n = 162) 
+Screening 
+Included 
+ Eligibility 
+ Identification 
+Additional records identified 
+through other sources (n = 3) 
+Records after duplicates removed (n =125) 
+Records screened 
+(n=65) 
+Records excluded 
+(n=60) 
+Full-text articles 
+assessed for eligibility 
+(n=20) 
+Full-text articles 
+excluded 
+(n=45) 
+Studies included in 
+qualitative synthesis 
+(n=20) 
+Studies included in the 
+Systematic Review 
+(n=20) 
+
+[W3161649018 PDF PAGE 3]
+MedNEXT J Med Health Sci 2(2) (2021) 77-86 
+ Vol 2 Iss 2 Year 2021               Hayslan Theobaldo Boemer et al.,/2021          
+ 
+Page 79 of 86 
+After this process, the abstracts were evaluated and a 
+new exclusion was performed, removing articles that 
+did not include the theme of this article. A total of 65 
+articles were evaluated in full and 20 were 
+ Considering the Cochrane tool for risk of bias, 
+the overall assessment resulted in 1 study with a high 
+risk of bias and 2 studies with uncertain risk. The 
+domains that presented the highest risk of bias were 
+related to the number of participants in each study 
+addressed. A lso, there was an absence of the source 
+of funding in 2 studies and 3 studies did not disclose 
+information about the conflict-of-interest statement. 
+ After a thorough analysis of these selected 
+studies, it was found that Crohn's disease has been 
+increasing its occurrence worldwide in recent decades. 
+This growth stands out mainly in developed countries 
+and urban areas. Unlike other diseases, there is no 
+differentiation between sexes in its occurrence [1]. 
+ The onset of CD occurs with higher rates 
+between the second and fourth decade of life, with a 
+small peak between 50 and 60 years [ 1]. It can reach 
+frequencies as high as an incidence of 20.2 to 29.3 per 
+100,000 inhabitants/year, as is the case in Canada and 
+Australia, and a prevalence of 322 (Europe) to 214  
+(United States) cases per 100,000 inhabitants [ 1]. 
+Latin America also follows this growth, with the most 
+expressive rates in Brazil, which revealed an increase 
+in the incidence of CD from 0.08 (the year 1988) to 
+5.48/100,000 inhabitants/year in 2015 [9]. 
+ Although the proportion of surgical treatment 
+in CD has been decreasing in recent years, the 
+increase in its incidence continues to make it common 
+to find patients with surgical complications. CD is 
+among the main causes of intestinal failure requiring 
+HPN. North American data from the 90's estimate that 
+11% of patients using HPN are caused by 
+complications related to CD (second major cause) [ 5]. 
+Although the prevalence of HPN has decreased in the 
+United States (EU), in 2013 there was still an average 
+of 79 cases million people and an increase of 2.5 times 
+the use of household EN (1385/million inhabitants) 
+when compared to the 1990s [10-13]. 
+ Among the 1115 adults who underwent bowel 
+transplantation in the US between 1990 and 2014, 
+short bowel syndrome wa s the most common 
+indication (75%) for this procedure, which includes CD 
+(13%), thrombosis, or vascular insufficiency (24%) 
+[14]. 
+ 
+ 
+Physiopathology 
+ CD has multiple subtypes, which contribute to 
+its observed clinical heterogeneity. This concept was 
+reinforced by the recognition of the complexity of 
+genetic, microbial, immune, and environmental factors 
+that affect the risk of the disease, although the 
+etiology is not fully understood, the CD is still classified 
+as an inflammatory bowel disease with au toimmune 
+pathophysiology. 
+ Autoantibodies are activated against the 
+function of the intestinal epithelial barrier and 
+circulating antibodies are present in front of a variety 
+of autoantigens, including lymphocyte antigens. The 
+tumor necrosis factor (TNF) h as a central role and the 
+specific inhibition of this pleiotropic cytokine by 
+biological anti-TNF agents has been a great advance in 
+the treatment of CD [12]. 
+ An association has been demonstrated 
+between CD and the NOD2 mutation (“nucleotide 
+oligomeric domain 2”): the defect is responsible for an 
+inadequate immune response, damaging function of 
+the mucous barrier, and microbial dysbiosis. Thus, the 
+hypothesis was raised that the deficiency of NOD2 
+leads to a microbial dysbiosis associated with the 
+specific and transmissible mucosa, regardless of the 
+defect of the mucosal barrier [12]. 
+ Since the risk of surgical intervention in CD 
+increases progressively with the years of illness, the 
+possibility of the appearance of SBS arises, followed by 
+IF. The latter i s characterized by temporary or 
+permanent intestinal malabsorption. The most recent 
+guidelines define IF as “a reduction in the intestinal 
+function below the minimum required for the 
+absorption of macronutrients and/or water and 
+electrolytes so that intrav enous supplementation is 
+necessary to maintain health and/or growth” [13].  
+ It is most often caused by short bowel 
+syndrome (SBS), which occurs after the removal of 
+half or more of the small intestine, therefore, SBS is 
+the cause of 74% of patients in hom e parenteral 
+nutrition and of this total, 29% are consequent to CD 
+[15,16]. The risk for developing SBS after surgery on 
+CD is closely related to the length of the remaining 
+small intestine, preserving at least 200 cm of the small 
+intestine can reduce the risk of SBS [3]. 
+ In this context, there are 3 recognized IF 
+categories. The first is self -limited or “Type 1”, which 
+occurs more often after abdominal surgery and 
+resolves with nutritional or liquid support in the short 
+term. "Type 2" IF is associated wit h septic, metabolic 
+
+[W3161649018 PDF PAGE 4]
+MedNEXT J Med Health Sci 2(2) (2021) 77-86 
+ Vol 2 Iss 2 Year 2021               Hayslan Theobaldo Boemer et al.,/2021          
+ 
+Page 80 of 86 
+or nutritional complications of difficult surgical 
+procedures in patients with CD or patients with 
+mesenteric vascular disease [ 3]. Despite advances in 
+intensive care, antibiotic therapy, and nutritional and 
+metabolic support, IF Type 2  is still associated with 
+considerable morbidity and mortality. Intensive care is 
+crucial to reduce the likelihood of these patients 
+developing “Type 3” IF, which is characterized by the 
+need for long-term parenteral nutrition [3]. 
+ The most common reason for the development 
+of type 3 IF in patients with CD is the inadvertent 
+intestinal injury resulting from the management of 
+type 2 IF that has developed as

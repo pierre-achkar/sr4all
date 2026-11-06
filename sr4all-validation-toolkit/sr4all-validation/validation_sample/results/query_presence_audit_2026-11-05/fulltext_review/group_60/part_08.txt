@@ -1,0 +1,186 @@
+ hand, 
+one study evaluating exposure to urban particulate matter 
+(UPM) found a significant downregulation of HMOX1 after 
+differentiation at the ALI [80].
+Other studies found statistically significant associations 
+between particulate matter or aerosol exposures and increased 
+oxidative stress [83, 84, 90, 92]. These included not only alter-
+ation of antioxidants genes like SOD2 [84] or HMOX1 [84, 
+90], but also markers of oxidative DNA damage (8-OHdG) 
+[83] and lipid peroxidation (MDA) [83, 92]. Moreover, oxi-
+dative damage of  PM4 was reported in one study based on 
+statistically significant increases of protein-CO concentration 
+and glutathione oxidation in HBE cells, as well as significant 
+decreases in total antioxidant status (TAS) [83].
+Table 11  Genotoxic effects of exposure to aerosols and particulate matter on human airway epithelial cells
+agent(s)
+[81] UPMA fter exposure to UPM, MUC5AC expression in primary airway epithelial 
+cells was 3.5-fold higher in asthmatic cells (p = 0.03) and 8.5-fold higher in 
+healthy cells (p = 0.04) compared to controls. Similarly, IL-8 gene 
+expression was 2.5-fold higher in asthmatic cells (p = 0.04) and 1.5-fold 
+higher in healthy cells (p = 0.02) following exposure.
+[83] PM4E xposure of normal and diseased human bronchial epithelial cells to PM4
+produced significant alterations in genes encoding xenobiotic metabolizing 
+enzymes (XME). Additionally, both cell types exhibited significant telomere 
+shortening and increased telomerase activity (p< 0.01), which was more
+pronounced in diseased cells.
+[86] PM2.5-0.3N o significant differences were reported by the graph analysis method 
+between exposed and control groups after exposure of healthy epithelia to 45 
+µg/cm2 PM, while some differences were observed in the classical ∆∆ Ct 
+method. Significant changes in gene expression were induced following 
+exposure to 90 µg/cm2 PM. Greater modulation of gene expression was 
+observed in asthma epithelia compared to healthy epithelia.
+[87] FP and UFPG ene expression analysis differentially expressed genes (DEG) in asthma-
+DHBE and COPD-DHBE cells compared to normal epithelial cells after 
+acute and repeated exposures to UFP. Diseased cells exhibited higher counts 
+of DEG.
+[92] SOA-SP After exposure to SOANAP-SP, EA.hy926 cells not directly exposed to the 
+aerosol showed a significantly higher percentage of DNA breaks. Undiluted 
+SP exposure resulted in 8% DNA breaks for A549 cells in both culture 
+models and 4% for EA.hy926 cells.
+Detrimental statistically significant effect reported
+Reference Exposure Results Effect 
+Genotoxicity 
+Table 12  Genotoxic effects of combined exposure to aerosols and gaseous pollutants on human airway epithelial cells
+Reference Exposure 
+agent(s) Results Effect
+Genotoxicity
+[99] Complete 
+gasoline exhaust
+No histone H2A. X Variant Histone (H2AX) phosphorylation induction 
+was observed in MucilAir™ cells after one-day exposure, but a 
+significant increase in DNA damage was reported after five days. 
+However, phosphorylated histone levels of BEAS-2B cells decreased 
+significantly after five days compared to one day. 
+[100] Complete 
+gasoline-ethanol 
+blend exhaust 
+(E20, E5)
+After exposure to complete emissions, double-strand DNA breaks 
+increased significantly in BEAS-2B cells. However, H2AX 
+phosphorylation was lower at longer exposure periods in both cell types. 
+No significant differencesw ereo bserved between control and exposed 
+BEAS-2B samples, but the five-day exposure showed detrimental effects. 
+Detrimental statistically significant effect reported
+
+[W4412727192 PDF PAGE 25]
+Current Environmental Health Reports           (2025) 12:26  
+ Page 25 of 40    26 
+Combined Aerosols and Gaseous Pollutants
+Studies evaluating the induction of oxidative stress follow -
+ing exposure of human airway epithelial cells to aerosols and 
+particulate matter are summarized in Table 15.
+The induction of oxidative stress by diesel exhaust was 
+evaluated in two studies [94, 95]. One study reported a dose-
+dependent statistically significant increase in HMOX1 and 
+NQO1 expression [94]. Another study observed a downregu-
+lation of HMOX1 after exposure to D100 and B96, but this 
+gene was upregulated following exposure to other mixtures 
+of biodiesel exhaust, including B20, B50 and B90 [95]. On 
+the other hand, a multi-cellular lung model exposed to win-
+ter ambient air showed increased levels of HMOX1 in one 
+study [102]. In a different study, gasoline exhaust was found 
+to increase intracellular ROS production significantly [98].
+Risk of Bias Assessment
+The evaluation of the risk of bias is summarised in 
+Table 16 (individual assessments in Supplementary Infor -
+mation). Nearly all studies included in this review were 
+classified as Tier 1, since they had “definitely low” (+ +) 
+or “probably low” (+) risk of bias for all the key aspects 
+and other criteria selected. Only four studies [62, 75, 97, 
+102] were categorized as Tier 2 due to a “probably high” 
+( −) or “definitely high” (− −) risk of bias in some key 
+aspects. These included the lack of appropriate statistical 
+approaches in three studies [62, 75, 97] and evidence of 
+inadequate randomization of administered dose between 
+study groups in one study [102]. Findings from all studies 
+were integrated in the review, since no studies were clas-
+sified as Tier 3.
+Discussion
+In this literature review, the impact of air pollution on human 
+health was analysed by assessing the evidence of various 
+in vitro toxicological studies using air–liquid interface 
+(ALI) systems. These studies involved different combina-
+tions of air pollutants, exposure conditions and experimental 
+designs using human airway cellular models, which repre-
+sent the first point of contact of the air pollutants with the 
+body. Such models included lung epithelial cell lines such 
+as BEAS-2B, 16HBE14o or Calu-3, which reflect the bron-
+chial epithelium, and A549 as model of alveolar epithelium. 
+Results indicate that both acute and prolonged exposure to 
+air pollution induce oxidative, inflammatory, and genotoxic 
+responses in airway epithelial cells. Despite the differing 
+physicochemical characteristics of air pollutants, evidence 
+suggests that cells often respond within a common frame-
+work to the oxidative aggression. These responses are inter-
+connected by many different pathways and often trigger cell 
+death pathways like apoptosis after an enhanced cytotoxic 
+response, as shown in Fig.  5. However, not all pollutants 
+Table 13  Oxidative stress induction of gaseous pollutants on human airway epithelial cells
+Reference Exposure 
+agent(s) Results
+Effect
+Oxidative 
+stress
+[58] O3 Primary human bronchial epithelial cells showed significant increases in 
+MEK1/2, ERK1/2, MKK4 and p38 levels after 30 minutes to 2 hours of 
+exposure to 1000 µg/m3 ozone.
+[59] O3 Exposure to 1000 µg/m³ ozone induced a mean HMOX-1 increase of 
+3.470 ± 1.367 in bronchial epithelial cells.
+[61] NO2 and O3 Bronchial epithelial cells showed significant upregulationso f HMOX-1 
+after exposurest o 1000-2000 µg/m³ O3 and 10000 µg/m³ NO2. Overall, 
+NO2 exposure induced a greater response in genes related to oxidative 
+stress compared to O3.
+[62] NO2 and O3 Ozone exposure led to reduced intracellular glutathione levels in human 
+lung fibroblasts (Lk004) and human bronchial epithelial cells (HFBE-
+21). Additionally, a dose-dependent decrease in intracellular glutathione 
+was observed in HFBE-21 cells following exposure to NO2.
+[68] NO2 and 
+ethylbenzene
+Exposure of A549 cells to ethylbenzene resulted in significant increases 
+in SOD2 expression. Additionally, heme oxygenase 1 (HMOX1)
+expression showed a statistically significant increase after exposure to 
+NO2 compared to clean air.
+[43] BenzeneA 549 cells exposed to 960 µg/m³ benzene exhibited elevated intracellular 
+ROS levels compared to controls, with a significant difference observed 
+between pre- and post-exposure samples (p < 0.001).
+Detrimental statistically significant effect reported
+Studied but no statistically significant effect reported
+
+[W4412727192 PDF PAGE 26]
+ Current Environmental Health Reports           (2025) 12:26 
+   26  Page 26 of 40
+might trigger the same biological pathways, despite being 
+interconnected. Aerosols might trigger the release of pro-
+inflammatory markers through phagocytosis [130]. On the 
+other hand, the chemical composition of the aerosol might 
+trigger oxidative stress, leading to inflammation, if not prop-
+erly resolved [131]. Metals might increase oxidative stress 
+through the Fenton reaction [132], whilst PAHs might do 
+so through the AhR activation pathway [133]. Thus, not all 
+pollutants might activate the same pathways, nor elicit the 
+same effects.
+Air pollutants increase the production of reactive oxygen 
+species and pro-inflammatory markers through the activation 
+of the immune system and redox imbalance. This leads to 
+the upregulation of inflammatory and oxidative pathways, 
+Table 14  Oxidative stress induction of aerosols and particulate matter on human airway epithelial cells
+Reference Exposure 
+agent(s) Results
+Effect
+Oxidative 
+stress
+[70] DEPI n Calu-3 cells, intracellular ROS increased dose-dependently following 
+DEP exposure, with statistical significance reported for exposures at 50 
+µg/cm2 and 100 µg/cm2.
+[71] DEPD EP exposure significantly induced genes encoding GST and HMOX-2 in 
+A549 tetra-culture 24 hours post-exposure. A dose-dependent increase in 
+HMOX-1 release was observed at 12 h and 24 h post-exposure.
+[73] DEPE xposure of PBECs to DEP significantly increased the expression of 
+NFκB, HMOX1, and GPx. However, the co-culture of PBEC-MQ showed 
+significantly lower mRNA expression of NFκB and HMOX1 compared to 
+single-culture PBECs at the ALI.
+[74] DEPH SP70 expression significantly increased at 24 and 48 h post-exposure to 
+0.08 µg/cm2 DEP in A549 cell tetra-culture, with a 1.5-fold increase at 48 
+h for 0.24 µg/cm2 DEP exposure. 
+[75] DEPS ignificantly d

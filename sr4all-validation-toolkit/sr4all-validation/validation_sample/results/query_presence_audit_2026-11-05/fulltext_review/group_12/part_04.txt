@@ -1,0 +1,192 @@
+rent opin-
+ions about the clinical efficacy between SILS and CLS.
+Several published meta-analyses evaluating SLIS versus
+CLS have shown that short-term clinical and oncological
+outcomes of SILS are better than that of CLS [ 4]. Li
+et al. had very fully confirmed that SILS had less blood
+loss, shorter incision length, shorter and hospital stay
+but longer operative time for colorectal disease [ 5].
+However, laparoscopic sigmoid and rectal surgery based
+on these two techniques has rarely been studied by
+meta-analysis. Here we comprehensively compared the
+clinical outcomes of two techniques for treatment of sig-
+moid and rectal cancer.
+* Correspondence: zhangrui612006@sina.com
+Department of Colorectal Surgery, Cancer Hospital of China Medical University,
+Liaoning Cancer Hospital and Institute, No 44 Xiaoheyan Road, Dadong District,
+Shenyang 110042, Liaoning Province, People ’sR e p u b l i co fC h i n a
+© The Author(s). 2018 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License ( http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Liu et al. World Journal of Surgical Oncology          (2018) 16:220 
+https://doi.org/10.1186/s12957-018-1521-4
+
+[W2899988073 PDF PAGE 2]
+Methods
+Literature search
+We had systematically collected useful studies from
+MEDLINE, PubMed, Embase, Cochrane Library, and
+Wanfang from 2010 to 2018. Search terms included
+“laparoscopy,”“ single incision, ”“ single port, ”“ single
+site,”“ SILS,”“ CLS,”“ sigmoid cancer, ”“ rectal cancer, ”
+and “TME (total mesenteric resection). ” Manual searches
+of references from relevant articles were performed when
+necessary. We increased the scope of the research by “re-
+lated articles ” option. Included studies were English or
+Chinese human researches with the abstracts, scope, and
+reference checked.
+Eligibility criteria
+One hundred seventy-nine studies searched from the
+Internet were separately screened by three investigators
+according to the following inclusion criteria: (1) compar-
+ing the outcomes of SILS versus CLS for sigmoid or rec-
+tal cancer, (2) one outcome mentioned at least, and (3)
+randomized clinical trials (RCTs), non-randomized con-
+trolled trail (NRCTs), or comparative observational (co-
+hort and case-control) studies.
+Additionally, the exclusion criteria were as follows: (1)
+related research was not about sigmoid colon or rectal
+disease, (2) the relevant data were not specifically
+reported, and (3) conference articles, case, letters, and
+other unqualified articles.
+Types of interventions
+Laparoscopic surgery was performed through a laparo-
+scope with special instruments by a small incision
+length. CLS always had three or more ports, while SLIS
+had only one port for surgery.
+Outcome of interest
+We used the following results to compare SILS and
+CLS: (1) intraoperative data based on operative time, in-
+cision length, amount of bleeding, conversion, lymph
+node resection, and distal surgical edge; (2) postopera-
+tive data including complication, anastomotic fistula
+rate, defecation time, exhaust time, pain score, and
+hospitalization time; and (3) short-term follow-up data
+including readmission, local recurrence, and distant me-
+tastasis. Subgroup analysis of tumor location (sigmoid
+colon and rectal cancer), region (eastern and western),
+and language (Chinese and English) were conducted.
+Data extraction
+The literatures were searched according to the above cri-
+teria by two reviewers independently. The following data
+were collected: (1) the first author(s) and publication
+data, (2) the study area, (3) the characteristics of patients
+in each group, and (4) the quality of the study. A third
+reviewer was introduced to resolve all disagreements
+about the articles until a consensus was reached.
+We contacted the authors of all studies with incom-
+plete data but did not get any additional information. As
+referred to in the missing data of means and SDs, we
+calculated them based on medians and ranges according
+to availability [ 6, 7].
+Risk of bias evaluation
+Two RCT qualities were assessed by the Cochrane Reviewers’
+Handbook with the Jadad score in three metrics:
+randomization, double blindness, and control.
+The quality of NRCTs was assessed with the Newcastle-
+Ottawa Scale from three aspects: patient selection,
+confirmation of exposure, and comparability of both
+groups [ 8].
+Statistical analysis
+This study followed the Preferred Reporting Items for
+Systematic reviews and Meta-Analysis (PRISMA) guide-
+lines. We used Stata 11.0 to compare two groups by
+standardized mean differences (SMD) with 95% confi-
+dence intervals (95% CIs) for continuous data and rela-
+tive risks (ORs or RRs) with 95% CIs for dichotomous
+outcomes. The statistical heterogeneity was estimated by
+I2 statistic and χ2 test.
+When I2 > 50% and I2 < 50%, random effects and fixed
+effects models were utilized separately. P < 0.05 indicated
+statistical differences. Begg ’s test was used to evaluate
+publication bias. Sensitivity analyses were conducted by
+sequentially excluding studies one by one to decrease
+the impact of single study.
+Results
+Study characteristics
+We identified 179 publications and found 80 relevant
+eligible studies. We removed 71 studies (non-SILS or
+CLS, sigmoid or rectal cancer, RCTs or NRCTs), and fi-
+nally, nine of these studies met our inclusion criteria,
+which included two RCTs and seven NRCTs with a total
+of 829 patients included. Of the nine studies, two studies
+evaluated sigmoid colon cancer, five studies evaluated
+rectal cancer, one study evaluated rectosigmoid junction
+cancer, and one study contained both sigmoid and rectal
+cancer. This study included three western researches and
+six eastern researches. This study also contained seven
+English articles and two Chinese articles. All patients who
+underwent SILS or CLS were confirmed pathologically for
+sigmoid colon or rectal cancer [ 9– 17]( F i g .1).
+Of the patients evaluated by these studies, 299 (36.1%)
+patients underwent SILS and 530 (63.9%) patients under-
+went CLS. Table 1 shows the baseline characteristics and
+quality assessment of these nine researches; there was no
+statistical difference for each study.
+Liu et al. World Journal of Surgical Oncology          (2018) 16:220 Page 2 of 12
+
+[W2899988073 PDF PAGE 3]
+Fig. 1 Flowchart of the included studies
+Table 1 Characteristics of the included studies in the meta-analysis
+Patients ( n) BMI Tumor size (cm) Sex (M/F) Age Tumor location Score
+First author Year Study area Type SILS/CLS SILS CLS SILS CLS SILS CLS SILS CLS
+Liu [ 7] 2016 China NRCT 16/32 21.9 22.4 3.6 3.6 13/3 23/9 56.4 55.6 Sigmoid and
+rectum
+5
+Hong [ 8] 2016 China RCT 43/43 NR NR NR NR 23/20 26/17 52.3 54.1 Rs 3
+Bulut [ 9] 2015 Denmark RCT 20/20 24 24 2.5 4.0 12/8 12/8 69 73 Rectum 3
+Kim [ 10] 2014 Korea NRCT 67/49 23.1 23.5 4.3 5.3 44/23 28/21 63.8 61.3 Rectum 7
+Levic [ 11] 2014 Denmark NRCT 36/194 23.8 25 NR NR 17/19 133/61 69 68 Rectum 8
+Tei [ 12] 2018 Japan NRCT 44/49 23.6 22 3.9 4.1 29/15 29/20 66 63 Rectum 8
+Kwag [ 13] 2013 Korea NRCT 24/48 24.4 24 2.6 3.4 9/15 18/30 59.5 59 Sigmoid 7
+Park [ 14] 2012 Korea NRCT 37/54 24.7 23.9 NR NR 21/16 26/28 63.8 59.9 Sigmoid 7
+Nerup [ 15] 2018 Denmark NRCT 12/41 23.5 25 NR NR 7/5 13/28 76 69 Rectum 6
+F female, M male, NR no record, RCT randomized controlled trials, NRCT non-randomized controlled trials, SILS single-port laparoscopic surgery, CLS conventional
+multi-port laparoscopic surgery, Rs rectosigmoid junction cancer
+Liu et al. World Journal of Surgical Oncology          (2018) 16:220 Page 3 of 12
+
+[W2899988073 PDF PAGE 4]
+Quality assessment
+According to the modified Jadad rating scale for asses-
+sing RCTs, scores between 1 and 3 were considered low
+quality and scores between 4 and 7 were considered
+high quality. Due to single blinding and unclear
+method of randomization, two RCTs got scores of 3
+with low quality.
+According to NRCT evaluation criteria, scores be-
+tween 1 and 3 were considered low quality, scores be-
+tween 4 and 6 were considered moderate quality, and
+scores between 7 and 9 points were considered high
+quality. The included NRCTs all had moderate or high
+quality. The specific scores of RCTs and NRCTs are
+shown in Table 1.
+Meta-analysis results
+Intraoperative index
+The incision length was shorter in SILS than CLS (SMD
+− 2.46, 95% CI − 4.02 to − 0.90), with large heterogeneity
+in random effects model ( P =0 , I2 = 95.6%, Fig. 2a). SILS
+had more lymph node resection than CLS in random ef-
+fects model (SMD − 0.25, 95% CI − 0.50 to − 0.002, P =
+0, I2 = 61.5%, Fig. 2b) Two groups had similar results in
+operative time with CLS (SMD 0.23, 95% CI − 0.27 to
+0.73, Fig. 2c), amount of bleeding (SMD − 0.01, 95% CI
+− 0.32 to 0.31, Fig. 2d), conversion rate (RR 1.69, 95% CI
+0.93 to 3.05, Fig. 2e), and distal surgical edge (SMD −
+0.03, 95% CI − 0.24 to 0.19, Fig. 2f). All studies had sig-
+nificant heterogeneity in random effects model, except
+conversion rate without significant heterogeneity in fixed
+effects model. In subgroup analysis, RCTs had shorter
+incision length, but higher conversion rate than NRCTs,
+and other index in RCTs and NRCTs were similar.
+The detailed values are shown in Table 2.
+Postoperative data
+This study showed SILS had obvious advantages over
+CLS in complication (RR 0.66, 95% CI 0.47 to 0.91,
+Fig. 3e), defecation time (SMD − 0.46, 95% CI − 0.75
+to − 0.18, Fig. 3a), exhaust time (SMD − 0.46, 95% CI
+− 0.75 to − 0.18, Fig. 3b), pain score (SMD − 0.56,
+95% CI − 0.91 to − 0.21, Fig. 3c), and hospitalization
+time (SMD − 0.30, 95% CI − 0.45 to − 0.15, Fig. 3d).
+No signific

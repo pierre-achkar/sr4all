@@ -1,0 +1,200 @@
+etes Mellitus
+Twelve studies including 10,869 participants reported the
+relationship between DM and BPPV occurrence. The pooled
+evidence showed that DM was not associated with BPPV
+occurrence (OR= 1.04; 95% CI, 0.86–1.25; P = 0.71) (Figure 3).
+No signiﬁcant heterogeneity was detected among these studi es,
+and a ﬁxed-eﬀect model was used ( I2 = 18%; P = 0.27).
+Hyperlipidemia and TC Level
+Four studies including 9,426 participants investigated the
+inﬂuence of hyperlipidemia on the occurrence of BPPV.
+Our analysis showed no signiﬁcant association between
+hyperlipidemia and BPPV occurrence (OR= 1.50; 95% CI,
+0.88–2.53; P = 0.13) ( Figure 3). The I2-value was 86%, so a
+random-eﬀect model was used.
+Three studies involving 582 participants measured total
+cholesterol level to assess their inﬂuence on BPPV occurrenc e.
+The pooled evidence showed that patients with BPPV have a
+higher TC level than controls (MD= 0.32; 95% CI, 0.02–0.62; P
+= 0.03) ( Figure 4). The I2-value was 66%, indicating signiﬁcant
+heterogeneity between these studies.
+Changeable Lifestyles
+Seven studies including 8,019 participants were conducted on
+the relationship between smoking and BPPV. The pooled results
+indicated that smoking was not associated with BPPV occurrence
+(OR = 0.59; 95% CI, 0.33–1.04; P = 0.07) ( Figure 4). Statistical
+heterogeneity was signiﬁcant ( I2 = 80%; P < 0.0001).
+Correlations between drinking and BPPV occurrence were
+performed in six studies involving 1,830 participants. No
+signiﬁcant association was found between drinking and BPPV
+(OR= 0.64; 95% CI, 0.29–1.43; P = 0.28) ( Figure 4). The
+I2-value was 89%, suggesting signiﬁcant heterogeneity among
+included studies.
+Five studies including 1,428 participants evaluated the eﬀect s
+of regular exercise on BPPV. Our analysis suggested that physi cal
+inactivity was not associated with BPPV occurrence (OR =
+1.08; 95% CI, 0.79–1.47; P = 0.63) ( Figure 4). There was no
+heterogeneity among these studies ( I2 = 0%; P = 0.84).
+DISCUSSION
+This systematic review and meta-analysis indicated that female
+gender, vitamin D deﬁciency, osteoporosis, migraine, head
+trauma, and high TC level were risk factors for the occurrence
+of BPPV. There was no suﬃcient evidence to suggest that
+age, osteopenia, stroke, HTN, DM, hyperlipidemia, smoking,
+drinking, and physical inactivity were associated with BPPV
+occurrence. The accuracy of some of our results may be limited
+to signiﬁcant heterogeneity or the limited number of includ ed
+studies, so further research was needed to conﬁrm some of
+our results.
+Although many included studies controlled the sex ratio
+between the experimental and control groups, our analysis
+showed that women were more likely to develop BPPV than men.
+Previous studies have also suggested that women had a higher
+incidence of BPPV than in men, especially in the elderly women
+(
+4). This relationship may be related to estrogen deﬁciency
+in postmenopausal women, as estrogen may promote the
+development of osteoporosis and even BPPV (
+18). In addition,
+women BPPV patients have a higher risk of recurrence than men
+(
+9, 31). Therefore, further research between estrogen levels and
+BPPV may help early diagnosis and prevention of BPPV.
+Our analysis of serum vitamin D level suggested that vitamin
+D deﬁciency appeared to be a risk factor for the occurrence of
+BPPV. This result was consistent with a previous meta-analysis
+(
+32). BPPV signiﬁcantly increased the risk of fractures and
+osteoporosis, which may be related to vitamin D deﬁciency in
+BPPV patients (
+33, 34). Moreover, serum vitamin D level can
+be aﬀected by estrogen deﬁciency ( 35), which may help explain
+Frontiers in Neurology | www.frontiersin.org 6 June 2020 | Volume 11 | Article 506
+
+[W3037280319 PDF PAGE 7]
+Chen et al. Risk Factors for BPPV Occurrence
+FIGURE 2 |Forest plot of osteoporosis (A), osteopenia (B), migraine (C), stroke (D), and head trauma (E).
+why BPPV was more common in postmenopausal women. Thus,
+serum vitamin D level may be used for the auxiliary diagnosisof
+atypical BPPV as a serum predictor. In addition, some studies
+showed that vitamin D supplements can eﬀectively improve
+symptoms of patients with BPPV (
+36) and have preventive eﬀects
+on BPPV recurrence ( 37). Hence, vitamin D supplements may
+Frontiers in Neurology | www.frontiersin.org 7 June 2020 | Volume 11 | Article 506
+
+[W3037280319 PDF PAGE 8]
+Chen et al. Risk Factors for BPPV Occurrence
+FIGURE 3 |Forest plot of hypertension (A), diabetes mellitus (B), and hyperlipidemia (C).
+have important eﬀects on improving the diagnosis and prognosis
+of patients with BPPV.
+Our analysis results indicated that osteoporosis was a
+risk factor for BPPV occurrence, but osteopenia was not.
+A previous systematic review also showed that BPPV may
+be associated with osteoporosis or osteopenia (
+38). Many
+studies suggested that bone mineral density values in BPPV
+patients were lower than those in controls (
+39). In addition,
+Frontiers in Neurology | www.frontiersin.org 8 June 2020 | Volume 11 | Article 506
+
+[W3037280319 PDF PAGE 9]
+Chen et al. Risk Factors for BPPV Occurrence
+FIGURE 4 |Forest plot of TC level (A) and changeable lifestyles including smoking (B), drinking (C), and regular exercise (D).
+osteoporosis and osteopenia may also be associated with
+BPPV recurrence (
+40, 41). Thus, treatment of osteoporosis
+may help prevent the occurrence of BPPV and improve
+the prognosis of BPPV patients (
+42). Further studies were
+needed to determine the eﬀects of BMD on BPPV occurrence
+and recurrence.
+The pooled results showed that BPPV has no signiﬁcant
+relationship with hyperlipidemia, but BPPV patients have a
+higher TC level. An increased TC level was a risk factor for
+BPPV occurrence. A higher TC level or hyperlipidemia can
+cause vascular damage in the inner ear, which may lead to
+BPPV occurrence (
+4). In addition, a recent study found that
+Frontiers in Neurology | www.frontiersin.org 9 June 2020 | Volume 11 | Article 506
+
+[W3037280319 PDF PAGE 10]
+Chen et al. Risk Factors for BPPV Occurrence
+the three rs2074880 genotypes in the CACNA1A (Calcium
+Voltage-Gated Channel Subunit Alpha1 A) gene were associated
+with increased levels of cholesterol in BPPV patients (
+28).
+The relationship between TC level and BPPV has not been
+adequately studied. Further studies were required to conﬁrm
+these results.
+BPPV was frequently induced by secondary factors such
+as head trauma, migraine, or other inner ear diseases. Recent
+studies showed that migraine (
+43) and head trauma ( 29) were
+signiﬁcantly associated with an increased incidence of BPP V.
+Most included studies excluded patients with any history of
+vestibular or neurological diseases, including head trauma and
+migraine. Our analysis still showed that migraine and head
+trauma were risk factors for BPPV occurrence. However, the
+limited number of studies included or signiﬁcant heterogeneity
+may limit the accuracy of these results.
+Some studies have investigated associations between vascu lar
+risk factors and BPPV , such as hypertension, DM, and
+hyperlipidemia, but the results were controversial (
+4, 19).
+In addition, vascular comorbidities may also be risk factor s
+for BPPV recurrence ( 8, 9). However, our analysis showed
+that migraine and high TC level were risk factors for BPPV
+occurrence, while HTN, DM, hyperlipidemia, and stroke were
+not. The limited number of eligible studies or signiﬁcant
+heterogeneity among studies may limit the accuracy of these
+results. Large-scale studies of these risk factors were needed to
+conﬁrm the reliability of these results.
+Previous studies suggested that smoking has adverse eﬀects
+on middle ear diseases and hearing loss (
+44) and even makes
+the treatment of vertigo ineﬀective ( 45). However, some studies
+have shown that smoking can reduce the incidence of BPPV ,
+prevent the recurrence of BPPV , and shorten the recovery time
+of BPPV (
+16). The relationship between smoking and BPPV was
+quite controversial and had not been adequately investigat ed.
+We expected that smoking was a potential risk factor for
+BPPV occurrence, but pooled results showed no signiﬁcant
+relationship between smoking and BPPV occurrence. Signiﬁcant
+heterogeneity among studies may limit the accuracy of this
+results. Further investigations were needed to establish the eﬀects
+of smoking on BPPV.
+Our analysis showed no signiﬁcant association between
+BPPV and physical inactivity. However, previous studies show ed
+that moderate physical exercise can prevent the occurrence of
+BPPV and decrease the risk of falls and fractures, especially
+in the elderly (
+46). Intense physical activity may trigger
+posttraumatic BPPV without head trauma ( 47), but a study
+showed that BPPV caused by intense physical activity was a
+rare condition (
+48). Some included studies did not give speciﬁc
+deﬁnition, which may limit the accuracy of this result. The
+role of regular exercise and moderate exercise in BPPV needed
+further investigations.
+LIMITATIONS
+Inevitably, there were several limitations in this meta-analysis.
+First, searches were restricted to English literature, whi ch
+means that potentially high-quality literature may not be
+included in our analysis. Second, some potential risk factors
+were not analyzed in our analysis, because too few published
+studies were available, such as coronary heart disease, serum
+uric acid level, and albumin level. Third, subgroup analysi s
+of each risk factor was not performed due to insuﬃcient
+data. Furthermore, many included studies were retrospectively
+conducted in Asia and BPPV had many levels of its severity,
+which may limit the reliability of our results. In addition,
+for some risk factors, the limited number of included studies,
+signiﬁcant heterogeneity, or ambiguous deﬁnition may limi t
+the accuracy of these results. Large-scale randomized contr olled
+trial (RCT) studies were necessary to conﬁrm the reliabilit y of
+our results.
+CONCLUSION
+This meta-analysis was based on 19 studies involving a
+total of 14,286 participants, which provided

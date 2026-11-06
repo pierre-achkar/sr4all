@@ -1,0 +1,153 @@
+tive equivalence 
+between ME/CFS and controls in terms of performance concerning executive capacities.
+Instrumental functions. Instrumental functions include language skills (written and oral language), calculation, 
+praxis and  gnosis84. Ten studies evaluated the performances inherent in the instrumental functions, including 
+six evaluating language skills through naming skills (Boston Naming Test) and vocabulary (W AIS and W AIS-R 
+Vocabulary). Two studies proposed an evaluation of computational abilities (W AIS-R Arithmetics) and eight 
+studies included an evaluation of visuo-constructive praxises, pencil (Copy of ROCF) or in three dimensions 
+(W AIS-R Blocks) (Table 10).
+The results of the analysis showed effect sizes below the moderate threshold and non-significant for all the 
+observed data. This indicated that people with ME/CFS performed comparably as healthy controls for these 
+functions (Table 10).
+Discussion
+This meta-analysis highlights that ME/CFS seems to affect the cognitive sphere in a relatively heterogeneous 
+manner with disparities between and within cognitive function. We found that ME/CFS patients have lower 
+performances in visuo-spatial short-term memory especially concerning immediate memory. This result ema-
+nated from a comparison between two studies and de facto limits the interpretative power of the analysis. This 
+element should therefore be considered as an evocation of possible disorders in visual immediate memory, 
+more than an affirmation. Working memory seems to be consistent with the lack of massive executive deficit in 
+ME/CFS patients. The verbal modality seems to be efficient. The results also suggested a slowing down affecting 
+reading speed and graphics. The movement seems to be less clearly affected while the coordination remains quite 
+efficient. About long-term memory, it appeared that ME/CFS patients present difficulties in several processes 
+inherent to episodic memory (storage, retrieval, recognition) in verbal modality and with regard to recovery in 
+visual modality.
+However, these observations were not found in all the tests proposed by the included studies. This is the same 
+observation for attention, for which the idea of a lower efficiency of the sustained attention capacities in auditory 
+input as well as a possible weakness in visual input should be qualified by the inter-test inconsistency of these 
+conclusions. This inconsistency can be multifactorial, in line with the heterogeneity emanating from results of 
+previous  studies40,94. Our methodology and inclusion criteria allowed to avoid the methodological divergences 
+between studies concerning tests and standards used to quantify  disorders16. Therefore, the heterogeneity of cog-
+nitive profile could lie in the variability of deficits intensity from a patient to another. In effect, ME/CFS patients 
+may show very variable syndrome  load63–67, even if evolving in a circumscribed framework, strictly excluding any 
+
+[W4210837925 PDF PAGE 10]
+10
+Vol:.(1234567890)Scientific Reports |         (2022) 12:2157  | https://doi.org/10.1038/s41598-021-04764-w
+www.nature.com/scientificreports/
+Table 8.  Long term memory: Hedge’s g effect sizes for each test, in descending order. ME/CFS myalgic 
+encephalomyelitis/chronic fatigue syndrome, N number.
+Test name N studies N CFS N controls Hedges’g S.E 95% CI p value Q p I2 (%) Study references
+Episodic
+Verbal modality
+California verbal learning test T 
+score List A (Trials 1–5) 7 231 214 − 0.50 0.10 − 0.691 to − 0.315 0.0001 11.29 0.08 46.86
+Cockshell et al.17, De Luca 
+et al.21,22, Fiedler et al.24, 
+Michiels et al.39, Tiersky et al.52, 
+Vercoulen et al.54
+California verbal learning test 
+long delay free recall 7 263 246 − 0.36 0.09 − 0.534 to − 0.184 0.0001 9.59 0.14 37.46
+Cockshell et al.17, Cockshell 
+et al. (2014), De Luca et al.21,22, 
+Michiels et al.39, Tiersky et al.52, 
+Vercoulen et al.54
+California verbal learning test 
+short delay free recall 7 263 246 − 0.35 0.09 − 0.527 to − 0.179 0.0001 5.73 0.45 0.00
+Cockshell et al.17, Cockshell 
+et al. (2014), De Luca et al.21,22, 
+Michiels et al.39, Tiersky et al.52, 
+Vercoulen et al.54
+California verbal learning test 
+long delay cued recall 4 177 173 − 0.27 0.11 − 0.483 to − 0.064 0.01 2.40 0.49 0.00
+Cockshell et al.17, Cockshell 
+et al. (2014), De Luca et al.21, 
+Vercoulen et al.54
+California verbal learning test 
+recognition 5 197 195 − 0.26 0.10 − 0.452 to − 0.058 0.011 1.80 0.77 0.00
+Cockshell et al.17, Cockshell 
+et al. (2014), De Luca et al.21, 
+Michiels et al.39, Vercoulen 
+et al.54
+California verbal learning test 
+short delay cued recall 4 177 173 − 0.21 0.11 − 0.422 to − 0.004 0.045 3.37 0.34 11.11
+Cockshell et al.17, Cockshell 
+et al. (2014), De Luca et al.21, 
+Vercoulen et al.54
+Weschler logical memory 2 4 98 79 − 0.43 0.15 − 0.729 to − 0.137 0.004 1.15 0.77 0.00
+Claypoole et al.15, De Luca 
+et al.21, Grafman et al.25, Tiersky 
+et al.52
+Weschler logical memory 1 6 141 122 − 0.41 0.12 − 0.651 to − 0.166 0.001 5.98 0.31 16.43
+Claypoole et al.15, De Luca 
+et al.21, Grafman et al.25, Krupp 
+et al.30, Short et al.49, Tiersky 
+et al.52
+Weschler verba paired associ-
+ates 2 2 42 39 − 0.29 0.22 − 0.727 to 0.138 0.182 1.74 0.19 42.67 Claypoole et al.15, Grafman 
+et al.25
+Weschler verba paired associ-
+ates 1 2 42 39 0.10 0.22 − 0.327 to 0.53 0.642 0.24 0.62 0.00 Claypoole et al.15, Grafman 
+et al.25
+Buschke selective reminding test
+Long term retrieval 2 64 55 − 0.64 0.19 − 1.005 to − 0.274 0.001 0.05 0.82 0.00 Michiels et al.40,41
+Delayed recall 3 75 73 − 0.58 0.17 − 0.908 to − 0.259 0.0001 1.13 0.57 0.00 Krupp et al.30, Marshall et al.35, 
+Michiels et al.40
+Long term storage 3 84 75 − 0.57 0.16 − 0.883 to − 0.256 0.0001 0.07 0.96 0.00 Marshall et al.35, Michiels 
+et al.40,41
+Delayed recognition 2 64 55 − 0.18 0.24 − 0.655 to 0.288 0.45 0.00 1.00 0.00 Michiels et al.40,41
+Rey auditory verbal learning test
+Total 8 2 52 37 − 0.80 0.22 − 1.233 to − 0.360 0.0001 0.63 0.43 0.00 Claypoole et al.15, Lawrie et al.31
+Total 7 4 118 73 − 0.68 0.15 − 0.978 to − 0.373 0.0001 2.51 0.47 0.00 Claypoole et al.15, Lawrie et al.31, 
+Neu et al.42, Robinson et al.44
+Recognition 3 96 51 − 0.49 0.18 − 0.832 to − 0.139 0.006 2.79 0.25 28.30 Lawrie et al.31, Neu et al.42, 
+Robinson et al.44
+Total 6 3 88 58 − 0.41 0.17 − 0.754 to − 0.075 0.017 2.10 0.35 4.96 Claypoole et al.15, Neu et al.42, 
+Robinson et al.44
+Total 1–5 4 118 73 − 0.41 0.15 − 0.707 to − 0.113 0.007 0.99 0.80 0.00 Claypoole et al.15, Lawrie et al.31, 
+Neu et al.42, Robinson et al.44
+Visual modality
+Rey Osterrieth complex figure 
+recall 3 min (Cotation b) 3 92 71 − 0.67 0.16 − 0.979 to − 0.351 0.0001 0.17 0.92 0.00 De Luca et al.21,22, Tiersky et al.52
+Rey Osterrieth complex figure 
+recall 20 min (Cotation b) 2 62 51 − 0.64 0.19 − 1.013 to − 0.263 0.001 0.10 0.75 0.00 De Luca et al.21,22
+Rey Osterrieth complex figure 
+recall 3 min (Cotation a) 5 196 198 − 0.22 0.10 − 0.421 to − 0.027 0.026 4.28 0.37 6.56
+Cockshell et al.17, Cockshell 
+et al. (2014), Claypoole et al.15, 
+Short et al.49, Vercoulen et al.54
+Rey Osterrieth complex figure 
+recall 20 min (Cotation a) 3 122 122 − 0.06 0.13 − 0.313 to 0.185 0.616 1.77 0.41 0.00 Cockshell et al.17, Cockshell 
+et al. (2014), Claypoole et al.15
+Spatial recogniton memory (%) 2 101 157 − 0.32 0.13 − 0.568 to − 0.066 0.013 0.46 0.50 0.00 Capuron et al.13, Majer et al.33
+Pattern recognition memory (%) 2 101 157 − 0.04 0.13 − 0.286 to 0.214 0.776 1.55 0.21 35.58 Capuron et al.13, Majer et al.33
+Visual reproduction 1 2 38 35 − 0.57 0.23 − 1.028 to − 0.107 0.016 0.97 0.32 0.00 Fiedler et al.24, Grafman et al.25
+Visual reproduction 2 2 38 35 − 0.47 0.23 − 0.924 to − 0.008 0.046 1.38 0.24 27.52 Fiedler et al.24, Grafman et al.25
+
+[W4210837925 PDF PAGE 11]
+11
+Vol.:(0123456789)Scientific Reports |         (2022) 12:2157  | https://doi.org/10.1038/s41598-021-04764-w
+www.nature.com/scientificreports/
+impairment of instrumental functions. Finally, from our meta-analysis, immediate visual memory, reaction time 
+and processing speed (reading and writing) seemed preferentially affected in ME/CFS patients, while attentional 
+capacities and episodic memory appeared affected less constantly.
+This heterogeneity also raises the question of the impact of unspecific factors as the levels of fatigue, pain and 
+depression on cognitive performances. Regarding fatigue, its impact on the cognitive symptomatology of ME/
+CFS is regularly discussed and  dismissed13,94. Interestingly, others studies dealing with multiple sclerosis came to 
+the same  conclusions95,96. Regarding depression, the impact of mood disturbance on cognitive abilities has been 
+widely studied and the most affected domains are the executive functions, attention, verbal working memory 
+and the speed of  treatment97–101. These observations are similar with regard to pain. The pain will monopolize 
+the attention of the patient and is the basis of ideal ruminations, which are very costly in terms of  attention102–104. 
+This “attentional cost" is proportional to pain intensity. Like depression, it will affect cognitive functions that 
+rely on a good level of attention, namely executive functions and short-term memory. In fact, the higher the 
+levels of pain and depression is, the higher the impact on cognitive symptoms is. This element could appear to 
+generate heterogeneity between patients in terms of expression of  symptoms105. Anyway, the neuropsychological 
+Table 9.  Executive functions: Hedge’s g effect sizes for each test, in descending order. TMT trail making test, 
+WAIS Wechsler adult intelligence scale, ME/CFS myalgic encephalomyelitis/chronic fatigue syndrome, N 
+number.
+Test name N studies N CFS N controls Hedges’g S.E 95% CI p value Q p I2 (%) Study references
+Planning
+Stockings of Cambridge 2 101 157 − 0.14 0.13 − 0.390 to 0.109 0.271 0.21 0.65 0.00 Capuron et al.13, Majer et al.33
+Flexibility
+TMT B 8 255 205 0.42 0.10 0.230–0.603 0.0001 5.06 0.65 0.00
+Claypoole et al.15, De Luca et al.21, 
+Kr

@@ -1,0 +1,165 @@
+
+
+REVIEW W2944727199
+TITLE: The neural correlates of well-being: A systematic review of the human neuroimaging and neuropsychological literature
+SOURCE_NOTES: []
+EXTRACTION_ERROR: None
+
+[W2944727199 PDF PAGE 1]
+The neural correlates of well-being: A systematic review
+of the human neuroimaging and neuropsychological literature
+Marcie L. King 1
+Published online: 6 May 2019
+# The Psychonomic Society, Inc. 2019
+Abstract
+What it means to be well and to achieve well-being is fundamental to the human condition. Scholars of many disciplines have
+attempted to define well-being and to investigate the behavioral and neural correlates of well-being. Despite many decades of
+inquiry into well-being, much remains unknown. The study of well-being has evolved over time, shifting in focus and method-
+ology. Many recent investigations into well-being have taken a neuroscientific approach to try to bolster understanding of this
+complex construct. A growing body of literature has directly examined the association between well-being and the brain. The
+current review synthesizes the extant literature regarding the neural correlates of trait-like well-being (i.e., the propensity to live
+according to one’s true nature). Although reported associations between well-being and the brain varied, some notable patterns
+were evidenced in the literature. In particular, the strongest and most consistent association emerged between well-being and the
+anterior cingulate cortex. In addition, patterns of association between well-being and the orbitofrontal cortex, posterior cingulate
+cortex, superior temporal gyrus, and thalamus emerged. These regions largely comprise the salience and default mode networks,
+suggesting a possible relationship between well-being and brain networks involved in the integration of relevant and significant
+stimuli. Various methodological concerns are addressed and recommendations for future research are discussed.
+Keywords Well-being . Neural correlates . Neuroimaging
+Introduction
+Well-being is a complex trait-like construct, referring to opti-
+mal functioning (Lyubomirsky, Sheldon, & Schkade, 2005;
+Ryan & Deci, 2001). For centuries, people have attempted to
+understand the essential features of well-being. Scholars dat-
+ing as far back as the ancient Greeks have postulated and
+theorized about what it means to be well and how to achieve
+well-being. In fact, the questionBwhat is well-being? ^ is ar-
+guably a central question of human self-awareness. As crea-
+tures with both the capacity to reflect on thoughts and actions
+and with the inclination to reduce broad concepts into small
+components that can be labeled, people have spent many years
+attempting to define well-being. However, given that well-
+being can be understood in the context of many domains of
+life (e.g., health, economics, social relations, politics) and can
+be examined from many points of view (e.g., individual, so-
+cietal), a parsimonious definition of well-being has yet to, and
+may never, emerge. While a simple definition of well-being
+may be elusive, rigorous examinations of well-being are crit-
+ical to our understanding of the construct.
+Despite a long-standing interest in well-being, the field of
+psychology has devoted much more time and attention to the
+investigation of human suffering and unhappiness than to the
+causes and consequences of positive functioning (Ryan &
+Deci,2001; Ryff, 1989). Generally, research focusing on the
+underpinnings of psychopathology has been most common in
+psychological literature. The past 60 years, however, have
+seen an increase in work examining well-being (Keyes,
+Shmotkin, & Ryff, 2002; Ryan & Deci, 2001;S e l i g m a n&
+Csikszentmihalyi, 2014). This move toward investigating
+well-being may be reflective of a growing awareness that
+well-being is not simply the absence of mental illness.
+The same asymmetry in the study of well-being evident in
+psychology exists in the field of neuroscience. Whereas thou-
+sands of studies have investigated the neural correlates of
+psychopathology, far fewer studies have investigated the
+Electronic supplementary material The online version of this article
+(https://doi.org/10.3758/s13415-019-00720-4) contains supplementary
+material, which is available to authorized users.
+* Marcie L. King
+Marcie-king@uiowa.edu
+1 Department of Psychological and Brain Sciences, University of
+Iowa, W311 Seashore Hall, Iowa City, IA 52242, USA
+Cognitive, Affective, & Behavioral Neuroscience (2019) 19:779–796
+https://doi.org/10.3758/s13415-019-00720-4
+
+[W2944727199 PDF PAGE 2]
+neural correlates of well-being. Just as elucidating the neural
+correlates of mental illness has been critically important to
+understanding psychopathology and in the development of
+interventions for mental illness, so too will elucidating the
+neural correlates of well-being be critically important to un-
+derstanding what it means to be well and to enhancing well-
+being. The purpose of the current review is to systematically
+investigate the relationship between well-being and the brain,
+reviewing the small but growing body of neuroscientific re-
+search examining the neural correlates of well-being.
+Investigating well-being
+Investigations of well-being have been largely guided by two
+streams of inquiry into the question of what it means to lead a
+Bgood life ^ (Keyes et al., 2002; Ryan & Deci, 2001).
+Historically, a common framework for understanding well-
+being distinguishes between hedonic well-being (hedonia),
+which can be traced back to the Greek philosophers
+Aristippus (435-366 BCE) and Epicurus (342– 270 BCE)
+(Peterson, Park, & Seligman, 2005), and eudaimonic well-
+being ( eudaimonia), which can be traced back to Aristotle
+(384-322 BCE) (Bradburn, 1969; Waterman, 1984;R y f f ,
+1989). From a hedonic well-being perspective, a good life
+(translated by many as simply Bhappiness^) is the totality of
+ap e r s o n’s pleasurable moments (Ryan & Deci, 2001). From a
+eudaimonic well-being perspective, a good life, or
+Bhappiness,^ is not a consequence of satisfying appetites and
+feeling good, but instead stems from Bactivity of the soul in
+accordance with perfect virtue ^ (Ross/Aristotle, 1925, p.11).
+Both hedonic and eudaimonic traditions of well-being have
+perpetuated throughout history. Religious leaders, political
+thinkers, philosophers, and scientists alike have used these
+perspectives of well-being as foundations for further theoriz-
+ing on what it means to live well and how to achieve well-
+being. The terms most frequently used in the contemporary
+investigation of well-being in the fields of psychology and
+neuroscience include subjective well-being and psychological
+well-being and are thought to stem from hedonic and
+eudaimonic traditions of well-being, respectively.
+The construct of subjective well-being is operationalized as
+consisting of three separable components: positive affect, lack of
+negative affect, and satisfaction with life (Andrews & Withey,
+1976; Lucas, Diener, & Suh,1996). Although subjective well-
+b e i n gi sf r a m e da st h eBnew hedonic psychology,^ this approach
+to well-being actually focuses on a much broader conceptualiza-
+tion of hedonism which includes preferences and pleasures of
+both the mind and the body and includes cognitive judgments
+about the good and bad elements of life (Disabato et al., 2016;
+Diener, Emmons, Larsen, & Griffin, 1985; Kahneman, Diener,
+&S c h w a r z ,1999; Ryan & Deci, 2001).
+Psychological well-being provides a theory-driven formu-
+lation of well-being, integrating aspects of the Bgood life ^
+postulated by Aristotle with perspectives of positive psycho-
+logical functioning, such as Maslow’s( 1968) conception of
+self-actualization, Rogers’s( 19 61 ) understanding of the fully
+functioning person, Jung’s( 1933) theory of individuation, and
+Allport’s( 1961)t h e o r yo fm a t u r i t y .P s y c h o l o g i c a lw e l l - b e i n g
+is operationalized along six dimensions: self-acceptance, pur-
+pose in life, personal growth, positive relations with others,
+environmental mastery, and autonomy (Ryff, 1989).
+While subjective well-being and psychological well-being
+stem from hedonic and eudaimonic traditions of well-being
+and often are studied independently of one another, over time
+they have become less distinct. Current models of well-being
+suggest that subjective well-being and psychological well-
+being are highly correlated and lack discriminant validity
+(Disabato et al., 2016; Keyes et al., 2002). Measures of well-
+being often are categorized by their author ’sa sr e f l e c t i n ga
+hedonic or eudaimonic approach to the construct; however,
+rigidly differentiating between these constructs may not be
+meaningful and may further confuse an already complex con-
+cept. In a review conducted by Cooke, Melchert, & Connor
+(2016), the authors examined various well-being measures
+falling within four categories of conceptualizations of well-
+being: hedonic well-being, eudaimonic well-being, quality
+of life, and wellness. The authors identified 42 well-being
+measurement instruments, capturing 30 dimensions of posi-
+tive functioning. Broadly, measures tapped into psychologi-
+cal, psychobiological (e.g., health and physical), and psycho-
+social well-being. The authors found that measures varied
+significantly in terms of their explicit operationalization of
+the constructs they were trying to assess. Although some di-
+mensions of well-being, such as life satisfaction, positive af-
+fect, and positive relations with others, were more commonly
+tapped into than others, no single domain was identified in
+more than 50% of the instruments. Noting the high degrees
+of divergence in measurement instruments both between and
+within theoretical categories (e.g., hedonic, eudaimonic),
+Cooke et al. ( 2016) concluded that B… there is little or no
+consensus as to what constitutes well-being and how it should
+be measured^ (p. 748). This supports the stance that, at this
+stage of investigation, it may be more meaningful to investi-

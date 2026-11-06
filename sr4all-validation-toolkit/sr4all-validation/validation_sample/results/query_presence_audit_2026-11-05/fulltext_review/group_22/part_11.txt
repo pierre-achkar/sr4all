@@ -1,0 +1,189 @@
+ employed 
+for individual programs and learners. In our review of the 
+literature since 2017, when the ACGME mandated that programs 
+include wellness-specific programming, we found eight 
+published studies that describe implementation of interventions 
+designed to improve resident wellness in EM residency 
+programs. The majority of studies describe small convenience 
+samples of EM residents from single training programs and used 
+the satisfaction rates of participants as primary outcome data. 
+While the majority of outcomes are modest in size and limited 
+in impact, these studies demonstrate encouraging pilot data to 
+inform larger scale studies. 
+Expert consensus supports the development of a more 
+comprehensive model in order to effect positive change. 
+One such model proposed by the National Academy of 
+Medicine Model of Clinician Well-Being describes seven 
+important factors: society and culture; rules and regulations; 
+organizational factors; learning and practice environment; 
+healthcare responsibilities; personal factors; and skills and 
+abilities.12 Only the last two factors are considered intrinsic to 
+the individual. Although the majority of interventions studied 
+focus on individual factors, a few also included sociocultural 
+factors and the learning and practice environment. Aside 
+from the limited number of factors mentioned, none of the 
+interventions addressed systems-based challenges, such as 
+the EHR, clerical burden, initial licensure and maintenance of 
+certification, litigation risk, or regulatory requirements. These 
+are areas that are ripe for additional investigation. 
+Our review of the literature suggests a need for a more 
+diverse field of interventions that aim to mitigate the risk of 
+burnout and promote resident engagement. The current literature 
+supports a comprehensive and longitudinal focus on physician 
+well-being that begins in residency training and emphasizes 
+environmental factors, more specifically the following: that 
+programs create and employ interventions to promote well-being; 
+enact systems to better recognize depression, stress and burnout 
+among residents; and fortify trainees in building resilience. 
+Supportive experiences and healthy coping skills learned during 
+training produce resilient residents and pave the way for career 
+longevity and professional satisfaction. 
+High-quality published research studies of measurable 
+outcomes with large samples of learners are needed to inform 
+educators about which wellness interventions improve trainee 
+outcomes. These studies are time and labor intensive, and 
+would be supported and facilitated by dedicated grant funding 
+for wellness research from national organizations and local 
+entities. Our systematic review of wellness initiatives suggests 
+that the next steps toward understanding how to meaningfully 
+impact trainee wellness are to support multi-institutional studies, 
+randomized controlled trials, and qualitative studies to further 
+explore the phenomenon of wellness in medical education, and 
+opportunities for funded research.
+ 
+LIMITATIONS
+The search window of articles published since January 1, 
+2017, is narrow and we may not have captured relevant wellness 
+Assessment tool Description
+Brief Resident 
+Wellness Profile23
+Mood faces graphical rating item 
+and 6-question subscale designed 
+to measure resident’s sense of 
+professional accomplishment and mood
+Perceived Wellness 
+Scale24
+36-item survey measuring an individual’s 
+perception of their own wellness
+Short Form Health 
+Survey (SF)25
+8-item abbreviated version (SF-8) of a 
+generic 36-item, health-related quality of 
+life survey instrument
+Maslach Burnout 
+Inventory26
+22-item survey measuring burnout along 
+three subscales: emotional exhaustion, 
+depersonalization, lack of personal 
+achievement
+Table 2. Assessment tools used to evaluate intervention 
+effectiveness.
+
+[W3119904516 PDF PAGE 8]
+V olume 22, no. 1: January 2021 13 Western Journal of Emergency Medicine
+Chung et al. Wellness Interventions in EM Residency Programs since 2017
+interventions published prior to that date. However, this date 
+is significant as it marks the year when the ACGME Common 
+Program Requirements began to mandate wellness initiatives for 
+residency program accreditation. The goal of this literature review 
+was to identify the highest quality published evidence and is not 
+meant to be a comprehensive review of all interventions. We did 
+not include a review of abstracts or the gray literature, such as 
+conference proceedings, reports, or dissertations, as we wished 
+to capture the best-studied and most effective interventions as 
+reflected in peer-reviewed manuscript publication.
+The methodology described within this small pool of 
+literature is limited; thus, we were unable to draw definitive 
+conclusions regarding the overall effectiveness and 
+generalizability of interventions. Although the Kirkpatrick 
+model is widely accepted as a method of categorizing 
+educational outcomes, the level of outcome that matters may 
+vary depending on the study aim. For educational concepts 
+where learner reactions and perceptions are the outcome 
+of interest, Level 1 outcomes may be the “best” outcomes 
+to measure; thus, Kirkpatrick levels are not a definitive 
+hierarchy of quality. The majority of studies described small 
+convenience samples of EM residents from single training 
+programs and used the satisfaction rates of participants as 
+primary outcome data. Additionally, none of the studies we 
+identified primarily used qualitative methods of assessment, 
+which offer a richer understanding of resident experiences and 
+can serve to guide the focus of quantitative studies.
+ 
+CONCLUSION
+Despite the increased attention to EM resident wellness, 
+there currently exists only a modest number of published studies 
+describing wellness interventions for EM residents with variable 
+outcome data primarily focused on participant satisfaction. 
+This review of the literature reflects a need for scholarship of 
+EM resident wellness to extend beyond the current focus on 
+individual factors to an emphasis on environmental factors, and 
+rigorous evaluations of outcomes-driven interventions.
+Address for Correspondence: Arlene Chung, MD, Maimonides 
+Medical Center, Department of Emergency Medicine, 4802 Tenth 
+Ave, Brooklyn, NY 11219. Email: Arlene.Chung@gmail.com.
+Conflicts of Interest: By the WestJEM article submission agreement, 
+all authors are required to disclose all affiliations, funding sources 
+and financial or management relationships that could be perceived 
+as potential sources of bias. No author has professional or financial 
+relationships with any companies that are relevant to this study. 
+There are no conflicts of interest or sources of funding to declare.
+Copyright: © 2021 Chung et al. This is an open access article 
+distributed in accordance with the terms of the Creative Commons 
+Attribution (CC BY 4.0) License. See: http://creativecommons.org/
+licenses/by/4.0/
+REFERENCES
+1. Kuhn G, Goldberg R, Compton S. Tolerance for uncertainty, burnout, 
+and satisfaction with the career of emergency medicine. Ann Emerg 
+Med. 2009;54(1):106-13.
+2. Rischall ML, Chung AS, Tabatabai R, et al. Emergency medicine 
+resident shift work preferences: a comparison of resident scheduling 
+preferences and recommended schedule design for shift workers. 
+AEM Educ Train. 2018;2:229-35.
+3. Takayesu JK, Ramoska EA, Clark TR, et al. Factors associated with 
+burnout during emergency medicine residency. Acad Emerg Med. 
+2014;21(9):1031-5.
+4. Shanafelt TD, Dyrbye LN, Sinsky C, et al. Relationship between 
+clerical burden and characteristics of the electronic environment with 
+physician burnout and professional satisfaction. Mayo Clin Proc. 
+2016;91(7):836-48.
+5. Hull SK, DiLalla LF, Dorsey JK. Prevalence of health-related 
+behaviors among physicians and medical trainees. Acad Psychiatry. 
+2008;32(1):31-8.
+6. Min AA, Sbarra DA, Keim SM. Sleep disturbances predict prospective 
+declines in resident physicians’ psychological wellbeing. Med Educ 
+Online. 2015;20(1).
+7. IsHak WW, Lederer S, Mandili C, et al. Burnout during residency 
+training: a literature review. J Grad Med Educ. 2009;1(2):236-42.
+8. Hu YY, Ellis RJ, Hewitt DB, et al. Discrimination, abuse, harassment, 
+and burnout in surgical residency training. N Engl J Med. 
+2019;381:1741-52.
+9. Ratanawongsa N, Wright SM, Carrese JA. Well-being in residency: 
+effects on relationships with patients, interactions with colleagues, 
+performance and motivation. Patient Educ Couns. 2008;72(2):194-200.
+10. Lin M, Battaglioli N, Melamed M, et al. High prevalence of burnout 
+among US emergency Medicine residents: results from the 2017 
+National Emergency Medicine Wellness Survey. Ann Emerg Med. 
+2019; 74(5):682-90.
+11. Summary of Changes to ACGME Common Program Requirements 
+Section VI. Accreditation Council for Graduate Medical Education 
+website. Available at: https://www.acgme.org/What-We-Do/
+Accreditation/Common-Program-Requirements/Summary-of-
+Proposed-Changes-to-ACGME-Common-Program-Requirements-
+Section-VI. Accessed on May 16, 2020.
+12. Factors affecting clinician well-being and resilience: conceptual 
+model. National Academy of Medicine Clinician Well-Being 
+Knowledge Hub website. Available at: https://nam.edu/
+clinicianwellbeing/resources/factors-affecting-clinician-well-being-
+and-resilience-conceptual-model/. Accessed on May 16, 2020.
+13. Cook and West. Conducting systematic reviews in medical education: 
+a stepwise approach. Med Educ. 2012;46:943-52.
+14. Common Program Requirements. June 10, 2018. Accreditation 
+Council for Graduate Medical Education website. Available at: 
+https://www.acgme.org/Portals/0/PFAssets/ProgramRequirements/
+CPRResidency2019.pdf. Accessed on May 16, 2020.
+15. Castillo J, Chang BP, Choe J, Carter WA. Trainees and faculty 
+
+[W3119904516 PDF PAGE 9]
+Western Journal of Emergency Medicine 14 V olume 22, no. 1: January 2021
+Wellness Interventions in EM Res

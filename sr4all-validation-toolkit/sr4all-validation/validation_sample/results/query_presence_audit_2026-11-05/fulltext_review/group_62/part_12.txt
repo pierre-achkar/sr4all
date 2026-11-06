@@ -1,0 +1,159 @@
+v. 2021;72:101464.
+ 93. Cavieres VA, González A, Muñoz VC, et al. Tetrahydrohyperforin 
+inhibits the proteolytic processing of amyloid precursor protein and 
+enhances its degradation by Atg5‑dependent autophagy. PLoS ONE. 
+2015;10:e0136313.
+ 94. Nilsson P , Sekiguchi M, Akagi T, et al. Autophagy‑related protein 7 defi‑
+ciency in amyloid β (Aβ) precursor protein transgenic mice decreases 
+Aβ in the multivesicular bodies and induces Aβ accumulation in the 
+Golgi. Am J Pathol. 2015;185:305–13. https:// doi. org/ 10. 1016/j. ajpath. 
+2014. 10. 011.
+ 95. Morais GP , de Sousa Neto IV, Veras ASC, et al. Chronic exercise protects 
+against cognitive deficits in an Alzheimer’s disease model by enhancing 
+autophagy and reducing mitochondrial abnormalities. Mol Neurobiol. 
+2025. https:// doi. org/ 10. 1007/ s12035‑ 025‑ 05066‑2.
+ 96. Peña‑Martinez C, Rickman AD, Heckmann BL. Beyond autophagy: LC3‑
+associated phagocytosis and endocytosis. Sci Adv. 2022;8:eabn1702. 
+https:// doi. org/ 10. 1126/ sciadv. abn17 02.
+ 97. Raut S, Patel R, Al‑Ahmad AJ. Presence of a mutation in PSEN1 or PSEN2 
+gene is associated with an impaired brain endothelial cell pheno‑
+type in vitro. Fluids Barriers CNS. 2021;18: 3. https:// doi. org/ 10. 1186/ 
+s12987‑ 020‑ 00235‑y.
+
+[W4413867217 PDF PAGE 40]
+Page 40 of 42Yuan et al. Chinese Medicine          (2025) 20:138 
+ 98. Park JM, Lee DH, Kim DH. Redefining the role of AMPK in autophagy 
+and the energy stress response. Nat Commun. 2023;14:2994. https:// 
+doi. org/ 10. 1038/ s41467‑ 023‑ 38401‑z.
+ 99. Paquette M, Houjeiri L, L CZ, et al. AMPK‑dependent phosphorylation 
+is required for transcriptional activation of TFEB and TFE3. Autophagy. 
+2021;17:3957–75. https:// doi. org/ 10. 1080/ 15548 627. 2021. 18987 48.
+ 100. Guo H, Ouyang Y, Yin H, et al. Induction of autophagy via the ROS‑
+dependent AMPK‑mTOR pathway protects copper‑induced spermato‑
+genesis disorder. Redox Biol. 2022;49:102227. https:// doi. org/ 10. 1016/j. 
+redox. 2021. 102227.
+ 101. Ahsan AU, Sharma VL, Wani A, et al. Naringenin upregulates AMPK‑
+mediated autophagy to rescue neuronal cells from β‑amyloid (1–42) 
+evoked neurotoxicity. Mol Neurobiol. 2020;57:3589–602.
+ 102. Inden M, Takagi A, Kitai H, et al. Kaempferol has potent protective and 
+antifibrillogenic effects for α‑synuclein neurotoxicity in vitro. Int J Mol 
+Sci. 2021;22:11484.
+ 103. Li M, Cai N, Gu L, et al. Genipin attenuates Tau phosphorylation and 
+Aβ levels in cellular models of Alzheimer’s disease. Mol Neurobiol. 
+2021;58:4134–44.
+ 104. Lin R, Rao S, Li Y, et al. Conjugation of tacrine with genipin derivative 
+not only enhances effects on AChE but also leads to autophagy against 
+Alzheimer’s disease. Eur J Med Chem. 2021;211:113067.
+ 105. Kim S, Nam Y, Shin SJ, et al. Genipin and pyrogallol: two natural small 
+molecules targeting the modulation of disordered proteins in Alzhei‑
+mer’s disease. Biomed Pharmacother. 2023;168:115770.
+ 106. Wani A, Al Rihani SB, Sharma A, et al. Crocetin promotes clearance of 
+amyloid‑β by inducing autophagy via the STK11/LKB1‑mediated AMPK 
+pathway. Autophagy. 2021;17:3813–32.
+ 107. Curnock R, Yalci K, Palmfeldt J, et al. TFEB‑dependent lysosome biogen‑
+esis is required for senescence. EMBO J. 2023;42:e111241. https:// doi. 
+org/ 10. 15252/ embj. 20221 11241.
+ 108. Fu X, Liu Y, Zhang H, et al. Pseudoginsenoside F11 ameliorates the 
+dysfunction of the autophagy‑lysosomal pathway by activating 
+calcineurin‑mediated TFEB nuclear translocation in neuron during 
+permanent cerebral ischemia. Exp Neurol. 2021;338:113598. https:// doi. 
+org/ 10. 1016/j. expne urol. 2021. 113598.
+ 109. Zhou F, Zhang X, Jiang L, et al. Pseudoginsenoside F11 enhances 
+the viability of random‑pattern skin flaps by promoting TFEB nuclear 
+translocation through AMPK‑mTOR signal pathway. Front Pharmacol. 
+2021;12:667524.
+ 110. Li J, Yang D, Li Z, et al. PINK1/Parkin‑mediated mitophagy in neurode‑
+generative diseases. Ageing Res Rev. 2023;84:101817. https:// doi. org/ 
+10. 1016/j. arr. 2022. 101817.
+ 111. Ning Z, Zhong X, Wu Y, et al. Β‑asarone improves cognitive impairment 
+and alleviates autophagy in mice with vascular dementia via the cAMP/
+PKA/CREB pathway. Phytomedicine. 2024;123:155215. https:// doi. org/ 
+10. 1016/j. phymed. 2023. 155215.
+ 112. Wang N, Wang H, Li L, et al. Β‑asarone inhibits amyloid‑β by promot‑
+ing autophagy in a cell model of Alzheimer’s disease. Front Pharmacol. 
+2019;10:1529. https:// doi. org/ 10. 3389/ fphar. 2019. 01529.
+ 113. Li Z, Ma J, Kuang Z, et al. β‑Asarone attenuates aβ‑induced neuronal 
+damage in PC12 cells overexpressing APPswe by restoring autophagic 
+flux. Front Pharmacol. 2021;12:701635.
+ 114. Pareja‑Cajiao M, Gransee HM, Stowe JM, et al. Age‑related impair‑
+ment of autophagy in cervical motor neurons. Exp Gerontol. 
+2021;144:111193. https:// doi. org/ 10. 1016/j. exger. 2020. 111193.
+ 115. Vucicevic L, Misirkic M, Ciric D, et al. Transcriptional block of AMPK‑
+induced autophagy promotes glutamate excitotoxicity in nutrient‑
+deprived SH‑SY5Y neuroblastoma cells. Cell Mol Life Sci. 2020;77:3383–
+99. https:// doi. org/ 10. 1007/ s00018‑ 019‑ 03356‑2.
+ 116. Arab HH, Khames A, Alsufyani SE, et al. Targeting the endoplasmic 
+reticulum stress‑linked PERK/GRP78/CHOP pathway with magnesium 
+sulfate attenuates chronic‑restraint‑stress‑induced depression‑like 
+neuropathology in rats. Pharmaceuticals. 2023. https:// doi. org/ 10. 3390/ 
+ph160 20300.
+ 117. Zha Z, Xiao D, Liu Z, et al. Endoplasmic reticulum stress induces ROS 
+production and activates NLRP3 inflammasome via the PERK‑CHOP 
+signaling pathway in dry eye disease. Invest Ophthalmol Vis Sci. 
+2024;65:34. https:// doi. org/ 10. 1167/ iovs. 65. 14. 34.
+ 118. Piovesana E, Magrin C, Ciccaldo M, et al. Tau accumulation in degrada‑
+tive organelles is associated to lysosomal stress. Sci Rep. 2023;13:18024.
+ 119. Wang B, Martini‑Stoica H, Qi C, et al. TFEB–vacuolar ATPase signaling 
+regulates lysosomal function and microglial activation in tauopathy. 
+Nat Neurosci. 2024;27:48–62.
+ 120. Rose K, Jepson T, Shukla S, et al. Tau fibrils induce nanoscale membrane 
+damage and nucleate cytosolic tau at lysosomes. Proc Natl Acad Sci 
+USA. 2024;121:e2315690121.
+ 121. Lee Y, Miller MR, Fernandez MA, et al. Early lysosome defects precede 
+neurodegeneration with amyloid‑β and tau aggregation in NHE6‑null 
+rat brain. Brain. 2022;145:3187–202.
+ 122. Takahashi H, Bhagwagar S, Nies SH, et al. Reduced progranulin increases 
+tau and α‑synuclein inclusions and alters mouse tauopathy phenotypes 
+via glucocerebrosidase. Nat Commun. 2024;15:1434.
+ 123. Islam MI, Nagakannan P , Shcholok T, et al. Regulatory role of cathepsin L 
+in induction of nuclear laminopathy in Alzheimer’s disease. Aging Cell. 
+2022;21:e13531.
+ 124. Qiao L, Hu J, Qiu X, et al. LAMP2A, LAMP2B and LAMP2C: similar struc‑
+tures, divergent roles. Autophagy. 2023;19:2837–52. https:// doi. org/ 10. 
+1080/ 15548 627. 2023. 22351 96.
+ 125. Li Z, Lai M, Li J, et al. RAB7A GTPase is involved in mitophagosome for‑
+mation and autophagosome‑lysosome fusion in N2a cells treated with 
+the prion protein fragment 106–126. Mol Neurobiol. 2023;60:1391–407.
+ 126. Lo CH, Zeng J. Defective lysosomal acidification: a new prognostic 
+marker and therapeutic target for neurodegenerative diseases. Transl 
+Neurodegener. 2023;12:29.
+ 127. Chaudhry N, Sica M, Surabhi S, et al. Lamp1 mediates lipid trans‑
+port, but is dispensable for autophagy in Drosophila. Autophagy. 
+2022;18:2443–58. https:// doi. org/ 10. 1080/ 15548 627. 2022. 20389 99.
+ 128. Yang X, Wang Z, Xie S, et al. JEV infection leads to dysfunction of 
+lysosome by downregulating the expression of LAMP1 and LAMP2. 
+Vet Microbiol. 2024;295:110150. https:// doi. org/ 10. 1016/j. vetmic. 2024. 
+110150.
+ 129. Zhang H, Xie X, Shi J, et al. 3, 14, 19‑triacetyl andrographolide alleviates 
+the cognitive dysfunction of 3 × Tg‑AD mice by inducing initiation 
+and promoting degradation process of autophagy. Phytother Res. 
+2023;37:410–23. https:// doi. org/ 10. 1002/ ptr. 7619.
+ 130. Chandra S, Roy A, Jana M, et al. Cinnamic acid activates PPARα to 
+stimulate lysosomal biogenesis and lower amyloid plaque pathology in 
+an Alzheimer’s disease mouse model. Neurobiol Dis. 2019;124:379–95. 
+https:// doi. org/ 10. 1016/j. nbd. 2018. 12. 007.
+ 131. Corpas R, Griñán‑Ferré C, Rodríguez‑Farré E, et al. Resveratrol induces 
+brain resilience against Alzheimer neurodegeneration through proteo‑
+stasis enhancement. Mol Neurobiol. 2019;56:1502–16.
+ 132. Bai L, Liu R, Wang R, et al. Attenuation of Pb‑induced Aβ generation and 
+autophagic dysfunction via activation of SIRT1: neuroprotective proper‑
+ties of resveratrol. Ecotoxicol Environ Saf. 2021;222:112511.
+ 133. Liu X, Baxley S, Hebron M, et al. Resveratrol attenuates CSF markers of 
+neurodegeneration and neuroinflammation in individuals with Alzhei‑
+mer’s disease. Int J Mol Sci. 2025. https:// doi. org/ 10. 3390/ ijms2 61150 44.
+ 134. Soto‑Huelin B, Babiy B, Pastor O, et al. Ellagic acid and its metabolites 
+urolithins A/B ameliorate most common disease phenotypes in cellular 
+and mouse models for lysosomal storage disorders by enhancing 
+extracellular vesicle secretion. Neurobiol Dis. 2023;182:106141.
+ 135. Hou Y, Chu X, Park JH, et al. Urolithin A improves Alzheimer’s disease 
+cognition and restores mitophagy and lysosomal functions. Alzheimers 
+Dement. 2024;20:4212–33. https:// doi. org/ 10. 1002/ alz. 13847.
+ 136. Xie Y, Ba L, Wang M, et al. Chronic sleep fragmentation shares 
+similar pathogenesis with neurodegenerative diseases: endosome‑
+autophagosome‑lysosome pathway dysfunction and microglia‑medi‑
+ated neuroinflammation. CNS Neurosci Ther. 2020;26:215–27.
+ 137. Yun HR, Jo YH, Kim J, et al. Roles of autophagy in oxidative stress. Int J 
+Mol Sci. 2020;21:3289.
+ 138. Jomova K, Raptova R, Alomar SY, et al. Reactive oxygen species, toxicity, 
+oxidative stress, and antioxidants: chronic diseases and aging. Arch Toxi‑
+col. 2023;97:2499–574. https:// doi. org/ 10. 1007/ s00204‑ 023‑ 0

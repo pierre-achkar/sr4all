@@ -1,0 +1,200 @@
+ the incorrect 
+assumption that surveillance also aims to detect distant 
+metastases and that breast cancer cannot recur in between 
+scheduled visits [10]. Importantly, overall LRR and SPBC 
+risks are low and largely differ among individual patients 
+[11, 12]. This is expected to lead to unnecessary surveil -
+lance visits for many patients and perhaps too little visits for 
+specific high-risk patients.
+While surveillance often consists of a one-size-fits-all 
+approach, a large variation in aftercare is present, as this is 
+often arranged according to both clinicians’ and patients’ 
+preferences. It depends on the hospital which health care 
+provider is involved (e.g. surgeon, specialised nurse [13]) 
+and whether they make use of prescheduled consultations. 
+Health care providers are also looking for appropriate tools 
+they can use to personalise aftercare [13]. In addition, there 
+are no guidelines on the specific contents of aftercare plans, 
+resulting in unmet supportive care needs regarding fear of 
+cancer recurrence, daily activity and sexual and psychologi-
+cal well-being [14].
+Both these arguments and the fact that an increasing num-
+ber of breast cancer survivors will receive follow-up care, 
+lead to an increasing belief that surveillance and aftercare 
+should be personalised [15–17]. However, clear evidence is 
+needed about the effectiveness of both personalised surveil-
+lance and aftercare. The aim of this review was to identify all 
+studies published from 2010 that investigated the effective-
+ness of personalised surveillance and/or aftercare in cura-
+tively treated nonmetastatic breast cancer patients.
+Methods
+This review’s protocol has been registered and made avail-
+able in PROSPERO [18] (CRD42022375770). The Preferred 
+Reporting Items for Systematic Reviews and Meta-Analy -
+ses (PRISMA) 2020 checklist [19] was used for transparent 
+reporting (Online Resource 1–2).
+
+[W4396599116 PDF PAGE 3]
+Supportive Care in Cancer (2024) 32:323 
+ Page 3 of 20 323
+Search strategy
+Databases of PubMed, Scopus (including Medline and key-
+words of Embase) and Cochrane were searched for relevant 
+publications between January 1st, 2010, and November 
+10th, 2022. Reference lists of relevant reviews were con-
+sulted. Studies published before 2010 were excluded, as we 
+expected these to be less relevant for current clinical prac-
+tice. The full search strategy is shown in Online Resource 3.
+Eligibility criteria
+The study population concerned nonmetastatic breast cancer 
+patients ≥ 18 years, starting follow-up after completion of 
+curative treatment (surgery and, if applicable, radiotherapy 
+and/or chemotherapy). Patients could still be treated with 
+endocrine therapy or targeted therapy. We included all 
+intervention-control studies studying personalised surveil-
+lance and/or aftercare, including any intervention tailored 
+to a patient’s individual characteristics and designed to be 
+used for the entire follow-up period. Studies that investigated 
+the effectiveness of short-term dietary, physical interven-
+tions, cognitive behavioural therapy or psychoeducational 
+interventions, which were not part of a larger interven-
+tion designed for use during the entire follow-up period, 
+were therefore excluded. We included studies on all out-
+comes, except for diagnostic accuracy, feasibility or patient 
+experiences of the intervention only, without evaluating 
+effectiveness.
+Inclusion and data extraction
+Two reviewers (JvH, MvM) independently screened and 
+judged all identified studies on title and abstract. In case 
+of doubt or disagreement, the study was included for full-
+text analysis. Both reviewers independently read the full 
+text and decided on definite inclusion. Discrepancies were 
+extensively discussed and resolved. Co-authors were con-
+sulted if necessary. Final data extraction was performed by 
+one reviewer (MvM), and the second reviewer (JvH) was 
+consulted in case of doubts. In case of missing or unclear 
+information on interventions, the study’s first author was 
+consulted. Data on population, intervention, control and out-
+comes were extracted. As multiple types of interventions and 
+outcomes were studied, the data is presented descriptively.
+Risk of bias
+To assess risk of bias (ROB) of included studies, the 
+Cochrane risk of bias tool for randomised (RoB2) [20] or 
+nonrandomised studies (ROBINS-I) [21] were used, when-
+ever applicable. ROB assessment was independently per -
+formed by two reviewers, and discrepancies were discussed.
+Results
+The search strategy yielded 3708 publications. Sixty-four 
+publications were deemed eligible for full-text analysis. 
+After full-text reading, 16 were included for data extrac -
+tion. Reasons for the exclusion of the other 48 studies were 
+(1) no intervention designed for the entire follow-up, (2) 
+no control group, (3) no effectiveness measured (feasibility 
+studies) and (4) intervention not personalised. Examples 
+of excluded studies are Wallner et al. [22], Haq et al. [23] 
+and Admiraal et al. [24], because they studied feasibility 
+only, did not use a control group, and studied a short-term 
+psychoeducational intervention (so did not personalise the 
+entire follow-up period), respectively. The entire selection 
+is visualised in Fig.  1. The 16 studies finally included are 
+summarised in Table  1. Fifteen studies presented results 
+of randomised controlled trials (RCTs) and one study of a 
+pretest–posttest design. Three studies concerned the same 
+RCT [ 25–27] but with different outcome assessments 
+(longer follow-up or cost-effectiveness analyses), so were 
+considered different studies in further analysis.
+Populations
+All studies included nonmetastatic breast cancer patients 
+who completed primary treatment, except for adjuvant tar -
+geted or endocrine therapy. Two studies focused on very 
+specific populations. The first included Latina breast can-
+cer patients with a deficit in either cancer screening (PAP 
+smear or colonoscopy) or a positive comorbidity screening 
+[35]. The second only included hormonal receptor-positive 
+breast cancer patients ≥ 50 years old undergoing endocrine 
+therapy [36]. One study included multiple cancer types 
+[37].
+Interventions
+Interventions could consist of the use of personalised after -
+care plans or a combined surveillance and aftercare plans, 
+either or not supplemented with (1) educational or counsel-
+ling sessions, (2) active support by patient navigators and/or 
+(3) monitoring patient-reported outcomes (PROs).
+Personalised surveillance
+Although nine out of 16 studies included general recom-
+mended surveillance guidelines in aftercare plans [25– 29, 
+31, 32, 34, 39], only one study evaluated a form of person-
+alised surveillance [31]: all patients were dissuaded from 
+scheduling routine follow-up visits and received suggestions 
+
+[W4396599116 PDF PAGE 4]
+ Supportive Care in Cancer (2024) 32:323
+323 Page 4 of 20
+for visits that could be postponed based on their aftercare 
+plan (including personal tumour and treatment history).
+Personalised aftercare
+Aftercare often concerned a plan containing general infor -
+mation supplemented with personalised information. Of all 
+16 studies, 12 incorporated personalised treatment summa-
+ries [6, 25–29, 31–34, 38, 39], six contained lists of avail-
+able supportive care resources [25– 27, 29, 31, 39], four 
+incorporated PRO measures (PROMS) [30, 34, 36, 37], two 
+contained reminders on next follow-up dates [6 , 38], one 
+contained a general guide for people treated for cancer [28] 
+and one contained, additional to a complete overview of 
+individual patient-, tumour- and treatment-related details, 
+information on the medical care team, potential side effects, 
+dates of recent visits, current medications, barriers, upcom-
+ing appointments and libraries with further information [39].
+Five studies additionally included a 30-min to 1-h edu-
+cational session with a nurse and/or nutritionist [25– 28, 
+33]. This sometimes consisted of an explanation that 
+follow-up care was now the responsibility of the primary 
+care physician [25– 27], and mostly included additional 
+information on the contents of a general aftercare plan. 
+One study included motivational interviewing to engage 
+patients in the development of a patient-owned aftercare 
+plan [32].
+One study included active support by patient naviga -
+tors providing patients personalised assistance including 
+phone calls, home visits, transportation assistance and care 
+coordination, and help with practical things [35]. In three 
+studies, patients regularly met/called with a patient naviga-
+tor, nurse practitioner or a physician assistant at predefined 
+intervals [31, 34, 35].
+Two studies integrated PROMs evaluating symptoms, 
+followed by telephone consults [30] or visits with a nurse 
+or physician assistant [ 34]. One study had no mandatory 
+consultations, but regularly collected PROs that were 
+used as screening and dialogue tool [36]. Two studies 
+included web-based applications, one supporting cancer 
+survivors in self-management by monitoring symptoms 
+and QoL, providing feedback and personalised supportive 
+care options [37], and one included tailored information 
+on treatment and side effects and included push notifica-
+tions to remind women to take medicine (e.g. endocrine 
+therapy), participate in a module or seek remedies for side 
+effects [6 ].
+Fig. 1  Flow chart of inclu-
+sion of publications. *Includ-
+ing Medline and keywords of 
+Embase. **Including studies 
+focusing on short-term dietary, 
+cognitive behavioural, physical 
+or psychoeducational interven-
+tions and interventions applied 
+during active treatment
+
+
+[W4396599116 PDF PAGE 5]
+Supportive Care in Cancer (2024) 32:323 
+ Page 5 of 20 323
+Table 1  Detailed overview of included publications with the most important study characteristics
+Authors and 
+reference
+Type of personalised 
+intervention and 
+design
+N Patients Intervention Control Outcome(s) Conclusion(s) Risk of bias
+Grunfeld et al. 
+[26]

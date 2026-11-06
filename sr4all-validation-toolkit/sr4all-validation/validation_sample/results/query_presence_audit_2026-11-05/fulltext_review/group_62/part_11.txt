@@ -1,0 +1,162 @@
+1;71: 101444. https:// doi. org/ 10. 1016/j. arr. 2021. 101444.
+ 49. McAlpine CS, Park J, Griciuc A, et al. Astrocytic interleukin‑3 programs 
+microglia and limits Alzheimer’s disease. Nature. 2021;595:701–6. 
+https:// doi. org/ 10. 1038/ s41586‑ 021‑ 03734‑6.
+ 50. Parhizkar S, Holtzman DM. APOE mediated neuroinflammation 
+and neurodegeneration in Alzheimer’s disease. Semin Immunol. 
+2022;59:101594. https:// doi. org/ 10. 1016/j. smim. 2022. 101594.
+ 51. Huang YK, Liu CC, Wang S, et al. The role of aldose reductase in beta‑
+amyloid‑induced microglia activation. Int J Mol Sci. 2022. https:// doi. 
+org/ 10. 3390/ ijms2 32315 088.
+ 52. Chen Y, Yu Y. Tau and neuroinflammation in Alzheimer’s disease: 
+interplay mechanisms and clinical translation. J Neuroinflammation. 
+2023;20:165. https:// doi. org/ 10. 1186/ s12974‑ 023‑ 02853‑3.
+ 53. Park MW, Cha HW, Kim J, et al. Nox4 promotes ferroptosis of astrocytes 
+by oxidative stress‑induced lipid peroxidation via the impairment 
+of mitochondrial metabolism in Alzheimer’s diseases. Redox Biol. 
+2021;41:101947. https:// doi. org/ 10. 1016/j. redox. 2021. 101947.
+ 54. Beura SK, Dhapola R, Panigrahi AR, et al. Redefining oxidative stress in 
+Alzheimer’s disease: targeting platelet reactive oxygen species for novel 
+therapeutic options. Life Sci. 2022;306:120855. https:// doi. org/ 10. 1016/j. 
+lfs. 2022. 120855.
+ 55. Nie Y, Chu C, Qin Q, et al. Lipid metabolism and oxidative stress in 
+patients with Alzheimer’s disease and amnestic mild cognitive impair‑
+ment. Brain Pathol. 2024;34: e13202. https:// doi. org/ 10. 1111/ bpa. 13202.
+ 56. Gowda P , Reddy PH, Kumar S. Deregulated mitochondrial microRNAs 
+in Alzheimer’s disease: focus on synapse and mitochondria. Ageing Res 
+Rev. 2022;73:101529. https:// doi. org/ 10. 1016/j. arr. 2021. 101529.
+ 57. Dewanjee S, Chakraborty P , Bhattacharya H, et al. Altered glucose 
+metabolism in Alzheimer’s disease: role of mitochondrial dysfunction 
+and oxidative stress. Free Radic Biol Med. 2022;193:134–57. https:// doi. 
+org/ 10. 1016/j. freer adbio med. 2022. 09. 032.
+ 58. Hung C, Fertan E, Livesey FJ, et al. App antisense oligonucleotides 
+reduce amyloid‑β aggregation and rescue endolysosomal dysfunction 
+in Alzheimer’s disease. Brain. 2024;147:2325–33. https:// doi. org/ 10. 
+1093/ brain/ awae0 92.
+ 59. Hellén M, Weert I, Müller SA, et al. Inflammation‑induced lysosomal 
+dysfunction in human iPSC‑derived microglia is exacerbated by APOE 
+
+[W4413867217 PDF PAGE 39]
+Page 39 of 42
+Yuan et al. Chinese Medicine          (2025) 20:138 
+ 
+4/4 genotype. J Neuroinflamm. 2025;22:147. https:// doi. org/ 10. 1186/ 
+s12974‑ 025‑ 03470‑y.
+ 60. Zhang J‑j, Chen K‑c, Zhou Y, et al. Evaluating the effects of mitochon‑
+drial autophagy flux on ginsenoside Rg2 for delaying D‑galactose 
+induced brain aging in mice. Phytomedicine. 2022;104:154341.
+ 61. Ballesteros‑Álvarez J, Nguyen W, Sivapatham R, et al. Urolithin A reduces 
+amyloid‑beta load and improves cognitive deficits uncorrelated with 
+plaque burden in a mouse model of Alzheimer’s disease. Geroscience. 
+2023;45:1095–113. https:// doi. org/ 10. 1007/ s11357‑ 022‑ 00708‑y.
+ 62. Comerota MM, Gedam M, Xiong W, et al. Oleoylethanolamide facilitates 
+PPARα and TFEB signaling and attenuates Aβ pathology in a mouse 
+model of Alzheimer’s disease. Mol Neurodegener. 2023;18:56. https:// 
+doi. org/ 10. 1186/ s13024‑ 023‑ 00648‑x.
+ 63. Han J, Ji Y, Youn K, et al. Baicalein as a potential inhibitor against BACE1 
+and AChE: mechanistic comprehension through in vitro and compu‑
+tational approaches. Nutrients. 2019. https:// doi. org/ 10. 3390/ nu111 
+12694.
+ 64. Xie Z, Zhao J, Wang H, et al. Magnolol alleviates Alzheimer’s disease‑like 
+pathology in transgenic C. elegans by promoting microglia phagocyto‑
+sis and the degradation of beta‑amyloid through activation of PPAR‑γ. 
+Biomed Pharmacother. 2020;124:109886.
+ 65. Gao LJ, Li P , Ma T, et al. Ligustilide alleviates neurotoxicity in SH‑SY5Y 
+cells induced by Aβ(25–35) via regulating endoplasmic reticulum stress 
+and autophagy. Phytother Res. 2021;35:1572–84. https:// doi. org/ 10. 
+1002/ ptr. 6925.
+ 66. Hassan HM, Elnagar MR, Abdelrazik E, et al. Neuroprotective effect of 
+naringin against cerebellar changes in Alzheimer’s disease through 
+modulation of autophagy, oxidative stress and tau expression: an 
+experimental study. Front Neuroanat. 2022;16:1012422.
+ 67. Liu Z, Cecarini V, Cuccioloni M, et al. Ginsenosides Rg1 and Rg2 activate 
+autophagy and attenuate oxidative stress in neuroblastoma cells over‑
+expressing Aβ(1–42). Antioxidants. 2024. https:// doi. org/ 10. 3390/ antio 
+x1303 0310.
+ 68. Lepiarz‑Raba I, Gbadamosi I, Florea R, et al. Metabolic regulation of 
+microglial phagocytosis: implications for Alzheimer’s disease thera‑
+peutics. Transl Neurodegener. 2023;12: 48. https:// doi. org/ 10. 1186/ 
+s40035‑ 023‑ 00382‑w.
+ 69. Fairley LH, Lai KO, Wong JH, et al. Mitochondrial control of microglial 
+phagocytosis by the translocator protein and hexokinase 2 in Alzhei‑
+mer’s disease. Proc Natl Acad Sci USA. 2023;120: e2209177120. https:// 
+doi. org/ 10. 1073/ pnas. 22091 77120.
+ 70. Sanchez‑Mico MV, Jimenez S, Gomez‑Arboledas A, et al. Amyloid‑β 
+impairs the phagocytosis of dystrophic synapses by astrocytes in Alz‑
+heimer’s disease. Glia. 2021;69:997–1011. https:// doi. org/ 10. 1002/ glia. 
+23943.
+ 71. Zadka Ł, Sochocka M, Hachiya N, et al. Endocytosis and Alzheimer’s 
+disease. Geroscience. 2024;46:71–85.
+ 72. Park TE, Singh B, Li H, et al. Enhanced BBB permeability of osmotically 
+active poly(mannitol‑co‑PEI) modified with rabies virus glycoprotein 
+via selective stimulation of caveolar endocytosis for RNAi therapeutics 
+in Alzheimer’s disease. Biomaterials. 2015;38:61–71. https:// doi. org/ 10. 
+1016/j. bioma teria ls. 2014. 10. 068.
+ 73. Moulton MJ, Barish S, Ralhan I, et al. Neuronal ROS‑induced glial lipid 
+droplet formation is altered by loss of Alzheimer’s disease‑associated 
+genes. Proc Natl Acad Sci U S A. 2021. https:// doi. org/ 10. 1073/ pnas. 
+21120 95118.
+ 74. Wiatrak B, Piasny J, Kuźniarski A, et al. Interactions of amyloid‑β with 
+membrane proteins. Int J Mol Sci. 2021;22:6075.
+ 75. Li J, Li M, Ge Y, et al. β‑amyloid protein induces mitophagy‑dependent 
+ferroptosis through the CD36/PINK/PARKIN pathway leading to blood‑
+brain barrier destruction in Alzheimer’s disease. Cell Biosci. 2022;12:69. 
+https:// doi. org/ 10. 1186/ s13578‑ 022‑ 00807‑5.
+ 76. Smith SM, Smith CJ. Capturing the mechanics of clathrin‑mediated 
+endocytosis. Curr Opin Struct Biol. 2022;75: 102427.
+ 77. Pocock J, Vasilopoulou F, Svensson E, et al. Microglia and TREM2. 
+Neuropharmacology. 2024;257: 110020. https:// doi. org/ 10. 1016/j. neuro 
+pharm. 2024. 110020.
+ 78. Zheng L, Jia J, Chen Y, et al. Pentoxifylline alleviates ischemic white 
+matter injury through up‑regulating Mertk‑mediated myelin 
+clearance. J Neuroinflamm. 2022;19:128. https:// doi. org/ 10. 1186/ 
+s12974‑ 022‑ 02480‑4.
+ 79. Grubman A, Choo XY, Chew G, et al. Transcriptional signature in 
+microglia associated with Aβ plaque phagocytosis. Nat Commun. 
+2021;12:3015. https:// doi. org/ 10. 1038/ s41467‑ 021‑ 23111‑1.
+ 80. Teter B, Morihara T, Lim GP , et al. Curcumin restores innate immune 
+Alzheimer’s disease risk gene expression to ameliorate Alzheimer 
+pathogenesis. Neurobiol Dis. 2019;127:432–48. https:// doi. org/ 10. 
+1016/j. nbd. 2019. 02. 015.
+ 81. Shin JH, Park M, et al. Cyanidin‑3‑O‑glucoside regulates the M1/M2 
+polarization of microglia via PPARγ and Aβ42 phagocytosis through 
+TREM2 in an Alzheimer’s disease model. Mol Neurobiol. 2022;59:5135–
+48. https:// doi. org/ 10. 1007/ s12035‑ 022‑ 02873‑9.
+ 82. Baek H, Park M, et al. Cyanidin‑3‑O‑glucoside protects the brain and 
+improves cognitive function in APPswe/PS1ΔE9 transgenic mice model. 
+J Neuroinflamm. 2023;20:268.
+ 83. Jung MJ, Kim N, Jeon SH, et al. Eugenol relieves the pathological 
+manifestations of Alzheimer’s disease in 5×FAD mice. Phytomedicine. 
+2023;118: 154930. https:// doi. org/ 10. 1016/j. phymed. 2023. 154930.
+ 84. Wang W, Wang Y, Wang F, et al. Gastrodin regulates the TLR4/TRAF6/
+NF‑κB pathway to reduce neuroinflammation and microglial activation 
+in an AD model. Phytomedicine. 2024;128: 155518. https:// doi. org/ 10. 
+1016/j. phymed. 2024. 155518.
+ 85. Li L, Wu XH, Zhao XJ, et al. Zerumbone ameliorates behavioral impair‑
+ments and neuropathology in transgenic APP/PS1 mice by suppressing 
+MAPK signaling. J Neuroinflamm. 2020;17:61. https:// doi. org/ 10. 1186/ 
+s12974‑ 020‑ 01744‑1.
+ 86. Su Q, Li T, He PF, et al. Trichostatin a ameliorates Alzheimer’s disease‑
+related pathology and cognitive deficits by increasing albumin expres‑
+sion and Aβ clearance in APP/PS1 mice. Alzheimers Res Ther. 2021;13: 7. 
+https:// doi. org/ 10. 1186/ s13195‑ 020‑ 00746‑8.
+ 87. Jo KW, Lee D, Cha DG, et al. Gossypetin ameliorates 5xFAD spatial 
+learning and memory through enhanced phagocytosis against 
+Aβ. Alzheimers Res Ther. 2022;14: 158. https:// doi. org/ 10. 1186/ 
+s13195‑ 022‑ 01096‑3.
+ 88. Weng W, Lin B, Zheng J, et al. Novel application of cycloastragenol 
+target microglia for the treatment of Alzheimer’s disease: evidence from 
+single‑cell analysis, network pharmacology and experimental assess‑
+ment. Phytomedicine. 2025;139: 156502. https:// doi. org/ 10. 1016/j. 
+phymed. 2025. 156502.
+ 89. Secker C, Motzny AY, Kostova S, et al. The polyphenol EGCG directly tar‑
+gets intracellular amyloid‑β aggregates and promotes their lysosomal 
+degradation. J Neurochem. 2023. https:// doi. org/ 10. 1111/ jnc. 15842.
+ 90. Festa BP , Barbosa AD, Rob M, et al. The pleiotropic roles of autophagy 
+in Alzheimer’s disease: from pathophysiology to therapy. Curr Opin 
+Pharmacol. 2021;60:149–57.
+ 91. Hamano T, Enomoto S, Shirafuji N, et al. Autophagy and tau protein. Int 
+J Mol Sci. 2021. https:// doi. org/ 10. 3390/ ijms2 21474 75.
+ 92. Zhang Z, Yang X, Song Y‑Q, et al. Autophagy in Alzheimer’s disease 
+pathogenesis: Therapeutic potential and future perspectives. Ageing 
+Res Re

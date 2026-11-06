@@ -1,0 +1,634 @@
+tudy 
+16 phytosterols were selected in this study and the structures were 
+obtained using chimera  software table 1. The drug -likeness 
+parameters like molecular weight and size , melting and boiling 
+points, hydrogen bonding will determine the pharmacological 
+behaviour a compound in aspects of its bioavailability, toxicity, 
+metabolic activity,  etc. Molinspiration cheminformatics tool is 
+employed to evaluate the drug likeness properties of the selected 
+phytosterol compounds  [32]. The “ drug likeness” is defined as the 
+balance between molecular and structural properties of a chemical 
+compound that determines whether that compou nd is considered as 
+a “drug”  [33]. Log P value  is calculated for all the 16 selected 
+compounds. The positive log P value indicates that the lipophilic 
+nature (need to cross BBB).  Most of the compounds exhibited high 
+logP values indicating better lipophilic nature;  except digitonin has 
+negative value and 5 other compounds have log P values less than 5.  
+The water solubility values  of all the compounds were  found to be 
+negative; thus indicating their low hydrophilic nature table 2. 
+Swiss ADME software is employed in order to understand the 
+pharmacokinetic and toxicity parameters of a lead compound in the 
+initial drug discovery process itself so as to avoid hindrances in the 
+later stages [34]. The ADME/Toxicity properties depend on the  
+physicochemical parameters namely lipophilicity (logP), molecular 
+weight, polar surface area , molar refractivity and  water solubility. 
+The intestinal absorption of orally active drug like compound is 
+mostly assessed by Caco -2 cell model and MDCK (Madin Darby 
+canine kidney) cell.  The results of  Caco-2 model were almost 
+compatible with the standard human intestinal absorption values. 
+The blood brain barrier penetration of a compound explains its 
+therapeutic ability in the central nervous syste m; whereas, drug 
+efficacy and disposition is well explained by the in vitro plasma 
+protein binding model.  Most of the compounds have their plasma 
+protein binding values lo w; thus indicating their free distribution 
+nature. Formulation  and ease of handling of a chemical compound 
+depends on its water solubility. Oral absorption of a drug is 
+proportional to its water solubility; while, a parenteral drug must be 
+highly water soluble to deliver its active constituents in small 
+volumes. All the PSs shows negative values and hence moderately 
+water soluble table 2. 
+ 
+Table 1: Physical properties 
+Plant 
+steroids 
+Structure  Molecular 
+formula 
+Molecular 
+weight 
+Synonym  Log p Boiling 
+point  
+Melting 
+point  
+Phase 
+of the 
+study 
+Therapeutic 
+uses 
+Campester
+ol [1] 
+ 
+C28H48O 400.7 Campesterin
+, Campest-5-
+en-3beta-ol, 
+Ergost-5-en-
+3-beta-ol 
+9.972 489.00 
+to 
+490.00 
+°C 
+157.5 °C Observa
+tional 
+studies 
+[2, 3] 
+Diagnosis of 
+sitosterolemia 
+[4], for the 
+prevention of 
+cancers and 
+cardio metabolic 
+diseases [5], 
+cholesterol 
+absorption 
+biomarker [6] 
+Ergosterol 
+[7] 
+ 
+C28H44O 396.6 Provitamin 
+D2, 
+Ergosterin, 
+ergosta-
+5,7,22-trien-
+3-ol 
+8.86 250 °C 
+at 0.01 
+mmHg 
+170 °C  Biological 
+precursor of 
+vitamin D2, 
+antirachitic 
+vitamin  
+Stigmaster
+ol [8] 
+ 
+C29H48O 412.7 Beta-
+stigmasterol
+, stigmasta-
+5,22-dien-3-
+ol, 
+stigmasterin 
+9.43 501.1±1
+9.0 °C at 
+760 
+mmHg 
+170 °C Animal 
+study 
+[9], 
+observa
+tional 
+human 
+studies 
+[10-12] 
+Cholesterol 
+lowering 
+activity, anti-
+inflammatory 
+action [13], anti-
+oxidant action 
+[10] 
+Beta-
+Sitosterol 
+[14] 
+ 
+C29H50O 414.7 Beta-
+sitosterol, 
+Cupreol, 
+cinchol, 
+harzol, 
+Rhamnol, 
+Azuprostat, 
+Prostatol, 
+sobatum,  
+beta-
+sitosterin 
+10.48
+2 
+498 to 
+501 °C 
+@760 
+mmHg 
+143.5 °C Animal 
+studies 
+[15], 
+observa
+tional 
+human 
+studies 
+[16-19] 
+Anti-oxidant 
+activity, anti-
+cancer property 
+[15], mitigation 
+of benign 
+prostatic 
+hyperplasia 
+[18], cholesterol 
+lowering 
+activity [17]. 
+
+
+[W4309548759 PDF PAGE 3]
+J. B. Dudekula et al. 
+Int J App Pharm, Vol 14, Issue 6, 2022, 9-17 
+11 
+Plant 
+steroids 
+Structure  Molecular 
+formula 
+Molecular 
+weight 
+Synonym  Log p Boiling 
+point  
+Melting 
+point  
+Phase 
+of the 
+study 
+Therapeutic 
+uses 
+Brassicaste
+rol [20] 
+ 
+C28H46O 398.7 Brassicasteri
+n, ergosta-
+5,22E-dien-
+3-ol 
+9.679 488 to 
+489 
+°C@760 
+mmHg 
+150-
+151 °C 
+In vitro 
+and in 
+silico 
+studies 
+[21] 
+Anti-infective 
+property, 
+cerebrospinal 
+fluid biomarker 
+for Alzheimer’s 
+disease [22] 
+Sarsasapog
+enin [23] 
+ 
+C27H44O3 416.6 Parigenin, 
+Sarsagenin, 
+Sarsapogeni
+ne 
+6.210 516.60 
+°C 
+@760 
+mmHg 
+200-
+201.5 °C 
+In vitro 
+studies 
+[24] 
+Anti-tumor and 
+anti-depressant 
+activity [24], 
+anti-
+amyloidogenic 
+action in 
+Alzheimer [25] 
+Cucurbitaci
+n B [26] 
+ 
+C32H46O8 558.7 Amarine, 
+Datisca 
+principle B, 
+Cucurbitacin 
+B hydrate 
+ 546.74 
+°C 
+184-
+186 °C 
+In vitro 
+and in 
+vivo [27, 
+28] 
+Anticancer 
+activity [28, 29], 
+inhibits colon 
+cancer [27] 
+Diosgenin 
+[30] 
+ 
+C27H42O3 414.6 Nitogenin, 
+dioscoreasa
+pogenin, 
+3beta-
+hydroxy-5-
+spirostene 
+6.602 527.11 
+°C 
+205.5 °C observa
+tional 
+human 
+studies 
+[31-33] 
+Anticancer 
+activity, anti-
+inflammatory 
+and, anti-
+infective activity 
+[34], 
+neuroprotective 
+action in 
+Alzheimer’s and 
+Parkinson 
+disease, 
+enhances 
+cognitive 
+function [35] 
+Ginsenosid
+e Rg1 [36] 
+ 
+C42H72O14 801.0 Sanchinosid
+e C1, 
+Panaxoside 
+A, 
+dammarane,
+-D-
+glucopyrano
+side 
+1.670 902.70 
+°C @ 
+760 
+mmHg 
+315-
+318 °C 
+In vitro 
+studies[
+37] 
+Antidiabetic 
+effect, anti-
+inflammatory, 
+hepatoprotectiv
+e and 
+Neuroprotective
+, Anti-
+angiopathy[37] 
+Hecogenin 
+[38] 
+ 
+C27H42O4 430.6 Hocogenin 4.22 548.9±5
+0 °C at 
+760 
+mmHg 
+266.5 °C Animal 
+studies 
+[39] 
+Anti-helminthic 
+activity [39], 
+anti-oxidant, 
+anti-
+inflammatory 
+action and 
+gastro 
+protective 
+action [40] 
+Jervine 
+[41] 
+ 
+C27H39O3 425.6 Iervin, 
+Jerwiny, 11-
+Ketocyclopa
+mine  
+3.46 592.5±5
+0 °C at 
+760 
+mmHg 
+243.5-
+244.5 °C 
+In vitro 
+studies 
+It is teratogen 
+that inhibits 
+smoothened an 
+integral part of 
+hedgehog 
+signalling 
+pathways [42] 
+
+
+[W4309548759 PDF PAGE 4]
+J. B. Dudekula et al. 
+Int J App Pharm, Vol 14, Issue 6, 2022, 9-17 
+12 
+Plant 
+steroids 
+Structure  Molecular 
+formula 
+Molecular 
+weight 
+Synonym  Log p Boiling 
+point  
+Melting 
+point  
+Phase 
+of the 
+study 
+Therapeutic 
+uses 
+Peiminine 
+[43] 
+ 
+C27H43NO3 429.6 Verticinone, 
+Fritillarine, 
+Zhebeinone, 
+Raddeanine, 
+Kashmirine, 
+peininine 
+4.011 567±50 
+°C at 
+760 
+mmHg 
+212-
+213 °C 
+In vitro 
+studies 
+[44, 45] 
+Acts as chemo 
+sensitizer for 
+Adriamycin in 
+gastric cancer 
+[44],  
+Guggulster
+one [46, 
+47] 
+ 
+C21H28O2 312.45 Guggulstero
+nes EandZ 
+3.65 463.3±4
+5 °C at 
+760 
+mmHg 
+ 
+E 
+isomer-
+170-
+171 °C 
+Z 
+isomer-
+188-
+190 °C 
+ 
+Observa
+tional 
+and 
+Animal 
+study 
+[48, 49] 
+Provides 
+cardiovascular 
+protective effect 
+by its 
+hypolipidemic, 
+anti-
+inflammatory 
+and anti-oxidant 
+action [50], anti-
+cancer property 
+[49] 
+Digoxin 
+[51] 
+ 
+C41H64O14 780.9 Lanoxin, 
+digacin, 
+davoxin, 
+digosin, 
+cardiogoxin, 
+rougoxin, 
+cordioxil, 
+eudigox, 
+lanacrist, 
+vanoxin 
+2.37 931.60 
+°C 
+@760.0 
+mmHg 
+230-
+265 °C 
+Observa
+tional 
+studies 
+[52-56] 
+For treatment of 
+atrial 
+fibrillation[54] 
+chronic heart 
+failure [53] 
+Digitoxin 
+[57] 
+ 
+C41H64O13 764.9 Digitoxoside
+, unidigin, 
+Digitoksin, 
+cardidigin, 
+carditoxin, 
+coramedan, 
+crystodigin, 
+carditalin, 
+digitalin, 
+digitrin 
+1.85 902± °C 
+at 760 
+mmHg 
+493 to 
+495 °F 
+256-
+257 °C 
+(anhydr
+ous) 
+Observa
+tional 
+studies 
+[58-60], 
+In vitro 
+studies 
+and 
+animal 
+study 
+[61] 
+Antiarrhythmic 
+agent [60], 
+treatment for 
+congestive heart 
+failure [58, 59] 
+Digitonin 
+[62] 
+ 
+C56H92O29 1229.3 Digitin 230-
+240 °C 
+788.4 °C 446 to 
+464 °F 
+In vitro 
+studies 
+[63-66] 
+Biological 
+detergent 
+[65], induces 
+membrane 
+permeability 
+[63] 
+ 
+Table 2: In silico predicted properties 
+S. 
+No. 
+Plant steroids Human 
+intestinal 
+absorption 
+CaCo-2 Bioavailab
+ility score 
+Ames 
+mutagen
+esis 
+Water solubility 
+Log S 
+Plasma 
+protein 
+biding 
+(100%) 
+Acute oral 
+toxicity 
+(Kg/mol) 
+Molar 
+refractivit
+y 
+Lipophilicyity 
+Log PO/W 
+(WLOGP) 
+1 Campesterol 0.9930 0.6088 0.585 0.8600 -4.81  
+Moderately soluble  
+1.109 3.138 128.42 7.63 
+2 Ergosterol 0.9950 0.6576 0.542 0.8400 -4.692 moderately 
+soluble  
+1.018 3.706 127.47 7.33 
+3 Stigmasterol 0.9914 0.5455 0.5571 0.8300 -4.703 
+Moderately soluble 
+1.185 3.285 132.75 7.80 
+4 Sitosterol 0.9930 0.5385 0.5286 0.8700 -4.703 
+Poorly soluble 
+1.124 3.414 133.23 8.02 
+5 Brassicasterol 0.9914 0.6076 0.5714 0.8700 -4.692 
+Moderately soluble 
+1.116 3.195 127.95 7.41 
+6 Sarsasapogeni
+n 
+0.9294 0.5138 0.5429 0.8100 -5.182  
+Moderately soluble 
+0.941 3.252 122.07 5.79 
+
+
+[W4309548759 PDF PAGE 5]
+J. B. Dudekula et al. 
+Int J App Pharm, Vol 14, Issue 6, 2022, 9-17 
+13 
+S. 
+No. 
+Plant steroids Human 
+intestinal 
+absorption 
+CaCo-2 Bioavailab
+ility score 
+Ames 
+mutagen
+esis 
+Water solubility 
+Log S 
+Plasma 
+protein 
+biding 
+(100%) 
+Acute oral 
+toxicity 
+(Kg/mol) 
+Molar 
+refractivit
+y 
+Lipophilicyity 
+Log PO/W 
+(WLOGP) 
+7 Cucurbitacin B 0.9895 0.7257 0.6571 0.7200 -4.504 Moderately 
+soluble 
+1.008 5.214 150.94 3.50 
+8 Diosgenin 0.9482 0.5112 0.6143 0.9100 -6.909 
+Moderately soluble 
+1.039 2.97 121.59 5.71 
+9 Ginsenoside 0.6476 0.8777 0.7571 0.7400 -4.303 0.853 3.993 205.81 1.12 
+10 Hecogenin 0.9357 0.5126 0.6429 0.7800 -4.59 
+Moderately soluble 
+0.774 3.012 122.27 4.97 
+11 Jervine 0.9789 0.5523 0.5143 0.6700 -3.999 
+Moderately soluble 
+0.96 3.327 127.21 3.80 
+12 Peiminine 0.9638 0.5621 0.5857 0.7000 -2.445 Soluble  1.008 3.332 128.33 3.51 
+13 Gugglusterone 0.9950 0.8896 0.5714 0.9500 -4.367 0.976 2.922 93.54 4.64 
+14 Digoxin  0.8851 0.9372 0.7143 0.7400 -4.336 Soluble 0.536 5.056 196.10 2.22 
+15 Digitoxin 0.8851 0.9257 0.8286 0.7500 -5.066 Soluble 1.055 5.237 194.94 3.25 
+16 Digitonin -0.7034 0.8742 0.7571 0.7529 -3.414 0.733 5.015 280.34 -6.50 
+ 
+Table 3: Experimental pharmacokinetics 
+S. 
+No. 
+Phytoste
+roids 
+AUC Cmax Tmax t1/2 Volume 
+of 
+distribut
+ion 
+Clearance Species Route 
+of 
+admini
+stration 
+No. of 
+subject
+s (n) 
+Dose Bioavai
+lability 
+1 Campeste
+rol [69] 
+AUC 0-t 
+120±46.1

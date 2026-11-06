@@ -1,0 +1,241 @@
+
+
+REVIEW W2770469834
+TITLE: Equivalent analgesic effectiveness between perineural and intravenous dexamethasone as adjuvants for peripheral nerve blockade: a systematic review and meta-analysis
+SOURCE_NOTES: [{"annotator": "arno", "field": "keywords_used", "comment": "\"The full search strategy can be viewed in\nAppendix A (available as Electronic Supplemental\nMaterial\""}, {"annotator": "pierre", "field": "keywords_used", "comment": "The main PDF says that MeSH was used to identify search terms and keyword combinations, but it does not list the actual terms; the full strategy is referred to only in unavailable Appendix A."}]
+EXTRACTION_ERROR: None
+
+[W2770469834 PDF PAGE 1]
+REVIEW ARTICLE/BRIEF REVIEW
+Equivalent analgesic effectiveness between perineural and
+intravenous dexamethasone as adjuvants for peripheral nerve
+blockade: a systematic review and meta-analysis
+E´ quivalence de l’efﬁcacite´ analge´sique entre la dexame´thasone
+administre´e par voie pe´rinerveuse vs intraveineuse en tant
+qu’adjuvant a` un bloc du nerf pe´riphe´rique : revue syste´matique
+et me´ta-analyse
+Nasir Hussain, MSc, MD . Tom Van den Langenbergh, MD . Corey Sermer, MSc .
+Manuel L. Fontes, MD . Amit Atrey, MSc, MD, FRCS . Naum Shaparin, MD .
+Tamara R. Sawyer, MSHAL, MLIS, AHIP . Amaresh Vydyanathan, MD
+Received: 12 April 2017 / Accepted: 2 November 2017 / Published online: 21 November 2017
+/C211 Canadian Anesthesiologists’ Society 2017
+Abstract
+Purpose Dexamethasone is commonly used as an adjuvant
+to local anesthetics for peripheral nerve blockade; however,
+uncertainty persists regarding its optimal route of
+administration and safety. A systematic review and meta-
+analysis of randomized-controlled trials (RCTs) was
+conducted to compare the incremental beneﬁts of
+intravenous (IV) vs perineural (PN) dexamethasone when
+used as adjuvants for peripheral nerve blockade to improve
+analgesia.
+Sources A search strategy was developed to identify
+eligible articles from the Cochrane and National Library
+of Medicine databases from inception until June 2017. The
+National Center for Biotechnology Information Medical
+Subject Headings browser thesaurus was used to identify
+search terms and combinations of keywords. Any clinical
+trial that randomly allocated adult patients ( ‡ 18 yr old) to
+receive either IV or PN dexamethasone for peripheral
+nerve blockade was considered for inclusion.
+Principal ﬁndings After full-text screening of potentially
+eligible articles, 14 RCTs were included in this review.
+Overall, the use of PN dexamethasone did not provide a
+signiﬁcant incremental beneﬁt to the duration of analgesia
+[ratio of means (ROM), 1.23; Hartung-Knapp-Sidik-
+Jonkman (HKSJ) 95% conﬁdence interval (CI), 0.85 to
+1.85; P = 0.23] or to motor block duration (ROM, 1.14;
+HKSJ 95% CI, 0.98 to 1.31; P = 0.07). Also, at 24-hr
+follow-up, there was no signiﬁcant difference between the
+two groups regarding pain scores (standardized mean
+difference, 0.36; HKSJ 95% CI, -0.08 to 0.80; I 2 = 75%;
+P = 0.09) and cumulative opioid consumption (mean
+difference, 5.23 mg; HKSJ 95% CI, -4.60 to 15.06; P =
+0.15). Lastly, no long-term nerve-related complications
+were observed with the use of PN dexamethasone.
+Conclusions The results of our meta-analysis suggest that
+PN and IV dexamethasone provide equivalent analgesic
+Electronic supplementary material The online version of this
+article (https://doi.org/10.1007/s12630-017-1008-8) contains supple-
+mentary material, which is available to authorized users.
+N. Hussain, MSc, MD ( &) /C1T. R. Sawyer, MSHAL, MLIS,
+AHIP
+Central Michigan University College of Medicine, CMED
+Building, 1280 S. East Campus St, Mt. Pleasant, MI 48859, USA
+e-mail: nasir.hussain@cmich.edu
+T. Van den Langenbergh, MD
+West Suffolk NHS Foundation Trust, Suffolk, England
+C. Sermer, MSc
+Faculty of Medicine, University of Toronto, Toronto, ON,
+Canada
+M. L. Fontes, MD
+Department of Anesthesiology, Yale School of Medicine, New
+Haven, CT, USA
+A. Atrey, MSc, MD, FRCS
+Department of Orthopaedics, St. Michael’s Hospital, Toronto,
+ON, Canada
+N. Shaparin, MD /C1A. Vydyanathan, MD
+Department of Anesthesia, Monteﬁore Medical Center, Bronx,
+NY, USA
+123
+Can J Anesth/J Can Anesth (2018) 65:194–206
+DOI 10.1007/s12630-017-1008-8
+
+[W2770469834 PDF PAGE 2]
+beneﬁts and have similar safety proﬁles, when used as
+adjuvants, for peripheral nerve blockade.
+Re´sume´
+Objectif La dexame´thasone est fre´quemment utilise´e comme
+adjuvant aux anesthe´siques locaux pour comple´ter les blocs
+nerveux pe´riphe´riques; toutefois, sa voie d’administration
+optimale et son innocuite ´ demeurent inconnues. Une revue
+syste´matique et une me ´ta-analyse des e´tudes randomise´es
+controˆle´es (ERC) ont e ´te´r e´alise´es aﬁn de comparer les
+avantages distinctifs de la dexame ´thasone administre´e par
+voie intraveineuse (IV) vs pe ´rinerveuse (PN) lorsque ces
+modalite´s sont utilise´es comme adjuvants a` un bloc nerveux
+pe´riphe´rique pour ame´liorer l’analge´sie.
+Source Une strate´gie de recherche a e´te´ mise au point aﬁn
+d’identiﬁer les articles e´ligibles dans les bases de donne ´es
+Cochrane et de la National Library of Medicine depuis leur
+cre´ation et jusqu’au mois de juin 2017. Le the ´saurus du
+navigateur de descripteurs me ´dicaux (termes MeSH) du
+Centre national pour les renseignements biotechnologiques
+ame´ricain (National Center for Biotechnology
+Information) a e ´te´ utilise´ aﬁn d’identiﬁer les termes de
+recherche et les combinaisons de mots-cle ´s. Le crite `re
+d’inclusion de notre e ´tude e´tait tout essai clinique ayant
+alloue´ ale´atoirement des patients adultes (a ˆge´s de 18 ans
+ou plus) a` recevoir de la dexame ´thasone IV ou PN pour un
+bloc nerveux pe´riphe´rique.
+Constatations principales Apre`s une lecture du texte
+inte´gral des articles potentiellement e ´ligibles, 14 ERC ont
+e´te´ incluses dans cette revue. Globalement, l’utilisation de
+dexame´thasone PN n’a pas procure ´ d’avantage
+supple´mentaire signiﬁcatif en matie `re de dure ´e de
+l’analge´sie [rapport de moyennes (RM), 1,23; intervalle de
+conﬁance (IC) 95 % de Hartung-Knapp-Sidik-Jonkman
+(HKSJ), 0,85 a` 1,85; P = 0,23] ou de dure ´e du bloc moteur
+(RM, 1,14; IC 95 % HKSJ, 0,98 a` 1,31; P = 0,07). En outre, au
+suivi de 24 h, il n’y avait aucune diffe´rence signiﬁcative entre
+les deux groupes en matie`re de scores de douleur (diffe´rence
+moyenne standardise´e, 0,36; IC 95 % HKSJ, -0,08 a`0 , 8 0 ;I2 =
+75 %; P = 0,09) et de consommation d’opioı ¨des cumule´e
+(diffe´rence moyenne, 5,23 mg; IC 95 % HKSJ, -4,60 a`1 5 , 0 6 ;P
+= 0,15). Enﬁn, aucune complication neurologique n’a e ´te´
+observe´ea` long terme avec l’utilisation de dexame´thasone PN.
+Conclusion Les re´sultats de notre me´ta-analyse sugge`rent
+que la dexame ´thasone PN et IV procurent des bienfaits
+analge´siques e´quivalents et afﬁchent des proﬁls d’innocuite´
+semblables lors de leur utilisation pour un bloc nerveux
+pe´riphe´rique.
+Peripheral nerve block with local anesthetics has been
+shown to be an effective tool to increase analgesic effect
+and reduce patient use of opioid analgesics. 1,2
+Nevertheless, the duration of this effect is generally not
+long enough for adequate pain control in most patients. 1,2
+Another strategy to enhance the analgesic effect of local
+anesthetics is to add adjuvants such as epinephrine,
+clonidine, dexmedetomidine, and dexamethasone. The
+use of dexamethasone as an adjuvant to local anesthetics
+has emerged relatively recently, as studies have repeatedly
+shown that its addition to nerve blockade holds great
+potential to prolong the duration of analgesia. 1,3-6 Even so,
+the optimal route of administration is still largely unknown.
+Some ﬁndings support perineural (PN) over intravenous
+(IV) dexamethasone for improving the duration of
+analgesia and for reducing postoperative analgesic
+consumption,7,8 whereas other studies have observed no
+difference between the two routes of administration. 9,10
+Moreover, there is concern that PN dexamethasone
+administration may cause direct nerve injury. 10-12
+Due to the uncertainty surrounding the use of PN vs IV
+dexamethasone for prolonging the duration of analgesia,
+the optimal method to administer the drug remains a topic
+of debate. Thus, the primary objective of this meta-analysis
+was to evaluate the incremental beneﬁt of PN vs IV
+dexamethasone for improving the duration of analgesia in
+adult patients ([18 yr of age) undergoing peripheral nerve
+blockade. The secondary objectives were to compare the
+effectiveness of their routes of administration for motor
+block duration, improving pain control, decreasing
+Fig. 1 Study ﬂow diagram for study inclusion
+Dexamethasone for peripheral nerve blockade 195
+123
+
+[W2770469834 PDF PAGE 3]
+Table 1 Study characteristics
+Outcomes Reported
+Study Surgery Nerve Block
+Performed
+Groups (n) Local
+Anesthetic
+Duration
+ofAnalgesia
+Duration
+ofMotorBlock
+Postoperative
+Pain
+Opioid
+Consumption
+Adverse
+Events
+Patient
+Satisfaction
+Abdallah et al.
+2015
+10
+Upper
+Extremity
+Supraclavicular 1. Bupivacaine (20)
+2. Bupivacaine ? 8 mg IV Dexamethasone (25)
+3. Bupivacaine ? 8mg PN Dexamethasone (25)
+30 mL
+Bupivacaine
+0.5%
+••• • • •
+Abdelhamid et al.
+201629
+Lower
+Extremity
+Lumbar Plexus and
+Sciatic
+1. Bupivacaine (20)
+2. Bupivacaine ? 8 mg IV Dexamethasone (20)
+3. Bupivacaine ? 8 mg PN Dexamethasone (20)
+20 mL
+Bupivacaine
+0.5%
+•• •
+Aliste et al. 201622 Upper
+Extremity
+Axillary 1. Bupivacaine ? 8 mg IV Dexamethasone (75)
+2. Bupivacaine ? 8 mg PN Dexamethasone (75)
+30 mL
+Bupivacaine
+0.25%
+•• •
+Chun et al . 20168 Upper
+Extremity
+Interscalene 1. Ropivacaine ? 5 mg IV Dexamethasone (50)
+2. Ropivacaine ? 5 mg PN Dexamethasone (50)
+60 mg Ropivacaine
+0.75%
+•• • • •
+Dawson et al.
+201623
+Lower
+Extremity
+Ankle 1. Ropivacaine (30)
+2. Ropivacaine ? 8 mg IV Dexamethasone (30)
+3. Ropivacaine ? 8 mg PN Dexamethasone (30)
+20 mL
+Ropivacaine0.75%
+•* •••
+Desmet et al. 2013
+9 Upper
+Extremity
+Interscalene 1. Ropivacaine (50)
+2. Ropivacaine ? 10 mg IV Dexamethasone (50)
+3. Ropivacaine ? 10 mg PN Dexamethasone (50)
+30 m

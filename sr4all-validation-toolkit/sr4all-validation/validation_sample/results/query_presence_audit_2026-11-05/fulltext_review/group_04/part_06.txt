@@ -1,0 +1,190 @@
+ community studied. A third screen-
+ing study published in 2001 [21], without inclusion of con-
+t r o l s ,a s s e s s e dt h ee f f e c to fao n e - t i m es c r e e n i n gs e s s i o n
+delivered by the mobile ‘Heart Bus’ on self-reported behav-
+iour changes in inner regional Queensland. The study
+followed up 135 participants and found that 76 % of partici-
+pants self-reported they had made positive changes to their
+diet and exercise behaviours 6 months later. The major lim-
+itations of this study include the small sample design, lack
+of control and the self-reported nature of all of the outcome
+measures.
+Two studies assessed IHD interventions in ATSI popu-
+lations only [22, 24] and showed that IHD primary pre-
+vention efforts in these populations have the potential to
+be effective. One study was a clinical audit of cardiac
+prevention and screening services [22], and the other
+was an assessment of a diet and exercise program with
+comparison made to a self-selected control group [24].
+Burgess et al. [22] analysed the effectiveness of cardiac
+prevention services through clinical audits every three
+months of cardiovascular risk assessments, and level of
+pharmaceutical prescription delivered through primary
+health care services over 2 years. The study focussed on
+results from 2586 participants, who were identified to
+have a five year CVD risk of 16 % or greater. Blood pres-
+sure medication was prescribed for 67 % of participants
+and lipid lowering medications for 55 %, with clinical
+follow-up every three months to assess if target levels
+were achieved. By the end of the two year evaluation,
+the number of participants who achieved clinical targets
+for BP was 1366 (56 %) while 989 (40 %) reached targets
+for cholesterol, however changes in the proportion of
+participants reaching targets did not change significantly
+over time for either outcome. Rowley and colleagues
+[24] assessed the effectiveness of a primary health care
+service providing diet and/or exercise education and
+support in a small rural ATSI population. The study in-
+cluded an intervention group ( n = 32) and a self-selected
+control group ( n = 17). There were significant differences
+(p = 0.03) observed between the intervention and control
+arms, for mean change in 2 h plasma glucose, and trigly-
+ceride levels at two years post-intervention. There were
+also changes in dietary behaviour and physical activity in
+the intervention group, however these did not appear to
+be significant when compared to controls. Response
+rates ast the two year follow up were low for younger
+participants aged 15 – 34, with 43 % responding, com-
+pared to 80 % for those aged 35 and over, however re-
+sults shown here are clearly limited by the small study
+sample.
+Secondary prevention
+Only one secondary prevention intervention [17] was
+identified. The study evaluated a 7-week bi-weekly
+education and exercise cardiac rehabilitation program in
+a rural area of Western Australia (Heart Smart), and in-
+cluded 203 participants with a current CVD diagnosis.
+The evaluation compared quality of life and cardiac
+knowledge scores of these participants with to 159 non-
+participants (who were eligible, but did not wish to
+participate in the intervention). All follow up data, in-
+cluding clinical measures were self-reported. After
+6 months, the intervention group had reportedly in-
+creased their physical activity ( p < =0.001), and reduced
+their weight ( −0.5 kg, p < 0.05) from baseline. Higher
+quality of life and cardiac knowledge scores were ob-
+served for the intervention group, however the non-
+intervention group had a low response rate to the follow
+up survey (42 %). Self-reported cholesterol levels were
+3.6 mmol/L at baseline, and these reduced to 2.8 mmol/L
+by 6 months post follow up, however no changes were ob-
+served for self-reported BP. The authors did not specify if
+these measures were taken by the same medical clinic, or
+if any clinical documentation was collected with self-
+report results.
+Primary and secondary prevention
+Higginbotham et al. [19] was t he only study to include both
+a primary and secondary prevention program. The Coal-
+fields Healthy Heartbeat was a 10-year community inter-
+vention, which employed multiple strategies and included
+health promotion and awareness advertising, mobilisation
+of community resources, school health-promotion pro-
+grams, exercise, cooking and education groups, and a car-
+diac rehabilitation program. The remainder of the Hunter
+Valley region served as a comparison population for the
+program evaluation. The authors found a larger reduction
+in fatal AMI cases in the intervention area relative to the
+comparison population over a 9-year monitoring period
+[19], however there was no reduction in non-fatal AMI
+rates. There were no significan t differences in risk factors
+changes between the intervention and non-intervention
+areas.
+Table 1: Characteristics of prevention programs aimed
+at reducing IHD burden in rural Australia.
+Quality assessment
+Due to the lack of randomization used in the design of
+all studies and minimal use of control groups, all of the
+included studies were assessed to have a high risk of bias
+for the selection, performance and detection criteria of
+the Cochrane tool, and low or unclear risk for attrition
+and reporting bias criteria. Only one study reported
+using a behavioural science theory in the design of their
+study, identifying the health promotion and behavioural
+change models in the design of their follow up question-
+naire [16]. There was also a lack of detail around the
+length of the intervention, and follow up periods for 4 of
+Alston et al. BMC Public Health  (2016) 16:895 Page 8 of 11
+
+[W2517544132 PDF PAGE 9]
+the 8 studies, and generally follow up periods were
+small.
+Discussion
+Eight studies were identified that met the inclusion cri-
+teria, indicating that there is little published work about
+IHD prevention efforts occurring in rural communities
+in Australia. All studies based in inner and outer re-
+gional areas [16], found that primary and secondary pre-
+vention activities can be effective at reducing IHD and
+related risk factors, although many reported modest
+and/or mixed results. The paucity of studies in remote
+and very remote areas [16] particularly in light of the
+relatively high burden of IHD in these areas compared
+to metropolitan counterparts [25], shows this is an
+understudied population in Australia. This is consistent
+with findings from the US, where rural populations are
+also identified as disadvantaged, and understudied in
+terms of IHD burden and prevention [9]. Worldwide,
+there is a lack of published research on comprehensive
+interventions to reduce IHD, especially in rural popula-
+tions [26], despite the recognition that prevention efforts
+at population level, aimed at modifiable risk factors, can
+be both cost-effective and sustainable approaches to re-
+ducing IHD burden in high risk communities [11, 26,
+27]. A recent review by Papadakis and Moroz [11] of
+high quality international studies of IHD prevention ef-
+forts, found only one study focussed on rural areas [27],
+out of 15 included in the review.
+All studies included in this review employed a non-
+randomized design, mostly without a control group (six
+of eight studies), and all were found to have a high risk
+of bias. Half of the studies did not provide clear details
+about the exact timeframe of the intervention period,
+and subsequent follow up, or plans to follow up. Lack of
+comprehensive follow-up has been identified as an issue
+with the quality of evidence around IHD prevention ef-
+forts in rural areas, internationally [26]. Research in rural
+areas is likely to be challenging due to limited resources,
+small population numbers, and geographical remoteness.
+The lack of eligible studies retrieved for this review may
+reflect either a true lack of action or a lack of research
+reporting and publishing of prevention programs operat-
+ing in rural communities. It is possible that effective and
+targeted interventions are taking place in many rural set-
+tings; however, they are not being published in the aca-
+demic literature for others to learn from. It is known
+that rural health professionals feel ill-equipped to under-
+take, complete, and publish research, and this is due to a
+lack of resources, supervision, and perceived skills in
+rural areas [28, 29]. Research with larger samples and
+more rigorous study designs are required to progress
+strategies for reducing IHD burden in rural Australia,
+and worldwide.
+Relatively few of the studies included in this review,
+reported extensively on behaviour change outcomes.
+Those studies that did included behaviour measure-
+ments [17, 18, 20, 22 – 24], used self-reported data only
+and findings were mixed. Changes in smoking preva-
+lence at follow up were reported by one study [20], but
+did not change. Changes in BMI or weight were re-
+ported in five studies [17, 18, 20, 23, 24], however all but
+one study [17] found significant differences from pre
+and post intervention. Heterogeneity among these stud-
+ies also made it difficult to draw concrete conclusions
+on the effectiveness of these interventions in improving
+risk behaviours.
+Reductions in BP through medication prescription and
+monitoring, were demonstrated in four of the five stud-
+ies [17, 18, 20, 22, 23] that assessed BP as an outcome,
+suggesting that perhaps, if similar interventions were im-
+plemented more broadly in rural areas, significant
+population-level impacts on blood pressure levels could
+be achieved. A reduction of 5 mmHg in diastolic BP
+level has been suggested to reduce population mortality
+from IHD by approximately 21 % [30, 31], and BP reduc-
+tion is widely accepted as an important target risk factor,
+along with smoking and cholesterol levels, when aiming
+to prevent IHD in high risk populations internationally
+[7, 9, 30].
+The results of this review showed a strong emphasis
+on clinical measurements rather than behavioural mea-
+sures as outcomes wh

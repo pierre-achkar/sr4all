@@ -1,0 +1,359 @@
+se series, narrative or systematic reviews, editorials, non-
+peer-reviewed materials, and studies that did not report rele-
+vant outcomes related to sedation efficacy or adverse events. 
+Studies that focused solely on adult populations or proce -
+dures other than fractured reduction were also excluded. 
+Articles lacking disaggregated data on ketamine effects or 
+with significant methodological limitations were further 
+excluded following full-text review.
+Study Selection Process
+The screening procedure used a multi-phase, structured 
+methodology. EndNote 20 was used to import all citations, 
+and duplicate entries were eliminated. Two independent 
+reviewers used predetermined eligibility criteria with blind-
+ing maintained to filter abstracts and titles, and any dis -
+agreement was resolved by consulting the third reviewer to 
+minimize bias. After retrieval, full-text publications from 
+potentially pertinent studies were evaluated for inclusion. 
+The complete selection process was documented in a 
+PRISMA-compliant flow diagram (Fig. 1).
+Data Extraction and Management
+A systematic, standardized process was used for data extrac-
+tion to ensure accuracy and completeness. Two independent 
+reviewers extracted relevant data using a standardized form. 
+Extracted variables included study design, sample size, pub-
+lication year, country, clinical setting, patient demographics, 
+ketamine dosing protocols, route of administration, and use 
+of adjunct sedatives (e.g., midazolam, propofol). Primary 
+outcomes included the incidence of adverse events, spe -
+cifically vomiting, agitation, hallucinations, hypoxia, apnea, 
+and laryngospasm. Secondary outcomes encompassed pro -
+cedural success rates, sedation and recovery durations, and 
+requirements for redosing. Discrepancies in data extraction 
+were resolved through discussion or consultation with a third 
+reviewer. Missing or unclear data were clarified by contact-
+ing the corresponding authors when possible. In cases where 
+data were unavailable, imputation methods were considered 
+following Cochrane recommendations [14].
+Fig. 1 PRISMA flow chart of the screening process
+ 
+1 3
+Page 3 of 21 21
+
+[W4412779559 PDF PAGE 4]
+Current Emergency and Hospital Medicine Reports (2025) 13:21
+Results
+Characteristics of Included Studies
+A total of 16 studies involving 3,167 pediatric patients 
+undergoing fracture reduction with ketamine were included 
+[15–30]. The study selection process is summarized in the 
+PRISMA flowchart (Fig. 1). The studies were conducted 
+across various geographic regions, including the United 
+Kingdom [15, 19, 27], the United States [16–18, 20, 22–26, 
+30], Spain [ 21], Iran [ 28], and Turkey [ 29], conducted in 
+diverse healthcare settings, including emergency depart -
+ments, pediatric trauma centers, and tertiary care hospitals 
+(Table 1). The overall adverse event rate was 24% for ket -
+amine monotherapy and 26% when used in combination. 
+Ketamine monotherapy was associated with a 1–2% risk 
+of respiratory complications, a 13% risk of vomiting, and 
+a procedure success rate of 86%. Combination regimens 
+reduced mild agitation but increased severe hallucinations. 
+Fracture reduction success reached 99% with ketamine-
+based combinations. High heterogeneity was noted across 
+most pooled estimates. A detailed summary of the included 
+studies and the participants’ baseline characteristics can be 
+found in Tables 1 and 2, respectively.
+Risk of Bias Assessment
+Using The Risk of bias 2 (ROB-2) tool for assessment of 
+RCTS, two out of six studies indicated a high overall risk 
+of bias, two indicated some concerns and two indicated 
+low risk of bias (See Supplementary Figure S1a for Quality 
+assessment of risk of bias for RCTs using ROB-2 tool). For 
+non-RCTS, ROBINS-I tool identified that one out of seven 
+studies exhibited serious overall risk of bias, while six had 
+moderate risk (See Supplementary Figure S1b for Quality 
+assessment of risk of bias for non-RCTs using ROBINS-I 
+tool). The three observational studies assessed with New -
+castle-Ottawa Scale (NOS) demonstrated good quality, 
+with no studies excluding based on the quality assessment 
+(Table 3).
+Outcomes
+This systematic review evaluated a range of clinical out -
+comes related to the use of ketamine, alone or in combi -
+nation, for procedural sedation during pediatric fracture 
+reduction. Key domains included adverse events, procedural 
+performance metrics, and the need for additional interven -
+tions such as redosing or airway support.
+Risk of Bias Assessment
+The risk of bias for each included study was assessed by 
+two independent reviewers, with tool selection based on 
+study design. For RCTs, we used the Cochrane Risk of Bias 
+2 (ROB-2) tool. For non-randomized comparative stud -
+ies, we used the Risk of Bias in Non-randomized Studies 
+of Interventions (ROBINS-I) tool. Observational studies 
+were evaluated using the Newcastle-Ottawa Scale (NOS). 
+Each domain was rated, and discrepancies between review-
+ers were resolved by consensus or consultation with a third 
+reviewer. The overall risk-of-bias assessments informed 
+sensitivity analyses and interpretation of findings.
+Outcomes
+The primary outcomes are adverse event incidence, includ -
+ing airway issues, cardiovascular consequences, emerging 
+phenomena, and respiratory depression, while the second-
+ary outcomes were sedation effectiveness, such as seda -
+tion scales and procedure success rates; pain management, 
+including procedure discomfort and pain ratings; and sub -
+group results according to age group, method, and dosage.
+Statistical Analysis
+All statistical analyses were conducted using R version 4.3, 
+specifically the ‘meta’ and ‘metafor’ packages. For binary 
+outcomes (e.g., adverse event incidence, procedural suc -
+cess), pooled proportions with 95% confidence intervals 
+(CIs) were calculated. For continuous variables (e.g., seda -
+tion duration, recovery time), pooled mean values with cor-
+responding 95% CIs were computed using inverse-variance 
+weighting. When standard deviations were not reported, 
+they were imputed from reported interquartile ranges or 
+estimated using methods endorsed in the Cochrane Hand -
+book [14]. We assessed statistical heterogeneity using the 
+I² statistic and the Chi-square test (Cochran’s Q). An I² 
+value above 0–40% was interpreted as low heterogeneity, 
+30–60% as moderate heterogeneity, 50–90% as substantial 
+heterogeneity, and 75–100% as considerable heterogeneity, 
+prompting the use of random-effects models in cases of high 
+heterogeneity (DerSimonian-Laird method). Fixed-effects 
+models were applied in analyses with low heterogeneity. 
+Pre-specified subgroup analyses were conducted to examine 
+differences by study design (RCTs vs. observational) and 
+sedation regimen (ketamine monotherapy vs. combination). 
+Sensitivity analyses were performed to evaluate the robust-
+ness of pooled estimates, including leave-one-out analysis 
+and exclusion of high-risk-of-bias studies.
+1 3
+21  Page 4 of 21
+
+[W4412779559 PDF PAGE 5]
+Current Emergency and Hospital Medicine Reports (2025) 13:21
+Study year of 
+publication
+Design Country Institution Recruit-
+ment 
+period
+Follow up 
+period
+Number 
+of total 
+Population
+Primary 
+outcome
+Conclusion
+Wiik 
+et al., 
+2018
+2018 Prospec-
+tive obser-
+vational 
+study
+UK pediat-
+ric ED 
+procedural 
+sedation at 
+Chelsea and 
+Westminster 
+Hospital
+From 
+May to 
+Sep-
+tember 
+2017
+2 wks. (If 
+alignment is 
+maintained 3–6 
+wks. later)
+10 the safety and 
+cost effective-
+ness of ketamine 
+for treating dis-
+placed pediatric 
+radial and ulna 
+fractures.
+Ketamine pro-
+cedural sedation 
+in the pediatric 
+population is a 
+safe and cost-
+effective method 
+for the treatment 
+of displaced 
+fractures of the 
+radius and ulna, 
+with high parent 
+satisfaction 
+rates.
+wells 
+et al., 
+2024
+2024 retro-
+spective 
+cohort
+USA PED at a 
+single level 
+1 trauma 
+center
+from 
+May 
+2018 to 
+April 
+2020
+199 average sedation 
+score (Ramsay 
+score).
+The study 
+showed a low 
+rate of adverse 
+events in pedi-
+atric sedation 
+for orthopedic 
+reduction with 
+ketamine alone 
+or ketamine 
+with midazolam. 
+There was 
+an increased 
+occurrence of 
+hypoxia with 
+coadministra-
+tion of mid-
+azolam and an 
+increase in the 
+length of seda-
+tion. The study 
+showed no dif-
+ference in depth 
+of sedation 
+based on Ram-
+say scores when 
+midazolam was 
+coadministered. 
+Information on 
+the orthopedic 
+reduction and 
+provider satis-
+faction was not 
+collected.
+Sharieff 
+et al., 
+2007
+2007 prospec-
+tive, 
+obser-
+vational 
+pilot 
+study
+USA ED of a 
+freestand-
+ing urban 
+children ‘s 
+hospital
+1-month 1 day 20 the times to 
+reduction, 
+purposeful 
+movement, and 
+suitability for 
+discharge.
+The combina-
+tion of ketamine 
+and propofol 
+provided effec-
+tive sedation 
+with rapid 
+recovery and 
+no clinically 
+significant 
+complications 
+for children 
+requiring closed 
+reduction 
+of forearm 
+fractures.
+Table 1 Characteristics of included studies
+1 3
+Page 5 of 21 21
+
+[W4412779559 PDF PAGE 6]
+Current Emergency and Hospital Medicine Reports (2025) 13:21
+Study year of 
+publication
+Design Country Institution Recruit-
+ment 
+period
+Follow up 
+period
+Number 
+of total 
+Population
+Primary 
+outcome
+Conclusion
+Patel 
+et al., 
+2021
+2021 retro-
+spective 
+analysis
+UK emergency 
+department 
+of a pedi-
+atric major 
+trauma 
+center
+from 
+1 st 
+January 
+2012 
+to 31 st 
+Decem-
+ber 
+2016
+first follow up: 
+1 week, Patients 
+were followed 
+up until the cast 
+was removed 
+with signs of 
+clinical and 
+radiological 
+union.
+151 the success 
+rate of fracture 
+reduction.
+the study pro-
+vides evidence 
+that reduction of 
+pediatric fore-
+arm fractures 
+using ketamine 
+as procedural 
+sedation in the 
+ED is compa-
+rable to other 
+published meth-
+ods in achiev-
+ing acceptable 
+radiological 
+outcomes, with 
+low reported 
+complica-
+tion rates, and 
+highlights the 
+potential for 
+cost savings. 
+How- ever, 
+future stud-
+ies formally 
+assessing cost 
+effectiveness 
+and patient 
+outcomes are 
+needed

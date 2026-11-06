@@ -1,0 +1,115 @@
+upp et al.30, Lawrie et al.31, 
+Michiels et al.40, Michiels et al.39, 
+Robinson et al.44, Vercoulen et al.54
+TMT B-A 2 102 73 0.10 0.16 − 0.209 to 0.403 0.536 0.26 0.61 0.00 Robinson et al.44, Vercoulen et al.54
+Inhibition
+Stroop
+Interference (corrects) 2 51 61 − 0.51 0.19 − 0.885 to − 0.136 0.008 0.97 0.33 0.00 Beaumont11, Di Clementi et al.57
+Interference (s) Cotation 2 2 78 40 0.40 0.20 0.004 to 0.788 0.048 0.42 0.52 0.00 Mahurin et al.32, Smith et al.51
+Interference (s) Cotation 1 3 124 124 0.41 0.13 0.159 to 0.657 0.001 0.00 1.00 0.00 Cockshell et al.17, Cockshell et al. 
+(2014), Ray et al.60
+Generation of information
+FAS fluencies 5 180 130 − 0.37 0.12 − 0.603 to − 0.142 0.002 7.73 0.10 48.27
+Cockshell et al.17, Joyce et al.29, Law-
+rie et al.31, Marcel et al.34, Robinson 
+et al.44
+Category fluencies 3 99 95 − 0.35 0.14 − 0.635 to − 0.072 0.014 2.47 0.29 19.15 Cockshell et al.17, Joyce et al.29, 
+Marcel et al.34
+Controlled oral word 2 42 42 − 0.02 0.22 − 0.448 to 0.406 0.922 5.77 0.02 82.68 Claypoole et al.15, Krupp et al.30
+Abstraction
+W AIS-R similarities 2 34 33 0.04 0.24 − 0.425 to 0.510 0.86 0.06 0.80 0.00 Claypoole et al.15, DeLuca et al.20
+Table 10.  Instrumental functions: Hedge’s g effect sizes for each test, in descending order. WAIS Wechsler 
+adult intelligence scale, ME/CFS myalgic encephalomyelitis/chronic fatigue syndrome, N number.
+Test name N studies N CFS N controls Hedges’g S.E 95% CI p value Q p I2 (%) Study references
+Language
+Boston naming test 2 59 40 0.18 0.20 − 0.219 to 0.579 0.377 0.05 0.83 0.00 Lawrie et al.31, Marcel et al.34
+W AIS vocabulary 3 94 87 − 0.19 0.15 − 0.483 to 0.095 0.187 0.95 0.62 0.00 De Luca et al.22, Michiels et al.40, 
+Short et al.49
+W AIS-R vocabulary 2 170 101 0.08 0.13 − 0.62 to 0.331 0.501 0.31 0.58 0.00 Busichio et al.12, Marcel et al.34
+Calculation
+Wais-R Arithmetics 2 58 53 − 0.18 0.19 − 0.550 to 0.187 0.335 0.52 0.47 0.00 Claypoole et al.15, De Luca et al.22
+Visuo-construction
+Rey Osterreth complexe figure 
+(copy) Cotation 2 3 92 71 − 0.39 0.16 − 0.703 to − 0.084 0.013 1.63 0.44 0.00 De Luca et al.21,22, Tiersky et al.52
+Rey Osterreth complexe figure 
+(copy) Cotation 1 3 96 98 − 0.19 0.14 − 0.470 to 0.090 0.184 3.53 0.17 43.36 Claypoole et al.15, Short et al.49, 
+Vercoulen et al.54
+W AIS-R blocks 3 193 113 − 0.07 0.12 − 0.305 to 0.159 0.537 0.05 0.98 0.00 Busichio et al. (2001); Claypoole 
+et al.15, Lawrie et al.31
+
+[W4210837925 PDF PAGE 12]
+12
+Vol:.(1234567890)Scientific Reports |         (2022) 12:2157  | https://doi.org/10.1038/s41598-021-04764-w
+www.nature.com/scientificreports/
+symptomatology in ME/CFS patients cannot be reduced to the cognitive effects of depression and chronic pain. 
+Neither chronic pain nor depression affects episodic  memory14,40,42,43 or short-term visual  memory11,13,29,33,44, 
+yet significantly represented in ME/CFS patients. Altogether, this suggests that mood or pain can mediate but 
+not cause ME/CFS symptomatology.
+In the end, the clinical picture drawn by the analysis performed, despite all the measures taken to avoid 
+bias, cannot be considered as a solid mapping of the cognitive symptoms inherent in ME/CFS. The limit in the 
+interpretation imposed by the comparison of a number of studies sometimes restricted by cognitive domain 
+(example of immediate visuo-spatial memory) invites to consider it more as a sketch requesting the realization 
+of an original work to establish solidly a cognitive phenotype of ME/CFS.
+On the basis of these elements and the symptomatology described through the study of all thirty-three evalu-
+ated articles, it is possible to propose a corpus of tests allowing a comprehensive evaluation of the whole cognitive 
+sphere in ME/CFS patients. These latter, in light of our results, should benefit from a systematic evaluation to 
+precisely delineate and quantify their cognitive impairment, considering the potential variability in pattern and 
+intensity. The design of neuropsychological battery must allow to evaluate most finely and faithfully each func-
+tion concerned, while being the least time-consuming possible to reduce bias related to fatigue. Importantly, 
+the interpretation of results must be nuanced by the measurement of fatigue, pain and depression levels. The 
+screening should include the evaluation of short- and long-term memory in both modalities (verbal and visual), 
+attention (in both input channels), processing speed, executive functions and instrumental functions. Short term 
+memory evaluation appears important in view of the symptomatology previously described and in particular in 
+both modalities, verbal and  visual106. It is also important to differentiate between the two components of short-
+term memory, namely immediate memory and working memory, in order to determine, if there is a deficit and 
+which process is involved. Short term memory consists of the retention of an information by loop repetition 
+system. The evaluation of immediate memory may be done by forward digit span in verbal modality (W AIS 
+IV)81 and Corsi’s  blocks107 for the visual one. The evaluation of working memory should be done by backward 
+condition of digit span and Corsi’s blocks tests. The verbal long-term memory can be evaluated using the Free 
+an Cued Selective Reminding Test (FCSRT)56. Concerning episodic memory, processes encompass three stages 
+namely encoding, storage and  retrieval55 to which are added the phases of recognition and consolidation of the 
+memory  trace56. When we suggest the presence of potential disorders affecting several of these processes, it is 
+important to look at the question of the integrity of encoding  phase46. Indeed, encoding is strongly influenced by 
+the level of attention allocated to the information to be memorized. A low level of attention impacts the quality 
+of the storage as well as the facility of recovery  posteriori108. The choice of tests evaluating episodic memory is 
+crucial in terms of its ability to control the quality of encoding by minimizing the impact of possible fluctuations 
+of attention level. If so, it seems complex to distinguish between an attention or executive deficit disorder and a 
+genuine memory  deficit108.
+In the FCSRT, the encoding mode is imposed and controlled, which avoids the potential bias of attention 
+that may hinder the processing of the information to be memorized. The visual modality would be evaluated 
+incidentally via the Rey-Osterrieth Complex  figure109 (recall phase). Processing Speed would be evaluated via 
+the TMT A and Stroop  tests110. In these different tests, the realization times are standardized, that is to say, it is 
+possible to compare the speed of achievement of the task of the patient to that of his/her peer group. The TMT 
+makes it possible to take into account the speed of an act combining vision and motor gesture. As far as the Stroop 
+is concerned, there is no motor gesture, which therefore makes it possible to obtain an estimate of the reading 
+speed (especially in the words condition) without a potential bias of graphomotor slowing down. It appears 
+important, as part of the understanding of neurocognitive mechanisms of ME/CFS, to assess attention in its two 
+inputs, auditory and visual, whose processes are grouped together (sustained, divided, selective) but with differ-
+ent neurological  pathways111. The dichotic listening test allows an assessment of the auditory  attention112–115 in 
+a relatively short period of time, making possible to avoid as much as possible a fatigue bias related to the time-
+consuming nature of the test situation. In this way, screening including the evaluation of mental flexibility by 
+the TMT test, cognitive inhibition via the Stroop test and information generation via “P” and Animals fluencies 
+have been recognized as the most sensitive for a reliable evaluation of executive  functions110. Planning abilities 
+would be evaluated via ROCF  copy109. In this test, the practitioner will be particularly vigilant about the type of 
+copy proposed by the patient, revealing, relatively accurately, his or her ability to establish an effective strategy to 
+answer a given  problem109. Finally, as described earlier, working memory would be evaluated via backward digit 
+span (W AIS IV)81 and Corsi’s  blocks107. Finally, the evaluation of instrumental functions would include several 
+domains like language, ideomotors and motors praxis and visuo-construction. Language could be assessed by 
+Boston naming  test116 (or equivalent for other languages, as DO 80 test for  French117, which evaluate denomina-
+tion on image-based abilities. Praxis could be assessed by dedicated battery such as Mahieux’ praxies battery 
+for French patients (Praxies)118 and ROCF (visuo-constructive praxies)109 which have the particularity of being 
+sensitive and not very time consuming. To control the fatigue, mood and pain biases, self-evaluation scales could 
+be proposed at the beginning of the assessment.
+Cognitive troubles have a marked impact on the disability and the quality of life of ME/CFS patients. An 
+optimum neuropsychological evaluation should fulfill the following requirements: (1) to be standardized and 
+homogeneous across different centers taking care of ME/CFS patients; (2) to make possible delineating deficits 
+and discriminating functions never altered through a most complete and detailed screening; (3) to make possible 
+a stratification of patients according to their neuropsychological profiles; and (4) to be short enough to avoid 
+fatigue biases. Henri Mondor group proposed an operative battery adequately shaped for ME/CFS, which does 
+not exceed duration of 75 min making it endurable for a majority of patients and therefore fully suitable for the 
+evaluation of ME/CFS patients (Table 11). This battery has already proven its applicability for the neuropsycho-
+logical evaluation of patients complaining from cognitive difficulties in the context of routine  care119.
+
+[W4210837925 PDF PAGE 13]
+13
+Vol

@@ -1,0 +1,210 @@
+on
+This meta-analysis indicates that a
+considerable number of cases of IPF are
+attributable to inhaled occupational
+exposures. The proportion of cases with
+occupational exposures to VGDF was 44%,
+Table 4. Case-control studies of occupational risk factors for idiopathic pulmonary fibrosis
+Study, Year, Location, Reference Cases
+OR (95% CI) PAF
+VGDF Metal Wood Agri Silica VGDF Metal Wood Agri Silica
+Scott et al.,1990, UK (28) 40 1.3 (0.8 –2.0) 11.0 (2.3 –52.4) 2.9 (0.9 –9.9) 10.9 (1.2 –96.0) 1.6 (0.5 –4.8) 17% 12% 10% 12% 5%
+Hubbard et al.,1996, UK (29) 218 NA 1.7 (1.1 –2.7) 1.7 (1.0 –2.9) NA NA NA 9% 6% NA NA
+Mullen et al.,1998, UK (30) 15 2.4 (0.7 –8.4) NA 3.3 (0.4 –25.8) NA 11.0 (1.1 –115.0) 20% NA 7% NA 20
+Baumgartner et al.,2000, US (31) 248 NA 2.0 (1.0 –4.0) 1.6 (0.8 –3.3) 1.6 (1.0 –2.5) 3.9 (1.2 –12.7) NA 5% 3% 9% 2%
+Hubbard et al.,2000, UK (35) 22 NA 1.1 (0.4 –2.7) NA NA NA NA 5% NA NA NA
+Miyake et al.,2005, Japan (36) 102 5.6 (2.1 –17.9) 9.6 (1.7 –181.1) NA NA 1.8 (0.5 –7.0) 26% 11% NA NA 5%
+Gustafson et al.,2007, Sweden (32) 140 1.1 (0.7 –1.7) 0.9 (0.5 –1.6) 1.2 (0.7 –2.2) NA 1.4 (0.7 –2.7) 6% NA 3% NA 3%
+Garc/C19ıa-Sancho et al.,2011, Mexico (33) 100 2.8 (1.5 –5.5) NA NA NA NA 50% NA NA NA NA
+Awadalla et al.,2012, Egypt (27)
+Men 95 NA 1.6 (0.7 –3.6) 2.7 (1.0 –7.4) 1.0 (0.4 –2.3) 1.1 (0.5 –2.7) NA 6% 9% NA 1%
+Women 106 NA NA 4.3 (0.8 –22.1) 3.3 (1.2–10.1) NA NA NA 6% 14% NA
+Kim et al.,2017, S. Korea (38) 70 NA 0.8 (0.2 –3.9) 1.2 (0.3 –4.4) 4.5 (1.3 –16.2) 8.8 (1.1 –73.5) NA NA 1% 17% 13%
+Koo et al.,2017, S. Korea (37) 78 2.7 (0.7 –10.9) 5.0 (1.4 –18.2) 2.5 (0.5 –12.3) NA 1.2 (0.4 –3.8) 35% 22% 5% NA 5%
+Paolocci et al.,2018, Italy (21) 69 4.1 (2.3 –7.5) 3.8 (1.2 –12.2) 1.4 (0.5 –4.0) 2.4 (1.3 –4.3) NA 67% 10% 3% 32% NA
+Reynolds et al.,2019, UK (22) 466 1.7 (1.2 –2.3) 1.4 (0.9 –2.0) 1.4 (0.9 –2.3) NA 2.9 (1.3 –6.7) 12% 5% 3% NA 3%
+Abramson et al.,2020, Australia (34) 503 1.1 (0.9 –1.4) 1.3 (0.9 –1.9) 0.7 (0.3 –1.8) 1.0 (0.7 –1.5) 0.6 (0.4 –0.8) 3 3 NA NA NA
+Park et al.,2020, S. Korea (23) 206 2.1 (1.2 –3.7) 0.8 (0.2 –2.9) 2.1 (0.7 –7.7) 1.8 (0.9 –3.9) 2.5 (1.0 –6.7) 18% NA 2% NA 6%
+Zubairi et al.,2023, Pakistan (25, 26) 131 1.1 (0.7 –1.7) NA NA NA NA 2% NA NA NA NA
+Definition of abbreviations: Agri = agricultural dusts; CI = confidence interval; NA = not available; OR = odds ratio; PAF = population attributable fraction; VGDF = vapors, gas, dust,
+or fumes, which represent all the exposure categories shown combined and, in selected studies, additional exposures.
+ORIGINAL RESEARCH
+492 AnnalsATS Volume 21 Number 3 | March 2024
+
+[W4389729337 PDF PAGE 8]
+with a range of 8– 16% within more speciﬁc
+exposure categories. The pooled OR was
+increased for VGDF at 1.8, with a pooled
+PAF of 21%. The ORs and PAFs,
+respectively, were found to be 1.6 and 7%
+(metal dust), 1.6 and 3% (wood dust), 1.8
+and 14% (agricultural dust), and 1.8 and 4%
+(silica dust). Taken together, ourﬁndings
+indicate that 21% of IPF cases (or
+approximately one inﬁve) could be
+prevented by removal of occupational
+exposure to VGDF.
+Theseﬁndings are important, given
+that IPF is otherwise considered a diagnosis
+without a known cause. Identifying
+potentially pathogenic occupational
+e x p o s u r e si si m p o r t a n tb e c a u s et h e ya r e
+preventable through proper workplace
+engineering controls and personal protective
+equipment. Emphasis has been placed on
+clearly occupationalﬁbrotic lung diseases
+such as asbestosis and silicosis, but a clear
+connection between occupational exposures
+and otherﬁbrotic lung diseases such as IPF
+can motivate the introduction of further
+exposure controls. For example, the
+recognition of an association between
+agricultural dust andﬁbrotic lung disease
+could prompt further investigation into the
+pathophysiologic mechanism, as well as
+increased emphasis on lowering dust
+exposure in the workplace. Physicians often
+fail to document a thorough occupational
+exposure history despite the fact that
+occupational exposures are responsible
+for 860,000 illnesses annually (51, 52).
+Recognition of such associations could
+beneﬁt patients with IPF and their families
+by affording them the opportunity to apply
+for fair compensation, and could beneﬁt
+current and future workers through exposure
+and disease prevention.
+Our analysis found increased risks of
+IPF with metal dust, wood dust, agricultural
+dust, and silica dust. The diagnosis of IPF
+based on radiographic and pathologic
+ﬁndings of UIP without clear etiology is
+fraught with danger for premature diagnosis
+without complete evaluation of etiologies.
+Occupational exposures, including organic,
+metal, and silica dust, can cause similar
+ﬁndings on clinical presentation. Many have
+postulated that work exposure may trigger a
+proﬁbrotic response that is clinically
+indistinguishable from IPF. Organic and
+inorganic dust have demonstrated the
+development of a UIP pattern on imaging,
+and, without a thorough occupational
+exposure assessment, pulmonaryﬁbrosis
+may be misclassiﬁed as idiopathic.
+Agricultural and wood dusts fall
+under the category of organic dusts, and
+the pathogenesis of organic dust to lung
+ﬁbrosis is not completely clear. However, the
+possibility of unrecognized end-stageﬁbrotic
+hypersensitivity pneumonitis (HP) cannot be
+excluded because this can have a UIP pattern
+(53). Fibrotic HP can be easily confused
+with IPF even by experienced physicians,
+especially if patients have negative precipitins
+or have been removed from exposure by the
+time of clinical evaluation. A study by Morell
+and colleagues found that 20 of 46 patients
+initially diagnosed with IPF later had their
+diagnosis changed to HP with additional
+history of exposure to animal antigens (54).
+There also must be the consideration of a
+ﬁbrogenic process of organic dust causing
+pulmonaryﬁbrosis that is yet to be
+described (55).
+Studies that use mineralogical analysis
+techniques have found metal dusts (e.g.,
+nickel, iron, and aluminum) as well as silica
+in the lymph node and lung tissue of patients
+with pulmonaryﬁbrosis, even though a clear
+causation was not established (56, 57). The
+association between lungﬁbrosis and metal
+dust exposure can be explained by the
+transition of alveolar cells to mesenchymal
+cells caused by reactive oxygen species
+(ROS), and other metals can induce ROS
+(58, 59). These ROS can induce aﬁbrotic
+response that can appear radiographically as
+UIP. Silica dust exposure is associated with
+proﬁbrotic response through similar means
+of induction of free radicals, leading to
+inﬂammation and eventualﬁbrosis (60).
+Silica particles found on biopsies of patients
+with IPF were associated with a more rapid
+decline of pulmonary function (61). A recent
+study demonstrated that 16– 20% of silica-
+exposed Korean workers who had received
+compensation for pneumoconiosis had
+radiographicﬁndings consistent with UIP
+(62). However, we cannot discount the
+possible coexposure of asbestos in the
+metalworking and construction industries,
+especially among those working in steel mills
+in the 20th century (63).
+T h i sm e t a - a n a l y s i si sac o n t e m p o r a n e o u s
+evaluation of occupational exposures and
+IPF and strengthens previousﬁndings with
+the inclusion of high-quality studies that
+have been published since prior reviews.
+A major strength of this meta-analysis is the
+inclusion of an additional six case-control
+studies that have been published on the
+topic since the last major review, more than
+doubling the number of patients with IPF
+analyzed at 2,631 cases. A review by Blanc
+and coworkers was conducted in 2019
+and included 1,229 cases of IPF, with only
+limited analysis of bias, confounding,
+susceptibility, and study quality (7). Of the
+six new studies with risk estimates, four had
+RoB-SPEO scores of 16 or lower, indicating
+they were high in quality. These six studies
+used updated diagnostic deﬁnitions that are
+more relevant to today’s practice. Another
+interim review by Park and colleagues
+included two further studies that were
+published since the review of Blanc and
+coworkers, but this analysis did not include
+an overall VGDF assessment or assess
+occupational burden or PAF calculations,
+limiting the scope of their assessment (5).
+Additionally, they combined occupational
+and environmental exposures rather than
+discerning only occupational exposure.
+Uniquely, we included conference abstracts
+in our screening and analysis, provided they
+included adequate data, as well as papers
+not published in English, which have not
+Table 5. Pooled OR and PAF estimates for occupation and idiopathic pulmonary
+fibrosis
+Exposure Risk Estimates Pooled OR (95% CI) Pooled PAF (95% CI)
+VGDF 11 1.8 (1.3-2.4) 21% (15 –28%)
+Metal dusts 13 1.6 (1.2-2.1) 7% (5 –10%)
+Wood dusts 13 1.6 (1.2-2.0) 3% (2 –4%)
+Agricultural dusts 8 1.8 (1.2-2.7) 14% (8 –20%)
+Silica 11 1.8 (1.1-3.0) 4% (2 –5%)
+Definition of abbreviations: CI = confidence interval; OR = odds ratio; PAF = population
+attributable fraction; VGDF = vapors, gas, dust, or fumes, which represent all the other
+exposure categories shown combined, and, in selected studies, additional exposures.
+Awadalla and colleagues (27) stratified their study sample by male and female, contributing
+two risk estimates to the wood, agricultural, and silica subcategories.
+ORIGINAL RESEARCH
+Gandhi, Min, Fazio,et al.: Meta-Analysis of Occupational Contribution to IPF 493
+
+[W4389729337 PDF PAGE 9]
+consistently been included in past reviews.
+Our included articles represent a more
+comprehensive range of regions of the
+world, with many studies from Asia and
+Central/South America compared with
+other studies (including a study published
+in Turkish). Additionally, the inclusion of
+conference abstracts and a wide range of
+study types extended our search beyond
+those of other studies, ensuring a thorough
+literature review. We have ameliorated and
+updated the analysis with a high-quality
+literature search, extensive sensitivity
+analysis, and bias assessment to develop a
+more solid foundation of association.
+Figure 3. Id

@@ -1,0 +1,190 @@
+of major bleeding favouring dabigatran 110 mg in
+comparison with rivaroxaban (OR 0.68, 95% CI 0.46–
+0.99) [64]. These results were reproduced in five other
+indirect comparisons showing significantly less major
+bleeding for apixaban compared to dabigatran and com-
+pared to rivaroxaban [43, 46, 53, 69, 70]. Additionally,
+Cameron et al. [46] showed that edoxaban 30 mg was
+less effective than other NOACs and also showed less
+major bleeding compared to all other NOACs. Only the
+review of Assiri et al. [42] showed no significant differ-
+ence for any comparison between apixaban, dabigatran,
+rivaroxaban and edoxaban. Lin et al. [43] showed less
+major bleedings with the lower dose of dabigtran
+(110 mg) compared to higher dose and to rivaroxaban.
+Intracranial bleeding Sardar et al. [64] reported a sig-
+nificantly lower rate for dabigatran 110 mg compared
+with rivaroxaban (OR 0.27, 95% CI 0.10– 0.73) which is
+in line with the findings by Verdecchia et al. [68] who
+ranked dabigatran first in their SUCRA analysis with a
+probability of 88.7% and rivaroxaban second to last with
+a probability of 18.9%. Lin et al. [43] found a lower risk
+for apixaban compared to dabigatran and in their ana-
+lysis of non-randomized trials, rivaroxaban was associ-
+ated with a higher risk of intracranial bleeding than
+dabigatran 150 mg. Two other indirect comparisons
+found no significant advantage for any of the single
+NOACs for intracranial bleeding [42, 70].
+Gastrointestinal bleeding Verdecchia et al. [68] re-
+ported the following cumulative ranking: edoxaban
+30 mg (SUCRA 90.3%), apixaban 5 mg (SUCRA 78.9%),
+adjusted-dose warfarin (SUCRA 64.6%), dabigatran
+110 mg (SUCRA 53.0%), edoxaban 60 mg (SUCRA
+34.6%), dabigatran 150 mg (SUCRA 14.7%) and rivaroxa-
+ban 20 mg (SUCRA 5.4%). Sardar et al. [64] reported
+nonsignificant differences in the indirect comparison be-
+tween apixaban and dabigatran for both doses while
+Baker et al. [53] found a lower incidence for gastrointes-
+tinal bleedings for apixaban compared to rivaroxaban
+and compared to dabigatran. Lin et al. [43] found no sig-
+nificant differences.
+Myocardial infarction Verdecchia et al. [68] reported a
+safety ranking for myocardial infarction in the following
+order (percentage of SUCRA): rivaroxaban 20 mg
+(90.3%), apixaban 5 mg (77.7%), edoxaban 60 mg
+(68.6%), adjusted dose warfarin (56.8%), edoxaban 30 mg
+(23.9%), dabigatran 150 mg (17.9%), dabigatran 110 mg
+(14.7%). The disadvantage of dabigatran regarding MI in
+both doses was in line with the ORs of the indirect com-
+parisons by Testa et al. [52] and Harenberg et al. [70].
+Testa et al. [52] found significant differences in the com-
+parison of apixaban vs. dabigatran 110 mg and apixaban
+vs. dabigatran 150 mg favouring apixaban (OR 0.6, 95%
+CI 0.4– 0.9 and OR 0.6, 95% CI 0.4– 0.96, respectively).
+The comparison of the two doses of dabigatran with riv-
+aroxaban revealed similar results favouring rivaroxaban
+(OR 1.7, 95% CI 1.12– 2.6 and OR 1.76, 95% CI 1.1– 2.6,
+respectively) [52] with similar results found by Haren-
+berg et al. (OR 1.64, 95% CI 1.09– 2.45) for dabigatran
+110 mg vs. rivaroxaban and for dabigatran 150 mg vs.
+rivaroxaban (OR 1.61, 95% CI 1.09 – 2.41). Lin et al.
+found no significant differences.
+Quality appraisal of included SR and MA
+Table 3 displays the results of each item of the AMSTAR
+tool for each SR, where positive answers are related to a
+low risk of bias. Overall, no SR met all quality criteria
+suggesting a moderate quality of evidence for most SRs.
+We obtained the information on the quality of the sin-
+gle studies that were relevant for the development of the
+recommendations. All studies were judged with low risk
+of bias [55– 57, 60].
+Recommendations
+For older patients with AF, we found a considerable ad-
+vantage for NOACs compared to VKAs regarding haem-
+orrhagic strokes/intracranial haemorrhages and a small
+benefit regarding mortality. From these results we were
+able to develop a weak recommendation to switch from a
+VKA to a NOAC in older patients with atrial fibrillation
+(see Additional file 7: Table S7). We restricted the recom-
+mendation to patients with a low time in therapeutic
+range (TTR) below 55% because this was the lower limit
+of TTR in the approval studies of NOACs and it remains
+unclear to what extent the advantages apply to patients
+with high time in therapeutic range [72]. The quality of
+evidence for this recommendation is moderate. The qual-
+ity of the evidence was downgraded because of
+The Author(s)BMC Geriatrics2017, 17(Suppl 1):223 Page 93 of 157
+
+[W2767010212 PDF PAGE 22]
+indirectness of the results as there is no trial that evalu-
+ated the effect of switching from vitamin K antagonists to
+a novel oral anticoagulant. We considered three guidelines
+as additional articles of interest [8, 73, 74]. They recom-
+mend a conventional VKA for patients with severe renal
+impairment and therefore we excluded patients with se-
+vere renal impairment from our recommendation.
+The recommendation was developed according to our
+methods for the compilation of SRs. Meetings with the
+team of researchers were held to discuss and agree on
+the recommendation reflecting the strength and quality
+of evidence according to the results of our SR. The rec-
+ommendation was subsequently reviewed and confirmed
+by the Evidence based Medicine Guidelines Editorial
+board of Duodecim Medical Publication Ltd. (Finland)
+and will be implemented in the electronic decision sup-
+port tool PRIMA-eDS.
+Discussion
+We performed a review of systematic reviews to investi-
+gate the effectiveness and safety of vitamin K antagonists
+and new oral anticoagulants in older patients with atrial
+fibrillation. The primary aim of this review was to in-
+form stop recommendations regarding medication use
+in older people to reduce inappropriate polypharmacy. A
+general stop recommendation on use of anticoagulants
+in older people with AF was not justified, because the
+evidence identified in our review showed a clear benefit
+for VKA compared to PAI as well as to placebo for the
+prevention of strokes outweighing the risk of major
+bleeding. These findings are consistent with existing
+guideline recommendations [8, 74, 75].
+NOACs were associated with a reduced risk of haem-
+orrhagic strokes and intracranial bleedings compared to
+VKA, though potentially some increase in gastrointes-
+tinal bleeding. A small reduction in risk of mortality in
+favour of NOACs was also observed. Overall, from all
+data currently available, there appears to be at least equi-
+poise between VKA and NOAC regarding benefit, and a
+small advantage for NOACs regarding harm, but effect
+sizes are small (reduction of intracranial haemorrhage
+for rivaroxaban with a NNH estimate of about 500 cal-
+culated from the ROCKET-AF-trial, reduction of major
+bleeding for apixaban with a NNH estimate of about 100
+calculated from the ARISTOTLE-trial, and a reduction
+of major bleeding for dabigatran (110 mg) with a NNH
+estimate of about 150 calculated from the RE-LY-trial).
+We therefore recommend considering the use of
+NOACs in patients aged 65 years or older with AF as
+well as considering a switch from a VKA to a NOAC,
+particularly if the time in therapeutic range is low with
+VKA. It must be emphasized, though, that the latter rec-
+ommendation is based on indirect evidence, because a
+trial investigating the effects of switching from VKA to
+NOAKs does not exist.
+In the existing guidelines of NICE and the AHA/ACC,
+NOACs are recommended equally to warfarin [8, 74].
+However, the AHA/ACC guideline recommendations for
+dabigatran, rivaroxaban and apixaban are associated with
+a lower level of evidence (B = moderate quality of evi-
+dence, further research is likely to have an important im-
+pact on our confidence in the estimate of effect and may
+change the estimate) than for warfarin (A = high quality
+of evidence, further research is very unlikely to change our
+confidence in the estimate of the effect) [74]. In contrast,
+the ESC guidelines recommend a NOAC in the majority
+of patients [6]. A prescription of NOACs also appears to
+be recommendable for patients with labile INR.
+Our findings are in line with the recommendations in
+the ESC guidelines. However, there are still concerns as
+to whether these recommendations are equally applic-
+able to the very elderly with multiple comorbidities [6].
+We assessed the available patient characteristics for all
+included SRs. Participants in the studies were mostly
+aged over 65 years, due to the epidemiological character-
+istics of the disease, but the studies provided no data on
+patient frailty, cognitive status or polypharmacy. Thus,
+the evidence for older people who are affected by mul-
+tiple comorbidities is less clear.
+The NICE and the AHA/ACC/HRS guidelines recom-
+mend conventional therapy with VKA in patients with
+severe renal impairment [8, 74], a common condition in
+older people. This applies especially to avoidance of
+dabigatran which is eliminated mainly by renal excretion
+and for which a number of cases of major bleeding,
+mostly in older adults with severely impaired renal func-
+tion, have been reported [76]. In a secondary analysis of
+the RE-LY trial data Eikelboom et al. [77] found a signifi-
+cant treatment-by-age-effect, by which patients aged
+≥75 years had a higher risk of major bleeding with dabi-
+gatran than with warfarin, whereas in younger patients
+the association was reversed [55, 77]. Several case re-
+ports have suggested that the risk of gastrointestinal
+bleeding may also be higher with dabigatran, mostly as-
+sociated with impaired renal function [78]; this concurs
+with the trend we observed in our analysis for NOACs
+in general. Further research on this issue is needed to
+determine whether this effect is restricted to particular
+NOACs or to specific patient groups.
+Head to head comparisons of individual NOACS are
+lacking, hence the only data on these were indirect com-
+parisons. Overall, there seemed to be a trend for better
+safety with apixaban and better efficacy wit

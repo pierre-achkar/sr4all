@@ -1,0 +1,179 @@
+wed that JHQG may 
+regulate relevant signaling pathways by combining multiple 
+components with SARS-CoV-2 3CL hydrolase and ACE2 on 
+PTGS2, HSP90AB1, HSP90AA1, PTGS1, NCOA2, and other 
+targets, thus preventing COVID-19.
+Four studies were included in the present meta-analysis. 
+Meta-analysis showed that, compared to conventional Western 
+medicine treatment alone, Jinhua Qinggan granules combined 
+with Western medicine treatment of COVID-19 can significantly 
+improve overall patient prognosis, shorten the duration of fever, 
+reduce the aggravation rate and have a better safety profile. There 
+was no significant difference between the 2 groups with regards 
+to the improvement rate for the following symptoms: cough, 
+nausea and vomiting, fatigue or CT, nor in terms of frequency 
+of adverse reaction. The analysis results of this study also have 
+certain limitations: The number of research samples is small, 
+which may reduce the credibility of the research results; Most 
+studies come from China; There are differences in the severity of 
+COVID-19 and drug dosage among groups, but due to the lim-
+ited number of studies, in-depth analysis cannot be carried out.
+5. Conclusions
+In summary, Jinhua Qinggan granules combined with Western 
+medicine is superior to Western medicine alone in improving 
+fever, unhealthy levels of nucleic acid and the deterioration rate of 
+pneumonia. However, there is no statistical significance between 
+the 2 groups in terms of cough, fatigue, nausea, and vomiting, CT 
+Figure 2. Risk of bias summary and graph.
+
+[W4365485005 PDF PAGE 6]
+6
+Si et al. • Medicine (2023) 102:15 Medicine
+improvement rate and incidence of adverse reactions. Therefore, 
+we have demonstrated the efficacy and development potential of 
+Jinhua Qinggan granules in the treatment of mild and asymptomatic 
+COVID-19 patients. Even so, we hope that there will be additional 
+high quality RCTs in the future to verify the therapeutic effect of 
+Jinhua Qinggan granules on the novel coronavirus.
+Figure 3. Forest plot of meta-analysis on recovery rate of main symptoms.
+Figure 4. Forest plot of meta-analysis on negative conversion rate of nucleic acid test.
+
+[W4365485005 PDF PAGE 7]
+7
+Si et al. • Medicine (2023) 102:15 www.md-journal.com
+Author contributions
+Conceptualization: Youpeng Wang.
+Data curation: Xiuying Si, Yongjun Li.
+Methodology: Zheng Guo.
+Software: Xiuying Si, Yongjun Li, Lujia Liu, Yang Yang.
+Supervision: Yuan Liang.
+Visualization: Lujia Liu.
+Writing – original draft: Xiaoxue Ma, Youpeng Wang, Guangxia 
+Pan.
+Writing – review & editing: Xiuying Si.
+References
+ [1] Johns Hopkins University. Coronavirus resource center. Available at: 
+https://coronavirus.jhu.edu/ [access date December 6, 2022].
+ [2] Møller Kirsebom FC, Andrews N, Stowe J, et al. Effectiveness of 
+the COVID-19 vaccines against hospitalisation with Omicron 
+sub-lineages BA.4 and BA.5 in England. Lancet Reg Health Eur. 
+2022;23:100537.
+ [3] Chodick G, Tene L, Patalon T, et al. Assessment of effectiveness of 1 
+dose of BNT162b2 vaccine for SARS-CoV-2 infection 13 to 24 days 
+after immunization. JAMA Netw Open. 2021;4:e2115985.
+ [4] Wu Y, Liu M. Study on the incubation period of COVID-19 infected 
+by different novel coronavirus variants. Chin Gen Pract Med. 
+2022;25:1309–1313 + 1319.
+ [5] Chai KQ, Huang FH, Li YP, et al. Clinical study on the intervention of 
+traditional Chinese medicine on novel coronavirus pneumonia. Chin J 
+Tradit Chin Med. 2021;36:7458–62.
+ [6] Hou XZ, Zhang F, Yu LS, et al. Analysis of clinical efficacy of tradi-
+tional Chinese medicine combined with ribavirin and arbidol in the 
+treatment of COVID-19. Everyone Healthy. 2020:283–4.
+ [7] Fan Y, Liu W, Wan R, et al. Efficacy and safety of yinqiao powder 
+combined with western medicine in the treatment of pneumonia: a 
+systematic review and meta-analysis. Complement Ther Clin Pract. 
+2021;42:101297.
+ [8] National Health Commission of the People's Republic of China. Novel 
+coronavirus pneumonia diagnosis and treatment plan (eighth ed. trial 
+version). 2020. Available at: http://www.nhc.gov.cn/xcs/xxgzbd/gzbd_
+index.shtml [access date March 15, 2021].
+ [9] Wanli Y. TCM plays significant role in battle against COVID-19. 
+2020. Available at: https://www.chinadaily.com.cn/a/202003/23/
+WS5e788f35a31012821728156d.html [access date March 15, 
+2021].
+ [10] Jin G, Jin LL, Jin XB. The rationale behind the four major anti-
+COVID-19 principles of Chinese herbal medicine based on systems 
+medicine. Acupunct Herb Med. 2021;1:90–8.
+ [11] Xiong W, Ran JY, Xie XJ, et al. Pharmacological action and clinical 
+application of Chinese patent medicine for novel coronavirus pneumo-
+nia. Med Guide. 2020;39:465–76.
+ [12] Li X. Inspiration from the innovative experience of “Jinhua Qinggan 
+Granules”. Invention and Innovation (Comprehensive Science and 
+Technology). 2010:13.
+ [13] Zeng YY, Chen YT, He YY, et al. Identification of components and 
+plasma of Jinhua Qinggan granuless and preliminary pharmacokinetics 
+analysis (in Chinese). Acta Pharm Sin. 2022;57:446–52.
+ [14] General Office of National Health Commission of the People’s Republic 
+of China, Office of National Administration of Traditional Chinese 
+Medicine of the People’s Republic of China. Diagnosis and treatment 
+Figure 5. Forest plot of meta-analysis on improvement or recovery rate of chest CT manifestation.
+Figure 6. Forest plot of meta-analysis on aggravation rate.
+Figure 7. Forest plot of meta-analysis on adverse events.
+
+[W4365485005 PDF PAGE 8]
+8
+Si et al. • Medicine (2023) 102:15 Medicine
+of corona virus disease-19 (9th trial edition) (in Chinese). Chin Med. 
+2022;17:481–7.
+ [15] An XD, Xu X, Xiao MZ, et al. Efficacy of Jinhua Qinggan granu-
+less combined with western medicine in the treatment of confirmed 
+and suspected COVID-19: a randomized controlled trial. Front Med 
+(Lausanne). 2021;8:728055.
+ [16] Duan C, Xia WG, Zheng CJ, et al. Clinical observation on Jinhua 
+Qinggan granules combined with conventional western medicine 
+therapy in treating mild cases of coronavirus disease combined with 
+conventional western medicine therapy in treating mild cases of coro-
+navirus disease2019 (in Chinese). J Tradit Chin Med. 2020;61:1473–7.
+ [17] Liu Z, Li X, Gou C, et al. Effect of Jinhua Qinggan granuless on 
+novel coronavirus pneumonia in patients. J Tradit Chin Med. 
+2020;40:467–72.
+ [18] Huang LL, Wang JA, Xu Y, et al. Study on the mechanism of huanglian 
+jiedu decoction in treating novel coronavirus pneumonia based on net-
+work pharmacology. Chin Herb Med. 2020;43:779–85.
+ [19] Gong PY, Guo YJ, Li XM, et al. Study on the potential pharmacody-
+namic substances of Jinhua Qinggan granules for preventing and treat-
+ing novel coronavirus pneumonia based on network pharmacology and 
+molecular docking technology. Chin Herb Med. 2020;51:1685–93.
+ [20] Zhang Q, Cao F, Wang Y, et al. The efficacy and safety of Jinhua 
+Qinggan granules (JHQG) in the treatment of coronavirus disease 
+2019 (COVID-19): a protocol for systematic review and meta analysis. 
+Medicine (Baltim). 2020;99:e20531.
+ [21] Chen H, Song YP, Gao K, et al. Efficacy and safety of Jinhua Qinggan 
+granuless for coronavirus disease 2019 (COVID-19): a protocol of a sys-
+tematic review and meta-analysis. Medicine (Baltim). 2020;99:e20612.
+ [22] Page MJ, McKenzie JE, Bossuyt PM, et al. The PRISMA 2020 state-
+ment: an updated guideline for reporting systematic reviews. BMJ. 
+2021;372:n71.
+ [23] Cumpston M, Li T, Page MJ, et al. Updated guidance for trusted 
+systematic reviews: a new edition of the Cochrane Handbook for 
+Systematic Reviews of Interventions. Cochrane Database Syst Rev. 
+2019;10:ED000142.
+ [24] Shah MR, Fatima S, Khan SN, et al. Jinhua Qinggan granules for 
+non-hospitalized COVID-19 patients: a double-blind, placebo-con-
+trolled, and randomized controlled trial. Front Med (Lausanne). 
+2022;9:928468.
+ [25] Habas K, Nganwuchu C, Shahzad F, et al. Resolution of coronavirus dis-
+ease 2019 (COVID-19). Expert Rev Anti Infect Ther. 2020;18:1201–11.
+ [26] Majumder J, Minko T. Recent developments on therapeutic and diag-
+nostic approaches for COVID-19. AAPS J. 2021;23:14.
+ [27] Xu XW, Wu XX, Jiang XG, et al. Clinical findings in a group of patients 
+infected with the 2019 novel coronavirus (SARS-Cov-2) outside of 
+Wuhan, China: retrospective case series. BMJ. 2020;368:m606.
+ [28] Chen N, Zhou M, Dong X, et al. Epidemiological and clinical charac-
+teristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, 
+China: a descriptive study. Lancet. 2020;395:507–13.
+ [29] Gong XW, Cui KW, Huang XP, et al. A case series analysis of clini-
+cal characteristics of 54 COVID-19 patients in Ganzhou City, Jiangxi 
+Province. Grassroots Med Forum. 2022;26:13–17 + 41.
+ [30] Shen L, Fu T, He Z, et al. Epidemiological characteristics of COVID-19 
+caused by delta COVID-19 mutant in Xi’an in December 2021. Chin 
+J Hosp Infect. 2022;32:3366–9. Available at: http://kns.cnki.net/kcms/
+detail/11.3436.
+ [31] Zazzara MB, Penfold RS, Roberts AL, et al. Probable delirium is a pre-
+senting symptom of COVID-19 in frail, older adults: a cohort study of 
+322 hospitalised and 535 community-based older adults. Age Ageing. 
+2021;50:40–8.
+ [32] Chen Y, Klein SL, Garibaldi BT, et al. Aging in COVID-19: vulnerabil-
+ity, immunity and intervention. Ageing Res Rev. 2021;65:101205.
+ [33] O’Driscoll M, Dos Santos GR, Wang L, et al. Age-specific mortality and 
+immunity patterns of SARS-Co V-2. Nature. 2021;590:140–5.
+ [34] Ren W, Liang P, Ma Y, et al. Research progress of traditional Chinese 
+medicine against COVID-19. Biomed Pharmacother. 2021;137:111310.
+ [35] Huang LL, Xu Y, Liu YW, et al. Using network pharmacology to 
+explore the mechanism of different Chinese patent medicines in the 
+treatment of novel coronavirus pneumonia. J Air Force Mil Med Univ. 
+2022;43:215–20.
+ [36] Yang ZH, Zou XG, Feng PQ, et al. Inhibition of the PI3K/AKT sig-
+naling pathway or overexpression of beclin1 blocks reinfection of 
+streptococcus pneumoniae after 

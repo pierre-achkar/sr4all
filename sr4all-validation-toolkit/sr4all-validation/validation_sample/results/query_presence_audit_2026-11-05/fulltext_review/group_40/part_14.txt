@@ -1,0 +1,175 @@
+s, nurses and midwives with a better understanding of 
+paternal perinatal depression.
+2  | METHODS
+2.1  |  Approach to concept analysis
+Concept analysis is a strategy used for examining concepts for their se-
+mantic structure. We used the approach of Walker and Avant (2019 ), a 
+well- known method that has been widely used in the literature to ex-
+plore health- related concepts. This method consists of eight steps. In 
+this concept analysis, we (a) selected the concept, (b) determined the 
+aims of the analysis, (c) identified uses of the concept, (d) determined 
+the defining attributes of the concept, (e) constructed a model case, (f) 
+constructed borderline and contrary cases, (g) identified antecedents 
+and consequences and (h) defined empirical referents. A common crit-
+icism of conceptual analysis is that its results are often judged by one 
+author which leads to overly influenced by this researcher (Beckwith 
+et al., 2008 ). We, therefore, worked in a group consisted of five key 
+persons: (1) two specialists in the field of perinatal depression, (2) two 
+Registered Nurses who had experience of working in the departments 
+of paediatrics and obstetrics and (3) a researcher who had extensive 
+experience of conducting literature review.
+2.2  |  Search strategy
+To obtain as much relevant evidence as possible, the following da-
+tabases were searched from the date the electronic databases be-
+came available until April 2022: PubMed, PsycINFO, CINAHL, Web 
+of Science, Cochrane Library and EMBASE. The search terms were 
+(depression OR depressive disorder) AND (father* OR male OR men 
+OR dad*) AND (pregnan* OR postpartum OR perinatal OR prena -
+tal OR peripartum OR postnatal). These search terms were revised 
+according to the specificities of each database. A combination of 
+MeSH terms and free-  text searches was used. The search strategy 
+is detailed in Table S1 . The search terms were determined by a joint 
+discussion among the five team members. The process of searching 
+electronic databases was accomplished by a researcher experienced 
+in searching to ensure the correctness of the search process and re-
+sults. In the process of screening the full text, we also perform a 
+manual search based on the references.
+2.3  |  Inclusion and exclusion criteria
+Articles were included if they (a) explored or examined paternal de -
+pression during the perinatal period, (b) were peer- reviewed quanti -
+tative or qualitative studies and (c) were available in English.
+Articles were excluded if they (a) both examined anxiety and 
+other psychiatric disorders, but results of depression were not re-
+ported separately, (b) studied both fathers and mothers, but out -
+comes for fathers were not reported separately, (c) did not include 
+definition, attributes, antecedents, consequences or empirical refer-
+ents, (d) no full text.
+Two researchers (Author 1 and Author 2) were independently 
+screened by title and abstract according to inclusion and exclusion 
+criteria. Disagreements were judged by a third researcher (Author 3). 
+After that, full texts that met the criteria were screened.
+2.4  |  Quality assessment
+Considering the diverse study designs in the included studies, the 
+Joanna Briggs Institute's (JBI) critical appraisal tools were used. 
+The quantitative studies involved in this study included cohort 
+studies and cross-  sectional studies. Checklist for cohort studies 
+was used for cohort studies, and checklist for analytical cross-  
+sectional studies was used for cross- sectional studies. In addition, 
+the current concept analysis also included qualitative studies, 
+which used the checklist for qualitative studies to assess the 
+quality of the literature. All items in the checklist were ranked as 
+‘yes’, ‘no’ or ‘unclear’. Studies with weak ratings were excluded. 
+The evaluation of literature quality was performed independently 
+by two researchers (Author 1 and Author 2), and controversial 
+items were judged by a third researcher (Author 3). There were 
+15 cohort studies, of which one ranked 11, two ranked 10, three 
+ranked 9 and nine ranked 8. There were 23 cross-  sectional stud-
+ies, of which two ranked 8, twelve ranked 7, eight ranked 6 and 
+one ranked 4. There were four qualitative studies, of which one 
+ranked 8 and three ranked 7. The table of literature quality as -
+sessment is detailed in Table S2 . The literature search flow chart 
+is shown in Figure  1 .
+3  | RESULTS
+We initially searched for over 20,000 titles. After initial screening 
+and full- text reading, a total of 42 articles were included according to 
+the inclusion and exclusion criteria. Subsequently, a literature qual-
+ity assessment was performed, and a total of 41 articles were finally 
+included. Table S3  shows the characteristics of the included studies. 
+Twenty-  two were cross-  sectional studies, 15 were cohort studies 
+and four were qualitative studies. The majority of the studies were 
+carried out in the United States ( n = 7), the United Kingdom ( n = 7), 
+Canada (n = 4) and China (n = 5).
+
+[W4372335828 PDF PAGE 3]
+    |  4997
+CHEN  et al.
+3.1  |  Uses of the concept
+Initially, Merriam-  Webster's dictionary and Oxford dictionary were 
+consulted. But we did not find a complete explanation of ‘paternal 
+perinatal depression’. So, the phrase was split into ‘paternal’, ‘peri-
+natal’ and ‘depression’. The meaning of ‘paternal’ is the same in both 
+dictionaries, meaning ‘of or relating to a father or fathers’ (Merriam-  
+Webster, 2016 ; Oxford, 2004 ). The meaning of ‘perinatal’ in both 
+dictionaries is similar but slightly different. Merriam-  Webster's 
+dictionary defines it as ‘occurring in, concerned with, or being in 
+the period around the time of birth’ (Marriam-  Webster, 2016 ); the 
+Oxford dictionary defines it as ‘of or relating to the period com-
+prising the latter part of fatal life and the early post- natal period’ 
+(Oxford, 2004 ). The meaning of ‘depression’ in Merriam-  Webster's 
+dictionary is an act of depression or a state of being depressed: such 
+as a reduction in activity, amount, quality or force; a lowering of the 
+physical or mental vitality or functional activity or a pressing down 
+(Marriam- Webster, 2016 ). In the Oxford Dictionary, the meaning is 
+similar, but the expressions differ slightly. ‘Depression is frequently 
+a sign of psychiatric disorder or a component of various psychoses, 
+with symptoms of misery, anguish, or guilt accompanied by head -
+ache, insomnia, etc.’ (Oxford, 2004 ).
+Most studies have focused on paternal postnatal depression. 
+Fewer studies focused on perinatal period. In 1971, the first study to 
+measure parental perinatal depression came out, which defined the 
+paternal perinatal depression as depression that occurs during preg-
+nancy and 12- month period following delivery (Rees, 1971 ). In 2012 , 
+Habib et al. referred to paternal perinatal depression as depression 
+that occurs during the partner's pregnancy and 1 year after delivery. 
+Immediately afterwards in 2014 , Gawlik et al. defined perinatal de-
+pression in fathers as depression that occurs in the pre-  and postnatal 
+period, but is unspecified as to the exact duration of perinatal depres-
+sion. In 2018 , Carlberg et al. referred to paternal perinatal depression 
+as depression occurs during partner's pregnancy and 6 months after 
+delivery. Most studies have simply adopted the term ‘paternal perina-
+tal depression’ without clearly elaborating on this concept.
+3.2  |  Defining attributes of paternal perinatal  
+depression
+Defining attributes is a key step in concept analysis, and it is also a 
+key characteristic of a concept (Walker & Avant, 2019 ). Based on 
+our literature review and our work experience, five key defining at-
+tributes were shown in Table 1: Symptoms occur during the partner's 
+pregnancy or 1- year postpartum and last at least 2 weeks, emotional 
+symptoms, somatic symptoms, negative parenting behaviours and 
+‘masked’ symptoms.
+FIGURE 1 Flow chart of the literature 
+search.
+
+
+[W4372335828 PDF PAGE 4]
+4998  |   
+CHEN  et al.
+TABLE 1 Attributes, antecedents and consequences of paternal perinatal depression.
+Dimension Description References
+Attributes Symptoms occur 
+during the partner's 
+pregnancy or 1-  year 
+postpartum and last 
+at least 2 weeks
+American Psychiatric Association ( 2013 ), Gawlik et al. ( 2014 ), 
+Rees (1971 )
+Emotional symptoms Low mood Ballard et al. (1994 ), Recto and Lesser ( 2021 )
+Loss of interest Ballard et al. (1994 )
+Negative thoughts Recto and Lesser ( 2021 )
+Powerlessness Edhborg et al. ( 2016 ), Pedersen et al. ( 2021 )
+Overwhelmed Eddy et al. (2019 ), Pedersen et al. ( 2021 )
+Self- criticism Edhborg et al. ( 2016 ), Shaheen et al. ( 2019 )
+Withdrawal and avoidance Ballard et al. (1994 ), Pedersen et al. ( 2021 )
+Somatic symptoms Sleep issues Ballard et al. (1994 ), Kalogeropoulos et al. ( 2021 ), Shaheen 
+et al. (2019 )
+Exhaustion Ballard et al. (1994 ), Shaheen et al. ( 2019 )
+Appetite loss Ballard et al. (1994 )
+Weight loss Ballard et al. (1994 )
+Poor concentration Ballard et al. (1994 )
+Negative parenting 
+behaviours
+Inadequate Edhborg et al. ( 2016 ), Pedersen et al. ( 2021 )
+Less interaction with children Bronte- Tinkew et al. (2007 ), Sethna et al. ( 2015 )
+Resentment of infant Eddy et al. (2019 ), Pedersen et al. ( 2021 )
+‘Masked’ symptoms Substance use Ballard et al. (1994 ), Edhborg et al. ( 2016 ), Recto and 
+Lesser (2021 )
+Risk- taking behaviours Shaheen et al. ( 2019 )
+Irritability Shaheen et al. ( 2019 )
+Emotional rigidity Shaheen et al. ( 2019 )
+Antecedents Personal issues History of psychiatric disorder Akiko et al. (2015 ), Da Costa et al. ( 2017 ), Fletcher 
+et al. (2011 ), Gawlik et al. ( 2014 ), Huang and 
+Warner (2005 ), Koh et al. (2014 ), Massoudi et al. ( 2016 ), 
+Nishigori et al. ( 2020 ), Nishimura and Ohashi ( 2010 ), 
+Philpott and Corcoran ( 2018 ), Ramchandani, Stein, 
+et al. (2008 ), Suto et al. (2016 ), Underwood et al. ( 2017 )
+Marital status Chung et al. (2011 ), 

@@ -1,0 +1,117 @@
+m-based diagnostic 
+criteria.  Settings:  Inpatient  and outpatient.  Intervention:  Fecal  microbiota  transplantation.  Comparison:  Placebo  (or autologous  feces).  FMT: Fecal 
+microbiota  transplantation;  IBS: Irritable bowel syndrome; SSS: Symptom severity score; QOL: Quality of life measure; MD: mean difference;  NA: Not 
+available; RR: Risk ratio.
+Dropouts due to adverse events: Eight trials, comprising 502 participants, reported on dropouts due to 
+adverse events; there were none in the FMT groups, but two instances in the placebo groups. None (0/
+302) of the FMT groups had dropouts  due to adverse events compared  to 1% (2/200) in the placebo 
+group (RR 0.24, 95%CI: 0.03-2.17, P = 0.2, I2 = 0%; Supplementary Figure 2).
+Holster et al[61] reported that one participant from the placebo group discontinued the trial after the 
+FMT procedure  due to discomfort.  The dropout due to an adverse event in Holvoet et al[44] was the 
+suicide occurring 10 d after the transplantation procedure in the placebo group.
+QoL measurements
+Seven  trials,  comprising  406 participants,  reported  on QoL outcomes.  There  were  no significant 
+differences  between the FMT and placebo treatment  groups; however, there was a slightly favorable 
+effect seen in the placebo groups (MD -6.30, 95%CI: -13.39 to 0.79, P = 0.08, I2 = 45%; Figure 5).
+Subgroup analyses
+Planned subgroup analyses included fresh vs frozen transplant, quantity of transplant, route of adminis-
+tration,  type of donor  (single  vs mixed  donor),  frequency  of administration  and subtype  of IBS (
+Supplementary Figures 3-8, Figure 6).
+Overall,  we found  that  endoscopic  delivery  (colonoscopy  and upper  endoscopy)  of the FMT 
+improved IBS-SSS after three months (RR 1.56, 95%CI: 1.04-2.34, P = 0.03, I2 = 0% and RR 3.03, 95%CI: 
+1.92-4.80,  P ≤ 0.00001,  I2 = 13%; Figure 6). Furthermore,  administering  a single,  large  dose of FMT 
+resulted in a greater improvement of the IBS-SSS, while increasing the dose across several treatments 
+was comparable  to a placebo  (Supplementary Figures 4 and 6). None of the other subgroup  analyses 
+
+[W4378220627 PDF PAGE 10]
+Halkjær SI et al. FMT in IBS: A meta-analysis
+WJG https://www.wjgnet.com 3194 May 28, 2023 Volume 29 Issue 20
+Figure 2  Risk of bias assessments for the trials reviewed.
+Figure  3 Forest  plot  of randomised  controlled  trials  of fecal  microbiota  transplantation  for treating  irritable  bowel  syndrome: 
+Improvement of symptoms after three and six months. FMT: Fecal microbiota transplantation.
+demonstrated an effect of FMT over placebo.
+
+[W4378220627 PDF PAGE 11]
+Halkjær SI et al. FMT in IBS: A meta-analysis
+WJG https://www.wjgnet.com 3195 May 28, 2023 Volume 29 Issue 20
+Figure 4 Forest plot of randomised controlled trials of fecal microbiota transplantation  for treating irritable bowel syndrome: Adverse 
+events. FMT: Fecal microbiota transplantation.
+Figure 5  Forest plot of randomised controlled trials of fecal microbiota transplantation for treating irritable bowel syndrome: Quality-of-
+life scores after three and six months.
+DISCUSSION
+This review systematically examined the benefits and harms of FMT vs placebo or autologous FMT for 
+the treatment  of patients  with IBS. Our main objective  was to assess  the efficacy  of FMT for the 
+improvement of symptoms in patients with IBS.
+This review combined findings from eight randomised clinical trials that assessed the efficacy of FMT 
+in 465 IBS patients.  We found no significant  difference  in the improvement  of symptoms in the FMT 
+groups compared to the placebo groups (P = 0.54). The meta-analysis  suggests a favorable,  but non-
+significant, effect on quality of life in patients treated with placebo.
+In general, placebo response rates are high in IBS patients. Placebo response estimates in prior meta-
+analyses  range  from  16% to 72%[64,70]. Likewise,  bowel  cleansing  might  contribute  to symptom 
+improvement; however, its effects on the microbiota seem to be transient[71,72].
+FMT appears  to be safe,  with  mild  and self-limiting  gastrointestinal  symptoms  like  nausea, 
+constipation,  diarrhoea,  and stomach pain - all of which are common IBS symptoms. This conclusion 
+was also reached in a previous review assessing FMT for the treatment of inflammatory bowel disease
+[73]. FMT was not associated with serious adverse events in the treatment of IBS; three such events were 
+reported in total (two in the placebo group and one in the FMT group) and none were considered to be 
+related to the treatment.
+
+[W4378220627 PDF PAGE 12]
+Halkjær SI et al. FMT in IBS: A meta-analysis
+WJG https://www.wjgnet.com 3196 May 28, 2023 Volume 29 Issue 20
+Figure  6 Forest  plot  of randomised  controlled  trials  of fecal  microbiota  transplantation  for treating  irritable  bowel  syndrome: 
+Improvement of symptoms after three and six months (route of administration subgroup analysis). FMT: Fecal microbiota transplantation.
+In general, the results from the trials used for this review were highly heterogeneous. Therefore, it is 
+possible that the absence of a positive overall effect is simply the result of how different the trials were 
+from one another. The trials had pronounced differences in their selection processes for participants and 
+donors, the routes of administration,  the transplant  quantities,  and the frequency  of administration. 
+These differences make it difficult to draw conclusions about FMT as a treatment for IBS.
+There is scientific evidence to support the hypothesis that FMT may be beneficial for patients with 
+IBS. Observational trials have reported that IBS patients have reduced diversity or aberrant microbiota 
+composition  when compared  to healthy  controls [74]. Altered  gut microbiota  is also referred  to as 
+‘microbiota  dysbiosis’  and has been connected  with disturbances  in the microbiota  gut-brain  axis 
+signaling[75]. Furthermore, other modulating agents targeting the microbiota, such as specific probiotic 
+strains  and antibiotics,  have had demonstrable  effects  in IBS patients [76]. However,  the underlying 
+causes and mechanisms of dysbiosis in IBS and other diseases remain largely unknown. It has yet to be 
+determined whether dysbiosis is a cause or a consequence of IBS, and even a ‘healthy’ microbiome has 
+yet to be satisfactorily defined.
+All eight trials included in this review reported on changes in gut microbiota after FMT. Aroniadis et 
+al[59], El-Salhy et al[60], Halkjær et al[43], Lahtinen et al[58] and Singh et al[63] reported that participants 
+receiving FMT saw changes in their gut microbiota that made their profiles more like the donors, when 
+compared to placebo participants.  Johnsen et al[62] reported these data in a later publication  with the 
+same outcome[77]. Holster et al[61] reported that microbiota diversity was not significantly affected by 
+either  FMT or placebo  (autologous  FMT). Holvoet  et al[44] reported  that responders  to FMT had a 
+higher baseline microbial diversity compared to those whose FMT treatment failed.
+The possible effects, both positive and negative, of autologous  FMT as placebo should be borne in 
+mind.
+
+[W4378220627 PDF PAGE 13]
+Halkjær SI et al. FMT in IBS: A meta-analysis
+WJG https://www.wjgnet.com 3197 May 28, 2023 Volume 29 Issue 20
+In the treatment of recurrent CDI, the highest cure rates have been reported with repeated treatments 
+delivered  through lower endoscopy,  but delivery  through capsules  is also highly effective [35,78]. In 
+contrast, in IBS, FMT administered via upper or lower endoscopy, rather than capsules, has resulted in 
+significant  improvements  in IBS-SSS.  While  much research  has focused  on FMT capsules [79], it is 
+possible  that the engraftment  of the donor  microbiota  is better  accomplished  through  endoscopic 
+methods in IBS patients. Future RCTs in IBS patients that examines the combination of different routes 
+of delivery for strain engraftment could be very interesting. Such studies would also contribute towards 
+a more comprehensive understanding of microbial engraftment dynamics, which is currently lacking. A 
+recent, systematic  meta-analysis  with shotgun metagenomic  results showed that receiving FMT from 
+multiple routes (for example, both via colonoscopy and capsules during the same treatment) resulted in 
+increased engraftment[80]. Likewise, El-Salhy et al[81] present additional data from their trial and argue 
+for using super donors since the efficacy of FMT appears to be donor-dependent. This argument needs 
+further  corroboration.  Finally,  data  about  patient  and donor  diets  could  prove  relevant  when 
+determining the optimal patient-donor match[82].
+The findings of this review have limited applicability and generalisability. More trials are needed to 
+investigate whether FMT is a beneficial treatment strategy for IBS. Several aspects of the methods used 
+in these trials could have influenced the effect of FMT, such as the route of administration, duration and 
+interval between treatments, and the quantity of faecal microbiota transplanted to the patient. Despite 
+the subgroup analyses we conducted as part of this review, firm conclusions cannot be drawn due to the 
+small number of events and participants  in the trials. Nonetheless,  the results do suggest a possible 
+beneficial effect in delivering FMT by endoscopy (colonoscopy or gastroscopy) over other routes.
+Most of the patients  in the trials  we reviewed  had moderate-to-severe  IBS and were diagnosed 
+according  to the Rome III criteria.  The newest, Rome IV criteria are more rigorous and it is not clear 
+whether the greater homogeneity  of IBS study populations  they encourage  will affect the efficacy  of 
+FMT. We recommend that future trials use the Rome IV criteria.
+Additional  investigations  of microbiota,  both  when  selecting  patients  of interest  and  after 
+interventions,  are needed in order to establish the precise mechanism of
