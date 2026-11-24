@@ -1,0 +1,422 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SR4ALL | Adjudication review</title>
+<style>
+:root{color-scheme:light;--ink:#20313d;--muted:#586976;--line:#dce3e7;--paper:#fff;--bg:#f4f6f8;--accent:#09676b}
+*{box-sizing:border-box}[hidden]{display:none!important}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,sans-serif}
+button,input,select,textarea{font:inherit}button,select,input[type=number]{min-height:44px}
+button{cursor:pointer;border:1px solid var(--line);background:white;color:var(--ink);border-radius:8px;padding:9px 14px}
+button:hover{border-color:var(--accent);background:#f0f8f8}button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible,summary:focus-visible,[tabindex="-1"]:focus-visible{outline:3px solid #bd7900;outline-offset:3px}
+button.primary{background:var(--accent);border-color:var(--accent);color:white}button:disabled{opacity:.45;cursor:default}.danger{color:#982d25}
+header{background:white;border-bottom:1px solid var(--line);padding:16px 28px;display:flex;gap:16px;align-items:center;justify-content:space-between;flex-wrap:wrap}
+h1{font-size:20px;margin:0}header p{margin:2px 0 0}.actions,.toolbar,.source-heading{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+h2{font-size:18px;margin:0}h3{font-size:21px;margin:0}h4{font-size:15px;margin:0 0 8px}.muted{color:var(--muted);font-size:13px}a{color:var(--accent)}
+.workspace{max-width:1680px;margin:auto;padding:20px 28px}.toolbar{justify-content:space-between;margin-bottom:16px}.toolbar p{margin:0}
+.progress{height:5px;border-radius:5px;background:#dfe7ea;overflow:hidden;margin-top:7px;min-width:170px}.progress span{display:block;height:100%;background:var(--accent)}
+#notice{display:none;margin:12px 28px 0;padding:12px 16px;border:1px solid #99bfc0;background:#f0fbfa;border-radius:8px;white-space:pre-wrap}
+#notice.error,.form-error{border:1px solid #b04a35;background:#fff0eb;color:#842d1d}#notice.show{display:block}
+.layout{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:24px;align-items:start}main{min-width:0}
+.doc-heading{margin:0 0 14px}.doc-heading h2{font-size:15px;font-weight:500;line-height:1.45}.doc-heading p{margin:4px 0}
+.card,.source{background:var(--paper);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.card-head{padding:20px 22px 0;display:flex;gap:12px;justify-content:space-between;align-items:start;flex-wrap:wrap}.card-head h3{overflow-wrap:anywhere}
+.card-body{padding:4px 22px 22px}.section-title{font-size:13px;color:var(--muted);margin:16px 0 6px;font-weight:650}
+.prose{white-space:pre-wrap;overflow-wrap:anywhere;margin:4px 0;font-family:inherit}.value{padding:12px 14px;border-radius:7px;background:#f3f6f7;font-size:15px;max-height:240px;overflow:auto}
+.badge{display:inline-block;border-radius:5px;padding:3px 8px;font-size:12px;font-weight:650;background:#e9eef2;align-self:start}
+.badge.proposed{background:#fff0cb;color:#765100}.badge.reviewed{background:#d9efdf;color:#245a35}.badge.discussion{background:#fce2dc;color:#8b3523}
+.ratings{border-top:1px solid var(--line)}.rating{display:grid;grid-template-columns:100px minmax(0,1fr);gap:12px;padding:12px 0;border-bottom:1px solid var(--line)}
+.rating strong{display:block;text-transform:capitalize;font-size:14px}.rating p{margin:0 0 4px;font-size:14px}
+.ai{margin:18px 0;padding:14px;border:1px solid #e6d9b6;border-radius:8px;background:#fffcf4}.ai h4{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.ai.undecided{background:#f7f8fa;border-color:var(--line)}.ai p{font-size:14px}.quote{border-left:3px solid #c5ac69;padding-left:12px;margin:10px 0}
+.card>.ai{margin:0;padding:16px 22px;border:0;border-bottom:1px solid var(--line);border-radius:0}
+.quote button{font-size:13px}.review{margin-top:20px;border-top:1px solid var(--line);padding-top:18px}.review h4{font-size:18px}
+label{display:block;margin:12px 0 5px;font-weight:600;font-size:14px}select,textarea,input[type=search],input[type=number]{width:100%;border:1px solid #abbcc6;background:white;color:var(--ink);border-radius:7px;padding:9px}
+textarea{resize:vertical;min-height:72px}fieldset{border:0;padding:0;margin:12px 0}legend{font-size:14px;font-weight:600;margin-bottom:7px}
+.choices{display:flex;gap:8px;flex-wrap:wrap}.choices label{position:relative;flex:1;min-width:100px;margin:0;font-weight:500}
+.choices input{position:absolute;opacity:0;width:1px;height:1px}.choices span{display:block;text-align:center;border:1px solid #abbcc6;border-radius:7px;padding:11px 8px}
+.choices input:checked+span{background:#e8f5f3;border:2px solid var(--accent);padding:10px 7px;color:#064c50;font-weight:650}
+.choices input:focus-visible+span{outline:3px solid #bd7900;outline-offset:3px}
+.row{display:flex;gap:12px;align-items:center}.row>*{flex:1}.page-input{max-width:140px}
+.check{display:flex;align-items:start;gap:9px;font-weight:400;margin:16px 0}.check input{margin-top:5px;min-width:18px;min-height:18px}
+.review .actions{margin-top:18px}.review .actions .primary{flex:1}.form-error{padding:12px;border-radius:7px;margin:12px 0}
+.source{padding:18px;position:sticky;top:16px;scroll-margin-top:16px}.source-heading{justify-content:space-between}.source-heading a{font-size:14px}
+.source .row{margin-top:12px}.source .row>*{flex:0 1 auto}.source .row label{margin:0;display:flex;gap:8px;align-items:center}.source .row input{max-width:80px}
+.source iframe{display:block;width:100%;height:calc(100vh - 240px);min-height:380px;border:1px solid var(--line);margin-top:14px;border-radius:6px}
+details{margin-top:12px}summary{cursor:pointer;font-size:14px;font-weight:600;min-height:32px;padding:4px 0}
+.source pre{white-space:pre-wrap;overflow-wrap:anywhere;max-height:35vh;overflow:auto;background:#f4f7f8;padding:12px;font:14px/1.5 system-ui}
+#searchResults{max-height:180px;overflow:auto;font-size:13px}#searchResults button{display:block;margin:5px 0;text-align:left;width:100%}
+.empty{padding:36px;text-align:center;background:white;border:1px solid var(--line);border-radius:10px}
+dialog{width:min(720px,calc(100% - 32px));max-height:85vh;border:1px solid var(--line);border-radius:12px;padding:24px;overflow:auto}dialog::backdrop{background:#10263499}
+.dialog-heading{display:flex;justify-content:space-between;gap:12px;align-items:center}.filters{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+#documents{display:grid;gap:8px;margin-top:18px}#documents button{text-align:left;padding:12px 14px}#documents button.active{border:2px solid var(--accent);background:#effafa}#documents small{display:block;color:var(--muted)}
+.more{position:relative;margin:0}.more>summary{list-style:none;padding:9px 14px;border:1px solid var(--line);border-radius:8px;min-height:44px}
+.more-menu{position:absolute;right:0;top:48px;z-index:10;width:230px;display:grid;gap:6px;padding:8px;background:white;border:1px solid var(--line);border-radius:9px;box-shadow:0 8px 24px #172b3a1a}
+.more-menu button{text-align:left}.mobile-jump{display:none}
+@media(max-width:900px){.workspace{padding:16px}.layout{grid-template-columns:1fr}.source{position:static}.source iframe{height:65vh}.mobile-jump{display:inline-block}.source .mobile-jump{margin-top:12px}header{padding:14px 16px}#notice{margin:12px 16px 0}}
+@media(max-width:480px){.card-head{padding:16px 16px 0}.card-body{padding:4px 16px 16px}.rating{grid-template-columns:80px minmax(0,1fr)}.toolbar>.actions{width:100%;display:grid;grid-template-columns:1fr auto 1fr}.toolbar #browse{grid-column:1/-1}.toolbar .actions button{padding:9px 12px}.choices label{min-width:90px}.review .actions{align-items:stretch}.review .actions .primary{flex-basis:100%}.filters{grid-template-columns:1fr}header>.actions{width:100%;justify-content:flex-end}}
+</style>
+</head>
+<body>
+<header>
+  <div><h1>SR4ALL review</h1><p id="identity" class="muted">Loading package...</p></div>
+  <div class="actions">
+    <button id="export" class="primary">Export reviews</button>
+    <details class="more" id="more"><summary>More</summary><div class="more-menu">
+      <button id="instructions">Review rules</button>
+      <button id="import">Import reviews</button>
+      <button id="reset" class="danger">Clear saved reviews...</button>
+    </div></details>
+    <input id="importFile" type="file" accept=".jsonl,.json" hidden>
+  </div>
+</header>
+<div id="notice" role="status" aria-live="polite"></div>
+<div class="workspace" id="app" hidden>
+  <div class="toolbar">
+    <div><p id="progress" aria-live="polite"></p><div id="progressBar" class="progress"></div></div>
+    <div class="actions">
+      <button id="browse" aria-haspopup="dialog">Browse cases</button>
+      <button id="previous" aria-label="Previous case">Previous</button>
+      <span id="casePosition" class="muted" aria-live="polite"></span>
+      <button id="next" aria-label="Next case">Next</button>
+    </div>
+  </div>
+  <div class="layout">
+  <main id="casePanel"><div id="docHeading" class="doc-heading"></div><div id="cards"></div></main>
+  <section class="source" id="source" aria-label="Source PDF and page text">
+    <div class="source-heading"><h2>Source PDF</h2><a id="openPdf" target="_blank" rel="noopener">Open in new tab</a></div>
+    <div class="row"><label for="pdfPage">PDF page<input id="pdfPage" type="number" min="1" value="1"></label><button id="goPage">Go</button></div>
+    <iframe id="pdf" title="Source PDF"></iframe>
+    <a class="mobile-jump" href="#decision">Back to decision</a>
+    <details><summary>Search and extracted text</summary>
+      <label for="sourceSearch">Find in this document</label>
+      <input id="sourceSearch" type="search" placeholder="Search term or short phrase">
+      <div id="searchResults"></div>
+      <p class="muted" id="pageLabel">Extracted page text</p><pre id="pageText"></pre>
+      <p class="muted">Text can omit figures or distort layout. Check the PDF before deciding. Pages count from 1.</p>
+    </details>
+  </section>
+  </div>
+</div>
+<dialog id="queue" aria-labelledby="queueTitle">
+    <div class="dialog-heading"><h2 id="queueTitle">Browse cases</h2><button id="closeQueue">Back to case</button></div>
+    <p class="muted">Filter your queue or choose a document. Every case needs human review.</p>
+    <div class="filters"><div>
+    <label for="filter">Show cases</label>
+    <select id="filter">
+      <option value="all">All cases</option><option value="unreviewed">Unreviewed</option>
+      <option value="proposed">GPT6.1 Medium — proposed resolution</option><option value="undecided">GPT6.1 Medium — undecided</option>
+      <option value="reviewed">Human-reviewed</option><option value="discussion">Needs discussion</option>
+    </select>
+    </div><div><label for="fieldFilter">Field</label><select id="fieldFilter"><option value="">All fields</option></select></div></div>
+    <label for="find">Find a document or case</label><input id="find" type="search" placeholder="Title, ID, field or comment">
+    <nav id="documents" aria-label="Assigned documents"></nav>
+    <p class="muted" id="queueEmpty" hidden>No documents match these filters.</p>
+</dialog>
+<dialog id="rules" aria-labelledby="rulesTitle">
+  <h2 id="rulesTitle">How to review</h2>
+  <p>This package is a distinct subset assigned to you. Cases with a proposed resolution appear first, followed by undecided cases. Review every card, including ones with a GPT6.1 Medium suggestion. These are post-annotation reviews, not independent first-round annotations.</p>
+  <ol><li>Read the extraction and the original evidence. Check the supplied PDF.</li>
+  <li>Compare all three judgments. Pierre's comments use the humanized wording; his labels and evidence are unchanged.</li>
+  <li>Choose your judgment and give a short rationale and a one-based PDF page. For a missed field, also quote its supporting text.</li>
+  <li>Tick the source-check box and click <b>Save &amp; next</b> (or <b>Save decision</b> on the last case). The GPT6.1 Medium suggestion is never accepted automatically.</li>
+  <li>If you cannot decide, explain why and click <b>Needs discussion</b>. These cases go to the joint meeting. Use <b>Next</b> to continue without finalizing a draft.</li></ol>
+  <h3>Judgment rules</h3>
+  <p><b>Correct:</b> the value and its evidence are supported. <b>Partial:</b> generally correct, but a small part is missing or inaccurate. <b>Incorrect:</b> wrong or unsupported value/evidence.</p>
+  <p>For empty fields, choose <b>absent</b> (not reported in the supplied PDF) or <b>present</b> (reported but missed). If the source is wrong, incomplete, or ambiguous, flag discussion rather than assuming absence.</p>
+  <p>Judge fields independently. An objective is not automatically a research question. Do not invent exclusions by negating inclusions. Boolean operators, grouping, terms, order and database must match; ignore harmless OCR, spacing and line breaks. Reference-list or forward citation searching counts as snowballing even if it finds no extra records.</p>
+  <p>Two-versus-one and three-way label splits both need review. A majority is not a resolution. One assigned reviewer is not three-person consensus.</p>
+  <p>Autosave is only a local working copy. <b>Export regularly</b> and return your latest export. Import it to resume in another browser. No data are uploaded.</p>
+  <button id="closeRules" class="primary">Back to review</button>
+</dialog>
+<script id="package-data" type="application/json">__ADJUDICATION_DATA__</script>
+<script>
+"use strict";
+const VERSION = "sr4all-adjudication-1";
+const LABELS = {field:["correct","partial","incorrect"], null:["absent","present"]};
+const $ = id => document.getElementById(id);
+const esc = value => String(value ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const format = value => typeof value === "string" ? value : JSON.stringify(value, null, 2);
+const baseField = name => name.replace(/\[\d+\]$/, "");
+const labelText = {correct:"Correct",partial:"Partially correct",incorrect:"Incorrect",absent:"Not reported",present:"Reported but missed"};
+let data, state = {}, activeDoc = null, activeCase = null;
+function notify(message, error=false) {
+  $("notice").textContent = message;
+  $("notice").className = "show" + (error ? " error" : "");
+}
+function guard(action) {
+  return async (...args) => { try { await action(...args); } catch (error) { notify(error.message, true); } };
+}
+function key() { return "sr4all_adjudication_" + data.package_id; }
+function emptyReview(item) {
+  return {version:VERSION,package_id:data.package_id,reviewer:data.reviewer,case_id:item.case_id,
+    doc_id:item.doc_id,kind:item.kind,field:item.field,review_status:"unreviewed",judgment:null,
+    draft_judgment:"",comment:"",page:null,found_text:"",source_checked:false,ts:null};
+}
+function review(item) { return state[item.case_id] || emptyReview(item); }
+function validateReview(row, item) {
+  if (row.version !== VERSION || row.package_id !== data.package_id || row.reviewer !== data.reviewer ||
+      ["case_id","doc_id","kind","field"].some(k => row[k] !== item[k])) throw new Error("Review identity or package mismatch.");
+  if (!["unreviewed","reviewed","discussion"].includes(row.review_status)) throw new Error("Invalid review status.");
+  if (typeof row.comment !== "string" || typeof row.found_text !== "string") throw new Error("Invalid review text.");
+  if (row.draft_judgment && !LABELS[item.kind].includes(row.draft_judgment)) throw new Error("Invalid draft judgment.");
+  if (row.review_status !== "reviewed") {
+    if (row.judgment !== null) throw new Error("Unresolved cases cannot have a final judgment.");
+    if (row.review_status === "discussion" && !row.comment.trim()) throw new Error("Explain what needs discussion.");
+    return;
+  }
+  if (!LABELS[item.kind].includes(row.judgment)) throw new Error("Choose a judgment.");
+  if (row.source_checked !== true) throw new Error("Confirm that you checked the source PDF.");
+  if (!row.comment.trim()) throw new Error("Add a short rationale.");
+  if (!Number.isInteger(row.page) || row.page < 1 || row.page > data.documents[item.doc_id].pages.length)
+    throw new Error("Enter a valid PDF page, counting from 1.");
+  if (!row.ts || typeof row.ts !== "string") throw new Error("Missing review timestamp.");
+  if (item.kind === "null" && row.judgment === "present" && !row.found_text.trim())
+    throw new Error("Quote the supporting text for the missed field.");
+}
+function validateRows(rows, complete=false) {
+  const expected = new Map(data.cases.map(item => [item.case_id,item])), next = {};
+  for (const row of rows) {
+    if (!row || typeof row !== "object" || !expected.has(row.case_id)) throw new Error("Unknown review case.");
+    if (Object.hasOwn(next,row.case_id)) throw new Error("Duplicate review case.");
+    validateReview(row,expected.get(row.case_id)); next[row.case_id] = row;
+  }
+  if (complete && rows.length !== data.cases.length) throw new Error("Import must contain every case in this package; export the complete package.");
+  return next;
+}
+function persist() {
+  try { localStorage.setItem(key(),JSON.stringify(Object.values(state))); return true; }
+  catch (error) { notify("Local autosave failed: " + error.message + ". Export your reviews now.",true); return false; }
+}
+function visible(item) {
+  const row=review(item), filter=$("filter").value, field=$("fieldFilter").value, query=$("find").value.toLowerCase().trim();
+  if (field && baseField(item.field)!==field) return false;
+  if (query && !JSON.stringify([item.doc_id,data.documents[item.doc_id].title,item.field,item.ratings]).toLowerCase().includes(query)) return false;
+  if (filter==="proposed" || filter==="undecided") return item.ai.status===filter;
+  return filter==="all" || row.review_status===filter;
+}
+function updateProgress() {
+  const done=data.cases.filter(item=>review(item).review_status==="reviewed").length;
+  const discussion=data.cases.filter(item=>review(item).review_status==="discussion").length;
+  $("progress").textContent=`${done} / ${data.cases.length} reviewed \u00b7 ${discussion} for discussion`;
+  $("progressBar").innerHTML=`<span style="width:${100*done/data.cases.length}%"></span>`;
+}
+function filteredCases() {
+  return Object.keys(data.documents).flatMap(doc=>data.cases
+    .filter(item=>item.doc_id===doc && visible(item))
+    .sort((a,b)=>a.field.localeCompare(b.field,undefined,{numeric:true})))
+    .sort((a,b)=>Number(b.ai.status==="proposed")-Number(a.ai.status==="proposed"));
+}
+function renderNavigation() {
+  updateProgress();
+  const docs=Object.keys(data.documents).filter(doc=>data.cases.some(item=>item.doc_id===doc && visible(item)));
+  $("queueEmpty").hidden=docs.length>0;
+  $("documents").replaceChildren();
+  for (const doc of docs) {
+    const items=data.cases.filter(item=>item.doc_id===doc), done=items.filter(item=>review(item).review_status==="reviewed").length;
+    const button=document.createElement("button");
+    button.className=doc===activeDoc ? "active" : "";
+    button.innerHTML=`${esc(data.documents[doc].title)}<small>${esc(doc)} | ${done}/${items.length} reviewed</small>`;
+    if (doc===activeDoc) button.setAttribute("aria-current","true");
+    button.onclick=()=>{activeDoc=doc;activeCase=null;$("queue").close();render();focusCase();}; $("documents").append(button);
+  }
+}
+function focusCase() {
+  const heading=$("cards").querySelector("h3");
+  if (heading) heading.focus({preventScroll:true});
+  $("casePanel").scrollIntoView({block:"start"});
+}
+function moveCase(direction) {
+  const items=filteredCases(),index=items.findIndex(item=>item.case_id===activeCase),next=items[index+direction];
+  if (!next) return;
+  activeCase=next.case_id;render();focusCase();
+}
+function statusBadge(item) {
+  const status=review(item).review_status;
+  return `<span class="badge ${status}">${{unreviewed:"Unreviewed",reviewed:"Human-reviewed",discussion:"Needs discussion"}[status]}</span>`;
+}
+function renderCard(item,index) {
+  const row=review(item), ai=item.ai, extraction=item.extraction, card=document.createElement("article");
+  card.className="card"; card.dataset.caseId=item.case_id;
+  const ratings=Object.entries(item.ratings).map(([name,rating])=>`
+    <div class="rating"><div><strong>${esc(name==="mert_okur" ? "Mert" : name)}</strong><span class="badge">${esc(labelText[rating.judgment] || rating.judgment)}</span></div><div>
+    <p class="prose">${esc(rating.comment || "No comment.")}</p>
+    ${rating.error_type ? `<p class="muted">${esc(rating.error_type)}</p>` : ""}
+    ${rating.found_text ? `<p class="prose"><b>Found text:</b> ${esc(rating.found_text)}</p>` : ""}
+    ${rating.page ? `<p class="muted">Page reference: ${esc(rating.page)} (may be printed pagination)</p>` : ""}</div></div>`).join("");
+  const quotes=(ai.evidence || []).map((passage,i)=>`<div class="quote"><button data-passage="${i}">PDF page ${passage.page}</button><p class="prose">${esc(passage.quote)}</p></div>`).join("");
+  const hasNext=index<filteredCases().length-1;
+  const quoteRequired=item.kind==="null" && (row.draft_judgment || row.judgment)==="present";
+  card.innerHTML=`
+    <div class="ai ${ai.status}"><h4>${ai.status==="proposed" ? `GPT6.1 Medium — proposed resolution <span class="badge proposed">${esc(labelText[ai.judgment])}</span>` : "GPT6.1 Medium — undecided"}</h4>
+      ${ai.status==="proposed" ? `<p class="muted">Provisional only. Your review is required.</p><p class="prose">${esc(ai.rationale)}</p>` : ""}
+      <details><summary>${ai.status==="proposed" ? "Supporting evidence and grouping" : "Why this is undecided"}</summary>
+        ${ai.status==="undecided" ? `<p class="prose">${esc(ai.rationale)}</p>` : ""}
+        ${quotes}${(ai.categories || []).length ? `<p class="muted">Provisional grouping: ${esc(ai.categories.join(", "))}</p>` : ""}
+      </details>
+      ${ai.status==="proposed" ? '<button data-use-ai>Use suggestion in draft</button>' : ""}</div>
+    <div class="card-head"><h3 tabindex="-1">${esc(item.field.replace(/_/g," "))}</h3>${statusBadge(item)}</div>
+    <div class="card-body">
+      <p class="muted">${item.kind==="null" ? "Was this field missed?" : "Is this extraction supported?"}${item.reason==="missing_rating" ? " | Missing rating" : ""} <a class="mobile-jump" href="#source">View source PDF</a></p>
+      <div class="section-title">Extracted value</div>
+      <pre class="prose value">${extraction ? esc(format(extraction.value)) : "No value extracted (null field)."}</pre>
+      ${extraction?.evidence_span ? `<div class="section-title">Extraction evidence</div><div class="prose value">${esc(extraction.evidence_span)}</div>` : ""}
+      <div class="section-title">Annotator judgments</div><div class="ratings">${ratings}</div>
+      <div class="review" id="decision"><h4>Your decision</h4>
+        <fieldset><legend>${item.kind==="null" ? "Is this reported in the source?" : "How accurate is the extraction?"}</legend>
+          <div class="choices">${LABELS[item.kind].map(label=>`<label><input data-input="draft_judgment" type="radio" name="judgment" value="${label}" ${(row.draft_judgment || row.judgment)===label ? "checked" : ""}><span>${esc(labelText[label])}</span></label>`).join("")}</div>
+        </fieldset>
+        <label>Rationale or discussion point<textarea data-input="comment" placeholder="Briefly explain your decision or what is unclear.">${esc(row.comment)}</textarea></label>
+        <div class="page-input"><label>PDF page<input data-input="page" type="number" min="1" max="${data.documents[item.doc_id].pages.length}" value="${row.page || ""}"></label></div>
+        <details data-quotation ${quoteRequired || row.found_text ? "open" : ""}><summary data-quote-label>Supporting quotation${quoteRequired ? " (required)" : " (optional)"}</summary>
+          <label>Quote from the source<textarea data-input="found_text" aria-required="${quoteRequired}">${esc(row.found_text)}</textarea></label>
+        </details>
+        <label class="check"><input data-input="source_checked" type="checkbox" ${row.source_checked ? "checked" : ""}>I checked the supplied source PDF for this decision.</label>
+        <p class="form-error" data-error role="alert" tabindex="-1" hidden></p>
+        <div class="actions"><button class="primary" data-save>${hasNext ? "Save &amp; next" : "Save decision"}</button><button data-discuss>Needs discussion</button></div>
+        ${row.review_status!=="unreviewed" ? '<details><summary>Change review status</summary><button data-unreview>Mark unreviewed</button></details>' : ""}
+      </div>
+    </div>`;
+  const changeDraft=(name,value)=>{
+    const current={...review(item),[name]:value,review_status:"unreviewed",judgment:null,ts:null};
+    state[item.case_id]=current; persist(); updateProgress();
+    card.querySelector(".card-head .badge").outerHTML=statusBadge(item);
+    card.querySelector("[data-error]").hidden=true;
+    if (name==="draft_judgment") {
+      const required=item.kind==="null" && value==="present";
+      card.querySelector("[data-quote-label]").textContent="Supporting quotation"+(required ? " (required)" : " (optional)");
+      card.querySelector('[data-input="found_text"]').setAttribute("aria-required",String(required));
+      if (required) card.querySelector("[data-quotation]").open=true;
+    }
+  };
+  card.querySelectorAll("[data-input]").forEach(input=>{
+    input.addEventListener("input",()=>{
+      const name=input.dataset.input;
+      changeDraft(name,input.type==="checkbox" ? input.checked : name==="page" ? (input.value ? Number(input.value) : null) : input.value);
+    });
+  });
+  card.querySelectorAll("[data-passage]").forEach(button=>{
+    button.onclick=()=>openPage(ai.evidence[Number(button.dataset.passage)].page);
+  });
+  const suggestion=card.querySelector("[data-use-ai]");
+  if (suggestion) suggestion.onclick=()=>{
+    changeDraft("draft_judgment",ai.judgment);
+    card.querySelectorAll('[data-input="draft_judgment"]').forEach(input=>{input.checked=input.value===ai.judgment;});
+    notify("Suggestion copied to your draft. Check the PDF and save your own decision.");
+  };
+  const finish=status=>{
+    const current=review(item), saved={...current,review_status:status,judgment:status==="reviewed" ? current.draft_judgment : null,ts:new Date().toISOString()};
+    try { validateReview(saved,item); }
+    catch (error) {
+      const message=card.querySelector("[data-error]");message.textContent=error.message;message.hidden=false;message.focus();
+      return;
+    }
+    const items=filteredCases(),position=items.findIndex(candidate=>candidate.case_id===item.case_id);
+    const next=items[position<0 ? index : position+1];
+    state[item.case_id]=saved;const stored=persist();updateProgress();
+    if (!stored) {card.querySelector(".card-head .badge").outerHTML=statusBadge(item);return;}
+    if (status==="reviewed" && next) activeCase=next.case_id;
+    render();focusCase();
+    notify(status==="reviewed" ? "Human decision saved. Export regularly." : "Marked for the joint discussion.");
+  };
+  card.querySelector("[data-save]").onclick=guard(()=>finish("reviewed"));
+  card.querySelector("[data-discuss]").onclick=guard(()=>finish("discussion"));
+  const unreview=card.querySelector("[data-unreview]");
+  if (unreview) unreview.onclick=()=>{
+    state[item.case_id]={...review(item),review_status:"unreviewed",judgment:null,ts:null};
+    persist();render();
+  };
+  return card;
+}
+function openPage(page) {
+  if (!activeDoc) return;
+  const source=data.documents[activeDoc];
+  if (!Number.isInteger(page) || page<1 || page>source.pages.length) throw new Error("Page is outside this PDF.");
+  $("pdfPage").value=page; $("pdfPage").max=source.pages.length;
+  const url=source.pdf+"#page="+page;
+  if ($("pdf").getAttribute("src")!==url) $("pdf").src=url;
+  $("openPdf").href=url; $("pageLabel").textContent=`Extracted text: PDF page ${page}/${source.pages.length}`;
+  $("pageText").textContent=source.pages[page-1] || "No text could be extracted from this page. Check the PDF.";
+}
+function render() {
+  const previousPdf=$("pdf").getAttribute("src");
+  const items=filteredCases();
+  const item=items.find(item=>item.case_id===activeCase) || items.find(item=>item.doc_id===activeDoc) || items[0];
+  activeCase=item?.case_id || null;activeDoc=item?.doc_id || null;
+  renderNavigation(); $("cards").replaceChildren();
+  const index=items.findIndex(item=>item.case_id===activeCase);
+  $("previous").disabled=index<=0;$("next").disabled=index<0 || index===items.length-1;
+  $("casePosition").textContent=items.length ? `${index+1} of ${items.length}` : "0 cases";
+  $("source").hidden=!item;
+  if (!activeDoc) {
+    $("docHeading").innerHTML=""; $("cards").innerHTML='<p class="empty">No cases match these filters.</p>';
+    $("pdf").removeAttribute("src");$("openPdf").removeAttribute("href");$("pageText").textContent="";
+    $("searchResults").replaceChildren();return;
+  }
+  const source=data.documents[activeDoc];
+  $("docHeading").innerHTML=`<h2>${esc(source.title)}</h2><p class="muted">${esc(activeDoc)} | Pierre's comments use humanized wording.</p>`;
+  $("cards").append(renderCard(item,index));
+  if (!previousPdf || !previousPdf.startsWith(source.pdf+"#")) {
+    $("sourceSearch").value="";$("searchResults").replaceChildren();openPage(1);
+  }
+}
+$("filter").onchange=render;$("fieldFilter").onchange=render;$("find").oninput=render;
+$("previous").onclick=()=>moveCase(-1);$("next").onclick=()=>moveCase(1);
+$("browse").onclick=()=>$("queue").showModal();$("closeQueue").onclick=()=>$("queue").close();
+$("goPage").onclick=guard(()=>openPage(Number($("pdfPage").value)));
+$("sourceSearch").oninput=()=>{
+  $("searchResults").replaceChildren();if (!activeDoc) return;
+  const query=$("sourceSearch").value.trim().toLowerCase();if (!query) return;
+  let matches=0;
+  data.documents[activeDoc].pages.forEach((text,index)=>{
+    const position=text.toLowerCase().indexOf(query);if (position<0) return;matches++;
+    if (matches>30) return;
+    const button=document.createElement("button");
+    button.textContent=`Page ${index+1}: ${text.slice(Math.max(0,position-50),position+150)}`;
+    button.onclick=()=>openPage(index+1);$("searchResults").append(button);
+  });
+  if (!matches) $("searchResults").textContent="No extracted-text match. Check the PDF, including figures and tables.";
+};
+$("instructions").onclick=()=>{$("more").open=false;$("rules").showModal();};$("closeRules").onclick=()=>$("rules").close();
+$("export").onclick=guard(()=>{
+  const rows=data.cases.map(item=>review(item));validateRows(rows,true);
+  const url=URL.createObjectURL(new Blob([rows.map(row=>JSON.stringify(row)).join("\n")+"\n"],{type:"application/x-ndjson"}));
+  const link=document.createElement("a");link.href=url;link.download=`adjudication_${data.reviewer}_${new Date().toISOString().replace(/[:.]/g,"-")}.jsonl`;
+  link.click();setTimeout(()=>URL.revokeObjectURL(url),1000);notify("Reviews exported. Return your latest complete export.");
+});
+$("import").onclick=()=>{$("more").open=false;$("importFile").click();};
+$("importFile").onchange=guard(async event=>{
+  const file=event.target.files[0];if (!file) return;
+  const text=await file.text(), rows=text.split(/\r?\n/).filter(line=>line.trim()).map(line=>JSON.parse(line));
+  const next=validateRows(rows,true);
+  if (Object.keys(state).length && !confirm("Replace this browser's current reviews with this complete export?")) return;
+  state=next;const stored=persist();render();
+  if (stored) notify("Reviews imported and saved locally.");event.target.value="";
+});
+$("reset").onclick=guard(()=>{
+  if (!confirm("Clear this package's local reviews? Export a backup first. This cannot be undone.")) return;
+  localStorage.removeItem(key());state={};render();notify("Local reviews cleared. Package evidence and GPT6.1 Medium suggestions are unchanged.");
+});
+try {
+  data=JSON.parse($("package-data").textContent);
+  if (data.version!==VERSION || !Array.isArray(data.cases) || !data.cases.length) throw new Error("Invalid review package.");
+  const reviewer=data.reviewer==="mert_okur" ? "Mert" : data.reviewer[0].toUpperCase()+data.reviewer.slice(1);
+  $("identity").textContent=`${reviewer}'s package | ${Object.keys(data.documents).length} documents | Offline, local-only`;
+  [...new Set(data.cases.map(item=>baseField(item.field)))].sort().forEach(field=>{
+    const option=document.createElement("option");option.value=field;option.textContent=field;$("fieldFilter").append(option);
+  });
+  try {
+    const saved=localStorage.getItem(key());
+    if (saved) state=validateRows(JSON.parse(saved));
+  } catch (error) {
+    $("export").disabled=true;$("import").disabled=true;
+    throw new Error("Saved reviews could not be loaded: "+error.message+". Preserve your last export. Use a fresh browser profile or restore this package's local storage before continuing.");
+  }
+  $("app").hidden=false;render();
+} catch (error) {
+  notify(error.message,true);$("export").disabled=true;
+}
+</script>
+</body>
+</html>

@@ -21,7 +21,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
-DEFAULT_INPUT = "/home/fhg/pie65738/projects/sr4all/data_old/release/sr4all_full.jsonl"
+DEFAULT_INPUT = "/home/fhg/pie65738/projects/sr4all/archive/data_old/release/sr4all_full.jsonl"
 DEFAULT_JSON_OUT = "outputs/techval_step1_baseline_counts.json"
 DEFAULT_MD_OUT = "outputs/techval_step1_baseline_counts.md"
 

@@ -27,13 +27,13 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--input-jsonl",
         type=Path,
-        default=Path("data_old/release/sr4all_full.jsonl"),
+        default=Path("archive/data_old/release/sr4all_full.jsonl"),
         help="Input SR JSONL file",
     )
     parser.add_argument(
         "--md-root",
         type=Path,
-        default=Path("data_old/sr4all/md"),
+        default=Path("archive/data_old/sr4all/md"),
         help="Root directory containing markdown files",
     )
     parser.add_argument(

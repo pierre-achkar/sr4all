@@ -140,7 +140,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--extraction-dir", type=Path, default=Path("data/extraction/repaired_fact_checked"))
     parser.add_argument("--metadata-jsonl", type=Path, default=Path("data/retrieval/merged/oax_slim.jsonl"))
     parser.add_argument("--pdf-dir", type=Path, default=Path("data/retrieval/merged/pdfs"))
-    parser.add_argument("--output-dir", type=Path, default=Path("data/validation_sample"))
+    parser.add_argument("--output-dir", type=Path, default=Path("data/validation/annotation"))
     parser.add_argument("--sample-size", type=int, default=385)
     parser.add_argument("--seed", type=int, default=42)
     parser.add_argument("--length-bins", type=int, default=4)

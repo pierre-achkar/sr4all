@@ -240,8 +240,8 @@ ckpts/
 
 jdk-21.0.10/
 
-data_old/
-logs_old/
+# Historical pipeline artifacts
+/archive/
 
 rag4report/
 AGENTS.md
@@ -253,5 +253,17 @@ paper/
 # ignore all pdf
 *.pdf
 
-# Generated validation package archives
-/sr4all-validation-toolkit/sr4all-validation/validation_sample/packages/*.zip
+# Synthetic validation fixtures are part of the test suite.
+!/tests/fixtures/validation/tasks.jsonl
+!/tests/fixtures/validation/pdfs/*.pdf
+
+# Track only the validation UI source templates within the data tree.
+!/data/
+/data/*
+!/data/validation/
+/data/validation/*
+!/data/validation/templates/
+/data/validation/templates/*
+!/data/validation/templates/index.html
+!/data/validation/templates/adjudicate.html
+!/data/validation/templates/evaluation_report.html

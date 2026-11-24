@@ -17,6 +17,45 @@ The final dataset is released on Zenodo under: https://doi.org/10.5281/zenodo.18
 
 This repository reconstructs the Webis-SR4All dataset from OpenAlex metadata, PDFs, and structured extraction.
 
+## Repository Layout
+
+- `src/`: code for building, validating, and analyzing the corpus.
+- `src/validation/`: Python code for manual validation packaging, analysis, and
+  reports, with no nested directories or other file types.
+- `docs/validation/`: [validation documentation](docs/validation/README.md) and
+  annotator guidelines.
+- `tests/`: automated tests.
+- `tests/fixtures/validation/`: synthetic validation demo inputs and browser example.
+- `paper/`: LaTeX manuscript, bibliography, and figures.
+- `jobs/`: Slurm entry points for pipeline stages.
+- `data/`: current pipeline inputs, intermediate artifacts, and outputs.
+- `data/validation/annotation/`: initial annotation tasks, sampling manifest,
+  original packages, and independent exports.
+- `data/validation/adjudication/`: clarification preparation, distributed packages,
+  previous package versions, and returned clarification exports.
+- `data/validation/analysis/`: report snapshots and comment-coding inputs.
+- `data/validation/demos/`: the five-document demo and its package.
+- `data/validation/templates/`: the three version-controlled HTML UI templates;
+  other validation data and generated outputs remain ignored by Git.
+
+- `logs/`: current pipeline and job logs.
+- `archive/data_old/`: historical datasets, preserved with their original internal layout.
+- `archive/logs_old/`: historical logs, preserved with their original internal layout.
+- `archive/validation_toolkit/`: preserved legacy toolkit data; all files matched
+  their counterparts now in `data/validation/` when the toolkit was integrated.
+
+The distributed clarification set is
+`data/validation/adjudication/packages/2026-11-23_proposals_first/`.
+Earlier versions remain under `adjudication/previous_packages/`; original
+annotation exports and clarification decisions are kept separate.
+
+The archive is local and ignored by Git. Historical artifacts are moved, not
+deleted or regenerated. Scripts that explicitly use historical inputs reference
+`archive/data_old/`; current pipeline data and logs remain under `data/` and
+`logs/`. Run scripts from the repository root.
+
+## Pipeline
+
 Run the pipeline in the following order:
 1. `retrieval`
 2. `ocr` (PaddleOCR)

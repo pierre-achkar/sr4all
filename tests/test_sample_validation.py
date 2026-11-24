@@ -78,10 +78,10 @@ def test_validation_package_includes_guidelines_and_panel(tmp_path: Path):
     tasks = tmp_path / "tasks.jsonl"
     tasks.write_text(json.dumps({"doc_id": "W123", "pdf": "W123.pdf"}) + "\n", encoding="utf-8")
     out = tmp_path / "packages"
-    tool = Path("sr4all-validation-toolkit/sr4all-validation/tool/index.html")
+    tool = Path("data/validation/templates/index.html")
 
     subprocess.run([
-        "python3", "sr4all-validation-toolkit/sr4all-validation/scripts/make_packages.py",
+        "python3", "src/validation/make_packages.py",
         "--tasks", str(tasks), "--pdf-dir", str(tmp_path / "pdfs"), "--tool", str(tool),
         "--annotators", "test", "--shared", "0", "--out", str(out),
     ], check=True)
@@ -94,7 +94,7 @@ def test_validation_package_includes_guidelines_and_panel(tmp_path: Path):
 
 
 def test_validation_tool_explains_incomplete_document_status():
-    html = Path("sr4all-validation-toolkit/sr4all-validation/tool/index.html").read_text(
+    html = Path("data/validation/templates/index.html").read_text(
         encoding="utf-8"
     )
 

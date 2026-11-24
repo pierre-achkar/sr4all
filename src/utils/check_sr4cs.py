@@ -2,7 +2,7 @@ import csv
 import json
 
 # Load sr4cs sr_dois (bare DOIs, lowercased)
-with open('/home/fhg/pie65738/projects/sr4all/data_old/rw_ds/sr4cs.json') as f:
+with open('/home/fhg/pie65738/projects/sr4all/archive/data_old/rw_ds/sr4cs.json') as f:
     sr4cs = json.load(f)
 
 sr_dois = {r['sr_doi'].lower().strip() for r in sr4cs if r.get('sr_doi')}
@@ -12,7 +12,7 @@ print(f'Unique sr_dois: {len(sr_dois)}')
 # Load sr4all_full dois (strip prefix, lowercase)
 prefix = 'https://doi.org/'
 full_dois = set()
-with open('/home/fhg/pie65738/projects/sr4all/data_old/release/sr4all_full.jsonl') as f:
+with open('/home/fhg/pie65738/projects/sr4all/archive/data_old/release/sr4all_full.jsonl') as f:
     for line in f:
         rec = json.loads(line)
         doi = rec.get('doi')
@@ -30,7 +30,7 @@ not_found = sorted(sr_dois - full_dois)
 print(f'sr_dois found in sr4all_full: {len(matched)} / {len(sr_dois)}')
 print(f'sr_dois NOT found: {len(not_found)}')
 
-out_path = '/home/fhg/pie65738/projects/sr4all/data_old/rw_ds/sr4cs_not_in_sr4all.csv'
+out_path = '/home/fhg/pie65738/projects/sr4all/archive/data_old/rw_ds/sr4cs_not_in_sr4all.csv'
 with open(out_path, 'w', newline='') as f:
     writer = csv.writer(f)
     writer.writerow(['sr_doi'])

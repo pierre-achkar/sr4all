@@ -10,7 +10,7 @@ from unittest.mock import patch
 
 
 SCRIPT = Path(__file__).resolve().parents[1] / (
-    "sr4all-validation-toolkit/sr4all-validation/scripts/analyze.py"
+    "src/validation/analyze.py"
 )
 SPEC = importlib.util.spec_from_file_location("validation_analyze", SCRIPT)
 analyze = importlib.util.module_from_spec(SPEC)
@@ -332,6 +332,28 @@ class ValidationAnalysisTests(unittest.TestCase):
             with self.assertRaises(SystemExit) as error:
                 analyze.main()
         self.assertEqual(error.exception.code, 2)
+
+    def test_cli_separates_default_reports_and_preserves_custom_output_behavior(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            default_exports = root / "data/validation/annotation/exports"
+            custom_exports, custom_out = root / "other_exports", root / "other_reports"
+            cases = [
+                ([], default_exports, root / "data/validation/analysis/reports/results"),
+                (["--dir", str(custom_exports)], custom_exports, custom_exports / "results"),
+                (["--out", str(custom_out)], default_exports, custom_out),
+            ]
+            for arguments, exports, out in cases:
+                with (
+                    self.subTest(arguments=arguments),
+                    patch.object(analyze, "__file__", str(root / "src/validation/analyze.py")),
+                    patch("sys.argv", [str(SCRIPT), *arguments]),
+                    patch.object(analyze, "load_exports", return_value={"alice": {"W1": record("W1")}}) as loader,
+                    patch.object(analyze, "write_results") as writer,
+                ):
+                    analyze.main()
+                    loader.assert_called_once_with(exports)
+                    self.assertEqual(writer.call_args.args[1], out)
 
     def test_paper_refresh_does_not_publish_stale_comment_table_without_codes(self):
         with tempfile.TemporaryDirectory() as directory:
