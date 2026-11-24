@@ -178,23 +178,42 @@ fact-checking with that aligned input and `SR4ALL_FACT_CHECKED_DIR` pointing to
 `data/extraction/repaired_fact_checked`. Use absolute environment paths for a
 different checkout. Final concatenation consumes this post-repair checked tree.
 
-### Local production launchers
+### Production launchers
 
-These launchers exist in the working environment, but are currently ignored and
-**not tracked by Git**. They are not available in a fresh checkout. Their names
-are recorded exactly as they exist; this audit does not rename or add them.
+These four reviewed v2 launchers are version-controlled. Their existing names,
+resource requests, environments, and pass defaults are preserved. Other local
+job scripts remain ignored unless explicitly reviewed and added.
 
-| Local launcher | Stage and current configuration |
+| Launcher | Stage and current configuration |
 | --- | --- |
-| `jobs/extarction_v2.sh` | First-pass extraction; two disjoint workers, each using two GPUs |
-| `jobs/alignmen_v2.sh` | CPU alignment; currently hard-codes the **post-repair** input/output pair |
-| `jobs/fact_checker_v2.sh` | GPU fact-checking via `.factcheck_venv/`; defaults to the **post-repair** pair, with environment overrides |
-| `jobs/repair_v2.sh` | GPU repair; defaults to `fact_checked` to `repaired` |
+| [extarction_v2.sh](jobs/extarction_v2.sh) | First-pass extraction; two disjoint workers, each using two GPUs |
+| [alignmen_v2.sh](jobs/alignmen_v2.sh) | CPU alignment; currently hard-codes the **post-repair** input/output pair |
+| [fact_checker_v2.sh](jobs/fact_checker_v2.sh) | GPU fact-checking via `.factcheck_venv/`; defaults to the **post-repair** pair, with environment overrides |
+| [repair_v2.sh](jobs/repair_v2.sh) | GPU repair; defaults to `fact_checked` to `repaired` |
 
 Do not submit these four files blindly in filename order: the alignment and
 fact-checking launchers need first-pass paths when used before repair.
-Only `jobs/evaluate_validation.sh` is currently version-controlled in `jobs/`.
-Versioning reviewed production launchers is a remaining reproducibility task.
+The alignment script currently assigns its paths unconditionally: environment
+overrides alone do not select a first-pass alignment run.
+[evaluate_validation.sh](jobs/evaluate_validation.sh) is the separately tracked
+validation-report launcher.
+
+From the repository root, create the Slurm log directory before submission;
+creating it inside a running job is too late for Slurm's initial log setup.
+Check each selected launcher independently, for example:
+
+```bash
+mkdir -p logs/jobs/extraction
+bash -n jobs/extarction_v2.sh
+sbatch --test-only jobs/extarction_v2.sh
+```
+
+`--test-only` checks scheduler acceptance without submitting a job. It does not
+validate container dependencies, model caches, mounts, or dataset contents.
+A fresh checkout includes the launchers, **not** their images, overlays,
+fact-checking environment, cached weights, or inputs. Verify those local
+resources and run a representative compute-node probe in the same environment
+before a production submission.
 
 ## 4) Final Dataset Build
 
@@ -325,8 +344,8 @@ produce. The current retrieval branch instead consumes benchmark DOIs through
 
 ## Remaining Stabilization Work
 
-- Version reviewed production launchers so a fresh checkout includes their
-  runtime and pass-selection configuration.
+- Make launcher pass selection and local runtime paths explicit and portable;
+  review other local jobs before versioning them.
 - Reconcile the legacy splitter/query paths with an explicitly chosen current
   dataset contract.
 - Add focused synthetic regression tests for merging, year normalization, and

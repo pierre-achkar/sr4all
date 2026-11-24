@@ -224,8 +224,15 @@ data/
 images/
 
 
-# jobs dir
+# Track reviewed launchers only; keep other local jobs ignored.
 jobs/
+!/jobs/
+/jobs/*
+!/jobs/extarction_v2.sh
+!/jobs/alignmen_v2.sh
+!/jobs/fact_checker_v2.sh
+!/jobs/repair_v2.sh
+!/jobs/evaluate_validation.sh
 
 my_env/
 
