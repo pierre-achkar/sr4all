@@ -154,7 +154,6 @@ Run in order:
 
 ```bash
 python src/final_ds/concat_jsonl.py
-python src/final_ds/0_check_completeness.py
 python src/final_ds/1_intermediate_ds.py
 python src/final_ds/2_repair_final_fields.py
 python src/final_ds/3_join_final_ds.py
@@ -167,6 +166,23 @@ Key outputs:
 - `data/final/sr4all_full_normalized_year_range.jsonl`
 - `data/final/sr4all_full_normalized_year_range_search_has_boolean.jsonl`
 - `data/final/sr4all_full_normalized_year_range_search_keywords_only.jsonl`
+
+For the current final dataset, run the standalone completeness report from the
+repository root inside the Slurm/Apptainer environment:
+
+```bash
+python src/final_ds/check_completeness.py
+```
+
+It reads `data/final_ds/sr4all_final.jsonl` and appends to
+`logs/final_ds/completeness_check_all.log`. Missing input or malformed records
+produce a nonzero exit status; malformed records include their source line
+numbers. Importing the checker does not create or truncate logs.
+Field presence treats empty wrappers, whitespace, and ghost queries as absent,
+but preserves observed `false` and `0` values. Nested and flattened extraction
+records use the same coverage rules. All-null percentages use valid records;
+essentials use records with methodology beyond `year_range`. The search-strategy
+splitter reuses this presence rule. No existing dataset or report is regenerated.
 
 ## 6) Query Normalization (`src/norm_queries`)
 

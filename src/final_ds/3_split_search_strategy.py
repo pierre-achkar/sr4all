@@ -12,6 +12,11 @@ import logging
 from pathlib import Path
 from typing import Any, Dict
 
+if __package__:
+    from .check_completeness import is_filled
+else:
+    from check_completeness import is_filled
+
 # -----------------------------------------------------------------------------
 # CONFIGURATION
 # -----------------------------------------------------------------------------
@@ -38,47 +43,6 @@ logger = logging.getLogger("SplitSearchStrategy")
 # -----------------------------------------------------------------------------
 # HELPERS
 # -----------------------------------------------------------------------------
-
-
-def is_filled(field_data: Any) -> bool:
-    """
-    Checks if a field has valid content.
-    Matches semantics from check_completeness.py.
-    """
-    if field_data is None:
-        return False
-
-    # Case 1: Evidence object {"value": ...}
-    if isinstance(field_data, dict):
-        val = field_data.get("value")
-        if val is None:
-            return False
-        if isinstance(val, list):
-            if len(val) == 0:
-                return False
-            # Filter out empty/whitespace strings in lists
-            if all(isinstance(v, str) for v in val):
-                return any(v.strip() for v in val)
-        return True
-
-    # Case 2: List of objects (exact_boolean_queries)
-    if isinstance(field_data, list):
-        if not field_data:
-            return False
-        # List of dicts (exact_boolean_queries)
-        if all(isinstance(item, dict) for item in field_data):
-            # Require at least one non-empty boolean_query_string
-            for item in field_data:
-                bqs = item.get("boolean_query_string")
-                if isinstance(bqs, str) and bqs.strip():
-                    return True
-            return False
-        # List of strings (keywords)
-        if all(isinstance(item, str) for item in field_data):
-            return any(item.strip() for item in field_data)
-        return True
-
-    return False
 
 
 def write_jsonl_line(fp, record: Dict[str, Any]):

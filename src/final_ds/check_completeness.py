@@ -27,23 +27,10 @@ INPUT_FILE = Path(
     "./data/final_ds/sr4all_final.jsonl"
 )
 LOG_FILE = Path("./logs/final_ds/completeness_check_all.log")
-LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
-
-# setup logging to a file
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s | %(levelname)s | %(message)s",
-    handlers=[
-        logging.FileHandler(
-            LOG_FILE, mode="w"
-        ),
-        logging.StreamHandler(),
-    ],
-)
 logger = logging.getLogger("CompletenessChecker")
 
 
-def is_filled(field_data):
+def is_filled(field_data: object) -> bool:
     """
     Checks if a field has valid content.
     Returns True if data exists, False if it is effectively empty/null.
@@ -51,23 +38,15 @@ def is_filled(field_data):
     if field_data is None:
         return False
 
-    # Evidence object {"value": ...} (standard extraction fields).
     if isinstance(field_data, dict):
-        if "value" not in field_data:
-            return bool(field_data)
-        val = field_data.get("value")
-        if val is None:
-            return False
-        if isinstance(val, list) and len(val) == 0:
-            return False
-        return True
+        if "value" in field_data:
+            return is_filled(field_data["value"])
+        if "boolean_query_string" in field_data or "database_source" in field_data:
+            return is_filled(field_data.get("boolean_query_string"))
+        return any(is_filled(value) for value in field_data.values())
 
-    # Lists are filled when they contain at least one meaningful item.
     if isinstance(field_data, list):
-        if not field_data:
-            return False  # Empty list []
-
-        return True
+        return any(is_filled(item) for item in field_data)
 
     if isinstance(field_data, str):
         return bool(field_data.strip())
@@ -84,10 +63,10 @@ def is_placeholder_only(query: str) -> bool:
     return _PLACEHOLDER_ONLY_RE.fullmatch(query.strip()) is not None
 
 
-def main():
+def main() -> int:
     if not INPUT_FILE.exists():
         logger.error(f"Input file not found at {INPUT_FILE}")
-        return
+        return 1
 
     logger.info(f"Scanning: {INPUT_FILE.name}...")
 
@@ -140,123 +119,107 @@ def main():
         field for field in extraction_fields if field != "year_range"
     ]
 
-    with open(INPUT_FILE, "r") as f:
-        for line in f:
+    field_names.update(extraction_fields)
+    with open(INPUT_FILE, "r", encoding="utf-8") as f:
+        for line_number, line in enumerate(f, 1):
             try:
                 rec = json.loads(line)
-                total_records += 1
-                field_names.update(rec)
-                for field_name, field_value in rec.items():
-                    field_filled = is_filled(field_value)
-                    if field_name == "exact_boolean_queries" and isinstance(
-                        field_value, list
-                    ):
-                        field_filled = any(
-                            isinstance(item, dict)
-                            and item.get("boolean_query_string") is not None
-                            for item in field_value
-                        )
-                    if field_filled:
-                        field_counts[field_name] += 1
-
-                data = rec.get("extraction")
-                if not isinstance(data, dict):
-                    data = {key: rec.get(key) for key in extraction_fields}
-
-                # If extraction is null, skip
-                if not any(
-                    is_filled(data.get(key)) for key in extraction_presence_fields
-                ):
-                    total_docs_with_null_extraction += 1
-                    continue
-
-                total_docs += 1
-
-                # 1. Check Individual Fields using helper
-                obj_ok = is_filled(data.get("objective"))
-                rq_ok = is_filled(data.get("research_questions"))
-                n_init_ok = is_filled(data.get("n_studies_initial"))
-                n_final_ok = is_filled(data.get("n_studies_final"))
-                year_ok = is_filled(data.get("year_range"))
-                snow_ok = is_filled(data.get("snowballing"))
-                bool_ok = is_filled(data.get("exact_boolean_queries")) and not (
-                    isinstance(data.get("exact_boolean_queries"), list)
-                    and all(
-                        isinstance(item, dict)
-                        and item.get("boolean_query_string") is None
-                        for item in data["exact_boolean_queries"]
-                    )
-                )
-                key_ok = is_filled(data.get("keywords_used"))
-                inc_ok = is_filled(data.get("inclusion_criteria"))
-                exc_ok = is_filled(data.get("exclusion_criteria"))
-
-                # All-null / all-filled checks across all fields
-                per_field_filled = [is_filled(data.get(k)) for k in extraction_fields]
-                if not any(per_field_filled):
-                    total_docs_all_null_fields += 1
-                if all(per_field_filled):
-                    total_docs_all_fields_filled += 1
-
-                # Placeholder-only checks inside boolean queries
-                placeholder_in_doc = False
-                for q in data.get("exact_boolean_queries") or []:
-                    q_str = (q or {}).get("boolean_query_string")
-                    if is_placeholder_only(q_str):
-                        placeholder_only_queries += 1
-                        placeholder_in_doc = True
-                if placeholder_in_doc:
-                    placeholder_only_docs += 1
-
-                # Check logic groups.
-
-                # Group A: Objective
-                if obj_ok:
-                    has_objective += 1
-
-                # Group B: Search Strategy (Boolean OR Keywords)
-                search_group_ok = bool_ok or key_ok
-                if search_group_ok:
-                    has_search += 1
-
-                if bool_ok and key_ok:
-                    search_both += 1
-                elif bool_ok and not key_ok:
-                    search_bool_only += 1
-                elif key_ok and not bool_ok:
-                    search_keywords_only += 1
-                else:
-                    search_none += 1
-
-                if bool_ok:
-                    search_bool_any += 1
-                if key_ok:
-                    search_keywords_any += 1
-
-                # Group C: Criteria (Inclusion OR Exclusion)
-                criteria_group_ok = inc_ok or exc_ok
-                if criteria_group_ok:
-                    has_criteria += 1
-
-                # Essentials: Objective + Strategy + Eligibility
-                strategy_ok = search_group_ok
-                eligibility_ok = criteria_group_ok
-
-                if strategy_ok:
-                    has_strategy += 1
-                if eligibility_ok:
-                    has_eligibility += 1
-
-                if obj_ok and strategy_ok and eligibility_ok:
-                    essentials_complete += 1
-
-                # Full completeness (A + B + C).
-                if obj_ok and search_group_ok and criteria_group_ok:
-                    fully_complete += 1
-
-            except Exception as e:
+            except json.JSONDecodeError as error:
                 invalid_records += 1
-                logger.warning("Skipping invalid record: %s", e)
+                logger.warning("Skipping invalid JSON at line %d: %s", line_number, error)
+                continue
+
+            if not isinstance(rec, dict):
+                invalid_records += 1
+                logger.warning("Skipping invalid record at line %d: expected an object", line_number)
+                continue
+            data = rec.get("extraction")
+            if data is not None and not isinstance(data, dict):
+                invalid_records += 1
+                logger.warning("Skipping invalid record at line %d: extraction must be an object or null", line_number)
+                continue
+            if data is None:
+                data = {key: rec.get(key) for key in extraction_fields}
+            queries = data.get("exact_boolean_queries")
+            if queries is not None and (
+                not isinstance(queries, list)
+                or any(
+                    query is not None and (
+                        not isinstance(query, dict)
+                        or not isinstance(query.get("boolean_query_string"), (str, type(None)))
+                    )
+                    for query in queries
+                )
+            ):
+                invalid_records += 1
+                logger.warning("Skipping invalid record at line %d: expected a list of query objects or nulls", line_number)
+                continue
+
+            total_records += 1
+            record_fields = {key: value for key, value in rec.items() if key != "extraction"}
+            record_fields.update({key: data[key] for key in extraction_fields if key in data})
+            field_names.update(record_fields)
+            for field_name, field_value in record_fields.items():
+                if is_filled(field_value):
+                    field_counts[field_name] += 1
+
+            filled = {key: is_filled(data.get(key)) for key in extraction_fields}
+            if not any(filled.values()):
+                total_docs_all_null_fields += 1
+            if not any(filled[key] for key in extraction_presence_fields):
+                total_docs_with_null_extraction += 1
+                continue
+
+            total_docs += 1
+            if all(filled.values()):
+                total_docs_all_fields_filled += 1
+
+            obj_ok = filled["objective"]
+            bool_ok = filled["exact_boolean_queries"]
+            key_ok = filled["keywords_used"]
+            inc_ok = filled["inclusion_criteria"]
+            exc_ok = filled["exclusion_criteria"]
+
+            placeholder_in_doc = False
+            for query in queries or []:
+                if query is not None and is_placeholder_only(query.get("boolean_query_string")):
+                    placeholder_only_queries += 1
+                    placeholder_in_doc = True
+            if placeholder_in_doc:
+                placeholder_only_docs += 1
+
+            if obj_ok:
+                has_objective += 1
+
+            search_group_ok = bool_ok or key_ok
+            if search_group_ok:
+                has_search += 1
+            if bool_ok and key_ok:
+                search_both += 1
+            elif bool_ok:
+                search_bool_only += 1
+            elif key_ok:
+                search_keywords_only += 1
+            else:
+                search_none += 1
+            if bool_ok:
+                search_bool_any += 1
+            if key_ok:
+                search_keywords_any += 1
+
+            criteria_group_ok = inc_ok or exc_ok
+            if criteria_group_ok:
+                has_criteria += 1
+            strategy_ok = search_group_ok
+            eligibility_ok = criteria_group_ok
+            if strategy_ok:
+                has_strategy += 1
+            if eligibility_ok:
+                has_eligibility += 1
+            if obj_ok and strategy_ok and eligibility_ok:
+                essentials_complete += 1
+            if obj_ok and search_group_ok and criteria_group_ok:
+                fully_complete += 1
 
     # --- REPORT ---
     logger.info("\n" + "=" * 60)
@@ -266,7 +229,7 @@ def main():
     logger.info("=" * 60)
 
     logger.info(
-        f"Docs with ALL fields null/empty      | {total_docs_all_null_fields:<10} | {(total_docs_all_null_fields/max(total_docs,1))*100:.1f}%"
+        f"Docs with ALL fields null/empty      | {total_docs_all_null_fields:<10} | {(total_docs_all_null_fields/max(total_records,1))*100:.1f}%"
     )
     logger.info(
         f"Docs with ALL fields filled         | {total_docs_all_fields_filled:<10} | {(total_docs_all_fields_filled/max(total_docs,1))*100:.1f}%"
@@ -287,7 +250,7 @@ def main():
             logger.info(f"{field_name:<35} | {count:<10} | {pct:.1f}%")
 
     logger.info(
-        "Percentages above use all records as the denominator; essentials use documents with extraction."
+        "Field coverage and all-null percentages use valid records; all-filled and essentials use documents with extraction (excluding year-only records)."
     )
 
     logger.info("=" * 60)
@@ -307,7 +270,20 @@ def main():
     )
 
     logger.info("=" * 60)
+    if invalid_records:
+        logger.error("Completeness check failed: %d invalid record(s)", invalid_records)
+        return 1
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
+    logging.basicConfig(
+        level=logging.INFO,
+        format="%(asctime)s | %(levelname)s | %(message)s",
+        handlers=[
+            logging.FileHandler(LOG_FILE, mode="a", encoding="utf-8"),
+            logging.StreamHandler(),
+        ],
+    )
+    raise SystemExit(main())
