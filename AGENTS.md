@@ -10,6 +10,12 @@ These instructions apply to every directory, script, pipeline, and data artifact
 - Keep generation, validation, repair, retrieval, and dataset finalization as distinct stages.
 - Do not make unrelated refactors while addressing a focused task.
 
+## GitHub Planning and Issue Tracking
+- At the start of every session and before starting a new repository task, always review the [SR4ALL project board](https://github.com/users/pierre-achkar/projects/13), [open milestones](https://github.com/pierre-achkar/sr4all/milestones?state=open), and [open issues](https://github.com/pierre-achkar/sr4all/issues?q=is%3Aissue%20is%3Aopen).
+- Read relevant issue descriptions, recent comments, acceptance criteria, current board status, milestone membership, and blocked-by dependencies before planning or editing. Use live GitHub state rather than relying only on conversation history; never assume pending human reviews or approvals are complete.
+- Keep work aligned with the user's current request and the relevant milestone and issues. Check for related issues before proposing new ones, avoid duplicates, and do not start unrelated backlog work merely because it appears on the board.
+- Use authenticated GitHub tooling scoped to this repository and its board. If access fails, explicitly report which checks could not be completed; do not interpret unavailable information as an empty backlog or satisfied prerequisites.
+
 ## Repository Organization
 - `src/` contains code for building, validating, and analyzing the corpus.
 - `src/extraction_v2/` contains the methodology extraction, alignment, fact-checking, and repair workflow.
