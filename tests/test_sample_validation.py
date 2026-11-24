@@ -24,6 +24,7 @@ def test_build_task_preserves_evidence_and_null_fields(tmp_path: Path):
     task = build_task(record, {"W123": {"title": "Example", "field": "Medicine"}}, pdf)
 
     assert task["doc_id"] == "W123"
+    assert task["field"] == "Medicine"
     assert task["fields"] == [{"name": "objective", "value": "Aim", "evidence_span": "The aim."}]
     assert "year_range" in task["null_fields"]
     assert "objective" not in task["null_fields"]
@@ -51,7 +52,7 @@ def test_build_task_flattens_boolean_query_evidence(tmp_path: Path):
         "evidence_span": "(burnout OR stress)",
     }]
     assert "exact_boolean_queries" not in task["null_fields"]
-    assert task["field"] == "Medicine"
+    assert task["field"] == "Unknown"
     assert task["pdf"] == str(pdf)
 
 
