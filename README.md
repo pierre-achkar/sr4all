@@ -186,8 +186,8 @@ job scripts remain ignored unless explicitly reviewed and added.
 
 | Launcher | Stage and current configuration |
 | --- | --- |
-| [extarction_v2.sh](jobs/extarction_v2.sh) | First-pass extraction; two disjoint workers, each using two GPUs |
-| [alignmen_v2.sh](jobs/alignmen_v2.sh) | CPU alignment; currently hard-codes the **post-repair** input/output pair |
+| [extraction_v2.sh](jobs/extraction_v2.sh) | First-pass extraction; two disjoint workers, each using two GPUs |
+| [alignment_v2.sh](jobs/alignment_v2.sh) | CPU alignment; currently hard-codes the **post-repair** input/output pair |
 | [fact_checker_v2.sh](jobs/fact_checker_v2.sh) | GPU fact-checking via `.factcheck_venv/`; defaults to the **post-repair** pair, with environment overrides |
 | [repair_v2.sh](jobs/repair_v2.sh) | GPU repair; defaults to `fact_checked` to `repaired` |
 
@@ -204,8 +204,8 @@ Check each selected launcher independently, for example:
 
 ```bash
 mkdir -p logs/jobs/extraction
-bash -n jobs/extarction_v2.sh
-sbatch --test-only jobs/extarction_v2.sh
+bash -n jobs/extraction_v2.sh
+sbatch --test-only jobs/extraction_v2.sh
 ```
 
 `--test-only` checks scheduler acceptance without submitting a job. It does not

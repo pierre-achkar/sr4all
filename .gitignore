@@ -228,8 +228,8 @@ images/
 jobs/
 !/jobs/
 /jobs/*
-!/jobs/extarction_v2.sh
-!/jobs/alignmen_v2.sh
+!/jobs/extraction_v2.sh
+!/jobs/alignment_v2.sh
 !/jobs/fact_checker_v2.sh
 !/jobs/repair_v2.sh
 !/jobs/evaluate_validation.sh
