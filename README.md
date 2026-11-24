@@ -17,6 +17,23 @@ The final dataset is released on Zenodo under: https://doi.org/10.5281/zenodo.18
 
 This repository reconstructs the Webis-SR4All dataset from OpenAlex metadata, PDFs, and structured extraction.
 
+## Contents
+
+- [Repository layout](#repository-layout)
+- [Pipeline overview](#pipeline)
+- [Execution environment and tests](#before-you-run)
+- [Retrieval](#1-retrieval)
+- [OCR](#2-ocr)
+- [Extraction v2](#3-extraction-v2)
+  - [Production launchers](#production-launchers)
+- [Final dataset build](#4-final-dataset-build)
+  - [Completeness report](#completeness-report)
+- [Manual validation](docs/validation/README.md)
+- [Optional and legacy branches](#optional-and-legacy-branches)
+- [Local job script inventory](#local-job-script-inventory)
+- [Build review checklist](#build-review-checklist)
+- [Known limitations outside cleanup scope](#known-limitations-outside-cleanup-scope)
+
 ## Repository Layout
 
 - `src/`: code for building, validating, and analyzing the corpus.
@@ -180,9 +197,9 @@ different checkout. Final concatenation consumes this post-repair checked tree.
 
 ### Production launchers
 
-These four reviewed v2 launchers are version-controlled. Their existing names,
+These four reviewed v2 launchers are version-controlled. Their script contents,
 resource requests, environments, and pass defaults are preserved. Other local
-job scripts remain ignored unless explicitly reviewed and added.
+job scripts remain ignored; see the [local inventory](#local-job-script-inventory).
 
 | Launcher | Stage and current configuration |
 | --- | --- |
@@ -342,6 +359,30 @@ expects `data/final/sr4all_merged.jsonl`, which the current core build does not
 produce. The current retrieval branch instead consumes benchmark DOIs through
 `src/retrieval/3_oax_fetch_benchmark_studies.py`.
 
+## Local Job Script Inventory
+
+The four [v2 production launchers](#production-launchers) and
+[evaluate_validation.sh](jobs/evaluate_validation.sh) are the tracked entry
+points. The following scripts are **local, ignored, and absent from a fresh
+checkout**. Classification is based on their configured targets, not a claim
+that the jobs have been run or validated.
+
+| Local script(s) | Classification | Orientation |
+| --- | --- | --- |
+| `extraction.sh`, `alignment.sh`, `fact_checker.sh`, `repair.sh` | Legacy extraction | Target the retained [src/extraction/](src/extraction/) implementation, not v2. |
+| `simple_script.sh` | Optional retrieval helper | Targets the current [browser-retry script](src/retrieval/5b_retry_403_browser_capture.py); not a canonical production launcher. |
+| `oax_repair.sh` | Historical query experiment | Targets [OpenAlex query repair](src/oax/repair_oax_errors.py), with legacy dataset defaults and a hard-coded `main` Slurm partition. |
+| `boolean_transform.sh` | Stale entry point | References the former `transform_queries` directory; current mapping code lives in [src/norm_queries/](src/norm_queries/). |
+| `download_pdfs.sh` | Stale entry point | Invokes the missing `3_pdf_download.py`; the current downloader is [5_download_pdfs.py](src/retrieval/5_download_pdfs.py). |
+| `index_oax.sh`, `query_lucene.sh`, `run_query.sh` | Historical search/index experiments | Target `index_lucene.py`, `test_query.py`, and `parse_to_parquet.py`, respectively; those entry points are absent from this checkout. |
+| `llm_header.sh` | Historical extraction experiment | Targets the missing `llm_section_mapping.py`. |
+| `test_pip.sh` | Historical inference smoke tests | Targets the missing `test_inference_1.py` and `test_inference_2.py`. |
+
+Keep these files intact until an explicit retirement or migration decision.
+Their presence in `jobs/` does not make them supported reconstruction steps.
+Do not run a stale launcher or copy data into an old location merely to satisfy
+its configuration.
+
 ## Build Review Checklist
 
 - Confirm benchmark input provenance, PDF availability, and the OCR service
@@ -356,15 +397,18 @@ produce. The current retrieval branch instead consumes benchmark DOIs through
 - Reconcile record counts across stages. An output file's existence alone does
   not establish completeness, successful processing, or release equivalence.
 
-## Remaining Stabilization Work
+## Known Limitations Outside Cleanup Scope
 
-- Make launcher pass selection and local runtime paths explicit and portable;
-  review other local jobs before versioning them.
-- Reconcile the legacy splitter/query paths with an explicitly chosen current
-  dataset contract.
-- Add focused synthetic regression tests for year normalization and
-  finalization, including provenance and record preservation.
-- Harden remaining stages' import-time side effects, output/log overwrites,
-  malformed-record handling, and missing-input exit statuses. The completeness
+These are engineering limitations to keep in mind, not additional cleanup
+tasks. Cleanup is limited to organization, navigation, and related
+documentation; implementation changes require a demonstrated bug.
+
+- Alignment pass selection is hard-coded in its launcher, and local runtime
+  paths are not portable by default.
+- Legacy splitter/query paths are not wired to the current dataset contract.
+- Year normalization and finalization still need focused regression coverage
+  for provenance and record preservation.
+- Other stages retain import-time side effects, output/log overwrites, and
+  inconsistent malformed-record or missing-input handling. The completeness
   checker and merger have scoped failure/logging protections; these do not yet
   apply to every other script.
