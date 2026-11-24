@@ -228,9 +228,11 @@ python3 src/final_ds/2_normalize_year_range.py
 python3 src/final_ds/4_finalize_year_range.py
 ```
 
-Review the configured destinations before running: these stages open their
-outputs and logs in overwrite mode. The normalizer's `overwrite=False` controls
-replacement of the **year field**, not protection of an existing output file.
+Review the configured destinations before running. Concatenation, normalization,
+and finalization overwrite their outputs and logs. The merger appends logs and
+replaces complete outputs after processing succeeds, as described below.
+The normalizer's `overwrite=False` controls replacement of the **year field**,
+not protection of an existing output file.
 
 | Entry point | Default input | Default output |
 | --- | --- | --- |
@@ -247,6 +249,18 @@ Merge behavior:
   duplicate, matched, and unmatched counts in
   `logs/final_ds/merge_extraction_into_raw.log`.
 - OpenAlex records without matching extraction remain in the output.
+- Missing inputs, malformed JSON, non-object records, missing/invalid IDs, and
+  invalid extraction/query containers stop the merge with exit status 1.
+  Record errors identify the input file and physical line number. An extraction
+  cannot replace the OpenAlex `id`; null extraction remains a valid empty match.
+- Both outputs are written to temporary directories on their destination
+  filesystems, then closed before publication. Invalid input leaves existing
+  outputs untouched, and temporary files are cleaned up on handled failures.
+  The sample is published before the main dataset, so sample publication
+  failure cannot truncate the main file. Each replacement is atomic, but the
+  pair is **not** a two-file transaction.
+- Importing the merger creates no output/log directories and does not truncate
+  logs. CLI runs append to `logs/final_ds/merge_extraction_into_raw.log`.
 
 Year normalization is heuristic and uses the bibliographic `year`; a missing
 range can fall back to that year. Finalization promotes `year_range_normalized`
@@ -348,8 +362,9 @@ produce. The current retrieval branch instead consumes benchmark DOIs through
   review other local jobs before versioning them.
 - Reconcile the legacy splitter/query paths with an explicitly chosen current
   dataset contract.
-- Add focused synthetic regression tests for merging, year normalization, and
-  finalization, including duplicate IDs and record preservation.
+- Add focused synthetic regression tests for year normalization and
+  finalization, including provenance and record preservation.
 - Harden remaining stages' import-time side effects, output/log overwrites,
   malformed-record handling, and missing-input exit statuses. The completeness
-  checker's failure/logging guarantees do not yet apply to every other script.
+  checker and merger have scoped failure/logging protections; these do not yet
+  apply to every other script.
