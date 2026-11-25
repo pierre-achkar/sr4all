@@ -19,6 +19,7 @@ This repository reconstructs the Webis-SR4All dataset from OpenAlex metadata, PD
 
 ## Contents
 
+- [Research priorities and validation status](#research-priorities-and-validation-status)
 - [Repository layout](#repository-layout)
 - [Pipeline overview](#pipeline)
 - [Execution environment and tests](#before-you-run)
@@ -33,6 +34,40 @@ This repository reconstructs the Webis-SR4All dataset from OpenAlex metadata, PD
 - [Local job script inventory](#local-job-script-inventory)
 - [Build review checklist](#build-review-checklist)
 - [Known limitations outside cleanup scope](#known-limitations-outside-cleanup-scope)
+
+## Research Priorities and Validation Status
+
+The [20 November meeting](meetings/20-11-26.md) prioritizes the corpus journal
+submission: finalize human adjudication, use the resolved labels for targeted
+extraction improvements, and prepare the manuscript with the available validation
+and its limitations. Submission should not wait for a conference spin-off or a
+redesigned document representation.
+
+SIGIR scoping, structure-aware representation, DSPy, and AI-judge experiments
+remain exploratory workstreams, not additional submission prerequisites. See
+the [meeting records](meetings/) for the distinction between agreed decisions,
+proposals, and unresolved questions.
+
+Existing annotations judge pipeline-proposed values; they do not independently
+establish which fields were missed. Field completeness is not extraction
+correctness or reference-supported recall. The separate recall audit's scope and
+ownership were unresolved in the November meeting, while
+[issue #1](https://github.com/pierre-achkar/sr4all/issues/1) currently requires
+additional human reference-presence checks. Reconcile that difference before
+expanding the annotation effort; neither the meeting nor this summary waives the
+live issue's acceptance criteria.
+
+The released automatically extracted corpus is distinct from the annotated
+sample. The sample's designation as development data, a gold reference set, or
+held-out evaluation data remains unresolved in the meeting records. Document
+which examples are used for pipeline improvement versus evaluation before making
+held-out or generalization claims.
+
+Track current work and dependencies on the
+[SR4ALL project board](https://github.com/users/pierre-achkar/projects/13),
+[open milestone](https://github.com/pierre-achkar/sr4all/milestones?state=open),
+and [issues](https://github.com/pierre-achkar/sr4all/issues?q=is%3Aissue%20is%3Aopen);
+meeting notes are decision records, not a live completion tracker.
 
 ## Repository Layout
 

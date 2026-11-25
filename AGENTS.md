@@ -16,6 +16,14 @@ These instructions apply to every directory, script, pipeline, and data artifact
 - Keep work aligned with the user's current request and the relevant milestone and issues. Check for related issues before proposing new ones, avoid duplicates, and do not start unrelated backlog work merely because it appears on the board.
 - Use authenticated GitHub tooling scoped to this repository and its board. If access fails, explicitly report which checks could not be completed; do not interpret unavailable information as an empty backlog or satisfied prerequisites.
 
+## Research Priorities and Evaluation Planning
+- Read relevant [meeting records](meetings/) when interpreting research scope. Distinguish agreed decisions, exploratory proposals, and unresolved questions; do not turn a discussion into an implementation commitment.
+- Prioritize the corpus journal track: human adjudication, targeted extraction improvements using resolved labels, and submission preparation with supported validation claims and explicit limitations.
+- Keep conference scoping, structure-aware representation, DSPy, and AI-judge experiments separate from the journal's critical path. Do not add an unapproved benchmark, representation redesign, or conference experiment as a submission prerequisite.
+- If live issue requirements differ from recorded meeting commitments, surface the discrepancy and obtain scope clarification before expanding work. Do not silently override either source or treat unresolved scope as waived acceptance criteria.
+- Before using annotated examples to improve extraction, document their development/reference/evaluation role and which examples remain eligible for evaluation. Do not claim held-out performance on examples used for development.
+- Distinguish candidate-value correctness and corpus field completeness from reference-supported recall. Missing extractions or omitted assessments do not establish source-field absence; keep unsupported estimates and unresolved coverage explicit.
+
 ## Repository Organization
 - `src/` contains code for building, validating, and analyzing the corpus.
 - `src/extraction_v2/` contains the methodology extraction, alignment, fact-checking, and repair workflow.

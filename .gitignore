@@ -217,6 +217,9 @@ __marimo__/
 # data dir
 data/
 
+# meetings
+meetings/
+
 # .DS_Store
 .DS_Store
 
